@@ -1,0 +1,77 @@
+html, body, div, article, main {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: inherit;
+	vertical-align: baseline;
+}
+:root {
+	font-size: 14px;
+	font-family: sans-serif;
+}
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: #f0f0f0;
+	line-height: 1.6;
+}
+main {
+	display: flex;
+	width: 90vw;
+	max-width: 1200px;
+	margin: 3rem 0;
+	background-color: #fff;
+	box-shadow: 0 0 .5rem rgba(0, 0, 0, .1);
+	border-radius: .5rem;
+}
+article {
+	display: block;
+	width: 100%;
+	padding: 1rem 2rem 2rem;
+}
+h2 {
+	font-size: 1.3em;
+	margin: .5rem 0;
+	font-weight: bold;
+	text-align: center;
+}
+#container {
+	font-size: 1.3em;
+	text-align: center;
+}
+#container > a {
+	display: block;
+	margin: .1em 0;
+}
+table {
+	margin: 1em auto;
+	background-color: #f8f9fa;
+	color: #202122;
+	border: 1px solid #a2a9b1;
+	border-collapse: collapse;
+}
+th, td {
+	border: 1px solid #a2a9b1;
+	padding: .4em .8em;
+}
+th {
+	background-color: #eaecf0;
+	text-align: center;
+}
+.excerpt {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+@media screen and (max-width: 720px) {
+	main {
+		width: 100%;
+		margin: 0;
+		border-radius: 0;
+	}
+	article {
+		padding: 1rem;
+	}
+}

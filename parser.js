@@ -7,7 +7,8 @@ const fs = require('fs'),
 	bz2 = require('unbzip2-stream'),
 	XmlStream = require('xml-stream'),
 	Parser = require('wikilint'),
-	{refreshStdout} = require('@bhsd/common');
+	{refreshStdout} = require('@bhsd/common'),
+	/** @type {string[]} */ summary = require('./summary');
 const n = Number(process.argv[4]) || Infinity,
 	[,, site, file,, restart] = process.argv;
 
@@ -19,13 +20,13 @@ if (!fs.existsSync('results')) {
 }
 const stream = new XmlStream(fs.createReadStream(file.replace(/^~/u, os.homedir())).pipe(bz2())),
 	results = fs.createWriteStream(`results/${site}.json`, {flags: restart ? 'a' : 'w'}),
-	ignore = new Set(['no-arg', 'url-encoding', 'h1']);
+	ignore = new Set(['no-arg', 'url-encoding', 'h1', 'var-anchor']);
 let i = 0,
 	failed = 0,
 	comma = restart ? ',' : '',
 	stopping = false,
 	restarted = !restart,
-	worst;
+	/** @type {{title: string, duration: number} | undefined} */ worst;
 
 stream.preserve('text', true);
 if (!restart) {
@@ -43,10 +44,22 @@ const stop = () => {
 		console.error(chalk.red(`${failed} pages failed to parse`));
 	}
 	if (worst) {
-		console.info(chalk.yellow(`Worst page: ${worst.title} (${worst.duration.toFixed(3)} ms)`));
+		console.info(
+			chalk.yellow(`Worst page: ${worst.title} (${worst.duration.toFixed(3)} ms)`),
+		);
 	}
 	results.write('\n}');
 	results.close();
+	fs.writeFileSync(
+		'summary.json',
+		`${
+			JSON.stringify(
+				[...new Set([...summary, site])].sort((a, b) => a.localeCompare(b)),
+				null,
+				'\t',
+			)
+		}\n`,
+	);
 };
 
 console.time('parse');
