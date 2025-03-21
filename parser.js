@@ -14,6 +14,9 @@ const n = Number(process.argv[4]) || Infinity,
 Parser.config = site;
 Parser.lintCSS = false;
 
+if (!fs.existsSync('results')) {
+	fs.mkdirSync('results');
+}
 const stream = new XmlStream(fs.createReadStream(file.replace(/^~/u, os.homedir())).pipe(bz2())),
 	results = fs.createWriteStream(`results/${site}.json`, {flags: restart ? 'a' : 'w'}),
 	ignore = new Set(['no-arg', 'url-encoding', 'h1']);
