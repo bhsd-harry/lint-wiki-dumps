@@ -1,0 +1,62 @@
+{
+	"name": "lint-wiki-dumps",
+	"version": "0.0.0",
+	"description": "Lint Wikipedia dumps",
+	"keywords": [
+		"lint",
+		"wikipedia"
+	],
+	"homepage": "https://github.com/bhsd-harry/lint-wiki-dumps#readme",
+	"bugs": {
+		"url": "https://github.com/bhsd-harry/lint-wiki-dumps/issues"
+	},
+	"license": "GPL-3.0",
+	"author": "Bhsd",
+	"files": [
+		"scan.sh",
+		"parser.js"
+	],
+	"bin": {
+		"lint-wiki-dumps": "scan.sh"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bhsd-harry/lint-wiki-dumps.git"
+	},
+	"scripts": {
+		"lint": "eslint --cache ."
+	},
+	"dependencies": {
+		"@bhsd/common": "^0.8.1",
+		"chalk": "^4.1.2",
+		"unbzip2-stream": "^1.4.3",
+		"wikilint": "^2.18.2",
+		"xml-stream": "^0.4.5"
+	},
+	"devDependencies": {
+		"@stylistic/eslint-plugin": "^3.1.0",
+		"@stylistic/stylelint-plugin": "^3.1.2",
+		"@types/mocha": "^10.0.10",
+		"@types/node": "^22.13.1",
+		"@typescript-eslint/eslint-plugin": "^8.23.0",
+		"@typescript-eslint/parser": "^8.23.0",
+		"esbuild": "^0.25.0",
+		"eslint": "^8.57.1",
+		"eslint-plugin-es-x": "^8.4.1",
+		"eslint-plugin-eslint-comments": "^3.2.0",
+		"eslint-plugin-jsdoc": "^50.6.3",
+		"eslint-plugin-json-es": "^1.6.0",
+		"eslint-plugin-markdown": "4.0.1",
+		"eslint-plugin-n": "^17.15.1",
+		"eslint-plugin-promise": "^7.2.1",
+		"eslint-plugin-regexp": "^2.7.0",
+		"eslint-plugin-unicorn": "^56.0.1",
+		"http-server": "^14.1.1",
+		"mocha": "^11.1.0",
+		"stylelint": "^16.14.1",
+		"typescript": "^5.7.3"
+	},
+	"engines": {
+		"node": ">=18.17.0"
+	}
+}
