@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",30,91,"]]"],[1,"no-ignored",71,31," smaller;\""]]

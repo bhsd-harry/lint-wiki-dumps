@@ -1,0 +1,1 @@
+window.data=[[6,"illegal-attr",14,13,"nowrap"],[2,"no-duplicate",6,2,"[[Category:有地图的页面]]"]]

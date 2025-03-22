@@ -1,0 +1,1 @@
+window.data=[[3,"no-duplicate",2,2,"[[Category:含有拉丁語的條目]]"]]

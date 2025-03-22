@@ -1,0 +1,1 @@
+window.data=[[5,"illegal-attr",16,5,"Ethnic"],[1,"lonely-bracket",13,11,"]]"]]

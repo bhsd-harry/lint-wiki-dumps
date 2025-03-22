@@ -13,4 +13,4 @@ then
 	curl --output-dir "$2" -O "https://dumps.wikimedia.org/$target/latest/$file"
 	npx getParserConfig "$site" "https://$1.wikipedia.org/w/"
 fi
-node parser.js "$1" "$2/$file" "$3" "$4" && node report.js
+node parser.js "$1" "$2/$file" "$3" "$4" && node report.js "$1"

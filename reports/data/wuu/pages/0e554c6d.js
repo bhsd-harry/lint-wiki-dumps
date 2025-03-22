@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",27,3," census yr = 2011\n "]]

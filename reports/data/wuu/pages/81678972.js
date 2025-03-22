@@ -1,0 +1,1 @@
+window.data=[[3,"lonely-bracket",84,421,"]]"],[2,"no-ignored",244,4," ''ligne grise}}"]]
