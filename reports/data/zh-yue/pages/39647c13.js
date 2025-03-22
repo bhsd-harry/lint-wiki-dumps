@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,2,"[[Category:諾貝爾生理學或醫學獎得主]]"]]

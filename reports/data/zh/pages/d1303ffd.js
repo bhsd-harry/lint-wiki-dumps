@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",72,42,"RNN Chalmessin - img 45497"]]

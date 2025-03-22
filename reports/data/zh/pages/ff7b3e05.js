@@ -1,1 +1,0 @@
-window.data=[[3,"no-ignored",170,3,"{{flagIOCathlete|[[Jérôme Thomas|Thomas]]|FRA|2004年夏季}}<br>'''L''' 18–23 "],[3,"parsing-order",170,58,"<br>"]]

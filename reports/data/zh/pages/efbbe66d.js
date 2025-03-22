@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",66,26,"[["],[2,"no-duplicate",66,26,"[[Latina Cathedral"]]

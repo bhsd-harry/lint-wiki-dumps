@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",45,1," 未出賽，轉任[[味全龍]]行政人員。\n\n == 參考資料 ==\n {{reflist}}\n\n ==外部連結==\n {{台灣棒球維基館}}\n {{中華職棒球員資料|id=Z109|name=江忠垣}}\n {{DEFAULTSORT:Chiang Chung Yuan}}\n [[Category:台灣"],[1,"unclosed-table",43,2,"{|"]]

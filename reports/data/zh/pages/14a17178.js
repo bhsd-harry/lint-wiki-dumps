@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",163,3,"\"Hurricane Hal\""],[1,"unmatched-tag",24,62,"</small>"]]

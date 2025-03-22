@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,18,"|俄斯特拉發"]]

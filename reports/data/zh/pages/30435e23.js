@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",877,1," *[https://www.youtube.com/watch?v=y7-Fl8mHy0w 恭喜恭喜．歡樂年年] {{Wayback|url=https://www.youtube.com/watch?v=y7-Fl8mHy0w |date=20190701144246 }}（2008年[[無綫電"]]

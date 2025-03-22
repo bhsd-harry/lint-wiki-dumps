@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",5,51,"hailee"],[1,"no-ignored",5,60," hot!!!"]]

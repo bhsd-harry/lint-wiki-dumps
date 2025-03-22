@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",50,1,"\n ==参考文献==\n {{reflist}}\n {{Crossings navbox\n |structure= [[嘉陵江橋隧列表|橋樑與隧道]]\n |place= [[嘉陵江]]\n |bridge= 渝澳嘉陵江大橋\n |bridge signs=单向四车道公路\n |upstream= [[渝澳嘉"],[1,"unclosed-table",49,2,"{|"]]

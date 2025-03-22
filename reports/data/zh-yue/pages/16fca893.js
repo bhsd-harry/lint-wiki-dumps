@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",2,3," 顏色= #DA70D6\n "]]

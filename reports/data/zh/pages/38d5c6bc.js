@@ -1,1 +1,0 @@
-window.data=[[3,"lonely-bracket",1106,33,"]]"],[1,"lonely-http",134,108,"http://"],[14,"no-ignored",782,3," TBS系『ムー (テレビドラマ)"],[1,"tag-like",87,107,"</ref"]]

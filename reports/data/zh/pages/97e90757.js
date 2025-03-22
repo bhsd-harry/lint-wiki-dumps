@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",78,1," == 参见 ==\n {{Portal box|马来西亚|教育}}\n *[[马来西亚中学列表]]\n *[[国民型华文中学]]\n\n == 参考资料 ==\n {{reflist|2}}\n\n == 外部链接 ==\n * {{facebook|smjkjitsinskk}}\n\n {{马来西亚国民型华文中学}"],[1,"unclosed-table",59,2,"{|"]]

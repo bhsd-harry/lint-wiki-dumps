@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-http",255,389,"https://"],[2,"no-duplicate",5,38,"YURIKA_NAKAMURA_P2"]]

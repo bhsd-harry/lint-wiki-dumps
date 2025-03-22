@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",133,3,"to={{計算|{{CURRENTYEAR}}+25}}\n "],[1,"no-ignored",1066,14,"=\"2\""]]

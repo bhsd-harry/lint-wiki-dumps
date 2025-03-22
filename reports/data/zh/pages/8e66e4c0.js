@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,22,"|碧云寺#孙中山纪念堂"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",101,1," <ref>[https://ttd.judicial.gov.tw/tw/cp-4870-306601-fa94e-301.html 歷任院長] {{Wayback|url=https://ttd.judicial.gov.tw/tw/cp-4870-306601-fa94e-301.html |"],[1,"no-ignored",104,53,"width:70%;text-align: center;\""],[1,"unclosed-table",28,2,"{|"]]

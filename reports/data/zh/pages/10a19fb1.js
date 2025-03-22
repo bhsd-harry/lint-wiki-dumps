@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",37,26,"Chief and Fala's graves,jpg"]]

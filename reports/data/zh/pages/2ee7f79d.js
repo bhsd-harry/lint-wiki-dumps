@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",84,58,"width:"],[1,"no-ignored",84,64," max-width;"]]

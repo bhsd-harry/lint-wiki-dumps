@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",104,5,"46"],[1,"no-ignored",188,4,"|2019年8月13日"]]

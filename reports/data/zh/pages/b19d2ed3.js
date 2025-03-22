@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",775,48,"[["]]

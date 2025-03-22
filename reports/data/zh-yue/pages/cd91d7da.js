@@ -1,1 +1,0 @@
-window.data=[[3,"lonely-bracket",22,7,"[[["],[6,"no-duplicate",4,3," status = \n "]]

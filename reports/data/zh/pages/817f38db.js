@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",7,3,"tw_name = 五日戰爭\n "]]

@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",986,24,"span"],[4,"no-ignored",987,4," \"align=bottom\"  "]]

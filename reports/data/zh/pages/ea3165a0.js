@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",25,22,"t"],[16,"no-duplicate",37,5,"style=\"background:cornflowerblue; color:white\""],[1,"unclosed-table",25,2,"{|"]]

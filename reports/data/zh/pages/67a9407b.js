@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",43,166,"[[Encyclopaedia Aethiopica]]"]]

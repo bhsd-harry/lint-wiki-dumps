@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",70,1," * [[商业|商务]]学科<ref group=\"注\"  name=\"商务学科\"/>"]]

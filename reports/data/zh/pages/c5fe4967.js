@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",23,94,"HL"],[2,"no-duplicate",250,45,"2008芝加哥马拉松起点Columbus Drive (Chicago)"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",296,3,"{{party shading/Democratic}};\""]]

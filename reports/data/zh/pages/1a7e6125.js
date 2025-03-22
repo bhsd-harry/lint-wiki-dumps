@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",54,1," * [[儿童|幼儿]]教育学科"],[1,"unmatched-tag",60,10,"</del>"]]

@@ -1,1 +1,0 @@
-window.data=[[7,"no-ignored",383,47," 巴塔哥尼亞篇"]]

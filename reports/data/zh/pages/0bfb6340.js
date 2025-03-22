@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",138,2,"[[Category:文化圈]]"]]

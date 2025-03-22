@@ -1,1 +1,0 @@
-window.data=[[10,"lonely-bracket",317,63,"]]"],[2,"no-ignored",1087,3,"富士電視台系電視劇「{{ja-link"],[9,"unmatched-tag",928,38,"</small>"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",60,78,"background:"],[1,"no-ignored",60,89," #f9f9f9;"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",143,40,"28"],[1,"no-ignored",143,4,"| 合計 || "]]

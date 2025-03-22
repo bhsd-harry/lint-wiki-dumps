@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",1,10,"\n <!--|T = Nobel Prize ; zh-hans : 诺贝尔奖 ; zh-hant : 诺贝爾奖 ;-->\n "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",149,75,"Forest administration and forest reserve in Saint Lucia ,also showing the five forest administration ranges-Millet, Soufriere, Northern, Dennery and Q"],[1,"tag-like",95,1167,"<span"],[7,"unmatched-tag",15,73,"</small>"]]

@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",167,19,"x:fmla"],[3,"no-ignored",167,29,"SUM(C3:R3)\"\"  "]]

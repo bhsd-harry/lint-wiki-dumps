@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",36,30,"Bengbu Bus No.7 2000.10"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-gallery",107,41,"thumb"],[1,"no-ignored",110,1," {{coord|35.28312|N|80.261863|E|region:CN|display=inline}}。"]]

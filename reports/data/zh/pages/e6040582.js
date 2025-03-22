@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",9,3,"state                                  = [[福建省]][[福州市]]\n "]]

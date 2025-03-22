@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",43,2,"[[Category:1994年乒乓球|Asian Games]]"]]

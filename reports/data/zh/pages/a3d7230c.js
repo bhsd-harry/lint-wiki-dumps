@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",54,2,"[[Category:香港曾入獄的政治人物]]"]]

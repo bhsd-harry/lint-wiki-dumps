@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-http",357,34,"https://"],[6,"no-ignored",67,3,"宇宙人"]]

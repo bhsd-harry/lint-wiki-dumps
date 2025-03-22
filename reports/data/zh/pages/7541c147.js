@@ -1,1 +1,0 @@
-window.data=[[3,"no-ignored",58,31,"   text-align:center;\""]]

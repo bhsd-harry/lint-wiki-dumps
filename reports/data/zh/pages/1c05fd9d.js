@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",32,3," followed_by    = \n "],[1,"no-ignored",58,31,"; color:snow\"  "]]

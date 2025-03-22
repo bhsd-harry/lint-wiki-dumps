@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",100,1," [[File:Tin shai wai hospital west side.jpg|缩略图|天水圍醫院西面]]"]]

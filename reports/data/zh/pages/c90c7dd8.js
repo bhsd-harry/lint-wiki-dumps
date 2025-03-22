@@ -1,1 +1,0 @@
-window.data=[[5,"parsing-order",9,29,"<ref name=\"Wegg\">Wegg 1990, pp. 187–199.</ref>"]]

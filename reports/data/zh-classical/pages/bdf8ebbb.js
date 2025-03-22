@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",30,58,"borderColor"],[2,"lonely-apos",131,55,"'"],[1,"unmatched-tag",137,2,"</div>"]]

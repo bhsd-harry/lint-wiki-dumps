@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",7,47,"1980年的冷战格局图"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",112,5,"sty3le"],[2,"no-ignored",230,4,"男子100米仰泳比赛"],[1,"parsing-order",556,4,"<br />"]]

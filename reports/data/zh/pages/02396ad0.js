@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",249,23,"margin:"],[2,"no-ignored",249,30," 5px; "]]

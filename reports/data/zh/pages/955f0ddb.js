@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",24,2,"[[Category:台灣藝術組織]]"]]

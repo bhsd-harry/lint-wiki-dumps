@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",461,2,"[[Category:臺灣網路節目主持人|T邰]]"],[1,"no-ignored",215,3,"與"]]

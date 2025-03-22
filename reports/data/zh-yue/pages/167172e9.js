@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",45,727,"3y=2010"]]

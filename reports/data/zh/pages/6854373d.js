@@ -1,1 +1,0 @@
-window.data=[[29,"illegal-attr",27,166,"contenteditable"],[2,"tag-like",11,141,"<ref"]]

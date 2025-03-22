@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",180,4,"Magica"],[1,"lonely-bracket",180,18,"{{"],[1,"no-ignored",180,10," Quartet{{#tag:ref"]]

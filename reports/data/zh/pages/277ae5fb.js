@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",978,25,"style=\"text-align:center;\""]]

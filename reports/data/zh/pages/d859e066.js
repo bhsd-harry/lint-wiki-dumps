@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",8,3," birth_place = {{CHN-1912|江苏省}}[[淮扬道]][[江都縣]]\n "]]

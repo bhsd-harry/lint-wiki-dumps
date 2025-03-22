@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",232,3,"性別認同法（廢除絕育）<ref name=\"#1\">{{cite web|title=Civil status: New law facilitates transgender, intersex name and gender change|url=https://www.wort.lu/en/l"],[2,"parsing-order",232,14,"<ref name=\"#1\">{{cite web|title=Civil status: New law facilitates transgender, intersex name and gender change|url=https://www.wort.lu/en/luxembourg/c"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",573,2,"[[Category:改編自輕小說的動畫]]"],[1,"no-ignored",535,55,"<ref name=\"Netflix\">{{Watch on Netflix|81672787}}</ref>"],[1,"parsing-order",535,55,"<ref name=\"Netflix\">{{Watch on Netflix|81672787}}</ref>"]]

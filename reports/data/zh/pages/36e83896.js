@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",589,2,"[[Category:臺灣電信業公司]]"]]

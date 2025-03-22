@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",40,2,"[[Category:醴泉郡出身人物]]"]]

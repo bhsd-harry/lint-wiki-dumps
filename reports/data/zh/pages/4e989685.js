@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",587,48,"  line-height:1.2em; border-spacing:1px\""]]

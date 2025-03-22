@@ -1,1 +1,0 @@
-window.data=[[10,"parsing-order",10,32,"<ref name=FI050517>{{cite news |url= https://www.flightglobal.com/news/articles/falcon-7x-completes-its-first-flight-197922/ |title= Falcon 7X complet"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",244,30,"alt={{Lang|tok|sitelen sitelen}}词典"]]

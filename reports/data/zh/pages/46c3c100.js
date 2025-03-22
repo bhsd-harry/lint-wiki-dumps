@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",25,259,"page=312-313"]]

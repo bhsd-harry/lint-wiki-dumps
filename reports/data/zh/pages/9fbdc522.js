@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-http",227,182,"ISBN"],[2,"no-duplicate",327,5,"style=\"{{Table center}}\""]]

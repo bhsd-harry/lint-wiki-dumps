@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",549,17,"Son"],[2,"no-duplicate",41,55,"Olympic Stadium (Moscow)"],[4,"no-ignored",549,3," \"Love (Sasha "],[3,"unmatched-tag",854,144,"</td>"]]

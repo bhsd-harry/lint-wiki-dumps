@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",693,11,"Course"],[2,"no-ignored",693,3," 集數：\"Of "]]

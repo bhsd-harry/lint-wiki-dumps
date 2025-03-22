@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",336,2,"[[Category:華人星光大道|+]]"]]

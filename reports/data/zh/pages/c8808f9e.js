@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",85,1," [[Category:国际围棋比赛]]"],[1,"unclosed-table",4,2,"{|"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",695,1,"\n === 假面騎士布拉弗 ===\n 變身者：凰蓮・皮埃爾・阿方索（替身演員：渡邊淳 / 今井靖彦、CV：吉田メタル）\n :原文：{{lang|ja|仮面ライダーブラーボ}} / ''Kamen Rider Bravo''\n :初次登場話數：6\n :鎧甲原型：西方（[[羅馬]]）士兵\n :型號系列："],[1,"no-ignored",1845,14,"  align:center\""],[1,"unclosed-table",684,2,"{|"]]

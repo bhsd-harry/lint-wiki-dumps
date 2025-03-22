@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",115,31,"tyle"],[3,"no-ignored",40,4,"th:70%\"|'''介紹'''"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",59,686,"title=Fencer With Headscarf Is a Cut Above the Rest"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",9,31,"medium"],[2,"unmatched-tag",187,404,"</cite>"]]

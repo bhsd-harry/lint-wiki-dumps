@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",164,2,"[[Category:期間限定團體]]"]]

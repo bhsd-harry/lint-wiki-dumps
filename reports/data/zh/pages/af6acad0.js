@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,35,"2006江门龙光塔_-_panoramio"]]

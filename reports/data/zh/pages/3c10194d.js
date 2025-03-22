@@ -1,1 +1,0 @@
-window.data=[[7,"no-ignored",209,86,"fcfccf\"; empty-cells:show; border-collapse:collapse;\"  "]]

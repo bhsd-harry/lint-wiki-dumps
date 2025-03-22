@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",100,2,"[[Category:CYP3A4抑制剂]]"]]

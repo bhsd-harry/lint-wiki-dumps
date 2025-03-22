@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",42,29,"各种底数的对数: <span style=\"color:red\">红色</span>函数底数是<span style=\"color:red\">[[E (数学常数)]]"],[1,"unmatched-tag",42,118,"</span>"]]

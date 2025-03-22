@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",77,3,"DirecTV"],[2,"no-duplicate",277,2,"[[Category:發射場]]"]]

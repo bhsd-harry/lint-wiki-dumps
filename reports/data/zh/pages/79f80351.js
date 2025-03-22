@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",6,142,"work=張文城"]]

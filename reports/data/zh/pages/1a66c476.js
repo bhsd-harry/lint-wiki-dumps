@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",288,1,"\n [[Category:麥可·傑克森音樂專輯]]\n [[Category:1979年音樂專輯]]\n [[Category:史诗唱片音乐专辑]]"],[1,"unclosed-table",279,2,"{|"],[1,"unmatched-tag",106,241,"</small>"]]

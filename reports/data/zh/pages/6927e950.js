@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",24,7,"[["],[1,"no-ignored",24,4,"級長:[[塞德里克.迪戈里]]"]]

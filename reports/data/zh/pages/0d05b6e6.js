@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",39,2,"[[Category:拔萃男書院校友|S]]"]]

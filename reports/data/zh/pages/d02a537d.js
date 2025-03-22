@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",56,25,"[[分类:Windows游戏]]"]]

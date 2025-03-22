@@ -1,1 +1,0 @@
-window.data=[[3,"fostered-content",45,1," 選手"],[6,"no-ignored",679,58,"  |cellpadding=\"2\""],[1,"unclosed-table",381,2,"{|"]]

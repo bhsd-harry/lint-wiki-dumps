@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",753,1," }\n\n === 參考資料 ===\n <references />\n\n {{Hey! Say! JUMP}}\n\n {{DEFAULTSORT:Itadaki Hai Janpu}}\n [[Category:Hey! Say! JUMP]]\n [[Category:富士電視台綜藝節目]]\n [[Cat"],[1,"unclosed-table",20,2,"{|"]]

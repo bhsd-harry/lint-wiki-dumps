@@ -1,1 +1,0 @@
-window.data=[[3,"lonely-bracket",397,271,"}}"],[2,"no-duplicate",176,438,"work=Historia para Todos"]]

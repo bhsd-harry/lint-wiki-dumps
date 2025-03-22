@@ -1,1 +1,0 @@
-window.data=[[6,"parsing-order",18,28,"<ref>[http://www.vesti.ru/doc.html?id=182284&cid=1  \"произвел свой первый полет (Sukhoi Superjet-100).\"] {{Wayback|url=http://www.vesti.ru/doc.html?id"]]

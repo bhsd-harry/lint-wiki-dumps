@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",65,33,"style=\"float:left;clear:left;margin: 1em auto 1em auto;text-align: center; width:100%\""]]

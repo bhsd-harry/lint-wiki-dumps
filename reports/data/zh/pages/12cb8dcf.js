@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",62,2,"[[Category:CS1 uses Japanese-language script (ja)]]"]]

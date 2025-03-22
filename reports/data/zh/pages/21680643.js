@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",41,1," * 工艺[[科系|学系]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"tag-like",270,287,"</cite"],[1,"unmatched-tag",270,4,"<cite id=refOHagan2004>"]]

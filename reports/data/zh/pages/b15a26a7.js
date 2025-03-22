@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",37,1," [[file:Double_diminished_icosahedron_net.png|200px]]"]]

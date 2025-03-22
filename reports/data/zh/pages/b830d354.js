@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",83,96,"[[:en:The Sound of Young America|The Sound of Young America]]"]]

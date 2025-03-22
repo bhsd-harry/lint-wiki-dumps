@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",3,3," taxon = Lastreopsis \n "]]

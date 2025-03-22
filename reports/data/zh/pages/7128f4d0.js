@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",3703,4,"align=\"left\""]]

@@ -1,1 +1,0 @@
-window.data=[[18,"no-duplicate",800,85,"300px"],[1,"no-ignored",987,32,"</ref>"],[4,"tag-like",987,32,"</ref"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",307,52,"新細明體\",\"serif\";mso-ascii-font-family:Calibri;mso-ascii-theme-font:\n   minor-latin;mso-fareast-font-family:新細明體;mso-fareast-theme-font:minor-fareast;\n  "]]

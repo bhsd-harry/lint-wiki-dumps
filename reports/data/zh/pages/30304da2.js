@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",27,2,"[[Category:马来西亚华人|H]]"]]

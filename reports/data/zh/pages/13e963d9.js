@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",78,1," ;沈北时代广场（站位位于天宝街，C出入口向东约250米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|255|V130}}"]]

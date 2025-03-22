@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",140,87,"years='''[[2022年拉沃尔杯|2022]]'''"]]

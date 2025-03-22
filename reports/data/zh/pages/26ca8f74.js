@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",729,4,"valign=\"top\""]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",14,2,"[[Category:1965年漫畫]]"]]

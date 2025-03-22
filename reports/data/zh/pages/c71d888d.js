@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",20,32,"[[火星勘测轨道飞行器]]背景相机拍摄的泰塞朗·德博特陨击坑。File:Wikiteisserencdebortstreaks.jpg"]]

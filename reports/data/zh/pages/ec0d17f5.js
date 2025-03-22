@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",73,1," * 日语文化学科<ref name=\"日语文化学科网站\">[http://www.mukogawa-u.ac.jp/tan/nichi/intro.htm 日语文化学科网站] {{Wayback|url=http://www.mukogawa-u.ac.jp/tan/nichi/intro.htm"]]

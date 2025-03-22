@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",29,2,"[[Category:西班牙足球俱樂部]]"]]

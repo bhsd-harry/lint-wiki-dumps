@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",36,1," [[File:Rhone Glacier 1950|thumbnail|1950]]<ref>Lamb, H.H.; Climate, History, and the Modern World; 1982</ref>"]]

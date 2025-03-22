@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-http",299,62,"http://"],[2,"no-duplicate",164,25,"align=\"right\""]]

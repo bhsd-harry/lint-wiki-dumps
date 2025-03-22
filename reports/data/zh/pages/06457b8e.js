@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",11,3," next_mps  = 马来西亚第12届国会议员列表\n "]]

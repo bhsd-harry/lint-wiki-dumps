@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",8,473,"website=Ninth ATPD (Assembly of Tibetan People’s Deputies)"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",281,1," *詹天文  - -{祢}-是唯一（曲、詞）"],[5,"no-ignored",201,14,"  <small>;text-align:center"],[5,"parsing-order",201,16,"<small>"]]

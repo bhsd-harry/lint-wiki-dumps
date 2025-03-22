@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",42,1," * [[管理信息系统|经营信息]]学科"]]

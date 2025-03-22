@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",605,13,"{{"],[2,"no-ignored",605,13,"{{lang"],[1,"pipe-like",3596,114,"的方向。||"]]

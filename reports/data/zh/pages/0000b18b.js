@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",758,1197,"{{"],[1,"tag-like",877,2753,"</ref"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",156,392,"]]"],[1,"no-ignored",156,387,"1943年]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",96,44,"  text-align:left; vertical-align:top;\""],[1,"unclosed-table",435,2,"{|"],[1,"unmatched-tag",466,261,"</center>"]]

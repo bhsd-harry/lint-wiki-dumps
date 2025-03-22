@@ -1,1 +1,0 @@
-window.data=[[4,"fostered-content",81,1," ;南京街长白北路（站位位于南京南街东侧，北向单向站位，D出入口旁）\n {{沈阳公交线路列表|width=100%|format=|end=yes|154|287|324|K802}}"]]

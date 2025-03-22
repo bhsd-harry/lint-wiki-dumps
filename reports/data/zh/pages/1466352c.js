@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",40,43,"Sun Yat-sen University no.5 Hospital.jpg"]]

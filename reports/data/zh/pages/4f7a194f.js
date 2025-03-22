@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",196,1," *中國語文\n *英國語文\n *數學\n *物理\n *化學\n *生物\n *綜合科學\n *宗教-天主教\n *電腦\n *普通話\n *中國歷史\n *世界歷史\n *生活與社會\n *地理\n *音樂\n *視覺藝術\n *體育"],[2,"lonely-bracket",90,4,"{{"],[3,"no-ignored",90,3," {{nowrap"]]

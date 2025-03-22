@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",52,56,"機場"]]

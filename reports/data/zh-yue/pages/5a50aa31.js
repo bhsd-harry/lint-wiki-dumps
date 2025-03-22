@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",10,3,"羅馬拼音 =\n "]]

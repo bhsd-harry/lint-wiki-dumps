@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",56,1," * 商经科\n ** 第一部\n ** [[夜校|第二部]]"]]

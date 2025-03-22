@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",65,4,"{"],[1,"no-ignored",65,4,"{zh-cn:塞布艾·乌埃伊;zh-tw:塞布艾·萬伊}-<br>(Tebuai Uaai)"],[1,"parsing-order",65,33,"<br>"]]

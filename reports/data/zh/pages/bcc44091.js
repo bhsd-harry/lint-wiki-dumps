@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",983,2,"[[Category:改編自漫畫的動畫]]"]]

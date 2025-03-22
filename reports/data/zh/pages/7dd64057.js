@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",320,1," 入圍最佳男主角：王羽"],[4,"illegal-attr",306,24,"rowspan"],[4,"no-ignored",306,103," #f6e39c;"]]

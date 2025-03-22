@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",90,35,"顧家偉和林芸芸的女兒"]]

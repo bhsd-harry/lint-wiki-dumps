@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",734,5,"href"],[1,"lonely-http",431,1842,"https://"],[2,"no-ignored",1487,41,"  background:#000; color:white\"  "],[1,"tag-like",1113,35,"<  I"]]

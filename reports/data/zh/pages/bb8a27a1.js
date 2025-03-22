@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",337,2,"[[Category:自殺題材作品]]"]]

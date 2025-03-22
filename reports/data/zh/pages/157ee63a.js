@@ -1,1 +1,0 @@
-window.data=[[2,"unmatched-tag",26,39,"<sup>"]]

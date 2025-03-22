@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",86,20,"Immortals"],[2,"no-ignored",86,29," (2011 film)"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",22,3," image_caption = 名古屋银行总部大楼\n "]]

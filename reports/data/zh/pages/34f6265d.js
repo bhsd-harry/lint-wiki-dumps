@@ -1,1 +1,0 @@
-window.data=[[714,"lonely-apos",1153,3,"'"],[1,"lonely-bracket",797,14,"]]"],[2,"no-duplicate",3605,5,"style=\"background: #bfb\""],[2,"no-ignored",8758,4,"<cite id=\"ZINC OXIDE\"></cite>"],[4,"parsing-order",8758,4,"<cite id=\"ZINC OXIDE\">"]]

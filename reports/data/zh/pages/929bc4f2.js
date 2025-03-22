@@ -1,1 +1,0 @@
-window.data=[[7,"fostered-content",45,1," |1999年||KBS|| 傻瓜俱樂部2  ||"]]

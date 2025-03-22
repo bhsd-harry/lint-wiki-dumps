@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",451,27,"BEER"],[1,"no-ignored",451,20,"「ASAHI "]]

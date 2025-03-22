@@ -1,1 +1,0 @@
-window.data=[[2,"invalid-isbn",115,1276,"ISBN 975-2673-07-6"],[1,"unmatched-tag",87,26,"</sup>"]]

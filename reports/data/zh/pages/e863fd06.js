@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",4,2,"[[Category:葡萄酒]]"]]

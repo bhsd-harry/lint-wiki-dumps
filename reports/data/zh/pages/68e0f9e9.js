@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",73,10,"105g"],[1,"no-ignored",73,4,"重量 || "]]

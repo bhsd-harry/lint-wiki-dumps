@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",79,39,"iMac G3(邦迪蓝)"]]

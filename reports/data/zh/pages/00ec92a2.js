@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,22,"|天主教塔拉戈納總教區"]]

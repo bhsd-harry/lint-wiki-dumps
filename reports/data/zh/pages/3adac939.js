@@ -1,1 +1,0 @@
-window.data=[[4,"no-ignored",1280,3,"style\"vertical-align:middle\""]]

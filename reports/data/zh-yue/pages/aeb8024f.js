@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,3," width = 250px\n "],[1,"unmatched-tag",54,2,"</span>"]]

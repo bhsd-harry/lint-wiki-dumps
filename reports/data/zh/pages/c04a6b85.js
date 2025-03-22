@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",37,3,"hangul = 남윤수\n "]]

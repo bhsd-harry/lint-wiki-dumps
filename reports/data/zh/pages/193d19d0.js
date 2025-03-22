@@ -1,1 +1,0 @@
-window.data=[[41,"illegal-attr",894,4,"stylealign:"],[7,"lonely-bracket",971,18,"[["],[11,"no-duplicate",1021,48,"are"],[10,"no-ignored",894,15," center; "],[1,"tag-like",971,202,"</ref"]]

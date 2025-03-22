@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",65,2,"[[Category:亞洲運動會舉重獎牌得主]]"]]

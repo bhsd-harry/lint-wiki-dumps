@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",206,32,"align=left"],[1,"no-ignored",222,3," 崔文慶"]]

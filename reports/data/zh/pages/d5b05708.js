@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",16,3," major_shareholder = \n "],[1,"unescaped",78,54,"="]]

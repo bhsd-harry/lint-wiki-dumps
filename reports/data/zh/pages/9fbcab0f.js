@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",50,3," Черепков, Константин Александрович"],[1,"parsing-order",77,5,"<center>"]]

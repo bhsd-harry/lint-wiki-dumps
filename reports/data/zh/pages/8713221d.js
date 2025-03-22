@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",79,9,"喜浦節子<BR>"],[1,"parsing-order",79,13,"<BR>"]]

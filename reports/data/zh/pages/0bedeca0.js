@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",61,2,"[[Category:历史学书籍]]"]]

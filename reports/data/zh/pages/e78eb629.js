@@ -1,1 +1,0 @@
-window.data=[[29,"no-duplicate",481,9," = {{KOR}} [[KBS第2频道|KBS2]]\n "]]

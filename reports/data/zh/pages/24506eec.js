@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",159,1,"\n == 参考文献 ==\n {{reflist}}\n\n {{start box}}\n {{s-hou|定親王世系|9月18日|1747年|7月18日|1822年|清高宗世系}}\n {{s-roy}}\n {{s-before|長兄貝子[[綿德]]}}\n {{s-title|[[定親王]]|任職期間:1"],[1,"unclosed-table",153,2,"{|"]]

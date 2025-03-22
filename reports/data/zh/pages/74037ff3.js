@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",7,2,"[[Category:西班牙語姓氏|Obregón]]"]]

@@ -1,1 +1,0 @@
-window.data=[[5,"illegal-attr",215,10,"4girls"],[3,"no-ignored",215,3,"『2days "]]

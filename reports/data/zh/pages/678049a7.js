@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",137,4,"深田　　|| 高山右近"]]

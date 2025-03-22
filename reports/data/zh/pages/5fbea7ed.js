@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",46,2,"[[Category:唐朝检校司空]]"]]

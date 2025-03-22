@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",651,28,"'"],[1,"tag-like",105,186,"<nowiki"]]

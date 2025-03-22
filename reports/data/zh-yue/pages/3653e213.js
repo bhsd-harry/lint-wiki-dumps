@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",380,32,"display=title"]]

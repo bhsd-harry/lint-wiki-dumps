@@ -1,1 +1,0 @@
-window.data=[[4,"fostered-content",28,1," [[File:England vs South Africa.jpg|thumb|300px|图为[[板球对抗赛]]（Test cricket）。图右身着黑色长裤的人为[[裁判 (板球)|裁判]]。板球对抗赛、[[板球顶级赛|顶级赛]]中球员身着传统白色球衣并使用红色[[板球用球|球]]，而[[单"]]

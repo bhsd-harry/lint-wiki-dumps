@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",128,2,"[[Category:康熙三十八年己卯科順天鄉試舉人]]"]]

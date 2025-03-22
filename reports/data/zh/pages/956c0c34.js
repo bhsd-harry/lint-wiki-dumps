@@ -1,1 +1,0 @@
-window.data=[[16,"no-duplicate",84,2,"[[Category:查查克運動員]]"]]

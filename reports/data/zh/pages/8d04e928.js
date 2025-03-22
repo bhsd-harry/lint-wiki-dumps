@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",1276,1," ==== 大韓民國文化演藝大賞 ===="],[5,"no-ignored",959,4,"font-weight:bold\" "],[2,"unclosed-table",1076,2,"{|"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",226,1," <ref>{{單雙書名號轉換|BADVILLAIN}}\n 音樂節目榜單排名：\n *《M Countdown》{{Cite web |url=https://poc.mnetplus.world/mcountdown/en/chart |website=Mnetplus |accessdate=20"],[4,"no-duplicate",120,5,"style=\"background:#FF79BC\""]]

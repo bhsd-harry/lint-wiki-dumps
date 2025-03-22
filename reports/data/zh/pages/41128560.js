@@ -1,1 +1,0 @@
-window.data=[[9,"no-duplicate",17,38,"vignette"]]

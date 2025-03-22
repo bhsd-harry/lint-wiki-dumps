@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",454,6,"ROMANTIQUE"],[1,"lonely-bracket",166,172,"}}"],[2,"no-ignored",166,74," <ref group=\"@\">以Hiromi Go/Seiko Matsuda名義發行</ref>   <br>  (lang"],[2,"parsing-order",166,75,"<ref group=\"@\">以Hiromi Go/Seiko Matsuda名義發行</ref>"]]

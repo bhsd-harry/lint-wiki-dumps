@@ -1,1 +1,0 @@
-window.data=[[10,"illegal-attr",642,26,"font"]]

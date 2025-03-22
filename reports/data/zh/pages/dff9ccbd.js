@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",218,3,"380"],[1,"no-ignored",142,3,"{{flagIOCathlete|[[Vitaliy Makarov|Makarov]]|RUS|2004年夏季}}<br>'''L''' 0000–0120 "],[1,"parsing-order",142,61,"<br>"]]

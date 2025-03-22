@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",92,3," extra10         = Tearce Kizzo\n "]]

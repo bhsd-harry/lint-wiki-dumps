@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",220,8," 在《国家地理 (杂志)"]]

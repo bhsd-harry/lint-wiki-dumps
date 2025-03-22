@@ -1,1 +1,0 @@
-window.data=[[12,"illegal-attr",138,4,"Voting"],[1,"lonely-bracket",1266,349,"}"],[2,"no-duplicate",138,52,"of"]]

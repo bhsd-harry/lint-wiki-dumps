@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",150,2,"[[Category:斯坦福医学院校友]]"]]

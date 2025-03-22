@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",28,36," [[高分辨率成像科学设备]]所看到的朱芬塔谷内的槽沟。Image:Inverted Streams in Juventae Chasma.jpg"]]

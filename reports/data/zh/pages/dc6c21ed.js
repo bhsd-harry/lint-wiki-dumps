@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",134,2,"[[Category:2020年欧洲足球锦标赛球员]]"]]

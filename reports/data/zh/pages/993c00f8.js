@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",48,3,"2003年9月23日起"]]

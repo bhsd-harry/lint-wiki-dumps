@@ -1,1 +1,0 @@
-window.data=[[3,"no-duplicate",18,21,"显示伯纳德陨石坑和[[门农尼亚区]]附近其他陨坑相对位置的地图。Wikibernard.jpg"]]

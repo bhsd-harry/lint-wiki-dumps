@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",331,74,"colspan"],[2,"no-ignored",331,42,"background:black; color:white\"  "]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",81,1," [Image:Clan member crest badge - Clan Douglas.svg|thumb|[[Scottish crest badge|Crest badge]] suitable to be worn by members of Clan Douglas.]]"]]

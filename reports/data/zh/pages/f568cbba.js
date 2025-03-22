@@ -1,1 +1,0 @@
-window.data=[[3,"fostered-content",83,1," | 2018 || OSIM 「8變小天后」 "]]

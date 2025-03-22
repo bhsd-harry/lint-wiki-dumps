@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",426,3," scope-\"col\"  "],[1,"unmatched-tag",397,77,"</span>"]]

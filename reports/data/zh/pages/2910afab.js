@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",108,3,"style=\"border-top:solid 1px gray;\""]]

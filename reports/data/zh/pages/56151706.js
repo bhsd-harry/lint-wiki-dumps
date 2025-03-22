@@ -1,1 +1,0 @@
-window.data=[[21,"invalid-gallery",828,75,"thumb"],[30,"no-duplicate",830,52,"[空中巴士A300"]]

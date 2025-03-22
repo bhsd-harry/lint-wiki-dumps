@@ -1,1 +1,0 @@
-window.data=[[7,"illegal-attr",219,24,"nowrap"],[4,"no-duplicate",218,33,"style=\"width:70%;\""]]

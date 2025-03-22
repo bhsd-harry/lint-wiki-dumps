@@ -1,1 +1,0 @@
-window.data=[[21,"fostered-content",44,1," === 2001年 ==="],[16,"unclosed-table",42,2,"{|"]]

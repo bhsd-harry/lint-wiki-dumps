@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",258,1,"\n === 魅蓝metal系列 ==="],[1,"unclosed-table",257,2,"{|"]]

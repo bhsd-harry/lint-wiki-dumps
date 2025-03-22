@@ -1,1 +1,0 @@
-window.data=[[8,"no-ignored",181,3,"60米栏比赛"]]

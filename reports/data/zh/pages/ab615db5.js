@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",419,4,"{{"],[6,"no-ignored",150,4," \"hintergrundfarbe1\""]]

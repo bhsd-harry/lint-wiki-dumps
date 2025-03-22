@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",160,2,"[[Category:2000年代喜劇劇情片]]"]]

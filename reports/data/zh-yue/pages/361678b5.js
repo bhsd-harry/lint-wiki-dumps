@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",7,434,"name=\"Diller1990\""],[1,"no-ignored",7,451,"/p,<ref "],[1,"tag-like",7,454,"<ref"]]

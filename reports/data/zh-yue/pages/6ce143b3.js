@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",13,3," 年 = 2004-2005</br>2005-\n "],[13,"unmatched-tag",13,17,"</br>"]]

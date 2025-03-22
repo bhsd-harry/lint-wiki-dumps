@@ -1,1 +1,0 @@
-window.data=[[7,"illegal-attr",177,14,"1985-86"],[7,"no-ignored",177,3,"罗马尼亚足球甲级联赛 "]]

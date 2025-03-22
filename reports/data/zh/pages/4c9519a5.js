@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",40,1," *[[新保安战役遗迹]]"]]

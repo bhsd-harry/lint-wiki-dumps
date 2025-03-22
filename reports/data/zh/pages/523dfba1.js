@@ -1,1 +1,0 @@
-window.data=[[3,"no-duplicate",31,2,"[[Category:霍亨索倫王朝]]"]]

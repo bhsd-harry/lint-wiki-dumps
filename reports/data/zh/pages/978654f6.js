@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",327,22,"  |border=\"1\"  "]]

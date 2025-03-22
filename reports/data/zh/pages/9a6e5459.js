@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",29,3,"齒輪比 = 6.6875\n "]]

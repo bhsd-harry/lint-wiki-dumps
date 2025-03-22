@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",2202,85,"["],[2,"no-ignored",1799,3,"[福州海峽奧林匹克體育中心"]]

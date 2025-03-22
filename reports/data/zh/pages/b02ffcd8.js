@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",15,1," [[File:Wilt Chamberlain Bill Russell.jpg|thumb|upright|[[比爾·羅素]]（左）共有五次获奖，[[威尔特·张伯伦]]（中）则有四次。]]\n [[File:Kareem-Abdul-Jabbar Lipofsky.jpg|thumb|uprigh"]]

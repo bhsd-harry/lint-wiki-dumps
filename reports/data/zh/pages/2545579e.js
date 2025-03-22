@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",308,2,"[[Category:域名解析服务]]"]]

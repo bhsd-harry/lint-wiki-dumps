@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",55,73,"{{"],[2,"no-duplicate",55,29,"{{link-en|約安尼斯·瓦爾瓦基斯|Ioannis_Varvakis}}肖像畫，由{{link-en"]]

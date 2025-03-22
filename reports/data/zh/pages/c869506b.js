@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",210,36,"style=\"text-align: center;  \""],[1,"no-ignored",280,72," 日本最大の地热能发电 "]]

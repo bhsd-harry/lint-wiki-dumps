@@ -1,1 +1,0 @@
-window.data=[[32,"no-ignored",107,37,"; width:40.00%; color:black;\""]]

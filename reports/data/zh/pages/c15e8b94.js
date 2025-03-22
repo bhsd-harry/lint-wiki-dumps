@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",117,2,"[[Category:波斯尼亞和黑塞哥維那波士尼亞克人]]"]]

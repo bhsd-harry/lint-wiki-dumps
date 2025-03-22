@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",77,2,"[[Category:美國電視爭議事件]]"]]

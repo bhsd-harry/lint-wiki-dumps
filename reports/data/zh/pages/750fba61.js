@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",79,4,"[["],[1,"no-ignored",79,4,"[[宋俊熙]] ||金泰勇 ||align=left|多靜的兒子||"]]

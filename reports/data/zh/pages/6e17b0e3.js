@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",179,2,"[[Category:美国反华情绪]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",45,1," * 国际[[商业|商务]]总合学科"]]

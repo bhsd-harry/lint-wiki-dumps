@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",290,2,"[[Category:塞超球員]]"]]

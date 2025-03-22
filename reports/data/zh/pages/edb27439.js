@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",224,4,"coslpan"],[2,"no-ignored",350,49,"text-align:center;\""],[1,"unclosed-table",436,2,"{|"],[1,"unmatched-tag",467,2,"</table>"]]

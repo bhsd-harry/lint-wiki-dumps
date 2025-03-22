@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",81,2,"[[Category:CS1 uses Korean-language script (ko)]]"]]

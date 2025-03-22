@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",6,3,"predecessor2        = 蔡豪\n "]]

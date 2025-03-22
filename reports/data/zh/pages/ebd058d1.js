@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,2,"[[Category:Articles using Template Infobox person Wikidata]]"]]

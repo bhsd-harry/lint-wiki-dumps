@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",40,3," caption2 = 1996 現代雅绅特四門轎車車頭 (澳洲；改款前)\n "]]

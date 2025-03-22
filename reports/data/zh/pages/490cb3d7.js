@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",95,1," [[File:Edward Etzel, Michel Bury and Michael Sullivan.jpg|thumb|左起依次为米歇尔·伯里、爱德华·艾泽尔、迈克尔·沙利文]]"]]

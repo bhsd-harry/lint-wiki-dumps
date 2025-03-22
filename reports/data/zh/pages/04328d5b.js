@@ -1,1 +1,0 @@
-window.data=[[3,"no-ignored",104,22," wheat; text-align:center;"]]

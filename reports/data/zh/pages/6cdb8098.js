@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",208,2,"[[Category:美國猶太教正統派教徒]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",676,81,"[["],[2,"no-ignored",676,4," <br />  ||align=\"center\"  "],[2,"parsing-order",676,5,"<br />"],[8,"unmatched-tag",548,22,"</span>"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-http",79,120,"ISBN"],[3,"no-duplicate",27,2,"[[Category:含有拉丁語的條目]]"]]

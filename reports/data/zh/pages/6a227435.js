@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-http",922,21,"https://"],[2,"no-ignored",918,3," 免签证"]]

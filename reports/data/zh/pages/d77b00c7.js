@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",1183,1," <noinclude>\n [[Category:唐朝人列表]]\n [[Category:中国状元列表]]\n [[Category:唐朝狀元| ]]\n </noinclude>"],[10,"illegal-attr",22,3,"noWrap"]]

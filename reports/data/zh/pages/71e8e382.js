@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",55,22,"2008"],[2,"unmatched-tag",55,4,"<cite id=refDavis 2008>"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",607,2,"[[Category:北投區政治]]"]]

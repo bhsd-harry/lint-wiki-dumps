@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",37,55,"[["],[2,"no-duplicate",37,34,"name=\"zeneki21\""],[1,"no-ignored",37,49,"/。此站是由[[長岡站]]管理的[[無人車站]]，車站沒有車站大樓，只有候車室<ref "],[1,"tag-like",37,88,"<ref"]]

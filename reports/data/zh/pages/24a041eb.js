@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",1828,30,"nowrap"],[1,"no-ignored",2008,3,"style\"vertical-align:middle\""]]

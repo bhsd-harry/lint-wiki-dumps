@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",83,3," alt1 = \n "],[9,"unmatched-tag",177,48,"</small>"]]

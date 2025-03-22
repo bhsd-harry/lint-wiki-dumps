@@ -1,1 +1,0 @@
-window.data=[[22,"no-duplicate",104,3,"penaltyscore = 1–3\n "]]

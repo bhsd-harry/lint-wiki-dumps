@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",38,181,"website=[[澳門大學]]"]]

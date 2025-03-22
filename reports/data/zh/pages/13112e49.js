@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",405,2,"[[Category:臺灣戰後時期獎項]]"]]

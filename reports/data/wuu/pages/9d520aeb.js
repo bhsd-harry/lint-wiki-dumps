@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",899,70,"]]"],[13,"no-ignored",46,50,"width:7%\""]]

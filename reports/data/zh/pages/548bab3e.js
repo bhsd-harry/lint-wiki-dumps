@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",70,1257,"url=http://www.frpac.or.jp/about/files/sem1907.pdf."]]

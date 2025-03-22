@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",36,113,"]"],[2,"no-duplicate",12,3," image1 = Sherrod Brown 117th Congress (2) (cropped).jpg\n "]]

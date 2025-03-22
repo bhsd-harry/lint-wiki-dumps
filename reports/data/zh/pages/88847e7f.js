@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",46,1," * 英美语科\n * [[汉语|中文]]科"]]

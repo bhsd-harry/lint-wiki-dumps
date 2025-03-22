@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",69,2,"[[Category:偶氮染料]]"]]

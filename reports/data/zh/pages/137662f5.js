@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",116,772,"}}"],[2,"no-ignored",116,22," 1990年11月21日<br>{{flagicon|USA}} 1991年8月23日<ref>{{cite web|url=http://www.1up.com/do/feature?pager.offset=1&cId=3152604|title=Purple Reign: 15 Years o"],[3,"parsing-order",116,34,"<br>"],[1,"unmatched-tag",196,73,"</small>"]]

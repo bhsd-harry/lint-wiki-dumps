@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",44,104,"{{"],[2,"no-duplicate",198,2,"[[Category:支持統一的台灣外省人]]"]]

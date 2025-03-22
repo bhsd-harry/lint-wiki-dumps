@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",13,3,"battles = [[西班牙内战]]\n <!-- Related articles -->\n "]]

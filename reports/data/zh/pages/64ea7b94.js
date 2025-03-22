@@ -1,1 +1,0 @@
-window.data=[[7,"illegal-attr",421,4,"confused"],[2,"lonely-bracket",421,43,"[["],[2,"no-duplicate",421,13,"with"],[3,"no-ignored",421,21," Americanism, "]]

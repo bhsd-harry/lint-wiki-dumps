@@ -1,1 +1,0 @@
-window.data=[[3,"parsing-order",5,234,"<ref>{{Cite web |url=https://www.thedailybeast.com/why-is-america-using-these-antique-planes-to-fight-isis |title=存档副本 |access-date=2021-06-09 |archiv"]]

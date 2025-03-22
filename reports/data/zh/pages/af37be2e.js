@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:后晋检校太师]]"]]

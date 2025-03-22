@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",269,2,"[[Category:SpeXial]]"]]

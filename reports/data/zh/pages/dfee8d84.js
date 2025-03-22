@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",26,96,"[["],[3,"no-ignored",25,4,"!style=\"border-top: solid 1px #ccd2d9; padding: 0.4em 1em 0.4em 0.45em; vertical-align: top; text-align: left;\"  | 校址"],[1,"parsing-order",26,104,"<br>"]]

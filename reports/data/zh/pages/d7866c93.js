@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",125,49,"Talk:執政黨列表"]]

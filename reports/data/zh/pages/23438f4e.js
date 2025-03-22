@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",41,1," * 针灸[[科系|学科]]"]]

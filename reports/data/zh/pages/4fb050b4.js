@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",529,2,"[[Category:朝鮮鐵路线]]"]]

@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",20,3," channel = [[華視]]、[[東森超視]]\n "]]

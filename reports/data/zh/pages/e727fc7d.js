@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-apos",79,4,"'"],[2,"lonely-http",69,20,"http://"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,19,"|薩克森-勞恩堡公國"]]

@@ -1,1 +1,0 @@
-window.data=[[7,"parsing-order",11,27,"<ref name=  \"FlightgloablEmbraerKC-390TakesMaidenFlight\">{{cite news |last1= Parsons |first1= Dan |title= Embraer KC-390 takes maiden flight |url= htt"]]

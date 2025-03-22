@@ -1,1 +1,0 @@
-window.data=[[2,"tag-like",373,14,"</img"]]

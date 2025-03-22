@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",47,2,"[[類:各地足球協會]]"]]

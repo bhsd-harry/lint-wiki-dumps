@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",30,240,"["],[2,"no-duplicate",83,2,"[[Category:培證英雄球員]]"]]

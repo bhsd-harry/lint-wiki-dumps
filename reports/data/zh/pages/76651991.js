@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",30,477," - 選舉結果(西貢)  "]]

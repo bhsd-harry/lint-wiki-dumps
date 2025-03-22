@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",16,80,"成熟的囊蚴準備轉移至鳥類宿主；注意其厚實的外殼。 File:Heckert plate1 fig8.png"]]

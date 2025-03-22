@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,19,"|勃艮第騎士團國"]]

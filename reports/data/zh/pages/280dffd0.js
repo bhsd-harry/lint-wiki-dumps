@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",90,2,"[[Category:2024年中国外交事件]]"]]

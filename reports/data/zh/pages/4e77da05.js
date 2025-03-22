@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",88,169,"[[Hamburger Abendblatt]]"]]

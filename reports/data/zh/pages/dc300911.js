@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",194,2,"[[Category:足球電視劇]]"]]

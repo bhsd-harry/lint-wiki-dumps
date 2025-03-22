@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",37,44,"本次公投的民意調查"]]

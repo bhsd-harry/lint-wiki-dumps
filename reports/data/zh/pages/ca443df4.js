@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",164,33,"[["],[2,"no-duplicate",164,5,"align=center"],[1,"no-ignored",164,30," | [[Françoise Mbango]]"]]

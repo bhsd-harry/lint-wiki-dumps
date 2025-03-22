@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",119,44,"<small>;text-align:center"],[2,"parsing-order",119,44,"<small>"]]

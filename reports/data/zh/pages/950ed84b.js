@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",17,2,"[[Category:1988年冬季残疾人奥林匹克运动会越野滑雪运动员]]"]]

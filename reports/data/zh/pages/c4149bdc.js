@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",66,1," [[File:Straße von Hormuz.jpg|thumb|250px|霍爾木茲海峽的衛星圖片]]"]]

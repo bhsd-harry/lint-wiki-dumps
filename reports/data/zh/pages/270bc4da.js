@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",136,59,"L"],[1,"no-ignored",136,3,"{{flagIOCathlete|[[Sören Claeson]]|SWE|1988年夏季}}<br />  "],[1,"parsing-order",136,51,"<br />"]]

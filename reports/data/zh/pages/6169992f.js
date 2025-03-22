@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",18,468,"first=N. G."]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",118,31,"Simyra（属于埃及人〔Egyptian〕）"]]

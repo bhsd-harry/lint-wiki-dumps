@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",182,2,"[[Category:臺灣青春電影]]"]]

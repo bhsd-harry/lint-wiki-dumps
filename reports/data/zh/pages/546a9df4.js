@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",91,1080,"name=\"VGC Review\""],[1,"no-ignored",91,1097,"/；赫特菲爾德表示平常的戰鬥與頭目戰的難度並不相等<ref "],[1,"tag-like",91,1122,"<ref"]]

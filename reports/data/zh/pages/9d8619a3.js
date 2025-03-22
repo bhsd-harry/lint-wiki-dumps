@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",30,2,"[[Category:1934年建立的國家或政權]]"]]

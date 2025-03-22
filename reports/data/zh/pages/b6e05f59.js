@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",83,2,"[[category:稚內市鐵路車站]]"]]

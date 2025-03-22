@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",95,2,"[[Category:美國職業足球大聯盟選秀狀元]]"]]

@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",194,2,"[[Category:改編自日本漫畫的日本電視劇]]"]]

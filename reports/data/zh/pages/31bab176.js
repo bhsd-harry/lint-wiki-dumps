@@ -1,1 +1,0 @@
-window.data=[[4,"no-ignored",81,14,"\n <div class=\"small-references\">\n *"]]

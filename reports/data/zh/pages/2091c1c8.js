@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",60,413,"title=As Nature Made Him: The Boy Who Was Raised as a Girl "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",1514,2,"[[Category:報復題材電視劇]]"],[2,"no-ignored",1149,3,"!rowspan=\"2\""]]

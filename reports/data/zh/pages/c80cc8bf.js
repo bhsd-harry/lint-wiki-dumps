@@ -1,1 +1,0 @@
-window.data=[[3,"lonely-bracket",80,5,"{{"],[2,"no-ignored",80,4," {{#switch:{{{team}}}|BOS|BOS=bgcolor=\"#CCFFCC\"}"]]

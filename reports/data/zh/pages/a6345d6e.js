@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",53,2,"[[Category:1994年以色列]]"]]

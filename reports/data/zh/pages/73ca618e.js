@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",718,1," <small>备注:春秋航空曾于[http://www.chinadaily.com.cn/dfpd/2011-09/21/content_13747038.htm 2011年] {{Wayback|url=http://www.chinadaily.com.cn/dfpd/2011-09/21/"],[12,"no-ignored",18,28,"50\""],[1,"unclosed-table",702,2,"{|"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",91,5,"1993"],[1,"lonely-apos",107,12,"'"],[2,"lonely-bracket",91,32,"[["],[1,"no-ignored",91,9," || ''The Foot'' || || [[她自己]] ||"]]

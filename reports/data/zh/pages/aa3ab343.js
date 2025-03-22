@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",104,2,"[[Category:2009年臺灣音樂專輯]]"]]

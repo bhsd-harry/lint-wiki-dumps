@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",16,2,"[[Category:白堊紀鳥類]]"]]

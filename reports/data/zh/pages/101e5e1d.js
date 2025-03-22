@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",94,64,"align=\"center\""],[1,"no-ignored",94,78,":pink; color:white\"  "]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",91,10,"統一7-ELEVEn獅"]]

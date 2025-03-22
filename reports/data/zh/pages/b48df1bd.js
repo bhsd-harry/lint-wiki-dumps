@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",66,2,"[[Category:康乃狄克州企业家]]"]]

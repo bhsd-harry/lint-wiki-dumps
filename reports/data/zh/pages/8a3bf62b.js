@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",138,70,"'"],[1,"lonely-http",108,70,"RFC"]]

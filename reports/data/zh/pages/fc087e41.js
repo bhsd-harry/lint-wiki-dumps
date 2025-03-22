@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",100,17," 羅老歪隨從align=\"left\"  "]]

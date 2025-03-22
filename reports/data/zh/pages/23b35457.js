@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,3," honorific-suffix = [[大蓮花榮譽勳章|GML]]\n "]]

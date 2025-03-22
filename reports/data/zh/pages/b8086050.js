@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",320,204,"m"],[1,"lonely-bracket",1938,95,"["],[4,"no-duplicate",1164,187,"style=\"text-align:center;background:#def\""],[1,"unclosed-table",2883,2,"{|"]]

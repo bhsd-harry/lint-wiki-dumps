@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",183,125,"[[National Geographic (magazine)|National Geographic]]"]]

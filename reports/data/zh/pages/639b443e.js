@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",567,1," 2016-17球季NBA30支球隊觀眾總數<ref>{{Cite web |url=http://www.espn.com/nba/attendance |title=存档副本 |accessdate=2017-10-17 |archive-date=2016-09-26 |archive-url"],[5,"unclosed-table",391,2,"{|"]]

@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",251,2,"[[Category:烏魯木齊都統]]"]]

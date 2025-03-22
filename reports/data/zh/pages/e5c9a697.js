@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",180,1," <!-- Suggestion that we try to organise this Gallery by seasons, with 5 photos for each season, when we have enough available."],[1,"unmatched-tag",50,980,"</blockquote>"]]

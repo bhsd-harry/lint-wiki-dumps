@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",78,127,"LW='''路易斯'''"]]

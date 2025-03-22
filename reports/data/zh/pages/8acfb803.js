@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",46,1," File://www.w3schools.com/html/html_images.asp\">| {{Wayback|url=file://www.w3schools.com/html/html_images.asp |date=20211220094423 }}"]]

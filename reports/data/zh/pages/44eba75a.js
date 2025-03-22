@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",11,18,"border"],[6,"no-duplicate",14,116,"style=\"width:20px\""]]

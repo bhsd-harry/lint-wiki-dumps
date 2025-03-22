@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",1271,1,"\n * 進行《All-Rounder Battle 全能對決》VOCAL&RAP對決。\n * {{Color box|#FFC06F|border=darkgray}} 代表勝出隊伍{{注|本集中僅公開勝出隊伍,並未公布實際得分數}}"],[1,"unclosed-table",1260,2,"{|"]]

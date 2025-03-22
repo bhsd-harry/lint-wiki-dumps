@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",45,1," * 护理学科\n * 诊疗[[醫事放射師|放射线]]学科"]]

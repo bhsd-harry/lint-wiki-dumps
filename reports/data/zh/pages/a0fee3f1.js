@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",112,1," [[File:Wien Besatzungszonen.png|300px|thumb|left|被盟軍分區佔領的維也納]]"]]

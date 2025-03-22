@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",87,5,"{{"],[1,"no-ignored",87,4," {{#sitcg:{{{team}}}|CLE|CLE=bgcolor=\"#CCFFCC'}}"]]

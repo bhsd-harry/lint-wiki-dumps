@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",81,34,"金门砂岩岩石景观。GoldenGateGrootKlip02.JPG"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,18,"|主權國家列表"]]

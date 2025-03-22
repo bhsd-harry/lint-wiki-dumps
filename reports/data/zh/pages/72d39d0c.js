@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",422,2,"[[Category:并发控制]]"]]

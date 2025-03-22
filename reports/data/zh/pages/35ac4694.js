@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",5,3," status = LC\n "]]

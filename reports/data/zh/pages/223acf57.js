@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",201,2,"[[Category:1912年美國法律]]"],[2,"no-ignored",62,8," 15%"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",18,4,"ass"],[1,"no-ignored",18,20,"  | Ref(s)"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",164,13," \"background-color: {{Party_meta/color/保守党_(英国)}}\"  "]]

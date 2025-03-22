@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",50,2,"[[Category:大埔縣人]]"]]

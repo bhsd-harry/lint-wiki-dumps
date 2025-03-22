@@ -1,1 +1,0 @@
-window.data=[[5,"illegal-attr",12,4,"boxstyle-1"]]

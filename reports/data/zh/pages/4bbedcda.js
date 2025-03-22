@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",86,3,"<ref name=\"auto13\">{{cite web|url=http://www.inmediahk.net/node/1029812a|title=新聞部員工致亞視管理層暨廣大市民公開信|work=香港獨立媒體網|accessdate=2015-11-20|archive-date=201"],[1,"parsing-order",86,3,"<ref name=\"auto13\">{{cite web|url=http://www.inmediahk.net/node/1029812a|title=新聞部員工致亞視管理層暨廣大市民公開信|work=香港獨立媒體網|accessdate=2015-11-20|archive-date=201"]]

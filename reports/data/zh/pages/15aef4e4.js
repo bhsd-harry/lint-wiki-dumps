@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",101,24,"text-align:"],[1,"no-ignored",101,35," left;\""]]

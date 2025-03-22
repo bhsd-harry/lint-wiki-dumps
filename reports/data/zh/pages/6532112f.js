@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",602,36,"  （{{age in years and days|2019|1|31|2024|1|30|age=no}}）"]]

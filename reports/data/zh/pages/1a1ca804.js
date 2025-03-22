@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",82,1," ;市委党校东（站位位于怒江街，B出入口向西北160米)\n {{沈阳公交线路列表|width=100%|format=|end=yes|116|141|293|V131}}"]]

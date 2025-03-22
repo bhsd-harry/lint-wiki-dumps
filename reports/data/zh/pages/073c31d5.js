@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",389,1," [[檔案:Spread of Swine Flu in Europe.svg|left|thumb|300px|欧洲国家中何时检测到第一例H1N1流感的示意圖 (由於沒有中文版本，英語是唯一的一種):{{legend|Red|四月下旬}}{{legend|Orange|五月上旬}}\n {{lege"]]

@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",221,3,"23.43"],[1,"no-ignored",167,3,"{{flagIOCathlete|[[孙福明]]|CHN|2004年夏季}}<br />'''L''' 0000–1000 "],[1,"parsing-order",167,41,"<br />"]]

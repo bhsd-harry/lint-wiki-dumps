@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",503,75,"}}"],[1,"lonely-http",503,9,"http://"],[1,"no-ignored",503,4,"|url=http://www.segye.com/newsView/20180115000979|accessdate=2018-01-15}}</ref>"],[1,"tag-like",503,77,"</ref"]]

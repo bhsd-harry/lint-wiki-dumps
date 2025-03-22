@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",60,4,"caption"],[6,"no-ignored",219,38,"=1 "]]

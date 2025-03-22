@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",70,1,"\n [[File:Akjoujt City.JPG|thumb|[[阿克茹特]]]]"]]

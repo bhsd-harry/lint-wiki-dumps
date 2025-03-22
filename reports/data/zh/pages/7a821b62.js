@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",146,2,"[[Category:橋田賞獲獎作品]]"]]

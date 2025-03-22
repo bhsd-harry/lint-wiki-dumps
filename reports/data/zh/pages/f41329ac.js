@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",48,2,"'"],[1,"unclosed-table",79,2,"{|"]]

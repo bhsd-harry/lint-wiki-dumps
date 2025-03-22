@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",100,89,"border"],[1,"unclosed-table",75,2,"{|"]]

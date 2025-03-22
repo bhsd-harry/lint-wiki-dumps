@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",28,3," free_label = 校地面積\n "]]

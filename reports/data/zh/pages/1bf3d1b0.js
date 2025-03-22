@@ -1,1 +1,0 @@
-window.data=[[19,"invalid-gallery",85,40,"thumb"],[38,"no-duplicate",85,46,"USA - Army Infantry Insignia"]]

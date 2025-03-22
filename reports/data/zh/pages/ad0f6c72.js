@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",42,83,"[["],[2,"no-duplicate",42,55,"name=\"zeneki21\""],[1,"no-ignored",42,70,"/。從前此站設有1面2線的[[島式月台]]，現時列車交會設備已經撤走<ref "],[1,"tag-like",42,104,"<ref"]]

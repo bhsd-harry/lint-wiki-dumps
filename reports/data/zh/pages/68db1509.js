@@ -1,1 +1,0 @@
-window.data=[[8,"illegal-attr",63,4,"Yuknoom"],[1,"no-ignored",84,9," K'awiil "]]

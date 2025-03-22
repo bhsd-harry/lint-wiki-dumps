@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",55,127,"[["],[2,"no-duplicate",55,108,"name=air/1918年，他成為駐[[埃及]]的航行及炸彈投擲學校校長，<ref"],[1,"tag-like",55,146,"<ref"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",350,3,"〈重逢〉(共青團中央"]]

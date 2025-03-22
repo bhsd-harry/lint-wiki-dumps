@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1102,4,"<ref>{{Cite web|url=https://tavis.tw/VPost?VPId=123312|title=2017「MOD微電影暨金片子創作大賽」首獎 - Tavis|access-date=|archive-date=2024-11-20|archive-url=https://t"],[1,"parsing-order",1102,4,"<ref>{{Cite web|url=https://tavis.tw/VPost?VPId=123312|title=2017「MOD微電影暨金片子創作大賽」首獎 - Tavis|access-date=|archive-date=2024-11-20|archive-url=https://t"]]

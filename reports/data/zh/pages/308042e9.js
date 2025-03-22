@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",119,51,"Dewi"],[13,"no-ignored",48,46,"東京都涉谷区<br />東京都港区 (東京都)"],[10,"parsing-order",48,52,"<br />"]]

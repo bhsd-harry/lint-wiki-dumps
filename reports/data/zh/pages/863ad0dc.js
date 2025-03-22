@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",126,41,"{{"],[1,"no-ignored",126,3," 「{{lang|ja|未来色の約束}}」<br />「Treasure 〜{{lang"],[1,"parsing-order",126,24,"<br />"]]

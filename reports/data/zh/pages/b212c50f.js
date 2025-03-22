@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",690,1,"\n ===週收視率==="],[1,"unclosed-table",148,2,"{|"]]

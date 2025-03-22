@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",12,1," [https://ied.oggi.tw https://ied.oggi.tw/] {{Wayback|url=https://ied.oggi.tw/ |date=20141217152218 }}"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",76,2,"[[Category:法國行政區劃|行省]]"],[2,"unmatched-tag",23,27,"</span>"]]

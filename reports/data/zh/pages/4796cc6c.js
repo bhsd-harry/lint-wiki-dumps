@@ -1,1 +1,0 @@
-window.data=[[12,"no-duplicate",34,51,"白花万代兰（ "]]

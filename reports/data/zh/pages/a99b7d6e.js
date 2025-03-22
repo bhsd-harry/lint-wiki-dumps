@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",43,1," * [[醫檢師|卫生技术]][[科系]]"]]

@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",143,2,"[[Category:美國慈善家]]"]]

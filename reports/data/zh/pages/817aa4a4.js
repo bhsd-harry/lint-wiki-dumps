@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",131,6,"vaglign"],[2,"invalid-gallery",386,39,"right"],[2,"no-duplicate",386,51,"Pandas eating bamboo"],[1,"no-ignored",394,1," File:File:Shoushan National Nature Park--Created by Nora.jpg[[台灣獼猴]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",1126,2,"[[Category:强奸题材作品]]"]]

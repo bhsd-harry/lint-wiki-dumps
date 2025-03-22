@@ -1,1 +1,0 @@
-window.data=[[16,"no-duplicate",35,130,"author= 朱利安"]]

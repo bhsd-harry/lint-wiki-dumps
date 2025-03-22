@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,3,"zh-tw:惡夜追緝令;zh-sg:黑夜追缉令;zh-cn:炎热的夜晚;zh-my:月黑风高杀人夜;zh-hk:月黑風高殺人夜;\n "]]

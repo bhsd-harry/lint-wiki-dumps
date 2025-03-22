@@ -1,1 +1,0 @@
-window.data=[[9,"illegal-attr",116,9,"TIFF"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",151,2632,"name=\"1UP-flops\""]]

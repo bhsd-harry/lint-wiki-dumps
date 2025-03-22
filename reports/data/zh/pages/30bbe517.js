@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",302,71,"publisher=https://fliff.com/"]]

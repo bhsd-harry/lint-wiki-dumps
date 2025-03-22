@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",127,2,"[[Category:克萊門森大學校友]]"]]

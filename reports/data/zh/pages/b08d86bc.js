@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",11,31,"代替文=<nowiki>秘密出版所使用的唱片制作机</nowiki>"]]

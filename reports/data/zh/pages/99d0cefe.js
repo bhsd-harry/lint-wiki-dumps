@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",45,181,"archive-url=https://web.archive.org/web/20190522171151/http://ent.sina.com.cn/r/2004-03-11/1628328546.html"]]

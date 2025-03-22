@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",127,2,"[[Category:使用筆名的作家]]"]]

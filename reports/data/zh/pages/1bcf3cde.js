@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",72,84,"Encuentro_con_Quino,_en_el_Salón_del_Libro_de_París_2014_(13333800253)"]]

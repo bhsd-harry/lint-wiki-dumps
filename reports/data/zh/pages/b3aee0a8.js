@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",66,2,"[[Category:8×50毫米勒貝爾槍械]]"]]

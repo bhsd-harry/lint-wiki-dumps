@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",78,53,"width:70%;text-align: center;\""],[1,"tag-like",127,355,"</ref"]]

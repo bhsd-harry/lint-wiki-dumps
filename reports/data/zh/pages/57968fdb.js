@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",53,2,"[[Category:蘇聯飛機設計師]]"]]

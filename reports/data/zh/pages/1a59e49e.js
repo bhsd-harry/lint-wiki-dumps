@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",50,2,"[[Category:1961年科學]]"]]

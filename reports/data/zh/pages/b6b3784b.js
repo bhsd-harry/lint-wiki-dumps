@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-apos",577,10,"'"],[1,"no-ignored",137,29,"65%\"  "]]

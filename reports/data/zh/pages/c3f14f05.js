@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",195,2,"[[Category:嘉義市旅遊景點]]"],[1,"unclosed-table",228,2,"{|"]]

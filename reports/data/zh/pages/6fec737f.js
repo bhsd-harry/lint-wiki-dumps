@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",283,46,"place rows=1"]]

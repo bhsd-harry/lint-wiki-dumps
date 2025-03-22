@@ -1,1 +1,0 @@
-window.data=[[8,"invalid-gallery",49,24,"thumb"],[6,"no-duplicate",50,28,"海南省农垦中学"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"nested-link",1,282,"[[麦吉尔大学]]"]]

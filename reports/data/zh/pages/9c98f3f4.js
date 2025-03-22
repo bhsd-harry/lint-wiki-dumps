@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",153,92,"}"],[2,"no-duplicate",296,2,"[[Category:泰國情節劇]]"]]

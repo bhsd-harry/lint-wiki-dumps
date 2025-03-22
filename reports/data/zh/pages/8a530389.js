@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",498,2,"[[Category:人名表]]"],[1,"no-ignored",101,4,"这是维吾尔人最古老的人名，愿意表示恒星！"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"nested-link",28,90,"[[無映之地]]"]]

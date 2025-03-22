@@ -1,1 +1,0 @@
-window.data=[[2,"pipe-like",85,34,"\n\n 字母||"]]

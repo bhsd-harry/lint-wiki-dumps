@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",62,4,"vertical"],[2,"no-ignored",248,102," 相信音樂國際股份有限公司 "]]

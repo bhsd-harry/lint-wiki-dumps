@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",171,1,"\n ===女子组冠军==="],[2,"unclosed-table",59,2,"{|"]]

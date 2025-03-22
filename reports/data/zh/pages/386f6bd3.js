@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",83,163,"name=\"SE release\""],[1,"no-ignored",83,180,"  /。最終在2020年12月25日，遊戲在Microsoft Windows和macOS上正式發布<ref "],[1,"tag-like",83,230,"<ref"]]

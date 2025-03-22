@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",7,52,"width"],[2,"no-duplicate",6,5,"class=\"wikitable\""],[1,"no-ignored",7,64,"  | '''年份'''"]]

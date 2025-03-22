@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",26,3," misc = {{Singles\n   | Name           = \n   | Type           = ep\n   | Single 1       ='''Unbreakable'''\n   | Single 1 date  = 2013年7月18日\n }}\n {{Extra"]]

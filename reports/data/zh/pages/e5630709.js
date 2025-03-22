@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",117,24,"mw-collapsible"],[1,"no-ignored",117,38," mw-collapsed\"  "]]

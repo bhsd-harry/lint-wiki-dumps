@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",269,396,"}"],[2,"no-duplicate",146,31,"缩略图"]]

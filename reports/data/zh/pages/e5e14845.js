@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",38,1," [[File:Grand Park in Los Angeles 1.jpg|thumb|[[洛杉磯市中心]]Grand Park公園]]\n [[File:Hampstead Heath men's toilets 20190216 124640-01.jpg|thumb|[[維多利亞時期]]公廁"]]

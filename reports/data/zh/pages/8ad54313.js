@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,21,"|皮耶特羅·菲蒂帕爾迪"]]

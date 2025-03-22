@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",162,31,"width"],[1,"no-ignored",161,15,"  font-weight:bold\"  "]]

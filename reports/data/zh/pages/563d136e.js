@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,55,"恕德家商大門"]]

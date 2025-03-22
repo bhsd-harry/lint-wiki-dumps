@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",42,2,"[[Category:20世紀美國數學家]]"]]

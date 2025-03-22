@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",64,2,"[[Category:门巴族]]"]]

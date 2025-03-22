@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",1029,3,"KANTO"],[3,"no-ignored",1057,3,"신입 사원(?) 칸토의 브랜뉴뮤직 직원 체험기 "]]

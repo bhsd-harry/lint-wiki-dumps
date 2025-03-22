@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",43,22,"}}"],[1,"no-ignored",43,3,"《'''bertemu"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",38,1," * {{fb|ALG}}\n * {{fb|ANG}}\n * {{fb|BFA}} <small>(主辦國)</small>\n * {{fb|CMR}}\n * {{fb|COD|1997}}\n * {{fb|CIV}}\n * {{fb|EGY}}\n * {{fb|GHA}}"]]

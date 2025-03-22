@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:使用创建条目精灵建立的页面]]"]]

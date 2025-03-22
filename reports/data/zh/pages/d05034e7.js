@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",111,33,"thumb"],[1,"unclosed-table",186,2,"{|"]]

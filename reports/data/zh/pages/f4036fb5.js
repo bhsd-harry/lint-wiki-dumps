@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",28,3," candidate2 = [[Nikki Haley]]\n "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",151,2,"[[Category:拉合爾]]"]]

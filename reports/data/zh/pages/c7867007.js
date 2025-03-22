@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",39,105,"[[内華達州]]"]]

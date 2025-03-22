@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",210,111," alt =亨利·戴维·梭罗的肖像照 "]]

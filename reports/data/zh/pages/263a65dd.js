@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",72,165,"}"],[2,"no-ignored",1225,52,"出道首個紅館演唱會"]]

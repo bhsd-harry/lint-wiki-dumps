@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",232,3,"nowrap"],[2,"no-duplicate",325,3,"width=10%"]]

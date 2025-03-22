@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",804,4,"2017年7月2日 - 7月23日、Hulu"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",107,3,"{{"],[2,"nested-link",119,75,"[[法身寺|Wat Phra Dhammakaya]]"]]

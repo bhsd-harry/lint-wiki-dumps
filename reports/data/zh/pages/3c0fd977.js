@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",133,1,"\n === 動畫作品 ==="],[1,"unclosed-table",30,2,"{|"]]

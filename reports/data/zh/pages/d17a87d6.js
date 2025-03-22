@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",54,2,"[[Category:美國社會名流]]"]]

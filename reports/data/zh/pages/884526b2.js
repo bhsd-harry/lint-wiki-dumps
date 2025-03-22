@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",58,4,"caption"],[2,"no-duplicate",111,24,"style=\"margin:auto:\""]]

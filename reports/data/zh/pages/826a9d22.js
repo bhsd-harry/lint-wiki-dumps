@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",86,2,"[[Category:中國書籍並稱|SDMZ]]"]]

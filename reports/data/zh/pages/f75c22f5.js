@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",135,2,"[[Category:网球大满贯青少年组男子双打冠军]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",146,28,"Lake"],[1,"lonely-bracket",98,4,"{{"],[1,"no-ignored",98,3," {{sort"]]

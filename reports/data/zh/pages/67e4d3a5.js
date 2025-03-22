@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",18,3," 播放地區         = [[馬來西亞]]\n "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",50,2,"[[Category:1996年建立的足球俱樂部]]"]]

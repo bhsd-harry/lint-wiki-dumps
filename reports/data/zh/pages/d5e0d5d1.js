@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",439,1," ※各怪獸的詳解[[超人力霸王馬克斯的登場怪獸]]。\n"],[1,"lonely-bracket",837,157,"]]"],[1,"unclosed-table",437,2,"{|"],[1,"unmatched-tag",68,84,"</small>"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",248,16,"white-space:"],[1,"no-ignored",248,28," nowrap;\"  "]]

@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-gallery",389,41,"thumb"],[2,"lonely-bracket",89,44,"{{"]]

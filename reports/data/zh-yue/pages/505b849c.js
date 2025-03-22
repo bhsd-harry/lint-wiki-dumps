@@ -1,1 +1,0 @@
-window.data=[[3,"no-ignored",55,17," 甦醒 (讚美之泉)"]]

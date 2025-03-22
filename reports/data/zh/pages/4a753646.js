@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",152,50,"'"],[4,"no-duplicate",188,5,"style=\"background:#FF79BC\""]]

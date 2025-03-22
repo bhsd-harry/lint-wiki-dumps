@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",456,4,"Alliance"],[1,"no-ignored",456,12," (esports)"]]

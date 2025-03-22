@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",7,143,"[[Polski Słownik Biograficzny]]"]]

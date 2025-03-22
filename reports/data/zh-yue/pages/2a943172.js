@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",199,5,"href"],[1,"lonely-bracket",151,208,"[["],[1,"unclosed-table",197,2,"{|"],[6,"unmatched-tag",336,43,"<center>"]]

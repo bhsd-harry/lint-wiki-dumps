@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",163,3,"{{flagIOCathlete|[[Anicet Sambo]]|MAD|1980年夏季}}<br />'''W''' "],[1,"parsing-order",163,50,"<br />"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",91,14,"[1][http://www5.cuhk.edu.hk/ssc/index.php?option=com_content&view=article&id=40&Itemid=24&lang=zh] "]]

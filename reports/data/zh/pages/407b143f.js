@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",67,1," * 家政科\n ** <del>第一部</del>\n *** 家政专攻\n *** 食物营养专攻\n *** 生活总合[[商业|商务]]专攻<ref group=\"注\"  name=\"生活总合商务专攻\"/>\n ** <del>[[夜校|第二部]]</del><ref group=\"注\"  name=\"家"]]

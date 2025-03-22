@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",136,2,"[[Category:雙胞胎題材電視劇]]"]]

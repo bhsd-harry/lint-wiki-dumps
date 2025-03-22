@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",403,2,"[[Category:台灣主持人|z]]"]]

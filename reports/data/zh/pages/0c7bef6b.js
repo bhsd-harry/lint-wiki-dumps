@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",42,2,"[[分類:1942年新加坡]]"]]

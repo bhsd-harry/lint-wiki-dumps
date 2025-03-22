@@ -1,1 +1,0 @@
-window.data=[[180,"no-duplicate",139,5,"style=\"white-space:nowrap\""]]

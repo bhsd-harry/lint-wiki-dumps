@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",43,3," homepage = {{url|http://www.cibus.com.tw}}\n "]]

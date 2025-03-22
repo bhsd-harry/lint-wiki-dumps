@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",195,2,"[[Category:中国人物神]]"]]

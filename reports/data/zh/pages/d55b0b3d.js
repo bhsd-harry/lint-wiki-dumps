@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",78,4,"table"]]

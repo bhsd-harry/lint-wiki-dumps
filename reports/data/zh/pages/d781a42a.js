@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",152,2,"[[Category:支持統一的台灣外省人|T]]"]]

@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",149,2,"[[Category:九龍巴士路線|098]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",135,26,"'"],[6,"no-duplicate",323,2,"[[Category:城巴路線|962C]]"]]

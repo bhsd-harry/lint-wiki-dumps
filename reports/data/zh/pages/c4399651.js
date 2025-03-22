@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",30,108,"{{"],[2,"no-duplicate",37,316,"date=20160304135250 "],[1,"unmatched-tag",23,18,"</span>"]]

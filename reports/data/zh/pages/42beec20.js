@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",283,19,"valing"],[2,"no-ignored",855,15,"  \"valign\"=\"top\""]]

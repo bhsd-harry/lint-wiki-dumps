@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",18,293,"journal=Science Translational Medicine"]]

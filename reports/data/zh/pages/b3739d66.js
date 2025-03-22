@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",28,1,"\n ===运动奖牌榜==="]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",40,105,"web"],[1,"lonely-bracket",40,98,"{{"],[1,"no-ignored",40,91,"總計<ref>{{cite "],[1,"tag-like",40,93,"<ref"]]

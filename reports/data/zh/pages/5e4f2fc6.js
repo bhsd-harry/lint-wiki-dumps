@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",17,3," image2 = 3x4.svg\n "]]

@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",81,38,"padding"],[3,"no-duplicate",81,50,"0"],[2,"unmatched-tag",19,42,"</br>"]]

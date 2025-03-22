@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",283,6,"{{"],[1,"no-ignored",283,3,"公布《{{s"]]

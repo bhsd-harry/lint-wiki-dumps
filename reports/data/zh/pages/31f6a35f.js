@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",724,5,"bgcolor=#7CFC00|-"],[2,"no-ignored",804,62," #FFEF10\""]]

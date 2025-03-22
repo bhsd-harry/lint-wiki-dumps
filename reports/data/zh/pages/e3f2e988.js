@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",19,43,"Accipiter_soloensis_237882737"]]

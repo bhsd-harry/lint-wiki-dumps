@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",48,1," <math>\\ 0=[[L_m,L_n],L_0]+[[L_n,L_0],L_m]+[[L_0,L_m],L_n]</math>"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",596,2,"[[Category:金球獎終身成就獎獲得者]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",907,1,"\n ==註释==\n {{notefoot}}\n\n == 参考文献 ==\n {{Reflist}}\n\n == 外部链接 ==\n {{Portal|马来西亚|教育}}\n\n {{马来西亚华文小学列表}}\n\n [[分类:马来西亚华文小学]]\n [[Category:马来西亚学校列表]]"],[1,"lonely-bracket",852,4,"{{"],[1,"no-ignored",852,4,"{{fla"],[1,"unclosed-table",789,2,"{|"]]

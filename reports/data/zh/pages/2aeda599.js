@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",159,24,"'"],[4,"no-duplicate",371,3," nominee1 = [[凱瑟琳·克拉克]]\n "]]

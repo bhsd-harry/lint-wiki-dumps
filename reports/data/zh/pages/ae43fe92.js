@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",55,1," *時刻表僅供參考，請以母公司[[統聯客運]]網站公告為準。"],[1,"invalid-gallery",239,38,"300px"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",25,1," [[File:臺北駐印尼代表處及其辦事處轄區圖.png|600px|無框|center]]"]]

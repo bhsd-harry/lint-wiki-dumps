@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",171,2,"[[Category:社会哲学]]"]]

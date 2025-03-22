@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",20,49,"}}}"],[1,"no-ignored",20,12," {{railway line header|collapse=yes}}}}} "]]

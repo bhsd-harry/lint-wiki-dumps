@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",43,1," * [[工商管理学|经营]]学科"]]

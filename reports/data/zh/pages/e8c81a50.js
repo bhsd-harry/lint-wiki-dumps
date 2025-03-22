@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",57,16,"Angels"],[2,"no-ignored",57,3,"  天使 <br />  "],[1,"parsing-order",57,8,"<br />"]]

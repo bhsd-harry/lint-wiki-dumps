@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",96,2,"[[Category:寶瓶座]]"]]

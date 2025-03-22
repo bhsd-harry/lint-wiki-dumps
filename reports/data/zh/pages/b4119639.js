@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",104,1,"\n ==掛牌車=="],[1,"lonely-bracket",90,2,"{{"],[1,"unclosed-table",92,2,"{|"]]

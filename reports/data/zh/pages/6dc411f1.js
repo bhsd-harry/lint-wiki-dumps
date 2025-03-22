@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,18,"|東日耳曼語支"]]

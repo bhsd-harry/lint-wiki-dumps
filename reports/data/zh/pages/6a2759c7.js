@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",28,3," structure = 地下车站\n "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",8,115,"location=厦门"]]

@@ -1,1 +1,0 @@
-window.data=[[4,"tag-like",413,18,"<score"]]

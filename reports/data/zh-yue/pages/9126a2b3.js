@@ -1,1 +1,0 @@
-window.data=[[5,"no-duplicate",27,46,"左"]]

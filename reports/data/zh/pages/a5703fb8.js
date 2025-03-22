@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",222,14,"nowrap"],[2,"no-ignored",221,4," &lt;span "]]

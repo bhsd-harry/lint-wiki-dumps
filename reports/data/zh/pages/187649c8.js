@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,3,"zh-tw:千萬別放手;zh-sg:绝不放手;\n "]]

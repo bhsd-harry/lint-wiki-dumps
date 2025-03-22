@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",124,2,"[[Category:改編自真人真事的法國電影]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",531,2,"[[Category:波兰纳粹集中营]]"]]

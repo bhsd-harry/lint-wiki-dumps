@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",17,169,"'"],[4,"no-ignored",36,57," font-size:\"75%\""]]

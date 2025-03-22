@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",381,2,"[[Category:青春劇]]"]]

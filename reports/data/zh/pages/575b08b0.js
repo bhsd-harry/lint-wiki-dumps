@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",4,2,"[[Category:霍亨索倫伯爵]]"]]

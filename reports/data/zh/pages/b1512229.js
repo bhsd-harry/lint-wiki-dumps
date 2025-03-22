@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",837,1," * 2019: 14/12、28/12\n * 2020: 11/01、18/01、08/02、15/02、29/02、14/03、28/03、11/04、25/04"],[6,"no-ignored",213,14,"  <small>;text-align:center"],[6,"parsing-order",213,16,"<small>"]]

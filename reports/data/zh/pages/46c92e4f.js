@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",977,2,"[[Category:香港珠海人]]"]]

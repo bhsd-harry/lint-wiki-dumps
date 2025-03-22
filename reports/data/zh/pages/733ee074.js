@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",217,2,"[[Category:多重结局电子游戏]]"]]

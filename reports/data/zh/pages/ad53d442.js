@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",63,133,"1px"],[3,"no-ignored",63,117,"style\":\"border: "]]

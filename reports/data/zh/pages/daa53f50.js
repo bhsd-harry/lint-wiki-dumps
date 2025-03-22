@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",66,1," 資料來源： \n 東山咖啡季- 西拉雅國家風景區管理處<ref>{{Cite web |url=https://www.siraya-nsa.gov.tw/MainWeb/article.aspx?L=1&SNO=03000013 |title=東山咖啡季- 西拉雅國家風景區管理處 |access-"],[1,"unclosed-table",27,2,"{|"]]

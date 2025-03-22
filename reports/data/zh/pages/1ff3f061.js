@@ -1,1 +1,0 @@
-window.data=[[5,"illegal-attr",410,12,"Seven"],[2,"no-duplicate",410,12,"Seven"],[1,"no-ignored",410,43," (TV series)"]]

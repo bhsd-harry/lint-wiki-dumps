@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",247,3,"7.9秒"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",37,44,"Peters"],[15,"lonely-bracket",37,33,"[["],[16,"no-duplicate",37,5,"align=center"],[10,"no-ignored",37,30," | [[Mitchell "]]

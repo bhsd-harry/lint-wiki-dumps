@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",138,1,"\n <br>\n *西站"],[19,"illegal-attr",72,4,"table"],[1,"unclosed-table",137,2,"{|"]]

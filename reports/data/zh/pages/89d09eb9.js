@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",113,127,"colspan=2"]]

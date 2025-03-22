@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",80,4,"18族元素特性"]]

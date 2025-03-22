@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",124,2,"[[Category:日本視覺障礙者]]"]]

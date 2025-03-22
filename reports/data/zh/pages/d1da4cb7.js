@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",255,4,"1.214"],[2,"no-ignored",249,3," 358亿 "],[2,"parsing-order",255,14,"<sup>"]]

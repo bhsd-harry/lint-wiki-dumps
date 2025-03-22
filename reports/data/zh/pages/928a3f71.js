@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-isbn",550,17,"ISBN 978-988-9379-73-6"],[1,"no-ignored",865,53,"塚田拓郎"]]

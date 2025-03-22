@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",68,3," blank_name_sec2         = 從[[吉打蘇丹王朝]]獨立建立王國\n "]]

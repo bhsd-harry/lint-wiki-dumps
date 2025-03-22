@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",57,2,"[[Category:20世纪建立的高等院校]]"]]

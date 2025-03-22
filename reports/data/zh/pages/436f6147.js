@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",22,175,"[[中華民國文化部|文化部]]"],[1,"unmatched-tag",73,70,"</div>"]]

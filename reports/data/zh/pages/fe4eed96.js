@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",61,3," 民族 = [[汉族]]\n "]]

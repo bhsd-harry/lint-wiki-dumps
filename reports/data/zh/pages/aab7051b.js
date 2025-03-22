@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",48,23,"al=Panaturan 1992"]]

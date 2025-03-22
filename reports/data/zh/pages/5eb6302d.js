@@ -1,1 +1,0 @@
-window.data=[[4,"invalid-gallery",172,10,"thumb"],[1,"lonely-bracket",196,31,"[["],[2,"no-duplicate",196,31,"[[Admiral (France)"]]

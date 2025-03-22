@@ -1,1 +1,0 @@
-window.data=[[8,"no-ignored",863,3," 第50回"]]

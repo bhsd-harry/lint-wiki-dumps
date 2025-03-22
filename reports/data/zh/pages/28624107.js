@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",122,2,"[[Category:特莱维萨小說連續劇]]"]]

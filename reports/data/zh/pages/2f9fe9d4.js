@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",189,149,"colspan"],[4,"no-duplicate",189,70,"align=\"right\""],[5,"no-ignored",57,97,"  text-align:center; font-size:small;\""]]

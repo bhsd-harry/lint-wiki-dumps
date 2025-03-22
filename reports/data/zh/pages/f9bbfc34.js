@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",212,5,"[["],[1,"no-ignored",212,5,"[[麥玲玲]]||[[玲玲]]||風水師"]]

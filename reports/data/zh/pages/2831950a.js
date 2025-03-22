@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",28,288,"accessdate=2017-05-17"]]

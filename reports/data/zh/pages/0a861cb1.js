@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",64,1," * [[能率]]科函授教育课程"]]

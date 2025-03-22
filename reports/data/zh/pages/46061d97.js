@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,21,"|納粹德國政治宣傳"]]

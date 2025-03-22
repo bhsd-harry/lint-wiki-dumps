@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",136,99,"中央市政廳田富廳舍"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",399,3,"m={{flag icon|JPN}} Chasse' Roll<br>2010年（棗色）\n "]]

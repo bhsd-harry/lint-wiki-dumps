@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",88,2,"[[Category:台灣電子競技團隊]]"]]

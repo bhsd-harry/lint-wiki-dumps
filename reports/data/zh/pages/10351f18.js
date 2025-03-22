@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",94,4,"rowspan"],[1,"no-ignored",94,15,"|1996年"]]

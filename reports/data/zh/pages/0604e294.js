@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",54,1," * 日语沟通学科<ref group=\"注\"  name=\"日语沟通学科\"/>\n * 英语沟通学科<ref group=\"注\"  name=\"英语沟通学科\"/>"]]

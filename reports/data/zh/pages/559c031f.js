@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",344,2,"[[Category:2007年建立的奖项]]"]]

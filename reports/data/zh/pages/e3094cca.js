@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",172,168,"title=He, R., J. Lu, and J. Miao"]]

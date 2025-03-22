@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",14,208,"title= ''Liaoxiornis delicatus'' gen. et sp. nov., the smallest Mesozoic bird"]]

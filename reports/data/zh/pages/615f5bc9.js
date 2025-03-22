@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",27,24,"margin:"],[2,"no-duplicate",27,32,"0"],[1,"no-ignored",27,41," 1em\""]]

@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",123,2,"[[Category:區域主義 (國際關係)]]"]]

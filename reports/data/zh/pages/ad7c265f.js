@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",51,2,"[[Category:臺灣—巴西關係| ]]"]]

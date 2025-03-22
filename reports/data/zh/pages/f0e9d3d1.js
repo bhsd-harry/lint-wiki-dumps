@@ -1,1 +1,0 @@
-window.data=[[14,"illegal-attr",27,34,"colspan"],[4,"no-duplicate",27,34,"colspan=\"4\""]]

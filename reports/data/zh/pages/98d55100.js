@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",1944,32,"style=\"text-align: center\""],[5,"no-ignored",766,4,"  bgcolor#D0E7FF"],[1,"unclosed-table",2035,2,"{|"],[1,"unmatched-tag",2307,51,"</small>"]]

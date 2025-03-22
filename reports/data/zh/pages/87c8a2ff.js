@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",528,3,"2"],[2,"lonely-bracket",193,13,"{{"],[3,"no-ignored",261,3,"{{flagIOCathlete|[[Aleksandar Hristov|Hristov]]|BUL|1988年夏季}}<br>'''L''' 2–3 "],[2,"parsing-order",261,64,"<br>"]]

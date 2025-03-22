@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",482,3,"m={{flag icon|JPN}} Inducttee<br>2008年（深棗色）\n "]]

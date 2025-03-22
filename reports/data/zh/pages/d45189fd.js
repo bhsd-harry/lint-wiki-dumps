@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",47,3," aircraft_helicopter_cargo = \n "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",16,3,"folded=\n "],[1,"unmatched-tag",31,133,"</br>"]]

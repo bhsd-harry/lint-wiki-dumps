@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",19,3,"subdivision_type1 = 省\n "]]

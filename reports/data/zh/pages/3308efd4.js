@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",20,38,"  /<br "],[1,"tag-like",20,41,"<br"]]

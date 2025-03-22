@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",287,679,"'"],[1,"no-ignored",280,21,"  |  <span style=\"color: white;\">"],[1,"parsing-order",280,26,"<span style=\"color: white;\">"]]

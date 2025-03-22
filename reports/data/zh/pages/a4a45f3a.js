@@ -1,1 +1,0 @@
-window.data=[[69,"lonely-bracket",718,3,"{{"],[69,"no-ignored",718,3,"{{flagIPCmedalist"]]

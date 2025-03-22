@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",49,2,"[[Category:日語歌手]]"]]

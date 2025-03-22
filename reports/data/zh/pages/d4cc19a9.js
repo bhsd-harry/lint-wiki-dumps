@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",300,3,"m={{flag icon|USA}} Must Be Loved<br>1993年（栗色）\n "]]

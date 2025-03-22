@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",25,4,"File:WW2_Holocaust_Europe_map-fr.svg#/media/File:WW2_Holocaust_Europe_map-fr.svg"]]

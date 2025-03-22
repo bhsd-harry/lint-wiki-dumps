@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",52,1," * 造型艺术学科"],[1,"no-ignored",46,35,"全国学校総覧1968\""]]

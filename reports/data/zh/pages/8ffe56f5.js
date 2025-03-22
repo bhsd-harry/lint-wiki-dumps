@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",27,3," module = {{Infobox YouTube personality\n | embed                = yes\n | channel_name = sciencewillwin\n | channel_display_name = 朱學恒的阿宅萬事通事務所\n | genre"]]

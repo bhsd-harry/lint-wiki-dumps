@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",25,27,"{{"],[2,"lonely-http",52,66,"https://"]]

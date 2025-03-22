@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",465,3,"光之教会日曜学學校"]]

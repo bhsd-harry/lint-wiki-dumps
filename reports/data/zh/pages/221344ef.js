@@ -1,1 +1,0 @@
-window.data=[[22,"no-duplicate",2196,31,"align=\"center\""],[1,"tag-like",2368,493,"</ref"],[1,"unmatched-tag",1140,101,"</span>"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",81,2,"[[Category:簡姓|W慧]]"]]

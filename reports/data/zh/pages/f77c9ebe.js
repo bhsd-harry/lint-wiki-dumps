@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",34,1," 機上載有282名乘客，18名組員，機師為澳洲籍。<ref>[https://www.facebook.com/Emirates/posts/925379224238494 Emirates Media Statement 5] {{Wayback|url=https://www.facebook."]]

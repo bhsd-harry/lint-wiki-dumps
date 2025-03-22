@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",63,2,"[[Category:中国人民解放军开国少将]]"]]

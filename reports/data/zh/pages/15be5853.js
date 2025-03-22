@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",42,24,"style=\"background:Black; Color:white\""],[4,"no-ignored",42,61,"text-align:center\"  "]]

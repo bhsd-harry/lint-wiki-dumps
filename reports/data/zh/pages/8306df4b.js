@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",42,45,"vignette"],[1,"unmatched-tag",67,2,"</div>"]]

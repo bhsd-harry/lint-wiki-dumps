@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",21,3," writer = {{Plainlist|\n * [[Efthimis Filippou]]\n * 尤格·藍西莫\n }}\n "]]

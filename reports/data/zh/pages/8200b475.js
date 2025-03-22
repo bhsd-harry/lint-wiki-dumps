@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",60,2,"[[Category:全国名中医]]"]]

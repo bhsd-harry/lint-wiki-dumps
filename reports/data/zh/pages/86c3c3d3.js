@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",50,29,"[["],[2,"no-duplicate",50,29,"[[Mosaics of Delos"]]

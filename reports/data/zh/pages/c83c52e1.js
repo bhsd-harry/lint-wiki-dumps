@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",59,2,"[[Category:2023年冬季世界大學運動會代表團|中]]"]]

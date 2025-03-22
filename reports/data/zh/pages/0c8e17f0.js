@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",195,1,"\n\n 中國足球協會甲級聯賽"],[11,"pipe-like",163,43,"||"]]

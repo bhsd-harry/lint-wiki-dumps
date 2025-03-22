@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:哥本哈根大學校友]]"]]

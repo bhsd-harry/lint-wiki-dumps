@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",78,1," -"],[1,"illegal-attr",69,70,"border:double"],[2,"no-ignored",69,48,"; white-space:nowrap; "]]

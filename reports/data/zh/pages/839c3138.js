@@ -1,1 +1,0 @@
-window.data=[[10,"illegal-attr",492,61,"Population"],[1,"lonely-bracket",373,65,"]]"],[2,"no-duplicate",492,99,"Ex"],[1,"no-ignored",492,78," (nom) || "]]

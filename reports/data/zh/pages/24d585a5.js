@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",327,93,"title=http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=2019&hitYear=2019&termGbn=year&year_time=3 "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",59,832,"}}"],[1,"nested-link",179,920,"[[The Guardian]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"parsing-order",9,26,"<ref>{{Cite book|title=Taylor 1976|page=354}}</ref>"]]

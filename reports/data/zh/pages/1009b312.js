@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",57,1," * 英文科\n * 商業科\n ** 第一部\n ** 第二部"]]

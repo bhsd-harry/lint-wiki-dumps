@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",197,2,"[[Category:日本女性偶像]]"]]

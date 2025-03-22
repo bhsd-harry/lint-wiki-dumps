@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",130,3," 五日圓硬幣"]]

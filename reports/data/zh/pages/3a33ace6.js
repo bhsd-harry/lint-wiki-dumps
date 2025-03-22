@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",74,36,"LKDP"],[4,"no-ignored",76,29,"  <!–– LŽP ––>  "]]

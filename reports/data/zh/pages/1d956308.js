@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",427,38,"<div style=\"text-align: left;\">临贺县、冯乘县、富川县、封阳县、谢沐县、兴安县、宁新县、开建县、抚宁县</div>"],[2,"parsing-order",427,38,"<div style=\"text-align: left;\">"]]

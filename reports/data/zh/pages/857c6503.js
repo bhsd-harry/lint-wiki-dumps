@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",3,3," G2  =Unit\n "]]

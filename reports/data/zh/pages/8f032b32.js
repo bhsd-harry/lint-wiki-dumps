@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",60,2,"[[Category:行政院政務委員]]"]]

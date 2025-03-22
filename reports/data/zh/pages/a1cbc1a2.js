@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",82,31,"; color:snow\"  "]]

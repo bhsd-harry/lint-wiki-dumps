@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",942,1," [[File:CNO Cycle.svg|200px|thumbnail|碳氮氧循環]]"]]

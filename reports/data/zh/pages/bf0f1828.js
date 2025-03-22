@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",32,45,"alt=Plane in flight with bits coming off."]]

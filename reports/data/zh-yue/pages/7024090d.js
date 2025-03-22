@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",13,3,"職業 = [[演員]]、[[模特兒]]\n "]]

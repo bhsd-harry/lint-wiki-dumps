@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",35,2,"'"],[25,"no-ignored",41,3,"年<br>度"],[36,"parsing-order",41,4,"<br>"]]

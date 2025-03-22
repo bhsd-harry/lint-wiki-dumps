@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",50,1,"\n * [[牙科护士]]学科<ref group=\"注\"  name=\"牙科护士学科\"/>\n * [[牙科技师]]学科<ref group=\"注\"  name=\"牙科技师学科\"/>"]]

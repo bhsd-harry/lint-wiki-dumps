@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",200,276,"[[布洛芬]]"]]

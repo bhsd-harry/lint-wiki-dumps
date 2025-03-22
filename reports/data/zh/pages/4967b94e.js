@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",93,42,"  |+七项全能"]]

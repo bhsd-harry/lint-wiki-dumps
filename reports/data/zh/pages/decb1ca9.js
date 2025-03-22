@@ -1,1 +1,0 @@
-window.data=[[12,"no-duplicate",59,2,"[[Category:雪崩工作室遊戲]]"]]

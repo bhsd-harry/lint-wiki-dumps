@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",6,3,"zh:珍奇之物;zh-tw:列車捎來的幸福;zh-hk:最珍貴的貨物;\n "]]

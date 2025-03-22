@@ -1,1 +1,0 @@
-window.data=[[8,"illegal-attr",163,18,"Taiwan"],[4,"no-ignored",163,8," [Samsung "]]

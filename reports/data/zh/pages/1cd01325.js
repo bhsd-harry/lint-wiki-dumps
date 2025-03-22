@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",3,7,"d1=Florence/Firenze \n "]]

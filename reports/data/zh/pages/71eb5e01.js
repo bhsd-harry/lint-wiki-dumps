@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",61,2,"[[Category:语言便利市镇]]"]]

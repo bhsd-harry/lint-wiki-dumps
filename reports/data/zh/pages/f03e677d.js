@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",289,2,"[[Category:校園暴力題材電影|T]]"]]

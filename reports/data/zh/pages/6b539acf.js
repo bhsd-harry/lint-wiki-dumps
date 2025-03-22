@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",50,201,"[[Yaeyama Islands]]"],[1,"unmatched-tag",21,53,"</sub>"]]

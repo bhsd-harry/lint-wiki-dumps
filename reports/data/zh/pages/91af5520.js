@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",49,34,"["],[1,"no-ignored",61,55,";align=\"left\"  "]]

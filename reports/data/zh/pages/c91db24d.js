@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",127,1," <?---file:Jack Daniel (brewer).JPG|创始人杰克丹尼—no file>"]]

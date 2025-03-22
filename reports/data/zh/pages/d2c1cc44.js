@@ -1,1 +1,0 @@
-window.data=[[3,"fostered-content",78,1," ;小北边门（取意一巷站位，C出入口旁）\n {{沈阳公交线路列表|width=100%|format=|end=yes|117}}"]]

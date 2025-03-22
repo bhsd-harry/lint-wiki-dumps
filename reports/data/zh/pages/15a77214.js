@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",19,2,"[[Category:朝鮮民主主義人民共和國音樂家]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",59,1," * 保育科<ref name=\"九州龙谷短期大学的历史\"/>\n * 人类[[群体]]学科<ref name=\"九州龙谷短期大学的历史\"/><ref group=\"注\"  name=\"人类群体学科\">日文：{{lang|ja|人間コミュニティー学科}}</ref>成立2002年。"]]

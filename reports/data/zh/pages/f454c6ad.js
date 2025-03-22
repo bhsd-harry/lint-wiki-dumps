@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",291,65,"Fall"],[2,"no-ignored",291,3,"{{flagIOCathlete|[[Dan Payne|Payne]]|CAN|1988年夏季}}<br>'''L''' "],[2,"parsing-order",291,53,"<br>"]]

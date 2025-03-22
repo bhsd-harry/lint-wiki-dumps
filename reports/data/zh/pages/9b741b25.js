@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",64,37,"alt = 粉紫色的球面，燈光斜照，產生陰影。"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",9,2,"[[Category:英國女子網球運動員]]"]]

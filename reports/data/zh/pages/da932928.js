@@ -1,1 +1,0 @@
-window.data=[[12,"no-duplicate",16,3," party1 = Democratic Party (United States)\n "]]

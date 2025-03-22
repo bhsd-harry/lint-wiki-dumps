@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",73,2,"[[Category:明末民变政权]]"]]

@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",872,18,"nowrap"],[2,"no-duplicate",1241,85,"缩略图"]]

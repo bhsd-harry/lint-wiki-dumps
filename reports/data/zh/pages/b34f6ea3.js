@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",1,11," G1 = 烏克蘭地名 "]]

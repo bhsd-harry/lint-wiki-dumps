@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",32,2,"[[Category:美國LGBT政治人物]]"]]

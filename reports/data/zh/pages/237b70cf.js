@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",63,1," * 文化教养学科<ref group=\"注\"  name=\"招生到1999年\"/>\n * 食物营养学科<ref group=\"注\"  name=\"招生到1999年\"/>\n * 第一护理学科<ref group=\"注\"  name=\"关于第一护理学科\"/>\n * 第二护理学科<ref group=\""]]

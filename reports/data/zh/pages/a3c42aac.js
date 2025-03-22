@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",19,2,"[[Category:金线鱼属|黄缘金线鱼]]"]]

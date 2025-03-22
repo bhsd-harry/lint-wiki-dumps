@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",80,6,"許Socles<br />"],[1,"parsing-order",80,13,"<br />"]]

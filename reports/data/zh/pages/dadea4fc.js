@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",402,2,"[[Category:Gogoro]]"]]

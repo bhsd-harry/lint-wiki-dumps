@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",17,2,"[[Category:Languages with neither ISO nor Glottolog code]]"]]

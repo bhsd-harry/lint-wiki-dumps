@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",34,28,"table"],[4,"no-ignored",34,4," '''Cells left-aligned, "]]

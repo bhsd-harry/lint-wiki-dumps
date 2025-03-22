@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",54,1," * [[电子学|电子]][[信息学]]科\n * [[电子学|电子]]工学科"],[1,"unmatched-tag",60,9,"</del>"]]

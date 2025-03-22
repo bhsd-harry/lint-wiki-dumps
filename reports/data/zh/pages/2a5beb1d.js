@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",66,3," longnote5 = 原曲為[[財津和夫]]的《償いの日々》\n "]]

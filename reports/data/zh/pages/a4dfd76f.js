@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",47,266,"name=Wright2004/<ref"],[1,"tag-like",47,282,"<ref"]]

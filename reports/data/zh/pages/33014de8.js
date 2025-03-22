@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",99,19,"{{"],[2,"no-duplicate",99,19,"{{:en:Strongylocentrotus droebachiensis"]]

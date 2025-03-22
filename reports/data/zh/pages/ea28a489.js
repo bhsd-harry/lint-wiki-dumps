@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",43,11,"color"],[4,"no-duplicate",26,36,"cellpadding=\"0\""]]

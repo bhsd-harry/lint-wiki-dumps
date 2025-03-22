@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",144,28,"padding"],[3,"no-duplicate",144,40,"0"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",5,1,"\n ==參考文獻==\n {{reflist|2}}\n {{清朝人物小作品}}\n {{光緒二十年甲午恩科殿試金榜}}\n\n [[Category:陈姓]]\n [[Category:光緒十九年癸巳恩科四川鄉試舉人]]\n {{Authority control}}"],[1,"unclosed-table",4,2,"{|"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",145,3,"5"],[1,"no-ignored",145,4," '''Q''' "]]

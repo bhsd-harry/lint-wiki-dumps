@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",33,349,"[[Uppsala General Catalogue|UGC]]"]]

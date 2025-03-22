@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",3,3,"1=zh-hans:迈克;zh-hk:米克;zh-tw:麥克;\n "],[1,"unmatched-tag",14,36,"</small>"]]

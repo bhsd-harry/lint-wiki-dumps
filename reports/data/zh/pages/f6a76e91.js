@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",35,47,"thumbtime=7"]]

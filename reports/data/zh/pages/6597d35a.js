@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",130,2,"[[Category:鎌倉市出身人物]]"],[25,"no-ignored",44,3,"年<br>度"],[36,"parsing-order",44,4,"<br>"]]

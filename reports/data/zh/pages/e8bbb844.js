@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",24,3,"s1 = 华北人民政府\n "]]

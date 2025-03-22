@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",149,244,"["],[1,"nested-link",147,1201,"[[法國國民議會]]"]]

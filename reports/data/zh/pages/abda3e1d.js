@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,27,"|海軍部 (英國)"]]

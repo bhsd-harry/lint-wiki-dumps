@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",57,1," * 生活环境学科\n * 食物营养学科\n * 幼儿教育学科\n * 经营情报学科"]]

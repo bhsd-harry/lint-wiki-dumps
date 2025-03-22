@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",52,2,"[[Category:巴伐利亚州市镇]]"]]

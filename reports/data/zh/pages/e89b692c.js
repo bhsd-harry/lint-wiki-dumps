@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",122,33,"style=\"border-collapse:collapse\""]]

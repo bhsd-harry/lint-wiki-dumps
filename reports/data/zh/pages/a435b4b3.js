@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",278,876,"{{"],[2,"no-duplicate",278,852,"name=\"1985-k-28\""],[1,"no-ignored",278,868,"/，先頭部新安装{{tsl|ja|信号炎管||信号发射管}}<ref "],[1,"tag-like",278,898,"<ref"]]

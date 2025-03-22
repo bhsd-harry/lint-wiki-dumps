@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",11,102,"Müller_et.al.2023''"]]

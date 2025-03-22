@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",72,23,"]]"],[2,"no-duplicate",188,33,"style=\"font-size: 90%;\""]]

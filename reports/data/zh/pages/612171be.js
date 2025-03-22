@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",622,58,"]]"],[1,"no-ignored",222,19," =\"註\""]]

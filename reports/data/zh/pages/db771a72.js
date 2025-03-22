@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",117,4,"오 마이 금비"]]

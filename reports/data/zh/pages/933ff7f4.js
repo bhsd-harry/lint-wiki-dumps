@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",943,3,"4電視台={{flagicon|HKG}} [[Hands Up Channel]]→[[SUPER Kids Channel]]\n "]]

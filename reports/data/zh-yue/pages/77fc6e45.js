@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",375,10,"shading"],[1,"lonely-bracket",375,21,"}}"],[2,"no-ignored",375,3,"{Party "]]

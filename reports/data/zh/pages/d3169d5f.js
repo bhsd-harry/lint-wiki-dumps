@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",110,46,"["],[1,"no-ignored",81,92," 陳志賢”"]]

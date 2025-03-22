@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",64,108,"[[Lubomir Stoykov]]"]]

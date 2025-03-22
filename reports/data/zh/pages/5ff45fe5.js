@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",1457,5,"class=\"wikitable\""],[6,"unmatched-tag",1033,2,"</td>"]]

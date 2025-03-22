@@ -1,1 +1,0 @@
-window.data=[[3,"no-duplicate",77,51,"縮圖"]]

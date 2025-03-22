@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",23,3," highlights   = <!-- 生涯焦點與獲得獎項 -->\n "]]

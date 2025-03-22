@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",213,13,"www.getit01.com"],[1,"lonely-bracket",213,205,"{{"],[1,"lonely-http",213,5,"https://"],[2,"no-ignored",213,3,"即[https://"]]

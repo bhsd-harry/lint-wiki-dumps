@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",170,2,"[[Category:2018年世界盃足球賽主教練]]"]]

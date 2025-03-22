@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",37,3," 開始 = {{start date|2024|3|24}}\n "]]

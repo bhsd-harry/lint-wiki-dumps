@@ -1,1 +1,0 @@
-window.data=[[4,"tag-like",36,3,"<script"]]

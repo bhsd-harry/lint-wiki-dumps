@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",3270,24,"valign"],[1,"lonely-apos",1073,4,"'"],[3,"lonely-bracket",22,28,"["],[2,"lonely-http",4236,53,"ISBN"]]

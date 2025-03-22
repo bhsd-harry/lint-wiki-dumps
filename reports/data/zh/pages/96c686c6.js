@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",81,26,"[["],[1,"no-ignored",81,4,"|-center>鄭俊赫||<center>[[尹施允]]||<center>[[賀宇傑]]||賢慶與寶石的兒子，海莉的哥哥。就讀風波高中。不愛念書，衝動易惹事，擅長High Kick打架，是講義氣重友情的熱血青年。因為曾與第一位家教老師感情很好，起初很排斥新來的。單戀申世京。"],[2,"parsing-order",81,18,"<center>"],[1,"unmatched-tag",81,35,"<center>"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",32,2,"[[Category:老挝动物]]"]]

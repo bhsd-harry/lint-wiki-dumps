@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-gallery",35,80,"thumb"],[1,"no-ignored",34,1," [[Image:The Red Lodge Museum - Bristol - Fireplace.jpg|"]]

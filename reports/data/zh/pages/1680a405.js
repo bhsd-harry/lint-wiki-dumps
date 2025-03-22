@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",90,2,"[[Category:德克薩斯州棒球運動員]]"]]

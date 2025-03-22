@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",758,1," '''天使隊的名人堂選手"],[3,"illegal-attr",757,4,"http:"],[1,"no-ignored",757,29,"/index.php?title=Los_Angeles_Angels_of_Anaheim&action=edit&section=33 "],[1,"unclosed-table",757,2,"{|"]]

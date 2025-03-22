@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",48,2,"[[Category:澳大利亞鳥類]]"]]

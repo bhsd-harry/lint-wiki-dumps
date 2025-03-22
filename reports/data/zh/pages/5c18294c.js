@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",271,1," '''甲型流感H5N1亞型在人類感染確診病例統計'''<span style=\"float: right; font-size: 90%;\">（資料來源：[http://www.who.int/influenza/human_animal_interface/avian_influenza/h5n"]]

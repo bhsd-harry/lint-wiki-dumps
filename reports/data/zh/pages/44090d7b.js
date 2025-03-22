@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",447,2,"[[Category:2025年蘇迪曼盃]]"]]

@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",41,2,"[[Category:西藏自治區背景作品]]"]]

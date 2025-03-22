@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",122,146,"title=平成 26 年度札幌市民経済計算 結果の概要 "]]

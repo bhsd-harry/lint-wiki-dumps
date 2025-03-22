@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",72,4,"Madden"],[1,"no-ignored",72,10," (series)"]]

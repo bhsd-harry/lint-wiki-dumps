@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",25,4,"[["],[1,"no-ignored",25,4,"[[剑桥国际学院]] || [[喀土穆]] || 私立"]]

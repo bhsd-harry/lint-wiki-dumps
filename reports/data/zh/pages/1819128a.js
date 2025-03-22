@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",11,3," released = {{start date|2003|10|27}}\n "]]

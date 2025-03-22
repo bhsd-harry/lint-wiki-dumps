@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",70,4,"緬哥(阿嬰母親)"]]

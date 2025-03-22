@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",126,2,"[[Category:曾姓]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",247,1,"\n\n ==註釋==\n {{reflist}}\n\n ==參考文獻==\n {{refbegin|indent=yes|2}}\n ;語言學\n * Omar Ka: ''Wolof Phonology and Morphology''.  University Press of America, Lanha"],[2,"unclosed-table",244,2,"{|"]]

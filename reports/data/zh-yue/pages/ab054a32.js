@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,19,"|單鏡頭反光相機"]]

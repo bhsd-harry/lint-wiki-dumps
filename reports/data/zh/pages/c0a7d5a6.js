@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",3,34,"href"],[1,"lonely-bracket",9,113,"]"]]

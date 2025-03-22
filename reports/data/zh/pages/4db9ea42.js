@@ -1,1 +1,0 @@
-window.data=[[19,"no-ignored",546,56,"級"]]

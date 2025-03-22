@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",57,89,"'"],[1,"lonely-bracket",72,61,"]]"],[4,"no-duplicate",84,2,"[[Category:美國軍用直升機]]"]]

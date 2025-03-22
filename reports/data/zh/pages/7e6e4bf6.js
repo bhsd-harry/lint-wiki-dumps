@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",49,28,"Acts Rednaxela"],[1,"unmatched-tag",61,2,"</div>"]]

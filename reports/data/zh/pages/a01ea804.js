@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",82,1," == 行政單位 ==\n <table width=\"100%\"><tr><td valign=top>"],[1,"unclosed-table",49,2,"{|"]]

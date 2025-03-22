@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",483,3,"mmf={{flag icon|USA}} Princess Pout\n "]]

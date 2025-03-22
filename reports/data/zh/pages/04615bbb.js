@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",25,3," opened = 2023年6月28日\n "]]

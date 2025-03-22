@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",120,2,"[[Category:ITU-T建议书]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",92,164,"}}"],[1,"no-ignored",92,68,"  <math>\\tfrac{pV}{dm^3\\cdot{atm}}</math>{NoteTag"],[1,"parsing-order",92,70,"<math>\\tfrac{pV}{dm^3\\cdot{atm}}</math>"]]

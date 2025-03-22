@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",850,392,"}"],[1,"no-ignored",226,95,"<tbody>"],[1,"tag-like",226,95,"<tbody"]]

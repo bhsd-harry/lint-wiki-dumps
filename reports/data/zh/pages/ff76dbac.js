@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",48,2,"[[Category:1905年完工橋梁]]"]]

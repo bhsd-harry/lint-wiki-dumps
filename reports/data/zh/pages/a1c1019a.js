@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",10,3," 教育程度 = \n "]]

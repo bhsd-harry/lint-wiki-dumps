@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",104,5,"style=\"background:#FF79BC\""],[1,"no-ignored",108,4,"《Circus》"]]

@@ -1,1 +1,0 @@
-window.data=[[3,"no-duplicate",55,2,"[[Category:中国残疾人奥林匹克运动会银牌得主]]"]]

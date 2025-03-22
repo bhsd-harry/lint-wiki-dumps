@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",49,443,"}"],[1,"lonely-http",160,124,"ISBN"],[1,"unmatched-tag",160,1022,"</blockquote>"]]

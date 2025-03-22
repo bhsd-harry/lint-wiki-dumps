@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",181,2,"}}"],[7,"no-duplicate",175,103,"縣結sible list\n "]]

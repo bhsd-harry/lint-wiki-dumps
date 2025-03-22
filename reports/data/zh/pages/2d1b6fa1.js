@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",297,2,"[[Category:2016年日本小說]]"]]

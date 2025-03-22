@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",70,32,"style=\"  font-size: 90% width= align= margin:auto;\""]]

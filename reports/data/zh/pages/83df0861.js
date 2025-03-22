@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",43,1," [[Image:OCT B-Scan Setup.GIF|thumb|375px|图2. 典型的单点光学相干断层扫描的光学设备。通过扫描照射在样品上的光束可以以微米级的分辨率以无损的方式重建样品的截面图，深度最深可达3mm。]]"]]

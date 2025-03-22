@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",247,996,"[[新浪微博]]"],[2,"no-duplicate",96,24,"width=\"80%\""],[2,"unmatched-tag",125,400,"</SMALL>"]]

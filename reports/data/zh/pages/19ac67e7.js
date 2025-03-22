@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",3,4," type = Planetary\n  "]]

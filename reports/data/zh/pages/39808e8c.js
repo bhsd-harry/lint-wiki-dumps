@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",423,1," :* '''{{ruby|憤怒之矛|Angry Spear}}'''：能將高爾的怒氣具體化為怪物「{{ruby|憤怒|Angry}}」，怪物所擁有的強度與高爾憤怒的程度成正比。\n :* '''{{ruby|冷靜的判斷能力|Cool Decision}}'''：能將敵人全身結凍，前提是對方必須碰觸到"]]

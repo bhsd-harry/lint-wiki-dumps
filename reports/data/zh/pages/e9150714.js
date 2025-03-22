@@ -1,1 +1,0 @@
-window.data=[[8,"illegal-attr",424,24,"rowspan"],[1,"lonely-bracket",162,5,"{"],[4,"no-ignored",424,75," #f6e39c;"]]

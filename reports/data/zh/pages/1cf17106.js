@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-isbn",779,37,"ISBN 4344025912"],[1,"lonely-bracket",709,18,"}}"]]

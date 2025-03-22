@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",3,37,"A slice of a [[layer cake|layered]] coconut cake"]]

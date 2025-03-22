@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",230,5,"border=\"1\""]]

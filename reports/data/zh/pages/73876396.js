@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",48,2633,"wid"],[2,"lonely-bracket",50,10,"{{"],[1,"no-ignored",48,2636,"\n\n 闪锌矿的化学式为{{chem2|(Zn,Fe)S}}；铁含量一般随着地层温度的升高而上升，最高可达40%。<ref "],[1,"tag-like",50,55,"<ref"]]

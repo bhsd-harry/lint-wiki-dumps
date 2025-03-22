@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",14,34,"alt Illustration of Newton's method"]]

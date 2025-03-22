@@ -1,1 +1,0 @@
-window.data=[[1,"unescaped",36,69,"="]]

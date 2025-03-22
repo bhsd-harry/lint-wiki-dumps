@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",24,3,"15zh-hans:灰狹蛇族;zh-tw:黃顎蛇族;\n "]]

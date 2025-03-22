@@ -1,1 +1,0 @@
-window.data=[[1,"parsing-order",10,27,"<ref name=summary>{{Cite web|title=Boom - Overture|url=https://boomsupersonic.com/overture|access-date=2023-03-17|website=Boom Supersonic|language=en|"]]

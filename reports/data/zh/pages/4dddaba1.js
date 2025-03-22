@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",234,32,"'"],[9,"no-ignored",579,20," font-size:small;"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",176,16,"nowrap"],[1,"nested-link",180,180,"[[NHK]]"]]

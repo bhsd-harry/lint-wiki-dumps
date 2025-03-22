@@ -1,1 +1,0 @@
-window.data=[[140,"no-duplicate",14,34,"style=\"margin:auto\""]]

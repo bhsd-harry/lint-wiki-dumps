@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-gallery",86,56,"250px"],[1,"lonely-bracket",87,62,"]]"]]

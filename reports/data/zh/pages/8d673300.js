@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",1067,1,"\n == 人口結構 ==\n === 歷年年齡層統計 ==="],[1,"unclosed-table",1066,2,"{|"]]

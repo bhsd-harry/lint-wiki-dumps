@@ -1,1 +1,0 @@
-window.data=[[12,"no-duplicate",38,3,"years5         = 2020–2021\n "]]

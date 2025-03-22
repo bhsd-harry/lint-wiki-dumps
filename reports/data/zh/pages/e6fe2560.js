@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",99,1,"\n ==主持作品==\n ===電視節目==="],[1,"unclosed-table",58,2,"{|"]]

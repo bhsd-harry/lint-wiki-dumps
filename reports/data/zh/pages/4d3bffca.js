@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",143,109,"Air"],[1,"no-ignored",234,4,"d|ACC"]]

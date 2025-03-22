@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",51,1," * [[法律哲学|法]]科\n ** [[法律]]专攻\n ** 税法[[会计学|会计]]专攻<ref group=\"注\"  name=\"税法会计专攻\">日语:{{lang|ja|税法経理専攻}}</ref>"]]

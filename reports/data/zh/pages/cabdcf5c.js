@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",70,1," <--Image:Icaria Fossae Graben.JPG|高分辨率成像科学设备显示的[[法厄同区]][[伊卡里亚堑沟群]]地堑，点击图片可查看[[尘暴痕迹|尘卷风痕迹]]。-->"]]

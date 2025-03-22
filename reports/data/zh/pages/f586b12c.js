@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",10,967,"}}"],[1,"tag-like",10,686,"<cite"]]

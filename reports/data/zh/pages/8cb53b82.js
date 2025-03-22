@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",25,2,"[[Category:奥地利帝国政治]]"]]

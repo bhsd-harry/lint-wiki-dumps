@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",274,7,"span"],[1,"invalid-isbn",286,116,"ISBN 978-0-375-421844"],[8,"no-duplicate",39,5,"border=\"0\""]]

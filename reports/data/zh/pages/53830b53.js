@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",28,40,"Iyo_City_Hall_20240428_(1)"]]

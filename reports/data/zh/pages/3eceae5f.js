@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",22,2,"[[Category:黄姑鱼属|元鼎黄姑鱼]]"]]

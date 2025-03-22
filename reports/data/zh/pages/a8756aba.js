@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",81,11,"width"],[4,"invalid-gallery",82,25,"thumb"],[1,"nested-link",48,313,"[[新大陸]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",76,13,"Your"],[2,"no-ignored",76,3,"問鼎奧斯卡(For "]]

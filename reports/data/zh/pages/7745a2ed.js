@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",287,1," [[File:Taipei Metro Trucks.svg|缩略图|210px|右|[[臺北都會區]]捷運軌道配置圖，包括臺北捷運、[[新北捷運]]及[[桃園捷運]]。]]\n [[File:TPERMTC.svg|右|210px|缩略图|規劃中的臺北捷運路線圖，此版本包含已廢除並更改規劃為[[環"]]

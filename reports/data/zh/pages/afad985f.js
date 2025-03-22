@@ -1,1 +1,0 @@
-window.data=[[26,"illegal-attr",240,4,"QP::NUMFORMAT:"],[1,"lonely-apos",685,104,"'"]]

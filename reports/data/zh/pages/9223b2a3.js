@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",82,1," === 其他相位 ===\n\n"],[2,"unclosed-table",57,2,"{|"]]

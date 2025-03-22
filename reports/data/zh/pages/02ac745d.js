@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",205,10,"'"],[1,"no-ignored",10,22,"File:Brighton_&_Hove_Albion_logo.svg#filelinks"]]

@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",20,3," succession2 = [[阿尔巴尼亚共和国]][[阿尔巴尼亚总统|总统]]\n "]]

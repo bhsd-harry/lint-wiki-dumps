@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",72,1," 本站有四個出入口。"]]

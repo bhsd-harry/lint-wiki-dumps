@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",546,66,"200px"],[1,"tag-like",147,1105,"<span"],[1,"unmatched-tag",433,983,"</sub>"]]

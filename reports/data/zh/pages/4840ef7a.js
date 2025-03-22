@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",143,2,"[[Category:2019年年度最佳桌遊]]"]]

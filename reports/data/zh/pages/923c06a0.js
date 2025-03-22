@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",26,2,"[[分類:新興宗教批評者]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",1349,2,"[[Category:歌手 (湖南衛視)|参]]"]]

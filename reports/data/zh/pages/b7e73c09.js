@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",2070,2,"[[Category:21世纪美国女演员]]"]]

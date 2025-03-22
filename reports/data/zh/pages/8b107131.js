@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",202,51,"table"],[2,"no-duplicate",238,55,"Right"]]

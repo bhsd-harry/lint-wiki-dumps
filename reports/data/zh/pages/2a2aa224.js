@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",7,31,"[[伊乌斯峡谷]]部分区域以及位于南侧边缘的卢罗斯谷全景图。File:Louresvallesmola.jpg"]]

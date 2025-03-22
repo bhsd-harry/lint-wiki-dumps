@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",92,1," ;奥体中心北门（站位位于天赐街，C出入口向西约300米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|浑雷}}"]]

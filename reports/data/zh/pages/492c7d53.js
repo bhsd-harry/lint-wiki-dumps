@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",38,4,"爱奇艺"]]

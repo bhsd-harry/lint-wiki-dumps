@@ -1,1 +1,0 @@
-window.data=[[3,"invalid-gallery",360,53,"thumb"],[6,"no-duplicate",352,21,"澳洲皇家空軍的一架F-111戰鬥轟炸機"]]

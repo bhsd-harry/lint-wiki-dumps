@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",96,355,"date=[[人民日报]]"]]

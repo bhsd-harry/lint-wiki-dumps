@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",12,3," doors = [[自杀式车门]]\n "]]

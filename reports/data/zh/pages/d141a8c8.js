@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",39,943,"[[SM ROOKIES]]"],[1,"unmatched-tag",8,161,"</small>"]]

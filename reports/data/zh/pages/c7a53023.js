@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",73,3,"successor7       = [[韋力生]]\n "]]

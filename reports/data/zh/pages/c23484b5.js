@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",882,35,"cite journal\n # 线粒体的RNA聚合酶可被原核细胞RNA聚合酶抑制剂利福霉素所抑制，但不被真核细胞RNA聚合酶抑制剂放线菌素D所抑制等\n  "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",15,38,"Nam Kee Nieuwmarkt aan de Geldersekade in Amsterdam"]]

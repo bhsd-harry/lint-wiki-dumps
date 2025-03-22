@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",151,552,"archive-url=https://archive.today/20130107012637/http://www.mnhn.fr/museum/foffice/science/science/DocScientifique/publications/presentation/publicati"]]

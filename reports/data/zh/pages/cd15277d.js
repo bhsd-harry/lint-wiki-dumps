@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",12,14,"Rumbelow, Donald.  \"The Complete Jack the Ripper\", Penguin Books, 2004, p156."]]

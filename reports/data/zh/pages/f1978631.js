@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",125,1,"\n == 参见 ==\n *[[济南奥林匹克体育中心]]\n *[[济南奥林匹克体育中心体育馆]]\n\n ==参考文献==\n {{Reflist}}\n {{s-start}}\n {{succession box\n |before = [[南京奥林匹克体育中心]]<br>[[南京市|南京]]\n |title"],[1,"unclosed-table",38,2,"{|"]]

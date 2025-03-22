@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",31,16,"[["],[1,"no-ignored",31,4,"2003年||（電視劇）[[星願|星願]]"]]

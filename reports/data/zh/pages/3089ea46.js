@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",92,63,"text-align:"],[2,"no-duplicate",52,24,"style=\"font-size:90% style=\""],[5,"no-ignored",52,52,"width:75%;text-align: center;\"\"  "]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",99,1," <ref>{{cite web |url=http://www.fis-ski.com/alpine-skiing/news-multimedia/official-communications/article=cancelled-downhill-from-moritz-sui-will-rep"]]

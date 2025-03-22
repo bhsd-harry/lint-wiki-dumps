@@ -1,1 +1,0 @@
-window.data=[[8,"illegal-attr",190,4,"Jean-Pierre"],[4,"no-duplicate",19,21,"style=\"font-size:90%\""],[5,"no-ignored",190,20," <br>  "],[5,"parsing-order",190,21,"<br>"]]

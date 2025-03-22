@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",47,30,"3"],[4,"lonely-bracket",47,5,"[["],[2,"no-ignored",47,4," [[喜歡祖兒]] || 雙腳著地 || - || "]]

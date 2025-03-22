@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",507,3," 盧傑 (練馬師)"]]

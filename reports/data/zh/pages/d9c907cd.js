@@ -1,1 +1,0 @@
-window.data=[[12,"no-duplicate",120,2,"[[Category:在世人物]]"]]

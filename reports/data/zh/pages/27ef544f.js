@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",40,138,"title=https://www.sport.gov.cn/n20001280/n20067662/n20067613/c24720004/content.html"]]

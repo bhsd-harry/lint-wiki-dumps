@@ -1,1 +1,0 @@
-window.data=[[5,"parsing-order",20,76,"<ref name=O_D_summ>{{cite web |url=https://www.boeing.com/commercial/#/orders-deliveries |title=Boeing: Orders and Deliveries (updated monthly) |publi"]]

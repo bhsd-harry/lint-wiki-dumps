@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",45,4," |年份||女名||男名 "]]

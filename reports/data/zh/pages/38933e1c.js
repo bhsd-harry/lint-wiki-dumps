@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",120,1," *'''粗體'''為個人專輯。"]]

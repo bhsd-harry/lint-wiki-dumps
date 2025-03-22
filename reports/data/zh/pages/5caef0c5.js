@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",75,2,"[[Category:法国制造公司]]"]]

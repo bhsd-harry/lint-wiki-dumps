@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",99,22,"  =\"critical intro\""]]

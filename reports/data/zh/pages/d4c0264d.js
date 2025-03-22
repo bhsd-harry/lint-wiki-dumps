@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",42,1," * [[英国文学|英文]][[科系|科]]"]]

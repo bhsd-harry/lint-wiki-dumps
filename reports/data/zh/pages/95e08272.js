@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",79,44,"align"],[1,"no-ignored",80,1," File::National Guard of Ukraine.png"]]

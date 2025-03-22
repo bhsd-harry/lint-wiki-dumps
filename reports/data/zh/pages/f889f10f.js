@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",1224,1," ----\n {{Football box\n | date         = {{Start date|1995|07|01|df=y}}\n | time         =  \n | team1        = [[斯特拉斯堡競賽會|斯特拉斯堡]] {{flagicon|FRA}}\n | sc"]]

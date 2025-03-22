@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-gallery",751,44,"thumb"],[4,"no-duplicate",236,24,"“旅居者”漫游车正在分析瑜伽石。File:NASA-MarsRock-Yogi-SuperRes.jpg"],[1,"no-ignored",570,1," Image {{Curiosity Mission Timer}}:PIA16187-MarsCuriosityRover-Goulburn-20120819.jpg|2012年8月17日，“好奇号”探测车观察到的古[[河床]]-火星“[[古尔本（火星）|古尔本]][[露头|岩石露头]]。"]]

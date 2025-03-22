@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",326,1," [[File:Commentators EuroBasket 2011.jpg|300px|thumb|TV commentators for EuroBasket 2011]]"],[1,"illegal-attr",226,14,"nowrap"]]

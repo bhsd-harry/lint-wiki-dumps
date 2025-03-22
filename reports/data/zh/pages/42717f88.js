@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",155,2,"[[Category:安葬於克里姆林宮紅場墓園者]]"]]

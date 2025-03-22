@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",23,3," years7         = 2022 "]]

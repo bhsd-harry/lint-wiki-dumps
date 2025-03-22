@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",262,2,"[[Category:京阪電氣鐵道轉乘車站]]"]]

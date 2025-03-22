@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",42,643,"Ymz=[[羊敏正]]"]]

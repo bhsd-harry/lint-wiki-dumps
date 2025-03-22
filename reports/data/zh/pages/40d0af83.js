@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",13,59," name\"Cunningham2012\""]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",58,2,"[[Category:福建省人大常委会副主任]]"]]

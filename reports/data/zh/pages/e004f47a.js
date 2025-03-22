@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",222,1,"\n === 創作作品 ===\n <ref>{{Cite web|url=https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10018130|title=KOMCA – 10018130 (SH2O)|accessdat"],[1,"no-ignored",578,29,";colspan=\"6\"  |各台冠軍歌曲獎座統計"],[1,"unclosed-table",196,2,"{|"]]

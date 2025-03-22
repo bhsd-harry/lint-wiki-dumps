@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",306,4,"Synchronized"],[2,"no-duplicate",333,4,"HEY"],[4,"no-ignored",306,16," ～シンクロ～"]]

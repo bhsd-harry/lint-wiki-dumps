@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",82,2,"[[Category:20世紀美國心理學家]]"]]

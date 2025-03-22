@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",2128,63,"border-spacing:"],[3,"no-ignored",2128,49,"; width:100%; "],[1,"unclosed-table",2886,2,"{|"]]

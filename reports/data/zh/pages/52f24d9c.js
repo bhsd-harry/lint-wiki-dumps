@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",219,122,"]"],[4,"no-duplicate",64,24,"style=\"text-align:center\""],[1,"no-ignored",77,3,"在不瘋狂就等死"]]

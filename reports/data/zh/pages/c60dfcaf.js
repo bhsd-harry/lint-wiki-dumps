@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",883,2,"[[Category:偶像題材電子遊戲]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",636,2,"[[Category:藥物題材作品|C]]"]]

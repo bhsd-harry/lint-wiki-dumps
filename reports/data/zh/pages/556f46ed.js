@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",47,1," * [[英语]]科\n * 心理学科"],[1,"unclosed-table",51,2,"{|"]]

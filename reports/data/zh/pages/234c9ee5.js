@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",187,569,"["],[8,"no-duplicate",214,5,"class=\"wikitable\""]]

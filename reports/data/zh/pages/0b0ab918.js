@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",10,3," history = 1896年 - 至今\n "]]

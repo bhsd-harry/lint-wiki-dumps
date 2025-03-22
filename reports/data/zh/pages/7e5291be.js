@@ -1,1 +1,0 @@
-window.data=[[6,"lonely-bracket",95,36,"[["],[6,"no-duplicate",95,5,"align=\"center\""],[3,"no-ignored",95,35,"|[[Yves Clausse]]"]]

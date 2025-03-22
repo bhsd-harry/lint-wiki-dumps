@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",67,56,"[["],[2,"no-duplicate",67,46,"一群橫斑梅花雀 攝於[[iSimangaliso Wetland Park"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",37,2,"[[Category:處決於倫敦塔者]]"]]

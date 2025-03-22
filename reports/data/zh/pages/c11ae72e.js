@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",34,1174,"{{"],[1,"no-ignored",349,3,"在第二集9:30出場"]]

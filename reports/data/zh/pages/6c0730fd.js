@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",170,5,"bgcolor=\"#FFFFFF\""]]

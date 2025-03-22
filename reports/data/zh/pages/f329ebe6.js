@@ -1,1 +1,0 @@
-window.data=[[14,"invalid-gallery",64,45,"right"]]

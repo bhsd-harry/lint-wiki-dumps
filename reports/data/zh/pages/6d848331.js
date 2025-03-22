@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-isbn",135,8,"ISBN 978-954-8783-73-9"],[10,"no-duplicate",4,27,"=\n "]]

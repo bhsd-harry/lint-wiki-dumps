@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",10,3," native_name        = {{lang|fr|Forces Armées Maliennes}}\n "]]

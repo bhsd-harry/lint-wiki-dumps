@@ -1,1 +1,0 @@
-window.data=[[10,"no-duplicate",54,2,"[[Category:1858年冲突]]"]]

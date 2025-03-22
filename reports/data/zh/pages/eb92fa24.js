@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",3851,20,"min-width"],[12,"no-duplicate",1202,17,"style=\"background-color:#EEEEEE;\""],[1,"no-ignored",2462,20," ; text-align:center;\""]]

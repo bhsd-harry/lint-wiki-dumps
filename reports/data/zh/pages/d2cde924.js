@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",168,2,"[[Category:香港理工大學教師]]"],[17,"unmatched-tag",59,16,"<center>"]]

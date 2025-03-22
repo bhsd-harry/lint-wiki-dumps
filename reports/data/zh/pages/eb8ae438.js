@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",46,1," * 保育[[科系|科]]\n ** 第一部\n ** 第三部"]]

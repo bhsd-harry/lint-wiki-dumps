@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",193,53,"[[勇敢級巡防艦]]"]]

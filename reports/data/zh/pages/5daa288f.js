@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",122,44,"]]"],[1,"no-ignored",102,15," style<nowiki>=</nowiki>\"color:green;font-weight: bold;\""]]

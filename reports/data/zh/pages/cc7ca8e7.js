@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",10,3," gold = 1\n "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"nested-link",2,99,"[[新华网]]"]]

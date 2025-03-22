@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",81,2,"[[分類:神經內科]]"],[1,"tag-like",54,1350,"</ref"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",8,3," coordinates  = {{coord|3|38|32|N|98|53|7|E|region:ID_type:airport|name=Kualanamu International Airport (Medan)|display=inline,title}}\n "]]

@@ -1,1 +1,0 @@
-window.data=[[21,"illegal-attr",430,79,"font-size"],[1,"no-ignored",51,73,"  width:100%"],[2,"unclosed-table",952,2,"{|"],[4,"unmatched-tag",1911,32,"<small>"]]

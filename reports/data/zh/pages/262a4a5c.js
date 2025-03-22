@@ -1,1 +1,0 @@
-window.data=[[22,"illegal-attr",15,4,"OF9"],[1,"no-ignored",123,4,"Spieß"]]

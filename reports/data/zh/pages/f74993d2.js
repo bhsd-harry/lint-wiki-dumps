@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",535,1,"\n <div id=\"1_2\"><sup>'''1'''</sup>  季軍戰1994–2000年期間舉行；2004年及2011年為奧運附加賽。\n <div id=\"2_2\"><sup>'''2'''</sup>  包括 ''{{fbu|21|FRG}}''\n <div id=\"3_2\"><sup>"],[1,"unclosed-table",351,2,"{|"]]

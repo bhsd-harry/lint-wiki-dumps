@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",101,11,"gallery"]]

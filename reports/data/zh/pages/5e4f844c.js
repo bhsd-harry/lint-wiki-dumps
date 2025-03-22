@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",228,1," ==== 2023: ODD EYE CIRCLE Volume Up<ref>{{Cite web|title=Odd Eye Circle announce ticketing details for 2023 'Volume Up' Europe tour|url=https://www.n"],[1,"lonely-bracket",160,450,"}}"],[4,"no-duplicate",172,5,"style=\"background:#FF79BC\""]]

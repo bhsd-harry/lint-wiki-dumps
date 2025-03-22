@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",407,19,"www.nicovideo.jp"],[1,"lonely-http",407,11,"https://"],[2,"no-ignored",407,9," [https://"],[15,"unmatched-tag",135,19,"</br />"]]

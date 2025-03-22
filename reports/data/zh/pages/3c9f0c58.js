@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",661,1,"\n\n ==漫畫翻譯作品列表=="],[1,"unclosed-table",660,2,"{|"]]

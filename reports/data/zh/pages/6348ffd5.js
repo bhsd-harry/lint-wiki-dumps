@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",2,22,"|科科斯群岛"]]

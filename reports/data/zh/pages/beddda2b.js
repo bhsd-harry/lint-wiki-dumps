@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",148,1," [[Image:Complement angle.svg|thumb|left|150px|互為餘角的角<var>a</var>和角<var>b</var>]]\n <!--[[Image:Reflex angle.svg|thumb|right|125px|]]-->\n [[Image:Angle"]]

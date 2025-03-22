@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",50,1," * [[汽车|自动车]][[工业]]学科"]]

@@ -1,1 +1,0 @@
-window.data=[[20,"fostered-content",91,1," [[File:Shun De 1995 - .jpg|thumb|順德 Shun De]]"]]

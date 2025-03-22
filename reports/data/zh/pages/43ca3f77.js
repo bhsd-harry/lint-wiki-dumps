@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",567,60," ARWU_W_ENG_year = 2024\n "],[1,"no-ignored",917,49,"  | 香港大學學位 |-|"]]

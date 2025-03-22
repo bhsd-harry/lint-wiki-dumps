@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",206,4," {{MedalistTable|type=項目|columns=2|labelwidth=200px|style=font-size:small;}}'"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",196,2,"[[Category:詹姆斯·克拉克·馬克士威|*]]"],[4,"unmatched-tag",43,53,"</blockquote>"]]

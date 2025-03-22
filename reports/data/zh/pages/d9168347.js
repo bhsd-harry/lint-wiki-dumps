@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",154,927,"{"],[2,"no-duplicate",275,47,"language=zh-hant"]]

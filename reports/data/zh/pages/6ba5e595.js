@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",40,22,"]"],[2,"no-duplicate",157,2,"[[Category:天爐座| ]]"]]

@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",20,3," birth_date = {{birth date and age|1964|9|3}}\n "]]

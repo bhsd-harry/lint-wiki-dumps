@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",23,3," hall = 架空大堂\n "]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",535,5,"colspan"],[4,"lonely-bracket",72,40,"{{"],[1,"lonely-http",535,165,"https:/"],[3,"no-duplicate",44,508,"archive-url=https://web.archive.org/web/2023042900 "]]

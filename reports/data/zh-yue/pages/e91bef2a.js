@@ -1,1 +1,0 @@
-window.data=[[8,"no-ignored",19,4," ! 原則 !! 定義"]]

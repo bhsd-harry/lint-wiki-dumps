@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",110,134,"[[第1屆金馬獎]]"]]

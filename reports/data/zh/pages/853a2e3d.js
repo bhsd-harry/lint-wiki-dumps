@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-http",153,33,"ISBN"],[2,"no-duplicate",62,24,"style=\"font-size:small;\""]]

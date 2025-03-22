@@ -1,1 +1,0 @@
-window.data=[[3,"no-duplicate",66,2,"[[Category:臺北富邦勇士球員]]"]]

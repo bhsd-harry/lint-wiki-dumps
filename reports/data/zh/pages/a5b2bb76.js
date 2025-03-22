@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",3,77,"{"],[3,"no-duplicate",3,77,"{{{link-en|纳里耳赫贝耳|Nahal Hever}}峡谷{link-en"]]

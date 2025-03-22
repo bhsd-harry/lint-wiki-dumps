@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",51,3,"aligh"],[2,"no-ignored",38,3,"width:\"350px\""]]

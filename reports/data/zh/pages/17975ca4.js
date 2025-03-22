@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",77,5,"bgcolor=#|-"],[1,"no-ignored",80,3,"!width=70%"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",140,44,"Tymkiv,_Nataliia_November_2018"]]

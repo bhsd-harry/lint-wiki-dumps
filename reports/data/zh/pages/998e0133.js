@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",56,1," *{{Flag|Colombia}} \n *{{Flag|Slovakia}} \n *{{Flag|Sweden}} \n *{{Flag|Turkey}} "]]

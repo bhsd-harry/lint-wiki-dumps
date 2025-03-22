@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",11,1," *{{ARG}} \n *{{AUS}} \n *{{AUT}} \n *{{AZE}}<ref>{{cite web |title=List of Azerbaijani Embassies |url=https://mfa.gov.az/files/Protocol/MXM_MFA_Catalogu"],[1,"unclosed-table",124,2,"{|"]]

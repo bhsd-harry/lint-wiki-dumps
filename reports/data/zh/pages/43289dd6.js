@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",114,1,"\n == 例行賽 ==\n {{multicol}}\n ===上半球季==="],[2,"illegal-attr",182,3,"width200"],[1,"unclosed-table",113,2,"{|"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",180,49,"Teddy"],[5,"no-ignored",152,14,"  <small>;text-align:center"],[4,"parsing-order",152,16,"<small>"]]

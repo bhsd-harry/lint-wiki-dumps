@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",25,1," * '''飛躍進步男藝員'''："]]

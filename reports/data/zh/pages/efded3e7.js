@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",5477,3,"nowrap"],[53,"lonely-bracket",385,4,"{{"],[54,"no-ignored",24,47,"width:100%; text-align:center\""]]

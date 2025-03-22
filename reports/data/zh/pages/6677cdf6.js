@@ -1,1 +1,0 @@
-window.data=[[4,"no-ignored",14,26," teams–Europa "]]

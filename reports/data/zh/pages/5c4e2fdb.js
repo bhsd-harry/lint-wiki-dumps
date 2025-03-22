@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",65,2,"[[Category:克罗皮夫尼茨基人]]"]]

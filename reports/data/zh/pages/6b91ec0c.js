@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",9,20,"of"],[4,"lonely-bracket",9,8,"[["],[2,"no-ignored",9,4," || [[File:Flag "]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",72,4,"File:Japanese offertory box.jpg#file"]]

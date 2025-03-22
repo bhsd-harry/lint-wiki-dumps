@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",156,31,"]]"],[1,"parsing-order",2,22,"<br>"],[2,"tag-like",129,9,"<style"]]

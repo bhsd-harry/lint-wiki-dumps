@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",57,90,"  \"三星跑分作弊\""]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",73,4,"th:70%\"|'''介紹'''"]]

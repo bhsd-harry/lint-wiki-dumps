@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",278,1,"\n [[Category:國家羽毛球隊|Sweden]]\n [[Category:瑞典羽毛球]]\n [[Category:瑞典體育國家隊|羽毛球]]"],[1,"unclosed-table",239,2,"{|"]]

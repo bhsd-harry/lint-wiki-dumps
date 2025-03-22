@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",493,2,"[[Category:东京都出身人物]]"]]

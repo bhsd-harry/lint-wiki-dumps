@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",16,3," 配偶 = {{marriage|曾偉昌|2022年3月31號}}\n "]]

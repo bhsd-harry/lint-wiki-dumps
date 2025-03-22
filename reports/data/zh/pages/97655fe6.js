@@ -1,1 +1,0 @@
-window.data=[[2,"invalid-gallery",41,11,"thumb"],[1,"no-ignored",39,24,"  \"heights=200\""]]

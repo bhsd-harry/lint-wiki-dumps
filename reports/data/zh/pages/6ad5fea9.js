@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",92,4,"【初配信】未來少女冷酷登場。 | 冰霧Eisnebel"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",211,2,"[[Category:香港樂團]]"],[5,"no-ignored",79,14,"  <small>;text-align:center"],[5,"parsing-order",79,16,"<small>"]]

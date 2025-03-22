@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",49,177,"author = 孫少輔"]]

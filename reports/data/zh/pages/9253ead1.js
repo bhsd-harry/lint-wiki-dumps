@@ -1,1 +1,0 @@
-window.data=[[18,"invalid-gallery",157,48,"thumb"],[6,"no-duplicate",185,2,"[[Category:美国飞机公司]]"]]

@@ -1,1 +1,0 @@
-window.data=[[98,"no-ignored",436,124," color=\"red\""],[2,"unmatched-tag",436,74,"<center>"]]

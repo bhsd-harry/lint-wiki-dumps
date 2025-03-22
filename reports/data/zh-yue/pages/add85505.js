@@ -1,1 +1,0 @@
-window.data=[[7,"lonely-apos",1176,178,"'"],[7,"lonely-bracket",1169,101,"{{{"],[1,"no-ignored",1169,101,"{{{表格寬度|100%\"  "],[1,"unclosed-table",1169,15,"{|"],[5,"unmatched-tag",1324,38,"</br>"]]

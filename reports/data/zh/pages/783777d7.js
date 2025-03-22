@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",105,153,"["],[3,"no-ignored",96,13,"遠上回轉處"]]

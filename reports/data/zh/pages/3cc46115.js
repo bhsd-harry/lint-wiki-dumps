@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",51,1," * [[经营学|经营]][[信息学|信息]]学科<ref group=\"注\"  name=\"经营信息学科\">日语:{{lang|ja|経営情報学科}}</ref>"]]

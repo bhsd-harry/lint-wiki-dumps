@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",279,22,"sytle"],[2,"no-ignored",279,34,"-align:center:\""]]

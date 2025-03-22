@@ -1,1 +1,0 @@
-window.data=[[30,"illegal-attr",497,24,"text-align"],[1,"lonely-bracket",39,1361,"{{"],[1,"lonely-http",467,21,"ISBN"]]

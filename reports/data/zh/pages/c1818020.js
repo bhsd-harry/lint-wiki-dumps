@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",621,619,"language=ja "]]

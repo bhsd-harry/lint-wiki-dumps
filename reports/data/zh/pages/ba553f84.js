@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",512,2,"[[Category:前亞洲電視男藝員]]"],[87,"unmatched-tag",59,28,"<center>"]]

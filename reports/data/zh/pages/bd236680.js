@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",67,83,"}}"],[4,"no-duplicate",67,39,"站前（{Translink"]]

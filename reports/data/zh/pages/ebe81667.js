@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",56,21,"thumb"]]

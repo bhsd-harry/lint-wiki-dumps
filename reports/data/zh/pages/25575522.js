@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",611,2,"[[Category:2012年3D電影]]"],[1,"no-ignored",429,176,"|style=\"text-align: left;\""]]

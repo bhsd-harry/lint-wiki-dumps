@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",10,53,"de"],[1,"no-ignored",10,78,"  sainte-geneviève=\"\"  "]]

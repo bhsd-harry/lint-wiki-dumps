@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",32,238,"["],[1,"no-ignored",38,2798,"cnbc\""]]

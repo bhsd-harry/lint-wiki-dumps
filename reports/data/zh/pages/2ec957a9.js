@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",13,3," position     = [[控球后卫]]\n "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",34,2,"[[Category:深圳三级甲等医院]]"]]

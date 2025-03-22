@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",58,2,"[[Category:中国女性]]"]]

@@ -1,1 +1,0 @@
-window.data=[[3,"no-duplicate",153,2,"[[Category:中华人民共和国政治犯]]"]]

@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",10,4," 236px<!--(approx Sidebar/Infobox width)-->\n  "]]

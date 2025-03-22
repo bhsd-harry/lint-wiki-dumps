@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",54,3,"上下車人次 = 49,350\n "]]

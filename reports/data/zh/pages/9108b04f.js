@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1832,3,"人氣歌謠"]]

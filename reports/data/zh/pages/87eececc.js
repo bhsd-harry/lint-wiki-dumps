@@ -1,1 +1,0 @@
-window.data=[[26,"illegal-attr",27,63,"New"],[2,"lonely-bracket",46,26,"["],[52,"no-ignored",25,210,"Calibri\",\"sans-serif\";mso-ascii-theme-font:\n minor-latin;mso-fareast-font-family:新細明體;mso-fareast-theme-font:minor-fareast;\n mso-hansi-theme-font:mino"],[1,"unmatched-tag",21,64,"<sup>"]]

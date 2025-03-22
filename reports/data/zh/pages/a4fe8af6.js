@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",68,1," * 生活科学科\n ** 生活科学专攻\n ** 食物营养专攻\n * 儿童教育学科<ref group=\"注\"  name=\"儿童教育学科\"/>\n ** 第一部\n ** 函授教育课程\n * 生活护理学科<ref group=\"注\"  name=\"生活护理学科\"/>\n ** 身体环境护理专攻<ref g"],[1,"unmatched-tag",15,113,"</span>"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",378,943,"}}"],[3,"nested-link",25,442,"[[美國總統]]"]]

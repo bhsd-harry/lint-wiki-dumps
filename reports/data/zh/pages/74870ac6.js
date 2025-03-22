@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",44,1," * 护理学科\n * 复健医学科<ref group=\"注\"  name=\"复健医学科\"/>\n ** 物理治疗专攻<ref group=\"注\"  name=\"物理治疗学专攻\"/>\n ** 职能治疗专攻<ref group=\"注\"  name=\"职能治疗专攻\"/>\n ** 视机能治疗专攻<ref gr"]]

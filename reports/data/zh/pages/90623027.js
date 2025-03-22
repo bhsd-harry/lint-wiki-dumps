@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",13,3," designer       = [[Link-en|Rob Melville]]\n "]]

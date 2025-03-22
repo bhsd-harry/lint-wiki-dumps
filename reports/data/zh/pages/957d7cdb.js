@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-apos",288,108,"'"],[1,"tag-like",590,203,"</link"]]

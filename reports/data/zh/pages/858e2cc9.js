@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",451,51,"alt=\n Satellite view of the northern portion of South Asia. The arc of a substantial range of mountains, the Himalayas, dips into the shot, then back "]]

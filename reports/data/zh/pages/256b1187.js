@@ -1,1 +1,0 @@
-window.data=[[6,"illegal-attr",66,3,"41.82"],[2,"no-ignored",547,3,"{{flagIOCathlete|[[Heidy Juárez|Juárez]]|GUA|2004年夏季}}<br />'''L''' 2–5 "],[4,"parsing-order",547,57,"<br />"]]

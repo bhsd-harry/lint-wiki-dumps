@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",84,51,"聯繫、維繫"]]

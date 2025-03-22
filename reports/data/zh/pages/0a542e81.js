@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",84,4,"lass"],[1,"unmatched-tag",73,28,"</small>"]]

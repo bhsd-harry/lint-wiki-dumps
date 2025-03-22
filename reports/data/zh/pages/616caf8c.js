@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",76,2,"[[Category:被判謀殺罪的美國人]]"]]

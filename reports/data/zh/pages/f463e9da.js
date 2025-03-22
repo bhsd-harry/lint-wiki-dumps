@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",47,1,"\n * 护理福利学科<ref group=\"注\"  name=\"护理福利学科\">日语:{{lang|ja|介護福祉学科}}</ref>\n ** 第一部\n ** [[夜校|第二部]]<ref group=\"注\"  name=\"第二部\">招生到2011年。</ref>\n * [[儿童]]福利学科<ref"]]

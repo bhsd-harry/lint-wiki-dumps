@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",475,88,"  \"class=\"table-yes\""]]

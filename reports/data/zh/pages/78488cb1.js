@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",60,2,"[[Category:越南共和國外交部]]"]]

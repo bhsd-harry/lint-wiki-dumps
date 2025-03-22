@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",26,3," 作曲=[[鄧智偉]]、[[莊冬昕]]\n "],[1,"no-ignored",99,13,"華　吉"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",243,2,"[[Category:轉乘計劃資訊模板]]"]]

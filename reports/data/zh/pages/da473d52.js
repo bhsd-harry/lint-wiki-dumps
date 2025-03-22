@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",75,2,"[[Category:俄羅斯俄烏戰爭人物]]"]]

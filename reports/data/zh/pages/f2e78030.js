@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",17,3,"system_length=7.1公里\n "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",19,2,"[[Category:蘇聯發明家]]"]]

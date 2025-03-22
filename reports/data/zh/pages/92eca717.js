@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",100,5,"Palace"],[2,"no-duplicate",37,5,"class=\"wikitable\""],[1,"no-ignored",100,11," Theatre, "]]

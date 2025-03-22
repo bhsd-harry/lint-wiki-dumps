@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",32,2,"[[Category:中華民國記者]]"]]

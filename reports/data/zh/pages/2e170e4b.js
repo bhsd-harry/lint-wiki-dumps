@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",513,2,"[[Category:西班牙音樂製作協會榜冠軍單曲]]"]]

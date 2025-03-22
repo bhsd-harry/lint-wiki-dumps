@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",190,2,"[[Category:被美國通緝者]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",388,2,"[[Category:美國電影男演員]]"]]

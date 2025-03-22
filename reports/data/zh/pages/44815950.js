@@ -1,1 +1,0 @@
-window.data=[[19,"illegal-attr",70,4,"spope"],[1,"no-ignored",360,4,"<center>"],[1,"parsing-order",360,4,"<center>"]]

@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",69,3," title = Prime Minister\n "]]

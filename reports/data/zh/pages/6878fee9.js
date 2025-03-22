@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",1,8,"name=祀壇 (澎湖)\n "]]

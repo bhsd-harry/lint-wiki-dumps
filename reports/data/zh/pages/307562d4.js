@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",120,235,"{{"],[1,"no-ignored",120,153," 也被描写为闭后元音{{IPAblink|ɯ}}<ref>{{Harvcoltxt|Göksel|Kerslake|2005|p=10}}</ref>和次闭次后元音{{IPAblink "],[1,"parsing-order",120,177,"<ref>{{Harvcoltxt|Göksel|Kerslake|2005|p=10}}</ref>"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",15,13,"Jerome"],[2,"no-ignored",15,4," 陈世杰 陈贺利 "]]

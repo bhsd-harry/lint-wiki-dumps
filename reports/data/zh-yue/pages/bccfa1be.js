@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",30,3," longnote3 = 孤家寡人Mix\n "]]

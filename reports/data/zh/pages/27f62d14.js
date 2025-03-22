@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",47,2,"[[Category:1908年建立的教育機構]]"]]

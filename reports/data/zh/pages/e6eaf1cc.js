@@ -1,1 +1,0 @@
-window.data=[[3,"no-ignored",13,104," CHIZU“"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",140,1,"\n ==外部連結==\n * [http://www.gcs.org.tw/gcs/course.html 中華民國高爾夫球場學會官網：球場介紹] {{Wayback|url=http://www.gcs.org.tw/gcs/course.html |date=20180226073158 }}\n "],[1,"unclosed-table",134,2,"{|"]]

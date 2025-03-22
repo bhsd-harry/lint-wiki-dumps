@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",16,3," 時區 = \n "],[2,"unmatched-tag",30,18,"</br>"]]

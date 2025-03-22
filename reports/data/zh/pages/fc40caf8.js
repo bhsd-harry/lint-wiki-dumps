@@ -1,1 +1,0 @@
-window.data=[[2,"unclosed-table",217,2,"{|"],[2,"unmatched-tag",378,2,"</sup>"]]

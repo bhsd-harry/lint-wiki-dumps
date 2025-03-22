@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",19,2,"[[Category:中国文学者]]"]]

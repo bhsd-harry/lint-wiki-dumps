@@ -1,1 +1,0 @@
-window.data=[[5,"illegal-attr",82,18,"Q"],[6,"no-ignored",82,19," (television network)"]]

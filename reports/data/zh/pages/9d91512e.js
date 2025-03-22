@@ -1,1 +1,0 @@
-window.data=[[4,"fostered-content",129,1," <ref>{{cite web|title=范少勳師妹出席釜山影展　映後神回應逗樂觀眾|url=https://www.ctwant.com/article/213579|date=2022-10-16|access-date=2023-04-27|archive-date=2023-04-27|"],[4,"no-duplicate",165,2,"[[Category:台灣電視女演員|L廖]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",9,3," struct = [[歇山式]]\n "],[1,"no-ignored",146,1," File:Xingtian Temple-Taipei-Taiwan-P1010118.JPG臺北本宮廟埕]"]]

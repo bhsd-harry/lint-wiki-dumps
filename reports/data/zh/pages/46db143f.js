@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",46,1," * [[醫檢師|卫生技术]]科\n * 医疗信息技术科"]]

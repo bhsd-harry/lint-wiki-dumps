@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",593,78,"[[青空文库]]"],[2,"no-duplicate",229,45,"250pm"]]

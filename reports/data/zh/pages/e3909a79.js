@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",13,3," 管理者         = 香川县政府\n "]]

@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",17,216,"[[國際特赦組織]]"]]

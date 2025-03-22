@@ -1,1 +1,0 @@
-window.data=[[4,"invalid-gallery",147,31,"thumb"],[3,"lonely-bracket",1299,1051,"}}"],[12,"no-duplicate",364,33,"droite"],[2,"no-ignored",292,1," 附近的[[埃罗峡谷]]上的公路桥和引水渠。"]]

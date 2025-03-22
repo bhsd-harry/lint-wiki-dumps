@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",37,27," <ref name=CNN />"],[1,"parsing-order",37,28,"<ref name=CNN />"]]

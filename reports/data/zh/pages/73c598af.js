@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",39,2,"[[Category:2024年夏季奧林匹克運動會滑板運動員]]"]]

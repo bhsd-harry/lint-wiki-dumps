@@ -1,1 +1,0 @@
-window.data=[[5,"no-ignored",72,3," 票數 "],[1,"unmatched-tag",59,26,"</small>"]]

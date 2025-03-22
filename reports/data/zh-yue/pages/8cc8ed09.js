@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",52,60,"link=https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Soba_restaurant_by_nyaa_birdies_perch_in_Gunma.jpg<nowiki/>"]]

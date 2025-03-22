@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",273,2,"[[Category:江油市交通]]"]]

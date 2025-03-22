@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",288,1,"\n [[Category:麥可·傑克森音樂專輯]]\n [[Category:1987年音樂專輯]]\n [[Category:流行音樂專輯]]\n [[Category:美國音樂專輯]]\n [[Category:史诗唱片音乐专辑]]\n [[Category:告示牌二百強專輯榜冠軍專輯]]"],[1,"unclosed-table",265,2,"{|"]]

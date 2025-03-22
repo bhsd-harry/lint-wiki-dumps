@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",945,1,"\n == 影視作品 ==\n {{About|紫寧的個人影视作品|團體部分|Mera#影视作品|和|火箭少女101#影视作品}}\n\n === 電視劇 ===\n"],[1,"unclosed-table",943,2,"{|"]]

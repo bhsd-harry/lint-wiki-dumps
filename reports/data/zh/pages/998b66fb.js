@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",519,55,"]]"],[1,"no-ignored",616,3," 電視動畫《"]]

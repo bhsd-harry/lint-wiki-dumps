@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",43,2,"[[Category:泰国男演员]]"]]

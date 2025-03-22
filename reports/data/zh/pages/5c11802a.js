@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",15,650,"title=Mary Van Kleeck and Scientific Management"]]

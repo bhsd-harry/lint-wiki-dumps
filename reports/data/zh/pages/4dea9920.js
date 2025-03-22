@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",41,1," Image:Samanea saman hbfjxdh,xnhjkgRain Tree<br />[[Ranchi]], [[Jharkhand]] "]]

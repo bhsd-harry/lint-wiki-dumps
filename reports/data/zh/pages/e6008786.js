@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",14,17,"aligh"],[4,"no-duplicate",997,34,"author="]]

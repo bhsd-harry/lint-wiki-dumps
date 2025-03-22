@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",12,2,"[[Category:岩攀鼠亞科|Y]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",190,4,"D"],[2,"no-duplicate",42,5,"class=\"wikitable\""],[1,"no-ignored",217,4,"|哈哈蛇"]]

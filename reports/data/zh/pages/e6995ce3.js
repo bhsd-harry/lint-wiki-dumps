@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",118,62,"2006年4月13日，美国宇航局“勇气号”[[火星车]]拍摄的火星沙地和巨石。Image:PIA17062-MarsCuriosityRover-HottahRockOutcrop-20120915.jpg"]]

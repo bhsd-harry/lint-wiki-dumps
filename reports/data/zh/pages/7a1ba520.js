@@ -1,1 +1,0 @@
-window.data=[[10,"no-duplicate",122,3,"rowspan=\"2\""],[2,"unmatched-tag",112,27,"<center>"]]

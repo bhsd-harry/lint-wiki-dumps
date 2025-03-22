@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",115,2,"[[Category:1941年美國電影作品]]"]]

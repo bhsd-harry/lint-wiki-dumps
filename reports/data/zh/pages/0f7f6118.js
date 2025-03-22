@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",31,55,"}}"],[2,"no-duplicate",89,2,"[[Category:初音未来歌曲]]"]]

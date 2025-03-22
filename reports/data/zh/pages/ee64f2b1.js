@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",235,29,"]]"],[2,"no-ignored",235,3,"國際音標的短期新增，[國際音標歷史"]]

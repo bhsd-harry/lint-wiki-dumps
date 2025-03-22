@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",810,5,"class=\"wikitable\""],[1,"no-ignored",824,4," 5月30日 圣女贞德纪念日"],[1,"unclosed-table",575,2,"{|"],[1,"unmatched-tag",39,23,"</span>"]]

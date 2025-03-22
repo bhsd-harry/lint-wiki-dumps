@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",56,2,"[[Category:周防國出身人物]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",733,48,"North Exit of Nakano Station"]]

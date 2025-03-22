@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",60,4,"<section begin=Films />"],[2,"parsing-order",60,4,"<section begin=Films />"],[1,"unmatched-tag",236,30,"</table>"]]

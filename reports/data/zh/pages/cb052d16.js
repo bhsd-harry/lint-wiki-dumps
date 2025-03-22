@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",171,1,"\n === 跨刀創作 ==="],[1,"unclosed-table",69,2,"{|"]]

@@ -1,1 +1,0 @@
-window.data=[[6,"no-ignored",29,80,"不支持"]]

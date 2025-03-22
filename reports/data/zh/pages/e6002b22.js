@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",429,1,"\n\n 大多數開頭有「比」的性質都是以單位質量為基準的，不過有時會使用其他的基準，例如單位莫耳。\n\n ==相關條目==\n * [[无量纲量]]\n * {{link-en|熱力學物質資料庫|Thermodynamic databases for pure substances}}\n * [[熱力學狀態]"],[1,"unclosed-table",4,2,"{|"]]

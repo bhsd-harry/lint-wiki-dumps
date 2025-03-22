@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",266,5,"span"],[1,"lonely-bracket",20,127,"]]"],[8,"no-duplicate",621,27,"长沙贾谊故居"]]

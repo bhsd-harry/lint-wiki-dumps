@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",111,1," * 建筑・生活设计学科<ref group=\"注\"  name=\"建筑・生活设计学科\"/><ref name=\"日本大学短期大学部船桥校区的历史\"/>\n * 制造・科学总合学科<ref group=\"注\"  name=\"制造・科学总合学科\"/><ref name=\"日本大学短期大学部船桥校区的历史"],[1,"unmatched-tag",150,7,"</del>"]]

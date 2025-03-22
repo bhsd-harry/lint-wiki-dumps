@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",24,311,"{"],[2,"no-duplicate",7,3,"coordinates = \n "]]

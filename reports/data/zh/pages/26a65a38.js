@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",367,42,"Coinshot"],[1,"no-ignored",367,36,"  |射幣 "]]

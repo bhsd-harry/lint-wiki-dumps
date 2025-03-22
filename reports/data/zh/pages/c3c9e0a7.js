@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",166,33,"alt=\n Close-up, worms eye-view of McCoy Tyner at a piano, backlit"]]

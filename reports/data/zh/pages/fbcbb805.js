@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",50,21,"sortable"],[2,"unmatched-tag",24,2,"</div>"]]

@@ -1,1 +1,0 @@
-window.data=[[54,"illegal-attr",49,14,"Hanky"],[2,"no-duplicate",476,17,"the"],[30,"no-ignored",49,25," (film)"]]

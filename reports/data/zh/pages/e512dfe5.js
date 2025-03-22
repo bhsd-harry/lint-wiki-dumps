@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",60,3,"Aisyah"],[1,"lonely-bracket",38,2792,"]]"],[2,"no-ignored",79,3,"费利沙·艾伯塔·纳撒尼尔·帕萨里布"]]

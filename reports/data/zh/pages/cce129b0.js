@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",132,33,"[["],[2,"no-duplicate",132,5,"align=center"],[1,"no-ignored",132,30," | [[Kène Ndoye]]"]]

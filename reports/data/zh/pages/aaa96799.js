@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",14,562,"name=\"Rues\""],[1,"no-ignored",14,573,"/。道两边种植两排梧桐树<ref "],[1,"tag-like",14,585,"<ref"]]

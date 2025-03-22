@@ -1,1 +1,0 @@
-window.data=[[3,"lonely-bracket",326,618,"}}"],[1,"no-ignored",402,3,"{{Flatlist "]]

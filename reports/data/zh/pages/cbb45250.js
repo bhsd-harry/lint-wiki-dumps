@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",164,2,"[[Category:英國開發電子遊戲]]"]]

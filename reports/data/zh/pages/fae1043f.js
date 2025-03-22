@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",256,15,"  color:black\""],[1,"unescaped",272,49,"="]]

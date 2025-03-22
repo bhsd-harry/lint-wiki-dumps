@@ -1,1 +1,0 @@
-window.data=[[30,"no-duplicate",42,39,"柴山潟"]]

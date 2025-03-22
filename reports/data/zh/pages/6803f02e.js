@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",423,1," </center>"],[1,"lonely-bracket",379,456,"{{"],[1,"no-ignored",379,89,"{{tsl|th|ณรงค์เดช รุ่งอรุณ|納隆德·朗阿倫}}（Dech）、{{tsl|th|ธกฤต ไชยวุฒิ|塔克里·猜亞武}}（Shell）、{{tsl|th|พลัฏฐ์ ชยุตนิธิโรจน์|帕拉·差尤尼提洛}}（Korn）、{{tsl|th|ศุภศิลป์ สิง"],[2,"unmatched-tag",8,2,"</center>"]]

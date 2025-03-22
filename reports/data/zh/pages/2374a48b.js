@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",714,4,"class=\"{{PeriodicTableStyle|貧金屬（預測）}}\""]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",6,39,"<br />"],[1,"parsing-order",6,39,"<br />"],[1,"unclosed-table",6,2,"{|"]]

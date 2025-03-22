@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",89,4,"NM"],[44,"lonely-bracket",46,20,"[["],[19,"no-ignored",46,17," | [[2000年夏季奥林匹克运动会田径比赛 – 男子200米|200米]]"],[3,"parsing-order",66,45,"<br/>"]]

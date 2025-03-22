@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",92,1," <ref>{{cite news|title=冯绍峰蜡像入驻上海杜莎夫人蜡像馆|url=http://news.cbg.cn/yl/2018/1112/10938395.shtml|work=[[新华网]]|publisher=[[重庆广播电视总台|重庆广播电视集团（总台）]]|date=2018"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",14,68,"}}"],[3,"no-duplicate",14,42,"[[德国]]{[[柏林]]的{tsl"]]

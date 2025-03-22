@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",1031,3,"colspan=\"3\""],[1,"no-ignored",868,45,"; color:\"white\""]]

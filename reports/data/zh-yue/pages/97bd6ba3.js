@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",6,3," 導演         = [[梁麗賢]]\n "]]

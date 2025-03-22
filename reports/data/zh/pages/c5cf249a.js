@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",103,24,"color"],[5,"lonely-bracket",61,50,"{{"],[5,"no-ignored",61,49," {{IPA4"]]

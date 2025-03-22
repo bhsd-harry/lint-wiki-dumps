@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:身心障碍科学家]]"]]

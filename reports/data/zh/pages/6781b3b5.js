@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",155,2,"[[Category:克里米亚政治史]]"]]

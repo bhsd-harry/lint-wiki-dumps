@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",500,2,"[[Category:格拉斯哥女演員]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",112,120,"[[S/Z#Bibliography|Katherine Kolb]]"]]

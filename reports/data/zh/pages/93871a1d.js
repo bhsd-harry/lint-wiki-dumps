@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",222,31,"rowspan"],[17,"lonely-bracket",72,33,"[["],[18,"no-duplicate",72,5,"align=center"],[10,"no-ignored",72,30," | [[2000年夏季奥林匹克运动会田径比赛 – 女子200米|200米]] "]]

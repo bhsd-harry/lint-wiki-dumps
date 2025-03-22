@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",208,4,"scope=\"row\""]]

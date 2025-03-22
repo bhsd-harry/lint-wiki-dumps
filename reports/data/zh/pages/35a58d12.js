@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",524,32,"href"],[4,"no-ignored",524,4,"<a "],[4,"tag-like",524,4,"<a"]]

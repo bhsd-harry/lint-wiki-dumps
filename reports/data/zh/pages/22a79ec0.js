@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",71,40,"text-align"],[1,"no-ignored",102,44,"老鳥 "]]

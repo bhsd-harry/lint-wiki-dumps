@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",20,3,"term_start2      = 1995年9月23日\n "]]

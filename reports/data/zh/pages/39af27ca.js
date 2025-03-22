@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",1955,4,"{{"],[36,"no-duplicate",58,23,"style=\"font-size: small;\""],[1,"no-ignored",1955,3," {{lang"]]

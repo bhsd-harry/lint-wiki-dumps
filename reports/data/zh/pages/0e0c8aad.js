@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",565,3,"mmfm={{flag icon|CAN|1957}} [[北地舞人]]\n "]]

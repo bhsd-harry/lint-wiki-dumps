@@ -1,1 +1,0 @@
-window.data=[[9,"illegal-attr",1200,3,"BBO"],[9,"lonely-bracket",1011,31,"["],[24,"no-duplicate",16,3," 教育程度 = \n "],[6,"no-ignored",1076,3," 【Live】PØK1 保錡 "]]

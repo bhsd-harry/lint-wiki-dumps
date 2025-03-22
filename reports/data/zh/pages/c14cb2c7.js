@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",237,22,";font-size:small\""],[2,"unclosed-table",149,2,"{|"]]

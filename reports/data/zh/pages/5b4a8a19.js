@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",41,1," [[File:Yibin ART System 10 11 39 116000.jpeg|缩略图|位于四川宜宾的宜宾智轨T1线列车，更新于2019年6月]]"]]

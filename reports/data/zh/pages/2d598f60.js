@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",609,2,"[[Category:楔形文字| ]]"]]

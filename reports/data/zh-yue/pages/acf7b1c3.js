@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",71,3,"六四事件二十三週年"]]

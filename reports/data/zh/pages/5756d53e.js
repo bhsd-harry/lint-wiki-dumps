@@ -1,1 +1,0 @@
-window.data=[[4,"parsing-order",60,37,"<sup>"]]

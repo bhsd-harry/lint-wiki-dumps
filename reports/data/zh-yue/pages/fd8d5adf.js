@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",32,1," [[File:Carmen habanera original.jpg|thumb|350x599px|Georges Bizet手稿]]"],[1,"illegal-attr",3,21,"midi"]]

@@ -1,1 +1,0 @@
-window.data=[[7,"invalid-gallery",16,24,"thumb"],[1,"no-ignored",23,1," </p>"]]

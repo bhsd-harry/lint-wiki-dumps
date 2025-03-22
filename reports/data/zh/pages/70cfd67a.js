@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",8,3,"zh-tw:小丑女;zh-sg:小丑女;zh-cn:哈莉·奎茵;\n "]]

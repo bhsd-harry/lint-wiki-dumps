@@ -1,1 +1,0 @@
-window.data=[[5,"illegal-attr",19,3,"sckope"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",106,2,"[[Category:國民力量黨員]]"]]

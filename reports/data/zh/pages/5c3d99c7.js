@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",409,2,"[[Category:Windows管理]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",1,117,"publisher=International Encyclopedia of Political Science "]]

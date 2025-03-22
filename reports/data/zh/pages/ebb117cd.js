@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",53,2,"[[Category:台灣左翼統一運動參與者]]"]]

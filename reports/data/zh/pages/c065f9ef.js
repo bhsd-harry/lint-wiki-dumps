@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",130,44,"]]"],[1,"no-ignored",106,20,"  黃力死後"]]

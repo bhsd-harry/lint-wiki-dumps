@@ -1,1 +1,0 @@
-window.data=[[3,"lonely-bracket",400,58,"{{"],[1,"lonely-http",296,469,"http://"],[1,"unmatched-tag",1628,628,"</s>"]]

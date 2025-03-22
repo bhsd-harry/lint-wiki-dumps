@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",209,3,"0.0064"],[75,"lonely-bracket",13,126,"{{"],[56,"no-duplicate",89,1529," =yDNAmtDNA "],[2,"no-ignored",328,3,"0.00{"],[1,"parsing-order",699,8,"<ref name=\"未命名-20250106100058\"/>"],[42,"tag-like",20,275,"<ref"]]

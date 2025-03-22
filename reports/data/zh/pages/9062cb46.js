@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-apos",7,114,"'"],[2,"no-duplicate",6,27,"thumb"]]

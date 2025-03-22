@@ -1,1 +1,0 @@
-window.data=[[7,"illegal-attr",587,24,"sortable"],[10,"no-ignored",563,55,"  ! #E0E0E0 ” "],[1,"unclosed-table",1021,2,"{|"]]

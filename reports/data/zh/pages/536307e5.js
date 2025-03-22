@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",44,2,"[[Category:古巴LGBT權利運動者]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,22,"|目标页面名称"]]

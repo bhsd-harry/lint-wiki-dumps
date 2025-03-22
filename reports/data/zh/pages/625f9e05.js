@@ -1,1 +1,0 @@
-window.data=[[3,"no-ignored",59,13,"古遗址"]]

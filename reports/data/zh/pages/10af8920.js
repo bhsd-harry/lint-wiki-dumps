@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",246,1," *[[許淑華 (1975年)]]，工業工程管理系畢業，現任南投縣長，曾任南投縣議會第15屆議員，南投市第8－9屆市長， 中華民國第8-10屆立法委員<ref>{{Cite news|url=https://www.ly.gov.tw/Pages/List.aspx?nodeid=38207|tit"]]

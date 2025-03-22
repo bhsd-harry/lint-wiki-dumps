@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",23,26," name＝\"2012利润“"]]

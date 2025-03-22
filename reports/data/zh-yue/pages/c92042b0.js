@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,3,"方向=南北\n "]]

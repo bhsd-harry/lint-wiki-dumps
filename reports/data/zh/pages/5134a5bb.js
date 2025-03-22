@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",75,74,"table-layout:"],[4,"no-ignored",75,60,"width:100%;\"  "]]

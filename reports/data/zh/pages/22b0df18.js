@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",120,3,"Arada"],[1,"no-ignored",120,8," (Addis Ababa)"]]

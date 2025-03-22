@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",39,30,"德琪·韋德斯（Dutch Velders）"]]

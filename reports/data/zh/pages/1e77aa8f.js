@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-http",1367,98,"https://"],[2,"no-duplicate",1385,2,"[[Category:俄羅斯裔希臘人]]"],[10,"no-ignored",848,13,"1'' "]]

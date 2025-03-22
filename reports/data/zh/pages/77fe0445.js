@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",38,1," -{"],[2,"lonely-bracket",38,3,"{"]]

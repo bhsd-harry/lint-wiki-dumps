@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",98,79,"background:"],[14,"no-duplicate",6,3,"=zh-hk:房客;zh-cn:房客;zh-tw:怪房客：倫敦霧夜奇案;zh:怪房客;\n "],[2,"no-ignored",98,90," #f9f9f9;"]]

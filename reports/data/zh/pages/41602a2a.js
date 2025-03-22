@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",304,3,"no"],[2,"lonely-bracket",133,811,"[["],[3,"no-ignored",545,36,"  =\"1\""],[1,"unmatched-tag",50,1103,"</font>"]]

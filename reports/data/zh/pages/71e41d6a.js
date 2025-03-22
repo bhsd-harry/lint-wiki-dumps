@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",51,2,"[[Category:OpenAI]]"]]

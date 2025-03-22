@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-http",37,42,"ISBN"],[1,"tag-like",26,109,"<ref"]]

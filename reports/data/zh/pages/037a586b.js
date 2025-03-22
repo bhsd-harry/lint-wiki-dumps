@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",31,2,"[[Category:新加坡超级市场]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",90,1," [中環和你 lunch in ifc mall 20200508.png|數十名市民在中環[[國際金融中心商場]]的[[Apple Store]]外舉行「和你Lunch」"]]

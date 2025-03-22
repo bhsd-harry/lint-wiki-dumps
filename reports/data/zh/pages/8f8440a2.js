@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",43,33,"font"],[2,"no-duplicate",59,3,"align=\"right\""]]

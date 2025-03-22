@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",5,24,"span"],[2,"no-duplicate",5,29,"style=\"font-size:90%\""]]

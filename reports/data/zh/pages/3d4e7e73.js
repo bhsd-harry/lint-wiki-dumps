@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",44,1," '''錄音室專輯'''\n *''[[Let Love Rule]]'' (1989)\n *''[[Mama Said (Lenny Kravitz album)|Mama Said]]'' (1991)\n *''[[Are You Gonna Go My Way]]'' (1993)\n *''[["],[2,"unclosed-table",42,2,"{|"]]

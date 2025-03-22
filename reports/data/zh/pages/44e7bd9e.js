@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",22,3," 院長           = 博士\n "]]

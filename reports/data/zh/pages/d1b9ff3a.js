@@ -1,1 +1,0 @@
-window.data=[[520,"no-duplicate",72,43,"group='統'"]]

@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",78,732,"url=https://www.gazeta.ru/social/photo/vkusno_i_tochka.shtml"]]

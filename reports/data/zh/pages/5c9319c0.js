@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",47,2,"{{"],[3,"no-duplicate",45,54,"'''[[西日耳曼语支]]'''\n {{legend|#9cff00|[[低地法兰克语]] ([[荷兰语]])}}\n {{legend"]]

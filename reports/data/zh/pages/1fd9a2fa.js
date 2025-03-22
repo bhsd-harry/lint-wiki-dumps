@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",122,2,"[[Category:義大利藝術家]]"]]

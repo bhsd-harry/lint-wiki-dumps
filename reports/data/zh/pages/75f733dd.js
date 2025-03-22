@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",175,2,"[[Category:亚洲运动会体操奖牌得主]]"]]

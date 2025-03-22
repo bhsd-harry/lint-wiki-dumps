@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",57,1," * 生活福利科"],[1,"unmatched-tag",62,7,"</del>"]]

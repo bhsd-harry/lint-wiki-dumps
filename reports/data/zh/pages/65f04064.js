@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",172,1,"\n == 出版物 ==\n *[https://web.archive.org/web/20160204065457/http://www.cla.nchu.edu.tw/publication.htm 興大人文學報]\n *[https://deer.nchu.edu.tw/epapers/ 鹿鳴電子"],[1,"unclosed-table",31,2,"{|"]]

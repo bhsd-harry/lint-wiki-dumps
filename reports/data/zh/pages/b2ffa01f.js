@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",696,62,"]"],[1,"no-ignored",974,54,"亂馬是男是女"]]

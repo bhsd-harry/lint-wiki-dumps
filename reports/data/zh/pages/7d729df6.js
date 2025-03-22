@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",44,2,"[[Category:霍巴特旅游景点]]"]]

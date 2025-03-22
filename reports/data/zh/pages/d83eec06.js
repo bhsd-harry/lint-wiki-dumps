@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",2,24,"|第1师 （德意志帝国）"]]

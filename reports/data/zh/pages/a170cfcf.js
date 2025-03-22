@@ -1,1 +1,0 @@
-window.data=[[39,"illegal-attr",67,3,"Inspiring"],[1,"no-ignored",163,8," Pahuja, "]]

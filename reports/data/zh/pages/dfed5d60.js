@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",3,34,"現代對貝海姆地球儀重建的"]]

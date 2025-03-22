@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",171,291,"name=\"intelltheory.com\""],[1,"no-ignored",171,314,"/<ref "],[1,"tag-like",171,315,"<ref"]]

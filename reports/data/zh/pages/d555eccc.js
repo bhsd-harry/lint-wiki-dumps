@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",64,2,"[[Category:1932年夏季奥林匹克运动会游泳运动员]]"]]

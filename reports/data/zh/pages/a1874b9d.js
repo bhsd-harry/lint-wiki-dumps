@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",208,8,"'"],[9,"no-duplicate",335,2,"[[Category:香港島小巴路線|022]]"],[5,"unclosed-table",239,2,"{|"]]

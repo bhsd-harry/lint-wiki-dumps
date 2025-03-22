@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",79,2,"[[Category:網絡分析器]]"]]

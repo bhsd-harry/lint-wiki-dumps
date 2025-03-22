@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",660,2,"[[Category:敘事者不可靠的作品]]"]]

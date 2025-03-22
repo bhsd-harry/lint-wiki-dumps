@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,17,"|普日博爾"]]

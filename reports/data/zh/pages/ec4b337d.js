@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",155,24,"rowspan"],[52,"no-duplicate",6,4,"style=\"background: gold;\""],[29,"no-ignored",4,35,"150%\""]]

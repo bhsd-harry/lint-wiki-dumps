@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",25,100,"[["],[2,"no-duplicate",25,100,"[[Parrotia"]]

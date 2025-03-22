@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",87,2,"[[Category:香港曾入獄者]]"]]

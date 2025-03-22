@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",65,43,"Right"]]

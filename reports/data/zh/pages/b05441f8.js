@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",88,10,"TBS"],[2,"no-ignored",88,4,"2019年 "]]

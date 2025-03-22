@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",50,1," * 设计美术科"]]

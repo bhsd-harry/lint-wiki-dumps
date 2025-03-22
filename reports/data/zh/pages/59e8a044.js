@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",12,3," 管理者           = [[環境省]]\n "]]

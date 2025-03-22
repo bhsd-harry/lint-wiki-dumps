@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",85,21,"margin"],[4,"no-duplicate",24,3," leader_title           = 摄政\n "]]

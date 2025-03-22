@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,21,"|普法尔茨-诺伊堡"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",136,4,"File:Santali_dance_photo.png#/media/File:Santali_dance_photo.png"]]

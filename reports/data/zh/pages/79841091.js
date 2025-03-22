@@ -1,1 +1,0 @@
-window.data=[[3,"invalid-gallery",204,31,"thumb"],[1,"invalid-isbn",274,56,"ISBN 9578506674"]]

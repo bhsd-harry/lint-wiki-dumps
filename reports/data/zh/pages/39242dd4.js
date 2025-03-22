@@ -1,1 +1,0 @@
-window.data=[[8,"illegal-attr",1125,4,"NOWRAP"],[4,"lonely-http",1038,19,"http://"]]

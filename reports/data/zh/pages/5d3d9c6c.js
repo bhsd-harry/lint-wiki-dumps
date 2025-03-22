@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",107,2,"[[Category:国际金融机构]]"]]

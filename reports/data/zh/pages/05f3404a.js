@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",35,1," [[File:Mackay Weir Upstream.JPG|thumb|center|600px|位于澳大利亚昆士兰州马凯市郊区附近的先锋河]] "]]

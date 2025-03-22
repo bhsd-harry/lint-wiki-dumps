@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",396,2,"[[Category:臺灣網路節目主持人|K謝]]"]]

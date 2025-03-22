@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",90,5,"span"],[2,"no-duplicate",242,29,"thunb"]]

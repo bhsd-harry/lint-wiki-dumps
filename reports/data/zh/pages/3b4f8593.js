@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",40,2,"[[Category:中华人民共和国歌曲]]"]]

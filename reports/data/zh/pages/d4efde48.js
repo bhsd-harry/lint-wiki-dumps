@@ -1,1 +1,0 @@
-window.data=[[6,"no-ignored",196,28,"text-align:center;font-size:95%;\"  "]]

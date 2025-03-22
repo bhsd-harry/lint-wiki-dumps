@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",70,96,"Un [[Pueblo joven (Perú)|pueblo joven]]"]]

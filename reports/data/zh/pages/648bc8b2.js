@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",80,31,"[[舉牌小人]]"]]

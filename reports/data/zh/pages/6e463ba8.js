@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",75,1," [[Category:2015年美國電視季度]]\n [[Category:2016年美國電視季度]]\n [[Category:格林]]"]]

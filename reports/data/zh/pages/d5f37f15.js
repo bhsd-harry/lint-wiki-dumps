@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",887,110,"{{"],[1,"no-ignored",830,14,"  \"style=\"background: #ffc\""]]

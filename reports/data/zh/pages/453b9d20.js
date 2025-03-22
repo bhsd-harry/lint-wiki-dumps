@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",18,3," series = [[三星Galaxy Z系列]]\n "]]

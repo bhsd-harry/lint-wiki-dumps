@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",9,3," birth_place = {{PRC|上海市}}\n "]]

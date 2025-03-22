@@ -1,1 +1,0 @@
-window.data=[[7,"no-duplicate",93,55,"bar1=black\n                "]]

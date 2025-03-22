@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",54,25,"150px"]]

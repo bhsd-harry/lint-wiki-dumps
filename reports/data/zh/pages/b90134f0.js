@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",177,46,"style=\"white-space:nowrap\""],[1,"unclosed-table",109,2,"{|"]]

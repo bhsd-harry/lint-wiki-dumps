@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",1,26,"381.989x381.989像素"]]

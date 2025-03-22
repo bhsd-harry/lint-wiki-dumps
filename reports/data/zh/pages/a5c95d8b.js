@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",142,2,"[[Category:台灣小說改編電視劇]]"]]

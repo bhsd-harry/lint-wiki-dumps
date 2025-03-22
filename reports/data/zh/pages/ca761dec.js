@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",76,2,"[[Category:台灣大專院校圖書館]]"]]

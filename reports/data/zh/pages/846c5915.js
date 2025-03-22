@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",46,1," *[[水闸屯侵华日军碉堡]]\n *[[西洋河城墙]]"]]

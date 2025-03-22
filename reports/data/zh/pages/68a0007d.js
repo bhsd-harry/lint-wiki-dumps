@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",401,13,"'"],[4,"no-duplicate",720,39,"style=\"width:90%\""]]

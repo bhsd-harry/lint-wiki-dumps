@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",78,21,"  |style=\"align:left;margin:0px\"|"]]

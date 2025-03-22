@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",239,33,"rowspan"],[2,"no-ignored",239,112," #f6e39c;"]]

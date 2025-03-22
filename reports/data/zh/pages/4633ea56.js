@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",140,472,"isbn = 0945466226 "],[2,"unmatched-tag",25,88,"<center>"]]

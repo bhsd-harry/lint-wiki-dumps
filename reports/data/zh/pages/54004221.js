@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",133,2,"[[Category:斯蒂芬·斯皮尔伯格电影]]"]]

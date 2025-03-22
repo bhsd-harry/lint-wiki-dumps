@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,23,"style=\"font-size: 14px;\""]]

@@ -1,1 +1,0 @@
-window.data=[[6,"illegal-attr",625,16,"list"],[6,"lonely-bracket",625,3,"{{"],[6,"no-ignored",625,3,"{{unbulleted "]]

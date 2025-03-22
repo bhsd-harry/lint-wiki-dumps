@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",38,2,"[[Category:前傳電子遊戲]]"]]

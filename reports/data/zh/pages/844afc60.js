@@ -1,1 +1,0 @@
-window.data=[[10,"no-duplicate",292,2,"[[Category:委內瑞拉裔美國人]]"]]

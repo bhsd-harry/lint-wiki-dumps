@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",235,5,"style=\"margin:inherit; padding-bottom:0.25em\""]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",12,2,"[[Category:Pages that use a deprecated format of the math tags]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",25,59,"note-right3=12.7km\n "]]

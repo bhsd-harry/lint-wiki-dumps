@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",59,52,"Scopus_umbretta_-Serengeti,_Tanzania-8"]]

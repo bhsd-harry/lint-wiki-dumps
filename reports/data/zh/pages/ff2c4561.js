@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",54,1," <center>"],[1,"unclosed-table",52,2,"{|"],[1,"unmatched-tag",80,2,"</center>"]]

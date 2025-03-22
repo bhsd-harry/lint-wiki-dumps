@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",10,3," 曾用车次   = \n "]]

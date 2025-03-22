@@ -1,1 +1,0 @@
-window.data=[[2,"nested-link",16,118,"[[National Portrait Gallery, London|National Portrait Gallery]]"]]

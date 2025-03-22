@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",10,3,"office          = {{le|哈薩克國務部部長|State Secretary of Kazakhstan}}\n "]]

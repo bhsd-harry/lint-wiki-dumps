@@ -1,1 +1,0 @@
-window.data=[[9,"fostered-content",695,1," *[[透翅蛾科]]\n **透翅天蛾亞科\n ***''Gaea variegata'' (Walker, 1864)*\n ***''Toleria sinensis'' (Walker, 1854)*"],[1,"unclosed-table",807,2,"{|"],[6,"unmatched-tag",829,2,"</td>"]]

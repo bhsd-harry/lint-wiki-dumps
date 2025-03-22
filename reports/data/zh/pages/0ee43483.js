@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",183,66,"colspan"],[4,"no-duplicate",183,24,"style=\"margin:0 auto;\""],[1,"unmatched-tag",108,2,"</small>"]]

@@ -1,1 +1,0 @@
-window.data=[[3,"fostered-content",35,1," *[[小城子城址]]"]]

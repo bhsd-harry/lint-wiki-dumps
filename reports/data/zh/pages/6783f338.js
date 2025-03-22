@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",1567,1," :* '''发布预告'''：官方续篇漫画{{nihongo|《'''-{FAIRY TAIL}- 100 YEARS QUEST'''》|フェアリーテイル 100年クエスト|妖精的尾巴 百年任务}}由原作者[[真岛浩]]负责剧本、分镜，作画[[上田敦夫]]执笔在週刊少年Magazine34号出張掲"],[2,"invalid-isbn",362,4,"ISBN 978-4-06-363771-9"],[2,"lonely-http",729,7,"ISBN"]]

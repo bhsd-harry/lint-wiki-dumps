@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",61,20,"}}"],[2,"no-duplicate",25,6,"2={{clade\n       |1=[[石螈科]]Lapillopsidae [[File:Lapillopsis_nana.jpg|60px]]}}\n       "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",37,49,"来自古瑟夫撞击坑的首张彩色照片。岩石被发现是玄武岩，所有一切都被勇气号确认为带有磁性的细尘埃所覆盖。Image:Rockgusev.jpg"]]

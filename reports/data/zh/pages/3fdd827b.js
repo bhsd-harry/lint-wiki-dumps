@@ -1,1 +1,0 @@
-window.data=[[30,"illegal-attr",51,203,"margin-bottom:"],[32,"no-ignored",51,178,"style\":\"margin-left:1em; "]]

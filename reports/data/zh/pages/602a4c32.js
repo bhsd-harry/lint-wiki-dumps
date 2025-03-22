@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",294,21,"sytle"],[2,"no-ignored",86,3,"AG超玩会"]]

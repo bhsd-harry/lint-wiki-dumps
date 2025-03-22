@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",62,1," * 儿童教育学科\n ** 初等教育学专攻<ref group=\"注\"  name=\"招生到2009年\"/>\n ** 幼儿教育学专攻<ref group=\"注\"  name=\"招生到2009年\"/>\n * 生活科学科\n ** 生活科学专攻\n ** <del>[[服装]]学专攻</del><ref g"]]

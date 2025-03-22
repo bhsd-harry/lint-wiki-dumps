@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",904,2,"[[Category:2024年臺灣籃球]]"],[1,"no-ignored",411,73," 莊敬高職"]]

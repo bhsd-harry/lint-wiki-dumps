@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",46,2,"[[Category:马克斯·普朗克奖章获得者]]"]]

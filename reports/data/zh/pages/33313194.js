@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",130,1,"\n === 影視 ===\n ====電影===="],[1,"unclosed-table",45,2,"{|"]]

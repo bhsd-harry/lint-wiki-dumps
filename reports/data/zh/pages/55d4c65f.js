@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",46,2,"[[Category:维基数据存在坐标数据的页面]]"]]

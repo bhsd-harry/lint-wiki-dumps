@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",867,4,"tyle"],[2,"no-duplicate",175,4,"style=\"background:; color:; font-weight:bold\""]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",45,3,"[[分类:清徐人]]"]]

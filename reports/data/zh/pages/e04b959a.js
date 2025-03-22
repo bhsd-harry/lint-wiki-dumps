@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",24,3,"predecessor1 = [[杰夫·塞申斯]]\n "]]

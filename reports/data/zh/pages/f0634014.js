@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",295,3,"{{flagIOCathlete|[[Hwang Kyung-Seon|Hwang K-S]]|KOR|2004年夏季}}<br>'''L''' 2–6 "],[1,"parsing-order",295,64,"<br>"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",36,1," ===第一代==="]]

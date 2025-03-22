@@ -1,1 +1,0 @@
-window.data=[[4,"invalid-gallery",83,27,"thumb"],[8,"no-duplicate",83,33,"Kasai shrine 02"]]

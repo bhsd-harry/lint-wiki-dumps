@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",52,2,"[[Category:Pages using bar box without float left or float right|2004 Conservative Party of Canada leadership election]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",225,1," == 相關條目 ==\n * [[澳門新福利公共汽車有限公司]]\n * [[澳門公共汽車股份有限公司]]\n * [[澳門巴士路線列表]]\n\n == 外部連結 ==\n *[http://www.transmac.com.mo/ 新福利官方網站] {{zh-mo}} {{Wayback|url=http"],[1,"unclosed-table",224,2,"{|"]]

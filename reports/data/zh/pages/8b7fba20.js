@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",137,30,"Booba and Kiki shapes"]]

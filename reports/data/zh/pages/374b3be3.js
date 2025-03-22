@@ -1,1 +1,0 @@
-window.data=[[1,"unclosed-comment",99,2,"<!--\n 因該獎項為去年設立，所以先暫時刪除，等獎項經過10屆之後再恢復此紀錄。\n {| class=\"wikitable\"  style=\"text-align: center\"  width=60%\n |-\n !width=20%|'''統計'''\n !width=30%|'''名字'''\n "]]

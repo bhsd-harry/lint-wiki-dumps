@@ -1,1 +1,0 @@
-window.data=[[3,"no-ignored",107,4," 離隊"]]

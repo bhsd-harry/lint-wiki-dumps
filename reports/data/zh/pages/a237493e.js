@@ -1,1 +1,0 @@
-window.data=[[1,"parsing-order",19,31,"<ref name=\"greatac\">{{cite book|last=Cacutt|first=Len|title=Grumman Single-Seat Biplane Fighters|year=1989|publisher=Marshall Cavendish|location=Londo"]]

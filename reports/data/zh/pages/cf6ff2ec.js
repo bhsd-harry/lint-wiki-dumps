@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",792,1,"\n ==={{flagicon|Melaka}}  [[马六甲]]州委员会==="],[5,"illegal-attr",1200,4,"stye"],[5,"no-ignored",1065,18,"20%\"  "],[1,"unclosed-table",628,2,"{|"]]

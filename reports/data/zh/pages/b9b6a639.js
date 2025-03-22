@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",43,2,"[[Category:劍橋大學教師]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",17,2,"[[Category:1994年亚洲运动会射箭运动员]]"]]

@@ -1,1 +1,0 @@
-window.data=[[6,"illegal-attr",425,29,"white-space"],[2,"lonely-bracket",177,4,"{{"],[5,"no-ignored",177,3," {{flatlist"]]

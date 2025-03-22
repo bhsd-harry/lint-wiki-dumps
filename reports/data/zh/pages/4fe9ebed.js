@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",14,1," γ = [[伽馬射線]]<br />\n '''[[X射線]]：'''<br />\n HX = 硬[[X射線]]<br />\n SX = 軟X射線<br />\n '''[[紫外線]]：'''<br />\n EUV = 極端[[紫外線]]<br />\n NUV = 近紫外線<br />\n '''[[紅"],[1,"no-ignored",13,15,"   cell<br />"],[1,"parsing-order",13,22,"<br />"]]

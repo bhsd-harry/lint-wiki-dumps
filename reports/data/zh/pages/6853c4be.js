@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",74,1138," ＝\"newsis100414\""],[1,"unmatched-tag",55,2,"</div>"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",520,19,"'"],[4,"no-duplicate",627,17,"style=\"text-align: center;\""]]

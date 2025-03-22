@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",23,2,"[[Category:丹东人|S孙]]"]]

@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",478,4,"IDENTITY:"],[1,"lonely-apos",226,13,"'"],[1,"no-ignored",39,15,"  font-weight:bold\"  "]]

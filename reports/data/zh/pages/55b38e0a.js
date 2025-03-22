@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",4,32,"upright=1.3<!--size for lead image-->"]]

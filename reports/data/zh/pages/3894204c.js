@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",49,1," * [[工商管理学]]科<ref group=\"注\"  name=\"工商管理学科\">日语:{{lang|ja|経営学科}}</ref>\n ** [[管理学|经营管理]]专攻　\n ** 经营信息处理专攻"]]

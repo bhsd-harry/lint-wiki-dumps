@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",58,38," 夏威夷小姐競選"],[7,"unmatched-tag",52,16,"<center>"]]

@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",2599,98,"width"],[1,"no-ignored",3117,4," | 專輯封套 ||  "]]

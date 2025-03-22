@@ -1,1 +1,0 @@
-window.data=[[18,"no-duplicate",62,2,"[[Category:澳門裔香港人]]"]]

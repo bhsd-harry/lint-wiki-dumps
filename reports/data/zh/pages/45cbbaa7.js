@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",63,2,"[[Category:亂流]]"]]

@@ -1,1 +1,0 @@
-window.data=[[4,"parsing-order",18,43,"<ref>{{citation |url= http://www.dod.mil/pubs/foi/logistics_material_readiness/acq_bud_fin/SARs/DEC%202011%20SAR/MH-60R%20-%20SAR%20-%2031%20DEC%20201"]]

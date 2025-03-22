@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",30,2,"[[Category:美国流行病学家]]"]]

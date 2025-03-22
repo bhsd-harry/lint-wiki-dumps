@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",308,4,"選入國中教材"],[1,"unclosed-table",195,2,"{|"]]

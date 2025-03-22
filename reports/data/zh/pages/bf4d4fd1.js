@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",374,1,"\n ==参考资料==\n {{Reflist}}\n\n ==相關網站==\n * {{Official website|http://www.cbs.com/shows/person_of_interest/}}\n * {{IMDb title|1839578|Person of Interest}}\n "],[2,"illegal-attr",249,4,"span"],[1,"unclosed-table",309,2,"{|"]]

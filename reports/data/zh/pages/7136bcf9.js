@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-isbn",775,25,"ISBN 978-986-310-378-2"],[9,"unclosed-table",415,2,"{|"]]

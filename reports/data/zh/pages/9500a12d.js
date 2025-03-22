@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",81,29,"{{"],[1,"no-ignored",81,28," {{反轉"]]

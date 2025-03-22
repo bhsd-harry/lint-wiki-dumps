@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",230,359,"]]"],[2,"no-duplicate",230,351,"name=現役/]])(<ref"],[1,"tag-like",230,363,"<ref"]]

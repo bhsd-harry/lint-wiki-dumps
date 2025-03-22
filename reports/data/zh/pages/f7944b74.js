@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",14,3," malaysia = 披萨\n "]]

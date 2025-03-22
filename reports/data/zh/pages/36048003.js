@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",116,52,"border-bottom:"],[1,"no-ignored",116,76," #AAAAAA; "]]

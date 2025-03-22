@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,3," 職業 = 舞台演員\n "]]

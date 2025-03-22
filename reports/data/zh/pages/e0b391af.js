@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",88,16,"Rap"],[2,"no-ignored",88,3,"最佳说唱表演 (Best "]]

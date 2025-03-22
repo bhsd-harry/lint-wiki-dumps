@@ -1,1 +1,0 @@
-window.data=[[12,"no-duplicate",597,2,"[[Category:G型巨星]]"]]

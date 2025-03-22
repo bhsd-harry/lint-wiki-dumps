@@ -1,1 +1,0 @@
-window.data=[[35,"illegal-attr",482,13,"URL"],[2,"lonely-bracket",709,4,"{{"],[10,"no-ignored",482,3," {{yes}}, "]]

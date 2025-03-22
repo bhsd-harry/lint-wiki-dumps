@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-gallery",8,36,"左"],[2,"no-duplicate",8,38,"大拇指"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",131,4," class\"sortbottom\""],[3,"unclosed-table",137,2,"{|"]]

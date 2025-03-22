@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",76,1," File:1920臺灣原住民泰雅族領袖樂信．瓦旦（林瑞昌）與哈勇．烏送（[[高揚昇]]之父高啟順）Indigenous Taiwanese Atayal Leaders Loshin Wadan with Kao Chi-Shun.jpg|1920年與哈勇．烏送（高啟順）"]]

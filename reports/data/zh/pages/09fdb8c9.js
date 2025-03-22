@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",192,5,"valign"],[2,"no-duplicate",358,2,"[[Category:俄罗斯联邦主体行政中心]]"]]

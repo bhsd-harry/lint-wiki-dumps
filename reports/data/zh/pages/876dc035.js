@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",56,1,"\n == 大理市文物保护单位<ref>{{Cite book|title=大理市文化志|last=大理市文化丛书编辑委员会 编|publisher=云南民族出版社|year=1996|isbn=7-5367-1268-5|location=昆明|pages=318-321}}</ref><ref>{"]]

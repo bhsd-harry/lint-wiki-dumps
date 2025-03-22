@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",47,1," * 经济信息学科\n ** 第一部\n ** [[夜校|第二部]]<ref group=\"注\"  name=\"第二部招生\">招生到2002年、停办2004年。</ref>"]]

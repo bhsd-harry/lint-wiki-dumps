@@ -1,1 +1,0 @@
-window.data=[[24,"no-duplicate",19,2,"[[Category:英格兰军事人物]]"]]

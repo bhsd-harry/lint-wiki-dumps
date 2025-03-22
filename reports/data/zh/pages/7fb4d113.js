@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",81,1," '''賽點印度威力F1車隊時期'''\n"]]

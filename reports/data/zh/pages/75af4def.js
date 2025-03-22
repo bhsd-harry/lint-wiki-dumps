@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-http",67,40,"https://"],[8,"unclosed-table",995,2,"{|"],[1,"unmatched-tag",194,4,"<small>"]]

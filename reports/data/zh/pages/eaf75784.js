@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",257,648,"["],[2,"no-duplicate",410,2,"[[Category:臺灣網路節目主持人|K林]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",219,74,"]"],[5,"no-ignored",192,3," width:60px;\""]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",100,3,"藝術家年獎—電影"]]

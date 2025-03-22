@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",106,2,"[[分類:前社會主義國家]]"]]

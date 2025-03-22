@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",2,17,"G3=英超"]]

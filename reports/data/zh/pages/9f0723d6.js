@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",41,4,"耐火金屬主要性質的比較"]]

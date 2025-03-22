@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",15,47,"=An ocean triggerfish, ''Canthidermis sufflamen'', on display at the New England Aquarium in October 2023.  Note the distinguishing black mark at the "]]

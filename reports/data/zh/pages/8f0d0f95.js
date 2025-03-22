@@ -1,1 +1,0 @@
-window.data=[[8,"no-ignored",39,3,"<div style=\"text-align: center;\">width='800px'"],[8,"parsing-order",39,3,"<div style=\"text-align: center;\">"]]

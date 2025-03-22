@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",5,1," Cheese Curds with scale measurement.png#file"]]

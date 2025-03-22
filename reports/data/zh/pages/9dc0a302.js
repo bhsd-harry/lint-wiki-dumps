@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",47,4,"Image:Union_Station_Quote_(right).JPG#file"]]

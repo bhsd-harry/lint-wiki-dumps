@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",97,3,"!width=45%"]]

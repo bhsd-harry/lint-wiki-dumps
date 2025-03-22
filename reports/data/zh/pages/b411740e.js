@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",8,3," image_size = 340\n "]]

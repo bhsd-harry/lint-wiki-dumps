@@ -1,1 +1,0 @@
-window.data=[[10,"fostered-content",38,1," </div>\n <div style=\"text-align: center;\">"],[19,"unmatched-tag",35,2,"</div>"]]

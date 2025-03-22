@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",141,5,"span"],[4,"no-duplicate",292,26,"{{zh|1=梅州中学正门牌坊}}"]]

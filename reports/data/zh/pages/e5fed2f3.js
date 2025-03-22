@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",43,2,"[[Category:藝術與文學司令勳章得主]]"]]

@@ -1,1 +1,0 @@
-window.data=[[3,"parsing-order",17,30,"<ref name=Airbus19jul2018>{{cite press release |publisher= Airbus |url= https://www.airbus.com/newsroom/press-releases/en/2018/07/first-belugaxl-becom"]]

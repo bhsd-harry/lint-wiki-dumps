@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",63,157,"[[Hubble Space Telescope]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",4,3,"transcription = Pheng Xat Lao\n "]]

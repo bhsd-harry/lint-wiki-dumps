@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",90,25," name\"The Spectrum\""]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",651,3,"發售日期"]]

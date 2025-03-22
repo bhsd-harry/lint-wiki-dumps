@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",48,1," * 佛教学科\n ** 佛教学专攻\n ** 佛教保育专攻"]]

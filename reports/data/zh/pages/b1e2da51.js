@@ -1,1 +1,0 @@
-window.data=[[1,"tag-like",18,25,"</nowiki"]]

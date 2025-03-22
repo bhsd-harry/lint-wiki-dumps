@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",48,1," * 英语英文科"],[2,"lonely-apos",32,14,"'"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",168,1,"\n == 配音作品 =="],[1,"unclosed-table",45,2,"{|"]]

@@ -1,1 +1,0 @@
-window.data=[[3,"lonely-apos",14,13,"'"]]

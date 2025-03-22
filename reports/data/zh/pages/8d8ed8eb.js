@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",46,125,"name=\"陳義丁\""],[1,"no-ignored",46,135,"/。右門為禮門，左門為義門，一般從禮門進，從義門出<ref "],[1,"tag-like",46,160,"<ref"]]

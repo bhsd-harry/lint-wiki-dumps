@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",64,2,"[[Category:罹患白血病逝世者]]"]]

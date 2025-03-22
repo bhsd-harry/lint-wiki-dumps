@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",55,372,"[[Sergei Novikov (mathematician)|S. P. Novikov]]"]]

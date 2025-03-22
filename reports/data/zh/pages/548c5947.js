@@ -1,1 +1,0 @@
-window.data=[[112,"no-duplicate",13,34,"style=\"margin:auto\""],[1,"no-ignored",98,4,"車牌"]]

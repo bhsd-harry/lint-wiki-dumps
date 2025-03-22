@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",71,2520,"  \"Hollywood Reporter\""]]

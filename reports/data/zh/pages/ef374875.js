@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",34,2,"[[Category:中华人民共和国建立后的维吾尔族中国共产党党员]]"]]

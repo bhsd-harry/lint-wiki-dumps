@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",70,1,"\n == 主持过的电视节目 ==\n *2004《The Chair》 \n **播出频道：[[NTV7]]\n *2004 - 2009《横行8道》（Step Forward）第一季 至 第五季 \n **播出频道：[[8TV|八度空间]]\n *2006-2009《我要做Model》 （I Wanna B"],[1,"unclosed-table",46,2,"{|"]]

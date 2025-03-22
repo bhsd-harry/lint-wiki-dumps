@@ -1,1 +1,0 @@
-window.data=[[7,"illegal-attr",87,18,"Andromeda"],[8,"no-ignored",87,27," (TV series)"]]

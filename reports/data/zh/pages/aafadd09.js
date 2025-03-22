@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",110,44,"{{"],[2,"no-duplicate",110,44,"{{link-ko"]]

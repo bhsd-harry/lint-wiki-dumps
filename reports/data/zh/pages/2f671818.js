@@ -1,1 +1,0 @@
-window.data=[[78,"no-duplicate",18,4,"style=\"padding-left:0.5em\""]]

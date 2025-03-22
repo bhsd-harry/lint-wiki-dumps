@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-http",123,62,"ISBN"],[12,"no-ignored",36,46,"|align=\"center\"  "]]

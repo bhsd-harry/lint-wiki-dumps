@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",108,1," 自2013年4月以來無HKT48的來賓成員參與演出。"]]

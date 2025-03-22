@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",349,90,"{{"],[16,"no-duplicate",528,60,"300px"],[1,"no-ignored",349,80," 1969年<br>{{nowrap"],[1,"parsing-order",349,86,"<br>"]]

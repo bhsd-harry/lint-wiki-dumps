@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",15,3,"constituency  = {{le|奔萨选区|Penza constituency}}\n "]]

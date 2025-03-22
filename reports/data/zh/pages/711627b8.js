@@ -1,1 +1,0 @@
-window.data=[[5,"illegal-attr",346,12,"archive.today"],[1,"lonely-http",346,4,"https://"],[2,"no-ignored",346,3,"[https://"]]

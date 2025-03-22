@@ -1,1 +1,0 @@
-window.data=[[1,"unescaped",28,86,"="],[1,"unmatched-tag",20,2,"</sup>"]]

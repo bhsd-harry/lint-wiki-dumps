@@ -1,1 +1,0 @@
-window.data=[[7,"illegal-attr",89,5,"border"],[1,"lonely-bracket",27,108,"{{"],[4,"no-duplicate",227,5,"class=\"wikitable\""]]

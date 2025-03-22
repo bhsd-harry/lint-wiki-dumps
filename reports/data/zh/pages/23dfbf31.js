@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",18,37,"不同种类的翼柱头鲨的牙齿File:PtychodusLowerJaw.jpg"]]

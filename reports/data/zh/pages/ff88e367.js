@@ -1,1 +1,0 @@
-window.data=[[2,"invalid-gallery",283,23,"right"],[4,"unmatched-tag",17,41,"</sup>"]]

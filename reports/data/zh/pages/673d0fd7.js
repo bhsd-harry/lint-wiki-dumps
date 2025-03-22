@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",149,2,"[[Category:哥伦比亚历史]]"]]

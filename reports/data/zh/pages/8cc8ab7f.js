@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",22,2,"[[Category:1988年夏季奧林匹克運動會獎牌得主]]"]]

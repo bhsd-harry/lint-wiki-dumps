@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",57,149,"title=冬季オリンピックと地域活性化 "]]

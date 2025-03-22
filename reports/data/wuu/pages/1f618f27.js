@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",2725,15,"Greatest"],[1,"no-ignored",2725,3," ''Midway's "]]

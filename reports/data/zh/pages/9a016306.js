@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",1404,37,"]]"],[6,"no-ignored",1902,1," File:Sakurajima Mikan.JPG{{le|櫻島小蜜柑|Komikan (fruit)}}<br>Komikan"]]

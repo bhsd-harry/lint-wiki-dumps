@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",22,2,"[[Category:1990年中美洲和加勒比运动会田径运动员]]"]]

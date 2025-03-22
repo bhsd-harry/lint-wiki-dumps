@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-http",378,48,"http://"],[2,"no-duplicate",132,40,"Right"]]

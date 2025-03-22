@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",32,2,"[[Category:乾清門侍衛]]"]]

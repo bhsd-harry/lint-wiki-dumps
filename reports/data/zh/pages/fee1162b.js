@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",2167,2,"[[Category:伊泽尔省市镇|*]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",354,2,"[[Category:法国海军战列舰|R]]"]]

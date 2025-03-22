@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",693,2,"[[Category:美國職業足球聯賽]]"]]

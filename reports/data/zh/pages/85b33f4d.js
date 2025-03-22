@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",8,120,"autocomplete"],[1,"no-ignored",55,21,"font-size:\""]]

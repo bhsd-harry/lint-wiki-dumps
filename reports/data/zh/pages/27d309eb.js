@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",27,2,"[[Category:納粹獵人]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",60,5,"7."],[2,"no-duplicate",1338,45,"地图描述 = 印度洋海啸的电脑模拟示意图"]]

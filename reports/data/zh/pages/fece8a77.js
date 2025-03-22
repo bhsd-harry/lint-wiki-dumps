@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",173,12,"luen-tai.cctechhk.com"],[1,"lonely-http",173,4,"https://"],[2,"no-ignored",173,3,"[https://"]]

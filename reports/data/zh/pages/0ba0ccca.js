@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",141,24,"[["],[1,"no-ignored",141,4,"|Ch'e Ch'ing-yun || [[車慶雲]]|| 瑞峯|| [[File:Che Qingyun.jpg|100px]]"]]

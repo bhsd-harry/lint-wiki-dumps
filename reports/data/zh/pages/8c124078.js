@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",184,21,"sortable"],[98,"no-ignored",8,28," #ff6;"]]

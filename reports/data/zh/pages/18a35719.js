@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",28,15,"  color:black\"  "]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",2640,3,"nowrap"],[2,"no-duplicate",2191,3,"rowspan=2"]]

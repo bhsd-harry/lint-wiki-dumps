@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",47,2,"[[Category:鮑曼莫斯科國立技術大學校友]]"]]

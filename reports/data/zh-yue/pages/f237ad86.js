@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",13,91,"xml:lang"],[1,"unclosed-table",92,2,"{|"]]

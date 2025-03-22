@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",157,5,"colour:black"],[2,"no-duplicate",467,48,"Delta Airlines Boeing 777-200 N862DA"]]

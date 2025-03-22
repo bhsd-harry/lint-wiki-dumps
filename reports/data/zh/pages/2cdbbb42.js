@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",92,24,"text-align"],[1,"no-ignored",53,4,"!-- 請勿以報復心態更改維基百科"]]

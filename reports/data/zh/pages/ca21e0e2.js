@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",351,340,"]"],[6,"no-duplicate",356,48,"Right"],[1,"no-ignored",60,4,"File:Stiniva_beach,_island_of_Vis,_Croatia_(4).jpg#/media/File:Stiniva_beach,_island_of_Vis,_Croatia_(4).jpg"]]

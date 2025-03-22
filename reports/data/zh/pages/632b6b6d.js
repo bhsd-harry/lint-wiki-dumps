@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",39,70,"AIC"],[30,"no-ignored",13,72,"マッドハウス"]]

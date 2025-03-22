@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",180,2,"[[Category:起亞虎球員]]"],[25,"no-ignored",97,3,"年度"],[9,"parsing-order",97,72,"<br>"]]

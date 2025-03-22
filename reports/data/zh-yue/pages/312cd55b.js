@@ -1,1 +1,0 @@
-window.data=[[12,"no-duplicate",13,845,"url-status=live "]]

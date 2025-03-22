@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",11,95,"  <ref "],[1,"tag-like",11,97,"<ref"]]

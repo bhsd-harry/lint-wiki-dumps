@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",37,3,"pushpin_map            = Canada#British Columbia\n "]]

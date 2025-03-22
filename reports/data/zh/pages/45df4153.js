@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",87,1," ;北一路卫工街（位于场馆北侧，中途车站）\n {{沈阳公交线路列表|width=100%|format=|277|303}}"]]

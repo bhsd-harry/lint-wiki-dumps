@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",93,1,"\n [[Category:韓國男子演唱團體]]\n [[Category:韓國流行音樂團體]]\n [[Category:韓語流行音樂團體]]\n [[Category:2009年成立的音樂團體]]\n [[Category:2009年韓國建立]]"],[1,"unclosed-table",79,2,"{|"]]

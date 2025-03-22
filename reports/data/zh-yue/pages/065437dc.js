@@ -1,1 +1,0 @@
-window.data=[[2,"nested-link",2,273,"[[中國國民黨|國]]"]]

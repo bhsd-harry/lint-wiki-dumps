@@ -1,1 +1,0 @@
-window.data=[[16,"parsing-order",13,22,"<ref>{{cite web |url=https://news.lockheedmartin.com/2019-05-17-Sikorsky-Receives-Contract-to-Build-12-CH-53K-Heavy-Lift-Helicopters |title=Source fro"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",295,3,"}}"],[4,"no-duplicate",407,2,"[[Category:台灣偶像劇]]"]]

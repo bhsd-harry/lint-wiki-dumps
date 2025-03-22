@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",718,24,"]]"],[3,"no-ignored",384,4," [-]<br />(- [-])"],[2,"parsing-order",384,8,"<br />"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",141,1," [[File:Finnish-gun-crew-1942.jpg|thumb|[[繼續戰爭]]中芬蘭軍隊的PaK 40]]"]]

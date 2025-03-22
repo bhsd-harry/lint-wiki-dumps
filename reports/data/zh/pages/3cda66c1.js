@@ -1,1 +1,0 @@
-window.data=[[11,"invalid-isbn",305,17,"ISBN 978-4-8401-1196-0"],[2,"no-duplicate",875,2,"[[Category:校園漫畫]]"]]

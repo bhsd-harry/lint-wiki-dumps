@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",21,12,"[["],[1,"no-ignored",21,4,"（1991年、见[[海湾战争]]）"]]

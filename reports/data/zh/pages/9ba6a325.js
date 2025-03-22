@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",2,3," conflict= 神武東征\n "]]

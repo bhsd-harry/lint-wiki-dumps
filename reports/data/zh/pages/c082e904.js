@@ -1,1 +1,0 @@
-window.data=[[39,"illegal-attr",12,289,"contenteditable"],[1,"lonely-http",319,34,"https://"]]

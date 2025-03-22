@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",52,551,"pp=194-213"]]

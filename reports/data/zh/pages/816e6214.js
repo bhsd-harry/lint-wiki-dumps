@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-http",282,3,"ISBN"],[2,"no-duplicate",397,2,"[[Category:臺灣新教徒]]"]]

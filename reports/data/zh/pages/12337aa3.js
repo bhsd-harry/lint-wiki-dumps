@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",62,3," footnotes = \n "]]

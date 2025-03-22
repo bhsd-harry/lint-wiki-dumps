@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,12,"|恩奎巴龍属"]]

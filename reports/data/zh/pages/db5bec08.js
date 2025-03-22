@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",1,52,"caption=Climber in a bouldering competition"]]

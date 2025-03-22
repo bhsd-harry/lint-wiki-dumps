@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",83,1," ;小于村委会（站位位于曹后公路，中央南大街北侧，A出入口向西北约190米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|261郎家|307}}"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",88,24,"style=\"line-height: 0.9em; border:1px #000000;\""]]

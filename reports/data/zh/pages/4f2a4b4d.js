@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",115,2,"[[Category:中國男配音員|G葛]]"]]

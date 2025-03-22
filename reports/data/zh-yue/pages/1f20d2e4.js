@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",7,3," image_width = 250px\n "]]

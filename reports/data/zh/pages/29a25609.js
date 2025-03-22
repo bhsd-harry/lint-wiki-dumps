@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",35,2,"[[Category:正紅旗蒙古都統|署]]"]]

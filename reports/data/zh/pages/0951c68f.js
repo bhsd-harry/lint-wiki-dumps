@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",864,4,"colspa"],[1,"lonely-bracket",204,4,"{{"]]

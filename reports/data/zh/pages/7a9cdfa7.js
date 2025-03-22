@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",51,78,"File:Singapore_Downtown_-_Telok_Ayer_Street_-_Yu_Huang_Gong_Temple_IMG_9970.jpg#/media/File:Singapore_Downtown_-_Telok_Ayer_Street_-_Yu_Huang_Gong_Tem"]]

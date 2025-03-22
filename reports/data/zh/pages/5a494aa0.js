@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",16,5,"style=\"{{Table center}}\""]]

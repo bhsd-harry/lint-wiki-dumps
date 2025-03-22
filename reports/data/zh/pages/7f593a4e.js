@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",173,33,"rowspan"],[1,"no-ignored",169,49,"background:#FAEB86; height:20px; width:20px\""]]

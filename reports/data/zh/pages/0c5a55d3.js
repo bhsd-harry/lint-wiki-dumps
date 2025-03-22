@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",445,57,"Promise"],[8,"no-ignored",415,14,"  <small>;text-align:center"],[7,"parsing-order",415,16,"<small>"]]

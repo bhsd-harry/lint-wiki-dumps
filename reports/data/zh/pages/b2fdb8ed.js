@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",3,86,"border-top:"],[2,"no-duplicate",3,51,"style=\"width: 100%; height:200px\""],[1,"no-ignored",3,97," none\"  "]]

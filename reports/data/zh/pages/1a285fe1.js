@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",121,3,"7130c"],[4,"lonely-apos",184,67,"'"],[1,"no-ignored",148,370," 7, "]]

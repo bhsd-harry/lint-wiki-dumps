@@ -1,1 +1,0 @@
-window.data=[[12,"no-duplicate",191,4,"id=\"C/1947 X1-A\""]]

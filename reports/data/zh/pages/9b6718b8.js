@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",41,49,"Michael as a hurricane-force extratropical cyclone on October 13"]]

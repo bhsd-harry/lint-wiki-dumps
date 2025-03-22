@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",50,2,"[[Category:赴日本內地求學的臺灣人]]"]]

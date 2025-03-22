@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",191,2,"[[Category:台灣電影女演員]]"]]

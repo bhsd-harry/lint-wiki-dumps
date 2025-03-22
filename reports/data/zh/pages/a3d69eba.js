@@ -1,1 +1,0 @@
-window.data=[[9,"no-ignored",166,3,"最佳導演"]]

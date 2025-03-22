@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",65,39,"#b8860b\"  "]]

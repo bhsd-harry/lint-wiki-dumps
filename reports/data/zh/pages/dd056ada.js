@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",207,54,"[["],[2,"no-duplicate",207,54,"[[Collégiale Saint-Vincent de Soignies"]]

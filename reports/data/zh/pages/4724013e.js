@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",63,1," * 麥大力拍攝寵物實況單元期間，不小心被哥基拍擋「大佬」咬傷，幸無大礙。<ref>[https://skypost.ulifestyle.com.hk/article/2940094/Super5%E2%94%82%E9%BA%A5%E5%A4%A7%E5%8A%9B%E9%A0%98%E5%93"],[1,"unclosed-table",62,2,"{|"]]

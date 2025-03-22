@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",14,3,"職業     = \n "]]

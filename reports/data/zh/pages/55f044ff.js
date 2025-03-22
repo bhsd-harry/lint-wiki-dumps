@@ -1,1 +1,0 @@
-window.data=[[2,"nested-link",101,83,"[[中國哲學]]"],[12,"no-duplicate",37,30,"thumb"]]

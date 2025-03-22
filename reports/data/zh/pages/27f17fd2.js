@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",89,2,"[[Category:杜尚别人]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",69,35,"}"],[2,"no-duplicate",75,2,"[[Category:奧斯卡最佳影片]]"]]

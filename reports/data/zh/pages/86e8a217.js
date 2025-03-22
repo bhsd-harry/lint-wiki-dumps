@@ -1,1 +1,0 @@
-window.data=[[3,"invalid-isbn",403,16,"ISBN 978-4-04-713872-X"],[1,"lonely-bracket",129,3,"{{"],[1,"no-ignored",617,68,"松田剛吏"]]

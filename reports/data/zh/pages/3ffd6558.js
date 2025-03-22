@@ -1,1 +1,0 @@
-window.data=[[85,"fostered-content",37,1," [[1940年电影|1940年]]（[[第13届奥斯卡金像奖|第13届]]）\n *'''《{{link-en|江湖异人传|The Great McGinty}}》(''The Great McGinty'')– {{link-en|普莱斯顿·斯特奇斯|Preston Sturges}}'''\n *"],[4,"illegal-attr",668,24,"rowspan"],[2,"no-ignored",668,103," #f6e39c;"]]

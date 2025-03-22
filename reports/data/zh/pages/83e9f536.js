@@ -1,1 +1,0 @@
-window.data=[[1,"parsing-order",5,246,"<ref name=  \"üretim-ve-ihraç-eylül-2022\">{{Cite news |url= https://www.trthaber.com/haber/ekonomi/bayraktar-tb2-24-ulkeye-ihrac-ediliyor-705530.html |"]]

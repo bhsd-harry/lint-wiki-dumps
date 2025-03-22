@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",7,3," current_season = \n "],[1,"unclosed-table",259,2,"{|"]]

@@ -1,1 +1,0 @@
-window.data=[[5,"no-duplicate",2,3,"1=zh-cn:密室逃生2; zh-hk:密室逃殺：倖存者遊戲; zh-tw:密弒遊戲2：勝者危亡;\n "]]

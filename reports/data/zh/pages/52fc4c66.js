@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",370,3,"{{"],[1,"no-ignored",370,3,"{{Tooltip"]]

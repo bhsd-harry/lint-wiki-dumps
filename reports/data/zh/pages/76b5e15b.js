@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",6,3,"foundation = [[台灣]]（{{Start date|1993||}}）\n "]]

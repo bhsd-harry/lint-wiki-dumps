@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",114,17,"女子籃球隊<br />"],[1,"parsing-order",114,22,"<br />"]]

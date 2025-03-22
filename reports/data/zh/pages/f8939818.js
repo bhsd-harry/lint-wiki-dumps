@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",72,2,"[[Category:虛構獨裁者]]"]]

@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",12,3,"annual_ridership = 2,413,414  (2015)\n "]]

@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",510,45,"'"],[2,"no-duplicate",579,2,"[[Category:美國人瑞]]"]]

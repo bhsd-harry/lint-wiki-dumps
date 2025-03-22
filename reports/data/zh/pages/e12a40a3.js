@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",27,3," 前頻道名稱       = \n "]]

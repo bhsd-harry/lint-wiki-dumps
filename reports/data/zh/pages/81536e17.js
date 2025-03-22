@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",21,58,"[[莫斯科州]]"]]

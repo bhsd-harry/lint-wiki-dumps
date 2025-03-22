@@ -1,1 +1,0 @@
-window.data=[[6,"illegal-attr",128,13,"www.kkbox.com"],[1,"lonely-http",128,5,"https://"],[2,"no-ignored",128,4,"[https://"]]

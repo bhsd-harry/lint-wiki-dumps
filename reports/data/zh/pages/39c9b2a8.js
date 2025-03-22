@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",90,2,"[[Category:1991年單曲]]"]]

@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",4,30,"<br style=\"clear:both;\">"]]

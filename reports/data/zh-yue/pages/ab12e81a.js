@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",36,2,"{{"],[3,"no-duplicate",35,58,"全球武肺疫情形勢嘅一覽：\n {{legend"]]

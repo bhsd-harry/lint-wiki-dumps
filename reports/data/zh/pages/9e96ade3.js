@@ -1,1 +1,0 @@
-window.data=[[4,"no-ignored",34,3,"球季"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",29,3," office2 = [[歐洲事務大臣|影子歐洲事務國務大臣]]\n "]]

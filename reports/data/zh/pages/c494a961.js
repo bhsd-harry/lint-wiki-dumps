@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",70,8,"\n ==== 女性 ====\n * 倉持若菜\n "]]

@@ -1,1 +1,0 @@
-window.data=[[3,"no-ignored",120,22,"朝鮮國家標準"]]

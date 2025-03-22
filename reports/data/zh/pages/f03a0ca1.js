@@ -1,1 +1,0 @@
-window.data=[[55,"invalid-isbn",26,16,"ISBN 978-4-09-123371-6"],[7,"lonely-bracket",1942,63,"}"],[8,"lonely-http",27,73,"ISBN"],[12,"no-ignored",15,29,"font-size:small; width:80%\""],[2,"unmatched-tag",1591,18,"</span>"]]

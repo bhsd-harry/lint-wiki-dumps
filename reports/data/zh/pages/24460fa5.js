@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",100,2,"[[Category:新北市私立復興高級商工職業學校校友]]"]]

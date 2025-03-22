@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",32,35,"Image:Queens Cross Church07i.jpg"]]

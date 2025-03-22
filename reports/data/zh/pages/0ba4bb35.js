@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",18,82,"HK_Mid-levels_羅便臣道_Robinson_Road_east_Swire_property_Albany_Dec-2010"]]

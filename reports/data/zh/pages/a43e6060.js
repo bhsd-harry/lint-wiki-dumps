@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",64,12,"www.mining-technology.com"],[1,"lonely-http",64,5,"http://"],[2,"no-ignored",64,4,"[http://"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",23,12,"'"],[2,"no-ignored",38,42,"  color:black; font-weight:bold;\"  "],[1,"unclosed-table",104,2,"{|"]]

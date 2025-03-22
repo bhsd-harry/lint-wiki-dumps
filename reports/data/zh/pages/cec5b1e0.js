@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",63,1," [[File:HK ICC Imperial Cullinan showflats 西九龍 瓏璽 房展 示範單位 masterbedroom bed July-2011.jpg|thumb|300px|主人房"]]

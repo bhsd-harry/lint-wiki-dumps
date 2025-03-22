@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",34,54,"([[Image:Loudspeaker.svg|11px]]"]]

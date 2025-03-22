@@ -1,1 +1,0 @@
-window.data=[[5,"illegal-attr",205,8,"sortable"],[1,"no-ignored",205,16," table, DON'T BOLD, "]]

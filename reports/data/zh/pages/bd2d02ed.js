@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",6,3,"motto = The Power of AND\n "]]

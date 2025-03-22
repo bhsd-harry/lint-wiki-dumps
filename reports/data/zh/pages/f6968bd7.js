@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",251,5,"{{"],[1,"no-ignored",251,3," 「{{lang"]]

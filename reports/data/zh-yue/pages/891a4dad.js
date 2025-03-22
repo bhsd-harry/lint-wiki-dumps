@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",17,537,"last3=Codding "]]

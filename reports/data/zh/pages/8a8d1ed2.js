@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",541,1," *2009年11月12日至2010年2月18日：因為2009 [[Mnet亞洲音樂大獎]]播映關係，本節目替代節目精華片段及暫停播映。\n *2010年4月1日：[[天安艦事件]]，播放之前的節目精華片段<ref>{{Cite web |url=http://star.mt.co.kr/view/s"],[1,"lonely-apos",1508,8,"'"]]

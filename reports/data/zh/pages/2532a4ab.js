@@ -1,1 +1,0 @@
-window.data=[[2,"invalid-gallery",547,68,"300px"],[1,"lonely-bracket",388,373,"}}"],[2,"no-duplicate",547,81,"The Petrela Castle"]]

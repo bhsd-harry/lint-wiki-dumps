@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",17,3," num_episodes  = 24集\n "]]

@@ -1,1 +1,0 @@
-window.data=[[17,"illegal-attr",33,203,"margin-bottom:"],[2,"lonely-bracket",41,170,"[["],[1,"lonely-http",41,194,"https://"],[17,"no-ignored",33,178,"style\":\"margin-left:1em; "],[2,"parsing-order",41,19,"<td style=\"background: #ececec; color: black;\"  class=\"table-na\"  data-ve-attributes=\"{\"style\":\"background: #ececec; color: black;\"}\">"]]

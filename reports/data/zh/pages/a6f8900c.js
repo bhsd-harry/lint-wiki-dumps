@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",305,3," 特力屋"]]

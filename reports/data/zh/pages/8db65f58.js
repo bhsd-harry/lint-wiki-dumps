@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",44,72,"title=http://www.twtsaa.org.hk/Docs/Magazine/Schoolmagazine/50anniversary.pdf"]]

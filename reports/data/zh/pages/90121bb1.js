@@ -1,1 +1,0 @@
-window.data=[[50,"illegal-attr",666,28,"text-align:center"],[2,"no-ignored",149,22," wheat; text-align:center;"]]

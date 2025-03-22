@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",20,70,"last1=GBD 2015 Disease and Injury Incidence and Prevalence"]]

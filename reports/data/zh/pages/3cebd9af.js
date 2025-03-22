@@ -1,1 +1,0 @@
-window.data=[[3,"no-duplicate",150,2,"[[Category:香港警匪片]]"]]

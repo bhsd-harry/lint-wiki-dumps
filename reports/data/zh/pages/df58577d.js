@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",18,61,"{{"],[3,"no-duplicate",18,40,"由[[湯姆·艾金斯]]在1875年所繪的《{{le"]]

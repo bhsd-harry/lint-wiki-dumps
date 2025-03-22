@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",8,441,"  <span style=\"display:none\">{{formatnum:{{padleft:5300000|8|0}}}}  </span>"],[2,"parsing-order",8,443,"<span style=\"display:none\">"]]

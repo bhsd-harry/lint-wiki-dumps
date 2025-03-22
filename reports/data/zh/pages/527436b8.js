@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",366,49,"text-align"],[12,"no-duplicate",28,3," 每集長 = 35-40分鐘\n "]]

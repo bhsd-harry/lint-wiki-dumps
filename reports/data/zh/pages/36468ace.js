@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",1018,33,"Right"],[4,"no-ignored",194,38,"all\""]]

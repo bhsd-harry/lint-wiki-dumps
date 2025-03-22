@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",2,3," 名称 = 赵铁山宅院\n "]]

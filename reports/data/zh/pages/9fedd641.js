@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",9,3," image_name       = Marotiri-map.jpg\n "]]

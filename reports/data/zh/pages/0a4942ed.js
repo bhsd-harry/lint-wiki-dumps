@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",90,3,"下鴨本通北大路<br />（京都府立洛北高等學校・附屬中學校"],[1,"parsing-order",90,10,"<br />"]]

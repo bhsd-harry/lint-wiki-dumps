@@ -1,1 +1,0 @@
-window.data=[[5,"lonely-bracket",31,36,"[["],[1,"no-ignored",31,45," Gang|VG]]"]]

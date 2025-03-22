@@ -1,1 +1,0 @@
-window.data=[[7,"illegal-attr",7422,13,"web.archive.org"],[14,"lonely-bracket",2082,6,"[["],[1,"lonely-http",7422,5,"https://"],[2,"no-ignored",7422,3," [https://"]]

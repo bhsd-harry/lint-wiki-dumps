@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",67,45,"  |style=\"text-align:center;\"\"white-space:nowrap\";\"float: right;\"  "]]

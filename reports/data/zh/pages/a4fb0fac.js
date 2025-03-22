@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",1327,1," }\n\n 本文包含依照時間順序排列的著名電影列表，其中[[人工智慧]]作為主角或電影的重要組成部分。\n\n\n\n [[Category:人工智能题材电影]]"],[1,"unclosed-table",1,1,"{|"]]

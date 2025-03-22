@@ -1,1 +1,0 @@
-window.data=[[91,"illegal-attr",175,4,"spope"],[36,"no-duplicate",222,4,"scope=\"col\""],[1,"no-ignored",276,68,";width:155px;\""]]

@@ -1,1 +1,0 @@
-window.data=[[3,"no-ignored",279,1," {{flag|Malawi}}"]]

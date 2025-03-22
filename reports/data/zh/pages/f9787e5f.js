@@ -1,1 +1,0 @@
-window.data=[[15,"invalid-gallery",314,41,"thumb"],[6,"no-duplicate",257,77,"陆战队员观察"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",50,3," metabolites       = M4, an [[acyl]] [[glucuronide]]\n "]]

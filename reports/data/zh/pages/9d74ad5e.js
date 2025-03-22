@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",2,32,"泰国南部和北马来西亚半岛"]]

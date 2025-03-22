@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",60,92,"[["],[4,"no-duplicate",60,83,"收集築巢用的泥土（[[w:Parli]"]]

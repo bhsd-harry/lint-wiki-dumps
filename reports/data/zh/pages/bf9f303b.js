@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",197,1," ;第一小區\n {{8TeamBracket-Compact-Tennis3\n | team-width=200\n | score-width=20\n\n | RD1-seed01=1\n | RD1-team01={{flagicon|TPE}} [[周天成]]\n | RD1-score01-1=18"],[1,"lonely-bracket",16,745,"{"],[1,"unclosed-table",196,2,"{|"]]

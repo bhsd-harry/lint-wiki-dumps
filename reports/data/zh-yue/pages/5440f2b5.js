@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",330,3,"「{{tsl|zh|拾陸比玖}}」時間囊 "]]

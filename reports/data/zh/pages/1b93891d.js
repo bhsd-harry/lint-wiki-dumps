@@ -1,1 +1,0 @@
-window.data=[[23,"illegal-attr",40,18,"Ski"],[12,"no-ignored",40,28," (film)"]]

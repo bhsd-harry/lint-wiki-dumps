@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",62,179,"{{"],[2,"no-duplicate",12,3,"map_caption = \n "]]

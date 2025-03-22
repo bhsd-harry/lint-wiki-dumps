@@ -1,1 +1,0 @@
-window.data=[[26,"illegal-attr",24,4,"colpos"]]

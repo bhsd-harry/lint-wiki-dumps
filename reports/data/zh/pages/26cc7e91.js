@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",100,2,"[[Category:HD和HDE天體|184930]]"]]

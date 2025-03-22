@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",20,3," deputy1 = [[理查德·马尔斯]]\n "]]

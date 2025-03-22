@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",51,2,"[[Category:电子游戏分级系统]]"]]

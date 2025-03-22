@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",272,40,"rowspan"],[2,"no-duplicate",52,59,"[[Bong Joon-ho]]"],[2,"no-ignored",272,119," #f6e39c;"]]

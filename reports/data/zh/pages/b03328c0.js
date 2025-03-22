@@ -1,1 +1,0 @@
-window.data=[[9,"illegal-attr",7,54,"contenteditable"],[1,"no-ignored",7,1951," name\"Para-20150724\""]]

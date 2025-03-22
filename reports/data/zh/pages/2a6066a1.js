@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",87,1," '''西部赛区'''"]]

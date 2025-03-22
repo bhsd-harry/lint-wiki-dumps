@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",562,21,"style=\"margin: 1em auto 1em auto;\""],[3,"no-ignored",562,154," ; {{box-shadow|4px|4px|4px|#228B22}}\""]]

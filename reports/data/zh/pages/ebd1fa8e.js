@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",60,1," <center>\n {{Location map+|Sweden|width=200|float=center|caption|places=\n {{location map~|Sweden|lat=59.356944|long=18.014722|label='''[[索尔纳]]'''}}\n {"],[1,"unmatched-tag",86,2,"</center>"]]

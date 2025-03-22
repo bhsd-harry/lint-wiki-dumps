@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",316,220,"{{"],[1,"no-ignored",316,220,"{{IPA"]]

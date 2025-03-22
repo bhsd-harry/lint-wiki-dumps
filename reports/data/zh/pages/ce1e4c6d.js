@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",767,23,"[["],[2,"no-duplicate",675,3," image1 =\n "]]

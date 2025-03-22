@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,3," 1 = 詹姆士\n "]]

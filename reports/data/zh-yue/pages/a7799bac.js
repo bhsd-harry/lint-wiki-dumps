@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",40,9,"Name"],[2,"no-ignored",40,3," \"The "]]

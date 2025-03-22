@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,3,"4=zh-cn:侯赛因·本·塔拉勒; zh-tw:胡笙·賓·塔拉勒; zh-hk:胡辛·賓·塔拉勒;\n "]]

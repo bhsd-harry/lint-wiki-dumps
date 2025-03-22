@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",40,52,"Anglo\""]]

@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",60,1," * 食物营养科\n * 文化交流学科<ref group=\"注\"  name=\"文化交流学科\"/>\n * 音乐科\n * 保育学科"],[2,"unmatched-tag",15,599,"</del>"]]

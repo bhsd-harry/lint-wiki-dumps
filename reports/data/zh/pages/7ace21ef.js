@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",7,3,"zh-cn:太空堡垒卡拉狄加：血与铬;zh-hk:太空堡壘卡拉狄加：血與鉻;zh-sg:星际大争霸前传;zh-tw:星際大爭霸前傳;\n "]]

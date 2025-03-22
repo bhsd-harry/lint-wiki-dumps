@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",79,5,"tyle"],[10,"no-duplicate",77,4,"style=\"width:150px;\""]]

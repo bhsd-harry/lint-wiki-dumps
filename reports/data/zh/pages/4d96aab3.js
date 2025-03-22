@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",14,12,"[[Category:香港民主派組織|泛民主派政黨或組織]]"]]

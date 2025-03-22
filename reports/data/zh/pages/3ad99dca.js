@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",166,2,"[[Category:肯尼迪中心荣誉奖得主]]"]]

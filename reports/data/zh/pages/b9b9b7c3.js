@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",26,35,"system1=Caltrain\n "]]

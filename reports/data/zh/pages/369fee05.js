@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",14,50,"Taiwanese Auxiliary Police Car"],[1,"unescaped",188,123,"="]]

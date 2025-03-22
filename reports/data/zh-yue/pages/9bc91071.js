@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",38,4,"table"],[2,"no-duplicate",21,25," nextdistance1 = 2km\n "],[2,"no-ignored",159,53," color"],[1,"unmatched-tag",60,33,"</small>"]]

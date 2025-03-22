@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",27,1," [[File:Logo of Canossa College.gif|thumb|Logo of Canossa College found on the school website.]]"]]

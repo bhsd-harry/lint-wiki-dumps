@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",114,12,"Monoxide"],[3,"no-ignored",114,3," \"Carbon "]]

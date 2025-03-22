@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",8,1," [[File:Přízemí Slavia Museum.jpg|Přízemí_Slavia_Museum]]|斯拉维亚博物馆底层"]]

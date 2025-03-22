@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",6,172,"[[Category:快速删除候选]]"]]

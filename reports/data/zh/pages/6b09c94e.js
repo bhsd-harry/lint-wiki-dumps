@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",377,73,"1000德国马克正面"],[1,"unmatched-tag",7,158,"</small>"]]

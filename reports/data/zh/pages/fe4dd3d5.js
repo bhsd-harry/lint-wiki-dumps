@@ -1,1 +1,0 @@
-window.data=[[1,"tag-like",10,3,"</math"]]

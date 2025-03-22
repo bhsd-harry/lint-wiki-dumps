@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",182,4," 防城话声调"]]

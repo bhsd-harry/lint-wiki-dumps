@@ -1,1 +1,0 @@
-window.data=[[10,"no-duplicate",108,59,"https://en.wikipedia.org/wiki/File:1900_photo_of_a_Sephardi_couple_from_Sarajevo.png"]]

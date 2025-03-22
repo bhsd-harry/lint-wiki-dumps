@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",24,2,"[[Category:台灣搖滾樂團]]"]]

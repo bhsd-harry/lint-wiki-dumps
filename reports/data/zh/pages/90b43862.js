@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",26,55,"alt = 正七邊形的七個頂點，兩兩之間有線段相連"]]

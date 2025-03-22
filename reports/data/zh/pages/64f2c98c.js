@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",118,2,"[[Category:美國億萬富豪]]"]]

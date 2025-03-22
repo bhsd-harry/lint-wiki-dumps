@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",115,2,"[[Category:社会影响]]"]]

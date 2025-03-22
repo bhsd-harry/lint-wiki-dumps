@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",50,1," * 文科\n ** 日文专攻<ref group=\"注\"  name=\"招生到1999年\"/>\n ** 英文专攻<ref group=\"注\"  name=\"招生到1999年\"/>\n * 音乐科\n ** 器乐专攻<ref group=\"注\"  name=\"招生到1999年\"/>\n ** 声乐专攻<re"]]

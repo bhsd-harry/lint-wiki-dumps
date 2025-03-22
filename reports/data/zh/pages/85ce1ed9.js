@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",424,1," *[[梁實秋]]外文系教授、系主任。<ref>{{cite web|url=https://www.sohu.com/a/395158620_656818|title=暨南名師梁實秋|accessdate=2020-09-21|archive-date=2020-06-21|archive-url"],[1,"unclosed-table",433,2,"{|"]]

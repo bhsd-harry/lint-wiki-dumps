@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",98,44,"桑給巴爾"]]

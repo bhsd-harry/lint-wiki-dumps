@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",158,20,"370日圓"]]

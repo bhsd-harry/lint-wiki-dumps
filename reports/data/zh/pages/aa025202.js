@@ -1,1 +1,0 @@
-window.data=[[3,"fostered-content",486,1," </center>"],[2,"illegal-attr",1416,41,"6"],[3,"lonely-bracket",546,100,"[["],[3,"no-ignored",586,39,"週三週四播出"],[1,"parsing-order",777,4,"</center>"],[1,"pipe-like",1776,61,"（Chokun）||||宅基地字幕组||"],[14,"unmatched-tag",46,2,"</center>"]]

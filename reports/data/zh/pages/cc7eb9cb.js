@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",29,281,"work=A Greek-English "]]

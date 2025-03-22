@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",24,58,"]]"],[1,"pipe-like",52,17,"||5852"]]

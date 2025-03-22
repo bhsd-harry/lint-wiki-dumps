@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",212,3,"谭强 (羽毛球运动员)"]]

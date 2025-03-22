@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",1,48,"Piazza Savonarola con la statua di Savonarola e la via Coperta"]]

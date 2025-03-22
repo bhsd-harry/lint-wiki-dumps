@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",12,3," 作曲 = [[雷深如]]\n "]]

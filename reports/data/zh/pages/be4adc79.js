@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",198,34,"代替文=客室内装"],[1,"tag-like",602,104,"</ref"],[12,"unmatched-tag",567,4,"</div>"]]

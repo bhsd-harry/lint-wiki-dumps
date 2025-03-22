@@ -1,1 +1,0 @@
-window.data=[[12,"illegal-attr",247,4,"score"],[8,"no-ignored",65,4,"<section begin=Films />"],[8,"parsing-order",65,4,"<section begin=Films />"],[1,"unmatched-tag",654,2,"</div>"]]

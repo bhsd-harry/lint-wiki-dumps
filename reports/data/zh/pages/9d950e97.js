@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",32,42,"老虎體育場 (底特律)"]]

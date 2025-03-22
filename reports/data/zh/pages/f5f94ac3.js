@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",11,2,"[[Category:明朝邵武府知府]]"]]

@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",126,2,"[[Category:抗生素]]"]]

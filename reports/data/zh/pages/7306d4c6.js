@@ -1,1 +1,0 @@
-window.data=[[3,"lonely-bracket",145,184,"}}"],[3,"no-ignored",47,56," = name\"反攻1\""]]

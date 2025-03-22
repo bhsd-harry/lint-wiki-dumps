@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",4,3,"zh-tw:梅森質數\n "],[4,"no-ignored",562,3," 卢卡斯-莱默检验法"]]

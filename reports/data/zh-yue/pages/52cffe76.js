@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",56,4,"nowrap"],[3,"no-ignored",105,3,"!scope=\"row\""]]

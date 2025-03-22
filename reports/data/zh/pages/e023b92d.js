@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",84,1," ;省妇婴医院（南京南街东侧，北向单向站位，D2出入口向北约310米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|231|266|296}}"]]

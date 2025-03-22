@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",1034,2,"[[Category:密歇根大學| ]]"]]

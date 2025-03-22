@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-isbn",200,42,"ISBN 957-801-446-X"],[2,"no-duplicate",1,16,"block=B"]]

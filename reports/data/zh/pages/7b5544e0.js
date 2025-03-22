@@ -1,1 +1,0 @@
-window.data=[[26,"no-ignored",67,3,"年<br>度"],[37,"parsing-order",67,4,"<br>"]]

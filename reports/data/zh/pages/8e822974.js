@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",145,250,"publisher=2000-04-11"]]

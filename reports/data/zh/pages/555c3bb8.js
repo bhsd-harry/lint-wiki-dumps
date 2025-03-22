@@ -1,1 +1,0 @@
-window.data=[[3,"no-duplicate",46,172,"舒沙大屠杀"]]

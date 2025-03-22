@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",114,2,"[[Category:台灣單口喜劇]]"]]

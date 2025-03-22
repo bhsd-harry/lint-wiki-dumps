@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",1309,10,"date"],[1,"no-ignored",1309,3,"{Birth "]]

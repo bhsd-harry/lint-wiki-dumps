@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",70,2,"[[Category:阿布羅斯球員]]"]]

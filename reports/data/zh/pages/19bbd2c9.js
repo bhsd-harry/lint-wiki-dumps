@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",331,3,"<ref>{{Cite web|url=https://g1.globo.com/Noticias/Rio/0,,AA1404870-5606-4165,00.html|title=PÚBLICO VAI AO DELÍRIO COM O GRUPO BLACK EYED PEAS|website="],[1,"parsing-order",331,3,"<ref>{{Cite web|url=https://g1.globo.com/Noticias/Rio/0,,AA1404870-5606-4165,00.html|title=PÚBLICO VAI AO DELÍRIO COM O GRUPO BLACK EYED PEAS|website="]]

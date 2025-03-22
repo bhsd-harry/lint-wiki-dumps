@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",72,29,"Guadeloupe"],[1,"no-ignored",72,17,"Vieux-Fort, "]]

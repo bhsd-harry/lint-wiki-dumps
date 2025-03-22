@@ -1,1 +1,0 @@
-window.data=[[39,"illegal-attr",154,3,"01"],[1,"unclosed-comment",1315,2,"<!--編輯備註：編輯英文標題要注意，可能僅為日文直譯所來，正式名稱應以官方版之Youtube為準。\n\n == 注释 ==\n <references />\n\n == 相关条目 ==\n [[卡片戰鬥先導者|卡片战斗先导者]]\n\n [[Category:日本電視動畫分集列表]]"],[1,"unmatched-tag",871,74,"</ruby>"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",23,3,"native_name=3. Luftwaffen-Feld-Division\n "]]

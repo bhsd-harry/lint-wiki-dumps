@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,24,"|巴甫洛夫斯克区"]]

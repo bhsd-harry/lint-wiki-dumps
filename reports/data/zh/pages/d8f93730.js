@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",57,127,"'"],[2,"lonely-bracket",961,58,"[["],[2,"lonely-http",1849,27,"ISBN"],[1,"no-ignored",737,20,"曼海姆"],[6,"parsing-order",12,31,"<br />"]]

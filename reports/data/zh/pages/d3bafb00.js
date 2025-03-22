@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",210,32,"Core"],[2,"lonely-bracket",210,24,"[["],[2,"no-ignored",210,4,"!colspan=\"5\"|<small>[[Intel "],[2,"parsing-order",210,17,"<small>"],[1,"unmatched-tag",210,46,"</small>"]]

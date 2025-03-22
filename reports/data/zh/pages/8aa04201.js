@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-http",35,78,"https://"],[2,"no-duplicate",1,46,"Cafe Deco Pizzeria Interior Photo"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",116,20,"[["],[1,"lonely-http",217,544,"http://"],[2,"no-duplicate",114,693,"name=\"Branding the Bad Hats for Life\""],[1,"no-ignored",114,730,"  /\n\n 剧烈的疼痛和强烈的恐惧常常使犯人产生[[急性应激反应]]，全身颤抖、出冷汗，<ref "],[1,"tag-like",116,40,"<ref"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",126,1," [[Geronimo]] (right) holding a Springfield model 1873 alongside his fellow [[Apache]] warriors in 1886"]]

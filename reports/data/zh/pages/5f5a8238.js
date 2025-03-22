@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",836,2,"[[Category:美國科幻動作片]]"]]

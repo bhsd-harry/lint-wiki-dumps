@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",843,2,"[[Category:西班牙现代史]]"]]

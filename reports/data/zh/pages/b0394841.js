@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",171,1," [[Image:Jhabua tribe.jpg|在[[賈布阿]]森林的一位男人]]"]]

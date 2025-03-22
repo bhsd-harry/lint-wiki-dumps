@@ -1,1 +1,0 @@
-window.data=[[10,"no-duplicate",173,88,"特写图-[[夏普山 (火星)|夏普山]]山坡-仅分布少量的陨石坑（底部）（2014年9月11日）。Image:PIA18785-MarsCuriosityRover-HIRISE-MurrayRidge-Transition-20140911.jpg"],[1,"no-ignored",184,1," Image:PIA19066-MarsCuriosityRover-AlexanderHillsRock-20141123-Fig1.jpg2014年11月23日，好奇号查看的火星“[[火星岩石列表#2012年-“好奇号”火星车（火星科学实验室）|亚历山大丘]]”[[基岩]]。"]]

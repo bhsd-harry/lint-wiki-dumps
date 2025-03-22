@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",64,48,"road connection="]]

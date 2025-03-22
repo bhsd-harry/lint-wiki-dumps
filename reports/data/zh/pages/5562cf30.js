@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",12,59,"总统府前的[[杜达耶夫]]支持者，le"]]

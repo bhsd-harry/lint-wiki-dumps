@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",15,3," coordinates        = {{coord|52|30|33|N|13|23|19.60|E|display=inline,title}}\n "]]

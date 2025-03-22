@@ -1,1 +1,0 @@
-window.data=[[13,"illegal-attr",137,16,"Alone"],[6,"no-ignored",137,33," (2005 film)"]]

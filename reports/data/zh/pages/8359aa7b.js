@@ -1,1 +1,0 @@
-window.data=[[5,"illegal-attr",45,81,"nowrap"]]

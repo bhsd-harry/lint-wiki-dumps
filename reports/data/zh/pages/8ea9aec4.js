@@ -1,1 +1,0 @@
-window.data=[[12,"illegal-attr",114,10,"Gummy"],[2,"no-duplicate",123,10,"x"],[12,"no-ignored",114,15," (韓國歌手)"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",26,3,"logo           = ISEAS - Yusof Ishak Institute logo.svg\n "]]

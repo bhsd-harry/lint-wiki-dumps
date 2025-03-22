@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",998,3,"RD1=第21-24名\n "]]

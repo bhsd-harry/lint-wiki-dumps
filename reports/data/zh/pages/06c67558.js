@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",29,19,"colspan"],[1,"no-ignored",29,30,"  |Airbag"]]

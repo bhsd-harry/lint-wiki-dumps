@@ -1,1 +1,0 @@
-window.data=[[8,"no-ignored",97,3,"船塢登陸艦"]]

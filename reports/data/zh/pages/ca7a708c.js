@@ -1,1 +1,0 @@
-window.data=[[74,"no-duplicate",8,4,"style=\"background: Gold;\""],[38,"no-ignored",6,35,"150%\""]]

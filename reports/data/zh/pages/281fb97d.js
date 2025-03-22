@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",135,18,"{{"],[1,"no-ignored",135,14," 吳在德{{nowrap"]]

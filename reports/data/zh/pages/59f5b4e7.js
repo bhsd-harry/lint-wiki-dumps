@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",83,1," ;三号街纺织厂（站位位于三号街，开发大路南侧，C出入口西南约500米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|167|317|V136}}\n {{col-end}}"]]

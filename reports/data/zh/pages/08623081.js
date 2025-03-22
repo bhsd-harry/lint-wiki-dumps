@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",6,1," {{{image|}}} "],[1,"lonely-bracket",70,154,"}"]]

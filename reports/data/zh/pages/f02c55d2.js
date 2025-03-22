@@ -1,1 +1,0 @@
-window.data=[[9,"illegal-attr",205,59,"1st"],[1,"no-ignored",205,91," 聲音  >  發售紀念特別活動"]]

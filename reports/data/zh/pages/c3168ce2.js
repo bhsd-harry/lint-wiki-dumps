@@ -1,1 +1,0 @@
-window.data=[[9,"illegal-attr",68,3,"wiBAN"]]

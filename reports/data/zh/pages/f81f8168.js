@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",2,74,"R. V. Lapshin, Feature-oriented scanning (FOS), Fig. 1"]]

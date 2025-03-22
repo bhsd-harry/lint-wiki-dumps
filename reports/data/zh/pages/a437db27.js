@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",272,2,"[[Category:官方繁体中文化游戏]]"]]

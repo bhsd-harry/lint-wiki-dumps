@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",65,2,"[[Category:公共衛生教育]]"]]

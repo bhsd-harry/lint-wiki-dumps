@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",185,279,"{{"],[1,"no-ignored",142,112,"  \"i\"\"=\"\"  believe\"=\"\""]]

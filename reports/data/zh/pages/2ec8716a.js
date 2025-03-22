@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",129,2,"[[Category:日本浪漫喜劇電視劇]]"]]

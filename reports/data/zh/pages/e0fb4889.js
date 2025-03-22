@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",1170,47,"'"],[3,"no-ignored",1101,17,"background:linear-gradient(#A4B2EF, #97A7ED, #6E84E6)\""],[8,"unmatched-tag",394,100,"</small>"]]

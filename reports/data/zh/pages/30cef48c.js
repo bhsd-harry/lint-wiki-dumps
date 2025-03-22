@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",73,325,"]]"],[1,"nested-link",232,123,"[[Wikisource]]"]]

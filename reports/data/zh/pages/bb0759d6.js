@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",27,483,"date=1995-05 "]]

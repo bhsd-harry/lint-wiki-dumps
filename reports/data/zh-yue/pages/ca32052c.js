@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",29,3," Section7 = {{Chembox Hazards\n |   EUHazardSymbol = {{Chembox EUHazardSymbol|N}}\n |   RPhrases = {{R-p|20|36|37}}\n |   SPhrases = {{S-p|60|61}}\n |   N"]]

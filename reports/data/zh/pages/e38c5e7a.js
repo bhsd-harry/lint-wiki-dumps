@@ -1,1 +1,0 @@
-window.data=[[7,"illegal-attr",63,23,"align:center"],[6,"no-duplicate",63,36,"style=\"font-size:90%\""],[1,"unmatched-tag",785,145,"</small>"]]

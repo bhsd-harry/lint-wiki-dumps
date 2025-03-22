@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",55,42,"night"],[5,"no-ignored",208,14,"  ;text-align:center"],[2,"parsing-order",269,16,"<small>"]]

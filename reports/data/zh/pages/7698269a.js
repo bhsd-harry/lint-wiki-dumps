@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,24,"|纽卡斯尔大学"]]

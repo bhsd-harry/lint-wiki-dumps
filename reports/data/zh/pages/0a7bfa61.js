@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",123,1," [[File:The Shangri-La Hotels and Resorts Macau 200907.jpg]]"]]

@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",17,2,"[[Category:阿拉伯语词汇]]"]]

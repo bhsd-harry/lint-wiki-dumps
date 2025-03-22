@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",54,2,"[[Category:臺灣日治時期社會運動者]]"]]

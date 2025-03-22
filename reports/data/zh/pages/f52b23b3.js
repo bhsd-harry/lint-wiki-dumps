@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",459,5,"1"],[1,"no-ignored",459,10," (Suertsey) "]]

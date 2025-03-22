@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",56,1," * [[商业|商务]]总合学科<ref group=\"注\"  name=\"商务总合学科\">日语:{{lang|ja|ビジネス総合学科}}</ref>"]]

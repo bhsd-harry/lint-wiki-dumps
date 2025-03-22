@@ -1,1 +1,0 @@
-window.data=[[21,"illegal-attr",250,53,"text-align:"],[8,"lonely-bracket",169,4,"[["],[22,"no-ignored",169,4,"[[劉德華]]<BR>[[張學友]]<BR>[[黎明|黎　明]]<BR>[[郭富城]]"],[3,"parsing-order",169,11,"<BR>"]]

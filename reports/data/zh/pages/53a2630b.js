@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",132,28,"}}"],[2,"no-duplicate",155,2,"[[Category:英派系 ]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",86,36,"1"],[2,"no-duplicate",51,56,"292x292px"]]

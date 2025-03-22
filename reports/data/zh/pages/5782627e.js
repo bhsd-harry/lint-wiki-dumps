@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",24,1," 全碟詞曲：許嵩"]]

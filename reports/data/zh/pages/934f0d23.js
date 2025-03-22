@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",170,2,"[[分類:多黏菌素抗生素]]"]]

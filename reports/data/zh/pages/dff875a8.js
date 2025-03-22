@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",117,2,"[[Category:香港持不同政見者]]"],[1,"unmatched-tag",20,32,"</small>"]]

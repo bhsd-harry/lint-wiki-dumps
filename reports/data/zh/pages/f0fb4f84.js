@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",529,36,"]]"],[1,"no-ignored",46,4," (CHINA NO.1)"]]

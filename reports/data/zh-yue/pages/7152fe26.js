@@ -1,1 +1,0 @@
-window.data=[[3,"fostered-content",40,1," [[File:HKKF SeaSpring.jpg|thumb|海逸 （Sea Spring）]]"]]

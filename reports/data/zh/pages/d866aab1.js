@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",33,1," [File:Riyue.jpg|[[日月石]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",13,3,"stage1thrust=6台[[RD-253]]环向布置\n "]]

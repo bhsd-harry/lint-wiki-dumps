@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",617,24,"style=\"width:95%;\""]]

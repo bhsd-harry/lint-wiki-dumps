@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",24,47,"publisher=南京大學出版社 "]]

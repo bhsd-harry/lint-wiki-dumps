@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",215,1,"\n == 學院系所 ==\n"],[1,"unclosed-table",213,2,"{|"]]

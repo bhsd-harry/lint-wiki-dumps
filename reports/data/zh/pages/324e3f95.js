@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,3," image             = Taipei World Trade Center International Trade Building 20090617.jpg\n "]]

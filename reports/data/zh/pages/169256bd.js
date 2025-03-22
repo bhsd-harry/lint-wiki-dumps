@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",194,2,"[[Category:泰國取景電視劇]]"]]

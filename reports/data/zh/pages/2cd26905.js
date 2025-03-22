@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,24,"|漢斯-烏爾里希·韋勒"]]

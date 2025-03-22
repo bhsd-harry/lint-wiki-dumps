@@ -1,1 +1,0 @@
-window.data=[[5,"illegal-attr",304,4,"NOWRAP"],[2,"no-ignored",167,52,"width:80%;text-align: center;\""]]

@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",38,132,"]"],[1,"nested-link",37,148,"[[德国电视一台]]"]]

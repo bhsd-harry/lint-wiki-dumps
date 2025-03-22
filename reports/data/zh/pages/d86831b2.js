@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",224,35,"{{"],[2,"no-duplicate",224,32,"出现在{{le"]]

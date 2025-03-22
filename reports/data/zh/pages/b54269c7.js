@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",30,149,"spellcheck"],[1,"lonely-bracket",5,125,"["]]

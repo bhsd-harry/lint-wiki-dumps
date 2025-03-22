@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",180,2,"[[Category:福州歷史]]"]]

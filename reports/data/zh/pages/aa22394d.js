@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",3,3,"zh-cn:神秘河流;zh-sg:悬河杀机;zh-hk:懸河殺機;zh-mo:懸河殺機;zh-tw:神秘河流;\n "]]

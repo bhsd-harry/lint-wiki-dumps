@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",317,15,"width:150"],[2,"no-duplicate",181,65,"链接=https://en.wikipedia.org/wiki/File:Ali Khamenei met with Xi Jinping in Tehran 2016 (1).jpg"]]

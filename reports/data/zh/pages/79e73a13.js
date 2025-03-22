@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",109,2,"[[Category:1975年台灣建立]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",224,1," 北炎中学||北炎乡/蔡岭镇 "]]

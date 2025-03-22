@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",51,39," 大愛電視台 "]]

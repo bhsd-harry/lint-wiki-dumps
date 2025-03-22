@@ -1,1 +1,0 @@
-window.data=[[16,"illegal-attr",362,5,"halign"],[2,"no-duplicate",1746,2,"[[Category:行政区划| ]]"]]

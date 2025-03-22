@@ -1,1 +1,0 @@
-window.data=[[13,"no-duplicate",5,3," image = Airport EBBR2.jpg\n "]]

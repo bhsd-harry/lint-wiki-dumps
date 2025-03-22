@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",85,2,"[[Category:香港警務人員]]"]]

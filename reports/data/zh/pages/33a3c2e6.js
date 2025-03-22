@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",9,3," lesser           = Coat of arms of Democratic Federal Yugoslavia.svg\n "]]

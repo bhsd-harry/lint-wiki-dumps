@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",57,1," * 儿童学科<ref group=\"注\"  name=\"儿童学科\"/>"]]

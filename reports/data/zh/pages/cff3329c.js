@@ -1,1 +1,0 @@
-window.data=[[2,"nested-link",91,161,"[[康乃爾大學]]"],[2,"no-duplicate",115,2,"[[Category:臺灣—菲律賓關係| ]]"]]

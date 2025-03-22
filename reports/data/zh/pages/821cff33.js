@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",78,2,"[[Category:士林區廟宇]]"]]

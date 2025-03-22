@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",8,27,"縮略圖"],[1,"unmatched-tag",42,6,"</br>"]]

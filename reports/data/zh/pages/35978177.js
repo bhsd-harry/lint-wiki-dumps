@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",63,5,"colspan"],[1,"no-ignored",63,16,"|'''澳洲'''"]]

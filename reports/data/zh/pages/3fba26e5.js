@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-isbn",909,3,"ISBN 0010821209"],[34,"no-ignored",396,4,"<br />"],[16,"parsing-order",396,4,"<br />"]]

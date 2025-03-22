@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",1,107,"[[Cat:需要檢查數據的法國條目]]"]]

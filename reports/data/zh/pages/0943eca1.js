@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",355,11,"width:"],[8,"no-ignored",355,3," white; "]]

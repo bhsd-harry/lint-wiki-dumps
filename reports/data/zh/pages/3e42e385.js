@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",109,2,"[[Category:社交網路服務]]"]]

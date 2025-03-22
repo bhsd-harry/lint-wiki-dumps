@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",93,2,"[[Category:纽约州共和党人]]"]]

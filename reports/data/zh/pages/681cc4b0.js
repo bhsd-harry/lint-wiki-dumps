@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",67,46,"Napoli catcher for the Rangers in {{Mlby|2011}}.right"]]

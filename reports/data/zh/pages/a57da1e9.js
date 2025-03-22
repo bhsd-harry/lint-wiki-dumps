@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",9,3,"type = [[地铁车站]]\n "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",153,3,"a"],[1,"no-ignored",20,18," \"black\"; "]]

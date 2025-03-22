@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",223,1,"\n </table></td>\n </table></td>"],[1,"illegal-attr",157,46,"float"],[12,"unmatched-tag",175,2,"</table>"]]

@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",148,2,"[[Category:2017年成立的音樂團體|M]]"]]

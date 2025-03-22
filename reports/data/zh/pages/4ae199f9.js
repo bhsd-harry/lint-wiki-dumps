@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",841,2,"[[Category:奧斯卡金像獎名單]]"]]

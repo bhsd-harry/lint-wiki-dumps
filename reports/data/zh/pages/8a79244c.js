@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category: 疣海胆科|Y]]"]]

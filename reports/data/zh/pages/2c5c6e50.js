@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",128,76,"105.23"],[6,"lonely-bracket",128,6,"[["],[2,"no-ignored",128,4,"| [[加拉汗火山口]] || "]]

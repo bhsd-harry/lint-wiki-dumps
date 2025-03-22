@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",655,1," {{#section:漫威電影宇宙：第一階段|Other game}}"],[7,"illegal-attr",151,4,"score"],[9,"no-ignored",45,4,"<section begin=Films />"],[9,"parsing-order",45,4,"<section begin=Films />"]]

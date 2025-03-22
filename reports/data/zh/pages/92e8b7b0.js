@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",229,1,"\n === 單曲 ===\n\n\n === 合作单曲 ===\n"],[1,"unclosed-table",182,2,"{|"]]

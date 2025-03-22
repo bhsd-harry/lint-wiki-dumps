@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",235,1," === 公主變遷史 ===\n <timeline>\n ImageSize   = width:1000 height:350\n PlotArea    = width:800 height:300 left:125 bottom:35\n Alignbars   = justify\n DateFor"],[1,"unclosed-table",234,2,"{|"]]

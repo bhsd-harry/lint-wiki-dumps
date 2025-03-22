@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",23,2,"[[Category:匈牙利王国人物]]"]]

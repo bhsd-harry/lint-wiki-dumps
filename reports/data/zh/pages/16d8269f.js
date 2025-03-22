@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",115,1," File:US Navy 090719-N-0120A-499 Marines assigned to the 31st Marine Expeditionary Unit, embarked aboard the forward-deployed amphibious assault ship "]]

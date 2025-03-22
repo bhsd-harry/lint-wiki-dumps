@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",16,2,"[[Category:日本名數4]]"]]

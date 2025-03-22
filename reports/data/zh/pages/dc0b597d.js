@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",27,195,"title=Founding president of the HKIS Kan Fook-yee played a key role in helping Hong Kong’s surveyors flourish"]]

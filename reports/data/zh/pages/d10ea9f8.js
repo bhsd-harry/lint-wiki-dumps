@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",138,73,"name=\"大英百科全書\""]]

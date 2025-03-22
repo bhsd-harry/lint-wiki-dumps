@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",18,2,"[[cat:1920年代中國政治事件]]"]]

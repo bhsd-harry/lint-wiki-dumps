@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",516,2,"[[Category:联合国会员国]]"]]

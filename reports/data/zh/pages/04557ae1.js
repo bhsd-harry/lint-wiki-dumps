@@ -1,1 +1,0 @@
-window.data=[[50,"no-ignored",139,3,"球團"],[20,"parsing-order",139,19,"<br>"]]

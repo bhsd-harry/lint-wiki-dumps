@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",283,20,"Kristen"],[1,"no-ignored",283,34," (Miss USA)"]]

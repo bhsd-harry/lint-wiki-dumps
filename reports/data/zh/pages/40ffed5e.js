@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",215,10,"rowspam"],[4,"no-duplicate",106,24,"style=\"background:white; text-align:center\""],[2,"no-ignored",107,43,"  font-weight:bold\"   "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",371,2,"[[Category:金馬獎最佳女配角得主]]"]]

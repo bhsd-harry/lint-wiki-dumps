@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",30,2,"[[Category:香港主題公園]]"]]

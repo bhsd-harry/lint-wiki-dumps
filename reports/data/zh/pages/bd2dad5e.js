@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",161,2,"[[Category:橫濱電影節最佳新人獎得主]]"]]

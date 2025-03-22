@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,17,"|上層建築 (工程學)"]]

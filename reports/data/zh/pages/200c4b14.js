@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",52,53,"width:"],[2,"no-ignored",52,59," 40%;text-align: center;\""],[1,"unclosed-table",52,2,"{|"]]

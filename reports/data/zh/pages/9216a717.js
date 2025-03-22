@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",151,55,"contenteditable"],[1,"lonely-bracket",29,1222,"}}"],[1,"unmatched-tag",29,1208,"</sup>"]]

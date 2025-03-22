@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-isbn",31,21,"ISBN 978-957-140-6"],[1,"lonely-http",33,29,"ISBN"]]

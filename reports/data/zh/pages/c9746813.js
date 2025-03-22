@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",149,39,"Nord"],[1,"no-ignored",149,3,"2009–2010 Regionalliga#Regionalliga "]]

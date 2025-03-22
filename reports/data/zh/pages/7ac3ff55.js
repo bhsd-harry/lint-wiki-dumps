@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",154,2,"[[Category:互联网标准]]"]]

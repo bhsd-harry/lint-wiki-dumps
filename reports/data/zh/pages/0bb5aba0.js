@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",246,5,"政黨   = 獨立\n   "]]

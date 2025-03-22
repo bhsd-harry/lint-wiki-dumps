@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",309,12,"]]"],[1,"no-ignored",309,3,"[京都競馬場"]]

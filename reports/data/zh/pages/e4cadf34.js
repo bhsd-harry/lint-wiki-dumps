@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",682,3,"\"padding:0\"  "]]

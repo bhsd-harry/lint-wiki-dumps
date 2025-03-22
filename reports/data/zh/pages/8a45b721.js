@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",13,3,"海拔高度 =18.55 \n "]]

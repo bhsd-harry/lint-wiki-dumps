@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",902,42,"{{"],[2,"no-ignored",902,38,"普通版：{{ISBN"]]

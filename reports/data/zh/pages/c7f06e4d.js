@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",138,68,"[[卡尔·瓦尔特运动枪|Walther Arms]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",141,54,"[[MobyGames]]"],[34,"unmatched-tag",50,156,"</span>"]]

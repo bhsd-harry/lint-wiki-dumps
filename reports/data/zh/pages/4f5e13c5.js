@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",1187,1,"\n == 赞助商 =="],[1,"no-ignored",872,3,"!width=50%"],[1,"unclosed-table",1167,2,"{|"]]

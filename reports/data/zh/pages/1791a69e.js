@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",390,7,"]]"],[2,"no-duplicate",2011,33,"style=\"text-align:center\""]]

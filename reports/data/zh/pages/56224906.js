@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",205,50," name\"OmicronHIgh\""]]

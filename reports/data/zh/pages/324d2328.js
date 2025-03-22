@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",8,3,"area        = 62.7公頃\n "]]

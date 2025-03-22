@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",312,2,"[[Category:灣生]]"]]

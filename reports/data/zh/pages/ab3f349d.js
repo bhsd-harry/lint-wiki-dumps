@@ -1,1 +1,0 @@
-window.data=[[3,"parsing-order",17,36,"<ref>{{cite web |url=http://www.bombardier.com/wps/portal/en/corporate/media-centre?docID=0901260d802c56eb |title=500th Global Aircraft Enters Service"]]

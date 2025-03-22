@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",29,3,"Native place=\n "]]

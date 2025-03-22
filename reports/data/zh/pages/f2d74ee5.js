@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,2,"[[Category:桃園市歷史]]"]]

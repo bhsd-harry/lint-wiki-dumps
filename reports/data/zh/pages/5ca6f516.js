@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",97,1," ;创新一路地铁站（站位位于创新一路）\n ;智慧二街科汇路（站位位于智慧二街，B出入口向西北约600米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|V109}}\n {{col-end}}"]]

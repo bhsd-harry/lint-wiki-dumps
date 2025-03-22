@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,25,"|胡笙·本·阿里"]]

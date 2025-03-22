@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",16,3," attractions=梅林與惡龍之戰（Merlin vs. Dragon battle）\n "]]

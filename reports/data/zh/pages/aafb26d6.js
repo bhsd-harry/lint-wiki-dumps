@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",419,26,"{{"],[2,"no-duplicate",214,20,"rowspan=\"8\""]]

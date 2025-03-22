@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",40,3,"signature     = Tokayev signature.svg\n "]]

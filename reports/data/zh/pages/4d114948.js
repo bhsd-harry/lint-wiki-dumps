@@ -1,1 +1,0 @@
-window.data=[[7,"fostered-content",289,1," 96||"],[18,"illegal-attr",81,16,"div"]]

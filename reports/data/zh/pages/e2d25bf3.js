@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",51,2,"[[Category:弗利-切塞納省市鎮|P]]"]]

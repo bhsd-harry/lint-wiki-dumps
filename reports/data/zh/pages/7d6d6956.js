@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",51,1," * 体育科\n ** 体育专攻\n ** [[舞蹈]]专攻\n * 保育科"]]

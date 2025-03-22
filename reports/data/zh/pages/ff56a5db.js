@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",41,53,"Onychoprion_anaethetus_New_Caledonia_03"]]

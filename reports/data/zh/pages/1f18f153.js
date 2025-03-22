@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",177,3," 桃園市<br>龍潭區 "],[1,"parsing-order",177,7,"<br>"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",79,222,"[["],[1,"no-ignored",334,1," [[File:嘉義縣新港鄉大潭村精忠廟.jpg|缩略图]]"]]

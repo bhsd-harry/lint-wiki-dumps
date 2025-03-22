@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",149,41,"20px"],[1,"unclosed-table",140,2,"{|"]]

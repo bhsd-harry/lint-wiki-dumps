@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",26,69,"text"],[1,"no-ignored",26,122," text"]]

@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",361,1523,"pages=89–119"]]

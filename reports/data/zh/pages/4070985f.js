@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",59,132,"["],[1,"lonely-http",67,114,"ISBN"]]

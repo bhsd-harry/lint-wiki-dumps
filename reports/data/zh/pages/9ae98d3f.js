@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",14,176,"name=\"Nielsen\""],[1,"no-ignored",14,190,"/<ref "],[1,"tag-like",14,191,"<ref"]]

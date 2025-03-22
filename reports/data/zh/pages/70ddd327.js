@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",90,106,"1.000"],[24,"no-ignored",36,3,"年度"],[18,"parsing-order",36,39,"<br>"]]

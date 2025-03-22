@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",620,171,"archive-url=https://web.archive.org/web/20211116212045/https://www.medigenvac.com/public/news/detail/102?from_sort=2"],[1,"no-ignored",562,4,"|美國"]]

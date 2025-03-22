@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",8,16,"author=Arthur C. Guyton "]]

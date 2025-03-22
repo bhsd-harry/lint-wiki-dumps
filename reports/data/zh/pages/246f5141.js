@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",220,1," *在莫爾斯搶奪磐古時，幫助希絲娜對抗莫爾斯那一方。"],[1,"illegal-attr",286,28,"wid"],[4,"lonely-bracket",219,7,"[["],[1,"no-ignored",219,4,"|| [[王新宇]]<br>配音：[[林谷珍]]|| 藍博萬||align=\"left\"| 精靈族長老。種族：精靈族。魔法：加倍、定位 。"],[1,"parsing-order",219,14,"<br>"]]

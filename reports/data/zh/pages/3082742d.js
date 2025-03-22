@@ -1,1 +1,0 @@
-window.data=[[25,"illegal-attr",129,203,"margin-bottom:"],[1,"lonely-bracket",42,452,"["],[14,"no-ignored",129,178,"style\":\"margin-left:1em; "]]

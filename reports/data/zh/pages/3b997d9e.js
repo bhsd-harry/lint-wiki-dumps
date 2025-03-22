@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",80,662,"begin"],[8,"no-duplicate",123,273,"style=\"font-size: 1.3em; line-height: 0;\""]]

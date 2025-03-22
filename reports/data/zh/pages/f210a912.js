@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",29,2,"[[Category:大规模杀伤性武器]]"]]

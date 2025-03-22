@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",127,17,"ref={{harvid|Michelin|1919}}"]]

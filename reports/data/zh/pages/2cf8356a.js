@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",88,4,"凌异州好友，患有气喘。"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",7,3," premierroc = [[吳敦義]]\n "]]

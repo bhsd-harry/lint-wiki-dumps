@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",197,1607,"[[Metacritic]]"]]

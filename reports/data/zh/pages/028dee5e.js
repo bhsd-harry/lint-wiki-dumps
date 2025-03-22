@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",608,3,"{{"],[2,"no-ignored",580,29,"; margin-top:2em; margin-left:auto; margin-right:auto\""]]

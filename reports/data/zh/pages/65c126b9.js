@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",131,2,"[[Category:20世紀美國罪犯]]"]]

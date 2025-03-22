@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",34,2,"[[Category:加拿大奧運冰球運動員]]"]]

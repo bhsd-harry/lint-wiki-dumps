@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",1283,24,"span"],[15,"lonely-apos",1304,98,"'"],[1,"lonely-bracket",384,59,"{{"],[5,"no-ignored",384,19," ''{{lang|en|The Story Of Zhou Enlai}}''{{lang"]]

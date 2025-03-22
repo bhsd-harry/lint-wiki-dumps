@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",106,2,"[[Category:LGBT相關動畫電影]]"]]

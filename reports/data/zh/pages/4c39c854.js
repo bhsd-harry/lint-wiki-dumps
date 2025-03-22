@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",49,43,"Right"],[1,"no-ignored",179,36,"何家銘]"]]

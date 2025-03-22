@@ -1,1 +1,0 @@
-window.data=[[18,"illegal-attr",272,9,"LOOK"],[2,"no-duplicate",639,3,"PIANO"],[4,"no-ignored",272,3,"DON'T "]]

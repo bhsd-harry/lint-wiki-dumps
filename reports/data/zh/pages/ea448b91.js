@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",256,2,"[[Category:美國職棒大聯盟一壘手]]"],[24,"no-ignored",105,3,"年度"],[22,"parsing-order",105,14,"<br />"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",1881,4,"colapan"],[2,"no-duplicate",488,39,"110px"]]

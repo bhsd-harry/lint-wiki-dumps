@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",249,9,"Damini"],[1,"no-ignored",249,3,"Love, "]]

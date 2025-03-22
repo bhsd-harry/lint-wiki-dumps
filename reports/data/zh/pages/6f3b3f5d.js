@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",661,2,"[[Category:香港創作歌手]]"],[1,"no-ignored",361,38,"1''"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",25,4,"2004"],[1,"no-ignored",25,8,"     三揭皇榜  信王（崇禎帝）、阿三"]]

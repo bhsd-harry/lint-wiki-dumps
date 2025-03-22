@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",97,342,"contenteditable"]]

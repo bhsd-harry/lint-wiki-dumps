@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",26,2,"[[Category:特拉帕尼省市镇]]"]]

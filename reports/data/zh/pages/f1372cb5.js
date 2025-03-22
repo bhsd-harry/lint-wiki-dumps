@@ -1,1 +1,0 @@
-window.data=[[28,"illegal-attr",39,12,"vimeo.com"],[9,"lonely-http",39,4,"https://"],[10,"no-ignored",39,3,"[https://"]]

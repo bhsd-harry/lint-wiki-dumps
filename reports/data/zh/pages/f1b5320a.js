@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",245,2,"[[Category:北卡罗来纳州火灾]]"]]

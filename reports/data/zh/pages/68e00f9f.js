@@ -1,1 +1,0 @@
-window.data=[[28,"illegal-attr",112,75,"bolder"],[1,"no-ignored",113,4," '''粗體文字'''"]]

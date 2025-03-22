@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",9,3,"religious_affiliation=[[台灣民間信仰]]\n "]]

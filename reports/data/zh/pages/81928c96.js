@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",38,2,"[[Category:台灣台地]]"]]

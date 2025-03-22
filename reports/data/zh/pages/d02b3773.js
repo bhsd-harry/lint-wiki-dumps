@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",97,3," length12 = 5:41\n "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",9,3," pushpin_label_position=Center\n "]]

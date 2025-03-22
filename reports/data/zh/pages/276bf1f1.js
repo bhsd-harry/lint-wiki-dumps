@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",249,72,"{{"],[2,"no-ignored",249,44," 可能读作*la~le，{{sfn|Cho|2009}}{{rp"]]

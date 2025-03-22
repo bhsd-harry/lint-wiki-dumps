@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",47,6,"colspan"],[2,"no-duplicate",9,3,"established = \n "],[1,"no-ignored",47,17,"| '''〈{{link-ja|大和高田繞道|大和高田バイパス}}〉''' "]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",28,52,"bordercolor"],[3,"no-ignored",84,3," 第18集 "]]

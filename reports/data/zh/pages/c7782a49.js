@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",153,1,"\n ==外部連結==\n *[http://www.weibo.com/u/2263234294 台灣dj袁永興]\n *[http://okapi.books.com.tw/index.php/p3/p3_detail/sn/100 博客來OKAPI -【2009年度百大】愛書100人：袁永興]{{W"],[1,"unclosed-table",141,2,"{|"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",121,2,"[[Category:太阳探测卫星]]"]]

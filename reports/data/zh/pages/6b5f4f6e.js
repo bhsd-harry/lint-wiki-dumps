@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",211,1," [[File:TRA Zhixue Station Platform 2016-8.jpg|志學站站名告示及站距說明版，月台上停靠一列台鐵柴聯自強號（2016年8月）"]]

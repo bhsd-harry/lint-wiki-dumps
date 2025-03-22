@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",271,49,"}}"],[1,"lonely-http",261,33,"ISBN"],[2,"no-duplicate",59,24,"style=\"font-size:small;\""]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",20,3,"Type2     = 掸邦旧旗帜\n "]]

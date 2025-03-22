@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",27,181,"url=https://www.cpcs.com.tw/About/公司簡介{webarchive"]]

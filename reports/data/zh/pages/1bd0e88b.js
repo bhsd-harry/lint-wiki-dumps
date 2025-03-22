@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",11,3," currentclub = {{flagicon|CHN}}[[武汉三镇足球俱乐部]]\n "]]

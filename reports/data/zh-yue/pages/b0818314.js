@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",9,3," free_label = 主辦方\n "]]

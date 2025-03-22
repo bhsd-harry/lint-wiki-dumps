@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",139,2,"[[Category:阿爾瓦公爵]]"],[2,"unmatched-tag",71,2,"<center>"]]

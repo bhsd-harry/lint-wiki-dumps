@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",7,2,"[[Category:卡尔梅克共和国历史]]"]]

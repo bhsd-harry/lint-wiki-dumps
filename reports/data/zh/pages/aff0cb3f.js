@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",227,2,"[[Category:英國報復題材電影]]"]]

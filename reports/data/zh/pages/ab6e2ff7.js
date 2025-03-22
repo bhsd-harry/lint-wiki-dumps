@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",190,4,"{"],[1,"no-ignored",190,4,"{[[黃鳳琼]]}-||Betty||"]]

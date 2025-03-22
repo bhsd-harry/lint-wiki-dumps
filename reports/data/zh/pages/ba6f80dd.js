@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",2,2,"[[Category:山西医科大学附属医院]]"]]

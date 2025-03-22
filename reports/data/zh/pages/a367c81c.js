@@ -1,1 +1,0 @@
-window.data=[[5,"illegal-attr",504,4,"href"],[2,"no-ignored",487,4,"發行日期"]]

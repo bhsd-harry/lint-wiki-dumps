@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",168,1,"\n * 為其他專輯發行之作品"],[1,"unclosed-table",15,2,"{|"]]

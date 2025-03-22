@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,19,"|赫爾曼·戈林"]]

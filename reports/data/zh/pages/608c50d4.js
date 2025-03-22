@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",103,55,"[["],[1,"nested-link",108,63,"[[拉曼大学]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",344,3,"耐克"],[1,"unclosed-table",31,2,"{|"]]

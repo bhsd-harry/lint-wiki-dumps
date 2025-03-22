@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",202,9,"LIVE"],[1,"no-ignored",202,3,"《VIXX "],[1,"unclosed-table",622,2,"{|"]]

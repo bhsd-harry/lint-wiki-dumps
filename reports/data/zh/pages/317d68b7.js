@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",125,2,"[[Category:1988年尼日尔体育|Olympics]]"]]

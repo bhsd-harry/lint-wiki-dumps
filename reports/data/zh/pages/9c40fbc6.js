@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",7,25,"margin:0"],[1,"no-ignored",7,39," 1em; font-size:95%;\""]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",118,41,"colspan"],[2,"no-duplicate",117,25,"style=\"width: 100%;\""]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",43,77,"480px <!-- must equal original width as scaled thumbnail loses animation -->"]]

@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",497,4,"colspan=\"9\""],[7,"no-ignored",178,14,"  <small>;text-align:center"],[7,"parsing-order",178,16,"<small>"],[1,"unescaped",158,157,"="]]

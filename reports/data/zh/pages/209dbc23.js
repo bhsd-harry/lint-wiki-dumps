@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",649,2,"[[Category:CS1 uses Japanese-language script (ja)]]"],[1,"no-ignored",273,4,"2019年辺り"]]

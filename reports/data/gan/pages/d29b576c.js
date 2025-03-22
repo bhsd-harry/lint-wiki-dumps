@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",49,15,"[[Category:公司模板|{{PAGENAME}}]]"]]

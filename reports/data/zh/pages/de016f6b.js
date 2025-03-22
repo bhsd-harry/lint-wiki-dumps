@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",1678,1," *"],[1,"lonely-http",3696,54,"ISBN"],[3,"no-ignored",3626,3," color:white\"  "],[1,"unclosed-table",3488,2,"{|"]]

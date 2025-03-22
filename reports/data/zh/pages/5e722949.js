@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,20,"|马克 (领土)"]]

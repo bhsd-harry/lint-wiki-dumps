@@ -1,1 +1,0 @@
-window.data=[[14,"lonely-bracket",5,5,"[["],[1,"no-ignored",5,4," [[Image:Europäisches_russland.jpg|thumb|300px|這幅由[[邁耶百科詞典]]在1895-1990年出版的地圖上，把[[俄羅斯帝國]]的歷史區域標示為大俄羅斯（{{lang|de|''Gross-Russland''}}）。這塊區域也是[[沙皇俄國 (王國時"]]

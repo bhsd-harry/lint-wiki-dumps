@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",107,13,"[["],[1,"no-ignored",107,4,"|<center>[[Ella]] ||<center>狗狗||"],[2,"parsing-order",107,5,"<center>"],[1,"unmatched-tag",107,24,"<center>"]]

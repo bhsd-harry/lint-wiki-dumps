@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",20,42,"  \"  \"point\"  "],[4,"tag-like",31,248,"<nowiki"]]

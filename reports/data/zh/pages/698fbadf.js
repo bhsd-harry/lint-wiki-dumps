@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",76,2,"[[Category:比什凱克人]]"]]

@@ -1,1 +1,0 @@
-window.data=[[22,"illegal-attr",67,15,"Door"],[2,"no-duplicate",67,15,"Door"],[11,"no-ignored",67,27," (film)"]]

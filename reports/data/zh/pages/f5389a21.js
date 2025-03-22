@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",144,76,"vínculo=File:Coat_of_arms_of_the_Buenos_Aires_Province.png"]]

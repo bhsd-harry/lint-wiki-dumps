@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",63,99,"}}}"],[2,"no-duplicate",63,41,"顯示地球拉格朗日點的[[等效位能]]圖（未按比例）；{{L4|nolink=yes}}和{L5"]]

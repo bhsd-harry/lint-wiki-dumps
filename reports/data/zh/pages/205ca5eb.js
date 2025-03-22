@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",345,1," === 飲食 ===\n {{main|奧地利飲食}}\n === 传统节日 ==="],[1,"tag-like",90,954,"<span"],[6,"unmatched-tag",10,69,"</small>"]]

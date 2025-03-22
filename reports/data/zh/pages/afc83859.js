@@ -1,1 +1,0 @@
-window.data=[[12,"no-duplicate",61,5,"style=\"background:cornflowerblue; color:white\""]]

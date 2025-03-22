@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",24,129,"替代文字"]]

@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",7,2,"[[category:鱼雷]]"]]

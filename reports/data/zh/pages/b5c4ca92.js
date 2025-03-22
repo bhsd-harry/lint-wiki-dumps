@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",64,102,"[["],[2,"no-duplicate",20,3," colour = \n "]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",43,4,"table"],[2,"no-duplicate",29,28," prevdistance3 = 25.9km\n "],[1,"no-ignored",187,159," color"]]

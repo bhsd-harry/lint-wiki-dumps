@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,28,"|第2裝甲軍團"]]

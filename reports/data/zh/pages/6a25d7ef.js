@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",25,3," awards = [[自由媒體獎]]<br/>[[普立茲突發新聞攝影獎]]（2023年）<br/>[[烏克蘭謝甫琴科國家獎]]<br/>{{le|以利亞·帕里什·洛夫喬伊獎|Elijah Parish Lovejoy Award}}（2022年)\n "]]

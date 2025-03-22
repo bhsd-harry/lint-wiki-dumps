@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",51,1," * 音乐科\n * [[人|人间]]福利学科\n ** [[社会福利]]专攻\n ** 护理福利专攻\n ** <del>幼儿福利专攻</del><ref group=\"注\"  name=\"幼儿福利专攻招生\"/>"]]

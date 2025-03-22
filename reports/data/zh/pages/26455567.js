@@ -1,1 +1,0 @@
-window.data=[[5,"lonely-bracket",409,43,"{{"],[7,"no-ignored",255,42,"  color:black; font-weight:bold;\"  "],[5,"tag-like",409,38,"<ref"],[2,"unclosed-table",312,2,"{|"]]

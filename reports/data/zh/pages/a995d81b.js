@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",17,1," [[File:Manchester 43-9 Spring Gardens 1228pc.JPG]]"]]

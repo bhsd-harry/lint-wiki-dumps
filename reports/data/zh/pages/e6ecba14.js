@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",17,1295,"  |page=152 "]]

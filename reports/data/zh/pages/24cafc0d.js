@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",56,12,"20:00"],[1,"no-ignored",56,4," 星期內、二晚 "],[1,"unmatched-tag",81,311,"</small>"]]

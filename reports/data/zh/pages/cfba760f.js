@@ -1,1 +1,0 @@
-window.data=[[22,"no-duplicate",231,3," RD1-score1-1='''6'''\n "]]

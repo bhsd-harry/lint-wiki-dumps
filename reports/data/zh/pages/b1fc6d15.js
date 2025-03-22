@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",1224,16,"MBN"],[1,"lonely-bracket",1953,169,"["],[8,"no-ignored",287,33,"  \"font-size:100%;\" "]]

@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",8,3,"1=zh-tw:環狀線; zh-hk:環綫; zh-cn:环线;\n "]]

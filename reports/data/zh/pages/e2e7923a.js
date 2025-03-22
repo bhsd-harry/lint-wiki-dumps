@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",446,26,"height"],[1,"invalid-isbn",906,26,"ISBN 957032532X"],[1,"lonely-http",115,344,"ISBN"]]

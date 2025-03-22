@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",3,47,"PlayStation Vita TV logo"]]

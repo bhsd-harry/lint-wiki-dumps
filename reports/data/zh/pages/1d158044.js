@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",28,3," population_as_of   =  {{PH wikidata|population_as_of}}\n "]]

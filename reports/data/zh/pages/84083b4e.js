@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",25,3,"海外推出國家={{MYS}} [[Astro AOD]]\n "]]

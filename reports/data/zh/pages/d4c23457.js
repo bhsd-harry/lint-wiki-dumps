@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",45,2,"[[Category:立體主義藝術家]]"]]

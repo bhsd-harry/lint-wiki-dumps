@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",73,153,"麥可·懷特\""],[1,"tag-like",73,142,"<ref"]]

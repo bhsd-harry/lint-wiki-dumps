@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",108,2,"[[Category:明尼苏达州军人]]"]]

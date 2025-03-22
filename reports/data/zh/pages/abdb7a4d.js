@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",119,79,"font-size"],[4,"no-duplicate",738,3," extra5 = \n "],[5,"no-ignored",220,29,"text-align:center\""]]

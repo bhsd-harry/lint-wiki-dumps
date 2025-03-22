@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",31,1," [[File:R12 IRT 3.gif|64px]]"],[13,"illegal-attr",132,40,"Service"],[4,"no-duplicate",132,40,"Service"],[4,"no-ignored",132,83," stations, "]]

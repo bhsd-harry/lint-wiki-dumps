@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",215,1," 300系列車編組表"],[1,"no-ignored",319,70,"  ;style=\"font-size: 90%\" "]]

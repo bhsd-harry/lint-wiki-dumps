@@ -1,1 +1,0 @@
-window.data=[[10,"no-duplicate",25,2,"[[Category:CS1 uses Russian-language script (ru)]]"]]

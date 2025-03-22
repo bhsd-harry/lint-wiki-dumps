@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",1175,16,"Canon EF 35mm镜头"]]

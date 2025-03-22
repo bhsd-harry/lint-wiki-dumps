@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",130,2,"[[Category:2007年面世的汽車]]"]]

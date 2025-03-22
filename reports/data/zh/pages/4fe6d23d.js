@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",8,3,"settlement_type = [[緬甸城市列表|镇]]\n "]]

@@ -1,1 +1,0 @@
-window.data=[[5,"lonely-bracket",1764,4,"{"],[2,"no-ignored",1764,4,"{zh-cn:天降美食;zh-tw:食破天驚;zh-hk:美食風球;}-"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",89,24,"href"],[2,"no-duplicate",433,4,"style=align=\"center\""],[1,"no-ignored",240,4,"'''Bold text'''"]]

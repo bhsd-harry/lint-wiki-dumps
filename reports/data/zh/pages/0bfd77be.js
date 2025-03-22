@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",155,42,"of"],[4,"lonely-bracket",155,18,"[["],[2,"no-duplicate",10,39,"style=\"margin:3px; border:3px solid #000000;\""],[2,"no-ignored",155,4,"|align=\"left\"|[[退休金及國民保險部長]]（Minister "]]

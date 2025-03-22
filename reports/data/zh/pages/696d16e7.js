@@ -1,1 +1,0 @@
-window.data=[[24,"no-duplicate",304,2,"[[Category:馬來西亞男歌手]]"],[2,"unclosed-table",344,2,"{|"]]

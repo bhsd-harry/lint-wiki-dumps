@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",29,58,"八幡濱市"]]

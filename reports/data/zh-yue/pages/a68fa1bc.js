@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",18,2,"[[Category:奧布嘅市鎮]]"]]

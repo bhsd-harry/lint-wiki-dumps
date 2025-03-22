@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",8,3,"began_operation={{Start date and age|2022|11|10}}\n "]]

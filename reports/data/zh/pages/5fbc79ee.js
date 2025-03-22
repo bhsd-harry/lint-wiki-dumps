@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",283,32,"]"],[1,"tag-like",94,184,"</math"]]

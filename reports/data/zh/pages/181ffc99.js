@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",161,2,"[[Category:香港醫學界人士]]"]]

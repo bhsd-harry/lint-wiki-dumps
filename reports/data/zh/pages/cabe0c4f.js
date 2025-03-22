@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",23,58,"Right"],[5,"no-ignored",110,8," lang\"fr\""]]

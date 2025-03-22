@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,26,"|百萬人民倒扁運動"]]

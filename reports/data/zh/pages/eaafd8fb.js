@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",4,4,"{{Infobox Aircraft Begin\n  |name=八試特殊偵察機\n  |image=image:Mitsubishi G1M.jpg\n  |size=200px\n  |caption=\n }}{{Infobox Aircraft Type\n  |type=長距離偵察機<br>[[轟炸"],[2,"parsing-order",10,15,"<br>"],[1,"unclosed-table",4,2,"{|"]]

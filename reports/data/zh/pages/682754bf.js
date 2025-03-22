@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",68,198,"author=陳郁仁"]]

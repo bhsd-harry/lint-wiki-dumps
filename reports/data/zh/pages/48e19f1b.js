@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",9,2,"[[Category:加拿大十项全能运动员]]"]]

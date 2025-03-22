@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",98,2,"[[Category:美國研究]]"]]

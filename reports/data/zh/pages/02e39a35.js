@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",10,2,"[[Category:日本残奥冰球运动员]]"]]

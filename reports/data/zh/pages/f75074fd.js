@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",347,43,"; text-align:right; font-size:80%;\""]]

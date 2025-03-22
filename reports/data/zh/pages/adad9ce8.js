@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",143,3,"27:21.46"],[8,"lonely-bracket",120,13,"{{"],[2,"no-ignored",143,11," '''OR''' "],[1,"parsing-order",256,60,"<br>"]]

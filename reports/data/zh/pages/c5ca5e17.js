@@ -1,1 +1,0 @@
-window.data=[[17,"fostered-content",72,1," {{#section:漫威電影宇宙：第一階段|Films}}"],[1,"illegal-attr",497,30,"text"],[3,"no-ignored",112,4,"<section begin=UpcomingFilms />"],[3,"parsing-order",112,4,"<section begin=UpcomingFilms />"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",169,2,"[[Category:台灣戰後福建移民]]"]]

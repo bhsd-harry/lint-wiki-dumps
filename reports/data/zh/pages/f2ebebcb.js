@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",10,5,"colspan"],[2,"no-ignored",10,16,"|style=\"vertical-align: top;\""]]

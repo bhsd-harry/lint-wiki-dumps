@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-http",384,495,"ISBN"],[2,"no-duplicate",449,2,"[[Category:香港民主派人士]]"]]

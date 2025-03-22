@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",13,3," assets = 1808.0億\n "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",175,2,"[[分類:前1世紀建立]]"]]

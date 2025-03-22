@@ -1,1 +1,0 @@
-window.data=[[33,"no-duplicate",75,1799,"url=https://www.staatsanzeiger.de/nachrichten/politik-und-verwaltung/wagenknechts-partei-wird-vom-land-aus-gegruendet/ "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",91,2,"[[Category:史前軟骨魚類|Y]]"]]

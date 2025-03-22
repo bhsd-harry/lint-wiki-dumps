@@ -1,1 +1,0 @@
-window.data=[[1,"unclosed-table",220,2,"{|"],[1,"unescaped",1431,43,"="]]

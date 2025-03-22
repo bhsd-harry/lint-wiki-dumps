@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",176,1685,"url=https://books.google.com/books?id=XaYeSoPbrPMC&pg=PT14"]]

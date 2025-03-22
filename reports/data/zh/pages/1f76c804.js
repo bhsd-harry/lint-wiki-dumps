@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",50,1," * 人类生活学科\n ** 生活创造专攻<ref group=\"注\"  name=\"生活创造专攻\"/>\n ** 儿童发达专攻<ref group=\"注\"  name=\"儿童发达专攻\"/>\n * [[医疗卫生]]营养学科<ref group=\"注\"  name=\"医疗卫生营养学科\"/>"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",79,2,"[[Category:1980年代背景電影]]"]]

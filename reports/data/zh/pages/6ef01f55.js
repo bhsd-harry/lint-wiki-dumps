@@ -1,1 +1,0 @@
-window.data=[[24,"no-ignored",91,3,"年度"],[25,"parsing-order",91,19,"<br>"],[1,"unclosed-table",89,2,"{|"],[1,"unmatched-tag",164,2,"</small>"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",207,2,"[[Category:東京都體育競賽]]"]]

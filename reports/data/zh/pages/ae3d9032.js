@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",104,54,"[["],[2,"no-duplicate",104,54,"[[Neuenstein, Baden-Württemberg"]]

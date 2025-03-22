@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",31,3," alma_mater       = \n "]]

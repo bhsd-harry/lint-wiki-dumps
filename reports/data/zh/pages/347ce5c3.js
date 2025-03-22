@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",71,2,"[[Category:非洲裔美国民权运动者]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",368,8,"千草台、YU-LAND綠、醫院前"]]

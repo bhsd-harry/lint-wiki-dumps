@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",141,2,"[[Category:俄羅斯小说家]]"]]

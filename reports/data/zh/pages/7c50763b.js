@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,18,"|G集團軍"]]

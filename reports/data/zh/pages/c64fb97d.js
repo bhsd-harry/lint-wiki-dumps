@@ -1,1 +1,0 @@
-window.data=[[86,"illegal-attr",90,72,"11"],[8,"no-ignored",32,495,"竞价排名\"丑闻\""]]

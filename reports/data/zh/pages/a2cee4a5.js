@@ -1,1 +1,0 @@
-window.data=[[2,"nested-link",196,215,"[[Tourism in Bihar]]"],[1,"tag-like",104,172,"</ref"]]

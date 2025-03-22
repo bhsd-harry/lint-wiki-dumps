@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:当代艺术]]"]]

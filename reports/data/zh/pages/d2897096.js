@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",180,4," 2018-11-16||319||47||49||'''415'''||'''214'''||59%<sup>‡</sup>{{spaces|3|type}}||4,430||<ref name=\"auto\">{{cite web |title=Outbreaks and Emergencies "],[3,"parsing-order",180,55,"<sup>"]]

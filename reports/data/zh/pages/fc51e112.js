@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",50,17,"[["],[3,"no-duplicate",50,52,"align=center|2–3"],[2,"no-ignored",50,4,"|align=right|[[科隆足球俱樂部|科隆]] "]]

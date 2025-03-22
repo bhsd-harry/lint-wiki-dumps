@@ -1,1 +1,0 @@
-window.data=[[4,"invalid-gallery",97,41,"缩略图"]]

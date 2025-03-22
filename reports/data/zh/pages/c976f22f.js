@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",119,63,"[[東京養樂多燕子]]"],[24,"no-ignored",41,3,"年度"],[22,"parsing-order",41,14,"<br>"]]

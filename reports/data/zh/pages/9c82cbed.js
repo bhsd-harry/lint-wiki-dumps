@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",595,2,"}}"],[2,"no-duplicate",582,4," ISBN    = 978-4-08-874473-5\n  "],[1,"tag-like",599,20,"<ref"]]

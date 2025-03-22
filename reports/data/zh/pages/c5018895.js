@@ -1,1 +1,0 @@
-window.data=[[8,"illegal-attr",192,3,"nowrap"],[4,"no-ignored",582,47," 0; "],[1,"unmatched-tag",510,105,"</span>"]]

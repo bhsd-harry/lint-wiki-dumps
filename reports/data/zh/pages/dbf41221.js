@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",20,13,"'"],[3,"lonely-bracket",66,22,"[[["],[2,"no-duplicate",21,3," seat_change1 = {{steady}}\n "]]

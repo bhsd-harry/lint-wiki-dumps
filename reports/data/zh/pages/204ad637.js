@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",53,1," * [[地区]]创造学科<ref group=\"注\"  name=\"地区创造学科\"/>\n ** [[白天]]主课程<ref group=\"注\"  name=\"地区创造学科\"/>\n *** 商务专攻<ref group=\"注\"  name=\"商务专攻\"/>\n *** 儿童专攻<ref group=\""]]

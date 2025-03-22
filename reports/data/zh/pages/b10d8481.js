@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",104,4,"墨西哥城站站轮胎配方<ref>{{cite news |author1=[[倍耐力]] |title=These are the tyres for the Americas |url=https://press.pirelli.com/these-are-the-tyres-for-the-ame"],[1,"parsing-order",104,14,"<ref>{{cite news |author1=[[倍耐力]] |title=These are the tyres for the Americas |url=https://press.pirelli.com/these-are-the-tyres-for-the-americas/ |da"]]

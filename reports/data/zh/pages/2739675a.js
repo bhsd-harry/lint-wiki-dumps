@@ -1,1 +1,0 @@
-window.data=[[5,"no-duplicate",26,2,"[[Category:CS1: long volume value]]"]]

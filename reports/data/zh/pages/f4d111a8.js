@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",11,3,"colour = {{colorbox|beige|border=black}} 浅黄色\n "]]

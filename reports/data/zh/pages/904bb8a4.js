@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",39,154,"["],[2,"no-duplicate",46,2,"[[Category:義大利藝術家]]"]]

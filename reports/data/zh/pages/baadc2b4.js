@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",110,2,"[[Category:樂高生化戰士]]"]]

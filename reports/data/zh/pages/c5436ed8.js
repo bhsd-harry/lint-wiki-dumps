@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",13,2,"[[Category:台灣軟體動物]]"]]

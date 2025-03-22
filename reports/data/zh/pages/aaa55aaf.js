@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",71,2,"[[Category:古京都遺址（京都、宇治和大津市）]]"]]

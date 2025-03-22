@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",98,2,"[[Category:東京養樂多燕子球員]]"],[24,"no-ignored",35,3,"年度"],[18,"parsing-order",35,39,"<br>"]]

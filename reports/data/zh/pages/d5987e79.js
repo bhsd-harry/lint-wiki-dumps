@@ -1,1 +1,0 @@
-window.data=[[10,"illegal-attr",542,4,"avlign"],[1,"no-ignored",437,42,"  ;align=\"center\""]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,13,"|北方集團軍 (北約)"]]

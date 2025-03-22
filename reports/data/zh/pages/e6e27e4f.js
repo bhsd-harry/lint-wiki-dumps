@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",125,2,"[[Category:葬于维也纳中央公墓]]"]]

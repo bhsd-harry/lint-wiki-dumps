@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",39,22,"t"],[1,"unclosed-table",39,2,"{|"]]

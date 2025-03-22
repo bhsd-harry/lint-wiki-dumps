@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",140,55," 美國"]]

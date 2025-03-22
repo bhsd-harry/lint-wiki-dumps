@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",170,5,"span"],[2,"no-duplicate",427,19,"right"]]

@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",19,2,"[[Category:建筑机械]]"]]

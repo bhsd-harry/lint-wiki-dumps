@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",106,16,"www.youtube.com"],[1,"lonely-bracket",432,153,"]"],[1,"lonely-http",106,8,"https://"],[2,"no-ignored",106,7,"[https://"]]

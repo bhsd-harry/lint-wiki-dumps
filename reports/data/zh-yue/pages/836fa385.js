@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",577,201,"{{"],[1,"lonely-http",877,675,"https://"],[10,"no-duplicate",231,18,"date=2021-06-11"],[2,"tag-like",577,333,"<ref"]]

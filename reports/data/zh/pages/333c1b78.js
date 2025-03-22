@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",56,2,"[[Category:2020年日本電影作品]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",48,38," 往3 = 湘潭北站 "]]

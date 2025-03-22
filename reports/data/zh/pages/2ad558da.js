@@ -1,1 +1,0 @@
-window.data=[[3,"invalid-gallery",112,49,"200px"],[1,"no-ignored",118,53,"width:70%;text-align: center;\""]]

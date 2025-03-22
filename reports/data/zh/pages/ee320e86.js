@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",200,3," population_note    = \n "]]

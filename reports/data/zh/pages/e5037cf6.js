@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",104,4,"rowspan=\"2\""],[7,"no-ignored",1605,31,"; color:snow\"  "],[1,"unclosed-table",501,2,"{|"],[9,"unmatched-tag",2285,19,"</small>"]]

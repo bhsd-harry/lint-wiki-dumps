@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",2,3," 1=zh-hans:纳米; zh-hant:納米; zh-tw:奈米\n "]]

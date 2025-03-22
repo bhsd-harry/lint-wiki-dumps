@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",86,2,"[[Category:中国语言学家|L陆]]"]]

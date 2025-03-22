@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",190,2,"[[Category:2006年乒乓球|Asian Games]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",29,2,"[[Category:中国大陆真人秀节目]]"]]

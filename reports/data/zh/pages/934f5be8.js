@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",229,2,"[[Category:臺灣政治世家出身的政治人物]]"]]

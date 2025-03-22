@@ -1,1 +1,0 @@
-window.data=[[7,"parsing-order",11,29,"<ref>{{cite book |title=The Boeing KC-135 Stratotanker; More Than a Tanker |url=https://archive.org/details/boeingkc135strat0000hopk |last=Hopkins III"]]

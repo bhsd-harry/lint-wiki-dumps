@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",1919,22,"'"],[3,"lonely-bracket",879,6,"{{"],[1,"no-ignored",879,3," 盟軍{{le"]]

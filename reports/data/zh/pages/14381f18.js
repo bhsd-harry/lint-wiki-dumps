@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",22,2,"[[Category:四川省已撤销的乡镇]]"]]

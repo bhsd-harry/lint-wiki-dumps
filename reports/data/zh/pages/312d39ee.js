@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",97,2,"[[Category:中国铁路高速动车组列车车次|G]]"]]

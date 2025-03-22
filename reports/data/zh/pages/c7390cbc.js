@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",479,85,"2016"],[1,"no-ignored",479,89," est.<ref name=\"ReferenceA\"/>  "],[1,"parsing-order",479,94,"<ref name=\"ReferenceA\"/>"]]

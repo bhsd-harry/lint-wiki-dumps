@@ -1,1 +1,0 @@
-window.data=[[8,"unmatched-tag",73,26,"<small id=\"fn_1\">"]]

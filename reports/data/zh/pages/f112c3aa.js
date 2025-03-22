@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",110,36,"upright=1.2<!--width for low image-->"]]

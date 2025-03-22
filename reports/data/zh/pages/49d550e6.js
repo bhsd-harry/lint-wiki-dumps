@@ -1,1 +1,0 @@
-window.data=[[2,"nested-link",34,262,"[[出站口]]"]]

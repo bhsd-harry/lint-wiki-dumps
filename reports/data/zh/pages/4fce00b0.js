@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",112,51," レコード "]]

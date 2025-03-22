@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",136,3," swing8 =\n\n <!-- NI -->"],[2,"no-ignored",1180,20," ; text-align:center;\""]]

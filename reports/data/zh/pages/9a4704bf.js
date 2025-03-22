@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",193,2,"[[Category:日本國指定鳥獸保護區]]"]]

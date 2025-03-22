@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",31,2,"[[Category:牙买加圣詹姆斯堂区| ]]"]]

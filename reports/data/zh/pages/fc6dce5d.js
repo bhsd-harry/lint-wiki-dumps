@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,40,"|因幡 帝"]]

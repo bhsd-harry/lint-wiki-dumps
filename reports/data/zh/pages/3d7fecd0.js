@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",111,134,"[["],[1,"no-ignored",329,22,"  \"text-align:left;font-size:100%;\"|"]]

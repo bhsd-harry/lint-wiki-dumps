@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",160,2,"[[Category:柔佛第14届州立法议会议员]]"]]

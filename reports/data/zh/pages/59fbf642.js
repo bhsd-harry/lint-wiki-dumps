@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",483,2,"[[Category:自閉症題材電視劇]]"]]

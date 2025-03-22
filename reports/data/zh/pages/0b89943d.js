@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",71,2,"[[Category:虛構俄羅斯人]]"]]

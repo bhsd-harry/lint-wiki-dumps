@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",64,1," 旋翼機："]]

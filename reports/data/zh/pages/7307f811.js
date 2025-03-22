@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",1,148,"[[["],[2,"no-duplicate",1,50,"a)顯示了在重新成像的孔徑平面中使用孔徑掩模的簡單實驗。b) 和c) 顯示了由{{link-en|彼得·塔希爾 (天文學家)|Peter Tuthill (astronomer)}}和合作者放置在[[[凱克天文台"]]

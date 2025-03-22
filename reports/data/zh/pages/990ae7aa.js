@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",30,4,"+遣返人数统计"]]

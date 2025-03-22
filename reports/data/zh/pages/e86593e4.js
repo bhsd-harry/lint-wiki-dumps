@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",190,4,"只想一生跟你走 巫啟賢"]]

@@ -1,1 +1,0 @@
-window.data=[["孔斯科沃拉",2,20,"style=\"background:#e3e3e3;\""],["庫魯夫市",2,20,"style=\"background:#e3e3e3;\""],["朱塞佩·加里波第",11,3,"spouse             = \n "],["濟酋余化盧",2,20,"style=\"background:#e3e3e3;\""],["香港地鐵",49,15,"[[Category:公司模板|{{PAGENAME}}]]"]]

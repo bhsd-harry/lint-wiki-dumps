@@ -1,1 +1,0 @@
-window.data=[[4,"no-ignored",749,194,"通販限定発売。"]]

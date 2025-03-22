@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",53,1," * 日本文化学科\n * 人类教育学科"]]

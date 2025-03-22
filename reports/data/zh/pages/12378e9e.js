@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",545,1,"\n ==参考文獻==\n {{Reflist}}\n\n [[Category:2013年體育|*]]"],[2,"lonely-bracket",268,21,"[["],[1,"unclosed-table",531,2,"{|"]]

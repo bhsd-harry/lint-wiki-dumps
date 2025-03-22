@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",493,13,"22"],[1,"no-ignored",493,4," align|| "]]

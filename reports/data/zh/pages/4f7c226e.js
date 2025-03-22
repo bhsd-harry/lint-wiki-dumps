@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",62,4,"https:"],[1,"no-ignored",62,33,"/%D0%93%D0%95%D0%A1_L%C3%A0zh%C3%A0i"]]

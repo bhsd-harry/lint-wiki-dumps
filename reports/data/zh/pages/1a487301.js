@@ -1,1 +1,0 @@
-window.data=[[6,"illegal-attr",208,49,"nowrap"],[1,"no-ignored",144,17," '''怪獣トットト"]]

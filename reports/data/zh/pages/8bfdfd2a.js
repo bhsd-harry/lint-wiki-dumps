@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,18,"|中世紀拉丁語"]]

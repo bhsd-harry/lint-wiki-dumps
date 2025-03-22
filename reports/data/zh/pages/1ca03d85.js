@@ -1,1 +1,0 @@
-window.data=[[10,"no-duplicate",104,2,"[[Category:羅馬尼亞足球主教練]]"]]

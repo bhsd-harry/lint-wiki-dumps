@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",428,28,"image_caption=Positano's beach from the roadway."]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",81,1," ;长青街泉园一路（站位位于长青街，南向站位B出入口旁，北向站位A出入口旁）\n {{沈阳公交线路列表|width=100%|format=|end=yes|105|223|266}}\n {{col-end}}"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",3,3,"1=zh-hans:哈萨克斯坦;zh-hant:哈薩克斯坦;zh-hk:哈薩克斯坦;zh-mo:哈薩克斯坦;zh-tw:哈薩克;\n "]]

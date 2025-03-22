@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-gallery",232,48,"缩略图"],[2,"no-ignored",91,3,"六四事件二十三週年"]]

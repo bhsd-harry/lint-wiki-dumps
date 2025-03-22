@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",35,2,"[[Category:印尼音樂場地]]"]]

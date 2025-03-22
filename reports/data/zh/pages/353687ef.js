@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",126,2,"[[Category:卤代醚]]"]]

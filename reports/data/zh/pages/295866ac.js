@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",100,1," ;對戰結果"]]

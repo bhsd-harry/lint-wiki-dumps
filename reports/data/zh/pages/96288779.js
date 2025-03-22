@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",7,3,"location =[[沖繩縣]][[那霸市]][[首里]]當藏2-1\n "]]

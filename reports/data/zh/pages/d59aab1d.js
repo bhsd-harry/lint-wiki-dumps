@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",90,61,"]]"],[2,"no-duplicate",90,37,"[帕莱斯特里纳_(罗马首都广域市)"]]

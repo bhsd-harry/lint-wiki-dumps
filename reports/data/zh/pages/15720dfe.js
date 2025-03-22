@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",118,1," 好"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",195,2,"[[Category: 棒孢科|B]]"]]

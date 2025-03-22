@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",76,341,"author=Luis Lug "]]

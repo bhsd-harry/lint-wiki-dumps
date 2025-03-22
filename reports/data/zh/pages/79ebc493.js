@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",50,9,"Castle"],[2,"no-ignored",50,3," 《The "]]

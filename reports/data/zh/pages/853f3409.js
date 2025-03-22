@@ -1,1 +1,0 @@
-window.data=[[2,"nested-link",106,86,"[[Take This Hammer (documentary)|Take This Hammer]]"]]

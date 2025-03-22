@@ -1,1 +1,0 @@
-window.data=[[3,"fostered-content",77,1," ;梧桐馨园（站位位于南卡门路，C出入口向东约190米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|253}}"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",33,2,"[[Category:2014年中美洲和加勒比运动会运动员]]"]]

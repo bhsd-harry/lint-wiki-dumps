@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",477,4,"{{"],[1,"no-ignored",477,3," {{nowrap"]]

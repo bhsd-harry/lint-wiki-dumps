@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",42,52,"background:"],[2,"no-duplicate",5,3,"2=zh-cn:里奥斯;zh-tw:瑞亞斯;\n "],[3,"no-ignored",42,63," #f9f9f9;"]]

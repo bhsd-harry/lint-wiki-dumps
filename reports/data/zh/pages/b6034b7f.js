@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-http",176,23,"ISBN"]]

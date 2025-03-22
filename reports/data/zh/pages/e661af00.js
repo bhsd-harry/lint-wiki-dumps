@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",207,3," {{link-en|艾迪・蓋瑟吉|Edi Gathegi}}<br>"],[1,"parsing-order",207,34,"<br>"]]

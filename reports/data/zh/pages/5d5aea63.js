@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",52,2,"[[Category:明朝敘州府同知]]"]]

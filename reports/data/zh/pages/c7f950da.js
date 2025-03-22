@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",463,38,"ang"],[1,"lonely-bracket",439,94,"{{"],[3,"no-ignored",421,33,"!width=10%"]]

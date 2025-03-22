@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",42,1," * 诊疗[[醫事放射師|放射线]]技术学科"]]

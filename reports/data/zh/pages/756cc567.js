@@ -1,1 +1,0 @@
-window.data=[[13,"illegal-attr",1455,12,"nchdb.boch.gov.tw"],[3,"lonely-bracket",1455,129,"}}"],[2,"lonely-http",1455,4,"https://"],[6,"no-duplicate",1455,12,"nchdb.boch.gov.tw"],[3,"no-ignored",1455,3,"[https://"]]

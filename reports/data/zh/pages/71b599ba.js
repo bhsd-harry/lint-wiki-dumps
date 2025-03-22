@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",65,54,"德軍野犬2型，部署於阿富汗Image:ATF Dingo 2 mit BÜR.jpg"]]

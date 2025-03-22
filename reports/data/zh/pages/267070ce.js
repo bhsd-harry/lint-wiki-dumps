@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",26,1," [[File:Kudrinskaia001.JPG|文化人公寓]]<br/>（Дом на Кудринской пл.）"]]

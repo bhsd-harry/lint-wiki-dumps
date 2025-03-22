@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",165,2,"}}"],[2,"no-duplicate",218,2,"[[Category:2022年美國參議院選舉]]"]]

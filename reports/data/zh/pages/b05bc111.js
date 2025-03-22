@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",43,63,"text-align:"],[1,"invalid-gallery",142,37,"thumb"],[2,"no-ignored",43,52,"width:70%; "]]

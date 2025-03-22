@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",233,24,"rowspan"],[2,"no-duplicate",304,2,"[[Category:病毒題材作品]]"]]

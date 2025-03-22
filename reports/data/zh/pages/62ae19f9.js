@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-isbn",386,39,"ISBN 7-03-016425-2"],[2,"tag-like",64,26,"<  Br"]]

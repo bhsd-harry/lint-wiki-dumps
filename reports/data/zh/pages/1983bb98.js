@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",146,851,"}"],[2,"no-duplicate",395,2,"[[Category:美國劇情電視劇]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",45,26,"[["],[2,"no-duplicate",45,26,"[[Isle de France (Mauritius)"]]

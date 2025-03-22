@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",90,2,"[[Category:田中鎮]]"]]

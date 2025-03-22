@@ -1,1 +1,0 @@
-window.data=[[10,"parsing-order",10,26,"<ref>Bhargava, Kapil, Group Captain（ret'd）. [http://www.bharat-rakshak.com/IAF/History/Aircraft/Liberator.html  \"Indian's Reclaimed B-24 Bombers.\"] {{"]]

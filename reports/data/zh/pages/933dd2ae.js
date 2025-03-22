@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",96,54," \"center\""],[8,"parsing-order",17,43,"<small>"],[1,"unmatched-tag",867,2,"</small>"]]

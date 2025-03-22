@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",384,4,"align=\"unsortable\""],[1,"unmatched-tag",1128,53,"</small>"]]

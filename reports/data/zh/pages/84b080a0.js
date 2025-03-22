@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",60,2,"[[Category:中華民國證券櫃檯買賣中心上櫃公司]]"]]

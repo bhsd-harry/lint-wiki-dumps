@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",1382,198,"{{"],[6,"no-duplicate",21,3,"transcripts        = \n "]]

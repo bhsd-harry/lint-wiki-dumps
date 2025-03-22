@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",56,2,"[[Category:2019冠狀病毒病美國疫情]]"]]

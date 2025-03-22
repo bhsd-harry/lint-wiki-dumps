@@ -1,1 +1,0 @@
-window.data=[[3,"no-ignored",109,87,"佐藤勇 (競馬)"]]

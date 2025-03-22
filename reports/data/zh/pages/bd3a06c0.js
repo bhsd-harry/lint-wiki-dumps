@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",11,4,"MascotteCM1970.jpg"]]

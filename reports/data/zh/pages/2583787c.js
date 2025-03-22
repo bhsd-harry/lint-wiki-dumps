@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",45,2,"[[Category:用C編程的自由軟體]]"]]

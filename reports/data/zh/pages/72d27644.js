@@ -1,1 +1,0 @@
-window.data=[[9,"no-duplicate",16,2,"[[Category:长沙文物]]"]]

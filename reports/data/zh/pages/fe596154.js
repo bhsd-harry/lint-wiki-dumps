@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",31,366,"archive-date=2023-06-29 "]]

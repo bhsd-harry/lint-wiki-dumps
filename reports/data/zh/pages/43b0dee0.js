@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",29,1," *經過確認이하빛沒有漢字名字 這裡以粉絲常用音譯代替"],[4,"no-duplicate",135,5,"style=\"background:#FF79BC\""],[1,"unclosed-table",28,2,"{|"]]

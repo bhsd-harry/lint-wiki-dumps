@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",183,3,"爱斯基摩-阿留申语系<ref>{{Cite web |url=https://www.academia.edu/42632305/Uralic-Eskimo_initial_first_vowel_and_medial_consonant_correspondences_with_100_lexic"],[3,"parsing-order",183,13,"<ref>{{Cite web |url=https://www.academia.edu/42632305/Uralic-Eskimo_initial_first_vowel_and_medial_consonant_correspondences_with_100_lexical_example"]]

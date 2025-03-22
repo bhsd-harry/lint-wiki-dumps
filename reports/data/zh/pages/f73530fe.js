@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",418,3,"120"],[1,"no-ignored",543,3,"{{flagIOCathlete|[[Chen Shih-hsin|Chen S-H]]|TPE|2004年夏季}}<br>'''L''' 0–1 "],[1,"parsing-order",543,61,"<br>"]]

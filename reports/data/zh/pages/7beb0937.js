@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",52,1," * 生活学科\n ** <del>生活文化专攻</del><ref group=\"注\"  name=\"生活文化专攻招生\"/>\n ** <del>生活福利专攻</del><ref group=\"注\"  name=\"生活福利专攻招生\"/>\n ** 食物营养专攻\n ** 儿童生活专攻\n * [[醫檢師|临"]]

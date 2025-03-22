@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",4,3,"birth_name = 橫田邦子\n "]]

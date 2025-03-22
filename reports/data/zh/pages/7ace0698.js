@@ -1,1 +1,0 @@
-window.data=[[6,"fostered-content",1925,1," [[Category:朝日電視台電視劇|Super Sentai Series]]\n [[Category:超級戰隊系列| ]]\n [[Category:外星科幻題材作品|日本特攝]]"],[6,"no-duplicate",1925,2,"[[Category:朝日電視台電視劇|Super Sentai Series]]"]]

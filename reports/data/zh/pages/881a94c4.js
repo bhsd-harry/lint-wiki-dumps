@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",106,5,"colspan"],[2,"tag-like",256,926,"<a"]]

@@ -1,1 +1,0 @@
-window.data=[[56,"illegal-attr",41,11,"My"],[1,"lonely-bracket",51,39,"]]"],[24,"no-ignored",41,21," (film)"]]

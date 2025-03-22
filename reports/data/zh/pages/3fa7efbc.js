@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",224,1,"\n ==政治==\n ==經濟==\n ==體育==\n ==交通==\n ==教育==\n ==文化==\n == 姊妹城市 ==\n * {{flag|France}}[[尼斯]]，自2000年\n * {{flag|France}}[[拉瓦勒 (馬耶訥)|拉瓦勒]]，自1984年\n * {{flag|Isra"],[1,"unclosed-table",222,2,"{|"]]

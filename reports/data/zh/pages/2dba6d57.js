@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",59,2,"[[Category:1837年逝世]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",120,2,"[[Category:國立故宮博物院人物]]"]]

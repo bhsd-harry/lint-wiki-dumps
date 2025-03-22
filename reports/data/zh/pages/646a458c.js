@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",438,18,"]"],[2,"no-ignored",719,21,"<small>'''style=\"white-space：nowrap;\"  "],[2,"parsing-order",719,21,"<small>"],[1,"unmatched-tag",3,63,"<small>"]]

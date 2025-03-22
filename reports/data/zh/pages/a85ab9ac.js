@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",42,30,"wikitable"],[1,"no-ignored",42,39," sortable\"  "]]

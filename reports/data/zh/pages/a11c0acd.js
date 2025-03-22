@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",141,4," class+\"wikitable\"  "],[1,"unclosed-table",57,2,"{|"]]

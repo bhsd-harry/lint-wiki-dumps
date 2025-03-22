@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",9,3," pushpin_map        = 黎巴嫩\n "]]

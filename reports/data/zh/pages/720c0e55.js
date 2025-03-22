@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",97,1,"\n\n\n\n\n ==参考文献==\n <div class=\"references-small\">\n <references />\n * [https://web.archive.org/web/20080914050008/http://www.tfarmers.org/index.htm 戲劇農莊官方"],[1,"unclosed-table",30,2,"{|"]]

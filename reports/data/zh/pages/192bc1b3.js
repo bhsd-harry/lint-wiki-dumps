@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",1,33,"Ramón López Velarde in 1918"]]

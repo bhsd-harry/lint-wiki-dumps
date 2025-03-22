@@ -1,1 +1,0 @@
-window.data=["gan","wuu","zh-classical","zh-yue","zh"]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",206,2,"[[Category:空難倖存者]]"]]

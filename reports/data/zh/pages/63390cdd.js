@@ -1,1 +1,0 @@
-window.data=[[2,"parsing-order",13,47,"<ref>{{cite web |url=http://economictimes.indiatimes.com/news/defence/hals-lch-passes-rocket-trials-will-participate-in-iron-fist-exercise/articleshow"]]

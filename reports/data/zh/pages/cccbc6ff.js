@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",226,2,"[[Category:神話題材電影]]"]]

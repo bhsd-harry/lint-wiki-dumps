@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-apos",56,38,"'"],[2,"lonely-bracket",31,104,"[["],[2,"no-duplicate",247,3," party2 = Republican Party (United States)\n "]]

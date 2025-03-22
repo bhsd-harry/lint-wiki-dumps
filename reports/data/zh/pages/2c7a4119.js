@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",48,1," * 现代传播学科<ref group=\"注\"  name=\"现代传播学科\"/>\n ** 现代传播专攻<ref group=\"注\"  name=\"现代传播专攻\"/>\n ** 幼儿教育专攻"]]

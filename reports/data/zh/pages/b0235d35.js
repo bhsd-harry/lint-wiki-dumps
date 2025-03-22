@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",15,58,"朝鲜族"]]

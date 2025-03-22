@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",37,121,"]]"],[2,"no-duplicate",14,53,"Schematic diagram of the Advanced Gas-cooled Reactor. Note that the heat exchanger is contained within the steel-reinforced concrete combined pressure"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",22,43," pattern_la1 = _left\n "],[1,"no-ignored",287,3,"!width=60%"]]

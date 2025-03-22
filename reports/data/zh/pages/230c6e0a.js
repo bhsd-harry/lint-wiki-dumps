@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",176,4,"HideF|}"],[1,"unclosed-table",176,2,"{|"]]

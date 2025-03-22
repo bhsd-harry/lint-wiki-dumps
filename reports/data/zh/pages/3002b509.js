@@ -1,1 +1,0 @@
-window.data=[[3,"nested-link",88,161,"[[Encyclopædia Iranica]]"]]

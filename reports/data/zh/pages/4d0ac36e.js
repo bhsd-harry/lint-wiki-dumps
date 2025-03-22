@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",84,5,"class=\"wikitable\""]]

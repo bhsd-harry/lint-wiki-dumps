@@ -1,1 +1,0 @@
-window.data=[[5,"illegal-attr",219,342,"N"],[3,"no-ignored",496,35," center\"  "]]

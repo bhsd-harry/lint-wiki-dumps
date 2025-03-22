@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",228,5,"colspan"],[2,"no-duplicate",473,155," issn = 0511-4772"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",25,31,"MIT Official Cover Page on : Shuang Tang and Mildred Dresselhaus's work could lead to new semiconductor chips and thermoelectric devices."]]

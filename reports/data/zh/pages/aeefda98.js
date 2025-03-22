@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",32,7,"}"],[2,"no-duplicate",57,2,"[[Category:2021年鐵路事故]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",297,1,"\n\n [[Category:中視電視劇| ]]\n [[Category:華視電視劇| ]]\n [[Category:台灣電視劇播放時段]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",179,97,"臺灣高雄州廳夜色與燈籠 Special Night in front of the Takao Prefecture building of TAIWAN in 1930"],[10,"unmatched-tag",400,18,"</small>"]]

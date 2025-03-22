@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",8,21,"{{"],[1,"nested-link",36,180,"[[加利福尼亞大學]]"]]

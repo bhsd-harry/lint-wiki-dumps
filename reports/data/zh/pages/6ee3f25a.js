@@ -1,1 +1,0 @@
-window.data=[[7,"illegal-attr",53,24,"background"],[16,"lonely-bracket",19,17,"[["],[9,"no-ignored",51,19,"100\"; background:#dfe2e9;"]]

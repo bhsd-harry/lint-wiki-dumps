@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-isbn",230,27,"ISBN 957-34-3453-7"],[1,"no-ignored",9,29,"text-align:center;\""]]

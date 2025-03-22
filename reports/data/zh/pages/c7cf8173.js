@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",45,157,"chapter=\n "]]

@@ -1,1 +1,0 @@
-window.data=[[140,"no-duplicate",17,10,"=\n      A B C D E F G H J K L M N O P Q R S T\n  19 "]]

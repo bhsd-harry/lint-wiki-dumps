@@ -1,1 +1,0 @@
-window.data=[[5,"illegal-attr",102,5,"1988"],[2,"no-ignored",102,9," ||  为人师表||  "]]

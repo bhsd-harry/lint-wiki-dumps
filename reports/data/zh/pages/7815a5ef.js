@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",374,24,"Audio-Video"],[1,"no-ignored",374,3,"[Związek Producentów "]]

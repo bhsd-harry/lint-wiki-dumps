@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",18,2,"[[Category:西班牙語姓氏]]"]]

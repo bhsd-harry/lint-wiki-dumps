@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",19,3," party = {{KMT}}\n "]]

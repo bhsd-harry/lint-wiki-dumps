@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",21,3," next_title = \n "]]

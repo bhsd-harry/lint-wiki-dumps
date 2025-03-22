@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",316,122,"clubnat=FRA"]]

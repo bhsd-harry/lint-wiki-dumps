@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-apos",33,17,"'"],[2,"lonely-bracket",12,300,"]"]]

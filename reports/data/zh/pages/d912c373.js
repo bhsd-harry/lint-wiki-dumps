@@ -1,1 +1,0 @@
-window.data=[[16,"unmatched-tag",132,4,"<cite id=refCamilleri1998>"]]

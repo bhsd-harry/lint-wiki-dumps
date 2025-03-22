@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",624,3," {{Party color|The Irish People (party)}}\""]]

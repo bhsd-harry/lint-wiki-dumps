@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",225,2,"[[Category:玻利維亞鳥類|A]]"]]

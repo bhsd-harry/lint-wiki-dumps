@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",378,1," *2010年1月 「ALLURE」冬季服飾平面拍攝\n *2010年3月 「VOGUE」雜誌平面拍攝\n *2011年12月 「SURE」雜誌平面拍攝\n *2013年5月 「Cuvism」雜誌平面拍攝\n *2014年3月 「Arena」雜誌平面拍攝\n *2014年3月 「MAXIM KOREA」雜誌平"]]

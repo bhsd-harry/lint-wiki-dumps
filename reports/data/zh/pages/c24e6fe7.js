@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",23,137," publisher=Nouvelles Editions Africaines "]]

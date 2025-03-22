@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",50,109,"{{"],[2,"no-duplicate",151,2,"[[Category:2023年航空事故]]"]]

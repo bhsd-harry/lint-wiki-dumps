@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",2,39,"title=英語指南"]]

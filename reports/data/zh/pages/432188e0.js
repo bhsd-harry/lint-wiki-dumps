@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",27,3," runtime =  约45分鐘\n "]]

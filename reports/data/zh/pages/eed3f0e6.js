@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",752,2,"[[Category:2017年Oricon專輯週榜冠軍作品]]"]]

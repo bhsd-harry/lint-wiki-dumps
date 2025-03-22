@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",208,37,"date"],[3,"lonely-bracket",138,546,"}"],[1,"no-ignored",208,30,"{birth "]]

@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",639,17,"20."],[3,"no-ignored",639,3,"<small>[CD 2] "],[2,"parsing-order",639,3,"<small>"],[3,"unmatched-tag",639,43,"</small>"]]

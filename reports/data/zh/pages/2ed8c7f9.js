@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",692,3," 江東區立有明小學校"]]

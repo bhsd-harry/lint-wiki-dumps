@@ -1,1 +1,0 @@
-window.data=[[35,"illegal-attr",14,72,"px"],[2,"no-duplicate",11,5,"class=\"sortable wikitable plainrowheaders\""],[5,"no-ignored",20,43,"  !scope=\"row\"  "]]

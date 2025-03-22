@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",30,2,"[[Category:埃及民族主义者]]"]]

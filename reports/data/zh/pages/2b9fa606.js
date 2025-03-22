@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",300,66,"zh-hans:卡尔兰·格兰特"]]

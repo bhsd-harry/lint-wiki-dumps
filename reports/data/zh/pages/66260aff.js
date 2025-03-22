@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",418,2,"[[Category:2010年代特攝作品]]"]]

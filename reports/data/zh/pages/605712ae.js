@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",159,16,"]]"],[1,"no-ignored",159,3," [衛莊公 (揚)"],[88,"unmatched-tag",76,12,"</small>"]]

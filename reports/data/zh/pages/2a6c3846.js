@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",47,1," * 食物[[营养学]]科"]]

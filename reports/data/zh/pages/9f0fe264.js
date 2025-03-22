@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",10,3," highest_ranking         = \n "]]

@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",173,1," 註：年份以MV首度播出或公開之時間為準。"]]

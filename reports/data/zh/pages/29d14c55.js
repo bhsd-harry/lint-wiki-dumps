@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",237,2,"[[Category:美國海軍士兵]]"]]

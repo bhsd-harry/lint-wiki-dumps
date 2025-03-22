@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",525,4,"style=\"text-align:center\""],[1,"unmatched-tag",14,287,"<small>"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",59,2,"[[Category:萨莱诺省市镇|F]]"]]

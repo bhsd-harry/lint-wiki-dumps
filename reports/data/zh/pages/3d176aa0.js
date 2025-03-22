@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",16,1," File:Chincoteague Crater close up.jpg[[高分辨率成像科学设备]]拍摄的钦科蒂格陨击坑特定，为前一幅照片的放大版。请注意冲沟和相关地形。"]]

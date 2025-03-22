@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",54,28,"span"],[44,"unmatched-tag",57,193,"</th>"]]

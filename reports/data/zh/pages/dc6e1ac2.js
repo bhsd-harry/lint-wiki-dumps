@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",26,2,"[[Category:臺灣藝術家|L]]"]]

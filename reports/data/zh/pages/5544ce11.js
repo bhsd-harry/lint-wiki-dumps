@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",48,2,"[[Category:建 (星官)|5]]"]]

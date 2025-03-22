@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",727,1,"\n\n === 備註 ===\n {{noteFoot|1= {{noteTag|name=正勳|1=2023年5月5日，正勳因十字韌帶斷裂，術後需要恢復而暫停活動}} }}"],[1,"unclosed-table",496,2,"{|"]]

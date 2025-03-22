@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",59,1," <ref>Example.jpg|標題1 Example.jpg|標題2</ref>鞥"]]

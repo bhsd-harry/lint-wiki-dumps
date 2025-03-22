@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",229,32,"Corcelles"],[3,"lonely-bracket",321,35,"]]"],[4,"no-ignored",229,41," (Ain)"]]

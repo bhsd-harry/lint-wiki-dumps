@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",193,2,"[[Category:韓國新教徒|N]]"]]

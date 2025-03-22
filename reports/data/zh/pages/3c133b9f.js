@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,21,"|奧地利社會民主黨"]]

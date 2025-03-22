@@ -1,1 +1,0 @@
-window.data=[[57,"illegal-attr",37,14,"Bronx"],[5,"no-ignored",37,3,"Riverdale, "]]

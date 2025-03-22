@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",177,5,"span"],[2,"no-duplicate",636,36,"Bitter_melon_vegetable"]]

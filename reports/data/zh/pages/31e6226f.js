@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",14,27,"[["],[2,"no-duplicate",9,32,"style=\"text-align:center\""],[1,"no-ignored",14,4," 次列车||{{Flagicon|RUS}} [[雅羅斯拉夫爾站|莫斯科-雅罗斯拉夫尔]]||{{Flagicon|PRK}} {{站|平壤}}||{{Flagicon|PRK}} [[朝鲜铁道省]]||10,267||207小时05分<ref name=\"#1\"/>"],[1,"parsing-order",14,122,"<ref name=\"#1\"/>"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",25,75,"  border-collapse:collapse;\""]]

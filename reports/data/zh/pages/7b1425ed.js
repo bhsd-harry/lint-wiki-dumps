@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",65,27,"26.5g"],[1,"lonely-http",26,252,"ISBN"],[2,"no-ignored",65,4,"壹圓銀幣 || 含銀 77% ~ 85% 重 "]]

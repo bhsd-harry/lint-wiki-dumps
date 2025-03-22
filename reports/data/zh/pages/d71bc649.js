@@ -1,1 +1,0 @@
-window.data=[[3,"no-ignored",343,3,"原任行政院文化建設委員會第二處處長"],[17,"unmatched-tag",94,35,"</small>"]]

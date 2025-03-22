@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",200,3,"最佳女歌手(海外)"]]

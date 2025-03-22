@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",51,18," date = 2007年4月19日 "]]

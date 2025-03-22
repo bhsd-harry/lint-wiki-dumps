@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",79,1,"\n ==注釋==\n {{reflist}}\n\n ==外部連結==\n {{wiktionary}}\n {{Commons|Flyleaf}}\n * [http://flyleafmusic.com/ 官方網站] {{Wayback|url=http://flyleafmusic.com/ |date="],[1,"unclosed-table",57,2,"{|"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",529,2,"[[Category:大逃杀游戏]]"],[1,"no-ignored",428,3,"粉絲最喜歡的多人遊戲"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",34,41,"''A. p. panayensis'' feeding"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",14,2,"[[Category:明朝太子少保]]"]]

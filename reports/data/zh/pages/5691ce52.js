@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-http",84,94,"ISBN"],[2,"no-duplicate",91,2,"[[Category:台灣—荷蘭關係| ]]"]]

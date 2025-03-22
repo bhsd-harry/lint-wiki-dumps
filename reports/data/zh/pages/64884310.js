@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",438,67,"[["],[1,"no-ignored",438,18,"  {{flagcountry|Czechoslovakia|name=捷克斯洛伐克共和国}}||[[捷克人]]、[[斯洛伐克人]]||||现在分成{{flag|捷克}}、{{flag|斯洛伐克}}二国，从奧匈独立出来）"],[1,"unclosed-table",502,2,"{|"]]

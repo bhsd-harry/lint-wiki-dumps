@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",74,38,"hochkant=0.9"]]

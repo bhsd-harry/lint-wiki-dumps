@@ -1,1 +1,0 @@
-window.data=[[30,"parsing-order",20,27,"<ref>{{cite journal |last=Sgarlato |first= Nico |title= Gli NH-90 dell'Esercito |journal= Aeronautica&Difesa |date= April 2008 |language=it}}</ref>"]]

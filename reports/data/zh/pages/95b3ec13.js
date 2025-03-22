@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",701,1," <gallery>"]]

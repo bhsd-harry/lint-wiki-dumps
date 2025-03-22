@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",135,25,"color:dark"],[1,"no-ignored",135,35," blue\"  "]]

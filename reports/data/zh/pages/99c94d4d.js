@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",105,69,"{{"],[2,"no-duplicate",105,44,"波赫聯邦的部份為藍色，綠色為[[布爾奇科特區]]。{{NoteTag"]]

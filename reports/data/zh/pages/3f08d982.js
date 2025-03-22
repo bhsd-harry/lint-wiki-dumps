@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",2796,101,"'"],[5,"no-ignored",117,4," \"align=bottom\"  "]]

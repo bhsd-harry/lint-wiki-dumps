@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",5767,1,"\n\n\n\n [[Category:台灣瀑布| ]]\n [[Category:台灣地理相關列表]]"]]

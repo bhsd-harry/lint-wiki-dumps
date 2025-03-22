@@ -1,1 +1,0 @@
-window.data=[[12,"no-duplicate",20,3," clubs3 = [[邓迪足球俱乐部|邓迪]]\n "]]

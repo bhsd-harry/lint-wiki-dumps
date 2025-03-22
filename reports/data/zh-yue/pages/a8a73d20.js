@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",30,3,"nowrap"],[2,"no-duplicate",13,1000,"access-date=2023年4月3號 "]]

@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",35,182,"[[INSPIRE-HEP]]"]]

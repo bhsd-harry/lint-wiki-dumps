@@ -1,1 +1,0 @@
-window.data=[[24,"illegal-attr",13,4,"sytle"]]

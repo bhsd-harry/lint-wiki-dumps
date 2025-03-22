@@ -1,1 +1,0 @@
-window.data=[[5,"lonely-bracket",338,2,"}}"],[2,"no-duplicate",64,3," map_caption = 縣結果 <br />\n '''哈什巴格:''' {{legend0|#D75D5D|60–70%}} {{legend0|#D72F30|70–80%}} {{legend0|#C21B18|80–90%}}"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,3," cover          = File:MWAM-TheWorld'sOnFire-cover.jpg\n "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"invalid-isbn",1071,15,"ISBN 978-626-383-583-6"],[1,"lonely-bracket",234,4,"}}"],[1,"no-ignored",214,396,"舍華斯"]]

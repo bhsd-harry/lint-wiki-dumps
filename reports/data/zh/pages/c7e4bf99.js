@@ -1,1 +1,0 @@
-window.data=[[1,"pipe-like",106,63," ||7.86 m"]]

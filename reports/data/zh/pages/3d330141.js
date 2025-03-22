@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",55,2,"[[Category:21世纪俄罗斯政治人物]]"]]

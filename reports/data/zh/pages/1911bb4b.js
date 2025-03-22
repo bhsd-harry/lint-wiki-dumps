@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",4,1," [[File:Yu Qiaqing.jpg|thumb|130px|[[虞洽卿]]]]\n [[File:Zhu Baosan.jpg|thumb|130px|[[朱葆三]]]]\n [[File:Zhang Zunsan.jpg|thumb|130px|[[张尊三]]]]\n [[File:Wu Ji"]]

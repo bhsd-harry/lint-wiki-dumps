@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",143,2,"[[Category:1989年香港電影作品]]"]]

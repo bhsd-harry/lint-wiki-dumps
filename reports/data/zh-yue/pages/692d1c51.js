@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",10,2,"[[Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference]]"]]

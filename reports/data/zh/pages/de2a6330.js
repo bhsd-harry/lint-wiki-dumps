@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",62,4,"[["],[46,"no-duplicate",46,4,"style=\"background:#EEDD82;\""],[25,"no-ignored",44,35,"150%\""]]

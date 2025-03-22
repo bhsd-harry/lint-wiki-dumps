@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",36,52,"Shenyang Changqing Bridge 201807"]]

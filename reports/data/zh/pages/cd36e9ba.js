@@ -1,1 +1,0 @@
-window.data=[[3,"fostered-content",86,1," ;吉力湖街汪河路（站位位于吉力湖街，汪河路南侧，D出入口旁）\n {{沈阳公交线路列表|width=100%|format=|end=yes|166}}"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",8,3,"map_caption     = {{legend|#33CCFF|平和县}}在漳州市的位置\n "]]

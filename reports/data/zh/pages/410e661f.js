@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",50,1," * 日文科\n * 保育科\n * 家政科\n ** [[服装]]专攻<ref group=\"注\"  name=\"服装专攻\"/>\n ** 食物专攻"]]

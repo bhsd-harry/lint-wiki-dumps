@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",3,34,"href"],[8,"tag-like",66,471,"</img"]]

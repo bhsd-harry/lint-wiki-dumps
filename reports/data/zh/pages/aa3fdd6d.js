@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",140,3,"CM4戰鬥步槍"]]

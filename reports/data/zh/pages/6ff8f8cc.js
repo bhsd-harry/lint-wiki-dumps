@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",17,3," completed event = {{le|2019 Brasil Open|2019}}\n\n "]]

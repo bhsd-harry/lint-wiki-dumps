@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",251,1021,"["],[1,"nested-link",251,994,"[[Stephen M. Schwebel]]"]]

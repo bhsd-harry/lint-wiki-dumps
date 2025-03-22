@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-http",33,983,"https://"],[2,"no-ignored",297,15,"  color:black\""]]

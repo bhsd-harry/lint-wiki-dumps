@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",81,1926,"url=Manila Bulletin "]]

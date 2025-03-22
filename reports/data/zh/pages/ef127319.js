@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",58,2,"[[Category:1968年法律]]"]]

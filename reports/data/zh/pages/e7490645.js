@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",350,1," [https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/MO/VI/IS/ID26307&user=KLMB2C&subuser=KLMB2C]{{dead link|date=2018年2月 |bot=Interne"]]

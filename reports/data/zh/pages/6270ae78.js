@@ -1,1 +1,0 @@
-window.data=[[10,"no-duplicate",156,2,"[[Category:21世紀美國物理學家]]"]]

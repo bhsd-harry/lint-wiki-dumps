@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",140,1816,"website=ent.sina.com.cn"]]

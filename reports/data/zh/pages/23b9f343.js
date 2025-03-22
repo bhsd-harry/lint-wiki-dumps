@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-isbn",140,34,"ISBN 7-80609-560-5"],[4,"no-duplicate",6,3," term_start2  = 1939年6月\n "]]

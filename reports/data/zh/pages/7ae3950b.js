@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",105,1," [[Category:香港喜劇片]]\n [[Category:高中背景電影]]\n [[Category:1992年香港電影作品]]"],[1,"unclosed-table",71,2,"{|"]]

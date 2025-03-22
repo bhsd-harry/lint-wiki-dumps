@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",90,18,"2"],[4,"no-ignored",65,29," =\"1px\""]]

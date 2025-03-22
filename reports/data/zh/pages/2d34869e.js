@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",21,2,"[[Category:2001年成立的音樂團體]]"]]

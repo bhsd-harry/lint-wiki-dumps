@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-gallery",154,90,"thumb"],[2,"no-duplicate",2,3,"T=zh-cn:吉野家;zh-sg:𠮷野家;zh-tw:吉野家;zh-hk:𠮷野家;\n "]]

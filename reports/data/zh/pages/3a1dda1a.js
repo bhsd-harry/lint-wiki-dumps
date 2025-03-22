@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",478,2,"[[Category:2025年花样滑冰|World Junior Figure Skating Championships]]"]]

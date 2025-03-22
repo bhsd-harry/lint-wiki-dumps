@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",102,2,"[[Category:澳大利亚世界遗产]]"]]

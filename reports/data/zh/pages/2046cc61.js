@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",117,50," 配音:邊江width=\"60%\""],[1,"unmatched-tag",60,128,"</small>"]]

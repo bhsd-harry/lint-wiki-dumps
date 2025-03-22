@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",101,2,"[[Category:白金漢郡人]]"]]

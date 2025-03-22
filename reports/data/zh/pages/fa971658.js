@@ -1,1 +1,0 @@
-window.data=[[32,"no-duplicate",15,3,"pattern_la1 =_grl2022h\n "]]

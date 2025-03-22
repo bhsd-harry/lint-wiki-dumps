@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",7,3,"nowrap"],[2,"no-duplicate",58,19,"title=https://www.guancha.cn/politics/2024_01_20_722873.shtml"]]

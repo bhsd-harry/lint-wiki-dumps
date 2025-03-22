@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",1451,69,"["],[1,"nested-link",813,252,"[[厭食症]]"],[6,"no-duplicate",1244,19,"style=\"margin: auto;\""],[5,"no-ignored",1215,3," width:20%"],[2,"unmatched-tag",1471,31,"</sub>"]]

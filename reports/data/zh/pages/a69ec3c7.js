@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",221,75,"link=//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lord Clive meeting with Mir Jafar after the Battle of Plassey.jpg/220px-Lord Clive meeting wi"]]

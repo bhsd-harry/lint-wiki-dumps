@@ -1,1 +1,0 @@
-window.data=[[5,"illegal-attr",42,37,"font-size:"],[5,"no-ignored",42,47," 90%;\""]]

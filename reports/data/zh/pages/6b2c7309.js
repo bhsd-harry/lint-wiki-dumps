@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",56,3," manageryears4 = 2023–2024\n "]]

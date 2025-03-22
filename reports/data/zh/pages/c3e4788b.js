@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",32,63,"text-align:"],[4,"no-ignored",32,52,"width:80%; "]]

@@ -1,1 +1,0 @@
-window.data=[[7,"illegal-attr",159,41,"is"],[2,"no-ignored",159,33,"  |wiki "]]

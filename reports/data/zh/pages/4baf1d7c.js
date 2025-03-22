@@ -1,1 +1,0 @@
-window.data=[[3,"no-duplicate",2,3,"1=zh-hans:涵道比; zh-hant:旁通比;\n "],[4,"parsing-order",15,32,"<br>"]]

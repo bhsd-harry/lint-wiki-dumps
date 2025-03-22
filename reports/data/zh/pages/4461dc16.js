@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,3,"zh-hk:聖誕快樂頌;zh-tw:小氣財神：快樂頌;\n "]]

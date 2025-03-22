@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",37,3,"battles   =[[第一次国共内战]]<br />   [[抗日战争]]<br />  [[第二次国共内战]]<br>[[朝鲜战争]]\n "]]

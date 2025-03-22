@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",17,20,"[[火星勘测轨道飞行器]]背景相机拍摄的雷迪陨击坑部分区域。File:Wikiredidevils.jpg"]]

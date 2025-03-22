@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",11,1716,"name=\"nyt290498\""],[1,"no-ignored",11,1732,"/；俄羅斯外長又指該批導彈是「防禦性武器」<ref "],[1,"tag-like",11,1753,"<ref"]]

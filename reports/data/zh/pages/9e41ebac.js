@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",135,2,"[[Category:中國國民黨黨員]]"]]

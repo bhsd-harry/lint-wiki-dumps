@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",217,1," <div style=\"text-align: right;\">"],[4,"illegal-attr",54,31,"height"],[1,"unmatched-tag",219,2,"</div>"]]

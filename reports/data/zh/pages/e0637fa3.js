@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",66,1," * 儿童教育[[科系|学科]]\n ** 幼儿教育专攻\n ** 少年体育专攻<ref group=\"注\"  name=\"少年体育专攻\"/>"]]

@@ -1,1 +1,0 @@
-window.data=[[4,"no-ignored",180,3,"\"style= rowspan =11\""],[4,"unclosed-table",254,2,"{|"]]

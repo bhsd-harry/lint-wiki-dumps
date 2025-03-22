@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",173,2,"[[Category:2-Piperidinones]]"]]

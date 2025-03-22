@@ -1,1 +1,0 @@
-window.data=[[14,"illegal-attr",162,4,"2011"],[2,"no-duplicate",166,9,"Young"],[1,"no-ignored",166,21," Awards#Best "]]

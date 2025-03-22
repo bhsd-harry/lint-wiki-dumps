@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",1003,5,"colspan"],[392,"lonely-bracket",23,5,"[["],[196,"no-ignored",23,4," [[Central Asia]]"]]

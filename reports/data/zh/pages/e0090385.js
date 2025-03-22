@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",57,2,"[[Category:中华人民共和国禁片]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",36,45,"align:center"],[1,"no-ignored",373,3,"第一名：宇宙"]]

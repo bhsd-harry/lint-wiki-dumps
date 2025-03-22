@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",9,3," 时代 = 清末民初\n "]]

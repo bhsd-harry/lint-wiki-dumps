@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",285,63,"]]"],[2,"no-ignored",157,151,"ghoststory.2\"  "],[1,"tag-like",157,140,"<ref"]]

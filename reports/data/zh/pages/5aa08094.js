@@ -1,1 +1,0 @@
-window.data=[[6,"lonely-bracket",8,100,"{{"],[2,"no-duplicate",8,86,"name=\"MRS\""],[1,"no-ignored",8,96,"  /或{{Convert|790|km|abbr=on}} \n # {{link-en|波兰-斯洛伐克边界|Poland–Slovakia border}}：{{Convert|541|km|abbr=on}} <ref "],[1,"tag-like",9,76,"<ref"]]

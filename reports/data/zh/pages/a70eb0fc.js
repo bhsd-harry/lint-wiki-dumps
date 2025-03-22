@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",363,2,"[[Category:美国空军参谋长]]"]]

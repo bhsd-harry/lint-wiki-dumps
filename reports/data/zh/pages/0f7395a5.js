@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,15,"|耶穌被釘十字架"]]

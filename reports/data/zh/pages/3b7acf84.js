@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",64,2,"[[Category:漫威漫畫作品|A]]"]]

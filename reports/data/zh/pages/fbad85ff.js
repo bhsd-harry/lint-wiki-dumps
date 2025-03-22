@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",48,1," * 日本语日本文学科<ref group=\"注\"  name=\"日本语日本文学科招生\"/>\n * 英语英美文学科"]]

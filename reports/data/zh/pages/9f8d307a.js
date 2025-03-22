@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",35,2,"[[Category:NBA爭議]]"]]

@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",55,2,"[[Category:台灣腸胃病科醫師]]"]]

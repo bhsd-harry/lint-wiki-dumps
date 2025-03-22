@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",360,18,"Market"],[1,"no-ignored",360,3," 通常版<br/>Comic "],[1,"parsing-order",360,7,"<br/>"]]

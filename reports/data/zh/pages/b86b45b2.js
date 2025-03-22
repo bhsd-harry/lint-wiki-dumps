@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",58,95,"  1964年 "]]

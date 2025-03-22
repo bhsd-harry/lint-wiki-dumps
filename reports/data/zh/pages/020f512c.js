@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",271,2,"[[Category:1857年中國]]"]]

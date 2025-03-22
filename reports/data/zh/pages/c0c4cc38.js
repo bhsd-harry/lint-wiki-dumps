@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",96,2,"[[Category:155毫米火炮]]"]]

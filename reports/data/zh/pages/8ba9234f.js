@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",4,3," birth_date = {{birth date and age|df=yes|1936|2|14}}\n "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",3,3," native_name   = Imo\n "]]

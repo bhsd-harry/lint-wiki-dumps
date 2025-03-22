@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",100,15,"[["],[2,"no-ignored",100,4,"|rowspan=6|[[XiX]]"]]

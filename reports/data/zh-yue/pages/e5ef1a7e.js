@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",9,3," 綽號 = Kitman<br>（圈內人、網民同Fans尊稱）\n "]]

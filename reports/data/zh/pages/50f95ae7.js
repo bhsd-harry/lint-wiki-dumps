@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",317,2,"[[Category:銀行題材作品]]"]]

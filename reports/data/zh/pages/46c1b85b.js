@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",1,1,"[[Category:興慶區建築物]]"]]

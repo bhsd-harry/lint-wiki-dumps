@@ -1,1 +1,0 @@
-window.data=[[3,"invalid-isbn",1017,27,"ISBN 978-988-8113-29-0"],[6,"no-duplicate",1357,23,"style=\"font-size:small\""]]

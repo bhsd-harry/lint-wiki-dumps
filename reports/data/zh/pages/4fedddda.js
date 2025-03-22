@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",2,62,"Middle_Hill_Residential_near_Sai_Ying_Pun_201709"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",68,33,"year = 2009年"]]

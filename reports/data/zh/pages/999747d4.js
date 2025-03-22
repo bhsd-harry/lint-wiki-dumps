@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",11,5,"January"],[2,"no-ignored",115,76,"   <font-size=100%>  "]]

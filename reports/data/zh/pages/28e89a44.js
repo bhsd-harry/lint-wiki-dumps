@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",255,1," '''表1-1 2010和2015年服務業佔GDP之比較'''"],[1,"lonely-http",57,1346,"https://"]]

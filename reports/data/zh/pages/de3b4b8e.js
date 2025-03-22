@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",12,2,"[[Category:寄生虫]]"]]

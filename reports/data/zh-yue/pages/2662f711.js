@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",95,476,"economic"],[8,"lonely-bracket",119,263,"}}"],[2,"lonely-http",243,138,"http://"],[4,"tag-like",56,272,"<  ref"]]

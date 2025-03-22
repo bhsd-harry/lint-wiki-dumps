@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",11,2,"[[Category:2022年亚洲运动会游泳运动员]]"]]

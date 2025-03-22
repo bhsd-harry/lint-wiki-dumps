@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",72,26,"易名為澳門望德中學"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-apos",7,13,"'"],[4,"no-duplicate",16,76,"border"]]

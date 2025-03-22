@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",32,3,"area_urban =\n "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",11,3,"location                = 2 Place du Louvre, 1e\n "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",421,3,"mare=號族：8-h\n "]]

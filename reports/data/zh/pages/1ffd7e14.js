@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",45,1," * 初等教育学科\n ** 第一部<ref group=\"注\"  name=\"初等教育学科第一部改编为\"/>\n ** 函授教育课程<ref name=\"招生到1984年\"/>\n * 幼儿教育学科"]]

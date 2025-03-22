@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",56,65,"链接=https://en.wikipedia.org/wiki/File:Russian Ballet in Paris - New York Times 1913-06-08.png"]]

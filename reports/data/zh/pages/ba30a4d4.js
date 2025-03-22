@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",18,1296,"["],[2,"no-duplicate",33,22,"菲尔索夫陨击坑的西侧，由火星勘测轨道飞行器背景摄像机拍摄。Wikifirsoffwestlayers.jpg"]]

@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",122,2,"[[Category:建筑史]]"]]

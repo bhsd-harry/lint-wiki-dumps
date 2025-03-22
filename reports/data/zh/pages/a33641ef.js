@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",42,2,"[[Category:社会自由主义政党]]"]]

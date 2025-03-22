@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",320,1," File:Interpolitex 2012 (482-26).jpg2012年[[俄羅斯國際軍警安防設備展]]（Interpolitex 2011）上展出的GP-30M榴彈發射器"]]

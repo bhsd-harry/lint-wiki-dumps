@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",16,251,"group=\"參\""]]

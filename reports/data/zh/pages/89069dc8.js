@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",89,92,"align=text-top"]]

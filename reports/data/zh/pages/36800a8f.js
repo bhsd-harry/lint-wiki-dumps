@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",336,281,"}}"],[2,"no-duplicate",426,3,"rowspan=\"2\""],[1,"tag-like",336,153,"</ref"]]

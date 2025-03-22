@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",97,1,"\n == 參考資料 ==\n {{Reflist}}\n\n == 外部連結 ==\n *{{WTA|325601}}\n *{{ITF Profile|id=800380392}}\n\n {{Commonscat|Anastasia Potapova}}\n {{DEFAULTSORT:Potapova, An"],[1,"unclosed-table",69,2,"{|"]]

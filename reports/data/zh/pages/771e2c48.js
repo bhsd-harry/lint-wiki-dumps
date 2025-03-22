@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",539,4,"Beautiful"],[10,"no-duplicate",171,5,"style=\"background:#FF79BC\""]]

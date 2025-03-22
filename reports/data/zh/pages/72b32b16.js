@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",434,39,"{{"],[1,"no-ignored",434,35," 主演={{nowrap"]]

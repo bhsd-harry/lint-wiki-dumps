@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",41,2,"[[Category:2010年代動作片]]"]]

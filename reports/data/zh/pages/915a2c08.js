@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",299,1,"\n === 國內評價 ===\n * 依據財團法人高等教育評鑑中心基金會，淡大通過第一週期（100學年度）及第二週期（107學年度）校務評鑑，惟仍有待改善事項<ref>{{Cite web|title=淡江大學－財團法人高等教育評鑑中心基金會|url=https://www.heeact.edu.tw"],[1,"no-ignored",28,30,"area''"],[1,"unclosed-table",298,2,"{|"]]

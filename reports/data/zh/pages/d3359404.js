@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",139,21,"sortable"],[6,"no-duplicate",302,4,"style=\"background: ;\""]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",558,3," 導演         = \n "]]

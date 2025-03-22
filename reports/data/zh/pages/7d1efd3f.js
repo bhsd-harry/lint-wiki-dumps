@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",333,49,"language=en "],[4,"no-ignored",423,3,"!width=19%"]]

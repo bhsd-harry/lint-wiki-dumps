@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",17,2,"[[Category:北宋吏部尚书]]"]]

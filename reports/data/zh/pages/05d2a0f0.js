@@ -1,1 +1,0 @@
-window.data=[[8,"illegal-attr",387,4,"MASAYUKI"],[2,"no-duplicate",387,42,"THE"],[2,"no-ignored",387,45," ROOTS〜could "]]

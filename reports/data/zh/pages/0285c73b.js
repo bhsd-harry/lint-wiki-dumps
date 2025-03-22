@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",476,4,":"],[1,"lonely-bracket",375,51,"{"],[4,"no-duplicate",1093,3,"style=\"white-space:nowrap\""]]

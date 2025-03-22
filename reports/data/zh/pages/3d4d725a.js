@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",96,2,"[[Category:语言学]]"]]

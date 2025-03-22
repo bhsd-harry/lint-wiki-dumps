@@ -1,1 +1,0 @@
-window.data=[[13,"no-ignored",359,3," <ref name=\"SixMedallists\"/>"],[12,"parsing-order",359,4,"<ref name=\"SixMedallists\"/>"]]

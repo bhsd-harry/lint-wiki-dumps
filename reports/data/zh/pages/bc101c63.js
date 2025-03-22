@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",1458,1,"\n == 節目出演 ==\n === 綜藝、電台、紀錄片 ==="],[3,"no-ignored",66,50,";  \"align=\"center\""],[1,"unclosed-table",1421,2,"{|"]]

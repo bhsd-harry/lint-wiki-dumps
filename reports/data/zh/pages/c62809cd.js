@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",70,2,"[[Category:室內田徑場]]"]]

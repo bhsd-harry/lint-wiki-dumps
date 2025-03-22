@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",258,39,"thumb"],[2,"unmatched-tag",174,111,"</font>"]]

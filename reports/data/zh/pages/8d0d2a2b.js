@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",8,4," embedded = \n  "],[4,"unclosed-table",335,2,"{|"]]

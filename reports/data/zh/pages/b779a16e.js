@@ -1,1 +1,0 @@
-window.data=[[6,"lonely-bracket",167,78,"[["],[1,"no-ignored",167,21,"|  <small>第1代  </small>||<small>正一位大勳位公爵</small>||<small>[[三條實美]]</small>||<small>7年</small>||<small>1884年7月7日－1891年2月18日</small>||<small>明治17年7月7日－明治"],[15,"parsing-order",167,24,"<small>"]]

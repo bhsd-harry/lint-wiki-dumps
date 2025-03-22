@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",216,2,"[[Category:意大利總理]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"nested-link",604,73,"[[互射十二碼|十二碼]]"],[3,"no-ignored",74,3,"!width=20%"]]

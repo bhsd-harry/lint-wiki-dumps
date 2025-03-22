@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",661,2,"[[Category:王者榮耀競技賽事]]"]]

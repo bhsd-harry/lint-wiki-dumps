@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",128,2,"[[Category:台灣—法國關係| ]]"]]

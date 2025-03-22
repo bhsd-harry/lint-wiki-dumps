@@ -1,1 +1,0 @@
-window.data=[[3,"no-ignored",61,53,"width:75%;text-align: center;\""],[2,"unmatched-tag",141,42,"</small>"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",63,74," 2019年10月17日<ref>{{Cite web|url=https://ubuntubudgie.org/2019/09/25/19-10-release-notes/|title=19.10 RELEASE NOTES|last=Nikola|date=2019-09-25|website"],[1,"parsing-order",63,86,"<ref>{{Cite web|url=https://ubuntubudgie.org/2019/09/25/19-10-release-notes/|title=19.10 RELEASE NOTES|last=Nikola|date=2019-09-25|website=Ubuntu Budg"]]

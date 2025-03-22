@@ -1,1 +1,0 @@
-window.data=[[8,"parsing-order",15,24,"<ref name=Frawley/>"]]

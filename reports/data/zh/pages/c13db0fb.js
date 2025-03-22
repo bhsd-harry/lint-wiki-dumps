@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",393,277,"[[National Geographic Society]]"]]

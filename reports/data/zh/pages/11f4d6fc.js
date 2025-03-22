@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",44,106,"[[日本書紀]]"],[1,"unmatched-tag",2,24,"<center>"]]

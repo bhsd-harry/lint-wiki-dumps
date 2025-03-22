@@ -1,1 +1,0 @@
-window.data=[[5,"no-ignored",182,1," [[Image:Bennett Hall 2.JPG|thumb|left|Bennett Hall]]"]]

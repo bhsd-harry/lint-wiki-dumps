@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",51,2,"[[Category:猶太裔美國人]]"]]

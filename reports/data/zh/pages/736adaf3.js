@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",45,1,"\n [[File:Tainan Railway Underground Project comparison.png|thumb|450px|82年版<small>（行政院核定版）</small>與84年版比較示意圖<ref name=\"udn0809\">[http://theme.udn.com/"],[1,"lonely-bracket",405,48,"["],[1,"unclosed-table",23,2,"{|"],[3,"unmatched-tag",26,23,"</small>"]]

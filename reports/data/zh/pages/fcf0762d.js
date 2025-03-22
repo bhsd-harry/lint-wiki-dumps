@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",150,3,"nowrap"],[1,"no-ignored",87,17," ''' 手紙 〜拝啓 十五の君へ〜"]]

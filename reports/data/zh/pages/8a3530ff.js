@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",963,46,"'"],[329,"no-ignored",838,4," ;\"white-space:nowrap\""],[3,"parsing-order",2105,103,"<br>"]]

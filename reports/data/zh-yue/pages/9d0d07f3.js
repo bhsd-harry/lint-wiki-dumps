@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,3," 英文名 = Angie Lin Chu（A Lin）\n "]]

@@ -1,1 +1,0 @@
-window.data=[[7,"invalid-isbn",183,16,"ISBN 978-4-8402-2611-3"],[1,"no-ignored",337,102,"森山雄治"]]

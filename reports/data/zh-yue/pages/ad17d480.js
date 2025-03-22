@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",17,3," native place = [[浙江]][[寧波]]\n "]]

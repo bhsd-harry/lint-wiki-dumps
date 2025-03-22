@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",109,4,"cory"],[2,"no-duplicate",109,4,"cory"]]

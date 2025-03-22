@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",83,2,"[[Category:美国工业事故]]"],[1,"unmatched-tag",63,977,"</blockquote>"]]

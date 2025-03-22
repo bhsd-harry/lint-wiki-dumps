@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",24,49,"x5_specialsite_is_nav"]]

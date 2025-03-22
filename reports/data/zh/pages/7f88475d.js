@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,18,"|波希米亚叛亂"]]

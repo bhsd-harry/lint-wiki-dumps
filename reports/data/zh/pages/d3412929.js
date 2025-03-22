@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",47,22,"{{Bangkok MRT color|MRT Blue}};\""]]

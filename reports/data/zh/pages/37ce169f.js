@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",10,3," combatant2        = {{flag|Qing Dynasty|name=Qing China}}<br>{{flagicon image|Yihetuan flag.png}} [[Boxer movement]]\n "]]

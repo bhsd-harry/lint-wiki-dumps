@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",32,8,"2.367km"],[1,"no-ignored",32,3," 平均: "]]

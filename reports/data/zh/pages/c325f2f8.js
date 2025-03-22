@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",72,1,"\n ==歷屆三甲=="],[1,"unclosed-table",33,2,"{|"]]

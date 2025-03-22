@@ -1,1 +1,0 @@
-window.data=[[6,"illegal-attr",297,61,"LIVE"],[5,"no-ignored",297,55,"  龍俊亨 "],[1,"parsing-order",319,66,"<ref>{{cite news|title=BEAST龍俊亨客串《蠑螈道士》飾演花美男盜賊|url=http://www.koreastardaily.com/tc/photo/15012|accessdate=2017-02-13|agency=韓星網|date=2012-02-09|archi"]]

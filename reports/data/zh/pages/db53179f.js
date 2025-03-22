@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",450,2,"[[Category:世道榜冠军单曲]]"]]

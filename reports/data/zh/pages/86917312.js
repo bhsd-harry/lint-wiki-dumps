@@ -1,1 +1,0 @@
-window.data=[[7,"no-ignored",38,1," type=search"]]

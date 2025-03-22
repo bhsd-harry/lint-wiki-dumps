@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",43,97,"Brief schematic diagram of the formation and destruction process of red blood cells"]]

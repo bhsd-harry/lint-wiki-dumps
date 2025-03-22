@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",11,3,"decay_product = {{SimpleNuclide2|nickel|60}}\n "]]

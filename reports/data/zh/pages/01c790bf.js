@@ -1,1 +1,0 @@
-window.data=[[1,"tag-like",54,87,"<gallery"]]

@@ -1,1 +1,0 @@
-window.data=[[10,"illegal-attr",407,21,"DNA"],[8,"no-ignored",203,15,"台灣男性百年髮型 "]]

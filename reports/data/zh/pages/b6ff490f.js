@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",66,2,"[[Category:2022年併購]]"]]

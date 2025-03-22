@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",23,3," 類型 = 男演員\n "]]

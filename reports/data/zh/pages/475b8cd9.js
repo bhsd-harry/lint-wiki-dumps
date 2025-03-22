@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",82,351,"["],[1,"nested-link",82,321,"[[马来西亚国会|Parlimen Malaysia]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",14,112,"author = Молчанова О. Т. "]]

@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",192,113,"'"],[1,"lonely-bracket",172,32,"[["],[3,"no-duplicate",91,112,"Villa La Roche-Jeanneret（而家係[[Fondation Le Corbusier]]）喺巴黎（1923年）File:Weissenhofsiedlung.jpg"]]

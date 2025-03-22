@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",347,4,"http:"],[30,"invalid-isbn",119,299,"ISBN 978-4-06-178721-7"],[1,"no-ignored",347,28,"/product?item=0000032557"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",947,3," 夏秋：0.88%<br>冬春：1.05%<br>全：0.96%"],[2,"parsing-order",947,12,"<br>"]]

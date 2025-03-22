@@ -1,1 +1,0 @@
-window.data=[[8,"fostered-content",111,1,"\n ===2013年===\n *黃浩琳 - 'Cause My Music Comes Along（曲）\n *黃浩琳 - 牆外之音（曲、詞）"],[8,"unclosed-table",110,2,"{|"]]

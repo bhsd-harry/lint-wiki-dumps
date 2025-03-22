@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",464,1," '''總計'''"]]

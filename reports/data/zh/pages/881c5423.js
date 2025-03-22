@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",14,63,"2012年9月19日，[[好奇号|“好奇号”]]看到的“格莱内尔格区”—三种地形相融合。Image:PIA16237-MarsCuriosityRover-BurwashRock-20121029.jpg"]]

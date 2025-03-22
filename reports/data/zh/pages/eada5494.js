@@ -1,1 +1,0 @@
-window.data=[[3,"lonely-bracket",34,94,"}}"],[3,"no-duplicate",34,41,"{{le|尼可拉·萊加特|Nikolai Legat}}和{le"],[1,"no-ignored",169,3,"{{le"]]

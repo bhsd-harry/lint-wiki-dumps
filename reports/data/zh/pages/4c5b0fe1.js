@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-http",392,26,"ISBN"],[2,"no-duplicate",130,26,"style=\"align: left; margin: 0px\""]]

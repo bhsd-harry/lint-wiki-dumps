@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",12,3,"combatant2={{flag|Nazi Germany|name=納粹德國}}\n "]]

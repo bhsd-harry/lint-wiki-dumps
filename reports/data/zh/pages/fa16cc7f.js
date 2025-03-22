@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",2,4,"Image:Fractional distillation lab apparatus.svg#file"]]

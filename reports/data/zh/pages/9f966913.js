@@ -1,1 +1,0 @@
-window.data=[[16,"illegal-attr",99,10,"Life"],[3,"no-ignored",99,3," ''The "]]

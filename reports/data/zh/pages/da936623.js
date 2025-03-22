@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",109,23,"戲劇系"]]

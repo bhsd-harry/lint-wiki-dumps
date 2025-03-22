@@ -1,1 +1,0 @@
-window.data=[[7,"invalid-gallery",84,48,"thumb"]]

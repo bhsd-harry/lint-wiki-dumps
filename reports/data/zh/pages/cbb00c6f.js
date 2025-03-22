@@ -1,1 +1,0 @@
-window.data=[[120,"illegal-attr",574,3,"font"],[2,"no-duplicate",19,35,"style=\"margin: 0 0 1em 1em\""]]

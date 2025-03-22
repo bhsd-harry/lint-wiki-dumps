@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",2,180,"author=謝德恩（[[林家駿]]為原作者） "],[1,"unmatched-tag",142,47,"</sup>"]]

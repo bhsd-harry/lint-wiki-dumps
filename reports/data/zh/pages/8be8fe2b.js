@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",83,38,"}}"],[2,"no-ignored",83,3," 奈璃子（{{lang-ja|なりこ}}，lang-en"]]

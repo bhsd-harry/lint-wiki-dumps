@@ -1,1 +1,0 @@
-window.data=[[245,"no-ignored",38,14,"<span style=\"background:gold;\">align=middle"],[247,"parsing-order",38,14,"<span style=\"background:gold;\">"],[2,"unmatched-tag",899,80,"<small>"]]

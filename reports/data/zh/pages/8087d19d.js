@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",192,166,"]"],[2,"no-duplicate",192,153,"=[[英]]"]]

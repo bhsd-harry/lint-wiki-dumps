@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",240,2,"[[Category:西汉官员列表]]"]]

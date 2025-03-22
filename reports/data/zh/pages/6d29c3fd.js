@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",295,12,"www.imdb.com"],[1,"lonely-bracket",1045,2,"}}"],[1,"lonely-http",295,4,"https://"],[1,"no-ignored",295,3,"[https://"]]

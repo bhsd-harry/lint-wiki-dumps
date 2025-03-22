@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",373,676," name\"telegraph-live\""]]

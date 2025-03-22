@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",789,3,"2015"],[10,"lonely-bracket",1432,3,"[["],[4,"no-ignored",789,10,"/01結束營運"]]

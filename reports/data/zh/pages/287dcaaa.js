@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",79,2,"[[Category:苏共中央高级党校毕业生]]"]]

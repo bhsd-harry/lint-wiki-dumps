@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",30,1," [[File:Nazaret Gabrielskirche BW 9.JPG|"]]

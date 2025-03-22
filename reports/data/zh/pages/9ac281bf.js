@@ -1,1 +1,0 @@
-window.data=[[3,"lonely-bracket",415,2,"{{"],[2,"no-duplicate",285,3," nominee1 = [[吉姆·海姆斯]]\n "]]

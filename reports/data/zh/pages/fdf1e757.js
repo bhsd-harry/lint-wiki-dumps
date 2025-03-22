@@ -1,1 +1,0 @@
-window.data=[[5,"parsing-order",12,27,"<ref name=\"military20oct20\">[https://www.military.com/daily-news/2020/10/20/after-more-3-decades-corps-ah-1w-super-cobra-makes-its-final-flight.html A"]]

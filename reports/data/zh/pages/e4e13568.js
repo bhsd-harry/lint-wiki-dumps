@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",74,8,"{{"],[1,"no-ignored",74,3,"特殊能力 {{noteFoot"]]

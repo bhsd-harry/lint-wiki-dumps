@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",110,4," gold_POL = 0 "]]

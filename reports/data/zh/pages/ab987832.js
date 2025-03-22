@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",10,1," [[File:Pioneer able.png|220px]]"],[2,"no-duplicate",6,20,"style=\"background:#efefef;\""]]

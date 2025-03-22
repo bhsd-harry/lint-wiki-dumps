@@ -1,1 +1,0 @@
-window.data=[[28,"illegal-attr",322,4,"MBC"],[2,"lonely-bracket",373,32,"["]]

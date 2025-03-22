@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",25,1496,"author=劉子銘"]]

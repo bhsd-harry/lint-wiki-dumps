@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",351,14,"BLEACH"],[3,"no-ignored",347,19,"阿松（第4季）"]]

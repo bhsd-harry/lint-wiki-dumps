@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",432,1,"\n == 奧運獎牌一覽 =="],[1,"unclosed-table",5,2,"{|"]]

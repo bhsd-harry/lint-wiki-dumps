@@ -1,1 +1,0 @@
-window.data=[[1,"nested-link",165,90,"[[Norwegian Defence Force]]"]]

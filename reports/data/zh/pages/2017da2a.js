@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",31,1," <gallery>\n File:FujisanWarship.jpg|蒸汽巡防艦 富士山\n File:Kankō Maru in yokohama japan side.jpg|長崎的「觀光丸」復原船\n File:ChoyoWarship.jpg|朝陽丸\n File:BakufuTroopsToE"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",175,16,"  -style=\"border-top:solid 5px {{东京地下铁颜色|Y|s}};\"  "]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",5,62," Barnola”"]]

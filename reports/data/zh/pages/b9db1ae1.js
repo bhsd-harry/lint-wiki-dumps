@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",42,1," * 商[[科系|科]][[夜校|第二部]]"]]

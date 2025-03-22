@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",264,3,"Exodus"],[1,"no-ignored",264,9," (1960 film)"]]

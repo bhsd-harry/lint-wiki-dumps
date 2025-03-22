@@ -1,1 +1,0 @@
-window.data=[[94,"illegal-attr",51,21,"One"],[4,"no-duplicate",100,12,"To"],[34,"no-ignored",51,38," Cuckoo's "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",4,3,"native_name=Joko Pinurbo\n "]]

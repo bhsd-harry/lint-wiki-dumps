@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",5,1," {{{image|}}} "]]

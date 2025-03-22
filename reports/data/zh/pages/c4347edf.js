@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",71,1," * [[奧力 (足球教練)|奧力]]\n * [[梁帥榮]]\n * [[黃耀信]]"],[1,"no-ignored",42,3,"!width=40%"]]

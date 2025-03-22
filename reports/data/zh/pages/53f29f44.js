@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",1182,2,"[[Category:碧血狂殺系列|Redemption 2]]"]]

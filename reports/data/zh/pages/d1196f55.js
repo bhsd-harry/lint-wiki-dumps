@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",38,848,"}}"],[1,"nested-link",71,49,"[[聯邦調查局]]"]]

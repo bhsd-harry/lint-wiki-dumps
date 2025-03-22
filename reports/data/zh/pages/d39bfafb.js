@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",132,2,"[[Category:乌克兰空军]]"]]

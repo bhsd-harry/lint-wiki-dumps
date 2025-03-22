@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",100,50,"次日"]]

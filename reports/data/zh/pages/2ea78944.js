@@ -1,1 +1,0 @@
-window.data=[[6,"lonely-bracket",520,4,"[["],[1,"no-ignored",520,4,"[[爱尔兰足球联赛]], [[愛爾蘭足協盃]], [[愛爾蘭聯賽盾]]{{ref label|Note2|b|b2}}"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",7,4,"colspan"],[1,"no-ignored",7,35," #EEE;\""]]

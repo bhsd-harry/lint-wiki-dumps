@@ -1,1 +1,0 @@
-window.data=[[2,"tag-like",17,20,"<a"]]

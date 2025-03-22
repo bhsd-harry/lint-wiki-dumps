@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",559,3,"fmf={{flag icon|USA}} Balck Ball\n "]]

@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",214,569,"{{"],[1,"no-ignored",214,3,"{{Arret|ANTONY - Gare d'Antony|[[安东尼 (上塞纳省)|安东尼]] - [[安东尼站|火车站]]}}↔{{Arret|Église Mairie|市府教堂}}↓↔{{Arret|Square Collegno|科勒尼奥广场}}↓↔{{Arret|Parc Heller"],[2,"parsing-order",214,310,"<span style=\"color:#A9A9A9\">"],[1,"unmatched-tag",214,643,"</span>"]]

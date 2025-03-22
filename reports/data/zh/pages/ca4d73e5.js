@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",29,237,"work=[[人民网]]"]]

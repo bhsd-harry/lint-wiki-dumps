@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",105,4,"阿布扎比站轮胎配方<ref>{{cite news |author1=[[倍耐力]] |title=All compounds on track to end the season |url=https://press.pirelli.com/all-compounds-on-track-to-en"],[1,"parsing-order",105,13,"<ref>{{cite news |author1=[[倍耐力]] |title=All compounds on track to end the season |url=https://press.pirelli.com/all-compounds-on-track-to-end-the-sea"]]

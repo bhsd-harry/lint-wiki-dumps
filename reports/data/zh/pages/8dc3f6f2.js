@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",32,2,"[[Category:艾塞克斯大學相關人物]]"]]

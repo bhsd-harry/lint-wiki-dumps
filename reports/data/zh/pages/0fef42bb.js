@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",192,2,"[[Category:比特币交易平台]]"]]

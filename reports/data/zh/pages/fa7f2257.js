@@ -1,1 +1,0 @@
-window.data=[[6,"illegal-attr",38,16,"cellpadding"]]

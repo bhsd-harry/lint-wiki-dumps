@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",706,2,"[[Category:Now寬頻電視外購劇集]]"]]

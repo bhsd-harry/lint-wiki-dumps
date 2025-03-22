@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",97,503," O'Rourke2008"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",369,2,"[[Category:格利泽和GJ天体|0411]]"]]

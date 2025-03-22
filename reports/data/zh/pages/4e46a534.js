@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",17,14,"\n http://www.time.com/time/magazine/article/0,9171,794164,00.html#ixzz0b9r5kBIw "]]

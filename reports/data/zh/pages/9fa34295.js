@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",80,722,"  \"Willis 2020-02-10\""]]

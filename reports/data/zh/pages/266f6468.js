@@ -1,1 +1,0 @@
-window.data=[[36,"illegal-attr",47,4,"bordercolor"],[10,"lonely-apos",146,22,"'"]]

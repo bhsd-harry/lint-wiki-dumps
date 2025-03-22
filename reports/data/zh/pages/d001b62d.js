@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",284,17,"Alkaios"],[2,"no-ignored",284,3,"《Opa (Giorgos "]]

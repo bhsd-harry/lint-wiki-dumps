@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",251,85," [伊朗省份"]]

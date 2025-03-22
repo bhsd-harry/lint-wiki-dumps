@@ -1,1 +1,0 @@
-window.data=[[3,"no-duplicate",18,2,"[[Category:石鱸科|鳃斑石鲈]]"]]

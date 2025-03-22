@@ -1,1 +1,0 @@
-window.data=[[3,"lonely-bracket",50,51,"]]"],[3,"no-ignored",50,35," – 男子1500米|1500米]]"]]

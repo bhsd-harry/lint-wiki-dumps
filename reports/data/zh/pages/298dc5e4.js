@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",19,1," [[File:Tohoku Region Administration Map TC.png|thumb|210px|東北地方行政區域圖]]\n '''东北地方'''（{{jpn|j=東北地方|hg=とうほくちほう|rm=Tōhoku Chihō|f=y}}）是[[日本]][[本州|本州岛]]上的一"],[1,"unclosed-table",1,1,"{|"]]

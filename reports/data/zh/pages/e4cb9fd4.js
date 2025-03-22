@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",176,1,"\n == 參考 ==\n {{reflist}}\n\n [[Category:匈牙利政治史]]\n [[Category:1931年建立政府機構]]\n [[Category:匈牙利政府]]"],[1,"illegal-attr",35,41,"colspan"],[1,"unclosed-table",34,2,"{|"]]

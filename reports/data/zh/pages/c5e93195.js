@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",178,1,"\n\n\n\n\n\n\n\n\n == 獎項及提名 =="],[1,"unclosed-table",132,2,"{|"],[1,"unmatched-tag",168,44,"</small>"]]

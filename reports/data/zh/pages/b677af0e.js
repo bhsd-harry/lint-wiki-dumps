@@ -1,1 +1,0 @@
-window.data=[[8,"illegal-attr",741,13,"PT."],[4,"no-duplicate",741,24,"fica"],[4,"no-ignored",741,16," ''Onde "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",64,1," * 总合生活设计学科\n * 幼儿教育科\n * 美术科　"],[1,"lonely-apos",22,318,"'"]]

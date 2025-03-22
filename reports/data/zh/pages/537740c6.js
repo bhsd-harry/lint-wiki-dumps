@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",5,71,"安地卡及巴布達簽證政策"]]

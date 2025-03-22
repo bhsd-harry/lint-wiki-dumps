@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",48,48,"["],[1,"no-ignored",525,3," 《28 Reasons》 "]]

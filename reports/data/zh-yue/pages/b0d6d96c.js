@@ -1,1 +1,0 @@
-window.data=[[10,"no-duplicate",124,33,"author=[[宇垣纏]]著"]]

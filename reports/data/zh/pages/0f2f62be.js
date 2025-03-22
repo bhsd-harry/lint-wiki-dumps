@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",36,180,"XVII Open de Plastimodelismo de Catanduva realizado no Espaço de Exposições da Estação Cultura em Catanduva. Carros de combate de diversas épocas. - p"]]

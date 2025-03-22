@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",18,295,"dead-url=no"]]

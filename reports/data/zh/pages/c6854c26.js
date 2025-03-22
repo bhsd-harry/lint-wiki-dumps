@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",71,1," File::Fokker_70_(F-28-0070),_Austrian_Arrows_(Tyrolean_Airways)_AN0812978.jpg||[[福克 70]]"]]

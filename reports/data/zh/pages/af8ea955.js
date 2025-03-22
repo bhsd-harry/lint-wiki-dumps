@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",72,2,"[[Category:默兹省历史]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",155,1," Emblem of the Democratic Republic of Madagascar.svg[[马达加斯加国徽|马达加斯加民主共和国国徽]]"]]

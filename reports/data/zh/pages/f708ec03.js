@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",360,74,"金屬索尼克"]]

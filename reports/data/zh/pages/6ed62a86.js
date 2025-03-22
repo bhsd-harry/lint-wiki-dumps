@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",53,87,"]"],[4,"no-duplicate",118,2,"[[Category:加拿大男子越野滑雪运动员]]"]]

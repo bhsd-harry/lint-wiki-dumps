@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",226,15,"  最佳編劇 "]]

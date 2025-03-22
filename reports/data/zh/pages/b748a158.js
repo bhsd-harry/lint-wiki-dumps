@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",20,3," pushpin_map_caption     = 在奥地利的位置\n "]]

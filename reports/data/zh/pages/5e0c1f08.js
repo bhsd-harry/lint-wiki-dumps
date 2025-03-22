@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",86,2,"[[Category:日本足球聯賽| ]]"],[1,"unclosed-table",283,2,"{|"]]

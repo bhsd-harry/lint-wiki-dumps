@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",15,2,"[[Category:奧林匹克運動會射擊獎牌得主]]"]]

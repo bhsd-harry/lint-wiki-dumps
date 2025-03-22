@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",245,4,"style=\"border-bottom:4px solid #000099;  \""],[1,"no-ignored",219,1495,"ltn--2014-vote\""]]

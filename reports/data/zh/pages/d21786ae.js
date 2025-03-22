@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",690,26,"}"],[2,"no-duplicate",9,3,"4=zh-hans:晴朗火焰;zh-tw:晴朗火焰;zh-hk:Sunny Fire\n "],[1,"no-ignored",690,4,":邁向光輝燦爛的未來 傳遞最燦爛的Smile}-||米村正二||大塚隆史||山岡直子||齊藤優||無||1月27日||12月4日"]]

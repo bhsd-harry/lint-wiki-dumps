@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,22,"|神聖羅馬帝國的邦國"]]

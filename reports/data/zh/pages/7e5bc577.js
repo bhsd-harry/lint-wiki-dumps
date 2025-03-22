@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",100,15,"Trafik"],[1,"no-ignored",100,23," Mälardalen"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",140,24,"style=\"font-family:{{RawSansSerif}}\""]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",73,4,"有病"]]

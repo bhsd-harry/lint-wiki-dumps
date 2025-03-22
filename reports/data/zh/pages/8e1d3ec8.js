@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",16,1," <gallery>"],[1,"tag-like",21,2,"</gallery"]]

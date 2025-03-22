@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",139,143,"平日只有2班"]]

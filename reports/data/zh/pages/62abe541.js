@@ -1,1 +1,0 @@
-window.data=[[3,"no-duplicate",317,24," ''z'' = "]]

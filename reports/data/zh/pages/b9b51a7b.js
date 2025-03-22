@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",43,68,"'"],[2,"no-ignored",2374,15,"  color:black\""]]

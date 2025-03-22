@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",48,32," name\"firstblog\""],[1,"unescaped",275,80,"="]]

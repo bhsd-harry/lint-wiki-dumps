@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",111,174,"name=\"InsideGaming2013\""],[1,"no-ignored",111,197,"/、Spike VGX<ref "],[1,"tag-like",111,208,"<ref"]]

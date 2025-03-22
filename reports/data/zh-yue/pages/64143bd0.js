@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",4,31,"colspan"],[1,"lonely-bracket",106,55,"{{"],[3,"lonely-http",81,181,"http://"]]

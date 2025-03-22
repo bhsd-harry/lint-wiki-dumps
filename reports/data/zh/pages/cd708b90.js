@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",74,4,"Juan"],[1,"no-ignored",74,8," López "]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",355,4,"亞庇－J, EJ, J_S, SA, SAA, SAB,SAC,SY(2018年开始)"]]

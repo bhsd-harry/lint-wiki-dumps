@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",1121,1,"\n === -{zh-hans:戲劇類; zh-tw:戲劇類}- ===\n <div style=\"width: 80%; height:18em; overflow:auto; border: 2px solid lightgray; font-size:10pt\">"],[1,"lonely-bracket",869,28,"}"],[6,"no-duplicate",1062,33,"width=99%"],[2,"no-ignored",1120,4,"|-{{col-end}}"],[3,"unclosed-table",1062,2,"{|"]]

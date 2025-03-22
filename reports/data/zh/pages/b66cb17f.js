@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",1172,25,"text-align"],[2,"no-duplicate",515,225,"accessdate=2020-08-25 "]]

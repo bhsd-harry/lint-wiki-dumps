@@ -1,1 +1,0 @@
-window.data=[[2,"no-ignored",12,4,"File:Manihot_esculenta_dsc07325.jpg#file"]]

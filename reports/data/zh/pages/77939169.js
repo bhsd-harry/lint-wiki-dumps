@@ -1,1 +1,0 @@
-window.data=[[5,"illegal-attr",242,16,"beta-1"],[5,"no-ignored",242,4," '''alpha-6 "]]

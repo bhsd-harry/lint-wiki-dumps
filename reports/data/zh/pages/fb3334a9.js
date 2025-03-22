@@ -1,1 +1,0 @@
-window.data=[[3,"no-duplicate",6,2,"[[Category:Pages using infobox person with unknown empty parameters|home_townSerena Valentino]]"]]

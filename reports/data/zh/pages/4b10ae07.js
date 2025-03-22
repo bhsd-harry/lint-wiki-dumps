@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",3982,4,"{"],[1,"no-ignored",3982,4,"{[[動物仔傾吓偈]]}-"]]

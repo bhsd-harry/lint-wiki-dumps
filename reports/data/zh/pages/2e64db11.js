@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",10,4,"style=\"  {{border-radius|1em}} {{box-shadow|0.1em|0.1em|0.5em|rgba(0,0,0,0.75)}}; background-color: white; border: 1px solid white; padding: 5px;\""]]

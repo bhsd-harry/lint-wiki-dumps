@@ -1,1 +1,0 @@
-window.data=[[308,"illegal-attr",20,4,"caption"],[1,"lonely-bracket",629,97,"}}"],[2,"no-duplicate",97,24,"style=\"margin:auto:\""]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",91,66,"United Airlines aircraft at DIA in the morning"]]

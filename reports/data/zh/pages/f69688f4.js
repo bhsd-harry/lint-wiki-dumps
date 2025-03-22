@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",115,14,"[["],[3,"no-ignored",115,4,"||Gordon||[[法醫]]"],[1,"parsing-order",553,23,"<br/>"]]

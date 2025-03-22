@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",30,18,"nowrap"],[1,"invalid-isbn",131,21,"ISBN 978-957-140-6"]]

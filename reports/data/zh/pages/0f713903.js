@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",71,1," <br>"],[1,"illegal-attr",58,4,"table"]]

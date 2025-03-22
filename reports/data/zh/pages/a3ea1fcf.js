@@ -1,1 +1,0 @@
-window.data=[[60,"illegal-attr",29,53,"Apple"],[1,"no-ignored",29,58," II，Commodore "]]

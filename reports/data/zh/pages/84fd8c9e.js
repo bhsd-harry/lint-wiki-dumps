@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",27,5,"[["],[1,"parsing-order",120,17,"<ref>{{Cite web|url=https://www.philippineolympians.org/oly/1928-Olympics-Amsterdam-swimming-tamse-tuburan|title=Tamse, Tuburan|access-date=2024-09-13"]]

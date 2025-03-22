@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",226,2,"[[Category:交通部中央氣象署|警]]"]]

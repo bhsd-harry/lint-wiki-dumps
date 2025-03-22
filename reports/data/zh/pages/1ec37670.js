@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",7,107,"'"],[3,"lonely-bracket",6,28,"}}"],[1,"no-ignored",256,4," 類=可維基"],[3,"tag-like",21,304,"<ref"]]

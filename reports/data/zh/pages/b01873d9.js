@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",10,5,"!scope=col"]]

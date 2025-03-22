@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",94,2,"[[Category:虛構謀殺犯]]"]]

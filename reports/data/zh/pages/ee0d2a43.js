@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",12,2,"[[Category:14世紀旅行家]]"]]

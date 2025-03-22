@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",42,2,"[[Category:紐約州沿海聚居地|H]]"]]

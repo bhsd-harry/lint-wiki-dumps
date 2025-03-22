@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",14,3," Occupation          = [[小提琴家]]\n "]]

@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-apos",97,35,"'"],[2,"lonely-bracket",1693,27,"]"],[2,"no-duplicate",412,3," percentage2 = 31.5%\n "]]

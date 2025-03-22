@@ -1,1 +1,0 @@
-window.data=[[3,"no-ignored",84,3," 施特菲·格拉芙"]]

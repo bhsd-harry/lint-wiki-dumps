@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",9,3," map_caption  = 国际清算银行成员国\n "]]

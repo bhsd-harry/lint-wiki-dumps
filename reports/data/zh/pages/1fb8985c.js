@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",44,27,"色界異熟心"]]

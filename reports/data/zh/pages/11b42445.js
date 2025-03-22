@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",29,2,"[[Category:聯合國安全理事會巴勒斯坦相關決議]]"]]

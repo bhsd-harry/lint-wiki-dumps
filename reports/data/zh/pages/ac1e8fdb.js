@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",237,2,"[[Category:高麗功臣]]"],[1,"unmatched-tag",204,2,"</div>"]]

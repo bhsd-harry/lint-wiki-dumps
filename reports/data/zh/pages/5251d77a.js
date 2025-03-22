@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",23,27,"classes"],[2,"no-duplicate",44,25,"{{flagicon|EU}}"]]

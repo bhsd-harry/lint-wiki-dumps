@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",158,32,"cellpading"],[1,"invalid-gallery",265,24,"thumb"],[2,"no-duplicate",158,4,"class=\"wikitable\""]]

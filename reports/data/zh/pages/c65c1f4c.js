@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",27,590,"publisher = Рус. геогр. о-во. Моск. центр "]]

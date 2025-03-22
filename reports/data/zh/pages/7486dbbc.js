@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",286,2,"'"],[3,"lonely-bracket",204,3,"{{"],[4,"no-ignored",98,88,"2016年3月"]]

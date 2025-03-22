@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",252,68,"  |+孙杨的主要成绩"]]

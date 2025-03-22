@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",21,2,"[[Category:臺東縣歷史建築]]"]]

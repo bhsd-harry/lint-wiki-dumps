@@ -1,1 +1,0 @@
-window.data=[[6,"lonely-bracket",159,39,"{{"],[2,"no-duplicate",214,3,"電視台= "]]

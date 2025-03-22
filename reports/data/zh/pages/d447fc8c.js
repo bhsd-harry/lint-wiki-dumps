@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",1016,68,"'"],[1,"lonely-bracket",1422,2,"{{"],[1,"no-ignored",972,3,"!style=\"background:#efefef;\""]]

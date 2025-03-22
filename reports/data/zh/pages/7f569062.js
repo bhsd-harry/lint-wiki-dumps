@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",467,1,"\n == 參考資料 ==\n {{Reflist}}\n\n == 外部連結 ==\n * {{twitter|_jinyoung911118}}\n * {{instagram|jinyoung0423}}\n\n {{B1A4}}\n {{KBS演技大獎男子新人獎}}\n {{Authority control}"],[1,"unclosed-table",452,2,"{|"]]

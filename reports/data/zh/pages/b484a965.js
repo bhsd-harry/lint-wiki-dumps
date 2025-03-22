@@ -1,1 +1,0 @@
-window.data=[[24,"no-ignored",103,3,"年度"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",30,36,"Bitter_melon_vegetable"]]

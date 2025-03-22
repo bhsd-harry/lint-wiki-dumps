@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",711,1," # [[File:Cruz Roja.svg|12px]]者為傷患球員"],[2,"lonely-bracket",1049,21,"[["],[2,"no-ignored",552,135,"  &nbsp;"]]

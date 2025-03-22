@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",60,1," <br>"]]

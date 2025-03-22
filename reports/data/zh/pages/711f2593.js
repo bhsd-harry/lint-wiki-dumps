@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",145,13,"align=center"],[1,"no-ignored",215,19," |name=\"cost2\""]]

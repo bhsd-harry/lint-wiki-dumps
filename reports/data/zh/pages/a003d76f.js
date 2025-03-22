@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",837,5,"style=\"border:1px solid #8888aa; background:#f7f8ff; padding:5px; font-size:95%; margin:0 12px 12px 0;\""]]

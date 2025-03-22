@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",24,2,"[[Category:聖類斯中學校友]]"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",131,48,"[["],[2,"no-duplicate",31,24,"border=\"2\""]]

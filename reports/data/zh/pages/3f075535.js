@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",12,64,"“石巢3”[[岩石]]-2012年10月5日，[[好奇号|“好奇号”火星车]][[化学和摄像综合设施|化学相机]]和[[阿尔法粒子X射线光谱仪]]的目标。 Image:PIA16451-MarsCuriosityRover-Rocknest3Rock-RMI-20121003.jpg"]]

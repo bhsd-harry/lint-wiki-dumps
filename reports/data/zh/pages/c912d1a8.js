@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",53,1," * 总合[[商业|商务]]学科\n * 儿童学科<ref group=\"注\"  name=\"儿童学科\"/>\n * 健康福利学科"]]

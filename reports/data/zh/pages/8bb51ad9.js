@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-http",159,249,"ISBN"],[2,"no-ignored",170,30,"clear:both; width:100%; padding:0; text-align:left; border:none;\""]]

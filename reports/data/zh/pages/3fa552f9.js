@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",43,2,"[[Category:世界击剑锦标赛奖牌得主]]"]]

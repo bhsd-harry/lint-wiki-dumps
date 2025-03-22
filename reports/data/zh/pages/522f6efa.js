@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",18,2,"[[分类:昆山人]]"]]

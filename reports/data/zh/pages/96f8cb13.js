@@ -1,1 +1,0 @@
-window.data=[[24,"illegal-attr",91,13,"white-space:"]]

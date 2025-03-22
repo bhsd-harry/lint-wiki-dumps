@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",102,24,"$XX,XXX<br />"],[1,"parsing-order",102,31,"<br />"]]

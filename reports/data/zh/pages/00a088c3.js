@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",674,3,"君の名は。 (アルバム)"],[13,"unmatched-tag",1986,6,"</FONT>"]]

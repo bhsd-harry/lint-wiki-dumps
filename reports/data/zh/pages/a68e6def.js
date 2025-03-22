@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",420,2,"[[Category:炼金术物质]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",179,21,"金翠夜總會舞女<br>與洪耀生合作騙取酒客買珍珠賺取差價"],[1,"parsing-order",179,28,"<br>"]]

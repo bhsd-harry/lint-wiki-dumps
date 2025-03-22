@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-gallery",271,23,"thumb"],[2,"no-duplicate",271,29,"FUSO RP"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",143,36,"{"],[2,"no-duplicate",211,2,"[[Category:交換卡片遊戲題材動畫]]"]]

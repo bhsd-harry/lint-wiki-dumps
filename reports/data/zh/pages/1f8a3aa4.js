@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",44,2063,"title = http://www.rauk.ru/index.php?option=com_content&view=article&id=571%3A2011-04-02-15-18-59&catid=21%3A2011-04-02-15-18-59&Itemid=125&lang=ru "]]

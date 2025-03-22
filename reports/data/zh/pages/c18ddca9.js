@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",29,3," services = {{Adjacent stations |system=SZM |line=12 |left=步涌|right=沙蚝}}\n "]]

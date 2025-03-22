@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",942,2,"[[Category:墨西哥條約]]"]]

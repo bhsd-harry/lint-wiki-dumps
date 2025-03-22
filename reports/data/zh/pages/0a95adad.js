@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",680,3,"神奈川・横浜アリーナ"]]

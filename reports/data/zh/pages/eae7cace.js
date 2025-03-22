@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",66,2,"[[Category:印尼群島]]"]]

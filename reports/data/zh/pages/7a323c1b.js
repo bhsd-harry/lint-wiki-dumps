@@ -1,1 +1,0 @@
-window.data=[[2,"invalid-isbn",688,3,"ISBN 957-970-306-2"],[2,"no-duplicate",52,369,"date=2007-03-02"]]

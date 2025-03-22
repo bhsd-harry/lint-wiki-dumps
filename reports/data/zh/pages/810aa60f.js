@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",186,106,"公尺"]]

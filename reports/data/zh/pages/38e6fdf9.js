@@ -1,1 +1,0 @@
-window.data=[[4,"illegal-attr",426,20,"span"],[6,"no-duplicate",366,5,"align=center"],[25,"no-ignored",297,3,"年度"],[9,"parsing-order",297,72,"<br>"],[2,"unmatched-tag",159,87,"</small>"]]

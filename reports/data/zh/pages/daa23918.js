@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",4,24,"sortable"],[1,"lonely-bracket",44,146,"}"],[1,"no-ignored",4,32," mw-collapsible\"  "]]

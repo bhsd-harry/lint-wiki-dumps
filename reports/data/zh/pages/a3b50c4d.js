@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",2014,23,"cell"],[1,"lonely-bracket",1445,256,"}}"],[2,"no-duplicate",2200,2,"[[Category:梁姓|梁姓]]"]]

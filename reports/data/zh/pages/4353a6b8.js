@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",72,3," party            = \n "]]

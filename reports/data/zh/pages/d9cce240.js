@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",138,1," File::Sheung Yue River 201408.jpg|雙魚河"]]

@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",139,2,"[[Category:伊奇克里亚车臣共和国总理]]"]]

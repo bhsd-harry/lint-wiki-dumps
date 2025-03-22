@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-http",51,65,"ISBN"],[2,"no-duplicate",56,2,"[[Category:误差理论| ]]"]]

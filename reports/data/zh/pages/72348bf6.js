@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",16,3," 配偶 =  謝京穎\n "]]

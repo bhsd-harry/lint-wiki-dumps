@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",37,49,"Plain_Clothes_police_use_leg_kick_the_flowers_2021-07-02.png"]]

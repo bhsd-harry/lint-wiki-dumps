@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",239,121,"state=C"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",81,1," ;太湖街黄海路北（站位位于太湖街，A出入口向东，新隆嘉生活广场东侧）\n {{沈阳公交线路列表|width=100%|format=|end=yes|181}}"]]

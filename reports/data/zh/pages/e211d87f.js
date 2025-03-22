@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",830,2,"[[Category:日本原創電視動畫]]"]]

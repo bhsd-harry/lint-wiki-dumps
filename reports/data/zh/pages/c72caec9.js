@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",2,3,"1=義大利地名\n "]]

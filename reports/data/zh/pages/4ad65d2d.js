@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",30,3," cn_name = {{lang|Zh-cn|小鬼当家3}}\n "]]

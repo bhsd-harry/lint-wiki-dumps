@@ -1,1 +1,0 @@
-window.data=[[12,"parsing-order",12,15,"<ref>{{cite web |website=msn.com |url=https://www.msn.com/en-us/travel/news/as-jets-take-charge-of-fire-bombing-missions-the-62-year-old-piston-powere"]]

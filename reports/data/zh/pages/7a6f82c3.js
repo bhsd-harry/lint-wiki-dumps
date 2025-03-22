@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",385,1," *[[張馳豪]]、[[潘靜文]]、[[冼靖峰]]、[[詹天文]]、姚焯菲、[[何晉樂]]、[[黃奕斌]] - 拼圖（詞；與張馳豪、潘靜文、冼靖峰、詹天文、何晉樂、黃奕斌合填）"],[4,"no-ignored",186,14,"  <small>;text-align:center"],[4,"parsing-order",186,16,"<small>"],[1,"unmatched-tag",449,2,"</small>"]]

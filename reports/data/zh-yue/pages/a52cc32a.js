@@ -1,1 +1,0 @@
-window.data=[[1,"invalid-isbn",414,251,"ISBN 979-602-96382-29"],[2,"no-ignored",357,4,"|colspan=\"5\"  "]]

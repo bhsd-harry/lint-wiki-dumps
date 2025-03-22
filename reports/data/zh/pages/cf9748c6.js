@@ -1,1 +1,0 @@
-window.data=[[6,"no-duplicate",33,3,"office3         = {{tsl|en|European Commissioner for Industry and Entrepreneurship||欧洲工业和创业专员}}\n "]]

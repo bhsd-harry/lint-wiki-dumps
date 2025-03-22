@@ -1,1 +1,0 @@
-window.data=[[60,"no-duplicate",74,10,"=\n  19 "]]

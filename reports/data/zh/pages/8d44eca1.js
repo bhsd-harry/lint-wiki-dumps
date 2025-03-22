@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",51,1," * [[信息学|信息]]传播媒体学科<ref group=\"注\"  name=\"信息传播媒体学科\"/>\n * [[商业|商务]][[信息学|信息]]学科<ref group=\"注\"  name=\"商务信息学科\"/>"]]

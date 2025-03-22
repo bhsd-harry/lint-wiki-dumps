@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",4,33,"font"],[2,"no-duplicate",63,3,"bgcolor=\"#E0E0E0\""]]

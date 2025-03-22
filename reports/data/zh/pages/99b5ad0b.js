@@ -1,1 +1,0 @@
-window.data=[[20,"illegal-attr",62,50,"NOWRAP"],[1,"no-ignored",139,93," 8pt\""]]

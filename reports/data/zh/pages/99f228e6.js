@@ -1,1 +1,0 @@
-window.data=[[3,"no-ignored",46,14,"[https://archive.today/20130419003343/http://www.pongamusica.com/calientes/much-capital-needed-settle-china.php Much capital is needed to settle in Ch"]]

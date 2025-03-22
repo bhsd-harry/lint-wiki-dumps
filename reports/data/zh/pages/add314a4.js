@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",12,1," File:John Marshall by Henry Inman, 1832.jpg：[[约翰·马歇尔]]"]]

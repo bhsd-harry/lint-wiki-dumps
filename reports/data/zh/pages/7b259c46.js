@@ -1,1 +1,0 @@
-window.data=[[78,"illegal-attr",33,3,"1"]]

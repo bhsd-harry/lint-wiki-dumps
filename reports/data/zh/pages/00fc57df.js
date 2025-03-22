@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",20,23,"背景相机显示的坑中冲沟，注：这是前一幅图像的放大版。Wikilyelldefrosting.jpg"]]

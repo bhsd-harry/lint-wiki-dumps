@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",53,2,"[[Category:用Perl编程的自由软件]]"]]

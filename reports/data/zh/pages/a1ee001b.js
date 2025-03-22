@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",9,58,"width"],[1,"unclosed-table",10,2,"{|"]]

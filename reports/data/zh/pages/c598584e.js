@@ -1,1 +1,0 @@
-window.data=[[3,"parsing-order",10,30,"<ref name=\"AOPA0903\">{{cite news | first=Thomas B. | last=Haines | url=http://www.aopa.org/aircraft/articles/2009/090319terrafugia.html | title=First "]]

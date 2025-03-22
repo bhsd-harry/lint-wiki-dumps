@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",52,3," 國內生產總值估計年份 = 2021\n "]]

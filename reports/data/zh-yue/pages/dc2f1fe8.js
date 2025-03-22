@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",11,3," free_label = \n "]]

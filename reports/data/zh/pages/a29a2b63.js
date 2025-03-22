@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",18,61,"伊斯墨诺斯湖区的锐蚀地形，显示了被填平的峡谷及悬崖，照片由[[火星全球探勘者号|火星全球探测者号]]上的轨道相机 (MOC)所拍摄。Image:Steep cliff in Ismenius Lacus taken with MGS.JPG"]]

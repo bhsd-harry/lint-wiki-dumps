@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",25,2,"[[Category:行政法院| ]]"]]

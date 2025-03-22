@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",156,4,"font-weight:bold\"  "],[2,"tag-like",56,98,"<A"]]

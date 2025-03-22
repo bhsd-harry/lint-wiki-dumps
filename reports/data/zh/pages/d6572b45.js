@@ -1,1 +1,0 @@
-window.data=[[4,"lonely-bracket",79,5,"[["],[2,"no-ignored",79,4,"|[[朴根瀅]] || 李大冠 ||align=left|善南、善美的父親。"]]

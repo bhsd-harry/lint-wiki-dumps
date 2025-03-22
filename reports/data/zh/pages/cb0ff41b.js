@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",60,2,"[[Category:日本男性眾議院議員]]"]]

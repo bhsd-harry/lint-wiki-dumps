@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",462,1,"\n ==参考文献==\n {{reflist}}\n\n ==外部链接==\n *{{IMDb name|1458998}}\n *{{douban people|1379858}}\n *{{facebook|jinyinjiSG}}\n *{{Instagram|jin.yinji}}\n\n {{authori"],[1,"unclosed-table",375,2,"{|"]]

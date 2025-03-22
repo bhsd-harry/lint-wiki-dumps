@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",130,88,"]"],[2,"no-duplicate",306,2,"[[Category:韓國流行音樂歌手]]"]]

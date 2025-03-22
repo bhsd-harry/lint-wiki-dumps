@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",52,1," * [[职业]]英语科<ref group=\"注\"  name=\"キャリア英語科\"/>"]]

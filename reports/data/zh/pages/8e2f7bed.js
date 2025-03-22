@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",39,2,"[[Category:下萨克森州市镇|C]]"]]

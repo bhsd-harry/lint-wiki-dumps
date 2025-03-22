@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",61,24,"width"],[2,"no-duplicate",60,5,"class=\"wikitable\""]]

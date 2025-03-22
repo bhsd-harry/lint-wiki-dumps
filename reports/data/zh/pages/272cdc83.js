@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",867,130,"'"],[3,"lonely-bracket",128,79,"}"],[10,"no-duplicate",1321,66,"style=\"font-size:80%;\""],[10,"no-ignored",72,50,"我位於韓劇為訴訟"],[5,"unmatched-tag",162,21,"</small>"]]

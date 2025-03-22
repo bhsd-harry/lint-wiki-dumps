@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",298,1,"\n\n ==成員=="],[1,"unclosed-table",297,2,"{|"]]

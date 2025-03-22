@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-apos",36,8,"'"],[6,"nested-link",19,457,"[[費玉清]]"]]

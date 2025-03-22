@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",64,55,"19:00-20:00"],[1,"no-ignored",64,46,"星期一至五 晚上 "]]

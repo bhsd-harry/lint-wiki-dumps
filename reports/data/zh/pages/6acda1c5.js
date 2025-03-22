@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",61,104,"佛国寺建筑配置图-Zh-hans.svg"]]

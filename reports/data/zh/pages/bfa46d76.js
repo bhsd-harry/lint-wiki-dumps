@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,26,"|路德维希二世"]]

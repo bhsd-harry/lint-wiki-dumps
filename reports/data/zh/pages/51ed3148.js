@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",177,1," [[印度]]。"]]

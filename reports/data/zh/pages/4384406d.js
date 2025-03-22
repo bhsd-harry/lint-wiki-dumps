@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",63,5,"span"],[2,"no-duplicate",73,5,"align=center"]]

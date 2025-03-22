@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",45,1," * 国际傳播学科  "]]

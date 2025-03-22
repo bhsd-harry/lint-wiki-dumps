@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",90,2,"[[Category:台山市|Category:台山六槐人]]"]]

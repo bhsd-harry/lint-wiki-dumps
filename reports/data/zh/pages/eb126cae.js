@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",79,1," ;香江家居（站位位于保工南街，C出入口旁，双向站位）\n {{沈阳公交线路列表|width=100%|format=|end=yes|204|242|284|297}}"]]

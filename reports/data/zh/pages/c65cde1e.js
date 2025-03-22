@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",392,3," !style=\"background:black; text-transform:uppercase;text-shadow:1px 1px 0 #98FFFE,-1px 1px 0 #98FFFE,1px -1px 0 #98FFFE,-1px -1px 0 #98FFFE;font-famil"]]

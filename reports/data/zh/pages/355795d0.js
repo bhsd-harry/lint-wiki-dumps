@@ -1,1 +1,0 @@
-window.data=[[14,"no-duplicate",14,3,"zh-cn:电锯惊魂2; zh-sg:夺魂锯2; zh-tw:奪魂鋸2; zh-hk:恐懼鬥室2 死亡困局; zh-hk:恐懼鬥室2;\n "]]

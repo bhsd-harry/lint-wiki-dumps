@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",104,22,"Thessaloniki"],[1,"lonely-bracket",104,43,"]]"],[1,"no-ignored",104,12,"[:en:Aris "]]

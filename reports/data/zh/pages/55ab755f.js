@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",30,2,"[[Category:中國上古姓氏|R妊]]"]]

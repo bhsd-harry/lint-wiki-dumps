@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",509,37,"{{"],[2,"no-duplicate",509,34,"假設的{{nowrap "]]

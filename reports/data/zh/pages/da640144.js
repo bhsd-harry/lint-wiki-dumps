@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",23,3," signature   = Hermann Zapf. Signatur 1958.jpg\n "]]

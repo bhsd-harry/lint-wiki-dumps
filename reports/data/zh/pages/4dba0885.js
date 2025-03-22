@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",115,1,"\n ===正規專輯==="],[8,"no-duplicate",117,24,"style=\"background:white; text-align:center\""],[1,"unclosed-table",114,2,"{|"]]

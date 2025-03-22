@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-http",838,52,"ISBN"],[11,"no-ignored",208,14,"  <small>;text-align:center"],[11,"parsing-order",208,16,"<small>"]]

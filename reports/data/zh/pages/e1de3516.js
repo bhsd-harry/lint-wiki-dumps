@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",1,15,"|-{zh:复飞;zh-hans:复飞;zh-hant:复飛;zh-cn:复飞;zh-tw:重飛;zh-hk:复飛;zh-sg:复飞;}-"]]

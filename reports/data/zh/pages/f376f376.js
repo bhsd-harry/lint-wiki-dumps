@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",13,40,"text-align"],[1,"no-ignored",244,10," ɣolspan=\"4\""]]

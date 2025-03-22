@@ -1,1 +1,0 @@
-window.data=[[3,"no-duplicate",3,3,"conflict = [[反對修訂逃犯條例運動]]\n "]]

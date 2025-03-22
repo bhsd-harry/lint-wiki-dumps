@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",310,75,"{{"],[3,"no-duplicate",310,55,"各黨在2017年大選之後的支持度變化： {{columns-list"]]

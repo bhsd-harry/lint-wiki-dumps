@@ -1,1 +1,0 @@
-window.data=[[2,"illegal-attr",6,16,"cellspacing"],[1,"no-ignored",3,78,"  | background:#f9f9f9; width:50%; font-size:small;\""]]

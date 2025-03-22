@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",543,3,"<ref>{{Cite web|title=陸2青年赴俄戰場助陣！同袍拍片曝被送前線當砲灰 「僅存活一天」|url=https://tw.news.yahoo.com/%E9%99%B82%E9%9D%92%E5%B9%B4%E8%B5%B4%E4%BF%84%E6%88%B0%E5%A0%B4%E"],[1,"parsing-order",543,3,"<ref>{{Cite web|title=陸2青年赴俄戰場助陣！同袍拍片曝被送前線當砲灰 「僅存活一天」|url=https://tw.news.yahoo.com/%E9%99%B82%E9%9D%92%E5%B9%B4%E8%B5%B4%E4%BF%84%E6%88%B0%E5%A0%B4%E"]]

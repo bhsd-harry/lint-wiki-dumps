@@ -1,1 +1,0 @@
-window.data=[[4,"no-duplicate",11,22,"releasedate={{Start date|2018|03|27}}"]]

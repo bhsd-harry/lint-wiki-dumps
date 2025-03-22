@@ -1,1 +1,0 @@
-window.data=[[1,"no-ignored",395,3," 美國紐約 (紐約州)"]]

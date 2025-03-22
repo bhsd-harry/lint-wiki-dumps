@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",3873,4,"346"],[1,"lonely-bracket",2862,12,"}"],[3,"no-ignored",836,62," 未知"]]

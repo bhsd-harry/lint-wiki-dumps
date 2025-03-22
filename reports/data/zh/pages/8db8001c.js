@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",220,2,"[[Category:加拿大指定的恐怖组织]]"]]

@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",427,77,"{{"],[1,"nested-link",509,113,"[[衛報]]"]]

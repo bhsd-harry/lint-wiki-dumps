@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",168,1,"\n ==参考资料==\n {{reflist}}\n\n ==外部链接==\n *{{IMDb name|0878763}}\n\n {{莫腾·泰杜姆}}\n {{Authority control}}\n {{DEFAULTSORT:Tyldum, Morten}}\n [[Category:挪威电影导演]]\n ["],[1,"unclosed-table",167,2,"{|"]]

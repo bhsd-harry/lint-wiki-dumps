@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",152,5,"align=center"],[8,"no-ignored",161,3,"年度"]]

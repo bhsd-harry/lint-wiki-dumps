@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",95,2,"[[Category:第十四届全国人大代表]]"]]

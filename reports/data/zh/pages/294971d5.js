@@ -1,1 +1,0 @@
-window.data=[[8,"lonely-bracket",28,121,"{{"],[8,"tag-like",57,3,"<iframe"]]

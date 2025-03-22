@@ -1,1 +1,0 @@
-window.data=[[3,"lonely-apos",1440,35,"'"],[3,"lonely-bracket",2098,411,"[["],[1,"tag-like",619,60,"<br"]]

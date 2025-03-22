@@ -1,1 +1,0 @@
-window.data=[[2,"lonely-bracket",42,3003,"[["],[1,"no-ignored",42,2987,"/＞；劇場盤則附有劇場盤發售紀念[[握手會]]的參加券和寫真相一張<ref"],[1,"tag-like",42,3020,"<ref"],[2,"unmatched-tag",29,6,"</small>"]]

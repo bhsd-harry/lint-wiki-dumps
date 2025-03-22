@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",180,5,"aligh"],[1,"lonely-bracket",106,3,"{{"],[1,"no-ignored",106,3,"{{nowrap"]]

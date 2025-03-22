@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",77,25,"HIH Princess Kuni Tomoko, consort"]]

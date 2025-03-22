@@ -1,1 +1,0 @@
-window.data=[[2,"fostered-content",73,1," ;莲花街万柳塘路（站位位于莲花街万柳塘路路口，A出入口向南130米，过桥即是）\n {{沈阳公交线路列表|width=100%|format=|end=yes|147|215}}"]]

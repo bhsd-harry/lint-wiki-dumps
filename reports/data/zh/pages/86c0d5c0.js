@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",77,2,"[[Category:未来之星明星球员]]"]]

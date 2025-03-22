@@ -1,1 +1,0 @@
-window.data=[[3,"illegal-attr",146,16,"text-align:center"],[9,"no-ignored",141,30,"  <div"],[2,"parsing-order",252,16,"<small>"],[3,"tag-like",141,32,"<div"]]

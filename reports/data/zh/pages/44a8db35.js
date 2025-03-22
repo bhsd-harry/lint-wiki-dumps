@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-bracket",15,17,"]]"],[1,"unmatched-tag",15,88,"</span>"]]

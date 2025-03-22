@@ -1,1 +1,0 @@
-window.data=[[8,"no-duplicate",55,3," plant_owner        = \n "]]

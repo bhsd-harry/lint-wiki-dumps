@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",189,1,"\n\n ===演唱會===\n * KENJI URAI 15th Anniversary Concert 〜Wonderland〜（2016年9月29日、東京国際フォーラムホールA）\n\n * 浦井健治 20th Anniversary Concert ～Piece～（2021年4月20日、東京国際フォ"],[2,"unclosed-table",178,2,"{|"]]

@@ -1,1 +1,0 @@
-window.data=[[60,"invalid-gallery",11,23,"thumb"],[120,"no-duplicate",11,29,"United States Army Forces Command\"Freedom's Guardian\""]]

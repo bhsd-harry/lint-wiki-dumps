@@ -1,1 +1,0 @@
-window.data=[[1,"illegal-attr",25,65,"xml:lang"],[1,"unmatched-tag",74,2,"</span>"]]

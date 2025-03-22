@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",49,1," * 农学科 \n * [[畜牧业|畜产]]学科"]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",342,749,"archivedate=https://web.archive.org/web/20201029114254/http://moe-gameaward.com/prize/2009/result3.html"]]

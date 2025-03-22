@@ -1,1 +1,0 @@
-window.data=[[1,"fostered-content",70,1," 以下係已知以AK-47嘅仿製、變種同衍生嘅軍用版本："]]

@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",63,2,"[[Category:各国国会下议院]]"]]

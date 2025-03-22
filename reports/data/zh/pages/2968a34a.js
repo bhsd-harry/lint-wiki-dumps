@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",24,2,"[[Category:Linux内核接口]]"]]

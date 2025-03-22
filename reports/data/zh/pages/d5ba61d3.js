@@ -1,1 +1,0 @@
-window.data=[[1,"lonely-apos",170,140,"'"],[1,"unmatched-tag",38,63,"</small>"]]

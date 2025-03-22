@@ -1,1 +1,0 @@
-window.data=[[2,"no-duplicate",3,3,"1 = zh:南澳大利亞州; zh-cn:南澳大利亚州; zh-tw:南澳州; zh-hk:南澳州; zh-sg:南澳大利亚州;\n "]]
