@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",5,3," image alt = mostly mountainous in the east, with gently sloping plains in the west. The [[Penghu Islands]] appear in the Taiwan Strait to the west of"]]

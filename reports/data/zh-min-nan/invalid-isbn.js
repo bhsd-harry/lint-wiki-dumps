@@ -1,0 +1,1 @@
+window.data=[["Ha̍k-hāu ê Kai-the",102,4,"ISBN 978-986-174-878-4"],["Salvador Dalí",2,722,"ISBN 2-35035-189-6"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",125,26,"替代文字"],[1,"no-ignored",68,4," hō "]]

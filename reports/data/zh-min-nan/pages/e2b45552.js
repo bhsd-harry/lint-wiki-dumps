@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",54,3,"population_density_km2     = \n "]]

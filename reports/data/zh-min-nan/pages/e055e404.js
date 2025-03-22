@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",41,59,"colspan"],[1,"no-ignored",41,87," || <section begin=\"IMF value\"/>93,863,851<section end=\"IMF value\"/>  ||  <section begin=\"IMF year\"/>2021<section end=\"IMF year\"/>  ||  <section begin"],[12,"parsing-order",41,91,"<section begin=\"IMF value\"/>"]]

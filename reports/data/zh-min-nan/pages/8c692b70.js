@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",9,2,"[[Category:Articles containing Japanese-language text|Category:Articles containing Japanese-language text]]"]]

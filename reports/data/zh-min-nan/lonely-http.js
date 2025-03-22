@@ -1,0 +1,1 @@
+window.data=[["Abre Campo",2,30,"http://"],["Bân-lâm-gí gí-hoat",10,37,"ISBN"],["Bí-kok koh chiu kap léng-thó͘ ê koân-tō͘ lia̍t-toaⁿ",39,23,"https://"],["Chū-hoat chham-liông ē-kha chuán-uāⁿ",10,114,"ISBN"],["Citrus",60,29,"ISBN"],["Iak-130",30,97,"ISBN"],["Janov (Moravia-Silesia)",20,20,"http://"],["Jit-pun châi-thoân",35,40,"ISBN"],["Sîn-ui·Thài-hô͘ chi kong",25,614,"http:/"]]

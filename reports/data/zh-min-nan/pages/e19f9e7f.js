@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",2,22,"border-style:"],[1,"no-ignored",2,35," solid; "]]

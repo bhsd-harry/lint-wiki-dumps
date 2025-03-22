@@ -1,0 +1,1 @@
+window.data=[["Dar Sufeh",30,23,"thumb"],["Frank Lloyd Wright",6,25,"thumb"],["Highgate Bōng-á-po͘",39,30,"thumb"],["Ia̋n-jín",20,37,"thumb"],["Lestes sponsa",31,27,"thumb"],["Port Louis",85,55,"thumb"],["Zibad",30,23,"thumb"],["Zibad Hiong",26,41,"thumb"]]

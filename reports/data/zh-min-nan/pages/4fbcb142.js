@@ -1,0 +1,1 @@
+window.data=[[4,"illegal-attr",44,78,"colspan"],[2,"no-duplicate",44,29,"style=font-weight:bold"],[4,"no-ignored",44,107," || 141,962,059 || "]]

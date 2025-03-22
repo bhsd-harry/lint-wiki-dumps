@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",105,2,"[[Category:Tiong-hôa Bîn-kok tiong-iong chèng-hú ki-koan|L]]"]]

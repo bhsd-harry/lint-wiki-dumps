@@ -1,0 +1,1 @@
+window.data=[[2,"parsing-order",16,23,"<ref>{{cite web |title=300'üncü Bayraktar TB2 göklerde |date=5 March 2022 |language=tr |newspaper=Savunma Sanayi (Turkish Defence Industry) |url =http"]]

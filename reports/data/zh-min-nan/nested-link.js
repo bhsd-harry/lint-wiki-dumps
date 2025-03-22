@@ -1,0 +1,1 @@
+window.data=[["Hui-tôaⁿ",26,69,"[[Center for Strategic and International Studies]]"],["Io̍h-phín",5,922,"[[Medicine|medicinal]]"],["Lûi-tân tsiong",18,58,"[[Ayah]]"]]

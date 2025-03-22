@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",36,2,"[[Category:Italia ê comune lia̍t-toaⁿ]]"]]

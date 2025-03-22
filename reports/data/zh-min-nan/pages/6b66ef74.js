@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",23,17,"historic"],[1,"no-ignored",23,36,"  >"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",35,2,"[[Lūi-pia̍t:Internet ê le̍k-sú]]"]]

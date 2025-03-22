@@ -1,0 +1,1 @@
+window.data=[["Gualtiero Galmanini",21,2,"<references"],["Gutenberg kè-ōe",27,545,"</ref"],["Ōe-seng mî-tiâu sòe",16,361,"</ref"],["Peru",13,85,"<div"],["Petreliai",31,160,"<ref"],["Stirniškiai (Kupiškis)",30,169,"<ref"],["Tek-chhàm-siâⁿ",25,124,"</ref"],["Tennessee",10,72,"<ref"],["Vercurago",30,41,"<ref"]]

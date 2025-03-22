@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",55,1," Lé-mn̂g-hiuⁿ||350925201||Lé-mn̂g, 仕本, 贡川, Toa-pi, 芹源、常源、 秋楼、玉山、大林、Khe-soaⁿ, 梅渡、油湾、Âu-lâng, Tân-siàu, Soaⁿ-thâu, 首洞, Lâi-pîⁿ"]]

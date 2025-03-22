@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",17,47," 2009 nî kì-"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",99,2,"[[Lūi-pia̍t:Hàn-gí sû-tián]]"]]
