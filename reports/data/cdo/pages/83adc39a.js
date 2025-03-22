@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",13,3,"map=Ryukyuan_languages_map.png\n "]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",7],["lonely-apos",2],["lonely-bracket",5],["lonely-http",1],["no-duplicate",35],["no-ignored",6],["unmatched-tag",11]]

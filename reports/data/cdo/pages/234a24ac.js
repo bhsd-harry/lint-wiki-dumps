@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",6,108,"cellpadding"],[1,"no-ignored",6,104,"1\"  "]]

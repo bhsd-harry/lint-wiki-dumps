@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",16,3," pushpin_map_caption             = Hók-chiăng găk Hók-gióng gì sū-câi.\n "]]

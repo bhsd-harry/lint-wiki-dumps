@@ -1,0 +1,1 @@
+window.data=[["Báik-guá",5,49,"  st#le=\"text-align:center;\""],["Bēng-nàng siáng",114,3,"{{large"],["Câung-kṳ̆",6,104,"1\"  "],["Šiprage",8,82," #999; 100%"],["八卦",5,49,"  st#le=\"text-align:center;\""],["士普拉格",7,82," #999; 100%"]]

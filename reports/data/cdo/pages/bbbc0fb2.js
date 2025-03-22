@@ -1,0 +1,1 @@
+window.data=[[8,"no-duplicate",17,3,"image_shield =\n "]]

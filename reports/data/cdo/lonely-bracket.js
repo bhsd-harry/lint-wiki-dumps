@@ -1,0 +1,1 @@
+window.data=[["Bēng-nàng siáng",114,3,"{{"],["Bō̤-dâi Huòng-dá̤",2,80,"}"],["Dṳ̆ng-guók Ìng-mìng Dâi-hŏk",20,23,"}"],["Ĕu-iòng Siŭ",3,86,"{"],["Hiŏng Êu",11,48,"}"]]

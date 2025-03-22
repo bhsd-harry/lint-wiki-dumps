@@ -1,0 +1,1 @@
+window.data=[["Niū-să̤-làng",102,326,"'"],["Richard Clayderman",85,19,"''"]]

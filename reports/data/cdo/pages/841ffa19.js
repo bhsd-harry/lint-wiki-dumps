@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",8,704,"title=ja:第22回日本アカデミー賞優秀作品 "]]
