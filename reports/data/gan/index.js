@@ -1,0 +1,1 @@
+window.data=[["fostered-content",1],["illegal-attr",8],["invalid-isbn",2],["lonely-apos",13],["lonely-bracket",43],["lonely-http",2],["nested-link",2],["no-duplicate",5],["no-ignored",14],["unclosed-table",4],["unmatched-tag",50]]
