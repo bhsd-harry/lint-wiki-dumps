@@ -1,0 +1,1 @@
+window.data=[[5,"illegal-attr",13,157,"Wiki"],[1,"lonely-bracket",7,76,"}"],[1,"no-ignored",13,141,"Valenciclopèdia "]]

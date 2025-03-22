@@ -1,1 +1,1 @@
-window.data=["wuu","zh-yue","zh"]
+window.data=["wuu","zh-classical","zh-yue","zh"]

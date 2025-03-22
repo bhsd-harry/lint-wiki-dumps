@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",1,20,"替代文字"]]

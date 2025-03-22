@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",73,1,"\n [[分類:文字]]"]]

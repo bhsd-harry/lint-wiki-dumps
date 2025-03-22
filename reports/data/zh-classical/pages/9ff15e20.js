@@ -1,0 +1,1 @@
+window.data=[[20,"illegal-attr",62,32,"vertical-align:"],[20,"no-ignored",62,47," top; "]]

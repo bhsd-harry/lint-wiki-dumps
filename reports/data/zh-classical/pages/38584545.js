@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",4,2,"[[分類:姜齊世家]]"]]
