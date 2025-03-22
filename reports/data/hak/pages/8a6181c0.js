@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",14,3,"logo = Thai Airways International.svg\n "],[1,"unmatched-tag",43,27,"</small>"]]

@@ -1,0 +1,1 @@
+window.data=[["Haute-Vienne",15,1," <gallery>"],["Hen-fâ-chhûn Chhàm",63,3,"{{split "],["Longás",1,54,";width:130%\"  "],["Luceni",1,54,";width:130%\"  "],["Lùn-tûn Thai-ho̍k",4,31,">"],["Pak-ha̍p-fâ",38,72," Pau-é Pak-ha̍p-fâ"],["Pat-koa",5,49,"  st#le=\"text-align:center;\""],["Šiprage",9,82," #999; 100%"],["Yi-sak-lit",6,18," 801,000"]]

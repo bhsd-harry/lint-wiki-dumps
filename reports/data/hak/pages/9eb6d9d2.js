@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",2,60,"250pxNgiù-chîn Thai-ho̍k."]]

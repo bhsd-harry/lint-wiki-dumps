@@ -1,0 +1,1 @@
+window.data=[["Minangkabau-ngî",28,180,"[[Balai Pustaka]]"]]

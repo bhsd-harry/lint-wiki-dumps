@@ -1,0 +1,1 @@
+window.data=[["Fó-sân",7,163,"<  br"],["Haute-Vienne",23,2,"</gallery"],["Khi̍t-han (Sú-ho̍k)",10,81,"<  /math"],["日本",2,251,"</ref"],["美國",60,77,"</ small"]]

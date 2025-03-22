@@ -1,0 +1,1 @@
+window.data=[["Chhṳ̀n Kâ-fà",25,60,"="]]

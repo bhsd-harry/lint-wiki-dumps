@@ -1,0 +1,1 @@
+window.data=[["Â-lî-sân-hiông",1,17,"'"],["Am-sat Kau-sṳt",3,133,"''"],["Ǹg-tshṳ̀-hiông",2,2,"'"],["Pâu-siuk",2,112,"'"],["Richard Clayderman",85,19,"''"],["Xuxa",2,28,"'"]]

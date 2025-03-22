@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",17],["invalid-gallery",1],["lonely-apos",6],["lonely-bracket",30],["nested-link",1],["no-duplicate",33],["no-ignored",9],["tag-like",5],["unclosed-table",2],["unescaped",1],["unmatched-tag",77]]

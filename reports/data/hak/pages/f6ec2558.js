@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",38,72," Pau-é Pak-ha̍p-fâ"]]

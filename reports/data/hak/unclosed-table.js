@@ -1,0 +1,1 @@
+window.data=[["Không-sàng Chhàm (Hiông-kóng)",32,2,"{|"],["Kóng-thiet CRC-Stock EMU（C6554-07E） tshâ-hin Lie̍t-tshâ",158,2,"{|"]]

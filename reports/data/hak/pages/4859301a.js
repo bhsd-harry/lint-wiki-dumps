@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",1,51,"contenteditable"],[2,"lonely-bracket",1,97,"{"]]
