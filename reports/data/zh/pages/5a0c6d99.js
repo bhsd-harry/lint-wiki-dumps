@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",241,23,"'"],[1,"no-ignored",175,4,"政治"],[4,"unmatched-tag",198,16,"</small>"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",1,22,"|克拉科夫主教区"]]

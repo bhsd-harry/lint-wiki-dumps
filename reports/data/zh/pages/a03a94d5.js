@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",42,95,"<br style=\"clear:both;\">"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",1030,2,"[[Category:韓國藝人經紀公司]]"]]

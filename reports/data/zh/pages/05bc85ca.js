@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",623,3,"colspan=\"2\""],[2,"tag-like",110,33,"<span"],[3,"unmatched-tag",110,72,"</span>"]]

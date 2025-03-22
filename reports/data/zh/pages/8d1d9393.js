@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",11,71,"Map of the war in German"]]

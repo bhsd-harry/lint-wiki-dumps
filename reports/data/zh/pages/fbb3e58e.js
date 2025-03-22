@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",405,1,"\n == 参考資料 ==\n <div class=\"references-small\">\n <references />\n </div>\n\n ==参见==\n *[[英格蘭PFA足球先生|英格兰PFA足球先生]]\n\n == 外部連結 ==\n * [https://web.archive.org/web"],[1,"unclosed-table",13,2,"{|"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-ignored",251,3,"{{flagIOCathlete|[[Tatsuo Kawai (wrestler)|Kawai]]|JPN|2000年夏季}}<br>  '''W''' 6–5 "],[2,"parsing-order",251,67,"<br>"]]

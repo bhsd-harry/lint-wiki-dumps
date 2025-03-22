@@ -1,0 +1,1 @@
+window.data=[[2,"invalid-gallery",34,39,"upright"],[2,"no-duplicate",62,2,"[[Category:日本雕塑家]]"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",121,1," File:P-14 lady beetle.jpg]瓢蟲補食[[蚜蟲]]"]]

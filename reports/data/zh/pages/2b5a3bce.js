@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",135,64,"{{"],[1,"nested-link",233,169,"[[Hamburger Abendblatt]]"],[4,"no-duplicate",135,59,"盟國空襲對{{tsl"]]

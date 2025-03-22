@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",201,2,"[[Category:可持續建築]]"]]

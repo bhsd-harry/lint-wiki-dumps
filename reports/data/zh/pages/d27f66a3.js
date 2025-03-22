@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",286,1," </center>\n {{中国公交线路表}}\n [[Category:北京公交路线]]\n [[Category:北京市列表]]"],[1,"unclosed-table",4,2,"{|"],[1,"unmatched-tag",286,2,"</center>"]]

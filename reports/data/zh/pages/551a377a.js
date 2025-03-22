@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",23,3,"battles=\n "],[1,"unmatched-tag",56,20,"</small>"]]

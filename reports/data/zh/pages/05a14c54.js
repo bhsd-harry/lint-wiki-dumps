@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",426,2,"[[Category:日本漫畫作品]]"]]

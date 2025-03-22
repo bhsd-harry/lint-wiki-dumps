@@ -1,0 +1,1 @@
+window.data=[[11,"invalid-gallery",95,69,"thumb"],[8,"no-duplicate",34,66,"Arch sign with Access road"]]

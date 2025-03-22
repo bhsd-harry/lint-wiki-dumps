@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",9,4," meeting_place     = Pnyx-berg2.png\n  "]]

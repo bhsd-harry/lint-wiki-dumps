@@ -1,0 +1,1 @@
+window.data=[[3,"no-ignored",98,3," 1994年6月24日 "]]

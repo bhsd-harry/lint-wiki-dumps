@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",32,57,"{{"],[4,"no-duplicate",32,44,"不同的尺度：線性–線性, {{le"]]

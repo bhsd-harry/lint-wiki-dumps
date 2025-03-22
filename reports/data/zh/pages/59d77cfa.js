@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",68,89," na。me=\"LATimes\""]]

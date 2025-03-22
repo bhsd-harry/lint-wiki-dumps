@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-apos",152,22,"'"],[1,"no-ignored",92,3,"!width=45%"]]

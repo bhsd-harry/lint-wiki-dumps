@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",22,3," residence = [[桃園市]][[龜山區]]\n "]]

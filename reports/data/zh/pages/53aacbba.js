@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",14,95,"["],[2,"no-duplicate",5,87,"[[Solidus (coin)|Solidus]] of Emperor Julius Nepos; mint in [[Ravenna]], 474-5"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",39,3,"viewfinder=內置人眼感應器的電子觀景窗\n "]]

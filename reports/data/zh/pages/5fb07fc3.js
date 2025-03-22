@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",32,82,"Sh=功明公<br>[[王寿]]"]]

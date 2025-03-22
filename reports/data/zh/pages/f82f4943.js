@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",83,2,"[[Category:2024年軟體]]"]]

@@ -1,0 +1,1 @@
+window.data=[[10,"no-duplicate",37,2,"[[Category:普宁人]]"]]

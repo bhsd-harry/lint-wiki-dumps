@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",56,24,"sortable"],[1,"no-ignored",56,32," mw-collapsible\"  "]]

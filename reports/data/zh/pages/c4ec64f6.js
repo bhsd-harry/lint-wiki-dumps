@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",12,3," predecessor1    = [[唐華]]（－111/06/30）\n "]]

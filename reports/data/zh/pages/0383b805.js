@@ -1,0 +1,1 @@
+window.data=[[5,"illegal-attr",231,54,"text-align:"],[2,"no-duplicate",231,82,"1em"],[3,"no-ignored",231,36,"  font-size:100%; "]]

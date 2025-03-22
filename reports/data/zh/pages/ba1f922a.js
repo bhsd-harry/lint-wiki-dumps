@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",115,1," * [[奥斯丁·达耶]]\n * [[南多·德科洛]]\n * [[丹尼·格林]]\n * [[科里·约瑟夫]]\n * [[马库斯·费泽尔]]\n * [[杰拉德·格林]]\n * [[Nate Green]] (哥倫布河龍)\n * [[Allan Ray]]\n * [[Curtis Jerrells]]\n"]]

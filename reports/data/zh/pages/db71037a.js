@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",133,2,"[[Category:2011年美國電影作品]]"]]

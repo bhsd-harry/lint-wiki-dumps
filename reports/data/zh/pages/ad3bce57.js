@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",2564,4,"}}"],[2,"no-duplicate",2384,19,"style=\"background-color:#EEEEEE;\""],[1,"no-ignored",2390,20," ; text-align:center;\""]]

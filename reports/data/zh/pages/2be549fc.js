@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",34,2,"[[Category:美国历史学家]]"],[1,"unmatched-tag",23,50,"</small>"]]

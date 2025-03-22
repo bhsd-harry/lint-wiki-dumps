@@ -1,0 +1,1 @@
+window.data=[[4,"fostered-content",101,1," ;奥体中心地铁站（浑南四路站位，A出入口对面，花园城购物中心南门）\n {{沈阳公交线路列表|width=100%|format=|end=yes|388|V101|浑雷}}"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",38,103,"note-right1=A14a\n "]]

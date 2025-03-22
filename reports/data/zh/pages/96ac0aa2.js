@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",220,1," File: Communist demonstration in Red Square July 2009. JP 共党员在[[红场]]上的示威"]]

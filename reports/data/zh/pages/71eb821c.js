@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",89,238,"spellcheck"],[3,"no-duplicate",36,2,"[[Category:含有德語的條目]]"]]

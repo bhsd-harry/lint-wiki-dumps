@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",40,87,"contenteditable"],[2,"lonely-http",27,57,"http://"]]

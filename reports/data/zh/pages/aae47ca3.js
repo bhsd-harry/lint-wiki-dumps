@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",216,1," *{{ARE}}\n *{{ARG}}\n *{{BEL}}\n *{{BHR}}\n *{{BWA}}\n *{{CMR}}\n *{{CAN}}\n *{{CHE}}\n *{{CHI}}\n *{{CRO}}\n *{{COL}}\n *{{DEN}}\n *{{DEU}}\n *{{EGY}}\n *{{ESP}}\n"],[1,"lonely-bracket",169,38,"{{"],[2,"no-duplicate",191,29,"thumb"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",340,2,"[[Category:20世紀臺灣小說家]]"]]

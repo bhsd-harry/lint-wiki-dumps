@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",69,304,"last8=Gualano"]]

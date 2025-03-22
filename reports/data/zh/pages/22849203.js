@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",36,1490,"[["],[1,"lonely-http",51,39,"http://"],[2,"no-duplicate",36,1474,"name=NIH2000/。使用[[四氫生物蝶呤]]藥物或許對部分患者有效<ref"],[1,"tag-like",36,1511,"<ref"]]

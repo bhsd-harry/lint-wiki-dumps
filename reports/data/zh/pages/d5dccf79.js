@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",122,132,"issn="]]

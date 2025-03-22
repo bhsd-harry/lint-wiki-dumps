@@ -1,0 +1,1 @@
+window.data=[[20,"illegal-attr",103,28,"padding"],[15,"no-duplicate",103,40,"0"],[25,"no-ignored",151,85," style"],[2,"unmatched-tag",304,47,"</small>"]]

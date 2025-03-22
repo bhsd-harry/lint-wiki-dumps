@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",66,2,"[[Category:着色杆菌科|L]]"]]

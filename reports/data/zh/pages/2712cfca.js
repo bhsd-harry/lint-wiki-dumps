@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",51,1," * 动物护理学科<ref group=\"注\"  name=\"动物护理学科\">日语:{{lang|ja|動物看護学科}}</ref>"]]

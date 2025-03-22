@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",44,23,"style=\"float:right\""]]

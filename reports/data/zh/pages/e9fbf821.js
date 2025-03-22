@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",962,21,"div"],[4,"no-duplicate",962,3,"style=\"width:2%\""],[132,"unmatched-tag",172,14,"</small>"]]

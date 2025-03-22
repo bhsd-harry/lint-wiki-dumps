@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",250,19,"|<ref>{{Cite web |last=Lewis |first=Hilary |date=2024-01-06 |title=''Past Lives'' Named Best Picture by National Society of Film Critics |url=https://"],[1,"parsing-order",250,20,"<ref>{{Cite web |last=Lewis |first=Hilary |date=2024-01-06 |title=''Past Lives'' Named Best Picture by National Society of Film Critics |url=https://w"]]

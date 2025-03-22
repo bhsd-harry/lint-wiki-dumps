@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",162,2,"[[Category:紅矮星]]"]]

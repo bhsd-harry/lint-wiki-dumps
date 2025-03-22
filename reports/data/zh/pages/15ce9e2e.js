@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",412,7,"class=\"references-small\""]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",116,1,"\n * [[瑞典教會]]（[[婚禮]]，249席）"]]

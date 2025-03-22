@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",26,3," highlights   = <!-- 生涯焦點與獲得獎項 -->\n "]]

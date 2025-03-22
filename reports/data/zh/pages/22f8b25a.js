@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",964,6,"colspan"],[1,"no-ignored",964,18,"  |{{small|「－」表示該單曲未有在榜上排名或未有資料或沒有在當地發行}}"]]

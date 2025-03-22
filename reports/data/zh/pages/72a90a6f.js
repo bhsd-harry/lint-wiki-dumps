@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",42,2,"[[Category:象牙海岸男子足球運動員]]"]]

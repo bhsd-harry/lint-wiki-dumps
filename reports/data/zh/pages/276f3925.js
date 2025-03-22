@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",156,35,"2006江门龙光塔_-_panoramio"]]

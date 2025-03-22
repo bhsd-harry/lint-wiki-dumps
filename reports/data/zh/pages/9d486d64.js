@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",49,56,"  <math>n^{\\log \\log n}</math>，<math>n^{\\log n}</math>  "],[2,"parsing-order",49,58,"<math>n^{\\log \\log n}</math>"]]

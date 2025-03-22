@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",8,3,"longtype      = 全國性公共節日\n "]]

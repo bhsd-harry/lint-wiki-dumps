@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",6,1," {{{image|}}} "]]

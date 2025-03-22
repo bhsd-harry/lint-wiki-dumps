@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",14,3," heritage_designation= [[世界文化遗产]]\n "]]

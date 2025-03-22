@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",66,1," * 儿童健康[[科系|学科]]<ref group=\"注\"  name=\"儿童健康学科\">日语:{{lang|ja|子ども健康学科}}</ref><ref name=\"短期大学儿童健康学科\">[http://www.kwuc.ac.jp/chinese/course_child_health.ht"],[1,"unmatched-tag",72,11,"</del>"]]

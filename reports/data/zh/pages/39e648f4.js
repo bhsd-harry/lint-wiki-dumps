@@ -1,0 +1,1 @@
+window.data=[[2,"no-ignored",56,41,"  ;align=center |style=\"width:10%\"|'''演員'''||style=\"width:10%\"|'''角色'''||style=\"width:60%\"|'''介紹''' ||style=\"width:10%\"|'''登場集數''' "],[1,"parsing-order",57,5,"<center>"]]

@@ -1,0 +1,1 @@
+window.data=[[4,"illegal-attr",289,12,"wiki.mozilla.org"],[1,"lonely-http",289,4,"https://"],[2,"no-ignored",289,3,"[https://"]]

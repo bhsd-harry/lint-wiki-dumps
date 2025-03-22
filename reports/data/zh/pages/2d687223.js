@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",384,4,"等語言"]]

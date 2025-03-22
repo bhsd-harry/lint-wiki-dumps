@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",18,2,"[[分类:被謀殺的美國兒童]]"]]

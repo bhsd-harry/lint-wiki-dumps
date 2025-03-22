@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",67,5,"style=\"text-align:center\""]]

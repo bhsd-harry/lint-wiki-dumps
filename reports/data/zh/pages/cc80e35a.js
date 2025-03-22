@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",20,1," [https://web.archive.org/web/20180401144934/http://xlkezhan.com/wizard/uploads2/dZObViUZ6OfJjn5ASx9xOBCvGy8Rgh.png | 文峰塔全貌大观]"]]

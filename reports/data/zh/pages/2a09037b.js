@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",35,49,"  width:70%\""],[1,"unclosed-table",152,2,"{|"]]

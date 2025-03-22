@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",234,2,"[[Category:图像压缩]]"]]

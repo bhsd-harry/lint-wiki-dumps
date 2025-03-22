@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",63,1," * 艺术科\n ** 音乐专攻\n ** [[劇場 (藝術)|演剧]]专攻\n ** <del>舞台创造专攻</del><ref group=\"注\"  name=\"舞台创造专攻\"/><ref group=\"注\"  name=\"艺术科舞台创造专攻招生\"/>\n * <del>文科</del><ref gro"]]

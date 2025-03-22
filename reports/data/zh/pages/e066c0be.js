@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",1468,2,"[[Category:Mnet亞洲音樂大獎獲得者]]"]]

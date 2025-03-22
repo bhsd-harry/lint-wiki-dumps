@@ -1,0 +1,1 @@
+window.data=[[5,"no-duplicate",69,2,"[[Category:九太科技籃球隊球員]]"]]

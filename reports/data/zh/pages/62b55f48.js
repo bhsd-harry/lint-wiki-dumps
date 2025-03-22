@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",52,2,"[[Category:哥伦比亚政治人物]]"]]

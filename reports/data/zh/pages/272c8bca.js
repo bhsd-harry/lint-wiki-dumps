@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",43,1319,"CNN\""]]

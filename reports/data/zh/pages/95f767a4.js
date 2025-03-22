@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",252,2,"[[Category:中国已解散足球俱乐部]]"],[1,"no-ignored",166,3,"!width=40%"]]

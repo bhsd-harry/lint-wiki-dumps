@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",56,79,"width"],[10,"no-duplicate",55,5,"class=\"wikitable\""],[1,"no-ignored",56,91,"  | '''年份'''"]]

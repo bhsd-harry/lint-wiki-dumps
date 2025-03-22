@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",101,27,"魁北克地形地图"]]

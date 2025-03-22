@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",227,1,"\n ==退休球衣號碼及現役球員==\n {{芝加哥公牛球员名单}}\n\n == 參考資料 ==\n {{reflist|30em}}\n\n == 外部链接 ==\n *[http://www.nba.com/bulls/ 官方網站] {{Wayback|url=http://www.nba.com/bulls"],[1,"unclosed-table",203,2,"{|"]]

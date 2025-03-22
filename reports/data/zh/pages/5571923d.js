@@ -1,0 +1,1 @@
+window.data=[[4,"lonely-apos",259,2,"'"],[70,"no-duplicate",135,39,"style=\"width:90%\""],[2,"no-ignored",1382,68," '''1''' "],[1,"unmatched-tag",1550,147,"</small>"]]

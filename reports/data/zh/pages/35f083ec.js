@@ -1,0 +1,1 @@
+window.data=[[3,"no-duplicate",149,2879,"name=\"MurakamiKitamura2020\""],[1,"no-ignored",149,2906,"/<ref "],[2,"tag-like",149,2907,"<ref"]]

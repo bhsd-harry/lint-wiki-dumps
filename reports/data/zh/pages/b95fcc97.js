@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",198,156,"圖像說明=近铁16600系Ace"]]

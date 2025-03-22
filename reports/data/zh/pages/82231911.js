@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",816,2,"[[Category:抽卡遊戲]]"]]

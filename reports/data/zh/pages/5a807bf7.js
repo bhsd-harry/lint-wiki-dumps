@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",47,97,"font"],[2,"no-duplicate",47,84,"width=\"300\""]]

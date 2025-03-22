@@ -1,0 +1,1 @@
+window.data=[[30,"no-duplicate",46,307,"last9=Li "]]

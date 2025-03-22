@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",1,22,"|德意志帝国宣告成立"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",58,22,"  |+ 新華保險歷年保費"]]

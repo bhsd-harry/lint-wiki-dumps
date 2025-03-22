@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",73,38,"font-size:small; text-align:center; width:100%\""]]

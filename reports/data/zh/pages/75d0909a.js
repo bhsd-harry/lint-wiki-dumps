@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",165,186,"{{"],[3,"no-duplicate",165,167,"三艘美国战舰，（从上到下）核动力巡洋舰{{link-en"]]

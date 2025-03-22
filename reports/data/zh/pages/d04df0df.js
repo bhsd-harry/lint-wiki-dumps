@@ -1,0 +1,1 @@
+window.data=[[3,"no-duplicate",179,24,"style=\"font-size:80%;\""]]

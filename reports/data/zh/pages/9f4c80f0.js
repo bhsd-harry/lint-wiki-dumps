@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",85,85,"table"],[2,"no-ignored",85,57,"  |+ '''Cells left-aligned, "]]

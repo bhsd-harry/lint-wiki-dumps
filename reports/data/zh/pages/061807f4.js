@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",76,58,"padding"],[4,"no-duplicate",76,6,"class=\"wikitable\""]]

@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",17,3,"iso3=zsm\n "]]

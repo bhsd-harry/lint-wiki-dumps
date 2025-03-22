@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",35,3," population_as_of = 2021年6月\n "]]

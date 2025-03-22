@@ -1,0 +1,1 @@
+window.data=[[6,"illegal-attr",4509,11,"Cup"],[1,"lonely-apos",4750,27,"'"],[6,"no-duplicate",4509,11,"Cup"],[3,"no-ignored",4509,3,"''World "],[6,"parsing-order",4509,43,"<sup>"]]

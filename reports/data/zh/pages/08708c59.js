@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",67,429,"]]"],[2,"no-duplicate",67,421,"name=現役/]])(<ref"],[8,"no-ignored",377,214,"  .=\"2\"  "],[1,"tag-like",67,433,"<ref"],[1,"unclosed-table",15,2,"{|"]]

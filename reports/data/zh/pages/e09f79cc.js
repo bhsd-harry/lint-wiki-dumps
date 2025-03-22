@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",5,1," <!--{|border=\"1\"  algin=left-->\n ===綜合大學==="]]

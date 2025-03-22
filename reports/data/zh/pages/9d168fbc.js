@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",5,3," image         = 亞莫爾·托歐斯<br>Amor Towles\n "]]

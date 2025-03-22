@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",7,3," image = Narcissus Flycatcher-cropped.jpg\n "]]

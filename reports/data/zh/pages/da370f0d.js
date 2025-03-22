@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",18,82,"name=\"檐角梁柱\""],[1,"no-ignored",18,93,"<ref "],[1,"tag-like",18,93,"<ref"]]

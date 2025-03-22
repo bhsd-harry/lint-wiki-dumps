@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",15,3,"constituency1 = [[區議會（第一）功能界別|區議會（第一）]]\n "]]

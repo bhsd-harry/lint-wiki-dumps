@@ -1,0 +1,1 @@
+window.data=[[6,"illegal-attr",113,15,"Pigeon"],[2,"lonely-bracket",113,53,"[["],[2,"no-ignored",113,4,"2017年||The "]]

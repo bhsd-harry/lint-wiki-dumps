@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",32,2,"[[Category:放棄美國國籍人士]]"]]

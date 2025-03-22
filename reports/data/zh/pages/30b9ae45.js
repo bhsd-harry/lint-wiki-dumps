@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",202,2,"[[Category:西藏独立运动人物]]"]]

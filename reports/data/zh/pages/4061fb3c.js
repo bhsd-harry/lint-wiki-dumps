@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",309,8,"At"],[1,"no-ignored",309,16," <math>r_{1l}r_{2l}<|z|<r_{1u}r_{2u}</math>  "],[1,"parsing-order",309,17,"<math>r_{1l}r_{2l}<|z|<r_{1u}r_{2u}</math>"]]

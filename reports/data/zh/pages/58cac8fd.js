@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",8,3," part_of        = 韓國新儒學書院\n "]]

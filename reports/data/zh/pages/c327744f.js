@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",43,64,"name=\"wiley\""],[1,"no-ignored",43,76,"  /\n\n 在2010年，文献中已知的FOXP3突变只有20个。<ref "],[1,"tag-like",45,28,"<ref"]]

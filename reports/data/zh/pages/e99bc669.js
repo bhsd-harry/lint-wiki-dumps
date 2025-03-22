@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",88,2,"[[Category:日本学]]"]]

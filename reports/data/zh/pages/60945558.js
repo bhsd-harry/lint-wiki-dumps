@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",45,312,"archivedate=https://web.archive.org/web/20020616143720/http://www.comunidadandina.org/ingles/common/mercosur2.htm"]]

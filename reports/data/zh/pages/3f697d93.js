@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",903,22,"]]"],[5,"no-ignored",1005,3,"!width=19%"],[1,"unmatched-tag",1272,2,"<small>"]]

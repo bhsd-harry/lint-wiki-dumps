@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",295,2,"[[Category:被指控危害人类罪人物]]"]]

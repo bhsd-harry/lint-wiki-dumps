@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",197,5,"align=center"],[1,"unmatched-tag",218,2,"</span>"]]

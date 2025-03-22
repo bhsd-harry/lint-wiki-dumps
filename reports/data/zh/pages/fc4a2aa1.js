@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",96,1,"\n [[Category:饒舌歌手]]\n [[Category:香港男歌手]]\n [[Category:香港創作歌手]]\n [[Category:2020年代出道的香港歌手]]\n\n == 演唱會／音樂會 ==\n\n === 大型售票音樂會及演唱會 ==="],[2,"unclosed-table",70,2,"{|"]]

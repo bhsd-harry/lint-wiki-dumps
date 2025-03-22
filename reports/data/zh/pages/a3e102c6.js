@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",31,33,"name=guardian161014/然而，一些官員認為那些死亡或受傷的人缺乏經驗且裝備不足。<ref"],[1,"tag-like",31,81,"<ref"]]

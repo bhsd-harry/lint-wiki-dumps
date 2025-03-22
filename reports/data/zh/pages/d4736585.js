@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",58,411,"last=菲律賓大氣地球物理和天文服務管理局"]]

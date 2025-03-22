@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",59,2,"[[Category:被判無期徒刑的美國囚犯|D]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",297,3,"nowrap"],[1,"no-ignored",379,175,"世界各国领导人列表"]]

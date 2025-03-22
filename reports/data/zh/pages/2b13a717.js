@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",134,1," -{"],[4,"lonely-bracket",134,3,"{"],[2,"no-duplicate",942,2,"[[Category:日本冒險小說]]"]]

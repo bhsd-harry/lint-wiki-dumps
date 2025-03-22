@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",26,2,"[[Category:明朝左副都御史]]"]]

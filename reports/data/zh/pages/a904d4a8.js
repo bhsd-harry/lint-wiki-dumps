@@ -1,0 +1,1 @@
+window.data=[[7,"illegal-attr",1215,3,"BBO"],[6,"lonely-bracket",1030,31,"["],[10,"no-duplicate",447,39,"style=\"width:120%\""],[5,"no-ignored",1095,3," 【Live】PØK1 保錡 "]]

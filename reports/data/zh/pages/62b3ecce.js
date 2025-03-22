@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",69,11,"de"],[2,"no-ignored",69,4," Hôtel "]]

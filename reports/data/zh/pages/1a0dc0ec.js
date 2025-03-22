@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",7,50,"链接=https://en.wikipedia.org/wiki/File:Provinces of Argentina by HDI (2016).svg"]]

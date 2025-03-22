@@ -1,0 +1,1 @@
+window.data=[[4,"invalid-gallery",36,25,"缩略图"],[1,"lonely-bracket",37,49,"]]"],[2,"no-duplicate",55,43," 1780"],[1,"no-ignored",35,1," File:Basra-ps64.JPG?uselang=fa] [[File:Basra-ps64.JPG|缩略图|Map of Persian Gulf"]]

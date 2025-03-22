@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",63,2,"[[Category:臺灣清治時期貞孝節烈牌坊]]"]]

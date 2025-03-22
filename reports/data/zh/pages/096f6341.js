@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",1017,15,"]]"],[2,"no-duplicate",1727,2,"[[Category:超人力霸王迪迦]]"],[2,"no-ignored",1054,21,"100%\""]]

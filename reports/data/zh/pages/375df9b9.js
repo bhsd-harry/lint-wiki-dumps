@@ -1,0 +1,1 @@
+window.data=[[2,"parsing-order",15,59,"<ref name=\"Boring\">{{cite web|url=https://medium.com/war-is-boring/ukraine-resurrects-soviet-era-super-drones-3403f80c51ba|title=Ukraine Resurrects So"]]

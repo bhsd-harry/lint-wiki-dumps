@@ -1,0 +1,1 @@
+window.data=[[4,"lonely-bracket",176,40,"{{"],[1,"lonely-http",84,140,"https:/"],[10,"no-duplicate",92,287,"website=Council 13 AFSCME "]]

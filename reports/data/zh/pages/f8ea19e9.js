@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",254,2,"[[Category:西東京市出身人物]]"],[24,"no-ignored",110,3,"年度"],[20,"parsing-order",110,19,"<br>"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",16,101,"xml:lang"],[6,"no-duplicate",62,25,"中"]]

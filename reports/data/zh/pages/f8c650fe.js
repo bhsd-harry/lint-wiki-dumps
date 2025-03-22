@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",160,2,"[[Category:從右到左書寫的文字]]"]]

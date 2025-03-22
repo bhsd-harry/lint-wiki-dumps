@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",163,3,"{{"],[2,"no-duplicate",685,24,"style=\"width:95%;\""],[1,"no-ignored",163,3,"{{link-yue"]]

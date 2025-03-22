@@ -1,0 +1,1 @@
+window.data=[[3,"lonely-bracket",7,1636,"["],[4,"lonely-http",118,738,"isbn"],[3,"nested-link",168,605,"[[美聯社]]"],[2,"no-duplicate",312,118,"author=趙月枝"],[1,"tag-like",120,1075,"</ref"]]

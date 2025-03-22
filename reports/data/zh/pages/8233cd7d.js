@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",320,14,"width:150"],[1,"tag-like",94,569,"<span"]]

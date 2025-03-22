@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",63,49,"Nanhu Park, Mengzi (20230405091153)"]]

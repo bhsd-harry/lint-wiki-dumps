@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",654,1,"\n === B组 ==="],[19,"illegal-attr",514,4,"tittle"],[1,"no-ignored",215,3," ID! "],[1,"unclosed-table",653,2,"{|"]]

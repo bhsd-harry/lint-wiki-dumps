@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",150,1,"\n == 注釋 ==\n {{noteFoot}}\n\n == 參考來源 ==\n {{reflist|2}}\n\n == 外部連結 ==\n * {{Facebook|101667375700803}}\n * {{Instagram|loveamy_official}}\n * {{YouTube|c=UCx"],[1,"unclosed-table",135,2,"{|"]]

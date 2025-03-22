@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",17,2,"[[Category:国民公会代表]]"]]

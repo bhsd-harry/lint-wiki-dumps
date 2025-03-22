@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",33,3,"flag_type = 國旗<br>（1858－1896）<br>（1896－1917）\n "]]

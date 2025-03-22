@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",28,27,"Tohtoumi-Ichinomiya 002.JPG"]]

@@ -1,0 +1,1 @@
+window.data=[[5,"no-ignored",206,30,"70%\""]]

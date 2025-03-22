@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",9,2,"[[Category:斯洛伐克男子冬季两项运动员]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",161,53,"230"],[1,"no-ignored",1292,54,"3期]"]]

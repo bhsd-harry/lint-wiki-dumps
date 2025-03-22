@@ -1,0 +1,1 @@
+window.data=[[2,"no-ignored",1570,36,"通常盘"],[2,"unmatched-tag",234,96,"<center>"]]

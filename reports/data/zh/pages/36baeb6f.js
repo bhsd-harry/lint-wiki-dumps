@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",58,1," * 英语英文学科\n * 食物荣养学科\n * 生活设计学科\n ** [[室内设计]]专攻<ref group=\"注\"  name=\"招生到2006年\">招生到2006年。</ref>\n ** 服装设计专攻<ref group=\"注\"  name=\"服装设计专攻\">日语:{{lang|ja|アパレルデ"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",47,2,"[[Category:德國足球俱樂部]]"]]

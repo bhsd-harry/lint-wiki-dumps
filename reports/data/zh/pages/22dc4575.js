@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",37,2,"[[Category:大名县建筑物]]"]]

@@ -1,0 +1,1 @@
+window.data=[[3,"lonely-bracket",843,8,"}}"],[1,"no-ignored",12,4,":異世奇人故事列表 (復活系列)#系列總覽"],[2,"tag-like",843,2,"</ref"]]

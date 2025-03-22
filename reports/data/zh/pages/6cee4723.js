@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",31,52,"香美市位置圖"]]

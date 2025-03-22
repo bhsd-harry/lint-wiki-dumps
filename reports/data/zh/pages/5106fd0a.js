@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",42,146,"name=\"李青霖、范榮達\""],[1,"no-ignored",42,160,"/。2009年3月，鄉賢祠完工<ref "],[1,"tag-like",42,175,"<ref"]]

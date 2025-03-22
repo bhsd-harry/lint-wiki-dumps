@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",43,1," * [[汽车|自动车]][[工业]]科"]]

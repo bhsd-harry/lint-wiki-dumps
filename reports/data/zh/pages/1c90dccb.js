@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",44,19,"自动晋级"]]

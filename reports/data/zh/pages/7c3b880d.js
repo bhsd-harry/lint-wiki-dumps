@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",5,47,"upright=1.75<!--fmt for very small text-->"]]

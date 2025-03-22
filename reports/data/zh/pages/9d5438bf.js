@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",87,2,"[[Category:法屬圭亞那河流]]"]]

@@ -1,0 +1,1 @@
+window.data=[[19,"no-duplicate",7,18,"=\n "]]

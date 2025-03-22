@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",59,2,"[[Category:韓國女歌手]]"]]

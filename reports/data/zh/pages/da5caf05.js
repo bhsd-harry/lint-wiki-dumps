@@ -1,0 +1,1 @@
+window.data=[[4,"illegal-attr",30,49,"worldometer.info"],[1,"lonely-bracket",30,90,"}}"],[1,"tag-like",32,137,"<ref"]]

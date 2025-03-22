@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",20,14,"name=\"郭芷瑄 2019\""],[1,"no-ignored",20,29,"/<ref "],[1,"tag-like",20,30,"<ref"]]

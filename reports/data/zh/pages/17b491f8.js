@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",63,33,"{{flagicon|EU}}"]]

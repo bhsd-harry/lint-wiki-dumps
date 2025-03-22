@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",6,3," 道路英文名 = Guangfo Shinkansen\n "]]

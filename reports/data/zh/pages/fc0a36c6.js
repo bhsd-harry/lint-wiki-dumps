@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",127,41,"width"],[7,"invalid-gallery",128,34,"thumb"],[2,"no-duplicate",140,30,"mini"],[1,"unmatched-tag",38,20,"</small>"]]

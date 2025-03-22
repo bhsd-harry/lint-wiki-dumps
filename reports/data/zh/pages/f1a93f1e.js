@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",154,1,"\n ==參考資料==\n <references />\n\n == 外部連結 ==\n * {{Official website}}\n\n [[Category:大安區組織 (臺北市)]]\n [[Category:臺灣動物保護組織]]\n [[Category:中華民國協會]]\n [[Category:中華民"],[1,"no-ignored",128,7,"趙连芳"],[1,"unclosed-table",125,2,"{|"]]

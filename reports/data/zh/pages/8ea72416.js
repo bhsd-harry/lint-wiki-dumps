@@ -1,0 +1,1 @@
+window.data=[[14,"illegal-attr",11,16,"cellspacing"],[2,"no-duplicate",10,51,"width=\"310\""]]

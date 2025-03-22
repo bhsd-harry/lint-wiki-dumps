@@ -1,0 +1,1 @@
+window.data=[[1,"parsing-order",4,49,"<ref name=\"旅之藏\">[http://shichinohe.org/chinese/cht/misawa.htm 旅之藏｜日本國青森縣七戶町  三澤市‧奧入瀨町區域] {{webarchive|url=https://web.archive.org/web/20131219013547/h"]]

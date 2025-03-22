@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",119,2,"[[Category:重庆人]]"]]

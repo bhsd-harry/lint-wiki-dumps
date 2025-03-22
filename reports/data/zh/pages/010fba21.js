@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",317,44,"}}"],[1,"no-ignored",317,13,"某超级大国出动！<BR>（lang"],[1,"parsing-order",317,21,"<BR>"]]

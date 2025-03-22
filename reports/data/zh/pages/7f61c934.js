@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",150,2,"[[Category:ZEROBASEONE]]"]]

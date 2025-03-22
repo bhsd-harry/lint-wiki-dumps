@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",151,2,"[[Category:國家聯盟打擊王]]"]]

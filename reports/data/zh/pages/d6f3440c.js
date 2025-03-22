@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",45,3," years              = 1990年7月2日\n "]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",83,2,"[[Category:軍用直升機]]"]]

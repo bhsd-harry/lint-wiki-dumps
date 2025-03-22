@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",13,3,"管理者 = 東京都\n "]]

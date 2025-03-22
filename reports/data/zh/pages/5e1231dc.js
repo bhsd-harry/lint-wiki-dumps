@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",2,34,"签名日章旗"]]

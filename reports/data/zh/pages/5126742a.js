@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",87,49,"]"],[2,"no-duplicate",10,39,"style=\"margin:3px; border:3px solid #000000;\""]]

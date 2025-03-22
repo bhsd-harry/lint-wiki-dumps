@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",9,3,"坐标 = {{WikidataCoord|display=it}}\n "]]

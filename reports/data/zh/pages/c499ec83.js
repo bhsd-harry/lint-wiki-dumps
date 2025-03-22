@@ -1,0 +1,1 @@
+window.data=[[1,"invalid-gallery",51,22,"thumb"],[1,"lonely-bracket",51,33,"]]"],[2,"no-duplicate",51,28,"鵝鑾鼻燈塔]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",70,2,"[[category:台灣小說家]]"]]

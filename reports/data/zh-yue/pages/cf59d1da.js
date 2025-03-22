@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",10,3," free_label = \n "],[2,"no-ignored",36,82," color"]]

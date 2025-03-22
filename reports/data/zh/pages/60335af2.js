@@ -1,0 +1,1 @@
+window.data=[[3,"lonely-bracket",352,465,"}}"],[1,"no-ignored",46,49,"  id-\"GHG-ranking\""]]

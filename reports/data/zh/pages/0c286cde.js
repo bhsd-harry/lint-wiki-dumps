@@ -1,0 +1,1 @@
+window.data=[[2,"invalid-isbn",173,124,"ISBN 1557180003"],[1,"no-ignored",104,4,"</ref>"],[1,"tag-like",104,4,"</ref"]]

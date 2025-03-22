@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",13,2,"[[Category:匈牙利男子击剑运动员]]"]]

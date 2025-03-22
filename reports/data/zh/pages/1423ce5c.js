@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",82,53,"width:75%;text-align: center;\""],[1,"unmatched-tag",93,45,"</small>"]]

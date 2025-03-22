@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",314,3,"lign"],[2,"lonely-bracket",93,169,"]]"],[1,"lonely-http",409,53,"ISBN"],[2,"no-duplicate",105,1220,"accessdate=2020-08-25 "]]

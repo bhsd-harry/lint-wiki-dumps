@@ -1,0 +1,1 @@
+window.data=[[4,"no-ignored",215,4,"iOS、Android"]]

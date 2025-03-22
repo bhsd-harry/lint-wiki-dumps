@@ -1,0 +1,1 @@
+window.data=[[12,"no-duplicate",5,3,"office         = [[Minister without Portfolio]]\n "]]

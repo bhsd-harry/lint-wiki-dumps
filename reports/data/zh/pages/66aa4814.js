@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",481,85,"}}"],[2,"no-duplicate",648,51,"road connection={{中国国道名|234}}"]]

@@ -1,0 +1,1 @@
+window.data=[[7,"illegal-attr",6,69,"width"],[2,"no-ignored",1418,690,"燦多"]]

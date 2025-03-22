@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",77,2,"[[Category:2024年夏季奧林匹克運動會足球運動員]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",57,2,"[[Category:美國職棒大聯盟一壘手]]"]]

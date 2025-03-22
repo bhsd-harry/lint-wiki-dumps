@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",26,2,"[[Category:中国美术家协会会员]]"]]

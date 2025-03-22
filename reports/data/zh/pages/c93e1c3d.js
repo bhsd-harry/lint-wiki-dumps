@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",171,67,"[["],[2,"no-duplicate",171,35,"Perching among the foliage of a [[Ceiba pentandra"],[1,"no-ignored",162,1," File:Common Myna (Acridotheres tristis)- Immature at nest in [[Kolkata]] I IMG 7877.jpg|西孟加拉邦巢中的亞成鳥"]]

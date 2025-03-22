@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",434,89,"center"],[1,"no-ignored",731,20," ; text-align:center;\""],[1,"unmatched-tag",817,54,"<small>"]]

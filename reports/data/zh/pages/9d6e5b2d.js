@@ -1,0 +1,1 @@
+window.data=[[2,"no-ignored",326,20,"科普来特斯峡谷"]]

@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",14,2,"[[Category:子部釋家類]]"]]

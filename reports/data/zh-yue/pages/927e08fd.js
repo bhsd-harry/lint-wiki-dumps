@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",49,17,"wideth"],[2,"unescaped",322,164,"="]]

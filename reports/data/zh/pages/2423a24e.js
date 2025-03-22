@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",17,97,"name=”Matsuoka。"],[1,"no-ignored",17,112," 土石緩滑在廣闊的山區和冰緣低地廣汎的分佈與其低速率活動形成鮮明對比。<ref "],[1,"tag-like",17,147,"<ref"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",10,2,"[[Category:完颜氏|S]]"]]

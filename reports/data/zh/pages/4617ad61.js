@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",296,1292,"}"],[1,"lonely-http",169,1194,"https://"],[2,"no-duplicate",45,3,"website          = {{Official URL}}\n "],[3,"tag-like",167,1655,"<  /ref"]]

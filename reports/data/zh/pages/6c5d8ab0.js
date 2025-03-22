@@ -1,0 +1,1 @@
+window.data=[[8,"no-duplicate",25,13,"romaji=ジューンテイク"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",364,18,"'"],[2,"no-duplicate",805,2,"[[Category:格拉斯哥男演員]]"]]

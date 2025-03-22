@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",165,64,"align=\"right\""],[14,"unmatched-tag",231,2,"</td>"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",282,2,"[[Category:尾道市背景作品]]"]]

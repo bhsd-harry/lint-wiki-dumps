@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",41,2,"[[Category:臺灣—瑞典關係| ]]"]]

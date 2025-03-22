@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",92,119,"spellcheck"],[2,"lonely-bracket",342,34,"[["],[6,"no-ignored",130,4,"||'''藍 父'''||藍嘉永、藍嘉文之父<br>多年前為救藍嘉永而被車撞死"],[12,"parsing-order",130,26,"<br>"]]

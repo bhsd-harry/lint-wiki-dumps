@@ -1,0 +1,1 @@
+window.data=[[24,"no-ignored",153,3,"年度"],[20,"parsing-order",153,19,"<br>"]]

@@ -1,0 +1,1 @@
+window.data=[[3,"illegal-attr",425,96,"mw-collapsible"],[6,"no-ignored",425,77,"\"font-size:small\"  "]]

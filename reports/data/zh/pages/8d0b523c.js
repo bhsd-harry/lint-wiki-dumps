@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",63,1," ;[[大空翼]]\n ;[[日向小次郎]]\n ;[[若林源三]]"],[152,"no-ignored",61,21,"|||style=\"width:7%\"|||style=\"width:7%\""]]

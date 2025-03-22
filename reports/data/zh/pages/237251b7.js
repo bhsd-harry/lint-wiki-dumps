@@ -1,0 +1,1 @@
+window.data=[[2,"pipe-like",871,98,"楊大正（滅火器 Fire EX.主唱）\n 吳志寧（929 主唱、2016 搖滾台中共同策展人）\n 陳低低（Legacy Taichung 總監）||誠品園道店"]]

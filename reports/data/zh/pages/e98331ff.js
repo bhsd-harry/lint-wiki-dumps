@@ -1,0 +1,1 @@
+window.data=[[1,"parsing-order",457,80,"<ref>{{cite news|author=羅添斌|title=兩架IDF翔昇原型機升級 加入機隊|url=http://news.ltn.com.tw/news/politics/paper/983095|newspaper=自由時報|location=台北市|date=2016-04-26|"]]

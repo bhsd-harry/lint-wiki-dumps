@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",613,2,"[[Category:泰国女演员]]"]]

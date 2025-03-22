@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",191,1," [[File:Cabinet of albania logo.svg|150px|阿尔巴尼亚内阁Logo]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",12,2,"[[Category:美國奧運冰球運動員]]"]]

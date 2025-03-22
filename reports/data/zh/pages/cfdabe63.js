@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",35,49,"链接=https://zh.wikipedia.org/wiki/File:Verbatim 16x DVD-R spindle 20050708.png"]]

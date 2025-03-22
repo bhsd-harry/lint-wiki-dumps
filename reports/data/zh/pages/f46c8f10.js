@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",284,4,"{{"],[2,"no-duplicate",437,2,"[[Category:臺灣網路節目主持人]]"],[1,"no-ignored",284,3," {{Plainlist"]]

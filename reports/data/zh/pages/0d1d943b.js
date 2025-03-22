@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",11,3," parent_authority = \n "]]

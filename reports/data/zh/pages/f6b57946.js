@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",88,1," ;智慧四街新运河路（站位位于智慧四街，A出入口向东约600米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|198西|198北}}\n {{col-end}}"]]

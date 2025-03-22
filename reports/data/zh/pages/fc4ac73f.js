@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",1,15,"|弗羅茨瓦夫市政廳"]]

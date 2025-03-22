@@ -1,0 +1,1 @@
+window.data=[[14,"illegal-attr",16,204,"border:2px"],[3,"lonely-bracket",94,73,"{{"],[26,"no-ignored",16,151,"style\":\"text-align:center; border-collapse:collapse; "]]

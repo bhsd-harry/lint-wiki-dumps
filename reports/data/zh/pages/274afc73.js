@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",26,133,"{{"],[2,"no-duplicate",26,99,"每個[[面 (幾何)|面]]都是不同顏色的希洛西七面體正交投影圖。 {{nowrap"]]

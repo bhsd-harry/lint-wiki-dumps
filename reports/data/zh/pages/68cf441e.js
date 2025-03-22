@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",141,2,"[[Category:2020年代災難片]]"]]

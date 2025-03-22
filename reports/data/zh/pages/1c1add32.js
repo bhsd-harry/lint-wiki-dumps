@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",269,3,"Movie6全民票選電影大獎"]]

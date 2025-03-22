@@ -1,0 +1,1 @@
+window.data=[[3,"invalid-gallery",105,77,"thumb"],[1,"no-ignored",50,53,"width:80%;text-align: center;\""]]

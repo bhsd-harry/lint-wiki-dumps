@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",73,114,"}}"],[2,"no-duplicate",38,7,"2={{clade\n      |1={{clade\n       |1=[[曲鼻龙]] ''Sinusonasus'' [[File:Sinusonasus.png|80px]] }}\n       |2=[[西峡龙]] ''Xixiasaurus'' [[File:Xixiasaurus.jpg"]]

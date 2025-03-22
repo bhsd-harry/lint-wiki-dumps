@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",15,2,"[[Category:英语词语]]"]]

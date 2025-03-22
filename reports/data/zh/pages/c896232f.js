@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",466,36,"{{"],[1,"no-ignored",466,11,"{{tsl|ja|婚活刑事|婚活刑事}}<br>（{{Lang"],[1,"parsing-order",466,31,"<br>"]]

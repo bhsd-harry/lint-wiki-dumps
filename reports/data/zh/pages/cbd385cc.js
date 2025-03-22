@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",4,3,"1=zh-hans:马尔代夫行政区划;zh-hant:馬爾代夫行政區劃;zh-hk:馬爾代夫行政區劃;zh-sg:马尔代夫行政区划;zh-tw:馬爾地夫行政區劃;zh-mo:馬爾代夫行政區劃;\n "]]

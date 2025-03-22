@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",119,2,"[[Category:台灣LGBT相關電影]]"]]

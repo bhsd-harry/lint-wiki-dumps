@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",106,39,"width:10%''"]]

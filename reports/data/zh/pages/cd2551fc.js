@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",11,4," 希腊字母Sigma的字符值引用 "]]

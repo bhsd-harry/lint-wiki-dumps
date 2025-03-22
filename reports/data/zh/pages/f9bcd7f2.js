@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",62,9,"白色強人<ref name=\"KKJ\">{{cite web |author1=朱滙林 |title=無標題 |url=https://www.facebook.com/permalink.php?story_fbid=pfbid0384AAf3Sb5ezk8FPD6N1dcJGYY8hAXZVnQ"],[1,"parsing-order",62,13,"<ref name=\"KKJ\">{{cite web |author1=朱滙林 |title=無標題 |url=https://www.facebook.com/permalink.php?story_fbid=pfbid0384AAf3Sb5ezk8FPD6N1dcJGYY8hAXZVnQSxZL"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",236,1," * 2024 - {{flagicon | ESP}} [[西班牙国家足球队]]\n * 2023 - {{flagicon | ENG}} [[曼徹斯特城足球俱樂部|曼城]]\n * 2022 - {{flagicon | ARG}} [[阿根廷国家足球队]]\n * 2021 - {{flagico"]]

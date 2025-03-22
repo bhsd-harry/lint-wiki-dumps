@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",8,3," recorded       = 2002年\n "]]

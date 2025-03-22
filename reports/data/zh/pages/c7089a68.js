@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",2265,13,"xemu.app"],[1,"lonely-bracket",2265,28,"{{"],[1,"lonely-http",2265,5,"https://"],[2,"no-ignored",2265,3," [https://"]]

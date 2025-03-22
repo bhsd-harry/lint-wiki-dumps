@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",167,134,"{"],[2,"no-duplicate",441,5,"style=\"{{Table center}}\""],[1,"tag-like",124,1340,"<span"],[6,"unmatched-tag",15,72,"</small>"]]

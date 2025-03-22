@@ -1,0 +1,1 @@
+window.data=[[3,"lonely-bracket",249,2,"}}"],[10,"no-duplicate",8,3," nations       = 12\n "]]

@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",85,3986,"accessdate=13 April 2016 "],[1,"unclosed-table",348,2,"{|"],[1,"unmatched-tag",715,13,"</div>"]]

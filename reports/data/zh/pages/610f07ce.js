@@ -1,0 +1,1 @@
+window.data=[[72,"fostered-content",51,1," '''[[1927/1928]] （[[第1屆奧斯卡金像獎|第1屆]]）'''{{NoteTag|該年度獎項名稱為「'''最佳寫作，改編'''」(Best Writing, Adapatation)}}\n * '''《[[第七天堂_(1927年电影)|第七天堂]]》（''Seventh Heave"],[4,"illegal-attr",833,24,"rowspan"],[2,"no-ignored",833,103," #f6e39c;"]]

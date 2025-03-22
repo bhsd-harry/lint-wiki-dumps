@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",66,64,"Pingguo Stadium (Double Third Festival 2023)"]]

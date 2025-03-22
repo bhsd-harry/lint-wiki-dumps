@@ -1,0 +1,1 @@
+window.data=[[3,"no-duplicate",26,51,"nhỏ"]]

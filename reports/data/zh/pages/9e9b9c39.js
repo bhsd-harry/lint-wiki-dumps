@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",15,2,"[[Category:吐瓦魯財政部部長]]"]]

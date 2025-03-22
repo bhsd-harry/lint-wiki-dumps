@@ -1,0 +1,1 @@
+window.data=[[20,"illegal-attr",121,29,"border-top:solid"],[10,"no-duplicate",121,46,"2px"],[10,"no-ignored",121,49," gray; "]]

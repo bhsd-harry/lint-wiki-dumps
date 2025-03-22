@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",1165,1,"\n *公開第一個評價《Planet 探索戰》——公開個人初評級順位，透過自由分組進行表演後，經由導師選擇出的TOP9成員，將可以優先選擇自己的隊員。\n"],[1,"no-ignored",8156,4,"'''</span>"],[1,"parsing-order",8156,7,"</span>"],[1,"unclosed-table",991,2,"{|"],[1,"unmatched-tag",8156,7,"</span>"]]

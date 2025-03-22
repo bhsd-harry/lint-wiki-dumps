@@ -1,0 +1,1 @@
+window.data=[[6,"lonely-bracket",343,3,"[["],[2,"no-duplicate",342,16,"name=\"Cast\""],[1,"no-ignored",342,27,"  /\n |[[卓巴茨仁旺姆]]\n |-\n |{{nihongo|絲吉|スージー}}\n |[[佐佐木菜摘]]<ref "],[1,"tag-like",346,12,"<ref"]]

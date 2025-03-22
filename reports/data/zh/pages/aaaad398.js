@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",86,488,"newspaper=中國檔案報"]]

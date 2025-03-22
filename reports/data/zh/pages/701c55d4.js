@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",65,2,"[[Category:空氣動力學]]"]]

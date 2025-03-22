@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",61,12,"'"],[1,"nested-link",205,77,"[[Congressional apportionment]]"],[6,"no-ignored",17,480,"  inline\"\"=\"\""]]

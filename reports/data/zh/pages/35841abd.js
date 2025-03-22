@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",228,2,"[[Category:美国军事科技人物]]"]]

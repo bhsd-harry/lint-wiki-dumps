@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",108,2,"[[Category:牧夫座]]"]]

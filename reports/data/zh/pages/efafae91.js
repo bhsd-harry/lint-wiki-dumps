@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",90,2,"[[category:迪拜摩天大楼]]"]]

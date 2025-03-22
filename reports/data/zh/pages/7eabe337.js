@@ -1,0 +1,1 @@
+window.data=[[7,"invalid-gallery",119,57,"360px"],[2,"no-duplicate",183,2,"[[Category:臺灣鐵路文化資產|苗]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",15,3," 教育程度 = 大學\n "],[1,"unclosed-table",512,2,"{|"],[1,"unmatched-tag",775,13,"</div>"]]

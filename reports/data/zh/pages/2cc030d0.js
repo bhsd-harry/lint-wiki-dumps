@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",46,36,"道命 宇治拾遺物語 万治二年刊本"]]

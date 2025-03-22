@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",42,117,"name=\"邱莉玲、蕭承訓、丁世傑\""],[1,"no-ignored",42,135,"。他代理英國的WATERFORD水晶器皿及WEGEWOOD瓷器<ref "],[1,"tag-like",42,166,"<ref"]]

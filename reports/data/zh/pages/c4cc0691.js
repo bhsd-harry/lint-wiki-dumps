@@ -1,0 +1,1 @@
+window.data=[[14,"no-duplicate",15,25,"frameless"],[1,"unmatched-tag",30,2,"</table>"]]

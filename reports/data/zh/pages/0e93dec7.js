@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",13,3," constituency1 = [[老街 (果敢)|老街]]第一选区\n\n "]]

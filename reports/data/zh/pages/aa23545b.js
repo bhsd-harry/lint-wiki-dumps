@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",443,1," # [[File:Cruz Roja.svg|12px]]者為傷患球員"],[4,"no-duplicate",613,3,"align=center"],[16,"no-ignored",163,36," text-align:center;\"  "]]

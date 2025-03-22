@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",93,70,"[["],[1,"unclosed-table",42,2,"{|"]]

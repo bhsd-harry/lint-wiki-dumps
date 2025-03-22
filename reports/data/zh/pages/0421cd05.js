@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",22,59,"链接=https://en.wikipedia.org/wiki/File:Dog and cat showing fight or flight responses.jpg"]]

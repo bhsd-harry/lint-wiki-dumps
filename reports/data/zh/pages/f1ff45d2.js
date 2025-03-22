@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",1367,1," 潤娥創下韓國演員一年內最多封面紀錄，2017年，潤娥分別於2月號的《DAZED&CONFUSED》、5月號的《GRAZIA》、8月號的《W》、9月號的《allure》、11月號的《InStyle》及12月號《Marie Claire》和《Style朝鮮》擔任封面人物<ref>{{cite news"],[4,"lonely-bracket",1111,75,"["],[1,"unclosed-table",1366,2,"{|"]]

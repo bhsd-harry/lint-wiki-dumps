@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",35,3," term_start4 = 2007年1月10日\n "]]

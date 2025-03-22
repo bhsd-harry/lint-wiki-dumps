@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",14,3," office1 = [[第6届俄罗斯国家杜马]]议员\n "]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",144,3," previous_election = \n "]]

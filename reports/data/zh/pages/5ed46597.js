@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",53,1," * 健康营养学科　\n * 幼儿教育学科"],[22,"no-duplicate",28,32,"name=\"全国短期大学高等専门学校一覧2011\""],[11,"no-ignored",28,57,"/<ref "],[11,"tag-like",28,58,"<ref"]]

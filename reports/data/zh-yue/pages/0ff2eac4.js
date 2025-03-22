@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",55,35,"thumb"]]

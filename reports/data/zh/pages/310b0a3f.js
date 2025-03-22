@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",135,1,"\n == 巴士路線 ==\n 車站附近設有{{Translink|ja|北鉄金沢バス|北鐵金澤巴士}}{{Translink|ja|北鉄金沢バス野々市営業所#錦町野々市線|北鐵金澤巴士野野市營業所#錦町野野市線|錦町野野市線}}和{{Translink|ja|北鉄金沢バス野々市営業所#野々市線|北鐵金"],[1,"unclosed-table",77,2,"{|"]]

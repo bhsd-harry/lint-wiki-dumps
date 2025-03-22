@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",89,2,"[[Category:新竹市醫院]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",7,3,"d2=法语：Joël \n "]]

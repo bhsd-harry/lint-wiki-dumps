@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",161,1,"\n == 道地美食 ==\n [[File:Tong Fang Kopitiam.jpg|200px|thumb|东方茶餐室]]\n [[File:Seventy Two Food Court.jpg|200px|thumb|美食七十二变]]\n 峇株市有不少既美味又可口的道地美食，并以福建和潮州式为主。"],[1,"unclosed-table",160,2,"{|"]]

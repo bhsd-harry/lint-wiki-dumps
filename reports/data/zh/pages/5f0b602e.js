@@ -1,0 +1,1 @@
+window.data=[[16,"illegal-attr",1,112,"Helvetica"],[4,"no-duplicate",1,178,"Sans"],[12,"no-ignored",1,121," Neue\",  \"PingFang SC\",  \"Microsoft YaHei\",  \"Source "]]

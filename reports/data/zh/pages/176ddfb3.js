@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",48,1," * 社会科学科"],[1,"unclosed-table",65,2,"{|"]]

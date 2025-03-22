@@ -1,0 +1,1 @@
+window.data=[[6,"illegal-attr",27,26,"font-family:"],[4,"no-duplicate",27,54,"0"],[1,"no-ignored",27,38," Arial; "]]

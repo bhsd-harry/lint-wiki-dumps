@@ -1,0 +1,1 @@
+window.data=[[2,"nested-link",208,262,"[[有線寬頻通訊有限公司|有線寬頻]]"],[2,"no-duplicate",69,18,"align=\"center\""]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",86,2,"[[Category:中华人民共和国云南省故意杀人命案]]"]]

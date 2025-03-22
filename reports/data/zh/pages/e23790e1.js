@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",76,2,"[[Category:清朝刑部侍郎]]"]]

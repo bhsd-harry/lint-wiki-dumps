@@ -1,0 +1,1 @@
+window.data=[[9,"illegal-attr",127,5,"Auto"],[2,"no-ignored",127,16," || 急速行動 || || "]]

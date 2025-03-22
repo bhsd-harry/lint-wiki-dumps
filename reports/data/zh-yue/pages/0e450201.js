@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",11,56,"縮圖"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",25,59,"臺灣[[竹子湖]]的"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",387,3,"update=complete\n\n <!--UPDATE standings below (including date)-->\n "]]

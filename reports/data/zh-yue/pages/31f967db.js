@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",3,2,"[[Category:美國軍校]]"]]

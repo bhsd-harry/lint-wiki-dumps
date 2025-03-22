@@ -1,0 +1,1 @@
+window.data=[[4,"illegal-attr",27,4,"Ripple"],[1,"no-ignored",29,7," (currency)"]]

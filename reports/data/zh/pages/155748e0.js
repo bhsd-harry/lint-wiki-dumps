@@ -1,0 +1,1 @@
+window.data=[[10,"illegal-attr",236,4,"One"],[2,"no-ignored",236,41," Europe, "]]

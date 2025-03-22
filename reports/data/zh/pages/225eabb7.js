@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",105,53,"colspan"],[2,"no-duplicate",105,23,"align=\"right\""],[1,"no-ignored",105,36,"  | '''投票率''' || "]]

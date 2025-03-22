@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",198,2,"[[Category:单人电子游戏]]"]]

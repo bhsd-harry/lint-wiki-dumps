@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",143,2,"[[Category:人口贩卖| ]]"]]

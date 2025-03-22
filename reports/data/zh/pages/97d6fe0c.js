@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",74,74,"Remus and the Cattle Thieves (attributed to one or more of the Carraccis)"]]

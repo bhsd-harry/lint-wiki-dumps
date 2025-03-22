@@ -1,0 +1,1 @@
+window.data=[[8,"no-duplicate",11,46,"lat_sec=11"]]

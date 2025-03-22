@@ -1,0 +1,1 @@
+window.data=[[3,"lonely-bracket",44,1436,"{{"],[2,"no-duplicate",107,47," {{center"]]

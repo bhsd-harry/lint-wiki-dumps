@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",49,63,"text-align:"],[2,"no-ignored",49,52,"width:80%; "]]

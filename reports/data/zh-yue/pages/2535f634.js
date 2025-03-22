@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",17,3," num_employees = 836人<small>（2015年）</small>\n "]]

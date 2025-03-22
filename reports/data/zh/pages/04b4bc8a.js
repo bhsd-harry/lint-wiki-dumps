@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",47,4,"nowrap"],[2,"no-ignored",14,104,"萬國博览会"]]

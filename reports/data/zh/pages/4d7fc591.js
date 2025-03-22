@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",57,32,"style=\"  font-size: 90% width= align= margin:auto;\""]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",53,2,"[[Category:肯塔基大学教师]]"]]

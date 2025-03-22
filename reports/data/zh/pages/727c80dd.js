@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",82,1," File::TRA DaCiao Station.jpg|大橋車站"],[1,"unmatched-tag",55,74,"</small>"]]

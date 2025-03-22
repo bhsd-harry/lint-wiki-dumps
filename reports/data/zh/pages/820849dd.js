@@ -1,0 +1,1 @@
+window.data=[[12,"no-duplicate",32,33,"style=\"font-size:90%\""],[2,"no-ignored",77,4," {|class=\"wikitable\"  "]]

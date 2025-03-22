@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",84,95,"name=Baueretal2012"],[1,"no-ignored",84,113," /<ref "],[1,"tag-like",84,115,"<ref"]]

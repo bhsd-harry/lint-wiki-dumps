@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",19,26,"'"],[1,"unclosed-table",25,2,"{|"]]

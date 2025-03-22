@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",154,1," * {{flagicon|UK}}[[英国]][[考文垂]]（1948年）\n * {{flagicon|USA}}[[美国]][[蒙特克萊]]（1950年）\n * {{flagicon|Netherlands}}[[荷兰]][[格罗宁根]]（1965年）\n * {{flagicon|Germany"]]

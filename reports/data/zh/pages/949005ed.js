@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",78,38,"Minuteman III launch"]]

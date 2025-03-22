@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",10,62,"http://vignette2.wikia.nocookie.net/hk-rail/images/e/ea/LR_Network_Map_KX.png/revision/latest?cb=20100808070551&path-prefix=zh"]]

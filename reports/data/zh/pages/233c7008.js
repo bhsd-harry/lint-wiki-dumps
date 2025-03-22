@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",12,3," occupation   = 演员，剧作家，电影导演，舞台剧演员\n "]]

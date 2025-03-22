@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",239,24,"rowspan"],[1,"no-ignored",239,103," #f6e39c;"]]

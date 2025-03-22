@@ -1,0 +1,1 @@
+window.data=[[14,"illegal-attr",505,3,"font"],[2,"no-duplicate",13,35,"style=\"margin: 0 0 1em 1em\""]]

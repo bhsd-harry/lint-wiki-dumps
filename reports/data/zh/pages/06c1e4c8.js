@@ -1,0 +1,1 @@
+window.data=[[3,"illegal-attr",144,5,"border"],[2,"no-duplicate",184,2,"[[Category:台灣女性模特兒]]"]]

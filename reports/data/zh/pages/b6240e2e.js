@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",155,73,"0-5"],[1,"no-ignored",155,3,"{{flagIOCathlete|[[Bohumil Němeček|Němeček]]|TCH|1960年夏季}}<br>'''L''' "],[1,"parsing-order",155,61,"<br>"]]

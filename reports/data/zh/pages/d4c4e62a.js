@@ -1,0 +1,1 @@
+window.data=[[3,"lonely-bracket",106,5,"{{"],[2,"no-ignored",106,4," {{#sitcg:{{{team}}}|CLE|CLE=bgcolor=\"#CCFFCC'}}"]]

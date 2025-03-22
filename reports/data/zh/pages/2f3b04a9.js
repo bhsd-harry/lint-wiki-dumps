@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",192,25,"{{"],[2,"no-ignored",269,3,"<small>瑞士日內瓦</small>"],[2,"parsing-order",269,3,"<small>"]]

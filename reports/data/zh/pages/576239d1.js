@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",83,11,"[["],[2,"no-ignored",83,4,"    || [[Coco d'Or Parfait]] || 2004年9月30日"]]

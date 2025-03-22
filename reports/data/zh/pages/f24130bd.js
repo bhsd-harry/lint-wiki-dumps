@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",65,47,"image.jpg"]]

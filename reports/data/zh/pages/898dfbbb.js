@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",1230,3,"(qf.289)寫於2018年2月6日<br>"],[1,"parsing-order",1230,22,"<br>"]]

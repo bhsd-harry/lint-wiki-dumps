@@ -1,0 +1,1 @@
+window.data=[[1,"nested-link",5,821,"[[冠狀動脈疾病|coronary artery disease]]"]]

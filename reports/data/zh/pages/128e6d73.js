@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",35,17,"align:left"],[2,"no-duplicate",287,272,"access-date=2024-01-24"]]

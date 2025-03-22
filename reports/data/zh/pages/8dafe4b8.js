@@ -1,0 +1,1 @@
+window.data=[[44,"no-duplicate",37,4,"style=\"background: gold;\""],[23,"no-ignored",35,35,"150%\""]]

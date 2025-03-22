@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",42,2,"[[Category:薩哈共和國首腦]]"]]

@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",62,5,"bgcolor=\"beige\""]]

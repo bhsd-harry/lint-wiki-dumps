@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",288,2,"[[Category:澳門格蘭披治大賽車|2]]"]]

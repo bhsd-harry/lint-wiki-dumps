@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",123,99,"RIGHT"],[1,"no-ignored",74,32," #F4F0EC;"]]

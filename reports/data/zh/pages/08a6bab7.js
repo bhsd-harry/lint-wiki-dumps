@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",67,2,"[[Category:原蜥腳下目|L]]"]]

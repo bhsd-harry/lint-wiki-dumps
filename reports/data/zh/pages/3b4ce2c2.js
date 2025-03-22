@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",29,206,"url=http://www.johnsonelectric.com/~/media/Files/News/Company/zh/2015/c_20151028-press_completetion-acquisition-stackpole.ashx?la=zh "]]

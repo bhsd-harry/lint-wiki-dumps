@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-http",36,309,"ISBN"],[16,"no-duplicate",894,4,"style=\"background:#CEF6F5; color:black\""],[1,"no-ignored",341,56,"   新湘语与老湘语的词汇差异"],[1,"unclosed-table",1085,2,"{|"]]

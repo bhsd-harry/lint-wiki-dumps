@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",131,34,"}}"],[1,"no-ignored",131,3,"{{link-ko|許長江|허장강}}《{lk"]]

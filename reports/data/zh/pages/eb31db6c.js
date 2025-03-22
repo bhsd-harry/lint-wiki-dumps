@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",253,1,"\n == 参考文献 ==\n {{Reflist}}\n\n == 外部連結 ==\n * [http://www.tunghai74.org/letters/CookingOil.htm 食用炒菜油的「冒煙點」] {{Wayback|url=http://www.tunghai74.org/letters"],[1,"unclosed-table",63,2,"{|"]]

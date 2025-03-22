@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",132,5,"span"],[2,"no-duplicate",300,64,"缩略图"]]

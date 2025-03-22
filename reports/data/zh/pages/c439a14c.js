@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",121,1," [[File:Mourning ceremony Victor Choi.jpg|spontaneous mourning ceremony in St.Petersburg]]"]]

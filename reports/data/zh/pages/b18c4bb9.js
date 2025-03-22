@@ -1,0 +1,1 @@
+window.data=[[4,"no-ignored",23,3," 夢幻陣容位置"]]

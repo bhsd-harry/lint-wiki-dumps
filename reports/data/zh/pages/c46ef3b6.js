@@ -1,0 +1,1 @@
+window.data=[[1,"parsing-order",9,31,"<ref>Duffy  &  Kandalov 1996, p.105</ref>"],[1,"unmatched-tag",54,694,"</p>"]]

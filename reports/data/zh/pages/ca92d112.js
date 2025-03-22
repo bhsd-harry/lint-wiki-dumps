@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",60,2,"[[Category:日本參議院議員 (1950年—1956年)]]"]]

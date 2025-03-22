@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",11,3,"familycolor=尼日尔-刚果语系\n "]]

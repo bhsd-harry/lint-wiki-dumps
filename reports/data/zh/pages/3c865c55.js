@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",7,3," format         = 8cm [[單曲|單曲CD]]<br/>[[單曲]] (再發售)\n "]]

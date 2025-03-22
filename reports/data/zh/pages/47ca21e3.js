@@ -1,0 +1,1 @@
+window.data=[[8,"no-duplicate",21,27,"alt1=Diagram of the nitrogen cycle"]]

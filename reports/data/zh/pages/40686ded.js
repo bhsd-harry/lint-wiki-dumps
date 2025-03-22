@@ -1,0 +1,1 @@
+window.data=[[20,"no-duplicate",83,2,"[[Category:泰勒·斯威夫特歌曲]]"]]

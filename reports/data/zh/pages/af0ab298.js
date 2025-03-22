@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",67,4,"寇世勳、席曼寧"]]

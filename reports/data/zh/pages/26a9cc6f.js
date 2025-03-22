@@ -1,0 +1,1 @@
+window.data=[[20,"no-duplicate",643,3,"align=\"left\""],[2,"no-ignored",330,15,"  text-align:left\"  "]]

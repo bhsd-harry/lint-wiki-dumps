@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",6,3," color = #c3d6e0\n "]]

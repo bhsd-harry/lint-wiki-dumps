@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",63,1," * [[管理信息系统|管理信息]]学科<ref group=\"注\"  name=\"管理信息学科招生\"/>\n * 食物营养学科\n * 儿童教育学科"]]

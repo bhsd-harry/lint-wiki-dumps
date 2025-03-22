@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",14,1," [[File:GaugeHeightVernier-Electronic.jpg|thumb|高度計]]"]]

@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",249,2,"[[Category:2012年背景作品]]"]]

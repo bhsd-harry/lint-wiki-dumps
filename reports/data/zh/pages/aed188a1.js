@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",47,1," * 家政科\n * 食物科\n * 英语科"]]

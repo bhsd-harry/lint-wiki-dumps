@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",364,24,"collapsible"],[4,"invalid-gallery",313,12,"thumb"],[1,"no-ignored",364,35," collapsed\""]]

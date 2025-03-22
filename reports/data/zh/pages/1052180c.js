@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",126,2,"[[Category:亞洲高原]]"]]

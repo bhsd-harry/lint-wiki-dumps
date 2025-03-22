@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",181,69,"[["],[2,"no-duplicate",179,29,"name=\"FDA snapshot\""],[1,"no-ignored",179,48,"  /\n\n 由Amivas製藥生產的靜脈注射青蒿琥酯提出的申請獲得FDA優先審查（以加速藥物上市、促進藥物研發及提升公共健康）及核准的待遇，也獲得[[孤兒藥]]資格認定。 <ref "],[1,"tag-like",181,82,"<ref"]]

@@ -1,0 +1,1 @@
+window.data=[[3,"illegal-attr",152,616,"contenteditable"],[2,"no-duplicate",204,2,"[[Category:中国民族主义|* ]]"]]

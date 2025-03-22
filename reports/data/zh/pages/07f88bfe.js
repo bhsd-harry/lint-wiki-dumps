@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",62,1,"\n '''穆奇级巡防舰'''（Moudge or Mowj 波斯語：موج‎，意思是“波浪”)是伊朗海军的首款国产巡防舰。\n\n == 舰名列表 =="],[1,"unclosed-table",60,2,"{|"]]

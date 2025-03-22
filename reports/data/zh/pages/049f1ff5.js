@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",137,2,"[[Category:1889年畫作|梵]]"]]

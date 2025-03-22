@@ -1,0 +1,1 @@
+window.data=[[2,"no-ignored",57,1," [[File:南辰乡-厂区.jpg|thumb|right|南辰乡-厂区]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",320,13,"Against"],[2,"lonely-bracket",320,7,"[["],[2,"no-ignored",320,4,"|''[[Age "]]

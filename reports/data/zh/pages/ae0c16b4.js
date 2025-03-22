@@ -1,0 +1,1 @@
+window.data=[[5,"illegal-attr",760,4,"T1"],[5,"no-ignored",760,6," (電競隊伍)"]]

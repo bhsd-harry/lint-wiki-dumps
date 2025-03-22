@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",34,66,"|100%"],[5,"parsing-order",14,28,"<ref name=\"aerow\">Karnozov, Vovick. [http://www.aeroworldnet.com/1ra10160.htm  \"Renewed AN-32 in Flight Tests.\"]''AeroWorldNet,'' 16 October 2000. {{W"]]

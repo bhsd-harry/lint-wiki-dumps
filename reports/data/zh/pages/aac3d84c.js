@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",74,1,"\n === 明朝（正德～嘉靖年間） ==="]]

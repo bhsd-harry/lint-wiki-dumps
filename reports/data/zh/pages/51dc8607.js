@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",57,1," * 食物营养学科\n * 生活福利学科<ref group=\"注\"  name=\"生活福利学科\">日语:{{lang|ja|生活福祉学科}}</ref>\n * 幼儿保育学科"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",26,4,"{"],[2,"no-ignored",26,4,"{虫部}-|| "],[1,"parsing-order",26,52,"<br/>"]]

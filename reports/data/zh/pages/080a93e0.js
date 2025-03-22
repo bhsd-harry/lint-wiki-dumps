@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",57,24,"table"],[2,"no-duplicate",57,30,"style=\"border:1px #000000;\""]]

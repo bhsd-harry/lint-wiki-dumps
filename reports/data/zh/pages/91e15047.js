@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",584,1," <center>\n ;替补名单<br>\n </center>"]]

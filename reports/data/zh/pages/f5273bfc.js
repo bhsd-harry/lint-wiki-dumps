@@ -1,0 +1,1 @@
+window.data=[[3,"lonely-bracket",73,63,"}}"],[20,"no-duplicate",42,3," 開始3 = 2023年9月18日\n "]]

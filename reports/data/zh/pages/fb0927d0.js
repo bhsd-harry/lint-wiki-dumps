@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",136,2,"[[Category:學習]]"]]

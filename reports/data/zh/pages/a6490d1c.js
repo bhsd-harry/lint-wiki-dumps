@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",18,2,"[[Category:亞洲運動會田徑獎牌得主]]"]]

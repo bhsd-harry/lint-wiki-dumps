@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",207,69,"0"],[1,"no-ignored",207,74," 1em; border-collapse:collapse;"]]

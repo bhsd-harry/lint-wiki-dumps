@@ -1,0 +1,1 @@
+window.data=[[3,"no-duplicate",167,2,"[[Category:月球環形山]]"]]

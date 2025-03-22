@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",176,20,"奧斯曼帝國"]]

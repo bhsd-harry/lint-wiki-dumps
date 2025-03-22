@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",1,30,"|亞曼尼"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",43,1," * 商科[[夜校|第二部]]"]]

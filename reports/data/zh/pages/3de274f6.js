@@ -1,0 +1,1 @@
+window.data=[[2,"parsing-order",14,40,"<ref name=unicode1995>{{cite web |url=https://www.unicode.org/Public/MAPPINGS/VENDORS/APPLE/DEVANAGA.TXT |title=Mapping |publisher=unicode.org |access"]]

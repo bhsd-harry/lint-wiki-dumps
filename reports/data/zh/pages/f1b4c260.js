@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",50,98,"}"],[2,"no-duplicate",112,54,"name=\"shirer724\""],[1,"no-ignored",112,70,"/希特勒這麼說道：<ref "],[1,"tag-like",112,79,"<ref"]]

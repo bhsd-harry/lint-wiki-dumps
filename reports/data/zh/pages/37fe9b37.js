@@ -1,0 +1,1 @@
+window.data=[[2,"no-ignored",121,21," 統計時段 "]]

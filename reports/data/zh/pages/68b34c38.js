@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",29,3,"doublesrecord = {{tennis record|won=23|lost=23}}\n "]]

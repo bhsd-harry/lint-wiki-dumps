@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",34,2,"[[Category:正交多项式]]"]]

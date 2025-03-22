@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",21,2,"[[Category:中华人民共和国连环杀人案]]"]]

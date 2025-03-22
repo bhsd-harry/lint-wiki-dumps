@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",4,71," battles                       = [[World War II]]\n * [[Vistula-Oder Offensive]]"]]

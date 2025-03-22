@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",151,1,"\n === 數位發行 ==="],[1,"unclosed-table",104,2,"{|"],[2,"unmatched-tag",1054,2,"</div>"]]

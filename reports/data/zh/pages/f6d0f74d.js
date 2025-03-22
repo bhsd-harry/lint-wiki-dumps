@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",538,1," (2)桃園璞園  vs (5) 富邦勇士"],[1,"no-ignored",227,29,"65%\"  "]]

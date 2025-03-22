@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",349,39,"potential"],[2,"lonely-bracket",349,6,"[["],[1,"no-ignored",349,4,"| [[Mischief Reef]] ||  ||  ||  || "]]

@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",48,67,"border:2px"],[1,"no-ignored",48,83," #C09A5B;"]]

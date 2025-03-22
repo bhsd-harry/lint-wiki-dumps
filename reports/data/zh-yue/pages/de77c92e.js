@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",47,8,"name3=Halfwidth Katakana Letter HA\n "]]

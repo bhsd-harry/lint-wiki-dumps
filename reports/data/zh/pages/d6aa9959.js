@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",36,2,"[[Category:1989年建立的博物馆]]"]]

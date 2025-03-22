@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",30,41,"[["],[2,"no-duplicate",30,27,"Façade vue du [[Boulevard René-Lévesque (Montréal)"],[1,"no-ignored",45,1," {{Mgr}} Bourget"]]

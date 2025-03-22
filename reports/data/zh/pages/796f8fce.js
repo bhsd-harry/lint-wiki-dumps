@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",2,2,"[[Category:使用多个图像且自动缩放的页面]]"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",149,24,"mw-collapsible"],[1,"no-ignored",578,3," <small>非常尊敬的</small><br>'''{{link-en|約翰·帕金頓|John Pakington, 1st Baron Hampton}}''' 爵士<br><small>{{post-nominals|country=GBR|Bt|GCB|FRS}}<br><small>{{"],[9,"parsing-order",578,4,"<small>"],[3,"unmatched-tag",560,93,"<small>"]]

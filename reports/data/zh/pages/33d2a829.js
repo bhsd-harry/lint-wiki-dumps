@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",29,1," [[File:Flag of Colombia.svg|left|thumb|160px|[[File:FIAV 111010.svg|23px]] [[国旗]]、[[军舰旗]]。比例：2:3]]"]]

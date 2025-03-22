@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",242,1,"\n 比賽順序："]]

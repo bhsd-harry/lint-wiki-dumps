@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",8,3,"image = File:Kim_Yong-ju.jpg\n "]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-ignored",72,16,"[https://web.archive.org/web/20121116203712/http://www.emailvision.cn/news-events/press-releases/emailvision-acquires-predictiveintent Emailvision acq"]]

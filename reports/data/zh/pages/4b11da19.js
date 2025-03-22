@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",21,2,"[[Category:第十二届全国人大代表]]"]]

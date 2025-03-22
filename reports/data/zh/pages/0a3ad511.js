@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",44,1," *本表更新時間為2020年6月29日。\n <!--{border=\"1\"  algin=left-->"]]

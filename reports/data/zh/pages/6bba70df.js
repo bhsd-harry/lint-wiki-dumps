@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",362,315,"website=www.ettoday.net"]]

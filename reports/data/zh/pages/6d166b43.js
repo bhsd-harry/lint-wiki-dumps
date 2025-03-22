@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",61,2,"[[Category:1999年出生]]"]]

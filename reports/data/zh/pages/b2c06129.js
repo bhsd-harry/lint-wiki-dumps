@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",11,5," formed          =  {{start date and age|1865|7|5|paren=yes}}\n   "]]

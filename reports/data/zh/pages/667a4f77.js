@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",139,7,"'"],[2,"no-duplicate",54,24,"style=\"font-size: 100%;\""]]

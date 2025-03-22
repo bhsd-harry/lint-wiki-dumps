@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",45,2,"[[Category:明朝順天鄉試舉人]]"]]

@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",54,2,"[[Category:Amiga遊戲]]"]]

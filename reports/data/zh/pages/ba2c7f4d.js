@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",395,1,"\n == 外部链接 ==\n {{Commons|Dennis Quaid}}\n * {{IMDb name|0000598}}\n * {{AllRovi person|58161}}\n * [https://web.archive.org/web/20070425185332/http://www."],[6,"illegal-attr",316,3,"Eason"],[1,"no-ignored",330,20," Halsey, "],[1,"unclosed-table",394,2,"{|"]]

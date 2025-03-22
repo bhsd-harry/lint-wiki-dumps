@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",242,440,"]]"],[1,"tag-like",111,67,"</ref"]]

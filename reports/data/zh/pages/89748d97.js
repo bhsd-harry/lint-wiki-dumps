@@ -1,0 +1,1 @@
+window.data=[[3,"lonely-bracket",241,125,"{{"],[1,"lonely-http",15,49,"http://"],[1,"no-ignored",307,3,"!width=60%"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",18,470,"{{"],[2,"no-duplicate",18,877,"url=Wayback"]]

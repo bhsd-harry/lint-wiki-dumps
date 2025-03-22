@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",148,2,"[[Category:朱姓|wai]]"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",21,106," name\"Efimov, 1998\""]]

@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",76,1," ;彩霞街地铁站（站位位于浑南西路，D出入口附近东向单向站位）\n {{沈阳公交线路列表|width=100%|format=|end=yes|109支}}"]]

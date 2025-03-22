@@ -1,0 +1,1 @@
+window.data=[[1,"nested-link",13,55,"[[週刊エコノミスト|週刊エコノミスト Online]]"]]

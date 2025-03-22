@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",68,2,"[[Category:旗帜模板|{{PAGENAME}}]]"]]

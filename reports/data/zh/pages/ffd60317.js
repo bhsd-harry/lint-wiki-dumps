@@ -1,0 +1,1 @@
+window.data=[[7,"fostered-content",579,1," * 原訂2020年3月21日KBS音樂銀行將在杜拜{{link-en|可口可樂競技場|Coca-Cola Arena}}世界巡演，但因受到2019新冠肺炎影響，演唱會取消。"],[3,"unclosed-table",832,2,"{|"]]

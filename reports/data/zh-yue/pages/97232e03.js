@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",126,10," 1915-1917年用過，「毛澤東」總共二十八劃，同時寓意「共」（廿八）<ref name=\"大辭典\"/><ref>{{cite web |title=延安時期毛澤東解析名姓趣聞 |url=http://dangshi.people.com.cn/n1/2016/1109/c85037-28846"],[2,"parsing-order",126,47,"<ref name=\"大辭典\"/>"],[1,"unclosed-table",108,2,"{|"]]

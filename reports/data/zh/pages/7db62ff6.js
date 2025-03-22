@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",16,2,"[[Category:电子盐]]"]]

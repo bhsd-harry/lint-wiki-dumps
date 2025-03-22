@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",93,191,"[["],[6,"no-duplicate",28,23,"style=\"min-width:480px; text-align:center\""]]

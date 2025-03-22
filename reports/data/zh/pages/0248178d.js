@@ -1,0 +1,1 @@
+window.data=[[2,"no-ignored",435,3,"張赫 (韓國)"],[1,"tag-like",3461,101,"<span"],[1,"unmatched-tag",3461,138,"</span>"]]

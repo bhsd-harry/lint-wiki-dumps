@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",199,5,"style=\"background: #ececec\""],[2,"unmatched-tag",428,154,"</cite>"]]

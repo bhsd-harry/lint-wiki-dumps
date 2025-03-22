@@ -1,0 +1,1 @@
+window.data=[[1,"invalid-gallery",61,38,"200px"],[2,"no-duplicate",31,3,"area_urban =\n "]]

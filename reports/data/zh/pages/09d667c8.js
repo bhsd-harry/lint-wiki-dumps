@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",344,24,"style=\"width:95%;\""],[1,"no-ignored",50,85,"/祝展輝之舊情人〈br"]]

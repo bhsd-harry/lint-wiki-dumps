@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",147,20,"'"],[4,"no-ignored",9,32," (Europa) "]]

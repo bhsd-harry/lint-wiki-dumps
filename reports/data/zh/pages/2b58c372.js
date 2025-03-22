@@ -1,0 +1,1 @@
+window.data=[[4,"lonely-bracket",41,32,"[["],[4,"no-duplicate",41,4,"align=center"],[2,"no-ignored",41,29," | [[Alfred Grixti]]"]]

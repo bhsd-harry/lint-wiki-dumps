@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",123,11,"2023"],[2,"no-ignored",123,3," 核聚变游戏节 "],[1,"parsing-order",123,19,"<ref>{{cite web|url=https://site.gcores.com/fusion2023bj/|title=核聚变游戏节 2023 北京站|language=zh-hans|website=[[机核]]|archiveurl=https://web.archive.org/web"]]

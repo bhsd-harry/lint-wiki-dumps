@@ -1,0 +1,1 @@
+window.data=[[18,"illegal-attr",1535,11,"www.newgen.edu.hk"],[8,"lonely-http",1535,4,"http://"],[17,"no-ignored",1434,4,"||1962年||男女||基督教"],[32,"unclosed-table",2321,2,"{|"]]

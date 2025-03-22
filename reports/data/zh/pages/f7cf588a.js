@@ -1,0 +1,1 @@
+window.data=[[8,"no-duplicate",110,2,"[[Category:中超球员]]"]]

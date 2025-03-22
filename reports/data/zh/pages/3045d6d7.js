@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",2,3," name = 胡盧西·阿卡爾\n "]]

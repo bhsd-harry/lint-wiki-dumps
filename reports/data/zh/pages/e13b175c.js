@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",38,2,"[[CATEGORY:中國民營企業]]"]]

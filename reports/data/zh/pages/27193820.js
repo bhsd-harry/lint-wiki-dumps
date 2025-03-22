@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",3,38,"缩略图哥哥價格便宜行事嗎！"]]

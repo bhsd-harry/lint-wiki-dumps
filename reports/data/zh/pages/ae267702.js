@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",314,63,"text-align:"],[8,"no-duplicate",63,391,"work=中央社"],[2,"no-ignored",314,52,"width:70%; "]]

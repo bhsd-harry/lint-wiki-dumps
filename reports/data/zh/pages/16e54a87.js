@@ -1,0 +1,1 @@
+window.data=[[4,"lonely-bracket",29,170,"[["],[2,"no-duplicate",29,131,"name=\"suspension\""],[1,"no-ignored",29,148,"/CONCACAF于2021年4月15日宣布[[丹佛]]市为比赛的新东道主，由[[里高Empower球場]]主办两个半决赛、第三名决赛和决赛。<ref "],[1,"tag-like",29,219,"<ref"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",28,3," pinyin_code = SHG\n "]]

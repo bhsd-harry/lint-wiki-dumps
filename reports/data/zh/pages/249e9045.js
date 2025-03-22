@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",171,17,"difficile"],[1,"no-ignored",171,6," ''L'amore "]]

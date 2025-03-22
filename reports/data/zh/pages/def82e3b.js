@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",192,1," *2010年1月 「ALLURE」冬季服飾平面拍攝\n *2010年3月 「VOGUE」雜誌平面拍攝\n *2011年12月 「SURE」雜誌平面拍攝\n *2013年5月 「Cuvism」雜誌平面拍攝\n *2014年11月 「K-WAVE」雜誌平面拍攝\n *2015年3月 「SURE」雜誌平面拍攝 \n"]]

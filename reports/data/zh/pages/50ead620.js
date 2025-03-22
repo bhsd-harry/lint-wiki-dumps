@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",33,711,"  |quotation"]]

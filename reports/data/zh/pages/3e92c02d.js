@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",249,132,"centro"],[1,"no-ignored",928,20," ; text-align:center;\""]]

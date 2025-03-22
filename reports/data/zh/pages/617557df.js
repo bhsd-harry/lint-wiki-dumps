@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",375,1,"\n ==停靠狀態==\n {{main|v:員林車站#停靠狀態{{!}}維基學院:員林車站#停靠狀態}}\n\n ==利用狀況==\n 根據{{TRA ridership-date}}資料，本站每日旅運量約為{{TRA ridership|station={{PAGENAME}}}}，在台鐵各站中排行第{{"],[3,"illegal-attr",53,4,"table"],[1,"unclosed-table",207,2,"{|"],[4,"unmatched-tag",124,61,"</span>"]]

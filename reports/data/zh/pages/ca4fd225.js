@@ -1,0 +1,1 @@
+window.data=[[1,"invalid-isbn",1579,37,"ISBN 9787533617121"],[4,"no-duplicate",42,4,"colspan= bgcolor=\"#efefef\""]]

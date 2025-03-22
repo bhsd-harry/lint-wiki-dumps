@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",12,3," FIFA Rank          = [[國際足協世界排名|192]]（2020年4月） \n "]]

@@ -1,0 +1,1 @@
+window.data=[[4,"illegal-attr",266,24,"rowspan"],[8,"no-ignored",97,38,"50%\"  "],[1,"unclosed-table",314,2,"{|"]]

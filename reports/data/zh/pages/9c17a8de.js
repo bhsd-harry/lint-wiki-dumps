@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",887,2,"[[Category:河北高等院校]]"],[1,"no-ignored",831,3,"!width=\"28%\""]]

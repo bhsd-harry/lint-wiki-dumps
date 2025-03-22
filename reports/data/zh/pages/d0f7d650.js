@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",49,1469,"language=zh-tw"]]

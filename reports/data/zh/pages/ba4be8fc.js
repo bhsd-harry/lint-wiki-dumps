@@ -1,0 +1,1 @@
+window.data=[[18,"illegal-attr",45,3,"width:85px"],[2,"no-duplicate",340,3,"colspan=\"5\""],[105,"no-ignored",186,3,"width:20% "]]

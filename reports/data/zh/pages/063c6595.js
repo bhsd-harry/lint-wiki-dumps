@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",258,4,"<ref>{{cite news|title=Foxtel to add three beIN SPORTS High Definition Channels|url=https://www.foxtel.com.au/about/media-centre/press-releases/2016/f"],[1,"parsing-order",258,4,"<ref>{{cite news|title=Foxtel to add three beIN SPORTS High Definition Channels|url=https://www.foxtel.com.au/about/media-centre/press-releases/2016/f"]]

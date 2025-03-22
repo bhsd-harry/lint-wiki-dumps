@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",6,1," Image:DEDAL_ZA_JASNA_(Small).JPG#file"]]

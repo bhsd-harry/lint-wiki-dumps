@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",100,24,"text-align:"],[2,"no-ignored",100,35," left;\""]]

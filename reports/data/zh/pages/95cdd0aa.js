@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",25,11,"  <ref>[http://e-info.org.tw/topic/plant/2004/pl04082501.htm] {{Wayback|url=http://e-info.org.tw/topic/plant/2004/pl04082501.htm |date=20200724051453 "]]

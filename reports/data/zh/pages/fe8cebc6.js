@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",8,3,"map_notes=Map of central New York with NY&nbsp;69 highlighted in red, NY&nbsp;69A in blue\n "]]

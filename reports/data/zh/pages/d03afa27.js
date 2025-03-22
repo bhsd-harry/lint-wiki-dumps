@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",40,1," File:2009-0725-CA-CSUF-ThomasAdministration.jpg[[加州州立大學弗雷斯諾分校|弗雷斯诺分校]]（1911）"]]

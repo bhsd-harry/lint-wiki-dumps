@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",16,3," office3 = {{ROC}}第4屆立法委員\n "]]

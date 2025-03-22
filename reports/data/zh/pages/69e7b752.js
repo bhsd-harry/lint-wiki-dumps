@@ -1,0 +1,1 @@
+window.data=[[15,"illegal-attr",203,274,"Times"],[12,"no-ignored",203,283," Roman\";mso-bidi-theme-font:minor-bidi; mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA\""]]

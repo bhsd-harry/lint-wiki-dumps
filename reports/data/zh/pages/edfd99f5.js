@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",150,2,"[[Category:一國兩制|一國兩制]]"]]

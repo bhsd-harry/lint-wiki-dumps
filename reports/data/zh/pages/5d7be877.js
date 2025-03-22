@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",7,3," 1=新冠肺炎=>zh-tw:嚴重特殊傳染性肺炎\n "],[10,"tag-like",177,822,"<a"]]

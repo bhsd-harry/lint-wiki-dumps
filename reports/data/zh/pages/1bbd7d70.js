@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",2,6,"zh-cn:弗拉基米尔·纳博科夫;zh-tw:弗拉基米爾·納博科夫;\n "]]

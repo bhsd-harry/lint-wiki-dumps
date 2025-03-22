@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",132,2,"[[Category:揚·范·艾克畫作]]"]]

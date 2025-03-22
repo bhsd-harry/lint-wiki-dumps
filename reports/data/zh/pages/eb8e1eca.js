@@ -1,0 +1,1 @@
+window.data=[[3,"illegal-attr",124,56,"date"],[1,"lonely-bracket",124,79,"}}"],[2,"no-duplicate",141,5,"style= \"center\""],[1,"no-ignored",124,48,"{｛birth "]]

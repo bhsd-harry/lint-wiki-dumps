@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",51,1," * 人类文化学科"]]

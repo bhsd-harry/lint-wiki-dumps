@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",51,1," * [[電機工程學|电气]]科[[夜校|第二部]]"]]

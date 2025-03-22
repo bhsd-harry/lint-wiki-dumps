@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",210,77,"background:"],[2,"no-duplicate",355,2,"[[Category:哈利·波特演员]]"],[1,"no-ignored",210,88," #f9f9f9;"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",118,1,"\n == 車站周邊 ==\n * {{Translink|ja|弘前市體育公園前}}\n ** {{Translink|ja|青森県武道館|青森縣武道館}}\n ** {{Translink|ja|弘前市運動公園野球場|弘前市運動公園棒球場}}\n ** Sunlife弘前\n * {{Translink|j"],[1,"unclosed-table",75,2,"{|"]]

@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",56,2,"[[Category:Android遊戲]]"]]

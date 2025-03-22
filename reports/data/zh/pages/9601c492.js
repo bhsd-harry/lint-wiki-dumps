@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",46,2,"[[Category:超人力霸王迪迦]]"]]

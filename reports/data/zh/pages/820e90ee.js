@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",448,3,"累積1勝1敗1平手。"]]

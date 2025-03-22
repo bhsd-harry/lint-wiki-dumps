@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",6715,92,"mw-collapsible"],[1,"lonely-bracket",8768,4,"{{"],[3,"no-ignored",1462,3," data-sort-value\"99\"  "]]

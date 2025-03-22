@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",18,66,"鈽238。File:Iridium clad GPHS pellet.jpg"]]

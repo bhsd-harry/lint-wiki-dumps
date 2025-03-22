@@ -1,0 +1,1 @@
+window.data=[[1,"unmatched-tag",669,4,"<cite class=\"book\"  style=\"font-style:normal\"  id=\"Reference-Rabin-2005\">"]]

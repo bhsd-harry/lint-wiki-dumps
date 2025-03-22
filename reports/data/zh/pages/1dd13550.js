@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",31,2,"[[Category:中医典籍]]"]]

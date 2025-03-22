@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",37,1,"\n ==参考来源==\n *[https://web.archive.org/web/20110425014537/http://www.cornell.edu/president/history.cfm History of the Cornell Presidency]\n *[http://www"],[1,"unclosed-table",3,2,"{|"]]

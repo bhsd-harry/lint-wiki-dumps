@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",160,2,"[[Category:河南褚氏|C澄]]"]]

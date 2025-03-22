@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",43,1015,"}}"],[1,"nested-link",9,367,"[[2007年|平成19年]]"]]

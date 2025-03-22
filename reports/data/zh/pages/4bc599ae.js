@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",57,47,"}"],[6,"no-duplicate",115,5,"style=\"background:#FF79BC\""]]

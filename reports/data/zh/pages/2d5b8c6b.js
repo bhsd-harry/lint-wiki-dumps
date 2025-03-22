@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",247,1," === [[宜蘭縣]] ==="]]

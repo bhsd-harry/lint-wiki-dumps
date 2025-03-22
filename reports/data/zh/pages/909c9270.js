@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",192,28,"margin-right:"],[1,"no-ignored",192,41," 0;\""]]

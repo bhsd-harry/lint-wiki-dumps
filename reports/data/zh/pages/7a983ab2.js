@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",297,4,"'"],[3,"no-ignored",1199,4,"但"]]

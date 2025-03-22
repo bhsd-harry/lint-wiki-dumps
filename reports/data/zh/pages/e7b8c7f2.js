@@ -1,0 +1,1 @@
+window.data=[[11,"illegal-attr",1763,58,"Introduction"],[7,"lonely-http",402,379,"http://"],[4,"no-duplicate",1809,81,"the"],[1,"no-ignored",1809,57," Maxwell's "]]

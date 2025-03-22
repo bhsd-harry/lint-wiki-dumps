@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",83,515,"["],[2,"no-duplicate",264,2,"[[Category:週期彗星]]"],[1,"unescaped",83,609,"="]]

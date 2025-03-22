@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",52,51,"{{"],[1,"no-ignored",49,80,"蘇菲、啦啦、美莉"]]

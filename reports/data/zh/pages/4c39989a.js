@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",35,1," *時刻表僅供參考，請以巨業交通網站公告為準。"]]

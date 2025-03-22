@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",132,2,"[["],[1,"tag-like",136,2,"</gallery"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",433,172,"}"],[1,"no-ignored",73,4,"奧爾良學院"]]

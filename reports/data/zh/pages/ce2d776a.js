@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",1186,4,"span"],[1,"no-ignored",115,22,"  width:\"100%\""]]

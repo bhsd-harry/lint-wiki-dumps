@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",260,2,"[[Category:虛假新聞事件]]"]]

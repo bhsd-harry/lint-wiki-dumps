@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",118,2,"[[Category:韓語流行音樂歌手|E]]"]]

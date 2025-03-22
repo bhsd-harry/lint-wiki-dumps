@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",3,3,"1=zh-cn:连接;zh-tw:連線;\n "]]

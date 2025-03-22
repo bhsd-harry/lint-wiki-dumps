@@ -1,0 +1,1 @@
+window.data=[[8,"lonely-bracket",43,189,"[["],[4,"no-duplicate",43,161,"name=\"Mycobank\""],[2,"no-ignored",43,176,"/1822年，瑞典真菌學家[[弗里斯|伊利斯·馬格努斯·弗里斯]]將其重新分類至[[黑耳屬]]，命名為''Exidia auricula-judae''。至1888年，{{le|梭羅德|Joseph Schröter}}將其歸類為[[木耳屬]]，命名為現行學名''Auricularia auricu"],[2,"tag-like",43,337,"<ref"]]

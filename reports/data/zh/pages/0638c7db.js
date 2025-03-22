@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",800,86,"font-size:"],[4,"no-ignored",800,74,"  style\":\"  "]]

@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",12,23,"colspan"],[2,"lonely-bracket",12,57,"[["],[1,"no-ignored",12,53,"| 明朝[[崇禎]]十年七月始設巡撫"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",168,1,"\n == 參考資料 ==\n {{reflist}}\n == 外部連結 ==\n * {{facebook|CrazyGangster0708}}\n * {{Amg movie|663851}}\n *{{Yahoomovie id|6298}}\n *{{@movies|fgcn41362835}}\n *"],[1,"unclosed-table",160,2,"{|"]]

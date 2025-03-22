@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",979,2,"[[Category:超級戰隊系列| ]]"]]

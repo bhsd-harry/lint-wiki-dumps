@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",7,3," native_name        = Llivia<br>Llívia\n "]]

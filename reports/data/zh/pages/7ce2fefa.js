@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",15,30,"[[["],[2,"no-duplicate",65,2,"[[Category:相模國出身人物]]"]]

@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",140,2,"[[Category:2016年俄羅斯]]"]]

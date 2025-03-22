@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",26,2,"[[Category:意大利園林]]"]]

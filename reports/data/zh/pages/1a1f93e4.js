@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",104,1,"\n ==參考資料==\n *中華職棒紀錄年鑑\n\n ==外部連結==\n {{中華職棒千安球員}}\n {{中華職棒各項紀錄}}\n\n [[Category:中華職棒數據統計]]\n [[Category:中華職棒千安選手]]\n [[Category:中華職棒紀錄]]\n [[Category:中華職棒列表]]"],[1,"unclosed-table",8,2,"{|"]]

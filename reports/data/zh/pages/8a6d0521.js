@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",1,27," alt = A theoretical ballot with the instructions  \"Rate each between negative ten and ten.\"  There are five options, each one with a number correspon"]]

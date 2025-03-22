@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",146,2,"[[Category:福岡證券交易所上市公司]]"]]

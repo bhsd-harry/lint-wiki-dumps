@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",205,2,"[[Category:首尔特别市事件]]"]]

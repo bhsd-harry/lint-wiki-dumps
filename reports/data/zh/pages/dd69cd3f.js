@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",132,131,"["],[4,"no-duplicate",132,177," 捷運汐東線何時可以動工？　王國材：明年有機會] {{Wayback|url=https://news.ttv.com.tw/news/11110110005000W |date=2022-10-11 }} 2022.10.11 台視新聞網"]]

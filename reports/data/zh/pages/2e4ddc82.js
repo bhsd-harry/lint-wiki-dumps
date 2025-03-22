@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",158,5,"span"],[24,"no-ignored",106,3,"年度"]]

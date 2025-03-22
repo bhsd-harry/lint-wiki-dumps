@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",899,3,"m={{flag icon|JPN}} Speranza<br>1998年（栗色）\n "]]

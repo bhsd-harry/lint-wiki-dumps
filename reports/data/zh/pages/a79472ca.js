@@ -1,0 +1,1 @@
+window.data=[[25,"illegal-attr",40,23,"Beginners"],[31,"no-ignored",40,11," ''Absolute "]]

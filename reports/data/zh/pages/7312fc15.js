@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",7,3," 製作公司= [[電視廣播有限公司]]\n "]]

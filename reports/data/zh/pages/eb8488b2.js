@@ -1,0 +1,1 @@
+window.data=[[16,"lonely-bracket",53,56,"[["],[8,"no-ignored",53,29,"  |style=\"text-align:left\"|[[Arif Akhundov]]"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",101,1," '''比賽規則'''<ref name=\"regulations\">{{cite web|url=http://www.uefa.com/MultimediaFiles/Download/Regulations/competitions/Regulations/01/94/62/24/194622"]]

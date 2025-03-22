@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",109,24,"style=\"text-align: center\""],[2,"no-ignored",521,3,"!width=15%"],[3,"unmatched-tag",1303,2,"<small>"]]

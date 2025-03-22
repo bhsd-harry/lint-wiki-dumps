@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",293,3,"{{party shading/Independent}}\"  "],[1,"unmatched-tag",549,37,"</small>"]]

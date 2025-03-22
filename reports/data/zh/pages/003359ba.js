@@ -1,0 +1,1 @@
+window.data=[[6,"lonely-bracket",82,165,"{{"],[2,"no-duplicate",82,141,"name=\"j1\""],[1,"no-ignored",82,150,"/。这使得巡洋舰的最高时速达到{{convert|31|kn|lk=in}}，并可以在时速{{convert|20|kn}}的状态下达到{{convert|6,000|nmi|lk=in}}的行驶里程<ref "],[1,"tag-like",82,250,"<ref"]]

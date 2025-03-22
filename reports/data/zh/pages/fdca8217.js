@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",252,2,"[[Category:澳屬印度洋領地]]"]]

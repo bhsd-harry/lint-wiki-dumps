@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",63,1," * [[生活]][[福利]]学科食物营养专攻：于2012年5月1日学生数是男女49,于2013年5月1日是男女46<ref name=\"学生数\">[http://uv.seibi-gakuen.ac.jp/guide/outline.php 成美大学短期大学部的历史] {{webarchive|u"]]

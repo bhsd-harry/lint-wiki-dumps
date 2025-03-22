@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",17,2,"[[Category:1936年夏季奥林匹克运动会体操运动员]]"]]

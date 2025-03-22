@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",174,1," *備註：改版後無魔王"],[1,"unclosed-table",272,2,"{|"],[1,"unmatched-tag",381,165,"</small>"]]

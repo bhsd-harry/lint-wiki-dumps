@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",113,2,"[[Category:俄罗斯女子摔跤运动员]]"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"unescaped",96,62,"="]]

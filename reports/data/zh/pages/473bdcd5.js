@@ -1,0 +1,1 @@
+window.data=[[6,"illegal-attr",13,4,"location"],[10,"lonely-bracket",13,15,"[["],[6,"no-duplicate",12,79,"name=\"about-registry\""],[1,"no-ignored",15,80," India}}<ref "],[3,"tag-like",13,28,"<ref"]]

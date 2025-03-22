@@ -1,0 +1,1 @@
+window.data=[[1,"nested-link",27,280,"[[紐約時報]]"]]

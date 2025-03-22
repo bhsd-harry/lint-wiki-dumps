@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",96,2,"[[Category:日本共产主义者]]"]]

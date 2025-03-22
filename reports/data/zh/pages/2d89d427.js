@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",58,107,"園區內的車籠埔斷層槽溝保存館\n File:2. 車籠埔斷層保存園區.jpg"]]

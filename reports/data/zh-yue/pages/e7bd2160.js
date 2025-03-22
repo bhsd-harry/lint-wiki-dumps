@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",5,3," status = \n "]]

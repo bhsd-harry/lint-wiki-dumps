@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",139,57,"愉翠商場地下，2016年"]]

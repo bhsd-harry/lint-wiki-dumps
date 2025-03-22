@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",305,22,"'"],[1,"unescaped",47,121,"="]]

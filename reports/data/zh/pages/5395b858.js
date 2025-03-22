@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",29,2,"[[Category:关东州学校]]"]]

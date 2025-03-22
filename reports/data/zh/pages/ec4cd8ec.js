@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",13,3," divs = 30統、197[[班 (行政區劃)|班]]\n "]]

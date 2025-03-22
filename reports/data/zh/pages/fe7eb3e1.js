@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",2566,8,"]]"],[3,"no-ignored",1538,3," 「Meta-morphose"]]

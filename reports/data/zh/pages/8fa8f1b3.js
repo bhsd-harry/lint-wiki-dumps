@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",10,3," key_people = [[安明智]]<br/>[[劉永基]]\n "]]

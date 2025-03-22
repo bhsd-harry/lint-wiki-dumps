@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",217,5,"align=center"],[25,"no-ignored",158,3,"年<br>度"],[36,"parsing-order",158,4,"<br>"]]

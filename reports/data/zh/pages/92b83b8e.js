@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",8,2,"[[Category:美国政府证件|H]]"]]

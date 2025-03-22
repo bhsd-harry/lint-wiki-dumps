@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",307,50,"超強、Soya、李川"]]

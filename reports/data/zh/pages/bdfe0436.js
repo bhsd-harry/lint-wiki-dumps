@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",86,152,"["],[14,"no-ignored",909,14,"  <small>;text-align:center"],[14,"parsing-order",909,16,"<small>"]]

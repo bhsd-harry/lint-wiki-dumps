@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",33,2,"[[Category:2000年開業電子遊戲公司]]"]]

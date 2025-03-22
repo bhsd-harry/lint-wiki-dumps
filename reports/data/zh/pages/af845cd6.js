@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",36,18," 陳康 (琉球)"]]

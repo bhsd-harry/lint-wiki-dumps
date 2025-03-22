@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",28,2,"[[Category:汽車安全科技]]"]]

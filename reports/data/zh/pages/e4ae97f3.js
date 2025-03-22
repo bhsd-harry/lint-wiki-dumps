@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",226,19,"]"],[1,"no-ignored",345,3," {{link-en|羅恩·克萊門茨|Ron Clements}}、{{link-en|約翰·馬斯克|John Musker}} {{link-en|泰德·艾略特|Ted Elliott (screenwriter)}}、 {{link-en|泰瑞·羅西奧|Terry Rossio}}<br>{{l"],[2,"parsing-order",345,146,"<br>"]]

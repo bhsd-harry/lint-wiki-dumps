@@ -1,0 +1,1 @@
+window.data=[[13,"illegal-attr",132,10,"Fox"],[5,"no-duplicate",146,9,"It"],[9,"no-ignored",132,3," ''The "]]

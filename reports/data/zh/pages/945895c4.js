@@ -1,0 +1,1 @@
+window.data=[[8,"no-duplicate",124,2,"[[Category:加尔各答人]]"]]

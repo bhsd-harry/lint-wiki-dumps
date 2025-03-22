@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",37,1,"\n * {{flagIOC|CHN|2013年亞洲青年運動會}}\n * {{flagIOC|KAZ|2013年亞洲青年運動會}}\n * {{flagIOC|KOR|2013年亞洲青年運動會}}\n * {{flagIOC|MGL|2013年亞洲青年運動會}}\n * {{flagIOC|THA|2013"],[1,"unclosed-table",36,2,"{|"]]

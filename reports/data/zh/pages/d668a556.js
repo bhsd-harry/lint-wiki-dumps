@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-apos",134,39,"'"],[2,"unmatched-tag",366,4,"<sup>"]]

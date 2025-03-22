@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",1600,2,"[[Category:橫濱市出身人物]]"]]

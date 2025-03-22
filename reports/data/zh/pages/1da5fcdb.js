@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",113,2,"{{"],[7,"no-duplicate",112,94,"縣結果\n {{collapsible list\n 1.\t"]]

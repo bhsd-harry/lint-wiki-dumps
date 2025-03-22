@@ -1,0 +1,1 @@
+window.data=[[6,"lonely-bracket",61,3,"[["],[1,"nested-link",79,62,"[[赵本山]]"]]

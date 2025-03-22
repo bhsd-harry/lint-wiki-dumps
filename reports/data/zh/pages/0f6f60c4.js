@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",10,1," [[File:Say-Again-Yes-I-Do.jpg|thumb|Taiwan]]"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",62,1,"\n ==海利維世系图==\n {{familytree/start}}\n {{familytree|border=0 | | | | | | | | | | | | | | | |:| ado |ado=''不詳'' }}\n {{familytree|border=0 | | | | | | | | "],[1,"unclosed-table",36,2,"{|"]]

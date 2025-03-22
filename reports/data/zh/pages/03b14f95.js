@@ -1,0 +1,1 @@
+window.data=[[26,"illegal-attr",490,29,"width"],[1,"no-ignored",1434,3,"alig，n=\"center\""],[2,"unclosed-table",662,2,"{|"]]

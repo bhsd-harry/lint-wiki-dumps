@@ -1,0 +1,1 @@
+window.data=[[3,"fostered-content",76,1," === 超級偶像第一屆PK成績 ===\n <!--{|class=\"wikitable\", border=\"1\"-->"],[4,"unclosed-table",75,2,"{|"]]

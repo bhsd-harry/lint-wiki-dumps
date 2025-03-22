@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",41,2,"[[Category:DC漫畫作品]]"]]

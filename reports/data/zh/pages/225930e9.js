@@ -1,0 +1,1 @@
+window.data=[[7,"no-ignored",863,1," <!--File:Fulham FC Crest 1931.png|第二代隊徽<br />（1931年至1945年）--!>"]]

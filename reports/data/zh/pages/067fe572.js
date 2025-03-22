@@ -1,0 +1,1 @@
+window.data=[[448,"illegal-attr",1431,3,"font"],[1,"lonely-bracket",3784,3,"{{"],[1,"no-ignored",3784,3,"{{nowrap"]]

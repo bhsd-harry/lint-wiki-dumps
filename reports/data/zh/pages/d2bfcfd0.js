@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",77,1," *Bellerive\n *Bois de Foretaille\n *Bois de Pins\n *Champ de Blé\n *Chambésy-Dessous\n *Chambésy-Dessus\n *Château de Tournay\n *Choutagnes\n *Cornillon"]]

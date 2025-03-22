@@ -1,0 +1,1 @@
+window.data=[[4,"illegal-attr",96,10,"Burkina"],[2,"no-ignored",96,3," Pani, "]]

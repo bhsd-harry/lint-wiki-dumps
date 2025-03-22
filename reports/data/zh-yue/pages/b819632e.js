@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",28,4,"table"],[2,"no-duplicate",132,67,"rowspan=3"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",28,648,"work=www.xinhuanet.com"]]

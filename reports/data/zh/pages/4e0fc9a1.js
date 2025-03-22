@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",109,1,"\n 現時本線使用3輛[[比亞迪B12A]] 12米（BEB）及1輛[[Enviro500]] 12米（ATEU）"],[1,"unclosed-table",108,2,"{|"]]

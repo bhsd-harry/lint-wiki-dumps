@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",167,12,"[["],[1,"no-ignored",167,4,"<center>[[林大為]]||<center>小Allen||<center>||<center>"],[4,"parsing-order",167,4,"<center>"],[4,"unmatched-tag",167,21,"<center>"]]

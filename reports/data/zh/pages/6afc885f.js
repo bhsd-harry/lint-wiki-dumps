@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",124,3,"nowrap"],[4,"no-duplicate",224,2,"[[Category:太空站]]"]]

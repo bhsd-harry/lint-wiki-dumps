@@ -1,0 +1,1 @@
+window.data=[[8,"no-duplicate",29,3," years8 = 2021–     "]]

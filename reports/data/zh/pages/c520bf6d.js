@@ -1,0 +1,1 @@
+window.data=[[3,"illegal-attr",30,4,"caption"],[4,"no-duplicate",112,24,"style=\"margin:auto:\""]]

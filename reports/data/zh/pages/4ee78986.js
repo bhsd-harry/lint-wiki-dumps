@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",30,1," [[File:Flying fish fragments.jpg|飛魚壁畫"]]

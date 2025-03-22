@@ -1,0 +1,1 @@
+window.data=[[26,"no-duplicate",60,2,"[[Category:民進黨 (日本)]]"]]

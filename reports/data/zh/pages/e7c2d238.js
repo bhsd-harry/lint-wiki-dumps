@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",70,41,"width"],[5,"invalid-gallery",71,23,"缩略图"],[1,"unmatched-tag",101,73,"</small>"]]

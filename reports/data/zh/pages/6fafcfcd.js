@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",5,3,"zh-hk:逼坐斷背監;zh-tw:猛男姦獄;zh-sg:猛男奸狱;\n "]]

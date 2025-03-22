@@ -1,0 +1,1 @@
+window.data=[[6,"illegal-attr",433,3,"20"],[5,"no-ignored",264,3,"{{flagIOCathlete|[[Guillermo Rigondeaux|Rigondeaux]]|CUB|2004年夏季}}<br />'''L''' 13–22 "],[5,"parsing-order",264,69,"<br />"]]

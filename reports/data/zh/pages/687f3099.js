@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",41,3," goals3 = 0\n "]]

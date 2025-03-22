@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",212,67,"thumbtime=0:02"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",533,3,"12cmCD"],[2,"no-ignored",533,9,"  / 初回限定<br>12cmCD"],[2,"parsing-order",533,17,"<br>"]]

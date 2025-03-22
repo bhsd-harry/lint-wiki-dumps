@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-http",479,43,"ISBN"],[2,"no-duplicate",475,5,"class=wikitable"]]

@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",53,2,"[[Category:西门子人物]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",52,3," color4 = {{party color|The Greens (Luxembourg)}}\n "]]

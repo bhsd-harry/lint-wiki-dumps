@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",1,38,"Silka Seaview Hotel"]]

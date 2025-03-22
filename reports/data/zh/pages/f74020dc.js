@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",88,2,"[[Category: 赤杆菌科|*]]"]]

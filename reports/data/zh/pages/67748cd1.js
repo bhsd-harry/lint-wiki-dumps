@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",119,40,"湖南湘江新区"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",317,8,"display=\"block\""],[2,"no-ignored",313,17,"|-valign=\"top\""]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",355,2,"[[Category:反三角函数]]"]]

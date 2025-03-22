@@ -1,0 +1,1 @@
+window.data=[[8,"no-duplicate",12,3,"nationalyears1="]]

@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",1368,21,"Team"],[1,"lonely-bracket",2220,91,"]"],[1,"no-ignored",1368,25," M成立，島田玲奈就任隊長"]]

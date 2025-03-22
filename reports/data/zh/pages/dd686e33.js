@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",248,3,"十大最受欢迎女艺人"]]

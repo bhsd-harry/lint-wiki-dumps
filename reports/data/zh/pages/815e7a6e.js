@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",29,1,"\n ==参考文献==\n {{reflist}}\n\n ==外部链接==\n * {{douban|27073052}}\n * [https://www.iq.com/album/%E8%BF%B7%E8%88%AA%E6%98%86%E4%BB%91%E5%A2%9F-2022-1lcgodfpacd?"],[1,"no-ignored",11,4,"<br>"],[1,"parsing-order",11,4,"<br>"],[1,"unclosed-table",8,2,"{|"]]

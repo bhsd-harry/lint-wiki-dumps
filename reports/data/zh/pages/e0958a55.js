@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",11,4," cn_name = \n  "]]

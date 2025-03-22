@@ -1,0 +1,1 @@
+window.data=[[8,"no-duplicate",83,49,"url=https://www.city.miyako.iwate.jp/data/open/cnt/3/7325/1/3-08_unyu_tsuusin_H28.pdf?20170412153759"]]

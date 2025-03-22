@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",417,54,"{{"],[4,"no-duplicate",417,43,"使用P226進行訓練的{{tsl"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",209,3," RD1-seed3=PR\n "]]

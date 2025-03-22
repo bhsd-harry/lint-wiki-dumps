@@ -1,0 +1,1 @@
+window.data=[[8,"illegal-attr",675,49,"text-align"],[1,"no-ignored",520,15," 天使"]]

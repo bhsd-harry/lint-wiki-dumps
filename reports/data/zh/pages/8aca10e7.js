@@ -1,0 +1,1 @@
+window.data=[[1,"invalid-gallery",86,25,"thumb"],[2,"no-duplicate",86,31,"Bhaisajyaguru"]]

@@ -1,0 +1,1 @@
+window.data=["zh-yue","zh"]

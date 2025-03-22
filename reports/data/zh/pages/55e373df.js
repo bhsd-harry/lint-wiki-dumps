@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",34,98,"]]"],[2,"no-duplicate",51,2,"[[Category:台灣左翼統一運動參與者]]"]]

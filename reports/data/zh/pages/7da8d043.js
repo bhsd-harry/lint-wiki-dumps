@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",100,2,"[[Category:巴斯克足球運動員]]"]]

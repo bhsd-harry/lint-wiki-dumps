@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",187,51,"52 / 50"]]

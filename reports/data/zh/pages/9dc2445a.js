@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",857,4," <ref>{{cite web|url=https://e.vnexpress.net/news/business/vietnam-s-billionaire-count-doubles-to-4-on-forbes-rich-list-3719366.html|title=Vietnam's b"],[2,"parsing-order",857,5,"<ref>{{cite web|url=https://e.vnexpress.net/news/business/vietnam-s-billionaire-count-doubles-to-4-on-forbes-rich-list-3719366.html|title=Vietnam's bi"]]

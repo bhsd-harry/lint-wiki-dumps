@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",138,2,"[[Category:G型主序星]]"]]

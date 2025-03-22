@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",557,2,"[[Category:Across Entertainment]]"]]

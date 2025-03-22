@@ -1,0 +1,1 @@
+window.data=[[40,"no-duplicate",823,15,"colspan=1"],[21,"unmatched-tag",78,45,"</small>"]]

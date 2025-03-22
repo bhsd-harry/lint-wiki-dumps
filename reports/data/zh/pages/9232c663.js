@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",39,55,"Gaafar_Nimeiry_and_Sadiq_al-Mahdi_in_1976 "]]

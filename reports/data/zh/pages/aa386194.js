@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",36,30,"225px"]]

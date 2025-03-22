@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",63,2,"[[Category:埃及地中海运动会金牌得主]]"]]

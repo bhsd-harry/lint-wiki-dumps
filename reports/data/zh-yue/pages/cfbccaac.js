@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",228,1," </div>\n <div class=\"NavContent\"  style=\"text-align:center;\">"],[1,"unclosed-table",227,2,"{|"],[2,"unmatched-tag",228,2,"</div>"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",513,1196,"url=https://game.ettoday.net/article/2798058.htm"]]

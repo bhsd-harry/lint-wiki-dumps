@@ -1,0 +1,1 @@
+window.data=[[5,"illegal-attr",106,108,"1"],[10,"no-duplicate",96,20,"style=\"text-align:center\""],[3,"no-ignored",106,56," || || || || || || || || || ||X|| || || || || || || "]]

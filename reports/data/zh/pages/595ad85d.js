@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",138,2,"[[Category:韓國電視男演員]]"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"invalid-gallery",98,28,"right"],[1,"lonely-bracket",176,522,"}}"]]

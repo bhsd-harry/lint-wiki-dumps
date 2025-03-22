@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",42,13,"  !data-sort-type=\"number\"  "]]

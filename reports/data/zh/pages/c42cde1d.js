@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",115,2,"[[Category:旧约经外书]]"]]

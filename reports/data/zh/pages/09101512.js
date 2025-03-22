@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",181,75,"4-3"],[1,"no-ignored",181,3,"{{flagIOCathlete|[[Alejandro Puerto|Puerto]]|CUB|1996年夏季}}<br>  '''W''' "],[1,"parsing-order",181,61,"<br>"]]

@@ -1,0 +1,1 @@
+window.data=[[6,"illegal-attr",670,5,"border"],[1,"no-ignored",112,28," name\"攻台見聞：風俗畫報．台灣征討圖繪\""]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",45,2,"[[Category:中华人民共和国社会问题|X]]"]]

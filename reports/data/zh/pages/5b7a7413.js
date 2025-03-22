@@ -1,0 +1,1 @@
+window.data=[[498,"no-duplicate",101,51,"group='統'"]]

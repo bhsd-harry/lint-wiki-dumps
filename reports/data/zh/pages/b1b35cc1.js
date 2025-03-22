@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",57,1," * 幼儿教育・保育科\n * [[烹饪]]・[[糖果糕点|制果]]学科<ref group=\"注\"  name=\"烹饪・制果学科\"/>"]]

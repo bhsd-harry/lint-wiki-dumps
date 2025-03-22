@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",17,3," 1blankname2    = [[臺灣總督|總督]]\n "]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",127,1," ; 身份<!-- status -->\n {{legend|#E6E6AA|代总统|border=black}}"]]

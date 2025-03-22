@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",346,1,"\n ==参考资料==\n {{reflist}}\n\n == 外部链接 ==\n {{commonscat|North China University of Science and Technology}}\n * [http://www.ncst.edu.cn/ 华北理工大学主页]{{Wayback|u"],[1,"unclosed-table",266,2,"{|"]]

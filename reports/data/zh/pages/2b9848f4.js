@@ -1,0 +1,1 @@
+window.data=[[6,"illegal-attr",84,42,"font-size:"],[1,"lonely-apos",409,62,"'"],[6,"no-ignored",84,52," smaller;\""]]

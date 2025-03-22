@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",74,2,"[[Category:五大湖]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",125,469,"name=\"LetoEspinosa2\""],[1,"no-ignored",125,489,"  /。索尼有望在2018年底拍攝電影，並在不久後發行<ref "],[1,"tag-like",125,516,"<ref"]]

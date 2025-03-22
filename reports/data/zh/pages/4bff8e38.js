@@ -1,0 +1,1 @@
+window.data=[[2,"no-ignored",74,10," 點燈人"]]

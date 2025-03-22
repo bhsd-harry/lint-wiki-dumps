@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",5,42,"thum欸欸"]]

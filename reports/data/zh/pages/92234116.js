@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",43,3," RD2=半决赛\n "]]

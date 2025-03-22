@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",123,55,"]]"],[2,"no-duplicate",112,3," map_caption = 縣結果<br/>'''富爾徹:''' {{legend0|#ed8883|50-60%}} {{legend0|#e55751|60–70%}} {{legend0|#d02823|70-80%}} {{legend0|#b00000|80-90%}}\n "]]

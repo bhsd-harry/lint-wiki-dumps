@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",1401,2,"[[Category:2013年開播的日本電視劇]]"],[1,"tag-like",1166,87,"<ref"]]

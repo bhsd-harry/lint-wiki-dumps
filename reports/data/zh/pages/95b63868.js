@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-http",47,212,"https://"],[1,"unescaped",47,242,"="]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",47,1," <!-- Commented out because image was deleted: Image:Angry Stone.png -->|Angry Stone"]]

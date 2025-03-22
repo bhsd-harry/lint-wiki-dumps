@@ -1,0 +1,1 @@
+window.data=[[3,"lonely-apos",175,25,"'"],[2,"lonely-bracket",72,29,"]]"],[6,"no-duplicate",273,3," nominee1 = [[凱莉·莫里森]]\n "]]

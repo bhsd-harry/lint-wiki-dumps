@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",924,10,"{{"],[2,"no-ignored",817,57,"橋本英樹、海堂浩幸<br>阿部可奈子、加藤洋人"],[1,"parsing-order",817,66,"<br>"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",1060,6,"page=[https://archive.org/details/armsethnicconfli0000sisl/page/99 99]\n    "]]

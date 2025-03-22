@@ -1,0 +1,1 @@
+window.data=[[8,"lonely-bracket",86,329,"[["],[4,"no-duplicate",86,307,"name=Atreya2003。後者的發現對[[太陽系形成和演化]]的早期理論有重大的影響，因為地球上氮同位素的比率被認為是原始的數值.<ref"],[3,"tag-like",86,375,"<ref"],[1,"unmatched-tag",245,3,"<cite id=Beatty>"]]

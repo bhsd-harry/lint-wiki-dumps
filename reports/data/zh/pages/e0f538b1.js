@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",104,115,"uprigh=0.9"]]

@@ -1,0 +1,1 @@
+window.data=[[40,"no-duplicate",871,3,"電視台={{MYS}} [[Astro AOD]]、[[翡翠台 (東南亞)|翡翠台]]\n "]]

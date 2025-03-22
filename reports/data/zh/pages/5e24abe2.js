@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",11,1," *{{flag|Argentina}}\n *{{flag|Brazil}}\n *{{flag|Chile}}\n *{{flag|PRC}}\n *{{flag|Hungary}}\n *{{flag|India}}\n *{{flag|Israel}}\n *{{flag|ROK}}\n *{{flag|M"]]

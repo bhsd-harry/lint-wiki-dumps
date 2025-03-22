@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",157,1," *時刻表僅供參考，請以豐原客運網站公告為準。"]]

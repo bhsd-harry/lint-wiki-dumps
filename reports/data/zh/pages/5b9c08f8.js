@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",114,40,"style=\"text-align:center\""],[1,"no-ignored",114,65,"!colspan=\"4\"  "]]

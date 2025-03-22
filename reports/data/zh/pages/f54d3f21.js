@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",19,4,"a"],[2,"no-duplicate",1117,33,"style=\"text-align:left;\""]]

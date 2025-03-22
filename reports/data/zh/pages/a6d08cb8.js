@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",83,1," ;天河家园（站位位于夹河街，C出入口向西南约200米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|287}}"]]

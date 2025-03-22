@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",173,51,"name=fan66/。原本預定在續作登場，但因遊戲容量不足而作罷<ref"],[1,"tag-like",173,84,"<ref"]]

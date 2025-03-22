@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",67,1027," publisher=Future Publishing "]]

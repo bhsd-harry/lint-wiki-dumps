@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",75,107,"链接=https://zh.wikipedia.org/wiki/File:Japanese battleship Yamato underway during the Battle off Samar, 25 October 1944 (80-G-48888).jpg"]]

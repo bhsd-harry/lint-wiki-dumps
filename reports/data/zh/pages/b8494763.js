@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",66,2,"[[Category:西班牙语方言]]"]]

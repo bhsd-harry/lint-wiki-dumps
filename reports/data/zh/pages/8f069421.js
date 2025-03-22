@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",396,72,"Shiqicun Bridge of G8011 Kaihe Expressway (20200126144022)"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",1,16,"|奢侈稅#.E5.8F.B0.E7.81.A3"]]

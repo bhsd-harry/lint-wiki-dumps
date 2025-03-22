@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",63,2,"[[Category:韓國電影導演]]"]]

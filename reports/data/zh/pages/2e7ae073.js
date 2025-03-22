@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",52,1," * 国际交流学科（函授教育课程）"]]

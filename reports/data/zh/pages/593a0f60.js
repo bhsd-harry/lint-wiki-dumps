@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",105,88,"熊谷站南出口"]]

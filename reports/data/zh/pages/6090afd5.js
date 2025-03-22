@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",117,2,"[[Category:察南自治政府| ]]"]]

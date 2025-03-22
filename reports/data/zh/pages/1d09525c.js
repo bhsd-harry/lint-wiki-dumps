@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",17,3," constituency2       = [[全北特別自治道|全北]][[全州市|全州]]丙\n "]]

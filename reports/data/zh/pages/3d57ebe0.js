@@ -1,0 +1,1 @@
+window.data=[[2,"no-ignored",22,75,"  border-collapse:collapse;\""]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",72,2,"[[Category:台灣女性律師]]"]]

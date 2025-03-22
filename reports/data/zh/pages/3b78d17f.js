@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",34,3,"19=[[福鼎話|福鼎口音]]\n "]]

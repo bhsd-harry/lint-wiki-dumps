@@ -1,0 +1,1 @@
+window.data=[[3,"illegal-attr",35,42,"font-weight:bold"]]

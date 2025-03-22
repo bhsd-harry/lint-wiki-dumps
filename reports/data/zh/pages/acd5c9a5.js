@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",40,1509,"date=2020-09-28"]]

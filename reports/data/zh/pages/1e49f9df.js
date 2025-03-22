@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",58,4,"安東尼·愛德華茲"]]

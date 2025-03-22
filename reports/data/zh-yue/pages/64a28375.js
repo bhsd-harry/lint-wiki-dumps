@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",106,35,"[["],[2,"no-duplicate",106,35,"[[Sun Yat-sen Museum Penang"]]

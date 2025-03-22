@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",6,18,"font-weight:bold"],[1,"no-ignored",6,4," color:white; "]]

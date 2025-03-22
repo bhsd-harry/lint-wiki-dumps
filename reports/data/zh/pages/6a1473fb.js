@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",30,3,"production_date=1940年 -\n "]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",18,1," 博波卢陨击坑距它65公里（40英里）<ref name=PIA12980 />。"]]

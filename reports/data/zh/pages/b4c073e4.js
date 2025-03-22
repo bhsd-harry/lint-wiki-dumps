@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",469,95,"}}"],[1,"no-ignored",469,20,"{lang"]]

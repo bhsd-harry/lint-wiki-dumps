@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",64,77,"background:"],[1,"nested-link",809,72,"[[Huffington Post]]"],[2,"no-ignored",64,88," #f9f9f9;"]]

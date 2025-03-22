@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",24,19,"時間"]]

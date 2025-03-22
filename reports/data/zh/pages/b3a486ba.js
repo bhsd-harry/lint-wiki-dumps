@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",11,21,"style=\"text-align:center;\""],[1,"no-ignored",585,4,"边音"]]

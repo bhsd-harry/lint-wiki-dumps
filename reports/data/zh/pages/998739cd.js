@@ -1,0 +1,1 @@
+window.data=[[4,"illegal-attr",76,21,"div"],[2,"lonely-bracket",230,37,"["],[8,"no-duplicate",76,3,"style=\"width:5%\""]]

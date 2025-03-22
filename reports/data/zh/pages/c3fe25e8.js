@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",86,8,"a"],[1,"lonely-bracket",86,4,"{{"],[1,"no-ignored",86,3," {{n/"]]

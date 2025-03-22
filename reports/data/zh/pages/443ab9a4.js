@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",135,29,"2"],[2,"no-duplicate",130,23,"style=\"font-size:small\""]]

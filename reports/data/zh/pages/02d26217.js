@@ -1,0 +1,1 @@
+window.data=[[130,"no-ignored",42,31,"日期-"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",66,1," * [[商业|商务]]阅历学科<ref group=\"注\"  name=\"商务阅历学科\"/>\n * 护理学科\n * 儿童学科<ref group=\"注\"  name=\"儿童学科\"/>\n * [[复健医学|复健医学科]]<ref group=\"注\"  name=\"复健医学科\"/>\n ** 物理治疗学"]]

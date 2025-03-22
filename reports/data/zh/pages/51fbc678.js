@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",21,16,"{{"],[1,"no-ignored",21,3," 平均收视人数<br />{{small"],[1,"parsing-order",21,10,"<br />"]]

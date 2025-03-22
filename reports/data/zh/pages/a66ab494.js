@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",42,487,"title=Henrique Rocha, 19, wins first ATP Challenger Tour title {{!}} ATP Tour {{!}} Tennis "]]

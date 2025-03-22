@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",5,3," location = 中国广东珠海\n "]]

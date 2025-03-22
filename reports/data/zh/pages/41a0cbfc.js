@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",9,2,"[[Category:辽阳人|B]]"]]

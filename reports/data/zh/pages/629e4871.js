@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",178,2,"[[Category:乌克兰语言学家]]"]]

@@ -1,0 +1,1 @@
+window.data=[[3,"illegal-attr",62,29,"Number"],[2,"lonely-bracket",62,23,"[["],[2,"no-duplicate",62,29,"Number"],[3,"no-ignored",62,17," || ''[[The "]]

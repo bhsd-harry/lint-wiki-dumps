@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",21,36,"Beijing_sundial_Ri_Gui"]]

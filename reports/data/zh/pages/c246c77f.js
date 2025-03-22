@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",45,1," * 佛教科\n * 日文科\n * 英文科\n * <del>[[醫事放射師|放射线]]科</del><ref group=\"注\"  name=\"放射线科招生\"/>"]]

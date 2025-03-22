@@ -1,0 +1,1 @@
+window.data=[[8,"no-duplicate",23,3," state2              = [[德克萨斯州]]\n "]]

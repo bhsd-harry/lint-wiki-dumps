@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",53,1," * 家政科\n ** <del>第一部</del><ref group=\"注\"  name=\"家政科第一部招生\"/>\n ** <del>[[夜学|第二部]]</del><ref group=\"注\"  name=\"家政科第二部招生\"/>\n * <del>文艺科</del><ref group=\"注\" "]]

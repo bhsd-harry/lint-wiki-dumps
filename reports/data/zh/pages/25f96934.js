@@ -1,0 +1,1 @@
+window.data=[[8,"lonely-bracket",57,6,"[["],[2,"no-ignored",57,4,"全為[[台灣時間]]（[[UTC +8]]）"],[2,"unclosed-table",57,2,"{|"]]

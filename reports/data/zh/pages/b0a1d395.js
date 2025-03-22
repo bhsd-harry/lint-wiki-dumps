@@ -1,0 +1,1 @@
+window.data=[[14,"no-duplicate",14,3," CAS_number = 113-45-1\n "]]

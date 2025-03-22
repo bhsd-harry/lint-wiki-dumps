@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",10,3," election_date = 2024年11月5日\n "]]

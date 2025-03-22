@@ -1,0 +1,1 @@
+window.data=[[3,"no-duplicate",64,2,"[[Category:纹章]]"]]

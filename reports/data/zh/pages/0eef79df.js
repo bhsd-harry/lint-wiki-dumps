@@ -1,0 +1,1 @@
+window.data=[[168,"no-ignored",91,3,"共和党"],[1,"unclosed-table",67,2,"{|"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",284,21," <ref>{{Cite web|url=https://twncarat.wordpress.com/2015/03/16/%e9%9b%bb%e8%a6%96%e8%a7%80%e5%af%9f%e7%aa%97%ef%bc%9a20150309-20150315/|title=凱絡媒體週報 電"],[1,"parsing-order",284,22,"<ref>{{Cite web|url=https://twncarat.wordpress.com/2015/03/16/%e9%9b%bb%e8%a6%96%e8%a7%80%e5%af%9f%e7%aa%97%ef%bc%9a20150309-20150315/|title=凱絡媒體週報 電視"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",385,1," *2010年：[[超級巨聲]]Super Voice[[演唱會]]"]]

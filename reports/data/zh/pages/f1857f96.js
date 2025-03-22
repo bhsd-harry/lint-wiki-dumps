@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",82,2,"[[Category:美國太空總署太空探測器]]"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"invalid-gallery",42,24,"thumb"],[1,"no-ignored",43,1," [[File:Ginkgo Seed.JPG|thumb|除去種皮的銀杏種子（白果）]]"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",1303,24,"mw-collapsible"],[16,"no-ignored",611,14,"  <small>;text-align:center"],[15,"parsing-order",611,16,"<small>"]]

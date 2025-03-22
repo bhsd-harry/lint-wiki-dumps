@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",69,1,"\n [[File:TRA DL-1031 at Ruifang Station 20220510.jpg|thumb|停放於[[瑞芳站]]的DL1031]]\n"]]

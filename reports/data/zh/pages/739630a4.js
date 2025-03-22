@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",400,2,"[[Category:法國行政區劃|大區]]"]]

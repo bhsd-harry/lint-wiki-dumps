@@ -1,0 +1,1 @@
+window.data=[[6,"no-ignored",68,22,"旗津→鼓山05:00至02:00、<br>鼓山→旗津05:15至02:00width=15%"],[1,"parsing-order",68,39,"<br>"]]

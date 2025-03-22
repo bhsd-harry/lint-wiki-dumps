@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",966,2,"[[Category:中華台北奧林匹克運動會銀牌得主]]"]]

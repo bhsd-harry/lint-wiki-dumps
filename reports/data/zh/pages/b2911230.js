@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",31,2,"[[Category:明朝都指揮僉事]]"]]

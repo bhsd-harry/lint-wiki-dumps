@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",94,1," ;蒲新路道义大街（站位位于蒲新路，蒲新路道义南大街路口东侧，C1出入口旁）\n {{沈阳公交线路列表|width=100%|format=|end=yes|V122|V130}}"]]

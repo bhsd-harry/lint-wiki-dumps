@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",10,3," related=[[Assiniboine|阿西尼博因人]]、其他[[Algonquian|阿岡昆人]]<br/>尤其係其他[[Anishinaabe|阿尼什那貝人]]，[[Cree|克里人]]同[[Métis|梅蒂人]]\n "]]

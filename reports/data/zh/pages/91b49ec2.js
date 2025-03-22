@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",115,1397,"name=EdmontonJournal20071118/<ref"],[1,"tag-like",115,1426,"<ref"]]

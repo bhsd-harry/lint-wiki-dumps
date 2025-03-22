@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",96,2,"[[Category:基隆市旅遊景點]]"]]

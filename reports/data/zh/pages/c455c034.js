@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",664,1," ===電視節目==="],[10,"no-ignored",505,4,"<br />"],[10,"parsing-order",505,4,"<br />"],[1,"unclosed-table",663,2,"{|"]]

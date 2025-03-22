@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",145,2,"[[Category:在義大利的美國人]]"]]

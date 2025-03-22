@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",169,1,"\n ==《[[神秘音樂秀：蒙面歌王]]》競賽結果==\n {{plainlist|\n * {{colorbox|gold}} '''獲勝'''\n * {{colorbox|palegreen}} '''連勝成功'''\n * {{colorbox|lightpink}} '''連勝失敗'''\n }}\n"],[1,"unclosed-table",143,2,"{|"]]

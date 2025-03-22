@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",21,30,"放大的前一幅照片中的滑坡。Wikischaeberlechannels.jpg"]]

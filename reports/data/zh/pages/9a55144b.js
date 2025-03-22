@@ -1,0 +1,1 @@
+window.data=[[14,"lonely-bracket",138,31,"[["],[8,"no-duplicate",1278,24,"lat_deg=23"],[1,"no-ignored",22,39,"  <br />"],[1,"parsing-order",22,41,"<br />"],[1,"unmatched-tag",1280,2,"</small>"]]

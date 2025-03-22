@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",120,5,"align=center"],[8,"no-ignored",127,3,"年度"]]

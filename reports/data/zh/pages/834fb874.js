@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",152,5,"[["],[1,"no-ignored",152,4," [[Genesis (Card Scheme)|eTranzact]] (Nigeria)||A000000454||Genesis||0010||A0000004540010"]]

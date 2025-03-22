@@ -1,0 +1,1 @@
+window.data=[[22,"no-duplicate",70,412,"author=李成智，李小寧 "]]

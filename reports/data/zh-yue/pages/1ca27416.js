@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",18,3," subdivision_name1           = {{flag|California}}\n "]]

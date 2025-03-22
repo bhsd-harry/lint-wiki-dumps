@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",50,1," * 航空机体科\n * 航空发动机科<ref group=\"注\"  name=\"航空发动机科\"/>"]]

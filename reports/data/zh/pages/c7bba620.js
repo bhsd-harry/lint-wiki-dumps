@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",254,1," </div>\n <div class=\"NavContent\"  align=\"left\">\n ===2009年===\n *8月20日 [[蘋果日報]] 《[http://hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20090"],[1,"unmatched-tag",254,2,"</div>"]]

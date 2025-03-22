@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",27,114,"]"],[2,"no-duplicate",7,3," death_date  = \n "]]

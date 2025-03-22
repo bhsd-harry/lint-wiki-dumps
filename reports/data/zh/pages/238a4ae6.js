@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",10,3," reign1 = 1470年10月30日 – 1471年4月11日\n "]]

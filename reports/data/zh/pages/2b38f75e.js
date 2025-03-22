@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",48,2,"[[Category:波斯尼亚和黑塞哥维那代表院议员]]"]]

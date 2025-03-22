@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",52,2,"[[Category:互联网用语|Chun]]"]]

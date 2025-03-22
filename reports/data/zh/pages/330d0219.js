@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",12,3,"constituency = {{le|新莫斯科选区|New Moscow constituency}}\n "]]

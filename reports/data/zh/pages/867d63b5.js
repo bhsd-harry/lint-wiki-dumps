@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",63,1," * 戶井町立潮光中學校"]]

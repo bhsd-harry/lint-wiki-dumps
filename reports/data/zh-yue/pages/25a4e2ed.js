@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",95,1,"\n ==參考==\n {{reflist}}\n * {{youtube|id=g78QiNrlkTM|title=《粵語長片》廣昌隆 (1957)}}\n * [https://hkmdb.com/db/movies/view.mhtml?id=2555&display_set=big5 呆佬遇鬼 (1"],[1,"unclosed-table",31,2,"{|"],[1,"unmatched-tag",11,32,"</br>"]]

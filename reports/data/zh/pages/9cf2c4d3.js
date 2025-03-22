@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",242,31,"Fried Lotus Rootlet"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",85,31,"thumb"],[1,"tag-like",98,427,"</ref"]]

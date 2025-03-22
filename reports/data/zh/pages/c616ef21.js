@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",11,3," image_size = x150px\n "]]

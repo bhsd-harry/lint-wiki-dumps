@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",84,128,"'"],[2,"no-duplicate",49,30,"Alexander_Burnes"]]

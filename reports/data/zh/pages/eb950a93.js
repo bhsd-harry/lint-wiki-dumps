@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",26,100,"name=NEI2013/。這是兒童及青少年單眼視力減退的最常見原因<ref"],[1,"tag-like",26,134,"<ref"]]

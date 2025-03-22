@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",1116,3,"style=\"background:#073198; !width=\""],[2,"no-ignored",1116,38,"200px\"; "]]

@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",25,219,"archive-url=https://web.archive.org/web/20201029054530/http://www.weather.gov.hk/tc/cis/statistic/vhotday_statistic.htm"]]

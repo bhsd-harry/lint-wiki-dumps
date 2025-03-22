@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",47,3,"1998年-2004年"]]

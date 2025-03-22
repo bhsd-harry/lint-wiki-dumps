@@ -1,0 +1,1 @@
+window.data=[[1,"pipe-like",623,20,"）||"]]

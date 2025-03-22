@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",5,2,"[[Category:奧地利城市]]"]]

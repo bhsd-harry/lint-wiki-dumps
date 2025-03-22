@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",100,2,"[[Category:美国前州首府|M]]"]]

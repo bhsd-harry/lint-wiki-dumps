@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",9,3,"settlement_type          = [[城市]]\n "]]

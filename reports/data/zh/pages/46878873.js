@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",877,83,"color:white"],[1,"lonely-apos",1122,55,"'"],[1,"no-ignored",1258,4,"font-weight:bold; text-align:center;\""],[5,"unclosed-table",157,2,"{|"]]

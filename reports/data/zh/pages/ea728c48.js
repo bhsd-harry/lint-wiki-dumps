@@ -1,0 +1,1 @@
+window.data=[[9,"invalid-gallery",168,27,"thumb"],[2,"no-duplicate",7,3,"area        = 20[[公頃]]\n "]]

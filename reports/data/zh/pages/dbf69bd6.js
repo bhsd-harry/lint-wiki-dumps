@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",3,3,"native_title= 碳能源\n "]]

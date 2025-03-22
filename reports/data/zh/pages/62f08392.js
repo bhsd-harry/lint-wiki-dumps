@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",31,3," native place = [[陕西省|陕西]][[西安市|西安]]\n "]]

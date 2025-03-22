@@ -1,0 +1,1 @@
+window.data=[[12,"fostered-content",930,1," （生物股長的各位你棉好呀─!! 2006）<br/>\n 全日本共7縣市，7場公演"],[4,"illegal-attr",942,44,"Lady"],[3,"no-ignored",942,32,"名古屋Electric "]]

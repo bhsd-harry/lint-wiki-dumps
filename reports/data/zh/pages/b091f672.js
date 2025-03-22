@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",125,2,"[[Category:哈萨克斯坦亿万富豪]]"]]

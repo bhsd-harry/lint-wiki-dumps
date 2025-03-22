@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",23,12,"www.example.com"],[1,"lonely-http",23,5,"http://"],[2,"no-ignored",23,4,"[http://"]]

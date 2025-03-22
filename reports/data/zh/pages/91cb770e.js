@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",556,2,"[[Category:高中背景動畫]]"]]

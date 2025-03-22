@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",46,1," * 人类生活学科\n * 食物营养学科"]]

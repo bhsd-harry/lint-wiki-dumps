@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",1057,4,"2093"],[2,"lonely-bracket",1061,12,"[["],[2,"no-ignored",1057,8," 卓伯源、蔡煌瑯"],[2,"parsing-order",1061,4,"<center>"],[4,"unmatched-tag",66,21,"<center>"]]

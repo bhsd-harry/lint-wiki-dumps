@@ -1,0 +1,1 @@
+window.data=[[10,"illegal-attr",16,106,"data:image"],[1,"insecure-style",16,31,"margin-bottom: 199px; background-repeat: no-repeat; background-image: url("],[6,"no-ignored",16,116,"/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/"]]

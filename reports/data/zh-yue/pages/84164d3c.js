@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",18,156,"title=Proofs from THE BOOK "]]

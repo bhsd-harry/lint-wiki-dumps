@@ -1,0 +1,1 @@
+window.data=[[7,"lonely-bracket",94,224,"[["],[6,"no-duplicate",74,3," nominee1 = [[喬納森·傑克遜 (伊利諾州政治家)|喬納森·傑克遜]]\n "]]

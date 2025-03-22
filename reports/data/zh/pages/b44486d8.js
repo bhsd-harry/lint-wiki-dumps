@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",150,35,"A pillory in the city of Elvas"]]

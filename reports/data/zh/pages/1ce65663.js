@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",258,154,"]"],[3,"no-ignored",65,31,"  align:\"center\"  "]]

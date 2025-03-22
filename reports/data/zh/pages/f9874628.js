@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",1,19,"|毛主义共产党"]]

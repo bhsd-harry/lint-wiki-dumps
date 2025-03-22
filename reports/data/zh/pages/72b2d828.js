@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",43,187,"author= "]]

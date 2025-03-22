@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",311,350,"}"],[4,"no-duplicate",73,85,"date=2015-06-06"]]

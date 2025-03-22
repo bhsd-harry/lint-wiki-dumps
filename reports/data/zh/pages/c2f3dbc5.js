@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",42,1," * 儿童教育学科<ref group=\"注\"  name=\"儿童教育学科\"/>"]]

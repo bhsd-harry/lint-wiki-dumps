@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",371,2,"[[Category:特斯拉人物]]"]]

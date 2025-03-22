@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",67,2,"[[Category:鞑靼斯坦共和国历史]]"]]

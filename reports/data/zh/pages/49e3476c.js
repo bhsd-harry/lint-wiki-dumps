@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",278,1,"\n == 相關條目 ==\n {{commonscat|Lamborghini}}\n *[[費魯齊歐·兰博基尼]]（Ferruccio Lamborghini）\n *[[恩佐·法拉利]]（Enzo Ferrari）\n *[[法拉利汽車]]（Ferrari S.p.A.）\n *[[克萊斯勒]]（Chry"],[1,"no-ignored",49,1," [[File:Lamborghini 22PS 1951.jpg|缩略图|Lamborghini 22PS 1951]]"],[1,"unclosed-table",262,2,"{|"]]

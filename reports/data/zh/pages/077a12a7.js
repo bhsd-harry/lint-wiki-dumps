@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",7,2,"[[Category:區塊鏈]]"]]

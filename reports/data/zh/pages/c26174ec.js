@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",478,86,"border-top:"],[2,"no-duplicate",478,51,"style=\"width: 100%; height:200px\""],[1,"no-ignored",478,97," none\"  "]]

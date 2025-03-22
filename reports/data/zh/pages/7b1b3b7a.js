@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",267,2,"[[Category:對中國國民黨的批評與爭議|Z]]"]]

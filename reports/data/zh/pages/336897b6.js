@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",49,3," 播出時間1 = 每週一更新\n "]]

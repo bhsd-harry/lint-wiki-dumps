@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",80,117,"}"],[2,"no-duplicate",204,2,"[[分類:青黴素]]"]]

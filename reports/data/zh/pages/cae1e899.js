@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",343,13,"nowrap"],[1,"no-ignored",288,4,"  text-align:center;\""]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",237,1," * <small>自三巨頭首次奪得大滿貫起。</small>"],[139,"illegal-attr",651,34,"2002"],[21,"no-ignored",616,445," 2017年ATP世界巡迴賽總決賽"]]

@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",187,2,"[[Category:軍事特種部隊]]"]]

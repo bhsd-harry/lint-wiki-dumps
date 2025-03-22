@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",210,2,"[[Category:前時代力量黨員]]"]]

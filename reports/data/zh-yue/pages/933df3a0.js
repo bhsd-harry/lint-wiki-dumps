@@ -1,0 +1,1 @@
+window.data=[[12,"no-duplicate",7,338,"url-status=live"],[3,"unescaped",54,334,"="]]

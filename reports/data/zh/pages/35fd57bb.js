@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",104,1," <gallery caption=\"Positions of the comet C/2023 A3 in autumn 2024\"  perrow=1 widths=800 heights=400>"]]

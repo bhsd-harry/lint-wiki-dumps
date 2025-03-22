@@ -1,0 +1,1 @@
+window.data=[[18,"no-duplicate",2,192," access-date = 9 Ağustos 2022 "]]

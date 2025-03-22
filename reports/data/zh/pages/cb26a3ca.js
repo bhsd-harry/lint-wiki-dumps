@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",1156,5,"pata-ti"],[2,"lonely-bracket",341,239,"]"],[1,"no-ignored",1156,12,"/{{efn"]]

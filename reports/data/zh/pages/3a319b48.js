@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",1767,173,"  <small>愛知 日本特殊"],[1,"parsing-order",1767,175,"<small>"]]

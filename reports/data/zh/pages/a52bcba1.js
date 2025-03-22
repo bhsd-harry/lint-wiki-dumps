@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",117,4,"span"],[1,"no-ignored",187,31,"  ; margin:auto;\""]]

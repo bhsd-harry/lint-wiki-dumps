@@ -1,0 +1,1 @@
+window.data=[[10,"no-duplicate",56,2,"[[Category:2000年代失踪案]]"]]

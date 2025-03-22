@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",166,1,"\n 官方贊助商\n * [[泰國釀酒]]\n * [[泰國亞洲航空]] \n * [[7-Eleven]]\n * [[五十鈴|Isuzu Tangpak Ubon]]"]]

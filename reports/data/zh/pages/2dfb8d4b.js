@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",50,3,"signature    = Tim Kaine Signature.svg\n "]]

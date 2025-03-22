@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",806,5,"class=\"wikitable\""],[4,"no-ignored",93,3,"!width=20%"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",40,3," 網站 = \n "]]

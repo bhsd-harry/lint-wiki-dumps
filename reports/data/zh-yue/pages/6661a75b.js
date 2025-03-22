@@ -1,0 +1,1 @@
+window.data=[[1,"nested-link",24,1896,"[[紐約時報]]"],[1,"tag-like",27,27,"<ref"]]

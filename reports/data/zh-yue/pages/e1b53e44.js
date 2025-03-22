@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",26,3,"sovereignty_type = 歷史\n "]]

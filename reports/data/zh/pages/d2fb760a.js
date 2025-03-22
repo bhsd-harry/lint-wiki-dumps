@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",140,52,"width:"],[3,"no-ignored",95,1," </gallery&gt;\">"]]

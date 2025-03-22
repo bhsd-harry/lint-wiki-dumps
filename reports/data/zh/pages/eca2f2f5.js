@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",22,2,"[[Category:中國中醫師]]"]]

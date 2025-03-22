@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",99,17,"（已歿）align=left"]]

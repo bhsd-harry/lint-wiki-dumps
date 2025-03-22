@@ -1,0 +1,1 @@
+window.data=[[3,"invalid-imagemap",16,1," rect 393 230 481 409 {{tsl|en|Material implication|¬A or B}}"]]

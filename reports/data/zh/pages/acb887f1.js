@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",62,2,"[[Category:澳門行車天橋|A]]"]]

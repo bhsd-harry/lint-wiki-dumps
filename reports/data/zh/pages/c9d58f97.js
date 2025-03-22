@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",13,3," caption = [[科爾·帕爾默]]為該獎項的應屆得主。\n "]]

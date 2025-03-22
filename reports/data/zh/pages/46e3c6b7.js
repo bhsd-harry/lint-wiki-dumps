@@ -1,0 +1,1 @@
+window.data=[[89,"no-ignored",92,37,"  <--!!!請保留!!>"],[30,"parsing-order",103,4,"<div style=\"text-align: center;\">"],[49,"unmatched-tag",104,2,"</div>"]]

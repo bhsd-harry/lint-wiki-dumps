@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",6,2,"[[Category:P. LEAGUE+場館]]"]]

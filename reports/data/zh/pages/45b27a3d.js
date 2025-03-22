@@ -1,0 +1,1 @@
+window.data=[[2,"no-ignored",52,120,"投球局"],[1,"unmatched-tag",138,2,"</span>"]]

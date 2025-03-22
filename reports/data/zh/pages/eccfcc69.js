@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",79,1," ;云杉路地铁口（站位位于南京南街，下客站台位于C/D出入口之间，上客站台位于A/B出入口之间）\n {{沈阳公交线路列表|width=100%|format=|end=yes|K805-苏区一线}}\n {{col-end}}"]]

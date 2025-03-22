@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",32,2,"[[Category:明朝政治案件]]"]]

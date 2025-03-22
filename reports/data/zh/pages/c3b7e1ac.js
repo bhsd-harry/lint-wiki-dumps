@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",497,2,"[[Category:搞笑漫畫]]"]]

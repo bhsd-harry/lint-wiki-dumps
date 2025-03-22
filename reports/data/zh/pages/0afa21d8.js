@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",150,24,"'"],[4,"no-duplicate",17,3," key_people = \n "]]

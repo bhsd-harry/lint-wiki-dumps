@@ -1,0 +1,1 @@
+window.data=[[1,"nested-link",48,88,"[[大英百科全書第十一版|1911 Encyclopædia Britannica]]"]]

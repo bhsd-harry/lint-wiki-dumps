@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-http",140,380,"https://"],[2,"no-duplicate",59,312,"group=web"]]

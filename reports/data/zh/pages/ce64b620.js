@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",99,1," * 保育科\n ** 第一部\n ** [[夜校|第二部]]\n ** 函授教育课程<ref group=\"注\"  name=\"函授教育课程\"/>\n * 总合文化学科"]]

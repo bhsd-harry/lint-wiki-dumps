@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",178,22,"ngatho"],[1,"no-ignored",178,4,"我感谢 || Nĩndacokia "]]

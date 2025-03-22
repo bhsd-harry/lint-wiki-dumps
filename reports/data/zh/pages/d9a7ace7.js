@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",18,3,"primeminister1 = [[克林·波佩斯库-特里恰努]]<br />[[埃米尔·博克]]<br />[[克特林·普雷多尤]]  <small>（代理）</small><br />[[米哈伊·勒兹万·温古雷亚努]]<br />[[维克托·蓬塔]] \n "]]

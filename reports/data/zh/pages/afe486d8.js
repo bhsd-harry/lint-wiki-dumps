@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",66,1," * 群体生活学科\n * 食物营养学科\n * 保育学科"],[2,"lonely-bracket",31,40,"[["],[4,"no-duplicate",31,17,"group=\"注\""],[1,"no-ignored",31,38,"/→[[服装]]学科<ref "],[1,"tag-like",31,48,"<ref"]]

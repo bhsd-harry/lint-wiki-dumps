@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",78,2,"[[Category:北京市砖造佛塔]]"]]

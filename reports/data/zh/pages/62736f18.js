@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",11,3,"area        = 30,000平方公尺\n "]]

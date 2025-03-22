@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",11,3," 官方色彩 = \n "],[2,"no-ignored",89,21," 備註 "]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",106,2,"[[Category:越南佛教徒]]"]]

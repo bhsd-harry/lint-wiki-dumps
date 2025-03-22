@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",8,64,"valign"],[2,"no-duplicate",7,41,"构成海水的化学成分"]]

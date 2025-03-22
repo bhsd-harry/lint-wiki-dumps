@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",14,3,"fam4=[[中原官话]]\n "]]

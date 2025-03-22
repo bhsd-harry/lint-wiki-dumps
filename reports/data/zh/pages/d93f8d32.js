@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",86,3,"<s>59.58</s>  "],[2,"parsing-order",86,3,"<s>"],[1,"tag-like",86,166,"</ref"]]

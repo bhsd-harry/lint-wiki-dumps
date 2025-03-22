@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",59,14,"name=教育手冊1993"],[1,"no-ignored",59,27,"\n\n ====下午校====\n *郭龍章 先生<ref "],[1,"tag-like",62,9,"<ref"]]

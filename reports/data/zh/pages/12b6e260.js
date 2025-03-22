@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",282,32,"margin-left:"],[10,"invalid-gallery",254,21,"thumb"],[2,"no-ignored",282,44," 10px;\""]]

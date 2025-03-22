@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",109,236,"{{"],[2,"lonely-http",247,327,"http:/"],[2,"no-duplicate",143,507," language = "],[1,"no-ignored",247,304,"cdc-E141BBF01ADC6E4A\""]]

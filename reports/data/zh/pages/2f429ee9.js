@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",82,1,"\n ==參考文獻==\n {{reflist}}\n\n ==外部連結==\n *{{facebook|zonghua4012}}\n *{{youtube|7eObDKRP9_c|雲林新聞網-四湖木雕師奪磺溪美展立體工藝首獎}}\n *[https://artist-ding.business.site/ 丁"],[1,"unclosed-table",21,2,"{|"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",7,3," coordinates        = {{coord|48|50|54|N|2|20|14|E|display=inline,title}}\n "]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",5,3," date_first_issued   = \n "]]

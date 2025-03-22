@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",13,3," 管理者         =\n "]]

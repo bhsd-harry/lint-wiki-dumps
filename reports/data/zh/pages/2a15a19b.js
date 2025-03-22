@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",80,2,"[[Category:廣州大學城]]"]]

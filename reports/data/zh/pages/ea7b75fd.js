@@ -1,0 +1,1 @@
+window.data=[[1,"parsing-order",12,29,"<ref name=\"nasa-20220321\">{{cite web |last=Hoover |first=Rachel |url=https://www.nasa.gov/feature/ames/x-59 |title=Ames' Contributions to the X-59 Qui"]]

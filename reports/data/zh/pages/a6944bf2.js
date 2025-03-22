@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",17,3," percentage = '''60.42%'''\n "]]

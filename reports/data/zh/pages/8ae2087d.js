@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",15,14,"{{[http://fashion.ifeng.com/body/slim/detail_2011_12/21/11481303_0.shtml 杜坎纤食瘦身法掀起减肥革命]}}"]]

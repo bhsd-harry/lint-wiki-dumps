@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",142,1," * 「ToR」、「EUM」、「TY€」及「30YF」由各[[歐盟成員國]]聯合發行，詳情請參見其發行年份內的敘述。"]]

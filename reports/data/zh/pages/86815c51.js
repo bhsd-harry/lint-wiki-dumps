@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",68,1,"\n ==外部链接==\n * [https://www.openeuler.org/en/ 官方网站] {{Wayback|url=https://developer.huaweicloud.com/ict/en/site-euleros/euleros |date=20200121023159 }}"],[1,"unclosed-table",51,2,"{|"]]

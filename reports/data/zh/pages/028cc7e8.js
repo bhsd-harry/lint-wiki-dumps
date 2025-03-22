@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",9,3," coordinates         = {{coord|region:IN-GJ_type:landmark|display=inline,title}}\n "]]

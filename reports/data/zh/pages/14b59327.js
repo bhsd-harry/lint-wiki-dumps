@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",50,3," RD1-score1-1='''11'''\n\n "]]

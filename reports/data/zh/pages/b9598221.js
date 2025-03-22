@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",1,25,"|可觀察量"]]

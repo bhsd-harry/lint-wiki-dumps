@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",149,47,"colspan"],[1,"no-ignored",149,58,"  | '''各台冠軍歌總數'''"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",117,2,"[[Category:2022年中國災難|6]]"]]

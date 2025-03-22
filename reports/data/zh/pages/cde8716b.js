@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",786,3,"nowrap"],[10,"no-duplicate",209,3," color3       = #2b4d49\n "]]

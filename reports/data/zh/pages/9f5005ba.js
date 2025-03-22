@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",38,542,"xml:lang"],[1,"no-ignored",38,512,"; font-size:125%;' "]]

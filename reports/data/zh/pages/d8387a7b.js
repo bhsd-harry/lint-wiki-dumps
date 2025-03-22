@@ -1,0 +1,1 @@
+window.data=[[6,"illegal-attr",1161,42,":"],[1,"lonely-bracket",1158,3,"{{"],[1,"no-ignored",1158,3,"{{link-ko"]]

@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",86,2,"[[Category:第二次世界大战中的挪威]]"]]

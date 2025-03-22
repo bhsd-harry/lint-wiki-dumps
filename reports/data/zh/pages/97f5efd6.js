@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",84,1,"\n 三名當選眾議員缺席選舉，<ref name=\"01032021Politico\">{{Cite news|author=Caygle|first=Heather|author2=Ferris|first2=Sarah|last3=Beavers|first3=Olivia|date=2021-0"],[1,"lonely-bracket",83,4,"}}"],[1,"unclosed-table",50,2,"{|"]]

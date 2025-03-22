@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",12,3," image1_size       = \n "]]

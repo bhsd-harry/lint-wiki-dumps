@@ -1,0 +1,1 @@
+window.data=[[4,"illegal-attr",1338,24,"span"],[29,"lonely-apos",1362,98,"'"],[1,"lonely-bracket",741,77,"]]"],[4,"no-ignored",1339,4," \"align=bottom\"  "]]

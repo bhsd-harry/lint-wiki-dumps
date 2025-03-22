@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",60,180,"]]"],[2,"no-duplicate",60,160,"name=\"legacy\""],[1,"no-ignored",60,173,"當代成人單曲榜]]第28位，並在榜單逗留了四週<ref "],[1,"tag-like",60,196,"<ref"]]

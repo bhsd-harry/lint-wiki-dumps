@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",56,3," plant_operator     = 广西水利电业集团新疆克州水利发电有限公司\n "]]

@@ -1,0 +1,1 @@
+window.data=[[96,"no-duplicate",21,4,"style=\"padding-left:0.5em\""]]

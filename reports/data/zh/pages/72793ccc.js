@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",5,3,"zh-tw:愚蠢年代;zh-cn:愚昧年代;\n "]]

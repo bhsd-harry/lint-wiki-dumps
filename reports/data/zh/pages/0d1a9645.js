@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",12,3," elevation_m = 1156\n "]]

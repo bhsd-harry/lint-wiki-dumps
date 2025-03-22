@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",13,76,"title=奎澤石頭記"]]

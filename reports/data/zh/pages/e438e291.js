@@ -1,0 +1,1 @@
+window.data=[[6,"lonely-bracket",72,159,"]]"],[6,"no-duplicate",8,3," election_date = 2024年11月5日\n "]]

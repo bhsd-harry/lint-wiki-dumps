@@ -1,0 +1,1 @@
+window.data=[[64,"illegal-attr",682,165,"border:"],[48,"no-ignored",682,123,"  style\":\"background:yellow; color:black; "]]

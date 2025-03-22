@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",32,1," [[File:Cassiopeia-Outlook.JPG|thumb|仙后座號的展望室車（觀景車）內裝]]\n [[File:N-Gauge Cassiopeia E26 &  EF81 from Kato.jpg|thumb|一組N規格的仙后座列車與EF81電力車頭模型]]\n [[File:JR"],[1,"unclosed-table",31,2,"{|"]]

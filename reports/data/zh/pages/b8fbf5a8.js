@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",65,9,"{{"],[1,"no-ignored",65,3,"拽甩怪<u>{{雙下劃綫"],[1,"parsing-order",65,6,"<u>"],[1,"unmatched-tag",65,18,"</u>"]]

@@ -1,0 +1,1 @@
+window.data=[[3,"fostered-content",182,1,"\n [[File:Concert in singapore.jpg|thumb|ASKA SYMPHONIC CONCERT TOUR 2008 \"SCENE\"演唱会入口处]]ASKA SYMPHONIC CONCERT TOUR 2008  \"SCENE\" "],[3,"unclosed-table",170,2,"{|"]]

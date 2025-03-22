@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",155,18,"[[火星勘测轨道飞行器]]背景摄机拍摄的里奇陨击坑西侧壁。Wikiritchyfan.jpg"]]

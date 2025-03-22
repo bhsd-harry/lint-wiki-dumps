@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",33,3,"備註=\n "]]

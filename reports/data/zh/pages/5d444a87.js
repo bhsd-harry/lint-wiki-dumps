@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",64,2,"[[Category:烏克蘭英雄]]"]]

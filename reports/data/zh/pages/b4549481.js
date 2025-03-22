@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",16,29,"[[Category:976年|*]]"]]

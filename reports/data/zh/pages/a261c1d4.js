@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",52,51,"{{"],[2,"no-duplicate",52,51,"{{hanging indent"]]

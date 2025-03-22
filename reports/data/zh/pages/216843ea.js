@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",221,2,"[[Category:伊予鐵道轉乘車站|JR-Matsuyama-Ekimae]]"]]

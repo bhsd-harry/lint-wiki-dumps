@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",10,3,"image_map              = Madison_County_Alabama_with_Current_Huntsville_Corporate_Limits_Highlighted_in_Blue.png\n "]]

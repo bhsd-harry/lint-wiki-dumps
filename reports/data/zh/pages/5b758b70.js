@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",391,41,"rwospan"],[2,"no-ignored",219,57,"90%\";font-size:85%\""]]

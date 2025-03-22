@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",14,60,"float"]]

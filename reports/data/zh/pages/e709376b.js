@@ -1,0 +1,1 @@
+window.data=[[3,"no-duplicate",46,35,"talk "]]

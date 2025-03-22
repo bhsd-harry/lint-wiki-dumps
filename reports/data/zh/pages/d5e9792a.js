@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",48,1," * 人类发达学科"]]

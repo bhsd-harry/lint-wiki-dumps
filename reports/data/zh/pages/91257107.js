@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",288,55,"懸掛著"]]

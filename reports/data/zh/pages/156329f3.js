@@ -1,0 +1,1 @@
+window.data=[[9,"illegal-attr",167,34,"of"],[4,"no-duplicate",167,34,"of"],[1,"no-ignored",167,20," |+Chronology "]]

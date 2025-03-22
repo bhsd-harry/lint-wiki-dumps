@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",88,3,"3=[[閩東語]]\n "]]

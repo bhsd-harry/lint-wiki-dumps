@@ -1,0 +1,1 @@
+window.data=[[1,"nested-link",224,56,"[[加時]]"],[2,"no-duplicate",2,11,"G1=足球\n "]]

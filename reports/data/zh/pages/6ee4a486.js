@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",69,1," * 生活[[科系|学科]]\n ** <del>第一部</del>\n *** 生活学专攻\n *** 食物营养专攻\n ** <del>第三部</del><ref group=\"注\"  name=\"家政学科第三部\"/><ref group=\"注\"  name=\"招生到1997年\"/><ref group"]]

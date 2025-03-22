@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",39,104,"'"],[2,"no-duplicate",22,29,"240px"]]

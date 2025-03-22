@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",350,2,"[[Category:東方神起]]"]]

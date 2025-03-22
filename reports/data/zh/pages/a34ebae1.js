@@ -1,0 +1,1 @@
+window.data=[[3,"fostered-content",33,1," [[File:R12 IRT 1.svg|64px]]"],[13,"illegal-attr",129,40,"Service"],[4,"no-duplicate",129,40,"Service"],[4,"no-ignored",129,83," stations, "]]

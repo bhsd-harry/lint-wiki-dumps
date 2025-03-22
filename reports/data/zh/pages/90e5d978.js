@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",68,1," [[File:ty-cobb-museum.jpg|thumb|泰·柯布曾使用过的球鞋，现在位于泰·柯布博物馆]]"]]

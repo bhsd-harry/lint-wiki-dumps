@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",108,133,"}"],[6,"no-duplicate",404,1690,"language=zh"]]

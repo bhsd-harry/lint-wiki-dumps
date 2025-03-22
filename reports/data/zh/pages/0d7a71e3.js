@@ -1,0 +1,1 @@
+window.data=[[6,"illegal-attr",106,109,"Republican"],[1,"lonely-apos",1245,25,"'"],[5,"lonely-bracket",290,159,"]]"],[1,"tag-like",649,51,"</ref"],[1,"unmatched-tag",48,43,"</small>"]]

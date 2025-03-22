@@ -1,0 +1,1 @@
+window.data=[[4,"no-ignored",84,1," [[File:Battle of Gettysburg, by Currier and Ives.png|thumb|left|250px|[[美国内战]]中的[[蓋茲堡戰役 |蓋茲堡戰役]]]]"]]

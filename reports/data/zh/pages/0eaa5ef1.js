@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",111,2,"[[Category:被判謀殺罪的美國人|C]]"]]

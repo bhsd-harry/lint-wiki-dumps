@@ -1,0 +1,1 @@
+window.data=[[3,"parsing-order",2,355,"<ref name=\"Knaack p93\">Knaack 1978, p. 93.</ref>"]]

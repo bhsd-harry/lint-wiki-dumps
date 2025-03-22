@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",41,3,"代理發行= \n "]]

@@ -1,0 +1,1 @@
+window.data=[[42,"illegal-attr",92,3,"Kermit"],[2,"no-duplicate",132,3,"Count"],[2,"no-ignored",122,8," (Oscar "]]

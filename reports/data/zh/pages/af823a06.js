@@ -1,0 +1,1 @@
+window.data=[[36,"fostered-content",95,1," * '''史蒂芬·佛勒'''（{{lang-en|Stephen Fowler}}，生於1982年10月12日），26歲、來自[[俄亥俄州]][[畢曲伍德]]（''Beachwood''），於[[紐約]]海選。他於好萊塢演唱[[史提夫·汪達]]的〈''Superwoman (Where Were "],[1,"lonely-bracket",281,124,"]]"]]

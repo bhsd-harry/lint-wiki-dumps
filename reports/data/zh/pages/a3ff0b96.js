@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",62,1," * 文化环境学科\n ** <del>日本文艺专攻</del><ref group=\"注\"  name=\"招生到于1999年\">招生到1999年。</ref>\n ** <del>日本文化史专攻</del><ref group=\"注\"  name=\"招生到于1999年\"/>\n ** <del>英美语专"]]

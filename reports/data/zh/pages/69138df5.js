@@ -1,0 +1,1 @@
+window.data=[[6,"illegal-attr",216,42,"color:black"],[1,"no-ignored",214,29,"100%\"  "]]

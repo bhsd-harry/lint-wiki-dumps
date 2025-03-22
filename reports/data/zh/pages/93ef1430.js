@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",25,2,"[[Category:台湾新石器时代遗址]]"]]

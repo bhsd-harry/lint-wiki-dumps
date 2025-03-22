@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",454,63,"}}"],[3,"no-duplicate",454,23,"<small>在普蘭巴南平原的其中的{le"],[1,"unmatched-tag",454,70,"</small>"]]

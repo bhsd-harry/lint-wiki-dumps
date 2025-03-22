@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",108,2,"[[Category:超級英雄恐怖片]]"]]

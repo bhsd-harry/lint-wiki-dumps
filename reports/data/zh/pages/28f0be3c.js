@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",52,43,"{{"],[1,"no-ignored",52,42,"({{IPAlink"]]

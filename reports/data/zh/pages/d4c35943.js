@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",1,18,"|北日耳曼語支"]]

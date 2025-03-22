@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",130,2,"[[Category:日本科幻小說]]"]]

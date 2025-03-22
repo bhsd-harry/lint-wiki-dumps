@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",356,1,"\n == 註腳 ==\n {{Reflist}}\n\n == 外部連結 ==\n * [http://www.nanoripe.com/ nano.RIPE]{{Wayback|url=http://www.nanoripe.com/ |date=20090712042458 }} {{ja icon}}"],[1,"unclosed-table",269,2,"{|"]]

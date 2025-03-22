@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",20,3,"備註       = 無人站\n "]]

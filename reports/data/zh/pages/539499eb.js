@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",5,3,"1=zh:颱風海鷗; zh-hans:台风海鸥; zh-tw:中度颱風卡玫基; zh-hk:颱風海鷗\n "]]

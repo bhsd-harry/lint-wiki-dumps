@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",1102,1,"\n * '''2009年''' \n **韓國音樂專業網站monkey3排名，當年度最高的男子組合5位\n ** 韓國音樂專業網站monkey3排名，當年度最高新人組合3位\n\n * '''2010年''' \n **韓國最熱門下載歌曲「My Dream」第二名\n **韓國Hanteo Daily Char"]]

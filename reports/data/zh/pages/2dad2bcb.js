@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",127,2,"[[Category:巴比倫尼亞]]"]]

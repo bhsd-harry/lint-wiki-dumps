@@ -1,0 +1,1 @@
+window.data=[[3,"fostered-content",79,1," * {{flag|英國}}\n * {{flag|印度}}\n * {{flag|馬來西亞}}\n * {{flag|加拿大}}"]]

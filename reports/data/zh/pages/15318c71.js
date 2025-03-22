@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",164,545,"链接=https://en.wikipedia.org/wiki/File:Buster Keaton in costume.jpg"]]

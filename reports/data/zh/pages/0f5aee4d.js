@@ -1,0 +1,1 @@
+window.data=[[10,"no-duplicate",42,2,"[[Category:多人及單人電子遊戲]]"]]

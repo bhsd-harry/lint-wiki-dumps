@@ -1,0 +1,1 @@
+window.data=[[10,"no-duplicate",74,48,"Kuyoh_River_Park_pavilion_(230419)"]]

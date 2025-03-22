@@ -1,0 +1,1 @@
+window.data=[[6,"illegal-attr",128,24,"1px"],[2,"no-duplicate",128,109,"12px"],[2,"no-ignored",128,33," #8888aa; background-color:#f7f8ff; padding:5px; font-size:75%; "]]

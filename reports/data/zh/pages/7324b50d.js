@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",341,4,"{{"],[2,"no-ignored",18,73,"|{{dagger|alt=表示尚未上映的电影}}"]]

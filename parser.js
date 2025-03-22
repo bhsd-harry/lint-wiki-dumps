@@ -1,25 +1,25 @@
 'use strict';
 
 const fs = require('fs'),
+	path = require('path'),
 	os = require('os'),
 	{performance: perf} = require('perf_hooks'),
 	chalk = require('chalk'),
 	bz2 = require('unbzip2-stream'),
 	XmlStream = require('xml-stream'),
 	Parser = require('wikilint'),
-	{refreshStdout} = require('@bhsd/common'),
-	/** @type {string[]} */ summary = require('./summary');
+	{refreshStdout} = require('@bhsd/common');
 const n = Number(process.argv[4]) || Infinity,
 	[,, site, file,, restart] = process.argv;
 
-Parser.config = site;
+Parser.config = `${site}wiki`;
 Parser.lintCSS = false;
 
 if (!fs.existsSync('results')) {
 	fs.mkdirSync('results');
 }
 const stream = new XmlStream(fs.createReadStream(file.replace(/^~/u, os.homedir())).pipe(bz2())),
-	results = fs.createWriteStream(`results/${site}.json`, {flags: restart ? 'a' : 'w'}),
+	results = fs.createWriteStream(path.join('results', `${site}.json`), {flags: restart ? 'a' : 'w'}),
 	ignore = new Set(['no-arg', 'url-encoding', 'h1', 'var-anchor']);
 let i = 0,
 	failed = 0,
@@ -50,16 +50,6 @@ const stop = () => {
 	}
 	results.write('\n}');
 	results.close();
-	fs.writeFileSync(
-		'summary.json',
-		`${
-			JSON.stringify(
-				[...new Set([...summary, site])].sort((a, b) => a.localeCompare(b)),
-				null,
-				'\t',
-			)
-		}\n`,
-	);
 };
 
 console.time('parse');

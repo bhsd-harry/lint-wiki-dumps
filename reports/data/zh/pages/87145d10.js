@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",79,2,"[[Category:法国公立机构]]"]]

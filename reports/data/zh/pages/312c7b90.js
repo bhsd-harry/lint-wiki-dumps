@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",164,50," !!总数排名"]]

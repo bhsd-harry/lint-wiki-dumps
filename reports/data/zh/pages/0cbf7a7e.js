@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",46,3,"大邱KOGAS飛馬"]]

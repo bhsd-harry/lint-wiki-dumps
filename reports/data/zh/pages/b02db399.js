@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",53,1," * 食物营养学科\n * 群体文化学科<ref group=\"注\"  name=\"群体文化学科\">日语:{{lang|ja|コミュニティ文化学科}}</ref>"],[1,"unmatched-tag",62,14,"</del>"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",85,2,"[[Category:20世纪美国政治人物]]"]]

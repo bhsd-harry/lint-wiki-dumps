@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",117,2,"[[Category:关岛植物|L]]"]]

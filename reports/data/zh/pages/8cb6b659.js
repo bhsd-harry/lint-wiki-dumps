@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",15,1," <math>  \\vee  </math>  和  <math>  \\wedge  </math>  成立，因此:"]]

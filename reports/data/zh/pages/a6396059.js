@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-http",58,410,"ISBN"],[2,"no-duplicate",92,2,"[[Category:謬誤]]"]]

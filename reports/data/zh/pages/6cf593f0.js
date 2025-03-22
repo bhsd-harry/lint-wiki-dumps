@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",460,5,"span"],[2,"no-duplicate",369,3,"year precipitation days =\n "]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",84,1," {{DEFAULTSORT:蔣怡}}\n [[Category:有線電視女藝員]]\n [[Category:中國女性模特兒]]\n [[Category:广东外语外贸大学校友]]\n [[Category:中華廚藝學院校友]]\n [[Category:中華人民共和國出生者]]\n [[Category:邵"],[1,"no-ignored",44,4,"2008年||《籃球火》||李贏||言承旭、羅志祥 、吳尊、周采詩主演。"]]

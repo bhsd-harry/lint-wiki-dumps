@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",1105,351,"}"],[8,"no-ignored",13,29,"width:100%\""]]

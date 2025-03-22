@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",51,1," * 日文科\n * 社会科\n * 理数科\n * 家政科\n ** 儿童专攻\n ** 食物专攻\n ** [[服装]]专攻<ref group=\"注\"  name=\"服装专攻\">日语:{{lang|ja|被服専攻}}</ref>"]]

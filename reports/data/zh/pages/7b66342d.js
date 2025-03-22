@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",38,21,"font-size:"],[1,"no-ignored",38,31," 12%;\""]]

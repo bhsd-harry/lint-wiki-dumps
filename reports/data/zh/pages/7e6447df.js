@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",63,37,"{{largethumb}}"],[1,"unmatched-tag",73,19,"</sup>"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",10,132,"title=http://www.ihb.cas.cn/jggk/sshg/202011/t20201106_5740917.html "]]

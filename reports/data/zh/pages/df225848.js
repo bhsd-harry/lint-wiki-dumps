@@ -1,0 +1,1 @@
+window.data=[[9,"lonely-bracket",23,4,"{{"],[8,"no-ignored",23,3," {{nowrap"]]

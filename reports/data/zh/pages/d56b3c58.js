@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",47,3,"cyears7      = {{nbay|2020|start}}–{{nbay|2023|end}}\n "]]

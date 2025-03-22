@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",137,3," 近鉄奈良駅"]]

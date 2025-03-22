@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",3,93," 砂岩中的古波浪痕、地點：Moenkopi層、"],[1,"no-ignored",4,650," Greeley”"]]

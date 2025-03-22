@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",5,3,"1=zh-hans:博德闪耀足球俱乐部;zh-hk:波杜基林特足球會;zh-tw:波德閃耀足球俱樂部;\n "]]

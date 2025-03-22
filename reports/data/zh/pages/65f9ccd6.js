@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",41,4,"caption"],[3,"lonely-bracket",205,153,"{{"],[1,"lonely-http",206,44,"ISBN"]]

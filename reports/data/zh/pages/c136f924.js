@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",55,66,"]"],[2,"no-duplicate",16,3," season = 全年\n "]]

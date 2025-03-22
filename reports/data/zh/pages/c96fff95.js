@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",38,418,"name=\"Levyp200\""],[1,"no-ignored",38,433,"/<ref "],[1,"tag-like",38,434,"<ref"]]

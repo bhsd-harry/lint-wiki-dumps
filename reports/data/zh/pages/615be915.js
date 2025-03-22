@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",25,57,"月台(2015年5月)"]]

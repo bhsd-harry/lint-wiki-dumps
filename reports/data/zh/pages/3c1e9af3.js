@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",62,2,"[[Category:美国教育家]]"]]

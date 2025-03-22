@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",321,55,"["],[1,"no-ignored",348,42,"華國戲院"]]

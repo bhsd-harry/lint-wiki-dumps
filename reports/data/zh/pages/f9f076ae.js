@@ -1,0 +1,1 @@
+window.data=[[1,"nested-link",34,158,"[[托馬斯·科爾|Thomas Cole]]"]]

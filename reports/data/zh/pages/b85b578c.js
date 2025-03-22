@@ -1,0 +1,1 @@
+window.data=[[16,"no-duplicate",102,3,"image1                         = \n "],[34,"unmatched-tag",294,26,"</small>"]]

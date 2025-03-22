@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",109,2,"[[Category:受害者研究]]"]]

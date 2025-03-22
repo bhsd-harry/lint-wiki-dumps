@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",523,1,"\n ==參考資料==\n {{reflist|2}}\n\n == 外部連結 ==\n {{Commons category|Aroldis Chapman}}\n {{baseballstats |mlb=547973 |espn=30442 |br=c/chapmar01 |fangraphs=10233"],[6,"no-duplicate",95,2,"[[Category:辛辛那提紅人球員]]"],[1,"unclosed-table",521,2,"{|"]]

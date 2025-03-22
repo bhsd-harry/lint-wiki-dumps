@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",4,3," birth_date   = 973年5月6日\n "]]

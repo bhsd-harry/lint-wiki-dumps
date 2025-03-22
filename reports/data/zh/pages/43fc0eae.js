@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",277,5,"style=\"width:300px\""],[1,"unclosed-table",454,2,"{|"],[1,"unmatched-tag",488,12,"</table>"]]

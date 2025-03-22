@@ -1,0 +1,1 @@
+window.data=[[15,"illegal-attr",613,4,"border:1px"],[4,"no-duplicate",552,4,"style=\"vertical-align:top\""],[5,"no-ignored",613,26," grey;\""]]

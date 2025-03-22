@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",220,60,"{{"],[1,"no-ignored",220,3," 「Inchoate voice」<br />「Eureka」<br />「MOVE*MENTER」<br />「{{lang"],[3,"parsing-order",220,20,"<br />"]]

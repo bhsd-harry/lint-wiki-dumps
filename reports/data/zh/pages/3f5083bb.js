@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",84,2,"[[Category:伊拉克法律]]"]]

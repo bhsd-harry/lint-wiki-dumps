@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",171,5,"span"],[2,"no-duplicate",592,5,"style=\"{{Table center}}\""],[2,"unmatched-tag",108,227,"</span>"]]

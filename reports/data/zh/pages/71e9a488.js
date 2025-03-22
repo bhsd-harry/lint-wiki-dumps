@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",4,3,"  artist      = [[張敬軒]] \n "]]

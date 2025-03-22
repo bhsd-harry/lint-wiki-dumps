@@ -1,0 +1,1 @@
+window.data=[[1,"nested-link",29,292,"[[美國財政部長]]"]]

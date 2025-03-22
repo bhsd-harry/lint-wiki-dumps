@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",87,52,"width:"],[2,"no-ignored",87,58," 50%; "]]

@@ -1,0 +1,1 @@
+window.data=[[4,"no-ignored",33,4,"at||分词性词尾<ref name=\"pe17\">Parma Eldalamberon #17</ref>"],[3,"parsing-order",33,13,"<ref name=\"pe17\">Parma Eldalamberon #17</ref>"]]

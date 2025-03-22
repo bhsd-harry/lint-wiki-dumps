@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",50,1," [[File:臺北駐美國代表處及其辦事處轄區圖.png|600px|無框|center]]"]]

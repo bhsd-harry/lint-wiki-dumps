@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",2,3,"1=zh-hant:Ultraman Ace;zh-hk:Ultraman Ace;zh-tw:Ultraman Ace;zh-hans:Ultraman Ace;zh-mo:Ultraman Ace;\n "]]

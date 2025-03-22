@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",15,3," released = '''{{vgrelease|JP|1999年12月16日}}'''\n "]]

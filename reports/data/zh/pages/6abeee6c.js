@@ -1,0 +1,1 @@
+window.data=[[3,"lonely-apos",743,24,"'"],[5,"lonely-bracket",1583,33,"]"],[2,"no-duplicate",1236,177,"name=\"HPVT\""],[1,"no-ignored",1236,188,"/<ref "],[1,"tag-like",1236,189,"<ref"]]

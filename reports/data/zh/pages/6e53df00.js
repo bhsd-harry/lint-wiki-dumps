@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",80,117,"colspan"],[1,"no-ignored",80,98,"  |bgcolor=\"grey\"  "]]

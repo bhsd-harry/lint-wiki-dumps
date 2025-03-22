@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",42,4,"table"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",2,1," [https://upload.wikimedia.org/wikipedia/commons/2/2c/Bayan-Olgii-airport%2C-Western-Mongolia.jpg Olgii airport] {{Wayback|url=https://upload.wikimedi"]]

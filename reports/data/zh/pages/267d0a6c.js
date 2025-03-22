@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",22,2,"[[Category:文革受难者|Y袁]]"]]

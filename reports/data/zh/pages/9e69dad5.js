@@ -1,0 +1,1 @@
+window.data=[[3,"invalid-gallery",186,32,"缩略图"],[2,"no-duplicate",248,35,"Memorial Stadium, Clemson"],[3,"no-ignored",77,74,"  \"text-align:center\""]]

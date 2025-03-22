@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",20,4,"{{"],[1,"no-ignored",20,3," {{Translink "]]

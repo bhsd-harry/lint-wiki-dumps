@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",64,2,"[[Category:法甲球員]]"]]

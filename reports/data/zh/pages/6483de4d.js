@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",6,107,"["],[1,"no-ignored",11,5,"!scope=col"]]

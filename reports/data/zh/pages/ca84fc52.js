@@ -1,0 +1,1 @@
+window.data=[[5,"illegal-attr",74,4,"2015"],[18,"lonely-bracket",74,13,"[["],[5,"no-ignored",74,8," || 《[[我要放假]]》 || 方哲涛 || [[NTV7]]  "]]

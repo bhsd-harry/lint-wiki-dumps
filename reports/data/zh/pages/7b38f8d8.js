@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",117,1," *2012  ACER iconic w7 TVC<ref>{{Cite web |url=https://www.youtube.com/watch?v=QQJ0S-sTceU |title=ACER iconic w7 TVC |access-date=2017-03-13 |archive-"]]

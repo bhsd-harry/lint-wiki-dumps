@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",16,3,"affiliations=[[財務省]]\n "]]

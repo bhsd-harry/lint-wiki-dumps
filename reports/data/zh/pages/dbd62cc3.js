@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",70,3," 男子双人 "]]

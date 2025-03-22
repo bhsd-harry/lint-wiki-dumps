@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",5,72,"link=https://uk.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:White-red-white flag of the Belarusian diaspora in Ukraine.svg"]]

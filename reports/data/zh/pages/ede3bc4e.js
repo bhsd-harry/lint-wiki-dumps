@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",424,1,"\n == 英雄列表 ==\n === 地球-1 ==="],[1,"unclosed-table",269,2,"{|"]]

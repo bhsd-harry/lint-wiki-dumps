@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",164,12,"wikitable\"  "],[1,"unclosed-table",112,2,"{|"]]

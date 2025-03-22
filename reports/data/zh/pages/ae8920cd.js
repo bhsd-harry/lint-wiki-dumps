@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",68,166,"]"],[2,"no-duplicate",68,153,"=[[英]]"]]

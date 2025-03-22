@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",69,57,"{{"],[1,"nested-link",86,443,"[[東亞日報]]"]]

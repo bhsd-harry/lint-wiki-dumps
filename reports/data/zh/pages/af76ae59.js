@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",78,2,"[[Category:卡爾塔吉羅內人]]"]]

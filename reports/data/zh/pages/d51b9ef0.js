@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",10,2,"[[Category:南北朝僧人]]"]]

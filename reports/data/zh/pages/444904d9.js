@@ -1,0 +1,1 @@
+window.data=[[10,"no-duplicate",191,2,"[[Category:在世人物]]"]]

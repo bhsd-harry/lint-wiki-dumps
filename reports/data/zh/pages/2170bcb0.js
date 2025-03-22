@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",13,212," quote =The following year saw another first, also for Cole, as Ryan bagged a maiden Royal Ascot success aboard Highland Chief in the Golden Gates Han"]]

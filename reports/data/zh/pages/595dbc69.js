@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",73,2,"[[Category:群体过程]]"]]

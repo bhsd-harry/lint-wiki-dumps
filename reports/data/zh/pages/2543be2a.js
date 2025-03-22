@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",107,2,"[[分類:越南政治人物]]"]]

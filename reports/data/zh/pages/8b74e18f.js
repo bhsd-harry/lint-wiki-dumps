@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",108,42,"3001-3087"],[4,"lonely-bracket",108,6,"[["],[2,"no-ignored",108,4,"| [[宇通客車|宇通]]<br>ZK6118HGE|| ||大巴  || "],[2,"parsing-order",108,17,"<br>"]]

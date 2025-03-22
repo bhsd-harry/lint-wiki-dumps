@@ -1,0 +1,1 @@
+window.data=[[3,"lonely-apos",160,27,"'"],[2,"lonely-bracket",925,16,"[[["],[4,"no-duplicate",52,3," nominee2 = 瓦拉馬爾·阿丘拉塔\n "]]

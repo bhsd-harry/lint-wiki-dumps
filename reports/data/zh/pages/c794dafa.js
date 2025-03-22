@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",152,100,"  {|class=\"wikitable\""]]

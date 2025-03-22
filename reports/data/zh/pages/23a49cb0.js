@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",43,57,"{{"],[1,"no-ignored",43,3," 龈腭音；{{sfn|Kaplan|1981|p=29}}也被描述为擦音{{IPAblink|ʎ̥˖˔}}。{{sfn"]]

@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",161,2,"[[Category:1992年出生]]"],[1,"no-ignored",29,3," 不疼我 (专辑)"]]

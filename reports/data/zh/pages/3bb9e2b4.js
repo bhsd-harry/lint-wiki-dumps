@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",33,2,"[[Category:1998年中美洲和加勒比运动会田径运动员]]"]]

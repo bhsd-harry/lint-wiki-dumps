@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",346,183,"title=Anarchistes"]]

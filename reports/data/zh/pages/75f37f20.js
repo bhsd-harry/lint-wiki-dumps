@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",50,1," * <del>英语科</del><ref group=\"注\"  name=\"英语科招生\"/>\n * 幼儿教育科\n ** 第一部<ref group=\"注\"  name=\"停办于2005年\"/>\n ** [[夜校|第二部]]\n * 经营科<ref group=\"注\"  name=\"停办于2005年\""]]

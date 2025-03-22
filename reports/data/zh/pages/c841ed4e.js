@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",91,32,"style=\"line-height: 1.1em; border:1px #000000;\""]]

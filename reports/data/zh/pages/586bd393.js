@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",130,7,"{{"],[1,"lonely-http",130,21,"https://"],[1,"unclosed-table",131,2,"{|"]]

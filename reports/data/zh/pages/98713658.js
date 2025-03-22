@@ -1,0 +1,1 @@
+window.data=[[21,"fostered-content",210,1," *1994年：[[花弗新世界]]"]]

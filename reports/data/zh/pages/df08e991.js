@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",10,61,"多米尼克簽證政策"]]

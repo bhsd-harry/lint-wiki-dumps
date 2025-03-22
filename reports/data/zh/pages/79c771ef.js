@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",3,3,"zh-hant:鬼影;zh-sg:冤魂;zh-cn:鬼影;\n "]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",18,2,"[[Category:放射線學]]"]]

@@ -1,0 +1,1 @@
+window.data=[[3,"no-duplicate",23,37,"替代=朝陽科技大學校門"]]

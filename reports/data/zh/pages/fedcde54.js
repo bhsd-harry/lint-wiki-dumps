@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",38,82,"{{"],[1,"unmatched-tag",198,568,"</blockquote>"]]

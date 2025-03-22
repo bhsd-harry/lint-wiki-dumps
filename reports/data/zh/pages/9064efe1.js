@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",38,28,"Omar"],[16,"lonely-bracket",38,20,"[["],[3,"no-ignored",38,17," | [[Félix "],[6,"parsing-order",38,44,"<br/>"]]

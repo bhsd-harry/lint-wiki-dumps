@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",16,500,"title = http://www.gsj.jp/data/chishitsunews/94_08_09.pdf "]]

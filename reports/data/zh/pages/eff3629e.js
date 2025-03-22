@@ -1,0 +1,1 @@
+window.data=[[18,"no-duplicate",1161,6,"style=\"height: 110px;\""]]

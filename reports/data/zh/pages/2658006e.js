@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",56,2,"[[Category:中国足球教练]]"]]

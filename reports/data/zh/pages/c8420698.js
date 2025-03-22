@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",195,2,"[[Category:Pages using bar box without float left or float right|1936 French legislative election]]"]]

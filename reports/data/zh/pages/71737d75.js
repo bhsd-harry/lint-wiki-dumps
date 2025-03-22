@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",4,34,"{{"],[4,"no-duplicate",4,31,"古希腊{{tsl"]]

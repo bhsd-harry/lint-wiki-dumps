@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",78,39,"style=\"width:90%\""],[10,"no-ignored",275,14,"  <small>;text-align:center"],[4,"parsing-order",275,16,"<small>"]]

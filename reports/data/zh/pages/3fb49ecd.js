@@ -1,0 +1,1 @@
+window.data=[[1,"parsing-order",19,34,"<ref name=\"DiamondDA20\">{{cite web|url = http://www.diamondaircraft.com/build/index.php?id=20|title = Diamond DA20C1|accessdate = 2009-09-17|last = Di"]]

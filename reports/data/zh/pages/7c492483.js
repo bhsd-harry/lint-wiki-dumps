@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",95,1,"\n == 選舉紀錄 =="],[1,"unclosed-table",94,2,"{|"]]

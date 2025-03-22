@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",92,19,"印度護照上的[[英迪拉·甘地國際機場|德里機場]]入境印章。Image:India passport entry stamp.jpg"]]

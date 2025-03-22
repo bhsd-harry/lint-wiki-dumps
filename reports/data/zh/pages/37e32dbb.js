@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",47,1," * 儿童学科<ref group=\"注\"  name=\"儿童学科\">日语:{{lang|ja|子ども学科}}</ref>\n ** 第一部\n ** 函授教育课程<ref group=\"注\"  name=\"函授教育课程\">日语:{{lang|ja|通信教育課程}}</ref>\n === 专科 ==="],[1,"unclosed-table",46,2,"{|"]]

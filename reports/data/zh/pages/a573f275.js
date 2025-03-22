@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",28,1," [img]http://adscam.typepad.com/.a/6a00d8341bfa1853ef00e5540059848834-800wi{{Wayback|url=http://adscam.typepad.com/.a/6a00d8341bfa1853ef00e55400598488"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",2,3," religious_affiliation = [[伊斯蘭教]]\n "]]

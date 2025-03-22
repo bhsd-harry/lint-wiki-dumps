@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",12,2,"[[Category:内蒙古师范学院校友]]"]]

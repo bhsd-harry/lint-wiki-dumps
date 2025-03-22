@@ -1,0 +1,1 @@
+window.data=[[10,"no-duplicate",51,2,"[[Category:Xbox 360 Live Arcade游戏]]"]]

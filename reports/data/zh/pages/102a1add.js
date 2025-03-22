@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",8,3," type = [[地铁车站]]\n "]]

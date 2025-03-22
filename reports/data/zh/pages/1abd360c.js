@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",16,42,"font-size:"],[4,"no-ignored",16,27," rgb(0, 0, 0); "]]

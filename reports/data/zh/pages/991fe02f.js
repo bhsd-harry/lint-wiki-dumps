@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",32,3," caps6 = 17\n "]]

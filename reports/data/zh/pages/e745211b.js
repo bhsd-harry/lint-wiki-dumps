@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",149,1,"\n *[[中華音樂人交流協會]]2000年十大優良單曲〈天黑黑〉\n * [http://www.books.com.tw/activity/2008/12/2008music/1993_2005.html 台灣流行音樂200最佳專輯] {{Wayback|url=http://www.books.c"]]

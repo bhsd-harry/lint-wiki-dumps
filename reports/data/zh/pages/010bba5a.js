@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",29,1," [[File:R12 IRT 4.gif|64px]]"],[12,"illegal-attr",175,47,"information"],[2,"no-duplicate",175,75,"and"],[4,"no-ignored",175,82," stations, "]]

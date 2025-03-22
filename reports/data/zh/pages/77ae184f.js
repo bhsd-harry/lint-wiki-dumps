@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",70,62,"style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt; mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-"]]

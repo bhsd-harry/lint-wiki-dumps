@@ -1,0 +1,1 @@
+window.data=[[16,"fostered-content",47,1," [[Image:A plug.jpg|thumb|100px|A (NEMA 1-15美式2接腳)]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",44,3,"早於=\n "]]

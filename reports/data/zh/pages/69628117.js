@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",48,53,"}}"],[1,"no-ignored",25,119,"  中無法證明data -foreign-title=\"算術超限遞歸\""]]

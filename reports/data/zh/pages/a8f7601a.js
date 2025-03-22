@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",158,21,"sortable"],[2,"lonely-bracket",113,20,"[["],[1,"no-ignored",113,17,"|| [[君主立憲制]] ||"],[1,"unmatched-tag",409,2,"</div>"]]

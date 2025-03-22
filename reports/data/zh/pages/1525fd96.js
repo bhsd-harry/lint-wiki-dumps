@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",90,21,"px"],[1,"lonely-apos",795,189,"'"],[1,"no-ignored",90,29," black\"  "]]

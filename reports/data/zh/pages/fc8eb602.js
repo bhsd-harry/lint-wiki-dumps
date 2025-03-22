@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",71,34,"date=2024年9月26日\n "]]

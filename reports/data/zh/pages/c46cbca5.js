@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",416,12,"www.youtube.com"],[2,"lonely-http",416,4,"https://"],[2,"no-duplicate",416,12,"www.youtube.com"],[4,"no-ignored",416,3,"[https://"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",100,68,"日本ビクター"]]

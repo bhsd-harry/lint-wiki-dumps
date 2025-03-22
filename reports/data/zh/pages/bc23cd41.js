@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",119,18,"web"],[1,"lonely-bracket",119,11,"{{"],[1,"no-ignored",119,3," 阿娟<ref>{{Cite "],[1,"tag-like",119,6,"<ref"]]

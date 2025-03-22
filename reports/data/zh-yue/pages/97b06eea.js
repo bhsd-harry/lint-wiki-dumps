@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",25,88,"xml:lang"]]

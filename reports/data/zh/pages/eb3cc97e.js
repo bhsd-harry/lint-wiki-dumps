@@ -1,0 +1,1 @@
+window.data=[[1,"invalid-isbn",160,16,"ISBN 978-988-8047"],[1,"lonely-bracket",237,37,"{{"],[1,"no-ignored",237,37,"{{lang"]]

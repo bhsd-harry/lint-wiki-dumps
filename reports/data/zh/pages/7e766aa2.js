@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",37,8," 名称 "],[1,"unmatched-tag",190,19,"</ul>"]]

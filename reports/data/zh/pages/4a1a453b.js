@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",374,25,"width:"],[2,"no-ignored",374,16,"  white; "]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",418,1," </center>"],[1,"no-ignored",208,580,"FST字幕组"],[13,"unmatched-tag",7,2,"</center>"]]

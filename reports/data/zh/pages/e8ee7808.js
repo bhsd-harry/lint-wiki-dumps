@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",41,23,"HiWish计划下高分辨率成像科学设备看到的可能的岩脉和层状结构。Image:25558fault.jpg"],[2,"no-ignored",35,1," <--Image:Tikonravev Crater Floor.JPG|火星全球探勘者号显示的[[吉洪拉沃夫撞击坑]]坑底。点击图片可查看暗坡条纹和岩层。-->"]]

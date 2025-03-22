@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",826,2,"[[Category:2020年台灣選舉]]"],[1,"unmatched-tag",799,37,"</small>"]]

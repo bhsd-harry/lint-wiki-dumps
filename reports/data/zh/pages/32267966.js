@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",356,2,"[[Category:泰国政党]]"]]

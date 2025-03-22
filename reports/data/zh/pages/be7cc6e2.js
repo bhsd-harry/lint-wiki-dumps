@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",82,2,"[[Category:加利福尼亚州共和党人]]"]]

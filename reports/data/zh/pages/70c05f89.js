@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",310,2,"[[Category:富川市交通]]"]]

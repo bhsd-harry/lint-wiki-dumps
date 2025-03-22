@@ -1,0 +1,1 @@
+window.data=[[13,"no-duplicate",2,2,"[[Category:國立臺灣師範大學教授]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",32,204,"author=Ignas A. G. Snellen"]]

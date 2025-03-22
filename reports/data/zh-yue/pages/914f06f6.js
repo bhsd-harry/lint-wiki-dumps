@@ -1,0 +1,1 @@
+window.data=[[2,"no-ignored",78,3," {{party shading/Independent}}\"  "]]

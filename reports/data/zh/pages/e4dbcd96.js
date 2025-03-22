@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",41,1," [[File:小瑞士|缩略图]]"]]

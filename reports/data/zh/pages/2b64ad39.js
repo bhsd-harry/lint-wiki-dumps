@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",58,1," * [[商业|商务]]交流学科<ref group=\"注\"  name=\"商务交流学科\"/>"]]

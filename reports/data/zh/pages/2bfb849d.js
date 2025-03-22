@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",262,1," }\n\n === R1SE組合單曲 ===\n {{For|R1SE組合作品|R1SE#音樂作品}}"],[1,"unclosed-table",56,2,"{|"]]

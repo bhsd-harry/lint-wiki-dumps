@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",14,3," variants = [[T-80主戰坦克]]\n <!-- Type selection -->"]]

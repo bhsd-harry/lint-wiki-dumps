@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",32,833,"{{"],[1,"nested-link",221,338,"[[石油峰值]]"]]

@@ -1,0 +1,1 @@
+window.data=[[10,"no-duplicate",100,2,"[[Category:黃姓]]"]]

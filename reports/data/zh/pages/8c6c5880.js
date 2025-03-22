@@ -1,0 +1,1 @@
+window.data=[[5,"fostered-content",501,1,"\n ===李家（白馬里區公所）==="],[168,"no-duplicate",73,5,"style=\"background:cornflowerblue; color:white\""],[3,"no-ignored",243,3,"\"width:5\""]]

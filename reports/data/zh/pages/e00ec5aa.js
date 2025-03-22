@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",1,20,"|保罗·萨缪尔森"]]

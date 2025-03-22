@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",81,2,"[[Category:美國奧林匹克運動會金牌得主]]"]]

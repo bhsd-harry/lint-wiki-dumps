@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",2,22,"border-style:"],[2,"no-duplicate",5,3,"map={{Maplink|type=line|stroke-width=2|frame=yes|plain=yes|frame-align=center|frame-width=250|frame-height=250|zoom=10}}\n "],[1,"no-ignored",2,35," solid; "]]

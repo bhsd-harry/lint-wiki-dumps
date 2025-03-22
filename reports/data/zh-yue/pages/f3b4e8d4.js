@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",35,68,"]"],[2,"no-duplicate",32,3," 官方網站  = \n "]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",226,130,"''George Washington'' [[Carrier Strike Group]] formation sails in the Atlantic Ocean"]]

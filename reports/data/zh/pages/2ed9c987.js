@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",123,122,"Rel5 = 情侶"]]

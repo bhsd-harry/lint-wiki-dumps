@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",7,58,"辛布里人與條頓人的遷徙<br/>[[Image:Battle icon gladii red.svg|15px]] 羅馬人獲勝<br/>[[Image:Battle icon gladii blue.svg|15px]] 辛布里人與條頓人獲勝\n "]]

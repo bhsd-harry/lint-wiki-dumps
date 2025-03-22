@@ -1,0 +1,1 @@
+window.data=[[1,"invalid-isbn",175,115,"ISBN 978-3-935395-22-1"]]

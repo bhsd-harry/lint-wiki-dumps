@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",21,3," 中國大陸片名 = \n "]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",206,2,"[[Category:奥地利经济学家|M]]"]]

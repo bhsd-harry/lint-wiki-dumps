@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",51,1,"\n [[File:Self-replication of sphynx hexidiamonds.svg|thumb|A rep-tile-based setiset of order 4|thumb|left|text-bottom|260px|4个“斯芬克斯”的六块多形组可以组成另一个斯芬克斯。"],[8,"no-duplicate",52,53,"thumb"]]

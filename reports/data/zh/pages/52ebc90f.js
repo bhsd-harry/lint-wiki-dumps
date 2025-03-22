@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",978,2,"[[Category:殺手主角題材漫畫]]"]]

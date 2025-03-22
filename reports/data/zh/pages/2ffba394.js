@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",10,3,"logo=[[File:Qatar Airways Airbus A350-1000.jpg | thumb | right]]\n "]]

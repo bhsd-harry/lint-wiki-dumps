@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",148,68,"TBA"],[2,"no-duplicate",64,30,"thumb"],[11,"no-ignored",110,14,"  <small>;text-align:center"],[11,"parsing-order",110,16,"<small>"]]

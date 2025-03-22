@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",180,16," 對齊=中心 "]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",16,70," {{convert|69-71|C}}<ref>{{cite web | url = http://www.sigmaaldrich.com/catalog/product/aldrich/437778?lang=en | title = 3,4-Dichloroanline | publishe"],[1,"parsing-order",16,90,"<ref>{{cite web | url = http://www.sigmaaldrich.com/catalog/product/aldrich/437778?lang=en | title = 3,4-Dichloroanline | publisher = Sigma-Aldrich}}<"]]

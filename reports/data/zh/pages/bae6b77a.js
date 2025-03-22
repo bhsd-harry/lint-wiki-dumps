@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",529,4,"style=\"background:#659ec7; color:blue;\""],[1,"no-ignored",526,22,"  \"text-align:center;font-size:100%;\"|"]]

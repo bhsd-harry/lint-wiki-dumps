@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",193,2,"[[Category:2020年建立的程式語言]]"]]

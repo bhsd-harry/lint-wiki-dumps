@@ -1,0 +1,1 @@
+window.data=[[7,"illegal-attr",146,29,"BCD"],[4,"lonely-bracket",146,17,"[["],[2,"no-ignored",146,13," || [[巴科洛德]] || "]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",6,3,"coordinates = {{coord|43|18|06.45|N|05|22|29.15|E|region:FR_type:landmark|display=inline,title}}\n "]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",47,192," color"]]

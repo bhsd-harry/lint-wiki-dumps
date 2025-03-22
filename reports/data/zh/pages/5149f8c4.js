@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",62,120," ; {{box-shadow|4px|4px|4px|#23B1EA}}\""]]

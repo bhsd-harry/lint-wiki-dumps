@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",521,1,"\n ==成就==\n ===學術成就===\n 九龍華仁書院屬於[[香港補助學校議會]]成員學校，故被坊間稱為香港教會主辦的22間「傳統名校」之一。<ref>{{Cite web|title=傳統名校中學|url=https://www.schooland.hk/ss/traditional-elite"],[3,"illegal-attr",233,4,"text-style"],[1,"no-ignored",718,54,"系"],[1,"unclosed-table",449,2,"{|"]]

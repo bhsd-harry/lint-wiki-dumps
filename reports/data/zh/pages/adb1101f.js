@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",1,14,"|革出教门"]]

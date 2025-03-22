@@ -1,0 +1,1 @@
+window.data=[[4,"illegal-attr",62,3,"nowrap"],[1,"no-ignored",117,90,"; text-align:center; width:100%;\""]]

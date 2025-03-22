@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",60,4,"<ref>{{cite web|title=第 09 屆 立法委員選舉|url=http://db.cec.gov.tw/histMain.jsp?voteSel=20160101A2|website=中選會選舉資料庫網站|accessdate=2017-12-10|deadurl=yes|arch"],[1,"parsing-order",60,4,"<ref>{{cite web|title=第 09 屆 立法委員選舉|url=http://db.cec.gov.tw/histMain.jsp?voteSel=20160101A2|website=中選會選舉資料庫網站|accessdate=2017-12-10|deadurl=yes|arch"]]

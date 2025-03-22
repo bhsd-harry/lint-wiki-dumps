@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",121,2,"[[Category:安葬于拜科夫公墓者]]"]]

@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",714,3," image1             =\n "]]

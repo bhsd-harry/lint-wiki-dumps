@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",39,2,"[[Category:北京大学人民医院院长]]"]]

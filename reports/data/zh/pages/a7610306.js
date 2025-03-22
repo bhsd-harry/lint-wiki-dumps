@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",353,203,"]]"],[2,"no-ignored",115,31,"; color:snow\"  "]]

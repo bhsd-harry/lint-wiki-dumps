@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",50,2,"[[Category:2019年欧洲运动会皮划艇运动员]]"]]

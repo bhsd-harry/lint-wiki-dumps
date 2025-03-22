@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",126,1,"\n ==详细成绩==\n"],[1,"unclosed-table",84,2,"{|"],[1,"unmatched-tag",63,189,"<small>"]]

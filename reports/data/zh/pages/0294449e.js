@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",180,51,"{{"],[1,"no-ignored",180,34," 军人<br /><small>（{{le "],[2,"parsing-order",180,37,"<br />"]]

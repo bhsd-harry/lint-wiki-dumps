@@ -1,0 +1,1 @@
+window.data=[[5,"no-duplicate",12,393,"url=http://www.sportsseoul.com/news2/soccer/general/2008/0916/20080916101020300000000_6005138072.html"]]

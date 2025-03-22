@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",118,49,"]]"],[4,"no-duplicate",118,5,"align=center"],[3,"no-ignored",118,39," Casquette]]"],[1,"parsing-order",267,66,"<br />"]]

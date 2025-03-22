@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",77,2,"[[Category:苏联共产党党员]]"]]

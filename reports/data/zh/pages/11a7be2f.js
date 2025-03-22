@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",277,65,"McCartney's campaign against landmines "]]

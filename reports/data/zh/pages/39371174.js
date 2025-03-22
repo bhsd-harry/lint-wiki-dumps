@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",17,2,"[[分類:盔甲]]"]]

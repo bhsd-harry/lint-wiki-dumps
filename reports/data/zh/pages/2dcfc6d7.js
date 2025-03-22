@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",191,2,"[[Category:美國青少年喜劇片]]"]]

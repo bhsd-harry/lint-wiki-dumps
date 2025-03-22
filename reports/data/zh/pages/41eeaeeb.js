@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",390,1,"\n ==參考來源==\n {{reflist}}\n\n ==外部連結==\n *[http://www.rotary.edu.hk 中華基督教會扶輪中學網站]{{Wayback|url=http://www.rotary.edu.hk/ |date=20081109080221 }}\n\n {{中華基督教會"],[1,"unclosed-table",144,2,"{|"]]

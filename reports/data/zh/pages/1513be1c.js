@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",39,2,"[[Category:中華民國政府處決的中共烈士]]"]]

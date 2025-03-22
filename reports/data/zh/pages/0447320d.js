@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",95,2,"[[Category:2009年下水]]"]]

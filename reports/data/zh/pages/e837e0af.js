@@ -1,0 +1,1 @@
+window.data=[[6,"fostered-content",151,1," '''最佳球員：'''\n <br />[[西费韦·沙巴拉拉|-{zh-hans:西费韦·沙巴拉拉;zh-hk:舒巴拉拿;zh-tw:西費韋·沙巴拉拉;}-]] (南非)\n\n <br />'''[[助理裁判員]]：'''\n <br />Rafael Ilyasov ([[烏茲別克斯坦足球協會|烏茲別"]]

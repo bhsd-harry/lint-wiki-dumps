@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",25,26,"label17=[[卡那卡那富語]]："]]

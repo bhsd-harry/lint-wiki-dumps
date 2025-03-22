@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",44,1," * [[工商管理|经营]]学科\n * 文化学科"]]

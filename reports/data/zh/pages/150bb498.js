@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",31,13,"text-emphasis:"],[2,"no-ignored",31,27," dot; -webkit-text-emphasis: dot; "]]

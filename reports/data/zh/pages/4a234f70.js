@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",416,3,"!width=15%"],[2,"parsing-order",168,23,"<span style=\"color:#ffffff;\">"]]

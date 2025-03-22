@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",73,2,"[[Category:EC 3.4.24]]"]]

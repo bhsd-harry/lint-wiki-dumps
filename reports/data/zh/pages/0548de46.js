@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",38,2,"[[Category:台灣電子公司]]"]]

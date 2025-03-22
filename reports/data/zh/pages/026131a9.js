@@ -1,0 +1,1 @@
+window.data=[[8,"no-duplicate",42,3,"style=\"width:600px\""]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",49,20,"高麗文元王"]]

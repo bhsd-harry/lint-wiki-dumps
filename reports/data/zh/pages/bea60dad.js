@@ -1,0 +1,1 @@
+window.data=[[3,"illegal-attr",123,3,"Verizon"],[3,"no-ignored",123,10," People's "]]

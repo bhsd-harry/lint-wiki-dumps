@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",108,28,"山溪垂釣"],[3,"unmatched-tag",9,115,"</small>"]]

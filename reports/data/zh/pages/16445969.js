@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",17,3," majority = 1,341（2008）\n "]]

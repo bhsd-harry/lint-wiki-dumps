@@ -1,0 +1,1 @@
+window.data=[[1,"nested-link",74,207,"[[neo-Trotskyist]]"],[20,"no-duplicate",18,34,"Wilhelm Liebknecht 2"]]

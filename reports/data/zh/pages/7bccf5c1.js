@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",211,60,"Taiwanese Auxiliary Police Car"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",21,3,"battles=[[第一次世界大战]]<br>[[第二次世界大战]]\n "]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",38,4,"类=“wikitable”样式=“文本对齐：中心；”"]]

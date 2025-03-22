@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",7,3," caption      = 參加2016年古伍德速度節的布加迪 Chiron\n "]]

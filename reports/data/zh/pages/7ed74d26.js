@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",70,2,"[[Category:IOS软件]]"]]

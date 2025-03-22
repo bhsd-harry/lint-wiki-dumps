@@ -1,0 +1,1 @@
+window.data=[[8,"illegal-attr",327,17,"width:"],[1,"lonely-apos",384,21,"'"],[2,"no-duplicate",475,39,"style=\"text-align:center;font-size:90%\""],[8,"no-ignored",327,23," 4%\"  "]]

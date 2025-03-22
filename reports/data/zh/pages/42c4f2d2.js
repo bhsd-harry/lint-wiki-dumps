@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",98,2,"[[Category:薩索羅球員]]"]]

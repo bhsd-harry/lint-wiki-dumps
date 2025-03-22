@@ -1,0 +1,1 @@
+window.data=[[4,"illegal-attr",42,77,"background:"],[2,"no-duplicate",718,2,"[[Category:格莱美奖获得者]]"],[4,"no-ignored",42,88," #f9f9f9;"],[2,"unmatched-tag",676,79,"</small>"]]

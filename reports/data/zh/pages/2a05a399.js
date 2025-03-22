@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",83,1," * 现代教养学科\n ** 日本专攻\n ** 国际专攻\n ** 人类社会专攻\n * 儿童学科<ref group=\"注\"  name=\"儿童学科\"/>"]]

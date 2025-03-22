@@ -1,0 +1,1 @@
+window.data=[[490,"illegal-attr",40,92,"sortable"],[1,"lonely-bracket",3493,20,"]]"],[147,"no-duplicate",41,194,"0"],[196,"no-ignored",41,152,"style\":\"background-color: #B2CCFF "]]

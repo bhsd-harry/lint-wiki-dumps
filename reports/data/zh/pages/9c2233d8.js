@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",37,26,"url=https://shop.campus.org.tw/ProductDetails.aspx?productID=000544894"]]

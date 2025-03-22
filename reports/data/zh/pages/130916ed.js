@@ -1,0 +1,1 @@
+window.data=[[3,"illegal-attr",251,71,"Rider"],[2,"no-ignored",251,59,"  / ''Kamen "]]

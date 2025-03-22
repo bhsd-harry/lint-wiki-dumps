@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",153,86," {国际音标 "]]

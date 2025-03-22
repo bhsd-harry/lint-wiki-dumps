@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",65,2,"[[Category:古吉拉特邦城镇|N]]"]]

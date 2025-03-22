@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",598,49,"text-align"],[1,"lonely-bracket",569,907,"["]]

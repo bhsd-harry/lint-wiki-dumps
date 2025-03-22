@@ -1,0 +1,1 @@
+window.data=[[2,"tag-like",196,67,"<  A"],[1,"unescaped",580,65,"="]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",63,26,"西維吉尼亞州馬汀斯堡的"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",727,5,"width"],[1,"lonely-bracket",94,52,"["],[1,"no-ignored",590,4,"font-weight:bold\" "],[1,"unescaped",94,100,"="],[1,"unmatched-tag",1047,36,"<sup>"]]

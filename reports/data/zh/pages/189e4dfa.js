@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",107,2,"[[Category:北賽普勒斯總理]]"]]

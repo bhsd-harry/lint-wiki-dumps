@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",171,2,"[[Category:有組織犯罪遊戲]]"]]

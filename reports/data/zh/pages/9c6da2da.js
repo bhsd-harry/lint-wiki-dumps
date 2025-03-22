@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",17,3," doublestitles = 8 [[ITF女子巡回赛|ITF]]\n "]]

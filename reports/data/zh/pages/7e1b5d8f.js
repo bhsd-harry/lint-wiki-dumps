@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",3,3," authority = Juss. (1789\n "]]

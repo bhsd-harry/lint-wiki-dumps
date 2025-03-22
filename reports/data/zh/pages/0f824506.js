@@ -1,0 +1,1 @@
+window.data=[[10,"illegal-attr",23,19,"Appointed"],[1,"lonely-apos",27,186,"''"],[2,"lonely-bracket",23,4,"[["],[4,"no-duplicate",23,29,"by"],[6,"no-ignored",23,4,"[[西奥多·罗斯福]] || "],[1,"parsing-order",23,118,"<ref>R.P. van Riper, 1958. History of the United States Civil Service, Row, Peterson  &  Co., 1958</ref>"]]

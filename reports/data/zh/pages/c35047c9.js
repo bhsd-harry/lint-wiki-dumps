@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",3,3,"1=zh:埃莉諾; zh-tw:艾莉諾;\n "]]

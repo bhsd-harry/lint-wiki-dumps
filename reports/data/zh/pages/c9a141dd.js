@@ -1,0 +1,1 @@
+window.data=[[35,"illegal-attr",89,20,"white-space:"],[1,"lonely-apos",333,48,"'"],[2,"no-ignored",95,6,"、align=\"left\"  "]]

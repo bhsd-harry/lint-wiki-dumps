@@ -1,0 +1,1 @@
+window.data=[[1,"invalid-isbn",385,54,"ISBN 4-05-605008-0"],[2,"no-duplicate",219,95,"name=\"Ippan-p5\""],[1,"no-ignored",219,110,"  /但是在松號驅逐艦上又增加了8挺單裝25公厘機炮。<ref "],[1,"tag-like",219,137,"<ref"]]

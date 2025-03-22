@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",71,2,"[[Category:纺织艺术家]]"]]

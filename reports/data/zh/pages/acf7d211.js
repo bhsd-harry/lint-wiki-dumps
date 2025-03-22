@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",153,85,"{{"],[4,"no-duplicate",153,60,"位於[[帕萊斯特里納 (城鎮)|帕萊斯特里納]]的{{Tsl"]]

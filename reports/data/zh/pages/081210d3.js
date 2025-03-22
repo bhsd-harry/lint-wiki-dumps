@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",620,3,"mmfm={{flag icon|USA}} Indian Call\n "]]

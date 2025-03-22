@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",131,2,"[[Category:台灣人瑞]]"]]

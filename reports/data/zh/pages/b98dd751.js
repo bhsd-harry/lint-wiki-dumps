@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",27,1," [[File:NightwishJune2005.jpg|thumb|left|210px|约翰·双鹰参与的2005年6月的日暮頌歌「恍如隔世世界巡迴演唱會」]]"]]

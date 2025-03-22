@@ -1,0 +1,1 @@
+window.data=[[8,"no-ignored",48,3,"年度"]]

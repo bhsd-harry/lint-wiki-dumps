@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",26,3," related_comps= [[王者荣耀职业联赛|王者荣耀职业联赛]]\n "]]

@@ -1,0 +1,1 @@
+window.data=[[3,"no-duplicate",129,51,"міні"]]

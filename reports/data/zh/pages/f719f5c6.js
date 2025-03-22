@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",112,2,"[[Category:臺灣女性縣市議員|Y顏]]"]]

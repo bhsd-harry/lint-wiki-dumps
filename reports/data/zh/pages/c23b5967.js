@@ -1,0 +1,1 @@
+window.data=[[5,"no-duplicate",43,28,"高分辨率成像科学设备显示的[[希腊区]]处于形成阶段的扇形地形。WikiESP 029418 2220scallops.jpg"]]

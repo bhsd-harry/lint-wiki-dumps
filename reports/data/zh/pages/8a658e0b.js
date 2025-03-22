@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",2,3,"album          = 《四大名捕》\n "]]

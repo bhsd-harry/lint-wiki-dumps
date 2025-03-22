@@ -1,0 +1,1 @@
+window.data=[[5,"illegal-attr",9,140,"colspan"],[2,"lonely-bracket",45,235,"[["],[12,"no-duplicate",9,17,"align=\"center\""],[4,"no-ignored",9,217,"| 健康危害等级（蓝色区域）"]]

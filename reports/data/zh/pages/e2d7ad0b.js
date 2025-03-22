@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",112,336,"language=ja"],[1,"tag-like",1927,785,"</ref"]]

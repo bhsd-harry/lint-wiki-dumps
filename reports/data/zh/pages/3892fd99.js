@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",42,58,"style:text-"]]

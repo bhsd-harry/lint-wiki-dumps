@@ -1,0 +1,1 @@
+window.data=[[2,"no-ignored",121,1," <---File:Herat flag.png|<center>[[阿富汗]][[赫拉特]]旗幟(1930)</center>--->"]]

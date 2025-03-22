@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",45,1," * [[醫檢師|卫生技术]]科\n * 护理科"]]

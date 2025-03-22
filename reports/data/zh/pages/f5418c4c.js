@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",30,2,"[[Category:丹麥王爵]]"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",83,1," ;三菱发动机厂北门（站位位于金仓路，C/D出入口向东约340米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|149|150}}"]]

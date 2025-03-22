@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",21,2,"[[Category:江西省境内的全国重点文物保护单位]]"]]

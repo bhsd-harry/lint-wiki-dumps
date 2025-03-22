@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",1199,3,"'''{{Ruby-yue|正|zing3/zing1}}'''"]]

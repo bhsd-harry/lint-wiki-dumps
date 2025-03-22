@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",655,2,"[[Category:2025年地震]]"]]

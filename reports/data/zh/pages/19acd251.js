@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",23,403,"{{"],[2,"no-ignored",23,399," alt{{=}}\"Square "]]

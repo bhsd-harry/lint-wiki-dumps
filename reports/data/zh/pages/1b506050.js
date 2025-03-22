@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",45,2,"[[Category:台灣當代藝術家]]"]]

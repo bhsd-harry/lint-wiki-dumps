@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",430,24,"'"],[3,"lonely-bracket",380,24,"]"],[2,"no-duplicate",226,3," nominee1 = [[弗蘭克·盧卡斯 (俄克拉荷馬州政治家)|弗蘭克·盧卡斯]]\n "]]

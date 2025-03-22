@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",33,2,"[[Category:蘇聯阿富汗戰爭人物]]"]]

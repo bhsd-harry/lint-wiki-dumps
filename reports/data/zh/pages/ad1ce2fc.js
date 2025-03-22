@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",53,1," * 第一护理学科<ref group=\"注\"  name=\"第一护理学科招生\"/>\n * 第二护理学科"]]

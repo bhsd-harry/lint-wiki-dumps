@@ -1,0 +1,1 @@
+window.data=[[6,"lonely-bracket",195,36,"[["],[5,"no-duplicate",195,5,"align=center"],[4,"no-ignored",195,30," | '''[[Abderrahmane Hammad]]''' | "],[1,"parsing-order",349,75,"<br />"]]

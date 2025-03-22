@@ -1,0 +1,1 @@
+window.data=[[8,"lonely-bracket",102,4,"{"],[2,"no-ignored",102,4,"{[[譚禹晋]]}-"],[1,"unmatched-tag",435,108,"<small>"]]

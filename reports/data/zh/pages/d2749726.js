@@ -1,0 +1,1 @@
+window.data=[[5,"invalid-gallery",21,27,"thumb"],[1,"no-ignored",23,1," [[File:Hungary_telegram_form_with_imprinted_stamp_c._1870s.JPG|right|thumb|一张带有十九世纪晚期邮资图的匈牙利电报表格]]"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",227,3,"{{flagIOCathlete|[[Juan Antonio Ramos|Ramos]]|ESP|2004年夏季}}<br />'''L''' 0–8 "],[1,"parsing-order",227,62,"<br />"]]

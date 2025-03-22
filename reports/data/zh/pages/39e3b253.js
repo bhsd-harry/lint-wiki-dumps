@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",20,21,"''"],[2,"no-duplicate",79,2,"[[Category:變色龍|B]]"]]

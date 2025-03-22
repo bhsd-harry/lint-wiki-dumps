@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",288,3,"bgcolo"],[2,"lonely-bracket",292,3,"{{"],[2,"no-ignored",292,3,"{{nowrap"]]

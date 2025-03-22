@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",244,4,"cope"],[1,"no-ignored",26,31,"  width:20px;\""]]

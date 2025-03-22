@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",477,633,"}}"],[2,"no-duplicate",565,2,"[[Category:2022年科幻動作片]]"]]

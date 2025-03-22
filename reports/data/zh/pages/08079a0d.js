@@ -1,0 +1,1 @@
+window.data=[[3,"illegal-attr",293,38,"width"],[7,"lonely-bracket",1132,146,"["],[2,"no-duplicate",2993,2,"[[Category:THE BOYZ]]"],[3,"no-ignored",293,4," color:white; font-weight:bold\"   "]]

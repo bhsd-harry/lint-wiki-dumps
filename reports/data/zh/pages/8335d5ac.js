@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",153,2,"[[Category:中国亚洲运动会铜牌得主]]"]]

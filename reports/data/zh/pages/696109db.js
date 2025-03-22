@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",7,2,"[[Category:天主教教会法]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",114,78,"ref=石2007c"]]

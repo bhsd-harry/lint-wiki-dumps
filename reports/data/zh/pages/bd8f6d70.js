@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",1,54,"链接=https://en.wikipedia.org/wiki/File:Share of electricity production from wind.svg"]]

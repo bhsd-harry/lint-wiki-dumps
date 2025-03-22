@@ -14,8 +14,10 @@
 	"author": "Bhsd",
 	"files": [
 		"scan.sh",
-		"parser.js",
-		"summary.json"
+		"*.js",
+		"reports/*.html",
+		"reports/*.js",
+		"reports/*.css"
 	],
 	"bin": {
 		"lint-wiki-dumps": "scan.sh"

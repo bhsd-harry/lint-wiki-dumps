@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",808,33,"'"],[2,"no-duplicate",232,3,"party=Republican Party (United States)\n "]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",77,1," Image::Prora_Treppenhaus.jpg|大樓南側階梯，攝於2010年。"]]

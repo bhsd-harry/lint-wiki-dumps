@@ -1,0 +1,1 @@
+window.data=[[8,"illegal-attr",425,24,"rowspan"],[2,"lonely-bracket",181,5,"{{"],[4,"no-ignored",425,75," #f6e39c;"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",285,72,"max-width"],[1,"no-ignored",21,56,"  max-width;\"100%\" "]]

@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",92,15,"xml:lang"],[10,"no-duplicate",35,52,"lang=\"cu\""]]

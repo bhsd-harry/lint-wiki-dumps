@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",98,1," Au+HNO<sub>3</sub>+4HCl→H[AuCl<sub>4</sub>]+NO↑+2H<sub>2</sub>O\n\n ==人体内的氯化物==\n\n [[氯]][[元素]]以氯化钠的形式广泛存在于人体，一般成年人体内大约含有75－80克氯化钠，其对人体内的水分平衡机制起着重要调节作用。另"],[1,"unclosed-table",97,2,"{|"]]

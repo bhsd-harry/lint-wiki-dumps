@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",35,3," nationality   = {{US}}\n "]]

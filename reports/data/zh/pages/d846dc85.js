@@ -1,0 +1,1 @@
+window.data=[[10,"lonely-bracket",732,7,"[["],[1,"no-ignored",732,4,"|| [[戴玉強]]<br/>[[魏松|魏　松]]<br/>[[莫華倫]] ||《我的太陽》|| [[Enrico Caruso]]  ||-|| [[卡普阿]] ||colspan=\"3\"  |-"],[2,"parsing-order",732,14,"<br/>"]]

@@ -1,0 +1,1 @@
+window.data=[[14,"no-ignored",92,21,"  line-height:1.2em;\""]]

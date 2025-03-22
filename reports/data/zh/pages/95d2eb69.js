@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",81,1," ;观泉路北大营街（站位位于观泉路，C1及C2出入口附近）\n {{沈阳公交线路列表|width=100%|format=|end=yes|151|151支}}"]]

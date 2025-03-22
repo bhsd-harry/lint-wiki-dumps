@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",56,4,"table"],[2,"no-duplicate",22,3,"connections = \n "]]

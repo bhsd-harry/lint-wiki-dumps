@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",723,1,"\n ===電影===\n {{col-begin}}\n {{col-break}}\n * 1969年：名劍天驕\t \t \n * 1969年：龍門金劍\t \t \n * 1969年：三招了\t \t \n * 1969年：君子劍\t \t \n * 1971年：飛俠神刀\t \t \n * 1971年：[[無名英雄 (1971"],[1,"unclosed-table",102,2,"{|"]]

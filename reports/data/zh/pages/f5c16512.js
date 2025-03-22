@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",173,1,"\n ==参考文献==\n {{Reflist}}\n\n {{-}}\n {{中华人民共和国省级行政区行政主官|nocat}}\n {{中华人民共和国辽宁省正职领导人|nocat}}\n {{辽宁行政长官}}\n [[Category:中国省级行政长官列表]]\n [[Category:辽宁行政长官|*]]\n [["],[1,"unclosed-table",43,2,"{|"]]

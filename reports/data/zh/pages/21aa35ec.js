@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",18,2,"[[Category:台灣藝術組織]]"]]

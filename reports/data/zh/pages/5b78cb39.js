@@ -1,0 +1,1 @@
+window.data=[[3,"lonely-bracket",158,52,"[[["],[2,"no-duplicate",46,3," party1 = Republican Party (US)\n "]]

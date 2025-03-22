@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",249,6,"'"],[13,"no-ignored",618,14,"  <small>;text-align:center"],[13,"parsing-order",618,16,"<small>"]]

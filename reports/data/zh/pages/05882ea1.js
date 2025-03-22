@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",49,21,"x"],[1,"lonely-bracket",59,30,"{{"],[2,"no-ignored",51,3,"!align=\"center\"  "]]

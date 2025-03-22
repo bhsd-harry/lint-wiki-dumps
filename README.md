@@ -13,3 +13,7 @@ npx lint-wiki-dumps <language> <path to download>
 # For example:
 npx lint-wiki-dumps zh-yue ~/Downloads/dumps
 ```
+
+## Report
+
+The tool will generate reports in two formats: `json` and `html`. The `json` report will be saved in the `results` folder, while the `html` report will be available at `reports/index.html`.

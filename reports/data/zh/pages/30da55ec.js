@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",42,165,"author=陳正健"]]

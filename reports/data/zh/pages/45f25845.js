@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",51,1," * 造型艺术科\n ** <del>美术专攻</del><ref group=\"注\"  name=\"招生到于2003年\"/>\n ** <del>设计专攻</del><ref group=\"注\"  name=\"招生到于2003年\"/>\n ** <del>造型文化专攻</del><ref group=\""],[1,"lonely-bracket",25,546,"{{"]]

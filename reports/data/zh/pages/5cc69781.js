@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",214,2,"[[Category:德國現代主義建築| ]]"]]

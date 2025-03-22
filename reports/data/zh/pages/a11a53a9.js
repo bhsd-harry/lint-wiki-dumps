@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",429,2,"[[Category:中国好声音学员]]"],[1,"no-ignored",367,31,"  text-align:center;\""]]

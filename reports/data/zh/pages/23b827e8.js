@@ -1,0 +1,1 @@
+window.data=[[5,"illegal-attr",52,123,"2px"],[9,"no-ignored",52,107,"style\":\"border: "]]

@@ -1,0 +1,1 @@
+window.data=[[3,"lonely-bracket",30,630,"{{"],[3,"no-ignored",30,627," ↔ {{Arret"],[1,"tag-like",42,1737,"<span"],[1,"unmatched-tag",42,1768,"</span>"]]

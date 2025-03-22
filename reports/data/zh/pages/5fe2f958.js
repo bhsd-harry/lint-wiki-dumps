@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",4,3,"subdivision=州\n "]]

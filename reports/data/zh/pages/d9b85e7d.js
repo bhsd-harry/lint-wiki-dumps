@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",76,62,"178.996x178.996像素"]]

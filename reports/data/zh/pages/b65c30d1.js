@@ -1,0 +1,1 @@
+window.data=[[2,"invalid-gallery",90,48,"thumb"],[1,"lonely-bracket",270,4,"{{"],[4,"no-duplicate",65,22,"The shrinking of the Aral Sea."]]

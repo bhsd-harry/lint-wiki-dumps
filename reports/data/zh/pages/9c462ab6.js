@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",147,1," '''1968年'''"]]

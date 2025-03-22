@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",54,2,"[[Category:巴基斯坦法官]]"],[1,"unmatched-tag",6,24,"</small>"]]

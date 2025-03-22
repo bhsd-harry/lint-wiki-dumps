@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",125,141,"'"],[1,"tag-like",34,508,"<nowiki"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",56,1," * 幼儿教育科\n ** 第一部\n ** 第三部<ref group=\"注\"  name=\"幼儿教育科第三部\"/>\n * [[设计]][[美术]]科<ref group=\"注\"  name=\"设计美术科\"/>\n * [[音乐]]综合科\n * [[牙科]][[卫生学|卫生]]科<ref group=\""]]

@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",516,104,"0-2"],[2,"no-ignored",516,3,"{{flagIOCathlete|[[Conchita Martínez]]<br />[[Arantxa Sánchez Vicario]]|ESP|1996年夏季}}<br />  '''L''' "],[2,"parsing-order",516,41,"<br />"]]

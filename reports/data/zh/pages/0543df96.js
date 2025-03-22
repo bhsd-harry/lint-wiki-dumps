@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",13,3," designer = [[Link-en|Frank Stephenson]]\n "]]

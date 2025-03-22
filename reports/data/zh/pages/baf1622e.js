@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",23,2,"[[Category:台灣表演藝術]]"]]

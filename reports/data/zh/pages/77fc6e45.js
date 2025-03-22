@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",505,10,"shading"],[1,"lonely-bracket",505,21,"}}"],[2,"no-ignored",505,3,"{Party "]]

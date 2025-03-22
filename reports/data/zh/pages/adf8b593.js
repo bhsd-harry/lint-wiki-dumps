@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",39,3,"兩個基本效用函數的例子"]]

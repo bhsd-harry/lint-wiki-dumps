@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",12,22,"Image:AgiaLavra2.jpg"]]

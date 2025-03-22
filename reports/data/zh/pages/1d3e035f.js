@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",366,11,"[["],[1,"no-ignored",366,4,"{{USA}}[[波士頓]]"]]

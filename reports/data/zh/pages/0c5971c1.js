@@ -1,0 +1,1 @@
+window.data=[[2,"parsing-order",13,18,"<ref>{{Cite web|url=http://www.chinanews.com/mil/2013/12-03/5575279.shtml|title=中国Ac313直升机将交付首批用户(图)-中新网|access-date=2022-05-17|archive-date=2016-03-0"]]

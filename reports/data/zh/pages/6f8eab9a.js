@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",204,31,"valign"],[1,"no-ignored",306,59,"  0; line-height:1.2em;"],[1,"tag-like",92,1264,"<span"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",561,20,"]]"],[1,"no-ignored",561,3," 卫星奖最佳原创剧本"]]

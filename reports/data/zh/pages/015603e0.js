@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",10,3,"zh:超人II;zh-hk:超人續集;zh-tw:超人第二集;zh-sg:超人续集;zh-cn:超人2;\n "]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",357,2,"[[Category:行動電話製造商]]"]]

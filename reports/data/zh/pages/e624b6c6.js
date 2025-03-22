@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",323,1,"\n ===堅強師資==="],[26,"no-duplicate",92,65,"style=\"font-size:85%;\""],[2,"tag-like",164,27,"<br"],[1,"unclosed-table",269,2,"{|"],[1,"unmatched-tag",53,14,"<center>"]]

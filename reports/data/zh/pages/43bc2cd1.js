@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",3,247," 雅美（達悟）族篇"]]

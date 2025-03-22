@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",135,2,"[[Category:文化社會學]]"]]

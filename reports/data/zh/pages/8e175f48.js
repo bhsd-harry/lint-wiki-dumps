@@ -1,0 +1,1 @@
+window.data=[[3,"no-duplicate",11,2,"[[Category:1900年夏季奥林匹克运动会帆船运动员]]"]]

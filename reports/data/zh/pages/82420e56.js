@@ -1,0 +1,1 @@
+window.data=[[2,"invalid-gallery",56,17,"250px"],[1,"unmatched-tag",107,2,"</div>"]]

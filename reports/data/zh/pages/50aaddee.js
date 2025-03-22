@@ -1,0 +1,1 @@
+window.data=[[1,"insecure-style",109,92,"background: url(chrome-extension://immhpnclomdloikkpcefncmfgjbkojmh/emoji-data/sheet_apple_64.png);background-position:2.0833333333333335% 70.83333333"],[1,"lonely-apos",129,13,"'"]]

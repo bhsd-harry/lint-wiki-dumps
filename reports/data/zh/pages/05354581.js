@@ -1,0 +1,1 @@
+window.data=[[5,"no-ignored",67,86,"fcfccf\"; empty-cells:show; border-collapse:collapse;\"  "],[1,"unclosed-table",44,2,"{|"]]

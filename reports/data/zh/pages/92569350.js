@@ -1,0 +1,1 @@
+window.data=[[1,"parsing-order",10,28,"<ref name=\"Rotor\">{{Cite magazine|date=December 2014|editor1-last=Williams|editor1-first=Tom A.|title=Bell 505 First Flight|url=http://www.aimediaserv"]]

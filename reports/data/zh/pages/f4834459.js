@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",86,2,"[[Category:臺北市社會運動組織]]"],[7,"unmatched-tag",55,28,"</span>"]]

@@ -1,0 +1,1 @@
+window.data=[[8,"illegal-attr",913,23,"The"],[6,"lonely-bracket",913,4,"{"],[2,"no-duplicate",959,2,"[[Category:日本攝影器材生產商]]"],[5,"no-ignored",913,4,"{新力}-王國<br />（SONY "],[4,"parsing-order",913,11,"<br />"]]

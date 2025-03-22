@@ -1,0 +1,1 @@
+window.data=[[1,"nested-link",14,107,"[[庫克船長]]"]]

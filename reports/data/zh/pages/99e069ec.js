@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",104,71,"Members_of_the_SPGF,_NKNA_and_TNI_taking_picture_together"]]

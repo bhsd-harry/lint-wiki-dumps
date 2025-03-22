@@ -1,0 +1,1 @@
+window.data=[[30,"illegal-attr",144,39,"basilica"],[4,"no-ignored",208,53,"古代"]]

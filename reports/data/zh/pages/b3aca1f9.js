@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",508,1,"\n === 網絡廣播（動畫） ===\n 『'''{{lang|ja|ダンガンロンパ The Animation 希望のラジオと絶望の緒方}}'''』、2013年6月5日。\n\n ; 主持\n : [[緒方惠美]]（苗木誠的聲優）\n ; 主題曲\n : 「Innocent Prisoner」\n : 作詞：e"],[1,"unclosed-table",507,2,"{|"]]

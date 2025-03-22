@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",81,2,"[[Category:八重山群島歷史]]"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"invalid-gallery",103,54,"250px"],[2,"no-duplicate",263,38,"屏東艦艦艏40快砲"]]

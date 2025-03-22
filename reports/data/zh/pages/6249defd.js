@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",216,24,"style=\"border-collapse: collapse;; font-size:90%;\""]]

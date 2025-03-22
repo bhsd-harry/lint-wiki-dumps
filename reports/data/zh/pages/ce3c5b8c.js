@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",86,1," ;二十二号路十八街（站位位于二十二号路浑河十八街路口东侧，A/B2出入口向东北约570米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|307}}\n {{col-end}}"]]

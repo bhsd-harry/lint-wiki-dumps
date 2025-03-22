@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",29,38,"[["],[1,"no-ignored",29,22,"{{FULLPAGENAME}}[[q:\\exp{{{FULLPAGENAME}}}]]"]]

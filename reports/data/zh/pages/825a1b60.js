@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",19,2,"[[Category:查理大學校友]]"]]

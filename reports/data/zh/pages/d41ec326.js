@@ -1,0 +1,1 @@
+window.data=[[10,"no-duplicate",35,3," 1blank = 一輪票數<br>一輪票率\n "]]

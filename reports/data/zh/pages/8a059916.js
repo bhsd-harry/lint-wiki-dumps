@@ -1,0 +1,1 @@
+window.data=[[3,"parsing-order",17,30,"<ref name=\"asahi20151111\">{{cite news|title = 国産旅客機・MRJが初飛行に成功 名古屋空港に着陸|url = http://www.asahi.com/articles/ASHCB75XFHCBOIPE031.html|publisher = [[朝日新"]]

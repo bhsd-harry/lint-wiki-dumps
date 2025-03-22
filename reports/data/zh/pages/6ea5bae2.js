@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",332,2,"[[Category:世界羽聯國際系列賽|Swedish]]"]]

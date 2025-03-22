@@ -1,0 +1,1 @@
+window.data=[[15,"illegal-attr",32,77,"background:"],[2,"lonely-bracket",375,6,"[["],[8,"no-ignored",32,88," #f9f9f9;"]]

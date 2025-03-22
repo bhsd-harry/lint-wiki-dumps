@@ -1,0 +1,1 @@
+window.data=[[2,"no-ignored",1746,15,"  color:black\""],[2,"tag-like",409,11,"<A"]]

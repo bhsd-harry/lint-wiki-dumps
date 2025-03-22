@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",649,2,"{{"],[2,"no-duplicate",48,3," module   = {{Infobox model details\n  | 血型     = B型\n  | 身高     = {{height|m=1.64}}\n  | 體重     = {{weight|kg=43}}\n  | 髮色     = \n  | 瞳色     = \n  | 三圍   "]]

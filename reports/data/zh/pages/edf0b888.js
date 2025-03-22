@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",373,85,"de"],[16,"lonely-bracket",52,2960,"]]"],[2,"no-ignored",373,3,"<div style=\"display:inline-block; text-align:center; vertical-align:middle;\">Gare "],[3,"parsing-order",373,3,"<div style=\"display:inline-block; text-align:center; vertical-align:middle;\">"],[2,"unmatched-tag",373,160,"</span>"]]

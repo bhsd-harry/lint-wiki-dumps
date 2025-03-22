@@ -1,0 +1,1 @@
+window.data=[[14,"lonely-bracket",135,2,"[["],[1,"no-ignored",134,26," \n [[File:Italy-Serie-A-Cup.png|35px]][[意甲]]:\n 2012,2013,2014,2015,2016,2017,2018,2019,2020\n [[意乙]]：2007\n [[File:Coppa_Italia_(Italy_Cup).svg|10px]] ["],[1,"tag-like",144,6,"<ref"]]

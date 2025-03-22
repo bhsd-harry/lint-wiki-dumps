@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",14,3," 網站 = https://www.instagram.com/weijielinnn/\n "]]

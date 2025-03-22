@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",24,3," term_end3 = 2022年7月31日\n "]]

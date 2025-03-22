@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",62,7,"style=\"-moz-column-width:2; column-width:2;\""]]

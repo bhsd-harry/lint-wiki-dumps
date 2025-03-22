@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",41,356,"name=\"1UP.com@Seid_090216\""],[1,"no-ignored",41,382,"/。當玩家取消兵種變更，角色的能力數據將會獲得保留<ref "],[1,"tag-like",41,407,"<ref"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"invalid-gallery",213,43,"250px"],[1,"lonely-bracket",184,410,"]"],[2,"no-duplicate",75,164,"title=https://www.bbc.com/news/world-europe-45499368 "]]

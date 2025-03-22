@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",1,7,"date=2025/02/27"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",127,6,"PC"],[3,"no-ignored",127,3,"年度 "]]

@@ -1,0 +1,1 @@
+window.data=[[4,"illegal-attr",39,32,"Goergen"],[2,"lonely-bracket",87,36,"[["],[2,"no-duplicate",87,5,"align=\"center\""],[4,"no-ignored",39,19,"  |Jeannette "]]

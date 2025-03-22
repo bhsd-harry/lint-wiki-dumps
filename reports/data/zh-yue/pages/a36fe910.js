@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",263,24,"text-align"],[2,"no-ignored",139,14,"  <small>;text-align:center"],[2,"parsing-order",139,16,"<small>"]]

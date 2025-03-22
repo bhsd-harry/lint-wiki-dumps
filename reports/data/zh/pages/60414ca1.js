@@ -1,0 +1,1 @@
+window.data=[[14,"no-duplicate",80,2,"[[Category:奧地利總理]]"]]

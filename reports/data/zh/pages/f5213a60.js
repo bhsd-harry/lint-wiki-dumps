@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",28,2,"[[Category:中华人民共和国企业家]]"]]

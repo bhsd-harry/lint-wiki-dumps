@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",1117,2,"[[分類:什葉派神學]]"]]

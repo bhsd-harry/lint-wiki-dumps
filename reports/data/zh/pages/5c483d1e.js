@@ -1,0 +1,1 @@
+window.data=[[5,"illegal-attr",23,4,"href"],[1,"no-ignored",19,22,"|right|"]]

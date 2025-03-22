@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",200,2,"[[Category:电子游戏淫秽争议]]"]]

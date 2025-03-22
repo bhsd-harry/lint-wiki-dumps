@@ -1,0 +1,1 @@
+window.data=[[4,"no-ignored",169,3,"2020年美国全国羽毛球錦標賽"],[2,"parsing-order",245,14,"<br/>"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",80,2,"[[Category:2017年澳洲網球公開賽]]"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",44,1," 所屬分隊（各團）的略稱一覧 "],[2,"no-duplicate",30,24,"style=\"width:50% style=\""],[11,"no-ignored",30,48,"font-size:small; "]]

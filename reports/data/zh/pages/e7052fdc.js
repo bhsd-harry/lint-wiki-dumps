@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",43,81,"["],[2,"no-duplicate",161,2,"[[Category:韓國女歌手]]"]]

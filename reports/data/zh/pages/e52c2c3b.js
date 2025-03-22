@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",113,1," [[File:Russian Typhoon-class submarine.jpg|thumb|TK-202]]"],[1,"lonely-http",180,17,"ISBN"],[2,"no-duplicate",117,44,"Right"]]

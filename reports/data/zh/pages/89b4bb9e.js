@@ -1,0 +1,1 @@
+window.data=[[4,"illegal-attr",178,88,"padding:"],[3,"no-duplicate",178,97,"5px"],[2,"no-ignored",178,68,"95%\"; float:center; "]]

@@ -1,0 +1,1 @@
+window.data=[[4,"no-ignored",143,4," {{tablapartidos|a=a|w=69%|w3=19%|t3=Local|t5=Result|w4=0px|w6=0xp|t7=Visit|nob=no}}|- "]]

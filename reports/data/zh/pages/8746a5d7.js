@@ -1,0 +1,1 @@
+window.data=[[4,"lonely-apos",163,23,"'"],[3,"lonely-bracket",36,2,"}}"],[6,"no-duplicate",150,3," image1 = \n "]]

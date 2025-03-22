@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",40,25,"wikitable"],[37,"no-ignored",40,34," sortable''"],[1,"unclosed-table",200,2,"{|"]]

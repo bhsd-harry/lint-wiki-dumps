@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",11,3," 籍貫 = [[廣東]][[潮州]]\n "]]

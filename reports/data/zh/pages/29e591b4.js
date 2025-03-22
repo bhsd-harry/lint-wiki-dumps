@@ -1,0 +1,1 @@
+window.data=[[7,"no-duplicate",190,55,"bar1=black\n                "]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",124,1,"\n ==参考资料==\n {{reflist}}\n\n == 外部链接 ==\n * [https://web.archive.org/web/20110707092248/http://www.zuqiuziliao.cn/china/dili_Ningbo.htm 足球地理：宁波足球]\n * [htt"],[1,"unclosed-table",59,2,"{|"]]

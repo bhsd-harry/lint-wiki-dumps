@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",1,41,"替代=Painted relief of a seated man with green skin and tight garments, a man with the head head of a jackal, and a man with the head of a falcon"]]

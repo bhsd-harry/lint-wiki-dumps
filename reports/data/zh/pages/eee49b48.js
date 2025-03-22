@@ -1,0 +1,1 @@
+window.data=[[3,"invalid-gallery",574,53,"thumb"],[1,"lonely-http",867,39,"ISBN"],[1,"nested-link",143,345,"[[蔣總統秘錄]]"]]

@@ -1,0 +1,1 @@
+window.data=[[8,"no-duplicate",288,2,"[[Category:台灣軍事演習|WAYS]]"]]

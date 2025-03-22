@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",319,34,"19點"]]

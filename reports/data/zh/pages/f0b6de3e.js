@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",7,3," 3= zh-cn:平方千米;zh-hk:平方千米;zh-mo:平方千米;zh-my:平方千米;zh-sg:平方千米;zh-tw:平方公里;\n "]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",14,54,"中華民國簽證政策"]]

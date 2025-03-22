@@ -1,0 +1,1 @@
+window.data=[[6,"lonely-bracket",20,79,"[["],[2,"no-duplicate",20,64,"name=\"hort\""],[1,"no-ignored",20,75,"  /、[[斯里蘭卡]]及以[[外來物種|歸化物種]]的形式見於[[尼泊尔]]<ref "],[1,"tag-like",20,114,"<ref"]]

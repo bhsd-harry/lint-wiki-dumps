@@ -1,0 +1,1 @@
+window.data=[[31,"illegal-attr",19,30,"bordercolor"],[1,"no-ignored",256,69,"未知"]]

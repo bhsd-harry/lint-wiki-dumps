@@ -1,0 +1,1 @@
+window.data=[[10,"no-duplicate",48,28,"Artemia_monica"]]

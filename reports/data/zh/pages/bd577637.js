@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",44,2,"[[Category:珍貴樹木 (臺灣)]]"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",188,1," *2007 《CoCo 椰風輕哨》\n *2009 《Breakthrough 蛻變》\n *2011 《All Of You 全部的你》\n *2012 《Christmas In The Sand 沙灘聖誕》\n *2014 《Gypsy Heart》\n *2016 《The Malibu Sessi"]]

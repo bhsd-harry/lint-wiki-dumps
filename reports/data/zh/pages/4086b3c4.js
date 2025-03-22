@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",75,290,"["],[2,"no-duplicate",124,2,"[[Category:韓國電視主持人]]"]]

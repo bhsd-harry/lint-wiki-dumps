@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",37,359,"name=<ref"],[1,"tag-like",37,364,"<ref"]]

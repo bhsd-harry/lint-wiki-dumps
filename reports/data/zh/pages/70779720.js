@@ -1,0 +1,1 @@
+window.data=[[1,"nested-link",62,39,"[[卡内基科学研究所]]"]]

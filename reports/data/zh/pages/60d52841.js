@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",385,21,"span"],[1,"no-ignored",357,38,"1''"]]

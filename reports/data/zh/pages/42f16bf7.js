@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",45,16,"[[Category:台灣日治時期政治人物]]"]]

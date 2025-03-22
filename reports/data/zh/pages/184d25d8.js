@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",148,2,"[[Category:義大利藝術家]]"]]

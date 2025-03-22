@@ -1,0 +1,1 @@
+window.data=[[14,"illegal-attr",12,16,"cellspacing"],[2,"no-duplicate",10,51,"width=\"310\""],[1,"no-ignored",50,3,"'''远月点:''' "]]

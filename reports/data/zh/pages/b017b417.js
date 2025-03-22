@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",91,3,"Sick"],[11,"no-ignored",48,3,"年度新人艺人"]]

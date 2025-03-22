@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",15,532,"title = http://www.peakbagger.com/peak.aspx?pid=17660 "]]

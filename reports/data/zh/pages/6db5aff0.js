@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",239,1,"\n == 其他作品 ==\n 《內陸線大冒險》：高木直子的[[秋田縣]]圖文遊記<ref>{{cite web|last=高木直子|first=|date=2010-02|title=內陸線大冒險|url=http://www.akitafan.com.tw/magazine/05/index.htm"]]

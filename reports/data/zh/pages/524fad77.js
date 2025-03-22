@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",34,4,"9族元素特性"]]

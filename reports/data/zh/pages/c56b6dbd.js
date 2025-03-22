@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",5,1," [[File:Jakarta.jpg|thumb|right|250px|[[印度尼西亚]]首都[[雅加达]]]]\n [[File:Surabaya skyline.jpg|thumb|right|250px|[[泗水 (印尼)|泗水]]]]\n [[File:Bdg downtown.jpg|th"]]

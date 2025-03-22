@@ -1,0 +1,1 @@
+window.data=[[1,"invalid-gallery",36,24,"300px"],[2,"no-duplicate",36,20,"nhỏ"]]

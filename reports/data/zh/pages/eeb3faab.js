@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",300,5,"[["],[1,"no-ignored",194,3," 《:en:Gunsmoke"]]

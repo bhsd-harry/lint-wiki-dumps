@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",134,2,"[[Category:全明星運動會]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",43,22,"]"],[2,"no-ignored",7,643," trading”"]]

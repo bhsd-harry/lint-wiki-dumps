@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",57,1," [[Image:Road traffic accidents world map - Death - WHO2012.svg|thumb|250px|2012年每10万人中死于车祸的人数<ref>{{cite web |url=https://www.who.int/gho/road_safety"]]

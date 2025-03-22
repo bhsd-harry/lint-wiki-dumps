@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",96,14,"http://itpro.nikkeibp.co.jp/article/COLUMN/20090916/337359/"]]

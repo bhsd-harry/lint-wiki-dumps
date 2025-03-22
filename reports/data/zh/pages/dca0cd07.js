@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",41,2,"[[Category:已不存在的挪威市镇]]"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",14,3,"Molecule#Empirical_formula"]]

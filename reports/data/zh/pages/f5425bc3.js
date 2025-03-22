@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",16,89,"]]"],[1,"nested-link",82,76,"[[Intel]]"]]

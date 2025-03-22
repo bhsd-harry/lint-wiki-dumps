@@ -1,0 +1,1 @@
+window.data=[[2,"no-ignored",196,43,"; text-align:right; font-size:80%;\""]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",78,25,"\"Gam Leon Wui Gwun\"  in Gwongzau."]]

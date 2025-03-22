@@ -1,0 +1,1 @@
+window.data=[[12,"no-duplicate",236,2,"[[Category:動作冒險遊戲]]"]]

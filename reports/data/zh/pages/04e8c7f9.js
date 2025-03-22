@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",29,34,"  \"background:\"  "],[1,"unmatched-tag",13,90,"</span>"]]

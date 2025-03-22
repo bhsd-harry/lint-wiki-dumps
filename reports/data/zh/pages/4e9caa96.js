@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",187,4,"lign"],[28,"no-duplicate",18,3,"style=\"font-size: 85%\""]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",25,41,"upright=1.6<!--fmt for multiple image-->"]]

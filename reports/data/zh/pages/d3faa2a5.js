@@ -1,0 +1,1 @@
+window.data=[[1,"invalid-gallery",20,63,"thumb"],[2,"no-duplicate",20,17,"火星勘测轨道飞行器背景相机所显示的伯顿陨击坑中部。Wikiburtoncenter.jpg"]]

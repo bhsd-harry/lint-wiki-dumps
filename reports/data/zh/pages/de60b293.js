@@ -1,0 +1,1 @@
+window.data=[[24,"illegal-attr",347,5,"class"],[8,"no-duplicate",349,4,"rowspan=\"3\""],[14,"no-ignored",349,15,"  |性\n ! "],[1,"tag-like",429,20,"<ref"]]

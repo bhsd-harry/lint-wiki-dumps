@@ -1,0 +1,1 @@
+window.data=[[1,"invalid-isbn",269,294,"ISBN 978-957-564-653-9"],[8,"no-duplicate",204,377,"dead-url=no"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",192,2,"[[Category:社会保守主义政党]]"]]

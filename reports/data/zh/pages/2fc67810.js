@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",63,3," established_event3 = {{le|貝里克條約|Treaty of Berwick (1357)}}\n "]]

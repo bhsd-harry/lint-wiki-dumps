@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",1170,117,"'"],[2,"no-duplicate",1414,39,"ref=Mojzes"]]

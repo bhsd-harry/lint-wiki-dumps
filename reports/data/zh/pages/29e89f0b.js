@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",270,2,"[[Category:日本電子遊戲公司]]"]]

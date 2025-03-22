@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",18,2,"[[Category:電子角色扮演遊戲]]"]]

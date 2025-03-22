@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",105,2,"[[Category:政治世家出身的政治人物]]"]]

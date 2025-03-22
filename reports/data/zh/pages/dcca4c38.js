@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",26,3," monarch2            = [[苏丹端姑阿都哈林|端姑阿都哈林]]<sup>[[陛下]]</sup><br>[[苏丹莫哈末五世|端姑莫哈末五世]]<sup>陛下</sup><br>[[苏丹阿都拉|端姑阿都拉]]<sup>陛下</sup>\n "]]

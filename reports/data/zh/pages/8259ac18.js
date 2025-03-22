@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",27,5,"ellpadding"],[4,"no-duplicate",27,38,"style=\"margin: 0 0 1em 1em; border:1px solid #cccccc; empty-cells:show;border-collapse:collapse;\""]]

@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",193,1," ==歷屆四強==\n 由1997年起，大專辯論賽四強資料如下：\n"],[2,"unclosed-table",101,2,"{|"]]

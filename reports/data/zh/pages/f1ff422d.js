@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",185,15,"{{"],[2,"no-duplicate",283,34,"name=\"BTLSQGVN-Jade-royal-seals-of-the-Nguyễn-dynasty\""],[2,"no-ignored",283,88,"/上有“明命十六年乙未宣”（1835）字样，以及一个以两条龙为特色的印钮。<ref "],[1,"tag-like",283,125,"<ref"]]

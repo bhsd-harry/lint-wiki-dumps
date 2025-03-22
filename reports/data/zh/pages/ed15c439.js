@@ -1,0 +1,1 @@
+window.data=[[3,"parsing-order",15,25,"<ref name=netease>{{cite web |url=http://news.163.com/photonew/00AQ0001/14462.html |title=韩国国产FA-50轻型攻击机首飞成功 |publisher=网易 |date=2011-05-06 |accessdat"]]

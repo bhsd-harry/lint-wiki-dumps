@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",117,2,"[[Category:台灣戰後江蘇移民|C陳]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",62,2,"[[Category:長崎縣出身人物]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",45,24,"섬네일"]]

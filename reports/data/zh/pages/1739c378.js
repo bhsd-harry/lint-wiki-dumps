@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",513,14,"needed"],[1,"lonely-bracket",513,3,"{{"],[1,"no-ignored",513,3,"{{Citation "]]

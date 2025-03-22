@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",4,556,"[["],[2,"no-duplicate",35,2,"[[Category:沈姓|R睿]]"]]

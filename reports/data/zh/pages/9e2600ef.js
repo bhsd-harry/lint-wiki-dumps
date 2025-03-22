@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",320,44,"editor=吳正龍 "]]

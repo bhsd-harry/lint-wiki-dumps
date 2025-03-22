@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",53,62,"{{"],[3,"no-duplicate",53,41,"[[卡拉瓦乔]]创作的油画《圣马太蒙召》（{{lang"]]

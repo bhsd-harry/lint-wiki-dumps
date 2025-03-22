@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",376,3,"1"],[7,"no-ignored",375,3,"{{flagIOCathlete|[[Martin Liddle|Liddle]]|NZL|2000年夏季}}<br />'''W''' 10–0 "],[6,"parsing-order",375,58,"<br />"]]

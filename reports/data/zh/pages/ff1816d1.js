@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",637,85,"Additional"],[1,"lonely-bracket",460,673,"}}"],[8,"no-ignored",128,4,"<sup>†</sup>"],[14,"parsing-order",128,4,"<sup>"]]

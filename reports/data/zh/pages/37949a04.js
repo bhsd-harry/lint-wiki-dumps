@@ -1,0 +1,1 @@
+window.data=[[4,"illegal-attr",56,31,"54"],[1,"no-ignored",56,4," 林宣彤 \t紀文蕙 \t一個像夏天一個像秋天／范瑋琪 \t"]]

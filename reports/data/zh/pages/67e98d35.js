@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",504,3,"m={{flag icon|JPN}} Happy Painter<br>1998年（深棗色）\n "]]

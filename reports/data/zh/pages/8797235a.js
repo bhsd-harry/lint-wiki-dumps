@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",193,1,"\n == 參考資料 ==\n {{Reflist|2}}\n\n == 外部連結 ==\n * {{weibo|u/7214570850|李吳兄弟}}\n * {{facebook|LiWuBrothers|李吳兄弟}}\n * {{instagram|liwu_brothers}}\n * {{YouTube|"],[2,"unclosed-table",150,2,"{|"]]

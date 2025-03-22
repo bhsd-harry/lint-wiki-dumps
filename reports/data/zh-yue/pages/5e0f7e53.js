@@ -1,0 +1,1 @@
+window.data=[[4,"no-ignored",205,87," color"],[4,"unmatched-tag",310,28,"</span>"]]

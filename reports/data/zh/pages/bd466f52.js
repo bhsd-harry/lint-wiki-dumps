@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",45,2,"[[Category:聯合國安全理事會制裁制度]]"]]

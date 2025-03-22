@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",59,1," File:Biplot of Anderson's Iris data set.svg[[双标图]]"]]

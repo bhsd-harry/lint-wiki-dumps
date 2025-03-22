@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",50,54,"[[胸腺嘧啶]]光化二聚體。"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",242,2,"[[Category:环境保护]]"]]

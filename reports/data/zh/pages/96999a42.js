@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",2,3,"1=意大利地名\n "]]

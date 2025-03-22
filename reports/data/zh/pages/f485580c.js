@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",113,5,"span"],[1,"lonely-apos",199,56,"'"],[1,"lonely-bracket",24,31,"]]"],[1,"no-ignored",127,3," 巴珠 (1965年)"]]

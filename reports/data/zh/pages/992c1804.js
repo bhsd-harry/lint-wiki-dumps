@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",386,2,"[[Category:ITU-T建议书]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",47,42,"alt=Four men in black suits with bluish-white dress shirts and brightly-coloured ties standing in front of a wall composed of wooden panels."]]

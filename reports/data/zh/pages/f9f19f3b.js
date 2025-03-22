@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",2090,17,"[[Category:注音转换错误页面]]"]]

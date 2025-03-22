@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",25,2,"[[Category:2020年美國總統選舉|*]]"]]

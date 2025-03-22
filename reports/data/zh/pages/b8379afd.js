@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",62,1," * [[汽车|自动车]][[工学]]科<ref group=\"注\"  name=\"自动车工学科\"/>"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",83,2,"[[Category:2018年動作驚悚片]]"]]

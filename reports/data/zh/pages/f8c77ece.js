@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",227,1,"\n '''[[助理裁判]]:\n <br />Ahmad Al-Roalle ([[約旦足球協會|約旦]])\n <br />Issa Al-Amawi ([[約旦足球協會|約旦]])\n <br />'''[[助理裁判|第四裁判]]:\n <br />Yousef Al-Jararwah ([[約旦足球協"]]

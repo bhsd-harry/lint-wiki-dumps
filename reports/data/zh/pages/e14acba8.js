@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",96,1854,"'"],[2,"no-duplicate",326,2,"[[Category:美國女舞者]]"]]

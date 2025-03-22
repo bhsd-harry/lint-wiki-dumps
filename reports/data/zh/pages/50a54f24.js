@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",31,2,"[[Category:法国河流]]"]]

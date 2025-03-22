@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",1047,3,"{{"],[1,"no-ignored",1047,3,"{{Tooltip"]]

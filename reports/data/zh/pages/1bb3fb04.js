@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",2663,199,"2012 = 9 "]]

@@ -1,0 +1,1 @@
+window.data=[[1,"parsing-order",13,54,"<ref name=\"DW\">{{Cite web |url=http://www.desertwar.net/caproni-ca-309.html |title=Caproni Ca.309 |work=Desert War |date=2012年11月20日 |accessdate=2014年"]]

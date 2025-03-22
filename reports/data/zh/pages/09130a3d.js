@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",71,2,"[[Category:林迪斯法恩主教]]"]]

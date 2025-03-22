@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",363,1," </div><div style=\"float: left; vertical-align: top; margin-right: 1em;\">\n *[[青井政美]]\n *[[糸山英太郎]]\n *[[上原正吉]]\n *[[久次米健太郎]]\n *[[小林國司]]\n </div><div style="],[1,"unclosed-table",362,2,"{|"],[1,"unmatched-tag",363,2,"</div>"]]

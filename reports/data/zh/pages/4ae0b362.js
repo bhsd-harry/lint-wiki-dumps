@@ -1,0 +1,1 @@
+window.data=[[9,"illegal-attr",544,13,"web.archive.org"],[1,"lonely-http",544,5,"https://"],[2,"no-ignored",544,3," [https://"]]

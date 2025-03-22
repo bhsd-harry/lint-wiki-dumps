@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",74,263,"]]"],[2,"no-duplicate",45,56,"[[火星科学实验室]]巨形的隔热罩。File:Apollo 12 heat shield.JPG"]]

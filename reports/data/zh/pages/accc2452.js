@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",712,16,"'"],[1,"no-ignored",920,50,"  ;style=font-size:90%; "]]

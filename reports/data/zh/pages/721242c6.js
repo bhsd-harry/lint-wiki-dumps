@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",2086,1,"\n === 古物 ===\n"],[1,"unclosed-table",2069,2,"{|"]]

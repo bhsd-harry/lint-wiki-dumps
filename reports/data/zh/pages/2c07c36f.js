@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",108,35,"]"],[1,"lonely-http",336,71,"https://"]]

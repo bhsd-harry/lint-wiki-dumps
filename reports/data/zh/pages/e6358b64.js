@@ -1,0 +1,1 @@
+window.data=[[2,"no-ignored",247,27," 魔幻力量"],[26,"unmatched-tag",126,35,"<center>"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",49,1," * 日本文学科\n * 儿童学科<ref group=\"注\"  name=\"儿童学科\"/>"],[1,"lonely-bracket",78,106,"]"]]

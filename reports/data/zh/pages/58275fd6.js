@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",503,29,"]]"],[4,"no-duplicate",1334,3," nominee1 = [[大衛·斯科特 (喬治亞州政治家)|大衛·斯科特]]\n "]]

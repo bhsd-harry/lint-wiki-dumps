@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",79,77,"name=\"Herschel 1787\""],[1,"no-ignored",79,97,"  /<ref "],[1,"tag-like",79,100,"<ref"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",22,318,"title=Laughing哥學牌闖禍判罰 "]]

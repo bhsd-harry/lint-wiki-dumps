@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",330,1,"\n [[Category:匈牙利政治史]]\n [[Category:匈牙利政府]]\n [[Category:1921年建立的國家或政權]]"],[1,"illegal-attr",45,41,"colspan"],[1,"unclosed-table",44,2,"{|"]]

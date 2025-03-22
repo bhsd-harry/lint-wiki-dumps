@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",81,1," ;K11购物艺术中心（站位位于九龙街，B1出入口出站后经K11 Select购物艺术中心B1层地下通道到达）\n {{沈阳公交线路列表|width=100%|format=|end=yes|289|V103|V106}}"]]

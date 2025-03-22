@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",106,31,"[["],[1,"no-ignored",106,28,"   [[DVD區域碼|區域4]]  "]]

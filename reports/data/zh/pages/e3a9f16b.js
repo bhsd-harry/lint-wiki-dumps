@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",219,2,"[[Category:1870年10月]]"]]

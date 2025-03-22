@@ -1,0 +1,1 @@
+window.data=[[4,"fostered-content",74,1," ;沈新路开发大路（站位位于沈新路，沈新路太湖街路口西侧A出入口旁，双向站位）\n {{沈阳公交线路列表|width=100%|format=|end=yes|111}}"]]

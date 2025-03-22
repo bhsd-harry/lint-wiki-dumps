@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",49,1," * 护理学科\n * [[醫事放射師|放射线技术]]科\n * 物理治疗学科<ref group=\"注\"  name=\"物理治疗学科\"/>\n * 职能治疗学科<ref group=\"注\"  name=\"职能治疗学科\"/>"]]

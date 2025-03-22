@@ -1,0 +1,1 @@
+window.data=[[3,"illegal-attr",260,4,"The"],[1,"no-ignored",260,15," Riga#Adaptation"]]

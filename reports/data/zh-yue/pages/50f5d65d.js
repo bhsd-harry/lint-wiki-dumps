@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",340,213,"[["],[2,"no-duplicate",122,39,"縮圖"]]

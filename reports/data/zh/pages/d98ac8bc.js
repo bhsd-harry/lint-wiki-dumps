@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",16,3," endowment = {{increase}}28.5亿[[美元]](2022年)\n  "]]

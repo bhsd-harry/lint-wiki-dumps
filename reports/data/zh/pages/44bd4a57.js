@@ -1,0 +1,1 @@
+window.data=[[3,"illegal-attr",504,4,"https:"],[1,"no-ignored",504,33,"/Wikipedia:%E9%A6%96%E9%A1%B5"]]

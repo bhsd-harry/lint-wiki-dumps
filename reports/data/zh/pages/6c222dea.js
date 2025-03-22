@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",140,2,"[[Category:電子遊戲系列]]"]]

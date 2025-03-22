@@ -1,0 +1,1 @@
+window.data=[[1,"nested-link",75,93,"[[斯图尔德天文台]]"]]

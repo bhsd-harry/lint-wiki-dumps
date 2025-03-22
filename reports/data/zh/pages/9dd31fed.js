@@ -1,0 +1,1 @@
+window.data=[[11,"illegal-attr",473,25,"COVER"],[1,"no-ignored",473,3,"'''globe20th -SPECIAL "]]

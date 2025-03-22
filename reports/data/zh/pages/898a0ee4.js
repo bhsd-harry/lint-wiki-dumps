@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",32,18,"Coupang"],[3,"no-ignored",8,36,"龍華數位媒體科技"]]

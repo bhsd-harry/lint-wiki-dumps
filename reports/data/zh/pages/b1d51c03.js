@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",532,2,"[[Category:美國偉人名人堂入選者]]"]]

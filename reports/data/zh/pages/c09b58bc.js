@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",200,22,"<ref name=\"Zhang1998\"/>"],[1,"parsing-order",200,22,"<ref name=\"Zhang1998\"/>"]]

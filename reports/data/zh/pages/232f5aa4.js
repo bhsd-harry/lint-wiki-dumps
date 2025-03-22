@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-apos",473,57,"'"],[2,"lonely-bracket",1209,16,"{{"],[17,"no-ignored",42,3,"<align=\"left\""]]

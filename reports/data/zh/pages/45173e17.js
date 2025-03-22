@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",2472,2,"[[Category:日劇學院賞]]"]]

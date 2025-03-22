@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",199,1," 072214001| 玻里拿望（Bolinawan）          |10881|10852\n 072214002| 布維拿維斯塔（Buenavista）         | 2662| 2294\n 072214003| 卡利南（Calidngan）          | 3258| 2953"],[1,"tag-like",188,28,"</ref"],[1,"unclosed-table",196,2,"{|"],[1,"unmatched-tag",214,2,"</center>"]]

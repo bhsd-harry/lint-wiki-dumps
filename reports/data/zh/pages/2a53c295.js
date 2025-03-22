@@ -1,0 +1,1 @@
+window.data=[[10,"no-duplicate",64,2,"[[Category:女性主義作家]]"]]

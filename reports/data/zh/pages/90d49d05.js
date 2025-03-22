@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",46,2,"[[Category:韓國翻譯家]]"],[1,"unmatched-tag",2,44,"<small>"]]

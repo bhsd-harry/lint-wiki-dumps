@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",155,94,"hintergrundfarbe1"],[2,"no-duplicate",155,57,"style=\"border:1px solid gray; class=\""],[1,"no-ignored",155,111," rahmenfarbe1\"  "]]

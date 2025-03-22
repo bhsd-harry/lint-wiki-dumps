@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",213,23,"黒滝"]]

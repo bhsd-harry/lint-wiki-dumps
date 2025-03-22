@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",13,2,"[[Category:多倫多社區]]"]]

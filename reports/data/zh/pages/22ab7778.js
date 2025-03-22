@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",100,24,"thumb"],[10,"no-ignored",123,14,"  <small>;text-align:center"],[10,"parsing-order",123,16,"<small>"]]

@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",25,3," manageryears7 = 2019-2024\n "]]

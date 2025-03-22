@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",63,3," color5 = {{party color|S.O.S. Romania}}\n "]]

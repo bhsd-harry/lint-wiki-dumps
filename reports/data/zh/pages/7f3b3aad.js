@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",663,2,"[[Category:國立臺灣藝術大學校友|W吳]]"]]

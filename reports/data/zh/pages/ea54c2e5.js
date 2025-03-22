@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",92,15,"{{"],[1,"no-ignored",92,15,"{{link-ja"]]

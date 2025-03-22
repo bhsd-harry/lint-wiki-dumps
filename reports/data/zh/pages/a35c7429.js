@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",516,5,"l"],[4,"no-duplicate",634,49,"style=\"width: 101%;\""]]

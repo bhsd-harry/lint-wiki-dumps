@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",50,1," * <del>日本文化学科</del><ref group=\"注\"  name=\"日本文化学科\"/>\n * 国际沟通学科\n * 信息[[商业|商务]]学科"]]

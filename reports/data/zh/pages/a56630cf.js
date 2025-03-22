@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",9,3,"level=[[中華民國文化資產史蹟類|史蹟]]\n "]]

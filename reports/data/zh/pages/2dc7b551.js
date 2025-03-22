@@ -1,0 +1,1 @@
+window.data=[[16,"no-duplicate",279,3,"m={{flag icon|JPN}} [[快得勝]]<br>1996年（棗色）\n "]]

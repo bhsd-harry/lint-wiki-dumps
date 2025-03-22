@@ -1,0 +1,1 @@
+window.data=[[8,"illegal-attr",39,15,"Magellan"],[4,"lonely-bracket",39,7,"[["],[1,"lonely-http",44,8,"https://"],[6,"no-ignored",39,5,"| [[Giant "]]

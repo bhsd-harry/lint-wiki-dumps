@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",55,689,"website=미래를 보는 신문"]]

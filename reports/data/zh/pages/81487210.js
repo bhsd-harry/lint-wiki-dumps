@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",22,3,"capacity=5000平方米\n "]]

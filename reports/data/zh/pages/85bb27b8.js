@@ -1,0 +1,1 @@
+window.data=[[4,"no-ignored",172,48,"<center>畫家。"],[4,"parsing-order",172,48,"<center>"]]

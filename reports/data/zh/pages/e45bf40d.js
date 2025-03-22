@@ -1,0 +1,1 @@
+window.data=[[24,"no-ignored",62,3,"年度"],[22,"parsing-order",62,14,"<br>"],[1,"unmatched-tag",219,2,"</span>"]]

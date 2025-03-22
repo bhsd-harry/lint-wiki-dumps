@@ -1,0 +1,1 @@
+window.data=[[3,"lonely-apos",225,562,"'"],[6,"lonely-bracket",84,99,"}}"],[2,"lonely-http",111,1646,"http:/"],[2,"tag-like",388,166,"<  ref"],[2,"unmatched-tag",34,29,"<small>"]]

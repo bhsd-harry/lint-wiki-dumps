@@ -1,0 +1,1 @@
+window.data=[[2,"invalid-gallery",72,50,"center"]]

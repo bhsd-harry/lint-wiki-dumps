@@ -1,0 +1,1 @@
+window.data=[[1,"nested-link",46,124,"[[夜 (著作)|夜]]"]]

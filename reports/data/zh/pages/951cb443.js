@@ -1,0 +1,1 @@
+window.data=[[4,"lonely-bracket",78,333,"{{"],[2,"no-duplicate",78,280,"name=powell24"],[1,"no-ignored",78,293," /。尽管如此，斯劳特从未被正式授予州长头衔，在其整个执政期间被称为“副州长”（{{lang|en|lieutenant governor}}）或“代理州长”（{{lang|en|acting governor}}）<ref "],[1,"tag-like",78,401,"<ref"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",242,1,"\n ===国家队生涯===\n :''仅列示巴西国家队进球''"],[1,"unclosed-table",80,2,"{|"]]

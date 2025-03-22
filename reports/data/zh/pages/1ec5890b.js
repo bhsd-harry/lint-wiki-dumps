@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",69,2,"[[Category:網路迷因]]"]]

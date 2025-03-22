@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",52,2,"[[Category:大气|Category:Atmosphere]]"]]

@@ -1,0 +1,1 @@
+window.data=[[6,"lonely-bracket",157,14,"[["],[1,"no-ignored",157,4," Machico| [[File:MCH1.png|50px]] ||<center>  '''[[馬希庫]]''' ||<center>[[馬希庫]] ||<center>13,700||<center>1996-08-02"],[4,"parsing-order",157,39,"<center>"],[4,"unmatched-tag",151,98,"<center>"]]

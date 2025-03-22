@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",19,352,"]"],[2,"no-duplicate",19,144,"url=https://tw.news.yahoo.com/%E9%A4%A8%E9%95%B7%E6%A7%8D%E6%93%8A%E6%A1%88%E5%88%A4%E6%B1%BA%E5%87%BA%E7%88%90-%E4%B8%BB%E8%AC%80%E5%8F%8A%E6%A7%8D%E"]]

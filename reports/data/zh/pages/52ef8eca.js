@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",110,2,"[[Category:臺灣證券交易所上市公司|K建]]"]]

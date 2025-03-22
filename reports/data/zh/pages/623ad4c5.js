@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",34,2,"[[category:士瓦本公爵|F]]"]]

@@ -1,0 +1,1 @@
+window.data=[[8,"no-duplicate",46,24,"style=\"background:white; text-align:center\""],[1,"unclosed-table",164,2,"{|"]]

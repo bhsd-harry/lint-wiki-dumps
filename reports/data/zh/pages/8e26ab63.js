@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",376,46,"]]"],[2,"no-duplicate",24,3," website=https://web.archive.org/web/20180224124147/https://rsaf.gov.sa/Pages/Default.aspx\n "]]

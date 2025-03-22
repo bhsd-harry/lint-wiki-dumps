@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",130,5,"span"],[2,"no-duplicate",146,2,"[[Category:台南市人]]"]]

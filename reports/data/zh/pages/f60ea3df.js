@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",48,46,"with"],[1,"lonely-bracket",383,82,"}}"],[4,"no-ignored",48,22,"  <hiddentext>generated "]]

@@ -1,0 +1,1 @@
+window.data=[[1,"invalid-gallery",8,29,"thumb"],[7,"no-duplicate",25,2,"[[Category:中醫]]"]]

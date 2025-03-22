@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",182,2,"[[Category:陳姓|C]]"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",124,1," 國內航線由[[立榮航空]]營運澎湖及金門共2條航線，主要以ATR72-600機型執飛。"],[2,"unmatched-tag",33,19,"</s>"]]

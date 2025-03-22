@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",584,3,"'"],[4,"lonely-bracket",103,141,"{{"],[10,"no-duplicate",71,66,"200px"],[1,"no-ignored",912,29," {{small"]]

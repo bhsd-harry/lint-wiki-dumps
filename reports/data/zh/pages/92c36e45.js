@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",77,2,"[[Category:2019冠狀病毒病美國疫情]]"]]

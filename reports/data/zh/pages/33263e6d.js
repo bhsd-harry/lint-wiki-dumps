@@ -1,0 +1,1 @@
+window.data=[[10,"no-duplicate",252,2,"[[Category:國立臺灣大學教授]]"],[1,"unmatched-tag",40,2,"</div>"]]

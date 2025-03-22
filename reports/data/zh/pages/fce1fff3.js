@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",74,64,"colspan"],[1,"invalid-gallery",61,31,"upright=1.5"],[2,"no-duplicate",74,24,"style=\"margin:0 auto;\""]]

@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",477,838,"{{"],[1,"tag-like",477,596,"</math"]]

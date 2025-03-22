@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",80,80,"{{"],[1,"unclosed-comment",70,139,"<!-- Routledge, {{ISBN|0-415-01929-X}}."]]

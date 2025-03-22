@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",46,1," * [[工商管理|经营]]科\n * [[建筑工地|建设]]科"]]

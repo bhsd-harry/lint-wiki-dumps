@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",35,1," * [[电子学|电子工]]学科\n * [[電|电气]]科"]]

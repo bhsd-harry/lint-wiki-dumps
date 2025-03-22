@@ -6,11 +6,7 @@ on:
   push:
     branches: ["main"]
     paths:
-      - '*.html'
-      - 'gh-page/*.js'
-      - 'gh-page/*.css'
-      - 'summary.json'
-      - 'results/*.json'
+      - 'reports/**/*'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:

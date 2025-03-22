@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",166,40,"'"],[4,"no-duplicate",119,5,"style=\"background:#FF79BC\""]]

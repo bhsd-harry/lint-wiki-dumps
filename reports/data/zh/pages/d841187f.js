@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",29,47,"  \"summary=\"Season (sortable), Executive (sortable), Nationality (sortable) and Team (sortable)\""]]

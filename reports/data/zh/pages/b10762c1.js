@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",206,3,"<span style=\"text-align:center; display:block; float:left; height:20px; width:20px; vertical-align:middle; margin-right:5px;\">"],[1,"parsing-order",206,3,"<span style=\"text-align:center; display:block; float:left; height:20px; width:20px; vertical-align:middle; margin-right:5px;\">"],[1,"unmatched-tag",206,182,"</span>"]]

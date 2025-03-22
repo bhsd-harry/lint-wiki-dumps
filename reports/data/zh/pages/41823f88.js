@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-http",263,81,"ISBN"],[6,"no-duplicate",43,27,"Right"]]

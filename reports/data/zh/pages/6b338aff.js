@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",10,4," native_name            = 鲁汶天主教大学\n  "]]

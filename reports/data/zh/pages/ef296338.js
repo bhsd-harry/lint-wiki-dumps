@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",25,346,"publisher=民報"]]

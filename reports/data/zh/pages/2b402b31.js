@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",4,67,"Zhuhai_old_Jintai_Temple_General_view_(cropped)"]]

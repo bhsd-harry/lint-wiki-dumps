@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",151,1,"\n <ref>{{Cite web |url=http://www.rakuteneagles.jp/team/player/list/infielder/ |title=存档副本 |access-date=2013-06-16 |archive-date=2019-04-09 |archive-u"],[2,"unclosed-table",134,2,"{|"]]

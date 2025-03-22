@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",142,2,"[[Category:恐怖遊戲|S]]"]]

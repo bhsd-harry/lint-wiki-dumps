@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",67,3,"{{"],[1,"no-ignored",412,3," 2014年"]]

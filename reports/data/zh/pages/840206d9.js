@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",160,2,"[[Category:歌舞伎町背景作品]]"]]

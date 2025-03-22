@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",34,40,"高分辨率成像科学设备显示的科柏洛斯堑沟群（比例尺为1公里）。Image:Elysium Fossae.JPG"],[1,"no-ignored",35,1," Image:[[image:Hephaestus_Fossae_Two_Vews.JPG]]|高分辨率成像科学设备显示的[[赫淮斯托斯槽沟|赫淮斯托斯堑沟群]]的两幅视图（右侧的图片位于另一张图片的顶部（北部））。堑沟通常是由地表层陷入地下空腔而形成。"]]

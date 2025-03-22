@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",44,42,"新台幣100元，"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",21,3," producer = 李乡奉、裴益铉、朴智英\n "]]

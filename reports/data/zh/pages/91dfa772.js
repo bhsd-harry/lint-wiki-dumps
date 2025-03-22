@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",955,21,"style=\"font-size:small;\""]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",67,365,"publisher=Rizzoli International Publications, Inc. "]]

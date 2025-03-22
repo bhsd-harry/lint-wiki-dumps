@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",52,117,"author-last=Chávez"]]

@@ -1,0 +1,1 @@
+window.data=[[4,"illegal-attr",1019,24,"mw-collapsible"],[4,"no-ignored",1019,38," mw-collapsed\""]]

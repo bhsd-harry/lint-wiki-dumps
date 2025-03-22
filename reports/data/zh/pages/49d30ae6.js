@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",118,169,"{{"],[1,"no-ignored",118,149," 疑似因為召開人評會，而主導此事件。因為{{Fact"]]

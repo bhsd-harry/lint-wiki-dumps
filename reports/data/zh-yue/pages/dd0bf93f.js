@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",518,15,"ref={{SfnRef|Sweeting|2004}} "]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",46,167,"website=Congresswoman Michele Bachmann"]]

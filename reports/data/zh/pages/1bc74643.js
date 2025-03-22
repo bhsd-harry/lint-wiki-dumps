@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",53,63,"thumb"],[1,"no-ignored",57,85,";text-align:center;\""]]

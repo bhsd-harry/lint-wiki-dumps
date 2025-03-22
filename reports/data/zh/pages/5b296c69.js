@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",2003,15," &nbsp; "],[1,"unclosed-table",1483,2,"{|"]]

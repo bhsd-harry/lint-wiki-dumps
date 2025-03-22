@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",43,2,"[[Category:1993年成立的公司]]"]]

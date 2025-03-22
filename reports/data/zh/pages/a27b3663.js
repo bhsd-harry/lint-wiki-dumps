@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",46,1,"\n === 2018年第2屆桃園市議員選舉結果#桃園市第一選舉區（桃園區） ==="],[1,"unclosed-table",44,2,"{|"]]

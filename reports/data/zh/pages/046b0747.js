@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",54,1," * 生活设计总合学科<ref group=\"注\"  name=\"生活设计总合学科\"/>\n * <del>秘书科</del><ref group=\"注\"  name=\"秘书科招生\"/>"]]

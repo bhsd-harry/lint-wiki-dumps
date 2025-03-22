@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",19,3," groundbreaking= 公元4世紀\n "]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",349,4038,"publisher=IHS Jane's 360"]]

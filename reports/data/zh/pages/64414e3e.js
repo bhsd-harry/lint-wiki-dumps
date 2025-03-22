@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",54,1," * 英语科\n * 生活学科\n ** 生活造型专攻\n ** 食物专攻"],[2,"no-duplicate",16,757,"name=\"注\""]]

@@ -1,0 +1,1 @@
+window.data=[[10,"no-duplicate",393,3," image1 = \n "],[1,"tag-like",72,46,"<ref"]]

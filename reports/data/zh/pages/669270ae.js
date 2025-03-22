@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",290,51,"["],[1,"no-ignored",99,4,"、vhs"]]

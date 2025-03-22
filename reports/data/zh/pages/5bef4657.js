@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",89,2,"[[Category:美国灯塔]]"]]

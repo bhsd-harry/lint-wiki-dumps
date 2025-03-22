@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",91,2,"[[Category:冠飾角龍類|X]]"]]

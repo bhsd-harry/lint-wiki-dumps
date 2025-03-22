@@ -1,0 +1,1 @@
+window.data=[[3,"illegal-attr",281,3,"588"],[1,"no-ignored",485,3,"{{flagIOCathlete|[[Masoud Hashemzadeh|Hashemzadeh]]|IRI|2004年夏季}}<br>'''L''' 1–3  <sup>{{abbr|PP|Decision by Points - the loser with technical points}"],[3,"parsing-order",485,68,"<br>"]]

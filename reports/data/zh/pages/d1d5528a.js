@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",500,19,"Amazon"],[2,"no-ignored",482,3,"読売テレビ『音力-ONCHIKA-"]]

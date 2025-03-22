@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",507,35,"'"],[2,"no-duplicate",232,3," popular_vote2 = \n "]]

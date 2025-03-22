@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",37,2,"[[Category:加来海峡省河流]]"]]

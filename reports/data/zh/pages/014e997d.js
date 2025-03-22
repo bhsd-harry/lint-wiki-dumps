@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",39,2,"[[Category:澳門政治人物]]"]]

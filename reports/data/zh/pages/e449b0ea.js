@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",61,1," * 美术科\n ** 美术专攻\n ** 设计专攻\n ** <del>生活艺术专攻</del><ref group=\"注\"  name=\"生活艺术专攻招生\"/>\n * 音乐科\n ** <del>器乐专攻</del><ref group=\"注\"  name=\"招生到2008年\"/>\n ** <del>声"],[4,"no-duplicate",15,212,"name=\"<ref group=\""],[2,"no-ignored",15,230,"注\"  "],[2,"tag-like",15,218,"<ref"]]

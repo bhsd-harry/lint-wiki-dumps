@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",37,3," gender           = 男性\n "]]

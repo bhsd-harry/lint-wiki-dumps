@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",80,1," ;新楼（站位位于望花北街，北向站台D出入口向北约350米，南向站台位于望花北街西侧，D出入口斜对面）\n {{沈阳公交线路列表|width=100%|format=|end=yes|328|399}}"],[1,"illegal-attr",49,11,"text"],[1,"lonely-bracket",49,3,"{{"],[1,"no-ignored",49,3,"{{split "]]

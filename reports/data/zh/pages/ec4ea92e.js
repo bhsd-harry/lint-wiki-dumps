@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",62,186,"{{"],[2,"no-duplicate",62,151,"name=\"SteveJones\""],[1,"no-ignored",62,168,"  /歌曲的歌词以“呐呐呐，来呀”（{{lang|en|\"Na, na, na, c'mon\"}}）开头。<ref "],[1,"tag-like",62,221,"<ref"]]

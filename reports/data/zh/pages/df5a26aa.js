@@ -1,0 +1,1 @@
+window.data=[[24,"illegal-attr",9,5,"by"],[6,"no-duplicate",9,8,"far"]]

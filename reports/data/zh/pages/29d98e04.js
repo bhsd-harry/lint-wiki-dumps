@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",46,1," * 人类关系学科<ref group=\"注\"  name=\"人类关系学科\"/>\n * 日本文化学科"]]

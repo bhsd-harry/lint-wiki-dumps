@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",51,2,"[[Category:清朝大足縣知縣]]"]]

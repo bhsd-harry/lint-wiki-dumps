@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",43,1," * [[商业]][[科系|科]]\n ** 第一部<ref group=\"注\"  name=\"商业科第一部招生\"/>\n ** [[夜校|第二部]]"]]

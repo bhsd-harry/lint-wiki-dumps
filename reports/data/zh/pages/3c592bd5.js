@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",112,105,"color8={{party color|People's Party – Reformists}}"]]

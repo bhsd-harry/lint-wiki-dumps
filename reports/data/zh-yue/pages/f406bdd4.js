@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",2033,37,"}}"],[2,"no-ignored",2033,17," {[jpautocore"]]

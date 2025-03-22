@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",34,2,"[[Category:图染色]]"]]

@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",427,2,"[[Category:1927年日本建立]]"]]

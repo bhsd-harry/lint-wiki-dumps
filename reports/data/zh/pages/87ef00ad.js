@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",56,4,"table"],[2,"no-duplicate",20,3,"code = \n "]]

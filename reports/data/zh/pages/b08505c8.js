@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",23,3," map_caption = 縣結果<br>'''坎特威爾:''' {{legend0|#7996e2|50–60%}} {{legend0|#6674de|60–70%}} {{legend0|#584cde|70–80%}}<br />'''加西亞:''' {{legend0|#E27F7F|5"]]

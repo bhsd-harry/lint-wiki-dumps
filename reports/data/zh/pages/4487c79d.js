@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",47,15,"  text-align:center;\""]]

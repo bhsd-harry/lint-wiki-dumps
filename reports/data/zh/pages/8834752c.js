@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",87,85,"upright=1.3<!--width for very low image-->"]]

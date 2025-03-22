@@ -1,0 +1,1 @@
+window.data=[[3,"invalid-gallery",144,24,"right"],[2,"no-duplicate",102,2099,"date=20210423"],[3,"unmatched-tag",475,111,"</small>"]]

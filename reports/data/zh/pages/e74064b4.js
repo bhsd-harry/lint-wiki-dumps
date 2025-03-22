@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",19,3," structure = 高架站\n "]]

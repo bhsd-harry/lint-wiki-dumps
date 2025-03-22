@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",276,132,"2 + 2 + 1 = Ponderosa Twins Plus One"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",525,39,"JunoCam image from about {{convert|94500|km|mi|abbr=on}} of Jupiter's southern polar region (August 27, 2016).File:Juno View of Her Husband.png"]]

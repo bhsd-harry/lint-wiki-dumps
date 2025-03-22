@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",44,1," * 卫生护理科\n * [[醫檢師|卫生技术]]科<ref group=\"注\"  name=\"卫生技术科招生\"/>"]]

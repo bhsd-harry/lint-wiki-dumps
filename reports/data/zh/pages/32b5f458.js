@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",31,1," [[File:中華民國駐巴拉圭大使館及其領事館轄區圖.png|center|400px|無框]]"]]

@@ -1,0 +1,1 @@
+window.data=[[3,"no-ignored",296,3,"{{flagIOCathlete|[[Diogo Silva (taekwondo)|Silva]]|BRA|2004年夏季}}<br />'''L''' 10–12 "],[3,"parsing-order",296,67,"<br />"]]

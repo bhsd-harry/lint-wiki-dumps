@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",42,4,"table"],[10,"no-duplicate",24,3,"Linename2 = {{佛山地鐵路線|3|L}}\n "],[2,"no-ignored",125,53," color"]]

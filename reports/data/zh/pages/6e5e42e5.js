@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",15,113,"{{"],[1,"tag-like",42,2,"</syntaxhighlight"]]

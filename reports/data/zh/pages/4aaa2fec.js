@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",38,2,"[[Category:臺灣男性詩人]]"]]

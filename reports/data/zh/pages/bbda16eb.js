@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",143,30,"[[Category:太空探索科技公司]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",104,30,"代替文="]]

@@ -1,0 +1,1 @@
+window.data=[[4,"lonely-bracket",128,2,"{{"],[2,"no-duplicate",48,3," nominee2 = '''[[瑪麗安內特·米勒-米克斯]]'''\n "]]

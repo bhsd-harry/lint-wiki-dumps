@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",13,3," predecessor  = [[亨利二世 (法兰西)|亨利二世]]\n "]]

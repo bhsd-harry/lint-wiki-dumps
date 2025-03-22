@@ -1,0 +1,1 @@
+window.data=[[2,"no-ignored",38,22,"</nowiki>"],[2,"tag-like",38,22,"</nowiki"]]

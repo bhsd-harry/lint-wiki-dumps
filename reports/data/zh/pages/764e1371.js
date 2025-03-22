@@ -1,0 +1,1 @@
+window.data=[[10,"no-duplicate",36,2,"[[Category:深度偽造]]"]]

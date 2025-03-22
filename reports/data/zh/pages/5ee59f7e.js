@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",482,1," * {{flagicon|Japan}} [[廣島市]]（[[日本]]）"]]

@@ -1,0 +1,1 @@
+window.data=[[3,"invalid-isbn",431,136,"ISBN 4-02-250251-3"],[2,"no-duplicate",484,2,"[[Category:陪審團| ]]"]]

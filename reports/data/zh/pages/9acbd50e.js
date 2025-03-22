@@ -1,0 +1,1 @@
+window.data=[[5,"lonely-bracket",18,1015,"{{"],[3,"lonely-http",124,373,"ISBN"],[1,"no-ignored",64,461,":6\"  "],[1,"tag-like",64,450,"<ref"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",31,3," office2              = {{le|影子外交及聯邦事務大臣|Shadow Secretary of State for Foreign and Commonwealth Affairs}}\n "]]

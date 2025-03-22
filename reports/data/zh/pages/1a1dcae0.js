@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",58,2,"[[Category:苏联诺贝尔奖得主]]"]]

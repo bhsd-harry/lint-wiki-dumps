@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",67,19,"style=\"margin: auto;\""]]

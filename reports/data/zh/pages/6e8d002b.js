@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",325,23,"meta"],[1,"lonely-bracket",325,13,"{{"],[1,"no-ignored",325,35," 社会民主工党} "]]

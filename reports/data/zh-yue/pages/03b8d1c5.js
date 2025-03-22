@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",5,2,"[[分類: 泰國布吉街道]]"]]

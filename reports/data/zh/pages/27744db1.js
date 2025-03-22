@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",25,3," 產地 = 美國\n "]]

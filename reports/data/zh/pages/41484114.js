@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",38,1," == 游戏 ==\n\n === 机兽传奇（ZOIDS SAGA）系列 ===\n 机兽传奇系列是以机兽为题材的GBA和DS游戏软件系列。是在GBA(只有ZOIDS SAGA DS是任天堂DS)上发售的角色扮演游戏，以机兽的世界观(主要是动画)为基础展开原创故事。通过收集流浪机兽的数据和核心，可以开发制"],[1,"no-ignored",37,4,"\t表格起始，必要。|}"],[1,"unclosed-table",37,2,"{|"]]

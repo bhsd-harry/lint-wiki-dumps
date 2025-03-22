@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",563,3,"mare=號族：5-g\n "]]

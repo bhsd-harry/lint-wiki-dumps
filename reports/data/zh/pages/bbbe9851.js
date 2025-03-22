@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",71,1," ;铸造厂（站位位于浑南西路，金阳大街路口西侧，B出入口向西约300米处）\n {{沈阳公交线路列表|width=100%|format=|end=yes|154|164}}"]]

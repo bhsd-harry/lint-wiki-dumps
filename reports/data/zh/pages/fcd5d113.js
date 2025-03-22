@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",91,1," File:青岛市康有为故居.jpg}青岛康有为故居"]]

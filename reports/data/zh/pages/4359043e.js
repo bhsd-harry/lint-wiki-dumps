@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",12,3," constituency = {{le|秋明选区|Tyumen constituency}}\n "]]

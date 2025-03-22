@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",34,31,"  <caption>美國能源部長</caption>"],[2,"parsing-order",34,33,"<caption>"]]

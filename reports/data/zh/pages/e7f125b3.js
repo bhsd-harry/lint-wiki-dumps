@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",68,2,"[[Category:使用BSD许可证的软件]]"]]

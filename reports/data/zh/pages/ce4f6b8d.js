@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",246,3,"{{"],[1,"nested-link",297,41,"[[美國駐華大使館|Beijing]]"],[2,"no-duplicate",9,39,"name=\"StateDept1\""],[3,"no-ignored",9,56,"<ref "],[1,"tag-like",9,56,"<ref"]]

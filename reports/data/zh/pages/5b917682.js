@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",19,3," office= {{HKSAR}}第2任[[運輸及房屋局局長]]\n "]]

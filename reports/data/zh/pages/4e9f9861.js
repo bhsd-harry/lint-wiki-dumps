@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",15,3,"subdivision_type2 = \n "]]

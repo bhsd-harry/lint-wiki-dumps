@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",78,169,"["],[1,"no-ignored",1116,38,"1990年勁歌金曲第一季季選得獎名單"],[28,"unmatched-tag",881,16,"<center>"]]

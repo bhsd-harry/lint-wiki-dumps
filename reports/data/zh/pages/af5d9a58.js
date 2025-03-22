@@ -1,0 +1,1 @@
+window.data=[[30,"illegal-attr",54,17,"Twister"],[2,"no-duplicate",66,18,"The"],[19,"no-ignored",54,24," (1996 film)"]]

@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",189,2,"[[Category:英格蘭裔美國人]]"]]

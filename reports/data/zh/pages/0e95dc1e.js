@@ -1,0 +1,1 @@
+window.data=[[6,"no-duplicate",475,50,"略縮圖"],[1,"unclosed-table",328,2,"{|"]]

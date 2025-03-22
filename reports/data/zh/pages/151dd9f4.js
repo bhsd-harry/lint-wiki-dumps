@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",35,2,"[[Category:相對論研究者]]"]]

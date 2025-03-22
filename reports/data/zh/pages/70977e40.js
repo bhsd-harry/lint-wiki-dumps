@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",50,3," full_width    = yes\n "],[1,"no-ignored",320,4,"font-weight:bold\"  "]]

@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",299,350,"}"],[1,"no-ignored",246,4,"font-weight:bold\"  "]]

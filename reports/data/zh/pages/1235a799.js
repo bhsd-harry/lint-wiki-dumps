@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",177,24,"style=\"font-size: 90%;\""],[6,"unmatched-tag",10,68,"</small>"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",288,2,"[[Category:世嘉系列]]"],[1,"unmatched-tag",51,78,"<sup>"]]

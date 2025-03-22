@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",263,2,"[[Category:各国外交部门|Indonesia]]"]]

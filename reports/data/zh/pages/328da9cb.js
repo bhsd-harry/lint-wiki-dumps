@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",285,2,"[[Category:美国经济列表]]"]]

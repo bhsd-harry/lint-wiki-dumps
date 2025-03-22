@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",47,1," * [[护理学|护理]]学科<ref group=\"注\"  name=\"护理学科\">日语:{{lang|ja|看護学科}}</ref>"]]

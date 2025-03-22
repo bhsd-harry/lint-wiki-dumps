@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",159,1,"\n ==一般特性==\n 不同的顯示技術的一般特性差別非常大，導致對動作、閃爍等等需求的差異。\n\n [[File:Display technology temporal characteristics-zh-hant.svg|thumb|許多常見的顯示技術的一般性能略圖。]]\n 本圖顯示一幅不一樣的技"]]

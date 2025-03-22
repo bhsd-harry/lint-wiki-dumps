@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",12,3,"commander2 = [[File:Flag of Greece (1828-1978).svg|22px]] [[希臘]] <br>  [[File:State Flag of Serbia (1882-1918).svg|22px]] [[Serbia]]  <br>   [[黑山]]  <"]]

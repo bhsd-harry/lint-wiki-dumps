@@ -1,0 +1,1 @@
+window.data=[[1,"invalid-gallery",65,42,"thumb"],[5,"no-duplicate",99,50,"Seat of JR 185-200.JPG"]]

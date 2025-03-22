@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",26,2,"[[Category:光照派成员]]"]]

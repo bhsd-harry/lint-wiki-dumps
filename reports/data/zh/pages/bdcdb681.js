@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",283,2,"{{"],[2,"no-duplicate",345,3," image1 = David Schweikert official portrait 116th Congress (cropped).jpg\n "]]

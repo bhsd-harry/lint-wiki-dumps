@@ -1,0 +1,1 @@
+window.data=[[1,"parsing-order",12,30,"<ref>Grosz 1993, p. 3</ref>"]]

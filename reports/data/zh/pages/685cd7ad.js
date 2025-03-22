@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",14,4,"UIO"],[4,"lonely-bracket",14,21,"]]"],[1,"no-ignored",14,7," || [蘇克雷元帥國際機場]] || [塔巴維拉]] || [[厄瓜多]]"]]

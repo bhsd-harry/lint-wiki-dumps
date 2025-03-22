@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",225,1," File:Notre_Dame_Paris_front_facade_lower.jpg#mw-jump-to-license"]]

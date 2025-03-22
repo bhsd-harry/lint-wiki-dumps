@@ -1,0 +1,1 @@
+window.data=[[3,"illegal-attr",254,4,"colspan"],[2,"no-ignored",254,16,"|{{Standard banknote table notice|BrE=Y}}"]]

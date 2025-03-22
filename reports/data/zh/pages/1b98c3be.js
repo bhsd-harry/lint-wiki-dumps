@@ -1,0 +1,1 @@
+window.data=[[8,"no-duplicate",127,2,"[[Category:挪威男子足球运动员]]"]]

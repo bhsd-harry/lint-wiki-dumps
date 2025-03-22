@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",113,1," 2022年度香港工程科技獎得獎者"],[2,"no-duplicate",21,3,"region_served = \n "]]

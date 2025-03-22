@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",65,2,"[[Category:緬恩斯主教練]]"]]

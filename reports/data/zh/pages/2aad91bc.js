@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",11,2,"[[Category:世界竞技体操锦标赛奖牌得主]]"]]

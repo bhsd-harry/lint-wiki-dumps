@@ -1,0 +1,1 @@
+window.data=[[10,"illegal-attr",84,99,"alight"],[6,"no-duplicate",30,3," pattern_so1 = _osasuna2425h\n "]]

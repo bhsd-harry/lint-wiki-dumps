@@ -1,0 +1,1 @@
+window.data=[[4,"no-duplicate",15,3," orig_lang_code = la\n "]]

@@ -1,0 +1,1 @@
+window.data=[[73,"illegal-attr",86,31,"scope"]]

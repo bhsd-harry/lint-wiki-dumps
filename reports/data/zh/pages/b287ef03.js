@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",79,2,"[[Category:西班牙女子足球運動員]]"]]

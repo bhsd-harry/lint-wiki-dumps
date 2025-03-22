@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",81,2,"[[Category:澳門太陽城集團]]"]]

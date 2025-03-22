@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-apos",728,30,"'"],[2,"lonely-bracket",1367,58,"["],[3,"nested-link",1381,143,"[[全智賢]]"]]

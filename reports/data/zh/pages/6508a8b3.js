@@ -1,0 +1,1 @@
+window.data=[[3,"illegal-attr",29,5,"GB"],[2,"no-duplicate",29,5,"GB"],[1,"no-ignored",29,7,"/T&nbsp;6345.1 在 "]]

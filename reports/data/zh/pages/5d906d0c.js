@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",428,49,"[[Syukuro Manabe]], Physics, 2021"]]

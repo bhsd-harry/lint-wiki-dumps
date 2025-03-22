@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",133,3,"{{flagIOCathlete|[[Daniel Petrov|Petrov]]|BUL|1996年夏季}}<br />'''L''' 6–19 "],[1,"parsing-order",133,58,"<br />"]]

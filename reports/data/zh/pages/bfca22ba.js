@@ -1,0 +1,1 @@
+window.data=[[4,"lonely-bracket",137,21,"[["],[1,"no-ignored",137,4,"!colspan=\"6\"|收視率由[[Video Research]]於[[關東地區]]進行統計）"]]

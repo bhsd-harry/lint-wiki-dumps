@@ -1,0 +1,1 @@
+window.data=[[4,"illegal-attr",69,38,"padding"],[3,"no-duplicate",69,50,"0"]]

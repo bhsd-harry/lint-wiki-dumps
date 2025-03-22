@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",3,20,"\n {{Expand language|1=th| page1 =ศุภพงษ์ อุดมแก้วกาญจนา| 2=en| page2 =Suppapong Udomkaewkanjana}}\n {{BLP unsourced|time=2021-09-23T07:09:21+00:00}}\n "]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",62,1," File:Ammo Company, Combat Logistics Battalion 15 Machine Gun Range 141003-M-JF072-069 (cropped).jpg裝在[[M249班用自動武器]]以上的[[先進戰鬥光學瞄準鏡|TA11SDO-CP]]的頂部加裝的R"]]

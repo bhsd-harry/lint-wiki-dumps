@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",113,2,"[[Category:NCT]]"]]

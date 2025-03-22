@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",54,1," * 幼儿教育[[科系|科]]"]]

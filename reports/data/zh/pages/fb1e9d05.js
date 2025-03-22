@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",22,2,"[[Category:辽宁三级甲等医院]]"]]

@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",467,2,"[[Category:美国电视情景喜剧]]"]]

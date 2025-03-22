@@ -1,0 +1,1 @@
+window.data=[["BENI",109,92,"background: url(chrome-extension://immhpnclomdloikkpcefncmfgjbkojmh/emoji-data/sheet_apple_64.png);background-position:2.0833333333333335% 70.83333333"],["约翰所见的人子异象",16,31,"margin-bottom: 199px; background-repeat: no-repeat; background-image: url("]]

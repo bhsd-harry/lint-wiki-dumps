@@ -1,0 +1,1 @@
+window.data=[[1,"illegal-attr",317,6,"colspan"],[1,"invalid-gallery",479,33,"thumb"],[2,"no-ignored",317,33,"  |<span "],[1,"tag-like",317,36,"<span"],[1,"unmatched-tag",472,2,"</center>"]]

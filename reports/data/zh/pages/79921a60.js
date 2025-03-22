@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",831,29,"{{"],[2,"no-ignored",1188,35,"  °C"]]

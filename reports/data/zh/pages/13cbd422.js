@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",130,1,"\n ==图片==\n <Gallery>\n File:Quanjude Qianmen Dajie Store 2010.jpg|全聚德前门总店\n File:Peking Duck 4.jpg|全聚德的美食\n File: Carving up our duck.jpg|全聚德的师傅正在片鸭肉\n Fil"],[1,"unclosed-table",76,2,"{|"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"no-ignored",49,3,"'''銅棕櫚獎'''<ref>{{Cite news|url=http://www.ntdtv.com.tw/b5/20170526/video/197519.html|title=漢字動畫《悠遊字在》第8勝！榮獲墨西哥影展銅獎|author=|date=|work=|accessdate=|arc"],[1,"parsing-order",49,13,"<ref>{{Cite news|url=http://www.ntdtv.com.tw/b5/20170526/video/197519.html|title=漢字動畫《悠遊字在》第8勝！榮獲墨西哥影展銅獎|author=|date=|work=|accessdate=|archive-date="]]

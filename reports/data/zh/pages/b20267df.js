@@ -1,0 +1,1 @@
+window.data=[[1,"nested-link",70,89,"[[GNU核心程序|核心程序]]"]]

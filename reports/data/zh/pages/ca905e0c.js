@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",20,3," code = {{成都轨道交通车站编号|19|17}}\n "]]

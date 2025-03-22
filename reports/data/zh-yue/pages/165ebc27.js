@@ -1,0 +1,1 @@
+window.data=[[3,"fostered-content",47,1," ！來源 <ref name=Staggs2004>{{cite journal | vauthors = Staggs CG, Sealey WM, McCabe BJ, Teague AM, Mock DM | title = Determination of the biotin conten"]]

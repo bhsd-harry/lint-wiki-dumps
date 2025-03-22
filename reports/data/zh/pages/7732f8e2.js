@@ -1,0 +1,1 @@
+window.data=[[2,"fostered-content",55,1," * [[职业]]创造学科<ref group=\"注\"  name=\"职业创造学科\"/>\n * 食物营养学科"]]

@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",130,1," <center>"],[2,"no-duplicate",163,24,"style=\"width:95%;\""]]

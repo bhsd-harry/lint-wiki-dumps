@@ -1,0 +1,1 @@
+window.data=[[4,"illegal-attr",5793,3,"2004-08-30"]]

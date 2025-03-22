@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",321,13,"youtu.be"],[1,"lonely-http",321,5,"https://"],[1,"no-ignored",321,3," [https://"]]

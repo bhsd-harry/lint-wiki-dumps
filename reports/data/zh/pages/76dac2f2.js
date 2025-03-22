@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",177,22,"[["],[1,"no-ignored",177,4," ||5 ||align=left|[[Erik Risolvato]] ||align=left|{{flagIOC|PUR|2016年夏季}} ||{{n/a}} ||沒有開始比賽"]]

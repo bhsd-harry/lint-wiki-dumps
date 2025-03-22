@@ -1,0 +1,1 @@
+window.data=[["fostered-content",21],["illegal-attr",555],["invalid-gallery",47],["invalid-isbn",59],["lonely-apos",90],["lonely-bracket",387],["lonely-http",182],["nested-link",40],["no-duplicate",971],["no-ignored",386],["parsing-order",25],["pipe-like",1],["tag-like",78],["unclosed-comment",1],["unclosed-table",82],["unescaped",11],["unmatched-tag",465]]

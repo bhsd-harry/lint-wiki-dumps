@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",18,22,"H[[火星勘测轨道飞行器]]背景相机拍摄的哈德利陨击坑。File:Wikihadleydunes.jpg"]]

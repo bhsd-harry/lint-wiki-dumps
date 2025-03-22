@@ -1,0 +1,1 @@
+window.data=[[3,"illegal-attr",14,56,"background:"],[3,"no-ignored",14,67," #f9f9f9;"]]

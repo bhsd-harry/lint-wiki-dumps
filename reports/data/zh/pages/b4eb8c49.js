@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",367,19,"[["],[2,"no-duplicate",367,19,"[[Armoiries de la Guyane"]]

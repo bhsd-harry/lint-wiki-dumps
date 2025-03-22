@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",615,30,"}}"],[2,"no-duplicate",572,83,"bgcolor=\"darkgray\""]]

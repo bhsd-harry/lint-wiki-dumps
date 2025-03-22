@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-bracket",103,18,"{{"],[1,"no-ignored",103,9,"'''機長'''（{{lang-ja"]]

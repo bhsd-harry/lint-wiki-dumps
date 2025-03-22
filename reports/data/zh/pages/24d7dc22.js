@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",47,52,"210px"],[2,"tag-like",100,34,"<span"],[3,"unmatched-tag",100,74,"</span>"]]

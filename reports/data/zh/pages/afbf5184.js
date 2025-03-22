@@ -1,0 +1,1 @@
+window.data=[[1,"fostered-content",124,1,"\n\n == 腳註 ==\n {{reflist}}\n\n == 外部連結 ==\n *[http://mbn.mk.co.kr/pages/vod/programMain.php?progCode=521 韓國MBN官方網站]{{Wayback|url=http://mbn.mk.co.kr/pages/"],[1,"unclosed-table",113,2,"{|"]]

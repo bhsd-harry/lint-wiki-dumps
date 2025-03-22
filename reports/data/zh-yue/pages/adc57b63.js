@@ -1,0 +1,1 @@
+window.data=[[3,"no-duplicate",16,2,"[[Category:美術材料]]"]]

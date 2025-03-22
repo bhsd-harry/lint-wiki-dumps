@@ -1,0 +1,1 @@
+window.data=[[2,"lonely-http",507,61,"http://"],[4,"no-duplicate",588,276," 星洲网Sin Chew Daily - 星洲日报 2013-08-14."]]

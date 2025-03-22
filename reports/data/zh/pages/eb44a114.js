@@ -1,0 +1,1 @@
+window.data=[[2,"illegal-attr",161,5,"width"],[2,"no-duplicate",97,5,"style=\"background:#FF79BC\""]]

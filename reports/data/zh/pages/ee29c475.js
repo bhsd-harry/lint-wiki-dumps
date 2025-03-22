@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",188,2,"[[Category:以色列軍工廠]]"]]

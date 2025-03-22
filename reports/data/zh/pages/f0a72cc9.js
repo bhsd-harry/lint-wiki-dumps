@@ -1,0 +1,1 @@
+window.data=[[1,"lonely-bracket",30,196,"]"],[2,"nested-link",75,62,"[[無可奉告]]"]]

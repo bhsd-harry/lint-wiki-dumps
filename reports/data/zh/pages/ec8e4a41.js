@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",43,3," years7 = 2024\n "],[1,"unescaped",87,191,"="]]

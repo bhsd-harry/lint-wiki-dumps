@@ -1,0 +1,1 @@
+window.data=[[2,"no-duplicate",170,2,"[[Category:澳大利亞工黨]]"]]
