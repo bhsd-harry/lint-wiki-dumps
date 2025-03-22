@@ -5,10 +5,12 @@ script.src = './data/index.js';
 script.addEventListener('load', () => {
 	const container = document.getElementById('container');
 	container.append(...globalThis.data.map(lang => {
-		const a = document.createElement('a');
+		const div = document.createElement('div'),
+			a = document.createElement('a');
 		a.href = `./wiki.html?lang=${lang}`;
 		a.innerText = `${lang}.wikipedia.org`;
-		return a;
+		div.append(a);
+		return div;
 	}));
 });
 document.head.append(script);

@@ -40,8 +40,7 @@ h2 {
 	font-size: 1.3em;
 	text-align: center;
 }
-#container > a {
-	display: block;
+#container > div {
 	margin: .1em 0;
 }
 table {
