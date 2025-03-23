@@ -39,7 +39,7 @@
 			detail.textContent = message;
 			detail.className = 'excerpt';
 			notice.textContent = excerpt;
-			notice.className = 'excerpt';
+			notice.className = 'excerpt mono';
 			tr.append(description, line, column, detail, notice);
 			tbody.append(tr);
 		}
