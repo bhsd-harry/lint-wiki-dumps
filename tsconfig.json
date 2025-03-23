@@ -1,0 +1,23 @@
+{
+	"include": [
+		"src/*.ts"
+	],
+	"compilerOptions": {
+		"target": "ES2024",
+		"module": "NodeNext",
+		"allowSyntheticDefaultImports": true,
+		"outDir": "dist",
+		"alwaysStrict": true,
+		"exactOptionalPropertyTypes": true,
+		"noImplicitAny": true,
+		"noImplicitOverride": true,
+		"noImplicitThis": true,
+		"noPropertyAccessFromIndexSignature": true,
+		"noUncheckedIndexedAccess": true,
+		"strictBindCallApply": true,
+		"strictFunctionTypes": true,
+		"strictNullChecks": true,
+		"useUnknownInCatchVariables": true,
+		"skipLibCheck": true
+	}
+}
