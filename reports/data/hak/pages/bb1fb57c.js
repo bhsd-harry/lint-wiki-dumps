@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",9,71,"0.5em"],[4,"no-ignored",9,82," #999; 100%"]]
+window.data=[[2,"illegal-attr",9,71,"0.5em"],[2,"invalid-css",35,35,"''"],[4,"no-ignored",9,82," #999; 100%"]]
