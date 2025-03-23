@@ -1,1 +1,1 @@
-window.data=[["parsing-order",2,39,"HTML tag in table attributes","<br>"],["parsing-order",17,54,"extension tag in HTML tag attributes","<ref name=BCA-2018>{{cite magazine |url= http://aviationweek.com/site-files/aviationweek.com/files/datasheets/gated/BCA_201805.pdf |title= Purchase Pl"]]
+window.data=[["parsing-order",2,39,"HTML tag in table attributes","<br>"],["parsing-order",17,54,"extension tag in HTML tag attributes","<ref name=BCA-2018>{{cite magazine |url= http://aviationweek.com/site-files/aviationweek.com/files/d"]]

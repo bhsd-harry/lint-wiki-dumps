@@ -1,1 +1,1 @@
-window.data=[["fostered-content",753,1,"content to be moved out from the table"," }\n\n === 參考資料 ===\n <references />\n\n {{Hey! Say! JUMP}}\n\n {{DEFAULTSORT:Itadaki Hai Janpu}}\n [[Category:Hey! Say! JUMP]]\n [[Category:富士電視台綜藝節目]]\n [[Cat"],["unclosed-table",20,2,"unclosed table","{|"]]
+window.data=[["fostered-content",753,1,"content to be moved out from the table"," }\n\n === 參考資料 ===\n <references />\n\n {{Hey! Say! JUMP}}\n\n {{DEFAULTSORT:Itadaki Hai Janpu}}\n [[Catego"],["unclosed-table",20,2,"unclosed table","{|"]]

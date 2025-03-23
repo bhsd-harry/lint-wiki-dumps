@@ -1,1 +1,1 @@
-window.data=[["fostered-content",110,1,"content to be moved out from the table","\n ==参考资料==\n {{reflist}}\n {{婴儿及护理}}\n [[Category:東亞民俗]]\n [[Category:占卜]]\n [[Category:通過儀禮]]\n [[Category:婴儿期]]"],["unclosed-table",82,2,"unclosed table","{|"]]
+window.data=[["fostered-content",110,1,"content to be moved out from the table","\n ==参考资料==\n {{reflist}}\n {{婴儿及护理}}\n [[Category:東亞民俗]]\n [[Category:占卜]]\n [[Category:通過儀禮]]\n [[Categor"],["unclosed-table",82,2,"unclosed table","{|"]]

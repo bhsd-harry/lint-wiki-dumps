@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",31,44,"duplicated image caption parameter","px240"],["no-duplicate",31,50,"duplicated image caption parameter","1320的德意志三大家族領土：淡綠色──'''路易四世與其[[维特尔斯巴赫家族]]'''的[[巴伐利亞]]與[[莱茵-普法爾茨]]領地（1302-1322年），1323年其長子[[路易五世 (巴伐利亞)|路易]]將領有綠色之外的[[布蘭登堡]]（在德意志東北）；橘色──[[哈布斯堡家族]]的[[奧地"]]
+window.data=[["no-duplicate",31,44,"duplicated image caption parameter","px240"],["no-duplicate",31,50,"duplicated image caption parameter","1320的德意志三大家族領土：淡綠色──'''路易四世與其[[维特尔斯巴赫家族]]'''的[[巴伐利亞]]與[[莱茵-普法爾茨]]領地（1302-1322年），1323年其長子[[路易五世 (巴伐利亞"]]

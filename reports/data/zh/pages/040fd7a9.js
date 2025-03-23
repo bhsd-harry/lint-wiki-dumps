@@ -1,1 +1,1 @@
-window.data=[["fostered-content",84,1,"content to be moved out from the table"," ;东塔街和睦路（站位位于东塔街，和睦路南侧，D出入口向东南约230米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|107|237|V132}}\n {{col-end}}"]]
+window.data=[["fostered-content",84,1,"content to be moved out from the table"," ;东塔街和睦路（站位位于东塔街，和睦路南侧，D出入口向东南约230米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|107|237|V132}}\n {{col-en"]]

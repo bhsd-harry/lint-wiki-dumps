@@ -1,1 +1,1 @@
-window.data=[["fostered-content",379,1,"content to be moved out from the table"," # {{flag|Afghanistan|Taliban}}\n # {{flag|Andorra}}\n # {{flag|Antigua and Barbuda}}\n # {{flag|Bahrain}}\n # {{flag|The Bahamas}}\n # {{flag|Barbados}}\n "]]
+window.data=[["fostered-content",379,1,"content to be moved out from the table"," # {{flag|Afghanistan|Taliban}}\n # {{flag|Andorra}}\n # {{flag|Antigua and Barbuda}}\n # {{flag|Bahrai"]]

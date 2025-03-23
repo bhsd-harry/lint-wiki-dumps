@@ -1,1 +1,1 @@
-window.data=[["fostered-content",390,1,"content to be moved out from the table","\n ==參考來源==\n {{reflist}}\n\n ==外部連結==\n *[http://www.rotary.edu.hk 中華基督教會扶輪中學網站]{{Wayback|url=http://www.rotary.edu.hk/ |date=20081109080221 }}\n\n {{中華基督教會"],["unclosed-table",144,2,"unclosed table","{|"]]
+window.data=[["fostered-content",390,1,"content to be moved out from the table","\n ==參考來源==\n {{reflist}}\n\n ==外部連結==\n *[http://www.rotary.edu.hk 中華基督教會扶輪中學網站]{{Wayback|url=http://www"],["unclosed-table",144,2,"unclosed table","{|"]]

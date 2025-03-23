@@ -1,1 +1,1 @@
-window.data=[["fostered-content",189,1,"content to be moved out from the table"," #  Come on\n #  Roller Skate\n #  Shining love(feat Snowman)\n #  I love you\n #  Before you go\n #  One minute one second\n"]]
+window.data=[["fostered-content",189,1,"content to be moved out from the table"," #  Come on\n #  Roller Skate\n #  Shining love(feat Snowman)\n #  I love you\n #  Before you go\n #  One"]]

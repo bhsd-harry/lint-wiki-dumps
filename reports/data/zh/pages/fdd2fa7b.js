@@ -1,1 +1,1 @@
-window.data=[["parsing-order",16,20,"extension tag in HTML tag attributes","<ref>{{cite web|title=The Mitsubishi MU-2 Story|url=http://avbuyer.com/articles/detail.asp?Id=1611|work=AvBuyer|accessdate=2013-09-02|archive-date=201"]]
+window.data=[["parsing-order",16,20,"extension tag in HTML tag attributes","<ref>{{cite web|title=The Mitsubishi MU-2 Story|url=http://avbuyer.com/articles/detail.asp?Id=1611|w"]]

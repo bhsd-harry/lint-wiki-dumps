@@ -1,1 +1,1 @@
-window.data=[["fostered-content",37,1,"content to be moved out from the table","\n ==参考来源==\n *[https://web.archive.org/web/20110425014537/http://www.cornell.edu/president/history.cfm History of the Cornell Presidency]\n *[http://www"],["unclosed-table",3,2,"unclosed table","{|"]]
+window.data=[["fostered-content",37,1,"content to be moved out from the table","\n ==参考来源==\n *[https://web.archive.org/web/20110425014537/http://www.cornell.edu/president/history.cf"],["unclosed-table",3,2,"unclosed table","{|"]]

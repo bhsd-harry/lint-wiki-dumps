@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",76,341,"duplicated parameter","author=Luis Lug "],["no-duplicate",76,358,"duplicated parameter","author=Sandra Stencel, John Green, Gregory Smith, Dan Cox, Allison Pond, Tracy Miller, Elixabeth Podrebarac, Michelle Ralston "]]
+window.data=[["no-duplicate",76,341,"duplicated parameter","author=Luis Lug "],["no-duplicate",76,358,"duplicated parameter","author=Sandra Stencel, John Green, Gregory Smith, Dan Cox, Allison Pond, Tracy Miller, Elixabeth Pod"]]

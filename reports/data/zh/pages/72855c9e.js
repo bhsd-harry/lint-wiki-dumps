@@ -1,1 +1,1 @@
-window.data=[["fostered-content",40,1,"content to be moved out from the table"," # 加強穿透式圍牆、充足的保全人力，提升校園安全\n # 比照五都，爭取台南市65歲以上老人免繳健保費\n # 爭取特色公園，打造老、中、少共容遊憩園地\n # 建立網路公共政策平台，讓市民能參與表達意見\n # 每一活動中心，設立一C點巷弄長照站，造福全市更多老人\n # 幼托收費逐步比照公立，減少家長負"],["unclosed-table",39,2,"unclosed table","{|"]]
+window.data=[["fostered-content",40,1,"content to be moved out from the table"," # 加強穿透式圍牆、充足的保全人力，提升校園安全\n # 比照五都，爭取台南市65歲以上老人免繳健保費\n # 爭取特色公園，打造老、中、少共容遊憩園地\n # 建立網路公共政策平台，讓市民能參與表達意見"],["unclosed-table",39,2,"unclosed table","{|"]]

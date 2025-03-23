@@ -1,1 +1,1 @@
-window.data=[["parsing-order",19,22,"extension tag in HTML tag attributes","<ref name=  \"üretim-ve-ihraç-eylül-2022\">{{Cite news |url= https://www.trthaber.com/haber/ekonomi/bayraktar-tb2-24-ulkeye-ihrac-ediliyor-705530.html |"]]
+window.data=[["parsing-order",19,22,"extension tag in HTML tag attributes","<ref name=  \"üretim-ve-ihraç-eylül-2022\">{{Cite news |url= https://www.trthaber.com/haber/ekonomi/ba"]]

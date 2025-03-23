@@ -1,1 +1,1 @@
-window.data=[["fostered-content",55,1,"content to be moved out from the table","\n <gallery>\n File:Discovery Center of Taipei Level 3 view1 2020.jpg|台北探索館3樓城市探索廳-文藝首都與臺北古蹟\n File:Discovery Center of Taipei Level 4 2020.jpg|台北探索館4樓時空"],["unclosed-table",54,2,"unclosed table","{|"]]
+window.data=[["fostered-content",55,1,"content to be moved out from the table","\n <gallery>\n File:Discovery Center of Taipei Level 3 view1 2020.jpg|台北探索館3樓城市探索廳-文藝首都與臺北古蹟\n File:Dis"],["unclosed-table",54,2,"unclosed table","{|"]]

@@ -1,1 +1,1 @@
-window.data=[["no-ignored",46,1,"invalid content in <gallery>"," File://www.w3schools.com/html/html_images.asp\">| {{Wayback|url=file://www.w3schools.com/html/html_images.asp |date=20211220094423 }}"]]
+window.data=[["no-ignored",46,1,"invalid content in <gallery>"," File://www.w3schools.com/html/html_images.asp\">| {{Wayback|url=file://www.w3schools.com/html/html_i"]]

@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",28,255,"duplicated parameter",""],["no-duplicate",28,256,"duplicated parameter","1={{cite journal|author=張志|author2=陳慧|title=《紅樓夢》作者“墨香”說商榷|journal= 成都教育學院學報|date=1999|volume=|issue=03|page=19-22}}"]]
+window.data=[["no-duplicate",28,255,"duplicated parameter",""],["no-duplicate",28,256,"duplicated parameter","1={{cite journal|author=張志|author2=陳慧|title=《紅樓夢》作者“墨香”說商榷|journal= 成都教育學院學報|date=1999|volume=|issue"]]

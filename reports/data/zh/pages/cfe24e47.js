@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",59,1172,"duplicated parameter","chapter=Sexual Deviance: Understanding and Managing Deviant Sexual Interests and Paraphilic Disorders"],["no-duplicate",59,1274,"duplicated parameter","chapter=Neurobiological Basis of Sexual Deviance"]]
+window.data=[["no-duplicate",59,1172,"duplicated parameter","chapter=Sexual Deviance: Understanding and Managing Deviant Sexual Interests and Paraphilic Disorder"],["no-duplicate",59,1274,"duplicated parameter","chapter=Neurobiological Basis of Sexual Deviance"]]

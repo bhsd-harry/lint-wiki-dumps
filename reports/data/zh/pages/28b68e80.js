@@ -1,1 +1,1 @@
-window.data=[["no-ignored",15,1,"invalid content in <gallery>"," <ref name=\"#1\">{{Cite web |url=http://www.britarch.ac.uk/ba/ba92/feat3.shtml |title=The great Bosnian pyramid scheme |access-date=2011-11-02 |archive"]]
+window.data=[["no-ignored",15,1,"invalid content in <gallery>"," <ref name=\"#1\">{{Cite web |url=http://www.britarch.ac.uk/ba/ba92/feat3.shtml |title=The great Bosni"]]

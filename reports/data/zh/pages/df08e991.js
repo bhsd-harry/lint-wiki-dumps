@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",10,61,"duplicated image caption parameter","多米尼克簽證政策"],["no-duplicate",10,70,"duplicated image caption parameter","\n {{legend|#ed1c24|多米尼克}}\n {{legend|#00247d|自由進出停留}}\n {{legend|#22b14c|免簽證入境6個月}}\n {{legend|#b5e61d|免簽證入境3個月}}\n {{legend|#edf77d|免簽證入境21天，古巴28天}}\n {{l"]]
+window.data=[["no-duplicate",10,61,"duplicated image caption parameter","多米尼克簽證政策"],["no-duplicate",10,70,"duplicated image caption parameter","\n {{legend|#ed1c24|多米尼克}}\n {{legend|#00247d|自由進出停留}}\n {{legend|#22b14c|免簽證入境6個月}}\n {{legend|#b5e61d|"]]

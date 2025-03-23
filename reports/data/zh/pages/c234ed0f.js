@@ -1,1 +1,1 @@
-window.data=[["fostered-content",356,1,"content to be moved out from the table","\n == 註腳 ==\n {{Reflist}}\n\n == 外部連結 ==\n * [http://www.nanoripe.com/ nano.RIPE]{{Wayback|url=http://www.nanoripe.com/ |date=20090712042458 }} {{ja icon}}"],["unclosed-table",269,2,"unclosed table","{|"]]
+window.data=[["fostered-content",356,1,"content to be moved out from the table","\n == 註腳 ==\n {{Reflist}}\n\n == 外部連結 ==\n * [http://www.nanoripe.com/ nano.RIPE]{{Wayback|url=http://www"],["unclosed-table",269,2,"unclosed table","{|"]]

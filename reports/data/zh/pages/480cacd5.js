@@ -1,1 +1,1 @@
-window.data=[["fostered-content",49,1,"content to be moved out from the table"," * 健康生活学科　\n ** 健康[[营养学|营养]]专攻\n ** 健康体育专攻\n ** 健康[[管理学|管理]]专攻<ref group=\"注\"  name=\"健康管理专攻\">日语:{{lang|ja|健康マネジメント専攻}}</ref>"]]
+window.data=[["fostered-content",49,1,"content to be moved out from the table"," * 健康生活学科　\n ** 健康[[营养学|营养]]专攻\n ** 健康体育专攻\n ** 健康[[管理学|管理]]专攻<ref group=\"注\"  name=\"健康管理专攻\">日语:{{lang|j"]]

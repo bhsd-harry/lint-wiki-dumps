@@ -1,1 +1,1 @@
-window.data=[["fostered-content",92,1,"content to be moved out from the table","\n ==參考資料==\n {{Reflist}}\n\n ==外部連結==\n *{{Instagram|shannonsybae}} \n {{commonscat|Bae Sung-yeon}}\n {{Pledis Entertainment}}\n {{DEFAULTSORT:Sung Yeon}}\n ["],["unclosed-table",63,2,"unclosed table","{|"]]
+window.data=[["fostered-content",92,1,"content to be moved out from the table","\n ==參考資料==\n {{Reflist}}\n\n ==外部連結==\n *{{Instagram|shannonsybae}} \n {{commonscat|Bae Sung-yeon}}\n {{Pl"],["unclosed-table",63,2,"unclosed table","{|"]]

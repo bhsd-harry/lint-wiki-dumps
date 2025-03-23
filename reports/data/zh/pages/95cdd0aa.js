@@ -1,1 +1,1 @@
-window.data=[["no-ignored",25,11,"invalid content in <gallery>","  <ref>[http://e-info.org.tw/topic/plant/2004/pl04082501.htm] {{Wayback|url=http://e-info.org.tw/topic/plant/2004/pl04082501.htm |date=20200724051453 "]]
+window.data=[["no-ignored",25,11,"invalid content in <gallery>","  <ref>[http://e-info.org.tw/topic/plant/2004/pl04082501.htm] {{Wayback|url=http://e-info.org.tw/top"]]

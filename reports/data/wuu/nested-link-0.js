@@ -1,0 +1,1 @@
+window.data={"articles":[["蓝屏宕机",13,61,"internal link in an external link","[[二维码]]"]],"batches":1}

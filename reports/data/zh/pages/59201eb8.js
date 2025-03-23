@@ -1,1 +1,1 @@
-window.data=[["fostered-content",481,1,"content to be moved out from the table"," * WRT1900AC被宣传为“支持开源”和“已开发OpenWRT固件”<ref>{{Cite web |url=http://store.linksys.com/Linksys-WRT1900AC-Open-Source-Wireless-Router_stcVVproductId1580149"]]
+window.data=[["fostered-content",481,1,"content to be moved out from the table"," * WRT1900AC被宣传为“支持开源”和“已开发OpenWRT固件”<ref>{{Cite web |url=http://store.linksys.com/Linksys-WRT1900AC"]]

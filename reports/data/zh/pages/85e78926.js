@@ -1,1 +1,1 @@
-window.data=[["fostered-content",59,1,"content to be moved out from the table"," * 服饰学科<ref name=\"服饰学科\">[https://web.archive.org/web/20050210212508/http://www.kobe-bunka.ac.jp/course/f/fcourse.html 服饰学科]{{ja}}2014年1月14日阅览。</ref>\n "]]
+window.data=[["fostered-content",59,1,"content to be moved out from the table"," * 服饰学科<ref name=\"服饰学科\">[https://web.archive.org/web/20050210212508/http://www.kobe-bunka.ac.jp/cour"]]

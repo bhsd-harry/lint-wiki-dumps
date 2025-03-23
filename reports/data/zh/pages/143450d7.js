@@ -1,1 +1,1 @@
-window.data=[["fostered-content",257,1,"content to be moved out from the table","\n\n {{DEFAULTSORT:Andrea}}\n [[Category:保加利亞女歌手]]\n [[Category:流行音乐歌手]]\n [[Category:英语歌手]]\n [[Category:意大利语歌手]]\n [[Category:索菲亚人]]\n [[Category:保加利亞LGBT權利"],["unclosed-table",180,2,"unclosed table","{|"]]
+window.data=[["fostered-content",257,1,"content to be moved out from the table","\n\n {{DEFAULTSORT:Andrea}}\n [[Category:保加利亞女歌手]]\n [[Category:流行音乐歌手]]\n [[Category:英语歌手]]\n [[Category:"],["unclosed-table",180,2,"unclosed table","{|"]]

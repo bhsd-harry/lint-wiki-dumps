@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",69,3,"duplicated parameter","2=[[利奥尼拉龙]] ''Leonerasaurus''\n "],["no-duplicate",70,3,"duplicated parameter","2={{clade\n |1=[[珙县龙]] ''Gongxianosaurus''\n |2={{clade\n |1=[[造雨龙]] ''Pulanesaura''\n |2={{clade\n |1=[[伊森龙]] ''Isanosaurus''\n |2=[[蜥脚下目]] Sauropoda\n }} }"]]
+window.data=[["no-duplicate",69,3,"duplicated parameter","2=[[利奥尼拉龙]] ''Leonerasaurus''\n "],["no-duplicate",70,3,"duplicated parameter","2={{clade\n |1=[[珙县龙]] ''Gongxianosaurus''\n |2={{clade\n |1=[[造雨龙]] ''Pulanesaura''\n |2={{clade\n |1=[["]]

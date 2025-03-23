@@ -1,1 +1,1 @@
-window.data=[["fostered-content",124,1,"content to be moved out from the table","\n\n == 腳註 ==\n {{reflist}}\n\n == 外部連結 ==\n *[http://mbn.mk.co.kr/pages/vod/programMain.php?progCode=521 韓國MBN官方網站]{{Wayback|url=http://mbn.mk.co.kr/pages/"],["unclosed-table",113,2,"unclosed table","{|"]]
+window.data=[["fostered-content",124,1,"content to be moved out from the table","\n\n == 腳註 ==\n {{reflist}}\n\n == 外部連結 ==\n *[http://mbn.mk.co.kr/pages/vod/programMain.php?progCode=521 "],["unclosed-table",113,2,"unclosed table","{|"]]

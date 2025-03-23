@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",104,3,"duplicated parameter"," population_footnotes   = \n "],["no-duplicate",105,3,"duplicated parameter"," population_footnotes   = <ref name=\"USCensusDecennial2020CenPopScriptOnly\">{{cite web|url=https://api.census.gov/data/2020/dec/pl?get=P1_001N,NAME&fo"]]
+window.data=[["no-duplicate",104,3,"duplicated parameter"," population_footnotes   = \n "],["no-duplicate",105,3,"duplicated parameter"," population_footnotes   = <ref name=\"USCensusDecennial2020CenPopScriptOnly\">{{cite web|url=https://a"]]

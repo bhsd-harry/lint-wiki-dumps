@@ -1,1 +1,1 @@
-window.data=[["fostered-content",59,1,"content to be moved out from the table"," * 保育科\n * 文科<ref group=\"注\"  name=\"文科招生\"/><ref group=\"注\"  name=\"文科停办\"/>\n ** 日文专攻<ref group=\"注\"  name=\"文科招生\"/><ref group=\"注\"  name=\"文科停办\"/>\n ** 英文专攻<ref"]]
+window.data=[["fostered-content",59,1,"content to be moved out from the table"," * 保育科\n * 文科<ref group=\"注\"  name=\"文科招生\"/><ref group=\"注\"  name=\"文科停办\"/>\n ** 日文专攻<ref group=\"注\"  name="]]

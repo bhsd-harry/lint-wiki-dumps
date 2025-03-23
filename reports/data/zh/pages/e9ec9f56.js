@@ -1,1 +1,1 @@
-window.data=[["fostered-content",51,1,"content to be moved out from the table"," * [[机械工程]]学科[[夜学|第二部]]\n * 工业化学科[[夜学|第二部]]\n * [[電機工程學|电机工程学科]][[夜学|第二部]]\n * [[土木工程]]学科[[夜学|第二部]]\n * [[信息]]处理[[工程学|工程]]学科[[夜学|第二部]]"]]
+window.data=[["fostered-content",51,1,"content to be moved out from the table"," * [[机械工程]]学科[[夜学|第二部]]\n * 工业化学科[[夜学|第二部]]\n * [[電機工程學|电机工程学科]][[夜学|第二部]]\n * [[土木工程]]学科[[夜学|第二部]]\n * "]]

@@ -1,1 +1,1 @@
-window.data=[["fostered-content",66,1,"content to be moved out from the table"," 資料來源： \n 東山咖啡季- 西拉雅國家風景區管理處<ref>{{Cite web |url=https://www.siraya-nsa.gov.tw/MainWeb/article.aspx?L=1&SNO=03000013 |title=東山咖啡季- 西拉雅國家風景區管理處 |access-"],["unclosed-table",27,2,"unclosed table","{|"]]
+window.data=[["fostered-content",66,1,"content to be moved out from the table"," 資料來源： \n 東山咖啡季- 西拉雅國家風景區管理處<ref>{{Cite web |url=https://www.siraya-nsa.gov.tw/MainWeb/article.aspx?L"],["unclosed-table",27,2,"unclosed table","{|"]]

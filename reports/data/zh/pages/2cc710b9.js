@@ -1,1 +1,1 @@
-window.data=[["fostered-content",431,1,"content to be moved out from the table","  亚庇著名食物:\n [[新鲜活海鲜]]\n *'''亚庇特色小吃'''：\n **[[干捞面]]\n **[[牛杂面]]\n **[[生肉面]]\n **[[经济面]]／[[米粉]]／[[饭菜]]\n **[[海南鸡饭]]\n **[[福建炒面]]\n **[[蒸炸饺子]]\n **[[沙巴海鲜炒面]]／[[沙巴海"]]
+window.data=[["fostered-content",431,1,"content to be moved out from the table","  亚庇著名食物:\n [[新鲜活海鲜]]\n *'''亚庇特色小吃'''：\n **[[干捞面]]\n **[[牛杂面]]\n **[[生肉面]]\n **[[经济面]]／[[米粉]]／[[饭菜]]\n **[["]]

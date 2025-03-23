@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",36,3,"duplicated parameter","data19=南北两岸接轨线路由津浦、京沪两路局承办。\n "],["no-duplicate",37,12,"duplicated parameter","data19=\n {{文物保护单位\n | 级别 = 市县级\n | 市/县名 = 南京市\n | 名称 = 下关浦口铁路轮渡桥\n | 图片 = \n | 分类 = 近现代重要史迹及代表性建筑\n | 时代 = 1933年\n | 所在 = [[浦口区]][[泰山街道 (南京市)|泰山街道]]江边<br/>[["]]
+window.data=[["no-duplicate",36,3,"duplicated parameter","data19=南北两岸接轨线路由津浦、京沪两路局承办。\n "],["no-duplicate",37,12,"duplicated parameter","data19=\n {{文物保护单位\n | 级别 = 市县级\n | 市/县名 = 南京市\n | 名称 = 下关浦口铁路轮渡桥\n | 图片 = \n | 分类 = 近现代重要史迹及代表性建筑\n | 时代 ="]]

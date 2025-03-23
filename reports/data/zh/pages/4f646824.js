@@ -1,1 +1,1 @@
-window.data=[["illegal-attr",92,5,"illegal attribute name","272"],["no-ignored",92,8,"containing invalid attribute","   || 纱帽街薇湖路-武汉体育中心停车场    ||从纱帽街薇湖路出发，经汉南大道、碧栖路、纱帽正街、兴城大道、兴三路，上汉洪高速，经江城大道、沌阳大道、车城东路、体育路、 车城北路、车城西路、东风三路、三角湖路、太子湖路，到武汉体育中心。沿途设站点8个，分别为薇湖路公交停车场、朱家山、纱帽正街"]]
+window.data=[["illegal-attr",92,5,"illegal attribute name","272"],["no-ignored",92,8,"containing invalid attribute","   || 纱帽街薇湖路-武汉体育中心停车场    ||从纱帽街薇湖路出发，经汉南大道、碧栖路、纱帽正街、兴城大道、兴三路，上汉洪高速，经江城大道、沌阳大道、车城东路、体育路、 车城北路、车城西路、东"]]

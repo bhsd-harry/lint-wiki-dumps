@@ -1,1 +1,1 @@
-window.data=[["no-ignored",51,78,"useless fragment","File:Singapore_Downtown_-_Telok_Ayer_Street_-_Yu_Huang_Gong_Temple_IMG_9970.jpg#/media/File:Singapore_Downtown_-_Telok_Ayer_Street_-_Yu_Huang_Gong_Tem"],["no-ignored",127,124,"useless fragment","File:CHIJMES_9,_Jan_06.JPG#/media/File:CHIJMES_9,_Jan_06.JPG"]]
+window.data=[["no-ignored",51,78,"useless fragment","File:Singapore_Downtown_-_Telok_Ayer_Street_-_Yu_Huang_Gong_Temple_IMG_9970.jpg#/media/File:Singapor"],["no-ignored",127,124,"useless fragment","File:CHIJMES_9,_Jan_06.JPG#/media/File:CHIJMES_9,_Jan_06.JPG"]]

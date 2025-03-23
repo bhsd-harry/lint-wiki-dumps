@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",67,36,"duplicated image caption parameter","legt"],["no-duplicate",67,47,"duplicated image caption parameter","二戰時（1941-1944年）被德軍佔領的塞爾維亞（黃色區）：1941年德軍消滅[[南斯拉夫王國]]，並將其瓜分，如[[伏伊伏丁那]]（綠色區）大體被[[匈牙利]]兼併、克羅埃西亞獨立、科索沃併入[[阿爾巴尼亞]]，塞爾維亞其餘部分（黃色區）則由德軍佔領"]]
+window.data=[["no-duplicate",67,36,"duplicated image caption parameter","legt"],["no-duplicate",67,47,"duplicated image caption parameter","二戰時（1941-1944年）被德軍佔領的塞爾維亞（黃色區）：1941年德軍消滅[[南斯拉夫王國]]，並將其瓜分，如[[伏伊伏丁那]]（綠色區）大體被[[匈牙利]]兼併、克羅埃西亞獨立、科索沃併入[["]]

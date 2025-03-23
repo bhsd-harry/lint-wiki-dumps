@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",4,334,"duplicated parameter","publisher=Pioneers in the Village"],["no-duplicate",4,368,"duplicated parameter","publisher=Publication of the Omsk Provincial Committee of the Russian Communist Youth League (Provincial Bureau (DCO)"]]
+window.data=[["no-duplicate",4,334,"duplicated parameter","publisher=Pioneers in the Village"],["no-duplicate",4,368,"duplicated parameter","publisher=Publication of the Omsk Provincial Committee of the Russian Communist Youth League (Provin"]]

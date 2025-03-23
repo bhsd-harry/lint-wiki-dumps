@@ -1,1 +1,1 @@
-window.data=[["no-ignored",12,1,"invalid content in <gallery>"," [https://ied.oggi.tw https://ied.oggi.tw/] {{Wayback|url=https://ied.oggi.tw/ |date=20141217152218 }}"]]
+window.data=[["no-ignored",12,1,"invalid content in <gallery>"," [https://ied.oggi.tw https://ied.oggi.tw/] {{Wayback|url=https://ied.oggi.tw/ |date=20141217152218 "]]

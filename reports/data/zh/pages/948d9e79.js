@@ -1,1 +1,1 @@
-window.data=[["fostered-content",99,1,"content to be moved out from the table"," <ref>{{cite web |url=http://www.fis-ski.com/alpine-skiing/news-multimedia/official-communications/article=cancelled-downhill-from-moritz-sui-will-rep"]]
+window.data=[["fostered-content",99,1,"content to be moved out from the table"," <ref>{{cite web |url=http://www.fis-ski.com/alpine-skiing/news-multimedia/official-communications/a"]]

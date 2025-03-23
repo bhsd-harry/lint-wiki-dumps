@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",19,3,"duplicated parameter"," national      = \n "],["no-duplicate",23,3,"duplicated parameter"," national         = '''合作联盟'''<br/>{{国民阵线}}+{{flagicon image|Muafakat Nasional logo.svg}} [[全民共识 (马来西亚)|全民共识]]<br/>{{small|(2020-2022)}}<br/>{{砂拉越政党联盟"]]
+window.data=[["no-duplicate",19,3,"duplicated parameter"," national      = \n "],["no-duplicate",23,3,"duplicated parameter"," national         = '''合作联盟'''<br/>{{国民阵线}}+{{flagicon image|Muafakat Nasional logo.svg}} [[全民共识 (马来"]]

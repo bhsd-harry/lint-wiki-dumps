@@ -1,1 +1,1 @@
-window.data=[["fostered-content",77,1,"content to be moved out from the table"," * [[JVC]]\n * [[夏普|SHARP]]\n * [[宏碁]]（Acer）\n * [[中国华录集团有限公司|華錄]]\n * [[NEC|NEC Electronics]]（※）\n * [[理光|RICOH]]（※）\n * [[佳能]]（※）\n * [[富士軟片|Fujifilm]]（※）\n"],["unclosed-table",76,2,"unclosed table","{|"]]
+window.data=[["fostered-content",77,1,"content to be moved out from the table"," * [[JVC]]\n * [[夏普|SHARP]]\n * [[宏碁]]（Acer）\n * [[中国华录集团有限公司|華錄]]\n * [[NEC|NEC Electronics]]（※）\n * [[理"],["unclosed-table",76,2,"unclosed table","{|"]]

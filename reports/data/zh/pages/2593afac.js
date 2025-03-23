@@ -1,1 +1,1 @@
-window.data=[["fostered-content",42,1,"content to be moved out from the table"," * 保育科"],["fostered-content",56,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]<ref name=\"幼儿园\">[http://www.misono-jc.ac.jp/youchien.htm 圣园学园短期大学附属幼儿园] {{Wayback|url=http://www.misono-jc.ac.jp/youchien.htm |date=2020"]]
+window.data=[["fostered-content",42,1,"content to be moved out from the table"," * 保育科"],["fostered-content",56,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]<ref name=\"幼儿园\">[http://www.misono-jc.ac.jp/youchien.htm 圣园学园短期大学附属幼儿园] {{Wayback|url="]]

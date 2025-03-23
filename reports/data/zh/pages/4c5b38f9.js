@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",10,3,"duplicated parameter","image_skyline = "],["no-duplicate",10,20,"duplicated parameter"," image_skyline      = {{multiple image\n   | total_width            = 280\n   | border                 = infobox\n   | perrow                 = 1/2/1/2\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","image_skyline = "],["no-duplicate",10,20,"duplicated parameter"," image_skyline      = {{multiple image\n   | total_width            = 280\n   | border                "]]

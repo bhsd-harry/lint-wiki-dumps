@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",33,117,"duplicated image caption parameter","609.974x609.974px"],["no-duplicate",33,135,"duplicated image caption parameter","X-Ray, Optical and Terahertz image of a packaged IC.<ref>{{Cite journal|last=Ahi|first=Kiarash|date=2018|title=A Method and System for Enhancing the R"]]
+window.data=[["no-duplicate",33,117,"duplicated image caption parameter","609.974x609.974px"],["no-duplicate",33,135,"duplicated image caption parameter","X-Ray, Optical and Terahertz image of a packaged IC.<ref>{{Cite journal|last=Ahi|first=Kiarash|date="]]

@@ -1,1 +1,1 @@
-window.data=[["fostered-content",52,1,"content to be moved out from the table"," 007-FN  016-FN 051-FX 052-FX 053-FX 063-FX 075-FX 096-FX 099-FX\n\n 420-U7 423-FT 425-FT 456-FT 499-FT 858-FP  516-U7 \n\n 587-FY 592-U7 597-FY 598-FY 88"]]
+window.data=[["fostered-content",52,1,"content to be moved out from the table"," 007-FN  016-FN 051-FX 052-FX 053-FX 063-FX 075-FX 096-FX 099-FX\n\n 420-U7 423-FT 425-FT 456-FT 499-F"]]

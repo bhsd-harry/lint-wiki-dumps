@@ -1,1 +1,1 @@
-window.data=[["parsing-order",15,59,"extension tag in HTML tag attributes","<ref name=\"Boring\">{{cite web|url=https://medium.com/war-is-boring/ukraine-resurrects-soviet-era-super-drones-3403f80c51ba|title=Ukraine Resurrects So"],["parsing-order",16,26,"HTML tag in table attributes","<br>"]]
+window.data=[["parsing-order",15,59,"extension tag in HTML tag attributes","<ref name=\"Boring\">{{cite web|url=https://medium.com/war-is-boring/ukraine-resurrects-soviet-era-sup"],["parsing-order",16,26,"HTML tag in table attributes","<br>"]]

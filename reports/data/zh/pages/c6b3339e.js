@@ -1,1 +1,1 @@
-window.data=[["fostered-content",383,1,"content to be moved out from the table"," *1992 - [[遇見100％的女孩]]（1995 二版）\n *1998 - [[萊辛頓的幽靈]]（2005 二版）\n *1998 - [[開往中國的慢船]]\n *1999 - [[迴轉木馬的終端]]\n *1999 - [[螢火蟲 (小說)|螢火蟲]]\n *1999 - [[麵包店再襲擊]]\n "],["unclosed-table",382,2,"unclosed table","{|"]]
+window.data=[["fostered-content",383,1,"content to be moved out from the table"," *1992 - [[遇見100％的女孩]]（1995 二版）\n *1998 - [[萊辛頓的幽靈]]（2005 二版）\n *1998 - [[開往中國的慢船]]\n *1999 - [[迴轉木馬的終端"],["unclosed-table",382,2,"unclosed table","{|"]]

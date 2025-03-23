@@ -1,1 +1,1 @@
-window.data=[["fostered-content",27,1,"content to be moved out from the table","\n '''明斯特音樂學院'''（{{lang-de|'''Musikhochschule Münster'''}}）是在[[北莱茵-威斯特法伦]]州內的五所音樂學院之一，位于[[德国]][[北莱茵-威斯特法伦]]州[[明斯特]]市。\n\n ==學院歷史==\n 1959年，學校作為“威斯特伐利亞音樂學院"],["unclosed-table",5,2,"unclosed table","{|"]]
+window.data=[["fostered-content",27,1,"content to be moved out from the table","\n '''明斯特音樂學院'''（{{lang-de|'''Musikhochschule Münster'''}}）是在[[北莱茵-威斯特法伦]]州內的五所音樂學院之一，位于[[德国]][[北莱茵-威"],["unclosed-table",5,2,"unclosed table","{|"]]

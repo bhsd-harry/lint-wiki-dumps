@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",10,3,"duplicated parameter"," 語言 = \n "],["no-duplicate",11,3,"duplicated parameter"," 語言 = [[日語]]<small>（日本朝日電視台）</small><br>[[台灣國語|國語]]<small>（台灣八大戲劇台）</small><br>[[粵語]]<small>（香港無綫電視翡翠台）</small>\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter"," 語言 = \n "],["no-duplicate",11,3,"duplicated parameter"," 語言 = [[日語]]<small>（日本朝日電視台）</small><br>[[台灣國語|國語]]<small>（台灣八大戲劇台）</small><br>[[粵語]]<small>（香港無綫電視翡"]]

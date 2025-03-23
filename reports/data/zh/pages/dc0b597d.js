@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",27,195,"duplicated parameter","title=Founding president of the HKIS Kan Fook-yee played a key role in helping Hong Kong’s surveyors flourish"],["no-duplicate",27,437,"duplicated parameter","title=Cpjobs"]]
+window.data=[["no-duplicate",27,195,"duplicated parameter","title=Founding president of the HKIS Kan Fook-yee played a key role in helping Hong Kong’s surveyors"],["no-duplicate",27,437,"duplicated parameter","title=Cpjobs"]]

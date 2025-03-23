@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",8,3,"duplicated parameter"," party       = \n "],["no-duplicate",21,3,"duplicated parameter"," party       = {{CPC}}<ref name=\"lbl1998\">{{cite book |author1=刘宝珑 |editor=新疆维吾尔自治区专家服务中心 |title=新疆专家名录 |date=1998 |publisher=新疆人民出版社 |location=乌鲁木齐 |"]]
+window.data=[["no-duplicate",8,3,"duplicated parameter"," party       = \n "],["no-duplicate",21,3,"duplicated parameter"," party       = {{CPC}}<ref name=\"lbl1998\">{{cite book |author1=刘宝珑 |editor=新疆维吾尔自治区专家服务中心 |title=新疆专"]]

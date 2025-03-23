@@ -1,1 +1,1 @@
-window.data=[["no-ignored",392,3,"containing invalid attribute"," !style=\"background:black; text-transform:uppercase;text-shadow:1px 1px 0 #98FFFE,-1px 1px 0 #98FFFE,1px -1px 0 #98FFFE,-1px -1px 0 #98FFFE;font-famil"]]
+window.data=[["no-ignored",392,3,"containing invalid attribute"," !style=\"background:black; text-transform:uppercase;text-shadow:1px 1px 0 #98FFFE,-1px 1px 0 #98FFFE"]]

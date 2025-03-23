@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",47,3,"duplicated parameter"," module              = \n "],["no-duplicate",50,3,"duplicated parameter"," module              = <!--1-->{{PLA Ribbon |name=PLA_rank_ribbon_division}}<br><!--2-->{{PLA Ribbon |name=PLA_honour_ribbon_meritorious_service_medal"]]
+window.data=[["no-duplicate",47,3,"duplicated parameter"," module              = \n "],["no-duplicate",50,3,"duplicated parameter"," module              = <!--1-->{{PLA Ribbon |name=PLA_rank_ribbon_division}}<br><!--2-->{{PLA Ribbon"]]

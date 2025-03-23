@@ -1,1 +1,1 @@
-window.data=[["no-ignored",126,1,"invalid content in <gallery>"," [[Geronimo]] (right) holding a Springfield model 1873 alongside his fellow [[Apache]] warriors in 1886"]]
+window.data=[["no-ignored",126,1,"invalid content in <gallery>"," [[Geronimo]] (right) holding a Springfield model 1873 alongside his fellow [[Apache]] warriors in 1"]]

@@ -1,1 +1,1 @@
-window.data=[["fostered-content",44,1,"content to be moved out from the table"," * 幼儿教育科"],["fostered-content",58,1,"content to be moved out from the table"," * 羽阳学园短期大学附属高擶幼儿园<ref name=\"高擶幼儿园\">[http://www.uyo.ac.jp/takadama/index.htm 羽阳学园短期大学部附属高擶幼儿园] {{Wayback|url=http://www.uyo.ac.jp/takadama/index.htm |"]]
+window.data=[["fostered-content",44,1,"content to be moved out from the table"," * 幼儿教育科"],["fostered-content",58,1,"content to be moved out from the table"," * 羽阳学园短期大学附属高擶幼儿园<ref name=\"高擶幼儿园\">[http://www.uyo.ac.jp/takadama/index.htm 羽阳学园短期大学部附属高擶幼儿园] {{Way"]]

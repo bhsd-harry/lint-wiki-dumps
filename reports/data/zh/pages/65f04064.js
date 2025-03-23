@@ -1,1 +1,1 @@
-window.data=[["fostered-content",172,1,"content to be moved out from the table","\n == 出版物 ==\n *[https://web.archive.org/web/20160204065457/http://www.cla.nchu.edu.tw/publication.htm 興大人文學報]\n *[https://deer.nchu.edu.tw/epapers/ 鹿鳴電子"],["unclosed-table",31,2,"unclosed table","{|"]]
+window.data=[["fostered-content",172,1,"content to be moved out from the table","\n == 出版物 ==\n *[https://web.archive.org/web/20160204065457/http://www.cla.nchu.edu.tw/publication.htm"],["unclosed-table",31,2,"unclosed table","{|"]]

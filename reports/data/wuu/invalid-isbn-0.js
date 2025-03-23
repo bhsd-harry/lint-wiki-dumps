@@ -1,0 +1,1 @@
+window.data={"articles":[["南宋",23,186,"invalid ISBN","ISBN 978-9577140475"],["星系",3,468,"invalid ISBN","ISBN 0-521-59704-4"],["火焰个纹章 圣战个系谱",1,200,"invalid ISBN","ISBN 7-88833-141-1"],["莎士比亞",18,74,"invalid ISBN","ISBN 0-7493-8655-8"],["萨尔瓦多·达利",12,87,"invalid ISBN","ISBN 2-35035-189-6"]],"batches":1}

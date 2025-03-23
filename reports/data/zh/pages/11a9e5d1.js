@@ -1,1 +1,1 @@
-window.data=[["fostered-content",235,1,"content to be moved out from the table"," '''最佳球員：'''\n <br />{{Flagicon|POR}}&nbsp; [[佩佩|-{zh-hans:佩佩;zh-hk:比比;zh-tw:佩佩; zh-mo:柏比;}-]]  <ref name=\"motm\">{{cite news |first=Tom |last=Kell |tit"],["unmatched-tag",443,4,"unmatched closing tag","</div>"]]
+window.data=[["fostered-content",235,1,"content to be moved out from the table"," '''最佳球員：'''\n <br />{{Flagicon|POR}}&nbsp; [[佩佩|-{zh-hans:佩佩;zh-hk:比比;zh-tw:佩佩; zh-mo:柏比;}-]]  <ref "],["unmatched-tag",443,4,"unmatched closing tag","</div>"]]

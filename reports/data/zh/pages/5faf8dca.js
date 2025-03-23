@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",3,3,"duplicated parameter"," native_name               = Adamawa\n "],["no-duplicate",55,3,"duplicated parameter"," native_name        = {{small|{{native name|en|Adamawa State}}<br>{{native name|fub|𞤤𞤫𞤧𞤣𞤭 𞤢𞤣𞤢𞤥𞤢𞥄𞤱𞤢}}}}\n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter"," native_name               = Adamawa\n "],["no-duplicate",55,3,"duplicated parameter"," native_name        = {{small|{{native name|en|Adamawa State}}<br>{{native name|fub|𞤤𞤫𞤧𞤣𞤭 𞤢𞤣\ud83a"]]

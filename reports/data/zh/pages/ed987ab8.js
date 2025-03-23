@@ -1,1 +1,1 @@
-window.data=[["fostered-content",628,1,"content to be moved out from the table"," * 2022年，[[QS世界大學排名]]調查，全球第334名。\n * 2023年，[[QS世界大學排名]]調查，全球第332名。\n * 2024年，[[QS世界大學排名]]調查，全球第431名。\n * 2025年，[[QS世界大學排名]]調查，全球第452名，臺灣第7位。<ref>{{Cite w"]]
+window.data=[["fostered-content",628,1,"content to be moved out from the table"," * 2022年，[[QS世界大學排名]]調查，全球第334名。\n * 2023年，[[QS世界大學排名]]調查，全球第332名。\n * 2024年，[[QS世界大學排名]]調查，全球第431名。\n "]]

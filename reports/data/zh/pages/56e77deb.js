@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",6,3,"duplicated parameter"," past = \n "],["no-duplicate",27,3,"duplicated parameter"," past           = \n * 廣州飯店、世界酒店、金龍酒店、新亞飯店等[[旅館]]主廚\n * [[蔣經國]]總統、[[李登輝]]總統、[[陳水扁]]總統官邸御廚\n * [[國賓大飯店]]行政總主廚\n * 2004年至2007年台北中華美食展明星烹飪教室召集人暨主持人 \n * [[維多麗"]]
+window.data=[["no-duplicate",6,3,"duplicated parameter"," past = \n "],["no-duplicate",27,3,"duplicated parameter"," past           = \n * 廣州飯店、世界酒店、金龍酒店、新亞飯店等[[旅館]]主廚\n * [[蔣經國]]總統、[[李登輝]]總統、[[陳水扁]]總統官邸御廚\n * [[國賓大飯店]]"]]

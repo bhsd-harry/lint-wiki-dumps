@@ -1,1 +1,1 @@
-window.data=[["fostered-content",62,1,"content to be moved out from the table"," * 设计学科\n * 机械工学科\n * 建筑工学科\n * [[电子学|电子]][[信息学]]科\n ** [[电子学|电子]]工学专攻\n ** 信息工学专攻\n * 针灸学科\n * 物理治疗学科<ref group=\"注\"  name=\"物理治疗学科\"/>\n * 信息处理学科　"]]
+window.data=[["fostered-content",62,1,"content to be moved out from the table"," * 设计学科\n * 机械工学科\n * 建筑工学科\n * [[电子学|电子]][[信息学]]科\n ** [[电子学|电子]]工学专攻\n ** 信息工学专攻\n * 针灸学科\n * 物理治疗学科<ref "]]

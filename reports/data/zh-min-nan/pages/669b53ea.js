@@ -1,1 +1,1 @@
-window.data=[["parsing-order",2,19,"HTML tag in table attributes","<br>"],["parsing-order",16,45,"extension tag in HTML tag attributes","<ref>{{cite report |last1=Bronk |first1=Justin |date=October 2020 |title=Russian and Chinese Combat Air Trends |series=Whitehall Report |volume=3-20 |"]]
+window.data=[["parsing-order",2,19,"HTML tag in table attributes","<br>"],["parsing-order",16,45,"extension tag in HTML tag attributes","<ref>{{cite report |last1=Bronk |first1=Justin |date=October 2020 |title=Russian and Chinese Combat "]]

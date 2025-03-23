@@ -1,1 +1,1 @@
-window.data=[["parsing-order",19,31,"extension tag in HTML tag attributes","<ref name=\"greatac\">{{cite book|last=Cacutt|first=Len|title=Grumman Single-Seat Biplane Fighters|year=1989|publisher=Marshall Cavendish|location=Londo"]]
+window.data=[["parsing-order",19,31,"extension tag in HTML tag attributes","<ref name=\"greatac\">{{cite book|last=Cacutt|first=Len|title=Grumman Single-Seat Biplane Fighters|yea"]]

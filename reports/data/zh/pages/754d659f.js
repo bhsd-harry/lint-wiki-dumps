@@ -1,1 +1,1 @@
-window.data=[["fostered-content",295,1,"content to be moved out from the table","\n ==IP封鎖事件==\n 2016年5月11日，韓服宣佈封鎖海外IP，但2016年5月20日才正式封鎖。\n <ref>{{Cite web |url=http://cyphers.nexon.com/cyphers/article/notice/topic/25023050 |title=Cyph"],["unclosed-table",60,2,"unclosed table","{|"]]
+window.data=[["fostered-content",295,1,"content to be moved out from the table","\n ==IP封鎖事件==\n 2016年5月11日，韓服宣佈封鎖海外IP，但2016年5月20日才正式封鎖。\n <ref>{{Cite web |url=http://cyphers.nexon.com"],["unclosed-table",60,2,"unclosed table","{|"]]

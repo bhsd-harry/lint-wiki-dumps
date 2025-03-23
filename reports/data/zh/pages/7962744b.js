@@ -1,1 +1,1 @@
-window.data=[["fostered-content",51,1,"content to be moved out from the table"," * <del>[[通信工程|通信工程学科]]</del><ref group=\"注\"  name=\"通信工程学科\"/><ref group=\"注\"  name=\"通信工程学科招生\">招生到1978年。停办于1981年。</ref>\n * [[信息学|信息]][[传播媒体|媒体]]学科<ref gr"],["unclosed-table",50,2,"unclosed table","{|"]]
+window.data=[["fostered-content",51,1,"content to be moved out from the table"," * <del>[[通信工程|通信工程学科]]</del><ref group=\"注\"  name=\"通信工程学科\"/><ref group=\"注\"  name=\"通信工程学科招生\">招生到1978年"],["unclosed-table",50,2,"unclosed table","{|"]]

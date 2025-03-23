@@ -1,1 +1,1 @@
-window.data=[["fostered-content",60,1,"content to be moved out from the table"," <center>\n {{Location map+|Sweden|width=200|float=center|caption|places=\n {{location map~|Sweden|lat=59.356944|long=18.014722|label='''[[索尔纳]]'''}}\n {"],["unmatched-tag",86,2,"unmatched closing tag","</center>"]]
+window.data=[["fostered-content",60,1,"content to be moved out from the table"," <center>\n {{Location map+|Sweden|width=200|float=center|caption|places=\n {{location map~|Sweden|lat"],["unmatched-tag",86,2,"unmatched closing tag","</center>"]]

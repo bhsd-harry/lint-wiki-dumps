@@ -1,1 +1,0 @@
-window.data=[["Minangkabau-ngî",28,180,"internal link in an external link","[[Balai Pustaka]]"]]

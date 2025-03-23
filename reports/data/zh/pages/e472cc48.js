@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",49,50,"duplicated image caption parameter","upleft=1.5"],["no-duplicate",49,61,"duplicated image caption parameter","展現女公爵安娜和查理八世結婚場面的蠟像，位於[[朗熱城堡]]。<ref>根據城堡員工Amèlie Delaunay，其中人物由左至右為：時年31歲的[[法蘭西的安娜|安娜公主]]（查理八世的姊姊）、其丈夫波旁公爵[[皮埃爾二世·德·波旁|皮埃爾二世]]、時年21歲的查理八世，以及14歲的安娜王后。而"]]
+window.data=[["no-duplicate",49,50,"duplicated image caption parameter","upleft=1.5"],["no-duplicate",49,61,"duplicated image caption parameter","展現女公爵安娜和查理八世結婚場面的蠟像，位於[[朗熱城堡]]。<ref>根據城堡員工Amèlie Delaunay，其中人物由左至右為：時年31歲的[[法蘭西的安娜|安娜公主]]（查理八世的姊姊）、其"]]

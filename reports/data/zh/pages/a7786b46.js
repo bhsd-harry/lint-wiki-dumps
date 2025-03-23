@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",34,41,"duplicated image caption parameter","''A. p. panayensis'' feeding"],["no-duplicate",34,70,"duplicated image caption parameter","317x317px''A. p. panayensis'' <small>([[Giovanni Antonio Scopoli|Scopoli]], 1786)</small>  –[[蘇拉威西北部]]和[[菲律賓]]"]]
+window.data=[["no-duplicate",34,41,"duplicated image caption parameter","''A. p. panayensis'' feeding"],["no-duplicate",34,70,"duplicated image caption parameter","317x317px''A. p. panayensis'' <small>([[Giovanni Antonio Scopoli|Scopoli]], 1786)</small>  –[[蘇拉威西北部"]]

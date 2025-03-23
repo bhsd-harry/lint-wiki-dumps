@@ -1,1 +1,1 @@
-window.data=[["fostered-content",275,1,"content to be moved out from the table","\n ===星期三、五的節目內容===\n *節目初期播放世界各地的癲青小故事，後期改為主持人自行創作一些感人、使人反省的小故事。\n *另外，主持人亦於星期三、五與聽眾交流，讀出聽眾、癲青寄來的電郵，主持人亦曾致電癲青，了解他們的近況。\n\n ===星期六：癲青關注組織===\n *2010年5月1日起，逢"],["unclosed-table",66,2,"unclosed table","{|"]]
+window.data=[["fostered-content",275,1,"content to be moved out from the table","\n ===星期三、五的節目內容===\n *節目初期播放世界各地的癲青小故事，後期改為主持人自行創作一些感人、使人反省的小故事。\n *另外，主持人亦於星期三、五與聽眾交流，讀出聽眾、癲青寄來的電郵，主持"],["unclosed-table",66,2,"unclosed table","{|"]]

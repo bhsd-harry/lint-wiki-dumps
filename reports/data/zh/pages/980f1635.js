@@ -1,1 +1,1 @@
-window.data=[["parsing-order",6,23,"HTML tag in table attributes","<br>"],["parsing-order",12,31,"extension tag in HTML tag attributes","<ref>[http://www.jsf.mil/history/his_jsf.htm  \"JSF History.\"] {{Wayback|url=http://www.jsf.mil/history/his_jsf.htm |date=20190715053937 }} ''jsf.mil.'"]]
+window.data=[["parsing-order",6,23,"HTML tag in table attributes","<br>"],["parsing-order",12,31,"extension tag in HTML tag attributes","<ref>[http://www.jsf.mil/history/his_jsf.htm  \"JSF History.\"] {{Wayback|url=http://www.jsf.mil/histo"]]

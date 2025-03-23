@@ -1,1 +1,1 @@
-window.data=[["parsing-order",19,46,"extension tag in HTML tag attributes","<ref>{{cite web|url=http://www.vectorsite.net/avmir2k.html|title=The Dassault Mirage 2000  &  4000|work=Vectorsite|archive-url=https://web.archive.org"]]
+window.data=[["parsing-order",19,46,"extension tag in HTML tag attributes","<ref>{{cite web|url=http://www.vectorsite.net/avmir2k.html|title=The Dassault Mirage 2000  &  4000|w"]]

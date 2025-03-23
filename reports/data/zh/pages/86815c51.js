@@ -1,1 +1,1 @@
-window.data=[["fostered-content",68,1,"content to be moved out from the table","\n ==外部链接==\n * [https://www.openeuler.org/en/ 官方网站] {{Wayback|url=https://developer.huaweicloud.com/ict/en/site-euleros/euleros |date=20200121023159 }}"],["unclosed-table",51,2,"unclosed table","{|"]]
+window.data=[["fostered-content",68,1,"content to be moved out from the table","\n ==外部链接==\n * [https://www.openeuler.org/en/ 官方网站] {{Wayback|url=https://developer.huaweicloud.com/i"],["unclosed-table",51,2,"unclosed table","{|"]]

@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",36,180,"duplicated image caption parameter","XVII Open de Plastimodelismo de Catanduva realizado no Espaço de Exposições da Estação Cultura em Catanduva. Carros de combate de diversas épocas. - p"],["no-duplicate",36,363,"duplicated image caption parameter","五號防空戰車模型"]]
+window.data=[["no-duplicate",36,180,"duplicated image caption parameter","XVII Open de Plastimodelismo de Catanduva realizado no Espaço de Exposições da Estação Cultura em Ca"],["no-duplicate",36,363,"duplicated image caption parameter","五號防空戰車模型"]]

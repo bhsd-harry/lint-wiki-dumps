@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",48,35,"duplicated image caption parameter","高分辨率成像科学设备看到的由梅杜莎槽沟层地层和无根叠锥(Rootless cones)构成的高原，无根叠锥是熔岩与水冰相互作用的结果，尾流是由岩浆流过蒸汽源而引起的。 ESP 036510 1735layers.jpg"],["no-duplicate",48,145,"duplicated image caption parameter","带有分层结构的土墩，位置为[[埃俄利斯区]][[盖尔撞击坑]]以东。"]]
+window.data=[["no-duplicate",48,35,"duplicated image caption parameter","高分辨率成像科学设备看到的由梅杜莎槽沟层地层和无根叠锥(Rootless cones)构成的高原，无根叠锥是熔岩与水冰相互作用的结果，尾流是由岩浆流过蒸汽源而引起的。 ESP 036510 1735l"],["no-duplicate",48,145,"duplicated image caption parameter","带有分层结构的土墩，位置为[[埃俄利斯区]][[盖尔撞击坑]]以东。"]]

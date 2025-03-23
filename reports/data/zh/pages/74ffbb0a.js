@@ -1,1 +1,1 @@
-window.data=[["fostered-content",61,1,"content to be moved out from the table"," * 保育科"],["fostered-content",86,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]：前尚䌹女学院短期大学附属幼儿园成立于1956年<ref name=\"全国短期大学高等専门学校一覧1987\">请参看1987年度『{{tsl|ja|全国短期大学高等専門学校一覧|}}』36页「{{lang|ja|尚絅女学院短期大学}}」的项目{{ja}}</ref>"]]
+window.data=[["fostered-content",61,1,"content to be moved out from the table"," * 保育科"],["fostered-content",86,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]：前尚䌹女学院短期大学附属幼儿园成立于1956年<ref name=\"全国短期大学高等専门学校一覧1987\">请参看1987年度『{{tsl|ja|全国短期大学高等専門学校"]]

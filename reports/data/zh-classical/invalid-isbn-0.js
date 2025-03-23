@@ -1,0 +1,1 @@
+window.data={"articles":[["三垣二十八宿",33,20,"invalid ISBN","ISBN 7-100-04-2422"],["分野占",23,20,"invalid ISBN","ISBN 7-100-04-2422"],["完全數",17,150,"invalid ISBN","ISBN 978-0-321-50031-2"]],"batches":1}

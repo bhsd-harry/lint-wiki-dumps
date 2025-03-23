@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",1584,70,"duplicated style attribute","style=\"margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse;  \""],["no-duplicate",1584,177,"duplicated style attribute","style=\"text-align:center\""]]
+window.data=[["no-duplicate",1584,70,"duplicated style attribute","style=\"margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse"],["no-duplicate",1584,177,"duplicated style attribute","style=\"text-align:center\""]]

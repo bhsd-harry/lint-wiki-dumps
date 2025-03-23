@@ -1,1 +1,1 @@
-window.data=[["no-ignored",221,1,"invalid content in <gallery>"," [[中華民國交通部]]将歐亞航空定为国有<ref name=BallantineTangp6>Ballantine, Collin and Pamela Tang.  \"Chinese airlines: airline colours of China.\"  [[Airlife]], 1995."]]
+window.data=[["no-ignored",221,1,"invalid content in <gallery>"," [[中華民國交通部]]将歐亞航空定为国有<ref name=BallantineTangp6>Ballantine, Collin and Pamela Tang.  \"Chinese airlin"]]

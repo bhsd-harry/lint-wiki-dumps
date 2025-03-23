@@ -1,1 +1,1 @@
-window.data=[["fostered-content",59,1,"content to be moved out from the table"," * 服饰艺术科\n ** 第一部\n ** <del>[[夜校|第二部]]</del><ref group=\"注\"  name=\"被服科第二部\"/>\n * 食物营养科\n * 国际交流学科<ref group=\"注\"  name=\"国际交流学科\">日语:{{lang|ja|国際コミュニケーション学科}}"]]
+window.data=[["fostered-content",59,1,"content to be moved out from the table"," * 服饰艺术科\n ** 第一部\n ** <del>[[夜校|第二部]]</del><ref group=\"注\"  name=\"被服科第二部\"/>\n * 食物营养科\n * 国际交流学科<ref gro"]]

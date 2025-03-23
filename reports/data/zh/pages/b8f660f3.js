@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",342,749,"duplicated parameter","archivedate=https://web.archive.org/web/20201029114254/http://moe-gameaward.com/prize/2009/result3.html"],["no-duplicate",342,853,"duplicated parameter","archivedate=2020-10-29"]]
+window.data=[["no-duplicate",342,749,"duplicated parameter","archivedate=https://web.archive.org/web/20201029114254/http://moe-gameaward.com/prize/2009/result3.h"],["no-duplicate",342,853,"duplicated parameter","archivedate=2020-10-29"]]

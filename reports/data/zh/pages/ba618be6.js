@@ -1,1 +1,1 @@
-window.data=[["no-ignored",13,14,"invalid content in <references>","[https://web.archive.org/web/20101220152924/http://www.nataliechoquette.ca/en/biographie_complete.php 娜塔莉·夏高官网的个人介绍]"]]
+window.data=[["no-ignored",13,14,"invalid content in <references>","[https://web.archive.org/web/20101220152924/http://www.nataliechoquette.ca/en/biographie_complete.ph"]]

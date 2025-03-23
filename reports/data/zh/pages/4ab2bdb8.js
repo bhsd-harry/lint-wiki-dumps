@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",22,49,"duplicated image caption parameter","1992年欧洲足球锦标赛预选赛"],["no-duplicate",22,65,"duplicated image caption parameter","{{Legend|#0000FF|成功晋级}} {{Legend|#ff8000|被逐出预选赛}} {{Legend|#ff0000|未能晋级}} {{Legend|#880015|参赛前退赛}} {{Legend|#000000|未能参赛}} {{Legend|#c3c3c3|非欧足联成员}}"]]
+window.data=[["no-duplicate",22,49,"duplicated image caption parameter","1992年欧洲足球锦标赛预选赛"],["no-duplicate",22,65,"duplicated image caption parameter","{{Legend|#0000FF|成功晋级}} {{Legend|#ff8000|被逐出预选赛}} {{Legend|#ff0000|未能晋级}} {{Legend|#880015|参赛前退赛}} {"]]

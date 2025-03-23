@@ -1,1 +1,1 @@
-window.data=[["fostered-content",49,1,"content to be moved out from the table"," * [[英语]]科[[夜校|第二部]]\n * [[西班牙语]]科[[夜校|第二部]]\n * [[汉语]]科[[夜校|第二部]]\n * [[德语]]科[[夜校|第二部]]\n * [[法语]]科[[夜校|第二部]]\n * [[俄语]]科[[夜校|第二部]]"]]
+window.data=[["fostered-content",49,1,"content to be moved out from the table"," * [[英语]]科[[夜校|第二部]]\n * [[西班牙语]]科[[夜校|第二部]]\n * [[汉语]]科[[夜校|第二部]]\n * [[德语]]科[[夜校|第二部]]\n * [[法语]]科[[夜校"]]

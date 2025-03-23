@@ -1,1 +1,1 @@
-window.data=[["unmatched-tag",254,2,"unmatched closing tag","</div>"],["fostered-content",254,1,"content to be moved out from the table"," </div>\n <div class=\"NavContent\"  align=\"left\">\n ===2009年===\n *8月20日 [[蘋果日報]] 《[http://hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20090"]]
+window.data=[["unmatched-tag",254,2,"unmatched closing tag","</div>"],["fostered-content",254,1,"content to be moved out from the table"," </div>\n <div class=\"NavContent\"  align=\"left\">\n ===2009年===\n *8月20日 [[蘋果日報]] 《[http://hk.apple.next"]]

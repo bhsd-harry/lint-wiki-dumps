@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",36,3,"duplicated parameter"," services = \n "],["no-duplicate",41,3,"duplicated parameter"," services      ={{Adjacent stations\n |system1=哥本哈根市郊铁路|line1=F|left1=富勒巴肯|right1=比斯珀比约\n |system2=Copenhagen Metro|line2=M3|left2=盾牌广场|right2=诺勒布罗广场}}\n"]]
+window.data=[["no-duplicate",36,3,"duplicated parameter"," services = \n "],["no-duplicate",41,3,"duplicated parameter"," services      ={{Adjacent stations\n |system1=哥本哈根市郊铁路|line1=F|left1=富勒巴肯|right1=比斯珀比约\n |system2=Cop"]]

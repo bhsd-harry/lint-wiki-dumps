@@ -1,1 +1,1 @@
-window.data=[["parsing-order",9,27,"extension tag in HTML tag attributes","<ref name=\"jawa61 p305\">{{cite book|last=Taylor|first=John W. R.|author-link=John W. R. Taylor|title=Jane's All The World's Aircraft 1961–62|year=1961"]]
+window.data=[["parsing-order",9,27,"extension tag in HTML tag attributes","<ref name=\"jawa61 p305\">{{cite book|last=Taylor|first=John W. R.|author-link=John W. R. Taylor|title"]]

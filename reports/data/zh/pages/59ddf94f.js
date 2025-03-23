@@ -1,1 +1,1 @@
-window.data=[["fostered-content",218,1,"content to be moved out from the table","\n == 另見 ==\n *{{tsl|en|Animal testing on invertebrates|無脊椎動物實驗}}\n *{{tsl|en|Animal testing on non-human primates|非人灵长类动物实验}}\n *{{tsl|en|Animal testing "],["unclosed-table",150,2,"unclosed table","{|"]]
+window.data=[["fostered-content",218,1,"content to be moved out from the table","\n == 另見 ==\n *{{tsl|en|Animal testing on invertebrates|無脊椎動物實驗}}\n *{{tsl|en|Animal testing on non-hum"],["unclosed-table",150,2,"unclosed table","{|"]]

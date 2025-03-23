@@ -1,1 +1,0 @@
-window.data=[["921大地動",150,68,"invalid image parameter","thumb"]]

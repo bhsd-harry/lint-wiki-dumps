@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",528,3,"duplicated parameter","goals2=[[Maëlle Lakrar|Lakrar]] {{goal|21}}<br>[[Kadidiatou Diani|Diani]] {{goal|28||37|pen.|52|pen.}}<br>[[Léa Le Garrec|Le Garrec]] {{goal|45+5}}<br"],["no-duplicate",529,3,"duplicated parameter","goals2=\n "]]
+window.data=[["no-duplicate",528,3,"duplicated parameter","goals2=[[Maëlle Lakrar|Lakrar]] {{goal|21}}<br>[[Kadidiatou Diani|Diani]] {{goal|28||37|pen.|52|pen."],["no-duplicate",529,3,"duplicated parameter","goals2=\n "]]

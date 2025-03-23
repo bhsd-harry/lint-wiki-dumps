@@ -1,1 +1,1 @@
-window.data=[["no-ignored",42,1,"invalid content in <gallery>"," <ref>This was scraped from a dry, concrete-paved section of a drainage ditch.&nbsp; This entire image covers a square that is approximately 1.7 milli"]]
+window.data=[["no-ignored",42,1,"invalid content in <gallery>"," <ref>This was scraped from a dry, concrete-paved section of a drainage ditch.&nbsp; This entire ima"]]

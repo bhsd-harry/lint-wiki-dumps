@@ -1,1 +1,1 @@
-window.data=[["parsing-order",9,20,"HTML tag in table attributes","<br />"],["parsing-order",24,37,"extension tag in HTML tag attributes","<ref name=\"crs-report\">{{cite web |url=https://fas.org/sgp/crs/weapons/R44463.pdf |format=PDF |title=Air Force B-21 Raider Long-Range Strike Bomber |l"]]
+window.data=[["parsing-order",9,20,"HTML tag in table attributes","<br />"],["parsing-order",24,37,"extension tag in HTML tag attributes","<ref name=\"crs-report\">{{cite web |url=https://fas.org/sgp/crs/weapons/R44463.pdf |format=PDF |title"]]

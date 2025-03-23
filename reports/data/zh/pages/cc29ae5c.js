@@ -1,1 +1,1 @@
-window.data=[["no-ignored",42,1,"invalid content in <gallery>"," *[http://www.youtube.com/watch?v=heYt4U-nj0Y 德黑蘭路视频] {{Wayback|url=http://www.youtube.com/watch?v=heYt4U-nj0Y |date=20210914082419 }}"]]
+window.data=[["no-ignored",42,1,"invalid content in <gallery>"," *[http://www.youtube.com/watch?v=heYt4U-nj0Y 德黑蘭路视频] {{Wayback|url=http://www.youtube.com/watch?v=h"]]

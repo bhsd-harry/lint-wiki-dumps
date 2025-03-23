@@ -1,1 +1,1 @@
-window.data=[["fostered-content",97,1,"content to be moved out from the table","\n == 參考資料 ==\n {{Reflist}}\n\n == 外部連結 ==\n *{{WTA|325601}}\n *{{ITF Profile|id=800380392}}\n\n {{Commonscat|Anastasia Potapova}}\n {{DEFAULTSORT:Potapova, An"],["unclosed-table",69,2,"unclosed table","{|"]]
+window.data=[["fostered-content",97,1,"content to be moved out from the table","\n == 參考資料 ==\n {{Reflist}}\n\n == 外部連結 ==\n *{{WTA|325601}}\n *{{ITF Profile|id=800380392}}\n\n {{Commonsca"],["unclosed-table",69,2,"unclosed table","{|"]]

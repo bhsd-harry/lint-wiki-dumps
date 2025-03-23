@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",21,3,"duplicated parameter","battles=[[第一次世界大战]]<br>[[第二次世界大战]]\n "],["no-duplicate",23,3,"duplicated parameter"," battles       = {{Tree list}}\n * [[第一次世界大戰]]\n * [[第二次世界大戰]]\n ** [[波蘭战役]]\n *** [[沃拉賽魯索瓦战役]]\n *** [[布楚拉战役]]\n *** [[華沙圍城戰 (1939)|華沙圍城戰]]\n ** [[法國战役]]\n *"]]
+window.data=[["no-duplicate",21,3,"duplicated parameter","battles=[[第一次世界大战]]<br>[[第二次世界大战]]\n "],["no-duplicate",23,3,"duplicated parameter"," battles       = {{Tree list}}\n * [[第一次世界大戰]]\n * [[第二次世界大戰]]\n ** [[波蘭战役]]\n *** [[沃拉賽魯索瓦战役]]\n *** [[布"]]

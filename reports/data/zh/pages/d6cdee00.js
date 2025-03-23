@@ -1,1 +1,1 @@
-window.data=[["fostered-content",346,1,"content to be moved out from the table","\n ==参考资料==\n {{reflist}}\n\n == 外部链接 ==\n {{commonscat|North China University of Science and Technology}}\n * [http://www.ncst.edu.cn/ 华北理工大学主页]{{Wayback|u"],["unclosed-table",266,2,"unclosed table","{|"]]
+window.data=[["fostered-content",346,1,"content to be moved out from the table","\n ==参考资料==\n {{reflist}}\n\n == 外部链接 ==\n {{commonscat|North China University of Science and Technology}"],["unclosed-table",266,2,"unclosed table","{|"]]

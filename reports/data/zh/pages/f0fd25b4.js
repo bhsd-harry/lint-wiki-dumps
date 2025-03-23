@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",30,3,"duplicated parameter"," successor      = \n "],["no-duplicate",49,3,"duplicated parameter"," successor = [[三菱Xforce]]（新興市場）<ref>{{cite news |last=Fagundes |first=Dyogo |date=2023-08-10 |title=Mitsubishi Xforce 2024 é herdeiro do ASX e chegará"]]
+window.data=[["no-duplicate",30,3,"duplicated parameter"," successor      = \n "],["no-duplicate",49,3,"duplicated parameter"," successor = [[三菱Xforce]]（新興市場）<ref>{{cite news |last=Fagundes |first=Dyogo |date=2023-08-10 |title="]]

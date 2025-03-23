@@ -1,1 +1,1 @@
-window.data=[["no-ignored",20,1,"invalid content in <gallery>"," [https://web.archive.org/web/20180401144934/http://xlkezhan.com/wizard/uploads2/dZObViUZ6OfJjn5ASx9xOBCvGy8Rgh.png | 文峰塔全貌大观]"]]
+window.data=[["no-ignored",20,1,"invalid content in <gallery>"," [https://web.archive.org/web/20180401144934/http://xlkezhan.com/wizard/uploads2/dZObViUZ6OfJjn5ASx9"]]

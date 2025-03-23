@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",9,3,"duplicated parameter"," image = \n "],["no-duplicate",10,3,"duplicated parameter","image ={{image array|perrow=5|width=60|height=75\n | image1 =VuaDinhTienHoang.jpg| caption1 = [[丁部领]]\n | image2  =Le Dai Hanh.jpg|caption2 = [[黎桓]]\n | "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," image = \n "],["no-duplicate",10,3,"duplicated parameter","image ={{image array|perrow=5|width=60|height=75\n | image1 =VuaDinhTienHoang.jpg| caption1 = [[丁部领]]"]]

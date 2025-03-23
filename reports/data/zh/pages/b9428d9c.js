@@ -1,1 +1,1 @@
-window.data=[["parsing-order",11,32,"extension tag in HTML tag attributes","<ref>http://defense-update.com/features/2009/december/hermes900_first_flight_091209.html {{Wayback|url=http://defense-update.com/features/2009/decembe"]]
+window.data=[["parsing-order",11,32,"extension tag in HTML tag attributes","<ref>http://defense-update.com/features/2009/december/hermes900_first_flight_091209.html {{Wayback|u"]]

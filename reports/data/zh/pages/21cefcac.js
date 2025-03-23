@@ -1,1 +1,1 @@
-window.data=[["fostered-content",48,1,"content to be moved out from the table"," * 第一护理学科\n * 第二护理学科"],["fostered-content",63,1,"content to be moved out from the table"," * [[高級中學#日本|高等学校]]：前蓝野学院短期大学附属蓝野[[高級中學#日本|高等学校]]成立于2007年、改名为蓝野[[高級中學#日本|高等学校]]于2012年<ref name=\"短期大学的历史\"/>。"]]
+window.data=[["fostered-content",48,1,"content to be moved out from the table"," * 第一护理学科\n * 第二护理学科"],["fostered-content",63,1,"content to be moved out from the table"," * [[高級中學#日本|高等学校]]：前蓝野学院短期大学附属蓝野[[高級中學#日本|高等学校]]成立于2007年、改名为蓝野[[高級中學#日本|高等学校]]于2012年<ref name=\"短期大学"]]

@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",17,3,"duplicated parameter"," native place = [[浙江]][[寧波]]\n "],["no-duplicate",18,3,"duplicated parameter"," native place = [[浙江]][[寧波]]<ref name=\"cae\">{{Cite web|url=http://www.cae.cn/cae/html/main/colys/68565990.html|title=沈祖尧院士百科|publisher=[[中國工程院]]|langu"]]
+window.data=[["no-duplicate",17,3,"duplicated parameter"," native place = [[浙江]][[寧波]]\n "],["no-duplicate",18,3,"duplicated parameter"," native place = [[浙江]][[寧波]]<ref name=\"cae\">{{Cite web|url=http://www.cae.cn/cae/html/main/colys/685"]]

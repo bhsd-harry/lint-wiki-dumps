@@ -1,1 +1,1 @@
-window.data=[["fostered-content",1823,1,"content to be moved out from the table","\n == 獎項 ==\n *第二十一屆人權新聞獎－中文廣播傳媒大獎：《刀鋒上的公義》<ref>[https://www.facebook.com/ViuTV.hk/photos/a.1565829617005787.1073741828.1555649141357168/181167172908824"],["unclosed-table",83,2,"unclosed table","{|"]]
+window.data=[["fostered-content",1823,1,"content to be moved out from the table","\n == 獎項 ==\n *第二十一屆人權新聞獎－中文廣播傳媒大獎：《刀鋒上的公義》<ref>[https://www.facebook.com/ViuTV.hk/photos/a.1565829617"],["unclosed-table",83,2,"unclosed table","{|"]]

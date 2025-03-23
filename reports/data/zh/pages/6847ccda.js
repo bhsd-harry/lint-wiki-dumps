@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",24,44,"duplicated image caption parameter","px240"],["no-duplicate",24,50,"duplicated image caption parameter","1320年的德意志三大家族領土：紫色──'''[[盧森堡王朝]]的波希米亞國王約翰'''（[[波希米亞王國]]兼盧森堡伯國，1327年又將併吞波蘭的[[西里西亞]]）；淡綠色──神羅皇帝[[路易四世 (神圣罗马帝国)|路易四世]]與其[[维特尔斯巴赫家族]]的[[巴伐利亞]]等領地（1302-132"]]
+window.data=[["no-duplicate",24,44,"duplicated image caption parameter","px240"],["no-duplicate",24,50,"duplicated image caption parameter","1320年的德意志三大家族領土：紫色──'''[[盧森堡王朝]]的波希米亞國王約翰'''（[[波希米亞王國]]兼盧森堡伯國，1327年又將併吞波蘭的[[西里西亞]]）；淡綠色──神羅皇帝[[路易四世 "]]

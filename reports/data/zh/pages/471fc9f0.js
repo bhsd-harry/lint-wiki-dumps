@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",18,3,"duplicated parameter"," depth = \n "],["no-duplicate",23,3,"duplicated parameter"," depth              = {{convert|1615|m|ft}}<ref name=\"gulfbase\">{{cite web |url=http://www.gulfbase.org/facts.php |title=General Facts about the Gulf "]]
+window.data=[["no-duplicate",18,3,"duplicated parameter"," depth = \n "],["no-duplicate",23,3,"duplicated parameter"," depth              = {{convert|1615|m|ft}}<ref name=\"gulfbase\">{{cite web |url=http://www.gulfbase."]]

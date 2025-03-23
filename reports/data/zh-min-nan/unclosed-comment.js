@@ -1,1 +1,0 @@
-window.data=[["Rengel (Tuban)",28,9,"unclosed HTML comment","<!-- Koān}}\n\n [[Lūi-pia̍t:Rengel (Tuban)| ]]\n [[Lūi-pia̍t:Tang Jawa ê hiong]]\n [[Category:Tuban<!-- Koān ê hiong]]"]]

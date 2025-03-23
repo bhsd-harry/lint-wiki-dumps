@@ -1,1 +1,1 @@
-window.data=[["fostered-content",38,1,"content to be moved out from the table"," * {{fb|ALG}}\n * {{fb|ANG}}\n * {{fb|BFA}} <small>(主辦國)</small>\n * {{fb|CMR}}\n * {{fb|COD|1997}}\n * {{fb|CIV}}\n * {{fb|EGY}}\n * {{fb|GHA}}"]]
+window.data=[["fostered-content",38,1,"content to be moved out from the table"," * {{fb|ALG}}\n * {{fb|ANG}}\n * {{fb|BFA}} <small>(主辦國)</small>\n * {{fb|CMR}}\n * {{fb|COD|1997}}\n * {"]]

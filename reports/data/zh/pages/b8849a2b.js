@@ -1,1 +1,1 @@
-window.data=[["fostered-content",964,1,"content to be moved out from the table","\n\n *光绪版《潮阳县志》记载姚锦川为雍正十一年登科，可在《明清进士题名碑录索引》一书却出现在乾隆元年登科，县志应有误，此处改正过来。另潮阳县学海阳人[[徐上]]，潮陽縣學惠來人[[陳思齊]]不列入榜单。\n\n == 注释 ==\n\n {{Reflist|2}}\n\n ==参考资料==\n *{{cite "],["unclosed-table",963,2,"unclosed table","{|"]]
+window.data=[["fostered-content",964,1,"content to be moved out from the table","\n\n *光绪版《潮阳县志》记载姚锦川为雍正十一年登科，可在《明清进士题名碑录索引》一书却出现在乾隆元年登科，县志应有误，此处改正过来。另潮阳县学海阳人[[徐上]]，潮陽縣學惠來人[[陳思齊]]不列入榜"],["unclosed-table",963,2,"unclosed table","{|"]]

@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",10,45,"duplicated image caption parameter","lift"],["no-duplicate",10,56,"duplicated image caption parameter","[[新月柄杆菌]]的细胞骨架元件：原核细胞骨架元件与其真核生物中的同功物质的对比<ref name=\"Gitai2005\">{{cite journal| author = Gitai, Z.| year = 2005| title = The New Bacterial Cell Biology:"]]
+window.data=[["no-duplicate",10,45,"duplicated image caption parameter","lift"],["no-duplicate",10,56,"duplicated image caption parameter","[[新月柄杆菌]]的细胞骨架元件：原核细胞骨架元件与其真核生物中的同功物质的对比<ref name=\"Gitai2005\">{{cite journal| author = Gitai, Z.| ye"]]

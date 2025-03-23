@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",7,3,"duplicated parameter"," image =\n "],["no-duplicate",8,3,"duplicated parameter","image ={{image array|perrow=5|width=60|height=70\n | image1 =JosephPulitzerPinceNeznpsgov.jpg| caption1 = [[约瑟夫·普利策]]\n | image2  =Charles simonyi2.jpg|"]]
+window.data=[["no-duplicate",7,3,"duplicated parameter"," image =\n "],["no-duplicate",8,3,"duplicated parameter","image ={{image array|perrow=5|width=60|height=70\n | image1 =JosephPulitzerPinceNeznpsgov.jpg| captio"]]

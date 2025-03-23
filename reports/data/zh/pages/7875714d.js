@@ -1,1 +1,1 @@
-window.data=[["fostered-content",5,1,"content to be moved out from the table","\n ==參考文獻==\n {{reflist|2}}\n {{清朝人物小作品}}\n {{光緒二十年甲午恩科殿試金榜}}\n\n [[Category:陈姓]]\n [[Category:光緒十九年癸巳恩科四川鄉試舉人]]\n {{Authority control}}"],["unclosed-table",4,2,"unclosed table","{|"]]
+window.data=[["fostered-content",5,1,"content to be moved out from the table","\n ==參考文獻==\n {{reflist|2}}\n {{清朝人物小作品}}\n {{光緒二十年甲午恩科殿試金榜}}\n\n [[Category:陈姓]]\n [[Category:光緒十九年癸巳恩科四川鄉"],["unclosed-table",4,2,"unclosed table","{|"]]

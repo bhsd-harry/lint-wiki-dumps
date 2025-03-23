@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",1,611,"duplicated parameter","url=15政府高官大執位 廣播處長李百全7.1升任保安局常秘 "],["no-duplicate",1,646,"duplicated parameter","url=https://hk.news.yahoo.com/15%E6%94%BF%E5%BA%9C%E9%AB%98%E5%AE%98%E5%A4%A7%E5%9F%B7%E4%BD%8D-%E5%BB%A3%E6%92%AD%E8%99%95%E9%95%B7%E6%9D%8E%E7%99%BE"]]
+window.data=[["no-duplicate",1,611,"duplicated parameter","url=15政府高官大執位 廣播處長李百全7.1升任保安局常秘 "],["no-duplicate",1,646,"duplicated parameter","url=https://hk.news.yahoo.com/15%E6%94%BF%E5%BA%9C%E9%AB%98%E5%AE%98%E5%A4%A7%E5%9F%B7%E4%BD%8D-%E5%"]]

@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",45,312,"duplicated parameter","archivedate=https://web.archive.org/web/20020616143720/http://www.comunidadandina.org/ingles/common/mercosur2.htm"],["no-duplicate",45,442,"duplicated parameter","archivedate=2002-06-16"]]
+window.data=[["no-duplicate",45,312,"duplicated parameter","archivedate=https://web.archive.org/web/20020616143720/http://www.comunidadandina.org/ingles/common/"],["no-duplicate",45,442,"duplicated parameter","archivedate=2002-06-16"]]

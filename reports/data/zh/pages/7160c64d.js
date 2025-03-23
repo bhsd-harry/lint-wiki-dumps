@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",12,44,"duplicated image caption parameter","The Parisian Macao"],["no-duplicate",12,63,"duplicated image caption parameter","自2022年6月25日起，該酒店在[[2022年澳門2019冠狀病毒病聚集性疫情|2022年6月澳門大規模疫情]]期間被政府徵用列作收治核心密切接觸者的[[2019冠狀病毒病澳門疫情相關安排之隔離措施|指定醫學觀察酒店]]"]]
+window.data=[["no-duplicate",12,44,"duplicated image caption parameter","The Parisian Macao"],["no-duplicate",12,63,"duplicated image caption parameter","自2022年6月25日起，該酒店在[[2022年澳門2019冠狀病毒病聚集性疫情|2022年6月澳門大規模疫情]]期間被政府徵用列作收治核心密切接觸者的[[2019冠狀病毒病澳門疫情相關安排之隔離措施"]]

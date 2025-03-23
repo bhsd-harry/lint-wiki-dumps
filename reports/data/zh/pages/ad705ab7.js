@@ -1,1 +1,1 @@
-window.data=[["fostered-content",45,1,"content to be moved out from the table"," * 保育科\n * 社会福利科"],["fostered-content",60,1,"content to be moved out from the table"," * 附属幼儿园：成立于1978年<ref name=\"全国短期大学高等専门学校一覧1987\">请参看1987年度『{{tsl|ja|全国短期大学高等専門学校一覧|}}』23页「{{lang|ja|福岡県社会保育短期大学}}」的项目{{ja}}</ref>"]]
+window.data=[["fostered-content",45,1,"content to be moved out from the table"," * 保育科\n * 社会福利科"],["fostered-content",60,1,"content to be moved out from the table"," * 附属幼儿园：成立于1978年<ref name=\"全国短期大学高等専门学校一覧1987\">请参看1987年度『{{tsl|ja|全国短期大学高等専門学校一覧|}}』23页「{{lang|ja|福"]]

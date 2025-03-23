@@ -1,1 +1,1 @@
-window.data=[["fostered-content",76,1,"content to be moved out from the table","\n == 参考資料 ==\n {{reflist}}\n\n == 外部链接 ==\n *[https://web.archive.org/web/20130120203656/http://www.zhgjjt.com/bus.php 珠海公交集团巴士公司]\n *[https://web.archive."],["unclosed-table",53,2,"unclosed table","{|"]]
+window.data=[["fostered-content",76,1,"content to be moved out from the table","\n == 参考資料 ==\n {{reflist}}\n\n == 外部链接 ==\n *[https://web.archive.org/web/20130120203656/http://www.zhgj"],["unclosed-table",53,2,"unclosed table","{|"]]

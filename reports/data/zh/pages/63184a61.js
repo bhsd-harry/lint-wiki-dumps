@@ -1,1 +1,1 @@
-window.data=[["no-ignored",36,1,"invalid content in <gallery>"," [[File:Rhone Glacier 1950|thumbnail|1950]]<ref>Lamb, H.H.; Climate, History, and the Modern World; 1982</ref>"]]
+window.data=[["no-ignored",36,1,"invalid content in <gallery>"," [[File:Rhone Glacier 1950|thumbnail|1950]]<ref>Lamb, H.H.; Climate, History, and the Modern World; "]]

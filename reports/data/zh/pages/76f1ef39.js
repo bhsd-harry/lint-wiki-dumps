@@ -1,1 +1,1 @@
-window.data=[["parsing-order",7,36,"HTML tag in table attributes","<br>"],["parsing-order",17,26,"extension tag in HTML tag attributes","<ref name=JHMS_Bell_212>[https://janes.ihs.com/CustomPages/Janes/DisplayPage.aspx?DocType=Reference&ItemId=+++1311944&Pubabbrev=JHMS  \"Bell 212\"] (sub"]]
+window.data=[["parsing-order",7,36,"HTML tag in table attributes","<br>"],["parsing-order",17,26,"extension tag in HTML tag attributes","<ref name=JHMS_Bell_212>[https://janes.ihs.com/CustomPages/Janes/DisplayPage.aspx?DocType=Reference&"]]

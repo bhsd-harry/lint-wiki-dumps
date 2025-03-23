@@ -1,1 +1,1 @@
-window.data=[["parsing-order",20,28,"extension tag in HTML tag attributes","<ref name=\"AirPowerWorld\">{{cite web |url=http://www.airpowerworld.info/bombers/caproni-ca-3-bomber.htm |title=Caproni Ca.3 Bomber Plane |work=Air Pow"]]
+window.data=[["parsing-order",20,28,"extension tag in HTML tag attributes","<ref name=\"AirPowerWorld\">{{cite web |url=http://www.airpowerworld.info/bombers/caproni-ca-3-bomber."]]

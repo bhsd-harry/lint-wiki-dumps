@@ -1,1 +1,1 @@
-window.data=[["fostered-content",43,1,"content to be moved out from the table"," * 保育科"],["fostered-content",65,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]:驹泽幼儿园<ref name=\"第一幼儿园\">[http://www.komajo.ac.jp/kin/ 驹泽女子短期大学附属驹泽幼儿园] {{Wayback|url=http://www.komajo.ac.jp/kin/ |date=20200927092011 }"]]
+window.data=[["fostered-content",43,1,"content to be moved out from the table"," * 保育科"],["fostered-content",65,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]:驹泽幼儿园<ref name=\"第一幼儿园\">[http://www.komajo.ac.jp/kin/ 驹泽女子短期大学附属驹泽幼儿园] {{Wayback|url=h"]]

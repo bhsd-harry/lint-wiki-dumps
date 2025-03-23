@@ -1,1 +1,1 @@
-window.data=[["fostered-content",48,1,"content to be moved out from the table"," * 幼儿教育科"],["fostered-content",68,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]<ref name=\"幼儿园\">[http://kdk.tsuzuki-edu.ac.jp/ 第一幼儿教育短期大学附属鹿儿岛第一幼儿园] {{Wayback|url=http://kdk.tsuzuki-edu.ac.jp/ |date=20140810050226 }}"]]
+window.data=[["fostered-content",48,1,"content to be moved out from the table"," * 幼儿教育科"],["fostered-content",68,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]<ref name=\"幼儿园\">[http://kdk.tsuzuki-edu.ac.jp/ 第一幼儿教育短期大学附属鹿儿岛第一幼儿园] {{Wayback|url=htt"]]

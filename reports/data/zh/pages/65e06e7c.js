@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",12,3,"duplicated parameter","暱稱= \n "],["no-duplicate",37,3,"duplicated parameter","暱稱=みゃーり<ref>{{Cite web|url=https://cho-animedia.jp/article/2023/05/23/40996.html|title=\n 「アリス・ギア・アイギス Expansion」高幡のどか役・根本京里「正気を失ってオタク心をさらけ出すことを大切に」|wo"]]
+window.data=[["no-duplicate",12,3,"duplicated parameter","暱稱= \n "],["no-duplicate",37,3,"duplicated parameter","暱稱=みゃーり<ref>{{Cite web|url=https://cho-animedia.jp/article/2023/05/23/40996.html|title=\n 「アリス・ギア・アイギ"]]

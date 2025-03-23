@@ -1,1 +1,1 @@
-window.data=[["fostered-content",51,1,"content to be moved out from the table"," * 初等教育科"],["fostered-content",74,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]<ref name=\"幼儿园\">[http://kg.chibakeiai.ac.jp/index.html 千叶敬爱短期大学附属幼儿园] {{Wayback|url=http://kg.chibakeiai.ac.jp/index.html |date=20140606"]]
+window.data=[["fostered-content",51,1,"content to be moved out from the table"," * 初等教育科"],["fostered-content",74,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]<ref name=\"幼儿园\">[http://kg.chibakeiai.ac.jp/index.html 千叶敬爱短期大学附属幼儿园] {{Wayback|url=ht"]]

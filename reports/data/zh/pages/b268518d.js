@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",11,3,"duplicated parameter"," vehicles = \n "],["no-duplicate",13,3,"duplicated parameter","vehicles=YouBike1.0：21314輛<br>（於2024年08月07日停止使用）<br>YouBike2.0：21400輛<br>（載至2024年09月13日）<br>YouBike2.0E：2100輛<br>（載至2025年03月01日）\n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter"," vehicles = \n "],["no-duplicate",13,3,"duplicated parameter","vehicles=YouBike1.0：21314輛<br>（於2024年08月07日停止使用）<br>YouBike2.0：21400輛<br>（載至2024年09月13日）<br>YouBike2"]]

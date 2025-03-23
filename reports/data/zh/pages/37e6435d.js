@@ -1,1 +1,1 @@
-window.data=[["fostered-content",9,1,"content to be moved out from the table"," *[http://www.juzitv.com/mainland/feihushenying/ 飞虎神鹰]{{dead link|date=2018年5月 |bot=InternetArchiveBot |fix-attempted=yes }}"]]
+window.data=[["fostered-content",9,1,"content to be moved out from the table"," *[http://www.juzitv.com/mainland/feihushenying/ 飞虎神鹰]{{dead link|date=2018年5月 |bot=InternetArchiveB"]]

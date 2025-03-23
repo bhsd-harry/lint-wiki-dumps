@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",22,49,"duplicated parameter"," \n "],["no-duplicate",24,3,"duplicated parameter"," 1 = {{clade\n   | 1 = {{clade\n     | 1 = {{clade\n       | 1 = &nbsp;''[[Panthera leo]]'' - Sai\n       | 2 = &nbsp;''[[Panthera pardus]]'' - Hoe-pà\n   "]]
+window.data=[["no-duplicate",22,49,"duplicated parameter"," \n "],["no-duplicate",24,3,"duplicated parameter"," 1 = {{clade\n   | 1 = {{clade\n     | 1 = {{clade\n       | 1 = &nbsp;''[[Panthera leo]]'' - Sai\n     "]]

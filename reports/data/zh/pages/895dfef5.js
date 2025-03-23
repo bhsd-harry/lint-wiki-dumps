@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",1,38,"duplicated image caption parameter","Silka Seaview Hotel"],["no-duplicate",1,58,"duplicated image caption parameter","經調查後認為油麻地香港海景絲麗酒店作為檢疫酒店期間，因為[[嚴重急性呼吸道症候群冠狀病毒2型Omicron變異株|Omicron變異病毒株BA.2亞型]]在酒店內傳播，有接受強制隔離檢疫的入住者受到感染，導致香港第五波疫情大爆發"]]
+window.data=[["no-duplicate",1,38,"duplicated image caption parameter","Silka Seaview Hotel"],["no-duplicate",1,58,"duplicated image caption parameter","經調查後認為油麻地香港海景絲麗酒店作為檢疫酒店期間，因為[[嚴重急性呼吸道症候群冠狀病毒2型Omicron變異株|Omicron變異病毒株BA.2亞型]]在酒店內傳播，有接受強制隔離檢疫的入住者受到感"]]

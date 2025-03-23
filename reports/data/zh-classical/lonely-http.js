@@ -1,1 +1,0 @@
-window.data=[["法輪功",10,755,"lonely \"ISBN\"","isbn"],["甲骨蟾",41,168,"lonely \"ISBN\"","ISBN"],["鈞窯",3,102,"lonely \"ISBN\"","ISBN"],["黃庭堅",33,60,"lonely \"ISBN\"","ISBN"]]

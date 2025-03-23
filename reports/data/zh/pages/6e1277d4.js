@@ -1,1 +1,1 @@
-window.data=[["fostered-content",376,1,"content to be moved out from the table"," <center><!-- 注释：[[File:Shakhtar.newlogo.png|75px|FC Shakhtar Donetsk logo]] --><br />'''[[頓涅茨克礦工足球俱樂部|顿涅茨克矿工]]'''</center>"]]
+window.data=[["fostered-content",376,1,"content to be moved out from the table"," <center><!-- 注释：[[File:Shakhtar.newlogo.png|75px|FC Shakhtar Donetsk logo]] --><br />'''[[頓涅茨克礦工足球俱"]]

@@ -1,1 +1,1 @@
-window.data=[["fostered-content",67,1,"content to be moved out from the table"," *[[潘家峪惨案日军指挥部旧址]]\n *[[白各庄遗址]]\n *[[古石城遗址]]\n *[[韩家街遗址]]\n *[[土垠城址]]\n *[[玉煌塔]]\n *[[冀东二十五县烈士陵园]]\n *[[张佩纶墓]]\n *[[张人骏墓]]"]]
+window.data=[["fostered-content",67,1,"content to be moved out from the table"," *[[潘家峪惨案日军指挥部旧址]]\n *[[白各庄遗址]]\n *[[古石城遗址]]\n *[[韩家街遗址]]\n *[[土垠城址]]\n *[[玉煌塔]]\n *[[冀东二十五县烈士陵园]]\n *[[张佩纶"]]

@@ -1,1 +1,1 @@
-window.data=[["unclosed-comment",148,2,"unclosed HTML comment","<!--\n 因該獎項為2019年設立，還看不太出來誰獲獎最多，所以先暫時刪除，等獎項經過10屆之後再恢復此紀錄。\n {| class=\"wikitable\"  style=\"text-align: center\"  width=60%\n |-\n !width=20%|'''統計'''\n !width"]]
+window.data=[["unclosed-comment",148,2,"unclosed HTML comment","<!--\n 因該獎項為2019年設立，還看不太出來誰獲獎最多，所以先暫時刪除，等獎項經過10屆之後再恢復此紀錄。\n {| class=\"wikitable\"  style=\"text-align: c"]]

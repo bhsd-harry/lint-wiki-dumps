@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",14,3,"duplicated parameter"," 配偶 =  \n "],["no-duplicate",26,3,"duplicated parameter"," 配偶 = {{marriage|楊四維|1976}}<ref>{{cite news | title=招振強莊文清今日結婚| url= | pages=4  | publisher=華僑日報 | date=1976-05-18| access-date=2020-01-23|quote= }}</"]]
+window.data=[["no-duplicate",14,3,"duplicated parameter"," 配偶 =  \n "],["no-duplicate",26,3,"duplicated parameter"," 配偶 = {{marriage|楊四維|1976}}<ref>{{cite news | title=招振強莊文清今日結婚| url= | pages=4  | publisher=華僑日報 | d"]]

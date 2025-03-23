@@ -1,1 +1,1 @@
-window.data=[["fostered-content",49,1,"content to be moved out from the table"," * 日本文化传播学科<ref group=\"注\"  name=\"日本文化传播学科\"/>\n * 国际传播学科<ref group=\"注\"  name=\"国际传播学科\"/>\n * 信息[[传播媒体|媒体]]学科<ref group=\"注\"  name=\"信息媒体学科\"/>"]]
+window.data=[["fostered-content",49,1,"content to be moved out from the table"," * 日本文化传播学科<ref group=\"注\"  name=\"日本文化传播学科\"/>\n * 国际传播学科<ref group=\"注\"  name=\"国际传播学科\"/>\n * 信息[[传播媒体|媒体"]]

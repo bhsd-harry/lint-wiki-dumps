@@ -1,1 +1,1 @@
-window.data=[["fostered-content",63,1,"content to be moved out from the table"," ;對戰結果<ref>{{cite web|url=https://cbbd.tournamentsoftware.com/sport/tournament/draw?id=B6A0DD52-F47F-4A81-9F22-D8ACB4EF9F44&draw=37|title=Deaflympics "]]
+window.data=[["fostered-content",63,1,"content to be moved out from the table"," ;對戰結果<ref>{{cite web|url=https://cbbd.tournamentsoftware.com/sport/tournament/draw?id=B6A0DD52-F47F"]]

@@ -1,1 +1,1 @@
-window.data=[["parsing-order",16,22,"extension tag in HTML tag attributes","<ref>[http://uboat.net/technical/ju290.htm Junkers Ju 290 and Ju 390] {{Wayback|url=http://uboat.net/technical/ju290.htm |date=20101215210331 }} by Em"],["lonely-apos",27,301,"lonely \"'\"","'"],["lonely-apos",27,327,"lonely \"'\"","'"]]
+window.data=[["parsing-order",16,22,"extension tag in HTML tag attributes","<ref>[http://uboat.net/technical/ju290.htm Junkers Ju 290 and Ju 390] {{Wayback|url=http://uboat.net"],["lonely-apos",27,301,"lonely \"'\"","'"],["lonely-apos",27,327,"lonely \"'\"","'"]]

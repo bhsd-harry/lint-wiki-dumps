@@ -1,1 +1,1 @@
-window.data=[["no-ignored",355,1,"invalid content in <gallery>"," [[File:Flag_of_the_Republic_of_China_(3).JPG|thumb]][[File:Flag_of_the_Republic_of_China.svg|thumb]]"],["no-ignored",357,1,"invalid content in <gallery>"," {{flagicon|USA}} [[纽约]][[世界貿易中心一號大樓|世界贸易中心一号大楼]]<br/>541米，94層"]]
+window.data=[["no-ignored",355,1,"invalid content in <gallery>"," [[File:Flag_of_the_Republic_of_China_(3).JPG|thumb]][[File:Flag_of_the_Republic_of_China.svg|thumb]"],["no-ignored",357,1,"invalid content in <gallery>"," {{flagicon|USA}} [[纽约]][[世界貿易中心一號大樓|世界贸易中心一号大楼]]<br/>541米，94層"]]

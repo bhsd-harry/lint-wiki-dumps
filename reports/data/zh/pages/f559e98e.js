@@ -1,1 +1,1 @@
-window.data=[["fostered-content",168,1,"content to be moved out from the table","\n ==参考资料==\n {{reflist}}\n\n ==外部链接==\n *{{IMDb name|0878763}}\n\n {{莫腾·泰杜姆}}\n {{Authority control}}\n {{DEFAULTSORT:Tyldum, Morten}}\n [[Category:挪威电影导演]]\n ["],["unclosed-table",167,2,"unclosed table","{|"]]
+window.data=[["fostered-content",168,1,"content to be moved out from the table","\n ==参考资料==\n {{reflist}}\n\n ==外部链接==\n *{{IMDb name|0878763}}\n\n {{莫腾·泰杜姆}}\n {{Authority control}}\n {{DE"],["unclosed-table",167,2,"unclosed table","{|"]]

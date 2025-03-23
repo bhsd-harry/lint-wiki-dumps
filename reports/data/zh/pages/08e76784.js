@@ -1,1 +1,1 @@
-window.data=[["fostered-content",54,1,"content to be moved out from the table"," * [[食物]][[营养学|营养]]学科\n ** 第一部\n ** <del>[[夜校|第二部]]</del><ref group=\"注\"  name=\"第二部\">招生到1999年。停办于2001年</ref>"]]
+window.data=[["fostered-content",54,1,"content to be moved out from the table"," * [[食物]][[营养学|营养]]学科\n ** 第一部\n ** <del>[[夜校|第二部]]</del><ref group=\"注\"  name=\"第二部\">招生到1999年。停办于2001年<"]]

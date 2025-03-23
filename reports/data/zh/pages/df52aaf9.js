@@ -1,1 +1,1 @@
-window.data=[["parsing-order",76,15,"extension tag in HTML tag attributes","<ref>{{cite web |title=《爱情应该有的样子》上海开机，王柏安实力演绎独立女性“升级”之路 |url=http://ent.qianlong.com/2021/0628/5966104.shtml |website=千龙网 |date=2021-06-28 |access-dat"]]
+window.data=[["parsing-order",76,15,"extension tag in HTML tag attributes","<ref>{{cite web |title=《爱情应该有的样子》上海开机，王柏安实力演绎独立女性“升级”之路 |url=http://ent.qianlong.com/2021/0628/59661"]]

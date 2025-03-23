@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",13,3,"duplicated parameter"," house = \n "],["no-duplicate",16,3,"duplicated parameter"," house = [[楓]]（黃）、[[松]]（橙）、<br>[[柏]]（紫）、[[白楊]]（淺藍）<ref>辦學初年曾設[[榕]]（綠）及[[棉|紅棉]]（紅）共六社，但兩社已於1999年9月1號取消，所有社員歸入其餘四社。</ref>\n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter"," house = \n "],["no-duplicate",16,3,"duplicated parameter"," house = [[楓]]（黃）、[[松]]（橙）、<br>[[柏]]（紫）、[[白楊]]（淺藍）<ref>辦學初年曾設[[榕]]（綠）及[[棉|紅棉]]（紅）共六社，但兩社已於1999年9月1號取"]]

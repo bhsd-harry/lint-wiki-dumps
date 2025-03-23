@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",41,3,"duplicated parameter"," casualties3       = \n "],["no-duplicate",44,3,"duplicated parameter"," casualties3       = 9人受傷<ref>https://www.lisanews.org/actualidad/como-ha-sido-el-intento-de-golpe-de-estado-de-bolivia/ {{Wayback|url=https://www.lis"]]
+window.data=[["no-duplicate",41,3,"duplicated parameter"," casualties3       = \n "],["no-duplicate",44,3,"duplicated parameter"," casualties3       = 9人受傷<ref>https://www.lisanews.org/actualidad/como-ha-sido-el-intento-de-golpe-d"]]

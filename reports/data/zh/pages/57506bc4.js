@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",103,3,"duplicated parameter"," embedded            = \n "],["no-duplicate",106,3,"duplicated parameter"," embedded = \n {{Infobox designation list\n | embed = yes\n | designation1_offname = \n | designation1 = 北京市历史建筑\n | designation1_date = 2019年11月25日<ref>{{"]]
+window.data=[["no-duplicate",103,3,"duplicated parameter"," embedded            = \n "],["no-duplicate",106,3,"duplicated parameter"," embedded = \n {{Infobox designation list\n | embed = yes\n | designation1_offname = \n | designation1 ="]]

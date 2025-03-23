@@ -1,1 +1,1 @@
-window.data=[["fostered-content",11,1,"content to be moved out from the table"," *{{ARG}} \n *{{AUS}} \n *{{AUT}} \n *{{AZE}}<ref>{{cite web |title=List of Azerbaijani Embassies |url=https://mfa.gov.az/files/Protocol/MXM_MFA_Catalogu"],["unclosed-table",124,2,"unclosed table","{|"]]
+window.data=[["fostered-content",11,1,"content to be moved out from the table"," *{{ARG}} \n *{{AUS}} \n *{{AUT}} \n *{{AZE}}<ref>{{cite web |title=List of Azerbaijani Embassies |url="],["unclosed-table",124,2,"unclosed table","{|"]]

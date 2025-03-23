@@ -1,1 +1,1 @@
-window.data=[["fostered-content",462,1,"content to be moved out from the table","\n ==参考文献==\n {{reflist}}\n\n ==外部链接==\n *{{IMDb name|1458998}}\n *{{douban people|1379858}}\n *{{facebook|jinyinjiSG}}\n *{{Instagram|jin.yinji}}\n\n {{authori"],["unclosed-table",375,2,"unclosed table","{|"]]
+window.data=[["fostered-content",462,1,"content to be moved out from the table","\n ==参考文献==\n {{reflist}}\n\n ==外部链接==\n *{{IMDb name|1458998}}\n *{{douban people|1379858}}\n *{{facebook|"],["unclosed-table",375,2,"unclosed table","{|"]]

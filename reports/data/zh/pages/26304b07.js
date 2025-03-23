@@ -1,1 +1,1 @@
-window.data=[["fostered-content",86,1,"content to be moved out from the table","\n ==參考資料==\n [https://web.archive.org/web/20070807190556/http://en.wikipedia.org/wiki/MLB_players_who_have_hit_30_or_more_home_runs_before_the_All-Star"]]
+window.data=[["fostered-content",86,1,"content to be moved out from the table","\n ==參考資料==\n [https://web.archive.org/web/20070807190556/http://en.wikipedia.org/wiki/MLB_players_who"]]

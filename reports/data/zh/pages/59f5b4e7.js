@@ -1,1 +1,1 @@
-window.data=[["fostered-content",83,1,"content to be moved out from the table"," ;三号街纺织厂（站位位于三号街，开发大路南侧，C出入口西南约500米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|167|317|V136}}\n {{col-end}}"]]
+window.data=[["fostered-content",83,1,"content to be moved out from the table"," ;三号街纺织厂（站位位于三号街，开发大路南侧，C出入口西南约500米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|167|317|V136}}\n {{col-en"]]

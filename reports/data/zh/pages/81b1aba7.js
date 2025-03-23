@@ -1,1 +1,1 @@
-window.data=[["parsing-order",2,14,"HTML tag in table attributes","<br>"],["parsing-order",15,40,"extension tag in HTML tag attributes","<ref>{{cite news |url= http://aviationweek.com/site-files/aviationweek.com/files/uploads/2015/05/Business%20Airplane%20Tables_May_2015_revised.pdf |ti"]]
+window.data=[["parsing-order",2,14,"HTML tag in table attributes","<br>"],["parsing-order",15,40,"extension tag in HTML tag attributes","<ref>{{cite news |url= http://aviationweek.com/site-files/aviationweek.com/files/uploads/2015/05/Bus"]]

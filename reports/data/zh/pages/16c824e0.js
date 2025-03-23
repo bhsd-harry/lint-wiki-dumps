@@ -1,1 +1,1 @@
-window.data=[["fostered-content",52,1,"content to be moved out from the table"," * 护理学科\n * [[醫檢師|卫生技术]]学科\n * 物理治疗学科<ref group=\"注\"  name=\"物理治疗学科\"/>\n * 职能治疗学科<ref group=\"注\"  name=\"职能治疗学科\"/>\n === 专科 ==="],["unclosed-table",51,2,"unclosed table","{|"]]
+window.data=[["fostered-content",52,1,"content to be moved out from the table"," * 护理学科\n * [[醫檢師|卫生技术]]学科\n * 物理治疗学科<ref group=\"注\"  name=\"物理治疗学科\"/>\n * 职能治疗学科<ref group=\"注\"  name=\"职能"],["unclosed-table",51,2,"unclosed table","{|"]]

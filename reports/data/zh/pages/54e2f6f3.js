@@ -1,1 +1,1 @@
-window.data=[["parsing-order",89,35,"extension tag in HTML tag attributes","<ref>{{Cite web|url=http://evol.papegames.cn/characters.html|title=《恋与制作人》官方网站--角色介绍|accessdate=2018-01-06|work=evol.papegames.cn|language=zh-cn|archi"]]
+window.data=[["parsing-order",89,35,"extension tag in HTML tag attributes","<ref>{{Cite web|url=http://evol.papegames.cn/characters.html|title=《恋与制作人》官方网站--角色介绍|accessdate=2018"]]
