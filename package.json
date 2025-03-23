@@ -27,6 +27,7 @@
 		"url": "git+https://github.com/bhsd-harry/lint-wiki-dumps.git"
 	},
 	"scripts": {
+		"build": "tsc && tsc --project reports/tsconfig.json && mv dist/* . && mv reports/dist/* reports/",
 		"lint": "eslint --cache ."
 	},
 	"dependencies": {
@@ -44,6 +45,7 @@
 		"@stylistic/stylelint-plugin": "^3.1.2",
 		"@types/mocha": "^10.0.10",
 		"@types/node": "^22.13.1",
+		"@types/unbzip2-stream": "^1.4.3",
 		"@typescript-eslint/eslint-plugin": "^8.23.0",
 		"@typescript-eslint/parser": "^8.23.0",
 		"esbuild": "^0.25.0",

@@ -4,5 +4,8 @@ const config = require('@bhsd/common/eslintrc.node.cjs');
 
 module.exports = {
 	...config,
-	ignorePatterns: ['results/*.json'],
+	ignorePatterns: [
+		'/*.js',
+		'results/*.json',
+	],
 };
