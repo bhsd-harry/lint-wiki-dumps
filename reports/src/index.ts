@@ -1,10 +1,10 @@
-'use strict';
+declare const data: string[];
 
-const container = document.getElementById('container'),
+const container = document.getElementById('container')!,
 	script = document.createElement('script');
 script.src = './data/index.js';
 script.addEventListener('load', () => {
-	container.append(...globalThis.data.map(lang => {
+	container.append(...data.map(lang => {
 		const div = document.createElement('div'),
 			a = document.createElement('a');
 		a.href = `./wiki.html?lang=${lang}`;
