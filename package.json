@@ -16,7 +16,7 @@
 		"scan.sh",
 		"*.js",
 		"reports/*.html",
-		"reports/*.js",
+		"reports/dist/",
 		"reports/*.css"
 	],
 	"bin": {
@@ -27,7 +27,7 @@
 		"url": "git+https://github.com/bhsd-harry/lint-wiki-dumps.git"
 	},
 	"scripts": {
-		"build": "tsc && tsc --project reports/tsconfig.json && mv dist/* . && mv reports/dist/* reports/",
+		"build": "tsc && tsc --project reports/tsconfig.json && mv dist/* .",
 		"lint": "eslint --cache ."
 	},
 	"dependencies": {
