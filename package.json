@@ -27,8 +27,8 @@
 		"url": "git+https://github.com/bhsd-harry/lint-wiki-dumps.git"
 	},
 	"scripts": {
-		"build": "tsc && tsc --project reports/tsconfig.json && mv dist/* .",
-		"lint": "eslint --cache ."
+		"build": "tsc && mv dist/* . && tsc --project reports/tsconfig.json",
+		"lint": "tsc --noEmit && tsc --project reports/tsconfig.json --noEmit && eslint --cache ."
 	},
 	"dependencies": {
 		"@bhsd/common": "^0.8.1",
