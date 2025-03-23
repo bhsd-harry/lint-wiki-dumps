@@ -13,15 +13,19 @@ const n = Number(process.argv[4]) || Infinity,
 	[,, site, file,, restart] = process.argv;
 
 Parser.config = `${site}wiki`;
-Parser.lintCSS = false;
 
 if (!fs.existsSync('results')) {
 	fs.mkdirSync('results');
 }
 const stream = new XmlStream(fs.createReadStream(file.replace(/^~/u, os.homedir())).pipe(bz2())),
-	results = fs.createWriteStream(path.join('results', `${site}.json`), {flags: restart ? 'a' : 'w'}),
+	output = path.join('results', `${site}.json`),
+	old = fs.existsSync(output) && require(`./${output}`),
+	time = old && old['#timestamp'],
+	last = time && new Date(time),
+	results = fs.createWriteStream(output, {flags: restart ? 'a' : 'w'}),
 	ignore = new Set(['no-arg', 'url-encoding', 'h1', 'var-anchor']);
 let i = 0,
+	latest = last,
 	failed = 0,
 	comma = restart ? ',' : '',
 	stopping = false,
@@ -48,26 +52,39 @@ const stop = () => {
 			chalk.yellow(`Worst page: ${worst.title} (${worst.duration.toFixed(3)} ms)`),
 		);
 	}
-	results.write('\n}');
+	results.write(`${comma}\n"#timestamp": ${JSON.stringify(latest)}\n}`);
 	results.close();
 };
 
+const newEntry = (title, errors) => {
+	results.write(`${comma}\n${JSON.stringify(title)}: ${JSON.stringify(errors, null, '\t')}`);
+	comma ||= ',';
+};
+
 console.time('parse');
-stream.on('endElement: page', ({title, ns, revision: {model, text: {$text}}}) => {
+stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$text}}}) => {
 	if (i === n) {
 		if (!stopping) {
 			stop();
 		}
 	} else if (restarted && model === 'wikitext' && $text && ns === '0') {
 		refreshStdout(`${i++} ${title}`);
-		try {
-			const start = perf.now(),
-				errors = Parser.parse($text).lint()
-					.filter(({severity, rule}) => severity === 'error' && !ignore.has(rule)),
-				duration = perf.now() - start;
-			if (errors.length > 0) {
-				results.write(`${comma}\n${JSON.stringify(title)}: ${
-					JSON.stringify(
+		const date = new Date(timestamp);
+		if (last && date <= last) {
+			const previous = old[title];
+			if (previous) {
+				newEntry(title, previous);
+			}
+		} else {
+			latest = !latest || date > latest ? date : latest;
+			try {
+				const start = perf.now(),
+					errors = Parser.parse($text).lint()
+						.filter(({severity, rule}) => severity === 'error' && !ignore.has(rule)),
+					duration = perf.now() - start;
+				if (errors.length > 0) {
+					newEntry(
+						title,
 						errors.map(({severity, suggestions, fix, ...e}) => ({
 							...e,
 							...suggestions && {
@@ -79,18 +96,15 @@ stream.on('endElement: page', ({title, ns, revision: {model, text: {$text}}}) =>
 							...fix && {fix: {...fix, original: $text.slice(...fix.range)}},
 							excerpt: $text.slice(e.startIndex, e.endIndex),
 						})),
-						null,
-						'\t',
-					)
-				}`);
-				comma ||= ',';
+					);
+				}
+				if (!worst || duration > worst.duration) {
+					worst = {title, duration};
+				}
+			} catch (e) {
+				console.error(chalk.red(`Error parsing ${title}`), e);
+				failed++;
 			}
-			if (!worst || duration > worst.duration) {
-				worst = {title, duration};
-			}
-		} catch (e) {
-			console.error(chalk.red(`Error parsing ${title}`), e);
-			failed++;
 		}
 	} else if (title === restart) {
 		restarted = true;

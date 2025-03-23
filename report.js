@@ -28,6 +28,7 @@ for (const file of dir) {
 		const data = require(`./results/${file}`);
 		const site = file.slice(0, -5);
 		summary.push(site);
+		delete data['#timestamp'];
 
 		if (!lang || lang === site) {
 			const siteDir = path.join(dataDir, site);
