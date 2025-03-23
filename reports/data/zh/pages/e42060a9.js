@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,241,"RIGHT"]]
+window.data=[["no-duplicate",2,241,"duplicated image caption parameter","RIGHT"],["no-duplicate",2,259,"duplicated image caption parameter","美軍一個連的[[補給兵]]"]]

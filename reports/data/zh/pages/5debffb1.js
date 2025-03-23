@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",24,2,"[[Category:客家裔臺灣人|C鍾]]"]]
+window.data=[["no-duplicate",24,2,"duplicated category","[[Category:客家裔臺灣人|C鍾]]"],["no-duplicate",59,2,"duplicated category","[[Category:客家裔臺灣人|C鍾]]"],["no-duplicate",25,2,"duplicated category","[[Category:鍾姓|C佳]]"],["no-duplicate",60,2,"duplicated category","[[Category:鍾姓|C佳]]"]]

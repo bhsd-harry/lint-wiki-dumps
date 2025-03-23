@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",311,2,"[[Category:日本电台| ]]"],[1,"unmatched-tag",83,31,"</td>"]]
+window.data=[["unmatched-tag",83,31,"unmatched closing tag","</td>"],["no-duplicate",311,2,"duplicated category","[[Category:日本电台| ]]"],["no-duplicate",331,2,"duplicated category","[[Category:日本电台| ]]"],["no-duplicate",312,2,"duplicated category","[[Category:日本媒體]]"],["no-duplicate",332,2,"duplicated category","[[Category:日本媒體]]"],["no-duplicate",313,2,"duplicated category","[[Category:電台列表]]"],["no-duplicate",333,2,"duplicated category","[[Category:電台列表]]"]]

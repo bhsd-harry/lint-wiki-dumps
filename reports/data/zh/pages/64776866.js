@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",67,2,"[[Category:美国教育家]]"]]
+window.data=[["no-duplicate",67,2,"duplicated category","[[Category:美国教育家]]"],["no-duplicate",69,2,"duplicated category","[[Category:美国教育家]]"],["no-duplicate",68,2,"duplicated category","[[Category:美國牧師]]"],["no-duplicate",70,2,"duplicated category","[[Category:美國牧師]]"]]

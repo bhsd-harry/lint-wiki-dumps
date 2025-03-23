@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",112,2,"[[Category:臺灣女性縣市議員|Y顏]]"]]
+window.data=[["no-duplicate",112,2,"duplicated category","[[Category:臺灣女性縣市議員|Y顏]]"],["no-duplicate",121,2,"duplicated category","[[Category:臺灣女性縣市議員|Y顏]]"]]

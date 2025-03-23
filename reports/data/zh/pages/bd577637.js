@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,2,"[[Category:珍貴樹木 (臺灣)]]"]]
+window.data=[["no-duplicate",44,2,"duplicated category","[[Category:珍貴樹木 (臺灣)]]"],["no-duplicate",47,2,"duplicated category","[[Category:珍貴樹木 (臺灣)]]"]]

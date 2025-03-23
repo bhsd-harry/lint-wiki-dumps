@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",82,48,"duplicated image caption parameter","float"]]
+window.data=[["no-duplicate",82,48,"duplicated image caption parameter","float"],["no-duplicate",82,66,"duplicated image caption parameter","越南國家歌劇院"]]

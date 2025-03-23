@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",983,2,"[[Category:改編自漫畫的動畫]]"]]
+window.data=[["no-duplicate",983,2,"duplicated category","[[Category:改編自漫畫的動畫]]"],["no-duplicate",988,2,"duplicated category","[[Category:改編自漫畫的動畫]]"]]

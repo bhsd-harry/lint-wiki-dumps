@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",110,2,"[[Category:日本電影音樂作曲家]]"]]
+window.data=[["no-duplicate",110,2,"duplicated category","[[Category:日本電影音樂作曲家]]"],["no-duplicate",111,2,"duplicated category","[[Category:日本電影音樂作曲家]]"]]

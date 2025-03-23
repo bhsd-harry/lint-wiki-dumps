@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",60,2,"[[Category:中華民國證券櫃檯買賣中心上櫃公司]]"]]
+window.data=[["no-duplicate",60,2,"duplicated category","[[Category:中華民國證券櫃檯買賣中心上櫃公司]]"],["no-duplicate",63,2,"duplicated category","[[Category:中華民國證券櫃檯買賣中心上櫃公司]]"],["no-duplicate",65,2,"duplicated category","[[Category:1988年成立的公司]]"],["no-duplicate",66,2,"duplicated category","[[Category:1988年成立的公司]]"]]

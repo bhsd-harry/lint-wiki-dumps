@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",22,110,"]"],[1,"no-ignored",67,310,"亞洲雙簧年會"]]
+window.data=[["lonely-bracket",22,110,"lonely \"]\"","]"],["no-ignored",67,310,"containing invalid attribute","亞洲雙簧年會"]]

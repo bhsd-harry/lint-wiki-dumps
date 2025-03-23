@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",95,2,"[[Category:2025年音樂專輯]]"]]
+window.data=[["no-duplicate",95,2,"duplicated category","[[Category:2025年音樂專輯]]"],["no-duplicate",96,2,"duplicated category","[[Category:2025年音樂專輯]]"]]

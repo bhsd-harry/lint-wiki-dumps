@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",70,69,"[[欧洲足联]]"]]
+window.data=[["nested-link",70,69,"internal link in an external link","[[欧洲足联]]"],["nested-link",71,89,"internal link in an external link","[[RSSSF]]"]]

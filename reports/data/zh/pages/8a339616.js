@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,2,"[[Category:20世紀指揮家]]"]]
+window.data=[["no-duplicate",63,2,"duplicated category","[[Category:20世紀指揮家]]"],["no-duplicate",64,2,"duplicated category","[[Category:20世紀指揮家]]"]]

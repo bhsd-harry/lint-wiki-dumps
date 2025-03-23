@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,41,"Right"],[5,"unclosed-table",123,2,"{|"]]
+window.data=[["no-duplicate",1,41,"duplicated image caption parameter","Right"],["no-duplicate",1,53,"duplicated image caption parameter","二年級的密歇根五虎，由左至右為[[吉米·金]]（24号）、[[贾伦·罗斯]]（5号）、[[克里斯·韦伯]]（4号）、[[雷·傑克森]]（21号）、[[朱万·霍华德]]（25号）"],["unclosed-table",123,2,"unclosed table","{|"],["unclosed-table",102,2,"unclosed table","{|"],["unclosed-table",73,2,"unclosed table","{|"],["unclosed-table",39,2,"unclosed table","{|"],["unclosed-table",7,2,"unclosed table","{|"]]

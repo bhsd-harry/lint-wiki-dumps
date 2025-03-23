@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-apos",1440,35,"'"],[3,"lonely-bracket",2098,411,"[["],[1,"tag-like",619,60,"<br"]]
+window.data=[["tag-like",619,60,"lonely \"<\"","<br"],["lonely-apos",1440,35,"lonely \"'\"","'"],["lonely-apos",2091,8,"lonely \"'\"","'"],["lonely-bracket",2098,411,"lonely \"[\"","[["],["lonely-bracket",2099,5,"lonely \"]\"","]]"],["lonely-apos",2320,36,"lonely \"'\"","'"],["lonely-bracket",2578,158,"lonely \"[\"","[["]]

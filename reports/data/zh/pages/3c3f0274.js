@@ -1,1 +1,1 @@
-window.data=[[3,"nested-link",27,43,"[[瑞典語]]"]]
+window.data=[["nested-link",27,43,"internal link in an external link","[[瑞典語]]"],["nested-link",28,46,"internal link in an external link","[[英語]]"],["nested-link",29,49,"internal link in an external link","[[英語]]"]]

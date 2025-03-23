@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",3873,4,"346"],[1,"lonely-bracket",2862,12,"}"],[3,"no-ignored",836,62," 未知"]]
+window.data=[["no-ignored",836,62,"containing invalid attribute"," 未知"],["lonely-bracket",2862,12,"lonely \"}\"","}"],["no-ignored",2862,4,"containing invalid attribute"," {{MNC}}}"],["no-ignored",3573,86,"containing invalid attribute"," 原威寶電信 "],["illegal-attr",3873,4,"illegal attribute name","346"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:DC漫畫作品]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:DC漫畫作品]]"],["no-duplicate",42,2,"duplicated category","[[Category:DC漫畫作品]]"]]

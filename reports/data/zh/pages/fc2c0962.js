@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",314,308,"|url-status=dead"]]
+window.data=[["no-ignored",314,308,"containing invalid attribute","|url-status=dead"]]

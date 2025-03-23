@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",293,2,"[[Category:英格蘭足球俱樂部]]"]]
+window.data=[["invalid-css",60,81,"colon expected","="],["no-duplicate",293,2,"duplicated category","[[Category:英格蘭足球俱樂部]]"],["no-duplicate",297,2,"duplicated category","[[Category:英格蘭足球俱樂部]]"]]

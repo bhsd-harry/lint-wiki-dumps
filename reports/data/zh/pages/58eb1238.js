@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",34,102,"upleft"]]
+window.data=[["no-duplicate",34,102,"duplicated image caption parameter","upleft"],["no-duplicate",34,109,"duplicated image caption parameter","2022年北京冬奥会闭幕式（上）作为中国代表团旗手（与[[高亭宇]]一起担任）。"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",70,2,"[[Category:IOS软件]]"]]
+window.data=[["no-duplicate",70,2,"duplicated category","[[Category:IOS软件]]"],["no-duplicate",95,2,"duplicated category","[[Category:IOS软件]]"],["no-duplicate",71,2,"duplicated category","[[Category:Android软件]]"],["no-duplicate",94,2,"duplicated category","[[Category:Android软件]]"]]

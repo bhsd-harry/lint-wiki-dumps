@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3,"metropolitan     = [[崔慶琪]]主教\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","metropolitan     = [[崔慶琪]]主教\n "],["no-duplicate",24,3,"duplicated parameter","metropolitan     = [[教座從缺]]\n "]]

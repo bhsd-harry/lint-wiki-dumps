@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",238,1," 各年度1日平均'''上下車'''人次如下表。"]]
+window.data=[["fostered-content",238,1,"content to be moved out from the table"," 各年度1日平均'''上下車'''人次如下表。"],["fostered-content",345,1,"content to be moved out from the table"," 各年度1日平均'''上車'''人次如下表。"]]

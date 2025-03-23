@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3,"duplicated parameter"," caption2 = Soān-chio̍h bôa-chio̍h\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," caption2 = Soān-chio̍h bôa-chio̍h\n "],["no-duplicate",13,3,"duplicated parameter"," caption2 = \n "]]

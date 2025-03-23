@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",157,2,"[[Category:聖米迦勒及聖喬治勳章爵級大十字勳章持有人|A]]"]]
+window.data=[["no-duplicate",157,2,"duplicated category","[[Category:聖米迦勒及聖喬治勳章爵級大十字勳章持有人|A]]"],["no-duplicate",158,2,"duplicated category","[[Category:聖米迦勒及聖喬治勳章爵級大十字勳章持有人]]"]]

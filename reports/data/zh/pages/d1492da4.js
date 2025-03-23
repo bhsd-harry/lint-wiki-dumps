@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",84,66,"Center"]]
+window.data=[["no-duplicate",84,66,"duplicated image caption parameter","Center"],["no-duplicate",84,73,"duplicated image caption parameter","纳米小孩上身的合成"],["no-duplicate",96,55,"duplicated image caption parameter","Center"],["no-duplicate",96,62,"duplicated image caption parameter","纳米小孩下身的合成"],["no-duplicate",108,61,"duplicated image caption parameter","Center"],["no-duplicate",108,68,"duplicated image caption parameter","纳米小孩上下身的组装"]]

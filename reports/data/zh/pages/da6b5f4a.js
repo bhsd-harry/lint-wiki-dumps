@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",49,1," * 保育科\n * 英文科\n * 国际教养科"]]
+window.data=[["fostered-content",49,1,"content to be moved out from the table"," * 保育科\n * 英文科\n * 国际教养科"],["fostered-content",66,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]：前东洋英和女学院大学短期大学部付属枫幼儿园，成立于1973年<ref name=\"全国短期大学高等専门学校一覧1987本科\">请参看1987年度『{{link-ja|全国短期大学高等專業学校一覧|全国短期大学高等専門学校一覧}}』81页「{{lang|ja|東洋英和女学"]]

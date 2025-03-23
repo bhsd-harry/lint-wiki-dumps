@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",966,2,"[[Category:中華台北奧林匹克運動會銀牌得主]]"]]
+window.data=[["no-duplicate",966,2,"duplicated category","[[Category:中華台北奧林匹克運動會銀牌得主]]"],["no-duplicate",969,2,"duplicated category","[[Category:中華台北奧林匹克運動會銀牌得主]]"]]

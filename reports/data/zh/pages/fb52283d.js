@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,3,"number = 2500+\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter","number = 2500+\n "],["no-duplicate",18,3,"duplicated parameter","number= 2,500輛+\n "]]

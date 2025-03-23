@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",209,69,"替代文字"]]
+window.data=[["no-duplicate",209,69,"duplicated image caption parameter","替代文字"],["no-duplicate",209,74,"duplicated image caption parameter","陽明交大附設醫院蘭陽院區"]]

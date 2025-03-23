@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,41,"upright2.3"]]
+window.data=[["no-duplicate",11,41,"duplicated image caption parameter","upright2.3"],["no-duplicate",11,59,"duplicated image caption parameter","TEMPO对伯醇的选择性催化氧化循环"]]

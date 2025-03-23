@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",76,62,"178.996x178.996像素"]]
+window.data=[["no-duplicate",76,62,"duplicated image caption parameter","178.996x178.996像素"],["no-duplicate",76,80,"duplicated image caption parameter","抗战老兵手印广场"]]

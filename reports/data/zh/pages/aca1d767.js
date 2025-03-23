@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",604,73,"[[互射十二碼|十二碼]]"],[3,"no-ignored",74,3,"!width=20%"]]
+window.data=[["invalid-css",70,81,"colon expected","="],["no-ignored",74,3,"containing invalid attribute","!width=20%"],["invalid-css",398,81,"colon expected","="],["no-ignored",402,3,"containing invalid attribute","!width=20%"],["invalid-css",429,81,"colon expected","="],["no-ignored",433,3,"containing invalid attribute","!width=20%"],["nested-link",604,73,"internal link in an external link","[[互射十二碼|十二碼]]"],["nested-link",610,73,"internal link in an external link","[[互射十二碼|十二碼]]"]]

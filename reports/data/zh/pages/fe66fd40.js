@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",108,133,"}"],[6,"no-duplicate",404,1690,"language=zh"]]
+window.data=[["lonely-bracket",108,133,"lonely \"}\"","}"],["no-duplicate",404,1690,"duplicated parameter","language=zh"],["no-duplicate",404,1856,"duplicated parameter","language=zh"],["no-duplicate",404,2354,"duplicated parameter","language=zh"],["no-duplicate",404,2730,"duplicated parameter","language=zh"],["no-duplicate",412,1056,"duplicated parameter","language=zh"],["no-duplicate",412,1366,"duplicated parameter","language=zh"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",143,2,"[[Category:美國慈善家]]"]]
+window.data=[["no-duplicate",143,2,"duplicated category","[[Category:美國慈善家]]"],["no-duplicate",146,2,"duplicated category","[[Category:美國慈善家]]"],["no-duplicate",144,2,"duplicated category","[[Category:新泽西州新不伦瑞克人士]]"],["no-duplicate",147,2,"duplicated category","[[Category:新泽西州新不伦瑞克人士]]"]]

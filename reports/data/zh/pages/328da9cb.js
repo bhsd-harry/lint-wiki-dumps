@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",285,2,"[[Category:美国经济列表]]"]]
+window.data=[["no-duplicate",285,2,"duplicated category","[[Category:美国经济列表]]"],["no-duplicate",288,2,"duplicated category","[[Category:美国经济列表|Human Development Index]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,2,"[[Category:金屬加工]]"]]
+window.data=[["no-duplicate",65,2,"duplicated category","[[Category:金屬加工]]"],["no-duplicate",68,2,"duplicated category","[[Category:金屬加工]]"]]

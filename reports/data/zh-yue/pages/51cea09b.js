@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,2,"duplicated category","[[Category:李氏|清照]]"]]
+window.data=[["no-duplicate",8,2,"duplicated category","[[Category:李氏|清照]]"],["no-duplicate",10,2,"duplicated category","[[Category:李氏|清照]]"]]

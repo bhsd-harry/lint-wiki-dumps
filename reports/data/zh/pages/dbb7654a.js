@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",307,198,"url=Manila Bulletin "]]
+window.data=[["no-duplicate",307,198,"duplicated parameter","url=Manila Bulletin "],["no-duplicate",307,238,"duplicated parameter","url=https://mb.com.ph/2024/7/30/nominees-at-seoul-international-drama-awards-2024-announced "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",58,81,"title=Sanctions.pp "]]
+window.data=[["no-duplicate",58,81,"duplicated parameter","title=Sanctions.pp "],["no-duplicate",58,207,"duplicated parameter","title=Individuals"]]

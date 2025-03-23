@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,37,"|熱帶風暴里克 (2015年)"]]
+window.data=[["no-ignored",1,37,"useless link text","|熱帶風暴里克 (2015年)"]]

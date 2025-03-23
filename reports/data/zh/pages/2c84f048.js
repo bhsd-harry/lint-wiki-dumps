@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",154,2,"[[Category:英语电视频道]]"]]
+window.data=[["no-duplicate",154,2,"duplicated category","[[Category:英语电视频道]]"],["no-duplicate",157,2,"duplicated category","[[Category:英语电视频道]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,31,"HiWish计划下高分辨率成像科学设备显示的冰川遗迹。Image:25305glacierend.jpg"]]
+window.data=[["no-duplicate",15,31,"duplicated image caption parameter","HiWish计划下高分辨率成像科学设备显示的冰川遗迹。Image:25305glacierend.jpg"],["no-duplicate",15,84,"duplicated image caption parameter","HiWish计划下高分辨率成像科学设备显示的冰川尽头，右侧尾碛的表面显示有[[图案地面]]，这在[[地下水]]冻结的地方很常见。"]]

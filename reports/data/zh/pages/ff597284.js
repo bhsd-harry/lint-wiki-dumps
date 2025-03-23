@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,2,"[[Category:馬姓|T廷]]"]]
+window.data=[["no-duplicate",18,2,"duplicated category","[[Category:馬姓|T廷]]"],["no-duplicate",22,2,"duplicated category","[[category:馬姓]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",30,240,"["],[2,"no-duplicate",83,2,"[[Category:培證英雄球員]]"]]
+window.data=[["lonely-bracket",30,240,"lonely \"[\"","["],["lonely-bracket",30,245,"lonely \"]\"","]"],["no-duplicate",83,2,"duplicated category","[[Category:培證英雄球員]]"],["no-duplicate",84,2,"duplicated category","[[Category:培證英雄球員]]"]]

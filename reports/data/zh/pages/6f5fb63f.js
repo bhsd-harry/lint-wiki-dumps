@@ -1,1 +1,1 @@
-window.data=[[3,"fostered-content",104,1," | 2018年||[[男孩們]]||重慶青年影展||最佳導演 最佳剪輯||{{nom}} ||監製"]]
+window.data=[["fostered-content",104,1,"content to be moved out from the table"," | 2018年||[[男孩們]]||重慶青年影展||最佳導演 最佳剪輯||{{nom}} ||監製"],["fostered-content",106,1,"content to be moved out from the table"," | 2018年||[[男孩們]]||杭州青年影像計劃金荷獎||競賽單元 ||{{nom}}||監製"],["fostered-content",112,1,"content to be moved out from the table"," | 2018年||[[男孩們]]||絲綢之路國際電影節|| WAFF短片嘉年華展映 ||{{won}}||監製"]]

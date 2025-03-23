@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3," FIFA Trigramme     = ALB \n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter"," FIFA Trigramme     = ALB \n "],["no-duplicate",25,3,"duplicated parameter"," FIFA Trigramme     = ALB\n "]]

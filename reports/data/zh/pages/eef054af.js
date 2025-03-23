@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",136,24,"Xumitabei1"]]
+window.data=[["no-duplicate",136,24,"duplicated image caption parameter","Xumitabei1"],["no-duplicate",136,41,"duplicated image caption parameter","玄秘塔碑"]]

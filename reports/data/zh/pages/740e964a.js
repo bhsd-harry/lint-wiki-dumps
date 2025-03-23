@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",45,1," * [[工商管理学|经营]]学科[[夜校|第二部]]\n ** [[管理学|经营管理]]专攻\n ** 经营・法律专攻"]]
+window.data=[["fostered-content",45,1,"content to be moved out from the table"," * [[工商管理学|经营]]学科[[夜校|第二部]]\n ** [[管理学|经营管理]]专攻\n ** 经营・法律专攻"]]

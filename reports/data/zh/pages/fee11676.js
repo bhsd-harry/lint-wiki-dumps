@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",372,246,"[[Society for Industrial and Applied Mathematics|SIAM]]"]]
+window.data=[["nested-link",372,246,"internal link in an external link","[[Society for Industrial and Applied Mathematics|SIAM]]"]]

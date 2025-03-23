@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",24,3,"15zh-hans:灰狹蛇族;zh-tw:黃顎蛇族;\n "]]
+window.data=[["no-duplicate",24,3,"duplicated parameter","15zh-hans:灰狹蛇族;zh-tw:黃顎蛇族;\n "],["no-duplicate",10,3,"duplicated parameter","1=zh-hk:旋風忍者;zh-tw:旋風忍者;zh-cn:幻影忍者;\n "]]

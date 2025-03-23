@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,3," followed_by    = \n "],[1,"no-ignored",58,31,"; color:snow\"  "]]
+window.data=[["no-duplicate",32,3,"duplicated parameter"," followed_by    = \n "],["no-duplicate",37,3,"duplicated parameter"," followed_by    = 《[[異形：羅穆盧斯]]》\n "],["no-ignored",58,31,"containing invalid attribute","; color:snow\"  "]]

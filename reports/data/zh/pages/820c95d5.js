@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",125,2,"[[Category:加拿大同伴勳章授勳者]]"]]
+window.data=[["no-duplicate",125,2,"duplicated category","[[Category:加拿大同伴勳章授勳者]]"],["no-duplicate",130,2,"duplicated category","[[Category:加拿大同伴勳章授勳者]]"]]

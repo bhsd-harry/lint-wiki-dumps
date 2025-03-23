@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",53,46,"duplicated image caption parameter","縮圖"]]
+window.data=[["no-duplicate",53,46,"duplicated image caption parameter","縮圖"],["no-duplicate",53,49,"duplicated image caption parameter","1871年門捷列夫嘅週期表"],["no-duplicate",55,35,"duplicated image caption parameter","縮圖"],["no-duplicate",55,38,"duplicated image caption parameter","位於[[布拉迪斯拉發]]（斯洛伐克）嘅門捷列夫同週期表紀念雕塑"]]

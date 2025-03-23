@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",340,213,"lonely \"[\"","[["],[2,"no-duplicate",122,39,"duplicated image caption parameter","縮圖"]]
+window.data=[["no-duplicate",122,39,"duplicated image caption parameter","縮圖"],["no-duplicate",122,42,"duplicated image caption parameter","人類"],["lonely-bracket",340,213,"lonely \"[\"","[["]]

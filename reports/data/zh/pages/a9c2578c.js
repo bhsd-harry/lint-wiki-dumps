@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",95,2,"[[Category:美國職業足球大聯盟選秀狀元]]"]]
+window.data=[["no-duplicate",95,2,"duplicated category","[[Category:美國職業足球大聯盟選秀狀元]]"],["no-duplicate",106,2,"duplicated category","[[Category:美國職業足球大聯盟選秀狀元]]"],["no-duplicate",97,2,"duplicated category","[[Category:加拿大國家男子足球隊球員]]"],["no-duplicate",110,2,"duplicated category","[[Category:加拿大國家男子足球隊球員]]"]]

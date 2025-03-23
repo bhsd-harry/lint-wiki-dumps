@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",2,3," status = \n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter"," status = \n "],["no-duplicate",6,3,"duplicated parameter","status = LC\n "],["no-duplicate",3,3,"duplicated parameter"," status_system = \n "],["no-duplicate",7,3,"duplicated parameter","status_system = IUCN3.1\n "]]

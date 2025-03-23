@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",64,2,"[[Category:2024年终止的产品与服务]]"]]
+window.data=[["no-duplicate",64,2,"duplicated category","[[Category:2024年终止的产品与服务]]"],["no-duplicate",65,2,"duplicated category","[[Category:2024年终止的产品与服务]]"]]

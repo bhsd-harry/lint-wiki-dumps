@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",162,2,"[[Category:韩国政党]]"]]
+window.data=[["no-duplicate",162,2,"duplicated category","[[Category:韩国政党]]"],["no-duplicate",163,2,"duplicated category","[[Category:韩国政党]]"]]

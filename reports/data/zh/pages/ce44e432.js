@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,39,"Right"]]
+window.data=[["no-duplicate",25,39,"duplicated image caption parameter","Right"],["no-duplicate",25,45,"duplicated image caption parameter","美洲茶（ ''Ceanothus cuneatus''）的花"]]

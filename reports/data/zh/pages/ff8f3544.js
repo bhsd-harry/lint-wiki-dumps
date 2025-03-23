@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",177,5,"span"],[2,"no-duplicate",636,36,"Bitter_melon_vegetable"]]
+window.data=[["illegal-attr",177,5,"illegal attribute name","span"],["illegal-attr",253,5,"illegal attribute name","span"],["no-duplicate",636,36,"duplicated image caption parameter","Bitter_melon_vegetable"],["no-duplicate",636,71,"duplicated image caption parameter","杜阮凉瓜"]]

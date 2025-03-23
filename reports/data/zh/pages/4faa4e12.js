@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",43,6,"TaiSounds"],[1,"no-ignored",43,3,"太報 "]]
+window.data=[["illegal-attr",43,6,"illegal attribute name","TaiSounds"],["no-ignored",43,3,"containing invalid attribute","太報 "]]

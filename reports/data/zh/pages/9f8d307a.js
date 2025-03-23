@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",35,2,"[[Category:NBA爭議]]"]]
+window.data=[["no-duplicate",35,2,"duplicated category","[[Category:NBA爭議]]"],["no-duplicate",38,2,"duplicated category","[[Category:NBA爭議]]"],["no-duplicate",40,2,"duplicated category","[[Category:服裝爭議]]"],["no-duplicate",42,2,"duplicated category","[[Category:服裝爭議]]"],["no-duplicate",41,2,"duplicated category","[[Category:嘻哈時尚]]"],["no-duplicate",43,2,"duplicated category","[[Category:嘻哈時尚]]"]]

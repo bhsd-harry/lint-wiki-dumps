@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",31,16,"[["],[1,"no-ignored",31,4,"2003年||（電視劇）[[星願|星願]]"]]
+window.data=[["lonely-bracket",31,16,"lonely \"[\"","[["],["lonely-bracket",31,23,"lonely \"]\"","]]"],["no-ignored",31,4,"containing invalid attribute","2003年||（電視劇）[[星願|星願]]"]]

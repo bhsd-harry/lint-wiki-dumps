@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",72,2,"[[Category:运载火箭| ]]"]]
+window.data=[["no-duplicate",72,2,"duplicated category","[[Category:运载火箭| ]]"],["no-duplicate",73,2,"duplicated category","[[Category:运载火箭]]"]]

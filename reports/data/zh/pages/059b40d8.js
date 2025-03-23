@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",38,2,"[[Category:1856年中國]]"]]
+window.data=[["no-duplicate",38,2,"duplicated category","[[Category:1856年中國]]"],["no-duplicate",43,2,"duplicated category","[[Category:1856年中國]]"]]

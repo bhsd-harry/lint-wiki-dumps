@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",280,2,"[[Category:亞東科技大學校友]]"]]
+window.data=[["no-duplicate",280,2,"duplicated category","[[Category:亞東科技大學校友]]"],["no-duplicate",284,2,"duplicated category","[[Category:亞東科技大學校友|H胡]]"]]

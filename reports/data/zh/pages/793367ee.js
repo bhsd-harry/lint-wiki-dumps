@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",93,2,"[[Category:國立臺灣大學博物館群]]"]]
+window.data=[["no-duplicate",93,2,"duplicated category","[[Category:國立臺灣大學博物館群]]"],["no-duplicate",98,2,"duplicated category","[[Category:國立臺灣大學博物館群]]"]]

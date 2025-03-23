@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",193,53,"[[勇敢級巡防艦]]"]]
+window.data=[["nested-link",193,53,"internal link in an external link","[[勇敢級巡防艦]]"]]

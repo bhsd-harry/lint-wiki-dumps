@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",154,56,"width"],[1,"lonely-bracket",116,141,"["]]
+window.data=[["lonely-bracket",116,141,"lonely \"[\"","["],["invalid-css",154,21,"colon expected",";"],["illegal-attr",154,56,"illegal attribute name","width"],["invalid-css",165,34,"colon expected",";"],["invalid-css",211,28,"semi-colon expected",":"],["invalid-css",212,21,"colon expected",";"]]

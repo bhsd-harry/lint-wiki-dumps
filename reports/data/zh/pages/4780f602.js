@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",151,1,"\n === 數位發行 ==="],[1,"unclosed-table",104,2,"{|"],[2,"unmatched-tag",1054,2,"</div>"]]
+window.data=[["fostered-content",151,1,"content to be moved out from the table","\n === 數位發行 ==="],["unclosed-table",104,2,"unclosed table","{|"],["unmatched-tag",1054,2,"unmatched closing tag","</div>"],["unmatched-tag",1054,8,"unmatched closing tag","</div>"]]

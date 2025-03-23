@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",43,46,"colspan"],[2,"no-duplicate",46,4,"colspan=\"8\""]]
+window.data=[["illegal-attr",43,46,"illegal attribute name","colspan"],["no-duplicate",46,4,"duplicated colspan attribute","colspan=\"8\""],["no-duplicate",46,58,"duplicated colspan attribute","colspan=\"8\""]]

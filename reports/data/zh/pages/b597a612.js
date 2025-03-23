@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",312,4,"[["],[2,"no-ignored",312,4,"[[王岗]]|| 董祝 || "]]
+window.data=[["lonely-bracket",312,4,"lonely \"[\"","[["],["lonely-bracket",312,8,"lonely \"]\"","]]"],["no-ignored",312,4,"containing invalid attribute","[[王岗]]|| 董祝 || "],["no-ignored",312,31,"containing invalid attribute","  |太师，百官之首，為官五十載，清正廉明。"]]

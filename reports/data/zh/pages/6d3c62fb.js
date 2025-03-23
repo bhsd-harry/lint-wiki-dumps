@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",206,32,"align=left"],[1,"no-ignored",222,3," 崔文慶"]]
+window.data=[["no-duplicate",206,32,"duplicated align attribute","align=left"],["no-duplicate",206,53,"duplicated align attribute","align=left"],["no-ignored",222,3,"containing invalid attribute"," 崔文慶"],["no-duplicate",228,32,"duplicated align attribute","align=left"],["no-duplicate",228,53,"duplicated align attribute","align=left"],["no-duplicate",335,18,"duplicated align attribute","align=left"],["no-duplicate",335,39,"duplicated align attribute","align=left"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,36,"页数=附上斯美塔那亲笔签名的乐谱最后一"]]
+window.data=[["no-duplicate",3,36,"duplicated image caption parameter","页数=附上斯美塔那亲笔签名的乐谱最后一"],["no-duplicate",3,70,"duplicated image caption parameter","e小调第一弦乐四重奏“我的一生”,為當時斯美塔納親筆譜寫樂譜的最後一頁"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",55,41,"[[OLPC]]"]]
+window.data=[["nested-link",55,41,"internal link in an external link","[[OLPC]]"]]

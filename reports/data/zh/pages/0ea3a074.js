@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3,"管理者 = 福岡縣\n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter","管理者 = 福岡縣\n "],["no-duplicate",19,3,"duplicated parameter","管理者 = 大濠公園／{{link-ja|西公園|西公園 (福岡市)}}管理事務處\n "]]

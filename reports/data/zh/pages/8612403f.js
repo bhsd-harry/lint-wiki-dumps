@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",36,113,"]"],[2,"no-duplicate",12,3," image1 = Sherrod Brown 117th Congress (2) (cropped).jpg\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," image1 = Sherrod Brown 117th Congress (2) (cropped).jpg\n "],["no-duplicate",13,3,"duplicated parameter"," image1= Bernie Moreno by Gage Skidmore (cropped).jpg\n "],["lonely-bracket",36,113,"lonely \"]\"","]"]]

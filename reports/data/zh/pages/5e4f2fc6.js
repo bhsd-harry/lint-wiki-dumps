@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",17,3," image2 = 3x4.svg\n "]]
+window.data=[["no-duplicate",17,3,"duplicated parameter"," image2 = 3x4.svg\n "],["no-duplicate",18,3,"duplicated parameter"," image2 = Eric Hovde 2024.png\n "],["no-duplicate",24,3,"duplicated parameter"," map_size = 250px\n "],["no-duplicate",26,3,"duplicated parameter"," map_size = 縣結果\n "]]

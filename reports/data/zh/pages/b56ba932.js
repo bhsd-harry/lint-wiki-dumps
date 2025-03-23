@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",79,5,"align=center"],[1,"unmatched-tag",107,2,"</span>"]]
+window.data=[["no-duplicate",79,5,"duplicated align attribute","align=center"],["no-duplicate",79,60,"duplicated align attribute","align=middle"],["unmatched-tag",107,2,"unmatched closing tag","</span>"],["no-duplicate",118,2,"duplicated category","[[Category:台灣男子棒球運動員]]"],["no-duplicate",136,2,"duplicated category","[[Category:台灣男子棒球運動員]]"]]

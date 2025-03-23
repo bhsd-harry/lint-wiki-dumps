@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",158,49,"[[維基衛星地圖]]"]]
+window.data=[["nested-link",158,49,"internal link in an external link","[[維基衛星地圖]]"]]

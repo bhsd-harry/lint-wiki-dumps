@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",160,2,"[[Category:河南褚氏|C澄]]"]]
+window.data=[["no-duplicate",160,2,"duplicated category","[[Category:河南褚氏|C澄]]"],["no-duplicate",161,2,"duplicated category","[[Category:河南褚氏]]"]]

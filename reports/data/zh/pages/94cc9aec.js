@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,3,"combatant2={{flag|Nazi Germany|name=納粹德國}}\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter","combatant2={{flag|Nazi Germany|name=納粹德國}}\n "],["no-duplicate",13,3,"duplicated parameter","combatant2={{flagcountry|納粹德國}}<br>{{Flagdeco|挪威}} [[吉斯林政權|吉斯林政府]]\n "]]

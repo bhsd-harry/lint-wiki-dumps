@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",34,2,"[[Category:華特迪士尼世界度假區]]"]]
+window.data=[["no-duplicate",34,2,"duplicated category","[[Category:華特迪士尼世界度假區]]"],["no-duplicate",87,2,"duplicated category","[[Category:華特迪士尼世界度假區]]"]]

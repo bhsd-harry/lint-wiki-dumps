@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",1,49,"duplicated image caption parameter","縮圖"]]
+window.data=[["no-duplicate",1,49,"duplicated image caption parameter","縮圖"],["no-duplicate",1,52,"duplicated image caption parameter","447x447像素"],["no-duplicate",1,62,"duplicated image caption parameter","第二次[[國共內戰]]嘅三大戰役"]]

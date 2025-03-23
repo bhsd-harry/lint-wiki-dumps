@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3," synonyms = \n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter"," synonyms = \n "],["no-duplicate",9,3,"duplicated parameter"," synonyms = ''Bayadera hyalina'' {{small|Ris, 1912, nec Selys, 1879}}\n "]]

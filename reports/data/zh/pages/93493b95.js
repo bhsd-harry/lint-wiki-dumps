@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",60,204,"[[騙子_(電影)|騙子]]"]]
+window.data=[["nested-link",60,204,"internal link in an external link","[[騙子_(電影)|騙子]]"],["invalid-css",84,48,"} expected","\""],["invalid-css",95,48,"} expected","\""]]

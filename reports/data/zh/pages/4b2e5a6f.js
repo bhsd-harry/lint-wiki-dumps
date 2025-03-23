@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",106,2,"[[Category:活检]]"]]
+window.data=[["no-duplicate",106,2,"duplicated category","[[Category:活检]]"],["no-duplicate",109,2,"duplicated category","[[Category:活检| ]]"],["no-duplicate",108,2,"duplicated category","[[Category:手術]]"],["no-duplicate",110,2,"duplicated category","[[Category:手術|B]]"]]

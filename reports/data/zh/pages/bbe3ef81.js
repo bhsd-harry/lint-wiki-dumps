@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",46,167,"website=Congresswoman Michele Bachmann"]]
+window.data=[["no-duplicate",46,167,"duplicated parameter","website=Congresswoman Michele Bachmann"],["no-duplicate",46,206,"duplicated parameter","website=house.gov"]]

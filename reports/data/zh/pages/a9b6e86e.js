@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1031,3,"colspan=\"3\""],[1,"no-ignored",868,45,"; color:\"white\""]]
+window.data=[["no-ignored",868,45,"containing invalid attribute","; color:\"white\""],["no-duplicate",1031,3,"duplicated colspan attribute","colspan=\"3\""],["no-duplicate",1031,16,"duplicated colspan attribute","colspan=3"]]

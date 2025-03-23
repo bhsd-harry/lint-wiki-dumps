@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",130,2,"[[Category:苏联纪念奖章]]"]]
+window.data=[["no-duplicate",130,2,"duplicated category","[[Category:苏联纪念奖章]]"],["no-duplicate",131,2,"duplicated category","[[Category:苏联纪念奖章]]"]]

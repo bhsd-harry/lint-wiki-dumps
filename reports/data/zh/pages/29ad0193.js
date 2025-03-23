@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",103,2,"[[Category:酷刑]]"]]
+window.data=[["no-duplicate",103,2,"duplicated category","[[Category:酷刑]]"],["no-duplicate",106,2,"duplicated category","[[Category:酷刑|刑]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,52,"250p7x"]]
+window.data=[["no-duplicate",3,52,"duplicated image caption parameter","250p7x"],["no-duplicate",3,59,"duplicated image caption parameter","[[兵馬俑]]中的古代步兵"]]

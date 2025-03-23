@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",228,2,"[[Category:美国军事科技人物]]"]]
+window.data=[["no-duplicate",228,2,"duplicated category","[[Category:美国军事科技人物]]"],["no-duplicate",239,2,"duplicated category","[[Category:美国军事科技人物]]"]]

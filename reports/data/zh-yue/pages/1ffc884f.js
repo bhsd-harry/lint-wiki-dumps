@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",254,136,"duplicated parameter","author=Benito Mussolini"]]
+window.data=[["no-duplicate",254,136,"duplicated parameter","author=Benito Mussolini"],["no-duplicate",254,180,"duplicated parameter","author=Giovanni Gentile"]]

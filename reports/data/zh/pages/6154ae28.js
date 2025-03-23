@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",103,77,"]]"],[2,"no-duplicate",27,53,"链接=https://en.wikipedia.org/wiki/File:Parish Church - geograph.org.uk - 35050.jpg"]]
+window.data=[["no-duplicate",27,53,"duplicated image caption parameter","链接=https://en.wikipedia.org/wiki/File:Parish Church - geograph.org.uk - 35050.jpg"],["no-duplicate",27,141,"duplicated image caption parameter","貝里教堂"],["lonely-bracket",103,77,"lonely \"]\"","]]"]]

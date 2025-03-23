@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",146,2,"[[Category:橋田賞獲獎作品]]"]]
+window.data=[["no-duplicate",146,2,"duplicated category","[[Category:橋田賞獲獎作品]]"],["no-duplicate",149,2,"duplicated category","[[Category:橋田賞獲獎作品]]"]]

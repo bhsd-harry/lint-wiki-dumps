@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,2,"[[Category:中国共产党第十九届中央委员会候补委员]]"]]
+window.data=[["no-duplicate",29,2,"duplicated category","[[Category:中国共产党第十九届中央委员会候补委员]]"],["no-duplicate",34,2,"duplicated category","[[Category:中国共产党第十九届中央委员会候补委员]]"]]

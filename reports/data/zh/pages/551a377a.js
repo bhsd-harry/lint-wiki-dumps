@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,3,"battles=\n "],[1,"unmatched-tag",56,20,"</small>"]]
+window.data=[["unmatched-tag",56,20,"unmatched closing tag","</small>"],["no-duplicate",23,3,"duplicated parameter","battles=\n "],["no-duplicate",48,3,"duplicated parameter","battles=\n * [[第一次世界大戰]]\n * [[第二次世界大戰]]\n * [[Korean War]]\n * East &  North Africa: 1940-41/1941-43\n * Madagascar: 1942\n * Italy: 1943–1945\n * Balkans 1"]]

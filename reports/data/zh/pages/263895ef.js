@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:中國已結業航空公司]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:中國已結業航空公司]]"],["no-duplicate",44,2,"duplicated category","[[category:中國已結業航空公司]]"]]

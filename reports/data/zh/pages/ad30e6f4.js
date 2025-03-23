@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",85,4,"||王帶金（鋼牙）"]]
+window.data=[["no-ignored",85,4,"containing invalid attribute","||王帶金（鋼牙）"]]

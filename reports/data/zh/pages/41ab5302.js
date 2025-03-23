@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",203,2,"[[Category:時代劇動畫]]"]]
+window.data=[["no-duplicate",203,2,"duplicated category","[[Category:時代劇動畫]]"],["no-duplicate",211,2,"duplicated category","[[Category:時代劇動畫]]"]]

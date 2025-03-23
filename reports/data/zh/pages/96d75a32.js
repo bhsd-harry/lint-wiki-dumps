@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",291,11,"[["],[1,"no-ignored",291,4,"|富田太郎||[[古海幸磨]]||[[梁少霞]]"]]
+window.data=[["lonely-bracket",291,11,"lonely \"[\"","[["],["lonely-bracket",291,17,"lonely \"]\"","]]"],["lonely-bracket",291,21,"lonely \"[\"","[["],["lonely-bracket",291,26,"lonely \"]\"","]]"],["no-ignored",291,4,"containing invalid attribute","|富田太郎||[[古海幸磨]]||[[梁少霞]]"]]

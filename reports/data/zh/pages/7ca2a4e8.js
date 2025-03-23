@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",48,20,"Nanzan"]]
+window.data=[["no-duplicate",48,20,"duplicated image caption parameter","Nanzan"],["no-duplicate",48,45,"duplicated image caption parameter","南山大學名古屋校區"],["no-duplicate",49,46,"duplicated image caption parameter","Nanzan_University_main_gate_2014"],["no-duplicate",49,97,"duplicated image caption parameter","南山大學正門"]]

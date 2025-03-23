@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",131,338,"[[Journal of Marital &  Family Therapy]]"]]
+window.data=[["nested-link",131,338,"internal link in an external link","[[Journal of Marital &  Family Therapy]]"]]

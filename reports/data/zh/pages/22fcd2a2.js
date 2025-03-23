@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,39,"widthpx"]]
+window.data=[["no-duplicate",22,39,"duplicated image caption parameter","widthpx"],["no-duplicate",22,47,"duplicated image caption parameter","生成之後又完全蒸發殆盡之黑洞的[[彭罗斯图]]。掉進該黑洞的資訊會擊中奇異點。縱軸代表時間（由下而上）；橫軸則代表空間（從左至右半徑從零開始擴增）"]]

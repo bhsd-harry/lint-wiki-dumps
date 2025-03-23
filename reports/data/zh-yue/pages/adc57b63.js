@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",16,2,"duplicated category","[[Category:美術材料]]"]]
+window.data=[["no-duplicate",16,2,"duplicated category","[[Category:美術材料]]"],["no-duplicate",17,2,"duplicated category","[[Category:美術材料]]"],["no-duplicate",18,2,"duplicated category","[[Category:美術材料]]"]]

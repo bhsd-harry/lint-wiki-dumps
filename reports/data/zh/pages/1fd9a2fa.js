@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",122,2,"[[Category:義大利藝術家]]"]]
+window.data=[["no-duplicate",122,2,"duplicated category","[[Category:義大利藝術家]]"],["no-duplicate",125,2,"duplicated category","[[Category:義大利藝術家|画家]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",77,1," ;向工街昆山路（站位位于向工街，向工街昆山西路路口南侧，B出入口向南步行约400米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|175|176|199|208}}"]]
+window.data=[["fostered-content",77,1,"content to be moved out from the table"," ;向工街昆山路（站位位于向工街，向工街昆山西路路口南侧，B出入口向南步行约400米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|175|176|199|208}}"],["fostered-content",80,1,"content to be moved out from the table"," ;昆山路向工街（站位位于昆山西路，向工街昆山西路路口东侧，B出入口向南步行约400米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|125|175|209|228|267|329|329支}}\n {{col-end}}"]]

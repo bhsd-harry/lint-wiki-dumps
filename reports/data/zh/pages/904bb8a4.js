@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",39,154,"["],[2,"no-duplicate",46,2,"[[Category:義大利藝術家]]"]]
+window.data=[["lonely-bracket",39,154,"lonely \"[\"","["],["no-duplicate",46,2,"duplicated category","[[Category:義大利藝術家]]"],["no-duplicate",48,2,"duplicated category","[[Category:義大利藝術家|画家]]"]]

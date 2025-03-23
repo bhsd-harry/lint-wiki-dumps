@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",229,2,"[[Category:美國電影導演]]"]]
+window.data=[["no-duplicate",229,2,"duplicated category","[[Category:美國電影導演]]"],["no-duplicate",263,2,"duplicated category","[[Category:美國電影導演]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",121,2,"[[Category:安葬于拜科夫公墓者]]"]]
+window.data=[["no-duplicate",121,2,"duplicated category","[[Category:安葬于拜科夫公墓者]]"],["no-duplicate",127,2,"duplicated category","[[Category:安葬于拜科夫公墓者]]"]]

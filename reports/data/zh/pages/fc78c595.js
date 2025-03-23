@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",66,2,"[[Category:1940年台灣建立]]"]]
+window.data=[["no-duplicate",66,2,"duplicated category","[[Category:1940年台灣建立]]"],["no-duplicate",69,2,"duplicated category","[[Category:1940年台灣建立]]"],["no-duplicate",67,2,"duplicated category","[[Category:玉里鎮]]"],["no-duplicate",71,2,"duplicated category","[[Category:玉里鎮]]"],["no-duplicate",68,2,"duplicated category","[[Category:花蓮縣立國民小學]]"],["no-duplicate",70,2,"duplicated category","[[Category:花蓮縣立國民小學]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",538,1," (2)桃園璞園  vs (5) 富邦勇士"],[1,"no-ignored",227,29,"65%\"  "]]
+window.data=[["no-ignored",227,29,"containing invalid attribute","65%\"  "],["fostered-content",538,1,"content to be moved out from the table"," (2)桃園璞園  vs (5) 富邦勇士"]]

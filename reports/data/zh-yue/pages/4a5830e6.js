@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,25,"duplicated image caption parameter","Don Quixote and Sancho Panza"]]
+window.data=[["no-duplicate",16,25,"duplicated image caption parameter","Don Quixote and Sancho Panza"],["no-duplicate",16,66,"duplicated image caption parameter","唐吉訶德對抗[[風車]]圖. By [[:en:Gustave Doré|Gustave Doré]]."]]

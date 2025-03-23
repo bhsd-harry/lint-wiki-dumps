@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,3," Occupation          = [[小提琴家]]\n "]]
+window.data=[["no-duplicate",14,3,"duplicated parameter"," Occupation          = [[小提琴家]]\n "],["no-duplicate",16,3,"duplicated parameter"," Occupation          = [[小提琴家]]、[[中提琴|中提琴家]]、[[指挥]]\n "]]

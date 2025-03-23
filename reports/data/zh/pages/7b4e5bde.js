@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",211,2,"[[Category:杰克·安东诺夫制作的歌曲]]"]]
+window.data=[["no-duplicate",211,2,"duplicated category","[[Category:杰克·安东诺夫制作的歌曲]]"],["no-duplicate",213,2,"duplicated category","[[Category:杰克·安东诺夫制作的歌曲]]"]]

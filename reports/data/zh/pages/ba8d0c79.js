@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",34,2,"[[Category:蠕虫病毒]]"]]
+window.data=[["no-duplicate",34,2,"duplicated category","[[Category:蠕虫病毒]]"],["no-duplicate",35,2,"duplicated category","[[Category:蠕虫病毒]]"]]

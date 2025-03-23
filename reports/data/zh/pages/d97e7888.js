@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",532,3,"nowrap"]]
+window.data=[["illegal-attr",532,3,"illegal attribute name","nowrap"],["invalid-css",583,42,"semi-colon expected",""],["invalid-css",583,42,"colon expected",""],["invalid-css",1150,42,"semi-colon expected",""],["invalid-css",1150,42,"colon expected",""],["invalid-css",1186,42,"semi-colon expected",""],["invalid-css",1186,42,"colon expected",""],["invalid-css",1659,42,"semi-colon expected",""],["invalid-css",1659,42,"colon expected",""]]

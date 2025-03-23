@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",69,2,"[[Category:謬誤]]"]]
+window.data=[["no-duplicate",69,2,"duplicated category","[[Category:謬誤]]"],["no-duplicate",71,2,"duplicated category","[[Category:謬誤]]"]]

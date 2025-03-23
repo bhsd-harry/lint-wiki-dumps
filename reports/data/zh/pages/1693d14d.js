@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",158,2,"[[Category:金球奖音乐及喜剧类电影最佳男主角]]"]]
+window.data=[["no-duplicate",158,2,"duplicated category","[[Category:金球奖音乐及喜剧类电影最佳男主角]]"],["no-duplicate",171,2,"duplicated category","[[Category:金球奖音乐及喜剧类电影最佳男主角]]"]]

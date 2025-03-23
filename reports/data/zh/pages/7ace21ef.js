@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,3,"zh-cn:太空堡垒卡拉狄加：血与铬;zh-hk:太空堡壘卡拉狄加：血與鉻;zh-sg:星际大争霸前传;zh-tw:星際大爭霸前傳;\n "]]
+window.data=[["no-duplicate",7,3,"duplicated parameter","zh-cn:太空堡垒卡拉狄加：血与铬;zh-hk:太空堡壘卡拉狄加：血與鉻;zh-sg:星际大争霸前传;zh-tw:星際大爭霸前傳;\n "],["no-duplicate",3,3,"duplicated parameter","1=zh-cn:太空堡垒卡拉狄加;zh-hk:太空堡壘卡拉狄加;zh-sg:星际大争霸;zh-tw:星際大爭霸;\n "]]

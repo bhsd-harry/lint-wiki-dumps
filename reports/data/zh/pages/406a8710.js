@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",34,38,"200"]]
+window.data=[["no-duplicate",34,38,"duplicated image caption parameter","200"],["no-duplicate",34,42,"duplicated image caption parameter","向山下離站後可見到鐵路線已經變為雙線鐵路。"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",153,2,"[[Category:环境激素]]"]]
+window.data=[["no-duplicate",153,2,"duplicated category","[[Category:环境激素]]"],["no-duplicate",154,2,"duplicated category","[[Category:环境激素| ]]"]]

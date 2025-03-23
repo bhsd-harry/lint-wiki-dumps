@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",134,2,"[[Category:臺灣鐵路管理局無動力客車|*]]"]]
+window.data=[["no-duplicate",134,2,"duplicated category","[[Category:臺灣鐵路管理局無動力客車|*]]"],["no-duplicate",174,2,"duplicated category","[[Category:臺灣鐵路管理局無動力客車|*]]"]]

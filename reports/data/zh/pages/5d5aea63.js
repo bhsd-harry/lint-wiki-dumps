@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",52,2,"[[Category:明朝敘州府同知]]"]]
+window.data=[["no-duplicate",52,2,"duplicated category","[[Category:明朝敘州府同知]]"],["no-duplicate",58,2,"duplicated category","[[Category:明朝敘州府同知]]"]]

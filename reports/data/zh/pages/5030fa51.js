@@ -1,1 +1,1 @@
-window.data=[[4,"pipe-like",150,41,"山东美琳达再生能源开发有限公司 || 陕西省"]]
+window.data=[["pipe-like",150,41,"additional \"|\" in a table cell","山东美琳达再生能源开发有限公司 || 陕西省"],["pipe-like",281,81,"additional \"|\" in a table cell"," || "],["pipe-like",286,87,"additional \"|\" in a table cell","福建上润精密仪器有限公司 || 中国农学会"],["pipe-like",295,43,"additional \"|\" in a table cell","深圳市北斗云信息技术有限公司 || 四川省"]]

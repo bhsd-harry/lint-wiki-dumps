@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,2,"[[Category:明朝大理寺少卿]]"]]
+window.data=[["no-duplicate",63,2,"duplicated category","[[Category:明朝大理寺少卿]]"],["no-duplicate",72,2,"duplicated category","[[Category:明朝大理寺少卿]]"]]

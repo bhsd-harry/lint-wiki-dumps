@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",171,2,"[[Category:行政院環境保護署署長]]"]]
+window.data=[["no-duplicate",171,2,"duplicated category","[[Category:行政院環境保護署署長]]"],["no-duplicate",174,2,"duplicated category","[[Category:行政院環境保護署署長]]"]]

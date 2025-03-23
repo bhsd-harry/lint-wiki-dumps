@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",132,2,"[[Category:乌克兰空军]]"]]
+window.data=[["no-duplicate",132,2,"duplicated category","[[Category:乌克兰空军]]"],["no-duplicate",136,2,"duplicated category","[[Category:乌克兰空军]]"],["no-duplicate",133,2,"duplicated category","[[Category:1991年烏克蘭建立]]"],["no-duplicate",135,2,"duplicated category","[[Category:1991年烏克蘭建立]]"],["no-duplicate",134,2,"duplicated category","[[Category:空軍司令]]"],["no-duplicate",137,2,"duplicated category","[[Category:空軍司令]]"]]

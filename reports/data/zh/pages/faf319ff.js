@@ -1,1 +1,1 @@
-window.data=[[3,"nested-link",47,62,"[[傳說對決]]"]]
+window.data=[["nested-link",47,62,"internal link in an external link","[[傳說對決]]"],["nested-link",63,154,"internal link in an external link","[[黃子佼]]"],["nested-link",65,142,"internal link in an external link","[[馬世芳]]"]]

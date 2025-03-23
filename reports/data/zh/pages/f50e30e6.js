@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",65,33,"style=\"float:left;clear:left;margin: 1em auto 1em auto;text-align: center; width:100%\""]]
+window.data=[["no-duplicate",65,33,"duplicated style attribute","style=\"float:left;clear:left;margin: 1em auto 1em auto;text-align: center; width:100%\""],["no-duplicate",65,123,"duplicated style attribute","style=\"\""],["no-duplicate",109,33,"duplicated style attribute","style=\"float:left;clear:left;margin: 1em auto 1em auto;text-align: center; width:100%\""],["no-duplicate",109,123,"duplicated style attribute","style=\"\""]]

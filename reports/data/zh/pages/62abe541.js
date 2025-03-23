@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",317,24," ''z'' = "]]
+window.data=[["no-duplicate",317,24,"duplicated image caption parameter"," ''z'' = "],["no-duplicate",317,34,"duplicated image caption parameter","W<sub>0</sub>(''x'' + ''i'' ''y'')"],["no-duplicate",317,69,"duplicated image caption parameter",""]]

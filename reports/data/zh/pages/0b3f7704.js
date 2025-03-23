@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",56,4,"table"],[2,"no-duplicate",22,3,"connections = \n "]]
+window.data=[["no-duplicate",22,3,"duplicated parameter","connections = \n "],["no-duplicate",34,3,"duplicated parameter","connections = 臺灣大道幹線公車 [[市政府站 (臺中市公車站)|市政府站]]\n "],["illegal-attr",56,4,"illegal attribute name","table"],["illegal-attr",76,4,"illegal attribute name","table"]]

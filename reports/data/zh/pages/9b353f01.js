@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3,"stage1thrust=6台[[RD-253]]环向布置\n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter","stage1thrust=6台[[RD-253]]环向布置\n "],["no-duplicate",15,3,"duplicated parameter","stage1thrust=8847千牛（海平面）<br>10470千牛（真空）\n "]]

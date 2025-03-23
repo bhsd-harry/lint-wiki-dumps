@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",63,2,"[[Category:亂流]]"]]
+window.data=[["no-duplicate",63,2,"duplicated category","[[Category:亂流]]"],["no-duplicate",68,2,"duplicated category","[[Category:亂流]]"],["no-duplicate",65,2,"duplicated category","[[Category:航空风险]]"],["no-duplicate",70,2,"duplicated category","[[Category:航空风险]]"]]

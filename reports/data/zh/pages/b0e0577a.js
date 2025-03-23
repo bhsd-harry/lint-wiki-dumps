@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",180,106,"  \"style=\"font-size: 100%\""]]
+window.data=[["no-ignored",180,106,"containing invalid attribute","  \"style=\"font-size: 100%\""],["no-ignored",264,106,"containing invalid attribute","  \"style=\"font-size: 100%\""]]

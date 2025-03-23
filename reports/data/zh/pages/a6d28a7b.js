@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",998,3,"RD1=第21-24名\n "]]
+window.data=[["no-duplicate",998,3,"duplicated parameter","RD1=第21-24名\n "],["no-duplicate",1013,3,"duplicated parameter","RD1=第17-24名"],["no-duplicate",999,3,"duplicated parameter","RD2=第21-22名\n "],["no-duplicate",1013,16,"duplicated parameter","RD2=第17-20名"],["no-duplicate",1000,3,"duplicated parameter","RD3=第23-24名\n <!--第17-24名-->\n "],["no-duplicate",1013,29,"duplicated parameter","RD3=第17-18名"]]

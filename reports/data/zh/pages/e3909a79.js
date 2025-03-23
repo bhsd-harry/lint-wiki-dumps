@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3," 管理者         = 香川县政府\n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter"," 管理者         = 香川县政府\n "],["no-duplicate",21,3,"duplicated parameter"," 管理者         = 香川县栗林公园观光事务所\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",318,2,"[[Category:以色列卫生部长]]"]]
+window.data=[["no-duplicate",318,2,"duplicated category","[[Category:以色列卫生部长]]"],["no-duplicate",323,2,"duplicated category","[[Category:以色列卫生部长]]"]]

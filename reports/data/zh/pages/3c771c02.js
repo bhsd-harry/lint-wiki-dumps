@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",95,2,"[[Category:蘇格蘭雕塑]]"]]
+window.data=[["no-duplicate",95,2,"duplicated category","[[Category:蘇格蘭雕塑]]"],["no-duplicate",97,2,"duplicated category","[[Category:蘇格蘭雕塑]]"]]

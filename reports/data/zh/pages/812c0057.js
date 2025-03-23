@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",8,43,"Fab@Home "]]
+window.data=[["no-duplicate",8,43,"duplicated image caption parameter","Fab@Home "],["no-duplicate",8,53,"duplicated image caption parameter","227×227px"],["no-duplicate",9,50,"duplicated image caption parameter","225×225px"],["no-duplicate",9,60,"duplicated image caption parameter","CandyFab"]]

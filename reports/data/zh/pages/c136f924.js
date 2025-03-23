@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",55,66,"]"],[2,"no-duplicate",16,3," season = 全年\n "]]
+window.data=[["no-duplicate",16,3,"duplicated parameter"," season = 全年\n "],["no-duplicate",22,3,"duplicated parameter"," season = \n "],["lonely-bracket",55,66,"lonely \"]\"","]"]]

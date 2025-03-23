@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,3,"affiliations=[[財務省]]\n "]]
+window.data=[["no-duplicate",16,3,"duplicated parameter","affiliations=[[財務省]]\n "],["no-duplicate",22,3,"duplicated parameter","affiliations=[[財務省]]\n "]]

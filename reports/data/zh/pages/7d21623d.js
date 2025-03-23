@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",57,4," =\"wikitable\"  "]]
+window.data=[["no-ignored",57,4,"containing invalid attribute"," =\"wikitable\"  "]]

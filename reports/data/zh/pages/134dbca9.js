@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",4,168,"ISBN 857-638-350-1"],[3,"lonely-apos",114,82,"'"],[1,"unmatched-tag",76,2,"</center>"]]
+window.data=[["invalid-isbn",4,168,"invalid ISBN","ISBN 857-638-350-1"],["unmatched-tag",76,2,"unmatched closing tag","</center>"],["lonely-apos",114,82,"lonely \"'\"","'"],["lonely-apos",114,103,"lonely \"'\"","'"],["lonely-apos",120,83,"lonely \"'\"","'"]]

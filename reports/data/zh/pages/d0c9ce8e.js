@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,2,"[[Category:阿肯色州桥梁]]"]]
+window.data=[["no-duplicate",44,2,"duplicated category","[[Category:阿肯色州桥梁]]"],["no-duplicate",47,2,"duplicated category","[[Category:阿肯色州桥梁]]"]]

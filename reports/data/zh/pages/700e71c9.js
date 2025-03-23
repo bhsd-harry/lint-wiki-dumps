@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",92,1," ;全运路火石桥大街（站位位于全运路，A出口向北约400米，全运路火石桥大街路口西侧）\n {{沈阳公交线路列表|width=100%|format=|128|188|334}}"]]
+window.data=[["fostered-content",92,1,"content to be moved out from the table"," ;全运路火石桥大街（站位位于全运路，A出口向北约400米，全运路火石桥大街路口西侧）\n {{沈阳公交线路列表|width=100%|format=|128|188|334}}"],["fostered-content",95,1,"content to be moved out from the table"," ;沈营路658号（站位位于沈营大街，D出口向东南约570米，全运二西路与沈营大街路口）\n {{沈阳公交线路列表|width=100%|format=|198北|198西|333|335|394|394杨城|394桃木}}\n {{col-end}}"]]

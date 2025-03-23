@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",100,2,"[[Category:陪審團]]"]]
+window.data=[["no-duplicate",100,2,"duplicated category","[[Category:陪審團]]"],["no-duplicate",103,2,"duplicated category","[[Category:陪審團]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",277,5,"style=\"width:300px\""],[1,"unclosed-table",454,2,"{|"],[1,"unmatched-tag",488,12,"</table>"]]
+window.data=[["no-duplicate",277,5,"duplicated style attribute","style=\"width:300px\""],["no-duplicate",277,54,"duplicated style attribute","style=\"float:right;text-align:right\""],["unmatched-tag",488,12,"unmatched closing tag","</table>"],["unclosed-table",454,2,"unclosed table","{|"]]

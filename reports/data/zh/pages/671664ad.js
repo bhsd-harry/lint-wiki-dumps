@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,19,"[[火星勘测轨道飞行器]]背景相机拍摄的瑞利陨击坑Wikirayleighlayers.jpg"]]
+window.data=[["no-duplicate",18,19,"duplicated image caption parameter","[[火星勘测轨道飞行器]]背景相机拍摄的瑞利陨击坑Wikirayleighlayers.jpg"],["no-duplicate",18,67,"duplicated image caption parameter","瑞利陨击坑内的地层，注：这是前一幅图像的放大版。"]]

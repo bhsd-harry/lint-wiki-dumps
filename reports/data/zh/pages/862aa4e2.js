@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",394,1," </table>\n\n ==主要城市==\n {{main|朝鮮半島城市人口列表}}\n"],[1,"unclosed-table",184,2,"{|"],[1,"unmatched-tag",394,2,"</table>"]]
+window.data=[["unmatched-tag",394,2,"unmatched closing tag","</table>"],["fostered-content",394,1,"content to be moved out from the table"," </table>\n\n ==主要城市==\n {{main|朝鮮半島城市人口列表}}\n"],["unclosed-table",184,2,"unclosed table","{|"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",542,2,"[[Category:美國奧運羽毛球運動員]]"]]
+window.data=[["no-duplicate",542,2,"duplicated category","[[Category:美國奧運羽毛球運動員]]"],["no-duplicate",543,2,"duplicated category","[[Category:美國奧運羽毛球運動員]]"]]

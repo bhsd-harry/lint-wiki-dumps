@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",221,3,"23.43"],[1,"no-ignored",167,3,"{{flagIOCathlete|[[孙福明]]|CHN|2004年夏季}}<br />'''L''' 0000–1000 "],[1,"parsing-order",167,41,"<br />"]]
+window.data=[["parsing-order",167,41,"HTML tag in table attributes","<br />"],["no-ignored",167,3,"containing invalid attribute","{{flagIOCathlete|[[孙福明]]|CHN|2004年夏季}}<br />'''L''' 0000–1000 "],["illegal-attr",221,3,"illegal attribute name","23.43"],["illegal-attr",281,3,"illegal attribute name","95"],["illegal-attr",282,3,"illegal attribute name","120"]]

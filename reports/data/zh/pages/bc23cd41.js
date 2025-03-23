@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",119,18,"web"],[1,"lonely-bracket",119,11,"{{"],[1,"no-ignored",119,3," 阿娟<ref>{{Cite "],[1,"tag-like",119,6,"<ref"]]
+window.data=[["tag-like",119,6,"lonely \"<\"","<ref"],["lonely-bracket",119,11,"lonely \"{\"","{{"],["illegal-attr",119,18,"illegal attribute name","web"],["no-ignored",119,3,"containing invalid attribute"," 阿娟<ref>{{Cite "]]

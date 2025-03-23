@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",159,24,"'"],[4,"no-duplicate",371,3," nominee1 = [[凱瑟琳·克拉克]]\n "]]
+window.data=[["lonely-apos",159,24,"lonely \"'\"","'"],["no-duplicate",371,3,"duplicated parameter"," nominee1 = [[凱瑟琳·克拉克]]\n "],["no-duplicate",372,3,"duplicated parameter"," nominee1 = '''[[Katherine Clark]]'''\n "],["no-duplicate",515,3,"duplicated parameter"," nominee1 = [[阿亞娜·普雷斯利]]\n "],["no-duplicate",516,3,"duplicated parameter"," nominee1 = '''[[阿亞娜·普雷斯利]]'''\n "]]

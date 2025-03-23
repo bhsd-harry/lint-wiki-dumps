@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",59,2,"[[Category:健行科技大學教授|C陳]]"]]
+window.data=[["no-duplicate",59,2,"duplicated category","[[Category:健行科技大學教授|C陳]]"],["no-duplicate",60,2,"duplicated category","[[Category:健行科技大學教授|C陳]]"]]

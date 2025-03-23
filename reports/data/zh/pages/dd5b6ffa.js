@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",235,45,"name=<ref"],[1,"tag-like",235,50,"<ref"],[1,"unmatched-tag",264,2,"</table>"]]
+window.data=[["tag-like",235,50,"lonely \"<\"","<ref"],["no-duplicate",235,45,"duplicated name attribute","name=<ref"],["no-duplicate",235,55,"duplicated name attribute","name=\"GunnPeacemakerS2Continuity\""],["unmatched-tag",264,2,"unmatched closing tag","</table>"]]

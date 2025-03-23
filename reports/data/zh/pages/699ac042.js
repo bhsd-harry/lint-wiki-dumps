@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",49,2,"[[Category:香港驚悚片]]"]]
+window.data=[["no-duplicate",49,2,"duplicated category","[[Category:香港驚悚片]]"],["no-duplicate",50,2,"duplicated category","[[Category:香港驚悚片]]"]]

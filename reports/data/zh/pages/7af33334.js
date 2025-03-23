@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",59,1," * 幼儿教育学科"]]
+window.data=[["fostered-content",59,1,"content to be moved out from the table"," * 幼儿教育学科"],["fostered-content",84,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]：前四日市大学短期大学部附属幼儿园"]]

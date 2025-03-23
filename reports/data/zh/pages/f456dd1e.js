@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3," native_name        = {{lang|fr|Forces Armées Maliennes}}\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter"," native_name        = {{lang|fr|Forces Armées Maliennes}}\n "],["no-duplicate",12,3,"duplicated parameter","native_name = Forces Armées Maliennes\n "]]

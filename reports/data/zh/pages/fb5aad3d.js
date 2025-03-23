@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,2,"[[category:香港電子公司]]"]]
+window.data=[["no-duplicate",25,2,"duplicated category","[[category:香港電子公司]]"],["no-duplicate",27,2,"duplicated category","[[category:香港電子公司]]"]]

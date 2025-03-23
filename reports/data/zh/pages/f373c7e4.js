@@ -1,1 +1,1 @@
-window.data=[[6,"lonely-bracket",159,39,"{{"],[2,"no-duplicate",214,3,"電視台= "]]
+window.data=[["lonely-bracket",159,39,"lonely \"{\"","{{"],["lonely-bracket",159,93,"lonely \"}\"","}}"],["lonely-bracket",217,9,"lonely \"[\"","[["],["lonely-bracket",217,11,"lonely \"]\"","]]"],["lonely-bracket",218,8,"lonely \"[\"","[["],["lonely-bracket",218,10,"lonely \"]\"","]]"],["no-duplicate",214,3,"duplicated parameter","電視台= "],["no-duplicate",214,9,"duplicated parameter","電視台={{flagicon|THA}}[[泰国第3电视台]]\n "]]

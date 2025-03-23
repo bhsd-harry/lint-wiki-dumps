@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,45,"Right"]]
+window.data=[["no-duplicate",65,45,"duplicated image caption parameter","Right"],["no-duplicate",65,51,"duplicated image caption parameter","2023年12月2日，許靖韻於[[尖沙咀]][[香港科學館]]露天廣場出席[[香港電台]]《聲影穿梭—香港公共廣播九十五年》嘉年華"]]

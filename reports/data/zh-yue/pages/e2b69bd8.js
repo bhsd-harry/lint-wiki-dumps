@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",1,54,"duplicated image caption parameter","Right"]]
+window.data=[["no-duplicate",1,54,"duplicated image caption parameter","Right"],["no-duplicate",1,60,"duplicated image caption parameter","上窰民俗文物館正門，以原牌樓改建而成。"],["no-duplicate",2,38,"duplicated image caption parameter","Right"],["no-duplicate",2,44,"duplicated image caption parameter","上窰民俗文物館館外，被列為法定古蹟嘅上窰村灰窰遺址。"]]

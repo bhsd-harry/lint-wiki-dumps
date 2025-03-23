@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,84,"date = 2017"]]
+window.data=[["no-duplicate",2,84,"duplicated parameter","date = 2017"],["no-duplicate",2,117,"duplicated parameter","date = 2017-08"]]

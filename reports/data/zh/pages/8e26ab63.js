@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",376,46,"]]"],[2,"no-duplicate",24,3," website=https://web.archive.org/web/20180224124147/https://rsaf.gov.sa/Pages/Default.aspx\n "]]
+window.data=[["no-duplicate",24,3,"duplicated parameter"," website=https://web.archive.org/web/20180224124147/https://rsaf.gov.sa/Pages/Default.aspx\n "],["no-duplicate",41,3,"duplicated parameter"," website ={{url|rsaf.gov.sa|www.rsaf.gov.sa}}<!-- Commanders -->\n "],["lonely-bracket",376,46,"lonely \"]\"","]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",89,2,"[[Category:康橋國際學校校友]]"]]
+window.data=[["no-duplicate",89,2,"duplicated category","[[Category:康橋國際學校校友]]"],["no-duplicate",90,2,"duplicated category","[[Category:康橋國際學校校友]]"]]

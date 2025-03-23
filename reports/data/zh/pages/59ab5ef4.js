@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-http",140,380,"https://"],[2,"no-duplicate",59,312,"group=web"]]
+window.data=[["no-duplicate",59,312,"duplicated group attribute","group=web"],["no-duplicate",59,322,"duplicated group attribute","group=web"],["lonely-http",140,380,"lonely \"https://\"","https://"],["lonely-http",140,423,"lonely \"http://\"","http://"]]

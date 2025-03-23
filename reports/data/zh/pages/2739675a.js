@@ -1,1 +1,1 @@
-window.data=[[5,"no-duplicate",26,2,"[[Category:CS1: long volume value]]"]]
+window.data=[["no-duplicate",26,2,"duplicated category","[[Category:CS1: long volume value]]"],["no-duplicate",58,2,"duplicated category","[[Category:CS1: long volume value]]"],["no-duplicate",64,2,"duplicated category","[[Category:CS1: long volume value]]"],["no-duplicate",68,2,"duplicated category","[[Category:CS1: long volume value]]"],["no-duplicate",100,2,"duplicated category","[[Category:CS1: long volume value]]"]]

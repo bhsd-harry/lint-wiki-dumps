@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",39,2,"[[分类:中国曲艺家协会会员]]"]]
+window.data=[["no-duplicate",39,2,"duplicated category","[[分类:中国曲艺家协会会员]]"],["no-duplicate",41,2,"duplicated category","[[分类:中国曲艺家协会会员]]"]]

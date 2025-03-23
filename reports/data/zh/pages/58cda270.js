@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",52,1," * 保育科"]]
+window.data=[["fostered-content",52,1,"content to be moved out from the table"," * 保育科"],["fostered-content",82,1,"content to be moved out from the table"," * 前白梅学园短期大学附属幼儿园：成立于1969年<ref name=\"短期大学的历史\"/>"]]

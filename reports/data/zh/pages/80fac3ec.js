@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",63,25,"謝然之（2000）〈自述年譜簡編〉，姚朋編《新聞與教育生涯－－謝然之教授九秩華誕祝壽文集》，臺北：三民書局。<references"],[1,"tag-like",63,79,"<references"]]
+window.data=[["tag-like",63,79,"lonely \"<\"","<references"],["no-ignored",63,25,"containing invalid attribute","謝然之（2000）〈自述年譜簡編〉，姚朋編《新聞與教育生涯－－謝然之教授九秩華誕祝壽文集》，臺北：三民書局。<references"]]

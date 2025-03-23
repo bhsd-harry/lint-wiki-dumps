@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",50,2,"[[Category:2019年欧洲运动会皮划艇运动员]]"]]
+window.data=[["no-duplicate",50,2,"duplicated category","[[Category:2019年欧洲运动会皮划艇运动员]]"],["no-duplicate",58,2,"duplicated category","[[Category:2019年欧洲运动会皮划艇运动员]]"]]

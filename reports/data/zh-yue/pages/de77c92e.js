@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",47,8,"duplicated parameter","name3=Halfwidth Katakana Letter HA\n "]]
+window.data=[["no-duplicate",47,8,"duplicated parameter","name3=Halfwidth Katakana Letter HA\n "],["no-duplicate",48,8,"duplicated parameter","name3=Katakana Letter Small HA\n "]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",50,2,"[[Category:大埔縣人]]"]]
+window.data=[["no-duplicate",50,2,"duplicated category","[[Category:大埔縣人]]"],["no-duplicate",57,2,"duplicated category","[[Category:大埔縣人]]"],["no-duplicate",52,2,"duplicated category","[[Category:郭姓]]"],["no-duplicate",56,2,"duplicated category","[[Category:郭姓|Feng]]"]]

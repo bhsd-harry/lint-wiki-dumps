@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",151,2,"[[Category:澳大利亞總督]]"]]
+window.data=[["no-duplicate",151,2,"duplicated category","[[Category:澳大利亞總督]]"],["no-duplicate",161,2,"duplicated category","[[Category:澳大利亞總督]]"],["no-duplicate",153,2,"duplicated category","[[Category:英国陆军元帅]]"],["no-duplicate",159,2,"duplicated category","[[Category:英国陆军元帅]]"],["no-duplicate",156,2,"duplicated category","[[Category:国王皇家步枪团军官]]"],["no-duplicate",163,2,"duplicated category","[[Category:国王皇家步枪团军官]]"]]

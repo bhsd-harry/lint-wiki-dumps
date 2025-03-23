@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",45,2,"[[Category:台灣跨性別女性人物]]"]]
+window.data=[["no-duplicate",45,2,"duplicated category","[[Category:台灣跨性別女性人物]]"],["no-duplicate",47,2,"duplicated category","[[Category:台灣跨性別女性人物]]"]]

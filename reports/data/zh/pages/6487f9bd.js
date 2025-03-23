@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,2,"[[Category:巴黎公社]]"]]
+window.data=[["no-duplicate",25,2,"duplicated category","[[Category:巴黎公社]]"],["no-duplicate",38,2,"duplicated category","[[Category:巴黎公社]]"]]

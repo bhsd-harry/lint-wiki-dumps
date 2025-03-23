@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,2,"[[Category:第八屆全國政協委員]]"]]
+window.data=[["no-duplicate",18,2,"duplicated category","[[Category:第八屆全國政協委員]]"],["no-duplicate",19,2,"duplicated category","[[Category:第八屆全國政協委員]]"]]

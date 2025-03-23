@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",421,3,"mare=號族：8-h\n "]]
+window.data=[["no-duplicate",421,3,"duplicated parameter","mare=號族：8-h\n "],["no-duplicate",422,3,"duplicated parameter","mare=北地舞人 5×4\n "]]

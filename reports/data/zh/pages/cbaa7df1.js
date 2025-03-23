@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",70,1," :[[四眼鬼神]]。右手的[[神剣]]可斬妖除魔。"]]
+window.data=[["no-ignored",70,1,"invalid content in <gallery>"," :[[四眼鬼神]]。右手的[[神剣]]可斬妖除魔。"]]

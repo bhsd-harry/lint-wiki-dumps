@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",1182,2,"[[Category:電視劇續集|P]]"]]
+window.data=[["invalid-css",845,37,"property value expected","#black"],["invalid-css",845,61,"{ expected",""],["no-duplicate",1182,2,"duplicated category","[[Category:電視劇續集|P]]"],["no-duplicate",1191,2,"duplicated category","[[Category:電視劇續集|P]]"],["no-duplicate",1190,2,"duplicated category","[[Category:Now寬頻電視外購劇集|P]]"],["no-duplicate",1194,2,"duplicated category","[[Category:Now寬頻電視外購劇集]]"]]

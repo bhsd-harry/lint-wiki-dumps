@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",82,2,"[[Category:批判理論]]"]]
+window.data=[["no-duplicate",82,2,"duplicated category","[[Category:批判理論]]"],["no-duplicate",84,2,"duplicated category","[[Category:批判理論]]"]]

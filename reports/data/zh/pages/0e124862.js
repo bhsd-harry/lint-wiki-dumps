@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,2,"[[Category:1984年出生]]"]]
+window.data=[["no-duplicate",44,2,"duplicated category","[[Category:1984年出生]]"],["no-duplicate",48,2,"duplicated category","[[Category:1984年出生]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",577,2,"[[Category:無綫電視外購劇集]]"]]
+window.data=[["no-duplicate",577,2,"duplicated category","[[Category:無綫電視外購劇集]]"],["no-duplicate",581,2,"duplicated category","[[Category:無綫電視外購劇集]]"]]

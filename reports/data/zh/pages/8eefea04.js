@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,3," connections = \n "]]
+window.data=[["no-duplicate",22,3,"duplicated parameter"," connections = \n "],["no-duplicate",32,3,"duplicated parameter"," connections = \n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",352,4,"style=\"padding-left:0.5em\""]]
+window.data=[["no-duplicate",352,4,"duplicated style attribute","style=\"padding-left:0.5em\""],["no-duplicate",352,32,"duplicated style attribute","style=\"padding-left:0.5em\""]]

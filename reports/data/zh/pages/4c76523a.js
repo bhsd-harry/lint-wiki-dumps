@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",47,2,"[[Category:辽宁省境内的全国重点文物保护单位]]"]]
+window.data=[["no-duplicate",47,2,"duplicated category","[[Category:辽宁省境内的全国重点文物保护单位]]"],["no-duplicate",49,2,"duplicated category","[[Category:辽宁省境内的全国重点文物保护单位]]"]]

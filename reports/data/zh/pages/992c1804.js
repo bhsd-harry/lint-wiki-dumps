@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",386,2,"[[Category:ITU-T建议书]]"]]
+window.data=[["no-duplicate",386,2,"duplicated category","[[Category:ITU-T建议书]]"],["no-duplicate",387,2,"duplicated category","[[Category:ITU-T建议书]]"]]

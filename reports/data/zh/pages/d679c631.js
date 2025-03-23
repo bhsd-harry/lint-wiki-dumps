@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",24,2,"[[Category:明朝兵部主事]]"]]
+window.data=[["no-duplicate",24,2,"duplicated category","[[Category:明朝兵部主事]]"],["no-duplicate",28,2,"duplicated category","[[Category:明朝兵部主事]]"]]

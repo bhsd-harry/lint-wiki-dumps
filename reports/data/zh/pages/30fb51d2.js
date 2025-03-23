@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,2,"[[Category:德國河流]]"]]
+window.data=[["no-duplicate",8,2,"duplicated category","[[Category:德國河流]]"],["no-duplicate",15,2,"duplicated category","[[Category:德國河流]]"]]

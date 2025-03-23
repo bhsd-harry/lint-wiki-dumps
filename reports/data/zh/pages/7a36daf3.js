@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",43,44,"Right"]]
+window.data=[["no-duplicate",43,44,"duplicated image caption parameter","Right"],["no-duplicate",43,50,"duplicated image caption parameter","電影《[[黑暗騎士]]》中的雙面人，由[[亞倫·艾克哈特]]飾演"]]

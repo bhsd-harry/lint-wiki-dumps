@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,2,"[[Category:蘇聯共產黨黨員]]"]]
+window.data=[["no-duplicate",26,2,"duplicated category","[[Category:蘇聯共產黨黨員]]"],["no-duplicate",35,2,"duplicated category","[[Category:蘇聯共產黨黨員]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,4," native_name            = 鲁汶天主教大学\n  "]]
+window.data=[["no-duplicate",10,4,"duplicated parameter"," native_name            = 鲁汶天主教大学\n  "],["no-duplicate",11,4,"duplicated parameter"," native_name            = Université catholique de Louvain<br>Katholieke Universiteit te Leuven\n  "]]

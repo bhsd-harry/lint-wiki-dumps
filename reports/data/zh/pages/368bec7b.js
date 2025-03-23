@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",24,27,"135pzpx"]]
+window.data=[["no-duplicate",24,27,"duplicated image caption parameter","135pzpx"],["no-duplicate",24,41,"duplicated image caption parameter","天瑞巴士總站的平面圖"]]

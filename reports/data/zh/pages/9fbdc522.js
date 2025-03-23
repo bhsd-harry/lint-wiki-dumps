@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",227,182,"ISBN"],[2,"no-duplicate",327,5,"style=\"{{Table center}}\""]]
+window.data=[["lonely-http",227,182,"lonely \"ISBN\"","ISBN"],["no-duplicate",327,5,"duplicated style attribute","style=\"{{Table center}}\""],["no-duplicate",327,50,"duplicated style attribute","style=\"text-align:center; border:1px black; float:centre; margin-left:1em;\""]]

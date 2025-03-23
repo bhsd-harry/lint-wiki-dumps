@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",2,656,"duplicated parameter","location=California"]]
+window.data=[["no-duplicate",2,656,"duplicated parameter","location=California"],["no-duplicate",2,748,"duplicated parameter","location=New York"],["no-duplicate",2,676,"duplicated parameter","publisher=Fulton Publishing Company"],["no-duplicate",2,726,"duplicated parameter","publisher=Time Warner"],["no-duplicate",7,143,"duplicated parameter","publisher=''New York Times''"],["no-duplicate",7,172,"duplicated parameter","publisher=The New York Times Company"]]

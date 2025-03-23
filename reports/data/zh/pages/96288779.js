@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,3,"location =[[沖繩縣]][[那霸市]][[首里]]當藏2-1\n "]]
+window.data=[["no-duplicate",7,3,"duplicated parameter","location =[[沖繩縣]][[那霸市]][[首里]]當藏2-1\n "],["no-duplicate",19,3,"duplicated parameter","location = \n "]]

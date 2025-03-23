@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",94,31,"{{largethumb}}"]]
+window.data=[["no-duplicate",94,31,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",94,46,"duplicated image caption parameter","Dutch Topographic map of the municipality of Best, June 2015"]]

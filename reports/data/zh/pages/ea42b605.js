@@ -1,1 +1,1 @@
-window.data=[[7,"illegal-attr",3,102,"decoding"]]
+window.data=[["illegal-attr",3,102,"illegal attribute name","decoding"],["illegal-attr",3,120,"illegal attribute name","height"],["illegal-attr",3,199,"illegal attribute name","src"],["illegal-attr",3,364,"illegal attribute name","srcset"],["illegal-attr",3,575,"illegal attribute name","width"],["illegal-attr",5,28,"illegal attribute name","scope"],["illegal-attr",17,28,"illegal attribute name","scope"]]

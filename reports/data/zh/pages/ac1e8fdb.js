@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",237,2,"[[Category:高麗功臣]]"],[1,"unmatched-tag",204,2,"</div>"]]
+window.data=[["unmatched-tag",204,2,"unmatched closing tag","</div>"],["no-duplicate",237,2,"duplicated category","[[Category:高麗功臣]]"],["no-duplicate",243,2,"duplicated category","[[Category:高麗功臣]]"]]

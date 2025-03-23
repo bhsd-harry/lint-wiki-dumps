@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",312,94,"]"],[1,"nested-link",42,154,"[[蘋果日報]]"]]
+window.data=[["nested-link",42,154,"internal link in an external link","[[蘋果日報]]"],["lonely-bracket",312,94,"lonely \"]\"","]"]]

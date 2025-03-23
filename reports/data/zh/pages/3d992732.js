@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",127,2,"[[Category:湖北省人民政府副省长]]"]]
+window.data=[["no-duplicate",127,2,"duplicated category","[[Category:湖北省人民政府副省长]]"],["no-duplicate",129,2,"duplicated category","[[Category:湖北省人民政府副省长]]"]]

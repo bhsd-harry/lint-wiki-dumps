@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",72,78,"[[證券及期貨事務監察委員會]]"]]
+window.data=[["nested-link",72,78,"internal link in an external link","[[證券及期貨事務監察委員會]]"]]

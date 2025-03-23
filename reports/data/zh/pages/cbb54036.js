@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,3,"mapframe-zoom=17\n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter","mapframe-zoom=17\n "],["no-duplicate",17,3,"duplicated parameter","mapframe-zoom=17"]]

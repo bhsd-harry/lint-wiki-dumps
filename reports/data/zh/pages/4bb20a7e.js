@@ -1,1 +1,1 @@
-window.data=[[2,"invalid-isbn",1071,15,"ISBN 978-626-383-583-6"],[1,"lonely-bracket",234,4,"}}"],[1,"no-ignored",214,396,"舍華斯"]]
+window.data=[["no-ignored",214,396,"containing invalid attribute","舍華斯"],["lonely-bracket",234,4,"lonely \"}\"","}}"],["invalid-isbn",1071,15,"invalid ISBN","ISBN 978-626-383-583-6"],["invalid-isbn",1118,17,"invalid ISBN","ISBN 978-4-09-043162-4"]]

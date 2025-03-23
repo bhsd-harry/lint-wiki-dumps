@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",60,259,"[[FIFA World Cup|World Cup]]"]]
+window.data=[["nested-link",60,259,"internal link in an external link","[[FIFA World Cup|World Cup]]"]]

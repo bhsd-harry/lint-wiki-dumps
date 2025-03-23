@@ -1,1 +1,1 @@
-window.data=[[8,"no-duplicate",8,89,"200px"]]
+window.data=[["no-duplicate",8,89,"duplicated image width parameter","200px"],["no-duplicate",8,95,"duplicated image width parameter","150px"],["no-duplicate",9,75,"duplicated image width parameter","200px"],["no-duplicate",9,81,"duplicated image width parameter","150px"],["no-duplicate",10,71,"duplicated image width parameter","200px"],["no-duplicate",10,77,"duplicated image width parameter","150px"],["no-duplicate",18,2,"duplicated category","[[Category:視錯覺]]"],["no-duplicate",20,2,"duplicated category","[[Category:視錯覺]]"]]

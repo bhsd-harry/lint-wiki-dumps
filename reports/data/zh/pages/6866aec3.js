@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3," type               = \n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter"," type               = \n "],["no-duplicate",8,3,"duplicated parameter"," type               = [[日報]]\n "]]

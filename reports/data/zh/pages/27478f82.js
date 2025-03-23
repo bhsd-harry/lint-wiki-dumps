@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",522,1,"\n ==== 參加作品 ===="],[1,"unclosed-table",371,2,"{|"],[3,"unmatched-tag",388,4,"</small>"]]
+window.data=[["unmatched-tag",388,4,"unmatched closing tag","</small>"],["unmatched-tag",405,4,"unmatched closing tag","</small>"],["unmatched-tag",440,4,"unmatched closing tag","</small>"],["fostered-content",522,1,"content to be moved out from the table","\n ==== 參加作品 ===="],["unclosed-table",371,2,"unclosed table","{|"]]

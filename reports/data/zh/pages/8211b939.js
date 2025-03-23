@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,2,"[[Category:流体力学]]"]]
+window.data=[["no-duplicate",20,2,"duplicated category","[[Category:流体力学]]"],["no-duplicate",29,2,"duplicated category","[[Category:流体力学]]"]]

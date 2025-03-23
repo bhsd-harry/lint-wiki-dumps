@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",2,61,"duplicated image caption parameter","float"]]
+window.data=[["no-duplicate",2,61,"duplicated image caption parameter","float"],["no-duplicate",2,73,"duplicated image caption parameter","鐘"],["no-duplicate",3,47,"duplicated image caption parameter","float"],["no-duplicate",3,59,"duplicated image caption parameter","火車站嘅鐘"]]

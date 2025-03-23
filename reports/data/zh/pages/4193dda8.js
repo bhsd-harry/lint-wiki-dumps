@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",50,396,"name=\"levelskip\""]]
+window.data=[["no-duplicate",50,396,"duplicated name attribute","name=\"levelskip\""],["no-duplicate",50,414,"duplicated name attribute","name=\"grospixels\""]]

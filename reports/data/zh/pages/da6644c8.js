@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",247,2,"[[Category:國立政治大學校友]]"]]
+window.data=[["no-duplicate",247,2,"duplicated category","[[Category:國立政治大學校友]]"],["no-duplicate",250,2,"duplicated category","[[Category:國立政治大學校友]]"],["no-duplicate",249,2,"duplicated category","[[Category:潛逃出境的台灣通緝犯]]"],["no-duplicate",252,2,"duplicated category","[[Category:潛逃出境的台灣通緝犯]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,55,"duplicated image caption parameter","Right"]]
+window.data=[["no-duplicate",1,55,"duplicated image caption parameter","Right"],["no-duplicate",1,73,"duplicated image caption parameter","Francesco Alberoni, [[Codogno]], [[12 goe̍h 11 ji̍t]] [[2016]]."]]

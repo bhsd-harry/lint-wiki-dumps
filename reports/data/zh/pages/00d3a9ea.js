@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",493,2,"[[Category:东京都出身人物]]"]]
+window.data=[["no-duplicate",493,2,"duplicated category","[[Category:东京都出身人物]]"],["no-duplicate",497,2,"duplicated category","[[Category:东京都出身人物]]"],["no-duplicate",494,2,"duplicated category","[[Category:日本AV女優]]"],["no-duplicate",498,2,"duplicated category","[[Category:日本AV女優]]"]]

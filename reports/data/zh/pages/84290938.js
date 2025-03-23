@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",140,2,"[[Category:青天白日勳章獲得者]]"]]
+window.data=[["no-duplicate",140,2,"duplicated category","[[Category:青天白日勳章獲得者]]"],["no-duplicate",149,2,"duplicated category","[[Category:青天白日勳章獲得者]]"]]

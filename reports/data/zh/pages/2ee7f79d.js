@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",84,58,"width:"],[1,"no-ignored",84,64," max-width;"]]
+window.data=[["invalid-css",84,57,"semi-colon expected",""],["invalid-css",84,56,"colon expected","="],["illegal-attr",84,58,"illegal attribute name","width:"],["no-ignored",84,64,"containing invalid attribute"," max-width;"]]

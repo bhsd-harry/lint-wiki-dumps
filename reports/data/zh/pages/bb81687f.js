@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,3," status = \n "]]
+window.data=[["no-duplicate",22,3,"duplicated parameter"," status = \n "],["no-duplicate",32,3,"duplicated parameter"," status = {{Green|'''使用中'''}}\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",943,3,"4電視台={{flagicon|HKG}} [[Hands Up Channel]]→[[SUPER Kids Channel]]\n "]]
+window.data=[["no-duplicate",943,3,"duplicated parameter","4電視台={{flagicon|HKG}} [[Hands Up Channel]]→[[SUPER Kids Channel]]\n "],["no-duplicate",948,3,"duplicated parameter","4電視台={{flagicon|HKG}} [[SUPER Kids Channel]]\n "]]

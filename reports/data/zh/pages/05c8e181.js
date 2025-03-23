@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,25,"Cooke triplet"]]
+window.data=[["no-duplicate",4,25,"duplicated image caption parameter","Cooke triplet"],["no-duplicate",4,39,"duplicated image caption parameter","哈咯得·丹尼斯·泰勒的三镜片镜头"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",693,11,"Course"],[2,"no-ignored",693,3," 集數：\"Of "]]
+window.data=[["illegal-attr",693,11,"illegal attribute name","Course"],["illegal-attr",693,23,"illegal attribute name","Dead"],["no-ignored",693,3,"containing invalid attribute"," 集數：\"Of "],["no-ignored",693,17,"containing invalid attribute"," He's "]]

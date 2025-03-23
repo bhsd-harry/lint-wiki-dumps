@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",126,2,"[[Category:抗生素]]"]]
+window.data=[["no-duplicate",126,2,"duplicated category","[[Category:抗生素]]"],["no-duplicate",132,2,"duplicated category","[[Category:抗生素]]"],["no-duplicate",127,2,"duplicated category","[[Category:結核病]]"],["no-duplicate",133,2,"duplicated category","[[Category:結核病]]"],["no-duplicate",129,2,"duplicated category","[[Category:麻風]]"],["no-duplicate",135,2,"duplicated category","[[Category:麻風]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",191,2,"[[Category:甘肃省革命委员会主任]]"]]
+window.data=[["no-duplicate",191,2,"duplicated category","[[Category:甘肃省革命委员会主任]]"],["no-duplicate",193,2,"duplicated category","[[Category:甘肃省革命委员会主任]]"]]

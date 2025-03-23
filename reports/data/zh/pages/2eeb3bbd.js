@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",52,117,"author-last=Chávez"]]
+window.data=[["no-duplicate",52,117,"duplicated parameter","author-last=Chávez"],["no-duplicate",52,402,"duplicated parameter","author-last=Chavez"],["no-duplicate",52,136,"duplicated parameter","author-first=Chris"],["no-duplicate",52,383,"duplicated parameter","author-first=Chris"]]

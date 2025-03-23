@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",504,3,"m={{flag icon|JPN}} Happy Painter<br>1998年（深棗色）\n "]]
+window.data=[["no-duplicate",504,3,"duplicated parameter","m={{flag icon|JPN}} Happy Painter<br>1998年（深棗色）\n "],["no-duplicate",505,4,"duplicated parameter","m={{flag icon|JPN}} Vega<br>1990年（棗色）\n "]]

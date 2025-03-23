@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",21,12,"[["],[1,"no-ignored",21,4,"（1991年、见[[海湾战争]]）"]]
+window.data=[["lonely-bracket",21,12,"lonely \"[\"","[["],["lonely-bracket",21,18,"lonely \"]\"","]]"],["no-ignored",21,4,"containing invalid attribute","（1991年、见[[海湾战争]]）"]]

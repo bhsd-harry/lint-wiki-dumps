@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:唐朝郡公|Tongjiao]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:唐朝郡公|Tongjiao]]"],["no-duplicate",47,2,"duplicated category","[[Category:唐朝郡公]]"]]

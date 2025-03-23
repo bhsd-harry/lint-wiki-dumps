@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",136,55,"WilhelofUrach.jpg"],[1,"no-ignored",70,3,"{le"]]
+window.data=[["no-ignored",70,3,"containing invalid attribute","{le"],["illegal-attr",136,55,"illegal attribute name","WilhelofUrach.jpg"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,39,"rihgt"]]
+window.data=[["no-duplicate",4,39,"duplicated image caption parameter","rihgt"],["no-duplicate",4,51,"duplicated image caption parameter","比尔森市政厅"]]

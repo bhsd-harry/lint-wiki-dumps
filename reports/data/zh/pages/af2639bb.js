@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",88,2,"[[Category:印度獨立運動人物]]"]]
+window.data=[["no-duplicate",88,2,"duplicated category","[[Category:印度獨立運動人物]]"],["no-duplicate",91,2,"duplicated category","[[Category:印度獨立運動人物]]"]]

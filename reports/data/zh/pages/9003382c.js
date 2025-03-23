@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",580,1," -"],[1,"invalid-gallery",626,50,"thumb"]]
+window.data=[["fostered-content",580,1,"content to be moved out from the table"," -"],["fostered-content",588,1,"content to be moved out from the table"," -"],["invalid-gallery",626,50,"invalid image parameter","thumb"]]

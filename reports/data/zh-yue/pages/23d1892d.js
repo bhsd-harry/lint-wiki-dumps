@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,37,"duplicated image caption parameter","Lower NTK(II)E 10"]]
+window.data=[["no-duplicate",3,37,"duplicated image caption parameter","Lower NTK(II)E 10"],["no-duplicate",3,55,"duplicated image caption parameter","牛頭角下邨騎樓嘅，未裝鋁窗多數有防風板"]]

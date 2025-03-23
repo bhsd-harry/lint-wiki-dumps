@@ -1,1 +1,1 @@
-window.data=[[3,"nested-link",135,388,"[[Le Monde|lemonde.fr]]"]]
+window.data=[["nested-link",135,388,"internal link in an external link","[[Le Monde|lemonde.fr]]"],["nested-link",135,965,"internal link in an external link","[[Le Figaro|lefigaro.fr]]"],["nested-link",135,1707,"internal link in an external link","[[Le Figaro|lefigaro.fr]]"]]

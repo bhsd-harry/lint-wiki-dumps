@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,2,"[[Category:1988年冬季残疾人奥林匹克运动会越野滑雪运动员]]"]]
+window.data=[["no-duplicate",17,2,"duplicated category","[[Category:1988年冬季残疾人奥林匹克运动会越野滑雪运动员]]"],["no-duplicate",22,2,"duplicated category","[[Category:1988年冬季残疾人奥林匹克运动会越野滑雪运动员]]"]]

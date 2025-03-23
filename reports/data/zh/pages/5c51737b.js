@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",48,29,"heights=10px"]]
+window.data=[["no-duplicate",48,29,"duplicated heights attribute","heights=10px"],["no-duplicate",48,42,"duplicated heights attribute","heights=10px"]]

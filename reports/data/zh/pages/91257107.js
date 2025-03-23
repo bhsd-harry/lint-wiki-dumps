@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",288,55,"懸掛著"]]
+window.data=[["no-duplicate",288,55,"duplicated image caption parameter","懸掛著"],["no-duplicate",288,59,"duplicated image caption parameter","掛著蚌埠市公交車牌的[[比亞迪K8]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",132,3,"5"],[4,"no-ignored",132,4," (Heat 4) "]]
+window.data=[["illegal-attr",132,3,"illegal attribute name","5"],["no-ignored",132,4,"containing invalid attribute"," (Heat 4) "],["illegal-attr",136,3,"illegal attribute name","5"],["no-ignored",136,4,"containing invalid attribute"," (Heat 2) "],["illegal-attr",142,3,"illegal attribute name","8"],["no-ignored",142,4,"containing invalid attribute"," (Heat 3) "],["illegal-attr",148,3,"illegal attribute name","8"],["no-ignored",148,4,"containing invalid attribute"," (Heat 2) "]]

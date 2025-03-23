@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",39,3," alma_mater = \n "]]
+window.data=[["no-duplicate",39,3,"duplicated parameter"," alma_mater = \n "],["no-duplicate",111,3,"duplicated parameter"," alma_mater = \n [[上海市市东中学]]<br>[[兰州大学]]<br>[[北京大学]]<br>[[中国科学院]]\n "]]

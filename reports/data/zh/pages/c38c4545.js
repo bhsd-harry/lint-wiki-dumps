@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",49,2,"[[Category:明朝鳳翔府知府]]"]]
+window.data=[["no-duplicate",49,2,"duplicated category","[[Category:明朝鳳翔府知府]]"],["no-duplicate",54,2,"duplicated category","[[Category:明朝鳳翔府知府]]"]]

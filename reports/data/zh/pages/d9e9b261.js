@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",77,2,"[[Category:拜仁慕尼黑职员]]"]]
+window.data=[["no-duplicate",77,2,"duplicated category","[[Category:拜仁慕尼黑职员]]"],["no-duplicate",79,2,"duplicated category","[[Category:拜仁慕尼黑职员]]"]]

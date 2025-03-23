@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",56,97,"upright =0.5"]]
+window.data=[["no-duplicate",56,97,"duplicated image caption parameter","upright =0.5"],["no-duplicate",56,184,"duplicated image caption parameter","<center>中世紀商用柯克帆船改造成戰船的模型。</center>"]]

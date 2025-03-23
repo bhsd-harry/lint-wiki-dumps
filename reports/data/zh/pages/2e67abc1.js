@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",30,2,"[[Category:埃及民族主义者]]"]]
+window.data=[["no-duplicate",30,2,"duplicated category","[[Category:埃及民族主义者]]"],["no-duplicate",34,2,"duplicated category","[[Category:埃及民族主义者]]"]]

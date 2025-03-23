@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",132,33,"[["],[2,"no-duplicate",132,5,"align=center"],[1,"no-ignored",132,30," | [[Kène Ndoye]]"]]
+window.data=[["lonely-bracket",132,33,"lonely \"[\"","[["],["lonely-bracket",132,45,"lonely \"]\"","]]"],["no-ignored",132,30,"containing invalid attribute"," | [[Kène Ndoye]]"],["no-duplicate",132,5,"duplicated align attribute","align=center"],["no-duplicate",132,20,"duplicated align attribute","align=left"]]

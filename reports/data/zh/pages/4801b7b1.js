@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",293,2,"[[Category:香港警察題材電視劇]]"]]
+window.data=[["no-duplicate",293,2,"duplicated category","[[Category:香港警察題材電視劇]]"],["no-duplicate",297,2,"duplicated category","[[Category:香港警察題材電視劇]]"],["no-duplicate",294,2,"duplicated category","[[Category:狙擊手題材作品]]"],["no-duplicate",298,2,"duplicated category","[[Category:狙擊手題材作品]]"]]

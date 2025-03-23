@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",50,3," Черепков, Константин Александрович"],[1,"parsing-order",77,5,"<center>"]]
+window.data=[["no-ignored",50,3,"containing invalid attribute"," Черепков, Константин Александрович"],["parsing-order",77,5,"HTML tag in table attributes","<center>"],["no-ignored",77,4,"containing invalid attribute"," <center>Максим Нестрерович"]]

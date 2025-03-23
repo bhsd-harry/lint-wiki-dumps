@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,2,"duplicated category","[[Category:諾貝爾生理學或醫學獎得主]]"]]
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:諾貝爾生理學或醫學獎得主]]"],["no-duplicate",7,2,"duplicated category","[[Category:諾貝爾生理學或醫學獎得主]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",4376,60,"缩略图"],[2,"no-ignored",3204,1," {| class=\"wikitable mw-collapsible\"  border=\"1\"  style=\"width:945px; height:100%\""]]
+window.data=[["no-ignored",3204,1,"invalid content in <gallery>"," {| class=\"wikitable mw-collapsible\"  border=\"1\"  style=\"width:945px; height:100%\""],["invalid-gallery",4376,60,"invalid image parameter","缩略图"],["no-ignored",5038,3,"containing invalid attribute"," 預計開通時間=\"width:150px\"  "]]

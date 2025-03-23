@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",54,96,"阿塞拜疆對外交或公務護照持有人的簽證政策"]]
+window.data=[["no-duplicate",54,96,"duplicated image caption parameter","阿塞拜疆對外交或公務護照持有人的簽證政策"],["no-duplicate",54,129,"duplicated image caption parameter","{{legend|#22b14c|阿塞拜疆}}{{legend|#223390|外交護照免簽證}}{{legend|#0c64f8|外交或公務護照免簽證}}"]]

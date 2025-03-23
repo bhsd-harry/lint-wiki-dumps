@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",7,3,"nowrap"],[2,"no-duplicate",58,19,"title=https://www.guancha.cn/politics/2024_01_20_722873.shtml"]]
+window.data=[["illegal-attr",7,3,"illegal attribute name","nowrap"],["no-duplicate",58,19,"duplicated parameter","title=https://www.guancha.cn/politics/2024_01_20_722873.shtml"],["no-duplicate",58,81,"duplicated parameter","title=于洪涛任哈尔滨市委书记"]]

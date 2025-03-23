@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",99,22,"name=\"修道院啤酒\""],[1,"no-ignored",99,34,"/。\n *生產商品營利不可為修道院的首要目標<ref "],[1,"tag-like",100,20,"<ref"]]
+window.data=[["tag-like",100,20,"lonely \"<\"","<ref"],["no-ignored",99,34,"containing invalid attribute","/。\n *生產商品營利不可為修道院的首要目標<ref "],["no-duplicate",99,22,"duplicated name attribute","name=\"修道院啤酒\""],["no-duplicate",100,25,"duplicated name attribute","name=\"修道院啤酒\""]]

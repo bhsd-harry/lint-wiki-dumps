@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",69,2,"[[Category:中華人民共和國諜報行動]]"]]
+window.data=[["no-duplicate",69,2,"duplicated category","[[Category:中華人民共和國諜報行動]]"],["no-duplicate",73,2,"duplicated category","[[Category:中華人民共和國諜報行動]]"]]

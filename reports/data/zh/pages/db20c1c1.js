@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",36,49,"line1=广珠"]]
+window.data=[["no-duplicate",36,49,"duplicated parameter","line1=广珠"],["no-duplicate",36,58,"duplicated parameter","line1=广珠"]]

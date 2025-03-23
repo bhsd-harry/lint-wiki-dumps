@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",192,5,"valign"],[2,"no-duplicate",358,2,"[[Category:俄罗斯联邦主体行政中心]]"]]
+window.data=[["illegal-attr",192,5,"illegal attribute name","valign"],["illegal-attr",215,5,"illegal attribute name","valign"],["no-duplicate",358,2,"duplicated category","[[Category:俄罗斯联邦主体行政中心]]"],["no-duplicate",359,2,"duplicated category","[[Category:俄罗斯联邦主体行政中心]]"]]

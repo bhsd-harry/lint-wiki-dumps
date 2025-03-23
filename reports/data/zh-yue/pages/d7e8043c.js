@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",11,167,"duplicated parameter","title=从地方台跳槽央视后大红大紫的女主播 "]]
+window.data=[["no-duplicate",11,167,"duplicated parameter","title=从地方台跳槽央视后大红大紫的女主播 "],["no-duplicate",11,241,"duplicated parameter","title=存档副本 "],["no-duplicate",16,133,"duplicated parameter","title=李修平和平凡丈夫也曾在摩擦时想过离婚 "],["no-duplicate",16,248,"duplicated parameter","title=存档副本 "]]

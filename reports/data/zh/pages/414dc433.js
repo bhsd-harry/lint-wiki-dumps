@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,3," 卸任日期 = \n "]]
+window.data=[["no-duplicate",23,3,"duplicated parameter"," 卸任日期 = \n "],["no-duplicate",29,3,"duplicated parameter"," 卸任日期 = \n "]]

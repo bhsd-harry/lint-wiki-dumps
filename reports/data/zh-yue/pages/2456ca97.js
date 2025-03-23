@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",99,2,"duplicated category","[[Category:香港大律師]]"]]
+window.data=[["no-duplicate",99,2,"duplicated category","[[Category:香港大律師]]"],["no-duplicate",103,2,"duplicated category","[[Category:香港大律師]]"]]

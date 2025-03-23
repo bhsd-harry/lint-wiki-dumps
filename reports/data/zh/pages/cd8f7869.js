@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-apos",1784,38,"'"],[4,"lonely-bracket",689,27,"]]"],[1,"tag-like",604,55,"</ref"],[1,"unmatched-tag",45,43,"</small>"]]
+window.data=[["unmatched-tag",45,43,"unmatched closing tag","</small>"],["tag-like",604,55,"lonely \"<\"","</ref"],["lonely-bracket",689,27,"lonely \"]\"","]]"],["lonely-bracket",693,35,"lonely \"]\"","]"],["lonely-bracket",1395,27,"lonely \"]\"","]]"],["lonely-apos",1784,38,"lonely \"'\"","'"],["lonely-bracket",1944,33,"lonely \"]\"","]"],["lonely-apos",2064,25,"lonely \"'\"","'"],["lonely-apos",2155,26,"lonely \"'\"","'"]]

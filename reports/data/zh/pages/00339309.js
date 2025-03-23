@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",661,2,"[[Category:王者榮耀競技賽事]]"]]
+window.data=[["invalid-css",408,21,"semi-colon expected",":"],["no-duplicate",661,2,"duplicated category","[[Category:王者榮耀競技賽事]]"],["no-duplicate",662,2,"duplicated category","[[Category:王者榮耀競技賽事]]"]]

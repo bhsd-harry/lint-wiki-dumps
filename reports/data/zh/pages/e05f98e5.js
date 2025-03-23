@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,33,"DDH 972"]]
+window.data=[["no-duplicate",8,33,"duplicated image caption parameter","DDH 972"],["no-duplicate",8,53,"duplicated image caption parameter","{{le|乙支文德號驅逐艦|ROKS Eulji Mundeok (DDH-972)}}"]]

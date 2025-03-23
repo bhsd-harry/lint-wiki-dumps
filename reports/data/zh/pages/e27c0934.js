@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",83,510,"accessdate=2024-08-20"]]
+window.data=[["no-duplicate",83,510,"duplicated parameter","accessdate=2024-08-20"],["no-duplicate",83,572,"duplicated parameter","accessdate=2021-11-26"],["no-duplicate",83,1304,"duplicated parameter","accessdate=2024-08-19"],["no-duplicate",83,1368,"duplicated parameter","accessdate=2021-11-11"]]

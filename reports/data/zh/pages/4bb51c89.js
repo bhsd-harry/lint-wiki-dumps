@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3,"1=zh-hans:基辛格;zh-hk:基辛格;zh-tw:季辛吉;\n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter","1=zh-hans:基辛格;zh-hk:基辛格;zh-tw:季辛吉;\n "],["no-duplicate",5,3,"duplicated parameter","1=zh-hans:巴黎和平协议;zh-hk:巴黎和平協議;zh-tw:巴黎和平協約;\n "]]

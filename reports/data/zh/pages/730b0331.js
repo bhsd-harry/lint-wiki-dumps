@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",242,1,"\n ===国家队生涯===\n :''仅列示巴西国家队进球''"],[1,"unclosed-table",80,2,"{|"]]
+window.data=[["fostered-content",242,1,"content to be moved out from the table","\n ===国家队生涯===\n :''仅列示巴西国家队进球''"],["unclosed-table",80,2,"unclosed table","{|"]]

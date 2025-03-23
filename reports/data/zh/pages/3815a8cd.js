@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3," image1 = \n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter"," image1 = \n "],["no-duplicate",14,3,"duplicated parameter"," image1 = Official-harriet-hageman-wy00 (cropped).jpg\n "]]

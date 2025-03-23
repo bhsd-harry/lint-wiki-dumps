@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",49,2,"[[Category:鲁迅文学奖得主]]"]]
+window.data=[["no-duplicate",49,2,"duplicated category","[[Category:鲁迅文学奖得主]]"],["no-duplicate",58,2,"duplicated category","[[Category:鲁迅文学奖得主]]"],["no-duplicate",55,2,"duplicated category","[[Category:中国共产党党员]]"],["no-duplicate",57,2,"duplicated category","[[Category:中国共产党党员]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",883,2,"[[Category:偶像題材電子遊戲]]"]]
+window.data=[["no-duplicate",883,2,"duplicated category","[[Category:偶像題材電子遊戲]]"],["no-duplicate",888,2,"duplicated category","[[Category:偶像題材電子遊戲]]"]]

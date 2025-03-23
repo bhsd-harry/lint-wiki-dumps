@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",31,3," native place = [[陕西省|陕西]][[西安市|西安]]\n "]]
+window.data=[["no-duplicate",31,3,"duplicated parameter"," native place = [[陕西省|陕西]][[西安市|西安]]\n "],["no-duplicate",37,3,"duplicated parameter"," native place = [[陕西省|陕西]][[西安市|西安]]\n "]]

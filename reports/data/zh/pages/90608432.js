@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",140,24,"style=\"font-family:{{RawSansSerif}}\""]]
+window.data=[["no-duplicate",140,24,"duplicated style attribute","style=\"font-family:{{RawSansSerif}}\""],["no-duplicate",140,62,"duplicated style attribute","style=\"text-align: center\""]]

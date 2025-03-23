@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,2,"[[Category:俄羅斯電視名人]]"]]
+window.data=[["no-duplicate",29,2,"duplicated category","[[Category:俄羅斯電視名人]]"],["no-duplicate",31,2,"duplicated category","[[Category:俄羅斯電視名人]]"]]

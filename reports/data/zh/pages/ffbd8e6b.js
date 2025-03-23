@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",9,44,"sinistra"]]
+window.data=[["no-duplicate",9,44,"duplicated image caption parameter","sinistra"],["no-duplicate",9,53,"duplicated image caption parameter","[[比耶拉主教座堂]]"],["no-duplicate",10,46,"duplicated image caption parameter","centro"],["no-duplicate",10,53,"duplicated image caption parameter","奥罗巴宫"]]

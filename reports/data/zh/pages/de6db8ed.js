@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",104,5,"style=\"background:#FF79BC\""],[1,"no-ignored",108,4,"《Circus》"]]
+window.data=[["no-duplicate",104,5,"duplicated style attribute","style=\"background:#FF79BC\""],["no-duplicate",104,33,"duplicated style attribute","style=\"font-weight:bold;\""],["no-ignored",108,4,"containing invalid attribute","《Circus》"]]

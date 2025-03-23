@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",12,3,"image_map         = \n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter","image_map         = \n "],["no-duplicate",45,3,"duplicated parameter","image_map = {{maplink|frame=yes|plain=yes|type=shape|stroke-width=2|stroke-color=#000000|zoom=7}}\n "],["no-duplicate",13,3,"duplicated parameter","map_caption       = \n "],["no-duplicate",46,3,"duplicated parameter","map_caption = 浦城縣的位置\n "]]

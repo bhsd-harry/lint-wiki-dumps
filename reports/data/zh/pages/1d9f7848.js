@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",132,3," ref = Ramet_2011 "]]
+window.data=[["no-duplicate",132,3,"duplicated parameter"," ref = Ramet_2011 "],["no-duplicate",132,22,"duplicated parameter","ref=harv\n "],["no-duplicate",156,3,"duplicated parameter","ref=UKNID_1944 "],["no-duplicate",156,19,"duplicated parameter","ref=harv\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",596,2,"[[Category:金球獎終身成就獎獲得者]]"]]
+window.data=[["no-duplicate",596,2,"duplicated category","[[Category:金球獎終身成就獎獲得者]]"],["no-duplicate",607,2,"duplicated category","[[Category:金球獎終身成就獎獲得者]]"]]

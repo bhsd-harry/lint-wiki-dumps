@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",166,31,"thumb"],[2,"no-duplicate",165,90,"thumb}"]]
+window.data=[["no-duplicate",165,90,"duplicated image caption parameter","thumb}"],["no-duplicate",165,97,"duplicated image caption parameter","[[大雪山 (新南威爾士州)|大雪山]]"],["invalid-gallery",166,31,"invalid image parameter","thumb"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",295,2,"[[Category:俄罗斯联邦主体行政中心]]"]]
+window.data=[["no-duplicate",295,2,"duplicated category","[[Category:俄罗斯联邦主体行政中心]]"],["no-duplicate",296,2,"duplicated category","[[Category:俄罗斯联邦主体行政中心]]"]]

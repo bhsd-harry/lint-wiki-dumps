@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",24,27,"widthpx"]]
+window.data=[["no-duplicate",24,27,"duplicated image caption parameter","widthpx"],["no-duplicate",24,35,"duplicated image caption parameter","可以把DevOps看作开发（软件工程）、技术运营和质量保障（QA）三者的交集。"],["no-duplicate",105,44,"duplicated image caption parameter","widthpx"],["no-duplicate",105,52,"duplicated image caption parameter","与传统开发方法那种大规模的、不频繁的发布（通常以“季度”或“年”为单位）相比，敏捷方法大大提升了发布频率（通常以“天”或“周”为单位）"]]

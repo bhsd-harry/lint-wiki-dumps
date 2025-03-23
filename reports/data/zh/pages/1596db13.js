@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",121,2,"[[Category:西南交通大学]]"]]
+window.data=[["no-duplicate",121,2,"duplicated category","[[Category:西南交通大学]]"],["no-duplicate",124,2,"duplicated category","[[Category:西南交通大学]]"],["no-duplicate",126,2,"duplicated category","[[Category:四川省科技研究机构]]"],["no-duplicate",127,2,"duplicated category","[[Category:四川省科技研究机构]]"]]

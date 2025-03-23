@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",111,2,"[[Category:热力学]]"]]
+window.data=[["no-duplicate",111,2,"duplicated category","[[Category:热力学]]"],["no-duplicate",117,2,"duplicated category","[[Category:热力学]]"],["no-duplicate",112,2,"duplicated category","[[Category:新奇物品]]"],["no-duplicate",118,2,"duplicated category","[[Category:新奇物品]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",222,1," <--[[WP:NFCC]] violation-->"]]
+window.data=[["no-ignored",222,1,"invalid content in <gallery>"," <--[[WP:NFCC]] violation-->"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",12,3," reign          = \n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," reign          = \n "],["no-duplicate",20,3,"duplicated parameter"," reign         = 2024年10月8日 – 至今\n "],["no-duplicate",14,3,"duplicated parameter"," predecessor    = \n "],["no-duplicate",22,3,"duplicated parameter"," predecessor   = [[亨利 (卢森堡大公)|亨利大公]]\n "]]

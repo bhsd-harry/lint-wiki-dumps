@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",180,33,"Right"]]
+window.data=[["no-duplicate",180,33,"duplicated image caption parameter","Right"],["no-duplicate",180,45,"duplicated image caption parameter","《生活大爆炸》主要角色，从左起：霍华德·沃洛维茨、伦纳德·霍夫斯塔特、佩妮、谢尔顿·库珀、拉杰什·库萨帕里。"]]

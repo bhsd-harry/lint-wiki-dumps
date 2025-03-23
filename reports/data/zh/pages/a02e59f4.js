@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",18,84,"[[List of Fellows of the Association for Computing Machinery|ACM Fellow]]"]]
+window.data=[["nested-link",18,84,"internal link in an external link","[[List of Fellows of the Association for Computing Machinery|ACM Fellow]]"]]

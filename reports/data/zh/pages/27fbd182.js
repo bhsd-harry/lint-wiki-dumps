@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",72,44,"The great Leonid shower storm of 1833"]]
+window.data=[["no-duplicate",72,44,"duplicated image caption parameter","The great Leonid shower storm of 1833"],["no-duplicate",72,82,"duplicated image caption parameter","狮子座流星雨"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",50,3," kana       = かんさい\n "]]
+window.data=[["no-duplicate",50,3,"duplicated parameter"," kana       = かんさい\n "],["no-duplicate",51,3,"duplicated parameter"," kana       = Kansai\n "]]

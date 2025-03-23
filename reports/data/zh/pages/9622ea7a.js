@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",97,2,"[[Category:山东港口]]"]]
+window.data=[["no-duplicate",97,2,"duplicated category","[[Category:山东港口]]"],["no-duplicate",99,2,"duplicated category","[[Category:山东港口]]"]]

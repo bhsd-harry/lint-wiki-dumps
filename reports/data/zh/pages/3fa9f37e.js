@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",48,1," * [[机械工程|机械]][[科系|科]]\n * [[金属]][[科系|学科]]"]]
+window.data=[["fostered-content",48,1,"content to be moved out from the table"," * [[机械工程|机械]][[科系|科]]\n * [[金属]][[科系|学科]]"],["fostered-content",70,1,"content to be moved out from the table"," * 前有久留米工业短期大学附属工业[[高級中學#日本|高等学校]]：改编为久留米工业高等专门学校于1962年"]]

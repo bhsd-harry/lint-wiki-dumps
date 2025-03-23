@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",400,2,"[[Category:臺灣電視男演員]]"]]
+window.data=[["no-duplicate",400,2,"duplicated category","[[Category:臺灣電視男演員]]"],["no-duplicate",401,2,"duplicated category","[[Category:臺灣電視男演員]]"]]

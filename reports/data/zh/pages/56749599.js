@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,29,"|第90輕步兵師 (德國國防軍)"]]
+window.data=[["no-ignored",1,29,"useless link text","|第90輕步兵師 (德國國防軍)"]]

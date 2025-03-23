@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",71,2,"[[Category:蒙古国河流|H]]"]]
+window.data=[["no-duplicate",71,2,"duplicated category","[[Category:蒙古国河流|H]]"],["no-duplicate",76,2,"duplicated category","[[Category:蒙古国河流]]"]]

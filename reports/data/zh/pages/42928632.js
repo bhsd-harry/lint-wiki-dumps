@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3,"<!-- T=zh:班捷文·侯比拿;zh-cn:本亚明·许布纳; -->\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter","<!-- T=zh:班捷文·侯比拿;zh-cn:本亚明·许布纳; -->\n "],["no-duplicate",3,3,"duplicated parameter","1=zh-hans:许布纳;zh-hk:侯比拿;zh-tw:许布纳;\n "]]

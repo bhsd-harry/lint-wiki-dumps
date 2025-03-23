@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",362,315,"website=www.ettoday.net"]]
+window.data=[["no-duplicate",362,315,"duplicated parameter","website=www.ettoday.net"],["no-duplicate",362,372,"duplicated parameter","website=[[ETtoday新聞雲]]"]]

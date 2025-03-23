@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",86,106,"'"],[2,"no-duplicate",102,2,"[[Category:日本—蘇聯關係| ]]"]]
+window.data=[["lonely-apos",86,106,"lonely \"'\"","'"],["no-duplicate",102,2,"duplicated category","[[Category:日本—蘇聯關係| ]]"],["no-duplicate",104,2,"duplicated category","[[Category:日本—蘇聯關係|日]]"]]

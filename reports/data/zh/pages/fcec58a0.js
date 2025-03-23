@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",94,71,"  \"awst_20061211\""]]
+window.data=[["no-ignored",94,71,"containing invalid attribute","  \"awst_20061211\""]]

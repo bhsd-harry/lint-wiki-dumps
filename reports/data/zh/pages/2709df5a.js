@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,28,"mode=nolines"]]
+window.data=[["no-duplicate",6,28,"duplicated mode attribute","mode=nolines"],["no-duplicate",6,41,"duplicated mode attribute","mode=packed"]]

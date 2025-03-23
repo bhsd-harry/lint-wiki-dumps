@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",52,2,"[[Category:隋朝行政区划]]"]]
+window.data=[["no-duplicate",52,2,"duplicated category","[[Category:隋朝行政区划]]"],["no-duplicate",54,2,"duplicated category","[[Category:隋朝行政区划]]"]]

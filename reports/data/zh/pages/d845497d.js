@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",797,2,"[[Category:美國舞台男演員]]"]]
+window.data=[["no-duplicate",797,2,"duplicated category","[[Category:美國舞台男演員]]"],["no-duplicate",813,2,"duplicated category","[[Category:美國舞台男演員]]"]]

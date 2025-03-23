@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",19,2,"[[Category:新北市的里]]"]]
+window.data=[["no-duplicate",19,2,"duplicated category","[[Category:新北市的里]]"],["no-duplicate",22,2,"duplicated category","[[Category:新北市的里]]"],["no-duplicate",20,2,"duplicated category","[[Category:鶯歌區]]"],["no-duplicate",23,2,"duplicated category","[[Category:鶯歌區]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",118,31,"Simyra（属于埃及人〔Egyptian〕）"]]
+window.data=[["no-ignored",118,31,"containing invalid attribute","Simyra（属于埃及人〔Egyptian〕）"]]

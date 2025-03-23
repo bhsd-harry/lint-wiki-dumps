@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,2,"[[分類:1930年代背景電影]]"]]
+window.data=[["no-duplicate",37,2,"duplicated category","[[分類:1930年代背景電影]]"],["no-duplicate",39,2,"duplicated category","[[分類:1930年代背景電影]]"]]

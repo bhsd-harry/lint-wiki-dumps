@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,26,"|茲納緬斯克 (加里寧格勒州)"]]
+window.data=[["no-ignored",1,26,"useless link text","|茲納緬斯克 (加里寧格勒州)"]]

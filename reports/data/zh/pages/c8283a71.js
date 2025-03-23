@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",154,2,"[[Category:臺北市政府|A]]"]]
+window.data=[["no-duplicate",154,2,"duplicated category","[[Category:臺北市政府|A]]"],["no-duplicate",158,2,"duplicated category","[[Category:臺北市政府|A]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",64,102,"[["],[2,"no-duplicate",20,3," colour = \n "]]
+window.data=[["no-duplicate",20,3,"duplicated parameter"," colour = \n "],["no-duplicate",34,3,"duplicated parameter"," colour = \n "],["lonely-bracket",64,102,"lonely \"[\"","[["]]

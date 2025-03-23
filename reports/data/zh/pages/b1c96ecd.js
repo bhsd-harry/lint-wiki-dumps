@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",62,59,"name=\"USAF\""],[1,"no-ignored",62,70,"/然而，該合約授予後不久就被取消，YB-21也尚未來得及開工。<ref "],[1,"tag-like",62,101,"<ref"]]
+window.data=[["tag-like",62,101,"lonely \"<\"","<ref"],["no-ignored",62,70,"containing invalid attribute","/然而，該合約授予後不久就被取消，YB-21也尚未來得及開工。<ref "],["no-duplicate",62,59,"duplicated name attribute","name=\"USAF\""],["no-duplicate",62,106,"duplicated name attribute","name=\"USAF\""]]

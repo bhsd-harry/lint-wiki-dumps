@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",183,125,"[[National Geographic (magazine)|National Geographic]]"]]
+window.data=[["nested-link",183,125,"internal link in an external link","[[National Geographic (magazine)|National Geographic]]"]]

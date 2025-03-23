@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3,"jurisdiction={{USA}}\n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter","jurisdiction={{USA}}\n "],["no-duplicate",22,3,"duplicated parameter"," jurisdiction         = \n "]]

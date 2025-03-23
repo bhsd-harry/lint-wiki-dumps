@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",46,35,"Chen Jiongming"]]
+window.data=[["no-duplicate",46,35,"duplicated image caption parameter","Chen Jiongming"],["no-duplicate",46,50,"duplicated image caption parameter","闽南护法区的最高领导人[[陈炯明]]"],["no-duplicate",55,89,"duplicated image caption parameter","Chen Jiongming"],["no-duplicate",55,104,"duplicated image caption parameter","闽南护法区永定县知事旗帜"]]

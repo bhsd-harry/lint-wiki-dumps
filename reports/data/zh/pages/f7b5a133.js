@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",87,4,"{"],[1,"no-ignored",87,4,"{[[譚禹晋]]}-"]]
+window.data=[["lonely-bracket",87,4,"lonely \"{\"","{"],["lonely-bracket",87,5,"lonely \"[\"","[["],["lonely-bracket",87,10,"lonely \"]\"","]]"],["lonely-bracket",87,12,"lonely \"}\"","}"],["no-ignored",87,4,"containing invalid attribute","{[[譚禹晋]]}-"]]

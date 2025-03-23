@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",30,3,"battles    =[[第一次国共内战]]<br />   [[抗日战争]]<br />  [[第二次国共内战]]\n "]]
+window.data=[["no-duplicate",30,3,"duplicated parameter","battles    =[[第一次国共内战]]<br />   [[抗日战争]]<br />  [[第二次国共内战]]\n "],["no-duplicate",32,3,"duplicated parameter","battles    = [[第一次国共内战]]<br>[[抗日战争]]<br>[[第二次国共内战]]\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",129,363,"name=\"NWRreview\""],[1,"no-ignored",129,379,"/。謝里丹總體上對遊戲持正面評價，但狠批玩家需要購買DLC才能了解整個故事的做法<ref "],[1,"tag-like",129,419,"<ref"]]
+window.data=[["tag-like",129,419,"lonely \"<\"","<ref"],["no-ignored",129,379,"containing invalid attribute","/。謝里丹總體上對遊戲持正面評價，但狠批玩家需要購買DLC才能了解整個故事的做法<ref "],["no-duplicate",129,363,"duplicated name attribute","name=\"NWRreview\""],["no-duplicate",129,424,"duplicated name attribute","name=\"GRreview\""]]

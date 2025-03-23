@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",162,115,"[[Canadian Broadcasting Corporation]]"]]
+window.data=[["nested-link",162,115,"internal link in an external link","[[Canadian Broadcasting Corporation]]"],["nested-link",163,115,"internal link in an external link","[[Canadian Broadcasting Corporation]]"]]

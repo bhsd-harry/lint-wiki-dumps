@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",50,54,"[[胸腺嘧啶]]光化二聚體。"]]
+window.data=[["no-duplicate",50,54,"duplicated image caption parameter","[[胸腺嘧啶]]光化二聚體。"],["no-duplicate",50,69,"duplicated image caption parameter"," [[胸腺嘧啶]]光化二聚體的例子包括:6-4光产物（左）及[[環丁烷]]（右）"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",9,2,"'"]]
+window.data=[["lonely-apos",9,2,"lonely \"'\"","'"],["invalid-css",96,36,"colon expected","="]]

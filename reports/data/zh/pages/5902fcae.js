@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3,"1=zh-hans:哈萨克斯坦;zh-hant:哈薩克斯坦;zh-hk:哈薩克斯坦;zh-mo:哈薩克斯坦;zh-tw:哈薩克;\n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter","1=zh-hans:哈萨克斯坦;zh-hant:哈薩克斯坦;zh-hk:哈薩克斯坦;zh-mo:哈薩克斯坦;zh-tw:哈薩克;\n "],["no-duplicate",5,3,"duplicated parameter","1=zh-hans:哈萨克语;zh-hant:哈薩克語;\n "]]

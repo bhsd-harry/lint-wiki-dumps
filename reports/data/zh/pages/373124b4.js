@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",64,2,"[[Category:美國聯盟全明星球員]]"]]
+window.data=[["no-duplicate",64,2,"duplicated category","[[Category:美國聯盟全明星球員]]"],["no-duplicate",70,2,"duplicated category","[[Category:美國聯盟全明星球員]]"]]

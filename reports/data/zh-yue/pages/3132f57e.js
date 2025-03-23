@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,2,"duplicated category","[[Category:2017年奇妙電視節目]]"]]
+window.data=[["no-duplicate",15,2,"duplicated category","[[Category:2017年奇妙電視節目]]"],["no-duplicate",16,2,"duplicated category","[[Category:2017年奇妙電視節目]]"]]

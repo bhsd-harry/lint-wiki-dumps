@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,2,"[[Category:文革受难者|Y袁]]"]]
+window.data=[["no-duplicate",22,2,"duplicated category","[[Category:文革受难者|Y袁]]"],["no-duplicate",53,2,"duplicated category","[[Category:文革受难者|Y袁]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3," name_other         = \n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," name_other         = \n "],["no-duplicate",11,3,"duplicated parameter"," name_other         = 'bidgee\n <!---------------------- IMAGE  &  MAP -->\n "]]

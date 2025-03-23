@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",202,1273,"{{"],[1,"nested-link",203,351,"[[香港電台]]"]]
+window.data=[["lonely-bracket",202,1273,"lonely \"{\"","{{"],["lonely-bracket",202,1534,"lonely \"}\"","}}"],["nested-link",203,351,"internal link in an external link","[[香港電台]]"]]

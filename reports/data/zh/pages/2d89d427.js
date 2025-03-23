@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",58,107,"園區內的車籠埔斷層槽溝保存館\n File:2. 車籠埔斷層保存園區.jpg"]]
+window.data=[["no-duplicate",58,107,"duplicated image caption parameter","園區內的車籠埔斷層槽溝保存館\n File:2. 車籠埔斷層保存園區.jpg"],["no-duplicate",59,24,"duplicated image caption parameter","斷層槽溝保存館內部"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",213,3,"<ref name=\":1\"  />"],[1,"parsing-order",213,3,"<ref name=\":1\"  />"]]
+window.data=[["parsing-order",213,3,"extension tag in HTML tag attributes","<ref name=\":1\"  />"],["no-ignored",213,3,"containing invalid attribute","<ref name=\":1\"  />"]]

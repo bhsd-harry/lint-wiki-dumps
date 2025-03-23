@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",14,17,"aligh"],[4,"no-duplicate",997,34,"author="]]
+window.data=[["illegal-attr",14,17,"illegal attribute name","aligh"],["no-duplicate",997,34,"duplicated parameter","author="],["no-duplicate",997,93,"duplicated parameter","author=Siaw Daigixzi"],["no-duplicate",999,33,"duplicated parameter","author="],["no-duplicate",999,117,"duplicated parameter","author=廖倚輝"]]

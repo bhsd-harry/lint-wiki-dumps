@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,15,"|庫克黨派投票指數"]]
+window.data=[["no-ignored",1,15,"useless link text","|庫克黨派投票指數"]]

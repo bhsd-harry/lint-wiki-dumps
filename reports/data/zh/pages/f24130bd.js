@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,47,"image.jpg"]]
+window.data=[["no-duplicate",65,47,"duplicated image caption parameter","image.jpg"],["no-duplicate",65,76,"duplicated image caption parameter","Wikitongues貢獻者，2017年於[[蒙特利爾]]參與[[維基媒體國際會議]]。"]]

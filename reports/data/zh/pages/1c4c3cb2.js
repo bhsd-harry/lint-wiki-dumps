@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",115,2,"[[Category:免费游玩游戏]]"]]
+window.data=[["no-duplicate",115,2,"duplicated category","[[Category:免费游玩游戏]]"],["no-duplicate",117,2,"duplicated category","[[Category:免费游玩游戏]]"]]

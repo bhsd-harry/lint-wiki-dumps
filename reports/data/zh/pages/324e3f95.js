@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3," image             = Taipei World Trade Center International Trade Building 20090617.jpg\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter"," image             = Taipei World Trade Center International Trade Building 20090617.jpg\n "],["no-duplicate",6,3,"duplicated parameter"," image             = Taipei World Trade Center International Trade Building 20090617.jpg\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",173,4," class\"sortbottom\""],[1,"unclosed-table",97,2,"{|"]]
+window.data=[["no-ignored",173,4,"containing invalid attribute"," class\"sortbottom\""],["no-ignored",203,4,"containing invalid attribute"," class\"sortbottom\""],["unclosed-table",97,2,"unclosed table","{|"]]

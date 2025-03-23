@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,2,"[[Category:国医大师]]"]]
+window.data=[["no-duplicate",44,2,"duplicated category","[[Category:国医大师]]"],["no-duplicate",49,2,"duplicated category","[[Category:国医大师]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",43,3," years7 = 2024\n "],[1,"unescaped",87,191,"="]]
+window.data=[["no-duplicate",43,3,"duplicated parameter"," years7 = 2024\n "],["no-duplicate",47,3,"duplicated parameter"," years7 = 2024-\n "],["unescaped",87,191,"unescaped query string in an anonymous parameter","="]]

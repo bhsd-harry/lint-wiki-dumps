@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,38,"Right"]]
+window.data=[["no-duplicate",41,38,"duplicated image caption parameter","Right"],["no-duplicate",41,44,"duplicated image caption parameter","美国[[加利福尼亚州]][[伯克利]]附近的[[80號州際公路]]。"]]

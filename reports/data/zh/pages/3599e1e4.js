@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,2,"[[Category:香港粵語片演員]]"]]
+window.data=[["no-duplicate",11,2,"duplicated category","[[Category:香港粵語片演員]]"],["no-duplicate",25,2,"duplicated category","[[Category:香港粵語片演員]]"]]

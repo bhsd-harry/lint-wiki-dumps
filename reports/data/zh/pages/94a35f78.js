@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",165,2,"}}"],[2,"no-duplicate",218,2,"[[Category:2022年美國參議院選舉]]"]]
+window.data=[["lonely-bracket",165,2,"lonely \"}\"","}}"],["lonely-bracket",340,2,"lonely \"}\"","}}"],["no-duplicate",218,2,"duplicated category","[[Category:2022年美國參議院選舉]]"],["no-duplicate",392,2,"duplicated category","[[Category:2022年美國參議院選舉]]"]]

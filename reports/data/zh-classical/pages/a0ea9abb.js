@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,31,"duplicated image caption parameter","RIGHT"]]
+window.data=[["no-duplicate",1,31,"duplicated image caption parameter","RIGHT"],["no-duplicate",1,37,"duplicated image caption parameter","[[葡萄牙]]雱景"]]

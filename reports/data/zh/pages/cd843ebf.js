@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",217,35,"ISBN"],[4,"no-duplicate",232,2,"[[Category:港鐵巴士路線|K75P]]"]]
+window.data=[["lonely-http",217,35,"lonely \"ISBN\"","ISBN"],["no-duplicate",232,2,"duplicated category","[[Category:港鐵巴士路線|K75P]]"],["no-duplicate",234,2,"duplicated category","[[Category:港鐵巴士路線|K75S]]"],["no-duplicate",233,2,"duplicated category","[[Category:元朗區巴士路線|K75P]]"],["no-duplicate",235,2,"duplicated category","[[Category:元朗區巴士路線|K75S]]"]]

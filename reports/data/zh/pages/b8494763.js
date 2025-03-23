@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",66,2,"[[Category:西班牙语方言]]"]]
+window.data=[["no-duplicate",66,2,"duplicated category","[[Category:西班牙语方言]]"],["no-duplicate",70,2,"duplicated category","[[Category:西班牙语方言]]"],["no-duplicate",67,2,"duplicated category","[[Category:北美洲语言]]"],["no-duplicate",71,2,"duplicated category","[[Category:北美洲语言]]"],["no-duplicate",68,2,"duplicated category","[[Category:南美洲語言]]"],["no-duplicate",72,2,"duplicated category","[[Category:南美洲語言]]"]]

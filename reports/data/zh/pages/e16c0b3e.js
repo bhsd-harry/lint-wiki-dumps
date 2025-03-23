@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",51,1," * 家政科\n ** 家政专攻\n ** 食物营养专攻\n * 保育科\n * <del>教养科</del><ref group=\"注\"  name=\"教养科招生\"/>\n * 国际文化科"]]
+window.data=[["fostered-content",51,1,"content to be moved out from the table"," * 家政科\n ** 家政专攻\n ** 食物营养专攻\n * 保育科\n * <del>教养科</del><ref group=\"注\"  name=\"教养科招生\"/>\n * 国际文化科"],["fostered-content",70,1,"content to be moved out from the table"," * 前宫城学院女子短期大学附属幼儿园"]]

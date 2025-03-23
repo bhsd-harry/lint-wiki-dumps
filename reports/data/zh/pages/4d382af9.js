@@ -1,1 +1,1 @@
-window.data=[[1,"pipe-like",227,3,"\n 友人達に僕の妻が目の前で ||柳田やよい||03/19||momj00026"]]
+window.data=[["pipe-like",227,3,"additional \"|\" in a table cell","\n 友人達に僕の妻が目の前で ||柳田やよい||03/19||momj00026"]]

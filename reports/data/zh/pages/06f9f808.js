@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-apos",1476,8,"'"]]
+window.data=[["invalid-css",1474,19,"semi-colon expected",""],["invalid-css",1474,18,"colon expected","%"],["lonely-apos",1476,8,"lonely \"'\"","'"],["lonely-apos",1476,19,"lonely \"'\"","'"]]

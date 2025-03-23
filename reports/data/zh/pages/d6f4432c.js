@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",146,2,"[[Category:社會民主連線前成員]]"]]
+window.data=[["no-duplicate",146,2,"duplicated category","[[Category:社會民主連線前成員]]"],["no-duplicate",150,2,"duplicated category","[[Category:社會民主連線前成員]]"]]

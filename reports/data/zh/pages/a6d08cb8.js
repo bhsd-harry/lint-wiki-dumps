@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",83,1," ;天河家园（站位位于夹河街，C出入口向西南约200米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|287}}"]]
+window.data=[["fostered-content",83,1,"content to be moved out from the table"," ;天河家园（站位位于夹河街，C出入口向西南约200米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|287}}"],["fostered-content",86,1,"content to be moved out from the table"," ;长白四街长白中路（站位位于长白四街，A出入口向西约530米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|188}}\n {{col-end}}"]]

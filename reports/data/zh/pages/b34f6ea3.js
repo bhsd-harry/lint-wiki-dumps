@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,11," G1 = 烏克蘭地名 "]]
+window.data=[["no-duplicate",1,11,"duplicated parameter"," G1 = 烏克蘭地名 "],["no-duplicate",3,3,"duplicated parameter","G1=PP\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",50,1," * 美术学科"]]
+window.data=[["fostered-content",50,1,"content to be moved out from the table"," * 美术学科"],["fostered-content",54,1,"content to be moved out from the table"," * 美术学科\n ** 美术专攻\n ** 设计专攻"]]

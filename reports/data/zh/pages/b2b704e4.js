@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,2,"[[Category:P. LEAGUE+場館]]"]]
+window.data=[["no-duplicate",6,2,"duplicated category","[[Category:P. LEAGUE+場館]]"],["no-duplicate",7,2,"duplicated category","[[Category:P. LEAGUE+場館|疫情]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",114,1," [[File:Kakinokizaka slope 2.jpg|thumb|right|200px|日本[[東京]]目黒駅街道的綠化帶]]"]]
+window.data=[["no-ignored",114,1,"invalid content in <gallery>"," [[File:Kakinokizaka slope 2.jpg|thumb|right|200px|日本[[東京]]目黒駅街道的綠化帶]]"]]

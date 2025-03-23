@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",63,99,"}}}"],[2,"no-duplicate",63,41,"顯示地球拉格朗日點的[[等效位能]]圖（未按比例）；{{L4|nolink=yes}}和{L5"]]
+window.data=[["lonely-bracket",63,99,"lonely \"}\"","}}}"],["no-duplicate",63,41,"duplicated image caption parameter","顯示地球拉格朗日點的[[等效位能]]圖（未按比例）；{{L4|nolink=yes}}和{L5"],["no-duplicate",63,89,"duplicated image caption parameter","nolink=yes}}}周圍的輪廓表示[[馬蹄形軌道#蝌蚪形軌道|蝌蚪環]]路徑。"]]

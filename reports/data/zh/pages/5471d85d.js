@@ -1,1 +1,1 @@
-window.data=[[3,"parsing-order",2,355,"<ref name=\"Knaack p93\">Knaack 1978, p. 93.</ref>"]]
+window.data=[["parsing-order",2,355,"extension tag in HTML tag attributes","<ref name=\"Knaack p93\">Knaack 1978, p. 93.</ref>"],["parsing-order",2,403,"HTML tag in table attributes","<br />"],["parsing-order",2,427,"extension tag in HTML tag attributes","<ref name=\"knaack p96\">Knaack 1978, p. 96.</ref>"]]

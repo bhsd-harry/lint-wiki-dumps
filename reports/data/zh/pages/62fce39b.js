@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,38,"Nam Kee Nieuwmarkt aan de Geldersekade in Amsterdam"]]
+window.data=[["no-duplicate",15,38,"duplicated image caption parameter","Nam Kee Nieuwmarkt aan de Geldersekade in Amsterdam"],["no-duplicate",15,90,"duplicated image caption parameter","[[侨德仕街]]分店"]]

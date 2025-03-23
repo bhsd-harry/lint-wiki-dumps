@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",176,16,"nowrap"],[1,"nested-link",180,180,"[[NHK]]"]]
+window.data=[["illegal-attr",176,16,"illegal attribute name","nowrap"],["nested-link",180,180,"internal link in an external link","[[NHK]]"]]

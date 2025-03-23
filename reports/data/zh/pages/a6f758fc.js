@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",187,52,"mw-collapsible"],[1,"no-ignored",187,66," mw-collapsed\""]]
+window.data=[["illegal-attr",187,52,"illegal attribute name","mw-collapsible"],["no-ignored",187,66,"containing invalid attribute"," mw-collapsed\""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3,"type=WTA"]]
+window.data=[["no-duplicate",2,3,"duplicated parameter","type=WTA"],["no-duplicate",2,55,"duplicated parameter","type=defunct "]]

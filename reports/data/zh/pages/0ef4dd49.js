@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",59,455,"website=腾讯网"]]
+window.data=[["no-duplicate",59,455,"duplicated parameter","website=腾讯网"],["no-duplicate",59,534,"duplicated parameter","website=web.archive.org"],["no-duplicate",59,1103,"duplicated parameter","website=奧一網 "],["no-duplicate",59,1139,"duplicated parameter","website=m.mp.oeeee.com"]]

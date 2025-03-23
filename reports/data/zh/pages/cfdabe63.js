@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,49,"链接=https://zh.wikipedia.org/wiki/File:Verbatim 16x DVD-R spindle 20050708.png"]]
+window.data=[["no-duplicate",35,49,"duplicated image caption parameter","链接=https://zh.wikipedia.org/wiki/File:Verbatim 16x DVD-R spindle 20050708.png"],["no-duplicate",35,133,"duplicated image caption parameter","一桶50片的Verbatim [[DVD-R]]"]]

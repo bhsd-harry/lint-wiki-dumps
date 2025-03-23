@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",126,2,"[[Category:卤代醚]]"]]
+window.data=[["no-duplicate",126,2,"duplicated category","[[Category:卤代醚]]"],["no-duplicate",132,2,"duplicated category","[[Category:卤代醚]]"]]

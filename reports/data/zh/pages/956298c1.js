@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1637,46,"   |+{{nowrap|}}"]]
+window.data=[["no-ignored",1637,46,"containing invalid attribute","   |+{{nowrap|}}"]]

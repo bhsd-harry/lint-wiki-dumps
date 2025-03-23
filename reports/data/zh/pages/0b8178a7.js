@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",9,31,"縮略圖"]]
+window.data=[["no-duplicate",9,31,"duplicated image caption parameter","縮略圖"],["no-duplicate",9,35,"duplicated image caption parameter","[[明朝|明]]酆都監生案判官班簡像"],["no-duplicate",10,31,"duplicated image caption parameter","縮略圖"],["no-duplicate",10,35,"duplicated image caption parameter","[[明朝|明]]酆都五道案判官郭願像"]]

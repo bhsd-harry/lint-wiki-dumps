@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3,"海拔高度 =18.5-19.0 m \n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter","海拔高度 =18.5-19.0 m \n "],["no-duplicate",23,3,"duplicated parameter","海拔高度 = \n "]]

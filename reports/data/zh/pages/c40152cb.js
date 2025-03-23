@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",378,33,"style=\"white-space:nowrap\""]]
+window.data=[["no-duplicate",378,33,"duplicated style attribute","style=\"white-space:nowrap\""],["no-duplicate",378,61,"duplicated style attribute","style=\"font-size:100%\""],["no-duplicate",445,33,"duplicated style attribute","style=\"white-space:nowrap\""],["no-duplicate",445,61,"duplicated style attribute","style=\"font-size:100%\""]]

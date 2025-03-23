@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,91,"duplicated parameter","url=https://www.ushmm.org/collections/the-museums-collections/collections-highlights/500-years-of-antisemitic-propaganda "]]
+window.data=[["no-duplicate",4,91,"duplicated parameter","url=https://www.ushmm.org/collections/the-museums-collections/collections-highlights/500-years-of-antisemitic-propaganda "],["no-duplicate",4,213,"duplicated parameter","url=https://www.ushmm.org/collections/the-museums-collections/collections-highlights/500-years-of-antisemitic-propaganda "]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",24,2,"[[Category:泰雅語族神話]]"]]
+window.data=[["no-duplicate",24,2,"duplicated category","[[Category:泰雅語族神話]]"],["no-duplicate",26,2,"duplicated category","[[Category:泰雅語族神話]]"],["no-duplicate",25,2,"duplicated category","[[Category:神話傳說中的人型生物]]"],["no-duplicate",27,2,"duplicated category","[[Category:神話傳說中的人型生物]]"]]

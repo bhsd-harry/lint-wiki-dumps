@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",2,38,"Right"]]
+window.data=[["no-duplicate",2,38,"duplicated image caption parameter","Right"],["no-duplicate",2,44,"duplicated image caption parameter","一份鹼漬魚"],["no-duplicate",7,35,"duplicated image caption parameter","Right"],["no-duplicate",7,41,"duplicated image caption parameter","挪威一間餐廳供應的鹼漬魚（餐盤左上角），配以[[馬鈴薯]]、[[豌豆]]泥、[[煙肉]]"]]

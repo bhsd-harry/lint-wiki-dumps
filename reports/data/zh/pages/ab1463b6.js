@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",28,2,"[[Category:叉尾鲷属|叉尾鲷]]"]]
+window.data=[["no-duplicate",28,2,"duplicated category","[[Category:叉尾鲷属|叉尾鲷]]"],["no-duplicate",29,2,"duplicated category","[[Category:叉尾鲷属|furcatus]]"]]

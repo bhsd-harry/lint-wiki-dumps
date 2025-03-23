@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",56,25,"[[分类:Windows游戏]]"]]
+window.data=[["no-duplicate",56,25,"duplicated category","[[分类:Windows游戏]]"],["no-duplicate",57,2,"duplicated category","[[Category:Windows游戏]]"]]

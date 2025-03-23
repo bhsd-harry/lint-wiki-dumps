@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",64,25,"; color:black\"  "]]
+window.data=[["invalid-css",64,23,"property value expected","#"],["no-ignored",64,25,"containing invalid attribute","; color:black\"  "],["invalid-css",77,23,"property value expected","#"],["no-ignored",77,25,"containing invalid attribute","; color:black\"  "]]

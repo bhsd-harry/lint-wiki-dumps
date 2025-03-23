@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",170,5,"span"],[2,"no-duplicate",427,19,"right"]]
+window.data=[["illegal-attr",170,5,"illegal attribute name","span"],["illegal-attr",220,5,"illegal attribute name","span"],["no-duplicate",427,19,"duplicated image right parameter","right"],["no-duplicate",427,31,"duplicated image right parameter","right"]]

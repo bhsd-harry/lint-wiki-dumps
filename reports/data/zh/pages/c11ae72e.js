@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",34,1174,"{{"],[1,"no-ignored",349,3,"在第二集9:30出場"]]
+window.data=[["lonely-bracket",34,1174,"lonely \"{\"","{{"],["invalid-css",331,28,"semi-colon expected",":"],["invalid-css",331,52,"{ expected",";"],["no-ignored",349,3,"containing invalid attribute","在第二集9:30出場"],["invalid-css",371,28,"semi-colon expected",":"],["invalid-css",371,52,"{ expected",";"]]

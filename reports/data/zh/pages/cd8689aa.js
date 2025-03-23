@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",149,244,"["],[1,"nested-link",147,1201,"[[法國國民議會]]"]]
+window.data=[["nested-link",147,1201,"internal link in an external link","[[法國國民議會]]"],["lonely-bracket",149,244,"lonely \"[\"","["]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,34,"vignette"]]
+window.data=[["no-duplicate",7,34,"duplicated image caption parameter","vignette"],["no-duplicate",7,55,"duplicated image caption parameter","克劳德·皮尔林·维克托元帅"]]

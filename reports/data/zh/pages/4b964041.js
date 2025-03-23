@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",117,43,"[[MIDI]]"]]
+window.data=[["nested-link",117,43,"internal link in an external link","[[MIDI]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",98,2,"[[Category:美國研究]]"]]
+window.data=[["no-duplicate",98,2,"duplicated category","[[Category:美國研究]]"],["no-duplicate",102,2,"duplicated category","[[Category:美國研究]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,2,"[[Category:1965年漫畫]]"]]
+window.data=[["no-duplicate",14,2,"duplicated category","[[Category:1965年漫畫]]"],["no-duplicate",18,2,"duplicated category","[[Category:1965年漫畫]]"]]

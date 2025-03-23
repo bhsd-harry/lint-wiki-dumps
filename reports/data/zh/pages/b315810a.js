@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",52,4,"cory"],[2,"no-duplicate",52,4,"cory"]]
+window.data=[["illegal-attr",52,4,"illegal attribute name","cory"],["illegal-attr",52,9,"illegal attribute name","cory"],["illegal-attr",52,14,"illegal attribute name","of"],["illegal-attr",52,17,"illegal attribute name","sdsu"],["no-duplicate",52,4,"duplicated cory attribute","cory"],["no-duplicate",52,9,"duplicated cory attribute","cory"]]

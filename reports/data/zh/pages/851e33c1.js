@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",151,2,"[[Category:白禮頓球員]]"]]
+window.data=[["no-duplicate",151,2,"duplicated category","[[Category:白禮頓球員]]"],["no-duplicate",156,2,"duplicated category","[[Category:白禮頓球員]]"]]

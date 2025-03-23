@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",108,2,"[[Category:明尼苏达州军人]]"]]
+window.data=[["no-duplicate",108,2,"duplicated category","[[Category:明尼苏达州军人]]"],["no-duplicate",112,2,"duplicated category","[[Category:明尼苏达州军人]]"],["no-duplicate",109,2,"duplicated category","[[Category:明尼苏达州律师]]"],["no-duplicate",113,2,"duplicated category","[[Category:明尼苏达州律师]]"],["no-duplicate",110,2,"duplicated category","[[Category:20世纪美国政治人物]]"],["no-duplicate",115,2,"duplicated category","[[Category:20世纪美国政治人物]]"]]

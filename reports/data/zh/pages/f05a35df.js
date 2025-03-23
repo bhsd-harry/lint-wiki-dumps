@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",67,2,"[[Category:法律原則]]"]]
+window.data=[["no-duplicate",67,2,"duplicated category","[[Category:法律原則]]"],["no-duplicate",70,2,"duplicated category","[[Category:法律原則]]"]]

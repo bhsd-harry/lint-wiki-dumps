@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",63,58,"duplicated image caption parameter","мини"]]
+window.data=[["no-duplicate",63,58,"duplicated image caption parameter","мини"],["no-duplicate",63,63,"duplicated image caption parameter","270x270пкс"],["no-duplicate",63,74,"duplicated image caption parameter","2015-nî 4-gue̍h tāi-ha̍k tiong-iong tôo-tsu-kuán"]]

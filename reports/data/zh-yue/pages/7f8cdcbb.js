@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",11,3,"duplicated parameter","other_label1 = 總編輯\n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter","other_label1 = 總編輯\n "],["no-duplicate",19,3,"duplicated parameter","other_label1 = 發行頻率\n "],["no-duplicate",12,3,"duplicated parameter","other1 = 贊諾·羅古德\n "],["no-duplicate",20,3,"duplicated parameter","other1 = 每日發行\n "],["no-duplicate",15,3,"duplicated parameter","owner = [[贊諾·羅古德]]\n "],["no-duplicate",18,3,"duplicated parameter","owner = 預言家報業集團\n "]]

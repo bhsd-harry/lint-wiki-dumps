@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",596,23,"style=\"width:80%\""],[2,"no-ignored",438,1," ]]''"]]
+window.data=[["no-ignored",438,1,"invalid content in <gallery>"," ]]''"],["no-ignored",588,1,"invalid content in <gallery>"," ]]''"],["no-duplicate",596,23,"duplicated style attribute","style=\"width:80%\""],["no-duplicate",596,42,"duplicated style attribute","style=\"background: #f0d47a; border: 1px #aaa solid; border-collapse: collapse; font-size: 90%;\""]]

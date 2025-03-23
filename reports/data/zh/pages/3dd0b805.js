@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",63,1," * [[管理信息系统|管理信息]]学科<ref group=\"注\"  name=\"管理信息学科招生\"/>\n * 食物营养学科\n * 儿童教育学科"]]
+window.data=[["fostered-content",63,1,"content to be moved out from the table"," * [[管理信息系统|管理信息]]学科<ref group=\"注\"  name=\"管理信息学科招生\"/>\n * 食物营养学科\n * 儿童教育学科"],["fostered-content",69,1,"content to be moved out from the table"," * 商经学科<ref group=\"注\"  name=\"商经学科变更为\">变更为[[管理信息系统|管理信息]]学科于2003年、2012年招生最后。</ref>\n ** 第一部<ref group=\"注\"  name=\"商经学科变更为\"/>\n ** [[夜校|第二部]]<ref group=\"注\""]]

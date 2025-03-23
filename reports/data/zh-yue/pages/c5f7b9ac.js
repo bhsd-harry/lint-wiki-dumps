@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3,"duplicated parameter","類型=組合\n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter","類型=組合\n "],["no-duplicate",7,3,"duplicated parameter","類型 = 流行樂、電音、新浪潮、流行搖滾\n "]]

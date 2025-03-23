@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3," cover          = \n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter"," cover          = \n "],["no-duplicate",9,3,"duplicated parameter"," cover          = blank\n "]]

@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",27,4,"Ripple"],[1,"no-ignored",29,7," (currency)"]]
+window.data=[["illegal-attr",27,4,"illegal attribute name","Ripple"],["illegal-attr",27,11,"illegal attribute name","monetary"],["illegal-attr",27,20,"illegal attribute name","system"],["illegal-attr",29,4,"illegal attribute name","Ven"],["no-ignored",29,7,"containing invalid attribute"," (currency)"]]

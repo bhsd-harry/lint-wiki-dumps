@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",194,2,"[[Category:泰國取景電視劇]]"]]
+window.data=[["no-duplicate",194,2,"duplicated category","[[Category:泰國取景電視劇]]"],["no-duplicate",197,2,"duplicated category","[[Category:泰國取景電視劇]]"],["no-duplicate",195,2,"duplicated category","[[Category:泰國背景電視劇]]"],["no-duplicate",198,2,"duplicated category","[[Category:泰國背景電視劇]]"]]

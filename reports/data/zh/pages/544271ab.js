@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",24,3," opened = 2023年6月28日\n "]]
+window.data=[["no-duplicate",24,3,"duplicated parameter"," opened = 2023年6月28日\n "],["no-duplicate",31,3,"duplicated parameter"," opened = \n "]]

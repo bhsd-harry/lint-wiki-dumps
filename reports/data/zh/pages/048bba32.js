@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",50,2,"[[Category:布希家族]]"]]
+window.data=[["no-duplicate",50,2,"duplicated category","[[Category:布希家族]]"],["no-duplicate",55,2,"duplicated category","[[Category:布希家族]]"],["no-duplicate",52,2,"duplicated category","[[Category:缅因州共和党人]]"],["no-duplicate",57,2,"duplicated category","[[Category:缅因州共和党人]]"]]

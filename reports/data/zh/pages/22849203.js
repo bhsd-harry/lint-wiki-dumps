@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",36,1490,"[["],[1,"lonely-http",51,39,"http://"],[2,"no-duplicate",36,1474,"name=NIH2000/。使用[[四氫生物蝶呤]]藥物或許對部分患者有效<ref"],[1,"tag-like",36,1511,"<ref"]]
+window.data=[["lonely-bracket",36,1490,"lonely \"[\"","[["],["lonely-bracket",36,1498,"lonely \"]\"","]]"],["tag-like",36,1511,"lonely \"<\"","<ref"],["no-duplicate",36,1474,"duplicated name attribute","name=NIH2000/。使用[[四氫生物蝶呤]]藥物或許對部分患者有效<ref"],["no-duplicate",36,1516,"duplicated name attribute","name=NIH2013Tx"],["lonely-http",51,39,"lonely \"http://\"","http://"]]

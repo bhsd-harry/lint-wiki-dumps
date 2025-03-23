@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",9,3,"duplicated parameter"," 綽號 = Kitman<br>（圈內人、網民同Fans尊稱）\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," 綽號 = Kitman<br>（圈內人、網民同Fans尊稱）\n "],["no-duplicate",15,3,"duplicated parameter"," 綽號 = Kitman\n "],["no-duplicate",11,3,"duplicated parameter"," 居住地 = {{HKG}}\n "],["no-duplicate",14,3,"duplicated parameter"," 居住地 = {{HKG}}\n "]]

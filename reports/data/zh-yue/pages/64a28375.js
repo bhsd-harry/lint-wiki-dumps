@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",106,35,"lonely \"[\"","[["],[2,"no-duplicate",106,35,"duplicated image caption parameter","[[Sun Yat-sen Museum Penang"]]
+window.data=[["lonely-bracket",106,35,"lonely \"[\"","[["],["no-duplicate",106,35,"duplicated image caption parameter","[[Sun Yat-sen Museum Penang"],["no-duplicate",106,63,"duplicated image caption parameter","喬治市{{tsl|zh|孫中山檳城基地紀念館}}其中一笪[[孫中山]]策劃反對[[清朝]]計劃嘅地方"]]

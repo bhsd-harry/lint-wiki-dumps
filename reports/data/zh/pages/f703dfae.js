@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",133,2,"[[Category:20世紀美國經濟學家]]"]]
+window.data=[["no-duplicate",133,2,"duplicated category","[[Category:20世紀美國經濟學家]]"],["no-duplicate",141,2,"duplicated category","[[Category:20世紀美國經濟學家]]"]]

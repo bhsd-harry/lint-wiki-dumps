@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",405,2,"[[Category:臺灣戰後時期獎項]]"]]
+window.data=[["invalid-css",273,53,"property value expected",";"],["no-duplicate",405,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["no-duplicate",406,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"]]

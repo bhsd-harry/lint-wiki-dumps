@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",48,42,"alt2=巴魯卡里內為罗兴亚难民興建的棚屋（2018年）"]]
+window.data=[["no-duplicate",48,42,"duplicated image caption parameter","alt2=巴魯卡里內為罗兴亚难民興建的棚屋（2018年）"],["no-duplicate",48,77,"duplicated image caption parameter","在巴魯卡里難民營內一座山上的臨時棚屋（2018年）"]]

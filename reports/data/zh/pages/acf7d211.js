@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",153,85,"{{"],[4,"no-duplicate",153,60,"位於[[帕萊斯特里納 (城鎮)|帕萊斯特里納]]的{{Tsl"]]
+window.data=[["lonely-bracket",153,85,"lonely \"{\"","{{"],["no-duplicate",153,60,"duplicated image caption parameter","位於[[帕萊斯特里納 (城鎮)|帕萊斯特里納]]的{{Tsl"],["no-duplicate",153,91,"duplicated image caption parameter","it"],["no-duplicate",153,94,"duplicated image caption parameter","Palazzo Colonna Barberini （Palestrina）"],["no-duplicate",153,133,"duplicated image caption parameter","科隆納-巴貝里尼宮"]]

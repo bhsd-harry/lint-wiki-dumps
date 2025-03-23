@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",30,49,"worldometer.info"],[1,"lonely-bracket",30,90,"}}"],[1,"tag-like",32,137,"<ref"]]
+window.data=[["illegal-attr",30,49,"illegal attribute name","worldometer.info"],["illegal-attr",30,66,"illegal attribute name","coronavirus"],["illegal-attr",30,78,"illegal attribute name","country"],["illegal-attr",30,86,"illegal attribute name","uk."],["lonely-bracket",30,90,"lonely \"}\"","}}"],["tag-like",32,137,"lonely \"<\"","<ref"]]

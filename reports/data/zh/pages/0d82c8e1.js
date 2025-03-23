@@ -1,1 +1,1 @@
-window.data=[[6,"no-ignored",534,3,"!scope=\"col\"  "]]
+window.data=[["no-ignored",534,3,"containing invalid attribute","!scope=\"col\"  "],["no-ignored",535,3,"containing invalid attribute","!scope=\"col\"  "],["no-ignored",536,3,"containing invalid attribute","!scope=\"col\"  "],["no-ignored",577,3,"containing invalid attribute","!scope=\"col\"  "],["no-ignored",578,3,"containing invalid attribute","!scope=\"col\"  "],["no-ignored",579,3,"containing invalid attribute","!scope=\"col\"  "]]

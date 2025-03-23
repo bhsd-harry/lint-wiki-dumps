@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",58,2,"[[Category:马来西亚国民中学]]"]]
+window.data=[["no-duplicate",58,2,"duplicated category","[[Category:马来西亚国民中学]]"],["no-duplicate",61,2,"duplicated category","[[Category:马来西亚国民中学]]"]]

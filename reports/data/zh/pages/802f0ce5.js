@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,25,"|汉斯·奥斯特"]]
+window.data=[["no-ignored",1,25,"useless link text","|汉斯·奥斯特"]]

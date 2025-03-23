@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",73,91,"[[Pharaoh]]"]]
+window.data=[["nested-link",73,91,"internal link in an external link","[[Pharaoh]]"],["nested-link",73,111,"internal link in an external link","[[EA (el Amarna)|EA]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",269,2,"[[Category:中国铁路北京局集团车次]]"]]
+window.data=[["no-duplicate",269,2,"duplicated category","[[Category:中国铁路北京局集团车次]]"],["no-duplicate",272,2,"duplicated category","[[Category:中国铁路北京局集团车次]]"]]

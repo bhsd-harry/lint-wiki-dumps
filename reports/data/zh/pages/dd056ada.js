@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",207,54,"[["],[2,"no-duplicate",207,54,"[[Collégiale Saint-Vincent de Soignies"]]
+window.data=[["lonely-bracket",207,54,"lonely \"[\"","[["],["no-duplicate",207,54,"duplicated image caption parameter","[[Collégiale Saint-Vincent de Soignies"],["no-duplicate",207,93,"duplicated image caption parameter","[[苏瓦尼]]圣樊尚学院教堂"]]

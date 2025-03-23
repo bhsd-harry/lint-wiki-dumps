@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,2,"[[Category:CS1 Russian-language sources (ru)]]"]]
+window.data=[["no-duplicate",63,2,"duplicated category","[[Category:CS1 Russian-language sources (ru)]]"],["no-duplicate",64,2,"duplicated category","[[Category:CS1 Russian-language sources (ru)]]"]]

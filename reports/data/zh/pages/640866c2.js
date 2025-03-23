@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",203,2,"[[Category:阿根廷指挥家]]"]]
+window.data=[["no-duplicate",203,2,"duplicated category","[[Category:阿根廷指挥家]]"],["no-duplicate",204,2,"duplicated category","[[Category:阿根廷指挥家]]"]]

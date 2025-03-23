@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",1493,386,"}}"],[2,"no-duplicate",1,52,"400x400px"]]
+window.data=[["no-duplicate",1,52,"duplicated image width parameter","400x400px"],["no-duplicate",8,29,"duplicated image width parameter","620x620px"],["lonely-bracket",1493,386,"lonely \"}\"","}}"]]

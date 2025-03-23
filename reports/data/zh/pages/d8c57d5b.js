@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,2,"[[Category:马哈拉施特拉邦城镇]]"]]
+window.data=[["no-duplicate",37,2,"duplicated category","[[Category:马哈拉施特拉邦城镇]]"],["no-duplicate",38,2,"duplicated category","[[Category:马哈拉施特拉邦城镇|城市]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",114,42,"Right"]]
+window.data=[["no-duplicate",114,42,"duplicated image caption parameter","Right"],["no-duplicate",114,54,"duplicated image caption parameter","瑪麗亞的正式肖像，攝於1914年"]]

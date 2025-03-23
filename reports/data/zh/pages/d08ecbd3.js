@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",56,1," * [[商业|商务]]总合学科<ref group=\"注\"  name=\"商务总合学科\">日语:{{lang|ja|ビジネス総合学科}}</ref>"]]
+window.data=[["fostered-content",56,1,"content to be moved out from the table"," * [[商业|商务]]总合学科<ref group=\"注\"  name=\"商务总合学科\">日语:{{lang|ja|ビジネス総合学科}}</ref>"],["fostered-content",60,1,"content to be moved out from the table"," * 文学科<ref group=\"注\"  name=\"招生到2000年\"/>\n ** 日本文学专攻<ref group=\"注\"  name=\"招生到2000年\"/>\n ** 英美文学专攻<ref group=\"注\"  name=\"招生到2000年\"/>\n * [[工商管理学|经营]]学科<ref "]]

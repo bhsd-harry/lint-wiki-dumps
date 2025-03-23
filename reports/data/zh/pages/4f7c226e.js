@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",62,4,"https:"],[1,"no-ignored",62,33,"/%D0%93%D0%95%D0%A1_L%C3%A0zh%C3%A0i"]]
+window.data=[["illegal-attr",62,4,"illegal attribute name","https:"],["illegal-attr",62,12,"illegal attribute name","uk.wikipedia.org"],["illegal-attr",62,29,"illegal attribute name","wiki"],["no-ignored",62,33,"containing invalid attribute","/%D0%93%D0%95%D0%A1_L%C3%A0zh%C3%A0i"]]

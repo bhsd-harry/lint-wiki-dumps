@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",17,3," 1blankname2    = [[臺灣總督|總督]]\n "]]
+window.data=[["no-duplicate",17,3,"duplicated parameter"," 1blankname2    = [[臺灣總督|總督]]\n "],["no-duplicate",19,3,"duplicated parameter"," 1blankname2    = [[總務長官]]\n "],["no-duplicate",18,3,"duplicated parameter"," 1namedata2     = [[田健治郎]]→[[內田嘉吉]]→[[伊澤多喜男]]\n "],["no-duplicate",20,3,"duplicated parameter"," 1namedata2     = [[賀來佐賀太郎]]→[[後藤文夫]]\n "]]

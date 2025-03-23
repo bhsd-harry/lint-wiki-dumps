@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",69,2252,"]]"],[2,"no-duplicate",359,2,"[[Category:中华民国大陆时期情报机构]]"]]
+window.data=[["lonely-bracket",69,2252,"lonely \"]\"","]]"],["lonely-bracket",117,164,"lonely \"}\"","}}"],["no-duplicate",359,2,"duplicated category","[[Category:中华民国大陆时期情报机构]]"],["no-duplicate",360,2,"duplicated category","[[Category:中华民国大陆时期情报机构]]"]]

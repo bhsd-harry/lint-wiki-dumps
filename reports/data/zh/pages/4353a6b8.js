@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",72,3," party            = \n "]]
+window.data=[["no-duplicate",72,3,"duplicated parameter"," party            = \n "],["no-duplicate",73,3,"duplicated parameter"," party            = {{巫统}}{{small|（直至2023年）}}<br>{{土团党}}{{small|（2024年至今）}}\n "]]

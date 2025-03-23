@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",108,2,"[[Category:日本第三種鐵道事業者]]"]]
+window.data=[["no-duplicate",108,2,"duplicated category","[[Category:日本第三種鐵道事業者]]"],["no-duplicate",110,2,"duplicated category","[[Category:日本第三種鐵道事業者]]"]]

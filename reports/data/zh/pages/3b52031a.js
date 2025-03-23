@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",112,19,"[[Category:磁盘加密]]"]]
+window.data=[["no-duplicate",112,19,"duplicated category","[[Category:磁盘加密]]"],["no-duplicate",115,2,"duplicated category","[[Category:磁盘加密]]"]]

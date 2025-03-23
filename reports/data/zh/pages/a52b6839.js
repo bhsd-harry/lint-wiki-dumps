@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,47,"10pt"]]
+window.data=[["no-duplicate",18,47,"duplicated image caption parameter","10pt"],["no-duplicate",18,52,"duplicated image caption parameter","软音符源於[[西哥特王國|西哥德]]Z"]]

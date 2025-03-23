@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,44,"Right"]]
+window.data=[["no-duplicate",41,44,"duplicated image caption parameter","Right"],["no-duplicate",41,50,"duplicated image caption parameter","電影《[[超人：鋼鐵英雄]]》中的薩德，由[[麥可·珊農]]飾演"]]

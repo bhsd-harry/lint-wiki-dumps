@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,68,"name=2moreyears"],[1,"no-ignored",27,83," /<ref "],[1,"tag-like",27,85,"<ref"]]
+window.data=[["tag-like",27,85,"lonely \"<\"","<ref"],["no-ignored",27,83,"containing invalid attribute"," /<ref "],["no-duplicate",27,68,"duplicated name attribute","name=2moreyears"],["no-duplicate",27,90,"duplicated name attribute","name=aljazeeraconfirms"]]

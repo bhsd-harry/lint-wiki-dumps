@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",58,2,"[[Category:Nintendo Network遊戲]]"]]
+window.data=[["no-duplicate",58,2,"duplicated category","[[Category:Nintendo Network遊戲]]"],["no-duplicate",64,2,"duplicated category","[[Category:Nintendo Network遊戲]]"]]

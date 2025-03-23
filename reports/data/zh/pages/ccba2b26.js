@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",91,10,"permanent"],[3,"no-ignored",91,3," Accès "]]
+window.data=[["illegal-attr",91,10,"illegal attribute name","permanent"],["no-ignored",91,3,"containing invalid attribute"," Accès "],["illegal-attr",218,10,"illegal attribute name","permanent"],["no-ignored",218,3,"containing invalid attribute"," Accès "],["illegal-attr",288,10,"illegal attribute name","permanent"],["no-ignored",288,3,"containing invalid attribute"," Accès "]]

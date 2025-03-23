@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",12,3,"duplicated parameter"," phylum = [[脊索動物門]]\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," phylum = [[脊索動物門]]\n "],["no-duplicate",14,3,"duplicated parameter"," phylum = [[脊索動物門]] Chordata\n "],["no-duplicate",15,3,"duplicated parameter"," subphylum = [[脊椎動物亞門]] Vertebrata\n "],["no-duplicate",28,3,"duplicated parameter"," subphylum=[[脊椎動物亞門]] Vertebrata"]]

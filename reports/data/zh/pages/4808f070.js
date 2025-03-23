@@ -1,1 +1,1 @@
-window.data=[[1,"unmatched-tag",1111,52,"</span>"]]
+window.data=[["invalid-css",599,42,"semi-colon expected",""],["invalid-css",599,42,"colon expected",""],["invalid-css",1069,28,"property value expected","#"],["invalid-css",1093,42,"semi-colon expected",""],["invalid-css",1093,42,"colon expected",""],["unmatched-tag",1111,52,"unmatched closing tag","</span>"],["invalid-css",1122,42,"semi-colon expected",""],["invalid-css",1122,42,"colon expected",""],["invalid-css",1566,42,"semi-colon expected",""],["invalid-css",1566,42,"colon expected",""]]

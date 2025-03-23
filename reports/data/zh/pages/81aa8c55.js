@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",62,1," *[[太平梁遗址]]\n *[[佟杖子遗址]]\n *[[铅南沟遗址]]"]]
+window.data=[["fostered-content",62,1,"content to be moved out from the table"," *[[太平梁遗址]]\n *[[佟杖子遗址]]\n *[[铅南沟遗址]]"]]

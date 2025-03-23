@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",128,2,"[[Category:香港人口流動]]"]]
+window.data=[["no-duplicate",128,2,"duplicated category","[[Category:香港人口流動]]"],["no-duplicate",131,2,"duplicated category","[[Category:香港人口流動]]"],["no-duplicate",133,2,"duplicated category","[[Category:香港簽證]]"],["no-duplicate",134,2,"duplicated category","[[Category:香港簽證]]"]]

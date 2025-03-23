@@ -1,1 +1,1 @@
-window.data=[[4,"no-ignored",23,3," 夢幻陣容位置"]]
+window.data=[["no-ignored",23,3,"containing invalid attribute"," 夢幻陣容位置"],["no-ignored",24,3,"containing invalid attribute"," 代表國家"],["no-ignored",25,3,"containing invalid attribute"," 参赛年份"],["no-ignored",26,3,"containing invalid attribute"," 得票排名"]]

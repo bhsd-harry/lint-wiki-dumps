@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",45,79,"Right"]]
+window.data=[["no-duplicate",45,79,"duplicated image caption parameter","Right"],["no-duplicate",45,91,"duplicated image caption parameter","瑪麗的父母——阿爾弗雷德王子和瑪麗亞女大公"],["no-duplicate",69,58,"duplicated image caption parameter","Right"],["no-duplicate",69,70,"duplicated image caption parameter","費迪南及瑪麗一家，（[[尼古拉王子 (羅馬尼亞)|尼古拉斯]]沒有在內）"]]

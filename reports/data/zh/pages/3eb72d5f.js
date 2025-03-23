@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",183,2,"{{"],[2,"no-duplicate",128,5,"style=\"background:#FF79BC\""]]
+window.data=[["no-duplicate",128,5,"duplicated style attribute","style=\"background:#FF79BC\""],["no-duplicate",128,33,"duplicated style attribute","style=\"font-weight:bold;\""],["lonely-bracket",183,2,"lonely \"{\"","{{"]]

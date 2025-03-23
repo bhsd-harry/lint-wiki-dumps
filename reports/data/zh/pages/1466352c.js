@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",40,43,"Sun Yat-sen University no.5 Hospital.jpg"]]
+window.data=[["no-duplicate",40,43,"duplicated image caption parameter","Sun Yat-sen University no.5 Hospital.jpg"],["no-duplicate",40,84,"duplicated image caption parameter","大门"]]

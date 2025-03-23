@@ -1,1 +1,1 @@
-window.data=[[1,"unclosed-table",314,2,"{|"]]
+window.data=[["invalid-css",482,20,"semi-colon expected",""],["invalid-css",482,20,"colon expected",""],["invalid-css",482,44,"semi-colon expected",""],["invalid-css",482,44,"colon expected",""],["invalid-css",482,67,"semi-colon expected",""],["invalid-css",482,67,"colon expected",""],["invalid-css",482,89,"semi-colon expected",""],["invalid-css",482,89,"colon expected",""],["unclosed-table",314,2,"unclosed table","{|"]]

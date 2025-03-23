@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",212,552,"name=\"楊艾俐 48-51\""],[1,"no-ignored",212,568,"  /<ref "],[1,"tag-like",212,571,"<ref"]]
+window.data=[["tag-like",212,571,"lonely \"<\"","<ref"],["no-ignored",212,568,"containing invalid attribute","  /<ref "],["no-duplicate",212,552,"duplicated name attribute","name=\"楊艾俐 48-51\""],["no-duplicate",212,576,"duplicated name attribute","name =  \"張文馨\""]]

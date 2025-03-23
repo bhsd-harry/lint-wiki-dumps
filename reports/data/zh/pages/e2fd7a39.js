@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",206,2,"[[Category:臺灣男性作家]]"]]
+window.data=[["no-duplicate",206,2,"duplicated category","[[Category:臺灣男性作家]]"],["no-duplicate",207,2,"duplicated category","[[Category:臺灣男性作家]]"]]

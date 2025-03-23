@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",11,7,"Continental"],[1,"no-ignored",11,3," 男子 "]]
+window.data=[["illegal-attr",11,7,"illegal attribute name","Continental"],["no-ignored",11,3,"containing invalid attribute"," 男子 "]]

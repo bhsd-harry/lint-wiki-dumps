@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",23,27,"classes"],[2,"no-duplicate",44,25,"{{flagicon|EU}}"]]
+window.data=[["illegal-attr",23,27,"illegal attribute name","classes"],["no-duplicate",44,25,"duplicated image caption parameter","{{flagicon|EU}}"],["no-duplicate",44,41,"duplicated image caption parameter","'''{{EU}}'''<br>[[唐納德·圖斯克]]"],["illegal-attr",62,27,"illegal attribute name","classes"]]

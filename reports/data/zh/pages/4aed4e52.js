@@ -1,1 +1,1 @@
-window.data=[[1,"pipe-like",85,16,"（美国） || 六轮式\n 波旁式"]]
+window.data=[["pipe-like",85,16,"additional \"|\" in a table cell","（美国） || 六轮式\n 波旁式"]]

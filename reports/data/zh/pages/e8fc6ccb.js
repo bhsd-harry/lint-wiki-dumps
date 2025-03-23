@@ -1,0 +1,1 @@
+window.data=[["invalid-css",35,11,"} expected","00width"],["invalid-css",35,39,"{ expected",":"]]

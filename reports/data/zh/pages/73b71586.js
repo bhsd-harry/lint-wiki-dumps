@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",83,1," ;小于村委会（站位位于曹后公路，中央南大街北侧，A出入口向西北约190米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|261郎家|307}}"]]
+window.data=[["fostered-content",83,1,"content to be moved out from the table"," ;小于村委会（站位位于曹后公路，中央南大街北侧，A出入口向西北约190米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|261郎家|307}}"],["fostered-content",86,1,"content to be moved out from the table"," ;二十二号路中央大街/积水潭医院（站位位于开发二十二号路，中央南大街南侧，A/B出入口向西约320米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|283|306|307}}\n {{col-end}}"]]

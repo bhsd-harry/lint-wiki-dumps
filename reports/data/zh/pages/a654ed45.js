@@ -1,1 +1,1 @@
-window.data=[[3,"no-ignored",579,48," group\"注釈\""]]
+window.data=[["no-ignored",579,48,"containing invalid attribute"," group\"注釈\""],["invalid-css",585,55,"semi-colon expected",""],["invalid-css",585,54,"colon expected","="],["no-ignored",585,56,"containing invalid attribute","font-size:small;\""],["invalid-css",1239,55,"semi-colon expected",""],["invalid-css",1239,54,"colon expected","="],["no-ignored",1239,56,"containing invalid attribute","font-size:small;\""]]

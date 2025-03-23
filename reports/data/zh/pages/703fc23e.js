@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",104,4,"table"],[1,"unmatched-tag",69,223,"<big>"]]
+window.data=[["unmatched-tag",69,223,"unclosed tag","<big>"],["illegal-attr",104,4,"illegal attribute name","table"],["illegal-attr",135,4,"illegal attribute name","table"]]

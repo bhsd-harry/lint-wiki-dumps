@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",68,2,"[[Category:彰化縣立國民小學]]"]]
+window.data=[["no-duplicate",68,2,"duplicated category","[[Category:彰化縣立國民小學]]"],["no-duplicate",70,2,"duplicated category","[[Category:彰化縣立國民小學]]"]]

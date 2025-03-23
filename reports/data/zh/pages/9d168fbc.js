@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3," image         = 亞莫爾·托歐斯<br>Amor Towles\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter"," image         = 亞莫爾·托歐斯<br>Amor Towles\n "],["no-duplicate",6,3,"duplicated parameter"," image         = Amor Towles (2018).jpg\n "]]

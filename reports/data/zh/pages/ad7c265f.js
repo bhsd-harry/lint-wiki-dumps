@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",51,2,"[[Category:臺灣—巴西關係| ]]"]]
+window.data=[["no-duplicate",51,2,"duplicated category","[[Category:臺灣—巴西關係| ]]"],["no-duplicate",52,2,"duplicated category","[[Category:臺灣—巴西關係]]"]]

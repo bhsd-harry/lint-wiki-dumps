@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",45,2,"[[Category:黃姓|Tian天福]]"]]
+window.data=[["no-duplicate",45,2,"duplicated category","[[Category:黃姓|Tian天福]]"],["no-duplicate",48,2,"duplicated category","[[Category:黃姓]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",57,1," * 生活环境学科\n * 食物营养学科\n * 幼儿教育学科\n * 经营情报学科"]]
+window.data=[["fostered-content",57,1,"content to be moved out from the table"," * 生活环境学科\n * 食物营养学科\n * 幼儿教育学科\n * 经营情报学科"],["fostered-content",82,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]：前姬路短期大学附属幼稚园成立于1967年、废除于1999年。"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",8,1," [[File:Přízemí Slavia Museum.jpg|Přízemí_Slavia_Museum]]|斯拉维亚博物馆底层"]]
+window.data=[["no-ignored",8,1,"invalid content in <gallery>"," [[File:Přízemí Slavia Museum.jpg|Přízemí_Slavia_Museum]]|斯拉维亚博物馆底层"],["no-ignored",9,1,"invalid content in <gallery>"," [[File:Slavia Museum.jpg|Slavia_Museum]]|斯拉维亚博物馆展品"]]

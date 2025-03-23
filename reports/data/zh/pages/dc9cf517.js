@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",639,2,"[[Category:香港律政劇]]"]]
+window.data=[["no-duplicate",639,2,"duplicated category","[[Category:香港律政劇]]"],["no-duplicate",640,2,"duplicated category","[[Category:香港律政劇]]"]]

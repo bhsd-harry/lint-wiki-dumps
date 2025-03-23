@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",12,40,"frame=box"]]
+window.data=[["no-duplicate",12,40,"duplicated frame attribute","frame=box"],["no-duplicate",12,60,"duplicated frame attribute","frame=box"],["no-duplicate",12,50,"duplicated rules attribute","rules=all"],["no-duplicate",12,70,"duplicated rules attribute","rules=all"]]

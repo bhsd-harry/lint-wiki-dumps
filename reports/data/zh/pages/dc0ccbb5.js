@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",99,40,"640*480px"]]
+window.data=[["no-duplicate",99,40,"duplicated image caption parameter","640*480px"],["no-duplicate",99,56,"duplicated image caption parameter","唐山一中校园内景"]]

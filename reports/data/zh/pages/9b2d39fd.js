@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,40,"RIGHT"]]
+window.data=[["no-duplicate",27,40,"duplicated image caption parameter","RIGHT"],["no-duplicate",27,58,"duplicated image caption parameter","雅克·卡蒂埃的第一次航行"]]

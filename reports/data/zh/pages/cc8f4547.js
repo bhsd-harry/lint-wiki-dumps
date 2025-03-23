@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,2,"[[Category:情侶鸚鵡|T]]"]]
+window.data=[["no-duplicate",63,2,"duplicated category","[[Category:情侶鸚鵡|T]]"],["no-duplicate",64,2,"duplicated category","[[Category:情侶鸚鵡|T]]"]]

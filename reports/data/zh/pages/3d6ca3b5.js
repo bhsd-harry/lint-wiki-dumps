@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",193,40,"老山作战纪念馆 - 2023-07-20"]]
+window.data=[["no-duplicate",193,40,"duplicated image caption parameter","老山作战纪念馆 - 2023-07-20"],["no-duplicate",193,61,"duplicated image caption parameter","老山作战纪念馆"]]

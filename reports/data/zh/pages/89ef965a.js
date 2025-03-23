@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",79,4,"https:"],[3,"lonely-bracket",80,187,"["],[1,"no-ignored",79,27,"/watch?v=_BuUct9jASY"]]
+window.data=[["illegal-attr",79,4,"illegal attribute name","https:"],["illegal-attr",79,12,"illegal attribute name","www.youtube.com"],["no-ignored",79,27,"containing invalid attribute","/watch?v=_BuUct9jASY"],["lonely-bracket",80,187,"lonely \"[\"","["],["lonely-bracket",80,359,"lonely \"[\"","["],["lonely-bracket",82,204,"lonely \"[\"","["]]

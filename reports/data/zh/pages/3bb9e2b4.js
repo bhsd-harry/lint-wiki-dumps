@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,2,"[[Category:1998年中美洲和加勒比运动会田径运动员]]"]]
+window.data=[["no-duplicate",33,2,"duplicated category","[[Category:1998年中美洲和加勒比运动会田径运动员]]"],["no-duplicate",34,2,"duplicated category","[[Category:1998年中美洲和加勒比运动会田径运动员]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,37,"325px"],[1,"no-ignored",268,3,"146,877,088"]]
+window.data=[["no-duplicate",2,37,"duplicated image width parameter","325px"],["no-duplicate",2,55,"duplicated image width parameter","250px"],["no-ignored",268,3,"containing invalid attribute","146,877,088"],["invalid-css",309,45,"semi-colon expected","%"]]

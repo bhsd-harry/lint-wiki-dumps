@@ -1,1 +1,1 @@
-window.data=[[7,"invalid-gallery",16,24,"thumb"],[1,"no-ignored",23,1," </p>"]]
+window.data=[["invalid-gallery",16,24,"invalid image parameter","thumb"],["invalid-gallery",17,16,"invalid image parameter","thumb"],["invalid-gallery",18,31,"invalid image parameter","thumb"],["invalid-gallery",19,30,"invalid image parameter","thumb"],["invalid-gallery",20,26,"invalid image parameter","thumb"],["invalid-gallery",21,36,"invalid image parameter","thumb"],["invalid-gallery",22,39,"invalid image parameter","thumb"],["no-ignored",23,1,"invalid content in <gallery>"," </p>"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",808,33,"'"],[2,"no-duplicate",232,3,"party=Republican Party (United States)\n "]]
+window.data=[["no-duplicate",232,3,"duplicated parameter","party=Republican Party (United States)\n "],["no-duplicate",234,3,"duplicated parameter","party = Republican Party (United States)\n "],["lonely-apos",808,33,"lonely \"'\"","'"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",54,62,"upright="]]
+window.data=[["no-duplicate",54,62,"duplicated image caption parameter","upright="],["no-duplicate",54,71,"duplicated image caption parameter","2017年，曾在弗尔巴尼亚桥之战带领法军反击的弗朗索瓦·勒库安特上将在[[帕莱索]][[巴黎综合理工学院]]讲话"]]

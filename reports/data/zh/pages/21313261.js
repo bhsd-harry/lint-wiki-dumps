@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,3," 出生地點 =\n "]]
+window.data=[["no-duplicate",15,3,"duplicated parameter"," 出生地點 =\n "],["no-duplicate",24,3,"duplicated parameter"," 出生地點 = {{TWN}}[[台南市]]\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",239,2,"duplicated category","[[Category:臺北鐵路站]]"]]
+window.data=[["no-duplicate",239,2,"duplicated category","[[Category:臺北鐵路站]]"],["no-duplicate",243,2,"duplicated category","[[Category:臺北鐵路站]]"]]

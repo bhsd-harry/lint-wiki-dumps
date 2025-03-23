@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,2,"[[Category:法國奧運擊劍運動員]]"]]
+window.data=[["no-duplicate",14,2,"duplicated category","[[Category:法國奧運擊劍運動員]]"],["no-duplicate",15,2,"duplicated category","[[Category:法國奧運擊劍運動員]]"]]

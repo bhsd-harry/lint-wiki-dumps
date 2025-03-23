@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",207,91,"巴西針對外交或公務護照持有人的簽證政策"]]
+window.data=[["no-duplicate",207,91,"duplicated image caption parameter","巴西針對外交或公務護照持有人的簽證政策"],["no-duplicate",207,123,"duplicated image caption parameter","{{legend|#f44336|巴西}}{{legend|#009688|外交和公務護照免簽證}}{{legend|#559cd1|外交護照免簽證}}"]]

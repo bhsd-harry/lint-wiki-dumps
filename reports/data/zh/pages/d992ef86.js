@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",40,3," 網站 =\n "]]
+window.data=[["no-duplicate",40,3,"duplicated parameter"," 網站 =\n "],["no-duplicate",46,3,"duplicated parameter"," 網站 = [https://jr-official.starto.jp/s/jr/persons/24?ima=3327 井上 瑞稀]\n "]]

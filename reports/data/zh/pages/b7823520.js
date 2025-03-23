@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",563,2,"[[Category:青年漫畫]]"]]
+window.data=[["no-duplicate",563,2,"duplicated category","[[Category:青年漫畫]]"],["no-duplicate",581,2,"duplicated category","[[Category:青年漫畫]]"]]

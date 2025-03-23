@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",67,69,"1863年道格拉斯号召有色人种参军的宣传页"]]
+window.data=[["no-duplicate",67,69,"duplicated image caption parameter","1863年道格拉斯号召有色人种参军的宣传页"],["no-duplicate",67,91,"duplicated image caption parameter","呼吁有色人种参加北军战斗的报纸"]]

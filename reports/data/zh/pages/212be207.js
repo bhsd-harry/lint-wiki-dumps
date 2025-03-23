@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",96,57,"«Мираж 4000» в экспозиции Музея авиации и космонавтики в Ле-Бурже в 2009 году"]]
+window.data=[["no-duplicate",96,57,"duplicated image caption parameter","«Мираж 4000» в экспозиции Музея авиации и космонавтики в Ле-Бурже в 2009 году"],["no-duplicate",96,152,"duplicated image caption parameter","攝於2009年，在[[法國航空博物館]]展出的幻影4000原型機。"]]

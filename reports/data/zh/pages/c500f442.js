@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",155,18,"[[火星勘测轨道飞行器]]背景摄机拍摄的里奇陨击坑西侧壁。Wikiritchyfan.jpg"]]
+window.data=[["no-duplicate",155,18,"duplicated image caption parameter","[[火星勘测轨道飞行器]]背景摄机拍摄的里奇陨击坑西侧壁。Wikiritchyfan.jpg"],["no-duplicate",155,65,"duplicated image caption parameter","火星勘测轨道飞行器背景摄机拍摄的里奇陨击坑西侧坑壁上的冲积扇，注意：这是前一幅图像的放大版。"]]

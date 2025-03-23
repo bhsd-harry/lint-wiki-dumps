@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",146,1," [[File:Acid2 MobileChormeBeta.png|thumb|Mobile [[Chrome]] Beta failing the Acid2 test.]]"]]
+window.data=[["no-ignored",146,1,"invalid content in <gallery>"," [[File:Acid2 MobileChormeBeta.png|thumb|Mobile [[Chrome]] Beta failing the Acid2 test.]]"]]

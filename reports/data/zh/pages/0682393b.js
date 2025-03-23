@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",142,2,"[[Category:未来之星明星球员]]"]]
+window.data=[["no-duplicate",142,2,"duplicated category","[[Category:未来之星明星球员]]"],["no-duplicate",147,2,"duplicated category","[[Category:未来之星明星球员]]"]]

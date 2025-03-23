@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",561,3,"text-align:right\""],[1,"tag-like",307,35,"<span"],[1,"unmatched-tag",307,78,"</span>"]]
+window.data=[["tag-like",307,35,"lonely \"<\"","<span"],["unmatched-tag",307,78,"unmatched closing tag","</span>"],["no-ignored",561,3,"containing invalid attribute","text-align:right\""],["no-ignored",562,3,"containing invalid attribute","text-align:center\""],["invalid-css",1092,40,"property value expected",""]]

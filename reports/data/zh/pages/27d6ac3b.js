@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,2,"[[Category:甲龙亚目|T]]"]]
+window.data=[["no-duplicate",27,2,"duplicated category","[[Category:甲龙亚目|T]]"],["no-duplicate",28,2,"duplicated category","[[Category:甲龙亚目|*]]"]]

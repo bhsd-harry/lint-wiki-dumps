@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,30,"width=200px"]]
+window.data=[["no-duplicate",29,30,"duplicated image caption parameter","width=200px"],["no-duplicate",29,48,"duplicated image caption parameter","电脑模拟的亚当航空574号班机"]]

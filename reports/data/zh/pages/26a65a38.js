@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",367,42,"Coinshot"],[1,"no-ignored",367,36,"  |射幣 "]]
+window.data=[["illegal-attr",367,42,"illegal attribute name","Coinshot"],["no-ignored",367,36,"containing invalid attribute","  |射幣 "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",49,72,"480px <!-- must equal original width as scaled thumbnail loses animation -->"]]
+window.data=[["no-duplicate",49,72,"duplicated image caption parameter","480px <!-- must equal original width as scaled thumbnail loses animation -->"],["no-duplicate",49,149,"duplicated image caption parameter","在刚刚月食之前，期间和之后月球出现的仿真"]]

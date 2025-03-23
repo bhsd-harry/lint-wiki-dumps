@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,2,"[[Category:使用多个图像且自动缩放的页面]]"]]
+window.data=[["no-duplicate",2,2,"duplicated category","[[Category:使用多个图像且自动缩放的页面]]"],["no-duplicate",6,2,"duplicated category","[[Category:使用多个图像且自动缩放的页面]]"]]

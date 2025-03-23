@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,37,"right200px"]]
+window.data=[["no-duplicate",26,37,"duplicated image caption parameter","right200px"],["no-duplicate",26,48,"duplicated image caption parameter","樞機徽章（牧徽）的[[教會紋章學|格式]]，不過若該樞機沒有主教身分則不會有十字架"]]

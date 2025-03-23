@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",183,1,"\n == 參考文獻 ==\n {{reflist}}\n\n {{CLC (band)}}\n\n [[Category:2019年迷你專輯]]\n [[Category:CLC音樂專輯]]"],[1,"unclosed-table",181,2,"{|"]]
+window.data=[["invalid-css",82,39,") expected","#gray"],["invalid-css",82,63,"{ expected",""],["invalid-css",182,26,"semi-colon expected",""],["invalid-css",182,17,"colon expected","="],["fostered-content",183,1,"content to be moved out from the table","\n == 參考文獻 ==\n {{reflist}}\n\n {{CLC (band)}}\n\n [[Category:2019年迷你專輯]]\n [[Category:CLC音樂專輯]]"],["unclosed-table",181,2,"unclosed table","{|"]]

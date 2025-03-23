@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",190,2,"[[Category:被美國通緝者]]"]]
+window.data=[["no-duplicate",190,2,"duplicated category","[[Category:被美國通緝者]]"],["no-duplicate",191,2,"duplicated category","[[Category:被美國通緝者]]"]]

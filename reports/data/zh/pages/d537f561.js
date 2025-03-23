@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",110,76,"在[[北京军区]]和[[沈阳军区]]当面的"]]
+window.data=[["no-duplicate",110,76,"duplicated image caption parameter","在[[北京军区]]和[[沈阳军区]]当面的"],["no-duplicate",110,98,"duplicated image caption parameter","苏联军队部署"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",193,2,"[[Category:韓國新教徒|N]]"]]
+window.data=[["no-duplicate",193,2,"duplicated category","[[Category:韓國新教徒|N]]"],["no-duplicate",198,2,"duplicated category","[[Category:韓國新教徒|N]]"]]

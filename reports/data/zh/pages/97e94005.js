@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,60,"2;;::;……50px"]]
+window.data=[["no-duplicate",10,60,"duplicated image caption parameter","2;;::;……50px"],["no-duplicate",10,73,"duplicated image caption parameter","巴士底狱"]]

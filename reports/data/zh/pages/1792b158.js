@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",90,68,"[[Supermarine Spitfire|Spitfire PR.XIX]]"]]
+window.data=[["nested-link",90,68,"internal link in an external link","[[Supermarine Spitfire|Spitfire PR.XIX]]"]]

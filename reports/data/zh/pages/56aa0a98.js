@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",899,3,"m={{flag icon|JPN}} Speranza<br>1998年（栗色）\n "]]
+window.data=[["no-duplicate",899,3,"duplicated parameter","m={{flag icon|JPN}} Speranza<br>1998年（栗色）\n "],["no-duplicate",900,3,"duplicated parameter","m={{flag icon|JPN}} [[火神 (馬)|火神]]<br>2003年（栗色）\n "]]

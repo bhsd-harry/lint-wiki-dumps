@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,4," type = Planetary\n  "]]
+window.data=[["no-duplicate",3,4,"duplicated parameter"," type = Planetary\n  "],["no-duplicate",6,4,"duplicated parameter"," type    = [[行星狀星雲]]\n  "]]

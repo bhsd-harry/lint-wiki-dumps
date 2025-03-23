@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",904,2,"[[Category:2024年臺灣籃球]]"],[1,"no-ignored",411,73," 莊敬高職"]]
+window.data=[["no-ignored",411,73,"containing invalid attribute"," 莊敬高職"],["no-duplicate",904,2,"duplicated category","[[Category:2024年臺灣籃球]]"],["no-duplicate",908,2,"duplicated category","[[Category:2024年臺灣籃球]]"],["no-duplicate",905,2,"duplicated category","[[Category:2025年臺灣籃球]]"],["no-duplicate",909,2,"duplicated category","[[Category:2025年臺灣籃球]]"]]

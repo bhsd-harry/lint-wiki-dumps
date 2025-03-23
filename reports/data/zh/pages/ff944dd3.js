@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",57,37,"Round_stingray_Refugium"]]
+window.data=[["no-duplicate",57,37,"duplicated image caption parameter","Round_stingray_Refugium"],["no-duplicate",57,73,"duplicated image caption parameter","[[海沃德]]一家热带鱼商店饲养的哈氏大尾扁魟"]]

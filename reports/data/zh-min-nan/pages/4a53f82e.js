@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",29,33,"duplicated image caption parameter","Tombe du docteur John Conolly (date-"]]
+window.data=[["no-duplicate",29,33,"duplicated image caption parameter","Tombe du docteur John Conolly (date-"],["no-duplicate",29,70,"duplicated image caption parameter","27 mai 1794 - date-"],["no-duplicate",29,90,"duplicated image caption parameter","5 mars, 1866), Kensington Cimetière, [[Londres]]."]]

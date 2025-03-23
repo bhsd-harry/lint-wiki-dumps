@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",86,2,"[[Category:中华人民共和国云南省故意杀人命案]]"]]
+window.data=[["no-duplicate",86,2,"duplicated category","[[Category:中华人民共和国云南省故意杀人命案]]"],["no-duplicate",88,2,"duplicated category","[[Category:中华人民共和国云南省故意杀人命案]]"]]

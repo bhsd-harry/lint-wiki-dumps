@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,1493,"title=Manama 2024. Nururdinov and Wu Yan continue hot streak for Asia"]]
+window.data=[["no-duplicate",2,1493,"duplicated parameter","title=Manama 2024. Nururdinov and Wu Yan continue hot streak for Asia"],["no-duplicate",2,1563,"duplicated parameter","title=Manama 2024. Nururdinov and Wu Yan continue hot streak for Asia"]]

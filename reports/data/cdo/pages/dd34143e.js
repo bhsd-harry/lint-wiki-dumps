@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3,"duplicated parameter","notice=IPA\n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter","notice=IPA\n "],["no-duplicate",17,3,"duplicated parameter","notice        = IPA\n "]]

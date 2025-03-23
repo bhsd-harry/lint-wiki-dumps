@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",23,21,"sortable"]]
+window.data=[["illegal-attr",23,21,"illegal attribute name","sortable"],["illegal-attr",25,4,"illegal attribute name","wikitable"],["illegal-attr",34,21,"illegal attribute name","sortable"],["illegal-attr",36,4,"illegal attribute name","wikitable"]]

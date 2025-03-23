@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",136,2,"[[Category:MIPS架构]]"]]
+window.data=[["no-duplicate",136,2,"duplicated category","[[Category:MIPS架构]]"],["no-duplicate",137,2,"duplicated category","[[Category:MIPS架构]]"]]

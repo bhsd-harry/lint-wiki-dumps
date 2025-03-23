@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",149,23,"style=\"font-size:small\""],[1,"no-ignored",95,42,"  color:black; font-weight:bold;\"  "]]
+window.data=[["no-ignored",95,42,"containing invalid attribute","  color:black; font-weight:bold;\"  "],["no-duplicate",149,23,"duplicated style attribute","style=\"font-size:small\""],["no-duplicate",149,48,"duplicated style attribute","style=\"text-align:center\""]]

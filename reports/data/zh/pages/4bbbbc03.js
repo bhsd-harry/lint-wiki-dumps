@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,3,"constituency1 = [[區議會（第一）功能界別|區議會（第一）]]\n "]]
+window.data=[["no-duplicate",15,3,"duplicated parameter","constituency1 = [[區議會（第一）功能界別|區議會（第一）]]\n "],["no-duplicate",21,3,"duplicated parameter","constituency1=[[區議會（第二）功能界別|區議會（第二）]]\n "]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,19,"|https://zh.wikipedia.org/wiki/PaGamO"]]
+window.data=[["no-ignored",1,19,"useless link text","|https://zh.wikipedia.org/wiki/PaGamO"]]

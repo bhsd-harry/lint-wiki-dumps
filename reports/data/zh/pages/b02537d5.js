@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",103,2,"[[Category:禁書]]"]]
+window.data=[["no-duplicate",103,2,"duplicated category","[[Category:禁書]]"],["no-duplicate",111,2,"duplicated category","[[Category:禁書]]"]]

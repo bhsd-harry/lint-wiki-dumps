@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3,"8=zh-hans:迭戈·马拉多纳;zh-hk:迪亞高·馬勒當拿;zh-tw:迪亞哥·馬拉度納;\n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter","8=zh-hans:迭戈·马拉多纳;zh-hk:迪亞高·馬勒當拿;zh-tw:迪亞哥·馬拉度納;\n "],["no-duplicate",15,3,"duplicated parameter","8=zh-hans:本菲卡;zh-hk:賓菲加;zh-hant:本菲卡;\n "]]

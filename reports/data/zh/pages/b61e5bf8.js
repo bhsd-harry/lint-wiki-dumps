@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,48,"Mercedes-Benz G-Class"]]
+window.data=[["no-duplicate",27,48,"duplicated image caption parameter","Mercedes-Benz G-Class"],["no-duplicate",27,82,"duplicated image caption parameter","[[梅賽德斯-賓士G系列]]"]]

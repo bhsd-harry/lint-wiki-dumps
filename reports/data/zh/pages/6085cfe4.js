@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,89,"name=\"jiji\""],[1,"no-ignored",29,100,"/<ref "],[1,"tag-like",29,101,"<ref"]]
+window.data=[["tag-like",29,101,"lonely \"<\"","<ref"],["no-ignored",29,100,"containing invalid attribute","/<ref "],["no-duplicate",29,89,"duplicated name attribute","name=\"jiji\""],["no-duplicate",29,106,"duplicated name attribute","name=\"example\""]]

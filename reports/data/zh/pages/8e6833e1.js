@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3," image = Ptychodus mortoni.jpg\n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter"," image = Ptychodus mortoni.jpg\n "],["no-duplicate",4,3,"duplicated parameter"," image = Asteracanthus image.jpg\n "]]

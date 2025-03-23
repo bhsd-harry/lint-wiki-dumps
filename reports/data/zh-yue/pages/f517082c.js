@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",28,29,"invalid content in <references>","電動輪椅"]]
+window.data=[["no-ignored",28,29,"invalid content in <references>","電動輪椅"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",67,53,"width:"],[1,"lonely-http",30,19,"https://"],[1,"no-ignored",67,59," 50%;text-align: center;\""]]
+window.data=[["lonely-http",30,19,"lonely \"https://\"","https://"],["invalid-css",67,52,"term expected",""],["illegal-attr",67,53,"illegal attribute name","width:"],["no-ignored",67,59,"containing invalid attribute"," 50%;text-align: center;\""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",242,2,"[[Category:环境保护]]"]]
+window.data=[["no-duplicate",242,2,"duplicated category","[[Category:环境保护]]"],["no-duplicate",244,2,"duplicated category","[[Category:环境保护]]"]]

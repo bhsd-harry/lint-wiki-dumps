@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",29,5,"GB"],[2,"no-duplicate",29,5,"GB"],[1,"no-ignored",29,7,"/T&nbsp;6345.1 在 "]]
+window.data=[["illegal-attr",29,5,"illegal attribute name","GB"],["illegal-attr",29,24,"illegal attribute name","GB"],["illegal-attr",29,27,"illegal attribute name","2312"],["no-ignored",29,7,"containing invalid attribute","/T&nbsp;6345.1 在 "],["no-duplicate",29,5,"duplicated gb attribute","GB"],["no-duplicate",29,24,"duplicated gb attribute","GB"]]

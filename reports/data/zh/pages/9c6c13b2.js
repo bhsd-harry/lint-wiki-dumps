@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",1919,22,"'"],[3,"lonely-bracket",879,6,"{{"],[1,"no-ignored",879,3," 盟軍{{le"]]
+window.data=[["lonely-bracket",879,6,"lonely \"{\"","{{"],["no-ignored",879,3,"containing invalid attribute"," 盟軍{{le"],["lonely-bracket",879,45,"lonely \"]\"","]]"],["lonely-bracket",1083,77,"lonely \"]\"","]]"],["lonely-apos",1919,22,"lonely \"'\"","'"]]

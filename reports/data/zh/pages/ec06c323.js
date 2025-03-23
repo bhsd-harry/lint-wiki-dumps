@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,19,"|電漿顯示器"]]
+window.data=[["no-ignored",1,19,"useless link text","|電漿顯示器"]]

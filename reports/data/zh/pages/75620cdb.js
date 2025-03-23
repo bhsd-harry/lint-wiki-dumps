@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",137,28,"[["],[1,"no-ignored",137,16," |width=10%|[[Valerie Pedro]] "]]
+window.data=[["lonely-bracket",137,28,"lonely \"[\"","[["],["lonely-bracket",137,43,"lonely \"]\"","]]"],["no-ignored",137,16,"containing invalid attribute"," |width=10%|[[Valerie Pedro]] "]]

@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-bracket",80,5,"{{"],[2,"no-ignored",80,4," {{#switch:{{{team}}}|BOS|BOS=bgcolor=\"#CCFFCC\"}"]]
+window.data=[["lonely-bracket",80,5,"lonely \"{\"","{{"],["no-ignored",80,4,"containing invalid attribute"," {{#switch:{{{team}}}|BOS|BOS=bgcolor=\"#CCFFCC\"}"],["lonely-bracket",139,5,"lonely \"{\"","{{"],["no-ignored",139,4,"containing invalid attribute"," {{#switch:{{{team}}}|BOS|BOS=bgcolor=\"#CCFFCC\"}"],["lonely-bracket",186,15,"lonely \"{\"","{"]]

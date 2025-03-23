@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",79,5,"[["],[2,"no-ignored",79,4,"|[[朴根瀅]] || 李大冠 ||align=left|善南、善美的父親。"]]
+window.data=[["lonely-bracket",79,5,"lonely \"[\"","[["],["lonely-bracket",79,10,"lonely \"]\"","]]"],["no-ignored",79,4,"containing invalid attribute","|[[朴根瀅]] || 李大冠 ||align=left|善南、善美的父親。"],["lonely-bracket",90,5,"lonely \"[\"","[["],["lonely-bracket",90,10,"lonely \"]\"","]]"],["no-ignored",90,4,"containing invalid attribute","|[[文英美]] || 金英玉 ||align=left|基哲的母親。"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",66,26,"[["],[2,"no-duplicate",66,26,"[[Latina Cathedral"]]
+window.data=[["lonely-bracket",66,26,"lonely \"[\"","[["],["no-duplicate",66,26,"duplicated image caption parameter","[[Latina Cathedral"],["no-duplicate",66,45,"duplicated image caption parameter","圣马可大教堂"]]

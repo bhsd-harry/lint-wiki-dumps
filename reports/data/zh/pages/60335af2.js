@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-bracket",352,465,"}}"],[1,"no-ignored",46,49,"  id-\"GHG-ranking\""]]
+window.data=[["no-ignored",46,49,"containing invalid attribute","  id-\"GHG-ranking\""],["lonely-bracket",352,465,"lonely \"}\"","}}"],["lonely-bracket",394,200,"lonely \"[\"","[["],["lonely-bracket",394,218,"lonely \"}\"","}}"]]

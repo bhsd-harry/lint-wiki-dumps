@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",443,49,"styles"],[1,"no-ignored",489,1," <gallery widths=\"180\"  style=\"font-size:90%;\">"]]
+window.data=[["illegal-attr",443,49,"illegal attribute name","styles"],["no-ignored",489,1,"invalid content in <gallery>"," <gallery widths=\"180\"  style=\"font-size:90%;\">"]]

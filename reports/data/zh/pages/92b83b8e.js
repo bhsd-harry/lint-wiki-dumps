@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,2,"[[Category:美国政府证件|H]]"]]
+window.data=[["no-duplicate",8,2,"duplicated category","[[Category:美国政府证件|H]]"],["no-duplicate",10,2,"duplicated category","[[Category:美国政府证件|H]]"]]

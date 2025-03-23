@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",28,176,"[[United States Air Force|USAF]]"]]
+window.data=[["nested-link",28,176,"internal link in an external link","[[United States Air Force|USAF]]"]]

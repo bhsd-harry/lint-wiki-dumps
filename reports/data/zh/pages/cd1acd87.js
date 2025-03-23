@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",468,2,"[[Category:馬來西亞禁片]]"]]
+window.data=[["no-duplicate",468,2,"duplicated category","[[Category:馬來西亞禁片]]"],["no-duplicate",473,2,"duplicated category","[[Category:馬來西亞禁片]]"]]

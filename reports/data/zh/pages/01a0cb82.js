@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,2,"[[Category:各車廠首輛車款]]"]]
+window.data=[["no-duplicate",15,2,"duplicated category","[[Category:各車廠首輛車款]]"],["no-duplicate",20,2,"duplicated category","[[Category:各車廠首輛車款]]"]]

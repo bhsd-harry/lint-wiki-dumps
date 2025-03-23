@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",158,2,"[[Category:美國浪漫喜劇片]]"]]
+window.data=[["no-duplicate",158,2,"duplicated category","[[Category:美國浪漫喜劇片]]"],["no-duplicate",162,2,"duplicated category","[[Category:美國浪漫喜劇片]]"],["no-duplicate",159,2,"duplicated category","[[Category:美國小說改编電影]]"],["no-duplicate",164,2,"duplicated category","[[Category:美國小說改编電影]]"],["no-duplicate",160,2,"duplicated category","[[Category:溫哥華取景電影]]"],["no-duplicate",166,2,"duplicated category","[[Category:溫哥華取景電影]]"]]

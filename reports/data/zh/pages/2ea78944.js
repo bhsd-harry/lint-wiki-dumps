@@ -1,1 +1,1 @@
-window.data=[[6,"lonely-bracket",520,4,"[["],[1,"no-ignored",520,4,"[[爱尔兰足球联赛]], [[愛爾蘭足協盃]], [[愛爾蘭聯賽盾]]{{ref label|Note2|b|b2}}"]]
+window.data=[["lonely-bracket",520,4,"lonely \"[\"","[["],["lonely-bracket",520,13,"lonely \"]\"","]]"],["lonely-bracket",520,17,"lonely \"[\"","[["],["lonely-bracket",520,25,"lonely \"]\"","]]"],["lonely-bracket",520,29,"lonely \"[\"","[["],["lonely-bracket",520,37,"lonely \"]\"","]]"],["no-ignored",520,4,"containing invalid attribute","[[爱尔兰足球联赛]], [[愛爾蘭足協盃]], [[愛爾蘭聯賽盾]]{{ref label|Note2|b|b2}}"]]

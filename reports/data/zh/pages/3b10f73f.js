@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,3," 籍貫 = [[廣東]][[潮州]]\n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter"," 籍貫 = [[廣東]][[潮州]]\n "],["no-duplicate",19,3,"duplicated parameter"," 籍貫 = [[廣東]][[潮州]]\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3,"map_notes=Map of central New York with NY&nbsp;69 highlighted in red, NY&nbsp;69A in blue\n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter","map_notes=Map of central New York with NY&nbsp;69 highlighted in red, NY&nbsp;69A in blue\n "],["no-duplicate",9,3,"duplicated parameter","map_notes=圖中紅色的路線就是69號紐約州州道\n "]]

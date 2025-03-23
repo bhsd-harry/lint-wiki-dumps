@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",52,44,"align=left"]]
+window.data=[["no-duplicate",52,44,"duplicated image caption parameter","align=left"],["no-duplicate",52,55,"duplicated image caption parameter","4月5日凌晨，達到第二次巔峰的哈羅德即將迎來第一次登陸"]]

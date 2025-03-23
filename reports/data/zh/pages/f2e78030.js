@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,3,"system_length=7.1公里\n "]]
+window.data=[["no-duplicate",17,3,"duplicated parameter","system_length=7.1公里\n "],["no-duplicate",18,3,"duplicated parameter","system_length=7.1公里\n "]]

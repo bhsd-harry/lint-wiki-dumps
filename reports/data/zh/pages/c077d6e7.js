@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,63,"170.994x170.994px"]]
+window.data=[["no-duplicate",26,63,"duplicated image caption parameter","170.994x170.994px"],["no-duplicate",26,81,"duplicated image caption parameter","泰國聯合海上銀行總部建築像機器人外型的戲謔性"]]

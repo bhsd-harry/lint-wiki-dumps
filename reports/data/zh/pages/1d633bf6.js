@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",40,39,"Thumb"]]
+window.data=[["no-duplicate",40,39,"duplicated image caption parameter","Thumb"],["no-duplicate",40,45,"duplicated image caption parameter","广东省江门市景色_-_panoramio_(36)"],["no-duplicate",41,39,"duplicated image caption parameter","Thumb"],["no-duplicate",41,45,"duplicated image caption parameter","广东省江门市景色_-_panoramio_(38)"]]

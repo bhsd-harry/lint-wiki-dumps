@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",88,2,"[[Category:台灣電子競技團隊]]"]]
+window.data=[["no-duplicate",88,2,"duplicated category","[[Category:台灣電子競技團隊]]"],["no-duplicate",89,2,"duplicated category","[[Category:台灣電子競技團隊]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,32,"duplicated image caption parameter","right}180px"]]
+window.data=[["no-duplicate",1,32,"duplicated image caption parameter","right}180px"],["no-duplicate",1,44,"duplicated image caption parameter","Donald Richie (2009)"]]

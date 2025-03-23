@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",5,148,"illegal attribute name","contenteditable"],[6,"lonely-bracket",37,39,"lonely \"{\"","{"]]
+window.data=[["illegal-attr",5,148,"illegal attribute name","contenteditable"],["illegal-attr",5,1070,"illegal attribute name","contenteditable"],["lonely-bracket",37,39,"lonely \"{\"","{"],["lonely-bracket",37,55,"lonely \"}\"","}"],["lonely-bracket",39,38,"lonely \"{\"","{"],["lonely-bracket",39,42,"lonely \"}\"","}"],["lonely-bracket",41,38,"lonely \"{\"","{"],["lonely-bracket",41,42,"lonely \"}\"","}"]]

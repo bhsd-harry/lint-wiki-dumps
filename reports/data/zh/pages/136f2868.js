@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,45,"F2"]]
+window.data=[["no-duplicate",23,45,"duplicated image caption parameter","F2"],["no-duplicate",23,48,"duplicated image caption parameter","\n '''圖二:'''現代版的蒙德太陽黑子「蝴蝶圖」（butterfly diagram）。此版本來自於[[美國國家航空暨太空總署]][[馬歇爾太空飛行中心]]的太陽小組。"]]

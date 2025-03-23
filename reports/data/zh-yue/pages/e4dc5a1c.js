@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",228,50,"duplicated parameter","url="],[2,"unmatched-tag",198,91,"tag that is both closing and self-closing","</br>"]]
+window.data=[["unmatched-tag",198,91,"tag that is both closing and self-closing","</br>"],["unmatched-tag",198,129,"tag that is both closing and self-closing","</br>"],["no-duplicate",228,50,"duplicated parameter","url="],["no-duplicate",228,108,"duplicated parameter","url=https://mmis.hkpl.gov.hk/zh/old-hk-collection"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",167,2,"[[Category:博纳影业电影]]"]]
+window.data=[["no-duplicate",167,2,"duplicated category","[[Category:博纳影业电影]]"],["no-duplicate",168,2,"duplicated category","[[Category:博纳影业电影]]"]]

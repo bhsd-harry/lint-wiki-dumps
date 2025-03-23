@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",62,35,"324x324"]]
+window.data=[["no-duplicate",62,35,"duplicated image caption parameter","324x324"],["no-duplicate",62,43,"duplicated image caption parameter","厄立特里亚国旗飘扬在厄立特里亚驻日本大使馆所在大楼的外墙上"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-http",70,143,"ISBN"],[2,"no-duplicate",49,53,"left"]]
+window.data=[["no-duplicate",49,53,"conflicting image horizontal-alignment parameter","left"],["no-duplicate",49,58,"conflicting image horizontal-alignment parameter","右"],["lonely-http",70,143,"lonely \"ISBN\"","ISBN"],["lonely-http",90,143,"lonely \"ISBN\"","ISBN"]]

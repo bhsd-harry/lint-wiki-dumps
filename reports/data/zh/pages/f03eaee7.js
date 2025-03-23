@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",434,4,"{"],[1,"no-ignored",434,4,"{爾}-||繞絲、紡線的架子||檷||第二人稱代詞||你"]]
+window.data=[["lonely-bracket",434,4,"lonely \"{\"","{"],["lonely-bracket",434,6,"lonely \"}\"","}"],["no-ignored",434,4,"containing invalid attribute","{爾}-||繞絲、紡線的架子||檷||第二人稱代詞||你"]]

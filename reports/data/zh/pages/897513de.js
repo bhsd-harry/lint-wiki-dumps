@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",74,155,"[[Encyclopedia Titanica]]"]]
+window.data=[["nested-link",74,155,"internal link in an external link","[[Encyclopedia Titanica]]"]]

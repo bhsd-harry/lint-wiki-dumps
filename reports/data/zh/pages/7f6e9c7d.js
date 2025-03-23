@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",48,362,"[[2004年05月03日]]"]]
+window.data=[["nested-link",48,362,"internal link in an external link","[[2004年05月03日]]"],["nested-link",49,366,"internal link in an external link","[[2004年10月21日]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",42,2,"[[category:西魏县侯]]"]]
+window.data=[["no-duplicate",42,2,"duplicated category","[[category:西魏县侯]]"],["no-duplicate",43,2,"duplicated category","[[category:西魏县侯]]"]]

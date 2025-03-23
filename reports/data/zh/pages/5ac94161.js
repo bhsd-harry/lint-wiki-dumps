@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3," settlement_type = {{le|智利市镇列表|Communes of Chile|自治市}}\n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter"," settlement_type = {{le|智利市镇列表|Communes of Chile|自治市}}\n "],["no-duplicate",12,3,"duplicated parameter"," settlement_type = 城市\n "]]

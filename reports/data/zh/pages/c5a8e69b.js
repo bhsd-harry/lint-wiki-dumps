@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,2,"[[Category:臺灣歷史學]]"]]
+window.data=[["no-duplicate",29,2,"duplicated category","[[Category:臺灣歷史學]]"],["no-duplicate",30,2,"duplicated category","[[Category:臺灣歷史學]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",119,2,"[[Category:金鐘獎迷你劇集／電視電影導演得主]]"]]
+window.data=[["no-duplicate",119,2,"duplicated category","[[Category:金鐘獎迷你劇集／電視電影導演得主]]"],["no-duplicate",123,2,"duplicated category","[[Category:金鐘獎迷你劇集／電視電影導演得主]]"]]

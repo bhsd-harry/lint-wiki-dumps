@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,704,"duplicated parameter","title=ja:第22回日本アカデミー賞優秀作品 "]]
+window.data=[["no-duplicate",8,704,"duplicated parameter","title=ja:第22回日本アカデミー賞優秀作品 "],["no-duplicate",8,798,"duplicated parameter","title={title} "]]

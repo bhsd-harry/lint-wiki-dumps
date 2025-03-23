@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",57,2,"[[Category:中华人民共和国禁片]]"]]
+window.data=[["no-duplicate",57,2,"duplicated category","[[Category:中华人民共和国禁片]]"],["no-duplicate",62,2,"duplicated category","[[Category:中华人民共和国禁片]]"]]

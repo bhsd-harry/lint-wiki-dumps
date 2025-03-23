@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",171,2,"[[Category:社会哲学]]"]]
+window.data=[["no-duplicate",171,2,"duplicated category","[[Category:社会哲学]]"],["no-duplicate",181,2,"duplicated category","[[Category:社会哲学]]"],["no-duplicate",182,2,"duplicated category","[[Category:社会哲学]]"],["no-duplicate",183,2,"duplicated category","[[Category:社会哲学]]"]]

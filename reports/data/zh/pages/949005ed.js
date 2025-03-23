@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",78,38,"Minuteman III launch"]]
+window.data=[["no-duplicate",78,38,"duplicated image caption parameter","Minuteman III launch"],["no-duplicate",78,59,"duplicated image caption parameter","義勇兵三型試射"]]

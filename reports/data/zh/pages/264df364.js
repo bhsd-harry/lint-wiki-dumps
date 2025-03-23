@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",103,478,"[[香港特別行政區高等法院|高等法院]]"]]
+window.data=[["nested-link",103,478,"internal link in an external link","[[香港特別行政區高等法院|高等法院]]"]]

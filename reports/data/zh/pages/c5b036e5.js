@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",74,2,"[[Category:意大利指挥家]]"]]
+window.data=[["no-duplicate",74,2,"duplicated category","[[Category:意大利指挥家]]"],["no-duplicate",79,2,"duplicated category","[[Category:意大利指挥家]]"]]

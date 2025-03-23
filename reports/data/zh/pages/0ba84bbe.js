@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",103,54,"250px"],[2,"no-duplicate",263,38,"屏東艦艦艏40快砲"]]
+window.data=[["invalid-gallery",103,54,"invalid image parameter","250px"],["no-duplicate",263,38,"duplicated image caption parameter","屏東艦艦艏40快砲"],["no-duplicate",263,48,"duplicated image caption parameter","海巡署1000噸級屏東號巡防救難艦(CG135)艦艏裝備波佛斯40公釐70倍徑高射炮/艦炮"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",106,86,"[[Take This Hammer (documentary)|Take This Hammer]]"]]
+window.data=[["nested-link",106,86,"internal link in an external link","[[Take This Hammer (documentary)|Take This Hammer]]"],["nested-link",106,151,"internal link in an external link","[[Richard O. Moore]]"]]

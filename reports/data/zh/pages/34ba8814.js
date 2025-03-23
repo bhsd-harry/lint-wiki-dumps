@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",100,3,"{{"],[2,"no-duplicate",62,5,"style=\"background:#FF79BC\""],[1,"no-ignored",100,3,"{{hidden"]]
+window.data=[["no-duplicate",62,5,"duplicated style attribute","style=\"background:#FF79BC\""],["no-duplicate",62,33,"duplicated style attribute","style=\"font-weight:bold;\""],["lonely-bracket",100,3,"lonely \"{\"","{{"],["no-ignored",100,3,"containing invalid attribute","{{hidden"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",137,2,"[[Category:香港巴士路線]]"]]
+window.data=[["no-duplicate",137,2,"duplicated category","[[Category:香港巴士路線]]"],["no-duplicate",140,2,"duplicated category","[[Category:香港巴士路線]]"],["no-duplicate",138,2,"duplicated category","[[Category:2023年香港建立|巴]]"],["no-duplicate",142,2,"duplicated category","[[Category:2023年香港建立|巴]]"]]

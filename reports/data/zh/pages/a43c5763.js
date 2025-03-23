@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",19,21,"180 × 240px"]]
+window.data=[["no-duplicate",19,21,"duplicated image caption parameter","180 × 240px"],["no-duplicate",19,39,"duplicated image caption parameter","北魏武士俑，现藏于山西省博物院"],["no-duplicate",29,21,"duplicated image caption parameter","320 × 240px"],["no-duplicate",29,39,"duplicated image caption parameter","北魏驮粮马，大同市博物馆藏"]]

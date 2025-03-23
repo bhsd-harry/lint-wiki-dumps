@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",377,73,"1000德国马克正面"],[1,"unmatched-tag",7,158,"</small>"]]
+window.data=[["unmatched-tag",7,158,"unmatched closing tag","</small>"],["no-duplicate",377,73,"duplicated image caption parameter","1000德国马克正面"],["no-duplicate",377,94,"duplicated image caption parameter","200德国马克正面"]]

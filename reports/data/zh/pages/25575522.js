@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",611,2,"[[Category:2012年3D電影]]"],[1,"no-ignored",429,176,"|style=\"text-align: left;\""]]
+window.data=[["no-ignored",429,176,"containing invalid attribute","|style=\"text-align: left;\""],["no-duplicate",611,2,"duplicated category","[[Category:2012年3D電影]]"],["no-duplicate",622,2,"duplicated category","[[Category:2012年3D電影]]"]]

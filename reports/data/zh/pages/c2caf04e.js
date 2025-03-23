@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",125,72,"B6"]]
+window.data=[["no-duplicate",125,72,"duplicated image caption parameter","B6"],["no-duplicate",125,92,"duplicated image caption parameter","帕萨特CC"]]

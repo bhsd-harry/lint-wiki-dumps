@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,30,"[[香港]]"]]
+window.data=[["no-duplicate",14,30,"duplicated image caption parameter","[[香港]]"],["no-duplicate",14,37,"duplicated image caption parameter","2005年的[[愉景灣]]龍舟競渡"]]

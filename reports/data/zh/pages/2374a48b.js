@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",714,4,"class=\"{{PeriodicTableStyle|貧金屬（預測）}}\""]]
+window.data=[["no-duplicate",714,4,"duplicated class attribute","class=\"{{PeriodicTableStyle|貧金屬（預測）}}\""],["no-duplicate",714,44,"duplicated class attribute","class=\"{{PeriodicTableStyle|鹵素（預測）}}\""]]

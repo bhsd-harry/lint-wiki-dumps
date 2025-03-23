@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",86,41,"duplicated image caption parameter","nofloat"]]
+window.data=[["no-duplicate",86,41,"duplicated image caption parameter","nofloat"],["no-duplicate",86,55,"duplicated image caption parameter","喺北半球望到嘅月相。若果喺南半球望，每隻都係180°反轉嘅。"]]

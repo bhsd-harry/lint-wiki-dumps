@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",3,1," 这是'''[[金星]]上已命名的[[冕状物]]列表'''，除了少数例外，金星上的冕状物多以生育和大地女神命名。\n"]]
+window.data=[["fostered-content",3,1,"content to be moved out from the table"," 这是'''[[金星]]上已命名的[[冕状物]]列表'''，除了少数例外，金星上的冕状物多以生育和大地女神命名。\n"]]

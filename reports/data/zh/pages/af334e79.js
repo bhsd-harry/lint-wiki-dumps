@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",59,2,"[[Category:與俄羅斯聯邦合作的烏克蘭人]]"]]
+window.data=[["no-duplicate",59,2,"duplicated category","[[Category:與俄羅斯聯邦合作的烏克蘭人]]"],["no-duplicate",61,2,"duplicated category","[[Category:與俄羅斯聯邦合作的烏克蘭人]]"]]

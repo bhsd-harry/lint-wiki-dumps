@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",60,23,"{{"],[1,"no-ignored",60,4,"主要马肉生产国2005年马肉生产量, {{nowrap"]]
+window.data=[["lonely-bracket",60,23,"lonely \"{\"","{{"],["no-ignored",60,4,"containing invalid attribute","主要马肉生产国2005年马肉生产量, {{nowrap"]]

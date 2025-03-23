@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",23,114,"[[American Cancer Society]]"]]
+window.data=[["nested-link",23,114,"internal link in an external link","[[American Cancer Society]]"],["nested-link",24,101,"internal link in an external link","[[National Cancer Institute]]"]]

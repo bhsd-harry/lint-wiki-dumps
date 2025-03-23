@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",43,226,"[[國家圖書館 (中華民國)|國家圖書館]]"]]
+window.data=[["nested-link",43,226,"internal link in an external link","[[國家圖書館 (中華民國)|國家圖書館]]"]]

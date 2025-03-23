@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",4,30,"<br style=\"clear:both;\">"]]
+window.data=[["no-duplicate",4,30,"duplicated image caption parameter","<br style=\"clear:both;\">"],["no-duplicate",4,55,"duplicated image caption parameter"," "],["no-duplicate",10,46,"duplicated image caption parameter","<br style=\"clear:both;\">"],["no-duplicate",10,71,"duplicated image caption parameter","黑色方尖碑記錄的細節：以色列王國的代表（可能是耶戶的使者）向亞述王撒縵以色進貢（西元前841年）。上面的亞述楔形文字銘文記載：“Iaúa hu-Umri（耶戶的貢品）”。"]]

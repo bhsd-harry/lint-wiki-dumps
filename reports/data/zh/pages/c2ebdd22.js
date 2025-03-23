@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,2,"[[Category:普利茅夫球員]]"]]
+window.data=[["no-duplicate",65,2,"duplicated category","[[Category:普利茅夫球員]]"],["no-duplicate",68,2,"duplicated category","[[Category:普利茅夫球員]]"]]

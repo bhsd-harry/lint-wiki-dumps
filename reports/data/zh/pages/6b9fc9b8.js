@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",16,4,"Image:Calligramme.jpg#filehistory"]]
+window.data=[["no-ignored",16,4,"useless fragment","Image:Calligramme.jpg#filehistory"]]

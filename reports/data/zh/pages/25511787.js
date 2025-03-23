@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,36,"替代文字"]]
+window.data=[["no-duplicate",2,36,"duplicated image caption parameter","替代文字"],["no-duplicate",2,47,"duplicated image caption parameter","巴勒斯坦所屬的西岸及加薩走廊之選舉地圖。綠色地區是巴勒斯坦自治政府的控制區域，淺黃色則是以色列政府實際控制的行政分區，藍色為城市名稱。"]]

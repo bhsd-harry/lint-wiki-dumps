@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",83,543,"via=秀洲新闻网"]]
+window.data=[["no-duplicate",83,543,"duplicated parameter","via=秀洲新闻网"],["no-duplicate",83,816,"duplicated parameter","via=若干年后，人们再见徐志摩这首土话诗作时，恐怕会一头雾水，质疑这是否徐先生所作，或者是无法阅读、体会诗词的音韵趣味了"]]

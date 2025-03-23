@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3,"type = [[上海地铁]]车站\n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter","type = [[上海地铁]]车站\n "],["no-duplicate",34,3,"duplicated parameter","type = \n "]]

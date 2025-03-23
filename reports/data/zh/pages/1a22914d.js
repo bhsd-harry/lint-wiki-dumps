@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",30,2,"[[Category:江西中等学校]]"]]
+window.data=[["no-duplicate",30,2,"duplicated category","[[Category:江西中等学校]]"],["no-duplicate",33,2,"duplicated category","[[Category:江西中等学校]]"],["no-duplicate",35,2,"duplicated category","[[Category:章貢區建築物]]"],["no-duplicate",36,2,"duplicated category","[[Category:章貢區建築物]]"]]

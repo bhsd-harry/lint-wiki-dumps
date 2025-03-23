@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",21,3,"containing invalid attribute"," 中國行政區劃"]]
+window.data=[["no-ignored",21,3,"containing invalid attribute"," 中國行政區劃"]]

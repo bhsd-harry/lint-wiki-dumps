@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,3," 網站 = https://www.instagram.com/weijielinnn/\n "]]
+window.data=[["no-duplicate",14,3,"duplicated parameter"," 網站 = https://www.instagram.com/weijielinnn/\n "],["no-duplicate",15,3,"duplicated parameter"," 網站 = https://www.facebook.com/weijielinnn/\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",52,2,"[[Category:最佳导演银熊奖得主]]"]]
+window.data=[["no-duplicate",52,2,"duplicated category","[[Category:最佳导演银熊奖得主]]"],["no-duplicate",55,2,"duplicated category","[[Category:最佳导演银熊奖得主]]"]]

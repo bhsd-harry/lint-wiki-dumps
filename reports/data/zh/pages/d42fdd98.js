@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",112,48,"RIGHT"]]
+window.data=[["no-duplicate",112,48,"duplicated image caption parameter","RIGHT"],["no-duplicate",112,66,"duplicated image caption parameter","日治時期高雄市市徽由「高」字的片假名「タカ」變體成上下兩菱組成，象徵寶錘。"]]

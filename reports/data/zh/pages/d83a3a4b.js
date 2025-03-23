@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",885,2,"[[Category:電視劇續集|P]]"]]
+window.data=[["invalid-css",641,37,"property value expected","#black"],["invalid-css",641,61,"{ expected",""],["no-duplicate",885,2,"duplicated category","[[Category:電視劇續集|P]]"],["no-duplicate",895,2,"duplicated category","[[Category:電視劇續集|P]]"]]

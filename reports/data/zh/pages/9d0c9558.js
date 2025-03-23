@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",106,59,"Right"]]
+window.data=[["no-duplicate",106,59,"duplicated image caption parameter","Right"],["no-duplicate",106,65,"duplicated image caption parameter","斯威夫特在《有你有我》的音樂錄影帶中與同時共搭電梯。"]]

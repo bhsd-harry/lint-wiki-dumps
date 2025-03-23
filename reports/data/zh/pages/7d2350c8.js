@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",117,302,"\n <ref name=\"r26\">[\n <ref name=\"r27\">[\n <ref name=\"r28\">[\n <ref name=\"r29\">[\n "]]
+window.data=[["no-ignored",117,302,"invalid content in <references>","\n <ref name=\"r26\">[\n <ref name=\"r27\">[\n <ref name=\"r28\">[\n <ref name=\"r29\">[\n "]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",49,2,"[[Category:美国航空航天博物馆]]"]]
+window.data=[["no-duplicate",49,2,"duplicated category","[[Category:美国航空航天博物馆]]"],["no-duplicate",52,2,"duplicated category","[[Category:美国航空航天博物馆]]"],["no-duplicate",54,2,"duplicated category","[[Category:堪薩斯州威奇託的博物館]]"],["no-duplicate",55,2,"duplicated category","[[Category:堪薩斯州威奇託的博物館]]"]]

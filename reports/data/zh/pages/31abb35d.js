@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,50,"direita"]]
+window.data=[["no-duplicate",12,50,"duplicated image caption parameter","direita"],["no-duplicate",12,58,"duplicated image caption parameter","中殿的天花板"]]

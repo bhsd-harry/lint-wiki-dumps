@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",150,2,"[[Category:一國兩制|一國兩制]]"]]
+window.data=[["no-duplicate",150,2,"duplicated category","[[Category:一國兩制|一國兩制]]"],["no-duplicate",162,2,"duplicated category","[[Category:一國兩制]]"],["no-duplicate",153,2,"duplicated category","[[Category:一個中國]]"],["no-duplicate",163,2,"duplicated category","[[Category:一個中國]]"]]

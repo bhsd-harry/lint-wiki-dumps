@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",23,3,"duplicated parameter"," subdivision_ranks = A-chéng\n "]]
+window.data=[["no-duplicate",23,3,"duplicated parameter"," subdivision_ranks = A-chéng\n "],["no-duplicate",29,3,"duplicated parameter"," subdivision_ranks = A-chéng\n "],["no-duplicate",24,3,"duplicated parameter"," subdivision = See [[Subspecies|text]]\n "],["no-duplicate",30,3,"duplicated parameter"," subdivision = 45 a-chéng\n "]]

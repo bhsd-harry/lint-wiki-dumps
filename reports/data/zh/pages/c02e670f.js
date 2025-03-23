@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",69,74,"[[KKBOX]]"]]
+window.data=[["nested-link",69,74,"internal link in an external link","[[KKBOX]]"],["nested-link",70,48,"internal link in an external link","[[YouTube]]"]]

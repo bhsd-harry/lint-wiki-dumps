@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",130,1," <center>"],[2,"no-duplicate",163,24,"style=\"width:95%;\""]]
+window.data=[["fostered-content",130,1,"content to be moved out from the table"," <center>"],["no-duplicate",163,24,"duplicated style attribute","style=\"width:95%;\""],["no-duplicate",163,44,"duplicated style attribute","style=\"font-size:90%;\""]]

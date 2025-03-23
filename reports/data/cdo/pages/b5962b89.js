@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,41,"duplicated image caption parameter","bélyegkép"]]
+window.data=[["no-duplicate",5,41,"duplicated image caption parameter","bélyegkép"],["no-duplicate",5,63,"duplicated image caption parameter","Dièu-siēng Gŏ̤-cŭng(1904)"]]

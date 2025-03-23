@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3," 陵墓 = \n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter"," 陵墓 = \n "],["no-duplicate",27,3,"duplicated parameter"," 陵墓=[[東京都]][[千代田区]]将門塚（首塚）<br>[[茨城県]][[坂東市]]延命院（胴塚）"]]

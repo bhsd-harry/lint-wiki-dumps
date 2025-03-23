@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3," 管理者         = [[東京都]]\n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter"," 管理者         = [[東京都]]\n "],["no-duplicate",21,3,"duplicated parameter"," 管理者         = [[東京都港灣局]]臨海開發部海上公園課\n "]]

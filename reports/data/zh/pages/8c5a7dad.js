@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3,"1=高美爾=>zh-cn:戈梅利;高美爾=>zh-sg:戈梅利;高美爾=>zh-my:戈梅利;高美爾=>zh-tw:哥麥利;高美爾=>zh-hk:高美爾;高美爾=>zh-mo:高美爾;\n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter","1=高美爾=>zh-cn:戈梅利;高美爾=>zh-sg:戈梅利;高美爾=>zh-my:戈梅利;高美爾=>zh-tw:哥麥利;高美爾=>zh-hk:高美爾;高美爾=>zh-mo:高美爾;\n "],["no-duplicate",5,3,"duplicated parameter","1=zh-hans:戈梅利; zh-tw:哥麥利;\n "]]

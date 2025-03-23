@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",11,3," successor2= Pierre Levy\n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter"," successor2= Pierre Levy\n "],["no-duplicate",17,3,"duplicated parameter"," successor2= {{Link-en|讓-皮埃爾·茹耶|Jean-Pierre Jouyet}}\n "],["no-duplicate",12,3,"duplicated parameter"," president2 = [[埃马纽埃尔·马克龙]]\n "],["no-duplicate",19,3,"duplicated parameter"," president2 = [[弗朗索瓦·奥朗德]]<br />[[埃马纽埃尔·马克龙]]\n "]]

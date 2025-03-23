@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",56,1," * 日文学科[[夜校|第二部]]\n * 英文学科[[夜校|第二部]]\n * 儿童福利学科[[夜校|第二部]]"]]
+window.data=[["fostered-content",56,1,"content to be moved out from the table"," * 日文学科[[夜校|第二部]]\n * 英文学科[[夜校|第二部]]\n * 儿童福利学科[[夜校|第二部]]"],["fostered-content",62,1,"content to be moved out from the table"," * 日文学科第一部<ref group=\"注\"  name=\"1959年\"/>\n * 英文学科第一部<ref group=\"注\"  name=\"1959年\"/>\n * 儿童福利学科第一部<ref group=\"注\"  name=\"1959年\"/>"]]

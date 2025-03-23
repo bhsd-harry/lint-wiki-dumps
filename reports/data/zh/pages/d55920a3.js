@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",818,2,"[[Category:新北市圖書館]]"]]
+window.data=[["no-duplicate",818,2,"duplicated category","[[Category:新北市圖書館]]"],["no-duplicate",839,2,"duplicated category","[[Category:新北市圖書館]]"],["no-duplicate",827,2,"duplicated category","[[Category:新北市政府文化局|B]]"],["no-duplicate",841,2,"duplicated category","[[Category:新北市政府文化局|B]]"],["no-duplicate",827,26,"duplicated category","[[Category:新北市板橋區的政府機關]]"],["no-duplicate",842,2,"duplicated category","[[Category:新北市板橋區的政府機關]]"]]

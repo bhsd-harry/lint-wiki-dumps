@@ -1,1 +1,1 @@
-window.data=[[4,"fostered-content",68,1," *時刻表僅供參考，請以[[豐原客運]]網站公告為準。"]]
+window.data=[["fostered-content",68,1,"content to be moved out from the table"," *時刻表僅供參考，請以[[豐原客運]]網站公告為準。"],["fostered-content",100,1,"content to be moved out from the table"," *時刻表僅供參考，請以[[豐原客運]]網站公告為準。"],["fostered-content",113,1,"content to be moved out from the table"," *時刻表僅供參考，請以[[豐原客運]]網站公告為準。"],["fostered-content",126,1,"content to be moved out from the table"," *時刻表僅供參考，請以[[豐原客運]]網站公告為準。"]]

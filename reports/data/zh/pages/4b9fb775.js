@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",66,46,"300px"],[4,"no-duplicate",59,4,"border=\"0\""]]
+window.data=[["no-duplicate",59,4,"duplicated border attribute","border=\"0\""],["no-duplicate",59,28,"duplicated border attribute","border=\"0\""],["no-duplicate",62,4,"duplicated border attribute","border=\"0\""],["no-duplicate",62,28,"duplicated border attribute","border=\"0\""],["invalid-gallery",66,46,"invalid image parameter","300px"]]

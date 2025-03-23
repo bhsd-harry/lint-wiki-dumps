@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",40,9,"illegal attribute name","Name"],[2,"no-ignored",40,3,"containing invalid attribute"," \"The "]]
+window.data=[["illegal-attr",40,9,"illegal attribute name","Name"],["illegal-attr",40,14,"illegal attribute name","of"],["illegal-attr",40,17,"illegal attribute name","the"],["illegal-attr",40,21,"illegal attribute name","Game"],["no-ignored",40,3,"containing invalid attribute"," \"The "],["no-ignored",40,25,"containing invalid attribute"," (ABBA song)"]]

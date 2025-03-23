@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,3," party = {{Nonp}}\n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter"," party = {{Nonp}}\n "],["no-duplicate",12,3,"duplicated parameter"," party         = {{KMT}}\n "]]

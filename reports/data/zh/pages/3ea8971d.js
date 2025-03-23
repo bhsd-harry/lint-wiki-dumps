@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",23,12,"'"],[2,"no-ignored",38,42,"  color:black; font-weight:bold;\"  "],[1,"unclosed-table",104,2,"{|"]]
+window.data=[["lonely-apos",23,12,"lonely \"'\"","'"],["no-ignored",38,42,"containing invalid attribute","  color:black; font-weight:bold;\"  "],["no-ignored",105,55,"containing invalid attribute","  color:black; font-weight:bold;\"  "],["unclosed-table",104,2,"unclosed table","{|"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",400,2,"[[Category:報復題材電視劇|T]]"]]
+window.data=[["no-duplicate",400,2,"duplicated category","[[Category:報復題材電視劇|T]]"],["no-duplicate",403,2,"duplicated category","[[Category:報復題材電視劇|T]]"]]

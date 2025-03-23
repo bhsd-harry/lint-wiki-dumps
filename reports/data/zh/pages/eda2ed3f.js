@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",73,2,"[[Category:黑客組織]]"]]
+window.data=[["no-duplicate",73,2,"duplicated category","[[Category:黑客組織]]"],["no-duplicate",78,2,"duplicated category","[[Category:黑客組織]]"]]

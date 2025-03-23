@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,42,"Right"]]
+window.data=[["no-duplicate",10,42,"duplicated image caption parameter","Right"],["no-duplicate",10,60,"duplicated image caption parameter","[[墨瑞鱈]]是澳洲體型最大的淡水魚種。"]]

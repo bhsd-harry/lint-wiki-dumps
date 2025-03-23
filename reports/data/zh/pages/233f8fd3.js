@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",108,4,"||-||女子格鬥+70公斤"]]
+window.data=[["no-ignored",108,4,"containing invalid attribute","||-||女子格鬥+70公斤"]]

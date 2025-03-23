@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",257,50,"SubFusc"]]
+window.data=[["no-duplicate",257,50,"duplicated image caption parameter","SubFusc"],["no-duplicate",257,58,"duplicated image caption parameter","一名身穿禮服的牛津本科生準備接受入學測試"]]

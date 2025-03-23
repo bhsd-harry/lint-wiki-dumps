@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3,"language = en\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","language = en\n "],["no-duplicate",22,3,"duplicated parameter","language       = [[英語]]、[[法語]]\n "]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",12,2,"[[分類:地球科學]]"]]
+window.data=[["no-duplicate",12,2,"duplicated category","[[分類:地球科學]]"],["no-duplicate",16,2,"duplicated category","[[分類:地球科學]]"],["no-duplicate",13,2,"duplicated category","[[分類:沉積學]]"],["no-duplicate",17,2,"duplicated category","[[分類:沉積學]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",8,36,"左"],[2,"no-duplicate",8,38,"大拇指"]]
+window.data=[["invalid-gallery",8,36,"invalid image parameter","左"],["no-duplicate",8,38,"duplicated image caption parameter","大拇指"],["no-duplicate",8,42,"duplicated image caption parameter","上勾拳与膝击。攝於于[[柬埔寨]]王国的[[吴哥窟]]（1100年左右）"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"invalid-gallery",160,30,"220px"],[2,"no-duplicate",160,43,"PocketStation"]]
+window.data=[["invalid-gallery",160,30,"invalid image parameter","220px"],["invalid-gallery",160,36,"invalid image parameter","border"],["no-duplicate",160,43,"duplicated image caption parameter","PocketStation"],["no-duplicate",160,57,"duplicated image caption parameter","[[PocketStation]] （1999年） 仅在日本发行"]]

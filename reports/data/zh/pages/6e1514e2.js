@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",883,7,"[["],[1,"no-ignored",883,4,"“r|[[有话非要说]] || 1月6日 || 4月7日 || || [[江苏卫视]] ||综艺"]]
+window.data=[["lonely-bracket",883,7,"lonely \"[\"","[["],["lonely-bracket",883,14,"lonely \"]\"","]]"],["lonely-bracket",883,39,"lonely \"[\"","[["],["lonely-bracket",883,45,"lonely \"]\"","]]"],["no-ignored",883,4,"containing invalid attribute","“r|[[有话非要说]] || 1月6日 || 4月7日 || || [[江苏卫视]] ||综艺"]]

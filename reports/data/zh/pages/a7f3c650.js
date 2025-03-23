@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",82,2,"[[Category:20世紀美國心理學家]]"]]
+window.data=[["no-duplicate",82,2,"duplicated category","[[Category:20世紀美國心理學家]]"],["no-duplicate",83,2,"duplicated category","[[Category:20世紀美國心理學家]]"]]

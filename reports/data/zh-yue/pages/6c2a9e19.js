@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",71,79,"duplicated image caption parameter","270x270"]]
+window.data=[["no-duplicate",71,79,"duplicated image caption parameter","270x270"],["no-duplicate",71,87,"duplicated image caption parameter","簽署美國憲法嘅場景"]]

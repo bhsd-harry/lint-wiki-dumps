@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,2,"[[Category:河南省战役]]"]]
+window.data=[["no-duplicate",19,2,"duplicated category","[[Category:河南省战役]]"],["no-duplicate",20,2,"duplicated category","[[Category:河南省战役]]"]]

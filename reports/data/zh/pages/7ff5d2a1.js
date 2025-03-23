@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",494,1,"\n }\n\n == 音樂作品 ==\n === 數位單曲 ==="],[2,"lonely-http",489,3,"ISBN"],[1,"unclosed-table",482,2,"{|"]]
+window.data=[["lonely-http",489,3,"lonely \"ISBN\"","ISBN"],["lonely-http",492,3,"lonely \"ISBN\"","ISBN"],["fostered-content",494,1,"content to be moved out from the table","\n }\n\n == 音樂作品 ==\n === 數位單曲 ==="],["unclosed-table",482,2,"unclosed table","{|"]]

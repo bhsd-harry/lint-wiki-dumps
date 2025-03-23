@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",46,459,"[[在职研究生]]"],[2,"no-duplicate",131,2,"[[Category:全国人大农业与农村委员会副主任委员]]"]]
+window.data=[["nested-link",46,459,"internal link in an external link","[[在职研究生]]"],["no-duplicate",131,2,"duplicated category","[[Category:全国人大农业与农村委员会副主任委员]]"],["no-duplicate",140,2,"duplicated category","[[Category:全国人大农业与农村委员会副主任委员]]"]]

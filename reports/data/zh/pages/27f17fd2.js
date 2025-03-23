@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",89,2,"[[Category:杜尚别人]]"]]
+window.data=[["no-duplicate",89,2,"duplicated category","[[Category:杜尚别人]]"],["no-duplicate",93,2,"duplicated category","[[Category:杜尚别人]]"],["no-duplicate",90,2,"duplicated category","[[Category:在土耳其被謀殺身亡者]]"],["no-duplicate",94,2,"duplicated category","[[Category:在土耳其被謀殺身亡者]]"]]

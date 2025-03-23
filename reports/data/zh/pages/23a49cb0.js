@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",43,57,"{{"],[1,"no-ignored",43,3," 龈腭音；{{sfn|Kaplan|1981|p=29}}也被描述为擦音{{IPAblink|ʎ̥˖˔}}。{{sfn"]]
+window.data=[["lonely-bracket",43,57,"lonely \"{\"","{{"],["no-ignored",43,3,"containing invalid attribute"," 龈腭音；{{sfn|Kaplan|1981|p=29}}也被描述为擦音{{IPAblink|ʎ̥˖˔}}。{{sfn"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",136,2,"[[Category:美國餐旅公司]]"]]
+window.data=[["no-duplicate",136,2,"duplicated category","[[Category:美國餐旅公司]]"],["no-duplicate",137,2,"duplicated category","[[Category:美國餐旅公司]]"]]

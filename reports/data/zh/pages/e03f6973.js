@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",47,39,"Right"]]
+window.data=[["no-duplicate",47,39,"duplicated image caption parameter","Right"],["no-duplicate",47,45,"duplicated image caption parameter","現時澳門街頭的一個郵件儲存箱"]]

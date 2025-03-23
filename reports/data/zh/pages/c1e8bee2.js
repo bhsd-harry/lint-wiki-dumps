@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,48,"widthpx"]]
+window.data=[["no-duplicate",7,48,"duplicated image caption parameter","widthpx"],["no-duplicate",7,56,"duplicated image caption parameter","球被压在弹性材料的过程中，接触面积逐渐增大。"]]

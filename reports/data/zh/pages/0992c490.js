@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",80,3,"两名男高音、男低音"]]
+window.data=[["no-ignored",80,3,"containing invalid attribute","两名男高音、男低音"]]

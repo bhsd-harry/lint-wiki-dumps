@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",97,4,"1.0"],[5,"no-ignored",101,9," （LTS） "]]
+window.data=[["illegal-attr",97,4,"illegal attribute name","1.0"],["illegal-attr",101,4,"illegal attribute name","1.1.0"],["no-ignored",101,9,"containing invalid attribute"," （LTS） "],["no-ignored",105,3,"containing invalid attribute"," 2.0（Canary） "],["no-ignored",109,3,"containing invalid attribute"," 2.2（Beta) "],["no-ignored",113,3,"containing invalid attribute"," 3.0（LTS） "],["no-ignored",117,3,"containing invalid attribute"," 3.1（Beta） "]]

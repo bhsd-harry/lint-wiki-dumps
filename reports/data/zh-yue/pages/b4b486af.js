@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",285,63,"lonely \"]\"","]]"],[2,"no-ignored",157,151,"containing invalid attribute","ghoststory.2\"  "],[1,"tag-like",157,140,"lonely \"<\"","<ref"]]
+window.data=[["tag-like",157,140,"lonely \"<\"","<ref"],["no-ignored",157,151,"containing invalid attribute","ghoststory.2\"  "],["no-ignored",281,53,"containing invalid attribute","華國戲院"],["lonely-bracket",285,63,"lonely \"]\"","]]"]]

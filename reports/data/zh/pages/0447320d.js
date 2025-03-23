@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",95,2,"[[Category:2009年下水]]"]]
+window.data=[["no-duplicate",95,2,"duplicated category","[[Category:2009年下水]]"],["no-duplicate",96,2,"duplicated category","[[Category:2009年下水]]"]]

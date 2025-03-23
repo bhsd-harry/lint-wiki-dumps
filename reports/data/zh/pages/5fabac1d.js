@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",169,578,"]"],[2,"unmatched-tag",171,3,"<cite id=\"refStarTree\">"]]
+window.data=[["lonely-bracket",169,578,"lonely \"]\"","]"],["unmatched-tag",171,3,"unclosed tag","<cite id=\"refStarTree\">"],["unmatched-tag",171,450,"unclosed tag","<cite>"]]

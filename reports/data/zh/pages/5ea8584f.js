@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",7,164,"[[Dnevnik (Slovenia)|Dnevnik]]"]]
+window.data=[["nested-link",7,164,"internal link in an external link","[[Dnevnik (Slovenia)|Dnevnik]]"]]

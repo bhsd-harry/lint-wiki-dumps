@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",143,36,"{"],[2,"no-duplicate",211,2,"[[Category:交換卡片遊戲題材動畫]]"]]
+window.data=[["lonely-bracket",143,36,"lonely \"{\"","{"],["no-duplicate",211,2,"duplicated category","[[Category:交換卡片遊戲題材動畫]]"],["no-duplicate",220,2,"duplicated category","[[Category:交換卡片遊戲題材動畫]]"]]

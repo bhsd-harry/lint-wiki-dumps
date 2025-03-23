@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",43,26,"Marion Terrace"]]
+window.data=[["no-duplicate",43,26,"duplicated image caption parameter","Marion Terrace"],["no-duplicate",43,41,"duplicated image caption parameter",""]]

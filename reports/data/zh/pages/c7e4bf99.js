@@ -1,1 +1,1 @@
-window.data=[[1,"pipe-like",106,63," ||7.86 m"]]
+window.data=[["pipe-like",106,63,"additional \"|\" in a table cell"," ||7.86 m"]]

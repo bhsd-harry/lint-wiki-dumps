@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",308,2,"[[Category:編曲家]]"]]
+window.data=[["no-duplicate",308,2,"duplicated category","[[Category:編曲家]]"],["no-duplicate",312,2,"duplicated category","[[Category:編曲家]]"]]

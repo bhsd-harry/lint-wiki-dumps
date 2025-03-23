@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,8,"name=祀壇 (澎湖)\n "]]
+window.data=[["no-duplicate",1,8,"duplicated parameter","name=祀壇 (澎湖)\n "],["no-duplicate",2,3,"duplicated parameter","name=祀壇 (澎湖)\n "]]

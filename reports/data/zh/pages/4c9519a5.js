@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",40,1," *[[新保安战役遗迹]]"]]
+window.data=[["fostered-content",40,1,"content to be moved out from the table"," *[[新保安战役遗迹]]"]]

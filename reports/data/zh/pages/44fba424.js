@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",252,1,"\n ===广告==="],[1,"unclosed-table",177,2,"{|"]]
+window.data=[["fostered-content",252,1,"content to be moved out from the table","\n ===广告==="],["unclosed-table",177,2,"unclosed table","{|"]]

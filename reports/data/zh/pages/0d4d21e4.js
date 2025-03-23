@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",245,336,"[[Towers Perrin]]"]]
+window.data=[["nested-link",245,336,"internal link in an external link","[[Towers Perrin]]"],["nested-link",247,346,"internal link in an external link","[[Towers Perrin]]"]]

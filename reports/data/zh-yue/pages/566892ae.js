@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",1,34,"duplicated image thumbnail parameter","thumb"]]
+window.data=[["no-duplicate",1,34,"duplicated image thumbnail parameter","thumb"],["no-duplicate",1,71,"duplicated image thumbnail parameter","thumb"],["no-duplicate",1,40,"duplicated image caption parameter","File:Peony Pavilion （牡丹亭）1.jpg"],["no-duplicate",1,77,"duplicated image caption parameter","《牡丹亭》演出"]]

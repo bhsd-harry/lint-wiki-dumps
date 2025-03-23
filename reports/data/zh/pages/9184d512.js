@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",51,1," * 英语职业科\n * <del>[[工商管理学|经营]]学科</del><ref group=\"注\"  name=\"经营学科招生\"/>\n * <del>保育科</del><ref group=\"注\"  name=\"保育科招生\"/>"]]
+window.data=[["fostered-content",51,1,"content to be moved out from the table"," * 英语职业科\n * <del>[[工商管理学|经营]]学科</del><ref group=\"注\"  name=\"经营学科招生\"/>\n * <del>保育科</del><ref group=\"注\"  name=\"保育科招生\"/>"],["fostered-content",67,1,"content to be moved out from the table"," * 前文京女子短期大学附属文京幼儿园：成立于1954年\n * 前文京女子短期大学附属第一幼儿园：成立于1966年"]]

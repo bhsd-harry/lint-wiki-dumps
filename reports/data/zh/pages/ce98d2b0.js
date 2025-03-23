@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",140,2,"[[Category:达豪集中营狱方人员]]"]]
+window.data=[["no-duplicate",140,2,"duplicated category","[[Category:达豪集中营狱方人员]]"],["no-duplicate",142,2,"duplicated category","[[Category:达豪集中营狱方人员]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,3,"墓葬=\n "]]
+window.data=[["no-duplicate",33,3,"duplicated parameter","墓葬=\n "],["no-duplicate",34,3,"duplicated parameter","墓葬=狄泉（今[[洛阳]][[瀍河回族区]]翟泉村）\n "]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",345,2,"[[Category:欧洲排球]]"]]
+window.data=[["no-duplicate",345,2,"duplicated category","[[Category:欧洲排球]]"],["no-duplicate",348,2,"duplicated category","[[Category:欧洲排球]]"],["no-duplicate",350,2,"duplicated category","[[Category:世界排球俱乐部锦标赛]]"],["no-duplicate",351,2,"duplicated category","[[Category:世界排球俱乐部锦标赛]]"]]

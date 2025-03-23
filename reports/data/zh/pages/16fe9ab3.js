@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",74,2,"[[Category:林姓|Kun昆]]"]]
+window.data=[["no-duplicate",74,2,"duplicated category","[[Category:林姓|Kun昆]]"],["no-duplicate",79,2,"duplicated category","[[分類:林姓|崑]]"]]

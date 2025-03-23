@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",56,4,"table"],[2,"no-duplicate",20,3,"code = \n "]]
+window.data=[["no-duplicate",20,3,"duplicated parameter","code = \n "],["no-duplicate",30,3,"duplicated parameter","code = \n "],["illegal-attr",56,4,"illegal attribute name","table"]]

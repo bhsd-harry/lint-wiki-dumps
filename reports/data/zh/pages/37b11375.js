@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",60,2,"[[Category:美国物理学会会士]]"]]
+window.data=[["no-duplicate",60,2,"duplicated category","[[Category:美国物理学会会士]]"],["no-duplicate",64,2,"duplicated category","[[Category:美国物理学会会士]]"]]

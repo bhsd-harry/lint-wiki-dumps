@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",69,304,"last8=Gualano"]]
+window.data=[["no-duplicate",69,304,"duplicated parameter","last8=Gualano"],["no-duplicate",69,318,"duplicated parameter","last8=Bruno"],["no-duplicate",72,296,"duplicated parameter","last9=Sale"],["no-duplicate",72,307,"duplicated parameter","last9=C."],["no-duplicate",72,316,"duplicated parameter","last10=Wise"],["no-duplicate",72,328,"duplicated parameter","last10=J. A."]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",108,56,"["],[2,"lonely-http",107,49,"http://"],[2,"no-duplicate",97,46,"200xp"]]
+window.data=[["no-duplicate",97,46,"duplicated image caption parameter","200xp"],["no-duplicate",97,52,"duplicated image caption parameter","第20任[[默基特希臘禮天主教會]][[默基特希臘禮天主教安提阿宗主教列表|宗主教]][[額我略三世·拉罕]]"],["lonely-http",107,49,"lonely \"http://\"","http://"],["lonely-bracket",108,56,"lonely \"[\"","["],["lonely-http",109,62,"lonely \"http://\"","http://"]]

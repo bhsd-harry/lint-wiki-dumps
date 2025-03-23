@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",33,983,"https://"],[2,"no-ignored",297,15,"  color:black\""]]
+window.data=[["lonely-http",33,983,"lonely \"https://\"","https://"],["no-ignored",297,15,"containing invalid attribute","  color:black\""],["no-ignored",303,15,"containing invalid attribute","  color:black\"  "]]

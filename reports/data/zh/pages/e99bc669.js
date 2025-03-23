@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",88,2,"[[Category:日本学]]"]]
+window.data=[["no-duplicate",88,2,"duplicated category","[[Category:日本学]]"],["no-duplicate",91,2,"duplicated category","[[Category:日本学]]"],["no-duplicate",89,2,"duplicated category","[[Category:2010年日本廢除]]"],["no-duplicate",93,2,"duplicated category","[[Category:2010年日本廢除]]"]]

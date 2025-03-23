@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,334,"publisher=Pioneers in the Village"]]
+window.data=[["no-duplicate",4,334,"duplicated parameter","publisher=Pioneers in the Village"],["no-duplicate",4,368,"duplicated parameter","publisher=Publication of the Omsk Provincial Committee of the Russian Communist Youth League (Provincial Bureau (DCO)"]]

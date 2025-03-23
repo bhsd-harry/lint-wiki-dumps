@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",203,2,"[[Category:哥倫比亞影業電影]]"]]
+window.data=[["no-duplicate",203,2,"duplicated category","[[Category:哥倫比亞影業電影]]"],["no-duplicate",206,2,"duplicated category","[[Category:哥倫比亞影業電影]]"]]

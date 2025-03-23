@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",35,399,"[[Ossetian language]]"]]
+window.data=[["nested-link",35,399,"internal link in an external link","[[Ossetian language]]"]]

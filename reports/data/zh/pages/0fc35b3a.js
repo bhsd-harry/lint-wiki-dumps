@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,2,"[[Category:中国人物神|D]]"]]
+window.data=[["no-duplicate",32,2,"duplicated category","[[Category:中国人物神|D]]"],["no-duplicate",33,2,"duplicated category","[[Category:中国人物神|D]]"]]

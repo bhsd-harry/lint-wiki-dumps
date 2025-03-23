@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",40,2,"[[Category:螺旋星系]]"]]
+window.data=[["no-duplicate",40,2,"duplicated category","[[Category:螺旋星系]]"],["no-duplicate",41,2,"duplicated category","[[Category:螺旋星系]]"]]

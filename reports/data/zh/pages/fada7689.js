@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",416,3,"mfmm={{flag icon|USA}} Reagent\n "]]
+window.data=[["no-duplicate",416,3,"duplicated parameter","mfmm={{flag icon|USA}} Reagent\n "],["no-duplicate",420,3,"duplicated parameter","mfmm={{flag icon|USA}} Haze\n "]]

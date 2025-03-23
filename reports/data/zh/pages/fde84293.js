@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,202,"publisher=Asian Media Information and Communication Centre"]]
+window.data=[["no-duplicate",44,202,"duplicated parameter","publisher=Asian Media Information and Communication Centre"],["no-duplicate",44,540,"duplicated parameter","publisher=UNESCO"]]

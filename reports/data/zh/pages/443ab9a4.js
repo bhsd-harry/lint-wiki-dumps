@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",135,29,"2"],[2,"no-duplicate",130,23,"style=\"font-size:small\""]]
+window.data=[["no-duplicate",130,23,"duplicated style attribute","style=\"font-size:small\""],["no-duplicate",130,48,"duplicated style attribute","style=\"text-align:center\""],["illegal-attr",135,29,"illegal attribute name","2"]]

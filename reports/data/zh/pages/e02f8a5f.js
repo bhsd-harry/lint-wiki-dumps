@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",284,2,"[[Category:台灣命名列車|光]]"]]
+window.data=[["no-duplicate",284,2,"duplicated category","[[Category:台灣命名列車|光]]"],["no-duplicate",286,2,"duplicated category","[[Category:台灣命名列車]]"]]

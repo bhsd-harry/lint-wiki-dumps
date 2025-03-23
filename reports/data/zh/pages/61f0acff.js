@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",479,43,"ISBN"],[2,"no-duplicate",475,5,"class=wikitable"]]
+window.data=[["no-duplicate",475,5,"duplicated class attribute","class=wikitable"],["no-duplicate",475,21,"duplicated class attribute","class=\"wikitable\""],["lonely-http",479,43,"lonely \"ISBN\"","ISBN"]]

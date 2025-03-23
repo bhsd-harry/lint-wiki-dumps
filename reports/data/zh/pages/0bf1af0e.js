@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",90,5,"span"],[2,"no-duplicate",242,29,"thunb"]]
+window.data=[["illegal-attr",90,5,"illegal attribute name","span"],["no-duplicate",242,29,"duplicated image caption parameter","thunb"],["no-duplicate",242,41,"duplicated image caption parameter","侗族傩戏《古城会》"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,3,"duplicated parameter"," DrugBank = APRD01055 \n "]]
+window.data=[["no-duplicate",14,3,"duplicated parameter"," DrugBank = APRD01055 \n "],["no-duplicate",18,3,"duplicated parameter"," DrugBank = DB00951\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",31,2,"[[Category:塞尔维亚副总理]]"]]
+window.data=[["no-duplicate",31,2,"duplicated category","[[Category:塞尔维亚副总理]]"],["no-duplicate",32,2,"duplicated category","[[Category:塞尔维亚副总理]]"]]

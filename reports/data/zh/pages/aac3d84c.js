@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",74,1,"\n === 明朝（正德～嘉靖年間） ==="]]
+window.data=[["fostered-content",74,1,"content to be moved out from the table","\n === 明朝（正德～嘉靖年間） ==="],["fostered-content",164,1,"content to be moved out from the table","\n === 明朝（隆慶～崇禎年間）==="]]

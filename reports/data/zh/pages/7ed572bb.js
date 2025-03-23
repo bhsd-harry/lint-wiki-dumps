@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",70,2,"[[category:台灣小說家]]"]]
+window.data=[["no-duplicate",70,2,"duplicated category","[[category:台灣小說家]]"],["no-duplicate",71,2,"duplicated category","[[category:台灣小說家]]"]]

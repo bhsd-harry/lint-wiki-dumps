@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,2,"[[Category:中华人民共和国驻意大利大使]]"]]
+window.data=[["no-duplicate",37,2,"duplicated category","[[Category:中华人民共和国驻意大利大使]]"],["no-duplicate",40,2,"duplicated category","[[Category:中华人民共和国驻意大利大使]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",65,30,"text"],[1,"lonely-http",44,51,"ISBN"],[1,"no-ignored",65,44," text"]]
+window.data=[["lonely-http",44,51,"lonely \"ISBN\"","ISBN"],["illegal-attr",65,30,"illegal attribute name","text"],["illegal-attr",65,45,"illegal attribute name","text"],["no-ignored",65,44,"attributes of a closing tag"," text"]]

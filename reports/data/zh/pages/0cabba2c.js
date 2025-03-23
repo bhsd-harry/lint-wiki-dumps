@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",26,2,"[[Category:光照派成员]]"]]
+window.data=[["no-duplicate",26,2,"duplicated category","[[Category:光照派成员]]"],["no-duplicate",37,2,"duplicated category","[[Category:光照派成员]]"],["no-duplicate",27,2,"duplicated category","[[Category:新教哲学家]]"],["no-duplicate",43,2,"duplicated category","[[Category:新教哲学家]]"]]

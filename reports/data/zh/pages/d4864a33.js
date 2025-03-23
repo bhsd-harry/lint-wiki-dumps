@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",51,2,"[[Category:東加島嶼]]"]]
+window.data=[["no-duplicate",51,2,"duplicated category","[[Category:東加島嶼]]"],["no-duplicate",56,2,"duplicated category","[[分類:東加島嶼]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3,"other_name =\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","other_name =\n "],["no-duplicate",12,3,"duplicated parameter","other_name = 上塞尔达尼亚<br>{{native name|ca|Alta Cerdanya}}\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,61,"duplicated image caption parameter","float"]]
+window.data=[["no-duplicate",1,61,"duplicated image caption parameter","float"],["no-duplicate",1,67,"duplicated image caption parameter","[[一九一五年|民國四年]]之九龍"]]

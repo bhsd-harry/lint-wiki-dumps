@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",565,3,"mmfm={{flag icon|CAN|1957}} [[北地舞人]]\n "]]
+window.data=[["no-duplicate",565,3,"duplicated parameter","mmfm={{flag icon|CAN|1957}} [[北地舞人]]\n "],["no-duplicate",566,3,"duplicated parameter","mmfm={{flag icon|CAN|1957}} Flaming Page\n "]]

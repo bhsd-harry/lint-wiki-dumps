@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2167,2,"[[Category:伊泽尔省市镇|*]]"]]
+window.data=[["no-duplicate",2167,2,"duplicated category","[[Category:伊泽尔省市镇|*]]"],["no-duplicate",2168,2,"duplicated category","[[Category:伊泽尔省市镇| ]]"]]

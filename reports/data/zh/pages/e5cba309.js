@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",106,15,"  style\"vertical-align:middle\""],[1,"unmatched-tag",94,87,"</span>"]]
+window.data=[["unmatched-tag",94,87,"unmatched closing tag","</span>"],["no-ignored",106,15,"containing invalid attribute","  style\"vertical-align:middle\""],["invalid-css",161,27,"property value expected",""],["invalid-css",162,27,"property value expected",""],["invalid-css",167,28,"property value expected",""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",54,1," * [[儿童|幼儿]]教育学科"],[1,"unmatched-tag",60,10,"</del>"]]
+window.data=[["fostered-content",54,1,"content to be moved out from the table"," * [[儿童|幼儿]]教育学科"],["unmatched-tag",60,10,"unmatched closing tag","</del>"],["fostered-content",58,1,"content to be moved out from the table"," * 生活創造学科<ref group=\"注\"  name=\"生活創造学科科\"/>\n * 英文学科<ref group=\"注\"  name=\"英文学科\"/>\n * 文化福利学科</del><ref group=\"注\"  name=\"文化福利学科\"/>"]]

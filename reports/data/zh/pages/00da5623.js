@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",77,45,"vignette"]]
+window.data=[["no-duplicate",77,45,"duplicated image caption parameter","vignette"],["no-duplicate",77,54,"duplicated image caption parameter","Maison et atelier Portaluppi"]]

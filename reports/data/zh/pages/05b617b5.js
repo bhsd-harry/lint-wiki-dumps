@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",94,2,"[[Category:空对空导弹]]"]]
+window.data=[["no-duplicate",94,2,"duplicated category","[[Category:空对空导弹]]"],["no-duplicate",95,2,"duplicated category","[[Category:空对空导弹]]"]]

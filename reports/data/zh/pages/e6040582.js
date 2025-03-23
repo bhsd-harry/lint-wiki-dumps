@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3,"state                                  = [[福建省]][[福州市]]\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter","state                                  = [[福建省]][[福州市]]\n "],["no-duplicate",10,3,"duplicated parameter","state                                  = [[福建省]][[福州市]]\n "]]

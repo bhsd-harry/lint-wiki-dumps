@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",19,3,"subdivision_type1 = 省\n "]]
+window.data=[["no-duplicate",19,3,"duplicated parameter","subdivision_type1 = 省\n "],["no-duplicate",21,3,"duplicated parameter","subdivision_type1 = 市\n "],["no-duplicate",20,3,"duplicated parameter","subdivision_name1 = 廣東省\n "],["no-duplicate",22,3,"duplicated parameter","subdivision_name1 = 江門市\n "]]

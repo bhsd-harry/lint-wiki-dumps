@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,59,"duplicated image caption parameter","'250px"]]
+window.data=[["no-duplicate",3,59,"duplicated image caption parameter","'250px"],["no-duplicate",3,66,"duplicated image caption parameter","Papilio machaon''"]]

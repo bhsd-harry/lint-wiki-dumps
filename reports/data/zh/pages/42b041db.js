@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",18,1," Service technique des constructions navales (frères Perret).</center>"]]
+window.data=[["no-ignored",18,1,"invalid content in <gallery>"," Service technique des constructions navales (frères Perret).</center>"]]

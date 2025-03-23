@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",5,1," {{{image|}}} "],[1,"invalid-isbn",94,88,"ISBN 2802503705"]]
+window.data=[["fostered-content",5,1,"content to be moved out from the table"," {{{image|}}} "],["invalid-isbn",94,88,"invalid ISBN","ISBN 2802503705"]]

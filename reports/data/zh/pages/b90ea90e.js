@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",83,2,"[[Category:硬盘驱动器]]"]]
+window.data=[["no-duplicate",83,2,"duplicated category","[[Category:硬盘驱动器]]"],["no-duplicate",84,2,"duplicated category","[[Category:硬盘驱动器]]"]]

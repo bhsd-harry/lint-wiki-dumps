@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",423,2,"[[Category:香港電視女演員]]"]]
+window.data=[["invalid-css",81,71,"semi-colon expected",":"],["invalid-css",124,60,"semi-colon expected",":"],["invalid-css",124,36,"{ expected",";"],["no-duplicate",423,2,"duplicated category","[[Category:香港電視女演員]]"],["no-duplicate",428,2,"duplicated category","[[Category:香港電視女演員]]"]]

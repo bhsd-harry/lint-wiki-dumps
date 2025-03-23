@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",154,49,"url= "]]
+window.data=[["no-duplicate",154,49,"duplicated parameter","url= "],["no-duplicate",154,168,"duplicated parameter","url=https://isbnsearch.org/isbn/7020042325 "]]

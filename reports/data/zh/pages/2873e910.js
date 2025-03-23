@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",81,2,"[[Category:中华人民共和国高等教育| ]]"]]
+window.data=[["no-duplicate",81,2,"duplicated category","[[Category:中华人民共和国高等教育| ]]"],["no-duplicate",91,2,"duplicated category","[[Category:中华人民共和国高等教育| ]]"]]

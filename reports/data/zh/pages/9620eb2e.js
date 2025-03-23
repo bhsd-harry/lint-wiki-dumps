@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",42,889,"ISBN 7506320511"],[1,"no-ignored",105,4,"高密市境内已探明的矿产储量较少"]]
+window.data=[["invalid-isbn",42,889,"invalid ISBN","ISBN 7506320511"],["no-ignored",105,4,"containing invalid attribute","高密市境内已探明的矿产储量较少"]]

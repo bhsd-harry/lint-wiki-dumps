@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",46,495,"zoompage-fontsize"]]
+window.data=[["illegal-attr",46,495,"illegal attribute name","zoompage-fontsize"]]

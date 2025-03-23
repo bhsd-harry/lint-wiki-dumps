@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,2,"[[Category:被處決的王室]]"]]
+window.data=[["no-duplicate",29,2,"duplicated category","[[Category:被處決的王室]]"],["no-duplicate",31,2,"duplicated category","[[Category:被處決的王室]]"]]

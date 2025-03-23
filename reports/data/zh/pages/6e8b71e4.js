@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",185,55,"240px×"]]
+window.data=[["no-duplicate",185,55,"duplicated image caption parameter","240px×"],["no-duplicate",185,62,"duplicated image caption parameter","越军单兵装备，包括[[56式自动步枪|56式冲锋枪]]、[[56式火箭筒]]、[[67式木柄手榴弹]]及其配套携具等"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,3,"duplicated parameter","pushpin_map=Malaysia \n "]]
+window.data=[["no-duplicate",7,3,"duplicated parameter","pushpin_map=Malaysia \n "],["no-duplicate",11,3,"duplicated parameter","pushpin_map=Malaysia\n "]]

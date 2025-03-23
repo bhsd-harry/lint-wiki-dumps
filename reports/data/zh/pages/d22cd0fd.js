@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",388,3,"3000米"]]
+window.data=[["no-ignored",388,3,"containing invalid attribute","3000米"]]

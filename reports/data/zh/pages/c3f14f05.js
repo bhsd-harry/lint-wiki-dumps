@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",195,2,"[[Category:嘉義市旅遊景點]]"],[1,"unclosed-table",228,2,"{|"]]
+window.data=[["unclosed-table",228,2,"unclosed table","{|"],["no-duplicate",195,2,"duplicated category","[[Category:嘉義市旅遊景點]]"],["no-duplicate",223,2,"duplicated category","[[category:嘉義市旅遊景點]]"],["no-duplicate",196,2,"duplicated category","[[Category:嘉義市公園]]"],["no-duplicate",222,2,"duplicated category","[[Category:嘉義市公園]]"],["no-duplicate",198,2,"duplicated category","[[Category:東區 (嘉義市)]]"],["no-duplicate",224,2,"duplicated category","[[Category:東區 (嘉義市)]]"]]

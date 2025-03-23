@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",1746,15,"  color:black\""],[2,"tag-like",409,11,"<A"]]
+window.data=[["tag-like",409,11,"lonely \"<\"","<A"],["tag-like",1479,41,"lonely \"<\"","<A"],["no-ignored",1746,15,"containing invalid attribute","  color:black\""],["no-ignored",1752,15,"containing invalid attribute","  color:black\"  "]]

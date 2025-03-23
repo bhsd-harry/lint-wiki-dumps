@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,48,"2-0px"]]
+window.data=[["no-duplicate",3,48,"duplicated image caption parameter","2-0px"],["no-duplicate",3,54,"duplicated image caption parameter","<center>戴上防暴盔的溫哥華警察。其護面罩被放下以保護警員免受投射物擊中受傷。</center>"]]

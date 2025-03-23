@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",434,52,"ISBN"],[5,"no-ignored",46,58," style"]]
+window.data=[["no-ignored",46,58,"attributes of a closing tag"," style"],["no-ignored",46,118,"attributes of a closing tag"," style"],["no-ignored",46,180,"attributes of a closing tag"," style"],["no-ignored",46,242,"attributes of a closing tag"," style"],["no-ignored",52,74,"attributes of a closing tag"," style"],["lonely-http",434,52,"lonely \"ISBN\"","ISBN"]]

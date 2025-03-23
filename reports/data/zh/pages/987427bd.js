@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",25,5,"color"],[1,"lonely-bracket",64,20,"{{"],[1,"no-ignored",64,20,"{{nts"],[1,"unclosed-table",18,2,"{|"]]
+window.data=[["illegal-attr",25,5,"illegal attribute name","color"],["lonely-bracket",64,20,"lonely \"{\"","{{"],["no-ignored",64,20,"containing invalid attribute","{{nts"],["illegal-attr",160,5,"illegal attribute name","color"],["unclosed-table",18,2,"unclosed table","{|"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",165,186,"{{"],[3,"no-duplicate",165,167,"三艘美国战舰，（从上到下）核动力巡洋舰{{link-en"]]
+window.data=[["lonely-bracket",165,186,"lonely \"{\"","{{"],["no-duplicate",165,167,"duplicated image caption parameter","三艘美国战舰，（从上到下）核动力巡洋舰{{link-en"],["no-duplicate",165,196,"duplicated image caption parameter","USS ''Bainbridge''"],["no-duplicate",165,215,"duplicated image caption parameter","[[USS Bainbridge (CGN-25)]]和[[长滩号核动力导弹巡洋舰]]以及''[[企业号航空母舰 (CVN-65)]]''在1964年的第一艘核动力航母。在飞行甲板上，船员们组成拼写[[爱因斯坦]]的[[質能等價]]方程式''E = mc<sup>2</sup>''。"]]

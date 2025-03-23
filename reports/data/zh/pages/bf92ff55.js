@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3," image =\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter"," image =\n "],["no-duplicate",3,3,"duplicated parameter","image ={{image array|perrow=5|width=60|height=70\n | image1 =JayavarmanVII.jpg| caption1 = [[阇耶跋摩七世]]\n | image2  =Norodom Sihanouk (1983).jpg|caption2 "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:身心障碍科学家]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:身心障碍科学家]]"],["no-duplicate",42,2,"duplicated category","[[Category:身心障碍科学家]]"]]

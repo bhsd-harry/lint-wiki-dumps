@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",200,3,"最佳女歌手(海外)"]]
+window.data=[["no-ignored",200,3,"containing invalid attribute","最佳女歌手(海外)"]]

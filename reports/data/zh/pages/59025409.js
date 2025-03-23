@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",40,2,"[[Category:中华人民共和国国有企业]]"]]
+window.data=[["no-duplicate",40,2,"duplicated category","[[Category:中华人民共和国国有企业]]"],["no-duplicate",42,2,"duplicated category","[[Category:中华人民共和国国有企业]]"],["no-duplicate",41,2,"duplicated category","[[Category:中国制药公司]]"],["no-duplicate",45,2,"duplicated category","[[Category:中国制药公司]]"]]

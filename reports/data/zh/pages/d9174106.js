@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",58,2,"[[Category:2023年国际篮联篮球世界杯球员]]"]]
+window.data=[["no-duplicate",58,2,"duplicated category","[[Category:2023年国际篮联篮球世界杯球员]]"],["no-duplicate",71,2,"duplicated category","[[Category:2023年国际篮联篮球世界杯球员]]"],["no-duplicate",59,2,"duplicated category","[[Category:日本國家男子籃球隊球員]]"],["no-duplicate",70,2,"duplicated category","[[Category:日本國家男子籃球隊球員]]"]]

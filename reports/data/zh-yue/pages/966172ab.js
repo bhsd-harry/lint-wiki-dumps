@@ -1,1 +1,1 @@
-window.data=[[1,"unmatched-tag",7,35,"invalid self-closing tag","<center/>"]]
+window.data=[["unmatched-tag",7,35,"invalid self-closing tag","<center/>"]]

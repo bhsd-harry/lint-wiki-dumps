@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",64,46,"Right"]]
+window.data=[["no-duplicate",64,46,"duplicated image caption parameter","Right"],["no-duplicate",64,52,"duplicated image caption parameter","電影《[[蝙蝠俠：開戰時刻]]》中的拉斯·奧·古，由[[連恩·尼遜]]飾演"]]

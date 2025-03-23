@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3," constituency1 = [[老街 (果敢)|老街]]第一选区\n\n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter"," constituency1 = [[老街 (果敢)|老街]]第一选区\n\n "],["no-duplicate",44,3,"duplicated parameter"," constituency1 = [[老街市 (缅甸联邦第一特区)|老街]]第一选区\n "]]

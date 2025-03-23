@@ -1,1 +1,1 @@
-window.data=[[2,"invalid-gallery",264,28,"缩略图"]]
+window.data=[["invalid-gallery",264,28,"invalid image parameter","缩略图"],["invalid-gallery",265,53,"invalid image parameter","缩略图"]]

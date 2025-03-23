@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",170,2,"[[Category:2018年世界盃足球賽主教練]]"]]
+window.data=[["no-duplicate",170,2,"duplicated category","[[Category:2018年世界盃足球賽主教練]]"],["no-duplicate",180,2,"duplicated category","[[Category:2018年世界盃足球賽主教練]]"]]

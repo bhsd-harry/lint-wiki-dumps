@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",46,833,"duplicated parameter","language=zh"],[1,"unmatched-tag",113,146,"unmatched closing tag","</small>"]]
+window.data=[["no-duplicate",46,833,"duplicated parameter","language=zh"],["no-duplicate",46,861,"duplicated parameter","language=zh"],["unmatched-tag",113,146,"unmatched closing tag","</small>"]]

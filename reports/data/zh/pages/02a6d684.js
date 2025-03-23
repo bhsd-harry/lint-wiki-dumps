@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",441,4,"table"],[2,"lonely-bracket",670,38,"}"]]
+window.data=[["invalid-css",429,10,"} expected",";"],["invalid-css",430,10,"} expected",";"],["illegal-attr",441,4,"illegal attribute name","table"],["lonely-bracket",670,38,"lonely \"}\"","}"],["lonely-bracket",670,92,"lonely \"}\"","}"]]

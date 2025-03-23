@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",20,63,"thumb"],[2,"no-duplicate",20,17,"火星勘测轨道飞行器背景相机所显示的伯顿陨击坑中部。Wikiburtoncenter.jpg"]]
+window.data=[["invalid-gallery",20,63,"invalid image parameter","thumb"],["no-duplicate",20,17,"duplicated image caption parameter","火星勘测轨道飞行器背景相机所显示的伯顿陨击坑中部。Wikiburtoncenter.jpg"],["no-duplicate",20,69,"duplicated image caption parameter","显示有[[暗坡条纹]]的伯顿陨击坑中央山峰，注：这是前一幅图像的放大版。"]]

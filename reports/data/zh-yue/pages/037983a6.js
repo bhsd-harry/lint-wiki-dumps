@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",190,1,"invalid content in <gallery>","  <ref name=pytorch-tutorial /> "]]
+window.data=[["no-ignored",190,1,"invalid content in <gallery>","  <ref name=pytorch-tutorial /> "]]

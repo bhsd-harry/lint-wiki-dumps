@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",134,2,"[[Category:美國職棒大聯盟台灣球員]]"]]
+window.data=[["no-duplicate",134,2,"duplicated category","[[Category:美國職棒大聯盟台灣球員]]"],["no-duplicate",137,2,"duplicated category","[[Category:美國職棒大聯盟台灣球員]]"]]

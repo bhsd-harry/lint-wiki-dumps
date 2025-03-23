@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",100,20,"[["],[1,"no-ignored",100,17," | [[1904年夏季奥林匹克运动会田径比赛 – 男子马拉松|男子马拉松]] "]]
+window.data=[["lonely-bracket",100,20,"lonely \"[\"","[["],["lonely-bracket",100,54,"lonely \"]\"","]]"],["no-ignored",100,17,"containing invalid attribute"," | [[1904年夏季奥林匹克运动会田径比赛 – 男子马拉松|男子马拉松]] "]]

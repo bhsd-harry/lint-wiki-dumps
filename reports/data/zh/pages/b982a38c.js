@@ -1,1 +1,1 @@
-window.data=[[2,"pipe-like",85,34,"\n\n 字母||"]]
+window.data=[["pipe-like",85,34,"additional \"|\" in a table cell","\n\n 字母||"],["pipe-like",87,12,"additional \"|\" in a table cell","||IPA"]]

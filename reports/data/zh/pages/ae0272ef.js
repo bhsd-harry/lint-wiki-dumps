@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",717,2,"[[Category:欢乐颂 (电视剧)|1]]"]]
+window.data=[["no-duplicate",717,2,"duplicated category","[[Category:欢乐颂 (电视剧)|1]]"],["no-duplicate",718,2,"duplicated category","[[Category:欢乐颂 (电视剧)|2]]"],["no-duplicate",721,2,"duplicated category","[[Category:女性題材電視節目]]"],["no-duplicate",726,2,"duplicated category","[[Category:女性題材電視節目]]"],["no-duplicate",722,2,"duplicated category","[[Category:無綫電視外購劇集]]"],["no-duplicate",727,2,"duplicated category","[[Category:無綫電視外購劇集]]"]]

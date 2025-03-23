@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,45,"180PX"]]
+window.data=[["no-duplicate",6,45,"duplicated image caption parameter","180PX"],["no-duplicate",6,51,"duplicated image caption parameter","壢家校徽"]]

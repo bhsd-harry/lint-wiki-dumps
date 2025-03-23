@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,42,"hochkant"]]
+window.data=[["no-duplicate",1,42,"duplicated image caption parameter","hochkant"],["no-duplicate",1,51,"duplicated image caption parameter","聳立於[[柏林]]勝利大道（Siegesallee）奧托五世紀念碑"]]

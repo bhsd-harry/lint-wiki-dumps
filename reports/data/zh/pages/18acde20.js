@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3,"1=zh-hans:顿涅茨克人民共和国总理; zh-hk:頓涅茨克人民共和國總理; zh-tw:頓內次克人民共和國總理;\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter","1=zh-hans:顿涅茨克人民共和国总理; zh-hk:頓涅茨克人民共和國總理; zh-tw:頓內次克人民共和國總理;\n "],["no-duplicate",3,3,"duplicated parameter","1=zh-hans:顿涅茨克; zh-hk:頓涅茨克; zh-tw:頓內次克; zh:顿內茨克;\n "]]

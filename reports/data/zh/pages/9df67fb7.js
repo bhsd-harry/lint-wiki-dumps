@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3,"zh:珍奇之物;zh-tw:列車捎來的幸福;zh-hk:最珍貴的貨物;\n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter","zh:珍奇之物;zh-tw:列車捎來的幸福;zh-hk:最珍貴的貨物;\n "],["no-duplicate",4,3,"duplicated parameter","1=zh-cn:让-路易·特兰蒂尼昂;zh-tw:尚-路易·特罕狄釀;zh-hk:尚-路易·杜寧南;\n "]]

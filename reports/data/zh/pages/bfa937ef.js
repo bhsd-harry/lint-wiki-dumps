@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",87,1," ;文萃路长青街（站位位于文萃路，B出入口向北，长青街西侧）\n {{沈阳公交线路列表|width=100%|format=|end=yes|166|276}}"]]
+window.data=[["fostered-content",87,1,"content to be moved out from the table"," ;文萃路长青街（站位位于文萃路，B出入口向北，长青街西侧）\n {{沈阳公交线路列表|width=100%|format=|end=yes|166|276}}"],["fostered-content",90,1,"content to be moved out from the table"," ;保利康桥（站位位于北堤路，C出入口旁，单向站位）\n {{沈阳公交线路列表|width=100%|format=|end=yes|523}}"]]

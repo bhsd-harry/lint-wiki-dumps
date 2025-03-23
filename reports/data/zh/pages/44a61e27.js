@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,3," series         =\n "]]
+window.data=[["no-duplicate",17,3,"duplicated parameter"," series         =\n "],["no-duplicate",30,3,"duplicated parameter"," series         = [[阿貓阿狗系列]]\n "]]

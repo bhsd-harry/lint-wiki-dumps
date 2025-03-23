@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",3,44,"duplicated image caption parameter","Left"]]
+window.data=[["no-duplicate",3,44,"duplicated image caption parameter","Left"],["no-duplicate",3,49,"duplicated image caption parameter","初任駐美韓國大使時"],["no-duplicate",4,33,"duplicated image caption parameter","Left"],["no-duplicate",4,38,"duplicated image caption parameter","7任韓國總理時"]]

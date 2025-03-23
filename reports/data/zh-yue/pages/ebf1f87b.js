@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,34,"duplicated image caption parameter","鋰硫磺電池"]]
+window.data=[["no-duplicate",1,34,"duplicated image caption parameter","鋰硫磺電池"],["no-duplicate",1,40,"duplicated image caption parameter","鋰硫磺電池示意圖"]]

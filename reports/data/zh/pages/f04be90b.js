@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",122,20," sortable; "]]
+window.data=[["no-ignored",122,20,"containing invalid attribute"," sortable; "]]

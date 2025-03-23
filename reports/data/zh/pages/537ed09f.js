@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",66,2,"[[Category:海牛目]]"]]
+window.data=[["no-duplicate",66,2,"duplicated category","[[Category:海牛目]]"],["no-duplicate",67,2,"duplicated category","[[分類:海牛目]]"]]

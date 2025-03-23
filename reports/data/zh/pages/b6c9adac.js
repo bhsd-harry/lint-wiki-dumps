@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",94,62,"rowspan"],[4,"nested-link",75,56,"[[twitter]]"]]
+window.data=[["nested-link",75,56,"internal link in an external link","[[twitter]]"],["nested-link",79,65,"internal link in an external link","[[twitter]]"],["nested-link",85,55,"internal link in an external link","[[twitter]]"],["nested-link",89,54,"internal link in an external link","[[twitter]]"],["illegal-attr",94,62,"illegal attribute name","rowspan"]]

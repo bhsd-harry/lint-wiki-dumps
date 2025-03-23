@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",130,2,"[[Category:2019年成立的音樂團體]]"]]
+window.data=[["no-duplicate",130,2,"duplicated category","[[Category:2019年成立的音樂團體]]"],["no-duplicate",131,2,"duplicated category","[[Category:2019年成立的音樂團體]]"],["no-duplicate",133,2,"duplicated category","[[Category:搖滾樂團]]"],["no-duplicate",135,2,"duplicated category","[[Category:搖滾樂團]]"],["no-duplicate",134,2,"duplicated category","[[Category:另類搖滾樂團]]"],["no-duplicate",136,2,"duplicated category","[[Category:另類搖滾樂團]]"]]

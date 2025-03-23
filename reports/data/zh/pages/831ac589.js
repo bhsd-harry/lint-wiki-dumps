@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",120,2,"[[Category:國立故宮博物院人物]]"]]
+window.data=[["no-duplicate",120,2,"duplicated category","[[Category:國立故宮博物院人物]]"],["no-duplicate",128,2,"duplicated category","[[Category:國立故宮博物院人物]]"]]

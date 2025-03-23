@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,2,"[[Category:Articles with unsourced statements from February 2023]]"]]
+window.data=[["no-duplicate",22,2,"duplicated category","[[Category:Articles with unsourced statements from February 2023]]"],["no-duplicate",26,2,"duplicated category","[[Category:Articles with unsourced statements from February 2023]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",78,2,"[[Category:士林區廟宇]]"]]
+window.data=[["no-duplicate",78,2,"duplicated category","[[Category:士林區廟宇]]"],["no-duplicate",83,2,"duplicated category","[[Category:士林區廟宇|S]]"]]

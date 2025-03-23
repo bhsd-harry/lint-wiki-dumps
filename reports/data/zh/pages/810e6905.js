@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,2,"[[Category:葬于灰衣修士教堂墓地]]"]]
+window.data=[["no-duplicate",33,2,"duplicated category","[[Category:葬于灰衣修士教堂墓地]]"],["no-duplicate",39,2,"duplicated category","[[Category:葬于灰衣修士教堂墓地]]"]]

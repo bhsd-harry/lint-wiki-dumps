@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",28,3,"duplicated parameter"," 官方網站  = \n "]]
+window.data=[["no-duplicate",28,3,"duplicated parameter"," 官方網站  = \n "],["no-duplicate",31,3,"duplicated parameter"," 官方網站 = https://viu.tv/encore/join-us-after-school\n "]]

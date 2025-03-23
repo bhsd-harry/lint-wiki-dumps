@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",210,2,"[[Category:1994年亚洲运动会田径运动员]]"]]
+window.data=[["no-duplicate",210,2,"duplicated category","[[Category:1994年亚洲运动会田径运动员]]"],["no-duplicate",215,2,"duplicated category","[[Category:1994年亚洲运动会田径运动员]]"]]

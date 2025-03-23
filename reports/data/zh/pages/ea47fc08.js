@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",54,1," * [[电子学|电子]][[信息学]]科\n * [[电子学|电子]]工学科"],[1,"unmatched-tag",60,9,"</del>"]]
+window.data=[["fostered-content",54,1,"content to be moved out from the table"," * [[电子学|电子]][[信息学]]科\n * [[电子学|电子]]工学科"],["unmatched-tag",60,9,"unmatched closing tag","</del>"],["fostered-content",59,1,"content to be moved out from the table"," * [[无线电频谱|电波]]通信学科<ref group=\"注\"  name=\"招生到1983年\"/>\n * 通信工学科</del><ref group=\"注\"  name=\"招生到1983年\"/>\n * [[电子学|电子]]工学科"]]

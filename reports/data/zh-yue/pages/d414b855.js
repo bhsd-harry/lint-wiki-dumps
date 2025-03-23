@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",117,54,"duplicated image caption parameter","替代=長堤新加坡一端的兀蘭關卡"]]
+window.data=[["no-duplicate",117,54,"duplicated image caption parameter","替代=長堤新加坡一端的兀蘭關卡"],["no-duplicate",117,82,"duplicated image caption parameter","長堤新加坡一端嘅兀蘭關卡"]]

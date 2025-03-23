@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",12,89,"contenteditable"],[2,"unmatched-tag",18,23,"</span>"]]
+window.data=[["illegal-attr",12,89,"illegal attribute name","contenteditable"],["unmatched-tag",18,23,"unmatched closing tag","</span>"],["unmatched-tag",22,23,"unmatched closing tag","</span>"],["illegal-attr",60,160,"illegal attribute name","contenteditable"]]

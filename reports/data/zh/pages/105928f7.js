@@ -1,1 +1,1 @@
-window.data=[[3,"no-ignored",279,1," {{flag|Malawi}}"]]
+window.data=[["no-ignored",279,1,"invalid content in <gallery>"," {{flag|Malawi}}"],["no-ignored",294,1,"invalid content in <gallery>"," {{flag|Monaco}}"],["no-ignored",324,1,"invalid content in <gallery>"," File:South Africa Coat Of Arms.svg<!-- 注释出： -->|{{flag|South Africa}}"]]

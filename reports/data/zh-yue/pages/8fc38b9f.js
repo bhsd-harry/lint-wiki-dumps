@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",4,3,"duplicated parameter"," status = \n "],[2,"unmatched-tag",47,56,"unmatched closing tag","</font>"]]
+window.data=[["no-duplicate",4,3,"duplicated parameter"," status = \n "],["no-duplicate",26,3,"duplicated parameter"," status = \n "],["no-duplicate",5,3,"duplicated parameter"," status_system = \n "],["no-duplicate",27,3,"duplicated parameter"," status_system = \n "],["unmatched-tag",47,56,"unmatched closing tag","</font>"],["unmatched-tag",50,59,"unmatched closing tag","</font>"]]

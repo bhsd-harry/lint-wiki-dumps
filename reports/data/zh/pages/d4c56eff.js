@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",10,50,"sinistra"]]
+window.data=[["no-duplicate",10,50,"duplicated image caption parameter","sinistra"],["no-duplicate",10,59,"duplicated image caption parameter","位置"],["no-duplicate",11,73,"duplicated image caption parameter","destra"],["no-duplicate",11,80,"duplicated image caption parameter","費德里科二世·貢扎加肖像，提香"],["no-duplicate",17,78,"duplicated image caption parameter","centro"],["no-duplicate",17,85,"duplicated image caption parameter",""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,50,"链接=https://en.wikipedia.org/wiki/File:Provinces of Argentina by HDI (2016).svg"]]
+window.data=[["no-duplicate",7,50,"duplicated image caption parameter","链接=https://en.wikipedia.org/wiki/File:Provinces of Argentina by HDI (2016).svg"],["no-duplicate",7,143,"duplicated image caption parameter","2016年阿根廷各省的人类发展指数地图。图例：{{legend|#003135|>  0.880}}\n {{legend|#00726a|0.880 – 0.860}}\n {{legend|#00bfac|0.860 – 0.840}}\n {{legend|#8ce8d3|0.840 – 0.820"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,65,"费尔南多·波因"]]
+window.data=[["no-duplicate",5,65,"duplicated image caption parameter","费尔南多·波因"],["no-duplicate",5,73,"duplicated image caption parameter",""]]

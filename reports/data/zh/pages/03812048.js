@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",57,2,"[[Category:莫斯科航空学院校友]]"]]
+window.data=[["no-duplicate",57,2,"duplicated category","[[Category:莫斯科航空学院校友]]"],["no-duplicate",73,2,"duplicated category","[[Category:莫斯科航空学院校友]]"]]

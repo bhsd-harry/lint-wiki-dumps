@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-apos",7,114,"'"],[2,"no-duplicate",6,27,"thumb"]]
+window.data=[["no-duplicate",6,27,"duplicated image thumbnail parameter","thumb"],["no-duplicate",6,39,"duplicated image thumbnail parameter","缩略图"],["lonely-apos",7,114,"lonely \"'\"","'"],["lonely-apos",7,134,"lonely \"'\"","'"]]

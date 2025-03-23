@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",10,3,"motto=「'''ALL THE WAY!'''」\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","motto=「'''ALL THE WAY!'''」\n "],["no-duplicate",23,3,"duplicated parameter","motto=「All the way, sir.」\n "],["no-duplicate",11,3,"duplicated parameter","march=「The All-American Soldier」\n "],["no-duplicate",13,3,"duplicated parameter","march=\n "]]

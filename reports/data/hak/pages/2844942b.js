@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,60,"duplicated image caption parameter","替代文字"]]
+window.data=[["no-duplicate",4,60,"duplicated image caption parameter","替代文字"],["no-duplicate",4,78,"duplicated image caption parameter","{{PAGENAME}}."]]

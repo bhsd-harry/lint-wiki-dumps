@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",184,8," style=\"font-size:75%\""]]
+window.data=[["no-ignored",184,8,"attributes of a closing tag"," style=\"font-size:75%\""]]

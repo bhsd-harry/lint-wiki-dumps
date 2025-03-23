@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",7,129,"{{"],[2,"no-duplicate",101,51,"Religion"]]
+window.data=[["lonely-bracket",7,129,"lonely \"{\"","{{"],["no-duplicate",101,51,"duplicated image caption parameter","Religion"],["no-duplicate",101,72,"duplicated image caption parameter","2011 普查"]]

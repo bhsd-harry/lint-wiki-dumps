@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",101,5,"bgcolor=\"#efefef\""]]
+window.data=[["no-duplicate",101,5,"duplicated bgcolor attribute","bgcolor=\"#efefef\""],["no-duplicate",101,24,"duplicated bgcolor attribute","bgcolor=\"#ccffcc\""],["no-duplicate",133,5,"duplicated bgcolor attribute","bgcolor=\"#efefef\""],["no-duplicate",133,24,"duplicated bgcolor attribute","bgcolor=\"#ccffcc\""],["no-duplicate",167,5,"duplicated align attribute","align=\"center\""],["no-duplicate",167,22,"duplicated align attribute","align=\"center\""]]

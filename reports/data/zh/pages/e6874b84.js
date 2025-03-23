@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",24,2,"[[Category:美国民兵将领]]"]]
+window.data=[["no-duplicate",24,2,"duplicated category","[[Category:美国民兵将领]]"],["no-duplicate",52,2,"duplicated category","[[Category:美国民兵将领]]"],["no-duplicate",25,2,"duplicated category","[[Category:美国美墨战争军人]]"],["no-duplicate",51,2,"duplicated category","[[Category:美国美墨战争军人]]"]]

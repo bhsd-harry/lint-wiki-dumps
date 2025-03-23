@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",108,2,"[[Category:中国乘车智能卡]]"]]
+window.data=[["no-duplicate",108,2,"duplicated category","[[Category:中国乘车智能卡]]"],["no-duplicate",109,2,"duplicated category","[[Category:中国乘车智能卡]]"]]

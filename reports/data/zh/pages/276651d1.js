@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",55,24,"style=\"text-align:center\""],[2,"no-ignored",178,15,"  color:black\""]]
+window.data=[["invalid-css",55,84,"semi-colon expected",""],["invalid-css",55,84,"colon expected",""],["no-duplicate",55,24,"duplicated style attribute","style=\"text-align:center\""],["no-duplicate",55,62,"duplicated style attribute","style=\"font-size：small"],["no-ignored",178,15,"containing invalid attribute","  color:black\""],["no-ignored",184,15,"containing invalid attribute","  color:black\"  "]]

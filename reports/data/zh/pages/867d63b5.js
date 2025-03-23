@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",63,1," * 戶井町立潮光中學校"]]
+window.data=[["fostered-content",63,1,"content to be moved out from the table"," * 戶井町立潮光中學校"],["fostered-content",70,1,"content to be moved out from the table"," * 戶井町立戶井西小學校"]]

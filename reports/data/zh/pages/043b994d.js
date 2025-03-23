@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3," order          = \n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter"," order          = \n "],["no-duplicate",15,3,"duplicated parameter"," order        = [[File:Flag of Kaohsiung City.svg|25px|border]] [[高雄市議會]]第2屆議員\n "]]

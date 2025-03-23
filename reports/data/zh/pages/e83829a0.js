@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",33,252,"{{"],[1,"nested-link",52,47,"[[Myspace]]"]]
+window.data=[["lonely-bracket",33,252,"lonely \"{\"","{{"],["lonely-bracket",33,311,"lonely \"}\"","}}"],["nested-link",52,47,"internal link in an external link","[[Myspace]]"]]

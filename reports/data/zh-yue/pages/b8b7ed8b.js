@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",67,1027,"duplicated parameter"," publisher=Future Publishing "]]
+window.data=[["no-duplicate",67,1027,"duplicated parameter"," publisher=Future Publishing "],["no-duplicate",67,1090,"duplicated parameter","publisher=[[Future plc]]"],["no-duplicate",179,33,"duplicated style attribute","style=\"font-size: 90%;\""],["no-duplicate",179,58,"duplicated style attribute","style=\"-moz-column-count:2; column-count:2};\""]]

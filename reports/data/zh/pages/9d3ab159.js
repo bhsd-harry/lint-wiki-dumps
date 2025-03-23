@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,2,"[[Category:清朝廣西按察使|C]]"]]
+window.data=[["no-duplicate",15,2,"duplicated category","[[Category:清朝廣西按察使|C]]"],["no-duplicate",18,2,"duplicated category","[[Category:清朝廣西按察使]]"]]

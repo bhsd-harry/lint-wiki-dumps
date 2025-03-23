@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,12,"|消費者理論"]]
+window.data=[["no-ignored",1,12,"useless link text","|消費者理論"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",177,3," {3{flagicon "]]
+window.data=[["no-ignored",177,3,"containing invalid attribute"," {3{flagicon "]]

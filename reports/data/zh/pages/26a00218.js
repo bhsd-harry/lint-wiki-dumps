@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",46,124,"[[夜 (著作)|夜]]"]]
+window.data=[["nested-link",46,124,"internal link in an external link","[[夜 (著作)|夜]]"]]

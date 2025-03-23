@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",43,1," * [[工商管理|经营]]信息学科"]]
+window.data=[["fostered-content",43,1,"content to be moved out from the table"," * [[工商管理|经营]]信息学科"]]

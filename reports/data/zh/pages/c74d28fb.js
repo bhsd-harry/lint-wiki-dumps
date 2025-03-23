@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",99,2,"[[Category:柳莺科|*]]"]]
+window.data=[["no-duplicate",99,2,"duplicated category","[[Category:柳莺科|*]]"],["no-duplicate",100,2,"duplicated category","[[Category:柳莺科]]"]]

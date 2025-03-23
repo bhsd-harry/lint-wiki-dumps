@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",202,584,"无私\"  竖大拇指赞国安有正气\""]]
+window.data=[["no-ignored",202,584,"containing invalid attribute","无私\"  竖大拇指赞国安有正气\""],["no-ignored",204,1129,"containing invalid attribute","老李别走\"标语牌\""],["invalid-css",1051,93,"semi-colon expected",""],["invalid-css",1051,93,"colon expected",""]]

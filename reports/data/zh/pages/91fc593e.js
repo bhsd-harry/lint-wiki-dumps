@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",14,2,"[[Category:子部釋家類]]"]]
+window.data=[["no-duplicate",14,2,"duplicated category","[[Category:子部釋家類]]"],["no-duplicate",21,2,"duplicated category","[[Category:子部釋家類]]"],["no-duplicate",15,2,"duplicated category","[[Category:史傳部]]"],["no-duplicate",22,2,"duplicated category","[[Category:史傳部]]"],["no-duplicate",16,2,"duplicated category","[[Category:7世紀書籍]]"],["no-duplicate",23,2,"duplicated category","[[Category:7世紀書籍]]"]]

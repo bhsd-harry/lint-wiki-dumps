@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",38,848,"}}"],[1,"nested-link",71,49,"[[聯邦調查局]]"]]
+window.data=[["lonely-bracket",38,848,"lonely \"}\"","}}"],["nested-link",71,49,"internal link in an external link","[[聯邦調查局]]"]]

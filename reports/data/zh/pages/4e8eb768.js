@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,2,"[[Category:日本男子田徑運動員]]"]]
+window.data=[["no-duplicate",10,2,"duplicated category","[[Category:日本男子田徑運動員]]"],["no-duplicate",12,2,"duplicated category","[[Category:日本男子田徑運動員]]"]]

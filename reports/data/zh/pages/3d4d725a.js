@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",96,2,"[[Category:语言学]]"]]
+window.data=[["no-duplicate",96,2,"duplicated category","[[Category:语言学]]"],["no-duplicate",98,2,"duplicated category","[[Category:语言学]]"],["no-duplicate",97,2,"duplicated category","[[Category:方言]]"],["no-duplicate",99,2,"duplicated category","[[Category:方言]]"]]

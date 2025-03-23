@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",124,2,"[[Category:在委内瑞拉的美国人]]"]]
+window.data=[["no-duplicate",124,2,"duplicated category","[[Category:在委内瑞拉的美国人]]"],["no-duplicate",144,2,"duplicated category","[[Category:在委内瑞拉的美国人]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",59,55,"Animaton of the issuances of PAGASA TCWS for TD Amang (2019)"]]
+window.data=[["no-duplicate",59,55,"duplicated image caption parameter","Animaton of the issuances of PAGASA TCWS for TD Amang (2019)"],["no-duplicate",59,116,"duplicated image caption parameter","菲律賓大氣地球物理和天文服務管理局對WP012019發出的風暴信號<br/  >  {{legend2| deepskyblue |一號風暴信號}}"]]

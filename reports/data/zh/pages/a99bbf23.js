@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",41,2,"[[Category:西藏自治區背景作品]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:西藏自治區背景作品]]"],["no-duplicate",45,2,"duplicated category","[[Category:西藏自治區背景作品]]"],["no-duplicate",42,2,"duplicated category","[[Category:中國人民解放軍題材作品]]"],["no-duplicate",46,2,"duplicated category","[[Category:中國人民解放軍題材作品]]"],["no-duplicate",43,2,"duplicated category","[[Category:傳記小說]]"],["no-duplicate",48,2,"duplicated category","[[Category:傳記小說]]"]]

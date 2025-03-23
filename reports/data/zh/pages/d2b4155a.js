@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",177,5,"style=\"background:#FF79BC\""],[1,"unescaped",23,114,"="]]
+window.data=[["unescaped",23,114,"unescaped query string in an anonymous parameter","="],["no-duplicate",177,5,"duplicated style attribute","style=\"background:#FF79BC\""],["no-duplicate",177,33,"duplicated style attribute","style=\"font-weight:bold;\""]]

@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",311,59,"[[加時]]"]]
+window.data=[["nested-link",311,59,"internal link in an external link","[[加時]]"],["invalid-css",318,100,"semi-colon expected","90%"],["invalid-css",318,95,"colon expected","size"],["invalid-css",318,117,"identifier expected","1.5em"]]

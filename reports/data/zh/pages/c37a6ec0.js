@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",61,2,"[[Category:香港賽馬]]"]]
+window.data=[["no-duplicate",61,2,"duplicated category","[[Category:香港賽馬]]"],["no-duplicate",63,2,"duplicated category","[[Category:香港賽馬]]"],["no-duplicate",62,2,"duplicated category","[[Category:粤语电视频道]]"],["no-duplicate",64,2,"duplicated category","[[Category:粤语电视频道]]"]]

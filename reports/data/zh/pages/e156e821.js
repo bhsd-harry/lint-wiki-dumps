@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",14,3," prev_title     = \n "]]
+window.data=[["no-duplicate",14,3,"duplicated parameter"," prev_title     = \n "],["no-duplicate",16,3,"duplicated parameter"," prev_title = [[千里之外]]\n "],["no-duplicate",15,3,"duplicated parameter"," next_title    = \n "],["no-duplicate",18,3,"duplicated parameter"," next_title = 退后\n "]]

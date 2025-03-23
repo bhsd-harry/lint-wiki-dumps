@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",79,43,"y右"]]
+window.data=[["no-duplicate",79,43,"duplicated image caption parameter","y右"],["no-duplicate",79,46,"duplicated image caption parameter","<math>y=\\frac{1}{x}</math>的函数图像"]]

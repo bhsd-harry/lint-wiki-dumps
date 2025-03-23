@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,3," international = \n "]]
+window.data=[["no-duplicate",20,3,"duplicated parameter"," international = \n "],["no-duplicate",28,3,"duplicated parameter"," international = [[进步联盟]]<br>[[进步国际]]\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,46,"lang=zh"]]
+window.data=[["no-duplicate",1,46,"duplicated image caption parameter","lang=zh"],["no-duplicate",1,54,"duplicated image caption parameter","英國發電成本報告資料，2025-2030年的均化發電成本 (註:在圖片的\"更多詳細資料\"的下方，有附上計算的連結）"]]

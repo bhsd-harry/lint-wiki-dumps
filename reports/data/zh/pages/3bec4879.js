@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,37,"100*100px"]]
+window.data=[["no-duplicate",3,37,"duplicated image caption parameter","100*100px"],["no-duplicate",3,51,"duplicated image caption parameter","提比里安发音法"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",503,29,"]]"],[4,"no-duplicate",1334,3," nominee1 = [[大衛·斯科特 (喬治亞州政治家)|大衛·斯科特]]\n "]]
+window.data=[["lonely-bracket",503,29,"lonely \"]\"","]]"],["no-duplicate",1334,3,"duplicated parameter"," nominee1 = [[大衛·斯科特 (喬治亞州政治家)|大衛·斯科特]]\n "],["no-duplicate",1335,3,"duplicated parameter"," nominee1 = '''[[大衛·斯科特 (喬治亞州政治家)|大衛·斯科特]]'''\n "],["no-duplicate",1464,3,"duplicated parameter"," nominee1 = [[馬喬麗·泰勒·格林]]\n "],["no-duplicate",1465,3,"duplicated parameter"," nominee1 = '''[[馬喬麗·泰勒·格林]]'''\n "]]

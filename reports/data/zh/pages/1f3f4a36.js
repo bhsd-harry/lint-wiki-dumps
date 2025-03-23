@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",38,2,"[[Category:摇滚名人堂入选者]]"]]
+window.data=[["no-duplicate",38,2,"duplicated category","[[Category:摇滚名人堂入选者]]"],["no-duplicate",59,2,"duplicated category","[[Category:摇滚名人堂入选者|R]]"]]

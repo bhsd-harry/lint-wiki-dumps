@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",105,53,"colspan"],[2,"no-duplicate",105,23,"align=\"right\""],[1,"no-ignored",105,36,"  | '''投票率''' || "]]
+window.data=[["illegal-attr",105,53,"illegal attribute name","colspan"],["no-ignored",105,36,"containing invalid attribute","  | '''投票率''' || "],["no-duplicate",105,23,"duplicated align attribute","align=\"right\""],["no-duplicate",105,66,"duplicated align attribute","align=\"left\""]]

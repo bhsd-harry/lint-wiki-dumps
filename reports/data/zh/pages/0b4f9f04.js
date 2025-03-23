@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",51,22,"{{Bangkok MRT color|MRT Blue}};\""]]
+window.data=[["invalid-css",51,21,"semi-colon expected",""],["invalid-css",51,21,"colon expected",""],["no-ignored",51,22,"containing invalid attribute","{{Bangkok MRT color|MRT Blue}};\""]]

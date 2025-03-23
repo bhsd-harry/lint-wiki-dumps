@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,3,"duplicated parameter"," 教育程度 = 大學\n "],[1,"unclosed-table",512,2,"unclosed table","{|"],[1,"unmatched-tag",775,13,"unmatched closing tag","</div>"]]
+window.data=[["no-duplicate",15,3,"duplicated parameter"," 教育程度 = 大學\n "],["no-duplicate",21,3,"duplicated parameter"," 教育程度 = [[亞伯達大學]][[市場學]]畢業\n "],["unmatched-tag",775,13,"unmatched closing tag","</div>"],["unclosed-table",512,2,"unclosed table","{|"]]

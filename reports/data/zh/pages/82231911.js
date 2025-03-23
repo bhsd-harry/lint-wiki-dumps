@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",816,2,"[[Category:抽卡遊戲]]"]]
+window.data=[["no-duplicate",816,2,"duplicated category","[[Category:抽卡遊戲]]"],["no-duplicate",818,2,"duplicated category","[[Category:抽卡遊戲]]"]]

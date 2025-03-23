@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,44,"r250px"]]
+window.data=[["no-duplicate",2,44,"duplicated image caption parameter","r250px"],["no-duplicate",2,51,"duplicated image caption parameter","巴塔瓜蘇"]]

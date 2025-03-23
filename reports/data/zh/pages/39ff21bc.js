@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",80,2,"[[Category:密教本尊|S]]"]]
+window.data=[["no-duplicate",80,2,"duplicated category","[[Category:密教本尊|S]]"],["no-duplicate",85,2,"duplicated category","[[Category:密教本尊]]"]]

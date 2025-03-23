@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",589,2,"[[Category:2013年開播的美國電視影集]]"]]
+window.data=[["no-duplicate",589,2,"duplicated category","[[Category:2013年開播的美國電視影集]]"],["no-duplicate",599,2,"duplicated category","[[Category:2013年開播的美國電視影集]]"],["no-duplicate",595,2,"duplicated category","[[Category:美國政治電視劇]]"],["no-duplicate",601,2,"duplicated category","[[Category:美國政治電視劇]]"]]

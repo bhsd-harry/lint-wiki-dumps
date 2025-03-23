@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",181,71,"rught"]]
+window.data=[["no-duplicate",181,71,"duplicated image caption parameter","rught"],["no-duplicate",181,77,"duplicated image caption parameter","福士Passat警車"]]

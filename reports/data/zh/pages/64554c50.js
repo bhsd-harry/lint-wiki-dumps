@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,2,"[[cat:1920年代中國政治事件]]"]]
+window.data=[["no-duplicate",18,2,"duplicated category","[[cat:1920年代中國政治事件]]"],["no-duplicate",20,2,"duplicated category","[[cat:1920年代中國政治事件]]"]]

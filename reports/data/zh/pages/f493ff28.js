@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,3,"constituency = {{le|科特拉斯选区|Kotlas constituency}}\n "]]
+window.data=[["no-duplicate",15,3,"duplicated parameter","constituency = {{le|科特拉斯选区|Kotlas constituency}}\n "],["no-duplicate",21,3,"duplicated parameter","constituency = [[比例代表制]]\n "]]

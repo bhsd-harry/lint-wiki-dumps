@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",150,2,"[[Category:一級方程式賽道]]"]]
+window.data=[["no-duplicate",150,2,"duplicated category","[[Category:一級方程式賽道]]"],["no-duplicate",151,2,"duplicated category","[[Category:一級方程式賽道]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,3," taxon = Amphiprion bicinctus\n "]]
+window.data=[["no-duplicate",7,3,"duplicated parameter"," taxon = Amphiprion bicinctus\n "],["no-duplicate",10,3,"duplicated parameter"," taxon = Premnas biaculeatus\n "]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",2,39,"duplicated image caption parameter","右"]]
+window.data=[["no-duplicate",2,39,"duplicated image caption parameter","右"],["no-duplicate",2,47,"duplicated image caption parameter","佢嘅作品《Twinkling Stars are Laughing, Love》，喺1855年發行"],["no-duplicate",3,45,"duplicated image caption parameter","右"],["no-duplicate",3,53,"duplicated image caption parameter","1855年「{{Lang|en|Ordway's Aeolians}}」喺Ordway大廳演出嘅海報"]]

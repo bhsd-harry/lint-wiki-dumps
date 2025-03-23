@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",69,2,"[[Category:網路迷因]]"]]
+window.data=[["no-duplicate",69,2,"duplicated category","[[Category:網路迷因]]"],["no-duplicate",72,2,"duplicated category","[[Category:網路迷因]]"],["no-duplicate",74,2,"duplicated category","[[Category:ASCII藝術作品]]"],["no-duplicate",75,2,"duplicated category","[[Category:ASCII藝術作品]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",11,302,"[[Wikimapia]]"]]
+window.data=[["nested-link",11,302,"internal link in an external link","[[Wikimapia]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",26,2,"[[Category:臺灣藝術家|L]]"]]
+window.data=[["no-duplicate",26,2,"duplicated category","[[Category:臺灣藝術家|L]]"],["no-duplicate",29,2,"duplicated category","[[Category:臺灣藝術家|L]]"],["no-duplicate",31,2,"duplicated category","[[Category:油畫家|L]]"],["no-duplicate",32,2,"duplicated category","[[Category:油畫家|L]]"]]

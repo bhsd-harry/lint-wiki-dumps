@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",58,2,"[[Category:福建省人大常委会副主任]]"]]
+window.data=[["no-duplicate",58,2,"duplicated category","[[Category:福建省人大常委会副主任]]"],["no-duplicate",61,2,"duplicated category","[[Category:福建省人大常委会副主任]]"]]

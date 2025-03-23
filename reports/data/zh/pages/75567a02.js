@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",145,3,"align=\"center\""],[1,"no-ignored",143,20," „standard“ "]]
+window.data=[["no-ignored",143,20,"containing invalid attribute"," „standard“ "],["no-duplicate",145,3,"duplicated align attribute","align=\"center\""],["no-duplicate",145,17,"duplicated align attribute","align=\"center\""]]

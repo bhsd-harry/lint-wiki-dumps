@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",262,2,"[[Category:京阪電氣鐵道轉乘車站]]"]]
+window.data=[["no-duplicate",262,2,"duplicated category","[[Category:京阪電氣鐵道轉乘車站]]"],["no-duplicate",264,2,"duplicated category","[[Category:京阪電氣鐵道轉乘車站]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,58,"portrait"]]
+window.data=[["no-duplicate",29,58,"duplicated image caption parameter","portrait"],["no-duplicate",29,67,"duplicated image caption parameter","從104號堪薩斯州州道與135號州際公路之交流道朝東望著非建制地區門托"]]

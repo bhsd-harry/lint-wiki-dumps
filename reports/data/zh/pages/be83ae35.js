@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",36,23,"thumb"]]
+window.data=[["no-duplicate",36,23,"duplicated image thumbnail parameter","thumb"],["no-duplicate",36,46,"duplicated image thumbnail parameter","thumb"],["no-duplicate",36,29,"duplicated image caption parameter","巴縣羅漢寺吳皋過灘舟夜重慶三詩碑"],["no-duplicate",36,73,"duplicated image caption parameter","巴縣羅漢寺吳皋過灘舟夜重慶三詩碑"]]

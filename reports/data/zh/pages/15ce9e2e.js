@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",412,7,"class=\"references-small\""]]
+window.data=[["no-duplicate",412,7,"duplicated class attribute","class=\"references-small\""],["no-duplicate",412,33,"duplicated class attribute","class=\"references-2column\""]]

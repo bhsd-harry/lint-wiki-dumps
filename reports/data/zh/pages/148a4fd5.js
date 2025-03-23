@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",191,91,"该法案的第一页，即1905年提交给代表团的那一页"]]
+window.data=[["no-duplicate",191,91,"duplicated image caption parameter","该法案的第一页，即1905年提交给代表团的那一页"],["no-duplicate",191,116,"duplicated image caption parameter","1905年法國關於政教分離的報紙報導"]]

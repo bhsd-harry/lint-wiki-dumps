@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,46,"duplicated image caption parameter","替代文字"]]
+window.data=[["no-duplicate",2,46,"duplicated image caption parameter","替代文字"],["no-duplicate",2,54,"duplicated image caption parameter","音元，音聲之具體不玄者也。"]]

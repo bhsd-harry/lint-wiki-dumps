@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",578,4,"kwiirk"],[1,"no-ignored",578,24," (Wii homebrew)"]]
+window.data=[["illegal-attr",578,4,"illegal attribute name","kwiirk"],["illegal-attr",578,11,"illegal attribute name","and"],["illegal-attr",578,15,"illegal attribute name","Waninkoko"],["no-ignored",578,24,"containing invalid attribute"," (Wii homebrew)"]]

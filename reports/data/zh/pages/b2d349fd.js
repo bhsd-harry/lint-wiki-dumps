@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",74,70,"{{"],[4,"no-duplicate",74,70,"{{tsl"]]
+window.data=[["lonely-bracket",74,70,"lonely \"{\"","{{"],["no-duplicate",74,70,"duplicated image caption parameter","{{tsl"],["no-duplicate",74,76,"duplicated image caption parameter","en"],["no-duplicate",74,79,"duplicated image caption parameter","Day of Serb Unity, Freedom and the National Flag"],["no-duplicate",74,128,"duplicated image caption parameter","BVP M-80AB2，摄于{{tsl|en|Day of Serb Unity, Freedom and the National Flag|塞尔维亚团结、自由和国旗日}}"]]

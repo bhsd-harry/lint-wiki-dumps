@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",58,2,"[[Category:苏联诺贝尔奖得主]]"]]
+window.data=[["no-duplicate",58,2,"duplicated category","[[Category:苏联诺贝尔奖得主]]"],["no-duplicate",67,2,"duplicated category","[[Category:苏联诺贝尔奖得主]]"]]

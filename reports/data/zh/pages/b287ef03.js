@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",79,2,"[[Category:西班牙女子足球運動員]]"]]
+window.data=[["no-duplicate",79,2,"duplicated category","[[Category:西班牙女子足球運動員]]"],["no-duplicate",80,2,"duplicated category","[[Category:西班牙女子足球運動員]]"]]

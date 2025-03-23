@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",78,514,"archive-url="]]
+window.data=[["no-duplicate",78,514,"duplicated parameter","archive-url="],["no-duplicate",78,551,"duplicated parameter","archive-url=https://web.archive.org/web/20240825042405/https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/1050889/%E9%A2%A8%E6%9A%B4%E7%8F%8A%E"],["no-duplicate",80,117,"duplicated parameter","date=2024-08-28"],["no-duplicate",80,468,"duplicated parameter","date=20240828051302"]]

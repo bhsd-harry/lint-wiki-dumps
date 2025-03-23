@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",275,49,"x5_specialsite_is_nav"],[2,"no-duplicate",543,2,"[[Category:2010年代英語片]]"],[1,"no-ignored",174,23,"; color:snow\"  "]]
+window.data=[["invalid-css",174,22,"semi-colon expected",""],["invalid-css",174,22,"colon expected",""],["no-ignored",174,23,"containing invalid attribute","; color:snow\"  "],["illegal-attr",275,49,"illegal attribute name","x5_specialsite_is_nav"],["no-duplicate",543,2,"duplicated category","[[Category:2010年代英語片]]"],["no-duplicate",562,2,"duplicated category","[[Category:2010年代英語片]]"]]

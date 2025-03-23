@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",132,2,"[[Category:揚·范·艾克畫作]]"]]
+window.data=[["no-duplicate",132,2,"duplicated category","[[Category:揚·范·艾克畫作]]"],["no-duplicate",135,2,"duplicated category","[[Category:揚·范·艾克畫作]]"],["no-duplicate",137,2,"duplicated category","[[Category:有未审阅翻译的页面]]"],["no-duplicate",138,2,"duplicated category","[[Category:有未审阅翻译的页面]]"]]

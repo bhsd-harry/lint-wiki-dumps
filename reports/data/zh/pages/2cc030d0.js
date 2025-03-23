@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",46,36,"道命 宇治拾遺物語 万治二年刊本"]]
+window.data=[["no-duplicate",46,36,"duplicated image caption parameter","道命 宇治拾遺物語 万治二年刊本"],["no-duplicate",46,64,"duplicated image caption parameter","《宇治拾遺物語》[[萬治]]2年（1659年）{{Link-ja|刊本}}中的道命和五條之齋"]]

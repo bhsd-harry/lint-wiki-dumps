@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,3,"duplicated parameter","時區 = \n "]]
+window.data=[["no-duplicate",15,3,"duplicated parameter","時區 = \n "],["no-duplicate",31,3,"duplicated parameter","時區 = +3\n "]]

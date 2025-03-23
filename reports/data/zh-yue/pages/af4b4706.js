@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,25,"duplicated image caption parameter","\"Gam Leon Wui Gwun\"  in Gwongzau."]]
+window.data=[["no-duplicate",14,25,"duplicated image caption parameter","\"Gam Leon Wui Gwun\"  in Gwongzau."],["no-duplicate",14,59,"duplicated image caption parameter","廣州[[錦綸會館]]又係有對鑊耳。"]]

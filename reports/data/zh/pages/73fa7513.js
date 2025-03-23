@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",35,16,"scope=\"col\""]]
+window.data=[["no-duplicate",35,16,"duplicated scope attribute","scope=\"col\""],["no-duplicate",35,39,"duplicated scope attribute","scope=\"col\""],["no-duplicate",36,16,"duplicated scope attribute","scope=\"col\""],["no-duplicate",36,39,"duplicated scope attribute","scope=\"col\""]]

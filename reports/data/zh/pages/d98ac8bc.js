@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,3," endowment = {{increase}}28.5亿[[美元]](2022年)\n  "]]
+window.data=[["no-duplicate",16,3,"duplicated parameter"," endowment = {{increase}}28.5亿[[美元]](2022年)\n  "],["no-duplicate",20,4,"duplicated parameter"," endowment              = 28.5億[[美元]]（2022年）<ref name=endowment>As of June 30, 2022. {{cite report |url=https://www.nacubo.org/Research/2022/Public-NT"]]

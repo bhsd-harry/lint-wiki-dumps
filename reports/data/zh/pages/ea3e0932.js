@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",122,2,"[[Category:英國樞密院顧問官]]"]]
+window.data=[["no-duplicate",122,2,"duplicated category","[[Category:英國樞密院顧問官]]"],["no-duplicate",124,2,"duplicated category","[[Category:英國樞密院顧問官]]"]]

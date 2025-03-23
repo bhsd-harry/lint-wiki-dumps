@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",85,2,"[[Category:家族式企業]]"]]
+window.data=[["no-duplicate",85,2,"duplicated category","[[Category:家族式企業]]"],["no-duplicate",87,2,"duplicated category","[[Category:家族式企業]]"]]

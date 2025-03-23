@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,823,"author=洪巧藍 "]]
+window.data=[["no-duplicate",23,823,"duplicated parameter","author=洪巧藍 "],["no-duplicate",23,835,"duplicated parameter","author=洪巧藍 "]]

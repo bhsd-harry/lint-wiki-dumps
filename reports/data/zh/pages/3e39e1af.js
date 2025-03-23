@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,30,"{{largethumb}}"]]
+window.data=[["no-duplicate",12,30,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",12,45,"duplicated image caption parameter","設定在19世紀[[倫敦]]的電影場景"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",122,146,"duplicated parameter","title=平成 26 年度札幌市民経済計算 結果の概要 "]]
+window.data=[["no-duplicate",122,146,"duplicated parameter","title=平成 26 年度札幌市民経済計算 結果の概要 "],["no-duplicate",122,397,"duplicated parameter","title=存档副本 "]]

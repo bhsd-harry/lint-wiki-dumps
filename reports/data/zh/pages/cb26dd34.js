@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",46,1," * 现代传播学科<ref group=\"注\"  name=\"现代传播学科\"/>\n * 幼儿教育科"]]
+window.data=[["fostered-content",46,1,"content to be moved out from the table"," * 现代传播学科<ref group=\"注\"  name=\"现代传播学科\"/>\n * 幼儿教育科"],["fostered-content",66,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]<ref name=\"幼儿园\">[http://jc.rikkyojogakuin.ac.jp/tenshien/ 立教女学院短期大学附属幼儿园天使园] {{webarchive|url=https://web.archive.org/web/20140301111939"]]

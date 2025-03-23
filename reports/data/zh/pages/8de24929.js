@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",82,2,"[[Category:路易斯安那州取景電影]]"]]
+window.data=[["no-duplicate",82,2,"duplicated category","[[Category:路易斯安那州取景電影]]"],["no-duplicate",84,2,"duplicated category","[[Category:路易斯安那州取景電影]]"]]

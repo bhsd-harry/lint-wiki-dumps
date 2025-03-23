@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",73,1," ;莲花街万柳塘路（站位位于莲花街万柳塘路路口，A出入口向南130米，过桥即是）\n {{沈阳公交线路列表|width=100%|format=|end=yes|147|215}}"]]
+window.data=[["fostered-content",73,1,"content to be moved out from the table"," ;莲花街万柳塘路（站位位于莲花街万柳塘路路口，A出入口向南130米，过桥即是）\n {{沈阳公交线路列表|width=100%|format=|end=yes|147|215}}"],["fostered-content",76,1,"content to be moved out from the table"," ;小河沿路滂江街（站位位于小河沿路，C出入口向西南约120米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|118|225|292}}\n {{col-end}}"]]

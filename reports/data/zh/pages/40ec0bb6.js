@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",509,22,"'"]]
+window.data=[["invalid-css",384,22,"property value expected","#"],["invalid-css",384,41,"{ expected",";"],["lonely-apos",509,22,"lonely \"'\"","'"],["invalid-css",630,22,"property value expected","#"],["invalid-css",630,41,"{ expected",";"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",47,21,"plainrowheaders"]]
+window.data=[["invalid-css",13,71,"semi-colon expected",""],["invalid-css",13,71,"colon expected",""],["illegal-attr",47,21,"illegal attribute name","plainrowheaders"],["invalid-css",47,62,"} expected","\"\\N\""]]

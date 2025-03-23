@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",28,4,"illegal attribute name","table"],[2,"no-duplicate",132,67,"duplicated parameter","rowspan=3"]]
+window.data=[["illegal-attr",28,4,"illegal attribute name","table"],["no-duplicate",132,67,"duplicated parameter","rowspan=3"],["no-duplicate",132,98,"duplicated parameter","rowspan=3"]]

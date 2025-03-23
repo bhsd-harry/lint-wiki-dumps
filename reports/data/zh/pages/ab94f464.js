@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",67,35,"right]350px"]]
+window.data=[["no-duplicate",67,35,"duplicated image caption parameter","right]350px"],["no-duplicate",67,47,"duplicated image caption parameter","以麥卡托投影法繪製的地圖。"]]

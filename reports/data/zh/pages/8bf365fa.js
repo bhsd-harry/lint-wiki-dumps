@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,2,"[[Category:张姓|Huai]]"]]
+window.data=[["no-duplicate",20,2,"duplicated category","[[Category:张姓|Huai]]"],["no-duplicate",24,2,"duplicated category","[[Category:张姓]]"]]

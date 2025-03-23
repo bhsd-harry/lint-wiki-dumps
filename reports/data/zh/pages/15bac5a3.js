@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",186,3,"!width=90%"],[1,"unclosed-table",108,2,"{|"]]
+window.data=[["unclosed-table",108,2,"unclosed table","{|"],["no-ignored",186,3,"containing invalid attribute","!width=90%"]]

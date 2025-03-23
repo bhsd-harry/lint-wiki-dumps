@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",115,2,"[[Category:旧约经外书]]"]]
+window.data=[["no-duplicate",115,2,"duplicated category","[[Category:旧约经外书]]"],["no-duplicate",116,2,"duplicated category","[[Category:旧约经外书]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3," status_system = IUCN3.1\n "],[1,"unmatched-tag",8,73,"<small>"]]
+window.data=[["unmatched-tag",8,73,"unclosed tag","<small>"],["no-duplicate",5,3,"duplicated parameter"," status_system = IUCN3.1\n "],["no-duplicate",6,3,"duplicated parameter"," status_system = iucn3.1\n "]]

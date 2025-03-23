@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",46,2,"[[Category:1937年冲突]]"]]
+window.data=[["no-duplicate",46,2,"duplicated category","[[Category:1937年冲突]]"],["no-duplicate",46,22,"duplicated category","[[Category:1937年冲突]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",11,36,"duplicated image caption parameter","縮圖"]]
+window.data=[["no-duplicate",11,36,"duplicated image caption parameter","縮圖"],["no-duplicate",11,39,"duplicated image caption parameter","[[泰諾人]]喺[[波多黎各]]一個山洞入面刻嘅[[岩畫]]"],["no-duplicate",49,45,"duplicated image caption parameter","縮圖"],["no-duplicate",49,48,"duplicated image caption parameter","工業化帶嚟大規模人口湧入城市。呢個嚟自[[赫爾辛基]]嘅單間工人屋係19世紀末同20世紀初嘅典型住所，通常住住大家庭。"]]

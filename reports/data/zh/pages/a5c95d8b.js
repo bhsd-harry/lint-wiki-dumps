@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",142,2,"[[Category:台灣小說改編電視劇]]"]]
+window.data=[["no-duplicate",142,2,"duplicated category","[[Category:台灣小說改編電視劇]]"],["no-duplicate",146,2,"duplicated category","[[分類:台灣小說改編電視劇]]"]]

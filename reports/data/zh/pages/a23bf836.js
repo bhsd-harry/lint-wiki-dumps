@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",70,43,"ISBN"],[2,"no-duplicate",59,37,"Right"]]
+window.data=[["no-duplicate",59,37,"duplicated image caption parameter","Right"],["no-duplicate",59,43,"duplicated image caption parameter","得勝花園內的戰勝荷蘭紀念碑"],["lonely-http",70,43,"lonely \"ISBN\"","ISBN"]]

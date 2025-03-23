@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",113,2,"[[Category:臺灣特殊教育]]"]]
+window.data=[["no-duplicate",113,2,"duplicated category","[[Category:臺灣特殊教育]]"],["no-duplicate",125,2,"duplicated category","[[Category:臺灣特殊教育|D]]"]]

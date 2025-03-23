@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,57,"duplicated image caption parameter","Vinci Wong and Vernon Ma (5820607800)"]]
+window.data=[["no-duplicate",3,57,"duplicated image caption parameter","Vinci Wong and Vernon Ma (5820607800)"],["no-duplicate",3,95,"duplicated image caption parameter","王賢誌（左邊）"]]

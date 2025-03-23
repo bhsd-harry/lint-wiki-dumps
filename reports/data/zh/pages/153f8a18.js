@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,36,"450*600px"]]
+window.data=[["no-duplicate",9,36,"duplicated image caption parameter","450*600px"],["no-duplicate",9,50,"duplicated image caption parameter","在以色列的犹太教卡拉派会堂"]]

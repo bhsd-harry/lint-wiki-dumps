@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",107,2,"[[Category:俄罗斯画家]]"]]
+window.data=[["no-duplicate",107,2,"duplicated category","[[Category:俄罗斯画家]]"],["no-duplicate",110,2,"duplicated category","[[Category:俄罗斯画家]]"]]

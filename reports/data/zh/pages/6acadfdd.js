@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",59,686,"title=Fencer With Headscarf Is a Cut Above the Rest"]]
+window.data=[["no-duplicate",59,686,"duplicated parameter","title=Fencer With Headscarf Is a Cut Above the Rest"],["no-duplicate",59,738,"duplicated parameter","title=Fencer With Headscarf Is a Cut Above the Rest"]]

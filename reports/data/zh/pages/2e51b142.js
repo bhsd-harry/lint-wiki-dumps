@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",58,2,"[[Category:国际象棋特级大师]]"]]
+window.data=[["no-duplicate",58,2,"duplicated category","[[Category:国际象棋特级大师]]"],["no-duplicate",60,2,"duplicated category","[[Category:国际象棋特级大师]]"]]

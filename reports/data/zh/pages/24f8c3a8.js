@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",30,78,"vignet0te"]]
+window.data=[["no-duplicate",30,78,"duplicated image caption parameter","vignet0te"],["no-duplicate",30,88,"duplicated image caption parameter","亚美尼亚使徒教会巴黎主教座堂"]]

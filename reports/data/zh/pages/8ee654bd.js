@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",843,2,"[[Category:西班牙现代史]]"]]
+window.data=[["no-duplicate",843,2,"duplicated category","[[Category:西班牙现代史]]"],["no-duplicate",846,2,"duplicated category","[[Category:西班牙现代史]]"]]

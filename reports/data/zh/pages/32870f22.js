@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,3,"pushpin_map            = Canada#British Columbia\n "]]
+window.data=[["no-duplicate",37,3,"duplicated parameter","pushpin_map            = Canada#British Columbia\n "],["no-duplicate",40,3,"duplicated parameter","pushpin_map = Canada British Columbia\n "]]

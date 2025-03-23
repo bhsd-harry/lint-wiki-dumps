@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",156,35,"2006江门龙光塔_-_panoramio"]]
+window.data=[["no-duplicate",156,35,"duplicated image caption parameter","2006江门龙光塔_-_panoramio"],["no-duplicate",156,75,"duplicated image caption parameter","龙光塔"],["no-duplicate",175,43,"duplicated image caption parameter","广东省江门市大冶集团摩托车总装厂房_-_panoramio"],["no-duplicate",175,85,"duplicated image caption parameter","广东省江门市大冶集团"]]

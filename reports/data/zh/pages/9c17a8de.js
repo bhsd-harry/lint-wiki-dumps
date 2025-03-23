@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",887,2,"[[Category:河北高等院校]]"],[1,"no-ignored",831,3,"!width=\"28%\""]]
+window.data=[["no-ignored",831,3,"containing invalid attribute","!width=\"28%\""],["no-duplicate",887,2,"duplicated category","[[Category:河北高等院校]]"],["no-duplicate",888,2,"duplicated category","[[Category:河北高等院校|*]]"]]

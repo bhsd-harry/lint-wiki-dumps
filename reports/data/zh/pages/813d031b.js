@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",193,39,"Wuhan Metro Line 1 Bridge"]]
+window.data=[["no-duplicate",193,39,"duplicated image caption parameter","Wuhan Metro Line 1 Bridge"],["no-duplicate",193,77,"duplicated image caption parameter","1号线跨线大桥，其建设初衷便是为了横跨南场咽喉地带，但江岸南场在桥梁修建完成后旋即废止（2011年）"]]

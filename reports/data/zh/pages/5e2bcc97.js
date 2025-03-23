@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",120,2,"[[Category:英国和平主义者]]"]]
+window.data=[["no-duplicate",120,2,"duplicated category","[[Category:英国和平主义者]]"],["no-duplicate",128,2,"duplicated category","[[Category:英国和平主义者]]"]]

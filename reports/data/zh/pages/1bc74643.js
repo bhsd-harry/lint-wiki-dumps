@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",53,63,"thumb"],[1,"no-ignored",57,85,";text-align:center;\""]]
+window.data=[["no-duplicate",53,63,"duplicated image thumbnail parameter","thumb"],["no-duplicate",53,75,"duplicated image thumbnail parameter","thumb"],["no-ignored",57,85,"containing invalid attribute",";text-align:center;\""]]

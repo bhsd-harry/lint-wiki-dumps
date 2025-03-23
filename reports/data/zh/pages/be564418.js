@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",180,2,"[[Category:美國海軍航空站]]"]]
+window.data=[["no-duplicate",180,2,"duplicated category","[[Category:美國海軍航空站]]"],["no-duplicate",182,2,"duplicated category","[[Category:美國海軍航空站]]"],["no-duplicate",181,2,"duplicated category","[[Category:1940年代加利福尼亚州]]"],["no-duplicate",183,2,"duplicated category","[[Category:1940年代加利福尼亚州]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",635,32,"}}"],[2,"no-duplicate",107,24,"style=text-align:center;"]]
+window.data=[["invalid-css",107,70,"semi-colon expected",""],["invalid-css",107,64,"colon expected","="],["no-duplicate",107,24,"duplicated style attribute","style=text-align:center;"],["no-duplicate",107,49,"duplicated style attribute","style=font-size=small"],["lonely-bracket",635,32,"lonely \"}\"","}}"]]

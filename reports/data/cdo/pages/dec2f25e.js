@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,3,"duplicated parameter"," subclassis = [[寡毛亞綱]] Oligochaeta\n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter"," subclassis = [[寡毛亞綱]] Oligochaeta\n "],["no-duplicate",12,3,"duplicated parameter"," subclassis = [[單向蚓目]] Haplotaxida\n "]]

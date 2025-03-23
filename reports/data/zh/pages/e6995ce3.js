@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",118,62,"2006年4月13日，美国宇航局“勇气号”[[火星车]]拍摄的火星沙地和巨石。Image:PIA17062-MarsCuriosityRover-HottahRockOutcrop-20120915.jpg"]]
+window.data=[["no-duplicate",118,62,"duplicated image caption parameter","2006年4月13日，美国宇航局“勇气号”[[火星车]]拍摄的火星沙地和巨石。Image:PIA17062-MarsCuriosityRover-HottahRockOutcrop-20120915.jpg"],["no-duplicate",118,166,"duplicated image caption parameter","2012年9月12日，“[[好奇号]]”观察的“[[霍塔岩|霍塔]]”[[露头|岩石露头]]([http://photojournal.jpl.nasa.gov/figures/PIA16156_fig1.jpg 特写] {{Wayback|url=http://photojournal.jpl.n"]]

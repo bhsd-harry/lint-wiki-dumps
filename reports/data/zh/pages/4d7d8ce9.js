@@ -1,1 +1,1 @@
-window.data=[[3,"unmatched-tag",107,334,"</cite>"]]
+window.data=[["unmatched-tag",107,334,"unmatched closing tag","</cite>"],["unmatched-tag",107,355,"unmatched closing tag","</div>"],["unmatched-tag",107,361,"unmatched closing tag","</blockquote>"],["invalid-css",127,28,"semi-colon expected",":"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3,"native_title= Journal of Energy Chemistry\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter","native_title= Journal of Energy Chemistry\n "],["no-duplicate",10,3,"duplicated parameter","native_title= \n "]]

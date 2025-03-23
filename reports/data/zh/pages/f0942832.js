@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",201,2,"[[Category:可持續建築]]"]]
+window.data=[["no-duplicate",201,2,"duplicated category","[[Category:可持續建築]]"],["no-duplicate",206,2,"duplicated category","[[Category:可持續建築]]"],["no-duplicate",203,2,"duplicated category","[[Category:建筑工程]]"],["no-duplicate",208,2,"duplicated category","[[Category:建筑工程]]"]]

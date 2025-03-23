@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3," key_people = \n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter"," key_people = \n "],["no-duplicate",28,3,"duplicated parameter"," key_people = 詹瑞鵬<br/>總經理\n "]]

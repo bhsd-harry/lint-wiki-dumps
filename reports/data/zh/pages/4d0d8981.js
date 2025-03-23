@@ -1,1 +1,1 @@
-window.data=[[6,"no-ignored",356,131,"|ref "]]
+window.data=[["no-ignored",356,131,"containing invalid attribute","|ref "],["no-ignored",391,131,"containing invalid attribute","|ref "],["no-ignored",426,131,"containing invalid attribute","|ref "],["no-ignored",461,95,"containing invalid attribute","|ref "],["no-ignored",1792,135,"containing invalid attribute","|ref "],["no-ignored",1794,128,"containing invalid attribute","|ref "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",456,47,"安卡拉"]]
+window.data=[["no-duplicate",456,47,"duplicated image caption parameter","安卡拉"],["no-duplicate",456,51,"duplicated image caption parameter","安卡拉高速公路地圖"]]

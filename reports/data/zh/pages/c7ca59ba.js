@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",62,2,"[[Category:俄罗斯小说]]"]]
+window.data=[["no-duplicate",62,2,"duplicated category","[[Category:俄罗斯小说]]"],["no-duplicate",63,2,"duplicated category","[[Category:俄罗斯小说]]"]]

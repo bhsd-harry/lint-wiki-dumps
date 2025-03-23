@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",44,104,"{{"],[2,"no-duplicate",198,2,"[[Category:支持統一的台灣外省人]]"]]
+window.data=[["lonely-bracket",44,104,"lonely \"{\"","{{"],["no-duplicate",198,2,"duplicated category","[[Category:支持統一的台灣外省人]]"],["no-duplicate",207,2,"duplicated category","[[Category:支持統一的台灣外省人]]"]]

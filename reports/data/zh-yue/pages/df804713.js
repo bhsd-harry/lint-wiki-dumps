@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",28,18,"duplicated name attribute","name=<ref"],[2,"tag-like",28,23,"lonely \"<\"","<ref"]]
+window.data=[["tag-like",28,23,"lonely \"<\"","<ref"],["no-duplicate",28,18,"duplicated name attribute","name=<ref"],["no-duplicate",28,28,"duplicated name attribute","name=ISO8485"],["tag-like",28,362,"lonely \"<\"","<ref"],["no-duplicate",28,357,"duplicated name attribute","name=<ref"],["no-duplicate",28,367,"duplicated name attribute","name=ISO8485"]]

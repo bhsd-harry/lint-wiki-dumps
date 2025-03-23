@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,2,"[[Category:澳大利亚女性政治人物|*]]"]]
+window.data=[["no-duplicate",25,2,"duplicated category","[[Category:澳大利亚女性政治人物|*]]"],["no-duplicate",26,2,"duplicated category","[[Category:澳大利亚女性政治人物|*]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",71,2,"[[Category:委內瑞拉鳥類]]"]]
+window.data=[["no-duplicate",71,2,"duplicated category","[[Category:委內瑞拉鳥類]]"],["no-duplicate",76,2,"duplicated category","[[Category:委內瑞拉鳥類]]"],["no-duplicate",75,2,"duplicated category","[[Category:秘魯鳥類]]"],["no-duplicate",77,2,"duplicated category","[[Category:秘魯鳥類]]"]]

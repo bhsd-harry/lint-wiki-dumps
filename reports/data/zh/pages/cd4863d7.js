@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",70,2,"[[Category:中国题材书籍]]"]]
+window.data=[["no-duplicate",70,2,"duplicated category","[[Category:中国题材书籍]]"],["no-duplicate",73,2,"duplicated category","[[Category:中国题材书籍]]"]]

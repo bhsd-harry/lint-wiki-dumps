@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,2,"[[Category:中華民國攝影師]]"]]
+window.data=[["no-duplicate",27,2,"duplicated category","[[Category:中華民國攝影師]]"],["no-duplicate",30,2,"duplicated category","[[Category:中華民國攝影師]]"]]

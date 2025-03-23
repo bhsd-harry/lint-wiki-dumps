@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",77,52,"valign=top"]]
+window.data=[["no-duplicate",77,52,"duplicated valign attribute","valign=top"],["no-duplicate",77,63,"duplicated valign attribute","valign=top"]]

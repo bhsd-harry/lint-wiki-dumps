@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,3," majority = 1,341（2008）\n "]]
+window.data=[["no-duplicate",17,3,"duplicated parameter"," majority = 1,341（2008）\n "],["no-duplicate",24,3,"duplicated parameter"," majority = 616（2004）\n "]]

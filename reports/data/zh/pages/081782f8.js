@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",81,2,"[[Category:俄国临时政府部长]]"]]
+window.data=[["no-duplicate",81,2,"duplicated category","[[Category:俄国临时政府部长]]"],["no-duplicate",84,2,"duplicated category","[[Category:俄国临时政府部长]]"]]

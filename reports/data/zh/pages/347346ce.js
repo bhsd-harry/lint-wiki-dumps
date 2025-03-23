@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",278,1," ===個人單曲==="]]
+window.data=[["fostered-content",278,1,"content to be moved out from the table"," ===個人單曲==="],["fostered-content",334,1,"content to be moved out from the table"," ===NCT歌曲==="]]

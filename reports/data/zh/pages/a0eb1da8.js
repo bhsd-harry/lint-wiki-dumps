@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",19,27,"align"],[1,"no-ignored",35,1," <ref name=UNASUR/>"]]
+window.data=[["illegal-attr",19,27,"illegal attribute name","align"],["illegal-attr",27,27,"illegal attribute name","align"],["no-ignored",35,1,"invalid content in <gallery>"," <ref name=UNASUR/>"]]

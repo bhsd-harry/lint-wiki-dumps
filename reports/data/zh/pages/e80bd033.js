@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",254,2,"[[Category:东南英格兰港湾城镇]]"]]
+window.data=[["no-duplicate",254,2,"duplicated category","[[Category:东南英格兰港湾城镇]]"],["no-duplicate",258,2,"duplicated category","[[Category:东南英格兰港湾城镇]]"],["no-duplicate",256,2,"duplicated category","[[Category:英格蘭的單一管理區地方]]"],["no-duplicate",257,2,"duplicated category","[[Category:英格蘭的單一管理區地方]]"]]

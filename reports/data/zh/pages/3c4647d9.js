@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",67,46,"RIGHT"]]
+window.data=[["no-duplicate",67,46,"duplicated image caption parameter","RIGHT"],["no-duplicate",67,52,"duplicated image caption parameter","諾曼第級的描繪圖"]]

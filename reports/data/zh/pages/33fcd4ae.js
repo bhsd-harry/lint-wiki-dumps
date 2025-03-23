@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",235,2,"[[Category:DC漫畫改編電視劇]]"]]
+window.data=[["no-duplicate",235,2,"duplicated category","[[Category:DC漫畫改編電視劇]]"],["no-duplicate",241,2,"duplicated category","[[Category:DC漫畫改編電視劇]]"]]

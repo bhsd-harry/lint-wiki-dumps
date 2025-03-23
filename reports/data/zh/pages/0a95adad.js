@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",680,3,"神奈川・横浜アリーナ"]]
+window.data=[["no-ignored",680,3,"containing invalid attribute","神奈川・横浜アリーナ"]]

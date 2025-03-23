@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,11,"mode=center"]]
+window.data=[["no-duplicate",27,11,"duplicated mode attribute","mode=center"],["no-duplicate",27,23,"duplicated mode attribute","mode=packed"]]

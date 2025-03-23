@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",72,16,"[https://web.archive.org/web/20121116203712/http://www.emailvision.cn/news-events/press-releases/emailvision-acquires-predictiveintent Emailvision acq"]]
+window.data=[["no-ignored",72,16,"invalid content in <references>","[https://web.archive.org/web/20121116203712/http://www.emailvision.cn/news-events/press-releases/emailvision-acquires-predictiveintent Emailvision acq"],["no-ignored",73,16,"invalid content in <references>","[https://web.archive.org/web/20121105091038/http://www.emailvision.cn/office-locations 邮景全球分公司]"]]

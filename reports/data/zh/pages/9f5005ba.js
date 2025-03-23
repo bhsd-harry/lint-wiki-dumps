@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",38,542,"xml:lang"],[1,"no-ignored",38,512,"; font-size:125%;' "]]
+window.data=[["illegal-attr",38,542,"illegal attribute name","xml:lang"],["no-ignored",38,512,"containing invalid attribute","; font-size:125%;' "]]

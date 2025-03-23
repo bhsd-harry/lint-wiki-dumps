@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3,"车站位置 = [[河北省]][[唐山市]][[滦州市]]\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","车站位置 = [[河北省]][[唐山市]][[滦州市]]\n "],["no-duplicate",14,3,"duplicated parameter","车站位置 = [[河北省]][[唐山市]][[滦州市]]\n "]]

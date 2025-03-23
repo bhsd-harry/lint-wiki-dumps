@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",64,1," * 总合生活设计学科\n * 幼儿教育科\n * 美术科　"],[1,"lonely-apos",22,318,"'"]]
+window.data=[["lonely-apos",22,318,"lonely \"'\"","'"],["fostered-content",64,1,"content to be moved out from the table"," * 总合生活设计学科\n * 幼儿教育科\n * 美术科　"],["fostered-content",98,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]：前比治山女子短期大学附属[[幼稚園|幼儿园]]成立于1968年<ref name=\"短期大学的历史\"/>"]]

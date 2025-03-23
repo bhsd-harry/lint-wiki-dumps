@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,43,"Right"]]
+window.data=[["no-duplicate",21,43,"duplicated image caption parameter","Right"],["no-duplicate",21,49,"duplicated image caption parameter","两个可能的受浸地点"]]

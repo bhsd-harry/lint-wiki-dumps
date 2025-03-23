@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",595,2,"}}"],[2,"no-duplicate",582,4," ISBN    = 978-4-08-874473-5\n  "],[1,"tag-like",599,20,"<ref"]]
+window.data=[["lonely-bracket",595,2,"lonely \"}\"","}}"],["lonely-bracket",596,2,"lonely \"{\"","{{"],["tag-like",599,20,"lonely \"<\"","<ref"],["no-duplicate",582,4,"duplicated parameter"," ISBN    = 978-4-08-874473-5\n  "],["no-duplicate",600,4,"duplicated parameter"," ISBN    = 978-4-08-874494-0\n  "]]

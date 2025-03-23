@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",10,31,"px"]]
+window.data=[["no-duplicate",10,31,"duplicated image caption parameter","px"],["no-duplicate",10,40,"duplicated image caption parameter","标注有西绪福斯山脉及其他周边特征位置的地图"],["no-duplicate",11,35,"duplicated image caption parameter","px"],["no-duplicate",11,44,"duplicated image caption parameter","平顶火山背景相机图片——一座在冰层下喷发的火山。"]]

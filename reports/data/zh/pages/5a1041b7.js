@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",166,114,"[[IPCC Sixth Assessment Report]]"]]
+window.data=[["nested-link",166,114,"internal link in an external link","[[IPCC Sixth Assessment Report]]"]]

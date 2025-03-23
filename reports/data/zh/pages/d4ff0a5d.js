@@ -1,1 +1,1 @@
-window.data=[[1,"unescaped",1429,369,"="]]
+window.data=[["invalid-css",11,69,"property value expected",";"],["invalid-css",790,50,"property value expected",";"],["unescaped",1429,369,"unescaped query string in an anonymous parameter","="]]

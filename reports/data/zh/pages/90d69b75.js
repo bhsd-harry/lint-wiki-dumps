@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,2,"[[Category:2010年代庭审]]"]]
+window.data=[["no-duplicate",13,2,"duplicated category","[[Category:2010年代庭审]]"],["no-duplicate",14,2,"duplicated category","[[Category:2010年代庭审]]"]]

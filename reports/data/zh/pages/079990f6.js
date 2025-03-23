@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",78,46,"Right"]]
+window.data=[["no-duplicate",78,46,"duplicated image caption parameter","Right"],["no-duplicate",78,52,"duplicated image caption parameter","尼古拉斯於2011年在[[圣地亚哥国际动漫展]]。"]]

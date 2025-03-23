@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",42,30,"wikitable"],[1,"no-ignored",42,39," sortable\"  "]]
+window.data=[["illegal-attr",42,30,"illegal attribute name","wikitable"],["no-ignored",42,39,"containing invalid attribute"," sortable\"  "]]

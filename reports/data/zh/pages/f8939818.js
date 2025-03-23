@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",72,2,"[[Category:虛構獨裁者]]"]]
+window.data=[["no-duplicate",72,2,"duplicated category","[[Category:虛構獨裁者]]"],["no-duplicate",78,2,"duplicated category","[[Category:虛構獨裁者]]"],["no-duplicate",74,2,"duplicated category","[[Category:外星超級反派|T]]"],["no-duplicate",80,2,"duplicated category","[[Category:外星超級反派|T]]"],["no-duplicate",75,2,"duplicated category","[[Category:漫威漫畫超級反派|T]]"],["no-duplicate",81,2,"duplicated category","[[Category:漫威漫畫超級反派|T]]"]]

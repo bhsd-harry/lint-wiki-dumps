@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",59,111,"ISBN 83-206-0529-0"],[3,"parsing-order",14,24,"<br/>"]]
+window.data=[["parsing-order",14,24,"HTML tag in table attributes","<br/>"],["parsing-order",14,36,"HTML tag in table attributes","<br/>"],["parsing-order",16,23,"extension tag in HTML tag attributes","<ref name=nemecek>Vaclav Nemecek, ''Atlas letadel. Dvoumotorova obchodni letadla'', Praha 1987</ref>"],["invalid-isbn",59,111,"invalid ISBN","ISBN 83-206-0529-0"]]

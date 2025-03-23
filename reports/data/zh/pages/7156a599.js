@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",69,2,"[[Category:密苏里州城市]]"]]
+window.data=[["no-duplicate",69,2,"duplicated category","[[Category:密苏里州城市]]"],["no-duplicate",73,2,"duplicated category","[[Category:密苏里州城市]]"]]

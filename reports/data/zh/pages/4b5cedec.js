@@ -1,1 +1,1 @@
-window.data=[[3,"nested-link",110,119,"[[密西沙加]]"]]
+window.data=[["nested-link",110,119,"internal link in an external link","[[密西沙加]]"],["nested-link",110,128,"internal link in an external link","[[賓頓]]"],["nested-link",110,135,"internal link in an external link","[[約克區]]"]]

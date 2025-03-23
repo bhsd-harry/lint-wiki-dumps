@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",52,1," * 人类生活学科\n * 食物栄养学科：有两个课程即｢营养管理｣和｢营养调理｣\n * [[醫檢師|临床检查]]学科"]]
+window.data=[["fostered-content",52,1,"content to be moved out from the table"," * 人类生活学科\n * 食物栄养学科：有两个课程即｢营养管理｣和｢营养调理｣\n * [[醫檢師|临床检查]]学科"],["fostered-content",78,1,"content to be moved out from the table"," * 山阳女子短期大学附属[[幼稚園|幼儿园]]：成立于1968年<ref name=\"短期大学的历史\"/>"]]

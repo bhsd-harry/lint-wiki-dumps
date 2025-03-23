@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",151,2,"[[Category:拉合爾]]"]]
+window.data=[["no-duplicate",151,2,"duplicated category","[[Category:拉合爾]]"],["no-duplicate",153,2,"duplicated category","[[Category:拉合爾]]"]]

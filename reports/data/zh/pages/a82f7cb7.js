@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",166,4,"中川典子 前田亞季  七原秋也的女友 "]]
+window.data=[["no-ignored",166,4,"containing invalid attribute","中川典子 前田亞季  七原秋也的女友 "]]

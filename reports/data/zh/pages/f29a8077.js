@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,3," first                = 2021-22年\n "],[2,"unmatched-tag",97,102,"</span>"]]
+window.data=[["no-duplicate",14,3,"duplicated parameter"," first                = 2021-22年\n "],["no-duplicate",23,3,"duplicated parameter"," first            = 2021–22\n "],["unmatched-tag",97,102,"unmatched closing tag","</span>"],["unmatched-tag",98,91,"unmatched closing tag","</span>"]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",29,2,"[[Category:襄阳人]]"]]
+window.data=[["no-duplicate",29,2,"duplicated category","[[Category:襄阳人]]"],["no-duplicate",30,2,"duplicated category","[[Category:襄阳人]]"],["no-duplicate",31,2,"duplicated category","[[Category:滬江大學校友]]"],["no-duplicate",32,2,"duplicated category","[[Category:滬江大學校友]]"],["no-duplicate",37,2,"duplicated category","[[Category:中華民國總統府國策顧問]]"],["no-duplicate",39,2,"duplicated category","[[Category:中華民國總統府國策顧問]]"]]

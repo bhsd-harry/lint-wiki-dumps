@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",53,2,"[[Category:用Perl编程的自由软件]]"]]
+window.data=[["no-duplicate",53,2,"duplicated category","[[Category:用Perl编程的自由软件]]"],["no-duplicate",56,2,"duplicated category","[[Category:用Perl编程的自由软件]]"],["no-duplicate",58,2,"duplicated category","[[Category:缺陷和问题跟踪软件]]"],["no-duplicate",59,2,"duplicated category","[[Category:缺陷和问题跟踪软件]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",497,2,"[[Category:搞笑漫畫]]"]]
+window.data=[["no-duplicate",497,2,"duplicated category","[[Category:搞笑漫畫]]"],["no-duplicate",505,2,"duplicated category","[[Category:搞笑漫畫]]"]]

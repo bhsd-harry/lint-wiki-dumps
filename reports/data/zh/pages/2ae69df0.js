@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",62,2,"[[Category:國家體育場]]"]]
+window.data=[["no-duplicate",62,2,"duplicated category","[[Category:國家體育場]]"],["no-duplicate",64,2,"duplicated category","[[Category:國家體育場|Gibraltar]]"]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",51,2,"[[Category:OpenAI]]"]]
+window.data=[["no-duplicate",51,2,"duplicated category","[[Category:OpenAI]]"],["no-duplicate",54,2,"duplicated category","[[Category:OpenAI]]"],["no-duplicate",56,2,"duplicated category","[[Category:大型语言模型]]"],["no-duplicate",58,2,"duplicated category","[[Category:大型语言模型]]"],["no-duplicate",57,2,"duplicated category","[[Category:2024年软件]]"],["no-duplicate",59,2,"duplicated category","[[Category:2024年软件]]"]]

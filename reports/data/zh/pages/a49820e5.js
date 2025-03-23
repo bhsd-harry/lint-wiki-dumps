@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",48,71,"Right"]]
+window.data=[["no-duplicate",48,71,"duplicated image caption parameter","Right"],["no-duplicate",48,83,"duplicated image caption parameter","2017年，沙瑪和丈夫在孟買的婚禮招待會上。"]]

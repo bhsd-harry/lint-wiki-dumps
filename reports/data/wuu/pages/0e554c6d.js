@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,3,"duplicated parameter"," census yr = 2011\n "]]
+window.data=[["no-duplicate",27,3,"duplicated parameter"," census yr = 2011\n "],["no-duplicate",29,3,"duplicated parameter"," census yr = 2010普查\n "]]

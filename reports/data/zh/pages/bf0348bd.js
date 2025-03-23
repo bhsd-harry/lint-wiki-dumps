@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,31,"Dalian 515 BYD K7"]]
+window.data=[["no-duplicate",22,31,"duplicated image caption parameter","Dalian 515 BYD K7"],["no-duplicate",22,59,"duplicated image caption parameter","綠色電動車的全國推廣"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",49,1," * 经营科[[夜校|第二部]]\n * 贸易科[[夜校|第二部]]"]]
+window.data=[["fostered-content",49,1,"content to be moved out from the table"," * 经营科[[夜校|第二部]]\n * 贸易科[[夜校|第二部]]"]]

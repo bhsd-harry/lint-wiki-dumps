@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,2,"[[Category:北京司法史]]"]]
+window.data=[["no-duplicate",16,2,"duplicated category","[[Category:北京司法史]]"],["no-duplicate",21,2,"duplicated category","[[Category:北京司法史]]"]]

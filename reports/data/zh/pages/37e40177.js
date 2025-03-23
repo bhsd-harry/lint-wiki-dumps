@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",55,43,"thumb"]]
+window.data=[["no-duplicate",55,43,"duplicated image thumbnail parameter","thumb"],["no-duplicate",55,76,"duplicated image thumbnail parameter","thumb"],["no-duplicate",55,49,"duplicated image caption parameter","米蘭陳列室中——四踏板版本的Fazioli F308"],["no-duplicate",55,94,"duplicated image caption parameter",""]]

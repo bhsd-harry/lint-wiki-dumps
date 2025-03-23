@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",36,4,"align=center"]]
+window.data=[["no-duplicate",36,4,"duplicated align attribute","align=center"],["no-duplicate",36,17,"duplicated align attribute","ALIGN=\"center\""]]

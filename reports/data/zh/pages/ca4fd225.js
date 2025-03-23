@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",1579,37,"ISBN 9787533617121"],[4,"no-duplicate",42,4,"colspan= bgcolor=\"#efefef\""]]
+window.data=[["no-duplicate",42,4,"duplicated colspan attribute","colspan= bgcolor=\"#efefef\""],["no-duplicate",42,78,"duplicated colspan attribute","colspan=\"6\""],["no-duplicate",675,4,"duplicated colspan attribute","colspan= bgcolor=\"#efefef\""],["no-duplicate",675,78,"duplicated colspan attribute","colspan=\"6\""],["invalid-isbn",1579,37,"invalid ISBN","ISBN 9787533617121"]]

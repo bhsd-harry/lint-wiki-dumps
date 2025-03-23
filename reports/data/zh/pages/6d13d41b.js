@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",36,40,"Right"]]
+window.data=[["no-duplicate",36,40,"duplicated image caption parameter","Right"],["no-duplicate",36,52,"duplicated image caption parameter","正在採集花粉的[[蜜蜂]]"],["no-duplicate",54,42,"duplicated image caption parameter","Right"],["no-duplicate",54,48,"duplicated image caption parameter","一隻在蜜蜂幼蟲上的[[瓦蟎]]"]]

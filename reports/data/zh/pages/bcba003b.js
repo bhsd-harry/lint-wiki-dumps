@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",221,3,"widrh"],[2,"no-duplicate",396,43,"467.986x467.986像素"],[1,"unmatched-tag",18,89,"</span>"]]
+window.data=[["unmatched-tag",18,89,"unmatched closing tag","</span>"],["illegal-attr",221,3,"illegal attribute name","widrh"],["no-duplicate",396,43,"duplicated image caption parameter","467.986x467.986像素"],["no-duplicate",396,61,"duplicated image caption parameter","淡水站三出口附近的淡水河之淡水夕陽觀景區中河濱公園某廣場眺整去星巴克店"]]

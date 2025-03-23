@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,3," format         = 8cm [[單曲|單曲CD]]<br/>[[單曲]] (再發售)\n "]]
+window.data=[["no-duplicate",7,3,"duplicated parameter"," format         = 8cm [[單曲|單曲CD]]<br/>[[單曲]] (再發售)\n "],["no-duplicate",11,3,"duplicated parameter"," format         = {{Hlist-comma|[[Mini CD|8cm]][[單曲]]|[[卡式錄音帶|單曲卡帶]]|[[單曲|Maxi Single]] (再發售)}}\n "]]

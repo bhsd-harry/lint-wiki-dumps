@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",137,80,"text-align:"],[2,"no-ignored",137,69,"width:70%; "]]
+window.data=[["invalid-css",137,55,"semi-colon expected",":"],["illegal-attr",137,80,"illegal attribute name","text-align:"],["no-ignored",137,69,"containing invalid attribute","width:70%; "],["no-ignored",137,91,"containing invalid attribute"," center\""]]

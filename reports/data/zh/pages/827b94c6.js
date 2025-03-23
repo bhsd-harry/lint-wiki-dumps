@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",204,2,"[[Category:奧地利天主教徒]]"]]
+window.data=[["no-duplicate",204,2,"duplicated category","[[Category:奧地利天主教徒]]"],["no-duplicate",205,2,"duplicated category","[[Category:奧地利天主教徒]]"]]

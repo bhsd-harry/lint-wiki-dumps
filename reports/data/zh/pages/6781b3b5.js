@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",155,2,"[[Category:克里米亚政治史]]"]]
+window.data=[["no-duplicate",155,2,"duplicated category","[[Category:克里米亚政治史]]"],["no-duplicate",157,2,"duplicated category","[[Category:克里米亚政治史]]"]]

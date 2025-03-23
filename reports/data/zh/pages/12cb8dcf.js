@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",62,2,"[[Category:CS1 uses Japanese-language script (ja)]]"]]
+window.data=[["no-duplicate",62,2,"duplicated category","[[Category:CS1 uses Japanese-language script (ja)]]"],["no-duplicate",80,2,"duplicated category","[[Category:CS1 uses Japanese-language script (ja)]]"],["no-duplicate",63,2,"duplicated category","[[Category:CS1 Japanese-language sources (ja)]]"],["no-duplicate",81,2,"duplicated category","[[Category:CS1 Japanese-language sources (ja)]]"]]

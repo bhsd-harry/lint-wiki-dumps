@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",4,3,"duplicated parameter"," status = \n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter"," status = \n "],["no-duplicate",15,3,"duplicated parameter"," status = \n "],["no-duplicate",5,3,"duplicated parameter"," status_system = \n "],["no-duplicate",16,3,"duplicated parameter"," status_system =\n "],["no-duplicate",24,3,"duplicated parameter","演化支=\t[[被子植物]] Angiosperms\n "],["no-duplicate",25,3,"duplicated parameter","演化支=\t[[單子葉植物]] Monocots\n "]]

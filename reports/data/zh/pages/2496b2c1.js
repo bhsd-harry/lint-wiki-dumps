@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3,"office          = {{le|哈薩克國務部部長|State Secretary of Kazakhstan}}\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","office          = {{le|哈薩克國務部部長|State Secretary of Kazakhstan}}\n "],["no-duplicate",11,3,"duplicated parameter","office          = [[阿拉木圖州]]州長\n "]]

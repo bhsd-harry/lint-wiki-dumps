@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",59,1," File:01Sauvage26rueVavin.JPG{{link-en|亨利·索維奇|Henri_Sauvage}}設計的階梯式鋼筋混凝土公寓樓，巴黎（1912-1914年）"]]
+window.data=[["no-ignored",59,1,"invalid content in <gallery>"," File:01Sauvage26rueVavin.JPG{{link-en|亨利·索維奇|Henri_Sauvage}}設計的階梯式鋼筋混凝土公寓樓，巴黎（1912-1914年）"],["no-ignored",144,1,"invalid content in <gallery>"," File:Einsteinturm 7443.jpg[[愛因斯坦塔]]，[[埃里希·门德尔松]]，該建築本應由鋼筋混凝土建造，但由於技術問題，最終改用傳統材料並覆蓋石膏。(1920–24年)"]]

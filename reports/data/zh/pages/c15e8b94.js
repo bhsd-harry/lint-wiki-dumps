@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",117,2,"[[Category:波斯尼亞和黑塞哥維那波士尼亞克人]]"]]
+window.data=[["no-duplicate",117,2,"duplicated category","[[Category:波斯尼亞和黑塞哥維那波士尼亞克人]]"],["no-duplicate",140,2,"duplicated category","[[Category:波斯尼亞和黑塞哥維那波士尼亞克人]]"]]

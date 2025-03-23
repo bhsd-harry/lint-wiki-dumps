@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",20,3," channel = [[華視]]、[[東森超視]]\n "]]
+window.data=[["no-duplicate",20,3,"duplicated parameter"," channel = [[華視]]、[[東森超視]]\n "],["no-duplicate",23,3,"duplicated parameter"," channel = [[華視]]、[[東森超視]]\n "],["no-duplicate",22,3,"duplicated parameter"," first_run = {{ROC-TWN}}\n "],["no-duplicate",24,3,"duplicated parameter"," first_run = {{TWN}}\n "]]

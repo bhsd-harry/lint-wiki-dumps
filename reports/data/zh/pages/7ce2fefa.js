@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",15,30,"[[["],[2,"no-duplicate",65,2,"[[Category:相模國出身人物]]"]]
+window.data=[["lonely-bracket",15,30,"lonely \"[\"","[[["],["lonely-bracket",15,35,"lonely \"]\"","]]"],["no-duplicate",65,2,"duplicated category","[[Category:相模國出身人物]]"],["no-duplicate",71,2,"duplicated category","[[Category:相模國出身人物]]"]]

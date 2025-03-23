@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",150,35,"A pillory in the city of Elvas"]]
+window.data=[["no-duplicate",150,35,"duplicated image caption parameter","A pillory in the city of Elvas"],["no-duplicate",150,66,"duplicated image caption parameter","埃尔瓦什市内的一个{{link-en|颈手枷|Pillory}}"],["no-duplicate",152,25,"duplicated image caption parameter","Typical features"],["no-duplicate",152,42,"duplicated image caption parameter","典型街景"],["no-duplicate",154,28,"duplicated image caption parameter","City walls"],["no-duplicate",154,39,"duplicated image caption parameter","城墙遗迹"]]

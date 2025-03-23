@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",245,57,"hungarysingle\""]]
+window.data=[["no-ignored",245,57,"containing invalid attribute","hungarysingle\""],["no-ignored",248,40,"containing invalid attribute","hungarystream\""]]

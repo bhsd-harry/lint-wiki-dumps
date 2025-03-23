@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",3,215,"duplicated image caption parameter","300*300px"]]
+window.data=[["no-duplicate",3,215,"duplicated image caption parameter","300*300px"],["no-duplicate",3,241,"duplicated image caption parameter","唐洛陽條坊"],["no-duplicate",25,23,"duplicated image caption parameter","100*100px"],["no-duplicate",25,48,"duplicated image caption parameter","洛陽遷異"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",24,2,"[[Category:在中華民國的德國人 (1949年前)]]"]]
+window.data=[["no-duplicate",24,2,"duplicated category","[[Category:在中華民國的德國人 (1949年前)]]"],["no-duplicate",31,2,"duplicated category","[[Category:在中華民國的德國人 (1949年前)]]"]]

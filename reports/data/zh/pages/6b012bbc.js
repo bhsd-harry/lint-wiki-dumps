@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,3,"俄羅斯\n "]]
+window.data=[["no-duplicate",7,3,"duplicated parameter","俄羅斯\n "],["no-duplicate",3,3,"duplicated parameter","1=zh:卡拉卡爾帕克斯坦共和國;zh-hans:卡拉卡尔帕克斯坦共和国;zh-hant:卡拉卡爾帕克共和國;\n "]]

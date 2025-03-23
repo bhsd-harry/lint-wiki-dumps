@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",166,2,"[[Category:肯尼迪中心荣誉奖得主]]"]]
+window.data=[["no-duplicate",166,2,"duplicated category","[[Category:肯尼迪中心荣誉奖得主]]"],["no-duplicate",201,2,"duplicated category","[[Category:肯尼迪中心荣誉奖得主]]"],["no-duplicate",178,2,"duplicated category","[[Category:金球獎終身成就獎獲得者]]"],["no-duplicate",200,2,"duplicated category","[[Category:金球獎終身成就獎獲得者]]"],["no-duplicate",195,2,"duplicated category","[[Category:總統自由勳章獲得者]]"],["no-duplicate",205,2,"duplicated category","[[Category:總統自由勳章獲得者]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,37,"中"]]
+window.data=[["no-duplicate",65,37,"duplicated image caption parameter","中"],["no-duplicate",65,39,"duplicated image caption parameter","總統、立法院長與其他政要於入火安座時致贈予賀聖宮之匾額"]]

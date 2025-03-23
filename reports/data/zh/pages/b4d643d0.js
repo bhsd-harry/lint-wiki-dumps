@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-http",235,28,"ISBN"],[1,"no-ignored",126,44,"  font-weight:bold;color:ForestGreen\"  "]]
+window.data=[["invalid-css",26,18,"property value expected","#10dded6"],["invalid-css",58,18,"property value expected","#10dded6"],["no-ignored",126,44,"containing invalid attribute","  font-weight:bold;color:ForestGreen\"  "],["lonely-http",235,28,"lonely \"ISBN\"","ISBN"],["lonely-http",236,72,"lonely \"ISBN\"","ISBN"]]

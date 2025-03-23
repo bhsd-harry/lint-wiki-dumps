@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3,"nation = "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","nation = "],["no-duplicate",10,13,"duplicated parameter","nation = {{flag icon|ROC|1912}}→{{ROC-1928}}\n "]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",345,112,"thumb"]]
+window.data=[["no-duplicate",345,112,"duplicated image thumbnail parameter","thumb"],["no-duplicate",345,244,"duplicated image thumbnail parameter","thumb"],["no-duplicate",345,118,"duplicated image caption parameter","Election map of the 2012 Hong Kong Legislative Council Election in District Council (Second) functional constituency by party"],["no-duplicate",345,260,"duplicated image caption parameter","區議會（第二）功能界別得票分佈"]]

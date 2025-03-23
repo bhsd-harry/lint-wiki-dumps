@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",12,2,"[[Category:寄生虫]]"]]
+window.data=[["no-duplicate",12,2,"duplicated category","[[Category:寄生虫]]"],["no-duplicate",13,18,"duplicated category","[[Category:寄生虫]]"],["no-duplicate",13,2,"duplicated category","[[Category:生物学]]"],["no-duplicate",13,34,"duplicated category","[[Category:生物学]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",43,24,"duplicated style attribute","style=\"text-align:center\""],[1,"no-ignored",1047,33,"attributes of a closing tag"," color"]]
+window.data=[["no-duplicate",43,24,"duplicated style attribute","style=\"text-align:center\""],["no-duplicate",43,73,"duplicated style attribute","style=\"font-size:95%;\""],["no-duplicate",90,24,"duplicated style attribute","style=\"text-align:center\""],["no-duplicate",90,73,"duplicated style attribute","style=\"font-size:95%;\""],["no-ignored",1047,33,"attributes of a closing tag"," color"]]

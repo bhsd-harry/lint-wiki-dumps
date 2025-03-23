@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",24,1896,"internal link in an external link","[[紐約時報]]"],[1,"tag-like",27,27,"lonely \"<\"","<ref"]]
+window.data=[["nested-link",24,1896,"internal link in an external link","[[紐約時報]]"],["tag-like",27,27,"lonely \"<\"","<ref"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,87,"duplicated image caption parameter","Alignment=\"super\""]]
+window.data=[["no-duplicate",13,87,"duplicated image caption parameter","Alignment=\"super\""],["no-duplicate",13,105,"duplicated image caption parameter","武漢始發其二十條最繁忙其國際航線上其每芘國家共地區對抗傳染病其脆弱性指数（数值越嫩就越脆弱）"]]

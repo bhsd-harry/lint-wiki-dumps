@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,2,"[[Category:牛津布鲁克斯大学校友]]"]]
+window.data=[["no-duplicate",11,2,"duplicated category","[[Category:牛津布鲁克斯大学校友]]"],["no-duplicate",12,2,"duplicated category","[[Category:牛津布鲁克斯大学校友]]"]]

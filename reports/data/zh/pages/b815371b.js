@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",368,4,"rowspan"]]
+window.data=[["invalid-css",344,40,"property value expected","#gold"],["illegal-attr",368,4,"illegal attribute name","rowspan"]]

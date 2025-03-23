@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",83,515,"["],[2,"no-duplicate",264,2,"[[Category:週期彗星]]"],[1,"unescaped",83,609,"="]]
+window.data=[["lonely-bracket",83,515,"lonely \"[\"","["],["unescaped",83,609,"unescaped query string in an anonymous parameter","="],["no-duplicate",264,2,"duplicated category","[[Category:週期彗星]]"],["no-duplicate",269,2,"duplicated category","[[Category:週期彗星]]"]]

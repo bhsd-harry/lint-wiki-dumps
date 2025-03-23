@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",96,355,"date=[[人民日报]]"]]
+window.data=[["no-duplicate",96,355,"duplicated parameter","date=[[人民日报]]"],["no-duplicate",96,369,"duplicated parameter","date=1978-05-25"]]

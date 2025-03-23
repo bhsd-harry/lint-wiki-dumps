@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",91,3,"{{Party shading/Independent}}\"   "]]
+window.data=[["no-ignored",91,3,"containing invalid attribute","{{Party shading/Independent}}\"   "]]

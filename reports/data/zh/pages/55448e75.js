@@ -1,1 +1,1 @@
-window.data=[[3,"nested-link",38,441,"[[立法委員]]"]]
+window.data=[["nested-link",38,441,"internal link in an external link","[[立法委員]]"],["nested-link",38,449,"internal link in an external link","[[鄭寶清]]"],["nested-link",40,1096,"internal link in an external link","[[高雄市]]"]]

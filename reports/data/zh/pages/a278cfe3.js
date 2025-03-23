@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",47,2,"[[Category:弗利-切塞納省市鎮|R]]"]]
+window.data=[["no-duplicate",47,2,"duplicated category","[[Category:弗利-切塞納省市鎮|R]]"],["no-duplicate",48,2,"duplicated category","[[Category:弗利-切塞納省市鎮]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",34,2,"[[Category:松鲷属|松鲷]]"]]
+window.data=[["no-duplicate",34,2,"duplicated category","[[Category:松鲷属|松鲷]]"],["no-duplicate",35,2,"duplicated category","[[Category:松鲷属|surinamensis]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",415,22,"Right"]]
+window.data=[["no-duplicate",415,22,"duplicated image caption parameter","Right"],["no-duplicate",415,34,"duplicated image caption parameter","產生抗藥性的金黃色葡萄球菌的電子顯微圖"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,28,"500px,px"]]
+window.data=[["no-duplicate",1,28,"duplicated image caption parameter","500px,px"],["no-duplicate",1,43,"duplicated image caption parameter","永久割讓：塔拉帕卡大區（黃色）<br>  暫時託管：塔納克省（紫色）及阿里卡省（綠色）"]]

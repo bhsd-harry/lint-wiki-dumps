@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,51,"alt = 圖有兩列，左列上至下有A、B兩個字母，右列則有A1、A2、A3、B1、B2、B3六個組合。兩列之間有連線，A與A1、A2、A3三個分支相連，B與B1、B2、B3三個分支相連。"]]
+window.data=[["no-duplicate",1,51,"duplicated image caption parameter","alt = 圖有兩列，左列上至下有A、B兩個字母，右列則有A1、A2、A3、B1、B2、B3六個組合。兩列之間有連線，A與A1、A2、A3三個分支相連，B與B1、B2、B3三個分支相連。"],["no-duplicate",1,145,"duplicated image caption parameter","集合<math>\\{A, B\\}</math>之元素，與集合<math>\\{1, 2, 3\\}</math>的元素可以組成<math>6</math>種不同組合。"]]

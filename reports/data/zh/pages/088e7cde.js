@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,45,"lang=zh"]]
+window.data=[["no-duplicate",5,45,"duplicated image caption parameter","lang=zh"],["no-duplicate",5,71,"duplicated image caption parameter","此流桯圖顯示非對稱加密過程是單向的，其中一條密鑰加密後只能用相對應的另一條密鑰解密。"]]

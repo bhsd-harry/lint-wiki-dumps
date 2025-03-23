@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",128,53,"下"]]
+window.data=[["no-duplicate",128,53,"duplicated image caption parameter","下"],["no-duplicate",128,55,"duplicated image caption parameter","1935年建造的大學城 (Città universitaria)，1938年攝"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,3," occupation   = 演员，剧作家，电影导演，舞台剧演员\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," occupation   = 演员，剧作家，电影导演，舞台剧演员\n "],["no-duplicate",14,3,"duplicated parameter"," occupation = Actor, screenwriter, film director\n "]]

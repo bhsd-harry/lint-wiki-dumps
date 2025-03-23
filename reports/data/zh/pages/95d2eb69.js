@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",81,1," ;观泉路北大营街（站位位于观泉路，C1及C2出入口附近）\n {{沈阳公交线路列表|width=100%|format=|end=yes|151|151支}}"]]
+window.data=[["fostered-content",81,1,"content to be moved out from the table"," ;观泉路北大营街（站位位于观泉路，C1及C2出入口附近）\n {{沈阳公交线路列表|width=100%|format=|end=yes|151|151支}}"],["fostered-content",84,1,"content to be moved out from the table"," ;上海通用北盛汽车（站位位于北大营街，C2出入口向南约330米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|115|259}}\n {{col-end}}"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"unclosed-table",220,2,"{|"],[1,"unescaped",1431,43,"="]]
+window.data=[["unclosed-table",220,2,"unclosed table","{|"],["unescaped",1431,43,"unescaped query string in an anonymous parameter","="]]

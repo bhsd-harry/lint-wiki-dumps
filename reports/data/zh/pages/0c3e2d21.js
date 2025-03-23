@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",393,155,"{{"],[2,"no-ignored",393,109," {{small|(1983–1993)}}<br />  "],[1,"parsing-order",393,131,"<br />"]]
+window.data=[["parsing-order",393,131,"HTML tag in table attributes","<br />"],["lonely-bracket",393,155,"lonely \"{\"","{{"],["no-ignored",393,109,"containing invalid attribute"," {{small|(1983–1993)}}<br />  "],["no-ignored",393,154,"containing invalid attribute"," {{small"]]

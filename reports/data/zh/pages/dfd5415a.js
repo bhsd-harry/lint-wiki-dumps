@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,42,"第二页"]]
+window.data=[["no-duplicate",5,42,"duplicated image caption parameter","第二页"],["no-duplicate",5,46,"duplicated image caption parameter","第二页"]]

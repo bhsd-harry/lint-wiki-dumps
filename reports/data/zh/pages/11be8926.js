@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",81,4,"caption"],[1,"lonely-apos",175,51,"'"]]
+window.data=[["illegal-attr",81,4,"illegal attribute name","caption"],["lonely-apos",175,51,"lonely \"'\"","'"]]

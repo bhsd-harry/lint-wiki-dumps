@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",69,35,"}"],[2,"no-duplicate",75,2,"[[Category:奧斯卡最佳影片]]"]]
+window.data=[["lonely-bracket",69,35,"lonely \"}\"","}"],["no-duplicate",75,2,"duplicated category","[[Category:奧斯卡最佳影片]]"],["no-duplicate",80,2,"duplicated category","[[Category:奧斯卡最佳影片]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",141,4,"caption"],[2,"no-duplicate",255,24,"style=\"margin:auto:\""]]
+window.data=[["invalid-css",27,47,"semi-colon expected",":"],["illegal-attr",141,4,"illegal attribute name","caption"],["invalid-css",176,47,"semi-colon expected",":"],["invalid-css",255,42,"semi-colon expected",":"],["no-duplicate",255,24,"duplicated style attribute","style=\"margin:auto:\""],["no-duplicate",255,62,"duplicated style attribute","style=\"text-align:center\""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,123," title=中国传统村落数字博物馆系列报道——“邵商溯源”清水村"]]
+window.data=[["no-duplicate",12,123,"duplicated parameter"," title=中国传统村落数字博物馆系列报道——“邵商溯源”清水村"],["no-duplicate",12,217,"duplicated parameter","title=国务院核定公布第七批全国重点文物保护单位"]]

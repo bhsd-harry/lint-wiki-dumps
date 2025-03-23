@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",52,1," * 国际教养学科"]]
+window.data=[["fostered-content",52,1,"content to be moved out from the table"," * 国际教养学科"],["fostered-content",56,1,"content to be moved out from the table"," * 国际沟通学科<ref group=\"注\"  name=\"国际沟通学科\">日语:{{lang|ja|国際コミュニケーション学科}}</ref><ref group=\"注\"  name=\"招生到2002年\">招生到2002年。停办于2006年</ref>\n * 教养科<ref group=\"注\" "]]

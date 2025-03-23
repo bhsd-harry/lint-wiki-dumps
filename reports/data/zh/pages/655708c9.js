@@ -1,1 +1,1 @@
-window.data=[[3,"unmatched-tag",183,180,"</rb>"]]
+window.data=[["unmatched-tag",183,180,"unmatched closing tag","</rb>"],["unmatched-tag",183,230,"unmatched closing tag","</ruby>"],["unmatched-tag",183,237,"unmatched closing tag","</span>"]]

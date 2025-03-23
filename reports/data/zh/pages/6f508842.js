@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,2,"[[Category:北莱茵-威斯特法伦州市镇|A]]"]]
+window.data=[["no-duplicate",21,2,"duplicated category","[[Category:北莱茵-威斯特法伦州市镇|A]]"],["no-duplicate",22,2,"duplicated category","[[Category:北莱茵-威斯特法伦州市镇]]"]]

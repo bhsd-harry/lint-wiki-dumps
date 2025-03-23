@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",82,2,"[[Category:塞考斯基飛行器]]"]]
+window.data=[["no-duplicate",82,2,"duplicated category","[[Category:塞考斯基飛行器]]"],["no-duplicate",88,2,"duplicated category","[[Category:塞考斯基飛行器]]"]]

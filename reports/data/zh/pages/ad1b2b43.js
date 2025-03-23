@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",95,2,"[[Category:美国参议院委员会|M]]"]]
+window.data=[["no-duplicate",95,2,"duplicated category","[[Category:美国参议院委员会|M]]"],["no-duplicate",96,2,"duplicated category","[[Category:美国参议院委员会|军事]]"]]

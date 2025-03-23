@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,3," current_ranking         = \n "]]
+window.data=[["no-duplicate",21,3,"duplicated parameter"," current_ranking         = \n "],["no-duplicate",27,3,"duplicated parameter"," current_ranking         = 已退役\n "]]

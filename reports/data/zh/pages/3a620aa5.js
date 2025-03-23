@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",79,2,"[[Category:李姓]]"]]
+window.data=[["no-duplicate",79,2,"duplicated category","[[Category:李姓]]"],["no-duplicate",84,2,"duplicated category","[[Category:李姓]]"],["no-duplicate",80,2,"duplicated category","[[Category:台灣男演員]]"],["no-duplicate",85,2,"duplicated category","[[Category:台灣男演員]]"]]

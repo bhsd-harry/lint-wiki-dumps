@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",176,1685,"url=https://books.google.com/books?id=XaYeSoPbrPMC&pg=PT14"]]
+window.data=[["no-duplicate",176,1685,"duplicated parameter","url=https://books.google.com/books?id=XaYeSoPbrPMC&pg=PT14"],["no-duplicate",176,1886,"duplicated parameter","url=https://archive.org/details/historyofjewishl0000zinb/page/24"]]

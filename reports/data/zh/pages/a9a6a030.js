@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,46,"330px<!-- Use a multiple of 11 to reduce aliasing artifact -->"]]
+window.data=[["no-duplicate",1,46,"duplicated image caption parameter","330px<!-- Use a multiple of 11 to reduce aliasing artifact -->"],["no-duplicate",1,109,"duplicated image caption parameter","以10为基数的范德科皮特序列前''n''项（''n''从0至999）的图示"]]

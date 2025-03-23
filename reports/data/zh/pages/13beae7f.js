@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",461,2,"[[分類:亞洲內流湖]]"]]
+window.data=[["no-duplicate",461,2,"duplicated category","[[分類:亞洲內流湖]]"],["no-duplicate",472,2,"duplicated category","[[Category:亞洲內流湖]]"],["no-duplicate",465,2,"duplicated category","[[分類:伊朗-土庫曼斯坦邊界]]"],["no-duplicate",480,2,"duplicated category","[[Category:伊朗-土庫曼斯坦邊界]]"]]

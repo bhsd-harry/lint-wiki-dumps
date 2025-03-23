@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",211,2,"[[Category:冠以人名的美洲機場|R]]"]]
+window.data=[["no-duplicate",211,2,"duplicated category","[[Category:冠以人名的美洲機場|R]]"],["no-duplicate",212,2,"duplicated category","[[Category:冠以人名的美洲機場|R]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",54,72,"[[佛国记|沙门法显自记游天竺事]]"]]
+window.data=[["nested-link",54,72,"internal link in an external link","[[佛国记|沙门法显自记游天竺事]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",42,53,"px220"]]
+window.data=[["no-duplicate",42,53,"duplicated image caption parameter","px220"],["no-duplicate",42,59,"duplicated image caption parameter","諷刺畫：原來衣冠楚楚、親密團結的上流家族，如何在餐桌上因討論德雷福斯案而各分兩派，最終撕破臉面、扭打一團（1898年4月刊登在《Le Figaro》報刊上）"],["no-duplicate",55,50,"duplicated image caption parameter","px150"],["no-duplicate",55,56,"duplicated image caption parameter","1935年經過平反、[[第一次世界大戰|一戰]]、[[大蕭條]]而年邁的德雷福斯，於當年病逝"]]

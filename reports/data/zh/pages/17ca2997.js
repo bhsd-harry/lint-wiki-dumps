@@ -1,1 +1,1 @@
-window.data=[[2,"invalid-gallery",42,86,"thumb"],[1,"lonely-bracket",41,84,"]]"],[1,"no-ignored",45,1," [[File:CaputSHelenae 0578a.jpg|[[特里爾主教座堂]]地穴有聖海倫納頭骨]]"]]
+window.data=[["lonely-bracket",41,84,"lonely \"]\"","]]"],["invalid-gallery",42,86,"invalid image parameter","thumb"],["invalid-gallery",42,92,"invalid image parameter","right"],["no-ignored",45,1,"invalid content in <gallery>"," [[File:CaputSHelenae 0578a.jpg|[[特里爾主教座堂]]地穴有聖海倫納頭骨]]"]]

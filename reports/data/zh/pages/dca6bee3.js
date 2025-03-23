@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,32,"俄国的黄俄罗斯计划"]]
+window.data=[["no-duplicate",2,32,"duplicated image caption parameter","俄国的黄俄罗斯计划"],["no-duplicate",2,42,"duplicated image caption parameter","黃俄羅斯計劃示意圖"]]

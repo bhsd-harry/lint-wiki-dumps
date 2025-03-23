@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",200,42,"ISBN 957-801-446-X"],[2,"no-duplicate",1,16,"block=B"]]
+window.data=[["no-duplicate",1,16,"duplicated parameter","block=B"],["no-duplicate",1,30,"duplicated parameter","block=B"],["invalid-isbn",200,42,"invalid ISBN","ISBN 957-801-446-X"]]

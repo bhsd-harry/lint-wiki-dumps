@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,359,"name=<ref"],[1,"tag-like",37,364,"<ref"]]
+window.data=[["tag-like",37,364,"lonely \"<\"","<ref"],["no-duplicate",37,359,"duplicated name attribute","name=<ref"],["no-duplicate",37,369,"duplicated name attribute","name=USGS"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,37,"不同种类的翼柱头鲨的牙齿File:PtychodusLowerJaw.jpg"]]
+window.data=[["no-duplicate",18,37,"duplicated image caption parameter","不同种类的翼柱头鲨的牙齿File:PtychodusLowerJaw.jpg"],["no-duplicate",18,76,"duplicated image caption parameter","皱齿鲨属的下颚"]]

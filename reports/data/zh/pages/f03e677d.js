@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",289,2,"[[Category:校園暴力題材電影|T]]"]]
+window.data=[["no-duplicate",289,2,"duplicated category","[[Category:校園暴力題材電影|T]]"],["no-duplicate",291,2,"duplicated category","[[Category:校園暴力題材電影|T]]"]]

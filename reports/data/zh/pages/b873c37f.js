@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,2,"[[Category:Pages that use a deprecated format of the math tags]]"]]
+window.data=[["no-duplicate",12,2,"duplicated category","[[Category:Pages that use a deprecated format of the math tags]]"],["no-duplicate",17,2,"duplicated category","[[Category:Pages that use a deprecated format of the math tags]]"]]

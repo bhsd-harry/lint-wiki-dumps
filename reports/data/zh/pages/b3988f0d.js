@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",51,4,"{{"],[1,"no-ignored",51,3," {{flagathlete"]]
+window.data=[["lonely-bracket",51,4,"lonely \"{\"","{{"],["no-ignored",51,3,"containing invalid attribute"," {{flagathlete"]]

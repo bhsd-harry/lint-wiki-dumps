@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",27,33,"cellpading"],[2,"no-duplicate",27,5,"class=\"wikitable\""]]
+window.data=[["illegal-attr",27,33,"illegal attribute name","cellpading"],["no-duplicate",27,5,"duplicated class attribute","class=\"wikitable\""],["no-duplicate",27,65,"duplicated class attribute","class=\"sortable wikitable\""]]

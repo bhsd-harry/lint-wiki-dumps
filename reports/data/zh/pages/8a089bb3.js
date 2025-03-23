@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",36,2,"[[Category:意大利戰爭]]"]]
+window.data=[["no-duplicate",36,2,"duplicated category","[[Category:意大利戰爭]]"],["no-duplicate",41,2,"duplicated category","[[Category:意大利戰爭]]"],["no-duplicate",38,2,"duplicated category","[[Category:1888年衝突]]"],["no-duplicate",40,2,"duplicated category","[[Category:1888年衝突]]"]]

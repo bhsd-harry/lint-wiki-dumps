@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",63,5,"colspan"],[1,"no-ignored",63,16,"|'''澳洲'''"]]
+window.data=[["illegal-attr",63,5,"illegal attribute name","colspan"],["no-ignored",63,16,"containing invalid attribute","|'''澳洲'''"]]

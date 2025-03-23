@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",25,79,"thumb"]]
+window.data=[["no-duplicate",25,79,"duplicated image thumbnail parameter","thumb"],["no-duplicate",25,122,"duplicated image thumbnail parameter","thumb"],["no-duplicate",25,85,"duplicated image caption parameter","Rossiya Airlines [[Airbus A319-100]]"],["no-duplicate",25,128,"duplicated image caption parameter","俄罗斯国家航空的[[空中客车A319|空中客车A319-100]]型客机在[[杜塞道夫國際機場]]起飛"]]

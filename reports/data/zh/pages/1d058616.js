@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",38,26,"{{"],[5,"unmatched-tag",68,16,"<center>"]]
+window.data=[["lonely-bracket",38,26,"lonely \"{\"","{{"],["lonely-bracket",38,320,"lonely \"}\"","}}"],["unmatched-tag",68,16,"unclosed tag","<center>"],["unmatched-tag",74,16,"unclosed tag","<center>"],["unmatched-tag",76,16,"unclosed tag","<center>"],["unmatched-tag",87,16,"unclosed tag","<center>"],["unmatched-tag",89,16,"unclosed tag","<center>"]]

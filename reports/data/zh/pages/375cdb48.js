@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",475,1," # [[File:Cruz Roja.svg|12px]]者為傷患球員"]]
+window.data=[["fostered-content",475,1,"content to be moved out from the table"," # [[File:Cruz Roja.svg|12px]]者為傷患球員"]]

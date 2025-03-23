@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",51,2,"[[Category:中国铁路哈尔滨局集团车站]]"]]
+window.data=[["no-duplicate",51,2,"duplicated category","[[Category:中国铁路哈尔滨局集团车站]]"],["no-duplicate",53,2,"duplicated category","[[Category:中国铁路哈尔滨局集团车站]]"]]

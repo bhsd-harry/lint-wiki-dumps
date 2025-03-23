@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",73,99,"Ciudad"],[1,"no-ignored",73,108," Fuenlabrada\""]]
+window.data=[["illegal-attr",73,99,"illegal attribute name","Ciudad"],["illegal-attr",73,106,"illegal attribute name","de"],["no-ignored",73,108,"containing invalid attribute"," Fuenlabrada\""]]

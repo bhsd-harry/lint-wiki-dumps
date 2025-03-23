@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",234,72,"name =ref"]]
+window.data=[["no-duplicate",234,72,"duplicated name attribute","name =ref"],["no-duplicate",234,82,"duplicated name attribute","name =\"Hoodwinked! Box Office Mojo Weekend\""]]

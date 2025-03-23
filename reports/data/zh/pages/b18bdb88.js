@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",70,71," #000000\""]]
+window.data=[["invalid-css",70,71,"property value expected",""],["no-ignored",70,71,"containing invalid attribute"," #000000\""]]

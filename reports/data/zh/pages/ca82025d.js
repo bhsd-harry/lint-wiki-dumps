@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",107,3,"{{"],[2,"nested-link",119,75,"[[法身寺|Wat Phra Dhammakaya]]"]]
+window.data=[["lonely-bracket",107,3,"lonely \"{\"","{{"],["lonely-bracket",107,245,"lonely \"]\"","]]"],["nested-link",119,75,"internal link in an external link","[[法身寺|Wat Phra Dhammakaya]]"],["nested-link",120,145,"internal link in an external link","[[水門寺|Wat Paknam Bhasicharoen]]"]]

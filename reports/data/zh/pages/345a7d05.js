@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",207,2,"[[Category:中国高速铁路线|S]]"]]
+window.data=[["no-duplicate",207,2,"duplicated category","[[Category:中国高速铁路线|S]]"],["no-duplicate",208,2,"duplicated category","[[Category:中国高速铁路线]]"]]

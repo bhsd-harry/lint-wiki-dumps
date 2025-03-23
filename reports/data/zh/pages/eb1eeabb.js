@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,5," mouth           = [[吉林省]][[前郭尔罗斯蒙古族自治县]][[嫩江]]\n   "]]
+window.data=[["no-duplicate",8,5,"duplicated parameter"," mouth           = [[吉林省]][[前郭尔罗斯蒙古族自治县]][[嫩江]]\n   "],["no-duplicate",23,3,"duplicated parameter"," mouth              = [[嫩江]]\n "]]

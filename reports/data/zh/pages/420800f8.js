@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",28,39,"thumbtime=10"]]
+window.data=[["no-duplicate",28,39,"duplicated image caption parameter","thumbtime=10"],["no-duplicate",28,52,"duplicated image caption parameter","人工飼養之白禾雀所產下的卵（與[[新台幣]]壹圓大小比例對照）"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",57,78,"align=right"]]
+window.data=[["no-duplicate",57,78,"duplicated image caption parameter","align=right"],["no-duplicate",57,90,"duplicated image caption parameter","《星空下的恋人》主要演员。"]]

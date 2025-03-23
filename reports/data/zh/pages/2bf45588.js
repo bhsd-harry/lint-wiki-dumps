@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",137,2,"[[Category:王心凌音乐专辑]]"]]
+window.data=[["no-duplicate",137,2,"duplicated category","[[Category:王心凌音乐专辑]]"],["no-duplicate",145,2,"duplicated category","[[Category:王心凌音乐专辑]]"]]

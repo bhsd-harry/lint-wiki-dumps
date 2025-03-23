@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",68,2,"[[Category:CS1 maint: url-status]]"]]
+window.data=[["no-duplicate",68,2,"duplicated category","[[Category:CS1 maint: url-status]]"],["no-duplicate",83,2,"duplicated category","[[Category:CS1 maint: url-status]]"]]

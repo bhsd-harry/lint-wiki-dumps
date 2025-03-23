@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,3," start = \n "]]
+window.data=[["no-duplicate",25,3,"duplicated parameter"," start = \n "],["no-duplicate",40,3,"duplicated parameter"," start = {{站|贵阳北}}\n "]]

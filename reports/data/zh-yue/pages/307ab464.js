@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",48,3,"duplicated parameter","政黨票投票數1 = 15,744,190\n "]]
+window.data=[["no-duplicate",48,3,"duplicated parameter","政黨票投票數1 = 15,744,190\n "],["no-duplicate",65,3,"duplicated parameter","政黨票投票數1 = 11,433,762\n "]]

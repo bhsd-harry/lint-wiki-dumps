@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",102,2,"[[Category:洛杉磯背景電影]]"]]
+window.data=[["no-duplicate",102,2,"duplicated category","[[Category:洛杉磯背景電影]]"],["no-duplicate",105,2,"duplicated category","[[Category:洛杉磯背景電影]]"]]

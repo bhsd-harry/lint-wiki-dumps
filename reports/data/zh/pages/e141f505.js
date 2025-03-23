@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",127,2,"[[Category:使用筆名的作家]]"]]
+window.data=[["no-duplicate",127,2,"duplicated category","[[Category:使用筆名的作家]]"],["no-duplicate",133,2,"duplicated category","[[Category:使用筆名的作家]]"]]

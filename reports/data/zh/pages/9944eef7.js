@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,3," relations     = \n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," relations     = \n "],["no-duplicate",17,3,"duplicated parameter"," relations     = 父：[[洪森]] <br>  母：[[文拉妮]]\n "]]

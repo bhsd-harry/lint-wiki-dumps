@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",263,2,"[[Category:各国外交部门|Indonesia]]"]]
+window.data=[["no-duplicate",263,2,"duplicated category","[[Category:各国外交部门|Indonesia]]"],["no-duplicate",264,2,"duplicated category","[[Category:各国外交部门]]"]]

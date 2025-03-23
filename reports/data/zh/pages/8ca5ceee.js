@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,36,"right300px"]]
+window.data=[["no-duplicate",1,36,"duplicated image caption parameter","right300px"],["no-duplicate",1,47,"duplicated image caption parameter","英国拉斐尔画派画家[[米雷]]刻画《[[哈姆雷特]]》中的人物欧菲莉亚落水溺死的情景： 《[[水中的奥菲利亚]]》 (1851-1852)"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",200,3," population_note    = \n "]]
+window.data=[["no-duplicate",200,3,"duplicated parameter"," population_note    = \n "],["no-duplicate",215,3,"duplicated parameter"," population_note         =\n <!-- demographics (section 1) -->\n "]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",202,14,"'''演唱者'''"]]
+window.data=[["invalid-css",34,47,"semi-colon expected",""],["invalid-css",34,47,"colon expected",""],["invalid-css",136,47,"semi-colon expected",""],["invalid-css",136,47,"colon expected",""],["no-ignored",202,14,"containing invalid attribute","'''演唱者'''"]]

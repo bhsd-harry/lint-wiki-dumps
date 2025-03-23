@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",48,1048,"https://"],[4,"no-duplicate",11,21,"thumb"]]
+window.data=[["no-duplicate",11,21,"duplicated image thumbnail parameter","thumb"],["no-duplicate",11,35,"duplicated image thumbnail parameter","thumb"],["no-duplicate",11,27,"duplicated image caption parameter","Gas OPR"],["no-duplicate",11,47,"duplicated image caption parameter","活塞傳動式動作過程示意圖"],["lonely-http",48,1048,"lonely \"https://\"","https://"]]

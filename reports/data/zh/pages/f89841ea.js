@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",48,22,"四库全书钦定全唐文记载“讨薛举令”"]]
+window.data=[["no-duplicate",48,22,"duplicated image caption parameter","四库全书钦定全唐文记载“讨薛举令”"],["no-duplicate",48,52,"duplicated image caption parameter","《四库全书·钦定全唐文》记载的诏令原文"],["no-duplicate",48,18,"conflicting image frame parameter","缩略图"],["no-duplicate",48,46,"conflicting image frame parameter","frame"]]

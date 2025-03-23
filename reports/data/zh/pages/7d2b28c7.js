@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",492,2,"[[Category:無綫電視愛情劇集]]"]]
+window.data=[["no-duplicate",492,2,"duplicated category","[[Category:無綫電視愛情劇集]]"],["no-duplicate",494,2,"duplicated category","[[Category:無綫電視愛情劇集]]"]]

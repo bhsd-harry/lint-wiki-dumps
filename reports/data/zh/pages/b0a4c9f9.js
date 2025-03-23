@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",510,45,"'"],[2,"no-duplicate",579,2,"[[Category:美國人瑞]]"]]
+window.data=[["lonely-apos",510,45,"lonely \"'\"","'"],["no-duplicate",579,2,"duplicated category","[[Category:美國人瑞]]"],["no-duplicate",588,2,"duplicated category","[[Category:美國人瑞]]"]]

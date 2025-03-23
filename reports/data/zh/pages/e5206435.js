@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3,"is_vehicle=yes\n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter","is_vehicle=yes\n "],["no-duplicate",33,3,"duplicated parameter","is_vehicle=yes\n "]]

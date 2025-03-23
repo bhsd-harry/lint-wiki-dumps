@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",288,2,"[[Category:澳門格蘭披治大賽車|2]]"]]
+window.data=[["no-duplicate",288,2,"duplicated category","[[Category:澳門格蘭披治大賽車|2]]"],["no-duplicate",289,2,"duplicated category","[[Category:澳門格蘭披治大賽車|2]]"]]

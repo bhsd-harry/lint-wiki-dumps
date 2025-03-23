@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",136,2,"[[Category:藥物題材電影]]"]]
+window.data=[["no-duplicate",136,2,"duplicated category","[[Category:藥物題材電影]]"],["no-duplicate",143,2,"duplicated category","[[Category:藥物題材電影]]"]]

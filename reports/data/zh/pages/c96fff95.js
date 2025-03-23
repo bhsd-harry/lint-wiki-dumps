@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",38,418,"name=\"Levyp200\""],[1,"no-ignored",38,433,"/<ref "],[1,"tag-like",38,434,"<ref"]]
+window.data=[["tag-like",38,434,"lonely \"<\"","<ref"],["no-ignored",38,433,"containing invalid attribute","/<ref "],["no-duplicate",38,418,"duplicated name attribute","name=\"Levyp200\""],["no-duplicate",38,439,"duplicated name attribute","name=Jpost"]]

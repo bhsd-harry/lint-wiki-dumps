@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",26,142,"'"],[1,"unmatched-tag",13,40,"</sup>"]]
+window.data=[["unmatched-tag",13,40,"unmatched closing tag","</sup>"],["lonely-apos",26,142,"lonely \"'\"","'"],["invalid-css",33,36,"property value expected","#64TYT8"],["invalid-css",33,60,"{ expected",""]]

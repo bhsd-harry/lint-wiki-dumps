@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",68,516,"duplicated parameter","url-status=dead "]]
+window.data=[["no-duplicate",68,516,"duplicated parameter","url-status=dead "],["no-duplicate",68,533,"duplicated parameter","url-status=live "],["no-duplicate",102,51,"duplicated parameter","accessdate=2013-09-13"],["no-duplicate",102,88,"duplicated parameter","accessdate=2014-08-06"],["no-duplicate",371,3,"duplicated rowspan attribute","rowspan=\"2\""],["no-duplicate",371,32,"duplicated rowspan attribute","rowspan=\"3\""]]

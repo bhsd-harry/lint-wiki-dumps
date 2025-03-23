@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",250,2,"[[Category:中華民國區域立法委員選區|中市3]]"]]
+window.data=[["no-duplicate",250,2,"duplicated category","[[Category:中華民國區域立法委員選區|中市3]]"],["no-duplicate",251,2,"duplicated category","[[Category:中華民國區域立法委員選區|嘉縣1]]"]]

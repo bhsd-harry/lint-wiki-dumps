@@ -1,1 +1,1 @@
-window.data=[[1,"pipe-like",83,13,"》\n 滇西1944 || 向大洋\n 韓世貴"]]
+window.data=[["pipe-like",83,13,"additional \"|\" in a table cell","》\n 滇西1944 || 向大洋\n 韓世貴"]]

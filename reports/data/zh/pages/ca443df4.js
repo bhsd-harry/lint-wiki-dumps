@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",164,33,"[["],[2,"no-duplicate",164,5,"align=center"],[1,"no-ignored",164,30," | [[Françoise Mbango]]"]]
+window.data=[["lonely-bracket",164,33,"lonely \"[\"","[["],["lonely-bracket",164,51,"lonely \"]\"","]]"],["no-ignored",164,30,"containing invalid attribute"," | [[Françoise Mbango]]"],["no-duplicate",164,5,"duplicated align attribute","align=center"],["no-duplicate",164,20,"duplicated align attribute","align=left"]]

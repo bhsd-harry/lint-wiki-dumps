@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",90,21,"px"],[1,"lonely-apos",795,189,"'"],[1,"no-ignored",90,29," black\"  "]]
+window.data=[["illegal-attr",90,21,"illegal attribute name","px"],["illegal-attr",90,24,"illegal attribute name","solid"],["no-ignored",90,29,"containing invalid attribute"," black\"  "],["invalid-css",444,51,"property value expected",""],["lonely-apos",795,189,"lonely \"'\"","'"]]

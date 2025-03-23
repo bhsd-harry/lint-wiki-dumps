@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",623,3,"colspan=\"2\""],[2,"tag-like",110,33,"<span"],[3,"unmatched-tag",110,72,"</span>"]]
+window.data=[["tag-like",110,33,"lonely \"<\"","<span"],["unmatched-tag",110,72,"unmatched closing tag","</span>"],["tag-like",217,37,"lonely \"<\"","<span"],["unmatched-tag",217,76,"unmatched closing tag","</span>"],["no-duplicate",623,3,"duplicated colspan attribute","colspan=\"2\""],["no-duplicate",623,16,"duplicated colspan attribute","colspan=\"2\""],["unmatched-tag",803,2,"unmatched closing tag","</small>"]]

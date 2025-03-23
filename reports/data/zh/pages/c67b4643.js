@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,2,"[[Category:埃及地中海运动会金牌得主]]"]]
+window.data=[["no-duplicate",63,2,"duplicated category","[[Category:埃及地中海运动会金牌得主]]"],["no-duplicate",64,2,"duplicated category","[[Category:埃及地中海运动会金牌得主]]"]]

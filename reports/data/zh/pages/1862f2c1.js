@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",98,5,"border=0"],[1,"unclosed-table",96,2,"{|"]]
+window.data=[["unclosed-table",96,2,"unclosed table","{|"],["no-duplicate",98,5,"duplicated border attribute","border=0"],["no-duplicate",98,44,"duplicated border attribute","border=0"],["no-duplicate",98,14,"duplicated cellspacing attribute","cellspacing=0"],["no-duplicate",98,53,"duplicated cellspacing attribute","cellspacing=0"],["no-duplicate",98,28,"duplicated cellpadding attribute","cellpadding=3{|"],["no-duplicate",98,67,"duplicated cellpadding attribute","cellpadding=3"]]

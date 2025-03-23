@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",11,107,"cellpadding"],[1,"no-ignored",11,103,"1\"  "]]
+window.data=[["invalid-css",11,102,"semi-colon expected",""],["invalid-css",11,101,"colon expected","="],["illegal-attr",11,107,"illegal attribute name","cellpadding"],["no-ignored",11,103,"containing invalid attribute","1\"  "]]

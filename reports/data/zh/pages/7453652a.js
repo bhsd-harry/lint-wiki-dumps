@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,40,"last=Janhunen "]]
+window.data=[["no-duplicate",20,40,"duplicated parameter","last=Janhunen "],["no-duplicate",20,55,"duplicated parameter","last=Juha "]]

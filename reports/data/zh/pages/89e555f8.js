@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",141,23,"left左"]]
+window.data=[["no-duplicate",141,23,"duplicated image caption parameter","left左"],["no-duplicate",141,35,"duplicated image caption parameter","GoStation機台，為Gogoro Energy Network中的重要成員，是Gogoro與顧客的主要接觸地點"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",224,35,"{{"],[2,"no-duplicate",224,32,"出现在{{le"]]
+window.data=[["lonely-bracket",224,35,"lonely \"{\"","{{"],["no-duplicate",224,32,"duplicated image caption parameter","出现在{{le"],["no-duplicate",224,40,"duplicated image caption parameter","出现在{{le|邦贡卡国际机场|Bangoka International Airport|斯坦利维尔机场}}的比利时伞兵，摄于行动后不久。"]]

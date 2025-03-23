@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",39,27,"height"],[5,"invalid-gallery",40,36,"thumb"]]
+window.data=[["illegal-attr",39,27,"illegal attribute name","height"],["invalid-gallery",40,36,"invalid image parameter","thumb"],["invalid-gallery",41,28,"invalid image parameter","thumb"],["invalid-gallery",42,38,"invalid image parameter","thumb"],["invalid-gallery",44,36,"invalid image parameter","thumb"],["invalid-gallery",45,57,"invalid image parameter","thumb"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,265,"language=zh-tw"]]
+window.data=[["no-duplicate",4,265,"duplicated parameter","language=zh-tw"],["no-duplicate",4,421,"duplicated parameter","language=zh-cn"]]

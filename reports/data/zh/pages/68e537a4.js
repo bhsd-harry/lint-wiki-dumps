@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",909,3,"mf="]]
+window.data=[["no-duplicate",909,3,"duplicated parameter","mf="],["no-duplicate",909,7,"duplicated parameter","mf={{flag icon|USA}} [[勇舞]]<br>1983年（棗色）\n "]]

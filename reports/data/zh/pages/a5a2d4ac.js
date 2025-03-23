@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",226,130,"''George Washington'' [[Carrier Strike Group]] formation sails in the Atlantic Ocean"]]
+window.data=[["no-duplicate",226,130,"duplicated image caption parameter","''George Washington'' [[Carrier Strike Group]] formation sails in the Atlantic Ocean"],["no-duplicate",226,226,"duplicated image caption parameter","「[[華盛頓號航空母艦|華盛頓號]]」航艦戰鬥群在大西洋航行"]]

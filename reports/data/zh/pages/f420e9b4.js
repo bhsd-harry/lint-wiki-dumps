@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",240,1,"\n ===合作歌曲==="],[1,"unclosed-table",186,2,"{|"]]
+window.data=[["invalid-css",34,12,"} expected",";"],["invalid-css",34,31,"{ expected",";"],["invalid-css",34,24,"identifier expected","#B0E0E6"],["invalid-css",34,44,"{ expected",""],["fostered-content",240,1,"content to be moved out from the table","\n ===合作歌曲==="],["unclosed-table",186,2,"unclosed table","{|"]]

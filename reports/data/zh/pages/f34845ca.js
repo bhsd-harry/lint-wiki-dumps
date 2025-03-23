@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",14,68,"}}"],[3,"no-duplicate",14,42,"[[德国]]{[[柏林]]的{tsl"]]
+window.data=[["lonely-bracket",14,68,"lonely \"}\"","}}"],["no-duplicate",14,42,"duplicated image caption parameter","[[德国]]{[[柏林]]的{tsl"],["no-duplicate",14,61,"duplicated image caption parameter","en"],["no-duplicate",14,64,"duplicated image caption parameter","毛尔公园}}"]]

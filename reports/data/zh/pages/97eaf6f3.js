@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",46,2,"[[Category:旗幟列表| ]]"]]
+window.data=[["no-duplicate",46,2,"duplicated category","[[Category:旗幟列表| ]]"],["no-duplicate",47,2,"duplicated category","[[Category:旗幟列表]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",38,2,"[[Category:關東足利氏]]"]]
+window.data=[["no-duplicate",38,2,"duplicated category","[[Category:關東足利氏]]"],["no-duplicate",41,2,"duplicated category","[[Category:關東足利氏]]"],["no-duplicate",39,2,"duplicated category","[[Category:關東公方]]"],["no-duplicate",40,2,"duplicated category","[[Category:關東公方]]"]]

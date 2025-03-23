@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",145,2,"[[Category:大安區 (臺中市)]]"]]
+window.data=[["no-duplicate",145,2,"duplicated category","[[Category:大安區 (臺中市)]]"],["no-duplicate",150,2,"duplicated category","[[Category:大安區 (臺中市)]]"]]

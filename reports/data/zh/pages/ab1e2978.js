@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",692,3,"xu"],[1,"lonely-bracket",692,13,"{{"],[1,"no-ignored",692,5," 虚<br />{{MongolUnicode"],[1,"parsing-order",692,7,"<br />"]]
+window.data=[["illegal-attr",692,3,"illegal attribute name","xu"],["parsing-order",692,7,"HTML tag in table attributes","<br />"],["lonely-bracket",692,13,"lonely \"{\"","{{"],["no-ignored",692,5,"containing invalid attribute"," 虚<br />{{MongolUnicode"]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",28,288,"accessdate=2017-05-17"]]
+window.data=[["no-duplicate",28,288,"duplicated parameter","accessdate=2017-05-17"],["no-duplicate",28,310,"duplicated parameter","accessdate=2023-11-24"],["no-duplicate",103,2,"duplicated category","[[Category:2010年代恐怖片]]"],["no-duplicate",108,2,"duplicated category","[[Category:2010年代恐怖片]]"],["no-duplicate",105,2,"duplicated category","[[Category:日本鬼片]]"],["no-duplicate",107,2,"duplicated category","[[Category:日本鬼片]]"]]

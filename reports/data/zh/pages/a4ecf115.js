@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,49,"2oopx"]]
+window.data=[["no-duplicate",1,49,"duplicated image caption parameter","2oopx"],["no-duplicate",1,61,"duplicated image caption parameter","总统徽章"]]

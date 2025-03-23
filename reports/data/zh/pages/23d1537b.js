@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",51,34,"北京站 新建北京車站紀念画刊"]]
+window.data=[["no-duplicate",51,34,"duplicated image caption parameter","北京站 新建北京車站紀念画刊"],["no-duplicate",51,57,"duplicated image caption parameter","1959年，武竞天、毛泽东、吕正操、彭真参观刚刚落成的[[北京站]]。"]]

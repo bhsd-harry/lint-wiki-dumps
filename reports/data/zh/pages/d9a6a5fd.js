@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",79,2,"[[Category:網絡分析器]]"]]
+window.data=[["no-duplicate",79,2,"duplicated category","[[Category:網絡分析器]]"],["no-duplicate",83,2,"duplicated category","[[Category:網絡分析器]]"],["no-duplicate",80,2,"duplicated category","[[Category:用C編程的自由軟體]]"],["no-duplicate",84,2,"duplicated category","[[Category:用C編程的自由軟體]]"],["no-duplicate",86,2,"duplicated category","[[Category:Linux軟件]]"],["no-duplicate",87,2,"duplicated category","[[Category:Linux軟件]]"]]

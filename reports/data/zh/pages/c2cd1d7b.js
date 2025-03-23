@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",103,2,"[[分類:香港迪士尼樂園遊樂設施]]"]]
+window.data=[["no-duplicate",103,2,"duplicated category","[[分類:香港迪士尼樂園遊樂設施]]"],["no-duplicate",129,2,"duplicated category","[[Category:香港迪士尼樂園遊樂設施]]"]]

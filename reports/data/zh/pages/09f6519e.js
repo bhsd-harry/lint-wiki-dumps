@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",309,12,"]]"],[1,"no-ignored",309,3,"[京都競馬場"]]
+window.data=[["no-ignored",309,3,"containing invalid attribute","[京都競馬場"],["lonely-bracket",309,12,"lonely \"]\"","]]"]]

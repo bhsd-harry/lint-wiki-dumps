@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,63,"hg=らいちしがわ"]]
+window.data=[["no-duplicate",18,63,"duplicated parameter","hg=らいちしがわ"],["no-duplicate",18,73,"duplicated parameter","hg=Raichishi-gawa"]]

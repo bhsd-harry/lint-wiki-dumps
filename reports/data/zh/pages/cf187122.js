@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,28,"|第一代基奇納伯爵赫伯特·基奇納"]]
+window.data=[["no-ignored",1,28,"useless link text","|第一代基奇納伯爵赫伯特·基奇納"]]

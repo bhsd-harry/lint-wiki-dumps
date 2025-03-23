@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3," style         = Copenhagen Metro\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter"," style         = Copenhagen Metro\n "],["no-duplicate",7,3,"duplicated parameter"," style = \n "]]

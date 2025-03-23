@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",254,1,"\n == 参考资料 ==\n {{Reflist|30em}}\n\n == 外部链接 ==\n\n * {{Official website|tinybuild.com}}\n\n [[Category:美国私营公司]]\n [[Category:美國電子遊戲公司]]\n [[Category:電子遊戲開發公司]]"],[1,"unclosed-table",61,2,"{|"]]
+window.data=[["fostered-content",254,1,"content to be moved out from the table","\n == 参考资料 ==\n {{Reflist|30em}}\n\n == 外部链接 ==\n\n * {{Official website|tinybuild.com}}\n\n [[Category:美国私营公司]]\n [[Category:美國電子遊戲公司]]\n [[Category:電子遊戲開發公司]]"],["unclosed-table",61,2,"unclosed table","{|"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",37,3," 開始 = {{start date|2024|3|24}}\n "]]
+window.data=[["no-duplicate",37,3,"duplicated parameter"," 開始 = {{start date|2024|3|24}}\n "],["no-duplicate",43,3,"duplicated parameter"," 開始 = {{start date|2024|3|24}}\n "],["no-duplicate",38,3,"duplicated parameter"," 結束 = 至今\n "],["no-duplicate",44,3,"duplicated parameter"," 結束 = 至今\n "]]

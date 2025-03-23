@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",67,90,"F"],[1,"no-ignored",67,3,"{{flagIOCathlete|[[Ivar Johansson (wrestler)|Ivar Johansson]]|SWE|1932年夏季}}<br>'''L''' "],[1,"parsing-order",67,78,"<br>"]]
+window.data=[["parsing-order",67,78,"HTML tag in table attributes","<br>"],["illegal-attr",67,90,"illegal attribute name","F"],["illegal-attr",67,92,"illegal attribute name","8:39"],["no-ignored",67,3,"containing invalid attribute","{{flagIOCathlete|[[Ivar Johansson (wrestler)|Ivar Johansson]]|SWE|1932年夏季}}<br>'''L''' "]]

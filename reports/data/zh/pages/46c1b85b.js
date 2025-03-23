@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",1,1,"[[Category:興慶區建築物]]"]]
+window.data=[["no-duplicate",1,1,"duplicated category","[[Category:興慶區建築物]]"],["no-duplicate",23,2,"duplicated category","[[Category:興慶區建築物]]"],["no-duplicate",2,2,"duplicated category","[[Category:银川市境内的文物保护单位]]"],["no-duplicate",24,2,"duplicated category","[[Category:银川市境内的文物保护单位]]"]]

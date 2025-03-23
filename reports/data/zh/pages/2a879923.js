@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",434,89,"center"],[1,"no-ignored",731,20," ; text-align:center;\""],[1,"unmatched-tag",817,54,"<small>"]]
+window.data=[["no-duplicate",434,89,"conflicting image horizontal-alignment parameter","center"],["no-duplicate",444,5,"conflicting image horizontal-alignment parameter","无"],["no-ignored",731,20,"containing invalid attribute"," ; text-align:center;\""],["invalid-css",754,30,"} expected","\""],["unmatched-tag",817,54,"unclosed tag","<small>"]]

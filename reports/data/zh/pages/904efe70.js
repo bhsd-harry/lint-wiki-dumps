@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",152,54,"fix"]]
+window.data=[["no-duplicate",152,54,"duplicated image caption parameter","fix"],["no-duplicate",152,58,"duplicated image caption parameter","[[黑尾鷗]]（海猫）"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,3," 經紀公司 = [[福茂唱片]]〔2011年－2016年〕\n "]]
+window.data=[["no-duplicate",21,3,"duplicated parameter"," 經紀公司 = [[福茂唱片]]〔2011年－2016年〕\n "],["no-duplicate",22,3,"duplicated parameter"," 經紀公司 = [[繁星浩月娛樂]]〔2023年－至今〕\n "]]

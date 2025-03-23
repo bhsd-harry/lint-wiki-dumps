@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,2,"[[Category:中华民国大陆时期反日情绪]]"]]
+window.data=[["no-duplicate",33,2,"duplicated category","[[Category:中华民国大陆时期反日情绪]]"],["no-duplicate",41,2,"duplicated category","[[Category:中华民国大陆时期反日情绪]]"]]

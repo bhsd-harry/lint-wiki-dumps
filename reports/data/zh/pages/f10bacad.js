@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1354,2,"[[Category:電視劇獲獎與提名列表|囧男大爆炸]]"]]
+window.data=[["no-duplicate",1354,2,"duplicated category","[[Category:電視劇獲獎與提名列表|囧男大爆炸]]"],["no-duplicate",1355,2,"duplicated category","[[Category:電視劇獲獎與提名列表|囧男大爆炸]]"]]

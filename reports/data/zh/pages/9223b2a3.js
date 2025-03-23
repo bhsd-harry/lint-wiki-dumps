@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",82,1," === 其他相位 ===\n\n"],[2,"unclosed-table",57,2,"{|"]]
+window.data=[["fostered-content",82,1,"content to be moved out from the table"," === 其他相位 ===\n\n"],["unclosed-table",57,2,"unclosed table","{|"],["fostered-content",104,1,"content to be moved out from the table","\n [[圖像:Natal Chart -- Adam.svg|500px|thumb|right|占星相位即標示在[[出生圖|本命盤]]的中心圓裡，這裡以不同的顏色和符號將各個相位加以區分開來，例如''四分相''（square，紅色）或是''三分相''（trine，綠色）。]]\n\n == 註釋 =="],["unclosed-table",85,2,"unclosed table","{|"]]

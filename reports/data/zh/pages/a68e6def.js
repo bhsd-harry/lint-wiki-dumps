@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",420,2,"[[Category:炼金术物质]]"]]
+window.data=[["no-duplicate",420,2,"duplicated category","[[Category:炼金术物质]]"],["no-duplicate",423,2,"duplicated category","[[Category:炼金术物质]]"]]

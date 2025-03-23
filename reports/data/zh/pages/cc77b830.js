@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",47,59,"[[Public Broadcasting Service|PBS]]"]]
+window.data=[["nested-link",47,59,"internal link in an external link","[[Public Broadcasting Service|PBS]]"],["nested-link",47,97,"internal link in an external link","[[NOVA (TV series)|NOVA]]"]]

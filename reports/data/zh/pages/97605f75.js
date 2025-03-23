@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",66,4,"濃霧日 平均統計表（1990年～2005年）"]]
+window.data=[["no-ignored",66,4,"containing invalid attribute","濃霧日 平均統計表（1990年～2005年）"]]

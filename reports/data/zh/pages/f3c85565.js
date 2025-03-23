@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,204,"[[分类:苏州人]]"]]
+window.data=[["no-duplicate",19,204,"duplicated category","[[分类:苏州人]]"],["no-duplicate",29,2,"duplicated category","[[Category:苏州人|G顾]]"]]

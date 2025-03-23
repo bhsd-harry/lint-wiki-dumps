@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",93,2,"[[Category:奧地利政治醜聞]]"]]
+window.data=[["no-duplicate",93,2,"duplicated category","[[Category:奧地利政治醜聞]]"],["no-duplicate",96,2,"duplicated category","[[Category:奧地利政治醜聞]]"]]

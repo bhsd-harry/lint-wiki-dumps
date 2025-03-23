@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",337,2,"[[Category:自殺題材作品]]"]]
+window.data=[["no-duplicate",337,2,"duplicated category","[[Category:自殺題材作品]]"],["no-duplicate",342,2,"duplicated category","[[Category:自殺題材作品]]"]]

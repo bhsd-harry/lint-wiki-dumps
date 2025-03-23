@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",19,58,"internal link in an external link","[[國際奧林匹克委員會]]"]]
+window.data=[["nested-link",19,58,"internal link in an external link","[[國際奧林匹克委員會]]"]]

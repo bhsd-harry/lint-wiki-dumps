@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,2,"[[Category:卡尔梅克共和国历史]]"]]
+window.data=[["no-duplicate",7,2,"duplicated category","[[Category:卡尔梅克共和国历史]]"],["no-duplicate",10,2,"duplicated category","[[Category:卡尔梅克共和国历史]]"]]

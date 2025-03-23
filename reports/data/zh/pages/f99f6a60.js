@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",113,2,"[[Category:俄罗斯女子摔跤运动员]]"]]
+window.data=[["no-duplicate",113,2,"duplicated category","[[Category:俄罗斯女子摔跤运动员]]"],["no-duplicate",115,2,"duplicated category","[[Category:俄罗斯女子摔跤运动员]]"],["no-duplicate",114,2,"duplicated category","[[Category:哈萨克斯坦女子摔跤运动员]]"],["no-duplicate",131,2,"duplicated category","[[Category:哈萨克斯坦女子摔跤运动员]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",39,36,"cellspacing=\"1\""]]
+window.data=[["no-duplicate",39,36,"duplicated cellspacing attribute","cellspacing=\"1\""],["no-duplicate",39,53,"duplicated cellspacing attribute","cellspacing=\"2\""]]

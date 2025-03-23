@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",38,2,"[[Category:印度兩棲動物]]"]]
+window.data=[["no-duplicate",38,2,"duplicated category","[[Category:印度兩棲動物]]"],["no-duplicate",40,2,"duplicated category","[[Category:印度兩棲動物]]"]]

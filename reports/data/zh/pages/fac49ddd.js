@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",54,2,"[[category:牛池灣]]"]]
+window.data=[["no-duplicate",54,2,"duplicated category","[[category:牛池灣]]"],["no-duplicate",66,2,"duplicated category","[[Category:牛池灣]]"]]

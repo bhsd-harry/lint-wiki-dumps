@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",52,3," blank_name_sec1         = 政府网站\n "]]
+window.data=[["no-duplicate",52,3,"duplicated parameter"," blank_name_sec1         = 政府网站\n "],["no-duplicate",58,3,"duplicated parameter"," blank_name_sec1         = 城市分类\n "],["no-duplicate",53,3,"duplicated parameter"," blank_info_sec1         = www.surigaocity.gov.ph/[http://surigaocity.gov.ph/]\n "],["no-duplicate",59,3,"duplicated parameter"," blank_info_sec1         = 1st Class Component City \n "]]

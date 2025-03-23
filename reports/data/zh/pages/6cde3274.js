@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",76,2,"[[Category:密歇根州背景作品]]"]]
+window.data=[["no-duplicate",76,2,"duplicated category","[[Category:密歇根州背景作品]]"],["no-duplicate",119,2,"duplicated category","[[Category:密歇根州背景作品]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",50,186,"group=lower-roman"]]
+window.data=[["no-duplicate",50,186,"duplicated parameter","group=lower-roman"],["no-duplicate",50,926,"duplicated parameter","group=\"nb\""]]

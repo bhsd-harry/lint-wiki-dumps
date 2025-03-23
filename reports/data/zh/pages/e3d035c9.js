@@ -1,1 +1,1 @@
-window.data=[[3,"fostered-content",52,1," * 护理科\n * [[醫檢師|临床检查]]科\n * [[醫事放射師|放射线技术]]科\n * 医疗护理福利科\n * 医疗保育科"]]
+window.data=[["fostered-content",52,1,"content to be moved out from the table"," * 护理科\n * [[醫檢師|临床检查]]科\n * [[醫事放射師|放射线技术]]科\n * 医疗护理福利科\n * 医疗保育科"],["fostered-content",60,1,"content to be moved out from the table"," * 第一护理科<ref group=\"注\"  name=\"第一护理科招生\"/>\n * 第二护理科<ref group=\"注\"  name=\"第二护理科招生\"/>\n * 医疗秘书科<ref group=\"注\"  name=\"招生到1999年\"/><ref group=\"注\"  name=\"医疗秘书科"],["fostered-content",71,1,"content to be moved out from the table"," * 没有"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",138,191,"publisher=[[上報]]"]]
+window.data=[["no-duplicate",138,191,"duplicated parameter","publisher=[[上報]]"],["no-duplicate",138,208,"duplicated parameter","publisher=上報"]]

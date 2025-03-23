@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",69,4,"||出站通道||九龍巴士271A線"]]
+window.data=[["no-ignored",69,4,"containing invalid attribute","||出站通道||九龍巴士271A線"]]

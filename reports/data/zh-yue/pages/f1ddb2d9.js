@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3,"duplicated parameter"," 音樂類型 = Pop\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," 音樂類型 = Pop\n "],["no-duplicate",17,3,"duplicated parameter"," 音樂類型 = [[粵語流行音樂]]、[[華語流行音樂]]\n "]]

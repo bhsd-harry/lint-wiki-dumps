@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,2,"[[Category:各類型喜劇]]"]]
+window.data=[["no-duplicate",22,2,"duplicated category","[[Category:各類型喜劇]]"],["no-duplicate",23,2,"duplicated category","[[Category:各類型喜劇]]"]]

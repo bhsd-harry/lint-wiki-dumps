@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,51,"蜂膠用於修補隙縫"]]
+window.data=[["no-duplicate",1,51,"duplicated image caption parameter","蜂膠用於修補隙縫"],["no-duplicate",1,60,"duplicated image caption parameter",""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",517,1," File:|[[Nepalese monarchy|尼泊尔皇旗]]"]]
+window.data=[["no-ignored",517,1,"invalid content in <gallery>"," File:|[[Nepalese monarchy|尼泊尔皇旗]]"],["no-ignored",676,1,"invalid content in <gallery>"," File:|[[尼泊爾王國|尼泊爾王國皇家旗]]"]]

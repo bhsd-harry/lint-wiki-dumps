@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",6,3," gross = \n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter"," gross = \n "],["no-duplicate",13,3,"duplicated parameter"," gross = 2.6億人民幣（中國）\n "],["no-duplicate",7,3,"duplicated parameter"," budget = \n "],["no-duplicate",12,3,"duplicated parameter"," budget = 6億人民幣\n "]]

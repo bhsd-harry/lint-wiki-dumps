@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,19,"|犹太教正统派"]]
+window.data=[["no-ignored",1,19,"useless link text","|犹太教正统派"]]

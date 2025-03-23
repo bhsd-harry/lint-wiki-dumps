@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,2,"[[Category:北宋吏部尚书]]"]]
+window.data=[["no-duplicate",17,2,"duplicated category","[[Category:北宋吏部尚书]]"],["no-duplicate",20,2,"duplicated category","[[Category:北宋吏部尚书]]"]]

@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",10,35,"px"]]
+window.data=[["no-duplicate",10,35,"duplicated image caption parameter","px"],["no-duplicate",10,38,"duplicated image caption parameter","px"],["no-duplicate",10,41,"duplicated image caption parameter","龙井医科大学校长[[卢基舜]]博士"]]

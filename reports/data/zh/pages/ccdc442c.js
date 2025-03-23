@@ -1,1 +1,1 @@
-window.data=[[1,"pipe-like",37,90,"  || 冬之歌為東日本大地震周年紀念廣告主題曲。"]]
+window.data=[["pipe-like",37,90,"additional \"|\" in a table cell","  || 冬之歌為東日本大地震周年紀念廣告主題曲。"]]

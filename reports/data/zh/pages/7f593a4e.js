@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",173,33,"rowspan"],[1,"no-ignored",169,49,"background:#FAEB86; height:20px; width:20px\""]]
+window.data=[["invalid-css",169,48,"semi-colon expected",""],["invalid-css",169,47,"colon expected","="],["no-ignored",169,49,"containing invalid attribute","background:#FAEB86; height:20px; width:20px\""],["illegal-attr",173,33,"illegal attribute name","rowspan"]]

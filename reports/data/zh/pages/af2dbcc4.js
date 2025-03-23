@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",214,2,"[[Category:2016年播出的电视剧季度]]"]]
+window.data=[["no-duplicate",214,2,"duplicated category","[[Category:2016年播出的电视剧季度]]"],["no-duplicate",554,2,"duplicated category","[[Category:2016年播出的电视剧季度]]"]]

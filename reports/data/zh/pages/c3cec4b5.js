@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",55,1," * 农业工程学科\n * 生物生产学科\n ** [[农学]]专攻\n ** 园艺学专攻\n ** [[畜牧业|畜产]]学专攻"]]
+window.data=[["fostered-content",55,1,"content to be moved out from the table"," * 农业工程学科\n * 生物生产学科\n ** [[农学]]专攻\n ** 园艺学专攻\n ** [[畜牧业|畜产]]学专攻"],["fostered-content",63,1,"content to be moved out from the table"," * [[农学]]科\n * [[畜牧业|畜产]]学科\n * 农业工程学科\n * [[农村]][[生活]]学科"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",73,2,"[[Category:德国21岁以下国家足球队球员]]"]]
+window.data=[["no-duplicate",73,2,"duplicated category","[[Category:德国21岁以下国家足球队球员]]"],["no-duplicate",83,2,"duplicated category","[[Category:德国21岁以下国家足球队球员]]"],["no-duplicate",74,2,"duplicated category","[[Category:德国青年国家足球队球员]]"],["no-duplicate",82,2,"duplicated category","[[Category:德国青年国家足球队球员]]"]]

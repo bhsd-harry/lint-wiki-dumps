@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-bracket",278,43,"]"],[2,"no-duplicate",603,3," next_year = 2026\n "]]
+window.data=[["lonely-bracket",278,43,"lonely \"]\"","]"],["no-duplicate",603,3,"duplicated parameter"," next_year = 2026\n "],["no-duplicate",605,3,"duplicated parameter"," next_year = 2024\n "],["lonely-bracket",710,2,"lonely \"{\"","{{"],["lonely-bracket",737,42,"lonely \"]\"","]]"]]

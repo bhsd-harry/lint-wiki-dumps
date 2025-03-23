@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",83,2,"[[Category:台灣人間國寶]]"]]
+window.data=[["no-duplicate",83,2,"duplicated category","[[Category:台灣人間國寶]]"],["no-duplicate",86,2,"duplicated category","[[Category:台灣人間國寶]]"]]

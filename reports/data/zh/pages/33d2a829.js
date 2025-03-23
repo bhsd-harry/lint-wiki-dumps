@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",29,1," [[File:Flag of Colombia.svg|left|thumb|160px|[[File:FIAV 111010.svg|23px]] [[国旗]]、[[军舰旗]]。比例：2:3]]"]]
+window.data=[["fostered-content",29,1,"content to be moved out from the table"," [[File:Flag of Colombia.svg|left|thumb|160px|[[File:FIAV 111010.svg|23px]] [[国旗]]、[[军舰旗]]。比例：2:3]]"]]

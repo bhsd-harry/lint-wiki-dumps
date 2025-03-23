@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",339,2,"[[Category:美國政治電視劇]]"]]
+window.data=[["invalid-css",188,47,"colon expected",";"],["no-duplicate",339,2,"duplicated category","[[Category:美國政治電視劇]]"],["no-duplicate",346,2,"duplicated category","[[Category:美國政治電視劇]]"]]

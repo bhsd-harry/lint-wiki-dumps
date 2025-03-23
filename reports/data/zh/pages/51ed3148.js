@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",177,1," [[印度]]。"]]
+window.data=[["no-ignored",177,1,"invalid content in <gallery>"," [[印度]]。"]]

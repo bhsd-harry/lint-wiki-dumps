@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",830,2,"[[Category:日本原創電視動畫]]"]]
+window.data=[["no-duplicate",830,2,"duplicated category","[[Category:日本原創電視動畫]]"],["no-duplicate",839,2,"duplicated category","[[Category:日本原創電視動畫]]"]]

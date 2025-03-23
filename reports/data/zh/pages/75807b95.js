@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",24,666,"[[土田滋]]"],[1,"unmatched-tag",123,23,"<center>"]]
+window.data=[["nested-link",24,666,"internal link in an external link","[[土田滋]]"],["unmatched-tag",123,23,"unclosed tag","<center>"],["nested-link",173,149,"internal link in an external link","[[土田滋]]"]]

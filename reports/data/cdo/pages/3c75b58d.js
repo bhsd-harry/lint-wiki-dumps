@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,3,"duplicated parameter"," image            = Shukla Kannada.svg\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," image            = Shukla Kannada.svg\n "],["no-duplicate",18,3,"duplicated parameter"," image            = Word Malayalam.svg\n "]]

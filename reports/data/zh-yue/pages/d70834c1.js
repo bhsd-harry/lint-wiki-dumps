@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,90,"duplicated image caption parameter","260x260"]]
+window.data=[["no-duplicate",2,90,"duplicated image caption parameter","260x260"],["no-duplicate",2,98,"duplicated image caption parameter","2020年11月21號，[[美國]]代表[[扎爾邁·哈利勒扎德]]（左）同國務卿[[蓬佩奧]]喺[[卡塔爾]][[多哈]]會見[[塔利班]]領導人[[阿卜杜勒·加尼·巴拉達爾]]同[[蘇海爾·沙欣]]等人"]]

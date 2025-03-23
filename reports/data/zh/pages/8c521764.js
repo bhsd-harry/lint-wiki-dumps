@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",7,3,"1=zh:佐治;zh-hans:乔治;zh-hk:佐治;zh-sg:乔治;zh-tw:喬治;zh-cn:乔治\n "]]
+window.data=[["no-duplicate",7,3,"duplicated parameter","1=zh:佐治;zh-hans:乔治;zh-hk:佐治;zh-sg:乔治;zh-tw:喬治;zh-cn:乔治\n "],["no-duplicate",9,3,"duplicated parameter","1=zh:佐治;zh-hans:乔治;zh-hk:佐治;zh-sg:乔治;zh-tw:喬治;zh-cn:乔治\n "],["no-duplicate",8,3,"duplicated parameter","2=zh-hk:英皇陛下;zh-tw:國王陛下;\n "],["no-duplicate",10,3,"duplicated parameter","2=zh-hans:阿尔伯特; zh-tw:阿爾伯特; zh-hk:亞厘畢;\n "]]

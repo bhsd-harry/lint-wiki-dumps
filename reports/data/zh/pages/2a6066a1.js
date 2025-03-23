@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",87,1," '''西部赛区'''"]]
+window.data=[["fostered-content",87,1,"content to be moved out from the table"," '''西部赛区'''"],["fostered-content",144,1,"content to be moved out from the table"," '''东部赛区'''"]]

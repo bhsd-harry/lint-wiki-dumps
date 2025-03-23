@@ -1,1 +1,1 @@
-window.data=[[3,"no-ignored",162,8," 為鼓勵學生將心目中的志願填在前面，愈前面之志願分數 （成績） "]]
+window.data=[["no-ignored",162,8,"containing invalid attribute"," 為鼓勵學生將心目中的志願填在前面，愈前面之志願分數 （成績） "],["no-ignored",189,3,"containing invalid attribute","學習"],["no-ignored",309,3,"containing invalid attribute","2分"]]

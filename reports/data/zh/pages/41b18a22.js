@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,2,"[[分類:西藏軍區副司令員]]"]]
+window.data=[["no-duplicate",15,2,"duplicated category","[[分類:西藏軍區副司令員]]"],["no-duplicate",16,2,"duplicated category","[[分類:西藏軍區副司令員]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",276,132,"2 + 2 + 1 = Ponderosa Twins Plus One"]]
+window.data=[["no-duplicate",276,132,"duplicated parameter","2 + 2 + 1 = Ponderosa Twins Plus One"],["no-duplicate",276,169,"duplicated parameter","2 + 2 + 1 = Ponderosa Twins Plus One"]]

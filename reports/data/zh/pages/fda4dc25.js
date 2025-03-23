@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",540,2,"[[Category:金球獎最佳戲劇類影集]]"]]
+window.data=[["no-duplicate",540,2,"duplicated category","[[Category:金球獎最佳戲劇類影集]]"],["no-duplicate",541,2,"duplicated category","[[Category:金球獎最佳戲劇類影集]]"]]

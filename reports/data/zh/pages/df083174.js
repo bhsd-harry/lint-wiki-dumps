@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,60," constituency1    = {{le|卡累利阿选区|Karelia constituency}}\n  "]]
+window.data=[["no-duplicate",15,60,"duplicated parameter"," constituency1    = {{le|卡累利阿选区|Karelia constituency}}\n  "],["no-duplicate",19,4,"duplicated parameter"," constituency1    = [[封闭式名单|比例代表制]]\n  "]]

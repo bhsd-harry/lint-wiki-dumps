@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",281,81,"right}200px"]]
+window.data=[["invalid-css",133,81,"colon expected","="],["no-duplicate",281,81,"duplicated image caption parameter","right}200px"],["no-duplicate",281,93,"duplicated image caption parameter","活力球場"],["invalid-css",293,81,"colon expected","="],["invalid-css",350,81,"colon expected","="],["invalid-css",599,81,"colon expected","="],["invalid-css",715,81,"colon expected","="]]

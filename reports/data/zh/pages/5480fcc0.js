@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3," 名称 = 胡陶庵荫庐旧址\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter"," 名称 = 胡陶庵荫庐旧址\n "],["no-duplicate",7,3,"duplicated parameter"," 名称 = 胡陶庵荫庐旧址\n "]]

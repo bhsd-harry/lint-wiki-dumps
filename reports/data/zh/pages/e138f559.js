@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",99,2,"[[Category:曼巴蛇屬]]"]]
+window.data=[["no-duplicate",99,2,"duplicated category","[[Category:曼巴蛇屬]]"],["no-duplicate",100,2,"duplicated category","[[Category:曼巴蛇屬]]"]]

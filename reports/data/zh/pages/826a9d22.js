@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",86,2,"[[Category:中國書籍並稱|SDMZ]]"]]
+window.data=[["no-duplicate",86,2,"duplicated category","[[Category:中國書籍並稱|SDMZ]]"],["no-duplicate",87,2,"duplicated category","[[Category:中國書籍並稱|SDMZ]]"]]

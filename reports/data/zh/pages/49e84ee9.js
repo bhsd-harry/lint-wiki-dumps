@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",106,11,"}"],[1,"lonely-http",85,30,"ISBN"],[1,"nested-link",77,169,"[[日蘇基本條約]]"]]
+window.data=[["nested-link",77,169,"internal link in an external link","[[日蘇基本條約]]"],["lonely-http",85,30,"lonely \"ISBN\"","ISBN"],["lonely-bracket",106,11,"lonely \"}\"","}"]]

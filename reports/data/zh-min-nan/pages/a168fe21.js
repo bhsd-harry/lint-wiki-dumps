@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,2,"duplicated category","[[Category:Chú-im]]"]]
+window.data=[["no-duplicate",17,2,"duplicated category","[[Category:Chú-im]]"],["no-duplicate",20,2,"duplicated category","[[Category:Chú-im]]"]]

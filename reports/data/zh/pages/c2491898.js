@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",91,66,"United Airlines aircraft at DIA in the morning"]]
+window.data=[["no-duplicate",91,66,"duplicated image caption parameter","United Airlines aircraft at DIA in the morning"],["no-duplicate",91,113,"duplicated image caption parameter","披上Globe塗裝的聯合航空[[空中巴士A320]](左)[[波音737|波音737-900ER]](右)在[[丹佛國際機場]]"]]

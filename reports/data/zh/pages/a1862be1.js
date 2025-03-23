@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3," national         = 人民团结（2022年至今）\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," national         = 人民团结（2022年至今）\n "],["no-duplicate",12,3,"duplicated parameter"," national = [[世界反帝国主义纲领]]<br>[[马列主义政党和组织国际会议 (国际通讯)]]（历史上）\n "]]

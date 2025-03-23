@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,3,"AreaTotal=\n "]]
+window.data=[["no-duplicate",21,3,"duplicated parameter","AreaTotal=\n "],["no-duplicate",26,3,"duplicated parameter","AreaTotal = 民生校區：0.99公頃<br>南屯校區：7.7公頃\n "]]

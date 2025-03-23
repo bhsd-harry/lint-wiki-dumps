@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",223,2,"[[Category:法國喜劇片]]"]]
+window.data=[["no-duplicate",223,2,"duplicated category","[[Category:法國喜劇片]]"],["no-duplicate",225,2,"duplicated category","[[Category:法國喜劇片]]"]]

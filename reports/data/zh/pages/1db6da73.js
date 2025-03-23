@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",47,2,"[[Category:鮑曼莫斯科國立技術大學校友]]"]]
+window.data=[["no-duplicate",47,2,"duplicated category","[[Category:鮑曼莫斯科國立技術大學校友]]"],["no-duplicate",50,2,"duplicated category","[[Category:鮑曼莫斯科國立技術大學校友]]"],["no-duplicate",48,2,"duplicated category","[[Category:蘇聯科學院院士]]"],["no-duplicate",51,2,"duplicated category","[[Category:蘇聯科學院院士]]"]]

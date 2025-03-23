@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3,"坐标 =<!-- 请使用{{Coord}}模板 -->\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter","坐标 =<!-- 请使用{{Coord}}模板 -->\n "],["no-duplicate",14,3,"duplicated parameter","坐标 = {{coord|37.69003|116.24992|format=dms|display=it}}\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",24,2,"[[Category:Linux内核接口]]"]]
+window.data=[["no-duplicate",24,2,"duplicated category","[[Category:Linux内核接口]]"],["no-duplicate",25,2,"duplicated category","[[Category:Linux内核接口]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",255,1," '''表1-1 2010和2015年服務業佔GDP之比較'''"],[1,"lonely-http",57,1346,"https://"]]
+window.data=[["lonely-http",57,1346,"lonely \"https://\"","https://"],["fostered-content",255,1,"content to be moved out from the table"," '''表1-1 2010和2015年服務業佔GDP之比較'''"],["fostered-content",276,1,"content to be moved out from the table","                             '''表1-2俄羅斯服務貿易進出口額'''"]]

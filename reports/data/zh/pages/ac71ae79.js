@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",26,151,"[[亚里士多德]]"]]
+window.data=[["nested-link",26,151,"internal link in an external link","[[亚里士多德]]"],["nested-link",26,161,"internal link in an external link","[[雅典政制]]"]]

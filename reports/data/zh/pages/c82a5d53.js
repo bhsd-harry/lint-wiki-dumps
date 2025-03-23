@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",39,2,"[[Category:中華人民共和國企業家]]"]]
+window.data=[["no-duplicate",39,2,"duplicated category","[[Category:中華人民共和國企業家]]"],["no-duplicate",44,2,"duplicated category","[[Category:中華人民共和國企業家]]"]]

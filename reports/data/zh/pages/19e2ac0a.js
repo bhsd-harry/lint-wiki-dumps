@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",24,170,"[[麦克斯韦奖章和奖金]]"]]
+window.data=[["nested-link",24,170,"internal link in an external link","[[麦克斯韦奖章和奖金]]"]]

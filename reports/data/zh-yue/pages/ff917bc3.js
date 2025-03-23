@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,1,"duplicated category","[[Category:名家| ]]"]]
+window.data=[["no-duplicate",1,1,"duplicated category","[[Category:名家| ]]"],["no-duplicate",50,2,"duplicated category","[[Category:名家]]"]]

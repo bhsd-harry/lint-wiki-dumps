@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,2,"[[Category:區塊鏈]]"]]
+window.data=[["no-duplicate",7,2,"duplicated category","[[Category:區塊鏈]]"],["no-duplicate",8,2,"duplicated category","[[Category:區塊鏈]]"]]

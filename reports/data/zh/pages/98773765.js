@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",92,4,"[["],[1,"no-ignored",92,4,"[[卫延侃]]||||月云奇||'''羽族精英会成员'''<br>'''参见[[#星辰阁|星辰阁]]'''"],[1,"parsing-order",92,33,"<br>"]]
+window.data=[["lonely-bracket",92,4,"lonely \"[\"","[["],["lonely-bracket",92,9,"lonely \"]\"","]]"],["parsing-order",92,33,"HTML tag in table attributes","<br>"],["lonely-bracket",92,42,"lonely \"[\"","[["],["lonely-bracket",92,52,"lonely \"]\"","]]"],["no-ignored",92,4,"containing invalid attribute","[[卫延侃]]||||月云奇||'''羽族精英会成员'''<br>'''参见[[#星辰阁|星辰阁]]'''"]]

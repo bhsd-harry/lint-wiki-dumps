@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,3," image_caption = 名古屋银行总部大楼\n "]]
+window.data=[["no-duplicate",22,3,"duplicated parameter"," image_caption = 名古屋银行总部大楼\n "],["no-duplicate",24,3,"duplicated parameter"," image_caption = 名古屋銀行總行（2022年5月）\n "]]

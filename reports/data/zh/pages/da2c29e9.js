@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:全俄罗斯中央执行委员会成员]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:全俄罗斯中央执行委员会成员]]"],["no-duplicate",53,2,"duplicated category","[[Category:全俄罗斯中央执行委员会成员]]"]]

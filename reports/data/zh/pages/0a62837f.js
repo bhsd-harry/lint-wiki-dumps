@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",30,869," =  \"KN\""]]
+window.data=[["no-ignored",30,869,"containing invalid attribute"," =  \"KN\""],["no-ignored",34,849,"containing invalid attribute"," =  \"UN1\""]]

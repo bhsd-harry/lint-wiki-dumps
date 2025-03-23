@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,180,"name=\"林洛瀅\""],[1,"no-ignored",26,190,"/。寺廟建成之後，原住民停止出草，地方遂有「法雲建而大湖平」之說<ref "],[1,"tag-like",26,222,"<ref"]]
+window.data=[["tag-like",26,222,"lonely \"<\"","<ref"],["no-ignored",26,190,"containing invalid attribute","/。寺廟建成之後，原住民停止出草，地方遂有「法雲建而大湖平」之說<ref "],["no-duplicate",26,180,"duplicated name attribute","name=\"林洛瀅\""],["no-duplicate",26,227,"duplicated name attribute","name=\"林錫霞1\""]]

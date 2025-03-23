@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",40,1," <gallery mode=\"packed\"  heights=\"140px\">"]]
+window.data=[["no-ignored",40,1,"invalid content in <gallery>"," <gallery mode=\"packed\"  heights=\"140px\">"]]

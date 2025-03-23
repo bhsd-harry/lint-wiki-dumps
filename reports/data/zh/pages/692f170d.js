@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",31,2,"[[Category:1985年描述的分类群|G]]"]]
+window.data=[["no-duplicate",31,2,"duplicated category","[[Category:1985年描述的分类群|G]]"],["no-duplicate",33,2,"duplicated category","[[Category:1985年描述的分类群|G]]"]]

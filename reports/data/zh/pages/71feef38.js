@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",256,4,"ONENESS"],[2,"no-ignored",256,11," (Animelo "]]
+window.data=[["illegal-attr",256,4,"illegal attribute name","ONENESS"],["illegal-attr",256,21,"illegal attribute name","Summer"],["no-ignored",256,11,"containing invalid attribute"," (Animelo "],["no-ignored",256,27,"containing invalid attribute"," Liveの曲)#2014年版"]]

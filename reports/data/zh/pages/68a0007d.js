@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",401,13,"'"],[4,"no-duplicate",720,39,"style=\"width:90%\""]]
+window.data=[["lonely-apos",401,13,"lonely \"'\"","'"],["no-duplicate",720,39,"duplicated style attribute","style=\"width:90%\""],["no-duplicate",720,58,"duplicated style attribute","style=font-size:small"],["no-duplicate",769,39,"duplicated style attribute","style=\"width:90%\""],["no-duplicate",769,58,"duplicated style attribute","style=font-size:small"]]

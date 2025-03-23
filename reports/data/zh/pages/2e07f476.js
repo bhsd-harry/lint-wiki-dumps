@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3," image = HemiglyphPlagiometorangkucing.jpg\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter"," image = HemiglyphPlagiometorangkucing.jpg\n "],["no-duplicate",7,3,"duplicated parameter"," image = HemiglyphidPlagiom3RLS.jpg\n "]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",14,60,"duplicated image caption parameter","float"]]
+window.data=[["no-duplicate",14,60,"duplicated image caption parameter","float"],["no-duplicate",14,72,"duplicated image caption parameter","''岸邊嘅牧牛人同埋河邊飲水嘅牛''，時間不詳，私人藏品"],["no-duplicate",15,42,"duplicated image caption parameter","float"],["no-duplicate",15,54,"duplicated image caption parameter","聖保祿學院"]]

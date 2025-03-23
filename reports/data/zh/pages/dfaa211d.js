@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,3," hometown                  = \n "]]
+window.data=[["no-duplicate",21,3,"duplicated parameter"," hometown                  = \n "],["no-duplicate",29,3,"duplicated parameter"," hometown = [[比什凯克]], 吉尔吉斯共和国\n "]]

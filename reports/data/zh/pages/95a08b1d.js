@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",258,39,"thumb"],[2,"unmatched-tag",174,111,"</font>"]]
+window.data=[["unmatched-tag",174,111,"unmatched closing tag","</font>"],["unmatched-tag",189,287,"unmatched closing tag","</font>"],["no-duplicate",258,39,"conflicting image frame parameter","thumb"],["no-duplicate",258,51,"conflicting image frame parameter","有框"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",72,2,"[[Category:默兹省历史]]"]]
+window.data=[["no-duplicate",72,2,"duplicated category","[[Category:默兹省历史]]"],["no-duplicate",75,2,"duplicated category","[[Category:默兹省历史]]"],["no-duplicate",77,2,"duplicated category","[[Category:1916年法国]]"],["no-duplicate",78,2,"duplicated category","[[Category:1916年法国]]"]]

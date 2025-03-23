@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,2,"[[Category:临界现象]]"]]
+window.data=[["no-duplicate",25,2,"duplicated category","[[Category:临界现象]]"],["no-duplicate",28,2,"duplicated category","[[Category:临界现象]]"]]

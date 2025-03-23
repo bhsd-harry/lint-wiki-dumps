@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,2,"[[Category:银鲈属|短体银鲈]]"]]
+window.data=[["no-duplicate",19,2,"duplicated category","[[Category:银鲈属|短体银鲈]]"],["no-duplicate",20,2,"duplicated category","[[Category:银鲈属|abbreviatus]]"]]

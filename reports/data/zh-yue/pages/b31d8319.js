@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,3,"duplicated parameter"," updatemodel            = Windows Update\n "]]
+window.data=[["no-duplicate",19,3,"duplicated parameter"," updatemodel            = Windows Update\n "],["no-duplicate",22,3,"duplicated parameter"," updatemodel         = [[Windows Update|Windows 更新]]、[[Windows 商店]]、[[Windows Server 更新服務]]\n "]]

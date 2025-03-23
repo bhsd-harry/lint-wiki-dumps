@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",145,1," 靈童戰隊"]]
+window.data=[["fostered-content",145,1,"content to be moved out from the table"," 靈童戰隊"]]

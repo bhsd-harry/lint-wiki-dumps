@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",43,34,"{{largethumb}}"]]
+window.data=[["no-duplicate",43,34,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",43,49,"duplicated image caption parameter","1967年4月29日，戴夫·戴維斯與奇想樂團在荷蘭的電視節目《''Fanclub''》上的演出"]]

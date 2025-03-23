@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3,"zh-hant:鬼影;zh-sg:冤魂;zh-cn:鬼影;\n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter","zh-hant:鬼影;zh-sg:冤魂;zh-cn:鬼影;\n "],["no-duplicate",2,3,"duplicated parameter","1=zh-cn:娜塔;zh-tw:娜妲;\n "]]

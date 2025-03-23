@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",58,1," 以下车手赢得了三冠王两种定义中任何一种中的两项赛事的冠军。"]]
+window.data=[["fostered-content",58,1,"content to be moved out from the table"," 以下车手赢得了三冠王两种定义中任何一种中的两项赛事的冠军。"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",2,41,"hochkant"]]
+window.data=[["no-duplicate",2,41,"duplicated image caption parameter","hochkant"],["no-duplicate",2,50,"duplicated image caption parameter","乔斯·穆雷尔位于纳格利霍夫的住宅"],["no-duplicate",3,38,"duplicated image caption parameter","hochkant"],["no-duplicate",3,47,"duplicated image caption parameter","乔斯·穆雷尔及其纹章"]]

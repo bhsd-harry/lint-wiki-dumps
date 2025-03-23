@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,34,"x"]]
+window.data=[["no-duplicate",33,34,"duplicated image caption parameter","x"],["no-duplicate",33,36,"duplicated image caption parameter","川普勒3在仙后座中的位置。"]]

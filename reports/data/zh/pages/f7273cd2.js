@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,58,"blank"]]
+window.data=[["no-duplicate",18,58,"duplicated image caption parameter","blank"],["no-duplicate",18,64,"duplicated image caption parameter","豐橋市市徽"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,2,"[[Category:業餘無線電]]"]]
+window.data=[["no-duplicate",65,2,"duplicated category","[[Category:業餘無線電]]"],["no-duplicate",66,2,"duplicated category","[[Category:業餘無線電]]"]]

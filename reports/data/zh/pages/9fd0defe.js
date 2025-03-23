@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",69,32,"縮略圖"]]
+window.data=[["no-duplicate",69,32,"duplicated image caption parameter","縮略圖"],["no-duplicate",69,42,"duplicated image caption parameter","慈幼會會祖[[聖若望·鮑思高]]神父"],["no-duplicate",70,35,"duplicated image caption parameter","縮略圖"],["no-duplicate",70,45,"duplicated image caption parameter","聖瑪利亞‧瑪沙利羅"]]

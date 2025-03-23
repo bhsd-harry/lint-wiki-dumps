@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",212,1," *2022年11月25日與[[潘嘉麗]]共同合唱《離家背井》"],[1,"lonely-bracket",202,2,"{{"]]
+window.data=[["lonely-bracket",202,2,"lonely \"{\"","{{"],["fostered-content",212,1,"content to be moved out from the table"," *2022年11月25日與[[潘嘉麗]]共同合唱《離家背井》"]]

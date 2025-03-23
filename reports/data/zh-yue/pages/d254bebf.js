@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,41,"duplicated image caption parameter","縮圖"]]
+window.data=[["no-duplicate",32,41,"duplicated image caption parameter","縮圖"],["no-duplicate",32,44,"duplicated image caption parameter","堆填方式嘅垃圾處理"]]

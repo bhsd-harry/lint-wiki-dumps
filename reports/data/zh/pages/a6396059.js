@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",58,410,"ISBN"],[2,"no-duplicate",92,2,"[[Category:謬誤]]"]]
+window.data=[["lonely-http",58,410,"lonely \"ISBN\"","ISBN"],["no-duplicate",92,2,"duplicated category","[[Category:謬誤]]"],["no-duplicate",94,2,"duplicated category","[[Category:謬誤]]"]]

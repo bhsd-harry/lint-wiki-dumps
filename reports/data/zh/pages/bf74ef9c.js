@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",204,5,"href"],[4,"lonely-bracket",32,620,"{{"],[1,"unclosed-table",202,2,"{|"]]
+window.data=[["lonely-bracket",32,620,"lonely \"{\"","{{"],["lonely-bracket",32,625,"lonely \"}\"","}}"],["lonely-bracket",107,270,"lonely \"{\"","{{"],["lonely-bracket",107,275,"lonely \"}\"","}}"],["illegal-attr",204,5,"illegal attribute name","href"],["unclosed-table",202,2,"unclosed table","{|"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,26,"|目標頁面名稱"]]
+window.data=[["no-ignored",1,26,"useless link text","|目標頁面名稱"]]

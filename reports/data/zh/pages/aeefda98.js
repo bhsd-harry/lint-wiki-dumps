@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",32,7,"}"],[2,"no-duplicate",57,2,"[[Category:2021年鐵路事故]]"]]
+window.data=[["lonely-bracket",32,7,"lonely \"}\"","}"],["no-duplicate",57,2,"duplicated category","[[Category:2021年鐵路事故]]"],["no-duplicate",64,2,"duplicated category","[[Category:2021年鐵路事故]]"]]

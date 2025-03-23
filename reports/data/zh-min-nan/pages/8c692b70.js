@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,2,"duplicated category","[[Category:Articles containing Japanese-language text|Category:Articles containing Japanese-language text]]"]]
+window.data=[["no-duplicate",9,2,"duplicated category","[[Category:Articles containing Japanese-language text|Category:Articles containing Japanese-language text]]"],["no-duplicate",10,2,"duplicated category","[[Category:Articles containing Japanese-language text|Category:Articles containing Japanese-language text]]"]]

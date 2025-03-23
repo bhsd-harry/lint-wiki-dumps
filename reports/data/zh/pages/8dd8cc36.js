@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",20,22," 南韓造船廠大爆單！上半年訂單激增近700%"]]
+window.data=[["no-ignored",20,22,"containing invalid attribute"," 南韓造船廠大爆單！上半年訂單激增近700%"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3," seats1           = \n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter"," seats1           = \n "],["no-duplicate",19,3,"duplicated parameter"," seats1           = {{Composition bar|2|720|hex=red}}\n "]]

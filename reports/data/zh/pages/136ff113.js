@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",5,43,"Right"]]
+window.data=[["no-duplicate",5,43,"duplicated image caption parameter","Right"],["no-duplicate",5,49,"duplicated image caption parameter","一颗A型灯泡"],["no-duplicate",21,35,"duplicated image caption parameter","Right"],["no-duplicate",21,41,"duplicated image caption parameter","一颗A60（A19）规格、E27螺口的LED灯泡"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,3," population_as_of = 2021年6月\n "]]
+window.data=[["no-duplicate",35,3,"duplicated parameter"," population_as_of = 2021年6月\n "],["no-duplicate",37,3,"duplicated parameter"," population_as_of = 2025年1月25日\n "]]

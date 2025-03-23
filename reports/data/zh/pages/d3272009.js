@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",98,2,"[[Category:氯化物]]"]]
+window.data=[["no-duplicate",98,2,"duplicated category","[[Category:氯化物]]"],["no-duplicate",103,2,"duplicated category","[[Category:氯化物]]"],["no-duplicate",100,2,"duplicated category","[[Category:金属卤化物]]"],["no-duplicate",105,2,"duplicated category","[[Category:金属卤化物]]"]]

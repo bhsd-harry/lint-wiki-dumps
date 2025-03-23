@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",68,2,"[[Category:雲林縣人|T丁]]"]]
+window.data=[["no-duplicate",68,2,"duplicated category","[[Category:雲林縣人|T丁]]"],["no-duplicate",71,2,"duplicated category","[[Category:雲林縣人|T丁]]"]]

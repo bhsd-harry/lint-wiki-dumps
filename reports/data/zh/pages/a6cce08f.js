@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",193,2,"[[Category:Lithtech引擎游戏]]"]]
+window.data=[["no-duplicate",193,2,"duplicated category","[[Category:Lithtech引擎游戏]]"],["no-duplicate",195,2,"duplicated category","[[Category:Lithtech引擎游戏]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",152,5,"[["],[1,"no-ignored",152,4,"《[[繡春刀]]》 || 趙靖忠  ||"]]
+window.data=[["lonely-bracket",152,5,"lonely \"[\"","[["],["lonely-bracket",152,10,"lonely \"]\"","]]"],["no-ignored",152,4,"containing invalid attribute","《[[繡春刀]]》 || 趙靖忠  ||"]]

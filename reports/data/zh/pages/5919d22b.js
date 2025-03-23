@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,35,"6mm "]]
+window.data=[["no-duplicate",37,35,"duplicated image caption parameter","6mm "],["no-duplicate",37,52,"duplicated image caption parameter","质量為0.12克的塑料软气枪弹"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,3," 奖项 = \n "]]
+window.data=[["no-duplicate",19,3,"duplicated parameter"," 奖项 = \n "],["no-duplicate",37,3,"duplicated parameter"," 奖项 = {{awards|最佳喜剧演员|2018年|《流氓经纪》|Bert Tan|[[亚洲影艺创意大奖]]}}\n {{awards|最佳男主角|2024年|《[[金色大道]]》|黄金条|[[红星大奖2024]]}}"]]

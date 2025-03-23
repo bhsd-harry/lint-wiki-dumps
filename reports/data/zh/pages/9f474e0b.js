@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,35,"Airport Tunnel"]]
+window.data=[["no-duplicate",9,35,"duplicated image caption parameter","Airport Tunnel"],["no-duplicate",9,56,"duplicated image caption parameter",""]]

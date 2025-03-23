@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",110,36,"upright=1.2<!--width for low image-->"]]
+window.data=[["no-duplicate",110,36,"duplicated image caption parameter","upright=1.2<!--width for low image-->"],["no-duplicate",110,74,"duplicated image caption parameter","<div class=\"center\">一隻安乐蜥打开了自己的{{le|喉扇|dewlap}}</div>"]]

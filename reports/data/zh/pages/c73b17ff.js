@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,2,"[[Category:齊姓|Liang]]"]]
+window.data=[["no-duplicate",11,2,"duplicated category","[[Category:齊姓|Liang]]"],["no-duplicate",12,2,"duplicated category","[[Category:齊姓|Liang]]"]]

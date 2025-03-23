@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,43," pattern_la1 = _left\n "],[1,"no-ignored",287,3,"!width=60%"]]
+window.data=[["no-duplicate",22,43,"duplicated parameter"," pattern_la1 = _left\n "],["no-duplicate",23,3,"duplicated parameter"," pattern_la1 = _sunderland2324h\n "],["invalid-css",115,81,"colon expected","="],["invalid-css",283,81,"colon expected","="],["no-ignored",287,3,"containing invalid attribute","!width=60%"]]

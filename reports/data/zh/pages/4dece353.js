@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",441,23,"[["],[1,"no-ignored",441,19,"  | [[Ivana Reitmayerová]]"]]
+window.data=[["lonely-bracket",441,23,"lonely \"[\"","[["],["lonely-bracket",441,43,"lonely \"]\"","]]"],["no-ignored",441,19,"containing invalid attribute","  | [[Ivana Reitmayerová]]"]]

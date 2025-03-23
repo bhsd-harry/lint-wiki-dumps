@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",245,35,"ISBN"],[1,"no-ignored",74,3,"<span style=\"color:green;\">colspan=2"],[1,"parsing-order",74,3,"<span style=\"color:green;\">"]]
+window.data=[["parsing-order",74,3,"HTML tag in table attributes","<span style=\"color:green;\">"],["no-ignored",74,3,"containing invalid attribute","<span style=\"color:green;\">colspan=2"],["lonely-http",245,35,"lonely \"ISBN\"","ISBN"]]

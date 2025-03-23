@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:卡普空人物]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:卡普空人物]]"],["no-duplicate",64,2,"duplicated category","[[Category:卡普空人物]]"]]

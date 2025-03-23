@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",43,81,"["],[2,"no-duplicate",161,2,"[[Category:韓國女歌手]]"]]
+window.data=[["lonely-bracket",43,81,"lonely \"[\"","["],["no-duplicate",161,2,"duplicated category","[[Category:韓國女歌手]]"],["no-duplicate",162,2,"duplicated category","[[Category:韓國女歌手]]"]]

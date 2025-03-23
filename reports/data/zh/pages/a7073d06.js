@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",312,2,"[[Category:台灣嘻哈音樂家]]"]]
+window.data=[["no-duplicate",312,2,"duplicated category","[[Category:台灣嘻哈音樂家]]"],["no-duplicate",573,2,"duplicated category","[[Category:台灣嘻哈音樂家]]"]]

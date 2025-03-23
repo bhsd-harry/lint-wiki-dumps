@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",770,2,"[[Category:布里斯本網球國際賽|2024 ]]"]]
+window.data=[["invalid-css",60,28,"} expected","\""],["invalid-css",61,25,"} expected","\""],["invalid-css",62,28,"} expected","\""],["invalid-css",63,25,"} expected","\""],["invalid-css",64,28,"} expected","\""],["invalid-css",65,28,"} expected","\""],["invalid-css",66,28,"} expected","\""],["no-duplicate",770,2,"duplicated category","[[Category:布里斯本網球國際賽|2024 ]]"],["no-duplicate",774,2,"duplicated category","[[Category:布里斯本網球國際賽|2024]]"]]

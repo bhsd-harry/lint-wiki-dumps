@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",72,2,"[[Category:中國文化大學教授]]"]]
+window.data=[["no-duplicate",72,2,"duplicated category","[[Category:中國文化大學教授]]"],["no-duplicate",77,2,"duplicated category","[[Category:中國文化大學教授]]"]]

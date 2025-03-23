@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",41,4,"free_label        = \n  "]]
+window.data=[["no-duplicate",41,4,"duplicated parameter","free_label        = \n  "],["no-duplicate",50,4,"duplicated parameter","free_label     = {{tsl|en|Higher education accreditation|高等教育認證}}\n  "],["no-duplicate",42,4,"duplicated parameter","free              = \n  "],["no-duplicate",49,4,"duplicated parameter","free         = {{tsl|en|Middle States Commission on Higher Education|中部各州高等教育委員會}}\n  "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",119,26,"HiWish计划下高分辨率成像科学设备显示的亚马逊区表面。44802buttes.jpg"]]
+window.data=[["no-duplicate",119,26,"duplicated image caption parameter","HiWish计划下高分辨率成像科学设备显示的亚马逊区表面。44802buttes.jpg"],["no-duplicate",119,71,"duplicated image caption parameter","HiWish计划下高分辨率成像科学设备显示的吕科斯沟脊地的岩层特征。"]]

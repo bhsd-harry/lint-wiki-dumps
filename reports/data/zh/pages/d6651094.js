@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",98,1,"\n === 電台 ==="],[1,"unclosed-table",75,2,"{|"]]
+window.data=[["fostered-content",98,1,"content to be moved out from the table","\n === 電台 ==="],["unclosed-table",75,2,"unclosed table","{|"],["invalid-css",485,22,"colon expected",";"]]

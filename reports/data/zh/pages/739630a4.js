@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",400,2,"[[Category:法國行政區劃|大區]]"]]
+window.data=[["no-duplicate",400,2,"duplicated category","[[Category:法國行政區劃|大區]]"],["no-duplicate",402,2,"duplicated category","[[Category:法國行政區劃|大區]]"]]

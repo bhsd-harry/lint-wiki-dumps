@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,3,"duplicated parameter","logo = Thai Airways International.svg\n "],[1,"unmatched-tag",43,27,"unmatched closing tag","</small>"]]
+window.data=[["no-duplicate",14,3,"duplicated parameter","logo = Thai Airways International.svg\n "],["no-duplicate",15,3,"duplicated parameter","logo=Thai_Airways_logo.png\n "],["unmatched-tag",43,27,"unmatched closing tag","</small>"]]

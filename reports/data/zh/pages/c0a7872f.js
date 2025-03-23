@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",76,91,"[[King Lear]]"]]
+window.data=[["nested-link",76,91,"internal link in an external link","[[King Lear]]"],["nested-link",76,108,"internal link in an external link","[[Chichester Festival Theatre]]"]]

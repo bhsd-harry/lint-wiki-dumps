@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",122,2,"[[Category:特莱维萨小說連續劇]]"]]
+window.data=[["no-duplicate",122,2,"duplicated category","[[Category:特莱维萨小說連續劇]]"],["no-duplicate",124,2,"duplicated category","[[Category:特莱维萨小說連續劇]]"]]

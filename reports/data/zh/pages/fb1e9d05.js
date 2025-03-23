@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,2,"[[Category:辽宁三级甲等医院]]"]]
+window.data=[["no-duplicate",22,2,"duplicated category","[[Category:辽宁三级甲等医院]]"],["no-duplicate",29,2,"duplicated category","[[Category:辽宁三级甲等医院]]"]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",28,3," cn_name = \n "]]
+window.data=[["no-duplicate",28,3,"duplicated parameter"," cn_name = \n "],["no-duplicate",40,3,"duplicated parameter"," cn_name = \n "],["no-duplicate",29,3,"duplicated parameter"," hk_name = \n "],["no-duplicate",39,3,"duplicated parameter"," hk_name = 夏培的星光大道\n "],["no-duplicate",30,3,"duplicated parameter"," tw_name = \n "],["no-duplicate",35,3,"duplicated parameter"," tw_name = 夏培的星光大道\n "]]

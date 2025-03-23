@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",79,2,"[[Category:臺北市民政局局長|L藍]]"],[2,"unmatched-tag",30,2,"</div>"]]
+window.data=[["unmatched-tag",30,2,"unmatched closing tag","</div>"],["unmatched-tag",45,2,"unmatched closing tag","</div>"],["no-duplicate",79,2,"duplicated category","[[Category:臺北市民政局局長|L藍]]"],["no-duplicate",81,2,"duplicated category","[[Category:臺北市民政局局長]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",196,2,"[[Category:詹姆斯·克拉克·馬克士威|*]]"],[4,"unmatched-tag",43,53,"</blockquote>"]]
+window.data=[["unmatched-tag",43,53,"unmatched closing tag","</blockquote>"],["unmatched-tag",112,10,"unmatched closing tag","</blockquote>"],["unmatched-tag",128,44,"unmatched closing tag","</blockquote>"],["unmatched-tag",132,60,"unmatched closing tag","</blockquote>"],["no-duplicate",196,2,"duplicated category","[[Category:詹姆斯·克拉克·馬克士威|*]]"],["no-duplicate",223,2,"duplicated category","[[Category:詹姆斯·克拉克·馬克士威| ]]"]]

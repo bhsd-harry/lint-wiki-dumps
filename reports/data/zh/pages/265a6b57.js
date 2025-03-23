@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",89,31,"{{zh|1=梅州百岁山登山入口正门牌坊}}"]]
+window.data=[["no-duplicate",89,31,"duplicated image caption parameter","{{zh|1=梅州百岁山登山入口正门牌坊}}"],["no-duplicate",89,54,"duplicated image caption parameter","百岁山登山入口"]]

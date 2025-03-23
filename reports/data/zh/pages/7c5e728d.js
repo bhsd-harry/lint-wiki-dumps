@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",56,65,"链接=https://en.wikipedia.org/wiki/File:Russian Ballet in Paris - New York Times 1913-06-08.png"]]
+window.data=[["no-duplicate",56,65,"duplicated image caption parameter","链接=https://en.wikipedia.org/wiki/File:Russian Ballet in Paris - New York Times 1913-06-08.png"],["no-duplicate",56,165,"duplicated image caption parameter","九天后，《[[纽约时报]]》报道了这场轰动的首演<ref>''[[The New York Times]]'' (8 June 1913). [https://timesmachine.nytimes.com/timesmachine/1913/06/08/100627576.pdf  \"Paris"]]

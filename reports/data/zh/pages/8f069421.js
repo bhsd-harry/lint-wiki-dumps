@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",396,72,"Shiqicun Bridge of G8011 Kaihe Expressway (20200126144022)"]]
+window.data=[["no-duplicate",396,72,"duplicated image caption parameter","Shiqicun Bridge of G8011 Kaihe Expressway (20200126144022)"],["no-duplicate",396,137,"duplicated image caption parameter","[[开河高速公路|开河高速]][[草坝镇 (蒙自市)|蒙自草坝]]段"],["no-duplicate",404,52,"duplicated image caption parameter","220_at_Mengzi_Erzhong_(20230405101703)"],["no-duplicate",404,97,"duplicated image caption parameter","蒙自市35路公交"],["invalid-css",621,57,"property value expected",""]]

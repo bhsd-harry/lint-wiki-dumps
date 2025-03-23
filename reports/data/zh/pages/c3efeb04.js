@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",48,1," <math>\\ 0=[[L_m,L_n],L_0]+[[L_n,L_0],L_m]+[[L_0,L_m],L_n]</math>"]]
+window.data=[["fostered-content",48,1,"content to be moved out from the table"," <math>\\ 0=[[L_m,L_n],L_0]+[[L_n,L_0],L_m]+[[L_0,L_m],L_n]</math>"],["fostered-content",59,1,"content to be moved out from the table"," <math>\\ 0=[[L_{-n+1},L_n],L_{-1}]+[[L_n,L_{-1}],L_{-n+1}]+[[L_{-1},L_{-n+1}],L_n]</math>"]]

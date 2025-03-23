@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",645,2,"[[Category:Aniplex動畫作品]]"]]
+window.data=[["no-duplicate",645,2,"duplicated category","[[Category:Aniplex動畫作品]]"],["no-duplicate",671,2,"duplicated category","[[Category:Aniplex動畫作品]]"]]

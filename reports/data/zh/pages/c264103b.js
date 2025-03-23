@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",56,1," * 牙科卫生学科"]]
+window.data=[["fostered-content",56,1,"content to be moved out from the table"," * 牙科卫生学科"],["fostered-content",60,1,"content to be moved out from the table"," * 商科<ref group=\"注\"  name=\"招生到1952年\"/>\n ** 第一部<ref group=\"注\"  name=\"招生到1952年\"/>\n ** [[夜校|第二部]]<ref group=\"注\"  name=\"招生到1952年\"/>\n * 人类文化学科[[夜校|第二部]]<re"]]

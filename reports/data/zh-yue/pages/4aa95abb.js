@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,3,"duplicated parameter","flag_type   = 皇旗<sup>a</sup>\n "]]
+window.data=[["no-duplicate",35,3,"duplicated parameter","flag_type   = 皇旗<sup>a</sup>\n "],["no-duplicate",37,3,"duplicated parameter","flag_type   = 國旗\n "]]

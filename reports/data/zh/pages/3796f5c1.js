@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",55,1," * 生活科学学科\n ** 医疗卫生学科\n ** [[醫檢師|医疗检查]]专攻\n * 牙科卫生专攻\n * 幼儿保育学科\n * 护理学科"]]
+window.data=[["fostered-content",55,1,"content to be moved out from the table"," * 生活科学学科\n ** 医疗卫生学科\n ** [[醫檢師|医疗检查]]专攻\n * 牙科卫生专攻\n * 幼儿保育学科\n * 护理学科"],["fostered-content",64,1,"content to be moved out from the table"," * 食物营养科<ref group=\"注\"  name=\"食物营养科\"/>\n * [[醫檢師|卫生技术]]科<ref group=\"注\"  name=\"卫生技术科\"/>\n * 保健科<ref group=\"注\"  name=\"保健专攻停办\"/>\n ** 保健专攻<ref group=\"注\"  na"]]

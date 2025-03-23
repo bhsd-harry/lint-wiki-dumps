@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,3," railways administration =\n "]]
+window.data=[["no-duplicate",18,3,"duplicated parameter"," railways administration =\n "],["no-duplicate",19,3,"duplicated parameter"," railways administration ={{TRA}}（2023年12月31日止）\n "]]

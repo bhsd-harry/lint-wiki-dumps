@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,2,"[[Category:台灣特有種|H]]"]]
+window.data=[["no-duplicate",25,2,"duplicated category","[[Category:台灣特有種|H]]"],["no-duplicate",26,2,"duplicated category","[[Category:台灣特有種|H]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",30,78,"[["],[2,"no-duplicate",30,46,"name=\"宋孝先\""],[1,"no-ignored",30,56,"/。1961年6月，獲選加入隊長羅化平領軍的[[中華民國空軍雷虎特技小組|雷虎空中特技小組]]<ref "],[1,"tag-like",30,103,"<ref"]]
+window.data=[["lonely-bracket",30,78,"lonely \"[\"","[["],["lonely-bracket",30,101,"lonely \"]\"","]]"],["tag-like",30,103,"lonely \"<\"","<ref"],["no-ignored",30,56,"containing invalid attribute","/。1961年6月，獲選加入隊長羅化平領軍的[[中華民國空軍雷虎特技小組|雷虎空中特技小組]]<ref "],["no-duplicate",30,46,"duplicated name attribute","name=\"宋孝先\""],["no-duplicate",30,108,"duplicated name attribute","name=\"生平事略\""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",79,39,"iMac G3(邦迪蓝)"]]
+window.data=[["no-duplicate",79,39,"duplicated image caption parameter","iMac G3(邦迪蓝)"],["no-duplicate",79,52,"duplicated image caption parameter","第一代iMac"]]

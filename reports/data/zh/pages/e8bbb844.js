@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",24,3,"s1 = 华北人民政府\n "]]
+window.data=[["no-duplicate",24,3,"duplicated parameter","s1 = 华北人民政府\n "],["no-duplicate",26,3,"duplicated parameter","s1 = 中南军政委员会\n "],["no-duplicate",25,3,"duplicated parameter","flag_s1 = Flag of the Chinese Communist Party (Pre-1996).svg\n "],["no-duplicate",27,3,"duplicated parameter","flag_s1 = Flag of the People's Liberation Army.svg\n "]]

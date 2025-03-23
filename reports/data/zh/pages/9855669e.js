@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",23,2,"[[Category:國立臺北大學教授]]"]]
+window.data=[["no-duplicate",23,2,"duplicated category","[[Category:國立臺北大學教授]]"],["no-duplicate",28,2,"duplicated category","[[Category:國立臺北大學教授]]"],["no-duplicate",25,2,"duplicated category","[[Category:高雄市立高雄高級中學校友]]"],["no-duplicate",30,2,"duplicated category","[[Category:高雄市立高雄高級中學校友]]"],["no-duplicate",32,2,"duplicated category","[[Category:威斯康辛大學麥迪遜分校校友]]"],["no-duplicate",33,2,"duplicated category","[[Category:威斯康辛大學麥迪遜分校校友]]"]]

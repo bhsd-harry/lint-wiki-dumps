@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",261,62,"]"],[1,"no-ignored",545,24,"池野文雄"]]
+window.data=[["lonely-bracket",261,62,"lonely \"]\"","]"],["no-ignored",545,24,"containing invalid attribute","池野文雄"]]

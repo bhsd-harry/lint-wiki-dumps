@@ -1,1 +1,1 @@
-window.data=[[5,"no-ignored",135,43," style"],[3,"unmatched-tag",5,82,"</span>"]]
+window.data=[["unmatched-tag",5,82,"unmatched closing tag","</span>"],["unmatched-tag",90,101,"unclosed tag","<small>"],["no-ignored",135,43,"attributes of a closing tag"," style"],["no-ignored",137,46,"attributes of a closing tag"," style"],["no-ignored",139,46,"attributes of a closing tag"," style"],["no-ignored",260,43,"attributes of a closing tag"," style"],["no-ignored",260,103,"attributes of a closing tag"," style"],["unmatched-tag",291,22,"unmatched closing tag","</small>"]]

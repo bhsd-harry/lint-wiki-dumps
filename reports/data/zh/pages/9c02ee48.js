@@ -1,1 +1,1 @@
-window.data=[[3,"nested-link",190,54,"[[太阳神号]]"]]
+window.data=[["nested-link",190,54,"internal link in an external link","[[太阳神号]]"],["nested-link",190,63,"internal link in an external link","[[尤利西斯号]]"],["nested-link",191,59,"internal link in an external link","[[CHAMP|小卫星挑战计划]]"]]

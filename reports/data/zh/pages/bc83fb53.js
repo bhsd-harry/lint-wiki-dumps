@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",101,39,"Left"]]
+window.data=[["no-duplicate",101,39,"duplicated image caption parameter","Left"],["no-duplicate",101,44,"duplicated image caption parameter","比利亚成为巴萨一员"]]

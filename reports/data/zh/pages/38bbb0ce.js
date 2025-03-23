@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",71,45,"Add a one-line explanation of what this file represents"]]
+window.data=[["no-duplicate",71,45,"duplicated image caption parameter","Add a one-line explanation of what this file represents"],["no-duplicate",71,107,"duplicated image caption parameter","澳門居民身份證（1992年版）"],["no-duplicate",72,45,"duplicated image caption parameter","Add a one-line explanation of what this file represents"],["no-duplicate",72,107,"duplicated image caption parameter","澳門居民身份證（1996年版）"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",374,24,"Audio-Video"],[1,"no-ignored",374,3,"[Związek Producentów "]]
+window.data=[["illegal-attr",374,24,"illegal attribute name","Audio-Video"],["no-ignored",374,3,"containing invalid attribute","[Związek Producentów "]]

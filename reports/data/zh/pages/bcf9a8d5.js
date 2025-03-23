@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",506,48," 節目來賓 "],[1,"unmatched-tag",478,2,"</center>"]]
+window.data=[["invalid-css",30,11,"} expected","|"],["invalid-css",32,11,"} expected","|"],["invalid-css",34,11,"} expected","|"],["invalid-css",36,11,"} expected","|"],["invalid-css",47,11,"} expected","|"],["invalid-css",49,11,"} expected","|"],["invalid-css",51,11,"} expected","|"],["invalid-css",63,12,"} expected","|"],["unmatched-tag",478,2,"unmatched closing tag","</center>"],["no-ignored",506,48,"containing invalid attribute"," 節目來賓 "]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",122,33,"style=\"border-collapse:collapse\""]]
+window.data=[["no-duplicate",122,33,"duplicated style attribute","style=\"border-collapse:collapse\""],["no-duplicate",122,67,"duplicated style attribute","style=\"font-size:80%\""],["no-duplicate",399,44,"duplicated image caption parameter","東日本電信電話"],["no-duplicate",399,52,"duplicated image caption parameter","NTT東日本千住大樓"]]

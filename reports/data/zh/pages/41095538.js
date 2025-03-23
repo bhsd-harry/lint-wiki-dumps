@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",54,2,"[[Category:K聯賽球員]]"]]
+window.data=[["no-duplicate",54,2,"duplicated category","[[Category:K聯賽球員]]"],["no-duplicate",62,2,"duplicated category","[[Category:K聯賽球員]]"]]

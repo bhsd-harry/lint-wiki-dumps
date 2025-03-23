@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",10,3," regent       = [[馬克西米利安一世 (神聖羅馬帝國)|馬克西米利安一世]]（1486-1493）\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter"," regent       = [[馬克西米利安一世 (神聖羅馬帝國)|馬克西米利安一世]]（1486-1493）\n "],["no-duplicate",19,3,"duplicated parameter"," regent       = [[阿尔布雷希特六世 (奥地利)|阿尔布雷希特六世]]（1457-1463）\n "],["no-duplicate",24,3,"duplicated parameter"," regent       = [[阿尔布雷希特六世 (奥地利)|阿尔布雷希特六世]]（1424-1463）\n "]]

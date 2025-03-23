@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",114,35,"]]"],[4,"no-duplicate",177,2,"[[Category:比利時抵抗運動]]"]]
+window.data=[["lonely-bracket",114,35,"lonely \"]\"","]]"],["lonely-bracket",129,155,"lonely \"]\"","]]"],["no-duplicate",177,2,"duplicated category","[[Category:比利時抵抗運動]]"],["no-duplicate",182,2,"duplicated category","[[Category:比利時抵抗運動]]"],["no-duplicate",179,2,"duplicated category","[[Category:特別行動執行處]]"],["no-duplicate",184,2,"duplicated category","[[Category:特別行動執行處]]"]]

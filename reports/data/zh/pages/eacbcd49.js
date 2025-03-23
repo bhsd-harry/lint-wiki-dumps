@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",132,1," 2||[[川崎前鋒]]||72||34||22||6||6||68||39||+29"],[1,"lonely-bracket",133,10,"]]"]]
+window.data=[["lonely-bracket",133,10,"lonely \"]\"","]]"],["fostered-content",132,1,"content to be moved out from the table"," 2||[[川崎前鋒]]||72||34||22||6||6||68||39||+29"]]

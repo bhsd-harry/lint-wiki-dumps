@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3," 道路英文名 = Guangfo Shinkansen\n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter"," 道路英文名 = Guangfo Shinkansen\n "],["no-duplicate",14,3,"duplicated parameter"," 道路英文名 = Guangfo Shinkansen\n "]]

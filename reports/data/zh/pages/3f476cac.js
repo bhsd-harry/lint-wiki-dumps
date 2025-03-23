@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",128,2,"[[Category:康熙三十八年己卯科順天鄉試舉人]]"]]
+window.data=[["no-duplicate",128,2,"duplicated category","[[Category:康熙三十八年己卯科順天鄉試舉人]]"],["no-duplicate",134,2,"duplicated category","[[Category:康熙三十八年己卯科順天鄉試舉人]]"]]

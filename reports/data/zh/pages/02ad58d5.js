@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",62,1," * 生活造型学科\n * 英语交流学科"]]
+window.data=[["fostered-content",62,1,"content to be moved out from the table"," * 生活造型学科\n * 英语交流学科"],["fostered-content",67,1,"content to be moved out from the table"," * 基督教科<ref group=\"注\"  name=\"招生到1965年\"/>\n * 生活造型学科\n * 生活科学科<ref group=\"注\"  name=\"招生到2004年\"/>\n ** 生活科学专攻<ref group=\"注\"  name=\"招生到2004年\"/>\n ** 食物营养专攻<re"]]

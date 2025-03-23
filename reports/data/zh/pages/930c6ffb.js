@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,3,"zh-cn:库里蒂巴;zh-tw:古里提巴;\n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter","zh-cn:库里蒂巴;zh-tw:古里提巴;\n "],["no-duplicate",6,3,"duplicated parameter","1=zh-tw:公車捷運系統;zh-cn:快速公交系统;zh-hk:巴士快速交通系統;zh-sg:快捷巴士系统;\n "]]

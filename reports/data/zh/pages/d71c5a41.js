@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",169,2,"[[Category:陆军士官学校校友 (日本)]]"]]
+window.data=[["no-duplicate",169,2,"duplicated category","[[Category:陆军士官学校校友 (日本)]]"],["no-duplicate",172,2,"duplicated category","[[Category:陆军士官学校校友 (日本)]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,81,"HK_Mid-Levels_Old_Peak_Road_Dynasty_Court_carpark_entrance_Oct-2012"]]
+window.data=[["no-duplicate",20,81,"duplicated image caption parameter","HK_Mid-Levels_Old_Peak_Road_Dynasty_Court_carpark_entrance_Oct-2012"],["no-duplicate",20,161,"duplicated image caption parameter","屋苑出入口"]]

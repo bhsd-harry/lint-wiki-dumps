@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",34,2,"[[Category:正交多项式]]"]]
+window.data=[["no-duplicate",34,2,"duplicated category","[[Category:正交多项式]]"],["no-duplicate",46,2,"duplicated category","[[Category:正交多项式]]"],["no-duplicate",35,2,"duplicated category","[[Category:Q-模拟]]"],["no-duplicate",47,2,"duplicated category","[[Category:Q-模拟]]"]]

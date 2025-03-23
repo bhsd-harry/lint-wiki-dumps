@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",97,3," 2024  = 第三章 – Deep Sleep\n "]]
+window.data=[["no-duplicate",97,3,"duplicated parameter"," 2024  = 第三章 – Deep Sleep\n "],["no-duplicate",98,3,"duplicated parameter"," 2024  = 第二章與第三章[[系統控制臺]]發佈\n "],["no-duplicate",99,3,"duplicated parameter"," 2024  = 第三章的iOS與Android版發布\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",72,84,"Encuentro_con_Quino,_en_el_Salón_del_Libro_de_París_2014_(13333800253)"]]
+window.data=[["no-duplicate",72,84,"duplicated image caption parameter","Encuentro_con_Quino,_en_el_Salón_del_Libro_de_París_2014_(13333800253)"],["no-duplicate",72,155,"duplicated image caption parameter","2014年，阿根廷驻法国大使向季诺颁发荣誉军团勋章。"]]

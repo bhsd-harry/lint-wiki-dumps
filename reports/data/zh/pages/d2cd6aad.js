@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",18,2,"[[分类:被謀殺的美國兒童]]"]]
+window.data=[["no-duplicate",18,2,"duplicated category","[[分类:被謀殺的美國兒童]]"],["no-duplicate",24,2,"duplicated category","[[Category:被謀殺的美國兒童]]"],["no-duplicate",20,2,"duplicated category","[[Category:針對男孩的暴力事件]]"],["no-duplicate",23,2,"duplicated category","[[Category:針對男孩的暴力事件]]"]]

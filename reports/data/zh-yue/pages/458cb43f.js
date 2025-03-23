@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,63,"duplicated parameter","信楽町"]]
+window.data=[["no-duplicate",2,63,"duplicated parameter","信楽町"],["no-duplicate",2,60,"duplicated parameter","1="]]

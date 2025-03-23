@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,73,"{{largethumb}}"]]
+window.data=[["no-duplicate",7,73,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",7,88,"duplicated image caption parameter","世界各地15至19歲女性的生育率（每年、每一千名女性）"]]

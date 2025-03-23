@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",206,2,"[[Category:以色列軍事事件]]"]]
+window.data=[["no-duplicate",206,2,"duplicated category","[[Category:以色列軍事事件]]"],["no-duplicate",210,2,"duplicated category","[[Category:以色列軍事事件]]"]]

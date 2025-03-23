@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,3,"職業 = [[聲優]]、[[作家]]、[[代表取締役]][[社長]]\n "]]
+window.data=[["no-duplicate",15,3,"duplicated parameter","職業 = [[聲優]]、[[作家]]、[[代表取締役]][[社長]]\n "],["no-duplicate",18,3,"duplicated parameter","職業 = 聲優\n "]]

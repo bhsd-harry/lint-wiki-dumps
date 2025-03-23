@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",51,1," [[File:Velia.jpg|thumb|right|200px|Porta Rosa]]"]]
+window.data=[["no-ignored",51,1,"invalid content in <gallery>"," [[File:Velia.jpg|thumb|right|200px|Porta Rosa]]"]]

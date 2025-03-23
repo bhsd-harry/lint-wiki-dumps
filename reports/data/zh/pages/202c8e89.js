@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",36,24,"300px"],[2,"no-duplicate",36,20,"nhỏ"]]
+window.data=[["invalid-gallery",36,24,"invalid image parameter","300px"],["no-duplicate",36,20,"duplicated image caption parameter","nhỏ"],["no-duplicate",36,30,"duplicated image caption parameter","南門全景"]]

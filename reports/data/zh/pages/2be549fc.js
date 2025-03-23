@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",34,2,"[[Category:美国历史学家]]"],[1,"unmatched-tag",23,50,"</small>"]]
+window.data=[["unmatched-tag",23,50,"unmatched closing tag","</small>"],["no-duplicate",34,2,"duplicated category","[[Category:美国历史学家]]"],["no-duplicate",39,2,"duplicated category","[[Category:美国历史学家]]"]]

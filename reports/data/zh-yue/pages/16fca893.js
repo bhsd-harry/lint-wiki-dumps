@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3,"duplicated parameter"," 顏色= #DA70D6\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter"," 顏色= #DA70D6\n "],["no-duplicate",6,3,"duplicated parameter"," 顏色= #DA70D6\n "]]

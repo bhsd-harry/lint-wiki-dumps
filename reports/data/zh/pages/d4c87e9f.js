@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",483,2,"[[Category:已不存在的西亚君主国]]"]]
+window.data=[["no-duplicate",483,2,"duplicated category","[[Category:已不存在的西亚君主国]]"],["no-duplicate",487,2,"duplicated category","[[Category:已不存在的西亚君主国]]"],["no-duplicate",484,2,"duplicated category","[[Category:亚洲历史上的王国]]"],["no-duplicate",488,2,"duplicated category","[[Category:亚洲历史上的王国]]"]]

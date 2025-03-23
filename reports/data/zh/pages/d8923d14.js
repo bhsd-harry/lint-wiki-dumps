@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3,"1=zh-hans:博德闪耀足球俱乐部;zh-hk:波杜基林特足球會;zh-tw:波德閃耀足球俱樂部;\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter","1=zh-hans:博德闪耀足球俱乐部;zh-hk:波杜基林特足球會;zh-tw:波德閃耀足球俱樂部;\n "],["no-duplicate",6,3,"duplicated parameter","1=zh-hans:博德闪耀;zh-hk:波杜基林特;zh-tw:波德閃耀;\n "]]

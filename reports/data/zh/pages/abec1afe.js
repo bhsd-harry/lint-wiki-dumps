@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3,"1=義大利地名\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter","1=義大利地名\n "],["no-duplicate",3,3,"duplicated parameter","1=zh-cn:那不勒斯; zh-tw:拿坡里; zh-hk:拿坡里;\n "]]

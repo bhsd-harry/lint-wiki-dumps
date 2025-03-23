@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",47,36,"widthpx"]]
+window.data=[["no-duplicate",47,36,"duplicated image caption parameter","widthpx"],["no-duplicate",47,44,"duplicated image caption parameter","1990年代早期Unix平台上執行的X Window System"]]

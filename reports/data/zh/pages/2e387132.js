@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,53,"芬兰航空博物馆中的"]]
+window.data=[["no-duplicate",11,53,"duplicated image caption parameter","芬兰航空博物馆中的"],["no-duplicate",11,63,"duplicated image caption parameter","W.W.S. 1 Salamandra滑翔机"]]

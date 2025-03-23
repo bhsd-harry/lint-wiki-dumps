@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",75,39,"Zhan Catalyst-II"]]
+window.data=[["no-duplicate",75,39,"duplicated image caption parameter","Zhan Catalyst-II"],["no-duplicate",75,56,"duplicated image caption parameter","詹氏催化剂-II结构，X表示树脂或PEG载体"]]

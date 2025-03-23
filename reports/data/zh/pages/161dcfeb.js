@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",21,182,"[[Japanese Movie Database|JMDB]]"]]
+window.data=[["nested-link",21,182,"internal link in an external link","[[Japanese Movie Database|JMDB]]"]]

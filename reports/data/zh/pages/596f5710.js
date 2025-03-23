@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",66,1," <!--"],[2,"unmatched-tag",26,251,"</blockquote>"]]
+window.data=[["unmatched-tag",26,251,"unmatched closing tag","</blockquote>"],["unmatched-tag",27,62,"unmatched closing tag","</blockquote>"],["no-ignored",66,1,"invalid content in <gallery>"," <!--"],["no-ignored",73,1,"invalid content in <gallery>"," -->"]]

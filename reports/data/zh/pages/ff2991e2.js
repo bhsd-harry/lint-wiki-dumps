@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,62,"center"]]
+window.data=[["no-duplicate",3,62,"duplicated image center parameter","center"],["no-duplicate",3,81,"duplicated image center parameter","center"]]

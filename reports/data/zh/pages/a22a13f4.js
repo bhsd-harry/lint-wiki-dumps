@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",96,2,"[[Category:基隆市旅遊景點]]"]]
+window.data=[["no-duplicate",96,2,"duplicated category","[[Category:基隆市旅遊景點]]"],["no-duplicate",98,2,"duplicated category","[[Category:基隆市旅遊景點]]"]]

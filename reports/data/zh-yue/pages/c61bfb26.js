@@ -1,1 +1,1 @@
-window.data=[[3,"invalid-css",300,23,"property value expected","#5BAD92；"],[2,"no-duplicate",79,52,"duplicated style attribute","style=\"width:100%\""]]
+window.data=[["no-duplicate",79,52,"duplicated style attribute","style=\"width:100%\""],["no-duplicate",79,72,"duplicated style attribute","style=font-size:small"],["invalid-css",300,23,"property value expected","#5BAD92；"],["invalid-css",300,63,"{ expected",";"],["invalid-css",300,82,"{ expected",";"]]

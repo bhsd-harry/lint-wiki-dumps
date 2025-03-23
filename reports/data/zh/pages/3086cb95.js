@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",45,24,"[["],[2,"no-duplicate",60,256,"Wm=[[颜威明]]"]]
+window.data=[["lonely-bracket",45,24,"lonely \"[\"","[["],["lonely-bracket",45,26,"lonely \"]\"","]]"],["no-duplicate",60,256,"duplicated parameter","Wm=[[颜威明]]"],["no-duplicate",60,455,"duplicated parameter","Wm=[[颜微明]]"]]

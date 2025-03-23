@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,2,"[[分类:昆山人]]"]]
+window.data=[["no-duplicate",18,2,"duplicated category","[[分类:昆山人]]"],["no-duplicate",30,2,"duplicated category","[[category:昆山人]]"]]

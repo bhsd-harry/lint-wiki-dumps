@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1665,2,"[[Category:2020年夏季帕拉林匹克運動會代表團]]"]]
+window.data=[["no-duplicate",1665,2,"duplicated category","[[Category:2020年夏季帕拉林匹克運動會代表團]]"],["no-duplicate",1668,2,"duplicated category","[[Category:2020年夏季帕拉林匹克運動會代表團|USA]]"]]

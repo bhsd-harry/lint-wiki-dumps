@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",45,82,"[[希夫·安德拉斯]]"]]
+window.data=[["nested-link",45,82,"internal link in an external link","[[希夫·安德拉斯]]"],["nested-link",48,95,"internal link in an external link","[[伊莎貝拉嘉納藝術博物館]]"]]

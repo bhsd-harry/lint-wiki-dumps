@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,3," residence = [[桃園市]][[龜山區]]\n "]]
+window.data=[["no-duplicate",22,3,"duplicated parameter"," residence = [[桃園市]][[龜山區]]\n "],["no-duplicate",23,3,"duplicated parameter","residence = [[桃園市]][[龜山區]]\n "]]

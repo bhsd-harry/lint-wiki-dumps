@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1030,2,"[[Category:台灣廣播主持人|邵]]"],[1,"no-ignored",663,4,"與李翊君對唱\t"]]
+window.data=[["no-ignored",663,4,"containing invalid attribute","與李翊君對唱\t"],["no-duplicate",1030,2,"duplicated category","[[Category:台灣廣播主持人|邵]]"],["no-duplicate",1032,2,"duplicated category","[[Category:台灣廣播主持人]]"]]

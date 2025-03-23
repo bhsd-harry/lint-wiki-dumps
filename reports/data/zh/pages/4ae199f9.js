@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",841,2,"[[Category:奧斯卡金像獎名單]]"]]
+window.data=[["no-duplicate",841,2,"duplicated category","[[Category:奧斯卡金像獎名單]]"],["no-duplicate",847,2,"duplicated category","[[Category:奧斯卡金像獎名單]]"]]

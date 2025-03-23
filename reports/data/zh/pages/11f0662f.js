@@ -1,1 +1,1 @@
-window.data=[[5,"lonely-bracket",75,11,"[["],[1,"no-ignored",75,4,"2007年||[[華視]][、[八大電視|八大]]《[[熱情仲夏]]》||歐楊累"]]
+window.data=[["lonely-bracket",75,11,"lonely \"[\"","[["],["lonely-bracket",75,15,"lonely \"]\"","]]"],["lonely-bracket",75,27,"lonely \"]\"","]]"],["lonely-bracket",75,30,"lonely \"[\"","[["],["lonely-bracket",75,36,"lonely \"]\"","]]"],["no-ignored",75,4,"containing invalid attribute","2007年||[[華視]][、[八大電視|八大]]《[[熱情仲夏]]》||歐楊累"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",48,21,"lift"]]
+window.data=[["no-duplicate",48,21,"duplicated image caption parameter","lift"],["no-duplicate",48,38,"duplicated image caption parameter","英國發售的銀色版IPhone 7 的包裝、配件與手機本體"]]

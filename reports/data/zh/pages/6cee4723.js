@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",31,52,"香美市位置圖"]]
+window.data=[["no-duplicate",31,52,"duplicated image caption parameter","香美市位置圖"],["no-duplicate",31,59,"duplicated image caption parameter",""]]

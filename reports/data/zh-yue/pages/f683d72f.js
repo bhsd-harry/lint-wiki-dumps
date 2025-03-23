@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,3,"duplicated parameter"," 時區 = \n "],[2,"unmatched-tag",30,18,"tag that is both closing and self-closing","</br>"]]
+window.data=[["unmatched-tag",30,18,"tag that is both closing and self-closing","</br>"],["unmatched-tag",34,17,"tag that is both closing and self-closing","</br>"],["no-duplicate",16,3,"duplicated parameter"," 時區 = \n "],["no-duplicate",33,3,"duplicated parameter","時區 = UTC+0<br>\n （[[夏時制]]：UTC+1）</br>\n "]]

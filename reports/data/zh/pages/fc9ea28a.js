@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",55,372,"[[Sergei Novikov (mathematician)|S. P. Novikov]]"]]
+window.data=[["nested-link",55,372,"internal link in an external link","[[Sergei Novikov (mathematician)|S. P. Novikov]]"]]

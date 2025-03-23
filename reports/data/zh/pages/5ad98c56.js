@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",3,86,"[[歷史 (希羅多德)|历史]]"]]
+window.data=[["nested-link",3,86,"internal link in an external link","[[歷史 (希羅多德)|历史]]"]]

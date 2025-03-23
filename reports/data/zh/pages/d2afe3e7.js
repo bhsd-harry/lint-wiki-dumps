@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3," image = \n "],[1,"unmatched-tag",9,52,"<small>"]]
+window.data=[["unmatched-tag",9,52,"unclosed tag","<small>"],["no-duplicate",2,3,"duplicated parameter"," image = \n "],["no-duplicate",3,3,"duplicated parameter"," image = Raja maderensis.jpg\n "]]

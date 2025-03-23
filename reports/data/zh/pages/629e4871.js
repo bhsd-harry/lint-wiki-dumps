@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",178,2,"[[Category:乌克兰语言学家]]"]]
+window.data=[["no-duplicate",178,2,"duplicated category","[[Category:乌克兰语言学家]]"],["no-duplicate",181,2,"duplicated category","[[Category:乌克兰语言学家]]"]]

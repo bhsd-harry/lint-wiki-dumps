@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,26,"reason="]]
+window.data=[["no-duplicate",1,26,"duplicated parameter","reason="],["no-duplicate",1,34,"duplicated parameter","reason=允許免術換證的判決已有七件"]]

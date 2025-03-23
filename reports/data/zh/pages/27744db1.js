@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",25,3," 產地 = 美國\n "]]
+window.data=[["no-duplicate",25,3,"duplicated parameter"," 產地 = 美國\n "],["no-duplicate",27,3,"duplicated parameter"," 產地 = {{USA}}\n "],["no-duplicate",26,3,"duplicated parameter"," 語言 = 英語\n "],["no-duplicate",28,3,"duplicated parameter"," 語言 = 英语\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",47,52,"210px"],[2,"tag-like",100,34,"<span"],[3,"unmatched-tag",100,74,"</span>"]]
+window.data=[["no-duplicate",47,52,"duplicated image width parameter","210px"],["no-duplicate",47,70,"duplicated image width parameter","207px"],["tag-like",100,34,"lonely \"<\"","<span"],["unmatched-tag",100,74,"unmatched closing tag","</span>"],["tag-like",846,34,"lonely \"<\"","<span"],["unmatched-tag",846,74,"unmatched closing tag","</span>"],["unmatched-tag",1164,2,"unmatched closing tag","</small>"]]

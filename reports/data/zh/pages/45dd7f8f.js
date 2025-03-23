@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,161,"Right"]]
+window.data=[["no-duplicate",7,161,"duplicated image caption parameter","Right"],["no-duplicate",7,179,"duplicated image caption parameter","位于[[特塞拉岛]][[英雄港]]一座博物馆里的若昂·瓦斯·科尔特-雷阿尔雕像。"]]

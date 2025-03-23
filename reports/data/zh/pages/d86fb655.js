@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",31,22,"  plainrowheaders\"  "]]
+window.data=[["no-ignored",31,22,"containing invalid attribute","  plainrowheaders\"  "]]

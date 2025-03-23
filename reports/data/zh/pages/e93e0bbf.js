@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",77,25,"HIH Princess Kuni Tomoko, consort"]]
+window.data=[["no-duplicate",77,25,"duplicated image caption parameter","HIH Princess Kuni Tomoko, consort"],["no-duplicate",77,65,"duplicated image caption parameter","久弥宫朝融王妃知子"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,45,"tight"]]
+window.data=[["no-duplicate",12,45,"duplicated image caption parameter","tight"],["no-duplicate",12,57,"duplicated image caption parameter","台灣的測速照相提醒標誌牌"]]

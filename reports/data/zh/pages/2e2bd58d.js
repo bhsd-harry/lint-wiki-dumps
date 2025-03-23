@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,33,"Right"]]
+window.data=[["no-duplicate",23,33,"duplicated image caption parameter","Right"],["no-duplicate",23,45,"duplicated image caption parameter","小篆的「饒」<br>字體為「全字庫說文解字」"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3,"duplicated parameter"," deputy = \n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter"," deputy = \n "],["no-duplicate",9,3,"duplicated parameter"," deputy = [[曾永權]]<br>[[郝龍斌]]\n "]]

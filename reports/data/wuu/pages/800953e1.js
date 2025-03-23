@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",57,149,"duplicated parameter","title=冬季オリンピックと地域活性化 "]]
+window.data=[["no-duplicate",57,149,"duplicated parameter","title=冬季オリンピックと地域活性化 "],["no-duplicate",57,388,"duplicated parameter","title=存档副本 "],["no-duplicate",101,592,"duplicated parameter","title=釧路の炭鉱"],["no-duplicate",101,832,"duplicated parameter","title=存档副本"],["no-duplicate",158,1758,"duplicated parameter","title=観る・遊ぶ"],["no-duplicate",158,1974,"duplicated parameter","title=存档副本"]]

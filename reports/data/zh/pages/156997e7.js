@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3," area_served = 全球\n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter"," area_served = 全球\n "],["no-duplicate",6,3,"duplicated parameter"," area_served = 電動車技術研發、整車與零組件製造管理及銷售服務\n "]]

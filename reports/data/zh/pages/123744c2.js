@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,2,"[[Category:早熟禾属|Y]]"]]
+window.data=[["no-duplicate",14,2,"duplicated category","[[Category:早熟禾属|Y]]"],["no-duplicate",16,2,"duplicated category","[[Category:早熟禾属|Y]]"]]

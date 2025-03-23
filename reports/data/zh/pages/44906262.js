@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,2,"[[Category:寶坻區建築物|J]]"]]
+window.data=[["no-duplicate",17,2,"duplicated category","[[Category:寶坻區建築物|J]]"],["no-duplicate",19,2,"duplicated category","[[Category:寶坻區建築物|J]]"]]

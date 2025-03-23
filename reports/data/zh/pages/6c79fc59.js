@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",56,2,"[[Category:2019冠狀病毒病美國疫情]]"]]
+window.data=[["no-duplicate",56,2,"duplicated category","[[Category:2019冠狀病毒病美國疫情]]"],["no-duplicate",57,2,"duplicated category","[[Category:2019冠狀病毒病美國疫情|美]]"]]

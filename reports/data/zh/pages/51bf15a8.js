@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",154,2,"[[分类:抖音]]"]]
+window.data=[["no-duplicate",154,2,"duplicated category","[[分类:抖音]]"],["no-duplicate",161,2,"duplicated category","[[Category:抖音]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,3,"leader1      = [[桑福德·多爾]]（首）\n "]]
+window.data=[["no-duplicate",44,3,"duplicated parameter","leader1      = [[桑福德·多爾]]（首）\n "],["no-duplicate",45,3,"duplicated parameter","leader1      = [[布里格姆·扬]]\n "]]

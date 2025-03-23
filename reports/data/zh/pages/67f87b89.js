@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3," symbol_right = {{rint|cn|rail}}\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter"," symbol_right = {{rint|cn|rail}}\n "],["no-duplicate",10,3,"duplicated parameter"," symbol_right = {{rint|cn|rail}}\n "]]

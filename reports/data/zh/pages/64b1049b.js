@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,28,"|2005年一级方程式赛车比赛"]]
+window.data=[["no-ignored",1,28,"useless link text","|2005年一级方程式赛车比赛"]]

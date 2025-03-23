@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",1170,117,"'"],[2,"no-duplicate",1414,39,"ref=Mojzes"]]
+window.data=[["lonely-apos",1170,117,"lonely \"'\"","'"],["no-duplicate",1414,39,"duplicated parameter","ref=Mojzes"],["no-duplicate",1414,510,"duplicated parameter","ref=harv"]]

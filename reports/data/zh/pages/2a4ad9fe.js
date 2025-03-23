@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",8,64,"valign"],[2,"no-duplicate",7,41,"构成海水的化学成分"]]
+window.data=[["no-duplicate",7,41,"duplicated image caption parameter","构成海水的化学成分"],["no-duplicate",7,51,"duplicated image caption parameter","该图显示了海水中各种盐离子的浓度。[[海盐]]由下列离子成分构成{{chem|Cl|-}}55%，{{chem|Na|+}}30.6%，{{chem|SO|4|2-}}7.7%，{{chem|Mg|2+}}3.7%，{{chem|Ca|2+}}1.2%，{{chem|K|+}}1.1%，其它0.7%"],["illegal-attr",8,64,"illegal attribute name","valign"]]

@@ -1,1 +1,1 @@
-window.data=[[5,"invalid-gallery",77,46,"thumb"],[2,"no-duplicate",80,26,"miniaturadeimagen"]]
+window.data=[["invalid-gallery",77,46,"invalid image parameter","thumb"],["invalid-gallery",77,52,"invalid image parameter","right"],["invalid-gallery",78,36,"invalid image parameter","thumb"],["invalid-gallery",79,41,"invalid image parameter","thumb"],["invalid-gallery",80,44,"invalid image parameter","thumb"],["no-duplicate",80,26,"duplicated image caption parameter","miniaturadeimagen"],["no-duplicate",80,50,"duplicated image caption parameter","罐装"]]

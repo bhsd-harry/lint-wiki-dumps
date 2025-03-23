@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2472,2,"[[Category:日劇學院賞]]"]]
+window.data=[["no-duplicate",2472,2,"duplicated category","[[Category:日劇學院賞]]"],["no-duplicate",2484,2,"duplicated category","[[Category:日劇學院賞]]"]]

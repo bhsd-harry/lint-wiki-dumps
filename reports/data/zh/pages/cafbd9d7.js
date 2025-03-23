@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",51,1," * [[電機工程學|电气]]科[[夜校|第二部]]"]]
+window.data=[["fostered-content",51,1,"content to be moved out from the table"," * [[電機工程學|电气]]科[[夜校|第二部]]"]]

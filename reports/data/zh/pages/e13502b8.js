@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",53,64,"{{"],[3,"no-duplicate",53,62,"油輪{{tsl"]]
+window.data=[["lonely-bracket",53,64,"lonely \"{\"","{{"],["no-duplicate",53,62,"duplicated image caption parameter","油輪{{tsl"],["no-duplicate",53,70,"duplicated image caption parameter","en"],["no-duplicate",53,73,"duplicated image caption parameter","回天擊沉{{le|USS Mississinewa (AO-59)|USS Mississinewa}}"]]

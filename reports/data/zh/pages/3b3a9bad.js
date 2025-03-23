@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",72,114,"title=ZEROBASEONE's Sung Hanbin demonstrates his versatile dance skills as STUDIO CHOOM's Artist of the Month"]]
+window.data=[["no-duplicate",72,114,"duplicated parameter","title=ZEROBASEONE's Sung Hanbin demonstrates his versatile dance skills as STUDIO CHOOM's Artist of the Month"],["no-duplicate",72,224,"duplicated parameter","title=ZEROBASEONE ハンビン＆ギュビン、「トゥビンズ」としてMISS GEE COLLECTION SS25イベントに登場"]]

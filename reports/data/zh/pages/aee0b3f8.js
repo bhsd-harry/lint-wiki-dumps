@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",61,20,"}}"],[2,"no-duplicate",25,6,"2={{clade\n       |1=[[石螈科]]Lapillopsidae [[File:Lapillopsis_nana.jpg|60px]]}}\n       "]]
+window.data=[["no-duplicate",25,6,"duplicated parameter","2={{clade\n       |1=[[石螈科]]Lapillopsidae [[File:Lapillopsis_nana.jpg|60px]]}}\n       "],["no-duplicate",27,9,"duplicated parameter","2={{clade\n          |1=[[莱茵鳄螈科]]Rhinesuchidae [[File:Rhinesuchus1DB.jpg|60px]]\n          |2={{clade\n                |1=[[立德克螈科]]Lydekkerinidae [[File:"],["lonely-bracket",61,20,"lonely \"}\"","}}"]]

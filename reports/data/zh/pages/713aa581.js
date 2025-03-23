@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",107,1," 影像版權：2MASS Collaboration, U. Mass., IPAC</small>"]]
+window.data=[["no-ignored",107,1,"invalid content in <gallery>"," 影像版權：2MASS Collaboration, U. Mass., IPAC</small>"]]

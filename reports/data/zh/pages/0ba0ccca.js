@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",141,24,"[["],[1,"no-ignored",141,4,"|Ch'e Ch'ing-yun || [[車慶雲]]|| 瑞峯|| [[File:Che Qingyun.jpg|100px]]"]]
+window.data=[["lonely-bracket",141,24,"lonely \"[\"","[["],["lonely-bracket",141,29,"lonely \"]\"","]]"],["lonely-bracket",141,39,"lonely \"[\"","[["],["lonely-bracket",141,67,"lonely \"]\"","]]"],["no-ignored",141,4,"containing invalid attribute","|Ch'e Ch'ing-yun || [[車慶雲]]|| 瑞峯|| [[File:Che Qingyun.jpg|100px]]"]]

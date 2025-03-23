@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",170,2,"[[Category:澳大利亞工黨]]"]]
+window.data=[["no-duplicate",170,2,"duplicated category","[[Category:澳大利亞工黨]]"],["no-duplicate",173,2,"duplicated category","[[Category:澳大利亞工黨]]"]]

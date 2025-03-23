@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",92,3,"duplicated parameter"," extra10         = Tearce Kizzo\n "]]
+window.data=[["no-duplicate",92,3,"duplicated parameter"," extra10         = Tearce Kizzo\n "],["no-duplicate",96,3,"duplicated parameter"," extra10         = Tearce Kizzo\n "]]

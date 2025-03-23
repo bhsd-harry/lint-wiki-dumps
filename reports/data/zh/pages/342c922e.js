@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",460,2,"[[Category:间谍题材电视剧]]"]]
+window.data=[["no-duplicate",460,2,"duplicated category","[[Category:间谍题材电视剧]]"],["no-duplicate",463,2,"duplicated category","[[Category:间谍题材电视剧]]"]]

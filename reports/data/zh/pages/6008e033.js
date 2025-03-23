@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",49,2,"[[Category:日語歌手]]"]]
+window.data=[["no-duplicate",49,2,"duplicated category","[[Category:日語歌手]]"],["no-duplicate",52,2,"duplicated category","[[Category:日語歌手]]"],["no-duplicate",50,2,"duplicated category","[[Category:色情业从业者]]"],["no-duplicate",53,2,"duplicated category","[[Category:色情业从业者]]"],["no-duplicate",51,2,"duplicated category","[[Category:色情作品作者]]"],["no-duplicate",54,2,"duplicated category","[[Category:色情作品作者]]"]]

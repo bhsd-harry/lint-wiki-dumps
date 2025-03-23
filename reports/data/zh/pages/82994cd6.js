@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,2,"[[Category:轻量级Linux发行版]]"]]
+window.data=[["no-duplicate",65,2,"duplicated category","[[Category:轻量级Linux发行版]]"],["no-duplicate",66,2,"duplicated category","[[Category:轻量级Linux发行版]]"]]

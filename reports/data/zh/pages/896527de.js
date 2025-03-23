@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",270,2,"[[Category:任天堂系列]]"]]
+window.data=[["no-duplicate",270,2,"duplicated category","[[Category:任天堂系列]]"],["no-duplicate",271,2,"duplicated category","[[Category:任天堂系列]]"]]

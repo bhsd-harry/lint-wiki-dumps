@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,2,"[[Category:水域生态学]]"]]
+window.data=[["no-duplicate",20,2,"duplicated category","[[Category:水域生态学]]"],["no-duplicate",23,2,"duplicated category","[[Category:水域生态学]]"]]

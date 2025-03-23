@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",115,2,"[[Category:英國標準]]"]]
+window.data=[["no-duplicate",115,2,"duplicated category","[[Category:英國標準]]"],["no-duplicate",117,2,"duplicated category","[[Category:英國標準]]"]]

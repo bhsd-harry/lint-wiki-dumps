@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",1,52,"duplicated image caption parameter","Right"]]
+window.data=[["no-duplicate",1,52,"duplicated image caption parameter","Right"],["no-duplicate",1,64,"duplicated image caption parameter","車站大廳"],["no-duplicate",2,45,"duplicated image caption parameter","Right"],["no-duplicate",2,57,"duplicated image caption parameter","車站聯絡走道同[[高鐵台南站]]相連"]]

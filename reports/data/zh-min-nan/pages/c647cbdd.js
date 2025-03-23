@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,3,"duplicated parameter"," areas = \n "]]
+window.data=[["no-duplicate",21,3,"duplicated parameter"," areas = \n "],["no-duplicate",22,3,"duplicated parameter"," areas = {{plainlist|\n * [[Hui-li̍p-pin]]\n * [[Tiong-kok]]\n * [[Tâi-oân]]\n * [[Ji̍t-pún]]\n   }}\n "]]

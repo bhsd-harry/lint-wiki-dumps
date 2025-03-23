@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,3," 前頻道名稱       = \n "]]
+window.data=[["no-duplicate",27,3,"duplicated parameter"," 前頻道名稱       = \n "],["no-duplicate",29,3,"duplicated parameter"," 前頻道名稱       = 第九频道（2003年9月9日－2005年2月3日）\n "]]

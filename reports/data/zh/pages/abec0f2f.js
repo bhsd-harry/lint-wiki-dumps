@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",114,2,"[[Category:台灣單口喜劇]]"]]
+window.data=[["no-duplicate",114,2,"duplicated category","[[Category:台灣單口喜劇]]"],["no-duplicate",199,2,"duplicated category","[[Category:台灣單口喜劇]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",78,66,"upright="]]
+window.data=[["no-duplicate",78,66,"duplicated image caption parameter","upright="],["no-duplicate",78,75,"duplicated image caption parameter","1796年的欧洲战略局势"]]

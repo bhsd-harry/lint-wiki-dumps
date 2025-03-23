@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",105,2,"[[Category:胡姓]]"]]
+window.data=[["no-duplicate",105,2,"duplicated category","[[Category:胡姓]]"],["no-duplicate",114,2,"duplicated category","[[Category:胡姓|T桐]]"],["no-duplicate",106,2,"duplicated category","[[Category:吉隆坡人]]"],["no-duplicate",113,2,"duplicated category","[[Category:吉隆坡人]]"]]

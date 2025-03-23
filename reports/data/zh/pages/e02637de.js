@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,68,"rihgt"]]
+window.data=[["no-duplicate",63,68,"duplicated image caption parameter","rihgt"],["no-duplicate",63,80,"duplicated image caption parameter","沙勿略位於[[里斯本]][[發現者紀念碑]]的雕像"]]

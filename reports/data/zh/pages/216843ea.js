@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",221,2,"[[Category:伊予鐵道轉乘車站|JR-Matsuyama-Ekimae]]"]]
+window.data=[["no-duplicate",221,2,"duplicated category","[[Category:伊予鐵道轉乘車站|JR-Matsuyama-Ekimae]]"],["no-duplicate",224,2,"duplicated category","[[Category:伊予鐵道轉乘車站|JR-Matsuyama-Ekimae]]"]]

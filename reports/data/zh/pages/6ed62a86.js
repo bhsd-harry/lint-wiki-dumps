@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",53,87,"]"],[4,"no-duplicate",118,2,"[[Category:加拿大男子越野滑雪运动员]]"]]
+window.data=[["lonely-bracket",53,87,"lonely \"]\"","]"],["no-duplicate",118,2,"duplicated category","[[Category:加拿大男子越野滑雪运动员]]"],["no-duplicate",120,2,"duplicated category","[[Category:加拿大男子越野滑雪运动员]]"],["no-duplicate",119,2,"duplicated category","[[Category:加拿大男子冬季两项运动员]]"],["no-duplicate",121,2,"duplicated category","[[Category:加拿大男子冬季两项运动员]]"]]

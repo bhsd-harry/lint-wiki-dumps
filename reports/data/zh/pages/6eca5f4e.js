@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",102,2,"[[Category:中央區組織 (東京都)]]"]]
+window.data=[["no-duplicate",102,2,"duplicated category","[[Category:中央區組織 (東京都)]]"],["no-duplicate",106,2,"duplicated category","[[Category:中央區組織 (東京都)]]"]]

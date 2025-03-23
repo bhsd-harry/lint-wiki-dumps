@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",30,3,"出道地點 =\n "]]
+window.data=[["no-duplicate",30,3,"duplicated parameter","出道地點 =\n "],["no-duplicate",32,3,"duplicated parameter","出道地點 = {{BHKG}}\n "]]

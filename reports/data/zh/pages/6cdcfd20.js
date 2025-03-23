@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",80,1," ;辽宁大学崇山校区（长江街崇山路路口南侧站位，C出入口旁）\n {{沈阳公交线路列表|width=100%|format=|end=yes|116|162|190|210|252}}"]]
+window.data=[["fostered-content",80,1,"content to be moved out from the table"," ;辽宁大学崇山校区（长江街崇山路路口南侧站位，C出入口旁）\n {{沈阳公交线路列表|width=100%|format=|end=yes|116|162|190|210|252}}"],["fostered-content",83,1,"content to be moved out from the table"," ;辽宁大学崇山校区（崇山中路站位，东向站台设于C出入口向东北约100米，西向站台设于B出入口向西约300米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|205|210|299}}"]]

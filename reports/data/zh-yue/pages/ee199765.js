@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",61,38,"invalid image parameter","thumb"],[2,"no-duplicate",61,44,"duplicated image caption parameter","May 18th Memorial Monument"]]
+window.data=[["invalid-gallery",61,38,"invalid image parameter","thumb"],["no-duplicate",61,44,"duplicated image caption parameter","May 18th Memorial Monument"],["no-duplicate",61,71,"duplicated image caption parameter","518民眾抗爭追思塔"]]

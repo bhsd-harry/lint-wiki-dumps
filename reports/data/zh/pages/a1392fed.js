@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",178,22,"ngatho"],[1,"no-ignored",178,4,"我感谢 || Nĩndacokia "]]
+window.data=[["illegal-attr",178,22,"illegal attribute name","ngatho"],["no-ignored",178,4,"containing invalid attribute","我感谢 || Nĩndacokia "]]

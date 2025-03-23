@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",18,22,"duplicated image caption parameter","左"]]
+window.data=[["no-duplicate",18,22,"duplicated image caption parameter","左"],["no-duplicate",18,24,"duplicated image caption parameter","縮圖"],["no-duplicate",18,27,"duplicated image caption parameter","229x229像素"],["no-duplicate",18,37,"duplicated image caption parameter","1949年4月，[[粟裕]]向第三野戰軍宣布渡江作戰命令"]]

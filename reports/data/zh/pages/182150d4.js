@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",136,64,"{{"],[2,"no-duplicate",228,2,"[[Category:15世紀英格蘭]]"],[1,"no-ignored",136,64,"{{sfn"]]
+window.data=[["lonely-bracket",136,64,"lonely \"{\"","{{"],["no-ignored",136,64,"containing invalid attribute","{{sfn"],["no-duplicate",228,2,"duplicated category","[[Category:15世紀英格蘭]]"],["no-duplicate",229,2,"duplicated category","[[Category:15世紀英格蘭]]"]]

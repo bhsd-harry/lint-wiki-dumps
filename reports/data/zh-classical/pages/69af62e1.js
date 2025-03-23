@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",36,46,"duplicated image caption parameter","default"]]
+window.data=[["no-duplicate",36,46,"duplicated image caption parameter","default"],["no-duplicate",36,54,"duplicated image caption parameter","趙爽 勾股圓方圖證勾股定理"],["no-duplicate",39,27,"duplicated image caption parameter","default"],["no-duplicate",39,35,"duplicated image caption parameter","劉徽 青朱出入圖"]]

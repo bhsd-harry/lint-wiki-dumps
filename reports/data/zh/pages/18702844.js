@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",81,2,"[[Category:三菱重工業]]"]]
+window.data=[["no-duplicate",81,2,"duplicated category","[[Category:三菱重工業]]"],["no-duplicate",82,2,"duplicated category","[[Category:三菱重工業]]"]]

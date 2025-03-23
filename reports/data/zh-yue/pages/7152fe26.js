@@ -1,1 +1,1 @@
-window.data=[[3,"fostered-content",40,1,"content to be moved out from the table"," [[File:HKKF SeaSpring.jpg|thumb|海逸 （Sea Spring）]]"]]
+window.data=[["fostered-content",40,1,"content to be moved out from the table"," [[File:HKKF SeaSpring.jpg|thumb|海逸 （Sea Spring）]]"],["fostered-content",69,1,"content to be moved out from the table"," [[File:SEA SUPERIOR Central to Peng Chau 03-04-2018.jpg|thumb|海翠 （Sea Superior）]]"],["fostered-content",207,1,"content to be moved out from the table"," [[File:HKKF SeaStrike.jpg|thumb|海鳴 （Sea Strike）\t]]"]]

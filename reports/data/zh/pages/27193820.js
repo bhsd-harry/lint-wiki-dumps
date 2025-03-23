@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,38,"缩略图哥哥價格便宜行事嗎！"]]
+window.data=[["no-duplicate",3,38,"duplicated image caption parameter","缩略图哥哥價格便宜行事嗎！"],["no-duplicate",3,62,"duplicated image caption parameter","混合層不同月份中深度（縱軸）與溫度（橫軸）的變化。"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",71,2,"[[Category:古京都遺址（京都、宇治和大津市）]]"]]
+window.data=[["no-duplicate",71,2,"duplicated category","[[Category:古京都遺址（京都、宇治和大津市）]]"],["no-duplicate",81,2,"duplicated category","[[Category:古京都遺址（京都、宇治和大津市）]]"]]

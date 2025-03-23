@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,3," discontinued = yes\n "]]
+window.data=[["no-duplicate",14,3,"duplicated parameter"," discontinued = yes\n "],["no-duplicate",20,3,"duplicated parameter"," discontinued = yes\n "]]

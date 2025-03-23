@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,2,"[[Category:CS1 French-language sources (fr)]]"]]
+window.data=[["no-duplicate",16,2,"duplicated category","[[Category:CS1 French-language sources (fr)]]"],["no-duplicate",20,2,"duplicated category","[[Category:CS1 French-language sources (fr)]]"]]

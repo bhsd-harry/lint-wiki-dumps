@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",77,5,"bgcolor=#|-"],[1,"no-ignored",80,3,"!width=70%"]]
+window.data=[["no-duplicate",77,5,"duplicated bgcolor attribute","bgcolor=#|-"],["no-duplicate",77,17,"duplicated bgcolor attribute","bgcolor=#FF0000"],["no-ignored",80,3,"containing invalid attribute","!width=70%"]]

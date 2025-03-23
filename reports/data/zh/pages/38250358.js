@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",79,31,"; color:snow\"  "]]
+window.data=[["no-ignored",79,31,"containing invalid attribute","; color:snow\"  "]]

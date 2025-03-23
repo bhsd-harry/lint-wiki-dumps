@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",77,3,"DirecTV"],[2,"no-duplicate",277,2,"[[Category:發射場]]"]]
+window.data=[["illegal-attr",77,3,"illegal attribute name","DirecTV"],["no-duplicate",277,2,"duplicated category","[[Category:發射場]]"],["no-duplicate",281,2,"duplicated category","[[Category:發射場]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-http",299,62,"http://"],[2,"no-duplicate",164,25,"align=\"right\""]]
+window.data=[["no-duplicate",164,25,"duplicated align attribute","align=\"right\""],["no-duplicate",164,40,"duplicated align attribute","align=\"{{{align|right}}}\""],["lonely-http",299,62,"lonely \"http://\"","http://"],["lonely-http",391,33,"lonely \"ISBN\"","ISBN"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,129,"widthpx"]]
+window.data=[["no-duplicate",25,129,"duplicated image caption parameter","widthpx"],["no-duplicate",25,137,"duplicated image caption parameter","對安娜和傳教士聖約翰的描繪圖像"]]

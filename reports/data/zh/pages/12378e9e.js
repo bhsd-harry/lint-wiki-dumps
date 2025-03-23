@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",545,1,"\n ==参考文獻==\n {{Reflist}}\n\n [[Category:2013年體育|*]]"],[2,"lonely-bracket",268,21,"[["],[1,"unclosed-table",531,2,"{|"]]
+window.data=[["lonely-bracket",268,21,"lonely \"[\"","[["],["lonely-bracket",268,43,"lonely \"]\"","]]"],["fostered-content",545,1,"content to be moved out from the table","\n ==参考文獻==\n {{Reflist}}\n\n [[Category:2013年體育|*]]"],["unclosed-table",531,2,"unclosed table","{|"]]

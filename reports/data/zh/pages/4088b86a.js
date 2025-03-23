@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",456,4,"Alliance"],[1,"no-ignored",456,12," (esports)"]]
+window.data=[["illegal-attr",456,4,"illegal attribute name","Alliance"],["no-ignored",456,12,"containing invalid attribute"," (esports)"]]

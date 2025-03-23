@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",55,2,"[[Category:台灣腸胃病科醫師]]"]]
+window.data=[["no-duplicate",55,2,"duplicated category","[[Category:台灣腸胃病科醫師]]"],["no-duplicate",61,2,"duplicated category","[[Category:台灣腸胃病科醫師]]"],["no-duplicate",57,2,"duplicated category","[[Category:日本大學第三中學校友]]"],["no-duplicate",63,2,"duplicated category","[[Category:日本大學第三中學校友]]"],["no-duplicate",65,2,"duplicated category","[[Category:道隆醫院院長]]"],["no-duplicate",66,2,"duplicated category","[[Category:道隆醫院院長]]"]]

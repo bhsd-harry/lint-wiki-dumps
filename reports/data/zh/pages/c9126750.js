@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",53,2,"[[Category:西门子人物]]"]]
+window.data=[["no-duplicate",53,2,"duplicated category","[[Category:西门子人物]]"],["no-duplicate",55,2,"duplicated category","[[Category:西门子人物]]"],["no-duplicate",57,2,"duplicated category","[[Category:丹麦管理学家]]"],["no-duplicate",58,2,"duplicated category","[[Category:丹麦管理学家]]"]]

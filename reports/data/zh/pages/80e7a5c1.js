@@ -1,1 +1,1 @@
-window.data=[[7,"illegal-attr",4,77,"decoding"]]
+window.data=[["illegal-attr",4,77,"illegal attribute name","decoding"],["illegal-attr",4,95,"illegal attribute name","height"],["illegal-attr",4,140,"illegal attribute name","src"],["illegal-attr",4,341,"illegal attribute name","srcset"],["illegal-attr",4,748,"illegal attribute name","width"],["invalid-css",5,115,"semi-colon expected",""],["invalid-css",5,115,"colon expected",""],["illegal-attr",6,28,"illegal attribute name","scope"],["illegal-attr",24,28,"illegal attribute name","scope"]]

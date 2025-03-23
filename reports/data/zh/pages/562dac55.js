@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",52,2,"[[Category:互联网用语|Chun]]"]]
+window.data=[["no-duplicate",52,2,"duplicated category","[[Category:互联网用语|Chun]]"],["no-duplicate",58,2,"duplicated category","[[Category:互联网用语]]"]]

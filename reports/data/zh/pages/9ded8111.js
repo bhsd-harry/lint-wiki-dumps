@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",90,1," ;国际软件园南（站位位于全运北路，C出入口向东南约600米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|128}}"]]
+window.data=[["fostered-content",90,1,"content to be moved out from the table"," ;国际软件园南（站位位于全运北路，C出入口向东南约600米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|128}}"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3,"duplicated parameter","pronunciation=\n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter","pronunciation=\n "],["no-duplicate",29,3,"duplicated parameter"," pronunciation    = {{IPA|/basa sʊnda/}}\n "]]

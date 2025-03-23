@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",132,5,"span"],[2,"no-duplicate",300,64,"缩略图"]]
+window.data=[["illegal-attr",132,5,"illegal attribute name","span"],["illegal-attr",197,5,"illegal attribute name","span"],["no-duplicate",300,64,"duplicated image thumbnail parameter","缩略图"],["no-duplicate",300,68,"duplicated image thumbnail parameter","thumb"]]

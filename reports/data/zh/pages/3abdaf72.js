@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[cat:香港人瑞]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[cat:香港人瑞]]"],["no-duplicate",45,2,"duplicated category","[[Category:香港人瑞]]"]]

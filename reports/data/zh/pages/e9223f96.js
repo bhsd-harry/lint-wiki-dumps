@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",45,24,"text-align:"],[1,"lonely-http",28,103,"ISBN"],[1,"no-ignored",45,35," center;\""]]
+window.data=[["lonely-http",28,103,"lonely \"ISBN\"","ISBN"],["illegal-attr",45,24,"illegal attribute name","text-align:"],["no-ignored",45,35,"containing invalid attribute"," center;\""]]

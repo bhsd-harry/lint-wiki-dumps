@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,3,"hangul = 남윤수\n "]]
+window.data=[["no-duplicate",37,3,"duplicated parameter","hangul = 남윤수\n "],["no-duplicate",38,3,"duplicated parameter","hangul   = {{linktext|남|윤|수}}\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",77,72,"299.965x299.965px"]]
+window.data=[["no-duplicate",77,72,"duplicated image caption parameter","299.965x299.965px"],["no-duplicate",77,90,"duplicated image caption parameter","在[[法國]]的一处断层。"]]

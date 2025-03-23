@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,2,"[[Category:被处决的革命家]]"]]
+window.data=[["no-duplicate",23,2,"duplicated category","[[Category:被处决的革命家]]"],["no-duplicate",27,2,"duplicated category","[[Category:被处决的革命家]]"]]

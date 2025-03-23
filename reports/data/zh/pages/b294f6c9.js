@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",223,64,"[[加時]]"],[3,"no-ignored",241,3,"!width=60%"]]
+window.data=[["invalid-css",94,81,"colon expected","="],["nested-link",223,64,"internal link in an external link","[[加時]]"],["invalid-css",237,81,"colon expected","="],["no-ignored",241,3,"containing invalid attribute","!width=60%"],["invalid-css",300,81,"colon expected","="],["no-ignored",304,3,"containing invalid attribute","!width=19%"],["invalid-css",546,81,"colon expected","="],["no-ignored",550,3,"containing invalid attribute","!width=19%"]]

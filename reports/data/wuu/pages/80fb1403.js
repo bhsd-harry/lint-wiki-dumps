@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",118,2,"duplicated category","[[分类:泰国府]]"]]
+window.data=[["no-duplicate",118,2,"duplicated category","[[分类:泰国府]]"],["no-duplicate",119,2,"duplicated category","[[分类:泰国府]]"]]

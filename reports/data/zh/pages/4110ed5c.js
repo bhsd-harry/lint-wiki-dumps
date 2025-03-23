@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",115,5,"{{"],[1,"no-ignored",115,4," {{#sitcg:{{{team}}}|CLE|CLE=bgcolor=\"#CCFFCC'}}"]]
+window.data=[["lonely-bracket",115,5,"lonely \"{\"","{{"],["lonely-bracket",115,50,"lonely \"}\"","}}"],["no-ignored",115,4,"containing invalid attribute"," {{#sitcg:{{{team}}}|CLE|CLE=bgcolor=\"#CCFFCC'}}"]]

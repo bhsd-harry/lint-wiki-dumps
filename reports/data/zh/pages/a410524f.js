@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3,"拼音=\n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter","拼音=\n "],["no-duplicate",6,3,"duplicated parameter","拼音=Zhāo\n "]]

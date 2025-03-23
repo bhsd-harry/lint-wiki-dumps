@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",167,1," [File:Sasayama Municipal Museum of History04st3200.jpg|篠山市立歴史美術館"]]
+window.data=[["no-ignored",167,1,"invalid content in <gallery>"," [File:Sasayama Municipal Museum of History04st3200.jpg|篠山市立歴史美術館"]]

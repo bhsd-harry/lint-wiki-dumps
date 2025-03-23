@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,55,"alt = 正七邊形的七個頂點，兩兩之間有線段相連"]]
+window.data=[["no-duplicate",26,55,"duplicated image caption parameter","alt = 正七邊形的七個頂點，兩兩之間有線段相連"],["no-duplicate",26,81,"duplicated image caption parameter","''K''<sub>7</sub>，七個頂點的完全圖，一種核圖"]]

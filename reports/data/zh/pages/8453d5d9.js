@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",35,23,"}}"],[1,"no-ignored",35,3,"*bainą(骨)"]]
+window.data=[["no-ignored",35,3,"containing invalid attribute","*bainą(骨)"],["lonely-bracket",35,23,"lonely \"}\"","}}"]]

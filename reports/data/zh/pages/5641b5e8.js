@@ -1,1 +1,1 @@
-window.data=[[4,"no-ignored",243,3,"!width=20%"]]
+window.data=[["no-ignored",243,3,"containing invalid attribute","!width=20%"],["no-ignored",455,3,"containing invalid attribute","!width=20%"],["no-ignored",479,3,"containing invalid attribute","!width=20%"],["no-ignored",690,7,"attributes of a closing tag"," class=\"references-small\""]]

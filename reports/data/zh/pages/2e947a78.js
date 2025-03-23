@@ -1,1 +1,1 @@
-window.data=[[3,"invalid-gallery",10,31,"thumb"],[1,"no-ignored",12,1," [File:München Siegestor.JPG|thumb|凯旋门"]]
+window.data=[["invalid-gallery",10,31,"invalid image parameter","thumb"],["invalid-gallery",11,35,"invalid image parameter","thumb"],["no-ignored",12,1,"invalid content in <gallery>"," [File:München Siegestor.JPG|thumb|凯旋门"],["invalid-gallery",13,34,"invalid image parameter","thumb"]]

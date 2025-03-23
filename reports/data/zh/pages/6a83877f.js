@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",49,1," * 儿童教育学科"]]
+window.data=[["fostered-content",49,1,"content to be moved out from the table"," * 儿童教育学科"],["fostered-content",74,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]] <ref name=\"幼儿园\">[http://www.shukugawagakuin-youchien.ed.jp/ 夙川学院短期大学附属幼儿园] {{Wayback|url=http://www.shukugawagakuin-youchien.ed.jp/ |da"]]

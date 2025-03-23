@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,145,"duplicated parameter","glotto=ganc1239"]]
+window.data=[["no-duplicate",1,145,"duplicated parameter","glotto=ganc1239"],["no-duplicate",5,728,"duplicated parameter","glotto=ganc1239"]]

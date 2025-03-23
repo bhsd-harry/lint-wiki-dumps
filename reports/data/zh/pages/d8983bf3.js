@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,83,"px"]]
+window.data=[["no-duplicate",1,83,"duplicated image caption parameter","px"],["no-duplicate",1,86,"duplicated image caption parameter","頭帶槲葉環的[[提贝里乌斯]]半身像"]]

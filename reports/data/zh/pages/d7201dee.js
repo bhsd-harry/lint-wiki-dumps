@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,19,"|SMB"]]
+window.data=[["no-ignored",1,19,"useless link text","|SMB"]]

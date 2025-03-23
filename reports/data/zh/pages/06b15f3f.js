@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,3," educate             = \n "]]
+window.data=[["no-duplicate",16,3,"duplicated parameter"," educate             = \n "],["no-duplicate",18,3,"duplicated parameter"," educate = \n *東吳大學法律系學士<br><span style=\"color: blue;\">(1982年)</span>\n "]]

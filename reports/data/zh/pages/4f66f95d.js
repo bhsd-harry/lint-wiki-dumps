@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,3,"网址=http://xzcourt.gov.cn/\n "]]
+window.data=[["no-duplicate",18,3,"duplicated parameter","网址=http://xzcourt.gov.cn/\n "],["no-duplicate",22,3,"duplicated parameter","网址     =https://xzgy.chinacourt.gov.cn/index.shtml\n "]]

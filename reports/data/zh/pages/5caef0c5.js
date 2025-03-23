@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",75,2,"[[Category:法国制造公司]]"]]
+window.data=[["no-duplicate",75,2,"duplicated category","[[Category:法国制造公司]]"],["no-duplicate",79,2,"duplicated category","[[Category:法国制造公司]]"],["no-duplicate",80,2,"duplicated category","[[Category:法国制造公司]]"],["no-duplicate",81,2,"duplicated category","[[Category:法国制造公司]]"]]

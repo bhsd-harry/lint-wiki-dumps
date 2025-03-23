@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",196,34,"右"]]
+window.data=[["no-duplicate",196,34,"duplicated image right parameter","右"],["no-duplicate",196,55,"duplicated image right parameter","right"]]

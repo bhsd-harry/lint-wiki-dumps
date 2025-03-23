@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",62,1," * 生活文化学科\n ** <del>生活学专攻</del><ref group=\"注\"  name=\"生活学专攻\"/>　\n ** 食物营养学专攻\n ** 儿童生活专攻"]]
+window.data=[["fostered-content",62,1,"content to be moved out from the table"," * 生活文化学科\n ** <del>生活学专攻</del><ref group=\"注\"  name=\"生活学专攻\"/>　\n ** 食物营养学专攻\n ** 儿童生活专攻"],["fostered-content",69,1,"content to be moved out from the table"," * 家政科\n ** 第一部\n ** [[夜校|第二部]]<ref group=\"注\"  name=\"家政科第二部\"/>\n * 体育科<ref group=\"注\"  name=\"体育科\"/>"]]

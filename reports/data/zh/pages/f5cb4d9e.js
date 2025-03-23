@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",116,15,"]]"],[3,"no-duplicate",12,44,"Image on center"]]
+window.data=[["no-duplicate",12,44,"duplicated image caption parameter","Image on center"],["no-duplicate",12,66,"duplicated image caption parameter","Image: 800 pixels"],["no-duplicate",12,84,"duplicated image caption parameter","Timeline of chromatin structure studies"],["lonely-bracket",116,15,"lonely \"]\"","]]"]]

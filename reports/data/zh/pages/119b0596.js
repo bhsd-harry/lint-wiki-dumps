@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,3," area_served = <!-- or: areas_served = -->\n "]]
+window.data=[["no-duplicate",33,3,"duplicated parameter"," area_served = <!-- or: areas_served = -->\n "],["no-duplicate",35,3,"duplicated parameter"," area_served = 装甲车辆发动机设计与制造\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",82,24,"duplicated width attribute","width=\"80%\""],[2,"unmatched-tag",112,484,"unmatched closing tag","</SMALL>"]]
+window.data=[["no-duplicate",82,24,"duplicated width attribute","width=\"80%\""],["no-duplicate",82,64,"duplicated width attribute","width=70%"],["unmatched-tag",112,484,"unmatched closing tag","</SMALL>"],["unmatched-tag",156,3,"unmatched closing tag","</font>"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,233,"title=A new flightless landbird from the Cretaceous of Patagonia"]]
+window.data=[["no-duplicate",13,233,"duplicated parameter","title=A new flightless landbird from the Cretaceous of Patagonia"],["no-duplicate",13,298,"duplicated parameter","title=Los Angeles County Museum of Natural History, Science Series"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",140,44,"Tymkiv,_Nataliia_November_2018"]]
+window.data=[["no-duplicate",140,44,"duplicated image caption parameter","Tymkiv,_Nataliia_November_2018"],["no-duplicate",140,81,"duplicated image caption parameter","[[娜塔莉亚·季姆基夫]]，理事会主席"]]

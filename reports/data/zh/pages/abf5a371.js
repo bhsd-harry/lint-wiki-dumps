@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",437,2,"[[Category:童星出身的加拿大演員]]"]]
+window.data=[["no-duplicate",437,2,"duplicated category","[[Category:童星出身的加拿大演員]]"],["no-duplicate",438,2,"duplicated category","[[Category:童星出身的加拿大演員]]"],["no-duplicate",439,2,"duplicated category","[[Category:加拿大男演員]]"],["no-duplicate",440,2,"duplicated category","[[Category:加拿大男演員]]"]]

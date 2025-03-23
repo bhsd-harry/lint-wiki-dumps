@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",72,165,"}"],[2,"no-ignored",1225,52,"出道首個紅館演唱會"]]
+window.data=[["lonely-bracket",72,165,"lonely \"}\"","}"],["lonely-bracket",336,172,"lonely \"}\"","}"],["no-ignored",1225,52,"containing invalid attribute","出道首個紅館演唱會"],["no-ignored",1383,30,"containing invalid attribute","《克卜勒世界巡迴演唱會"]]

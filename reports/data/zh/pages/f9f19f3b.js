@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2090,17,"[[Category:注音转换错误页面]]"]]
+window.data=[["no-duplicate",2090,17,"duplicated category","[[Category:注音转换错误页面]]"],["no-duplicate",4172,17,"duplicated category","[[Category:注音转换错误页面]]"]]

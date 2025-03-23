@@ -1,1 +1,1 @@
-window.data=[[3,"invalid-gallery",574,53,"thumb"],[1,"lonely-http",867,39,"ISBN"],[1,"nested-link",143,345,"[[蔣總統秘錄]]"]]
+window.data=[["nested-link",143,345,"internal link in an external link","[[蔣總統秘錄]]"],["invalid-gallery",574,53,"invalid image parameter","thumb"],["invalid-gallery",576,24,"invalid image parameter","thumb"],["invalid-gallery",647,19,"invalid image parameter","thumb"],["lonely-http",867,39,"lonely \"ISBN\"","ISBN"]]

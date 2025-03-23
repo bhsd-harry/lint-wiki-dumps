@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",103,2,"[[Category:北區背景作品 (東京都)]]"]]
+window.data=[["no-duplicate",103,2,"duplicated category","[[Category:北區背景作品 (東京都)]]"],["no-duplicate",104,2,"duplicated category","[[Category:北區背景作品 (東京都)]]"]]

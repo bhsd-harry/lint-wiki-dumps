@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,2,"[[Category:14世紀旅行家]]"]]
+window.data=[["no-duplicate",12,2,"duplicated category","[[Category:14世紀旅行家]]"],["no-duplicate",16,2,"duplicated category","[[Category:14世紀旅行家|S]]"]]

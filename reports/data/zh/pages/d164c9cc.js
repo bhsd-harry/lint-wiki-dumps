@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",78,2,"[[Category:西弗吉尼亞州律師]]"]]
+window.data=[["no-duplicate",78,2,"duplicated category","[[Category:西弗吉尼亞州律師]]"],["no-duplicate",81,2,"duplicated category","[[Category:西弗吉尼亞州律師]]"],["no-duplicate",79,2,"duplicated category","[[Category:謝潑德大學校友]]"],["no-duplicate",82,2,"duplicated category","[[Category:謝潑德大學校友]]"]]

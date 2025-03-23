@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",2,74,"R. V. Lapshin, Feature-oriented scanning (FOS), Fig. 1"]]
+window.data=[["no-duplicate",2,74,"duplicated image caption parameter","R. V. Lapshin, Feature-oriented scanning (FOS), Fig. 1"],["no-duplicate",2,129,"duplicated image caption parameter","通过FOS方法获得的碳膜表面图像，（AFM，轻敲模式）"],["no-duplicate",15,38,"duplicated image caption parameter","StencilLithography"],["no-duplicate",15,57,"duplicated image caption parameter","模板光刻原理图"]]

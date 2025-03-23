@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",107,5,"align=center"]]
+window.data=[["no-duplicate",107,5,"duplicated align attribute","align=center"],["no-duplicate",107,46,"duplicated align attribute","align=middle"],["no-duplicate",117,5,"duplicated align attribute","align=center"],["no-duplicate",117,43,"duplicated align attribute","align=middle"]]

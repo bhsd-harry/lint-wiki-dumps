@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,70,"duplicated parameter","last1=GBD 2015 Disease and Injury Incidence and Prevalence"]]
+window.data=[["no-duplicate",20,70,"duplicated parameter","last1=GBD 2015 Disease and Injury Incidence and Prevalence"],["no-duplicate",20,142,"duplicated parameter","last1=Vos "]]

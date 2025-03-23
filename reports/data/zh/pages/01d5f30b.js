@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",182,3,"下一節目 = \n "]]
+window.data=[["no-duplicate",182,3,"duplicated parameter","下一節目 = \n "],["no-duplicate",183,3,"duplicated parameter","下一節目 = \n "]]

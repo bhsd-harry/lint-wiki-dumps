@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",270,42,"duplicated image upright parameter","upright=1.5"]]
+window.data=[["no-duplicate",270,42,"duplicated image upright parameter","upright=1.5"],["no-duplicate",270,54,"duplicated image upright parameter","upright=1.5"],["no-duplicate",505,41,"duplicated image caption parameter","float"],["no-duplicate",505,53,"duplicated image caption parameter","企喺月球嘅地面度去睇地球。"]]

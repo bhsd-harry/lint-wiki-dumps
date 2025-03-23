@@ -1,1 +1,1 @@
-window.data=[[3,"no-ignored",106,74,"|page=244-246"]]
+window.data=[["no-ignored",106,74,"containing invalid attribute","|page=244-246"],["no-ignored",107,176,"containing invalid attribute","|page=249 "],["no-ignored",109,137,"containing invalid attribute","|page=12"]]

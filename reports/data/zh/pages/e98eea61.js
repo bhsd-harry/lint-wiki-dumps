@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,2,"[[Category:1936年完工建築物]]"]]
+window.data=[["no-duplicate",26,2,"duplicated category","[[Category:1936年完工建築物]]"],["no-duplicate",30,2,"duplicated category","[[Category:1936年完工建築物]]"]]

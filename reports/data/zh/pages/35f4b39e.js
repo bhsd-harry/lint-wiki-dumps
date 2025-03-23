@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,22,"Nicolaas Wilhelmus Posthumus"]]
+window.data=[["no-duplicate",65,22,"duplicated image caption parameter","Nicolaas Wilhelmus Posthumus"],["no-duplicate",65,51,"duplicated image caption parameter","馆长Posthumus, 国际社会史研究所创始人"]]

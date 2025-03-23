@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",152,2,"[[Category:亚美尼亚足球俱乐部|B]]"]]
+window.data=[["no-duplicate",152,2,"duplicated category","[[Category:亚美尼亚足球俱乐部|B]]"],["no-duplicate",157,2,"duplicated category","[[Category:亚美尼亚足球俱乐部|U]]"]]

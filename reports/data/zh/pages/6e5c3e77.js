@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",454,63,"}}"],[3,"no-duplicate",454,23,"<small>在普蘭巴南平原的其中的{le"],[1,"unmatched-tag",454,70,"</small>"]]
+window.data=[["lonely-bracket",454,63,"lonely \"}\"","}}"],["unmatched-tag",454,70,"unmatched closing tag","</small>"],["no-duplicate",454,23,"duplicated image caption parameter","<small>在普蘭巴南平原的其中的{le"],["no-duplicate",454,45,"duplicated image caption parameter","蘭奔神廟"],["no-duplicate",454,50,"duplicated image caption parameter","Candi Lumbung}}（8世紀）</small>"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",68,2,"[[Category:日本政變]]"]]
+window.data=[["no-duplicate",68,2,"duplicated category","[[Category:日本政變]]"],["no-duplicate",71,2,"duplicated category","[[Category:日本政變]]"]]

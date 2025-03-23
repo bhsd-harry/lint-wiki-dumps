@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",563,3,"mare=號族：5-g\n "]]
+window.data=[["no-duplicate",563,3,"duplicated parameter","mare=號族：5-g\n "],["no-duplicate",564,3,"duplicated parameter","mare=號族：5-g\n "]]

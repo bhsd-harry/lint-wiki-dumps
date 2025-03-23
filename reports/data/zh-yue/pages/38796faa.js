@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",47,2,"duplicated category","[[類:各地足球協會]]"]]
+window.data=[["no-duplicate",47,2,"duplicated category","[[類:各地足球協會]]"],["no-duplicate",51,2,"duplicated category","[[類:各地足球協會]]"]]

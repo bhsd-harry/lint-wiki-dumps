@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",97,80,"Right"]]
+window.data=[["no-duplicate",97,80,"duplicated image caption parameter","Right"],["no-duplicate",97,92,"duplicated image caption parameter","[[基隆車站]]內的臺灣鐵路[[縱貫線 (鐵路)|縱貫線]]起點"],["no-duplicate",98,59,"duplicated image caption parameter","Right"],["no-duplicate",98,65,"duplicated image caption parameter","基隆市文安里平交道"]]

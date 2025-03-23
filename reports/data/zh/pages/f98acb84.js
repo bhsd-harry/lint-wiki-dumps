@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",36,2,"[[Category:香港民主派人士]]"]]
+window.data=[["no-duplicate",36,2,"duplicated category","[[Category:香港民主派人士]]"],["no-duplicate",39,2,"duplicated category","[[Category:香港民主派人士]]"]]

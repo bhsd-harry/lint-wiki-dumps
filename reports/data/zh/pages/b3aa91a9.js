@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",145,148,"[["],[1,"no-ignored",77,23,"; color:snow\"  "]]
+window.data=[["invalid-css",77,22,"semi-colon expected",""],["invalid-css",77,22,"colon expected",""],["no-ignored",77,23,"containing invalid attribute","; color:snow\"  "],["lonely-bracket",145,148,"lonely \"[\"","[["]]

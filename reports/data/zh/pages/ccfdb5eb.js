@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",214,2,"[[Category:法鲁区市镇]]"]]
+window.data=[["no-duplicate",214,2,"duplicated category","[[Category:法鲁区市镇]]"],["no-duplicate",217,2,"duplicated category","[[Category:法鲁区市镇]]"]]

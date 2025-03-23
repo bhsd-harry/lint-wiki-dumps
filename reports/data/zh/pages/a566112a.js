@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",128,662,"archive-date=2023-07-24"]]
+window.data=[["no-duplicate",128,662,"duplicated parameter","archive-date=2023-07-24"],["no-duplicate",128,840,"duplicated parameter","archive-date=2023-07-24"],["no-duplicate",128,686,"duplicated parameter","archive-url=https://web.archive.org/web/20230724102656/https://www.nownews.com/news/6195592"],["no-duplicate",128,790,"duplicated parameter","archive-url=https://www.nownews.com/news/6195592 "]]

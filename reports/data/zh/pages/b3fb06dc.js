@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,35,"180xp"]]
+window.data=[["no-duplicate",44,35,"duplicated image caption parameter","180xp"],["no-duplicate",44,41,"duplicated image caption parameter","雕塑：母校"]]

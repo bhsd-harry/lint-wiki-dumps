@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",902,42,"{{"],[2,"no-ignored",902,38,"普通版：{{ISBN"]]
+window.data=[["lonely-bracket",902,42,"lonely \"{\"","{{"],["no-ignored",902,38,"containing invalid attribute","普通版：{{ISBN"],["lonely-bracket",902,80,"lonely \"{\"","{{"],["no-ignored",902,80,"containing invalid attribute","{{ISBN"]]

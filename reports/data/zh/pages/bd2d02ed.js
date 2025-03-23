@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3,"motto = The Power of AND\n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter","motto = The Power of AND\n "],["no-duplicate",25,3,"duplicated parameter","motto= Excellence. Our measure, our motto, our goal.\n "]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",90,2,"[[Category:哈尔滨公园]]"]]
+window.data=[["no-duplicate",90,2,"duplicated category","[[Category:哈尔滨公园]]"],["no-duplicate",92,2,"duplicated category","[[Category:哈尔滨公园]]"],["no-duplicate",91,2,"duplicated category","[[Category:1925年中國建立]]"],["no-duplicate",93,2,"duplicated category","[[Category:1925年中國建立]]"],["no-duplicate",95,2,"duplicated category","[[Category:窄轨铁路]]"],["no-duplicate",96,2,"duplicated category","[[Category:窄轨铁路]]"]]

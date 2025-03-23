@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",83,1," * [[新市巡检司旧址]]\n * [[小圩龙门第]]\n * [[寿洲古建筑群]]\n * 大塘新屋里民居\n * [[邝鄘]]墓\n * [[谭冠三]]故居"]]
+window.data=[["fostered-content",83,1,"content to be moved out from the table"," * [[新市巡检司旧址]]\n * [[小圩龙门第]]\n * [[寿洲古建筑群]]\n * 大塘新屋里民居\n * [[邝鄘]]墓\n * [[谭冠三]]故居"],["fostered-content",92,1,"content to be moved out from the table"," * 熊梦飞故居"]]

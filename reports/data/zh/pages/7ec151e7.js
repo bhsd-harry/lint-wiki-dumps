@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,57,"px"]]
+window.data=[["no-duplicate",1,57,"duplicated image caption parameter","px"],["no-duplicate",1,60,"duplicated image caption parameter","火星上的倒轉地形。這些在埃俄利斯区區的交錯和彎曲山脊曾經是[[冰川沉積扇]]內的河道。這些河道比周圍的物質更能抵抗風蝕，因此現在看起來更像山脊，而非峽谷。光源來自影像左方。影像版權：NASA/JPL/Malin Space Science Systems。"]]

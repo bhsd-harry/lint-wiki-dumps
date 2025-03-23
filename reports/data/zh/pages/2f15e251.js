@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",215,2,"[[Category:乃木坂46成員]]"]]
+window.data=[["no-duplicate",215,2,"duplicated category","[[Category:乃木坂46成員]]"],["no-duplicate",217,2,"duplicated category","[[Category:乃木坂46成員]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,72,"miniature"]]
+window.data=[["no-duplicate",4,72,"duplicated image caption parameter","miniature"],["no-duplicate",4,88,"duplicated image caption parameter","2014年2月25日瑞典斯德哥尔摩乌拉齐米尔·尼亚克利亚耶领奖"]]

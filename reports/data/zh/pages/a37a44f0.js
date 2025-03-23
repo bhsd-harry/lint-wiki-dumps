@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,14,"name=\"郭芷瑄 2019\""],[1,"no-ignored",20,29,"/<ref "],[1,"tag-like",20,30,"<ref"]]
+window.data=[["tag-like",20,30,"lonely \"<\"","<ref"],["no-ignored",20,29,"containing invalid attribute","/<ref "],["no-duplicate",20,14,"duplicated name attribute","name=\"郭芷瑄 2019\""],["no-duplicate",20,35,"duplicated name attribute","name=\"汪淑芬 2019\""]]

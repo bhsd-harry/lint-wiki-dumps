@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",500,2,"[[Category:格拉斯哥女演員]]"]]
+window.data=[["no-duplicate",500,2,"duplicated category","[[Category:格拉斯哥女演員]]"],["no-duplicate",503,2,"duplicated category","[[Category:格拉斯哥女演員]]"]]

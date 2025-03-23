@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",348,2,"[[Category:唐朝—吐蕃關係]]"]]
+window.data=[["no-duplicate",348,2,"duplicated category","[[Category:唐朝—吐蕃關係]]"],["no-duplicate",351,2,"duplicated category","[[Category:唐朝—吐蕃關係]]"]]

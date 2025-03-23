@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,39,"widthpx"]]
+window.data=[["no-duplicate",1,39,"duplicated image caption parameter","widthpx"],["no-duplicate",1,47,"duplicated image caption parameter","1956年邦界重划法后的孟买邦：\n {{legend|#7EC5F2|从中央邦划入孟买邦的毗达婆（Vidarbha）地区}} \n {{legend|#16DD7B|从[[海得拉巴]]划入孟买邦的[[马拉特瓦达]]（Marathwada）地区}}\n {{legend|#FDC475|[[索拉什特拉邦]"]]

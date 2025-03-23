@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,3," constituency = {{le|秋明选区|Tyumen constituency}}\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," constituency = {{le|秋明选区|Tyumen constituency}}\n "],["no-duplicate",16,3,"duplicated parameter"," constituency = [[比例代表制]]\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",50,2,"[[Category:罗维戈省市镇]]"]]
+window.data=[["no-duplicate",50,2,"duplicated category","[[Category:罗维戈省市镇]]"],["no-duplicate",51,2,"duplicated category","[[Category:罗维戈省市镇|C]]"]]

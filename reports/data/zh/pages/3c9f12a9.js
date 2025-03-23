@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",966,13,"background"],[1,"lonely-bracket",387,2,"{"]]
+window.data=[["lonely-bracket",387,2,"lonely \"{\"","{"],["illegal-attr",966,13,"illegal attribute name","background"],["illegal-attr",966,24,"illegal attribute name","color"],["illegal-attr",981,13,"illegal attribute name","background"],["illegal-attr",981,24,"illegal attribute name","color"],["invalid-css",1383,95,"semi-colon expected",""],["invalid-css",1383,95,"colon expected",""]]

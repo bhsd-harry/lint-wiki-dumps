@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",59,2,"[[Category:刑事偵查]]"]]
+window.data=[["no-duplicate",59,2,"duplicated category","[[Category:刑事偵查]]"],["no-duplicate",62,2,"duplicated category","[[Category:刑事偵查]]"]]

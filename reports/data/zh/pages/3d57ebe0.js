@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",22,75,"  border-collapse:collapse;\""]]
+window.data=[["no-ignored",22,75,"containing invalid attribute","  border-collapse:collapse;\""],["no-ignored",40,75,"containing invalid attribute","  border-collapse:collapse;\""]]

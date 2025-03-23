@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",3,3,"duplicated parameter","nativename=Ebon\n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter","nativename=Ebon\n "],["no-duplicate",12,3,"duplicated parameter"," nativename = \n "],["no-duplicate",6,3,"duplicated parameter","states={{flag|Marshall Islands}}\n "],["no-duplicate",13,3,"duplicated parameter"," states = {{flag|Marshall Islands}}\n "],["no-duplicate",8,3,"duplicated parameter","speakers= 5 uâng\n "],["no-duplicate",14,3,"duplicated parameter"," speakers = 55,000\n "]]

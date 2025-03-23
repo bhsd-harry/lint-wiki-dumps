@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",529,2,"[[Category:朝鮮鐵路线]]"]]
+window.data=[["no-duplicate",529,2,"duplicated category","[[Category:朝鮮鐵路线]]"],["no-duplicate",534,2,"duplicated category","[[Category:朝鮮鐵路线]]"]]

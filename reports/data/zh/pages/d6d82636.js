@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",5,29,"强非连续（红线）为物理场量的非连续，弱非连续（蓝线）为物理场量梯度的非连续，或是物理场量的转折。"]]
+window.data=[["no-duplicate",5,29,"duplicated image caption parameter","强非连续（红线）为物理场量的非连续，弱非连续（蓝线）为物理场量梯度的非连续，或是物理场量的转折。"],["no-duplicate",5,83,"duplicated image caption parameter","强非连续&弱非连续"],["no-duplicate",5,23,"conflicting image frame parameter","thumb"],["no-duplicate",5,78,"conflicting image frame parameter","有框"]]

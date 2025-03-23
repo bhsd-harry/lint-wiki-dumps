@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",51,3,"time= {{start date|1907||}}\n "]]
+window.data=[["no-duplicate",51,3,"duplicated parameter","time= {{start date|1907||}}\n "],["no-duplicate",59,3,"duplicated parameter","time= {{start date|1907||}}\n "]]

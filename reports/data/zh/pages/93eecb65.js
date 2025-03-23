@@ -1,1 +1,1 @@
-window.data=[[5,"invalid-gallery",117,52,"缩略图"],[2,"unmatched-tag",125,853,"</q>"]]
+window.data=[["invalid-gallery",117,52,"invalid image parameter","缩略图"],["invalid-gallery",118,48,"invalid image parameter","缩略图"],["invalid-gallery",119,54,"invalid image parameter","缩略图"],["invalid-gallery",120,26,"invalid image parameter","缩略图"],["invalid-gallery",121,78,"invalid image parameter","缩略图"],["unmatched-tag",125,853,"unmatched closing tag","</q>"],["unmatched-tag",125,857,"unclosed tag","<q>"]]

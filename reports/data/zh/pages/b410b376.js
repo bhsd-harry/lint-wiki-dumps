@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",160,2,"[[Category:柔佛第14届州立法议会议员]]"]]
+window.data=[["no-duplicate",160,2,"duplicated category","[[Category:柔佛第14届州立法议会议员]]"],["no-duplicate",164,2,"duplicated category","[[Category:柔佛第14届州立法议会议员]]"]]

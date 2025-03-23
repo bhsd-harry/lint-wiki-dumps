@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",106,31,"[["],[1,"no-ignored",106,28,"   [[DVD區域碼|區域4]]  "]]
+window.data=[["lonely-bracket",106,31,"lonely \"[\"","[["],["lonely-bracket",106,43,"lonely \"]\"","]]"],["no-ignored",106,28,"containing invalid attribute","   [[DVD區域碼|區域4]]  "]]

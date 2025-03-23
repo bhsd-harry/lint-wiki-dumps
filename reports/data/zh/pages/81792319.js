@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",68,2,"[[Category:1979年成立的公司]]"]]
+window.data=[["no-duplicate",68,2,"duplicated category","[[Category:1979年成立的公司]]"],["no-duplicate",70,2,"duplicated category","[[Category:1979年成立的公司]]"],["no-duplicate",69,2,"duplicated category","[[Category:大雅區|市]]"],["no-duplicate",71,2,"duplicated category","[[Category:大雅區|市]]"]]

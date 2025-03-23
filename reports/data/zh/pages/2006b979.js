@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,21,"|普魯士三级选举权制度"]]
+window.data=[["no-ignored",1,21,"useless link text","|普魯士三级选举权制度"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",179,2,"[[Category:臺南市文化資產]]"]]
+window.data=[["no-duplicate",179,2,"duplicated category","[[Category:臺南市文化資產]]"],["no-duplicate",181,2,"duplicated category","[[Category:臺南市文化資產]]"]]

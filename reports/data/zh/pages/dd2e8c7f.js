@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",57,89,"'"],[1,"lonely-bracket",72,61,"]]"],[4,"no-duplicate",84,2,"[[Category:美國軍用直升機]]"]]
+window.data=[["lonely-apos",57,89,"lonely \"'\"","'"],["lonely-bracket",72,61,"lonely \"]\"","]]"],["no-duplicate",84,2,"duplicated category","[[Category:美國軍用直升機]]"],["no-duplicate",86,2,"duplicated category","[[Category:美國軍用直升機]]"],["no-duplicate",85,2,"duplicated category","[[Category:军用直升机]]"],["no-duplicate",87,2,"duplicated category","[[Category:军用直升机]]"]]

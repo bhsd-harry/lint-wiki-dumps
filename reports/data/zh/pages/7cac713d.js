@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",42,1," * [[牙科]]卫生学科<ref group=\"注\"  name=\"牙科卫生学科\"/>\n * [[牙科]]技工学科<ref group=\"注\"  name=\"牙科技工学科\"/>"]]
+window.data=[["fostered-content",42,1,"content to be moved out from the table"," * [[牙科]]卫生学科<ref group=\"注\"  name=\"牙科卫生学科\"/>\n * [[牙科]]技工学科<ref group=\"注\"  name=\"牙科技工学科\"/>"]]

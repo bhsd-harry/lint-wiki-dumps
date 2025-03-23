@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",66,64,"Pingguo Stadium (Double Third Festival 2023)"]]
+window.data=[["no-duplicate",66,64,"duplicated image caption parameter","Pingguo Stadium (Double Third Festival 2023)"],["no-duplicate",66,109,"duplicated image caption parameter","[[2023年中国足球甲级联赛|2023年中甲联赛]]与济南兴洲赛前的平果体育场"]]

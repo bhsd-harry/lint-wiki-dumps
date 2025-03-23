@@ -1,1 +1,1 @@
-window.data=[[3,"invalid-isbn",431,136,"ISBN 4-02-250251-3"],[2,"no-duplicate",484,2,"[[Category:陪審團| ]]"]]
+window.data=[["invalid-isbn",431,136,"invalid ISBN","ISBN 4-02-250251-3"],["invalid-isbn",438,210,"invalid ISBN","ISBN 4-7571-4169-8"],["invalid-isbn",439,178,"invalid ISBN","ISBN 4-12-100972-2"],["no-duplicate",484,2,"duplicated category","[[Category:陪審團| ]]"],["no-duplicate",486,2,"duplicated category","[[Category:陪審團]]"]]

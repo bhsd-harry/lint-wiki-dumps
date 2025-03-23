@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",47,4,"1999年7月3日||TVBS||《無線晚報》||代班主播"]]
+window.data=[["no-ignored",47,4,"containing invalid attribute","1999年7月3日||TVBS||《無線晚報》||代班主播"]]

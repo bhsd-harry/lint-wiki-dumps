@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",134,2,"[[Category:全明星運動會]]"]]
+window.data=[["no-duplicate",134,2,"duplicated category","[[Category:全明星運動會]]"],["no-duplicate",143,2,"duplicated category","[[Category:全明星運動會|林]]"]]

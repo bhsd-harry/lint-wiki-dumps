@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,26,"{{largethumb}}"]]
+window.data=[["no-duplicate",1,26,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",1,41,"duplicated image caption parameter","朗厄福爾豪特宮"]]

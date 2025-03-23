@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",92,2,"[[Category:香港政務主任]]"]]
+window.data=[["no-duplicate",92,2,"duplicated category","[[Category:香港政務主任]]"],["no-duplicate",121,2,"duplicated category","[[Category:香港政務主任]]"],["no-duplicate",93,2,"duplicated category","[[Category:何姓|P]]"],["no-duplicate",126,2,"duplicated category","[[Category:何姓|P]]"],["no-duplicate",94,2,"duplicated category","[[Category:香港政府官員]]"],["no-duplicate",122,2,"duplicated category","[[Category:香港政府官員]]"]]

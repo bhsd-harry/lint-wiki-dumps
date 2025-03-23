@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",31,71,"[[川菜厨校-成都新东方]]"]]
+window.data=[["nested-link",31,71,"internal link in an external link","[[川菜厨校-成都新东方]]"]]

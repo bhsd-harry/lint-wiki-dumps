@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",136,5,"span"],[2,"no-ignored",2,74,"'100'''"],[1,"unmatched-tag",104,2,"</font>"]]
+window.data=[["no-ignored",2,74,"containing invalid attribute","'100'''"],["no-ignored",64,190,"containing invalid attribute","  2013年7月17日，该县城管廖卫昌等暴打瓜农邓正加致其死亡，引发社会愤慨"],["unmatched-tag",104,2,"unmatched closing tag","</font>"],["illegal-attr",136,5,"illegal attribute name","span"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",299,2,"[[分類:迪士尼動畫原聲帶]]"]]
+window.data=[["no-duplicate",299,2,"duplicated category","[[分類:迪士尼動畫原聲帶]]"],["no-duplicate",301,2,"duplicated category","[[分類:迪士尼動畫原聲帶]]"]]

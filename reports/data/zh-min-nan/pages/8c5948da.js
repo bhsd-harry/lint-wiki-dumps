@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,61,"duplicated image caption parameter","desno"]]
+window.data=[["no-duplicate",23,61,"duplicated image caption parameter","desno"],["no-duplicate",23,67,"duplicated image caption parameter","Panorama View of Prishtina (2018)"]]

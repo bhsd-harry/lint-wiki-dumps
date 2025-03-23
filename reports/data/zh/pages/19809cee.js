@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",681,40,"亚洲相互协作与信任措施会议"]]
+window.data=[["no-duplicate",681,40,"duplicated image caption parameter","亚洲相互协作与信任措施会议"],["no-duplicate",681,54,"duplicated image caption parameter","亚信"]]

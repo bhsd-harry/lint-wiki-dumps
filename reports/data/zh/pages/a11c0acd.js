@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",141,4," class+\"wikitable\"  "],[1,"unclosed-table",57,2,"{|"]]
+window.data=[["unclosed-table",57,2,"unclosed table","{|"],["no-ignored",141,4,"containing invalid attribute"," class+\"wikitable\"  "]]

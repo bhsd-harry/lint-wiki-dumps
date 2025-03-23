@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,2,"[[Category:中国大陆脱口秀演员]]"]]
+window.data=[["no-duplicate",19,2,"duplicated category","[[Category:中国大陆脱口秀演员]]"],["no-duplicate",22,2,"duplicated category","[[Category:中国大陆脱口秀演员]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"unmatched-tag",23,3,"<cite id = Lodge>"]]
+window.data=[["unmatched-tag",23,3,"unclosed tag","<cite id = Lodge>"],["unmatched-tag",32,3,"unclosed tag","<cite id = Obstfeld>"],["unmatched-tag",42,4,"unclosed tag","<cite id = Rozelle>"],["unmatched-tag",52,4,"unclosed tag","<cite id = Truby>"]]

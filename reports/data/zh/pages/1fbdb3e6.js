@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:中华人民共和国国家经济体制改革委员会副主任]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:中华人民共和国国家经济体制改革委员会副主任]]"],["no-duplicate",43,2,"duplicated category","[[Category:中华人民共和国国家经济体制改革委员会副主任]]"]]

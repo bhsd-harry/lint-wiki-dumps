@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",332,2,"[[Category:世界羽聯國際系列賽|Swedish]]"]]
+window.data=[["no-duplicate",332,2,"duplicated category","[[Category:世界羽聯國際系列賽|Swedish]]"],["no-duplicate",333,2,"duplicated category","[[Category:世界羽聯國際系列賽|Swedish]]"]]

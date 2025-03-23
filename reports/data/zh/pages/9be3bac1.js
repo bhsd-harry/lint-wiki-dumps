@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",68,39,"]"],[2,"no-duplicate",188,2,"[[Category:2018年乒乓球|Asian Games]]"]]
+window.data=[["lonely-bracket",68,39,"lonely \"]\"","]"],["no-duplicate",188,2,"duplicated category","[[Category:2018年乒乓球|Asian Games]]"],["no-duplicate",189,2,"duplicated category","[[Category:2018年乒乓球]]"]]

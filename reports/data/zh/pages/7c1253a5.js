@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",61,79,"{{"],[1,"lonely-http",66,490,"https://"]]
+window.data=[["lonely-bracket",61,79,"lonely \"{\"","{{"],["lonely-http",66,490,"lonely \"https://\"","https://"]]

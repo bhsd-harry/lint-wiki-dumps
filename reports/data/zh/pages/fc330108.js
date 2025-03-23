@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",18,2,"[[Category:石鱸科|鳃斑石鲈]]"]]
+window.data=[["no-duplicate",18,2,"duplicated category","[[Category:石鱸科|鳃斑石鲈]]"],["no-duplicate",19,2,"duplicated category","[[Category:石鱸科|grunniens]]"],["no-duplicate",21,2,"duplicated category","[[Category:石鱸科]]"]]

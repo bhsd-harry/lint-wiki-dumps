@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,41,"uprig4"]]
+window.data=[["no-duplicate",2,41,"duplicated image caption parameter","uprig4"],["no-duplicate",2,48,"duplicated image caption parameter","[[石灰石]]开始形成土壤。"]]

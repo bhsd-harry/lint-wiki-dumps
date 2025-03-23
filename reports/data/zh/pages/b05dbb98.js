@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",61,2,"[[Category:南岳区]]"]]
+window.data=[["no-duplicate",61,2,"duplicated category","[[Category:南岳区]]"],["no-duplicate",66,2,"duplicated category","[[Category:南岳区]]"]]

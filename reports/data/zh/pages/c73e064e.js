@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",44,1," * 保育科"]]
+window.data=[["fostered-content",44,1,"content to be moved out from the table"," * 保育科"],["fostered-content",58,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]<ref name=\"幼儿园\">[http://www.glory-shoei.ac.jp/youchien/index.html 颂荣幼儿园] {{Wayback|url=http://www.glory-shoei.ac.jp/youchien/index.html "]]

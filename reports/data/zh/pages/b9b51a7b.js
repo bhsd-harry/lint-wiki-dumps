@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",43,68,"'"],[2,"no-ignored",2374,15,"  color:black\""]]
+window.data=[["lonely-apos",43,68,"lonely \"'\"","'"],["no-ignored",2374,15,"containing invalid attribute","  color:black\""],["no-ignored",2380,15,"containing invalid attribute","  color:black\"  "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",93,50,"Right"]]
+window.data=[["no-duplicate",93,50,"duplicated image caption parameter","Right"],["no-duplicate",93,56,"duplicated image caption parameter","在狙击手嶺（537.7高地）的志愿军碉堡"]]

@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",26,51,"nhỏ"]]
+window.data=[["no-duplicate",26,51,"duplicated image caption parameter","nhỏ"],["no-duplicate",26,55,"duplicated image caption parameter","phải"],["no-duplicate",26,60,"duplicated image caption parameter","石䊆畫，模擬938年場白藤江之戰"]]

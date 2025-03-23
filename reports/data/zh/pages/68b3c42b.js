@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",292,2,"[[Category:駐中華民國蘇軍| ]]"]]
+window.data=[["no-duplicate",292,2,"duplicated category","[[Category:駐中華民國蘇軍| ]]"],["no-duplicate",299,2,"duplicated category","[[Category:駐中華民國蘇軍]]"]]

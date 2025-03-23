@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",28,3," pinyin_code = SHG\n "]]
+window.data=[["no-duplicate",28,3,"duplicated parameter"," pinyin_code = SHG\n "],["no-duplicate",32,3,"duplicated parameter"," pinyin_code = SHG\n "]]

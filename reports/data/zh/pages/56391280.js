@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",47,74,"Yang Jing-se in the air force school (2019-06-08)"]]
+window.data=[["no-duplicate",47,74,"duplicated image caption parameter","Yang Jing-se in the air force school (2019-06-08)"],["no-duplicate",47,124,"duplicated image caption parameter","杨静瑟（左）在2019年空军官校的颁奖典礼"]]

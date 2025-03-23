@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",31,57,"left200px"]]
+window.data=[["no-duplicate",31,57,"duplicated image caption parameter","left200px"],["no-duplicate",31,67,"duplicated image caption parameter","魯傑羅在1062年與戀人茱迪斯完婚，達成多年的心願"],["no-duplicate",35,36,"duplicated image thumbnail parameter","thumb"],["no-duplicate",35,47,"duplicated image thumbnail parameter","thumb"]]

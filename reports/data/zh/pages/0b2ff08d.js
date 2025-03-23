@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",101,133,"https://"],[1,"nested-link",31,235,"[[维托里奥·斯加尔比]]"]]
+window.data=[["nested-link",31,235,"internal link in an external link","[[维托里奥·斯加尔比]]"],["lonely-http",101,133,"lonely \"https://\"","https://"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,42,"Right"]]
+window.data=[["no-duplicate",11,42,"duplicated image caption parameter","Right"],["no-duplicate",11,48,"duplicated image caption parameter","[[杭州地铁]]建设中使用的软土[[隧道]]盾构机"]]

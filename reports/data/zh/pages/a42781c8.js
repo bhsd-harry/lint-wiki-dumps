@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,31,"medium"],[2,"unmatched-tag",187,404,"</cite>"]]
+window.data=[["no-duplicate",9,31,"duplicated image caption parameter","medium"],["no-duplicate",9,50,"duplicated image caption parameter","威斯康辛的Hα地圖是從地球的北半球觀測可見到部分的星際物質分布。這些[[電漿|氫離子]]（在光譜學的舊術語中，天文學家稱之為HII）{{harvard citation|Haffner|Reynolds|Tufte|Madsen|2003}}."],["unmatched-tag",187,404,"unmatched closing tag","</cite>"],["unmatched-tag",193,412,"unmatched closing tag","</cite>"]]

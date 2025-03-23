@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",81,2,"[[Category:美國奧林匹克運動會金牌得主]]"]]
+window.data=[["no-duplicate",81,2,"duplicated category","[[Category:美國奧林匹克運動會金牌得主]]"],["no-duplicate",91,2,"duplicated category","[[Category:美國奧林匹克運動會金牌得主]]"],["no-duplicate",84,2,"duplicated category","[[Category:奧林匹克運動會游泳金牌得主]]"],["no-duplicate",92,2,"duplicated category","[[Category:奧林匹克運動會游泳金牌得主]]"]]

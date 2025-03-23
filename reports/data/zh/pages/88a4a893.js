@@ -1,1 +1,1 @@
-window.data=[[4,"invalid-gallery",50,34,"thumb"],[1,"unescaped",55,846,"="]]
+window.data=[["invalid-gallery",50,34,"invalid image parameter","thumb"],["invalid-gallery",50,40,"invalid image parameter","250px"],["invalid-gallery",51,47,"invalid image parameter","250px"],["invalid-gallery",51,53,"invalid image parameter","thumb"],["unescaped",55,846,"unescaped query string in an anonymous parameter","="]]

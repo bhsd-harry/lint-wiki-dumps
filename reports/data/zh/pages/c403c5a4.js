@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",70,1," * 保育科"]]
+window.data=[["fostered-content",70,1,"content to be moved out from the table"," * 保育科"],["fostered-content",113,1,"content to be moved out from the table"," * 前熊本短期大学附属敬爱幼儿园：成立于1956年<ref name=\"短期大学的历史\"/>"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",97,2,"[[Category:中国铁路高速动车组列车车次|G]]"]]
+window.data=[["no-duplicate",97,2,"duplicated category","[[Category:中国铁路高速动车组列车车次|G]]"],["no-duplicate",98,2,"duplicated category","[[Category:中国铁路高速动车组列车车次|G]]"]]

@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",77,51,"duplicated image caption parameter","縮圖"]]
+window.data=[["no-duplicate",77,51,"duplicated image caption parameter","縮圖"],["no-duplicate",77,54,"duplicated image caption parameter","左"],["no-duplicate",77,56,"duplicated image caption parameter","火花行動前嘅列寧格勒周邊圖"]]

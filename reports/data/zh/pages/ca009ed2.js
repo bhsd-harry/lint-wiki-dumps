@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",131,48,"[["],[2,"no-duplicate",31,24,"border=\"2\""]]
+window.data=[["no-duplicate",31,24,"duplicated border attribute","border=\"2\""],["no-duplicate",31,36,"duplicated border attribute","border=\"1\""],["lonely-bracket",131,48,"lonely \"[\"","[["],["lonely-bracket",131,50,"lonely \"]\"","]]"]]

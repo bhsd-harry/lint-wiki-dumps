@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",48,3," dimensions             = \n "]]
+window.data=[["no-duplicate",48,3,"duplicated parameter"," dimensions             = \n "],["no-duplicate",51,3,"duplicated parameter"," dimensions             = 16,136平方公尺\n "]]

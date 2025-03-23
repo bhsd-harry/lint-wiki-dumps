@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",680,53,"hochkant=1.3"]]
+window.data=[["no-duplicate",680,53,"duplicated image caption parameter","hochkant=1.3"],["no-duplicate",680,66,"duplicated image caption parameter","英国公园，凉亭视野<br /><small>从左至右：{{ld|巴伐利亚州长办公厅|Bayerische Staatskanzlei|州长办公厅}}、[[圣伯多禄堂 (慕尼黑)|圣伯多禄堂]]、[[慕尼黑新市政厅|新市政厅]]、[[慕尼黑王宫|王宫]]、[[聖母主教座堂 (慕尼黑)|圣母堂]]、[["]]

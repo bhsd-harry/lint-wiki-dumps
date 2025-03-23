@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,3," signature   = Hermann Zapf. Signatur 1958.jpg\n "]]
+window.data=[["no-duplicate",23,3,"duplicated parameter"," signature   = Hermann Zapf. Signatur 1958.jpg\n "],["no-duplicate",37,3,"duplicated parameter"," signature   =\n "]]

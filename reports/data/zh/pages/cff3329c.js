@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",91,161,"[[康乃爾大學]]"],[2,"no-duplicate",115,2,"[[Category:臺灣—菲律賓關係| ]]"]]
+window.data=[["nested-link",91,161,"internal link in an external link","[[康乃爾大學]]"],["nested-link",91,171,"internal link in an external link","[[臺灣民主化|臺灣民主]]"],["no-duplicate",115,2,"duplicated category","[[Category:臺灣—菲律賓關係| ]]"],["no-duplicate",116,2,"duplicated category","[[Category:臺灣—菲律賓關係|台]]"]]

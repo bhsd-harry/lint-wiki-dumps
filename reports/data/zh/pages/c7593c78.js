@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,37,"rotation left"]]
+window.data=[["no-duplicate",32,37,"duplicated image caption parameter","rotation left"],["no-duplicate",32,64,"duplicated image caption parameter","美国床垫规格"]]

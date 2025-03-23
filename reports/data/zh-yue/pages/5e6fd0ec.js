@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",62,5,"duplicated bgcolor attribute","bgcolor=\"beige\""]]
+window.data=[["no-duplicate",62,5,"duplicated bgcolor attribute","bgcolor=\"beige\""],["no-duplicate",62,22,"duplicated bgcolor attribute","bgcolor=\"yellow\""],["no-duplicate",95,5,"duplicated bgcolor attribute","bgcolor=\"beige\""],["no-duplicate",95,22,"duplicated bgcolor attribute","bgcolor=\"yellow\""],["no-duplicate",102,5,"duplicated bgcolor attribute","bgcolor=\"beige\""],["no-duplicate",102,22,"duplicated bgcolor attribute","bgcolor=\"yellow\""]]

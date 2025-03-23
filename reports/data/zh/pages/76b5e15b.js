@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3,"foundation = [[台灣]]（{{Start date|1993||}}）\n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter","foundation = [[台灣]]（{{Start date|1993||}}）\n "],["no-duplicate",11,3,"duplicated parameter","foundation = {{Start date|1990}}\n "]]

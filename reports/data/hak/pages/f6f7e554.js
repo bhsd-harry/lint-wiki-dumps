@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,60,"duplicated image caption parameter","250pxNgiù-chîn Thai-ho̍k."]]
+window.data=[["no-duplicate",2,60,"duplicated image caption parameter","250pxNgiù-chîn Thai-ho̍k."],["no-duplicate",2,86,"duplicated image caption parameter",""]]

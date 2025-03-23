@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",229,2,"[[Category:臺灣政治世家出身的政治人物]]"]]
+window.data=[["no-duplicate",229,2,"duplicated category","[[Category:臺灣政治世家出身的政治人物]]"],["no-duplicate",235,2,"duplicated category","[[Category:臺灣政治世家出身的政治人物]]"]]

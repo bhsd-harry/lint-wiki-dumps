@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",103,6,"[["],[1,"no-ignored",103,4,"||[[大提琴手高修]]||{{lang|ja|セロひきのゴーシュ}}||学習研究社||短篇"]]
+window.data=[["lonely-bracket",103,6,"lonely \"[\"","[["],["lonely-bracket",103,14,"lonely \"]\"","]]"],["no-ignored",103,4,"containing invalid attribute","||[[大提琴手高修]]||{{lang|ja|セロひきのゴーシュ}}||学習研究社||短篇"]]

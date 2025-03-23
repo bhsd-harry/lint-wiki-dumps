@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,69,"upleft"]]
+window.data=[["no-duplicate",5,69,"duplicated image caption parameter","upleft"],["no-duplicate",5,76,"duplicated image caption parameter","穆爾滕的贝恩托"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3," office              = [[第7届俄罗斯国家杜马|第7届]]和[[第8届俄罗斯国家杜马]]议员\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," office              = [[第7届俄罗斯国家杜马|第7届]]和[[第8届俄罗斯国家杜马]]议员\n "],["no-duplicate",15,3,"duplicated parameter"," office              = [[国家杜马]]议员\n "]]

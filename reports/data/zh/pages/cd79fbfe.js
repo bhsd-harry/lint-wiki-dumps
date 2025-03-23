@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,3,"seat_type=Capital\n "]]
+window.data=[["no-duplicate",35,3,"duplicated parameter","seat_type=Capital\n "],["no-duplicate",41,3,"duplicated parameter"," seat_type          = 首府\n "]]

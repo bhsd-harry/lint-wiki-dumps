@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",46,81,"'"],[1,"nested-link",85,82,"[[BANDAI]]"]]
+window.data=[["lonely-apos",46,81,"lonely \"'\"","'"],["nested-link",85,82,"internal link in an external link","[[BANDAI]]"]]

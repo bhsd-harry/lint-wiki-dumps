@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",62,3,"nowrap"],[1,"no-ignored",117,90,"; text-align:center; width:100%;\""]]
+window.data=[["illegal-attr",62,3,"illegal attribute name","nowrap"],["illegal-attr",65,4,"illegal attribute name","nowrap"],["illegal-attr",66,4,"illegal attribute name","nowrap"],["illegal-attr",67,4,"illegal attribute name","nowrap"],["no-ignored",117,90,"containing invalid attribute","; text-align:center; width:100%;\""]]

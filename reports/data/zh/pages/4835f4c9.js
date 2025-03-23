@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",220,3,"{{"],[1,"no-ignored",220,3,"{{法国交通标志/导向"]]
+window.data=[["lonely-bracket",220,3,"lonely \"{\"","{{"],["no-ignored",220,3,"containing invalid attribute","{{法国交通标志/导向"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"invalid-isbn",228,15,"ISBN 978-4-08-853675-4"],[2,"no-duplicate",541,3," lyrics9 = {{lang|ja|さくらももこ}} \n "]]
+window.data=[["invalid-isbn",228,15,"invalid ISBN","ISBN 978-4-08-853675-4"],["invalid-isbn",232,15,"invalid ISBN","ISBN 978-4-08-856023-0"],["no-duplicate",541,3,"duplicated parameter"," lyrics9 = {{lang|ja|さくらももこ}} \n "],["no-duplicate",551,3,"duplicated parameter"," lyrics9 = {{lang|ja|さくらももこ}} \n "]]

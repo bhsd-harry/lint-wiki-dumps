@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",59,1," * 儿童学科<ref group=\"注\"  name=\"儿童学科\"/>\n ** 第一部\n ** 函授教育课程\n *** 幼儿专攻\n *** 保育专攻"]]
+window.data=[["fostered-content",59,1,"content to be moved out from the table"," * 儿童学科<ref group=\"注\"  name=\"儿童学科\"/>\n ** 第一部\n ** 函授教育课程\n *** 幼儿专攻\n *** 保育专攻"],["fostered-content",88,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]<ref name=\"幼儿园\">[http://www.kindai-toyooka.jp/kodomoen/index.html 近畿大学丰冈短期大学附属幼稚园]{{dead link|date=2018年4月 |bot=InternetArchiveBot |fix-"]]

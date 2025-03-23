@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",81,25,"{{flagicon|EU}}"]]
+window.data=[["no-duplicate",81,25,"duplicated image caption parameter","{{flagicon|EU}}"],["no-duplicate",81,41,"duplicated image caption parameter","'''{{EU}}'''<br>[[唐納德·圖斯克]]"]]

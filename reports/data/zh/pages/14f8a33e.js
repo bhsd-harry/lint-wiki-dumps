@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,2,"[[Category:团镇合一]]"]]
+window.data=[["no-duplicate",21,2,"duplicated category","[[Category:团镇合一]]"],["no-duplicate",25,2,"duplicated category","[[Category:团镇合一]]"]]

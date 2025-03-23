@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",203,3,"colspan=\"2\""]]
+window.data=[["no-duplicate",203,3,"duplicated colspan attribute","colspan=\"2\""],["no-duplicate",203,16,"duplicated colspan attribute","colspan=\"2\""]]

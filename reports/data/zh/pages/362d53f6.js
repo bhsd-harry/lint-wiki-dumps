@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",98,1," [[File:1968-06 1968年 江南造船厂革命委员会.jpg|1968年 江南造船厂革命委员会"]]
+window.data=[["no-ignored",98,1,"invalid content in <gallery>"," [[File:1968-06 1968年 江南造船厂革命委员会.jpg|1968年 江南造船厂革命委员会"]]

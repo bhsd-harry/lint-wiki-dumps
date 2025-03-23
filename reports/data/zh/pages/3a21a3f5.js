@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",66,2,"[[Category:莫斯科運動員]]"]]
+window.data=[["no-duplicate",66,2,"duplicated category","[[Category:莫斯科運動員]]"],["no-duplicate",69,2,"duplicated category","[[Category:莫斯科運動員]]"]]

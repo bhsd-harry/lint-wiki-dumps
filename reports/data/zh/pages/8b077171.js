@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",94,2,"[[Category:柴可夫斯基國際音樂比賽獲獎者]]"]]
+window.data=[["no-duplicate",94,2,"duplicated category","[[Category:柴可夫斯基國際音樂比賽獲獎者]]"],["no-duplicate",101,2,"duplicated category","[[Category:柴可夫斯基國際音樂比賽獲獎者]]"],["no-duplicate",95,2,"duplicated category","[[Category:伊莉莎白女王大賽獲獎者]]"],["no-duplicate",102,2,"duplicated category","[[Category:伊莉莎白女王大賽獲獎者]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",67,56,"[["],[2,"no-duplicate",67,46,"一群橫斑梅花雀 攝於[[iSimangaliso Wetland Park"]]
+window.data=[["lonely-bracket",67,56,"lonely \"[\"","[["],["no-duplicate",67,46,"duplicated image caption parameter","一群橫斑梅花雀 攝於[[iSimangaliso Wetland Park"],["no-duplicate",67,84,"duplicated image caption parameter","[[伊西曼格利索濕地公園]], [[誇祖魯納塔爾]], [[南非]]"]]

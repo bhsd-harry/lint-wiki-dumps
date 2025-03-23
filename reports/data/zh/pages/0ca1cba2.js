@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,62,"File:Macedonian_Museums-90-Arxaiwv_Mousikvn_Organvn-406.jpg"]]
+window.data=[["no-duplicate",7,62,"duplicated image caption parameter","File:Macedonian_Museums-90-Arxaiwv_Mousikvn_Organvn-406.jpg"],["no-duplicate",7,122,"duplicated image caption parameter",""]]

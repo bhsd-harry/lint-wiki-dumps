@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,2,"[[Category:中國中醫師]]"]]
+window.data=[["no-duplicate",22,2,"duplicated category","[[Category:中國中醫師]]"],["no-duplicate",24,2,"duplicated category","[[Category:中國中醫師|Y岳]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",48,1," * 第二护理学科"]]
+window.data=[["fostered-content",48,1,"content to be moved out from the table"," * 第二护理学科"],["fostered-content",58,1,"content to be moved out from the table"," * 地区护理学专攻\n * [[接生員|助产学]]专攻"]]

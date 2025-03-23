@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",96,3," 席子淇"],[1,"unclosed-table",41,2,"{|"]]
+window.data=[["invalid-css",41,65,"semi-colon expected",""],["invalid-css",41,65,"colon expected",""],["no-ignored",96,3,"containing invalid attribute"," 席子淇"],["unclosed-table",41,2,"unclosed table","{|"],["invalid-css",105,65,"semi-colon expected",""],["invalid-css",105,65,"colon expected",""]]

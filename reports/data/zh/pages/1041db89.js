@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,2,"[[Category:臺灣清治時期貞孝節烈牌坊]]"]]
+window.data=[["no-duplicate",63,2,"duplicated category","[[Category:臺灣清治時期貞孝節烈牌坊]]"],["no-duplicate",66,2,"duplicated category","[[Category:臺灣清治時期貞孝節烈牌坊]]"]]

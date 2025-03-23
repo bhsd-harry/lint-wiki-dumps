@@ -1,1 +1,1 @@
-window.data=[[4,"invalid-css",17,11,"} expected","5%"]]
+window.data=[["invalid-css",17,11,"} expected","5%"],["invalid-css",18,11,"} expected","95%"],["invalid-css",41,11,"} expected","5%"],["invalid-css",67,11,"} expected","5%"]]

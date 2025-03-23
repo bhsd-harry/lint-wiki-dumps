@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3," caption = \n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," caption = \n "],["no-duplicate",13,3,"duplicated parameter"," caption =\n "]]

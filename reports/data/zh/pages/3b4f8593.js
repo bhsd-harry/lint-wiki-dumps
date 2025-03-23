@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",40,2,"[[Category:中华人民共和国歌曲]]"]]
+window.data=[["no-duplicate",40,2,"duplicated category","[[Category:中华人民共和国歌曲]]"],["no-duplicate",42,2,"duplicated category","[[Category:中华人民共和国歌曲]]"],["no-duplicate",44,2,"duplicated category","[[Category:1976年中国作品]]"],["no-duplicate",46,2,"duplicated category","[[Category:1976年中国作品]]"],["no-duplicate",45,2,"duplicated category","[[Category:施光南创作的歌曲]]"],["no-duplicate",47,2,"duplicated category","[[Category:施光南创作的歌曲]]"]]

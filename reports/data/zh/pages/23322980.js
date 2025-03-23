@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",47,1," * 卫生护理学科\n * 食物营养学科"],[4,"lonely-bracket",13,24,"[["]]
+window.data=[["lonely-bracket",13,24,"lonely \"[\"","[["],["lonely-bracket",13,38,"lonely \"]\"","]]"],["lonely-bracket",14,37,"lonely \"[\"","[["],["lonely-bracket",14,51,"lonely \"]\"","]]"],["fostered-content",47,1,"content to be moved out from the table"," * 卫生护理学科\n * 食物营养学科"]]

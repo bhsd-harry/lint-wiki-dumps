@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",31,3,"duplicated parameter"," clubs6 = [[祖雲達斯]]\n "]]
+window.data=[["no-duplicate",31,3,"duplicated parameter"," clubs6 = [[祖雲達斯]]\n "],["no-duplicate",34,3,"duplicated parameter"," clubs6 = [[艾希利足球會|艾希利]]\n "]]

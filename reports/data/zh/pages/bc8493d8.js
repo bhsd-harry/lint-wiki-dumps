@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3," primeminister1      = [[唐納德·圖斯克]]\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," primeminister1      = [[唐納德·圖斯克]]\n "],["no-duplicate",14,3,"duplicated parameter"," primeminister1      = 唐納德·圖斯克\n "]]

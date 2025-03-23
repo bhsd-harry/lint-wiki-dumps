@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",214,2,"[[Category:東涌綫車站]]"]]
+window.data=[["no-duplicate",214,2,"duplicated category","[[Category:東涌綫車站]]"],["no-duplicate",216,2,"duplicated category","[[Category:東涌綫車站]]"],["no-duplicate",215,2,"duplicated category","[[Category:離島區鐵路車站]]"],["no-duplicate",217,2,"duplicated category","[[Category:離島區鐵路車站]]"]]

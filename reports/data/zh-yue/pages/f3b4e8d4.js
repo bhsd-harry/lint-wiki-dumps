@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",35,68,"lonely \"]\"","]"],[2,"no-duplicate",32,3,"duplicated parameter"," 官方網站  = \n "]]
+window.data=[["lonely-bracket",35,68,"lonely \"]\"","]"],["lonely-bracket",35,74,"lonely \"[\"","["],["no-duplicate",32,3,"duplicated parameter"," 官方網站  = \n "],["no-duplicate",35,3,"duplicated parameter"," 官方網站 = https://viu.tv/encore/directors-gate-oversea-version 官方網站] <br>[https://viu.tv/encore/directors-gate-2\n "]]

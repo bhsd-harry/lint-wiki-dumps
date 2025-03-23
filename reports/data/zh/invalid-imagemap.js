@@ -1,1 +1,1 @@
-window.data=[["自由布尔代数",16,1," rect 393 230 481 409 {{tsl|en|Material implication|¬A or B}}"]]
+window.data=[["自由布尔代数",16,1,"invalid link in <imagemap>"," rect 393 230 481 409 {{tsl|en|Material implication|¬A or B}}"]]

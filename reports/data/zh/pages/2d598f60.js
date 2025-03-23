@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",609,2,"[[Category:楔形文字| ]]"]]
+window.data=[["no-duplicate",609,2,"duplicated category","[[Category:楔形文字| ]]"],["no-duplicate",614,2,"duplicated category","[[Category:楔形文字]]"]]

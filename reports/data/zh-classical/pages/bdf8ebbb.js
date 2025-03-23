@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",30,58,"illegal attribute name","borderColor"],[2,"lonely-apos",131,55,"lonely \"'\"","'"],[1,"unmatched-tag",137,2,"unmatched closing tag","</div>"]]
+window.data=[["illegal-attr",30,58,"illegal attribute name","borderColor"],["lonely-apos",131,55,"lonely \"'\"","'"],["lonely-apos",131,60,"lonely \"'\"","'"],["unmatched-tag",137,2,"unmatched closing tag","</div>"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,492,"url=2024-01-11"]]
+window.data=[["no-duplicate",65,492,"duplicated parameter","url=2024-01-11"],["no-duplicate",65,535,"duplicated parameter","url=https://car.southcn.com/node_225cca9b38/a6230aa88d.shtml"]]

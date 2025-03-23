@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",92,99,"[[21 October]]"]]
+window.data=[["nested-link",92,99,"internal link in an external link","[[21 October]]"]]

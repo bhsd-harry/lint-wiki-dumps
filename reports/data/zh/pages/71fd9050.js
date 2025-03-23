@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,34,"alt Illustration of Newton's method"]]
+window.data=[["no-duplicate",14,34,"duplicated image caption parameter","alt Illustration of Newton's method"],["no-duplicate",14,88,"duplicated image caption parameter","蓝线表示方程<math>f</math>而红线表示切线。可以看出<math>x_{n+1}</math>比<math>x_n</math>更靠近<math>f</math>所要求的根<math>x</math>。"]]

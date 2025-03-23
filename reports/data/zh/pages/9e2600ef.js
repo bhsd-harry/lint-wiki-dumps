@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",320,44,"editor=吳正龍 "]]
+window.data=[["no-duplicate",320,44,"duplicated parameter","editor=吳正龍 "],["no-duplicate",320,56,"duplicated parameter","editor=楊奇勳 "]]

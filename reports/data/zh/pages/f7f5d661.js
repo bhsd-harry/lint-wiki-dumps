@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",94,1," ;沈本大街白塔河路（站位位于沈本大街，C出入口外，白塔河路路口东侧）\n {{沈阳公交线路列表|width=100%|format=|end=yes|108|108区间|128支|198北|198西}}"]]
+window.data=[["fostered-content",94,1,"content to be moved out from the table"," ;沈本大街白塔河路（站位位于沈本大街，C出入口外，白塔河路路口东侧）\n {{沈阳公交线路列表|width=100%|format=|end=yes|108|108区间|128支|198北|198西}}"],["fostered-content",97,1,"content to be moved out from the table"," ;白塔河路沈本大街（站位位于白塔河路，C出入口外，沈本大街西侧）\n {{沈阳公交线路列表|width=100%|format=|end=yes|128支|334}}\n {{col-end}}"]]

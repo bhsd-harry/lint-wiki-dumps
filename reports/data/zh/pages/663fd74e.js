@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",129,2,"[[Category:代謝途徑]]"]]
+window.data=[["no-duplicate",129,2,"duplicated category","[[Category:代謝途徑]]"],["no-duplicate",141,2,"duplicated category","[[Category:代謝途徑]]"]]

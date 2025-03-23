@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",91,53,"width:"],[1,"no-ignored",91,59," 50%;text-align: center;\""]]
+window.data=[["invalid-css",91,52,"term expected",""],["illegal-attr",91,53,"illegal attribute name","width:"],["no-ignored",91,59,"containing invalid attribute"," 50%;text-align: center;\""]]

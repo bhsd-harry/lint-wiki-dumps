@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3,"began_operation={{Start date and age|2022|11|10}}\n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter","began_operation={{Start date and age|2022|11|10}}\n "],["no-duplicate",14,3,"duplicated parameter","began_operation = 2022年11月10日 <ref name=\"1号线开通\"  />\n "]]

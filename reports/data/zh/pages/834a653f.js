@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",68,39,"mini"]]
+window.data=[["no-duplicate",68,39,"duplicated image caption parameter","mini"],["no-duplicate",68,55,"duplicated image caption parameter","“仁川号”上的两架CH-53海种马直升机。"],["no-duplicate",69,75,"duplicated image caption parameter","mini"],["no-duplicate",69,91,"duplicated image caption parameter","[[沙漠之盾行动]]期间，美国海军陆战队在“关岛”号上休息。"]]

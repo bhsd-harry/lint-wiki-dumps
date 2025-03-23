@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",518,15,"duplicated parameter","ref={{SfnRef|Sweeting|2004}} "]]
+window.data=[["no-duplicate",518,15,"duplicated parameter","ref={{SfnRef|Sweeting|2004}} "],["no-duplicate",518,250,"duplicated parameter","ref={{harvid|Sweeting|2004}}"],["no-duplicate",519,15,"duplicated parameter","ref={{SfnRef|Ho|2018}} "],["no-duplicate",519,278,"duplicated parameter","ref={{harvid|Ho|2018}}"]]

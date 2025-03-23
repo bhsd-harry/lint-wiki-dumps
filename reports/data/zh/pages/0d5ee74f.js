@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",74,263,"]]"],[2,"no-duplicate",45,56,"[[火星科学实验室]]巨形的隔热罩。File:Apollo 12 heat shield.JPG"]]
+window.data=[["no-duplicate",45,56,"duplicated image caption parameter","[[火星科学实验室]]巨形的隔热罩。File:Apollo 12 heat shield.JPG"],["no-duplicate",45,105,"duplicated image caption parameter","展出在弗吉尼亚州航空航天博物馆的[[阿波罗12号]]隔热罩细节。"],["lonely-bracket",74,263,"lonely \"]\"","]]"]]

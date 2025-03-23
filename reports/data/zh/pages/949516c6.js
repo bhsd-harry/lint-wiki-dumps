@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",38,40,"享利·夏默"]]
+window.data=[["invalid-css",2,39,"semi-colon expected",":"],["no-duplicate",38,40,"duplicated image caption parameter","享利·夏默"],["no-duplicate",38,46,"duplicated image caption parameter","画像<br>（1878年）"]]

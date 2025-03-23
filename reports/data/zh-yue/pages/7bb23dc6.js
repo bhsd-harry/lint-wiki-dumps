@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,3,"duplicated parameter"," prev_year   = 2000\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," prev_year   = 2000\n "],["no-duplicate",14,3,"duplicated parameter"," prev_year   = 2009\n "]]

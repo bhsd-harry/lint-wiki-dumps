@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,33,"朱聿键"]]
+window.data=[["no-duplicate",2,33,"duplicated image caption parameter","朱聿键"],["no-duplicate",2,37,"duplicated image caption parameter","隆武皇帝像"]]

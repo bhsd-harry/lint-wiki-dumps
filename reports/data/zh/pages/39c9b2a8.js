@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",90,2,"[[Category:1991年單曲]]"]]
+window.data=[["no-duplicate",90,2,"duplicated category","[[Category:1991年單曲]]"],["no-duplicate",93,2,"duplicated category","[[Category:1991年單曲]]"],["no-duplicate",95,2,"duplicated category","[[Category:美國歌曲]]"],["no-duplicate",95,19,"duplicated category","[[Category:美國歌曲]]"]]

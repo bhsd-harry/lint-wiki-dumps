@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",6,48,"Garden_Road_near_Magazine_Gap_Road"]]
+window.data=[["no-duplicate",6,48,"duplicated image caption parameter","Garden_Road_near_Magazine_Gap_Road"],["no-duplicate",6,95,"duplicated image caption parameter","中半山馬己仙峽道往山頂方向"],["no-duplicate",21,100,"duplicated image caption parameter","HK_Mid-levels_薈萃苑_Regal_Crest_view_Robinson_Road_flyover_雅賓利_The_Albany_March_2016_DSC"],["no-duplicate",21,199,"duplicated image caption parameter","從西半山望向中半山可見，左上方粉紅色建築為[[雅賓利大廈]]，左下角是[[高主教書院]]。"]]

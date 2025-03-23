@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",2202,85,"["],[2,"no-ignored",1799,3,"[福州海峽奧林匹克體育中心"]]
+window.data=[["no-ignored",1799,3,"containing invalid attribute","[福州海峽奧林匹克體育中心"],["lonely-bracket",2202,85,"lonely \"[\"","["],["lonely-bracket",2202,91,"lonely \"]\"","]"],["no-ignored",2565,4,"containing invalid attribute","約2萬多人到場"]]

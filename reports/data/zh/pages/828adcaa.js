@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",585,12,"["],[3,"no-ignored",113,21,"!width=\"10%\""],[2,"unescaped",585,43,"="]]
+window.data=[["no-ignored",113,21,"containing invalid attribute","!width=\"10%\""],["no-ignored",113,40,"containing invalid attribute","!width=\"1%\""],["no-ignored",113,56,"containing invalid attribute","!width=\"15%\""],["lonely-bracket",585,12,"lonely \"[\"","["],["unescaped",585,43,"unescaped query string in an anonymous parameter","="],["lonely-bracket",605,12,"lonely \"[\"","["],["unescaped",605,43,"unescaped query string in an anonymous parameter","="]]

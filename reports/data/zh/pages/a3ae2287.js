@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3," image = \n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter"," image = \n "],["no-duplicate",4,3,"duplicated parameter"," image= Notropis petersoni.jpg\n "]]

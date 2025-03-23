@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",66,2,"[[Category:2022年併購]]"]]
+window.data=[["no-duplicate",66,2,"duplicated category","[[Category:2022年併購]]"],["no-duplicate",69,2,"duplicated category","[[Category:2022年併購]]"]]

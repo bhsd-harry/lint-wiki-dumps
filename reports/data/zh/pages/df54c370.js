@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,89,"200pm"]]
+window.data=[["no-duplicate",1,89,"duplicated image caption parameter","200pm"],["no-duplicate",1,95,"duplicated image caption parameter","日本笔会在东京的办公机构"]]

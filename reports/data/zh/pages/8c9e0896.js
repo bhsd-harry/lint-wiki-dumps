@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,2,"[[Category:德國體育國家隊]]"]]
+window.data=[["no-duplicate",63,2,"duplicated category","[[Category:德國體育國家隊]]"],["no-duplicate",65,2,"duplicated category","[[Category:德國體育國家隊|籃球]]"]]

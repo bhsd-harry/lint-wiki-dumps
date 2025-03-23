@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,3," FIFA Rank          = [[國際足協世界排名|192]]（2020年4月） \n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," FIFA Rank          = [[國際足協世界排名|192]]（2020年4月） \n "],["no-duplicate",28,3,"duplicated parameter","FIFA Rank     ={{FIFA World Rankings|ASA}}\n "]]

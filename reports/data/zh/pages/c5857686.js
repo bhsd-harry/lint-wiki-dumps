@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",254,4,"colspan"],[2,"no-ignored",254,16,"|{{Standard banknote table notice|BrE=Y}}"]]
+window.data=[["illegal-attr",254,4,"illegal attribute name","colspan"],["no-ignored",254,16,"containing invalid attribute","|{{Standard banknote table notice|BrE=Y}}"],["illegal-attr",305,53,"illegal attribute name","Saung"],["illegal-attr",489,4,"illegal attribute name","colspan"],["no-ignored",489,16,"containing invalid attribute","|{{Standard banknote table notice|BrE=Y}}"]]

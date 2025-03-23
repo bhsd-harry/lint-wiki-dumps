@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3,"1=zh-hans:迈克;zh-hk:米克;zh-tw:麥克;\n "],[1,"unmatched-tag",14,36,"</small>"]]
+window.data=[["no-duplicate",3,3,"duplicated parameter","1=zh-hans:迈克;zh-hk:米克;zh-tw:麥克;\n "],["no-duplicate",6,3,"duplicated parameter","1=zh-hans:霍利菲尔德; zh-hant:何利菲德;\n "],["unmatched-tag",14,36,"unmatched closing tag","</small>"]]

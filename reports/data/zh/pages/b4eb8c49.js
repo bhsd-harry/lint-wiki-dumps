@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",367,19,"[["],[2,"no-duplicate",367,19,"[[Armoiries de la Guyane"]]
+window.data=[["lonely-bracket",367,19,"lonely \"[\"","[["],["no-duplicate",367,19,"duplicated image caption parameter","[[Armoiries de la Guyane"],["no-duplicate",367,44,"duplicated image caption parameter","宪兵队纹章"]]

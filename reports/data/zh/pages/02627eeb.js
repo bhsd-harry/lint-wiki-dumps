@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",213,2,"[[Category:黎巴嫩官方二十強榜冠軍單曲]]"]]
+window.data=[["no-duplicate",213,2,"duplicated category","[[Category:黎巴嫩官方二十強榜冠軍單曲]]"],["no-duplicate",218,2,"duplicated category","[[Category:黎巴嫩官方二十強榜冠軍單曲]]"]]

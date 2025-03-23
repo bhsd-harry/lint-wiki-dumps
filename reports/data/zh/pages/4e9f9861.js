@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",15,3,"subdivision_type2 = \n "]]
+window.data=[["no-duplicate",15,3,"duplicated parameter","subdivision_type2 = \n "],["no-duplicate",17,3,"duplicated parameter","subdivision_type2        = 县\n "],["no-duplicate",16,3,"duplicated parameter","subdivision_name2 = \n "],["no-duplicate",18,3,"duplicated parameter","subdivision_name2        = [[汉普顿县 (南卡罗来纳州)|汉普顿县]]\n "]]

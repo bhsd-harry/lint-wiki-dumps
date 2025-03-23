@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",1598,26," #FFEF10\""]]
+window.data=[["invalid-css",54,81,"colon expected","="],["invalid-css",161,81,"colon expected","="],["invalid-css",496,81,"colon expected","="],["invalid-css",542,81,"colon expected","="],["invalid-css",765,81,"colon expected","="],["invalid-css",831,81,"colon expected","="],["invalid-css",906,81,"colon expected","="],["no-ignored",1598,26,"containing invalid attribute"," #FFEF10\""],["no-ignored",1661,27,"containing invalid attribute"," #FFEF10\""]]

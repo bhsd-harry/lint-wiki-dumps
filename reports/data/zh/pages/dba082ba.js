@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",38,96,"group"]]
+window.data=[["no-duplicate",38,96,"duplicated group attribute","group"],["no-duplicate",38,102,"duplicated group attribute","group=\"nb\""],["no-duplicate",41,120,"duplicated group attribute","group"],["no-duplicate",41,126,"duplicated group attribute","group=\"nb\""]]

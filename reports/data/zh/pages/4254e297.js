@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,500,"title = http://www.gsj.jp/data/chishitsunews/94_08_09.pdf "]]
+window.data=[["no-duplicate",16,500,"duplicated parameter","title = http://www.gsj.jp/data/chishitsunews/94_08_09.pdf "],["no-duplicate",16,559,"duplicated parameter","title = 地質ニュース 択捉島でレニウム新鉱物の発見 "]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",72,4,"File:Japanese offertory box.jpg#file"]]
+window.data=[["no-ignored",72,4,"useless fragment","File:Japanese offertory box.jpg#file"]]

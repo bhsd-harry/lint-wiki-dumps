@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,2,"[[Category:内蒙古企业家]]"]]
+window.data=[["no-duplicate",15,2,"duplicated category","[[Category:内蒙古企业家]]"],["no-duplicate",19,2,"duplicated category","[[Category:内蒙古企业家]]"]]

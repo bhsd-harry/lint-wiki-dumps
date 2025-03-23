@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",118,2,"[[Category:軍用直升機]]"]]
+window.data=[["no-duplicate",118,2,"duplicated category","[[Category:軍用直升機]]"],["no-duplicate",120,2,"duplicated category","[[category:軍用直升機]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",72,33,"contenteditable"],[1,"lonely-apos",26,437,"'"]]
+window.data=[["lonely-apos",26,437,"lonely \"'\"","'"],["illegal-attr",72,33,"illegal attribute name","contenteditable"],["illegal-attr",72,153,"illegal attribute name","contenteditable"],["illegal-attr",72,297,"illegal attribute name","contenteditable"],["illegal-attr",72,766,"illegal attribute name","contenteditable"]]

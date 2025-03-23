@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",51,2,"[[Category:下萨克森州市镇]]"]]
+window.data=[["no-duplicate",51,2,"duplicated category","[[Category:下萨克森州市镇]]"],["no-duplicate",52,2,"duplicated category","[[Category:下萨克森州市镇|O]]"]]

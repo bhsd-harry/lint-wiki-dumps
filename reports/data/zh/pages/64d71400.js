@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",47,2,"[[Category:正藍旗滿洲副都統|署]]"]]
+window.data=[["no-duplicate",47,2,"duplicated category","[[Category:正藍旗滿洲副都統|署]]"],["no-duplicate",51,2,"duplicated category","[[Category:正藍旗滿洲副都統]]"],["no-duplicate",50,2,"duplicated category","[[Category:清朝吏部右侍郎]]"],["no-duplicate",52,2,"duplicated category","[[Category:清朝吏部右侍郎]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",123,146,"在"]]
+window.data=[["no-duplicate",123,146,"duplicated image caption parameter","在"],["no-duplicate",123,148,"duplicated image caption parameter","[[猶太牆]]（Jewry Wall ）的澡堂遺址"]]

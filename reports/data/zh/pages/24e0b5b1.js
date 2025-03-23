@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",506,3,"rowspane"],[1,"lonely-bracket",237,1116,"}}"],[2,"no-ignored",82,28,"; color:snow\"  "]]
+window.data=[["no-ignored",82,28,"containing invalid attribute","; color:snow\"  "],["no-ignored",98,33,"containing invalid attribute","; color:snow\"  "],["lonely-bracket",237,1116,"lonely \"}\"","}}"],["illegal-attr",506,3,"illegal attribute name","rowspane"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",354,2,"[[Category:法国海军战列舰|R]]"]]
+window.data=[["no-duplicate",354,2,"duplicated category","[[Category:法国海军战列舰|R]]"],["no-duplicate",355,2,"duplicated category","[[Category:法国海军战列舰]]"]]

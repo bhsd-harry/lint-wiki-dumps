@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,45,"duplicated parameter","extra="]]
+window.data=[["no-duplicate",3,45,"duplicated parameter","extra="],["no-duplicate",3,52,"duplicated parameter","extra={{bd|1928 nièng|11 nguŏk 13 hô̤|1989 nièng|2 nguŏk 9 hô̤}}"]]

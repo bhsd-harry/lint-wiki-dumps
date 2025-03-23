@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,2,"[[Category:韓國電影導演]]"]]
+window.data=[["no-duplicate",63,2,"duplicated category","[[Category:韓國電影導演]]"],["no-duplicate",66,2,"duplicated category","[[Category:韓國電影導演]]"]]

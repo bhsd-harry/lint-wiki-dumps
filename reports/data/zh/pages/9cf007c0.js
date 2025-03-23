@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",73,2,"[[分類:清朝浙江巡撫]]"]]
+window.data=[["no-duplicate",73,2,"duplicated category","[[分類:清朝浙江巡撫]]"],["no-duplicate",87,2,"duplicated category","[[分類:清朝浙江巡撫]]"],["no-duplicate",75,2,"duplicated category","[[分類:清朝閩浙總督]]"],["no-duplicate",85,2,"duplicated category","[[分類:清朝閩浙總督]]"],["no-duplicate",77,2,"duplicated category","[[分類:清朝湖廣總督]]"],["no-duplicate",84,2,"duplicated category","[[分類:清朝湖廣總督]]"]]

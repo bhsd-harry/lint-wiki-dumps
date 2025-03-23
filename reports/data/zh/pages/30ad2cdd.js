@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",1072,24,"琼楼遗恨"],[2,"unclosed-table",1065,2,"{|"]]
+window.data=[["unclosed-table",1065,2,"unclosed table","{|"],["no-ignored",1072,24,"containing invalid attribute","琼楼遗恨"],["no-ignored",1074,23,"containing invalid attribute","斯文加利"],["unclosed-table",1161,2,"unclosed table","{|"]]

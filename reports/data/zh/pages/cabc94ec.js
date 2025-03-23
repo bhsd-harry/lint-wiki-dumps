@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",61,45,"Right"]]
+window.data=[["no-duplicate",61,45,"duplicated image caption parameter","Right"],["no-duplicate",61,51,"duplicated image caption parameter","拉脫維亞球迷在[[2004年歐洲國家盃]]為國家隊加油"]]

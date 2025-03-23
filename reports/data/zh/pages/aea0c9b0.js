@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",40,222,"place=Paris "]]
+window.data=[["no-duplicate",40,222,"duplicated parameter","place=Paris "],["no-duplicate",40,406,"duplicated parameter","place=Paris"]]

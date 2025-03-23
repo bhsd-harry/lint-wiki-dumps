@@ -1,1 +1,1 @@
-window.data=[[2,"invalid-isbn",40,288,"ISBN 9961690277"]]
+window.data=[["invalid-isbn",40,288,"invalid ISBN","ISBN 9961690277"],["invalid-isbn",42,216,"invalid ISBN","ISBN 9961690277"]]

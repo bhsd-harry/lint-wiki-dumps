@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,3," homepage           = \n "]]
+window.data=[["no-duplicate",22,3,"duplicated parameter"," homepage           = \n "],["no-duplicate",24,3,"duplicated parameter"," homepage           = {{URL|https://www.jcha.com.tw/}}\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,94,"Right"]]
+window.data=[["no-duplicate",21,94,"duplicated image caption parameter","Right"],["no-duplicate",21,106,"duplicated image caption parameter","1898年《[[展拓香港界址專條]]》中租借的'''新界'''及[[新九龍]]範圍"]]

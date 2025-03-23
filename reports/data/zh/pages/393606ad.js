@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",21,3,"nickname=\n "]]
+window.data=[["no-duplicate",21,3,"duplicated parameter","nickname=\n "],["no-duplicate",30,3,"duplicated parameter","nickname=默尔德斯（Mölders）\n "],["no-duplicate",22,3,"duplicated parameter","patron=\n "],["no-duplicate",31,3,"duplicated parameter","patron=[[Werner Mölders|维尔纳·默尔德斯]]\n "],["no-duplicate",28,3,"duplicated parameter","notable_commanders=[[赫尔曼·格拉夫]]<br>（1944年10月1日–1945年5月8日）\n "],["no-duplicate",32,3,"duplicated parameter","notable_commanders=[[西奧·奧斯特坎普]]<br/>\n [[维尔纳·默尔德斯]] <br/>\n [[海因茨·蘭格|海因茨·蘭格]]\n "]]

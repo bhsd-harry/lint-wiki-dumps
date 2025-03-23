@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",75,191,"{{"],[2,"no-duplicate",85,138,"Right"]]
+window.data=[["lonely-bracket",75,191,"lonely \"{\"","{{"],["no-duplicate",85,138,"duplicated image caption parameter","Right"],["no-duplicate",85,144,"duplicated image caption parameter","\n 1907年的[[蘇拉特]]國大會期後奧氏坐於桌旁主持愛國份子的會議，時[[巴爾·甘格達爾·提拉克|提拉克]]在演講"]]

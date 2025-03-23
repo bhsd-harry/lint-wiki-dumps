@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",456,45,"thumb"],[2,"no-duplicate",457,46,"mini"]]
+window.data=[["invalid-gallery",456,45,"invalid image parameter","thumb"],["no-duplicate",457,46,"duplicated image caption parameter","mini"],["no-duplicate",457,51,"duplicated image caption parameter","Clueso auf dem {{link-de|Southside 2023|Southside (Festival)}}"]]

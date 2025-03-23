@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,36,"duplicated image caption parameter","替代文字"]]
+window.data=[["no-duplicate",2,36,"duplicated image caption parameter","替代文字"],["no-duplicate",2,41,"duplicated image caption parameter","此乃元素之豐度，可見鐵之豐度甚多，謂之鐵峰頂。"]]

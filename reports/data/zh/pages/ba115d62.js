@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,3,""]]
+window.data=[["no-duplicate",7,3,"duplicated parameter",""],["no-duplicate",7,4,"duplicated parameter","1=zh-hans:都灵奥林匹克体育场; zh-hant:都靈奧林匹克球場;\n "],["invalid-css",69,39,"semi-colon expected","15px"],["invalid-css",69,34,"colon expected","left"],["invalid-css",69,52,"identifier expected","1px"],["invalid-css",69,81,"{ expected","="],["invalid-css",69,100,"identifier expected","95%"],["invalid-css",69,117,"identifier expected","1.5em"]]

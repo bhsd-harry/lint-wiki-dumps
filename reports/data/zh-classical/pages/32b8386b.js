@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",2,19,"duplicated image caption parameter","替代文字"]]
+window.data=[["no-duplicate",2,19,"duplicated image caption parameter","替代文字"],["no-duplicate",2,29,"duplicated image caption parameter","基本音聲學分野"],["no-duplicate",22,297,"duplicated image caption parameter","替代文字"],["no-duplicate",22,305,"duplicated image caption parameter","韓語「풀」[pʰul]之聲譜圖"],["no-duplicate",44,17,"duplicated image caption parameter","替代文字"],["no-duplicate",44,27,"duplicated image caption parameter","發音器官圖"]]

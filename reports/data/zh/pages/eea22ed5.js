@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",109,2,"[[Category:猿]]"]]
+window.data=[["no-duplicate",109,2,"duplicated category","[[Category:猿]]"],["no-duplicate",111,2,"duplicated category","[[Category:猿| ]]"],["no-duplicate",110,2,"duplicated category","[[Category:1825年描述的分类群]]"],["no-duplicate",113,2,"duplicated category","[[Category:1825年描述的分类群]]"]]

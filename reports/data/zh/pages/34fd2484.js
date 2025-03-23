@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",150,2,"[[Category:Touch! Generations]]"]]
+window.data=[["no-duplicate",150,2,"duplicated category","[[Category:Touch! Generations]]"],["no-duplicate",151,2,"duplicated category","[[Category:Touch! Generations]]"]]

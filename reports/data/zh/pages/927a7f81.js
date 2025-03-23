@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3,"image = 20090426 5223 Shanghai SWFC.jpg\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","image = 20090426 5223 Shanghai SWFC.jpg\n "],["no-duplicate",11,3,"duplicated parameter","image = Shanghai World Financial Center Far.jpg\n "]]

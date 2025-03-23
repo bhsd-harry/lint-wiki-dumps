@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",219,122,"]"],[4,"no-duplicate",64,24,"style=\"text-align:center\""],[1,"no-ignored",77,3,"在不瘋狂就等死"]]
+window.data=[["no-duplicate",64,24,"duplicated style attribute","style=\"text-align:center\""],["no-duplicate",64,64,"duplicated style attribute","style=\"font-size:100%;\""],["no-ignored",77,3,"containing invalid attribute","在不瘋狂就等死"],["no-duplicate",87,24,"duplicated style attribute","style=\"text-align:center\""],["no-duplicate",87,64,"duplicated style attribute","style=\"font-size:100%;\""],["lonely-bracket",219,122,"lonely \"]\"","]"]]

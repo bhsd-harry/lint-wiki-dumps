@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",122,2,"[[Category:悉尼旅遊景點]]"]]
+window.data=[["no-duplicate",122,2,"duplicated category","[[Category:悉尼旅遊景點]]"],["no-duplicate",123,2,"duplicated category","[[Category:悉尼旅遊景點]]"]]

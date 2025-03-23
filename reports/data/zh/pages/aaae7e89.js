@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",182,3,"電視台={{SIN}} [[新傳媒8頻道]]\n "]]
+window.data=[["no-duplicate",182,3,"duplicated parameter","電視台={{SIN}} [[新傳媒8頻道]]\n "],["no-duplicate",187,3,"duplicated parameter","電視台={{SIN}} [[新傳媒8頻道]]\n "]]

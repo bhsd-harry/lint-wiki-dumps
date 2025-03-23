@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,35,"NagoyaC_hommaru"]]
+window.data=[["no-duplicate",25,35,"duplicated image caption parameter","NagoyaC_hommaru"],["no-duplicate",25,57,"duplicated image caption parameter","名護屋城天守遺跡"]]

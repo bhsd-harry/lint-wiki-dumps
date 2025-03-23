@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",62,2,"[[Category:20世紀愛沙尼亞音樂家]]"]]
+window.data=[["no-duplicate",62,2,"duplicated category","[[Category:20世紀愛沙尼亞音樂家]]"],["no-duplicate",73,2,"duplicated category","[[Category:20世紀愛沙尼亞音樂家]]"],["no-duplicate",64,2,"duplicated category","[[Category:21世紀愛沙尼亞音樂家]]"],["no-duplicate",74,2,"duplicated category","[[Category:21世紀愛沙尼亞音樂家]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",733,48,"North Exit of Nakano Station"]]
+window.data=[["no-duplicate",733,48,"duplicated image caption parameter","North Exit of Nakano Station"],["no-duplicate",733,77,"duplicated image caption parameter","[[中野站]]北口"]]

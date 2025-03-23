@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",21,3,"subdivision_type3      = [[镇区 (缅甸)|镇区]]\n "]]
+window.data=[["no-duplicate",21,3,"duplicated parameter","subdivision_type3      = [[镇区 (缅甸)|镇区]]\n "],["no-duplicate",23,3,"duplicated parameter","subdivision_type3      = \n "],["no-duplicate",22,3,"duplicated parameter","subdivision_name3      = [[宾朗镇区]]\n "],["no-duplicate",24,3,"duplicated parameter","subdivision_name3      = \n "]]

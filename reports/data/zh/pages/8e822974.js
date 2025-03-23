@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",145,250,"publisher=2000-04-11"]]
+window.data=[["no-duplicate",145,250,"duplicated parameter","publisher=2000-04-11"],["no-duplicate",145,271,"duplicated parameter","publisher=[[中华人民共和国教育部]]"]]

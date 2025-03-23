@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3,"1=zh-hans:马尔代夫行政区划;zh-hant:馬爾代夫行政區劃;zh-hk:馬爾代夫行政區劃;zh-sg:马尔代夫行政区划;zh-tw:馬爾地夫行政區劃;zh-mo:馬爾代夫行政區劃;\n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter","1=zh-hans:马尔代夫行政区划;zh-hant:馬爾代夫行政區劃;zh-hk:馬爾代夫行政區劃;zh-sg:马尔代夫行政区划;zh-tw:馬爾地夫行政區劃;zh-mo:馬爾代夫行政區劃;\n "],["no-duplicate",5,3,"duplicated parameter","1 = zh-cn:马累; zh-hant:馬律; zh-tw:馬列; zh-hk:馬累;\n "]]

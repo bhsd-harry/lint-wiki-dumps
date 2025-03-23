@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-bracket",50,51,"]]"],[3,"no-ignored",50,35," – 男子1500米|1500米]]"]]
+window.data=[["lonely-bracket",50,51,"lonely \"]\"","]]"],["no-ignored",50,35,"containing invalid attribute"," – 男子1500米|1500米]]"],["lonely-bracket",73,51,"lonely \"]\"","]]"],["no-ignored",73,35,"containing invalid attribute"," – 男子1500米|1500米]]"],["lonely-bracket",83,53,"lonely \"]\"","]]"],["no-ignored",83,35,"containing invalid attribute"," – 男子10000米|10000米]]"]]

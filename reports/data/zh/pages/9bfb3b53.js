@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",45,36,"name=\"zeneki21\""],[1,"no-ignored",45,51,"/。從前此站設有2面2線的相對式月台，在1991年由於改善走線，使此站變成只有1面1線的單式月台<ref "],[1,"tag-like",45,99,"<ref"]]
+window.data=[["tag-like",45,99,"lonely \"<\"","<ref"],["no-ignored",45,51,"containing invalid attribute","/。從前此站設有2面2線的相對式月台，在1991年由於改善走線，使此站變成只有1面1線的單式月台<ref "],["no-duplicate",45,36,"duplicated name attribute","name=\"zeneki21\""],["no-duplicate",45,104,"duplicated name attribute","name=\"zeneki21\""]]

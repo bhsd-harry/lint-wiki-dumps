@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,47,"250-px"]]
+window.data=[["no-duplicate",1,47,"duplicated image caption parameter","250-px"],["no-duplicate",1,60,"duplicated image caption parameter","路易·弗朗索瓦·德·布夫莱"]]

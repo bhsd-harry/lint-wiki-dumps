@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",309,49,"2006年4月7日"],[2,"unmatched-tag",141,4,"</div>"]]
+window.data=[["unmatched-tag",141,4,"unmatched closing tag","</div>"],["unmatched-tag",141,10,"unmatched closing tag","</div>"],["no-ignored",309,49,"containing invalid attribute","2006年4月7日"],["no-ignored",319,50,"containing invalid attribute","2006年4月19日"]]

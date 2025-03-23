@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",30,3,"interchange = "]]
+window.data=[["no-duplicate",30,3,"duplicated parameter","interchange = "],["no-duplicate",30,18,"duplicated parameter","interchange = *'''[[同站台换乘]]：'''\n **{{上海地铁线路名|6|S}}终到与{{上海地铁线路名|10|S}}往[[基隆路站|基隆路]]\n *'''站厅换乘：'''\n **其他方向\n "]]

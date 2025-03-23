@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,2,"[[Category:韩国国务总理]]"]]
+window.data=[["no-duplicate",17,2,"duplicated category","[[Category:韩国国务总理]]"],["no-duplicate",20,2,"duplicated category","[[Category:韩国国务总理]]"]]

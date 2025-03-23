@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",262,2,"[[Category:奧斯卡最佳動畫片獲獎電影]]"]]
+window.data=[["no-duplicate",262,2,"duplicated category","[[Category:奧斯卡最佳動畫片獲獎電影]]"],["no-duplicate",266,2,"duplicated category","[[Category:奧斯卡最佳動畫片獲獎電影]]"]]

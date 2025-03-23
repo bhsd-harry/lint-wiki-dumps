@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",107,2,"[[分類:越南政治人物]]"]]
+window.data=[["no-duplicate",107,2,"duplicated category","[[分類:越南政治人物]]"],["no-duplicate",111,2,"duplicated category","[[分類:越南政治人物]]"]]

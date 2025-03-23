@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",18,57,"Right"]]
+window.data=[["no-duplicate",18,57,"duplicated image caption parameter","Right"],["no-duplicate",18,75,"duplicated image caption parameter","若望·洛西 (1880年左右)"],["no-duplicate",19,64,"duplicated image caption parameter","Right"],["no-duplicate",19,82,"duplicated image caption parameter","[[卡塞莱兰迪]]的洛西神父街指路牌"]]

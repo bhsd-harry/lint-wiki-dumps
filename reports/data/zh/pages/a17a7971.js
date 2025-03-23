@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,48,"120ppx"]]
+window.data=[["no-duplicate",33,48,"duplicated image caption parameter","120ppx"],["no-duplicate",33,66,"duplicated image caption parameter","南美洲的构造环境与历次大型地震"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",167,221,"]]"],[2,"no-duplicate",5,38,"center"]]
+window.data=[["no-duplicate",5,38,"conflicting image horizontal-alignment parameter","center"],["no-duplicate",5,51,"conflicting image horizontal-alignment parameter","right"],["lonely-bracket",167,221,"lonely \"]\"","]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",21,31,"{{台北捷運色彩|紅支}};\""]]
+window.data=[["invalid-css",21,30,"property value expected",""],["no-ignored",21,31,"containing invalid attribute","{{台北捷運色彩|紅支}};\""]]

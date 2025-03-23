@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",151,2632,"name=\"1UP-flops\""]]
+window.data=[["no-duplicate",151,2632,"duplicated name attribute","name=\"1UP-flops\""],["no-duplicate",151,2650,"duplicated name attribute","name=\"PowerUp2\""]]

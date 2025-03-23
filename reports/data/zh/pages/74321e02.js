@@ -1,1 +1,1 @@
-window.data=[[1,"unescaped",466,65,"="]]
+window.data=[["unescaped",466,65,"unescaped query string in an anonymous parameter","="]]

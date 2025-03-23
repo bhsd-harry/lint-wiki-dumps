@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",366,11,"[["],[1,"no-ignored",366,4,"{{USA}}[[波士頓]]"]]
+window.data=[["lonely-bracket",366,11,"lonely \"[\"","[["],["lonely-bracket",366,16,"lonely \"]\"","]]"],["no-ignored",366,4,"containing invalid attribute","{{USA}}[[波士頓]]"]]

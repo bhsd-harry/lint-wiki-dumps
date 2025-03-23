@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",13,45,"CELLSPCING"]]
+window.data=[["illegal-attr",13,45,"illegal attribute name","CELLSPCING"],["illegal-attr",13,61,"illegal attribute name","CELLPADDINF"]]

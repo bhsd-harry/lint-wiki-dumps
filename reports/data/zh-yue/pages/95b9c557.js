@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",249,135,"lonely \"]\"","]]"],[1,"lonely-http",242,421,"lonely \"ISBN\"","ISBN"],[2,"nested-link",312,55,"internal link in an external link","[[Image:Biáng.svg|17px]]"]]
+window.data=[["lonely-http",242,421,"lonely \"ISBN\"","ISBN"],["lonely-bracket",249,135,"lonely \"]\"","]]"],["nested-link",312,55,"internal link in an external link","[[Image:Biáng.svg|17px]]"],["nested-link",312,79,"internal link in an external link","[[Image:Biáng.svg|17px]]"]]

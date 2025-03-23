@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",53,54,"[[slashdot]]"]]
+window.data=[["nested-link",53,54,"internal link in an external link","[[slashdot]]"],["nested-link",54,79,"internal link in an external link","[[FOSDEM]]"]]

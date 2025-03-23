@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,3," doors = [[自杀式车门]]\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," doors = [[自杀式车门]]\n "],["no-duplicate",20,3,"duplicated parameter"," doors = \n "]]

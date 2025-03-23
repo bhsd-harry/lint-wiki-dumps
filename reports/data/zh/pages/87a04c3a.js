@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,41,"Tramvia firenze sirio"]]
+window.data=[["no-duplicate",12,41,"duplicated image caption parameter","Tramvia firenze sirio"],["no-duplicate",12,63,"duplicated image caption parameter","一辆佛罗伦萨有轨电车"]]

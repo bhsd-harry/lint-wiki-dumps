@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",6,3," taxon = Cirripectes auritus\n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter"," taxon = Cirripectes auritus\n "],["no-duplicate",8,3,"duplicated parameter"," taxon = Cirripectes auritus\n "],["no-duplicate",7,3,"duplicated parameter"," authority = [[Bruce A. Carlson (aquarist)|Carlson]], 1981\n "],["no-duplicate",9,3,"duplicated parameter"," authority = Carlson，1981\n "]]

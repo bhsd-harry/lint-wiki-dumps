@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",24,2,"[[Category:台灣搖滾樂團]]"]]
+window.data=[["no-duplicate",24,2,"duplicated category","[[Category:台灣搖滾樂團]]"],["no-duplicate",235,2,"duplicated category","[[Category:台灣搖滾樂團|M]]"],["no-duplicate",26,2,"duplicated category","[[Category:台灣樂團]]"],["no-duplicate",233,2,"duplicated category","[[Category:台灣樂團|M]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",61,2,"[[Category:二级大西洋飓风|I]]"]]
+window.data=[["no-duplicate",61,2,"duplicated category","[[Category:二级大西洋飓风|I]]"],["no-duplicate",62,2,"duplicated category","[[Category:二级大西洋飓风|I]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",36,2,"[[Category:1914年澳大利亞建立]]"]]
+window.data=[["no-duplicate",36,2,"duplicated category","[[Category:1914年澳大利亞建立]]"],["no-duplicate",39,2,"duplicated category","[[分類:1914年澳大利亞建立]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-ignored",14,1," [[file:sefuriSan_jinjya_radar.jpg|脊振山山頂的背振神社和对空雷达]]"]]
+window.data=[["no-ignored",14,1,"invalid content in <gallery>"," [[file:sefuriSan_jinjya_radar.jpg|脊振山山頂的背振神社和对空雷达]]"],["no-ignored",15,1,"invalid content in <gallery>"," [[file:sefuriSan_Sefurisan SubBase.jpg|脊振山分屯基地遠景（从脊振山山頂）]]"],["no-ignored",16,1,"invalid content in <gallery>"," [[file:SefuriSan SefurisanSubBase3.jpg|脊振山分屯基地正門]]"],["no-ignored",17,1,"invalid content in <gallery>"," [[file:SefuriSan SefurisanSubBase2.jpg|脊振山分屯基地ナイキ对空导弹]]"]]

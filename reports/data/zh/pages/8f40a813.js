@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,40,"縮略圖"]]
+window.data=[["no-duplicate",5,40,"duplicated image caption parameter","縮略圖"],["no-duplicate",5,44,"duplicated image caption parameter","N規的火車頭模型，並與鉛筆擺放在一起比較大小"]]

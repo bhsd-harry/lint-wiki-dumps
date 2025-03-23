@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",2,3," genus = Rutilus\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter"," genus = Rutilus\n "],["no-duplicate",7,3,"duplicated parameter"," genus = Leucos\n "],["no-duplicate",3,3,"duplicated parameter"," species = basak\n "],["no-duplicate",8,3,"duplicated parameter"," species = basak\n "]]

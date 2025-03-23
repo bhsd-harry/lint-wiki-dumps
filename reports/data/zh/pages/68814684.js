@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,2,"[[Category:1917年描述的鱼类|L]]"]]
+window.data=[["no-duplicate",18,2,"duplicated category","[[Category:1917年描述的鱼类|L]]"],["no-duplicate",20,2,"duplicated category","[[Category:1917年描述的鱼类|S]]"]]

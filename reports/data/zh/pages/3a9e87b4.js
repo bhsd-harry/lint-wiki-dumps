@@ -1,1 +1,1 @@
-window.data=[[3,"invalid-imagemap",16,1," rect 393 230 481 409 {{tsl|en|Material implication|¬A or B}}"]]
+window.data=[["invalid-imagemap",16,1,"invalid link in <imagemap>"," rect 393 230 481 409 {{tsl|en|Material implication|¬A or B}}"],["invalid-imagemap",21,1,"invalid link in <imagemap>"," rect 375 440 464 617 {{tsl|en|Logical biconditional|A xnor B}}"],["invalid-imagemap",26,1,"invalid link in <imagemap>"," rect 392 646 482 826 {{tsl|en|Converse nonimplication|¬A and B}}"]]

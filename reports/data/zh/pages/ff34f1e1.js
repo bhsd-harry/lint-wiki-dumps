@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",97,85,"title=Un théâtre de rue où l'on raconte des histoires "]]
+window.data=[["no-duplicate",97,85,"duplicated parameter","title=Un théâtre de rue où l'on raconte des histoires "],["no-duplicate",97,140,"duplicated parameter","title=Hayao Miyazaki et les maîtres de l'animation japonaise "]]

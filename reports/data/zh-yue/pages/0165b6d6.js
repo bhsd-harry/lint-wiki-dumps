@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,51,"duplicated image caption parameter","LEFT"]]
+window.data=[["no-duplicate",3,51,"duplicated image caption parameter","LEFT"],["no-duplicate",3,68,"duplicated image caption parameter","2005年底被拆除殆盡嘅原天馬茶房舊址；空地上掛住條「向228英靈致敬」嘅布條。"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",219,2,"[[Category:1870年10月]]"]]
+window.data=[["no-duplicate",219,2,"duplicated category","[[Category:1870年10月]]"],["no-duplicate",220,2,"duplicated category","[[Category:1870年10月]]"]]

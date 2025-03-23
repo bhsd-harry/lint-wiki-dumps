@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",52,23,"; color:snow\"  "],[1,"unmatched-tag",98,103,"</small>"]]
+window.data=[["invalid-css",52,22,"semi-colon expected",""],["invalid-css",52,22,"colon expected",""],["no-ignored",52,23,"containing invalid attribute","; color:snow\"  "],["unmatched-tag",98,103,"unmatched closing tag","</small>"]]

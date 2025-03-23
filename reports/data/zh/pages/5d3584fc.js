@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",88,1," === [[表演项目]] ==="],[2,"no-duplicate",96,49,"thumb"]]
+window.data=[["fostered-content",88,1,"content to be moved out from the table"," === [[表演项目]] ==="],["no-duplicate",96,49,"duplicated image thumbnail parameter","thumb"],["no-duplicate",96,61,"duplicated image thumbnail parameter","thumbnail"]]

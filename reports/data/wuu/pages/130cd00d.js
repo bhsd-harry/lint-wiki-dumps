@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",30,91,"lonely \"]\"","]]"],[1,"no-ignored",71,31,"containing invalid attribute"," smaller;\""]]
+window.data=[["lonely-bracket",30,91,"lonely \"]\"","]]"],["no-ignored",71,31,"containing invalid attribute"," smaller;\""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",43,2,"[[Category:唐朝吏部侍郎]]"]]
+window.data=[["no-duplicate",43,2,"duplicated category","[[Category:唐朝吏部侍郎]]"],["no-duplicate",52,2,"duplicated category","[[Category:唐朝吏部侍郎]]"]]

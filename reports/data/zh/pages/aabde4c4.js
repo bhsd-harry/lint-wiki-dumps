@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",83,166,"]"],[2,"no-duplicate",83,153,"=[[英]]"]]
+window.data=[["lonely-bracket",83,166,"lonely \"]\"","]"],["no-duplicate",83,153,"duplicated parameter","=[[英]]"],["no-duplicate",83,160,"duplicated parameter","=[[英]]]"]]

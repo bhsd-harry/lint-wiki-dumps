@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",51,66,"300"]]
+window.data=[["no-duplicate",51,66,"duplicated image caption parameter","300"],["no-duplicate",51,70,"duplicated image caption parameter","12 月 13 日：[[國家點火設施]]報告了聚變功率的淨能量增益。"]]

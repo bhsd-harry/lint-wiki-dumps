@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",48,53,"}}"],[1,"no-ignored",25,119,"  中無法證明data -foreign-title=\"算術超限遞歸\""]]
+window.data=[["no-ignored",25,119,"containing invalid attribute","  中無法證明data -foreign-title=\"算術超限遞歸\""],["lonely-bracket",48,53,"lonely \"}\"","}}"],["lonely-bracket",54,40,"lonely \"}\"","}}"]]

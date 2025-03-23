@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",435,2,"[[Category:灣仔區巴士路線|967X]]"]]
+window.data=[["no-duplicate",435,2,"duplicated category","[[Category:灣仔區巴士路線|967X]]"],["no-duplicate",436,2,"duplicated category","[[Category:灣仔區巴士路線|967N]]"]]

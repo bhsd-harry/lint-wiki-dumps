@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",50,1," * 食物营养学科\n * 保育学科"]]
+window.data=[["fostered-content",50,1,"content to be moved out from the table"," * 食物营养学科\n * 保育学科"],["fostered-content",72,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]<ref name=\"幼儿园\">[http://www.hakodate-u.ac.jp/kd/ 函馆短期大学附属幼儿园] {{Wayback|url=http://www.hakodate-u.ac.jp/kd/ |date=20160604043339 }}{{ja}"]]

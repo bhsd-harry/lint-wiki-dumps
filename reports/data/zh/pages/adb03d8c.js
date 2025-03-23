@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",102,400,"name=\"Luterbacher2016\""],[1,"no-ignored",102,422,"/，之後的冬天則漫長又寒冷<ref "],[1,"tag-like",102,435,"<ref"]]
+window.data=[["tag-like",102,435,"lonely \"<\"","<ref"],["no-ignored",102,422,"containing invalid attribute","/，之後的冬天則漫長又寒冷<ref "],["no-duplicate",102,400,"duplicated name attribute","name=\"Luterbacher2016\""],["no-duplicate",102,440,"duplicated name attribute","name=\"HAGrosjean2015\""]]

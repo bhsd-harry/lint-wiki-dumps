@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",310,2,"[[Category:1998年無綫電視劇集]]"]]
+window.data=[["no-duplicate",310,2,"duplicated category","[[Category:1998年無綫電視劇集]]"],["no-duplicate",318,2,"duplicated category","[[Category:1998年無綫電視劇集]]"],["no-duplicate",311,2,"duplicated category","[[Category:無綫電視1990年代背景劇集]]"],["no-duplicate",320,2,"duplicated category","[[Category:無綫電視1990年代背景劇集]]"]]

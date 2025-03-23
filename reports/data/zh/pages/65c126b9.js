@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",131,2,"[[Category:20世紀美國罪犯]]"]]
+window.data=[["no-duplicate",131,2,"duplicated category","[[Category:20世紀美國罪犯]]"],["no-duplicate",132,2,"duplicated category","[[Category:20世紀美國罪犯]]"]]

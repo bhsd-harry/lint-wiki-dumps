@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",108,28,"山溪垂釣"],[3,"unmatched-tag",9,115,"</small>"]]
+window.data=[["unmatched-tag",9,115,"unmatched closing tag","</small>"],["no-duplicate",108,28,"duplicated image caption parameter","山溪垂釣"],["no-duplicate",108,33,"duplicated image caption parameter","本幅 31.4x33.8公分、全幅 72.1x44公分"],["unmatched-tag",119,42,"unmatched closing tag","</small>"],["unmatched-tag",125,50,"unmatched closing tag","</small>"]]

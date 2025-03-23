@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",71,4,"江阴市（2016年）气候平均数据!!"]]
+window.data=[["no-ignored",71,4,"containing invalid attribute","江阴市（2016年）气候平均数据!!"]]

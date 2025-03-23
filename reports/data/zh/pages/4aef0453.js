@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",70,2,"[[Category:1979年成立的公司|T]]"]]
+window.data=[["no-duplicate",70,2,"duplicated category","[[Category:1979年成立的公司|T]]"],["no-duplicate",74,2,"duplicated category","[[Category:1979年成立的公司|T]]"],["no-duplicate",71,2,"duplicated category","[[Category:新北市公司|T]]"],["no-duplicate",76,2,"duplicated category","[[Category:新北市公司|T]]"]]

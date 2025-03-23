@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",184,2,"[[Category:美國浪漫喜劇片]]"]]
+window.data=[["no-duplicate",184,2,"duplicated category","[[Category:美國浪漫喜劇片]]"],["no-duplicate",188,2,"duplicated category","[[Category:美國浪漫喜劇片]]"],["no-duplicate",185,2,"duplicated category","[[Category:愛情小說改编電影]]"],["no-duplicate",190,2,"duplicated category","[[Category:愛情小說改编電影]]"],["no-duplicate",186,2,"duplicated category","[[Category:2021年美國電影作品]]"],["no-duplicate",192,2,"duplicated category","[[Category:2021年美國電影作品]]"]]

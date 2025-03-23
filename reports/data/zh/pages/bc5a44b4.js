@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,2,"[[Category:完颜氏|S]]"]]
+window.data=[["no-duplicate",10,2,"duplicated category","[[Category:完颜氏|S]]"],["no-duplicate",13,2,"duplicated category","[[Category:完颜氏|S]]"]]

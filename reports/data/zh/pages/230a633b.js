@@ -1,1 +1,1 @@
-window.data=[[5,"nested-link",123,138,"[[地方裁判所 (日本)|地裁]]"]]
+window.data=[["nested-link",123,138,"internal link in an external link","[[地方裁判所 (日本)|地裁]]"],["nested-link",124,69,"internal link in an external link","[[控訴]]"],["nested-link",124,82,"internal link in an external link","[[高等裁判所|高裁]]"],["nested-link",125,70,"internal link in an external link","[[上告]]"],["nested-link",125,80,"internal link in an external link","[[最高裁判所|最高裁]]"]]

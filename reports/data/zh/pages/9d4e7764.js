@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",49,67,"right\\250px"]]
+window.data=[["no-duplicate",49,67,"duplicated image caption parameter","right\\250px"],["no-duplicate",49,79,"duplicated image caption parameter","畫家[[卡米耶·畢沙羅]]於1899年完成的《春天早晨的杜樂麗花園》"]]

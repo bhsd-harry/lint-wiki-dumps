@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",82,2,"[[Category:巴伐利亚州市镇]]"]]
+window.data=[["no-duplicate",82,2,"duplicated category","[[Category:巴伐利亚州市镇]]"],["no-duplicate",83,2,"duplicated category","[[Category:巴伐利亚州市镇|N]]"]]

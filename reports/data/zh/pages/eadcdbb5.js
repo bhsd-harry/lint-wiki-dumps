@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",47,65,"Gymnadenia × heufleri "]]
+window.data=[["no-duplicate",47,65,"duplicated image caption parameter","Gymnadenia × heufleri "],["no-duplicate",47,88,"duplicated image caption parameter",""],["no-duplicate",48,62,"duplicated image caption parameter","G. rhellicani "],["no-duplicate",48,77,"duplicated image caption parameter",""]]

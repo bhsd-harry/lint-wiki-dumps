@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",108,2,"[[Category:超級英雄恐怖片]]"]]
+window.data=[["no-duplicate",108,2,"duplicated category","[[Category:超級英雄恐怖片]]"],["no-duplicate",118,2,"duplicated category","[[Category:超級英雄恐怖片]]"]]

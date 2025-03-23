@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,2,"[[Category:胡椒鲷属|H]]"]]
+window.data=[["no-duplicate",13,2,"duplicated category","[[Category:胡椒鲷属|H]]"],["no-duplicate",14,2,"duplicated category","[[Category:胡椒鲷属|H]]"]]

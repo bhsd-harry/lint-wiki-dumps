@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3," 级别 = 全国\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter"," 级别 = 全国\n "],["no-duplicate",3,3,"duplicated parameter"," 级别 = 市县级\n "]]

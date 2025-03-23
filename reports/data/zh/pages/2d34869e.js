@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,2,"[[Category:2001年成立的音樂團體]]"]]
+window.data=[["no-duplicate",21,2,"duplicated category","[[Category:2001年成立的音樂團體]]"],["no-duplicate",23,2,"duplicated category","[[Category:2001年成立的音樂團體]]"]]

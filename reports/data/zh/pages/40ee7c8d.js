@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",28,2,"[[Category:鑲黃旗蒙古副都統]]"]]
+window.data=[["no-duplicate",28,2,"duplicated category","[[Category:鑲黃旗蒙古副都統]]"],["no-duplicate",29,2,"duplicated category","[[Category:鑲黃旗蒙古副都統]]"]]

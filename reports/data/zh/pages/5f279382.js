@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",426,3,"nowrap"],[2,"no-duplicate",389,60,"National Gallery of Canada, Ottawa"]]
+window.data=[["no-duplicate",389,60,"duplicated image caption parameter","National Gallery of Canada, Ottawa"],["no-duplicate",389,95,"duplicated image caption parameter","加拿大國立美術館"],["illegal-attr",426,3,"illegal attribute name","nowrap"]]

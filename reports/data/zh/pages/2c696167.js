@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3,"   OtherNames = Coumarone, benzo[b]furan\n "],[2,"unmatched-tag",28,23,"</td>"]]
+window.data=[["unmatched-tag",28,23,"unmatched closing tag","</td>"],["unmatched-tag",28,28,"unmatched closing tag","</tr>"],["no-duplicate",3,3,"duplicated parameter","   OtherNames = Coumarone, benzo[b]furan\n "],["no-duplicate",7,3,"duplicated parameter","   OtherNames = 氧茚，香豆酮\n "]]

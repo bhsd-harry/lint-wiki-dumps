@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",246,4,"https:"],[1,"no-ignored",246,32,"/姜嫄/"]]
+window.data=[["illegal-attr",246,4,"illegal attribute name","https:"],["illegal-attr",246,12,"illegal attribute name","baike.baidu.com"],["illegal-attr",246,28,"illegal attribute name","item"],["illegal-attr",246,36,"illegal attribute name","22309044"],["no-ignored",246,32,"containing invalid attribute","/姜嫄/"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",31,137,"[[Don Swaim]]"],[2,"no-duplicate",38,2,"[[Category:约翰斯·霍普金斯大学校友]]"]]
+window.data=[["nested-link",31,137,"internal link in an external link","[[Don Swaim]]"],["no-duplicate",38,2,"duplicated category","[[Category:约翰斯·霍普金斯大学校友]]"],["no-duplicate",46,2,"duplicated category","[[Category:约翰斯·霍普金斯大学校友]]"]]

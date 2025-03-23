@@ -1,1 +1,1 @@
-window.data=[[3,"nested-link",26,77,"[[London Review of Books]]"]]
+window.data=[["nested-link",26,77,"internal link in an external link","[[London Review of Books]]"],["nested-link",27,234,"internal link in an external link","[[The Times Literary Supplement|TLS]]"],["nested-link",31,77,"internal link in an external link","[[In Our Time (radio series)|In Our Time]]"]]

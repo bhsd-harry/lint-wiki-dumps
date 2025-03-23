@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",51,2,"[[Category:卡塔爾奧林匹克運動會銅牌得主]]"]]
+window.data=[["no-duplicate",51,2,"duplicated category","[[Category:卡塔爾奧林匹克運動會銅牌得主]]"],["no-duplicate",60,2,"duplicated category","[[Category:卡塔爾奧林匹克運動會銅牌得主]]"],["no-duplicate",52,2,"duplicated category","[[Category:2020年夏季奧林匹克運動會獎牌得主]]"],["no-duplicate",61,2,"duplicated category","[[Category:2020年夏季奧林匹克運動會獎牌得主]]"],["no-duplicate",53,2,"duplicated category","[[Category:奧林匹克運動會沙灘排球獎牌得主]]"],["no-duplicate",62,2,"duplicated category","[[Category:奧林匹克運動會沙灘排球獎牌得主]]"]]

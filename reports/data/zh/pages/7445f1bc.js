@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",517,24,"[[Category:曼迪傳播代理日本動畫作品]]"]]
+window.data=[["no-duplicate",517,24,"duplicated category","[[Category:曼迪傳播代理日本動畫作品]]"],["no-duplicate",558,2,"duplicated category","[[Category:曼迪傳播代理日本動畫作品]]"]]

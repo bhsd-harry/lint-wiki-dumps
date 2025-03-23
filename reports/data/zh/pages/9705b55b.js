@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,35,"Image:Queens Cross Church07i.jpg"]]
+window.data=[["no-duplicate",32,35,"duplicated image caption parameter","Image:Queens Cross Church07i.jpg"],["no-duplicate",32,68,"duplicated image caption parameter","east stair"]]

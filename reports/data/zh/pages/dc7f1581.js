@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",6715,92,"mw-collapsible"],[1,"lonely-bracket",8768,4,"{{"],[3,"no-ignored",1462,3," data-sort-value\"99\"  "]]
+window.data=[["no-ignored",1462,3,"containing invalid attribute"," data-sort-value\"99\"  "],["illegal-attr",6715,92,"illegal attribute name","mw-collapsible"],["no-ignored",6715,106,"containing invalid attribute"," mw-collapsed\""],["invalid-css",7634,82,"colon expected","="],["lonely-bracket",8768,4,"lonely \"{\"","{{"],["no-ignored",8768,3,"containing invalid attribute"," {{age"]]

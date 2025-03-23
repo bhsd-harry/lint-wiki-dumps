@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",55,2,"[[Category:21世纪俄罗斯政治人物]]"]]
+window.data=[["no-duplicate",55,2,"duplicated category","[[Category:21世纪俄罗斯政治人物]]"],["no-duplicate",65,2,"duplicated category","[[Category:21世纪俄罗斯政治人物]]"]]

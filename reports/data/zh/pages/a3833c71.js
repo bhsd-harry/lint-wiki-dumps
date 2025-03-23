@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",495,2,"[[Category:2024年台灣獎項]]"]]
+window.data=[["no-duplicate",495,2,"duplicated category","[[Category:2024年台灣獎項]]"],["no-duplicate",497,2,"duplicated category","[[Category:2024年台灣獎項]]"]]

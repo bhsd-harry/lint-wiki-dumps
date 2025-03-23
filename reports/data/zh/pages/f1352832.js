@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1848,2,"[[Category:葵涌循道中學校友]]"]]
+window.data=[["no-duplicate",1848,2,"duplicated category","[[Category:葵涌循道中學校友]]"],["no-duplicate",1849,2,"duplicated category","[[Category:葵涌循道中學校友]]"]]

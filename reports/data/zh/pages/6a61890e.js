@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",45,1," * 儿童总合学科\n ** 初等教育专攻\n ** 幼儿教育・福利专攻"]]
+window.data=[["fostered-content",45,1,"content to be moved out from the table"," * 儿童总合学科\n ** 初等教育专攻\n ** 幼儿教育・福利专攻"],["fostered-content",61,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]：前清和女子短期大学有了三个幼儿园、以下列举。\n ** 八重原幼儿园：成立于1968年<ref name=\"全国短期大学高等専门学校一覧1987\">请参看2011年度『{{tsl|ja|全国短期大学高等専門学校一覧|}}』50页「{{lang|ja|清和女子短期大学}}」"]]

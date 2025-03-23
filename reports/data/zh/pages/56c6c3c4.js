@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,2,"[[Category:辽宁省第十届全国人大代表]]"]]
+window.data=[["no-duplicate",10,2,"duplicated category","[[Category:辽宁省第十届全国人大代表]]"],["no-duplicate",11,2,"duplicated category","[[Category:辽宁省第十届全国人大代表]]"]]

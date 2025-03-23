@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,16,"|后内跳 (花样滑冰)"]]
+window.data=[["no-ignored",1,16,"useless link text","|后内跳 (花样滑冰)"]]

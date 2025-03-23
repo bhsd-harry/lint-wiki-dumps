@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",232,51,"wide"]]
+window.data=[["no-duplicate",232,51,"duplicated image caption parameter","wide"],["no-duplicate",232,62,"duplicated image caption parameter","珀斯下午國王公園的前濱全景"]]

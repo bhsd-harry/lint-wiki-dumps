@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",305,22,"'"],[1,"unescaped",47,121,"="]]
+window.data=[["unescaped",47,121,"unescaped query string in an anonymous parameter","="],["lonely-apos",305,22,"lonely \"'\"","'"]]

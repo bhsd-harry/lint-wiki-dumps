@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",111,2,"[[Category:流行文化]]"]]
+window.data=[["no-duplicate",111,2,"duplicated category","[[Category:流行文化]]"],["no-duplicate",113,2,"duplicated category","[[Category:流行文化]]"]]

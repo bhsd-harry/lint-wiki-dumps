@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",295,3,"}}"],[4,"no-duplicate",407,2,"[[Category:台灣偶像劇]]"]]
+window.data=[["lonely-bracket",295,3,"lonely \"}\"","}}"],["no-duplicate",407,2,"duplicated category","[[Category:台灣偶像劇]]"],["no-duplicate",432,2,"duplicated category","[[Category:台灣偶像劇]]"],["no-duplicate",409,2,"duplicated category","[[Category:2019年台灣電視劇集]]"],["no-duplicate",431,2,"duplicated category","[[Category:2019年台灣電視劇集]]"]]

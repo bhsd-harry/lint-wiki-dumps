@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",327,2,"[[Category:2019年開播的日本電視劇]]"]]
+window.data=[["no-duplicate",327,2,"duplicated category","[[Category:2019年開播的日本電視劇]]"],["no-duplicate",328,2,"duplicated category","[[Category:2019年開播的日本電視劇]]"]]

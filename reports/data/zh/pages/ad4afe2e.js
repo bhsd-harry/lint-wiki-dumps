@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3,"image_map = \n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter","image_map = \n "],["no-duplicate",10,3,"duplicated parameter","image_map = Komancha Republic.png\n "]]

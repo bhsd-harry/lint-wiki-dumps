@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",559,2,"[[Category:克里斯·马丁创作的歌曲]]"]]
+window.data=[["no-duplicate",559,2,"duplicated category","[[Category:克里斯·马丁创作的歌曲]]"],["no-duplicate",562,2,"duplicated category","[[Category:克里斯·马丁创作的歌曲]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",130,88,"]"],[2,"no-duplicate",306,2,"[[Category:韓國流行音樂歌手]]"]]
+window.data=[["lonely-bracket",130,88,"lonely \"]\"","]"],["lonely-bracket",144,60,"lonely \"]\"","]"],["no-duplicate",306,2,"duplicated category","[[Category:韓國流行音樂歌手]]"],["no-duplicate",309,2,"duplicated category","[[Category:韓國流行音樂歌手|M]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",171,1,"\n ===女子组冠军==="],[2,"unclosed-table",59,2,"{|"]]
+window.data=[["fostered-content",171,1,"content to be moved out from the table","\n ===女子组冠军==="],["unclosed-table",59,2,"unclosed table","{|"],["fostered-content",286,1,"content to be moved out from the table","\n === 多次夺冠 ===\n\n {{col begin}}\n {{col-2}}"],["unclosed-table",173,2,"unclosed table","{|"]]

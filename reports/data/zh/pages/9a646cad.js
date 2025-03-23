@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",14,1," [File:Taddeo Gaddi - Last Supper, Tree of Life and Four Miracle Scenes - WGA08387.jpg|是[[塔德奧·加迪]]於1360年作品。(現存於[[意大利]][[佛罗伦萨]][[圣十字圣殿 (佛罗伦萨)|圣十字圣殿]])"]]
+window.data=[["no-ignored",14,1,"invalid content in <gallery>"," [File:Taddeo Gaddi - Last Supper, Tree of Life and Four Miracle Scenes - WGA08387.jpg|是[[塔德奧·加迪]]於1360年作品。(現存於[[意大利]][[佛罗伦萨]][[圣十字圣殿 (佛罗伦萨)|圣十字圣殿]])"],["no-ignored",22,1,"invalid content in <gallery>"," [[阿尔布雷希特·杜勒]]於1523年作品。(現存於[[奥地利]][[维也纳]][[阿尔贝蒂娜博物馆]])"]]

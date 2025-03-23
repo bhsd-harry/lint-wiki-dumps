@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,3,"campaignbox=\n "]]
+window.data=[["no-duplicate",63,3,"duplicated parameter","campaignbox=\n "],["no-duplicate",66,3,"duplicated parameter"," campaignbox       = {{Campaignbox 2022 Russian invasion of Ukraine}}\n "]]

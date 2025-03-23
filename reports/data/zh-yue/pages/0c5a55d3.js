@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",107,58,"containing invalid attribute",";font-size:small"],[1,"unmatched-tag",142,53,"tag that is both closing and self-closing","</br>"]]
+window.data=[["no-ignored",107,58,"containing invalid attribute",";font-size:small"],["unmatched-tag",142,53,"tag that is both closing and self-closing","</br>"]]

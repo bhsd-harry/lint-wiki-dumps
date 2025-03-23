@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3," conflict= 神武東征\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter"," conflict= 神武東征\n "],["no-duplicate",7,3,"duplicated parameter","     conflict = 神武東征\n "]]

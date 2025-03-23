@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,3," 管理者           = [[環境省]]\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," 管理者           = [[環境省]]\n "],["no-duplicate",17,3,"duplicated parameter"," 管理者           = 環境省皇居外苑管理事務所\n "]]

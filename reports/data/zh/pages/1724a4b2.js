@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3," image             = \n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter"," image             = \n "],["no-duplicate",6,3,"duplicated parameter"," image             = Big_Big_Show_Poster.jpg\n "],["invalid-css",46,22,"semi-colon expected",""],["invalid-css",60,22,"semi-colon expected",""]]

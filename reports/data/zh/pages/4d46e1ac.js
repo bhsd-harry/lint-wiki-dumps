@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",87,2,"[[Category:宗教艺术家]]"]]
+window.data=[["no-duplicate",87,2,"duplicated category","[[Category:宗教艺术家]]"],["no-duplicate",89,2,"duplicated category","[[Category:宗教艺术家]]"]]

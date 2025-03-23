@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,45,"264×264px"]]
+window.data=[["no-duplicate",1,45,"duplicated image caption parameter","264×264px"],["no-duplicate",1,55,"duplicated image caption parameter","Professor Dr. Yung-Han Kim"]]

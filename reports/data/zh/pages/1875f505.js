@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",93,2,"[[Category:纽约州共和党人]]"]]
+window.data=[["no-duplicate",93,2,"duplicated category","[[Category:纽约州共和党人]]"],["no-duplicate",98,2,"duplicated category","[[Category:纽约州共和党人]]"]]

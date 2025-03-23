@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",105,3,"duplicated parameter","website = {{URL|www.suvacity.org}}\n "]]
+window.data=[["no-duplicate",105,3,"duplicated parameter","website = {{URL|www.suvacity.org}}\n "],["no-duplicate",106,15,"duplicated parameter"," website = {{URL|www.suvacity.org}}\n "]]

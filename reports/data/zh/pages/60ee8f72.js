@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,35,"Jag_Logic_and_Paradox"]]
+window.data=[["no-duplicate",4,35,"duplicated image caption parameter","Jag_Logic_and_Paradox"],["no-duplicate",4,63,"duplicated image caption parameter","邏輯與悖論"]]

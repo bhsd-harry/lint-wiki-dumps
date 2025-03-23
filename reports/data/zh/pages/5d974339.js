@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",64,2,"[[Category:门巴族]]"]]
+window.data=[["no-duplicate",64,2,"duplicated category","[[Category:门巴族]]"],["no-duplicate",70,2,"duplicated category","[[Category:门巴族]]"],["no-duplicate",65,2,"duplicated category","[[Category:北門巴語支]]"],["no-duplicate",71,2,"duplicated category","[[Category:北門巴語支]]"]]

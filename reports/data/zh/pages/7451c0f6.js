@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",33,121,"author=王家俊"]]
+window.data=[["no-duplicate",33,121,"duplicated parameter","author=王家俊"],["no-duplicate",33,256,"duplicated parameter","author=王家俊"],["no-duplicate",109,105,"duplicated parameter","author=蘇芳禾"],["no-duplicate",109,259,"duplicated parameter","author=蘇芳禾"]]

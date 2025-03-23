@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",126,2,"[[Category:亞洲高原]]"]]
+window.data=[["no-duplicate",126,2,"duplicated category","[[Category:亞洲高原]]"],["no-duplicate",131,2,"duplicated category","[[分類:亞洲高原]]"]]

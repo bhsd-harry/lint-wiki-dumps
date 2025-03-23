@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",45,36,"Right"]]
+window.data=[["no-duplicate",45,36,"duplicated image caption parameter","Right"],["no-duplicate",45,42,"duplicated image caption parameter","雙簧管 (Yamaha YOB-241)"],["no-duplicate",50,39,"duplicated image caption parameter","border width=0"],["no-duplicate",50,54,"duplicated image caption parameter","古典双簧管, Sand Dalton的原始副本by Johann Friedrich Floth, c. 1805"],["no-duplicate",52,33,"duplicated image caption parameter","Right"],["no-duplicate",52,39,"duplicated image caption parameter","雙簧管用簧片（LaWoz -- ''Medium Soft''）"]]

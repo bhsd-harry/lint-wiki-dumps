@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",200,2,"[[Category:ALICESOFT]]"]]
+window.data=[["no-duplicate",200,2,"duplicated category","[[Category:ALICESOFT]]"],["no-duplicate",203,2,"duplicated category","[[Category:ALICESOFT]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",60,1," * 口腔保健学科\n * 护理学科函授教育课程"]]
+window.data=[["fostered-content",60,1,"content to be moved out from the table"," * 口腔保健学科\n * 护理学科函授教育课程"],["fostered-content",65,1,"content to be moved out from the table"," * [[醫檢師|卫生技术]]科<ref group=\"注\"  name=\"招生到2007年\"/><ref group=\"注\"  name=\"停办于2010年\"/>\n * 幼儿教育学科<ref group=\"注\"  name=\"幼儿教育科招生\"/>\n * 健康文化学科<ref group=\"注\"  "]]

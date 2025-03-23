@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",123,74,"现行版普通護照的注意事项页"]]
+window.data=[["no-duplicate",123,74,"duplicated image caption parameter","现行版普通護照的注意事项页"],["no-duplicate",123,88,"duplicated image caption parameter","应急资料页样本"]]

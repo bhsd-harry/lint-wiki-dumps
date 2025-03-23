@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",50,2,"[[Category:石勒苏益格-荷尔斯泰因州市镇|F]]"]]
+window.data=[["no-duplicate",50,2,"duplicated category","[[Category:石勒苏益格-荷尔斯泰因州市镇|F]]"],["no-duplicate",51,2,"duplicated category","[[Category:石勒苏益格-荷尔斯泰因州市镇]]"]]

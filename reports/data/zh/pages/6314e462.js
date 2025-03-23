@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",29,16,"cellspacing"],[2,"no-duplicate",27,35,"style=\"margin: 0 0 1em 1em\""]]
+window.data=[["no-duplicate",27,35,"duplicated style attribute","style=\"margin: 0 0 1em 1em\""],["no-duplicate",27,77,"duplicated style attribute","style=\"margin:10px\""],["illegal-attr",29,16,"illegal attribute name","cellspacing"],["illegal-attr",29,33,"illegal attribute name","cellpadding"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,46,"Right"]]
+window.data=[["no-duplicate",22,46,"duplicated image caption parameter","Right"],["no-duplicate",22,58,"duplicated image caption parameter","MHCⅠ类分子的產生途徑簡圖"]]

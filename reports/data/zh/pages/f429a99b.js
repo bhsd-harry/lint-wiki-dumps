@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",119,2,"[[Category:台灣LGBT相關電影]]"]]
+window.data=[["no-duplicate",119,2,"duplicated category","[[Category:台灣LGBT相關電影]]"],["no-duplicate",134,2,"duplicated category","[[Category:台灣LGBT相關電影]]"]]

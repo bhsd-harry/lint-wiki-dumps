@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",32,833,"{{"],[1,"nested-link",221,338,"[[石油峰值]]"]]
+window.data=[["lonely-bracket",32,833,"lonely \"{\"","{{"],["nested-link",221,338,"internal link in an external link","[[石油峰值]]"]]

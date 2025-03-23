@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",300,20,"{{"],[2,"no-duplicate",300,20,"{{nobr"]]
+window.data=[["lonely-bracket",300,20,"lonely \"{\"","{{"],["no-duplicate",300,20,"duplicated image caption parameter","{{nobr"],["no-duplicate",300,27,"duplicated image caption parameter","路易九世被俘，这幅微型彩绘采自[[提尔的威廉]]《大海彼岸的历史往事》（''Histoire d'Outremer''）原稿第320页背面，现藏于[[法国国家图书馆|法兰西国家图书馆]]，编号为Fr.9083。"]]

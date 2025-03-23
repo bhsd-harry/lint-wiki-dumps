@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,20,"[[火星勘测轨道飞行器]]背景相机拍摄的雷迪陨击坑部分区域。File:Wikiredidevils.jpg"]]
+window.data=[["no-duplicate",17,20,"duplicated image caption parameter","[[火星勘测轨道飞行器]]背景相机拍摄的雷迪陨击坑部分区域。File:Wikiredidevils.jpg"],["no-duplicate",17,74,"duplicated image caption parameter","[[高分辨率成像科学设备]]显示的坑内[[尘暴痕迹]]和覆盖层，注：这是前一幅图像的放大版。"]]

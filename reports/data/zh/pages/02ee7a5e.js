@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",22,41,"{{"],[2,"no-duplicate",22,41,"{{small"]]
+window.data=[["lonely-bracket",22,41,"lonely \"{\"","{{"],["no-duplicate",22,41,"duplicated image caption parameter","{{small"],["no-duplicate",22,49,"duplicated image caption parameter","\n 第一行：[[山繆·亞當斯]]、[[班奈狄克·阿諾德]]、[[約翰·漢考克]]、[[帕特里克·亨利]]、{{link-en|小詹姆斯·奧蒂斯|James Otis, Jr.}}\n <br>\n 第二行：[[保羅·列維爾]]、{{link-en|詹姆斯·斯旺|James Swan (financier"]]

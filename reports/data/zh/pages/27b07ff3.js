@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",171,1," *"]]
+window.data=[["invalid-css",158,22,"property value expected",""],["fostered-content",171,1,"content to be moved out from the table"," *"]]

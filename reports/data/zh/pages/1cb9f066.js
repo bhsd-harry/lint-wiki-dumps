@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",115,2,"[[category:稚內市鐵路車站]]"]]
+window.data=[["no-duplicate",115,2,"duplicated category","[[category:稚內市鐵路車站]]"],["no-duplicate",116,2,"duplicated category","[[Category:稚內市鐵路車站]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",71,5,"class=\"wikitable\""],[4,"no-ignored",37,3,"width:\"350px\""]]
+window.data=[["no-ignored",37,3,"containing invalid attribute","width:\"350px\""],["no-ignored",38,3,"containing invalid attribute","width:\"250px\""],["no-ignored",58,3,"containing invalid attribute","width:\"350px\""],["no-ignored",59,3,"containing invalid attribute","width:\"250px\""],["no-duplicate",71,5,"duplicated class attribute","class=\"wikitable\""],["no-duplicate",71,27,"duplicated class attribute","class=\"wikitable\""]]

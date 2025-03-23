@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,37,"Restoration"]]
+window.data=[["no-duplicate",21,37,"duplicated image caption parameter","Restoration"],["no-duplicate",21,49,"duplicated image caption parameter","居維象的重建。"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",161,40,"align"],[2,"no-duplicate",192,2,"[[Category:即食麵|K]]"]]
+window.data=[["illegal-attr",161,40,"illegal attribute name","align"],["no-duplicate",192,2,"duplicated category","[[Category:即食麵|K]]"],["no-duplicate",195,2,"duplicated category","[[Category:即食麵|K]]"]]

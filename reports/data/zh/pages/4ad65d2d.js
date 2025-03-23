@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",30,3," cn_name = {{lang|Zh-cn|小鬼当家3}}\n "]]
+window.data=[["no-duplicate",30,3,"duplicated parameter"," cn_name = {{lang|Zh-cn|小鬼当家3}}\n "],["no-duplicate",40,3,"duplicated parameter"," cn_name = \n "],["no-duplicate",31,3,"duplicated parameter"," hk_name = {{lang|Zh-hk|寶貝智多星3}}\n "],["no-duplicate",39,3,"duplicated parameter"," hk_name = 寶貝智多星3：智擒四大癲王\n "],["no-duplicate",32,3,"duplicated parameter"," tw_name = {{lang|Zh-tw|小鬼當家3 壞消息}}\n "],["no-duplicate",35,3,"duplicated parameter"," tw_name = 小鬼當家3：壞消息\n "]]

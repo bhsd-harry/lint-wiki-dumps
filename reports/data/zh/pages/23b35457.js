@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3," honorific-suffix = [[大蓮花榮譽勳章|GML]]\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter"," honorific-suffix = [[大蓮花榮譽勳章|GML]]\n "],["no-duplicate",6,3,"duplicated parameter"," honorific-suffix = [[博士]]\n "]]

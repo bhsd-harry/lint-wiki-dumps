@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",143,2,"[[Category:1989年香港電影作品]]"]]
+window.data=[["no-duplicate",143,2,"duplicated category","[[Category:1989年香港電影作品]]"],["no-duplicate",149,2,"duplicated category","[[Category:1989年香港電影作品]]"],["no-duplicate",144,2,"duplicated category","[[Category:粵語電影]]"],["no-duplicate",153,2,"duplicated category","[[Category:粵語電影]]"],["no-duplicate",145,2,"duplicated category","[[Category:香港續集電影]]"],["no-duplicate",155,2,"duplicated category","[[Category:香港續集電影]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",30,2,"[[Category:车臣人]]"]]
+window.data=[["no-duplicate",30,2,"duplicated category","[[Category:车臣人]]"],["no-duplicate",61,2,"duplicated category","[[Category:车臣人]]"],["no-duplicate",32,2,"duplicated category","[[Category:俄罗斯联邦穆斯林]]"],["no-duplicate",64,2,"duplicated category","[[Category:俄罗斯联邦穆斯林]]"]]

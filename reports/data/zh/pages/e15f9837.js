@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",48,2,"[[Category:澳大利亞鳥類]]"]]
+window.data=[["no-duplicate",48,2,"duplicated category","[[Category:澳大利亞鳥類]]"],["no-duplicate",51,2,"duplicated category","[[Category:澳大利亞鳥類]]"]]

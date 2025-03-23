@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",25,4,"[["],[1,"no-ignored",25,4,"[[剑桥国际学院]] || [[喀土穆]] || 私立"]]
+window.data=[["lonely-bracket",25,4,"lonely \"[\"","[["],["lonely-bracket",25,12,"lonely \"]\"","]]"],["lonely-bracket",25,18,"lonely \"[\"","[["],["lonely-bracket",25,23,"lonely \"]\"","]]"],["no-ignored",25,4,"containing invalid attribute","[[剑桥国际学院]] || [[喀土穆]] || 私立"]]

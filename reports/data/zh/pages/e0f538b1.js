@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",104,115,"uprigh=0.9"]]
+window.data=[["no-duplicate",104,115,"duplicated image caption parameter","uprigh=0.9"],["no-duplicate",104,131,"duplicated image caption parameter","扮装成明日香的[[Cosplay|Cosplayer]]"]]

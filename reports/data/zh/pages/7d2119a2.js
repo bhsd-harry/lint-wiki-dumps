@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",71,50,"Plant holobiont as a complex system"]]
+window.data=[["no-duplicate",71,50,"duplicated image caption parameter","Plant holobiont as a complex system"],["no-duplicate",71,104,"duplicated image caption parameter","圖中綠色部分所示的益菌（Beneficial）是拮抗微生物，能抵禦病原菌對有機作物的侵略。與病菌的關係為[[競爭]]與[[片害共生|拮抗]]"]]

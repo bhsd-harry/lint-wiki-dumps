@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,3,"fam4=[[中原官话]]\n "]]
+window.data=[["no-duplicate",14,3,"duplicated parameter","fam4=[[中原官话]]\n "],["no-duplicate",15,3,"duplicated parameter","fam4=[[河州片]]=河湟话\n "]]

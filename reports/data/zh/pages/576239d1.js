@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",83,11,"[["],[2,"no-ignored",83,4,"    || [[Coco d'Or Parfait]] || 2004年9月30日"]]
+window.data=[["lonely-bracket",83,11,"lonely \"[\"","[["],["lonely-bracket",83,30,"lonely \"]\"","]]"],["no-ignored",83,4,"containing invalid attribute","    || [[Coco d'Or Parfait]] || 2004年9月30日"],["no-ignored",86,4,"containing invalid attribute","                       || 2006年9月2日"]]

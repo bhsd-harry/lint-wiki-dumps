@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",101,27,"魁北克地形地图"]]
+window.data=[["no-duplicate",101,27,"duplicated image caption parameter","魁北克地形地图"],["no-duplicate",101,41,"duplicated image caption parameter","魁北克地圖"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",546,66,"200px"],[1,"tag-like",147,1105,"<span"],[1,"unmatched-tag",433,983,"</sub>"]]
+window.data=[["tag-like",147,1105,"lonely \"<\"","<span"],["unmatched-tag",433,983,"unmatched closing tag","</sub>"],["no-duplicate",546,66,"duplicated image width parameter","200px"],["no-duplicate",546,84,"duplicated image width parameter","200px"],["no-duplicate",546,72,"duplicated image thumbnail parameter","thumb"],["no-duplicate",546,78,"duplicated image thumbnail parameter","缩略图"]]

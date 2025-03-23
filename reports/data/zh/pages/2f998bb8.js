@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",199,5,"style=\"background: #ececec\""],[2,"unmatched-tag",428,154,"</cite>"]]
+window.data=[["no-duplicate",199,5,"duplicated style attribute","style=\"background: #ececec\""],["no-duplicate",199,35,"duplicated style attribute","style=\"background: #ececec\""],["unmatched-tag",428,154,"unmatched closing tag","</cite>"],["unmatched-tag",430,74,"unmatched closing tag","</cite>"]]

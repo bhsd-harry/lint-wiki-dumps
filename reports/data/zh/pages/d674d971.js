@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",62,2,"[[Category:亚洲货币]]"]]
+window.data=[["no-duplicate",62,2,"duplicated category","[[Category:亚洲货币]]"],["no-duplicate",70,2,"duplicated category","[[Category:亚洲货币]]"]]

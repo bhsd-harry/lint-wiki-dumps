@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",38,2,"[[Category:台灣台地]]"]]
+window.data=[["no-duplicate",38,2,"duplicated category","[[Category:台灣台地]]"],["no-duplicate",50,2,"duplicated category","[[Category:台灣台地]]"],["no-duplicate",39,2,"duplicated category","[[Category:台南市地理]]"],["no-duplicate",51,2,"duplicated category","[[Category:台南市地理]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",451,27,"BEER"],[1,"no-ignored",451,20,"「ASAHI "]]
+window.data=[["illegal-attr",451,27,"illegal attribute name","BEER"],["illegal-attr",451,32,"illegal attribute name","PRESENTS"],["illegal-attr",451,41,"illegal attribute name","MUSIC"],["illegal-attr",451,47,"illegal attribute name","FLAG"],["no-ignored",451,20,"containing invalid attribute","「ASAHI "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3,"duplicated parameter"," using_countries = {{DEU}}\n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter"," using_countries = {{DEU}}\n "],["no-duplicate",20,3,"duplicated parameter"," using_countries = {{flagicon|德國|allied}}&nbsp;{{link-en|同盟國佔領區（西方）|Bizone}}{{small|（1948–1949）}}<br />{{FRG}}{{small|（1949–1990）}}<br />[[File:Flag o"]]

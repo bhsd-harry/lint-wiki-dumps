@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",10,1," [[File:Pioneer able.png||220px]]"],[2,"no-duplicate",6,20,"style=\"background:#efefef;\""]]
+window.data=[["no-duplicate",6,20,"duplicated style attribute","style=\"background:#efefef;\""],["no-duplicate",6,62,"duplicated style attribute","style=\"border-bottom:1px #aaa solid;\""],["fostered-content",10,1,"content to be moved out from the table"," [[File:Pioneer able.png||220px]]"]]

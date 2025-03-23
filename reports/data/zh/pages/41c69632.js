@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",193,1," ==歷屆四強==\n 由1997年起，大專辯論賽四強資料如下：\n"],[2,"unclosed-table",101,2,"{|"]]
+window.data=[["fostered-content",193,1,"content to be moved out from the table"," ==歷屆四強==\n 由1997年起，大專辯論賽四強資料如下：\n"],["unclosed-table",101,2,"unclosed table","{|"],["fostered-content",256,1,"content to be moved out from the table"," ==媒體轉播及贊助==\n 淘汰階段賽事會由[[香港電台]]公共事務組製作並派出大會主持同時擔任各場主席。[[香港電台]]負責轉播淘汰階段包括兩場準決賽及決賽合共三場賽事。以近年為例，第一場準決賽會在比賽完結後，當晚九時至十時於[[香港電台第一台]]錄播，而第二場準決賽及決賽則會在比賽完結後一星期於"],["unclosed-table",196,2,"unclosed table","{|"]]

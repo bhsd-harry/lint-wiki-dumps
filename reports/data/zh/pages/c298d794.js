@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,3,"location                = 2 Place du Louvre, 1e\n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter","location                = 2 Place du Louvre, 1e\n "],["no-duplicate",15,3,"duplicated parameter","location                = [[法國]][[巴黎]]卢浮宫广场2号\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,3,"constituency   = {{le|季夫诺戈斯克选区|Divnogorsk constituency}}\n "]]
+window.data=[["no-duplicate",16,3,"duplicated parameter","constituency   = {{le|季夫诺戈斯克选区|Divnogorsk constituency}}\n "],["no-duplicate",22,3,"duplicated parameter","constituency   = [[比例代表制]]\n "]]

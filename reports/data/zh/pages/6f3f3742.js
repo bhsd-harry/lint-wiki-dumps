@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",164,90,"ISBN"],[2,"no-duplicate",12,3,"past             = [[东北大学]]建筑系主任、教授<br>[[耶鲁大学]]教授<br>[[中央研究院院士]]<br>[[清华大学]]建筑系主任\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter","past             = [[东北大学]]建筑系主任、教授<br>[[耶鲁大学]]教授<br>[[中央研究院院士]]<br>[[清华大学]]建筑系主任\n "],["no-duplicate",24,3,"duplicated parameter","past=\n {{Infobox_People_CAS\n |学部=技术科学部\n |专业=建筑学\n |当选年=1955年\n }}<br>\n {{Infobox_People_Sinica\n |组别=人文科学組\n |届数=第1屆<ref>抗日胜利后民国重设中央研究院</ref>\n |当选年=1948年4"],["lonely-http",164,90,"lonely \"ISBN\"","ISBN"]]

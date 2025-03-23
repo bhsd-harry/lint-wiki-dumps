@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",182,2,"[[Category:陳姓|C]]"]]
+window.data=[["no-duplicate",182,2,"duplicated category","[[Category:陳姓|C]]"],["no-duplicate",183,2,"duplicated category","[[Category:陳姓|C]]"]]

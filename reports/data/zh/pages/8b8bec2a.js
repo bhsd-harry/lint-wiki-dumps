@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3," image_map              = Axis occupation of Yugoslavia 1941-43.png\n "],[1,"unmatched-tag",93,33,"<small>"]]
+window.data=[["no-duplicate",8,3,"duplicated parameter"," image_map              = Axis occupation of Yugoslavia 1941-43.png\n "],["no-duplicate",9,3,"duplicated parameter","image_map=Kingdom of Montenegro (1942).svg\n "],["unmatched-tag",93,33,"unclosed tag","<small>"]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",93,36,"天馬航空"]]
+window.data=[["no-duplicate",93,36,"duplicated image caption parameter","天馬航空"],["no-duplicate",93,41,"duplicated image caption parameter","[[波音737-800]]在[[神戶機場]]"],["no-duplicate",94,57,"duplicated image caption parameter","天馬航空"],["no-duplicate",94,62,"duplicated image caption parameter","[[波音737-800]]"],["no-duplicate",95,57,"duplicated image caption parameter","天馬航空"],["no-duplicate",95,62,"duplicated image caption parameter","[[波音737-800]]"]]

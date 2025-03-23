@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",10,3," tw_name = 幸福的魔法繪本\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter"," tw_name = 幸福的魔法繪本\n "],["no-duplicate",23,3,"duplicated parameter"," tw_name = 幸福的魔法繪本<br />幸福の魔法繪本\n "],["no-duplicate",11,3,"duplicated parameter"," hk_name = \n "],["no-duplicate",27,3,"duplicated parameter"," hk_name = 柏高幻遊異境\n "]]

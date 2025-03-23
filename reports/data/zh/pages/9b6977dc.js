@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",28,52,"bordercolor"],[3,"no-ignored",84,3," 第18集 "]]
+window.data=[["illegal-attr",28,52,"illegal attribute name","bordercolor"],["no-ignored",84,3,"containing invalid attribute"," 第18集 "],["no-ignored",87,3,"containing invalid attribute"," 第19集 "],["no-ignored",90,3,"containing invalid attribute"," 第20集 "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",140,52,"width:"],[3,"no-ignored",95,1," </gallery&gt;\">"]]
+window.data=[["no-ignored",95,1,"invalid content in <gallery>"," </gallery&gt;\">"],["invalid-css",140,51,"term expected",""],["illegal-attr",140,52,"illegal attribute name","width:"],["illegal-attr",140,64,"illegal attribute name","text-align:"],["no-ignored",140,58,"containing invalid attribute"," 50%; "],["no-ignored",140,75,"containing invalid attribute"," center\""]]

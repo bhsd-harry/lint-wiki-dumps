@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",113,2,"[[Category:全民造星系列參賽者]]"]]
+window.data=[["no-duplicate",113,2,"duplicated category","[[Category:全民造星系列參賽者]]"],["no-duplicate",116,2,"duplicated category","[[Category:全民造星系列參賽者]]"],["no-duplicate",118,2,"duplicated category","[[Category:用条目向导创建的草稿]]"],["no-duplicate",120,2,"duplicated category","[[Category:用条目向导创建的草稿]]"]]

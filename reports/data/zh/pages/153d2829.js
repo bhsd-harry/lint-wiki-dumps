@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",42,2,"[[Category:明朝始興縣知縣]]"]]
+window.data=[["no-duplicate",42,2,"duplicated category","[[Category:明朝始興縣知縣]]"],["no-duplicate",50,2,"duplicated category","[[Category:明朝始興縣知縣]]"]]

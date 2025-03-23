@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",73,2,"[[Category:民族院校]]"]]
+window.data=[["no-duplicate",73,2,"duplicated category","[[Category:民族院校]]"],["no-duplicate",77,2,"duplicated category","[[Category:民族院校]]"]]

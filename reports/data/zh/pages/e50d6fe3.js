@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",62,39,"宽度100px"]]
+window.data=[["no-duplicate",62,39,"duplicated image caption parameter","宽度100px"],["no-duplicate",62,47,"duplicated image caption parameter","时空曲率 "]]

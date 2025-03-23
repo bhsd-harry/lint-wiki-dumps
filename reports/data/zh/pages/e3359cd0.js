@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",85,2,"[[Category:香港警務人員]]"]]
+window.data=[["no-duplicate",85,2,"duplicated category","[[Category:香港警務人員]]"],["no-duplicate",87,2,"duplicated category","[[Category:香港警務人員]]"],["no-duplicate",86,2,"duplicated category","[[Category:因香港問題而被美國制裁者]]"],["no-duplicate",88,2,"duplicated category","[[Category:因香港問題而被美國制裁者]]"]]

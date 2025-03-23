@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",43,15,"type"],[1,"lonely-bracket",865,1006,"]]"],[2,"no-ignored",234,106,"  \"style=\"font-size: 100%\""]]
+window.data=[["illegal-attr",43,15,"illegal attribute name","type"],["illegal-attr",49,15,"illegal attribute name","type"],["illegal-attr",52,15,"illegal attribute name","type"],["no-ignored",234,106,"containing invalid attribute","  \"style=\"font-size: 100%\""],["no-ignored",441,38,"containing invalid attribute","1,268"],["lonely-bracket",865,1006,"lonely \"]\"","]]"]]

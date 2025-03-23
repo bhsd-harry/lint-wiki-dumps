@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,3," death_date = {{death date and age|2008|5|10}}\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," death_date = {{death date and age|2008|5|10}}\n "],["no-duplicate",13,3,"duplicated parameter"," death_date  ={{death date and age|df=yes|2008|5|10|1951|4|17}}\n "]]

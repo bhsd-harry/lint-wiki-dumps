@@ -1,1 +1,1 @@
-window.data=[[2,"invalid-isbn",173,124,"ISBN 1557180003"],[1,"no-ignored",104,4,"</ref>"],[1,"tag-like",104,4,"</ref"]]
+window.data=[["invalid-css",21,99,"semi-colon expected","left"],["invalid-css",21,92,"colon expected","="],["invalid-css",21,122,"{ expected",";"],["invalid-css",21,116,"identifier expected","#FFFFF"],["tag-like",104,4,"lonely \"<\"","</ref"],["no-ignored",104,4,"containing invalid attribute","</ref>"],["invalid-isbn",173,124,"invalid ISBN","ISBN 1557180003"],["invalid-isbn",173,152,"invalid ISBN","ISBN 1557180011"]]

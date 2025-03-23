@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",30,10," \n "]]
+window.data=[["no-duplicate",30,10,"duplicated parameter"," \n "],["no-duplicate",32,3,"duplicated parameter","1={{clade\n      |1=[[矛颌翼龙]] ''Dorygnathus''\n      |2={{clade\n           |1=[[岛翼龙]] ''Nesodactylus''\n           |2=[[喙嘴翼龙]] ''Rhamphorhynchus''\n       "]]

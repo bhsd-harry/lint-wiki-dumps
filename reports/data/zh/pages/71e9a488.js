@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",4,3,"  artist      = [[張敬軒]] \n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter","  artist      = [[張敬軒]] \n "],["no-duplicate",23,3,"duplicated parameter","artist = [[張敬軒]]\n "],["no-duplicate",6,3,"duplicated parameter","  released    = 2021年1月7日\n "],["no-duplicate",22,3,"duplicated parameter"," released = {{start date|2021|1|7}}\n "]]

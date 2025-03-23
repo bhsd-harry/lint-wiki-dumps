@@ -1,1 +1,1 @@
-window.data=[[3,"invalid-gallery",1413,48,"thumb"],[1,"no-ignored",1253,20," rows停車區n=\"2\""],[1,"unmatched-tag",994,2,"</small>"]]
+window.data=[["unmatched-tag",994,2,"unmatched closing tag","</small>"],["no-ignored",1253,20,"containing invalid attribute"," rows停車區n=\"2\""],["invalid-gallery",1413,48,"invalid image parameter","thumb"],["invalid-gallery",1414,44,"invalid image parameter","thumb"],["invalid-gallery",1415,59,"invalid image parameter","thumb"]]

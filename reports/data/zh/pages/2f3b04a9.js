@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",192,25,"{{"],[2,"no-ignored",269,3,"<small>瑞士日內瓦</small>"],[2,"parsing-order",269,3,"<small>"]]
+window.data=[["lonely-bracket",192,25,"lonely \"{\"","{{"],["parsing-order",269,3,"HTML tag in table attributes","<small>"],["parsing-order",269,15,"HTML tag in table attributes","</small>"],["no-ignored",269,3,"containing invalid attribute","<small>瑞士日內瓦</small>"],["no-ignored",666,3,"containing invalid attribute"," 輪迴 "]]

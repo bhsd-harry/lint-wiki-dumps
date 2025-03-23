@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",76,2,"[[Category:法國行政區劃|行省]]"],[2,"unmatched-tag",23,27,"</span>"]]
+window.data=[["unmatched-tag",23,27,"unmatched closing tag","</span>"],["unmatched-tag",54,16,"unmatched closing tag","</span>"],["no-duplicate",76,2,"duplicated category","[[Category:法國行政區劃|行省]]"],["no-duplicate",78,2,"duplicated category","[[Category:法國行政區劃|行省]]"]]

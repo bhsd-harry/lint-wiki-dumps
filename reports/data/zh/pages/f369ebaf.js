@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",91,2,"[[Category:斑龍超科|B]]"]]
+window.data=[["no-duplicate",91,2,"duplicated category","[[Category:斑龍超科|B]]"],["no-duplicate",92,2,"duplicated category","[[Category:斑龍超科|*]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3,"10=zh-tw:妙希卡;zh-hk:繆思卡;zh-hant:繆思卡;zh-cn:穆希卡\n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter","10=zh-tw:妙希卡;zh-hk:繆思卡;zh-hant:繆思卡;zh-cn:穆希卡\n "],["no-duplicate",14,3,"duplicated parameter","10=zh-tw:妙希卡星;zh-hk:繆思卡星;zh-hant:繆思卡星;zh-cn:行星穆希卡\n "]]

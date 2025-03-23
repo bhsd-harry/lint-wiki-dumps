@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,3," MotoGP Last position = 1st \n "]]
+window.data=[["no-duplicate",21,3,"duplicated parameter"," MotoGP Last position = 1st \n "],["no-duplicate",22,3,"duplicated parameter"," MotoGP Last position = 冠軍（467 pts）\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",88,2,"[[Category:非洲裔美国作家]]"]]
+window.data=[["no-duplicate",88,2,"duplicated category","[[Category:非洲裔美国作家]]"],["no-duplicate",90,2,"duplicated category","[[Category:非洲裔美国作家]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",260,2,"[[Category:虛假新聞事件]]"]]
+window.data=[["no-duplicate",260,2,"duplicated category","[[Category:虛假新聞事件]]"],["no-duplicate",266,2,"duplicated category","[[Category:虛假新聞事件]]"]]

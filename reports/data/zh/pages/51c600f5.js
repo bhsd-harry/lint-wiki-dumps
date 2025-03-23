@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",477,633,"}}"],[2,"no-duplicate",565,2,"[[Category:2022年科幻動作片]]"]]
+window.data=[["lonely-bracket",477,633,"lonely \"}\"","}}"],["no-duplicate",565,2,"duplicated category","[[Category:2022年科幻動作片]]"],["no-duplicate",569,2,"duplicated category","[[Category:2022年科幻動作片]]"]]

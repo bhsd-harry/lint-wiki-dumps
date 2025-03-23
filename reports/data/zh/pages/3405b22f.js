@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",14,1," Image:|Distribution of ''P.poliocephalus''"]]
+window.data=[["no-ignored",14,1,"invalid content in <gallery>"," Image:|Distribution of ''P.poliocephalus''"]]

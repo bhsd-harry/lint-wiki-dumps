@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3,"duplicated parameter","image_skyline          = \n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter","image_skyline          = \n "],["no-duplicate",7,3,"duplicated parameter","image_skyline          = Samusiivka (2021-06-19) 03.jpg\n "]]

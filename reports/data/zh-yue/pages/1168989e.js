@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,81,"duplicated image caption parameter","馬德里大學城嘅穆罕默德·本·穆薩·花剌子模紀念碑"]]
+window.data=[["no-duplicate",15,81,"duplicated image caption parameter","馬德里大學城嘅穆罕默德·本·穆薩·花剌子模紀念碑"],["no-duplicate",15,106,"duplicated image caption parameter","縮圖"]]

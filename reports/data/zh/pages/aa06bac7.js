@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",34,31,"从福元路湘江到桥上眺望长沙滨江文化园（左侧为浏阳河，右侧为湘江）"]]
+window.data=[["no-duplicate",34,31,"duplicated image caption parameter","从福元路湘江到桥上眺望长沙滨江文化园（左侧为浏阳河，右侧为湘江）"],["no-duplicate",34,64,"duplicated image caption parameter","从[[福元路湘江大桥]]眺望滨江文化园（左侧为[[浏阳河]]，右侧为[[湘江]]）"]]

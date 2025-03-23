@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",198,2,"[[Category:中国科学院武汉病毒研究所| ]]"]]
+window.data=[["no-duplicate",198,2,"duplicated category","[[Category:中国科学院武汉病毒研究所| ]]"],["no-duplicate",202,2,"duplicated category","[[Category:中国科学院武汉病毒研究所]]"]]

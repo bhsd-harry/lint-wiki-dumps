@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",153,2,"[[Category:中华人民共和国政治犯]]"]]
+window.data=[["no-duplicate",153,2,"duplicated category","[[Category:中华人民共和国政治犯]]"],["no-duplicate",154,2,"duplicated category","[[Category:中华人民共和国政治犯]]"],["no-duplicate",159,2,"duplicated category","[[Category:中华人民共和国政治犯]]"]]

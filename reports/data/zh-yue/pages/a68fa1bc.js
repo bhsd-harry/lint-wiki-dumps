@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,2,"duplicated category","[[Category:奧布嘅市鎮]]"]]
+window.data=[["no-duplicate",18,2,"duplicated category","[[Category:奧布嘅市鎮]]"],["no-duplicate",23,2,"duplicated category","[[Category:奧布嘅市鎮]]"]]

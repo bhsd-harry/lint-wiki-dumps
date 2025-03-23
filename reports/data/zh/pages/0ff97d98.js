@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,54,"right250px"]]
+window.data=[["no-duplicate",3,54,"duplicated image caption parameter","right250px"],["no-duplicate",3,65,"duplicated image caption parameter","图片中间的海域即阿尔沃兰海，海域的左边是欧洲大陆，右边是非洲大陆，两片大陆之间最窄处是直布罗陀海峡"]]

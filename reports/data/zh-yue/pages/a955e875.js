@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,117,"duplicated parameter","publisher=International Encyclopedia of Political Science "]]
+window.data=[["no-duplicate",1,117,"duplicated parameter","publisher=International Encyclopedia of Political Science "],["no-duplicate",1,225,"duplicated parameter","publisher=SAGE Publications "]]

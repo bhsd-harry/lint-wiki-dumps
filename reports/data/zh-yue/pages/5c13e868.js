@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,63,"duplicated image caption parameter","float"]]
+window.data=[["no-duplicate",8,63,"duplicated image caption parameter","float"],["no-duplicate",8,69,"duplicated image caption parameter","明《[[粵大記]]》內，地圖上嘅「鯉魚門」"]]

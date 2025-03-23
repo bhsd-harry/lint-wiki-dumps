@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",70,89,"[[GNU核心程序|核心程序]]"]]
+window.data=[["nested-link",70,89,"internal link in an external link","[[GNU核心程序|核心程序]]"]]

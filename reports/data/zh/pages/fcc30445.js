@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",43,1015,"}}"],[1,"nested-link",9,367,"[[2007年|平成19年]]"]]
+window.data=[["nested-link",9,367,"internal link in an external link","[[2007年|平成19年]]"],["lonely-bracket",43,1015,"lonely \"}\"","}}"]]

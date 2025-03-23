@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",129,6,"[["],[1,"no-ignored",129,4," 前[[LOVE BERRY]]専屬模特兒"]]
+window.data=[["lonely-bracket",129,6,"lonely \"[\"","[["],["lonely-bracket",129,18,"lonely \"]\"","]]"],["no-ignored",129,4,"containing invalid attribute"," 前[[LOVE BERRY]]専屬模特兒"]]

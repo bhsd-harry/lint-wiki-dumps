@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",45,1," [[File:Achatina fulica - walking.JPG|thumb|爬行]]\n [[File:Achatina fulica - eaten.jpg|thumb|進食]]"]]
+window.data=[["fostered-content",45,1,"content to be moved out from the table"," [[File:Achatina fulica - walking.JPG|thumb|爬行]]\n [[File:Achatina fulica - eaten.jpg|thumb|進食]]"]]

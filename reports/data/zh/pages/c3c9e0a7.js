@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",166,33,"alt=\n Close-up, worms eye-view of McCoy Tyner at a piano, backlit"]]
+window.data=[["no-duplicate",166,33,"duplicated image caption parameter","alt=\n Close-up, worms eye-view of McCoy Tyner at a piano, backlit"],["no-duplicate",167,74,"duplicated image caption parameter","McCoy Tyner在兩次《A Love Supreme》的錄音期間彈奏鋼琴"]]

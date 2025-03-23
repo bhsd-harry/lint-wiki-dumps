@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",46,2,"[[Category:河内司马氏]]"]]
+window.data=[["no-duplicate",46,2,"duplicated category","[[Category:河内司马氏]]"],["no-duplicate",51,2,"duplicated category","[[Category:河内司马氏|M茂英]]"]]

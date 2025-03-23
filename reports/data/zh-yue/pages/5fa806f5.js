@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",134,60,"duplicated image caption parameter","縮圖"],[1,"tag-like",143,1524,"lonely \"<\"","<ref"]]
+window.data=[["no-duplicate",134,60,"duplicated image caption parameter","縮圖"],["no-duplicate",134,63,"duplicated image caption parameter","2016年光譜電子舞曲音樂節"],["tag-like",143,1524,"lonely \"<\"","<ref"]]

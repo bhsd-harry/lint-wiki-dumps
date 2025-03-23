@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",97,41," Left "]]
+window.data=[["no-duplicate",97,41,"duplicated image caption parameter"," Left "],["no-duplicate",97,48,"duplicated image caption parameter"," 硫酸汞催化乙炔的水化反应"]]

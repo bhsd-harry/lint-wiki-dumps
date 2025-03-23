@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1186,3,"'''{{Ruby-yue|正|zing3/zing1}}'''"]]
+window.data=[["no-ignored",1186,3,"containing invalid attribute","'''{{Ruby-yue|正|zing3/zing1}}'''"]]

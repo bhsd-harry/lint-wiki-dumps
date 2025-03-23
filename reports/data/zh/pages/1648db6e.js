@@ -1,1 +1,1 @@
-window.data=[[3,"nested-link",512,159,"[[精密國際AWM|AI-AWSM]]"]]
+window.data=[["nested-link",512,159,"internal link in an external link","[[精密國際AWM|AI-AWSM]]"],["nested-link",513,116,"internal link in an external link","[[精密國際AWM|AI-AWSM]]"],["nested-link",515,98,"internal link in an external link","[[PGM 338狙擊步槍|PGM .338 LM]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",38,158,"duplicated parameter","title=[[香港經濟日報]]"]]
+window.data=[["no-duplicate",38,158,"duplicated parameter","title=[[香港經濟日報]]"],["no-duplicate",38,464,"duplicated parameter","title=【考車注意】道路使用者守則廿年後再更新　政府料6月中生效"]]

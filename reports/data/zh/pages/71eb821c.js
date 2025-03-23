@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",89,238,"spellcheck"],[3,"no-duplicate",36,2,"[[Category:含有德語的條目]]"]]
+window.data=[["illegal-attr",89,238,"illegal attribute name","spellcheck"],["illegal-attr",89,258,"illegal attribute name","ginger_software_editor"],["no-duplicate",36,2,"duplicated category","[[Category:含有德語的條目]]"],["no-duplicate",37,2,"duplicated category","[[Category:含有德語的條目]]"],["no-duplicate",41,2,"duplicated category","[[Category:含有德語的條目]]"]]

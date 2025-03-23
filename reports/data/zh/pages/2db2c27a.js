@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",73,2,"[[Category:樂天 (1997年成立)]]"]]
+window.data=[["no-duplicate",73,2,"duplicated category","[[Category:樂天 (1997年成立)]]"],["no-duplicate",81,2,"duplicated category","[[Category:樂天 (1997年成立)]]"]]

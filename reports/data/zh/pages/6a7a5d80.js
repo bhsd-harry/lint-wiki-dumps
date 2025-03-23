@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",80,2,"[[Category:2017年澳洲網球公開賽]]"]]
+window.data=[["no-duplicate",80,2,"duplicated category","[[Category:2017年澳洲網球公開賽]]"],["no-duplicate",2075,2,"duplicated category","[[Category:2017年澳洲網球公開賽|男子單打]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",76,2,"[[Category:南宋建筑]]"]]
+window.data=[["no-duplicate",76,2,"duplicated category","[[Category:南宋建筑]]"],["no-duplicate",79,2,"duplicated category","[[Category:南宋建筑]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",107,13,"[["],[1,"no-ignored",107,4,"|<center>[[Ella]] ||<center>狗狗||"],[2,"parsing-order",107,5,"<center>"],[1,"unmatched-tag",107,24,"<center>"]]
+window.data=[["parsing-order",107,5,"HTML tag in table attributes","<center>"],["lonely-bracket",107,13,"lonely \"[\"","[["],["lonely-bracket",107,19,"lonely \"]\"","]]"],["parsing-order",107,24,"HTML tag in table attributes","<center>"],["unmatched-tag",107,24,"unclosed tag","<center>"],["no-ignored",107,4,"containing invalid attribute","|<center>[[Ella]] ||<center>狗狗||"]]

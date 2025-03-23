@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",110,2,"[[Category:中国美术教育家]]"]]
+window.data=[["no-duplicate",110,2,"duplicated category","[[Category:中国美术教育家]]"],["no-duplicate",112,2,"duplicated category","[[Category:中国美术教育家]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,3,"9 = zh-hk:艾克魯斯的麥福男爵; zh-tw:艾克魯斯的麥克福爾男爵; zh-cn:艾克鲁斯的麦克福尔男爵;\n "]]
+window.data=[["no-duplicate",14,3,"duplicated parameter","9 = zh-hk:艾克魯斯的麥福男爵; zh-tw:艾克魯斯的麥克福爾男爵; zh-cn:艾克鲁斯的麦克福尔男爵;\n "],["no-duplicate",15,3,"duplicated parameter","9 = zh-hk:卡迪夫; zh-tw:卡地夫; zh-cn:卡迪夫;\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",42,117,"name=\"邱莉玲、蕭承訓、丁世傑\""],[1,"no-ignored",42,135,"。他代理英國的WATERFORD水晶器皿及WEGEWOOD瓷器<ref "],[1,"tag-like",42,166,"<ref"]]
+window.data=[["tag-like",42,166,"lonely \"<\"","<ref"],["no-ignored",42,135,"containing invalid attribute","。他代理英國的WATERFORD水晶器皿及WEGEWOOD瓷器<ref "],["no-duplicate",42,117,"duplicated name attribute","name=\"邱莉玲、蕭承訓、丁世傑\""],["no-duplicate",42,171,"duplicated name attribute","name=\"黃昌模\""]]

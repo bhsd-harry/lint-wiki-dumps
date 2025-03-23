@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",6,3," cn_name            = \n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter"," cn_name            = \n "],["no-duplicate",34,3,"duplicated parameter"," cn_name = \n "],["no-duplicate",7,3,"duplicated parameter"," tw_name            = \n "],["no-duplicate",29,3,"duplicated parameter"," tw_name = 傑遜王子戰群妖<br />傑遜王子戰群奴\n "]]

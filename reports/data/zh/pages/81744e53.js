@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3," position         = \n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter"," position         = \n "],["no-duplicate",14,3,"duplicated parameter"," position       = 主教练\n "]]

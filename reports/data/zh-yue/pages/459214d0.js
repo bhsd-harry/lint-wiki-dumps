@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,3,"duplicated parameter"," 作曲 = [[雷深如]]\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," 作曲 = [[雷深如]]\n "],["no-duplicate",13,3,"duplicated parameter"," 作曲 = [[雷深如]]\n "]]

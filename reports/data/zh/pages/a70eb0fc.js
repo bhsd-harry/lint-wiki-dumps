@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",363,2,"[[Category:美国空军参谋长]]"]]
+window.data=[["no-duplicate",363,2,"duplicated category","[[Category:美国空军参谋长]]"],["no-duplicate",386,2,"duplicated category","[[Category:美国空军参谋长]]"]]

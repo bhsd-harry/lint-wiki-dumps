@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",15,554,"ISBN"],[1,"no-ignored",6,99,"90%\""]]
+window.data=[["invalid-css",6,98,"semi-colon expected",""],["invalid-css",6,97,"colon expected","="],["no-ignored",6,99,"containing invalid attribute","90%\""],["lonely-http",15,554,"lonely \"ISBN\"","ISBN"]]

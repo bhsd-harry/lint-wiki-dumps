@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",97,2,"[[Category:国际空间站]]"]]
+window.data=[["no-duplicate",97,2,"duplicated category","[[Category:国际空间站]]"],["no-duplicate",100,2,"duplicated category","[[Category:国际空间站]]"]]

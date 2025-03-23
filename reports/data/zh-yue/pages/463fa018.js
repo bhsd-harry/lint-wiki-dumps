@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,180,"duplicated parameter","author=謝德恩（[[林家駿]]為原作者） "],[1,"unmatched-tag",142,47,"unmatched closing tag","</sup>"]]
+window.data=[["no-duplicate",2,180,"duplicated parameter","author=謝德恩（[[林家駿]]為原作者） "],["no-duplicate",2,205,"duplicated parameter","author=劉鈺馨、何劉一星"],["unmatched-tag",142,47,"unmatched closing tag","</sup>"]]

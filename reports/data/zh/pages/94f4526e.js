@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,2,"[[Category:法國—伊朗關係]]"]]
+window.data=[["no-duplicate",35,2,"duplicated category","[[Category:法國—伊朗關係]]"],["no-duplicate",36,2,"duplicated category","[[Category:法國—伊朗關係]]"]]

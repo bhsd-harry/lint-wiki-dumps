@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",73,2,"[[Category:子宫]]"]]
+window.data=[["no-duplicate",73,2,"duplicated category","[[Category:子宫]]"],["no-duplicate",74,2,"duplicated category","[[Category:子宫]]"]]

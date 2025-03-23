@@ -1,1 +1,1 @@
-window.data=[[6,"illegal-attr",670,5,"border"],[1,"no-ignored",112,28," name\"攻台見聞：風俗畫報．台灣征討圖繪\""]]
+window.data=[["no-ignored",112,28,"containing invalid attribute"," name\"攻台見聞：風俗畫報．台灣征討圖繪\""],["illegal-attr",670,5,"illegal attribute name","border"],["illegal-attr",670,17,"illegal attribute name","cellpadding"],["illegal-attr",670,34,"illegal attribute name","cellspacing"],["illegal-attr",681,5,"illegal attribute name","border"],["illegal-attr",681,17,"illegal attribute name","cellpadding"],["illegal-attr",681,34,"illegal attribute name","cellspacing"]]

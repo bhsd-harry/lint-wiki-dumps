@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",477,4,"https:"],[1,"no-ignored",477,30,"/index.php?title=哆啦A梦电影作品&action=edit&section=5#."]]
+window.data=[["illegal-attr",477,4,"illegal attribute name","https:"],["illegal-attr",477,12,"illegal attribute name","zh.wikipedia.org"],["illegal-attr",477,29,"illegal attribute name","w"],["no-ignored",477,30,"containing invalid attribute","/index.php?title=哆啦A梦电影作品&action=edit&section=5#."]]

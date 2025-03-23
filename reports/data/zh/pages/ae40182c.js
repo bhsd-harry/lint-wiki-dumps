@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",131,774,"}"],[2,"tag-like",11,207,"</ref"]]
+window.data=[["tag-like",11,207,"lonely \"<\"","</ref"],["invalid-css",82,69,"semi-colon expected",""],["invalid-css",82,68,"colon expected","="],["lonely-bracket",131,774,"lonely \"}\"","}"],["lonely-bracket",131,1274,"lonely \"{\"","{{"],["tag-like",131,1334,"lonely \"<\"","</nowiki"]]

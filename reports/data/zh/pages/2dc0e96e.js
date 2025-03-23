@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",32,33,"cellspacing"],[1,"unmatched-tag",40,167,"<small>"]]
+window.data=[["illegal-attr",32,33,"illegal attribute name","cellspacing"],["unmatched-tag",40,167,"unclosed tag","<small>"]]

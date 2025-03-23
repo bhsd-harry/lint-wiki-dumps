@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",27,68,"[[Concordance (publishing)|concordance]]"]]
+window.data=[["nested-link",27,68,"internal link in an external link","[[Concordance (publishing)|concordance]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3," location = 中国广东珠海\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter"," location = 中国广东珠海\n "],["no-duplicate",19,3,"duplicated parameter"," location = [[廣東]][[珠海]]\n "]]

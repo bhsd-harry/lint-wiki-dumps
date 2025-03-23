@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",66,105,"]]"],[1,"tag-like",66,126,"</ref"]]
+window.data=[["lonely-bracket",66,105,"lonely \"]\"","]]"],["tag-like",66,126,"lonely \"<\"","</ref"]]

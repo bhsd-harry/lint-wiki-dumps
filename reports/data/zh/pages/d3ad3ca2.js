@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",50,2,"[[Category:TNT电视节目]]"]]
+window.data=[["no-duplicate",50,2,"duplicated category","[[Category:TNT电视节目]]"],["no-duplicate",56,2,"duplicated category","[[Category:TNT电视节目]]"]]

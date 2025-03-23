@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",312,2,"[[Category:灣生]]"]]
+window.data=[["no-duplicate",312,2,"duplicated category","[[Category:灣生]]"],["no-duplicate",320,2,"duplicated category","[[Category:灣生]]"],["no-duplicate",315,2,"duplicated category","[[Category:臺灣日治時期社會]]"],["no-duplicate",319,2,"duplicated category","[[Category:臺灣日治時期社會]]"]]

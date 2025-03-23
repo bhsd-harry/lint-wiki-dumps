@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,617,"duplicated parameter","title=第十一届全国政协委员名单"]]
+window.data=[["no-duplicate",4,617,"duplicated parameter","title=第十一届全国政协委员名单"],["no-duplicate",4,768,"duplicated parameter","title=Archived copy"]]

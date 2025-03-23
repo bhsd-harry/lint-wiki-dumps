@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",12,2,"[[Category:英国男子游泳运动员]]"]]
+window.data=[["no-duplicate",12,2,"duplicated category","[[Category:英国男子游泳运动员]]"],["no-duplicate",13,2,"duplicated category","[[Category:英国男子游泳运动员]]"],["no-duplicate",15,2,"duplicated category","[[Category:英国男子游泳运动员]]"]]

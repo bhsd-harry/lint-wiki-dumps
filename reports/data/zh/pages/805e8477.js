@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",87,56,"lright"]]
+window.data=[["no-duplicate",87,56,"duplicated image caption parameter","lright"],["no-duplicate",87,63,"duplicated image caption parameter","1980年代完成现代化改装的威严级航母墨尔本号"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",350,2,"[[Category:東方神起]]"]]
+window.data=[["no-duplicate",350,2,"duplicated category","[[Category:東方神起]]"],["no-duplicate",352,2,"duplicated category","[[Category:東方神起]]"]]

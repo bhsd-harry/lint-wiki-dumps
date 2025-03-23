@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",44,1281,"]]"],[1,"nested-link",74,1032,"[[香港管弦樂團]]"]]
+window.data=[["lonely-bracket",44,1281,"lonely \"]\"","]]"],["nested-link",74,1032,"internal link in an external link","[[香港管弦樂團]]"]]

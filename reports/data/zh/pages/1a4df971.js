@@ -1,1 +1,1 @@
-window.data=[[2,"invalid-gallery",34,39,"upright"],[2,"no-duplicate",62,2,"[[Category:日本雕塑家]]"]]
+window.data=[["invalid-gallery",34,39,"invalid image parameter","upright"],["invalid-gallery",34,47,"invalid image parameter","thumb"],["no-duplicate",62,2,"duplicated category","[[Category:日本雕塑家]]"],["no-duplicate",63,2,"duplicated category","[[Category:日本雕塑家]]"]]

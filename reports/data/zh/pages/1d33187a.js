@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",53,1," * 经济学科"]]
+window.data=[["fostered-content",53,1,"content to be moved out from the table"," * 经济学科"],["fostered-content",57,1,"content to be moved out from the table"," * 经济学科\n ** 第一部\n ** [[夜校|第二部]]<ref group=\"注\"  name=\"经济学科第二部\">招生到2001年。停办于2004年。</ref>"]]

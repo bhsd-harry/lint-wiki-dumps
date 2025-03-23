@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",8,3,"1=zh-tw:環狀線; zh-hk:環綫; zh-cn:环线;\n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter","1=zh-tw:環狀線; zh-hk:環綫; zh-cn:环线;\n "],["no-duplicate",9,3,"duplicated parameter","1 = zh-hans:线; zh-tw:線; zh-hk:綫;zh-mo:線\n "],["invalid-css",153,71,"semi-colon expected",""],["invalid-css",153,64,"colon expected","size"],["no-duplicate",153,5,"duplicated style attribute","style=\"margin:inherit; padding-bottom:0.25em\""],["no-duplicate",153,52,"duplicated style attribute","style=\"font size=95\""]]

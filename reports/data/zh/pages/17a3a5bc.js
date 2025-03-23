@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",74,5,"style=\"background:cornflowerblue; color:white\""]]
+window.data=[["no-duplicate",74,5,"duplicated style attribute","style=\"background:cornflowerblue; color:white\""],["no-duplicate",74,68,"duplicated style attribute","style=\"background:cornflowerblue; color:white\""],["no-duplicate",74,53,"duplicated align attribute","align=center|-"],["no-duplicate",74,116,"duplicated align attribute","align=center"]]

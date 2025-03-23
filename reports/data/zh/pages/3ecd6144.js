@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",113,1," 2022年度香港工程科技獎得獎者"],[2,"no-duplicate",21,3,"region_served = \n "]]
+window.data=[["no-duplicate",21,3,"duplicated parameter","region_served = \n "],["no-duplicate",24,3,"duplicated parameter"," region_served       = {{HKSAR}}\n "],["fostered-content",113,1,"content to be moved out from the table"," 2022年度香港工程科技獎得獎者"],["fostered-content",139,1,"content to be moved out from the table"," 2023年度香港工程科技獎得獎者"]]

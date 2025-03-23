@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",942,2,"[[Category:墨西哥條約]]"]]
+window.data=[["no-duplicate",942,2,"duplicated category","[[Category:墨西哥條約]]"],["no-duplicate",943,2,"duplicated category","[[Category:墨西哥條約]]"],["no-duplicate",985,2,"duplicated category","[[Category:東加條約]]"],["no-duplicate",986,2,"duplicated category","[[Category:東加條約]]"],["no-duplicate",990,2,"duplicated category","[[Category:美國條約]]"],["no-duplicate",991,2,"duplicated category","[[Category:美國條約]]"]]

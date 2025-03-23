@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,63,"Center"]]
+window.data=[["no-duplicate",25,63,"duplicated image caption parameter","Center"],["no-duplicate",25,70,"duplicated image caption parameter","富田林市市政府"]]

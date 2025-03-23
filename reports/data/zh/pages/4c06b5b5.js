@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",453,83,"Right"]]
+window.data=[["no-duplicate",453,83,"duplicated image caption parameter","Right"],["no-duplicate",453,89,"duplicated image caption parameter"," 奧斯爾慶祝德國奪得世界盃"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,11,"T=zh-hans:威震天;zh-hk:麥加登;zh-tw:密卡登;\n "]]
+window.data=[["no-duplicate",2,11,"duplicated parameter","T=zh-hans:威震天;zh-hk:麥加登;zh-tw:密卡登;\n "],["no-duplicate",3,3,"duplicated parameter","T=zh-hans:震荡波;zh-hant:震盪波 (變形金剛);zh-tw:震盪波 (變形金剛);zh-hk:震波;zh-mo:震波;\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,2,"[[Category:第十二届全国人大代表]]"]]
+window.data=[["no-duplicate",21,2,"duplicated category","[[Category:第十二届全国人大代表]]"],["no-duplicate",23,2,"duplicated category","[[Category:第十二届全国人大代表]]"]]

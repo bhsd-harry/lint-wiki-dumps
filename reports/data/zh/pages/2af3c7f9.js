@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",42,10,"愛.尋找(電影)"]]
+window.data=[["no-ignored",42,10,"containing invalid attribute","愛.尋找(電影)"],["no-ignored",46,10,"containing invalid attribute","大四喜(電影)"]]

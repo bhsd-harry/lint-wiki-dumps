@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",334,917,"journal=Animefringe"]]
+window.data=[["no-duplicate",334,917,"duplicated parameter","journal=Animefringe"],["no-duplicate",334,1119,"duplicated parameter","journal="]]

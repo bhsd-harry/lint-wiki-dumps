@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",62,2,"[[Category:北军将领]]"]]
+window.data=[["no-duplicate",62,2,"duplicated category","[[Category:北军将领]]"],["no-duplicate",66,2,"duplicated category","[[Category:北军将领]]"],["no-duplicate",63,2,"duplicated category","[[Category:燈塔建造者]]"],["no-duplicate",67,2,"duplicated category","[[Category:燈塔建造者]]"]]

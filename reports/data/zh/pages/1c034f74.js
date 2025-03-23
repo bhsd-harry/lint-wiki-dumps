@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",50,509,"["],[4,"nested-link",50,430,"[[2018年香港立法會補選|2018年3月11日补选]]"]]
+window.data=[["nested-link",50,430,"internal link in an external link","[[2018年香港立法會補選|2018年3月11日补选]]"],["nested-link",50,483,"internal link in an external link","[[陈凯欣]]"],["nested-link",50,491,"internal link in an external link","[[范国威]]"],["nested-link",50,499,"internal link in an external link","[[谢伟铨]]"],["lonely-bracket",50,509,"lonely \"[\"","["]]

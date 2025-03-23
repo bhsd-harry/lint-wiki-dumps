@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",99,22,"  =\"critical intro\""]]
+window.data=[["no-ignored",99,22,"containing invalid attribute","  =\"critical intro\""],["no-ignored",117,22,"containing invalid attribute","  =\"critical intro\""]]

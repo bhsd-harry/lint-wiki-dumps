@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",278,2,"[[Category:戀愛漫畫]]"]]
+window.data=[["no-duplicate",278,2,"duplicated category","[[Category:戀愛漫畫]]"],["no-duplicate",281,2,"duplicated category","[[Category:戀愛漫畫]]"]]

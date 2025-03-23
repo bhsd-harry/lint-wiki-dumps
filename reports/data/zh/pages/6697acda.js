@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",74,30,"ISBN 978-986296-224-2"],[1,"no-ignored",76,14,"\n *"]]
+window.data=[["invalid-isbn",74,30,"invalid ISBN","ISBN 978-986296-224-2"],["no-ignored",76,14,"invalid content in <references>","\n *"]]

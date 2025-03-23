@@ -1,1 +1,1 @@
-window.data=[[1,"tag-like",181,201,"lonely \"<\"","</ref"]]
+window.data=[["tag-like",181,201,"lonely \"<\"","</ref"]]

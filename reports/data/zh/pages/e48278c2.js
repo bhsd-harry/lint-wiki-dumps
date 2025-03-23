@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3,"colour = {{colorbox|#a9863c|border=none}} 米黄色\n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter","colour = {{colorbox|#a9863c|border=none}} 米黄色\n "],["no-duplicate",18,3,"duplicated parameter","colour = \n "]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",24,58,"]]"],[1,"pipe-like",52,17,"||5852"]]
+window.data=[["lonely-bracket",24,58,"lonely \"]\"","]]"],["pipe-like",52,17,"additional \"|\" in a table cell","||5852"]]

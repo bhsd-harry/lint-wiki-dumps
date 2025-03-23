@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",8,120,"autocomplete"],[1,"no-ignored",55,21,"font-size:\""]]
+window.data=[["illegal-attr",8,120,"illegal attribute name","autocomplete"],["no-ignored",55,21,"containing invalid attribute","font-size:\""]]

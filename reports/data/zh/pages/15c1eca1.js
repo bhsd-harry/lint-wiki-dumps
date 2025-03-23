@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",39,3,"viewfinder=內置人眼感應器的電子觀景窗\n "]]
+window.data=[["no-duplicate",39,3,"duplicated parameter","viewfinder=內置人眼感應器的電子觀景窗\n "],["no-duplicate",40,3,"duplicated parameter","viewfinder=0.5英寸，約369萬畫素[[OLED]]彩色觀景窗\n "]]

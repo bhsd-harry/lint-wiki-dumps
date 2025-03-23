@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-bracket",44,1436,"{{"],[2,"no-duplicate",107,47," {{center"]]
+window.data=[["lonely-bracket",44,1436,"lonely \"{\"","{{"],["lonely-bracket",107,48,"lonely \"{\"","{{"],["no-duplicate",107,47,"duplicated image caption parameter"," {{center"],["no-duplicate",107,57,"duplicated image caption parameter","顯示慢速碳循環（深層碳循環）的繪圖，顯示碳如何在岩石中移動。"],["lonely-bracket",117,896,"lonely \"}\"","}}"]]

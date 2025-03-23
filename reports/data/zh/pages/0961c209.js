@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",121,1," <---File:Herat flag.png|<center>[[阿富汗]][[赫拉特]]旗幟(1930)</center>--->"]]
+window.data=[["no-ignored",121,1,"invalid content in <gallery>"," <---File:Herat flag.png|<center>[[阿富汗]][[赫拉特]]旗幟(1930)</center>--->"],["no-ignored",127,1,"invalid content in <gallery>"," <---File:Grbsandzaka.svg|<center>Ensign of the [[Bosniak]]s of [[Sandžak]] (in [[Montenegro]] and [[Serbia]])</center>  Is this a flag?--->"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",198,2,"[[Category:暴雪娛樂| ]]"]]
+window.data=[["no-duplicate",198,2,"duplicated category","[[Category:暴雪娛樂| ]]"],["no-duplicate",202,2,"duplicated category","[[Category:暴雪娛樂| ]]"]]

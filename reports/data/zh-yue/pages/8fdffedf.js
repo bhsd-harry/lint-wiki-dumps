@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",3,178,"internal link in an external link","[[1982年]]"]]
+window.data=[["nested-link",3,178,"internal link in an external link","[[1982年]]"],["nested-link",3,190,"internal link in an external link","[[1987年]]"]]

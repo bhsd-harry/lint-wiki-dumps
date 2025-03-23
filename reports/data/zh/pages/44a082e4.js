@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",127,17,"ref={{harvid|Michelin|1919}}"]]
+window.data=[["no-duplicate",127,17,"duplicated parameter","ref={{harvid|Michelin|1919}}"],["no-duplicate",127,327,"duplicated parameter","ref=harv"],["no-duplicate",131,17,"duplicated parameter","ref={{harvid|Michelin|1919a}}"],["no-duplicate",131,307,"duplicated parameter","ref=harv"]]

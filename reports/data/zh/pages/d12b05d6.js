@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,3,"current_commander= \n "]]
+window.data=[["no-duplicate",21,3,"duplicated parameter","current_commander= \n "],["no-duplicate",35,3,"duplicated parameter","current_commander= 渡邊渉 一等海佐（海軍上校）\n "]]

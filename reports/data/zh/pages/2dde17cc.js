@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3,"settlement_type          = [[城市]]\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter","settlement_type          = [[城市]]\n "],["no-duplicate",10,3,"duplicated parameter","settlement_type          = [[非建制地區]]\n "]]

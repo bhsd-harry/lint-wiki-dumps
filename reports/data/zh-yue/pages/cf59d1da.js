@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",10,3,"duplicated parameter"," free_label = \n "],[2,"no-ignored",36,82,"attributes of a closing tag"," color"]]
+window.data=[["no-duplicate",10,3,"duplicated parameter"," free_label = \n "],["no-duplicate",12,3,"duplicated parameter"," free_label = 級別\n "],["no-duplicate",11,3,"duplicated parameter"," free_text = \n "],["no-duplicate",13,3,"duplicated parameter"," free_text = 中學六年全日制\n "],["no-ignored",36,82,"attributes of a closing tag"," color"],["no-ignored",36,119,"attributes of a closing tag"," color"]]

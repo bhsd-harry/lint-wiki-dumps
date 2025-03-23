@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",49,37,"RIGHT"]]
+window.data=[["no-duplicate",49,37,"duplicated image caption parameter","RIGHT"],["no-duplicate",49,43,"duplicated image caption parameter","儿童时代的罗阿尔·阿蒙森"]]

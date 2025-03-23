@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",144,5,"border"],[2,"no-duplicate",184,2,"[[Category:台灣女性模特兒]]"]]
+window.data=[["illegal-attr",144,5,"illegal attribute name","border"],["illegal-attr",144,17,"illegal attribute name","cellpadding"],["illegal-attr",144,34,"illegal attribute name","cellspacing"],["no-duplicate",184,2,"duplicated category","[[Category:台灣女性模特兒]]"],["no-duplicate",185,2,"duplicated category","[[Category:台灣女性模特兒]]"]]

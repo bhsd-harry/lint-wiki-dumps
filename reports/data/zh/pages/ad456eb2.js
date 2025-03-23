@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,3," synonyms = \n "],[1,"unmatched-tag",9,53,"<small>"]]
+window.data=[["unmatched-tag",9,53,"unclosed tag","<small>"],["no-duplicate",7,3,"duplicated parameter"," synonyms = \n "],["no-duplicate",9,3,"duplicated parameter"," synonyms = *''Raja ravidula'',<small>Hulley, 1970<small>\n "]]

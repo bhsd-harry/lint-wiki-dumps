@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,3," 發行許可 =  \n "]]
+window.data=[["no-duplicate",19,3,"duplicated parameter"," 發行許可 =  \n "],["no-duplicate",21,3,"duplicated parameter"," 發行許可 = {{nowrap|（京）网剧审字（2024）第019号}}\n "]]

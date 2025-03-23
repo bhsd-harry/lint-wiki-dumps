@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",17,3,"iso3=zsm\n "]]
+window.data=[["no-duplicate",17,3,"duplicated parameter","iso3=zsm\n "],["no-duplicate",20,3,"duplicated parameter","iso3=msa\n "],["no-duplicate",18,3,"duplicated parameter","ietf=ms-my\n "],["no-duplicate",21,3,"duplicated parameter","ietf=ms-sg\n "]]

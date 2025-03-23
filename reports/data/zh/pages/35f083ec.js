@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",149,2879,"name=\"MurakamiKitamura2020\""],[1,"no-ignored",149,2906,"/<ref "],[2,"tag-like",149,2907,"<ref"]]
+window.data=[["tag-like",149,2907,"lonely \"<\"","<ref"],["tag-like",149,2924,"lonely \"<\"","<ref"],["no-ignored",149,2906,"containing invalid attribute","/<ref "],["no-duplicate",149,2879,"duplicated name attribute","name=\"MurakamiKitamura2020\""],["no-duplicate",149,2912,"duplicated name attribute","name=RshSTT/<ref"],["no-duplicate",149,2929,"duplicated name attribute","name=RacCS203"]]

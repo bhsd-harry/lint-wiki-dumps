@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",61,34,"align=right"]]
+window.data=[["no-duplicate",61,34,"duplicated image caption parameter","align=right"],["no-duplicate",61,46,"duplicated image caption parameter","鸟粪进口是大生意。1873年的报纸广告。"]]

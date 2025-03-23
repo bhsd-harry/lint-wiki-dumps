@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,3,"identification_symbol=\n "]]
+window.data=[["no-duplicate",26,3,"duplicated parameter","identification_symbol=\n "],["no-duplicate",27,3,"duplicated parameter","identification_symbol=[[File:JG-54 Emblem.svg|75px]]\n "]]

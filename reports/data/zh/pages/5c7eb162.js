@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,25,"LEFT"]]
+window.data=[["no-duplicate",63,25,"duplicated image caption parameter","LEFT"],["no-duplicate",63,36,"duplicated image caption parameter","七堵車站及七堵調車廠軌道配置圖"]]

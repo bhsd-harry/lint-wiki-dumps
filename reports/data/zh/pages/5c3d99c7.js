@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",409,2,"[[Category:Windows管理]]"]]
+window.data=[["no-duplicate",409,2,"duplicated category","[[Category:Windows管理]]"],["no-duplicate",410,2,"duplicated category","[[Category:Windows管理]]"]]

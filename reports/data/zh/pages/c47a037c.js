@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,3," location = [[Seoul]] , [[South Korea]]\n "]]
+window.data=[["no-duplicate",32,3,"duplicated parameter"," location = [[Seoul]] , [[South Korea]]\n "],["no-duplicate",63,3,"duplicated parameter"," location = {{ROK}}[[首爾]][[永登浦區]]楊平街21號\n "]]

@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",152,616,"contenteditable"],[2,"no-duplicate",204,2,"[[Category:中国民族主义|* ]]"]]
+window.data=[["illegal-attr",152,616,"illegal attribute name","contenteditable"],["illegal-attr",153,73,"illegal attribute name","contenteditable"],["illegal-attr",153,466,"illegal attribute name","contenteditable"],["no-duplicate",204,2,"duplicated category","[[Category:中国民族主义|* ]]"],["no-duplicate",205,2,"duplicated category","[[Category:中国民族主义]]"]]

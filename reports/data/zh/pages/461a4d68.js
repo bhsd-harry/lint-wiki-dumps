@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",139,27,"KIBOU"],[1,"no-ignored",139,19,"羽田機場的奇蹟/"]]
+window.data=[["illegal-attr",139,27,"illegal attribute name","KIBOU"],["no-ignored",139,19,"containing invalid attribute","羽田機場的奇蹟/"]]

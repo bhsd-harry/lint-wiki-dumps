@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3," affiliation = \n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," affiliation = \n "],["no-duplicate",25,3,"duplicated parameter"," affiliation = [[全國高中校際聯盟TTSA]]\n "]]

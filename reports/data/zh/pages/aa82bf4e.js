@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",399,3,"m={{flag icon|JPN}} Chasse' Roll<br>2010年（棗色）\n "]]
+window.data=[["no-duplicate",399,3,"duplicated parameter","m={{flag icon|JPN}} Chasse' Roll<br>2010年（棗色）\n "],["no-duplicate",400,3,"duplicated parameter","m={{flag icon|JPN}} Chronologist<br>2003年（灰色）\n "]]

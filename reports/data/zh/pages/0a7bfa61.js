@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",123,1," [[File:The Shangri-La Hotels and Resorts Macau 200907.jpg]]"]]
+window.data=[["no-ignored",123,1,"invalid content in <gallery>"," [[File:The Shangri-La Hotels and Resorts Macau 200907.jpg]]"]]

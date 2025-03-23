@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",43,2,"[[Category:烏克蘭外交官]]"]]
+window.data=[["no-duplicate",43,2,"duplicated category","[[Category:烏克蘭外交官]]"],["no-duplicate",44,2,"duplicated category","[[Category:烏克蘭外交官]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",63,3,"{{flagIOCathlete|[[Li Byong-Uk|Byong-Uk]]|PRK|1976年夏季}}<br />'''L''' RSC–2 "],[1,"parsing-order",63,58,"<br />"]]
+window.data=[["parsing-order",63,58,"HTML tag in table attributes","<br />"],["no-ignored",63,3,"containing invalid attribute","{{flagIOCathlete|[[Li Byong-Uk|Byong-Uk]]|PRK|1976年夏季}}<br />'''L''' RSC–2 "]]

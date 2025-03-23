@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",3,48," =  \"JPL1\""]]
+window.data=[["no-ignored",3,48,"containing invalid attribute"," =  \"JPL1\""]]

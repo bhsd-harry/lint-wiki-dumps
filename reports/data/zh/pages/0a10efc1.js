@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:Linux软件包管理相关软件]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:Linux软件包管理相关软件]]"],["no-duplicate",42,2,"duplicated category","[[Category:Linux软件包管理相关软件]]"]]

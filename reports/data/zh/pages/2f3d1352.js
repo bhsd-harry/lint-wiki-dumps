@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,3,"allegiance =\n "]]
+window.data=[["no-duplicate",20,3,"duplicated parameter","allegiance =\n "],["no-duplicate",22,3,"duplicated parameter","allegiance = {{CSR}}<br>{{CPC}}\n "]]

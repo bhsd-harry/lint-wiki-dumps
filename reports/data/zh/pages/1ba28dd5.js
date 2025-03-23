@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",25,2,"[[Category:南京兵部主事]]"]]
+window.data=[["no-duplicate",25,2,"duplicated category","[[Category:南京兵部主事]]"],["no-duplicate",29,2,"duplicated category","[[Category:南京兵部主事]]"],["no-duplicate",26,2,"duplicated category","[[Category:南京工部主事]]"],["no-duplicate",32,2,"duplicated category","[[Category:南京工部主事]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",95,50,"Right"]]
+window.data=[["no-duplicate",95,50,"duplicated image caption parameter","Right"],["no-duplicate",95,68,"duplicated image caption parameter","布沙尔在澳網典禮上"],["no-duplicate",96,44,"duplicated image caption parameter","Right"],["no-duplicate",96,62,"duplicated image caption parameter"," 布沙尔攝於2015年5月"]]

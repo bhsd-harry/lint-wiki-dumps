@@ -1,1 +1,1 @@
-window.data=[[2,"unclosed-table",41,2,"{|"]]
+window.data=[["unclosed-table",41,2,"unclosed table","{|"],["invalid-css",44,85,"property value expected","%"],["invalid-css",44,145,"property value expected","%"],["unclosed-table",149,2,"unclosed table","{|"],["invalid-css",152,85,"property value expected","%"],["invalid-css",152,108,"property value expected","%"]]

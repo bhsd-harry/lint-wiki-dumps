@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",8,41,"thumb"]]
+window.data=[["no-duplicate",8,41,"duplicated image thumbnail parameter","thumb"],["no-duplicate",8,108,"duplicated image thumbnail parameter","缩略图"],["no-duplicate",8,53,"duplicated image caption parameter","長庚大學工業設計研究所 碩士論文. 穿梭在國家凝視下的日常生活實踐— 日治時期至1970年台灣機車的歷史研究"],["no-duplicate",8,112,"duplicated image caption parameter","1949年至1959年台灣機器腳踏車違章統計圖。"]]

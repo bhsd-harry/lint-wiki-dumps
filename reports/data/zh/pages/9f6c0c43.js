@@ -1,1 +1,1 @@
-window.data=[[3,"fostered-content",52,1," * 食物营养学科\n * 幼儿教育学科"]]
+window.data=[["fostered-content",52,1,"content to be moved out from the table"," * 食物营养学科\n * 幼儿教育学科"],["fostered-content",57,1,"content to be moved out from the table"," * 生活设计学科<ref group=\"注\"  name=\"生活设计学科改编\"/>\n * 人类文化学科<ref group=\"注\"  name=\"人类文化学科改编\"/>\n * 国际教养学科<ref group=\"注\"  name=\"国际教养学科改编\"/>"],["fostered-content",63,1,"content to be moved out from the table"," * <del>生活学・生活造型专攻</del>：[[大学评价学位授予机构]]批准\n * <del>食物营养学专攻</del>\n * <del>幼儿教育学专攻</del>"]]

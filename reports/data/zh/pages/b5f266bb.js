@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",513,1196,"url=https://game.ettoday.net/article/2798058.htm"]]
+window.data=[["no-duplicate",513,1196,"duplicated parameter","url=https://game.ettoday.net/article/2798058.htm"],["no-duplicate",513,1283,"duplicated parameter"," url= https://game.ettoday.net/article/2798058.htm#ixzz8jRNmrjRr"]]

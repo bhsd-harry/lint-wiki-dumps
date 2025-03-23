@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",628,34,"minipx"]]
+window.data=[["no-duplicate",628,34,"duplicated image caption parameter","minipx"],["no-duplicate",628,53,"duplicated image caption parameter","2015年德國風力發電概況簡介. <ref>{{cite web|url=http://strom-report.de/germany-wind-power-2015/ |title=GERMANY: WIND POWER FACTSHEET 2015 |publisher=strom-report"]]

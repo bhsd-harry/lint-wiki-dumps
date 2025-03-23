@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",38,2,"[[Category:安葬於新聖女公墓者]]"]]
+window.data=[["no-duplicate",38,2,"duplicated category","[[Category:安葬於新聖女公墓者]]"],["no-duplicate",54,2,"duplicated category","[[Category:安葬於新聖女公墓者]]"],["no-duplicate",45,2,"duplicated category","[[Category:苏联入侵波兰人物]]"],["no-duplicate",49,2,"duplicated category","[[Category:苏联入侵波兰人物]]"]]

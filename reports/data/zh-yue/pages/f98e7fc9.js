@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3,"duplicated parameter"," 其他藝名 = WOODZ\n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter"," 其他藝名 = WOODZ\n "],["no-duplicate",16,3,"duplicated parameter","其他藝名 = \n Evan(英文名)<br/>Luizinho(巴西名)<br/>Luizy(2016至2017:Solo藝名)<br/>FLOO(2017:Cover影音)<br/>Go'mach(2018:幕後和音)<br/>WOODZ(2018至今:製作人藝名)\n "]]

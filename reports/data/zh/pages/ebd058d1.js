@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,2,"[[Category:Articles using Template Infobox person Wikidata]]"]]
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:Articles using Template Infobox person Wikidata]]"],["no-duplicate",7,2,"duplicated category","[[Category:Articles using Template Infobox person Wikidata]]"]]

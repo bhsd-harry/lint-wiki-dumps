@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",94,2,"[[Category:虛構謀殺犯]]"]]
+window.data=[["no-duplicate",94,2,"duplicated category","[[Category:虛構謀殺犯]]"],["no-duplicate",98,2,"duplicated category","[[Category:虛構謀殺犯]]"],["no-duplicate",95,2,"duplicated category","[[Category:虚构法国人]]"],["no-duplicate",97,2,"duplicated category","[[Category:虚构法国人]]"]]

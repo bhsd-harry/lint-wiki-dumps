@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",34,76,"]]"],[2,"no-duplicate",63,4,"scope=\"col\""]]
+window.data=[["lonely-bracket",34,76,"lonely \"]\"","]]"],["no-duplicate",63,4,"duplicated scope attribute","scope=\"col\""],["no-duplicate",63,18,"duplicated scope attribute","scope=\"col\""]]

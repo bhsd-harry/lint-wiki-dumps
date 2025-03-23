@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,2,"[[分类:元朝县丞]]"]]
+window.data=[["no-duplicate",11,2,"duplicated category","[[分类:元朝县丞]]"],["no-duplicate",14,2,"duplicated category","[[分类:元朝县丞]]"]]

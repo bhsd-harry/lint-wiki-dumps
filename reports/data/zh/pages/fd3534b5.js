@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",15,23,"Basseri"]]
+window.data=[["no-duplicate",15,23,"duplicated image caption parameter","Basseri"],["no-duplicate",15,31,"duplicated image caption parameter","巴瑟麗人女子"],["no-duplicate",64,29,"duplicated image caption parameter","Basseri"],["no-duplicate",64,37,"duplicated image caption parameter","巴瑟麗男子傳統服飾"]]

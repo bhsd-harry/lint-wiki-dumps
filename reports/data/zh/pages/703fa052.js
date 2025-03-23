@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,2,"[[Category:含有連結內容需訂閱查看的頁面]]"],[1,"unmatched-tag",75,144,"</div>"]]
+window.data=[["unmatched-tag",75,144,"unmatched closing tag","</div>"],["no-duplicate",32,2,"duplicated category","[[Category:含有連結內容需訂閱查看的頁面]]"],["no-duplicate",154,2,"duplicated category","[[Category:含有連結內容需訂閱查看的頁面]]"]]

@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",18,21,"显示伯纳德陨石坑和[[门农尼亚区]]附近其他陨坑相对位置的地图。Wikibernard.jpg"]]
+window.data=[["no-duplicate",18,21,"duplicated image caption parameter","显示伯纳德陨石坑和[[门农尼亚区]]附近其他陨坑相对位置的地图。Wikibernard.jpg"],["no-duplicate",18,69,"duplicated image caption parameter","[[火星勘测轨道飞行器]]背景相机拍摄的伯纳德陨石坑西侧部分。Wikibernardclose.jpg"],["no-duplicate",18,121,"duplicated image caption parameter","火星勘测轨道飞行器背景相机拍摄的伯纳德陨石坑部分坑底特写。"]]

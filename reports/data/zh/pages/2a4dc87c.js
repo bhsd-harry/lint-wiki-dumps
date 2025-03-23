@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",208,1888,"]]"],[2,"no-duplicate",115,47,"thumb"]]
+window.data=[["no-duplicate",115,47,"duplicated image thumbnail parameter","thumb"],["no-duplicate",115,58,"duplicated image thumbnail parameter","thumb"],["lonely-bracket",208,1888,"lonely \"]\"","]]"]]

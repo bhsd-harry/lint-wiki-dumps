@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",388,2,"[[Category:美國電影男演員]]"]]
+window.data=[["invalid-css",273,60,"semi-colon expected",""],["invalid-css",273,60,"colon expected",""],["no-duplicate",388,2,"duplicated category","[[Category:美國電影男演員]]"],["no-duplicate",396,2,"duplicated category","[[Category:美國電影男演員]]"]]

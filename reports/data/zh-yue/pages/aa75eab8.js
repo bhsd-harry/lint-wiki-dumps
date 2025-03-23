@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",54,33,"duplicated image caption parameter","miniatura"]]
+window.data=[["no-duplicate",54,33,"duplicated image caption parameter","miniatura"],["no-duplicate",54,43,"duplicated image caption parameter","1897年嘅英國帝國，粉紅色區域係英國殖民地嘅顏色。"]]

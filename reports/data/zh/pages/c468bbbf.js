@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",130,111,"aligm"],[1,"unclosed-table",127,2,"{|"]]
+window.data=[["unclosed-table",127,2,"unclosed table","{|"],["illegal-attr",130,111,"illegal attribute name","aligm"]]

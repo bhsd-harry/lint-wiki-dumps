@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,80,"成熟的囊蚴準備轉移至鳥類宿主；注意其厚實的外殼。 File:Heckert plate1 fig8.png"]]
+window.data=[["no-duplicate",16,80,"duplicated image caption parameter","成熟的囊蚴準備轉移至鳥類宿主；注意其厚實的外殼。 File:Heckert plate1 fig8.png"],["no-duplicate",16,134,"duplicated image caption parameter","在鳥類宿主泄殖腔中發現的成蟲；注意其兩個顯著的吸盤。"]]

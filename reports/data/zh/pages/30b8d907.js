@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",166,2,"[[Category:和声]]"]]
+window.data=[["no-duplicate",166,2,"duplicated category","[[Category:和声]]"],["no-duplicate",167,2,"duplicated category","[[Category:和声|*]]"]]

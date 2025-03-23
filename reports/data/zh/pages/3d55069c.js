@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",19,2,"[[Category:建筑机械]]"]]
+window.data=[["no-duplicate",19,2,"duplicated category","[[Category:建筑机械]]"],["no-duplicate",26,2,"duplicated category","[[Category:建筑机械]]"],["no-duplicate",20,2,"duplicated category","[[Category:工具]]"],["no-duplicate",27,2,"duplicated category","[[Category:工具]]"]]

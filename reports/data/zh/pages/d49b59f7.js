@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,2,"[[Category:香港—加拿大關係| ]]"]]
+window.data=[["no-duplicate",37,2,"duplicated category","[[Category:香港—加拿大關係| ]]"],["no-duplicate",38,2,"duplicated category","[[Category:香港—加拿大關係|香港]]"]]

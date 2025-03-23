@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",2014,23,"cell"],[1,"lonely-bracket",1445,256,"}}"],[2,"no-duplicate",2200,2,"[[Category:梁姓|梁姓]]"]]
+window.data=[["lonely-bracket",1445,256,"lonely \"}\"","}}"],["illegal-attr",2014,23,"illegal attribute name","cell"],["illegal-attr",2014,28,"illegal attribute name","padding"],["no-duplicate",2200,2,"duplicated category","[[Category:梁姓|梁姓]]"],["no-duplicate",2202,2,"duplicated category","[[Category:梁姓|HON]]"]]

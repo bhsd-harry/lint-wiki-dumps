@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",84,2,"[[Category:2024年德國電影作品]]"]]
+window.data=[["no-duplicate",84,2,"duplicated category","[[Category:2024年德國電影作品]]"],["no-duplicate",85,2,"duplicated category","[[Category:2024年德國電影作品]]"]]

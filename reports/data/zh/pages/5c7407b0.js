@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",461,2,"[[Category:臺灣網路節目主持人|T邰]]"],[1,"no-ignored",215,3,"與"]]
+window.data=[["no-ignored",215,3,"containing invalid attribute","與"],["no-duplicate",461,2,"duplicated category","[[Category:臺灣網路節目主持人|T邰]]"],["no-duplicate",466,2,"duplicated category","[[Category:臺灣網路節目主持人|T邰]]"]]

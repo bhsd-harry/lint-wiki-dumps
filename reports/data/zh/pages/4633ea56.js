@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",140,472,"isbn = 0945466226 "],[2,"unmatched-tag",25,88,"<center>"]]
+window.data=[["unmatched-tag",25,88,"unclosed tag","<center>"],["unmatched-tag",25,251,"unclosed tag","<center>"],["no-duplicate",140,472,"duplicated parameter","isbn = 0945466226 "],["no-duplicate",140,625,"duplicated parameter"," isbn = 0945466-22-6 "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,2,"[[Category:科普作家]]"]]
+window.data=[["no-duplicate",19,2,"duplicated category","[[Category:科普作家]]"],["no-duplicate",22,2,"duplicated category","[[Category:科普作家]]"]]

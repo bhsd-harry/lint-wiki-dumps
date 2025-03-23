@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",18,67,"duplicated parameter"," caps7 = 1 "]]
+window.data=[["no-duplicate",18,67,"duplicated parameter"," caps7 = 1 "],["no-duplicate",19,57,"duplicated parameter"," caps7 = 0 "],["no-duplicate",18,79,"duplicated parameter"," goals7 = 0\n "],["no-duplicate",19,69,"duplicated parameter"," goals7 = 0\n <!-- BRASILEIRÃO APPS AND GOALS-->\n "]]

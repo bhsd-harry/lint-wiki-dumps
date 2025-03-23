@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",125,2,"[[Category:英格蘭足球聯賽球員]]"]]
+window.data=[["no-duplicate",125,2,"duplicated category","[[Category:英格蘭足球聯賽球員]]"],["no-duplicate",133,2,"duplicated category","[[Category:英格蘭足球聯賽球員]]"]]

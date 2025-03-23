@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",52,2,"[[Category:五大湖燈塔]]"]]
+window.data=[["no-duplicate",52,2,"duplicated category","[[Category:五大湖燈塔]]"],["no-duplicate",57,2,"duplicated category","[[Category:五大湖燈塔]]"],["no-duplicate",54,2,"duplicated category","[[Category:威斯康辛州燈塔]]"],["no-duplicate",59,2,"duplicated category","[[Category:威斯康辛州燈塔]]"]]

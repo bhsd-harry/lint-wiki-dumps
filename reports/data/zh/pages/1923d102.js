@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,2,"[[Category:倫敦饒舌歌手]]"]]
+window.data=[["no-duplicate",13,2,"duplicated category","[[Category:倫敦饒舌歌手]]"],["no-duplicate",17,2,"duplicated category","[[Category:倫敦饒舌歌手]]"]]

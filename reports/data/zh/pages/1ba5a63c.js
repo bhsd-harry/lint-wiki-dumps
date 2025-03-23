@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",86,79,"[[Treemapping|Treemap]]"]]
+window.data=[["nested-link",86,79,"internal link in an external link","[[Treemapping|Treemap]]"]]

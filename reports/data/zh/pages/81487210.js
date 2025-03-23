@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,3,"capacity=5000平方米\n "]]
+window.data=[["no-duplicate",22,3,"duplicated parameter","capacity=5000平方米\n "],["no-duplicate",23,3,"duplicated parameter"," capacity              = {{nts|300000}} 信徒\n "]]

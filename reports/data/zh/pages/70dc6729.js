@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,172,"[[Category:快速删除候选]]"]]
+window.data=[["no-duplicate",6,172,"duplicated category","[[Category:快速删除候选]]"],["no-duplicate",31,121,"duplicated category","[[Category:快速删除候选|共{{PAGENAME}}]]"]]

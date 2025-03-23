@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,25,"|海波因特 (北卡羅萊納州)"]]
+window.data=[["no-ignored",1,25,"useless link text","|海波因特 (北卡羅萊納州)"]]

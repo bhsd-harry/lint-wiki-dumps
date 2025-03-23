@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",56,1," [[File:AG Neovo X Series Display.jpg | thumb | 220x124px | right | alt= AG Neovo X Series Display |"]]
+window.data=[["no-ignored",56,1,"invalid content in <gallery>"," [[File:AG Neovo X Series Display.jpg | thumb | 220x124px | right | alt= AG Neovo X Series Display |"],["no-ignored",57,1,"invalid content in <gallery>"," AG Neovo X Series Display]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3,"religious_affiliation=[[台灣民間信仰]]\n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter","religious_affiliation=[[台灣民間信仰]]\n "],["no-duplicate",9,3,"duplicated parameter","religious_affiliation=[[台灣民間信仰]]\n "]]

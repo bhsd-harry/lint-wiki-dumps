@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",60,2,"[[Category:中国题材电影纪录片]]"]]
+window.data=[["no-duplicate",60,2,"duplicated category","[[Category:中国题材电影纪录片]]"],["no-duplicate",61,2,"duplicated category","[[Category:中国题材电影纪录片]]"]]

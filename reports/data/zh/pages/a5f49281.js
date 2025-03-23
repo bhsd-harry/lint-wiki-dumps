@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",236,15,";style=\"background-color:#D3D3D3\""]]
+window.data=[["no-ignored",236,15,"containing invalid attribute",";style=\"background-color:#D3D3D3\""],["no-ignored",713,15,"containing invalid attribute",";style=\"background-color:#FFE6BD\""]]

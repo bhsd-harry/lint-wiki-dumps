@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",277,151,"[[Raja Muda Muedzul Lail Tan Kiram of Sulu]]"]]
+window.data=[["nested-link",277,151,"internal link in an external link","[[Raja Muda Muedzul Lail Tan Kiram of Sulu]]"]]

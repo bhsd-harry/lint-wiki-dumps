@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",181,33,"心湖及表演區"]]
+window.data=[["no-duplicate",181,33,"duplicated image caption parameter","心湖及表演區"],["no-duplicate",181,46,"duplicated image caption parameter","三峽校本部"]]

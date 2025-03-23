@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",171,291,"name=\"intelltheory.com\""],[1,"no-ignored",171,314,"/<ref "],[1,"tag-like",171,315,"<ref"]]
+window.data=[["tag-like",171,315,"lonely \"<\"","<ref"],["no-ignored",171,314,"containing invalid attribute","/<ref "],["no-duplicate",171,291,"duplicated name attribute","name=\"intelltheory.com\""],["no-duplicate",171,320,"duplicated name attribute","name=Zojonc75"]]

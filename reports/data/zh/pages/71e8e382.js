@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",55,22,"2008"],[2,"unmatched-tag",55,4,"<cite id=refDavis 2008>"]]
+window.data=[["illegal-attr",55,22,"illegal attribute name","2008"],["unmatched-tag",55,4,"unclosed tag","<cite id=refDavis 2008>"],["unmatched-tag",56,4,"unclosed tag","<cite id=refScaruffi2003>"]]

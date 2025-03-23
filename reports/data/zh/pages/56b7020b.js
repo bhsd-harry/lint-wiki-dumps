@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",531,2,"[[Category:波兰纳粹集中营]]"]]
+window.data=[["no-duplicate",531,2,"duplicated category","[[Category:波兰纳粹集中营]]"],["no-duplicate",535,2,"duplicated category","[[Category:波兰纳粹集中营]]"]]

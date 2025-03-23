@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",44,670,"[[Mediterranean diet|Mediterranean Diet]]"]]
+window.data=[["nested-link",44,670,"internal link in an external link","[[Mediterranean diet|Mediterranean Diet]]"],["nested-link",44,748,"internal link in an external link","[[New England Journal of Medicine|NEJM]]"]]

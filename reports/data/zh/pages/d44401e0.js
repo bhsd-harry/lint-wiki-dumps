@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1013,16,"30em"]]
+window.data=[["no-duplicate",1013,16,"duplicated parameter","30em"],["no-duplicate",1013,21,"duplicated parameter","1=\n {{efn-lg|name=\"ASNZ\"|英国君主以新西兰君主的身份兼任库克群岛和纽埃的国家元首。其权利由[[国王代表]]（相当于总督）全权代表}}\n {{efn-lg|name=\"BA1\"|[[国际社会驻波黑高级代表]]作为[[代顿协议]]的监督员，不仅可以“对特定问题做出有约束力的决定，"]]

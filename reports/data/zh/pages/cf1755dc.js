@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",99,32,"Right"]]
+window.data=[["no-duplicate",99,32,"duplicated image caption parameter","Right"],["no-duplicate",99,44,"duplicated image caption parameter","夕陽下的柴油機車，攝於威廉斯。"]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",110,4," gold_POL = 0 "]]
+window.data=[["no-duplicate",110,4,"duplicated parameter"," gold_POL = 0 "],["no-duplicate",113,3,"duplicated parameter"," gold_POL = 0 "],["no-duplicate",110,19,"duplicated parameter"," silver_POL = 0 "],["no-duplicate",113,18,"duplicated parameter"," silver_POL = 0 "],["no-duplicate",110,36,"duplicated parameter"," bronze_POL = 2\n  "],["no-duplicate",113,35,"duplicated parameter"," bronze_POL = 1 "]]

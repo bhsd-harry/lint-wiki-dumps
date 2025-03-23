@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",72,4,"Madden"],[1,"no-ignored",72,10," (series)"]]
+window.data=[["illegal-attr",72,4,"illegal attribute name","Madden"],["no-ignored",72,10,"containing invalid attribute"," (series)"]]

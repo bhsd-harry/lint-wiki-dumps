@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,53," Location = center\n   "]]
+window.data=[["no-duplicate",6,53,"duplicated parameter"," Location = center\n   "],["no-duplicate",12,5,"duplicated parameter"," Location    = center\n   "]]

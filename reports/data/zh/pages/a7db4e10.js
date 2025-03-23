@@ -1,1 +1,1 @@
-window.data=[[3,"no-ignored",221,42,"  color:black; font-weight:bold;\"  "],[1,"unclosed-table",271,2,"{|"]]
+window.data=[["no-ignored",221,42,"containing invalid attribute","  color:black; font-weight:bold;\"  "],["no-ignored",272,42,"containing invalid attribute","  color:black; font-weight:bold;\"  "],["no-ignored",330,4,"containing invalid attribute","font-weight:bold\"  "],["unclosed-table",271,2,"unclosed table","{|"]]

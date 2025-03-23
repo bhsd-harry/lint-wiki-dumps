@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",429,2,"[[Category:中国好声音学员]]"],[1,"no-ignored",367,31,"  text-align:center;\""]]
+window.data=[["no-ignored",367,31,"containing invalid attribute","  text-align:center;\""],["no-duplicate",429,2,"duplicated category","[[Category:中国好声音学员]]"],["no-duplicate",434,2,"duplicated category","[[Category:中国好声音学员]]"]]

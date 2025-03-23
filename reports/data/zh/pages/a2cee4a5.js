@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",196,215,"[[Tourism in Bihar]]"],[1,"tag-like",104,172,"</ref"]]
+window.data=[["tag-like",104,172,"lonely \"<\"","</ref"],["nested-link",196,215,"internal link in an external link","[[Tourism in Bihar]]"],["nested-link",196,271,"internal link in an external link","[[Indian Government]]"]]

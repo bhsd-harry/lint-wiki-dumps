@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",123,2,"[[Category:區域主義 (國際關係)]]"]]
+window.data=[["no-duplicate",123,2,"duplicated category","[[Category:區域主義 (國際關係)]]"],["no-duplicate",133,2,"duplicated category","[[Category:區域主義 (國際關係)|大洋洲]]"],["no-duplicate",124,2,"duplicated category","[[Category:太平洋]]"],["no-duplicate",132,2,"duplicated category","[[Category:太平洋|組織]]"]]

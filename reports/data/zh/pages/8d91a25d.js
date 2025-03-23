@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",6,87,"[[Памятник природы|памятника природы]]"]]
+window.data=[["nested-link",6,87,"internal link in an external link","[[Памятник природы|памятника природы]]"]]

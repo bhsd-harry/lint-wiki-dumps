@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3,"1=zh-hans:网络;zh-hk:網絡;zh-tw:網路;\n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter","1=zh-hans:网络;zh-hk:網絡;zh-tw:網路;\n "],["no-duplicate",4,3,"duplicated parameter","1=zh-hans:通信流量;zh-hant:通訊量;\n "]]

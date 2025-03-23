@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",3,77,"{"],[3,"no-duplicate",3,77,"{{{link-en|纳里耳赫贝耳|Nahal Hever}}峡谷{link-en"]]
+window.data=[["lonely-bracket",3,77,"lonely \"{\"","{"],["lonely-bracket",3,139,"lonely \"}\"","}}"],["no-duplicate",3,77,"duplicated image caption parameter","{{{link-en|纳里耳赫贝耳|Nahal Hever}}峡谷{link-en"],["no-duplicate",3,119,"duplicated image caption parameter","书信洞穴"],["no-duplicate",3,124,"duplicated image caption parameter","Cave of Letters}}的房间钥匙，，[[耶路撒冷]]，[[以色列博物館]]，[[铁器时代]]"]]

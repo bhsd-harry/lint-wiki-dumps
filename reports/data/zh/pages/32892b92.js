@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,42,"thum欸欸"]]
+window.data=[["no-duplicate",5,42,"duplicated image caption parameter","thum欸欸"],["no-duplicate",5,55,"duplicated image caption parameter","[[乙酰丙酮]]的[[烯醇]]式结构借分子内氢键得以稳定"]]

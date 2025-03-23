@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",43,2,"[[Category:藝術與文學司令勳章得主]]"]]
+window.data=[["no-duplicate",43,2,"duplicated category","[[Category:藝術與文學司令勳章得主]]"],["no-duplicate",46,2,"duplicated category","[[Category:藝術與文學司令勳章得主]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",28,85,"name=\"新2\""],[1,"no-ignored",28,105,"/。除了军区的演出，八一剧场也承担着放映电影，接待地方大型文艺演出的任务ref "]]
+window.data=[["no-ignored",28,105,"containing invalid attribute","/。除了军区的演出，八一剧场也承担着放映电影，接待地方大型文艺演出的任务ref "],["no-duplicate",28,85,"duplicated name attribute","name=\"新2\""],["no-duplicate",28,145,"duplicated name attribute","name=\"戏曲志\""],["no-duplicate",28,96,"duplicated group attribute","group=\"新\""],["no-duplicate",28,157,"duplicated group attribute","group=\"书\""]]

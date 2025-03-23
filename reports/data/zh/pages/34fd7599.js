@@ -1,1 +1,1 @@
-window.data=[[1,"unbalanced-header",54,26,"="]]
+window.data=[["unbalanced-header",54,26,"unbalanced \"=\" in a section header","="]]

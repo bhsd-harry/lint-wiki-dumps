@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",157,7," style=\"font-size: 95%\""],[1,"unmatched-tag",157,2,"</div style=\"font-size: 95%\">"]]
+window.data=[["no-ignored",157,7,"attributes of a closing tag"," style=\"font-size: 95%\""],["unmatched-tag",157,2,"unmatched closing tag","</div style=\"font-size: 95%\">"]]

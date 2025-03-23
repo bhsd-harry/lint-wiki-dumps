@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",86,4,"Evidence"],[4,"no-ignored",86,12," (Tara "]]
+window.data=[["illegal-attr",86,4,"illegal attribute name","Evidence"],["illegal-attr",86,19,"illegal attribute name","MacLean"],["no-ignored",86,12,"containing invalid attribute"," (Tara "],["no-ignored",86,26,"containing invalid attribute"," EP)"],["illegal-attr",98,6,"illegal attribute name","Deeper"],["illegal-attr",98,19,"illegal attribute name","MacLean"],["no-ignored",98,12,"containing invalid attribute"," (Tara "],["no-ignored",98,26,"containing invalid attribute"," album)"]]

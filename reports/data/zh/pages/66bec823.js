@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,33,"220PX"]]
+window.data=[["no-duplicate",10,33,"duplicated image caption parameter","220PX"],["no-duplicate",10,45,"duplicated image caption parameter","[[布萊德·彼特]]2014年出席《[[怒火特攻隊]]》首映會"]]

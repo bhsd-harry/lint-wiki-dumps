@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",223,2,"[[分類:CYP2D6抑制劑]]"]]
+window.data=[["no-duplicate",223,2,"duplicated category","[[分類:CYP2D6抑制劑]]"],["no-duplicate",224,2,"duplicated category","[[分類:CYP2D6抑制劑]]"]]

@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-bracket",145,184,"}}"],[3,"no-ignored",47,56," = name\"反攻1\""]]
+window.data=[["no-ignored",47,56,"containing invalid attribute"," = name\"反攻1\""],["lonely-bracket",145,184,"lonely \"}\"","}}"],["lonely-bracket",145,442,"lonely \"}\"","}}"],["no-ignored",231,46,"containing invalid attribute","  |style=\"text-align:left\"| "],["no-ignored",251,46,"containing invalid attribute","  |style=\"text-align:left\"| "],["lonely-bracket",521,628,"lonely \"]\"","]]"]]

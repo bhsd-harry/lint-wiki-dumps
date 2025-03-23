@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",184,31,""]]
+window.data=[["no-duplicate",184,31,"duplicated parameter",""],["no-duplicate",184,32,"duplicated parameter","4=聲：[[小林優]]"]]

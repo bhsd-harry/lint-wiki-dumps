@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,3," attractions=梅林與惡龍之戰（Merlin vs. Dragon battle）\n "]]
+window.data=[["no-duplicate",16,3,"duplicated parameter"," attractions=梅林與惡龍之戰（Merlin vs. Dragon battle）\n "],["no-duplicate",18,3,"duplicated parameter"," attractions   = The Chelsea<br />Marquee Nightclub  &  Dayclub<br />Rose. Rabbit. Lie.\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",68,238,"[[限制級]]"]]
+window.data=[["nested-link",68,238,"internal link in an external link","[[限制級]]"],["nested-link",68,245,"internal link in an external link","[[哺乳]]"]]

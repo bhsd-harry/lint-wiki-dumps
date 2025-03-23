@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",45,2,"[[Category:法國廚師]]"]]
+window.data=[["no-duplicate",45,2,"duplicated category","[[Category:法國廚師]]"],["no-duplicate",46,2,"duplicated category","[[Category:法國廚師]]"]]

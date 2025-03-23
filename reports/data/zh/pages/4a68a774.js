@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",28,39,"300"]]
+window.data=[["no-duplicate",28,39,"duplicated image caption parameter","300"],["no-duplicate",28,43,"duplicated image caption parameter","榛原站在2015年引入車站編號後的車站牌。"],["no-duplicate",43,42,"duplicated image caption parameter","300"],["no-duplicate",43,46,"duplicated image caption parameter","閘口（2018年）"]]

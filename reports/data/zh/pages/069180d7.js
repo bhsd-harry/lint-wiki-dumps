@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",3,3," taxon = Pleocnemia \n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter"," taxon = Pleocnemia \n "],["no-duplicate",5,3,"duplicated parameter"," taxon = Pleocnemia\n "],["no-duplicate",4,3,"duplicated parameter"," authority = C.Presl\n "],["no-duplicate",6,3,"duplicated parameter"," authority = [[Carl Borivoj Presl|C.Presl]]\n "]]

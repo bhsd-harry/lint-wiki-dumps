@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,54,"duplicated image caption parameter","MOS Rail Tack near WKS Station 2014"]]
+window.data=[["no-duplicate",1,54,"duplicated image caption parameter","MOS Rail Tack near WKS Station 2014"],["no-duplicate",1,90,"duplicated image caption parameter","此廻旋處為試用其中一方式，分隔人、車、單車、火車，保持交通暢順"]]

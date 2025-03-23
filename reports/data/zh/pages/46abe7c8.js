@@ -1,1 +1,1 @@
-window.data=[[6,"no-ignored",42,3,"8月的歌曲之星"]]
+window.data=[["no-ignored",42,3,"containing invalid attribute","8月的歌曲之星"],["no-ignored",47,3,"containing invalid attribute","數位音樂本賞"],["no-ignored",52,3,"containing invalid attribute","最佳House &  電子音樂"],["no-ignored",58,3,"containing invalid attribute","本賞"],["no-ignored",62,3,"containing invalid attribute","年度歌曲"],["no-ignored",66,3,"containing invalid attribute","最佳舞蹈及電子歌曲"]]

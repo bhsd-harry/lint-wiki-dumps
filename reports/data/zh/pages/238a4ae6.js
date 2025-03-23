@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3," reign1 = 1470年10月30日 – 1471年4月11日\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter"," reign1 = 1470年10月30日 – 1471年4月11日\n "],["no-duplicate",14,3,"duplicated parameter","reign1 = 1445年4月23日&nbsp;– {{nowrap|1453年10月19日}}\n "]]

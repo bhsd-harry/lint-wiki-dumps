@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",62,5,"style=\"background:#FF79BC\""],[1,"no-ignored",61,21,"  “딱 걸렸네…” 필터빨 들켜서 강제로 쌩얼 공개된 '매드몬스터'"]]
+window.data=[["no-ignored",61,21,"containing invalid attribute","  “딱 걸렸네…” 필터빨 들켜서 강제로 쌩얼 공개된 '매드몬스터'"],["no-duplicate",62,5,"duplicated style attribute","style=\"background:#FF79BC\""],["no-duplicate",62,33,"duplicated style attribute","style=\"font-weight:bold;\""]]

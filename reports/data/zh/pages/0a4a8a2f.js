@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,3,"Type2     = 掸邦旧旗帜\n "]]
+window.data=[["no-duplicate",20,3,"duplicated parameter","Type2     = 掸邦旧旗帜\n "],["no-duplicate",26,3,"duplicated parameter","Type2     = 现在是政府旗（2004—）\n "]]

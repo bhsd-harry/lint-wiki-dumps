@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",113,1,"\n == 例行賽 ==\n {{multicol}}\n ===上半球季==="],[2,"illegal-attr",181,3,"width200"],[1,"unclosed-table",112,2,"{|"]]
+window.data=[["fostered-content",113,1,"content to be moved out from the table","\n == 例行賽 ==\n {{multicol}}\n ===上半球季==="],["unclosed-table",112,2,"unclosed table","{|"],["illegal-attr",181,3,"illegal attribute name","width200"],["illegal-attr",183,3,"illegal attribute name","width200"]]

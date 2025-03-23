@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",80,11,"[["],[1,"no-ignored",80,4,"1999年||[[台灣怪談-河邊春夢]] 吳珊珊"]]
+window.data=[["lonely-bracket",80,11,"lonely \"[\"","[["],["lonely-bracket",80,22,"lonely \"]\"","]]"],["no-ignored",80,4,"containing invalid attribute","1999年||[[台灣怪談-河邊春夢]] 吳珊珊"]]

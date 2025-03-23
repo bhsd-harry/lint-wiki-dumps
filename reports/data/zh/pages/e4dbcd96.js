@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",41,1," [[File:小瑞士|缩略图]]"]]
+window.data=[["no-ignored",41,1,"invalid content in <gallery>"," [[File:小瑞士|缩略图]]"]]

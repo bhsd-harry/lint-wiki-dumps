@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",17,47,"duplicated image caption parameter"," 2009 nî kì-"]]
+window.data=[["no-duplicate",17,47,"duplicated image caption parameter"," 2009 nî kì-"],["no-duplicate",17,60,"duplicated image caption parameter"," 2009 nî kì-"],["no-duplicate",17,73,"duplicated image caption parameter"," 2009 nî kì-"],["no-duplicate",17,86,"duplicated image caption parameter"," 2010 nî khai-sí"]]

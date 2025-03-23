@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",20,6221,"{{"],[2,"no-duplicate",248,1782,"name = Chevrier2007/。因此，如果粘土是在与火星大气层接触时所形成，特别是考虑到缺乏碳酸盐沉积的证据下，那么早期火星上稠密大气层的主要成分就变得不确定<ref"],[1,"tag-like",248,1866,"<ref"]]
+window.data=[["lonely-bracket",20,6221,"lonely \"{\"","{{"],["tag-like",248,1866,"lonely \"<\"","<ref"],["no-duplicate",248,1782,"duplicated name attribute","name = Chevrier2007/。因此，如果粘土是在与火星大气层接触时所形成，特别是考虑到缺乏碳酸盐沉积的证据下，那么早期火星上稠密大气层的主要成分就变得不确定<ref"],["no-duplicate",248,1871,"duplicated name attribute","name = Catling2007"]]

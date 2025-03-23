@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",32,251,"[[李嘉誠]]"],[2,"no-duplicate",221,547,"name=ref"]]
+window.data=[["nested-link",32,251,"internal link in an external link","[[李嘉誠]]"],["nested-link",32,259,"internal link in an external link","[[唐英年]]"],["no-duplicate",221,547,"duplicated name attribute","name=ref"],["no-duplicate",221,556,"duplicated name attribute","name=mp20121030"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,2,"[[Category:唐朝上柱国]]"]]
+window.data=[["no-duplicate",22,2,"duplicated category","[[Category:唐朝上柱国]]"],["no-duplicate",26,2,"duplicated category","[[Category:唐朝上柱国]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",22,2,"[[Category:波蘭管弦樂團]]"]]
+window.data=[["no-duplicate",22,2,"duplicated category","[[Category:波蘭管弦樂團]]"],["no-duplicate",29,2,"duplicated category","[[Category:波蘭管弦樂團]]"],["no-duplicate",23,2,"duplicated category","[[Category:華沙文化]]"],["no-duplicate",31,2,"duplicated category","[[Category:華沙文化]]"]]

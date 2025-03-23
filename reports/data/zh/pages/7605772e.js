@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",106,70,"https://"]]
+window.data=[["lonely-http",106,70,"lonely \"https://\"","https://"],["invalid-css",366,41,"semi-colon expected","95%"],["invalid-css",366,39,"colon expected","="],["invalid-css",429,41,"semi-colon expected","95%"],["invalid-css",429,39,"colon expected","="]]

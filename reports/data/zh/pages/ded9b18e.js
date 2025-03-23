@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,2,"[[Category:塞內加爾省份]]"]]
+window.data=[["no-duplicate",10,2,"duplicated category","[[Category:塞內加爾省份]]"],["no-duplicate",18,2,"duplicated category","[[Category:塞內加爾省份]]"]]

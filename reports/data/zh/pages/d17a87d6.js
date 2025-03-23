@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",54,2,"[[Category:美國社會名流]]"]]
+window.data=[["no-duplicate",54,2,"duplicated category","[[Category:美國社會名流]]"],["no-duplicate",56,2,"duplicated category","[[Category:美國社會名流]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",183,2,"[[Category:北區 (新竹市)]]"]]
+window.data=[["no-duplicate",183,2,"duplicated category","[[Category:北區 (新竹市)]]"],["no-duplicate",185,2,"duplicated category","[[Category:北區 (新竹市)]]"]]

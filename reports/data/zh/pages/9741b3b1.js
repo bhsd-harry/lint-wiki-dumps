@@ -1,1 +1,1 @@
-window.data=[[3,"fostered-content",129,1,"\n === [[以團之名|《以團之名》]]<big>表演曲目</big>  ==="],[2,"lonely-bracket",98,9,"[["]]
+window.data=[["lonely-bracket",98,9,"lonely \"[\"","[["],["lonely-bracket",98,11,"lonely \"]\"","]]"],["fostered-content",129,1,"content to be moved out from the table","\n === [[以團之名|《以團之名》]]<big>表演曲目</big>  ==="],["fostered-content",181,1,"content to be moved out from the table"," === 編舞 ==="],["fostered-content",218,1,"content to be moved out from the table"," === 2020年[[炙熱的我們|《炙熱的我們》]]<big>表演曲目</big>  ==="]]

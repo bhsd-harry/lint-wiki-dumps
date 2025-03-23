@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",43,23,"align:center"],[2,"no-duplicate",43,36,"style=\"font-size:90%\""]]
+window.data=[["illegal-attr",43,23,"illegal attribute name","align:center"],["no-duplicate",43,36,"duplicated style attribute","style=\"font-size:90%\""],["no-duplicate",43,69,"duplicated style attribute","style=\"text-align: center;\""],["illegal-attr",249,5,"illegal attribute name","bgcoalor"]]

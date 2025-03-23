@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,2,"[[Category:黄姑鱼属|元鼎黄姑鱼]]"]]
+window.data=[["no-duplicate",22,2,"duplicated category","[[Category:黄姑鱼属|元鼎黄姑鱼]]"],["no-duplicate",23,2,"duplicated category","[[Category:黄姑鱼属|chui]]"]]

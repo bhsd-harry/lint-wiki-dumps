@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,27,"Tilburg Station, 2005"]]
+window.data=[["no-duplicate",41,27,"duplicated image caption parameter","Tilburg Station, 2005"],["no-duplicate",41,49,"duplicated image caption parameter","蒂爾堡車站（2005年）"]]

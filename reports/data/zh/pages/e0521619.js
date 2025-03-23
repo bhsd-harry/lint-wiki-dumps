@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,17,"|打比 (消歧義)"]]
+window.data=[["no-ignored",1,17,"useless link text","|打比 (消歧義)"]]

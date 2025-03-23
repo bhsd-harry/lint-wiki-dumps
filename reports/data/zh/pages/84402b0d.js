@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",8,1," File:SieberOder.jpg]"]]
+window.data=[["no-ignored",8,1,"invalid content in <gallery>"," File:SieberOder.jpg]"]]

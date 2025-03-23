@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3,"transcription = Pheng Xat Lao\n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter","transcription = Pheng Xat Lao\n "],["no-duplicate",6,3,"duplicated parameter","transcription =\n "]]

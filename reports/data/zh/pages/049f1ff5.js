@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",137,2,"[[Category:1889年畫作|梵]]"]]
+window.data=[["no-duplicate",137,2,"duplicated category","[[Category:1889年畫作|梵]]"],["no-duplicate",139,2,"duplicated category","[[Category:1889年畫作]]"]]

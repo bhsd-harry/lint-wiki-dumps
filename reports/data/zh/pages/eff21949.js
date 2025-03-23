@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",212,67,"thumbtime=0:02"]]
+window.data=[["no-duplicate",212,67,"duplicated image caption parameter","thumbtime=0:02"],["no-duplicate",212,187,"duplicated image caption parameter","單獨一個月的[[天秤動]]"]]

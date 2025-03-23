@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",217,2,"[[Category:多重结局电子游戏]]"]]
+window.data=[["no-duplicate",217,2,"duplicated category","[[Category:多重结局电子游戏]]"],["no-duplicate",219,2,"duplicated category","[[Category:多重结局电子游戏]]"]]

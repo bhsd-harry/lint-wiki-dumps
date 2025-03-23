@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3,"duplicated parameter","familycolor=印歐語系\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter","familycolor=印歐語系\n "],["no-duplicate",7,3,"duplicated parameter","familycolor=印歐語系\n "]]

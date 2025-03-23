@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",73,1," File::Stonework at the Cathedral of Saint James in the Armenian Quarter of Jerusalem.jpg"]]
+window.data=[["no-ignored",73,1,"invalid content in <gallery>"," File::Stonework at the Cathedral of Saint James in the Armenian Quarter of Jerusalem.jpg"]]

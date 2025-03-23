@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",52,1," * 生活科学科 \n ** 生活学专攻\n ** 社会生活专攻\n ** 生活创造专攻\n ** 生活保健专攻\n ** 生活福利专攻\n * 保育科"]]
+window.data=[["fostered-content",52,1,"content to be moved out from the table"," * 生活科学科 \n ** 生活学专攻\n ** 社会生活专攻\n ** 生活创造专攻\n ** 生活保健专攻\n ** 生活福利专攻\n * 保育科"],["fostered-content",72,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]：前福山市立女子短期大学附属[[幼稚園|幼儿园]]、改名为福山市立大学附属[[幼稚園|幼儿园]]于2011年4月<ref name=\"短期大学的历史\"/>"]]

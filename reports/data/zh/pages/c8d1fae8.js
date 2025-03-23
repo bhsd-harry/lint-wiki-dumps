@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,4," web                  = www.co.waupaca.wi.us\n  "]]
+window.data=[["no-duplicate",17,4,"duplicated parameter"," web                  = www.co.waupaca.wi.us\n  "],["no-duplicate",24,4,"duplicated parameter"," web                  = www.cityofwaupaca.org/\n  "]]

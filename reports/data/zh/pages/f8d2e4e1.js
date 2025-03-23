@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",230,70,"rihgt"]]
+window.data=[["no-duplicate",230,70,"duplicated image caption parameter","rihgt"],["no-duplicate",230,76,"duplicated image caption parameter","《[[日本國憲法]]》描述的日本政府組織架構"]]

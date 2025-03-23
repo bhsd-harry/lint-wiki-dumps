@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",39,3,"兩個基本效用函數的例子"]]
+window.data=[["no-ignored",39,3,"containing invalid attribute","兩個基本效用函數的例子"]]

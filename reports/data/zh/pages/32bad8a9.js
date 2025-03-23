@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,45,"px"]]
+window.data=[["no-duplicate",1,45,"duplicated image caption parameter","px"],["no-duplicate",1,48,"duplicated image caption parameter","1889年所创作的绘图中显示了阿尔万·克拉克父子公司为[[利克天文台]]望远镜制作的36英寸（91厘米）物镜，该望远镜是由华纳-斯韦齐公司设计建造。"]]

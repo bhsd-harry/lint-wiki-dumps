@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",52,2,"[[Category:GNU計畫]]"]]
+window.data=[["no-duplicate",52,2,"duplicated category","[[Category:GNU計畫]]"],["no-duplicate",53,2,"duplicated category","[[Category:GNU計畫]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",79,2,"[[Category:1980年代背景電影]]"]]
+window.data=[["no-duplicate",79,2,"duplicated category","[[Category:1980年代背景電影]]"],["no-duplicate",87,2,"duplicated category","[[Category:1980年代背景電影]]"]]

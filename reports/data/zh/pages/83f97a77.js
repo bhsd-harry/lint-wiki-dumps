@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",58,3," related              = \n "]]
+window.data=[["no-duplicate",58,3,"duplicated parameter"," related              = \n "],["no-duplicate",63,3,"duplicated parameter"," related = 《[[新•蘇足]]》 \n "]]

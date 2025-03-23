@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",9,121,"[["],[1,"no-ignored",9,120,"征[[交趾郡"]]
+window.data=[["lonely-bracket",9,121,"lonely \"[\"","[["],["no-ignored",9,120,"invalid conversion flag","征[[交趾郡"]]

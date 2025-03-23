@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,3," based_on           = \n "]]
+window.data=[["no-duplicate",17,3,"duplicated parameter"," based_on           = \n "],["no-duplicate",21,3,"duplicated parameter"," based_on           = {{based_on|《{{tsl|th|เล่ห์ลับสลับร่าง|换错身爱对人 (小说)|换错身爱对人}}》|Nora-in小说}}\n "]]

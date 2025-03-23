@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,2,"[[Category:陕西的州]]"]]
+window.data=[["no-duplicate",8,2,"duplicated category","[[Category:陕西的州]]"],["no-duplicate",9,2,"duplicated category","[[Category:陕西的州]]"]]

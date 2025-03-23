@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",24,27,"name"]]
+window.data=[["no-duplicate",24,27,"duplicated name attribute","name"],["no-duplicate",24,32,"duplicated name attribute","name=\"oral-OT-T\""]]

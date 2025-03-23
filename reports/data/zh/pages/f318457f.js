@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",467,21,"'"],[2,"lonely-bracket",43,110,"]"],[1,"unmatched-tag",415,24,"</small>"]]
+window.data=[["lonely-bracket",43,110,"lonely \"]\"","]"],["lonely-bracket",44,2,"lonely \"[\"","["],["invalid-css",269,40,"semi-colon expected",""],["unmatched-tag",415,24,"unmatched closing tag","</small>"],["lonely-apos",467,21,"lonely \"'\"","'"]]

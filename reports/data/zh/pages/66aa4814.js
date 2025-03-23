@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",481,85,"}}"],[2,"no-duplicate",648,51,"road connection={{中国国道名|234}}"]]
+window.data=[["lonely-bracket",481,85,"lonely \"}\"","}}"],["no-duplicate",648,51,"duplicated parameter","road connection={{中国国道名|234}}"],["no-duplicate",648,81,"duplicated parameter","road connection=西平北路"]]

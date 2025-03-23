@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,2,"[[Category:愛爾蘭男爵]]"]]
+window.data=[["no-duplicate",25,2,"duplicated category","[[Category:愛爾蘭男爵]]"],["no-duplicate",28,2,"duplicated category","[[Category:愛爾蘭男爵]]"]]

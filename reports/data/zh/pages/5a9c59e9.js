@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",120,87,"thumb"],[3,"nested-link",12,293,"[[インスタグラム]]"]]
+window.data=[["nested-link",12,293,"internal link in an external link","[[インスタグラム]]"],["nested-link",12,864,"internal link in an external link","[[スイーツ]]"],["nested-link",12,872,"internal link in an external link","[[スタンプラリー]]"],["invalid-gallery",120,87,"invalid image parameter","thumb"]]

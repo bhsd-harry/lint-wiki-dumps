@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,2,"[[Category:美國電視編劇]]"]]
+window.data=[["no-duplicate",27,2,"duplicated category","[[Category:美國電視編劇]]"],["no-duplicate",28,2,"duplicated category","[[Category:美國電視編劇]]"]]

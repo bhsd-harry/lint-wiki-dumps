@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",83,694,"}}"],[2,"no-duplicate",268,2,"[[Category:德国王室]]"]]
+window.data=[["lonely-bracket",83,694,"lonely \"}\"","}}"],["no-duplicate",268,2,"duplicated category","[[Category:德国王室]]"],["no-duplicate",279,2,"duplicated category","[[Category:德国王室]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",432,189,"{{"],[2,"no-duplicate",395,70,"upleft=0.5"]]
+window.data=[["no-duplicate",395,70,"duplicated image caption parameter","upleft=0.5"],["no-duplicate",395,81,"duplicated image caption parameter","不同尺寸大小的釜。"],["lonely-bracket",432,189,"lonely \"{\"","{{"],["lonely-bracket",432,196,"lonely \"}\"","}}"],["lonely-bracket",432,344,"lonely \"{\"","{{"],["lonely-bracket",432,351,"lonely \"}\"","}}"]]

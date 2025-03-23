@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",119,53,"width:70%;text-align: center;\""],[1,"unclosed-table",119,2,"{|"]]
+window.data=[["invalid-css",119,52,"term expected",""],["no-ignored",119,53,"containing invalid attribute","width:70%;text-align: center;\""],["unclosed-table",119,2,"unclosed table","{|"]]

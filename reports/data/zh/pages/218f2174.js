@@ -1,1 +1,1 @@
-window.data=[[3,"invalid-gallery",150,31,"thumb"],[2,"pipe-like",366,30,"|| 7"]]
+window.data=[["invalid-gallery",150,31,"invalid image parameter","thumb"],["invalid-gallery",150,37,"invalid image parameter","right"],["invalid-gallery",153,32,"invalid image parameter","thumb"],["pipe-like",366,30,"additional \"|\" in a table cell","|| 7"],["pipe-like",367,26,"additional \"|\" in a table cell","||"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",4,48,"Right"]]
+window.data=[["no-duplicate",4,48,"duplicated image caption parameter","Right"],["no-duplicate",4,60,"duplicated image caption parameter","階梯上的龍形石雕"],["no-duplicate",8,36,"duplicated image caption parameter","Right"],["no-duplicate",8,48,"duplicated image caption parameter","藍京的一座宮殿"]]

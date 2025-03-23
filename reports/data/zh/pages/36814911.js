@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",61,63,"website=[[游侠网]] "]]
+window.data=[["no-duplicate",61,63,"duplicated parameter","website=[[游侠网]] "],["no-duplicate",61,153,"duplicated parameter","website=[[游侠网]]"]]

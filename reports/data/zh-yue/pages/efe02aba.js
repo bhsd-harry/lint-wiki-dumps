@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3,"duplicated parameter"," Name = 氧化銫\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter"," Name = 氧化銫\n "],["no-duplicate",6,3,"duplicated parameter"," Name = Caesium oxide\n "]]

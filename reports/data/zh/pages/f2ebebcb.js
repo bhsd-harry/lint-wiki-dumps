@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",10,5,"colspan"],[2,"no-ignored",10,16,"|style=\"vertical-align: top;\""]]
+window.data=[["illegal-attr",10,5,"illegal attribute name","colspan"],["no-ignored",10,16,"containing invalid attribute","|style=\"vertical-align: top;\""],["illegal-attr",12,5,"illegal attribute name","colspan"],["no-ignored",12,16,"containing invalid attribute","|style=\"vertical-align: top;\""]]

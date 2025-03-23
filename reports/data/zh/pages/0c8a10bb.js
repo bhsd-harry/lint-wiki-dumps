@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",43,14,"table"],[1,"no-ignored",74,22,"{{Bangkok MRT color|MRT Blue}};\""]]
+window.data=[["illegal-attr",43,14,"illegal attribute name","table"],["invalid-css",74,21,"semi-colon expected",""],["invalid-css",74,21,"colon expected",""],["no-ignored",74,22,"containing invalid attribute","{{Bangkok MRT color|MRT Blue}};\""]]

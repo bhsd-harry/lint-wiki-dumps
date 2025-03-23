@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,2,"[[Category:俄羅斯政治學家]]"]]
+window.data=[["no-duplicate",16,2,"duplicated category","[[Category:俄羅斯政治學家]]"],["no-duplicate",19,2,"duplicated category","[[Category:俄羅斯政治學家]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",116,2,"[[Category:马来西亚电视剧|F]]"]]
+window.data=[["no-duplicate",116,2,"duplicated category","[[Category:马来西亚电视剧|F]]"],["no-duplicate",123,2,"duplicated category","[[Category:马来西亚电视剧]]"]]

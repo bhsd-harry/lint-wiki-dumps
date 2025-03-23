@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",98,46,"border-top:solid"],[1,"no-ignored",98,66," gray;\"  "]]
+window.data=[["invalid-css",98,45,"semi-colon expected",""],["invalid-css",98,44,"colon expected","="],["illegal-attr",98,46,"illegal attribute name","border-top:solid"],["illegal-attr",98,63,"illegal attribute name","1px"],["no-ignored",98,66,"containing invalid attribute"," gray;\"  "]]

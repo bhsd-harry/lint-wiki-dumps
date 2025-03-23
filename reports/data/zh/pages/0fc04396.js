@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",96,2,"[[Category:方程]]"]]
+window.data=[["no-duplicate",96,2,"duplicated category","[[Category:方程]]"],["no-duplicate",99,2,"duplicated category","[[Category:方程]]"]]

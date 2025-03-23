@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,55,"Right"]]
+window.data=[["no-duplicate",18,55,"duplicated image caption parameter","Right"],["no-duplicate",18,61,"duplicated image caption parameter","成立於1852年,位於美利堅聯邦[[德州]][[休斯頓]]的前麥斯威爾工廠"]]

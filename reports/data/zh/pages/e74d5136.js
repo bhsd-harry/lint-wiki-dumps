@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,3," successor3 = [[陳添枝]]\n "]]
+window.data=[["no-duplicate",14,3,"duplicated parameter"," successor3 = [[陳添枝]]\n "],["no-duplicate",20,3,"duplicated parameter"," successor3 = [[黃營杉]]\n "]]

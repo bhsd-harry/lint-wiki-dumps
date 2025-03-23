@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",15,24,"span"],[4,"no-duplicate",15,29,"style=\"font-size:90%\""]]
+window.data=[["illegal-attr",15,24,"illegal attribute name","span"],["no-duplicate",15,29,"duplicated style attribute","style=\"font-size:90%\""],["no-duplicate",15,52,"duplicated style attribute","style='width: 100%;'"],["illegal-attr",79,24,"illegal attribute name","span"],["no-duplicate",79,29,"duplicated style attribute","style=\"font-size:70%\""],["no-duplicate",79,52,"duplicated style attribute","style='width: 100%;'"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",140,85,"17:25"],[1,"no-ignored",89,166,"<span style=\"color:orange;\">'''11:45'''</span>"],[2,"parsing-order",89,166,"<span style=\"color:orange;\">"]]
+window.data=[["parsing-order",89,166,"HTML tag in table attributes","<span style=\"color:orange;\">"],["parsing-order",89,205,"HTML tag in table attributes","</span>"],["no-ignored",89,166,"containing invalid attribute","<span style=\"color:orange;\">'''11:45'''</span>"],["illegal-attr",140,85,"illegal attribute name","17:25"]]

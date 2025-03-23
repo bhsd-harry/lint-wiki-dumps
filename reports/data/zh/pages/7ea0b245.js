@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",42,2,"[[Category:池州历史|G]]"]]
+window.data=[["no-duplicate",42,2,"duplicated category","[[Category:池州历史|G]]"],["no-duplicate",46,2,"duplicated category","[[Category:池州历史]]"]]

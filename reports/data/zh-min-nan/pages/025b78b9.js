@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",73,46,"duplicated image caption parameter","替代文字"]]
+window.data=[["no-duplicate",73,46,"duplicated image caption parameter","替代文字"],["no-duplicate",73,54,"duplicated image caption parameter","Tiong-hôa Bîn-kok ê kok-kî"]]

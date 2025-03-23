@@ -1,1 +1,1 @@
-window.data=[[3,"no-ignored",5,31," =\"Johnny's net\""]]
+window.data=[["no-ignored",5,31,"containing invalid attribute"," =\"Johnny's net\""],["no-ignored",18,40,"containing invalid attribute"," =\"Johnny's net\""],["no-ignored",33,13,"containing invalid attribute"," =\"Johnny's net\""]]

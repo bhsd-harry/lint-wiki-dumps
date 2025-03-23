@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",398,2,"[[Category:超人力霸王迪迦]]"]]
+window.data=[["no-duplicate",398,2,"duplicated category","[[Category:超人力霸王迪迦]]"],["no-duplicate",403,2,"duplicated category","[[Category:超人力霸王迪迦]]"]]

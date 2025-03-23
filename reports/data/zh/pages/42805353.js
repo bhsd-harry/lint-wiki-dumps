@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,47,"=An ocean triggerfish, ''Canthidermis sufflamen'', on display at the New England Aquarium in October 2023.  Note the distinguishing black mark at the "]]
+window.data=[["no-duplicate",15,47,"duplicated image caption parameter","=An ocean triggerfish, ''Canthidermis sufflamen'', on display at the New England Aquarium in October 2023.  Note the distinguishing black mark at the "],["no-duplicate",15,223,"duplicated image caption parameter","一尾大洋疣鱗魨在[[新英格蘭]]水族館被展示"]]

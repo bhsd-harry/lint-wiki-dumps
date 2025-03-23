@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,96,"'"]]
+window.data=[["no-duplicate",18,96,"duplicated image caption parameter","'"],["no-duplicate",18,98,"duplicated image caption parameter","《[[地狱之门 (雕塑)|地獄之門]]》的门饰群雕"]]

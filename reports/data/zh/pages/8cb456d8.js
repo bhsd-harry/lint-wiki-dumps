@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",40,2,"[[Category:伦敦巴士线路]]"]]
+window.data=[["no-duplicate",40,2,"duplicated category","[[Category:伦敦巴士线路]]"],["no-duplicate",45,2,"duplicated category","[[Category:伦敦巴士线路]]"],["no-duplicate",42,2,"duplicated category","[[Category:刘易舍姆区交通]]"],["no-duplicate",47,2,"duplicated category","[[Category:刘易舍姆区交通]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",23,38,"Preproghrelin 1P7X"]]
+window.data=[["no-duplicate",23,38,"duplicated image caption parameter","Preproghrelin 1P7X"],["no-duplicate",23,63,"duplicated image caption parameter","前飢餓素原(藍色和綠色的部分)及飢餓素(綠色部分)"],["no-duplicate",23,32,"conflicting image frame parameter","thumb"],["no-duplicate",23,57,"conflicting image frame parameter","frame"]]

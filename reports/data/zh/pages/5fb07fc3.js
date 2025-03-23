@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,82,"Sh=功明公<br>[[王寿]]"]]
+window.data=[["no-duplicate",32,82,"duplicated parameter","Sh=功明公<br>[[王寿]]"],["no-duplicate",32,144,"duplicated parameter","Sh=功昭公<br>[[王世]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",38,2,"[[Category:住房合作社| ]]"]]
+window.data=[["no-duplicate",38,2,"duplicated category","[[Category:住房合作社| ]]"],["no-duplicate",41,2,"duplicated category","[[Category:住房合作社| ]]"]]

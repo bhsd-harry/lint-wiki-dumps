@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",974,2,"duplicated category","[[Category:美國詞曲作家]]"]]
+window.data=[["no-duplicate",974,2,"duplicated category","[[Category:美國詞曲作家]]"],["no-duplicate",975,2,"duplicated category","[[Category:美國詞曲作家]]"]]

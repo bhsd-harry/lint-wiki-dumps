@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",65,1," *{{flag|Philippines}} "],[1,"unmatched-tag",74,2,"<sub>"]]
+window.data=[["fostered-content",65,1,"content to be moved out from the table"," *{{flag|Philippines}} "],["fostered-content",69,1,"content to be moved out from the table"," *{{flag|Brunei}}\n *{{flag|Myanmar}}"],["unmatched-tag",74,2,"unclosed tag","<sub>"]]

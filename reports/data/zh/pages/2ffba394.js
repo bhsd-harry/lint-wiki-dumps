@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3,"logo=[[File:Qatar Airways Airbus A350-1000.jpg | thumb | right]]\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","logo=[[File:Qatar Airways Airbus A350-1000.jpg | thumb | right]]\n "],["no-duplicate",11,3,"duplicated parameter"," logo = Qatar Airways Logo.svg\n "]]

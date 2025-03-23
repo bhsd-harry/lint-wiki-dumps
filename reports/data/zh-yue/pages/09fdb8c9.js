@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",45,27,"duplicated image caption parameter","縮圖"]]
+window.data=[["no-duplicate",45,27,"duplicated image caption parameter","縮圖"],["no-duplicate",45,42,"duplicated image caption parameter","新市中心「[[莫斯科城]]」"]]

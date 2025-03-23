@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",85,21,"margin"],[4,"no-duplicate",24,3," leader_title           = 摄政\n "]]
+window.data=[["no-duplicate",24,3,"duplicated parameter"," leader_title           = 摄政\n "],["no-duplicate",26,3,"duplicated parameter"," leader_title           = 副摄政\n "],["no-duplicate",25,3,"duplicated parameter"," leader_name            = Drs. H. Syahrir Wahab, MM\n "],["no-duplicate",27,3,"duplicated parameter"," leader_name            = H. Saiful Arief, SH\n "],["illegal-attr",85,21,"illegal attribute name","margin"]]

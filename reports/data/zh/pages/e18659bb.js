@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",209,102,"droite"]]
+window.data=[["no-duplicate",209,102,"duplicated image caption parameter","droite"],["no-duplicate",209,109,"duplicated image caption parameter","[[拿破仑三世]]向[[喬治-歐仁·奧斯曼|奥斯曼男爵]]下达将郊区市镇并入巴黎的法令（1860）"]]

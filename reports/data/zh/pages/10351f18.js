@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",94,4,"rowspan"],[1,"no-ignored",94,15,"|1996年"]]
+window.data=[["illegal-attr",94,4,"illegal attribute name","rowspan"],["no-ignored",94,15,"containing invalid attribute","|1996年"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,54,"德軍野犬2型，部署於阿富汗Image:ATF Dingo 2 mit BÜR.jpg"]]
+window.data=[["no-duplicate",65,54,"duplicated image caption parameter","德軍野犬2型，部署於阿富汗Image:ATF Dingo 2 mit BÜR.jpg"],["no-duplicate",65,97,"duplicated image caption parameter","裝有地面監視雷達(BÜR)的德軍野犬2型"]]

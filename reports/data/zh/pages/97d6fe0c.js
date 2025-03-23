@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",74,74,"Remus and the Cattle Thieves (attributed to one or more of the Carraccis)"]]
+window.data=[["no-duplicate",74,74,"duplicated image caption parameter","Remus and the Cattle Thieves (attributed to one or more of the Carraccis)"],["no-duplicate",74,153,"duplicated image caption parameter","罗穆卢斯杀死瑞摩斯"]]

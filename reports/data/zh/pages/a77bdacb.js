@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",775,1," -"],[1,"nested-link",834,58,"[[國際滑冰聯盟]]"]]
+window.data=[["fostered-content",775,1,"content to be moved out from the table"," -"],["nested-link",834,58,"internal link in an external link","[[國際滑冰聯盟]]"]]

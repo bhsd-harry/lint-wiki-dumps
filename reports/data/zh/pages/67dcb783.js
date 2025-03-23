@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",48,2,"[[Category:文化部門]]"]]
+window.data=[["no-duplicate",48,2,"duplicated category","[[Category:文化部門]]"],["no-duplicate",49,2,"duplicated category","[[Category:文化部門]]"]]

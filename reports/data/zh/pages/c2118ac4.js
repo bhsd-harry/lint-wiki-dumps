@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,3," series = [[三星Galaxy Z系列]]\n "]]
+window.data=[["no-duplicate",18,3,"duplicated parameter"," series = [[三星Galaxy Z系列]]\n "],["no-duplicate",20,3,"duplicated parameter"," series = Galaxy Foldables\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,430,"work=今周刊"]]
+window.data=[["no-duplicate",33,430,"duplicated parameter","work=今周刊"],["no-duplicate",33,474,"duplicated parameter","work=www.businesstoday.com.tw"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",86,119,"[[Göttingen State and University Library]]"]]
+window.data=[["nested-link",86,119,"internal link in an external link","[[Göttingen State and University Library]]"]]

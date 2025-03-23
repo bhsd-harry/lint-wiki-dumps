@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3,"battles = [[西班牙内战]]\n <!-- Related articles -->\n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter","battles = [[西班牙内战]]\n <!-- Related articles -->\n "],["no-duplicate",15,3,"duplicated parameter"," battles            = [[Sanjurjada]]<br />[[Revolution of 1934]]<br />[[Spanish Civil War]]\n "]]

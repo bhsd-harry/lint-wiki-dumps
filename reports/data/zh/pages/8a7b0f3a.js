@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",76,33,"font"],[2,"unmatched-tag",111,43,"</font>"]]
+window.data=[["illegal-attr",76,33,"illegal attribute name","font"],["unmatched-tag",111,43,"unmatched closing tag","</font>"],["unmatched-tag",111,50,"unclosed tag","<font size=\"2\">"]]

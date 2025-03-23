@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",17,2,"[[Category:阿拉伯语词汇]]"]]
+window.data=[["no-duplicate",17,2,"duplicated category","[[Category:阿拉伯语词汇]]"],["no-duplicate",21,2,"duplicated category","[[Category:阿拉伯语词汇]]"],["no-duplicate",18,2,"duplicated category","[[Category:伊斯蘭教術語]]"],["no-duplicate",22,2,"duplicated category","[[Category:伊斯蘭教術語]]"],["no-duplicate",19,2,"duplicated category","[[Category:社會學術語]]"],["no-duplicate",23,2,"duplicated category","[[Category:社會學術語]]"]]

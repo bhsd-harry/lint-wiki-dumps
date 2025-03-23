@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",89,2,"[[Category:美国灯塔]]"]]
+window.data=[["no-duplicate",89,2,"duplicated category","[[Category:美国灯塔]]"],["no-duplicate",91,2,"duplicated category","[[Category:美国灯塔]]"],["no-duplicate",90,2,"duplicated category","[[Category:阿爾卡特拉斯島]]"],["no-duplicate",92,2,"duplicated category","[[Category:阿爾卡特拉斯島]]"]]

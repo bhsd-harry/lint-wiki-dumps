@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",25,3,"海外推出國家={{MYS}} [[Astro AOD]]\n "]]
+window.data=[["no-duplicate",25,3,"duplicated parameter","海外推出國家={{MYS}} [[Astro AOD]]\n "],["no-duplicate",28,3,"duplicated parameter","海外推出國家={{SIN}} [[新傳媒8頻道]]\n "],["no-duplicate",26,3,"duplicated parameter","海外推出日期=2022年12月26日－2023年1月20日\n "],["no-duplicate",29,3,"duplicated parameter","海外推出日期=2024年5月22日－2024年7月16日\n "],["no-duplicate",27,3,"duplicated parameter","海外播出時間=逢星期一至五 20:30－21:30\n "],["no-duplicate",30,3,"duplicated parameter","海外播出時間=逢星期一至五 19:30－20:00\n "]]

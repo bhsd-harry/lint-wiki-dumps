@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",84,2,"[[Category:BABYMONSTER成員]]"]]
+window.data=[["no-duplicate",84,2,"duplicated category","[[Category:BABYMONSTER成員]]"],["no-duplicate",86,2,"duplicated category","[[Category:BABYMONSTER成員]]"]]

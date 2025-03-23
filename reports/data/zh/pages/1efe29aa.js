@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",167,2,"[[Category:月球環形山]]"]]
+window.data=[["no-duplicate",167,2,"duplicated category","[[Category:月球環形山]]"],["no-duplicate",168,2,"duplicated category","[[Category:月球環形山|Z]]"],["no-duplicate",169,2,"duplicated category","[[Category:月球環形山|C]]"]]

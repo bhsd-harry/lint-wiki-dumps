@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",123,2,"[[Category:勇氣勳章獲得者]]"]]
+window.data=[["no-duplicate",123,2,"duplicated category","[[Category:勇氣勳章獲得者]]"],["no-duplicate",125,2,"duplicated category","[[Category:勇氣勳章獲得者]]"]]

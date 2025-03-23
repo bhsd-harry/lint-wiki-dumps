@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,2,"[[Category:江苏作家]]"]]
+window.data=[["no-duplicate",19,2,"duplicated category","[[Category:江苏作家]]"],["no-duplicate",21,2,"duplicated category","[[Category:江苏作家]]"]]

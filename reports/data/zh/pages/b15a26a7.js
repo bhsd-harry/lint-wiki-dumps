@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",37,1," [[file:Double_diminished_icosahedron_net.png|200px]]"]]
+window.data=[["fostered-content",37,1,"content to be moved out from the table"," [[file:Double_diminished_icosahedron_net.png|200px]]"]]

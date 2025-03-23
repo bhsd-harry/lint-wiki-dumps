@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",140,2,"[[Category:2016年俄羅斯]]"]]
+window.data=[["no-duplicate",140,2,"duplicated category","[[Category:2016年俄羅斯]]"],["no-duplicate",147,2,"duplicated category","[[Category:2016年俄羅斯]]"],["no-duplicate",142,2,"duplicated category","[[Category:俄羅斯信息審查]]"],["no-duplicate",149,2,"duplicated category","[[Category:俄羅斯信息審查]]"],["no-duplicate",144,2,"duplicated category","[[Category:互聯網存取]]"],["no-duplicate",151,2,"duplicated category","[[Category:互聯網存取]]"]]

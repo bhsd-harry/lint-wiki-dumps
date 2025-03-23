@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",131,2,"[[Category:種族主義題材電影]]"]]
+window.data=[["no-duplicate",131,2,"duplicated category","[[Category:種族主義題材電影]]"],["no-duplicate",134,2,"duplicated category","[[Category:種族主義題材電影]]"],["no-duplicate",132,2,"duplicated category","[[Category:美國科幻片]]"],["no-duplicate",136,2,"duplicated category","[[Category:美國科幻片]]"]]

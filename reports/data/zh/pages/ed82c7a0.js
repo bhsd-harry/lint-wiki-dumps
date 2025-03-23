@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,29,"|這樣的愛（泰勒絲全新版）"]]
+window.data=[["no-ignored",1,29,"useless link text","|這樣的愛（泰勒絲全新版）"]]

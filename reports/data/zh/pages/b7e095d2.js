@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",50,2,"[[Category:荷蘭共和國圍城戰]]"]]
+window.data=[["no-duplicate",50,2,"duplicated category","[[Category:荷蘭共和國圍城戰]]"],["no-duplicate",53,2,"duplicated category","[[Category:荷蘭共和國圍城戰]]"]]

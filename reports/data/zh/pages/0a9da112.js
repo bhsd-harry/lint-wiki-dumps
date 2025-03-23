@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",39,612,"author=謝靜雯"]]
+window.data=[["no-duplicate",39,612,"duplicated parameter","author=謝靜雯"],["no-duplicate",39,723,"duplicated parameter","author=謝靜雯"]]

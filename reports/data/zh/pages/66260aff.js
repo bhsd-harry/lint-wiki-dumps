@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",418,2,"[[Category:2010年代特攝作品]]"]]
+window.data=[["no-duplicate",418,2,"duplicated category","[[Category:2010年代特攝作品]]"],["no-duplicate",426,2,"duplicated category","[[Category:2010年代特攝作品]]"],["no-duplicate",420,2,"duplicated category","[[Category:變身女主角]]"],["no-duplicate",428,2,"duplicated category","[[Category:變身女主角]]"],["no-duplicate",421,2,"duplicated category","[[Category:東京電視台特攝節目]]"],["no-duplicate",429,2,"duplicated category","[[Category:東京電視台特攝節目]]"]]

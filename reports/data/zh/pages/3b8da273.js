@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",4,3,"zh-cn:意外的旅客;zh-my:意外的旅客;zh-sg:逆旅过客;zh-hk:稀客;zh-mo:稀客;zh-tw:意外的旅客;\n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter","zh-cn:意外的旅客;zh-my:意外的旅客;zh-sg:逆旅过客;zh-hk:稀客;zh-mo:稀客;zh-tw:意外的旅客;\n "],["no-duplicate",3,3,"duplicated parameter","1=zh-hans:厘米;zh-hant:釐米\n "],["no-duplicate",1227,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["no-duplicate",1228,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"]]

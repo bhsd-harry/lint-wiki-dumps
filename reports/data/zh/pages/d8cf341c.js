@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",76,289,"[[Category:包含ODNB來源的維基百科條目]]"]]
+window.data=[["no-duplicate",76,289,"duplicated category","[[Category:包含ODNB來源的維基百科條目]]"],["no-duplicate",77,289,"duplicated category","[[Category:包含ODNB來源的維基百科條目]]"],["no-duplicate",78,281,"duplicated category","[[Category:包含ODNB來源的維基百科條目]]"]]

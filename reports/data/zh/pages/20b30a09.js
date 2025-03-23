@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",64,2,"[[Category:CJK]]"]]
+window.data=[["no-duplicate",64,2,"duplicated category","[[Category:CJK]]"],["no-duplicate",80,2,"duplicated category","[[Category:CJK]]"]]

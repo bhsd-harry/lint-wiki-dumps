@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",28,2,"[[Category:體育題材電視劇]]"]]
+window.data=[["no-duplicate",28,2,"duplicated category","[[Category:體育題材電視劇]]"],["no-duplicate",31,2,"duplicated category","[[Category:體育題材電視劇]]"],["no-duplicate",29,2,"duplicated category","[[Category:改編自日本漫畫的日本電視劇]]"],["no-duplicate",32,2,"duplicated category","[[Category:改編自日本漫畫的日本電視劇]]"]]

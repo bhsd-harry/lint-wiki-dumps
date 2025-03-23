@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,57,"width=200px"]]
+window.data=[["no-duplicate",1,57,"duplicated image caption parameter","width=200px"],["no-duplicate",1,83,"duplicated image caption parameter","[[尼科西亚]]中央监狱的绞刑架，现已成为博物馆(2006年)"]]

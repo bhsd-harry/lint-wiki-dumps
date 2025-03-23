@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",159,2,"[[Category:运动型多用途车]]"]]
+window.data=[["no-duplicate",159,2,"duplicated category","[[Category:运动型多用途车]]"],["no-duplicate",161,2,"duplicated category","[[Category:运动型多用途车]]"]]

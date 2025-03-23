@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",77,22,"巴縣羅漢寺吳皋過灘舟夜重慶三詩碑"]]
+window.data=[["no-duplicate",77,22,"duplicated image caption parameter","巴縣羅漢寺吳皋過灘舟夜重慶三詩碑"],["no-duplicate",77,39,"duplicated image caption parameter","巴縣羅漢寺吳皋過灘舟夜重慶三詩碑"]]

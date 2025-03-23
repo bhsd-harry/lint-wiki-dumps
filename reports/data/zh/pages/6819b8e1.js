@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",107,2,"[[Category:東京都都市更新地區]]"]]
+window.data=[["no-duplicate",107,2,"duplicated category","[[Category:東京都都市更新地區]]"],["no-duplicate",111,2,"duplicated category","[[Category:東京都都市更新地區]]"]]

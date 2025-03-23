@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",61,2,"[[Category:1999年出生]]"]]
+window.data=[["no-duplicate",61,2,"duplicated category","[[Category:1999年出生]]"],["no-duplicate",68,2,"duplicated category","[[Category:1999年出生]]"],["no-duplicate",63,2,"duplicated category","[[Category:台灣詩人]]"],["no-duplicate",70,2,"duplicated category","[[Category:台灣詩人]]"],["no-duplicate",65,2,"duplicated category","[[Category:21世紀臺灣詩人|林]]"],["no-duplicate",72,2,"duplicated category","[[Category:21世紀臺灣詩人|林]]"]]

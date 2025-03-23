@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,2,"[[Category:阿拉伯字母]]"]]
+window.data=[["no-duplicate",17,2,"duplicated category","[[Category:阿拉伯字母]]"],["no-duplicate",52,2,"duplicated category","[[Category:阿拉伯字母]]"]]

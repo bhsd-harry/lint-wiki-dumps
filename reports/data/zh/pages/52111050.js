@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",436,4," 2020年 周游记"]]
+window.data=[["no-ignored",436,4,"containing invalid attribute"," 2020年 周游记"],["invalid-css",461,34,"property value expected",";"],["invalid-css",463,22,"property value expected",";"],["invalid-css",474,34,"property value expected",";"]]

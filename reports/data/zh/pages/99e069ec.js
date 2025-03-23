@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",104,71,"Members_of_the_SPGF,_NKNA_and_TNI_taking_picture_together"]]
+window.data=[["no-duplicate",104,71,"duplicated image caption parameter","Members_of_the_SPGF,_NKNA_and_TNI_taking_picture_together"],["no-duplicate",104,135,"duplicated image caption parameter",""]]

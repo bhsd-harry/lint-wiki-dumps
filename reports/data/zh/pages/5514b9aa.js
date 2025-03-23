@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",251,3,"{{flagIOCathlete|[[Tatsuo Kawai (wrestler)|Kawai]]|JPN|2000年夏季}}<br>  '''W''' 6–5 "],[2,"parsing-order",251,67,"<br>"]]
+window.data=[["parsing-order",251,67,"HTML tag in table attributes","<br>"],["no-ignored",251,3,"containing invalid attribute","{{flagIOCathlete|[[Tatsuo Kawai (wrestler)|Kawai]]|JPN|2000年夏季}}<br>  '''W''' 6–5 "],["parsing-order",254,61,"HTML tag in table attributes","<br>"],["no-ignored",254,3,"containing invalid attribute","{{flagIOCathlete|[[Amir Reza Khadem|Khadem]]|IRI|2000年夏季}}<br>  '''W''' 4–1 "]]

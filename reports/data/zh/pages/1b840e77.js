@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",95,479,"title=L'affrontement simulé des années 1930"]]
+window.data=[["no-duplicate",95,479,"duplicated parameter","title=L'affrontement simulé des années 1930"],["no-duplicate",95,523,"duplicated parameter","title=Les guerres franco-francaises"],["no-duplicate",259,488,"duplicated parameter","publisher=Maisons-Alfort"],["no-duplicate",259,513,"duplicated parameter","publisher=Service historique de la Gendarmerie nationale"]]

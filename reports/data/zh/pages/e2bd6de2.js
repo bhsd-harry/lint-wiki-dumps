@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",270,2,"[[Category:韓國綜藝節目]]"]]
+window.data=[["no-duplicate",270,2,"duplicated category","[[Category:韓國綜藝節目]]"],["no-duplicate",275,2,"duplicated category","[[Category:韓國綜藝節目]]"],["no-duplicate",272,2,"duplicated category","[[Category:偶像節目]]"],["no-duplicate",277,2,"duplicated category","[[Category:偶像節目]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",60,2,"[[Category:平铺式视窗管理器]]"]]
+window.data=[["no-duplicate",60,2,"duplicated category","[[Category:平铺式视窗管理器]]"],["no-duplicate",63,2,"duplicated category","[[Category:平铺式视窗管理器]]"],["no-duplicate",61,2,"duplicated category","[[Category:使用MIT许可证的软件]]"],["no-duplicate",64,2,"duplicated category","[[Category:使用MIT许可证的软件]]"]]

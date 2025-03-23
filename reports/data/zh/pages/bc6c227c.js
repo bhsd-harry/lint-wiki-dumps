@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",26,66,"[[陆游]]"],[2,"no-duplicate",32,2,"[[category:唐姓]]"]]
+window.data=[["nested-link",26,66,"internal link in an external link","[[陆游]]"],["no-duplicate",32,2,"duplicated category","[[category:唐姓]]"],["no-duplicate",37,2,"duplicated category","[[Category:唐姓]]"]]

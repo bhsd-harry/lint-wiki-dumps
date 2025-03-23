@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",80,117,"}"],[2,"no-duplicate",204,2,"[[分類:青黴素]]"]]
+window.data=[["lonely-bracket",80,117,"lonely \"}\"","}"],["no-duplicate",204,2,"duplicated category","[[分類:青黴素]]"],["no-duplicate",213,2,"duplicated category","[[Category:青黴素]]"]]

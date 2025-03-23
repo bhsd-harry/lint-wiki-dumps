@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,3,"3=Degerfors Idrottsförening（瑞典足球队）\n "]]
+window.data=[["no-duplicate",7,3,"duplicated parameter","3=Degerfors Idrottsförening（瑞典足球队）\n "],["no-duplicate",8,3,"duplicated parameter","3=zh-hans:拉齐奥; zh-hk:拉素; zh-tw:拉吉歐;\n "]]

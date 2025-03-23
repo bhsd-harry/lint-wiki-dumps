@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",43,2,"[[分類:1884年描述的分类群|F]]"]]
+window.data=[["no-duplicate",43,2,"duplicated category","[[分類:1884年描述的分类群|F]]"],["no-duplicate",44,2,"duplicated category","[[Category: 1884年描述的分类群|F]]"]]

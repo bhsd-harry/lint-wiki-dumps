@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",2509,28,"tyle"],[1,"pipe-like",2066,159,"\n （现广东省民政厅大院） ||  || 现存大门口的4条门柱和部分围墙。 \n"]]
+window.data=[["pipe-like",2066,159,"additional \"|\" in a table cell","\n （现广东省民政厅大院） ||  || 现存大门口的4条门柱和部分围墙。 \n"],["illegal-attr",2509,28,"illegal attribute name","tyle"]]

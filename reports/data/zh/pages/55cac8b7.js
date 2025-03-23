@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",108,173,"newspaper=コミックナタリー"]]
+window.data=[["no-duplicate",108,173,"duplicated parameter","newspaper=コミックナタリー"],["no-duplicate",108,192,"duplicated parameter","newspaper=[[Comic Natalie]]"],["invalid-css",206,37,"property value expected","#black"],["invalid-css",206,61,"{ expected",""]]

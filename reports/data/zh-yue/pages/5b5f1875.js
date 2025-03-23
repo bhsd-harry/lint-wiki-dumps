@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",43,4,"illegal attribute name","table"],[2,"no-duplicate",29,28,"duplicated parameter"," prevdistance3 = 25.9km\n "],[1,"no-ignored",187,159,"attributes of a closing tag"," color"]]
+window.data=[["no-duplicate",29,28,"duplicated parameter"," prevdistance3 = 25.9km\n "],["no-duplicate",33,24,"duplicated parameter"," prevdistance3 = 22.9km\n "],["illegal-attr",43,4,"illegal attribute name","table"],["no-ignored",187,159,"attributes of a closing tag"," color"]]

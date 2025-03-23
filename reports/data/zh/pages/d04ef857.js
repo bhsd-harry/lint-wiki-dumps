@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",44,83,"title = Анива "]]
+window.data=[["no-duplicate",44,83,"duplicated parameter","title = Анива "],["no-duplicate",44,114,"duplicated parameter","title = Большая российская энциклопедия "],["no-duplicate",45,107,"duplicated parameter","title = Анива "],["no-duplicate",45,138,"duplicated parameter","title = Большая российская энциклопедия "]]

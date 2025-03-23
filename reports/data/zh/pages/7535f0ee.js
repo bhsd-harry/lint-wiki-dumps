@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",252,2,"[[Category:花木蘭系列]]"]]
+window.data=[["no-duplicate",252,2,"duplicated category","[[Category:花木蘭系列]]"],["no-duplicate",260,2,"duplicated category","[[Category:花木蘭系列]]"]]

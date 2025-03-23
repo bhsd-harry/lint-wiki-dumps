@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-http",84,94,"ISBN"],[2,"no-duplicate",91,2,"[[Category:台灣—荷蘭關係| ]]"]]
+window.data=[["lonely-http",84,94,"lonely \"ISBN\"","ISBN"],["lonely-http",85,66,"lonely \"ISBN\"","ISBN"],["no-duplicate",91,2,"duplicated category","[[Category:台灣—荷蘭關係| ]]"],["no-duplicate",92,2,"duplicated category","[[Category:台灣—荷蘭關係|台]]"]]

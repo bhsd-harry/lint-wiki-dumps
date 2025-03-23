@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,2,"[[Category:新疆生产建设兵团副司令员]]"]]
+window.data=[["no-duplicate",23,2,"duplicated category","[[Category:新疆生产建设兵团副司令员]]"],["no-duplicate",26,2,"duplicated category","[[Category:新疆生产建设兵团副司令员]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3,"2=zh-hans:梵高;zh-tw:梵谷;zh-hk:梵高\n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter","2=zh-hans:梵高;zh-tw:梵谷;zh-hk:梵高\n "],["no-duplicate",4,3,"duplicated parameter","2=zh-hans:伦勃朗;zh-tw:林布蘭;zh-hk:林布蘭\n "]]

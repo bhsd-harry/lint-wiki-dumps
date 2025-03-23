@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,2,"[[Category:倫敦大學學院教師]]"]]
+window.data=[["no-duplicate",37,2,"duplicated category","[[Category:倫敦大學學院教師]]"],["no-duplicate",40,2,"duplicated category","[[Category:倫敦大學學院教師]]"]]

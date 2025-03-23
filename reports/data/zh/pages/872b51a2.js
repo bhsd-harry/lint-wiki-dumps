@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",613,2,"[[Category:泰国女演员]]"]]
+window.data=[["no-duplicate",613,2,"duplicated category","[[Category:泰国女演员]]"],["no-duplicate",615,2,"duplicated category","[[Category:泰国女演员]]"]]

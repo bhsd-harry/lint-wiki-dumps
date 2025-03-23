@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",3,3," taxon = Lastreopsis \n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter"," taxon = Lastreopsis \n "],["no-duplicate",7,3,"duplicated parameter"," taxon = Lastreopsis\n "],["no-duplicate",4,3,"duplicated parameter"," authority = Ching\n "],["no-duplicate",8,3,"duplicated parameter"," authority = [[Ren-Chang Ching|Ching]]\n "]]

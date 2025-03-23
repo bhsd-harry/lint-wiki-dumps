@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",61,42,"Left"]]
+window.data=[["no-duplicate",61,42,"duplicated image caption parameter","Left"],["no-duplicate",61,53,"duplicated image caption parameter","蒂娜·特纳1971年在表演中"]]

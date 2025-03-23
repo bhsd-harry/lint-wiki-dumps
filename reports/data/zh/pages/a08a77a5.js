@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,185,"name"]]
+window.data=[["no-duplicate",1,185,"duplicated name attribute","name"],["no-duplicate",1,190,"duplicated name attribute","name=\"AllMalaysia\""]]

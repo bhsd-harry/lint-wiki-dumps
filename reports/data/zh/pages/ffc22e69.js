@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",133,2,"[[Category:2021年迷你專輯]]"]]
+window.data=[["no-duplicate",133,2,"duplicated category","[[Category:2021年迷你專輯]]"],["no-duplicate",137,2,"duplicated category","[[Category:2021年迷你專輯]]"],["no-duplicate",134,2,"duplicated category","[[Category:韓國音樂專輯]]"],["no-duplicate",138,2,"duplicated category","[[Category:韓國音樂專輯]]"]]

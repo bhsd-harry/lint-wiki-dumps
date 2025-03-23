@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",88,3,"3=[[閩東語]]\n "]]
+window.data=[["no-duplicate",88,3,"duplicated parameter","3=[[閩東語]]\n "],["no-duplicate",90,3,"duplicated parameter","3={{clade\n |1=[[侯官片]]\n |2=[[福寧片]]\n }}\n "]]

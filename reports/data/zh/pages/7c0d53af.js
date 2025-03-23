@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",30,41,"[["],[2,"no-duplicate",30,27,"Façade vue du [[Boulevard René-Lévesque (Montréal)"],[1,"no-ignored",45,1," {{Mgr}} Bourget"]]
+window.data=[["lonely-bracket",30,41,"lonely \"[\"","[["],["no-duplicate",30,27,"duplicated image caption parameter","Façade vue du [[Boulevard René-Lévesque (Montréal)"],["no-duplicate",30,78,"duplicated image caption parameter"," "],["no-ignored",45,1,"invalid content in <gallery>"," {{Mgr}} Bourget"]]

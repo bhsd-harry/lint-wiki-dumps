@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",149,41,"20px"],[1,"unclosed-table",140,2,"{|"]]
+window.data=[["no-duplicate",149,41,"duplicated image width parameter","20px"],["no-duplicate",149,46,"duplicated image width parameter","20px"],["unclosed-table",140,2,"unclosed table","{|"]]

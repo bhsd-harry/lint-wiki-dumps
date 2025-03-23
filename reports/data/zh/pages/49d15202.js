@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",83,38,"Right"],[1,"no-ignored",428,18," 在601話中鳴人對付斑所使用，僅憑單手就能聚集九尾查克拉形成的尾獸玉。"]]
+window.data=[["no-duplicate",83,38,"duplicated image caption parameter","Right"],["no-duplicate",83,44,"duplicated image caption parameter","封印九尾的八卦封印"],["no-duplicate",150,37,"duplicated image caption parameter","Right"],["no-duplicate",150,43,"duplicated image caption parameter","綱手給鳴人的項鍊"],["no-ignored",428,18,"containing invalid attribute"," 在601話中鳴人對付斑所使用，僅憑單手就能聚集九尾查克拉形成的尾獸玉。"]]

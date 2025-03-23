@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",249,2,"[[Category:學校背景電影]]"]]
+window.data=[["no-duplicate",249,2,"duplicated category","[[Category:學校背景電影]]"],["no-duplicate",255,2,"duplicated category","[[Category:學校背景電影]]"]]

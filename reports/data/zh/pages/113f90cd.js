@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",12,4,"File:Manihot_esculenta_dsc07325.jpg#file"]]
+window.data=[["no-ignored",12,4,"useless fragment","File:Manihot_esculenta_dsc07325.jpg#file"],["no-ignored",29,4,"useless fragment","File:PeeledCassava.jpg#file"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",118,2,"[[Category:倫敦電影學校校友]]"]]
+window.data=[["no-duplicate",118,2,"duplicated category","[[Category:倫敦電影學校校友]]"],["no-duplicate",119,2,"duplicated category","[[Category:倫敦電影學校校友]]"]]

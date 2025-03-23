@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",112,336,"language=ja"],[1,"tag-like",1927,785,"</ref"]]
+window.data=[["no-duplicate",112,336,"duplicated parameter","language=ja"],["no-duplicate",112,480,"duplicated parameter","language=ja"],["no-duplicate",177,191,"duplicated parameter","date=2024-12-04"],["no-duplicate",177,219,"duplicated parameter","date=2024-12-06"],["tag-like",1927,785,"lonely \"<\"","</ref"]]

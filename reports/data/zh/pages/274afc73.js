@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",26,133,"{{"],[2,"no-duplicate",26,99,"每個[[面 (幾何)|面]]都是不同顏色的希洛西七面體正交投影圖。 {{nowrap"]]
+window.data=[["lonely-bracket",26,133,"lonely \"{\"","{{"],["no-duplicate",26,99,"duplicated image caption parameter","每個[[面 (幾何)|面]]都是不同顏色的希洛西七面體正交投影圖。 {{nowrap"],["no-duplicate",26,142,"duplicated image caption parameter","在其[[Media:Szilassi_polyhedron_3D_model.svg|SVG圖像中]]可用拖曳旋轉以便觀察整個模型"]]

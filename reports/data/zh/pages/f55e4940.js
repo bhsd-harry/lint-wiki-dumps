@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",28,36," [[高分辨率成像科学设备]]所看到的朱芬塔谷内的槽沟。Image:Inverted Streams in Juventae Chasma.jpg"]]
+window.data=[["no-duplicate",28,36,"duplicated image caption parameter"," [[高分辨率成像科学设备]]所看到的朱芬塔谷内的槽沟。Image:Inverted Streams in Juventae Chasma.jpg"],["no-duplicate",28,110,"duplicated image caption parameter","[[火星全球探勘者号]]看到的朱芬塔谷附近的倒转溪流。这些溪流从山脊顶部开始，然后汇合到一起。高分辨率成像科学设备 "]]

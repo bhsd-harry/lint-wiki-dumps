@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,2,"[[Category:中共湘阴县委书记]]"]]
+window.data=[["no-duplicate",32,2,"duplicated category","[[Category:中共湘阴县委书记]]"],["no-duplicate",34,2,"duplicated category","[[Category:中共湘阴县委书记]]"]]

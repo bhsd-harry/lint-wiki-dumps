@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",64,325,"}}"],[1,"lonely-http",28,132,"http://"],[1,"tag-like",64,327,"</ref"],[1,"unescaped",28,168,"="]]
+window.data=[["lonely-http",28,132,"lonely \"http://\"","http://"],["unescaped",28,168,"unescaped query string in an anonymous parameter","="],["lonely-bracket",64,325,"lonely \"}\"","}}"],["tag-like",64,327,"lonely \"<\"","</ref"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,32,"泰国南部和北马来西亚半岛"]]
+window.data=[["no-duplicate",2,32,"duplicated image caption parameter","泰国南部和北马来西亚半岛"],["no-duplicate",2,45,"duplicated image caption parameter",""]]

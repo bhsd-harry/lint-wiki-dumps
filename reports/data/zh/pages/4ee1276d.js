@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",43,2,"[[Category:1954年西班牙建立]]"]]
+window.data=[["no-duplicate",43,2,"duplicated category","[[Category:1954年西班牙建立]]"],["no-duplicate",45,2,"duplicated category","[[Category:1954年西班牙建立]]"],["no-duplicate",44,2,"duplicated category","[[Category:2021年西班牙废除]]"],["no-duplicate",46,2,"duplicated category","[[Category:2021年西班牙废除]]"]]

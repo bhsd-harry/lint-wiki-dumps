@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",85,2,"[[Category:卡拉喬傑維奇王朝]]"]]
+window.data=[["no-duplicate",85,2,"duplicated category","[[Category:卡拉喬傑維奇王朝]]"],["no-duplicate",86,2,"duplicated category","[[Category:卡拉喬傑維奇王朝]]"],["no-duplicate",87,2,"duplicated category","[[Category:丹麦裔希腊人]]"],["no-duplicate",90,2,"duplicated category","[[Category:丹麦裔希腊人]]"]]

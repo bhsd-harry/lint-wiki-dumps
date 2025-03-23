@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",86,44,"duplicated image caption parameter","height"]]
+window.data=[["no-duplicate",86,44,"duplicated image caption parameter","height"],["no-duplicate",86,51,"duplicated image caption parameter","[[中國國家5A級旅遊景區|國家級5A景區]]—[[廣州長隆旅遊度假區]]"]]

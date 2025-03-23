@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",782,2,"[[Category:1959年香港建立]]"]]
+window.data=[["no-duplicate",782,2,"duplicated category","[[Category:1959年香港建立]]"],["no-duplicate",786,2,"duplicated category","[[Category:1959年香港建立]]"]]

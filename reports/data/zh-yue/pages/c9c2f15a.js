@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",209,60,"duplicated parameter","title=Washington, George "]]
+window.data=[["no-duplicate",209,60,"duplicated parameter","title=Washington, George "],["no-duplicate",209,86,"duplicated parameter","title=Dictionary of American Biography "]]

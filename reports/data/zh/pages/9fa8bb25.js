@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",56,55,"506 × 599 pixels"]]
+window.data=[["no-duplicate",56,55,"duplicated image caption parameter","506 × 599 pixels"],["no-duplicate",56,72,"duplicated image caption parameter","青年瓦迪斯瓦夫"],["no-duplicate",66,28,"duplicated image caption parameter","774 × 600 pixels"],["no-duplicate",66,68,"duplicated image caption parameter","西勒诺斯的行列，[[彼得·保罗·鲁本斯|鲁本斯]]绘，瓦迪斯瓦夫1624年购于[[南尼德兰|西属尼德兰]]"]]

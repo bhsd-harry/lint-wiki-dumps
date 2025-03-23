@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,2,"[[Category:南京城门]]"]]
+window.data=[["no-duplicate",44,2,"duplicated category","[[Category:南京城门]]"],["no-duplicate",45,2,"duplicated category","[[Category:南京城门|Z]]"]]

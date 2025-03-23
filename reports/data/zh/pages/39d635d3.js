@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",1,65,"right"]]
+window.data=[["no-duplicate",1,65,"duplicated image right parameter","right"],["no-duplicate",1,74,"duplicated image right parameter","右"],["no-duplicate",1,71,"duplicated image caption parameter","拇指"],["no-duplicate",1,76,"duplicated image caption parameter","传统[[芬蘭]]法伦红色木屋（[[艾內科斯基]]、[[中芬蘭區]]）。 "]]

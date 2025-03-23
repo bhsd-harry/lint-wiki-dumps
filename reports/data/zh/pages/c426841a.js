@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",149,2,"[[Category:九龍巴士路線|098]]"]]
+window.data=[["no-duplicate",149,2,"duplicated category","[[Category:九龍巴士路線|098]]"],["no-duplicate",161,2,"duplicated category","[[Category:九龍巴士路線|098]]"],["no-duplicate",150,2,"duplicated category","[[Category:西貢區巴士路線|098]]"],["no-duplicate",162,2,"duplicated category","[[Category:西貢區巴士路線|098]]"],["no-duplicate",151,2,"duplicated category","[[Category:觀塘區巴士路線|098]]"],["no-duplicate",163,2,"duplicated category","[[Category:觀塘區巴士路線|098]]"]]

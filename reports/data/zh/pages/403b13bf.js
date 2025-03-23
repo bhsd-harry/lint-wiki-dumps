@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",91,50,"[[紳寶考庫姆公司|考庫姆船廠]]"]]
+window.data=[["nested-link",91,50,"internal link in an external link","[[紳寶考庫姆公司|考庫姆船廠]]"]]

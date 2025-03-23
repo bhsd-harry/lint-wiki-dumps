@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",84,128,"'"],[2,"no-duplicate",49,30,"Alexander_Burnes"]]
+window.data=[["no-duplicate",49,30,"duplicated image caption parameter","Alexander_Burnes"],["no-duplicate",49,65,"duplicated image caption parameter","遇害上尉{{link-en|亞歷山大·伯恩斯|Alexander Burnes}}"],["lonely-apos",84,128,"lonely \"'\"","'"]]

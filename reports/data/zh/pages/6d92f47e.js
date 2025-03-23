@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",32,2,"[[Category:乾清門侍衛]]"]]
+window.data=[["no-duplicate",32,2,"duplicated category","[[Category:乾清門侍衛]]"],["no-duplicate",51,2,"duplicated category","[[Category:乾清門侍衛]]"],["no-duplicate",34,2,"duplicated category","[[Category:鑲黃旗蒙古副都統|署]]"],["no-duplicate",50,2,"duplicated category","[[Category:鑲黃旗蒙古副都統|署]]"]]

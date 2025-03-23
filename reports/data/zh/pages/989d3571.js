@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",27,1," [[File:臺北駐印度代表處及其辦事處轄區圖.png|600px|無框|center]]"]]
+window.data=[["fostered-content",27,1,"content to be moved out from the table"," [[File:臺北駐印度代表處及其辦事處轄區圖.png|600px|無框|center]]"]]

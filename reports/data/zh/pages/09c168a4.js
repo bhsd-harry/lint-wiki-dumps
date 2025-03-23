@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,27,"|2006年冬季奧林匹克運動會"]]
+window.data=[["no-ignored",1,27,"useless link text","|2006年冬季奧林匹克運動會"]]

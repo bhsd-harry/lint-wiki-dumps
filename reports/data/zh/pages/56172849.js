@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",13,4,"MascotteCM1970.jpg"]]
+window.data=[["illegal-attr",13,4,"illegal attribute name","MascotteCM1970.jpg"],["illegal-attr",106,4,"illegal attribute name","MascotteCM1970.jpg"]]

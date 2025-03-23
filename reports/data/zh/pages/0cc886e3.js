@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",138,2,"[[Category:天津市铁路线]]"]]
+window.data=[["no-duplicate",138,2,"duplicated category","[[Category:天津市铁路线]]"],["no-duplicate",139,2,"duplicated category","[[Category:天津市铁路线]]"]]

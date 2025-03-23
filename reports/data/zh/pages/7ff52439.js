@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",208,262,"[[有線寬頻通訊有限公司|有線寬頻]]"],[2,"no-duplicate",69,18,"align=\"center\""]]
+window.data=[["no-duplicate",69,18,"duplicated align attribute","align=\"center\""],["no-duplicate",69,51,"duplicated align attribute","align=\"left\""],["nested-link",208,262,"internal link in an external link","[[有線寬頻通訊有限公司|有線寬頻]]"],["nested-link",208,282,"internal link in an external link","[[英格蘭超級足球聯賽|英格蘭超級聯賽]]"]]

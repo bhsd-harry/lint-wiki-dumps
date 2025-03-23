@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:中国公路桥]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:中国公路桥]]"],["no-duplicate",61,2,"duplicated category","[[Category:中国公路桥]]"]]

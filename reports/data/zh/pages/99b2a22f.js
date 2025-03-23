@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",25,100,"[["],[2,"no-duplicate",25,100,"[[Parrotia"]]
+window.data=[["lonely-bracket",25,100,"lonely \"[\"","[["],["no-duplicate",25,100,"duplicated image caption parameter","[[Parrotia"],["no-duplicate",25,111,"duplicated image caption parameter","植物园内的波斯铁树"]]

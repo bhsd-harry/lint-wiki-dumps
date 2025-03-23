@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",42,146,"name=\"李青霖、范榮達\""],[1,"no-ignored",42,160,"/。2009年3月，鄉賢祠完工<ref "],[1,"tag-like",42,175,"<ref"]]
+window.data=[["tag-like",42,175,"lonely \"<\"","<ref"],["no-ignored",42,160,"containing invalid attribute","/。2009年3月，鄉賢祠完工<ref "],["no-duplicate",42,146,"duplicated name attribute","name=\"李青霖、范榮達\""],["no-duplicate",42,180,"duplicated name attribute","name=\"洪美秀\""]]

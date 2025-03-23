@@ -1,1 +1,1 @@
-window.data=[[3,"unclosed-table",91,2,"{|"],[3,"unmatched-tag",149,13,"</div>"]]
+window.data=[["unmatched-tag",149,13,"unmatched closing tag","</div>"],["unclosed-table",91,2,"unclosed table","{|"],["unmatched-tag",362,13,"unmatched closing tag","</div>"],["unclosed-table",153,2,"unclosed table","{|"],["unmatched-tag",481,13,"unmatched closing tag","</div>"],["unclosed-table",368,2,"unclosed table","{|"]]

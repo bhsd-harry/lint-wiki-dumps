@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",132,171,"[[自然 (期刊)|自然]]"]]
+window.data=[["nested-link",132,171,"internal link in an external link","[[自然 (期刊)|自然]]"]]

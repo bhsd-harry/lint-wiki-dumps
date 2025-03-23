@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",44,1," <!-- Image with unknown copyright status removed: the New[[File:Jatrophacurcusbudding.png]] -->'''propagation of ''Jatropha curcas'' by budding'''"]]
+window.data=[["no-ignored",44,1,"invalid content in <gallery>"," <!-- Image with unknown copyright status removed: the New[[File:Jatrophacurcusbudding.png]] -->'''propagation of ''Jatropha curcas'' by budding'''"]]

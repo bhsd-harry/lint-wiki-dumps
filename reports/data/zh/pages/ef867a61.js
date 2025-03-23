@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",24,3,"車站構造   = [[地上車站]]\n "]]
+window.data=[["no-duplicate",24,3,"duplicated parameter","車站構造   = [[地上車站]]\n "],["no-duplicate",27,3,"duplicated parameter","車站構造   = [[地面車站]]\n "]]

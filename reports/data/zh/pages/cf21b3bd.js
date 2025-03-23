@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3," colours          = {{color box|#000000}} [[黑色]] <br />  {{color box|{{party color|Pan Africanist Congress of Azania}}}} [[绿色]]  <br />  {{color box|F"]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," colours          = {{color box|#000000}} [[黑色]] <br />  {{color box|{{party color|Pan Africanist Congress of Azania}}}} [[绿色]]  <br />  {{color box|F"],["no-duplicate",50,3,"duplicated parameter","colours            =\n "]]

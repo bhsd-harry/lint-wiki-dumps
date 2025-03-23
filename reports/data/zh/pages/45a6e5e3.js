@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,26,"display=title"]]
+window.data=[["no-duplicate",6,26,"duplicated parameter","display=title"],["no-duplicate",6,81,"duplicated parameter","display = inline, title"]]

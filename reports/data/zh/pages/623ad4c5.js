@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",34,2,"[[category:士瓦本公爵|F]]"]]
+window.data=[["no-duplicate",34,2,"duplicated category","[[category:士瓦本公爵|F]]"],["no-duplicate",39,2,"duplicated category","[[Category:士瓦本公爵]]"]]

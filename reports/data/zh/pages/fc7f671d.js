@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",66,2,"[[Category:神奈川縣出身人物]]"]]
+window.data=[["no-duplicate",66,2,"duplicated category","[[Category:神奈川縣出身人物]]"],["no-duplicate",67,2,"duplicated category","[[Category:神奈川縣出身人物]]"]]

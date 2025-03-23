@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,2,"[[Category:清朝荊溪縣知縣]]"]]
+window.data=[["no-duplicate",15,2,"duplicated category","[[Category:清朝荊溪縣知縣]]"],["no-duplicate",16,2,"duplicated category","[[Category:清朝荊溪縣知縣]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",75,2,"[[Category:OBE勳銜]]"]]
+window.data=[["no-duplicate",75,2,"duplicated category","[[Category:OBE勳銜]]"],["no-duplicate",87,2,"duplicated category","[[Category:OBE勳銜]]"]]

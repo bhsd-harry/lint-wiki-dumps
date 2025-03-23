@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",11,2,"[[Category:2024年夏季奧林匹克運動會曲棍球運動員]]"]]
+window.data=[["no-duplicate",11,2,"duplicated category","[[Category:2024年夏季奧林匹克運動會曲棍球運動員]]"],["no-duplicate",13,2,"duplicated category","[[Category:2024年夏季奧林匹克運動會曲棍球運動員]]"],["no-duplicate",12,2,"duplicated category","[[Category:2024年夏季奧林匹克運動會獎牌得主]]"],["no-duplicate",14,2,"duplicated category","[[Category:2024年夏季奧林匹克運動會獎牌得主]]"],["no-duplicate",15,2,"duplicated category","[[Category:奧林匹克運動會曲棍球獎牌得主]]"],["no-duplicate",20,2,"duplicated category","[[Category:奧林匹克運動會曲棍球獎牌得主]]"]]

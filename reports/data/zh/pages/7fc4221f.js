@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",81,2,"[[Category:澳門太陽城集團]]"]]
+window.data=[["no-duplicate",81,2,"duplicated category","[[Category:澳門太陽城集團]]"],["no-duplicate",89,2,"duplicated category","[[分類:澳門太陽城集團]]"]]

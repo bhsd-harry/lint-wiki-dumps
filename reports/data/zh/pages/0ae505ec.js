@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",1071,12,"{{"],[1,"no-ignored",1071,3," 清朝海盜首領之一{{efn"]]
+window.data=[["lonely-bracket",1071,12,"lonely \"{\"","{{"],["no-ignored",1071,3,"containing invalid attribute"," 清朝海盜首領之一{{efn"]]

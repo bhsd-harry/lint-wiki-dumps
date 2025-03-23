@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,231,"work= La Jornada "]]
+window.data=[["no-duplicate",35,231,"duplicated parameter","work= La Jornada "],["no-duplicate",35,261,"duplicated parameter","work="]]

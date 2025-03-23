@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",28,3," candidate2 = [[Nikki Haley]]\n "]]
+window.data=[["no-duplicate",28,3,"duplicated parameter"," candidate2 = [[Nikki Haley]]\n "],["no-duplicate",29,3,"duplicated parameter","candidate2= [[妮基·黑利|妮基·海莉]]\n "]]

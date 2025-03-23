@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",21,3," next_title = \n "]]
+window.data=[["no-duplicate",21,3,"duplicated parameter"," next_title = \n "],["no-duplicate",23,3,"duplicated parameter"," next_title = [[EXHIBITION：Look Closely]]\n "],["no-duplicate",22,3,"duplicated parameter"," next_year  = \n "],["no-duplicate",24,3,"duplicated parameter"," next_year  = 2024\n "]]

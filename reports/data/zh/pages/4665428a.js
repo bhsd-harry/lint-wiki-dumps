@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,2,"[[Category:多倫多社區]]"]]
+window.data=[["no-duplicate",13,2,"duplicated category","[[Category:多倫多社區]]"],["no-duplicate",14,2,"duplicated category","[[Category:多倫多社區]]"]]

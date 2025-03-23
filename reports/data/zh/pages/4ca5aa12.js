@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",281,2,"[[Category:转管机枪]]"]]
+window.data=[["no-duplicate",281,2,"duplicated category","[[Category:转管机枪]]"],["no-duplicate",288,2,"duplicated category","[[Category:转管机枪]]"]]

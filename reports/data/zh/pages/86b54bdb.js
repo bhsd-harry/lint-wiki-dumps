@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",45,2,"[[Category:清朝殿試讀卷官]]"]]
+window.data=[["no-duplicate",45,2,"duplicated category","[[Category:清朝殿試讀卷官]]"],["no-duplicate",62,2,"duplicated category","[[Category:清朝殿試讀卷官]]"],["no-duplicate",48,2,"duplicated category","[[Category:清朝吏部右侍郎|署]]"],["no-duplicate",50,2,"duplicated category","[[Category:清朝吏部右侍郎]]"]]

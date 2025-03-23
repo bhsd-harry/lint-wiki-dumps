@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",68,165,"]]"],[4,"no-duplicate",20,91,"hochkant"]]
+window.data=[["no-duplicate",20,91,"duplicated image caption parameter","hochkant"],["no-duplicate",20,100,"duplicated image caption parameter","1989年11月4日斯蒂芬·海姆在亞歷山大廣場示威后"],["no-duplicate",37,38,"duplicated image caption parameter","hochkant"],["no-duplicate",37,47,"duplicated image caption parameter","柏林犹太人墓地上斯蒂芬·海姆的墓"],["lonely-bracket",68,165,"lonely \"]\"","]]"]]

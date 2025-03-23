@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",46,2,"[[Category:明朝汝州知州]]"]]
+window.data=[["no-duplicate",46,2,"duplicated category","[[Category:明朝汝州知州]]"],["no-duplicate",52,2,"duplicated category","[[Category:明朝汝州知州]]"]]

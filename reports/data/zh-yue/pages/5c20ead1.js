@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",2,319,"containing invalid attribute"," name+SEGD-about\""]]
+window.data=[["no-ignored",2,319,"containing invalid attribute"," name+SEGD-about\""]]

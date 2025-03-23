@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,3,"coor         = {{coord|22|58|45.48|S|43|13|56.82|W|type:edu|display=title, inline}}\n "]]
+window.data=[["no-duplicate",17,3,"duplicated parameter","coor         = {{coord|22|58|45.48|S|43|13|56.82|W|type:edu|display=title, inline}}\n "],["no-duplicate",25,3,"duplicated parameter","coor              = \n "]]

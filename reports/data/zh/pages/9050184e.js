@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",11,2,"[[Category:复旦大学校友]]"]]
+window.data=[["no-duplicate",11,2,"duplicated category","[[Category:复旦大学校友]]"],["no-duplicate",22,2,"duplicated category","[[Category:复旦大学校友]]"],["no-duplicate",12,2,"duplicated category","[[Category:复旦大学教授]]"],["no-duplicate",23,2,"duplicated category","[[Category:复旦大学教授]]"],["no-duplicate",13,2,"duplicated category","[[Category:长江学者特聘教授]]"],["no-duplicate",25,2,"duplicated category","[[Category:长江学者特聘教授]]"]]

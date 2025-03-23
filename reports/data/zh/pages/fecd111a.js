@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",325,2,"[[Category:吸血鬼題材動畫]]"]]
+window.data=[["no-duplicate",325,2,"duplicated category","[[Category:吸血鬼題材動畫]]"],["no-duplicate",332,2,"duplicated category","[[Category:吸血鬼題材動畫]]"]]

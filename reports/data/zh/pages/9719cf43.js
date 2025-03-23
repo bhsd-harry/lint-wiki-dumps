@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",475,88,"  \"class=\"table-yes\""]]
+window.data=[["no-ignored",475,88,"containing invalid attribute","  \"class=\"table-yes\""],["no-ignored",504,88,"containing invalid attribute","  \"class=\"table-yes\""]]

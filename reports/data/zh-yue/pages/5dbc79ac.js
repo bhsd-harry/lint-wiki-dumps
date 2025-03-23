@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",14,44,"illegal attribute name","xml:lang"],[2,"no-ignored",108,48,"containing invalid attribute","; white-space:nowrap; "],[1,"unclosed-table",108,2,"unclosed table","{|"]]
+window.data=[["illegal-attr",14,44,"illegal attribute name","xml:lang"],["illegal-attr",108,70,"illegal attribute name","border:double"],["no-ignored",108,48,"containing invalid attribute","; white-space:nowrap; "],["no-ignored",108,83,"containing invalid attribute"," #006AB6; {{box-shadow|4px|4px|4px|#006AB6}}\""],["unclosed-table",108,2,"unclosed table","{|"]]

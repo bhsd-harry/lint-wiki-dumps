@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,37,"desno"]]
+window.data=[["no-duplicate",22,37,"duplicated image caption parameter","desno"],["no-duplicate",22,43,"duplicated image caption parameter","共產黨戰後項目[[巴爾幹聯邦]]。"]]

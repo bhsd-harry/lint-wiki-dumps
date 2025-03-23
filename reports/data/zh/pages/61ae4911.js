@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",53,3,"style=\"width:1px;\""]]
+window.data=[["no-duplicate",53,3,"duplicated style attribute","style=\"width:1px;\""],["no-duplicate",53,23,"duplicated style attribute","style=\"background-color:{{party color|Progressive Alliance of Socialists and Democrats}}\""],["no-duplicate",234,3,"duplicated style attribute","style=\"width:1px;\""],["no-duplicate",234,23,"duplicated style attribute","style=\"background-color:{{party color|Greens–European Free Alliance}}\""]]

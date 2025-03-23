@@ -1,1 +1,1 @@
-window.data=[[1,"unclosed-table",69,2,"{|"]]
+window.data=[["invalid-css",43,41,"property value expected",""],["unclosed-table",69,2,"unclosed table","{|"]]

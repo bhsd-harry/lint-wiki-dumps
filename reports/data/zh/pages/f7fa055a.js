@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",81,2,"[[Category:氣象衛星]]"]]
+window.data=[["no-duplicate",81,2,"duplicated category","[[Category:氣象衛星]]"],["no-duplicate",85,2,"duplicated category","[[Category:氣象衛星]]"]]

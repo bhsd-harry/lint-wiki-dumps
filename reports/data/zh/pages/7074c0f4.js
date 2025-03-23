@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",79,77,"name=\"Herschel 1787\""],[1,"no-ignored",79,97,"  /<ref "],[1,"tag-like",79,100,"<ref"]]
+window.data=[["tag-like",79,100,"lonely \"<\"","<ref"],["no-ignored",79,97,"containing invalid attribute","  /<ref "],["no-duplicate",79,77,"duplicated name attribute","name=\"Herschel 1787\""],["no-duplicate",79,105,"duplicated name attribute","name=Herschel2"]]

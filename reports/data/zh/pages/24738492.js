@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,35,"rightt"]]
+window.data=[["no-duplicate",18,35,"duplicated image caption parameter","rightt"],["no-duplicate",18,48,"duplicated image caption parameter","北京[[宣武门天主堂]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",137,30,"Booba and Kiki shapes"]]
+window.data=[["no-duplicate",137,30,"duplicated image caption parameter","Booba and Kiki shapes"],["no-duplicate",137,52,"duplicated image caption parameter","如這樣的測試表明人們不會武斷地把聲音附加到視覺形狀上。當人們在單詞「波巴」和「奇奇」之間進行選擇時，左邊的形狀幾乎總是被稱作「奇奇」，而右邊的稱為「波巴」。"]]

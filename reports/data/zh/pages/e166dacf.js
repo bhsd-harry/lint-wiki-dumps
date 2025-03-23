@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",38,2,"[[Category:美國政府獨立機構]]"]]
+window.data=[["no-duplicate",38,2,"duplicated category","[[Category:美國政府獨立機構]]"],["no-duplicate",39,2,"duplicated category","[[Category:美國政府獨立機構]]"]]

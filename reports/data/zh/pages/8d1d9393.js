@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",11,71,"Map of the war in German"]]
+window.data=[["no-duplicate",11,71,"duplicated image caption parameter","Map of the war in German"],["no-duplicate",11,96,"duplicated image caption parameter","點線為西班牙珍寶船隊的航行路線；橙色地域屬於西班牙、黃色屬於法國、綠色屬於英國；紅星為英軍進擊的地點。"],["no-duplicate",11,52,"conflicting image horizontal-alignment parameter","center"],["no-duplicate",11,65,"conflicting image horizontal-alignment parameter","right"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",45,3," years              = 1990年7月2日\n "]]
+window.data=[["no-duplicate",45,3,"duplicated parameter"," years              = 1990年7月2日\n "],["no-duplicate",47,3,"duplicated parameter","years=2017年12月9日\n "],["no-duplicate",46,3,"duplicated parameter"," events             = 車站通車\n "],["no-duplicate",48,3,"duplicated parameter","events=輕鐵通車\n "]]

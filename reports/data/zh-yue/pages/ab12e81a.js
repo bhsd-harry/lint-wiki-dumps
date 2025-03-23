@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",36,2,"lonely \"{\"","{{"],[3,"no-duplicate",35,58,"duplicated image caption parameter","全球武肺疫情形勢嘅一覽：\n {{legend"]]
+window.data=[["lonely-bracket",36,2,"lonely \"{\"","{{"],["no-duplicate",35,58,"duplicated image caption parameter","全球武肺疫情形勢嘅一覽：\n {{legend"],["no-duplicate",36,11,"duplicated image caption parameter","#290000"],["no-duplicate",36,19,"duplicated image caption parameter","10,000,000宗確診或以上\n {{legend|#510000|1,000,000–9,999,999宗確診或以上}}\n {{legend|#900000|100,000–999,999宗確診}}\n {{legend|#c80200|10,000–99,999宗確診}}\n {{legend|#"]]

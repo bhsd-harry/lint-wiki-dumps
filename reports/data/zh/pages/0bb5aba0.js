@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",246,5,"政黨   = 獨立\n   "]]
+window.data=[["no-duplicate",246,5,"duplicated parameter","政黨   = 獨立\n   "],["no-duplicate",248,5,"duplicated parameter","政黨   = 新界社團聯會\n   "],["no-duplicate",247,5,"duplicated parameter","候選人 = 黎偉昌\n   "],["no-duplicate",249,5,"duplicated parameter","候選人 = 李有慶\n   "]]

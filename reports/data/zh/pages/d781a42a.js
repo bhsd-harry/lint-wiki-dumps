@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",152,2,"[[Category:支持統一的台灣外省人|T]]"]]
+window.data=[["no-duplicate",152,2,"duplicated category","[[Category:支持統一的台灣外省人|T]]"],["no-duplicate",159,2,"duplicated category","[[Category:支持統一的台灣外省人]]"]]

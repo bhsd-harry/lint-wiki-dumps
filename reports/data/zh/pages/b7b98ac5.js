@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,13,"romaji=ジャンタルマンタル"]]
+window.data=[["no-duplicate",26,13,"duplicated parameter","romaji=ジャンタルマンタル"],["no-duplicate",26,30,"duplicated parameter","romaji=Jantaru Mantaru"]]

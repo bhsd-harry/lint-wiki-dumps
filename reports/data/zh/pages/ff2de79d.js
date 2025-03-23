@@ -1,1 +1,1 @@
-window.data=[[3,"invalid-gallery",49,18,"thumb"],[1,"no-ignored",52,1," File:臺灣綠島監獄中被加料過的蔣中正銅像，在台灣「民主化」後，蔣銅像遭到惡意的以紅漆塗污。圖為[[綠島人權文化園區|綠島監獄]]的蔣銅"]]
+window.data=[["invalid-gallery",49,18,"invalid image parameter","thumb"],["invalid-gallery",49,24,"invalid image parameter","right"],["invalid-gallery",49,30,"invalid image parameter","150px"],["no-ignored",52,1,"invalid content in <gallery>"," File:臺灣綠島監獄中被加料過的蔣中正銅像，在台灣「民主化」後，蔣銅像遭到惡意的以紅漆塗污。圖為[[綠島人權文化園區|綠島監獄]]的蔣銅"]]

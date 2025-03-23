@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",31,2,"[[Category:牙买加圣詹姆斯堂区| ]]"]]
+window.data=[["no-duplicate",31,2,"duplicated category","[[Category:牙买加圣詹姆斯堂区| ]]"],["no-duplicate",33,2,"duplicated category","[[Category:牙买加圣詹姆斯堂区]]"]]

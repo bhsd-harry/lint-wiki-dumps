@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",70,1," * [[商业|商务]]学科<ref group=\"注\"  name=\"商务学科\"/>"]]
+window.data=[["fostered-content",70,1,"content to be moved out from the table"," * [[商业|商务]]学科<ref group=\"注\"  name=\"商务学科\"/>"],["fostered-content",74,1,"content to be moved out from the table"," * [[经济学|经济]]学科<ref group=\"注\"  name=\"招生到2001年\"/>\n ** 第一部<ref group=\"注\"  name=\"招生到2001年\"/>\n ** [[夜校|第二部]]<ref group=\"注\"  name=\"招生到2001年\"/>\n ** 函授教育课程<r"]]

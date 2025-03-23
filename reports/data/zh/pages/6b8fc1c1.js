@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:立法院第一屆正選立法委員]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:立法院第一屆正選立法委員]]"],["no-duplicate",45,2,"duplicated category","[[Category:立法院第一屆正選立法委員]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",237,2,"[[Category:官能团|Q]]"]]
+window.data=[["no-duplicate",237,2,"duplicated category","[[Category:官能团|Q]]"],["no-duplicate",238,2,"duplicated category","[[Category:官能团]]"]]

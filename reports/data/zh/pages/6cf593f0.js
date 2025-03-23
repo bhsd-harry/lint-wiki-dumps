@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",460,5,"span"],[2,"no-duplicate",369,3,"year precipitation days =\n "]]
+window.data=[["no-duplicate",369,3,"duplicated parameter","year precipitation days =\n "],["no-duplicate",396,3,"duplicated parameter"," year precipitation days = \n "],["illegal-attr",460,5,"illegal attribute name","span"],["illegal-attr",498,5,"illegal attribute name","span"]]

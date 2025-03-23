@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,2,"[[Category:河南省住房和城乡建设厅官员]]"]]
+window.data=[["no-duplicate",19,2,"duplicated category","[[Category:河南省住房和城乡建设厅官员]]"],["no-duplicate",21,2,"duplicated category","[[Category:河南省住房和城乡建设厅官员]]"]]

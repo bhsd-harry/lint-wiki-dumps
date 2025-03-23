@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",33,47,"240"]]
+window.data=[["no-duplicate",33,47,"duplicated image caption parameter","240"],["no-duplicate",33,51,"duplicated image caption parameter","多摩新市鎮的初期入住地區"],["no-duplicate",56,47,"duplicated image caption parameter","240"],["no-duplicate",56,51,"duplicated image caption parameter","乞田川-{谷}-戶地帶的市區"]]

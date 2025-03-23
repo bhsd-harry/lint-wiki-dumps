@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,2,"[[Category:Languages with neither ISO nor Glottolog code]]"]]
+window.data=[["no-duplicate",17,2,"duplicated category","[[Category:Languages with neither ISO nor Glottolog code]]"],["no-duplicate",19,2,"duplicated category","[[Category:Languages with neither ISO nor Glottolog code]]"]]

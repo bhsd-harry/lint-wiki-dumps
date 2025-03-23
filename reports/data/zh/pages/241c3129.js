@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",52,58,"[[月亮女神 (航天器)|辉夜号]]"]]
+window.data=[["nested-link",52,58,"internal link in an external link","[[月亮女神 (航天器)|辉夜号]]"]]

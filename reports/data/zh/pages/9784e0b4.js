@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",132,143,"[[加州理工學院|CalTech]]"]]
+window.data=[["nested-link",132,143,"internal link in an external link","[[加州理工學院|CalTech]]"]]

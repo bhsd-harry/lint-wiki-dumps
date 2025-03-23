@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",79,2,"[[Category:眼解剖学]]"]]
+window.data=[["no-duplicate",79,2,"duplicated category","[[Category:眼解剖学]]"],["no-duplicate",80,2,"duplicated category","[[Category:眼解剖学]]"]]

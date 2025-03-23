@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",75,2,"[[Category:美國職棒大聯盟外野手]]"]]
+window.data=[["no-duplicate",75,2,"duplicated category","[[Category:美國職棒大聯盟外野手]]"],["no-duplicate",76,2,"duplicated category","[[Category:美國職棒大聯盟外野手]]"]]

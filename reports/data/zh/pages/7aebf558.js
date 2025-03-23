@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",355,2,"[[Category:反三角函数]]"]]
+window.data=[["no-duplicate",355,2,"duplicated category","[[Category:反三角函数]]"],["no-duplicate",356,2,"duplicated category","[[Category:反三角函数|*]]"]]

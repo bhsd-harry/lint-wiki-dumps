@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",191,2,"[[Category:美國青少年喜劇片]]"]]
+window.data=[["no-duplicate",191,2,"duplicated category","[[Category:美國青少年喜劇片]]"],["no-duplicate",194,2,"duplicated category","[[Category:美國青少年喜劇片]]"],["no-duplicate",192,2,"duplicated category","[[Category:2022年美國電影作品]]"],["no-duplicate",196,2,"duplicated category","[[Category:2022年美國電影作品]]"],["no-duplicate",198,2,"duplicated category","[[Category:高中背景電影]]"],["no-duplicate",199,2,"duplicated category","[[Category:高中背景電影]]"]]

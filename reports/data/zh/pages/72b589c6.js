@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",253,2,"[[Category:Cube娛樂|O]]"]]
+window.data=[["no-duplicate",253,2,"duplicated category","[[Category:Cube娛樂|O]]"],["no-duplicate",256,2,"duplicated category","[[Category:Cube娛樂]]"]]

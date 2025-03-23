@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,2,"[[Category:視覺障礙]]"]]
+window.data=[["no-duplicate",26,2,"duplicated category","[[Category:視覺障礙]]"],["no-duplicate",29,2,"duplicated category","[[Category:視覺障礙]]"]]

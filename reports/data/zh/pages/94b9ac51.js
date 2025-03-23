@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",111,5,"[["],[1,"no-ignored",111,4," [[Г]] || г || "]]
+window.data=[["lonely-bracket",111,5,"lonely \"[\"","[["],["lonely-bracket",111,8,"lonely \"]\"","]]"],["no-ignored",111,4,"containing invalid attribute"," [[Г]] || г || "]]

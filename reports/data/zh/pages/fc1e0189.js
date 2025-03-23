@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,54,"链接=https://en.wikipedia.org/wiki/File:Lesser coat of arms of the Russian Empire.svg"]]
+window.data=[["no-duplicate",1,54,"duplicated image caption parameter","链接=https://en.wikipedia.org/wiki/File:Lesser coat of arms of the Russian Empire.svg"],["no-duplicate",1,142,"duplicated image caption parameter","[[俄罗斯帝国]][[紋章|纹章]]"]]

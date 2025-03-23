@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,30,"upright=200px"]]
+window.data=[["no-duplicate",33,30,"duplicated image caption parameter","upright=200px"],["no-duplicate",33,44,"duplicated image caption parameter","心电图中[[QRS波群]]和邻近的节段，在心动周期中，[[心房]]收缩开始于P波；[[心室]]收缩始于QRS波群的Q波"]]

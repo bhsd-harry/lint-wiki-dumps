@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",86,27,"259.996x259.996像素"]]
+window.data=[["no-duplicate",86,27,"duplicated image caption parameter","259.996x259.996像素"],["no-duplicate",86,45,"duplicated image caption parameter","深澳岬角"]]

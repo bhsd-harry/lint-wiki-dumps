@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",49,28,"Acts Rednaxela"],[1,"unmatched-tag",61,2,"</div>"]]
+window.data=[["no-duplicate",49,28,"duplicated image caption parameter","Acts Rednaxela"],["no-duplicate",49,55,"duplicated image caption parameter","協利集團發展的ACTS Rednaxela"],["unmatched-tag",61,2,"unmatched closing tag","</div>"]]

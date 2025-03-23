@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",43,63,"text-align:"],[1,"invalid-gallery",142,37,"thumb"],[2,"no-ignored",43,52,"width:70%; "]]
+window.data=[["invalid-css",43,51,"term expected",""],["illegal-attr",43,63,"illegal attribute name","text-align:"],["no-ignored",43,52,"containing invalid attribute","width:70%; "],["no-ignored",43,74,"containing invalid attribute"," center\""],["invalid-gallery",142,37,"invalid image parameter","thumb"]]

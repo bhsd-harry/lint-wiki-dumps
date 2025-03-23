@@ -1,1 +1,1 @@
-window.data=[[1,"tag-like",84,1260,"<span"],[6,"unmatched-tag",4,72,"</small>"]]
+window.data=[["unmatched-tag",4,72,"unmatched closing tag","</small>"],["unmatched-tag",4,108,"unmatched closing tag","</small>"],["unmatched-tag",4,174,"unmatched closing tag","</small>"],["unmatched-tag",4,208,"unmatched closing tag","</small>"],["unmatched-tag",4,242,"unmatched closing tag","</small>"],["unmatched-tag",4,274,"unmatched closing tag","</small>"],["tag-like",84,1260,"lonely \"<\"","<span"]]

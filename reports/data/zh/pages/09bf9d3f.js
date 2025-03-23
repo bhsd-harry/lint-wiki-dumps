@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",141,1,"\n ==集數==\n {{Episode table\n |background   = lightgray\n |overall= |season= |title= |airdate=|episodes=\n\n {{Episode list\n |EpisodeNumber = 66\n |EpisodeNu"],[1,"unclosed-table",26,2,"{|"]]
+window.data=[["fostered-content",141,1,"content to be moved out from the table","\n ==集數==\n {{Episode table\n |background   = lightgray\n |overall= |season= |title= |airdate=|episodes=\n\n {{Episode list\n |EpisodeNumber = 66\n |EpisodeNu"],["unclosed-table",26,2,"unclosed table","{|"]]

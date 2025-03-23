@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,3," original_title      = Οδύσσεια\n "]]
+window.data=[["no-duplicate",14,3,"duplicated parameter"," original_title      = Οδύσσεια\n "],["no-duplicate",20,3,"duplicated parameter"," original_title      = \n "]]

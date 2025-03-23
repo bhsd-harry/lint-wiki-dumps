@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",54,2,"[[Category:明朝东莞县知县]]"]]
+window.data=[["no-duplicate",54,2,"duplicated category","[[Category:明朝东莞县知县]]"],["no-duplicate",65,2,"duplicated category","[[Category:明朝东莞县知县]]"]]

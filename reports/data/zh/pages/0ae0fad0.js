@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",39,1," Scrambed eggs.jpg[[炒蛋]]"]]
+window.data=[["no-ignored",39,1,"invalid content in <gallery>"," Scrambed eggs.jpg[[炒蛋]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",82,2,"[[Category:韓國陸軍題材電影]]"]]
+window.data=[["no-duplicate",82,2,"duplicated category","[[Category:韓國陸軍題材電影]]"],["no-duplicate",83,2,"duplicated category","[[Category:韓國陸軍題材電影]]"]]

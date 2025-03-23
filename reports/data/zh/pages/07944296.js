@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",189,2,"[[Category:2010年乒乓球|Asian Games]]"]]
+window.data=[["no-duplicate",189,2,"duplicated category","[[Category:2010年乒乓球|Asian Games]]"],["no-duplicate",190,2,"duplicated category","[[Category:2010年乒乓球]]"]]

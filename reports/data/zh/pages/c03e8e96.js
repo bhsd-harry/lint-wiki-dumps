@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",259,2,"[[Category:日本男配音員]]"]]
+window.data=[["no-duplicate",259,2,"duplicated category","[[Category:日本男配音員]]"],["no-duplicate",263,2,"duplicated category","[[Category:日本男配音員]]"]]

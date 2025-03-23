@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",43,187,"author= "]]
+window.data=[["no-duplicate",43,187,"duplicated parameter","author= "],["no-duplicate",43,234,"duplicated parameter","author=譚兵讀武 "],["no-duplicate",173,193,"duplicated parameter","author= "],["no-duplicate",173,241,"duplicated parameter","author=譚兵讀武 "],["no-duplicate",176,126,"duplicated parameter","author= "],["no-duplicate",176,180,"duplicated parameter","author=譚兵讀武 "]]

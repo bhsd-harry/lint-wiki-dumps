@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",2,2,"duplicated category","[[Category:含有拉丁語的條目]]"]]
+window.data=[["no-duplicate",2,2,"duplicated category","[[Category:含有拉丁語的條目]]"],["no-duplicate",7,23,"duplicated category","[[Category:含有拉丁語的條目]]"],["no-duplicate",8,23,"duplicated category","[[Category:含有拉丁語的條目]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,89,"Interiér kostela"]]
+window.data=[["no-duplicate",14,89,"duplicated image caption parameter","Interiér kostela"],["no-duplicate",14,106,"duplicated image caption parameter","vlevo"]]

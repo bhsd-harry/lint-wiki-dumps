@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3," type = Planetary\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter"," type = Planetary\n "],["no-duplicate",6,3,"duplicated parameter"," type = Planetary\n "]]

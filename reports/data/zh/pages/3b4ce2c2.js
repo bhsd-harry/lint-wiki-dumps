@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,206,"url=http://www.johnsonelectric.com/~/media/Files/News/Company/zh/2015/c_20151028-press_completetion-acquisition-stackpole.ashx?la=zh "]]
+window.data=[["no-duplicate",29,206,"duplicated parameter","url=http://www.johnsonelectric.com/~/media/Files/News/Company/zh/2015/c_20151028-press_completetion-acquisition-stackpole.ashx?la=zh "],["no-duplicate",29,376,"duplicated parameter","url=https://www.johnsonelectric.com/pub/media/sigma/circulars/c_20151028_completetion-acquisition-stackpole_1_.pdf "]]

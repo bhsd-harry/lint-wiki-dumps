@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,49,"Michael as a hurricane-force extratropical cyclone on October 13"]]
+window.data=[["no-duplicate",41,49,"duplicated image caption parameter","Michael as a hurricane-force extratropical cyclone on October 13"],["no-duplicate",41,114,"duplicated image caption parameter","迈克尔在10月13日作为飓风强度温带气旋的卫星图像"]]

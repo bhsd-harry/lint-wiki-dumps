@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",336,281,"}}"],[2,"no-duplicate",426,3,"rowspan=\"2\""],[1,"tag-like",336,153,"</ref"]]
+window.data=[["tag-like",336,153,"lonely \"<\"","</ref"],["lonely-bracket",336,281,"lonely \"}\"","}}"],["no-duplicate",426,3,"duplicated rowspan attribute","rowspan=\"2\""],["no-duplicate",426,32,"duplicated rowspan attribute","rowspan=\"3\""]]

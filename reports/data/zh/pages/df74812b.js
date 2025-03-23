@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",130,2,"[[Category:日本科幻小說]]"]]
+window.data=[["no-duplicate",130,2,"duplicated category","[[Category:日本科幻小說]]"],["no-duplicate",132,2,"duplicated category","[[Category:日本科幻小說]]"]]

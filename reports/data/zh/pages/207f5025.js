@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",53,2,"[[Category:政治意識形態]]"]]
+window.data=[["no-duplicate",53,2,"duplicated category","[[Category:政治意識形態]]"],["no-duplicate",59,2,"duplicated category","[[Category:政治意識形態]]"]]

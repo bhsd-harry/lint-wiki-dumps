@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3," image = \n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter"," image = \n "],["no-duplicate",6,3,"duplicated parameter"," image = Aldrovandia affinis.jpg\n "]]

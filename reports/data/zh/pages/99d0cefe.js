@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",45,181,"archive-url=https://web.archive.org/web/20190522171151/http://ent.sina.com.cn/r/2004-03-11/1628328546.html"]]
+window.data=[["no-duplicate",45,181,"duplicated parameter","archive-url=https://web.archive.org/web/20190522171151/http://ent.sina.com.cn/r/2004-03-11/1628328546.html"],["no-duplicate",45,324,"duplicated parameter","archive-url=https://web.archive.org/web/20190522171151/http://ent.sina.com.cn/r/2004-03-11/1628328546.html"]]

@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-bracket",327,214,"{{"],[4,"no-duplicate",278,3925,"first1=Rob"]]
+window.data=[["no-duplicate",278,3925,"duplicated parameter","first1=Rob"],["no-duplicate",278,3950,"duplicated parameter","first1=Katharina"],["lonely-bracket",327,214,"lonely \"{\"","{{"],["lonely-bracket",327,469,"lonely \"[\"","[["],["lonely-bracket",327,640,"lonely \"}\"","}}"],["no-duplicate",451,2,"duplicated category","[[Category:俄罗斯联邦总理]]"],["no-duplicate",452,2,"duplicated category","[[Category:俄罗斯联邦总理]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",91,1," ;创新路高铁二街（站位位于创新路，A出入口向北约290米，创新路火石桥大街路口东侧）\n {{沈阳公交线路列表|width=100%|format=|end=yes|335}}"]]
+window.data=[["fostered-content",91,1,"content to be moved out from the table"," ;创新路高铁二街（站位位于创新路，A出入口向北约290米，创新路火石桥大街路口东侧）\n {{沈阳公交线路列表|width=100%|format=|end=yes|335}}"],["fostered-content",94,1,"content to be moved out from the table"," ;禧悦风华（站位位于沈营大街，D出口向东约400米，沈营大街站东三路路口南侧）\n ;火石桥（站位位于沈营大街，A出口向东约450米，沈营大街创新路路口南侧）\n {{沈阳公交线路列表|width=100%|format=|139|394}}\n {{col-end}}"]]

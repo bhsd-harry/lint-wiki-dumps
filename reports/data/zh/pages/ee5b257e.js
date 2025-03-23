@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",61,2,"[[Category:二战中美国军事力量的编成]]"]]
+window.data=[["no-duplicate",61,2,"duplicated category","[[Category:二战中美国军事力量的编成]]"],["no-duplicate",62,2,"duplicated category","[[Category:二战中美国军事力量的编成]]"]]

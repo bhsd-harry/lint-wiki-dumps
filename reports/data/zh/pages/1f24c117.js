@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,51,"thumbtime=11"]]
+window.data=[["no-duplicate",3,51,"duplicated image caption parameter","thumbtime=11"],["no-duplicate",3,72,"duplicated image caption parameter","Citadis X-05 305型營運在[[悉尼輕軌]]"]]

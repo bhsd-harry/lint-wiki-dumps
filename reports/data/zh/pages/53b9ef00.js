@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",246,2,"[[Category:2022年冬季奥林匹克运动会花样滑冰运动员]]"],[5,"unmatched-tag",96,26,"<small>"]]
+window.data=[["unmatched-tag",96,26,"unclosed tag","<small>"],["unmatched-tag",105,116,"unclosed tag","<small>"],["unmatched-tag",114,20,"unmatched closing tag","</small>"],["unmatched-tag",114,52,"unclosed tag","<small>"],["unmatched-tag",129,153,"unclosed tag","<small>"],["no-duplicate",246,2,"duplicated category","[[Category:2022年冬季奥林匹克运动会花样滑冰运动员]]"],["no-duplicate",250,2,"duplicated category","[[Category:2022年冬季奥林匹克运动会花样滑冰运动员]]"]]

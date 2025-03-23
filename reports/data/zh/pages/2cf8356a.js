@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",88,4,"凌异州好友，患有气喘。"]]
+window.data=[["no-ignored",88,4,"containing invalid attribute","凌异州好友，患有气喘。"],["no-ignored",90,4,"containing invalid attribute","凌异州的助理，和贾菲同居。跟贾菲求婚，后与贾菲在一起。"]]

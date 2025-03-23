@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",194,3,"Extra-Lightweight"],[2,"no-ignored",200,3,"Half-中量级 "]]
+window.data=[["illegal-attr",194,3,"illegal attribute name","Extra-Lightweight"],["illegal-attr",197,3,"illegal attribute name","Lightweight"],["no-ignored",200,3,"containing invalid attribute","Half-中量级 "],["no-ignored",203,3,"containing invalid attribute","Half-重量级 "]]

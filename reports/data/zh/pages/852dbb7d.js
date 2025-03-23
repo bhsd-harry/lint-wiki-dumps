@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,3,"FrenchOpenDoublesresult           = 2R ([[2024年法国网球公开赛男子双打比赛|2024]])\n "]]
+window.data=[["no-duplicate",26,3,"duplicated parameter","FrenchOpenDoublesresult           = 2R ([[2024年法国网球公开赛男子双打比赛|2024]])\n "],["no-duplicate",27,3,"duplicated parameter","FrenchOpenDoublesresult           = 2R（[[2024年法国网球公开赛男子双打比赛|2024]]）\n "]]

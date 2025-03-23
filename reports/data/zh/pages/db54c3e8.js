@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",669,2,"[[Category:2022年無綫電視劇集]]"]]
+window.data=[["no-duplicate",669,2,"duplicated category","[[Category:2022年無綫電視劇集]]"],["no-duplicate",670,2,"duplicated category","[[Category:2022年無綫電視劇集]]"]]

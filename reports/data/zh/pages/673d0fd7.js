@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",149,2,"[[Category:哥伦比亚历史]]"]]
+window.data=[["no-duplicate",149,2,"duplicated category","[[Category:哥伦比亚历史]]"],["no-duplicate",158,2,"duplicated category","[[Category:哥伦比亚历史]]"]]

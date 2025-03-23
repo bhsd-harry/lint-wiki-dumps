@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",247,46,"right}300px"]]
+window.data=[["no-duplicate",247,46,"duplicated image caption parameter","right}300px"],["no-duplicate",247,58,"duplicated image caption parameter","测圆海镜卷二 正率"]]

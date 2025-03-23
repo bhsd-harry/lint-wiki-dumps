@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,33,"right200px"]]
+window.data=[["no-duplicate",1,33,"duplicated image caption parameter","right200px"],["no-duplicate",1,44,"duplicated image caption parameter","[[東南西北]]也是動態摺紙的一種"]]

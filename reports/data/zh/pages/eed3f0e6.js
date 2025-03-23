@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",752,2,"[[Category:2017年Oricon專輯週榜冠軍作品]]"]]
+window.data=[["no-duplicate",752,2,"duplicated category","[[Category:2017年Oricon專輯週榜冠軍作品]]"],["no-duplicate",757,2,"duplicated category","[[Category:2017年Oricon專輯週榜冠軍作品|*]]"]]

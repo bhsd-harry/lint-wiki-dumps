@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",128,140,"1903partswiki mod"]]
+window.data=[["no-duplicate",128,140,"duplicated image caption parameter","1903partswiki mod"],["no-duplicate",128,158,"duplicated image caption parameter","這是柯爾特“美國軍械庫”再版型M1903袖珍型號。除了1926年附加的彈匣釋放扣以外，它的所有主要部件都獲得更新。其拆卸清洗類似於1906年的柯爾特.25“背心袖珍”手槍，但要容易得多。"]]

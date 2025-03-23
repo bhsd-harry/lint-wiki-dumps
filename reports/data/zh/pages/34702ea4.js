@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,49,"|Sony Ericsson Xperia neo V"]]
+window.data=[["no-ignored",1,49,"useless link text","|Sony Ericsson Xperia neo V"]]

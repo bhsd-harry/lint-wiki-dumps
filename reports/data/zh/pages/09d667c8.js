@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",344,24,"style=\"width:95%;\""],[1,"no-ignored",50,85,"/祝展輝之舊情人〈br"]]
+window.data=[["no-ignored",50,85,"containing invalid attribute","/祝展輝之舊情人〈br"],["no-duplicate",344,24,"duplicated style attribute","style=\"width:95%;\""],["no-duplicate",344,44,"duplicated style attribute","style=\"font-size:90%;\""]]

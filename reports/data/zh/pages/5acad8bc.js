@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",236,28,"bordercolor"]]
+window.data=[["illegal-attr",236,28,"illegal attribute name","bordercolor"],["illegal-attr",236,51,"illegal attribute name","border"],["illegal-attr",236,63,"illegal attribute name","cellpadding"],["illegal-attr",236,80,"illegal attribute name","cellspacing"]]

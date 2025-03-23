@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,2,"[[Category:绿菌科|*]]"]]
+window.data=[["no-duplicate",22,2,"duplicated category","[[Category:绿菌科|*]]"],["no-duplicate",23,2,"duplicated category","[[Category:绿菌科|L]]"]]

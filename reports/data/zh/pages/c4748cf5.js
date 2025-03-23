@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",174,1," *備註：改版後無魔王"],[1,"unclosed-table",272,2,"{|"],[1,"unmatched-tag",381,165,"</small>"]]
+window.data=[["fostered-content",174,1,"content to be moved out from the table"," *備註：改版後無魔王"],["unmatched-tag",381,165,"unmatched closing tag","</small>"],["unclosed-table",272,2,"unclosed table","{|"]]

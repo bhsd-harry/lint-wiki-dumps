@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",67,2,"[[Category:許冠傑音樂專輯]]"]]
+window.data=[["no-duplicate",67,2,"duplicated category","[[Category:許冠傑音樂專輯]]"],["no-duplicate",77,2,"duplicated category","[[Category:許冠傑音樂專輯]]"],["no-duplicate",68,2,"duplicated category","[[Category:香港音樂專輯]]"],["no-duplicate",78,2,"duplicated category","[[Category:香港音樂專輯]]"],["no-duplicate",69,2,"duplicated category","[[Category:1986年音樂專輯]]"],["no-duplicate",76,2,"duplicated category","[[Category:1986年音樂專輯]]"]]

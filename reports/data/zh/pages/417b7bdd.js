@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",16,3," blank1_label =\n "]]
+window.data=[["no-duplicate",16,3,"duplicated parameter"," blank1_label =\n "],["no-duplicate",36,3,"duplicated parameter"," blank1_label = 網頁\n "],["no-duplicate",17,3,"duplicated parameter"," blank1_data =\n "],["no-duplicate",37,3,"duplicated parameter"," blank1_data = {{URL|https://www.jimmycartertribute.org}}\n "]]

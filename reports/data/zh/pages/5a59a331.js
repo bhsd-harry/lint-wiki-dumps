@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,3,"zh-hk:人馬情深;zh-cn:赛马皮特;zh-tw:賽馬皮特;\n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter","zh-hk:人馬情深;zh-cn:赛马皮特;zh-tw:賽馬皮特;\n "],["no-duplicate",3,3,"duplicated parameter","1=zh:安德魯·海格;zh-cn:安德鲁·黑格;\n "]]

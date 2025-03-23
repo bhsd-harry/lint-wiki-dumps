@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",52,40,"Right"]]
+window.data=[["no-duplicate",52,40,"duplicated image caption parameter","Right"],["no-duplicate",52,46,"duplicated image caption parameter","根據五行學說臟腑間的相生相剋關係"]]

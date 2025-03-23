@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",74,36,"lonely \"[\"","[["],[1,"no-ignored",96,1,"invalid content in <gallery>"," [...]"]]
+window.data=[["lonely-bracket",74,36,"lonely \"[\"","[["],["no-ignored",96,1,"invalid content in <gallery>"," [...]"]]

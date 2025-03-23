@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",42,45,"vignette"],[1,"unmatched-tag",67,2,"</div>"]]
+window.data=[["no-duplicate",42,45,"duplicated image caption parameter","vignette"],["no-duplicate",42,64,"duplicated image caption parameter","Experiment of the Boat by Tsiolkovsky."],["unmatched-tag",67,2,"unmatched closing tag","</div>"]]

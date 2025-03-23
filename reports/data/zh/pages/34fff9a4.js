@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",78,2,"[[Category:2018年冬季奧林匹克運動會花式滑冰選手]]"]]
+window.data=[["no-duplicate",78,2,"duplicated category","[[Category:2018年冬季奧林匹克運動會花式滑冰選手]]"],["no-duplicate",83,2,"duplicated category","[[Category:2018年冬季奧林匹克運動會花式滑冰選手]]"]]

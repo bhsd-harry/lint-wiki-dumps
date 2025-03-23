@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",178,16,"{{"],[1,"no-ignored",178,3,"寧波不明建築物內一細小房间{{noteTag"],[1,"tag-like",347,936,"</ref"]]
+window.data=[["lonely-bracket",178,16,"lonely \"{\"","{{"],["no-ignored",178,3,"containing invalid attribute","寧波不明建築物內一細小房间{{noteTag"],["tag-like",347,936,"lonely \"<\"","</ref"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,3," educate = \n "]]
+window.data=[["no-duplicate",29,3,"duplicated parameter"," educate = \n "],["no-duplicate",31,3,"duplicated parameter"," educate =\n *[[國立新竹高級中學|臺灣省立新竹中學]]\n *[[國立政治大學]]東方語文學系\n "]]

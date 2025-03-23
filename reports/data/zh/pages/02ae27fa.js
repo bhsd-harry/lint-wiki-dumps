@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",282,3,"2005"],[1,"lonely-http",383,35,"ISBN"]]
+window.data=[["illegal-attr",282,3,"illegal attribute name","2005"],["lonely-http",383,35,"lonely \"ISBN\"","ISBN"]]

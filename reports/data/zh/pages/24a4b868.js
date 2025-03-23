@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",35,2,"[[Category:亚东县]]"]]
+window.data=[["no-duplicate",35,2,"duplicated category","[[Category:亚东县]]"],["no-duplicate",50,2,"duplicated category","[[Category:亚东县]]"],["no-duplicate",37,2,"duplicated category","[[Category:西藏山峰]]"],["no-duplicate",49,2,"duplicated category","[[Category:西藏山峰|B]]"],["no-duplicate",39,2,"duplicated category","[[Category:錫金邦山峰]]"],["no-duplicate",48,2,"duplicated category","[[Category:錫金邦山峰]]"]]

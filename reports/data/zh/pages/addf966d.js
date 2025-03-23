@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",93,2,"[[Category:广东省高速公路|G]]"]]
+window.data=[["no-duplicate",93,2,"duplicated category","[[Category:广东省高速公路|G]]"],["no-duplicate",94,2,"duplicated category","[[Category:广东省高速公路|S]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,17,"|莱茵河左岸"]]
+window.data=[["no-ignored",1,17,"useless link text","|莱茵河左岸"]]

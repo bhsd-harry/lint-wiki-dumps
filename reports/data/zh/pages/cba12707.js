@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:韩国罗马天主教总主教]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:韩国罗马天主教总主教]]"],["no-duplicate",43,2,"duplicated category","[[Category:韩国罗马天主教总主教]]"]]

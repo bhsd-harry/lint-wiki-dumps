@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,3,"postal_code               = 92711\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter","postal_code               = 92711\n "],["no-duplicate",44,3,"duplicated parameter"," postal_code             = 92711\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",74,63,"attributes of a closing tag"," color"]]
+window.data=[["no-ignored",74,63,"attributes of a closing tag"," color"],["no-ignored",76,45,"attributes of a closing tag"," color"]]

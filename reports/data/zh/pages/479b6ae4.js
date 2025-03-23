@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",240,3,"歷史上，喜寧本身為蒙古族。"]]
+window.data=[["no-ignored",240,3,"containing invalid attribute","歷史上，喜寧本身為蒙古族。"]]

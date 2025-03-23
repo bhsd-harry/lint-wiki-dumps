@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,32,"upright=1.3<!--size for lead image-->"]]
+window.data=[["no-duplicate",4,32,"duplicated image caption parameter","upright=1.3<!--size for lead image-->"],["no-duplicate",4,70,"duplicated image caption parameter","澳大利亚的驮马"]]

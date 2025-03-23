@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",1770,15,"（全台藝員卡拉之星大唱遊"]]
+window.data=[["no-ignored",1770,15,"containing invalid attribute","（全台藝員卡拉之星大唱遊"],["no-ignored",1773,15,"containing invalid attribute","（全台藝員卡拉之星大唱遊"]]

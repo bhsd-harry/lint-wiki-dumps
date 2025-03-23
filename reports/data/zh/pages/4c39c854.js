@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",49,43,"Right"],[1,"no-ignored",179,36,"何家銘]"]]
+window.data=[["no-duplicate",49,43,"duplicated image caption parameter","Right"],["no-duplicate",49,49,"duplicated image caption parameter","2023年5月6日，安俊豪在[[西九藝術公園]]參與《油尖旺社區健康巡禮》演出"],["no-ignored",179,36,"containing invalid attribute","何家銘]"]]

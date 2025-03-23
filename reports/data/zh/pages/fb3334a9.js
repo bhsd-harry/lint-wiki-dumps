@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",6,2,"[[Category:Pages using infobox person with unknown empty parameters|home_townSerena Valentino]]"]]
+window.data=[["no-duplicate",6,2,"duplicated category","[[Category:Pages using infobox person with unknown empty parameters|home_townSerena Valentino]]"],["no-duplicate",7,2,"duplicated category","[[Category:Pages using infobox person with unknown empty parameters|salarySerena Valentino]]"],["no-duplicate",8,2,"duplicated category","[[Category:Pages using infobox person with unknown empty parameters|residenceSerena Valentino]]"]]

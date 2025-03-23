@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",62,43,"120-мм самоходный миномёт на базе M3"]]
+window.data=[["no-duplicate",62,43,"duplicated image caption parameter","120-мм самоходный миномёт на базе M3"],["no-duplicate",62,92,"duplicated image caption parameter","M3 Mk D自走砲。"]]

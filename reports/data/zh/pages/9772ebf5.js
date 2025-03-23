@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",107,2,"[[Category:格莱美奖获得者]]"]]
+window.data=[["no-duplicate",107,2,"duplicated category","[[Category:格莱美奖获得者]]"],["no-duplicate",111,2,"duplicated category","[[Category:格莱美奖获得者]]"]]

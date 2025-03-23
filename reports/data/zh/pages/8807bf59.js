@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",494,74,"200"]]
+window.data=[["no-duplicate",494,74,"duplicated image caption parameter","200"],["no-duplicate",494,78,"duplicated image caption parameter","芥末醬是第戎當地的特色產品"]]

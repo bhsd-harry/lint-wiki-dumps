@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",139,444,"{{Party_meta/color/沙巴进步党}}\""]]
+window.data=[["no-ignored",139,444,"containing invalid attribute","{{Party_meta/color/沙巴进步党}}\""]]

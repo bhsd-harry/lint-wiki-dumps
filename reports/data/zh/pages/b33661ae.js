@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",158,2,"[[Category:岩手縣背景電影]]"]]
+window.data=[["no-duplicate",158,2,"duplicated category","[[Category:岩手縣背景電影]]"],["no-duplicate",161,2,"duplicated category","[[Category:岩手縣背景電影]]"]]

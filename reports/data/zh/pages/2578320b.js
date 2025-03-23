@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",209,36,"280x280ピクセル"]]
+window.data=[["no-duplicate",209,36,"duplicated image caption parameter","280x280ピクセル"],["no-duplicate",209,48,"duplicated image caption parameter","朱鷺Liner（縣內高速）車輛"]]

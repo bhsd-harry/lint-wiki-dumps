@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",34,3,"日吉站 (神奈川縣)"]]
+window.data=[["no-ignored",34,3,"containing invalid attribute","日吉站 (神奈川縣)"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",106,2,"[[Category:香港大學校友]]"]]
+window.data=[["no-duplicate",106,2,"duplicated category","[[Category:香港大學校友]]"],["no-duplicate",108,2,"duplicated category","[[Category:香港大學校友|C]]"]]

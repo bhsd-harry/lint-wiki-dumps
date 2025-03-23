@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",75,290,"["],[2,"no-duplicate",124,2,"[[Category:韓國電視主持人]]"]]
+window.data=[["lonely-bracket",75,290,"lonely \"[\"","["],["no-duplicate",124,2,"duplicated category","[[Category:韓國電視主持人]]"],["no-duplicate",126,2,"duplicated category","[[Category:韓國電視主持人]]"]]

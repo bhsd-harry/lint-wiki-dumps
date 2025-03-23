@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",190,42,"MAN"],[3,"no-ignored",190,32," '''YOUNG "]]
+window.data=[["illegal-attr",190,42,"illegal attribute name","MAN"],["no-ignored",190,32,"containing invalid attribute"," '''YOUNG "],["no-ignored",190,45,"containing invalid attribute"," (Y.M.C.A.)"],["no-ignored",200,54,"containing invalid attribute"," スティーヴィー・ワンダー"]]

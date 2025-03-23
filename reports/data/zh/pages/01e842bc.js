@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",51,1," * 食物营养学科"]]
+window.data=[["fostered-content",51,1,"content to be moved out from the table"," * 食物营养学科"],["fostered-content",75,1,"content to be moved out from the table"," * 前秋田短期大学附属幼儿园[[幼稚園|幼儿园]]\n * 前秋田短期大学附属[[高級中學#日本|高等学校]]"]]

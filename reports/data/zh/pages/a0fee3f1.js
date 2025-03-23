@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",112,1," [[File:Wien Besatzungszonen.png|300px|thumb|left|被盟軍分區佔領的維也納]]"]]
+window.data=[["fostered-content",112,1,"content to be moved out from the table"," [[File:Wien Besatzungszonen.png|300px|thumb|left|被盟軍分區佔領的維也納]]"]]

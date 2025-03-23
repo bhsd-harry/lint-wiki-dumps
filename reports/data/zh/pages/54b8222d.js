@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",76,2,"[[Category:抗焦虑药]]"]]
+window.data=[["no-duplicate",76,2,"duplicated category","[[Category:抗焦虑药]]"],["no-duplicate",77,2,"duplicated category","[[Category:抗焦虑药]]"]]

@@ -1,1 +1,1 @@
-window.data=[[3,"nested-link",105,119,"[[Госсовет СССР|Госсовета СССР]]"]]
+window.data=[["nested-link",105,119,"internal link in an external link","[[Госсовет СССР|Госсовета СССР]]"],["nested-link",105,155,"internal link in an external link","[[14 ноября]]"],["nested-link",105,169,"internal link in an external link","[[1991 год]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",94,86,"fcfccf\"; empty-cells:show; border-collapse:collapse;\"  "],[1,"unclosed-table",40,2,"{|"]]
+window.data=[["unclosed-table",40,2,"unclosed table","{|"],["invalid-css",94,84,"semi-colon expected","#"],["no-ignored",94,86,"containing invalid attribute","fcfccf\"; empty-cells:show; border-collapse:collapse;\"  "],["invalid-css",104,84,"semi-colon expected","#"],["no-ignored",104,86,"containing invalid attribute","fcfccf\"; empty-cells:show; border-collapse:collapse;\"  "]]

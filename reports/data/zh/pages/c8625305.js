@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",206,2,"[[Category:空難倖存者]]"]]
+window.data=[["no-duplicate",206,2,"duplicated category","[[Category:空難倖存者]]"],["no-duplicate",207,2,"duplicated category","[[Category:空難倖存者]]"]]

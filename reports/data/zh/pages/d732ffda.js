@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",44,15," data-sort-value-\"256\""]]
+window.data=[["no-ignored",44,15,"containing invalid attribute"," data-sort-value-\"256\""]]

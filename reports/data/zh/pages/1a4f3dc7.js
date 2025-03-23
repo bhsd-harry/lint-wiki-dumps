@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,2,"[[Category:台灣文化節]]"]]
+window.data=[["no-duplicate",9,2,"duplicated category","[[Category:台灣文化節]]"],["no-duplicate",10,2,"duplicated category","[[Category:台灣文化節]]"]]

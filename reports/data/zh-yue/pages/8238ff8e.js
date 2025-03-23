@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,2,"duplicated category","[[Category:時間]]"]]
+window.data=[["no-duplicate",25,2,"duplicated category","[[Category:時間]]"],["no-duplicate",27,2,"duplicated category","[[Category:時間]]"]]

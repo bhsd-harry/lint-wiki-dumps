@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",93,2,"[[Category:傑尼斯事務所所屬藝人]]"]]
+window.data=[["no-duplicate",93,2,"duplicated category","[[Category:傑尼斯事務所所屬藝人]]"],["no-duplicate",100,2,"duplicated category","[[Category:傑尼斯事務所所屬藝人]]"]]

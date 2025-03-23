@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",426,3," scope-\"col\"  "],[1,"unmatched-tag",397,77,"</span>"]]
+window.data=[["unmatched-tag",397,77,"unmatched closing tag","</span>"],["no-ignored",426,3,"containing invalid attribute"," scope-\"col\"  "],["no-ignored",457,3,"containing invalid attribute"," scope-\"col\"  "]]

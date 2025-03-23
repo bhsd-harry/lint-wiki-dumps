@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",482,1," * {{flagicon|Japan}} [[廣島市]]（[[日本]]）"]]
+window.data=[["fostered-content",482,1,"content to be moved out from the table"," * {{flagicon|Japan}} [[廣島市]]（[[日本]]）"],["fostered-content",484,1,"content to be moved out from the table"," * {{flagicon|Uganda}} [[坎帕拉]]（[[乌干达]]）"]]

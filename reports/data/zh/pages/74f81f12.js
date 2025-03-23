@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",585,122,"clubnat=FRA"]]
+window.data=[["no-duplicate",585,122,"duplicated parameter","clubnat=FRA"],["no-duplicate",585,146,"duplicated parameter","clubnat=ENG"]]

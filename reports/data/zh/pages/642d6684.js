@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,2,"[[Category:越南植物|D]]"]]
+window.data=[["no-duplicate",14,2,"duplicated category","[[Category:越南植物|D]]"],["no-duplicate",15,2,"duplicated category","[[Category:越南植物|D]]"]]

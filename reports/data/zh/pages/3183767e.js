@@ -1,1 +1,1 @@
-window.data=[[8,"illegal-attr",88,3,"wiBAN"]]
+window.data=[["illegal-attr",88,3,"illegal attribute name","wiBAN"],["illegal-attr",333,3,"illegal attribute name","wiBAN"],["illegal-attr",577,3,"illegal attribute name","wiBAN"],["illegal-attr",821,3,"illegal attribute name","wiBAN"],["illegal-attr",991,3,"illegal attribute name","wiBAN"],["illegal-attr",1235,3,"illegal attribute name","wiBAN"],["illegal-attr",1479,3,"illegal attribute name","wiBAN"],["illegal-attr",1723,3,"illegal attribute name","wiBAN"]]

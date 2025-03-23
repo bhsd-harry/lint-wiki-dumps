@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",73,2,"[[Category:群体过程]]"]]
+window.data=[["no-duplicate",73,2,"duplicated category","[[Category:群体过程]]"],["no-duplicate",74,2,"duplicated category","[[Category:群体过程]]"]]

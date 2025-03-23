@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,51,"size=100%"]]
+window.data=[["no-duplicate",11,51,"duplicated parameter","size=100%"],["no-duplicate",11,68,"duplicated parameter","size=100%"]]

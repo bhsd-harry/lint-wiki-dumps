@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",175,2,"[[分類:前1世紀建立]]"]]
+window.data=[["no-duplicate",175,2,"duplicated category","[[分類:前1世紀建立]]"],["no-duplicate",177,2,"duplicated category","[[分類:前1世紀建立]]"]]

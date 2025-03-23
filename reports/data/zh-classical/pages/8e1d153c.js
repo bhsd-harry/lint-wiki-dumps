@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,44,"duplicated image caption parameter","default"]]
+window.data=[["no-duplicate",2,44,"duplicated image caption parameter","default"],["no-duplicate",2,52,"duplicated image caption parameter","南京中華門"]]

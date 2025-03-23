@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",198,1,"content to be moved out from the table","\n ==== 最佳方言歌曲男演唱人獎（第3屆）===="],[1,"unclosed-table",180,2,"unclosed table","{|"]]
+window.data=[["fostered-content",198,1,"content to be moved out from the table","\n ==== 最佳方言歌曲男演唱人獎（第3屆）===="],["unclosed-table",180,2,"unclosed table","{|"]]

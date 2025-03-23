@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:当代艺术]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:当代艺术]]"],["no-duplicate",48,2,"duplicated category","[[Category:当代艺术]]"]]

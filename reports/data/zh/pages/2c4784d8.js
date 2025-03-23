@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,3,"pushpin_map = \n "]]
+window.data=[["no-duplicate",19,3,"duplicated parameter","pushpin_map = \n "],["no-duplicate",34,3,"duplicated parameter"," pushpin_map             = Russia Leningrad Oblast#European Russia#Europe\n "]]

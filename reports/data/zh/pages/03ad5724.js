@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",277,2,"[[Category:電腦動畫電影]]"]]
+window.data=[["no-duplicate",277,2,"duplicated category","[[Category:電腦動畫電影]]"],["no-duplicate",287,2,"duplicated category","[[Category:電腦動畫電影]]"]]

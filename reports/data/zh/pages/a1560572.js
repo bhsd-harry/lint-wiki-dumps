@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",55,73,"{{"],[2,"no-duplicate",55,29,"{{link-en|約安尼斯·瓦爾瓦基斯|Ioannis_Varvakis}}肖像畫，由{{link-en"]]
+window.data=[["lonely-bracket",55,73,"lonely \"{\"","{{"],["no-duplicate",55,29,"duplicated image caption parameter","{{link-en|約安尼斯·瓦爾瓦基斯|Ioannis_Varvakis}}肖像畫，由{{link-en"],["no-duplicate",55,83,"duplicated image caption parameter","弗拉迪米爾·博羅維科夫斯基"]]

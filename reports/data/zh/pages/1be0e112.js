@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",16,118,"[[National Portrait Gallery, London|National Portrait Gallery]]"]]
+window.data=[["nested-link",16,118,"internal link in an external link","[[National Portrait Gallery, London|National Portrait Gallery]]"],["nested-link",17,201,"internal link in an external link","[[The National Archives (United Kingdom)|The National Archives]]"]]

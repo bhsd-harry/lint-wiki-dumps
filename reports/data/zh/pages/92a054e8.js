@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",366,46,"right"]]
+window.data=[["no-duplicate",366,46,"conflicting image horizontal-alignment parameter","right"],["no-duplicate",366,89,"conflicting image horizontal-alignment parameter","left"],["no-duplicate",717,2,"duplicated category","[[Category:第十四届全国人大代表]]"],["no-duplicate",740,2,"duplicated category","[[Category:第十四届全国人大代表]]"]]

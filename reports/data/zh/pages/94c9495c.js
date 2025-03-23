@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",80,1," ;兴华公园北（站位位于南八中路，兴华南街西侧，D2出入口向西，单向站位）\n {{沈阳公交线路列表|width=100%|format=|end=yes|134|141|161|279}}"]]
+window.data=[["fostered-content",80,1,"content to be moved out from the table"," ;兴华公园北（站位位于南八中路，兴华南街西侧，D2出入口向西，单向站位）\n {{沈阳公交线路列表|width=100%|format=|end=yes|134|141|161|279}}"],["fostered-content",83,1,"content to be moved out from the table"," ;南八路兴华街（站位位于南八中路，新玛特铁西店旁，D2出入口向东，西向单向站位）<br>南九路兴华街（站位位于南九中路，兴华北街东侧，B出入口向东约120米，东向单向站位）<br>南十路兴华街（站位位于南十中路，兴华北街西侧，B出入口向东南约380米，西向单向站位）\n {{沈阳公交线路列表|wid"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3,"native_name        = International Plaza\n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter","native_name        = International Plaza\n "],["no-duplicate",6,3,"duplicated parameter","native_name        = \n "]]

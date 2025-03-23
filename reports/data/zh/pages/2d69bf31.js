@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",2639,4,"[["],[1,"no-ignored",2639,4,"[[丧尸围城2]]"]]
+window.data=[["lonely-bracket",2639,4,"lonely \"[\"","[["],["lonely-bracket",2639,11,"lonely \"]\"","]]"],["no-ignored",2639,4,"containing invalid attribute","[[丧尸围城2]]"]]

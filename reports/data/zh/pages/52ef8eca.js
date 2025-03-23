@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",110,2,"[[Category:臺灣證券交易所上市公司|K建]]"]]
+window.data=[["no-duplicate",110,2,"duplicated category","[[Category:臺灣證券交易所上市公司|K建]]"],["no-duplicate",114,2,"duplicated category","[[Category:臺灣證券交易所上市公司|2]]"]]

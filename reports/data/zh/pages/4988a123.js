@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",36,249,"{{"],[1,"no-ignored",556,3," {{link-ja"],[1,"tag-like",320,19,"<br"]]
+window.data=[["lonely-bracket",36,249,"lonely \"{\"","{{"],["tag-like",320,19,"lonely \"<\"","<br"],["lonely-bracket",376,30,"lonely \"}\"","}"],["lonely-bracket",556,4,"lonely \"{\"","{{"],["no-ignored",556,3,"containing invalid attribute"," {{link-ja"],["lonely-bracket",556,28,"lonely \"]\"","]]"]]

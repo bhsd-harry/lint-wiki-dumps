@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-http",42,1006,"RFC"],[2,"no-duplicate",219,40,"縮略圖"]]
+window.data=[["lonely-http",42,1006,"lonely \"RFC\"","RFC"],["lonely-http",202,21,"lonely \"RFC\"","RFC"],["no-duplicate",219,40,"duplicated image caption parameter","縮略圖"],["no-duplicate",219,58,"duplicated image caption parameter","使用多個連結和使用持久連結的對比"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",67,4,"{"],[1,"no-ignored",67,4,"{[[潘杰寧]]}-||沙拉||必勝會成員"]]
+window.data=[["lonely-bracket",67,4,"lonely \"{\"","{"],["lonely-bracket",67,5,"lonely \"[\"","[["],["lonely-bracket",67,10,"lonely \"]\"","]]"],["lonely-bracket",67,12,"lonely \"}\"","}"],["no-ignored",67,4,"containing invalid attribute","{[[潘杰寧]]}-||沙拉||必勝會成員"]]

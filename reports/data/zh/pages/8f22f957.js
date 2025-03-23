@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",52,33,"style=\"font-size: 90%;\""]]
+window.data=[["no-duplicate",52,33,"duplicated style attribute","style=\"font-size: 90%;\""],["no-duplicate",52,58,"duplicated style attribute","style=\"-moz-column-count:2; column-count:2};\""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",533,39,"style=\"width:90%\""],[2,"unmatched-tag",524,2,"</small>"]]
+window.data=[["invalid-css",39,45,"semi-colon expected",""],["invalid-css",39,45,"colon expected",""],["unmatched-tag",524,2,"unmatched closing tag","</small>"],["no-duplicate",533,39,"duplicated style attribute","style=\"width:90%\""],["no-duplicate",533,58,"duplicated style attribute","style=font-size:small"],["unmatched-tag",598,2,"unmatched closing tag","</small>"]]

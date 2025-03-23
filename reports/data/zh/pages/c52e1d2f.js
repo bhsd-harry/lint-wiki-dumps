@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,38,"Right"]]
+window.data=[["no-duplicate",7,38,"duplicated image caption parameter","Right"],["no-duplicate",7,44,"duplicated image caption parameter","被列為古跡的灰窰遺址，背景乾涸河道為北潭涌出斬竹灣口。"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",539,2,"[[Category:戈亚斯州市镇|*]]"]]
+window.data=[["no-duplicate",539,2,"duplicated category","[[Category:戈亚斯州市镇|*]]"],["no-duplicate",542,2,"duplicated category","[[Category:戈亚斯州市镇]]"]]

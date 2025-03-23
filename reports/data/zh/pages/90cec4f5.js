@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",38,36,"{{"],[4,"no-duplicate",38,36,"{{link-ja"]]
+window.data=[["lonely-bracket",38,36,"lonely \"{\"","{{"],["lonely-bracket",38,61,"lonely \"]\"","]]"],["no-duplicate",38,36,"duplicated image caption parameter","{{link-ja"],["no-duplicate",38,46,"duplicated image caption parameter","古椿之靈"],["no-duplicate",38,51,"duplicated image caption parameter","古椿の霊"],["no-duplicate",38,56,"duplicated image caption parameter","古山茶之靈]]（{{lang|ja|ふるつばきのれい}}）"]]

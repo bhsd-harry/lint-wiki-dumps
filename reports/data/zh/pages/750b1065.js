@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",1,31,"Right"]]
+window.data=[["no-duplicate",1,31,"duplicated image caption parameter","Right"],["no-duplicate",1,43,"duplicated image caption parameter","[[加拿大海軍]]巡邏艇"],["no-duplicate",2,43,"duplicated image caption parameter","Right"],["no-duplicate",2,55,"duplicated image caption parameter","[[越戰]]美軍河上巡邏艇"]]

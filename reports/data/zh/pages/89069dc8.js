@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",89,92,"align=text-top"]]
+window.data=[["no-duplicate",89,92,"duplicated image caption parameter","align=text-top"],["no-duplicate",89,107,"duplicated image caption parameter","美國憲法號巡防艦"]]

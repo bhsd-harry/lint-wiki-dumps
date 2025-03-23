@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",715,43,"Right"]]
+window.data=[["no-duplicate",715,43,"duplicated image caption parameter","Right"],["no-duplicate",715,55,"duplicated image caption parameter","[[米羅斯拉夫·克洛泽|-{zh-hans:米羅斯拉夫·克洛泽;zh-hk:高路斯;zh-tw:克洛澤;}-]]以71個進球成為德國歷史最佳射手。"]]

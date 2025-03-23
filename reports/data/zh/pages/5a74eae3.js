@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,62,"px300"]]
+window.data=[["no-duplicate",35,62,"duplicated image caption parameter","px300"],["no-duplicate",35,74,"duplicated image caption parameter","'''深紅色領土'''（匈牙利兼波蘭）是1370年後拉約什大帝直接統治的領土，'''淡紅色'''是匈牙利的附庸或一度控制的領土"]]

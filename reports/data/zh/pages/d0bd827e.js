@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3," taxon = Psilorhynchus gracilis\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter"," taxon = Psilorhynchus gracilis\n "],["no-duplicate",5,3,"duplicated parameter"," taxon = Psilorhynchus nudithoracicus\n "]]

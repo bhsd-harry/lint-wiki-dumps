@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,387,"name=\"吳敏菁1\""],[1,"no-ignored",23,398,"<ref "],[1,"tag-like",23,398,"<ref"]]
+window.data=[["tag-like",23,398,"lonely \"<\"","<ref"],["no-ignored",23,398,"containing invalid attribute","<ref "],["no-duplicate",23,387,"duplicated name attribute","name=\"吳敏菁1\""],["no-duplicate",23,403,"duplicated name attribute","name=\"吳敏菁2\""]]

@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",1332,2,"[[Category:CS1 Finnish-language sources (fi)]]"]]
+window.data=[["no-duplicate",1332,2,"duplicated category","[[Category:CS1 Finnish-language sources (fi)]]"],["no-duplicate",1335,2,"duplicated category","[[Category:CS1 Finnish-language sources (fi)]]"],["no-duplicate",1336,2,"duplicated category","[[Category:CS1 Finnish-language sources (fi)]]"]]

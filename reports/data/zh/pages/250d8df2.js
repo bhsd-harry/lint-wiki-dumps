@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",42,1042,"}}"],[2,"nested-link",42,937,"[[美國司法部]]"],[1,"no-ignored",146,1," File:|{{link-en||Old School Biker MCC}}的幫會成員"]]
+window.data=[["nested-link",42,937,"internal link in an external link","[[美國司法部]]"],["lonely-bracket",42,1042,"lonely \"}\"","}}"],["no-ignored",146,1,"invalid content in <gallery>"," File:|{{link-en||Old School Biker MCC}}的幫會成員"],["nested-link",173,2411,"internal link in an external link","[[美國菸酒槍炮及爆裂物管理局|ATF]]"]]

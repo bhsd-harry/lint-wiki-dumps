@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",15,42,"[["],[2,"no-duplicate",15,40,"''[[Amphiprion rubrocinctus"]]
+window.data=[["lonely-bracket",15,42,"lonely \"[\"","[["],["no-duplicate",15,40,"duplicated image caption parameter","''[[Amphiprion rubrocinctus"],["no-duplicate",15,68,"duplicated image caption parameter","[[紅雙鋸魚]]"]]

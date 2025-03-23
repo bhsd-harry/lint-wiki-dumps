@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,52,"duplicated image caption parameter","500"]]
+window.data=[["no-duplicate",8,52,"duplicated image caption parameter","500"],["no-duplicate",8,56,"duplicated image caption parameter","《洛神賦圖卷》"]]

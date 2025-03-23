@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",18,2,"[[Category:電子角色扮演遊戲]]"]]
+window.data=[["no-duplicate",18,2,"duplicated category","[[Category:電子角色扮演遊戲]]"],["no-duplicate",26,2,"duplicated category","[[Category:電子角色扮演遊戲]]"],["no-duplicate",19,2,"duplicated category","[[Category:復古像素風格遊戲]]"],["no-duplicate",25,2,"duplicated category","[[Category:復古像素風格遊戲]]"]]

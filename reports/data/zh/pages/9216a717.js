@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",151,55,"contenteditable"],[1,"lonely-bracket",29,1222,"}}"],[1,"unmatched-tag",29,1208,"</sup>"]]
+window.data=[["unmatched-tag",29,1208,"unmatched closing tag","</sup>"],["lonely-bracket",29,1222,"lonely \"}\"","}}"],["illegal-attr",151,55,"illegal attribute name","contenteditable"],["illegal-attr",159,55,"illegal attribute name","contenteditable"],["illegal-attr",159,139,"illegal attribute name","contenteditable"]]

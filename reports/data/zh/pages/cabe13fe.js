@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",72,55,"[[GOG.com]]"]]
+window.data=[["nested-link",72,55,"internal link in an external link","[[GOG.com]]"],["nested-link",73,56,"internal link in an external link","[[Steam]]"]]

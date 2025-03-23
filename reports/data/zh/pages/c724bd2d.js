@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",406,142,"{{"],[2,"no-duplicate",697,7,"name=\n <ref"],[1,"tag-like",698,2,"<ref"]]
+window.data=[["lonely-bracket",406,142,"lonely \"{\"","{{"],["tag-like",698,2,"lonely \"<\"","<ref"],["no-duplicate",697,7,"duplicated name attribute","name=\n <ref"],["no-duplicate",698,7,"duplicated name attribute","name=\"TVMAGA超8101\""]]

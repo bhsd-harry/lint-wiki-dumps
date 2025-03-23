@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3,"album          = 《四大名捕》\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter","album          = 《四大名捕》\n "],["no-duplicate",11,3,"duplicated parameter"," album         = \n "]]

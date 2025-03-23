@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",142,77,"lonely \"'\"","'"],[2,"no-duplicate",348,33,"duplicated image caption parameter","270x"]]
+window.data=[["lonely-apos",142,77,"lonely \"'\"","'"],["no-duplicate",348,33,"duplicated image caption parameter","270x"],["no-duplicate",348,38,"duplicated image caption parameter","一條馬可夫鏈；呢條鏈有兩個可能狀態 <math>E</math>  同  <math>A</math>；幅圖表示，如果而家狀態係  <math>E</math>，下一刻狀態變成  <math>A</math>  嘅機會率係 70%。"]]

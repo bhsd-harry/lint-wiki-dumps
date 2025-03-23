@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",525,4,"style=\"text-align:center\""],[1,"unmatched-tag",14,287,"<small>"]]
+window.data=[["unmatched-tag",14,287,"unclosed tag","<small>"],["no-duplicate",525,4,"duplicated style attribute","style=\"text-align:center\""],["no-duplicate",525,32,"duplicated style attribute","style=\"text-align:center; background:gold;\""],["no-duplicate",526,4,"duplicated style attribute","style=\"text-align:center\""],["no-duplicate",526,32,"duplicated style attribute","style=\"text-align:center; background:silver;\""]]

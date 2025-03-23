@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,2,"[[Category:中國科學院研究員]]"]]
+window.data=[["no-duplicate",65,2,"duplicated category","[[Category:中國科學院研究員]]"],["no-duplicate",69,2,"duplicated category","[[Category:中國科學院研究員]]"]]

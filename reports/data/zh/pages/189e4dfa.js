@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",107,2,"[[Category:北賽普勒斯總理]]"]]
+window.data=[["no-duplicate",107,2,"duplicated category","[[Category:北賽普勒斯總理]]"],["no-duplicate",108,2,"duplicated category","[[Category:北賽普勒斯總理]]"]]

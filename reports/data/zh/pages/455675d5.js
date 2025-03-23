@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",104,77,"thumb"]]
+window.data=[["invalid-gallery",104,77,"invalid image parameter","thumb"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",89,53,"2,000 × 880"]]
+window.data=[["no-duplicate",89,53,"duplicated image caption parameter","2,000 × 880"],["no-duplicate",89,67,"duplicated image caption parameter","美俄全球军事基地分布"],["no-duplicate",118,30,"duplicated image caption parameter","×220px"],["no-duplicate",118,39,"duplicated image caption parameter","集安组织和上合组织成员国"]]

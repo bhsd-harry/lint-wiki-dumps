@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",282,3,"ISBN"],[2,"no-duplicate",397,2,"[[Category:臺灣新教徒]]"]]
+window.data=[["lonely-http",282,3,"lonely \"ISBN\"","ISBN"],["no-duplicate",397,2,"duplicated category","[[Category:臺灣新教徒]]"],["no-duplicate",423,2,"duplicated category","[[Category:臺灣新教徒]]"]]

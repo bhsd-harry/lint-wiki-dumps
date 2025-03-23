@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",31,95,"[[國家地理 (雜誌)|國家地理]]"]]
+window.data=[["nested-link",31,95,"internal link in an external link","[[國家地理 (雜誌)|國家地理]]"]]

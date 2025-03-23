@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,3," 續作 = [[奔跑吧 (第十三季)|奔跑吧<br />（第十三季）]]<br />2025\n "]]
+window.data=[["no-duplicate",29,3,"duplicated parameter"," 續作 = [[奔跑吧 (第十三季)|奔跑吧<br />（第十三季）]]<br />2025\n "],["no-duplicate",35,3,"duplicated parameter"," 續作 = [[奔跑吧 (第十三季)|奔跑吧<br />（第十三季）]]<br />2025\n "],["invalid-css",53,24,"} expected",";"]]

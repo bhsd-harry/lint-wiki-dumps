@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3," coordinates = {{coord|51.50733|-0.11237||format=dms|display=inline,title}}\n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter"," coordinates = {{coord|51.50733|-0.11237||format=dms|display=inline,title}}\n "],["no-duplicate",21,3,"duplicated parameter"," coordinates         = \n "]]

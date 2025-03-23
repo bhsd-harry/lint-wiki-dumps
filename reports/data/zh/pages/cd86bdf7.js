@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",227,28,"Right"]]
+window.data=[["no-duplicate",227,28,"duplicated image caption parameter","Right"],["no-duplicate",227,40,"duplicated image caption parameter","2008年10月25日，中华民国前總統陳水扁手持「臺灣中國、一邊一國」的旗幟参加[[1025反黑心顧臺灣大遊行|游行]]"]]

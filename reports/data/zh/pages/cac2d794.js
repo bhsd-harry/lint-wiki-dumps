@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",47,6,"colspan"],[2,"no-duplicate",9,3,"established = \n "],[1,"no-ignored",47,17,"| '''〈{{link-ja|大和高田繞道|大和高田バイパス}}〉''' "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter","established = \n "],["no-duplicate",11,3,"duplicated parameter","established = 2004年\n "],["illegal-attr",47,6,"illegal attribute name","colspan"],["no-ignored",47,17,"containing invalid attribute","| '''〈{{link-ja|大和高田繞道|大和高田バイパス}}〉''' "]]

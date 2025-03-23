@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",284,2,"[[Category:引文格式1维护：未识别语文类型|-(krl)]]"]]
+window.data=[["no-duplicate",284,2,"duplicated category","[[Category:引文格式1维护：未识别语文类型|-(krl)]]"],["no-duplicate",285,2,"duplicated category","[[Category:引文格式1维护：未识别语文类型|-(vep)]]"]]

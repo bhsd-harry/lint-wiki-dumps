@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,2,"[[Category:中华人民共和国连环杀人案]]"]]
+window.data=[["no-duplicate",21,2,"duplicated category","[[Category:中华人民共和国连环杀人案]]"],["no-duplicate",32,2,"duplicated category","[[Category:中华人民共和国连环杀人案]]"]]

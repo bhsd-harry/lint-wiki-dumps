@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,2,"[[Category:水上運動]]"]]
+window.data=[["no-duplicate",10,2,"duplicated category","[[Category:水上運動]]"],["no-duplicate",12,2,"duplicated category","[[Category:水上運動]]"]]

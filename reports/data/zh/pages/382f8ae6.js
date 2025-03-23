@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",189,49,"white-space:"],[1,"no-ignored",189,61," nowrap;\""]]
+window.data=[["illegal-attr",189,49,"illegal attribute name","white-space:"],["no-ignored",189,61,"containing invalid attribute"," nowrap;\""],["illegal-attr",295,45,"illegal attribute name","cosplan"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",43,97,"Brief schematic diagram of the formation and destruction process of red blood cells"]]
+window.data=[["no-duplicate",43,97,"duplicated image caption parameter","Brief schematic diagram of the formation and destruction process of red blood cells"],["no-duplicate",43,181,"duplicated image caption parameter","中"]]

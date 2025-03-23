@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",71,1," {{zwsp}}（自1979年以来）"]]
+window.data=[["no-ignored",71,1,"invalid content in <gallery>"," {{zwsp}}（自1979年以来）"]]

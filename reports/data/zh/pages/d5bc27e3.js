@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",31,163,"bordercolor"]]
+window.data=[["illegal-attr",31,163,"illegal attribute name","bordercolor"]]

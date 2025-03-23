@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,63,"Right"]]
+window.data=[["no-duplicate",65,63,"duplicated image caption parameter","Right"],["no-duplicate",65,69,"duplicated image caption parameter","2015年10月13日，《獵巫行動：大滅絕》在[[林肯廣場 (曼哈頓)|林肯廣場]]舉行的首映會"]]

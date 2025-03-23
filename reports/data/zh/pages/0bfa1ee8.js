@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",24,2,"[[Category:日本歷史學家]]"]]
+window.data=[["no-duplicate",24,2,"duplicated category","[[Category:日本歷史學家]]"],["no-duplicate",27,2,"duplicated category","[[Category:日本歷史學家]]"]]

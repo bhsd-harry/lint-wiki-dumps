@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",52,1," * 造型艺术学科"],[1,"no-ignored",46,35,"全国学校総覧1968\""]]
+window.data=[["no-ignored",46,35,"containing invalid attribute","全国学校総覧1968\""],["fostered-content",52,1,"content to be moved out from the table"," * 造型艺术学科"]]

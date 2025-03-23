@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,50,"duplicated image caption parameter","float"]]
+window.data=[["no-duplicate",23,50,"duplicated image caption parameter","float"],["no-duplicate",23,56,"duplicated image caption parameter","烏尤尼鹽沼"]]

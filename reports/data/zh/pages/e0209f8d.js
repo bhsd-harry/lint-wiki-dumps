@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",48,2,"[[Category:2023年电子游戏]]"]]
+window.data=[["no-duplicate",48,2,"duplicated category","[[Category:2023年电子游戏]]"],["no-duplicate",50,2,"duplicated category","[[Category:2023年电子游戏]]"]]

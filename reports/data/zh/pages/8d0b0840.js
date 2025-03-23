@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",190,2,"[[Category:中医|S]]"]]
+window.data=[["no-duplicate",190,2,"duplicated category","[[Category:中医|S]]"],["no-duplicate",198,2,"duplicated category","[[Category:中医|S]]"]]

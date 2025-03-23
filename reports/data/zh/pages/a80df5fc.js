@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",86,2,"[[Category:第二次世界大战中的挪威]]"]]
+window.data=[["no-duplicate",86,2,"duplicated category","[[Category:第二次世界大战中的挪威]]"],["no-duplicate",89,2,"duplicated category","[[Category:第二次世界大战中的挪威]]"],["no-duplicate",91,2,"duplicated category","[[Category:1944年航海事故]]"],["no-duplicate",92,2,"duplicated category","[[Category:1944年航海事故]]"]]

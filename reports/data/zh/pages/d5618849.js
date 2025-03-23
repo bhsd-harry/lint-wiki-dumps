@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",53,2,"[[Category:开州区人]]"]]
+window.data=[["no-duplicate",53,2,"duplicated category","[[Category:开州区人]]"],["no-duplicate",56,2,"duplicated category","[[Category:开州区人]]"],["no-duplicate",58,2,"duplicated category","[[Category:西南交通大学教授]]"],["no-duplicate",59,2,"duplicated category","[[Category:西南交通大学教授]]"]]

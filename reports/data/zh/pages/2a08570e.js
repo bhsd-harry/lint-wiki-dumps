@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",64,2,"[[Category:發射場]]"]]
+window.data=[["no-duplicate",64,2,"duplicated category","[[Category:發射場]]"],["no-duplicate",67,2,"duplicated category","[[Category:發射場]]"]]

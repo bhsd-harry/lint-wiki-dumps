@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,282,"Yn=[[豆卢英]]"]]
+window.data=[["no-duplicate",17,282,"duplicated parameter","Yn=[[豆卢英]]"],["no-duplicate",17,304,"duplicated parameter","Yn=[[豆卢英]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,2,"[[Category:心理学书籍]]"]]
+window.data=[["no-duplicate",12,2,"duplicated category","[[Category:心理学书籍]]"],["no-duplicate",13,2,"duplicated category","[[Category:心理学书籍]]"]]

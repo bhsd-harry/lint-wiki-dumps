@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,23,"style=\"float:right\""]]
+window.data=[["no-duplicate",44,23,"duplicated style attribute","style=\"float:right\""],["no-duplicate",44,44,"duplicated style attribute","style=\"text-align:left\""]]

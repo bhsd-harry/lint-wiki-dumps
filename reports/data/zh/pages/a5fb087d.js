@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",69,3," title = Prime Minister\n "]]
+window.data=[["no-duplicate",69,3,"duplicated parameter"," title = Prime Minister\n "],["no-duplicate",71,3,"duplicated parameter"," title              = 選前[[加拿大總理|總理]]\n "],["no-duplicate",70,3,"duplicated parameter"," posttitle = Prime Minister after election\n "],["no-duplicate",72,3,"duplicated parameter"," posttitle          = 下任[[加拿大總理|總理]]\n "]]

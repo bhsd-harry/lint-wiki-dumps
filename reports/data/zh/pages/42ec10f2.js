@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",187,2,"[[Category:軍事特種部隊]]"]]
+window.data=[["no-duplicate",187,2,"duplicated category","[[Category:軍事特種部隊]]"],["no-duplicate",195,2,"duplicated category","[[Category:軍事特種部隊]]"],["no-duplicate",188,2,"duplicated category","[[Category:軍兵種]]"],["no-duplicate",196,2,"duplicated category","[[Category:軍兵種]]"],["no-duplicate",189,2,"duplicated category","[[Category:步兵]]"],["no-duplicate",197,2,"duplicated category","[[Category:步兵]]"]]

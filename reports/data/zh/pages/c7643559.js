@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",117,15,"ISBN 978-4-06-337733-9"],[1,"unmatched-tag",176,137,"</br />"]]
+window.data=[["invalid-isbn",117,15,"invalid ISBN","ISBN 978-4-06-337733-9"],["unmatched-tag",176,137,"tag that is both closing and self-closing","</br />"]]

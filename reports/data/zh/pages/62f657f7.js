@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,2,"[[Category:徐州墓葬|W]]"]]
+window.data=[["no-duplicate",32,2,"duplicated category","[[Category:徐州墓葬|W]]"],["no-duplicate",39,2,"duplicated category","[[Category:徐州墓葬]]"]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",56,54,"upright="]]
+window.data=[["no-duplicate",56,54,"duplicated image caption parameter","upright="],["no-duplicate",56,63,"duplicated image caption parameter","選前議席"],["no-duplicate",78,64,"duplicated image caption parameter","upright="],["no-duplicate",78,73,"duplicated image caption parameter","高宗反悔後委任的議席"],["no-duplicate",82,64,"duplicated image caption parameter","upright="],["no-duplicate",82,73,"duplicated image caption parameter","獨立協會被清算後的議席"]]

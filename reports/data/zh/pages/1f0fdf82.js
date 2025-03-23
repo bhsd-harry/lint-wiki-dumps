@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,3," country          = \n "]]
+window.data=[["no-duplicate",16,3,"duplicated parameter"," country          = \n "],["no-duplicate",37,3,"duplicated parameter"," country            = 西班牙\n "]]

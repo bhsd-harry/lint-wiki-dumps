@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",58,39,"{{"],[2,"no-duplicate",58,39,"{{center"]]
+window.data=[["lonely-bracket",58,39,"lonely \"{\"","{{"],["no-duplicate",58,39,"duplicated image caption parameter","{{center"],["no-duplicate",58,48,"duplicated image caption parameter","在冷湾的信号员训练，左方为苏联海军人员。"]]

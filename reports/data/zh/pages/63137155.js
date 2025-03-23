@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",45,2,"[[Category:俄土战争]]"]]
+window.data=[["no-duplicate",45,2,"duplicated category","[[Category:俄土战争]]"],["no-duplicate",48,2,"duplicated category","[[Category:俄土战争]]"]]

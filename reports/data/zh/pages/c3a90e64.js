@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,72,"vignette"]]
+window.data=[["no-duplicate",13,72,"duplicated image caption parameter","vignette"],["no-duplicate",13,91,"duplicated image caption parameter","Fresque du palais Beaumont."]]

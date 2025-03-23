@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",28,53,"RIGHT"]]
+window.data=[["no-duplicate",28,53,"duplicated image caption parameter","RIGHT"],["no-duplicate",28,65,"duplicated image caption parameter","諾瓦魯普塔火山位置圖。"]]

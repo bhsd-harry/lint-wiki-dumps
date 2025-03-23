@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",422,876,"ISBN 979-602-96382-29"],[2,"no-ignored",366,4,"|colspan=\"5\"  "]]
+window.data=[["no-ignored",366,4,"containing invalid attribute","|colspan=\"5\"  "],["no-ignored",366,44,"containing invalid attribute","  | 不適用"],["invalid-isbn",422,876,"invalid ISBN","ISBN 979-602-96382-29"]]

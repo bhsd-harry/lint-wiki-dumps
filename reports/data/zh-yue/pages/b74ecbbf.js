@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",3,3,"duplicated parameter","map= \n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter","map= \n "],["no-duplicate",17,3,"duplicated parameter"," map              = [[File:Kartvelian_languages.svg|250px]]\n "],["no-duplicate",13,3,"duplicated parameter","notice=IPA\n "],["no-duplicate",16,3,"duplicated parameter"," notice           = IPA\n "]]

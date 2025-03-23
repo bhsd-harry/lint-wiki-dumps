@@ -1,1 +1,1 @@
-window.data=[[5,"lonely-bracket",844,171,"["]]
+window.data=[["invalid-css",740,42,"property value expected",";"],["invalid-css",769,42,"property value expected",";"],["invalid-css",793,42,"property value expected",";"],["lonely-bracket",844,171,"lonely \"[\"","["],["lonely-bracket",848,483,"lonely \"[\"","["],["lonely-bracket",850,153,"lonely \"[\"","["],["lonely-bracket",868,180,"lonely \"[\"","["],["invalid-css",886,42,"property value expected",";"],["lonely-bracket",915,68,"lonely \"[\"","["],["invalid-css",998,42,"property value expected",";"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"invalid-gallery",547,68,"300px"],[1,"lonely-bracket",388,373,"}}"],[2,"no-duplicate",547,81,"The Petrela Castle"]]
+window.data=[["lonely-bracket",388,373,"lonely \"}\"","}}"],["invalid-gallery",547,68,"invalid image parameter","300px"],["invalid-gallery",547,74,"invalid image parameter","center"],["no-duplicate",547,81,"duplicated image caption parameter","The Petrela Castle"],["no-duplicate",547,100,"duplicated image caption parameter","<small>[[彼德雷拉城堡]]</small>"]]

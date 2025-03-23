@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,41,"duplicated image caption parameter","uprgith"]]
+window.data=[["no-duplicate",2,41,"duplicated image caption parameter","uprgith"],["no-duplicate",2,55,"duplicated image caption parameter","INNOVIA APM 256 Thien-lièn Chhâ."]]

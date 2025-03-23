@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",155,39,"thumb"],[2,"no-duplicate",155,45,"200"]]
+window.data=[["invalid-gallery",155,39,"invalid image parameter","thumb"],["no-duplicate",155,45,"duplicated image caption parameter","200"],["no-duplicate",155,49,"duplicated image caption parameter","[[甲戌風災]]中大型輪船沉沒[[中環]]海傍，碼頭損毀嚴重"]]

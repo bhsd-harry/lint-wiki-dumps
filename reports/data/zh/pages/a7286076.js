@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",10,88,"[[AONB]]"]]
+window.data=[["nested-link",10,88,"internal link in an external link","[[AONB]]"],["nested-link",10,102,"internal link in an external link","[[European Geopark]]"]]

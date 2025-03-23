@@ -1,1 +1,1 @@
-window.data=[[2,"pipe-like",156,40,"488||221||88||39||61||32||637||292\n "],[1,"unclosed-table",109,2,"{|"]]
+window.data=[["pipe-like",156,40,"additional \"|\" in a table cell","488||221||88||39||61||32||637||292\n "],["pipe-like",157,34,"additional \"|\" in a table cell","488||221||88||39||61||32||637||292\n "],["unclosed-table",109,2,"unclosed table","{|"]]

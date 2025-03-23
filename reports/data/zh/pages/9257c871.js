@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,39,"Right"]]
+window.data=[["no-duplicate",15,39,"duplicated image caption parameter","Right"],["no-duplicate",15,45,"duplicated image caption parameter","位於[[印度]][[那加兰邦]]的一隻竹鼠"]]

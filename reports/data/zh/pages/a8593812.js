@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",288,39,"  或与“甄子丹”同声=\"\""]]
+window.data=[["no-ignored",288,39,"containing invalid attribute","  或与“甄子丹”同声=\"\""]]

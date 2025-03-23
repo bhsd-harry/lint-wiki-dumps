@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",34,2,"[[Category:空气动力学家]]"]]
+window.data=[["no-duplicate",34,2,"duplicated category","[[Category:空气动力学家]]"],["no-duplicate",38,2,"duplicated category","[[Category:空气动力学家]]"]]

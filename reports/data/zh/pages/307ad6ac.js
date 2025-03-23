@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,3," code              = \n "]]
+window.data=[["no-duplicate",20,3,"duplicated parameter"," code              = \n "],["no-duplicate",31,3,"duplicated parameter"," code              = <span style=color:{{无锡地铁标志色|1}}>'''L101'''</span>\n "]]

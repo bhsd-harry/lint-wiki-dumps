@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",78,1," -"],[1,"illegal-attr",69,70,"border:double"],[2,"no-ignored",69,48,"; white-space:nowrap; "]]
+window.data=[["illegal-attr",69,70,"illegal attribute name","border:double"],["no-ignored",69,48,"containing invalid attribute","; white-space:nowrap; "],["no-ignored",69,83,"containing invalid attribute"," #006AB6; {{box-shadow|4px|4px|4px|#006AB6}}\""],["fostered-content",78,1,"content to be moved out from the table"," -"]]

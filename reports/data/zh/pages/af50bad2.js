@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",4,2,"[[Category:過海隧道特別巴士路線|191R]]"]]
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:過海隧道特別巴士路線|191R]]"],["no-duplicate",5,2,"duplicated category","[[Category:過海隧道特別巴士路線|191R]]"],["no-duplicate",6,2,"duplicated category","[[Category:城巴特別巴士路線|191R]]"],["no-duplicate",8,2,"duplicated category","[[Category:城巴特別巴士路線|191R]]"]]

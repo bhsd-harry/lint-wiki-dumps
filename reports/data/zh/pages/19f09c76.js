@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",683,2,"[[Category:沃爾庇杯最佳女演員獎獲獎者|*]]"]]
+window.data=[["no-duplicate",683,2,"duplicated category","[[Category:沃爾庇杯最佳女演員獎獲獎者|*]]"],["no-duplicate",688,2,"duplicated category","[[Category:沃爾庇杯最佳女演員獎獲獎者]]"]]

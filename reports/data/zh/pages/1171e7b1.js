@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",632,155,"date=2022-02-12"],[3,"unmatched-tag",602,46,"<small>"]]
+window.data=[["unmatched-tag",602,46,"unclosed tag","<small>"],["unmatched-tag",609,46,"unclosed tag","<small>"],["unmatched-tag",616,47,"unclosed tag","<small>"],["no-duplicate",632,155,"duplicated parameter","date=2022-02-12"],["no-duplicate",632,242,"duplicated parameter","date=2022-09"]]

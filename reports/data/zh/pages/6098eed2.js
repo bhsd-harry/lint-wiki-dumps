@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",71,24,"collapsible"],[1,"parsing-order",4,31,"<br>"]]
+window.data=[["parsing-order",4,31,"HTML tag in table attributes","<br>"],["illegal-attr",71,24,"illegal attribute name","collapsible"]]

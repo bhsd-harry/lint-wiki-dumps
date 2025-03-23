@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,3," 播放地區         = [[馬來西亞]]\n "]]
+window.data=[["no-duplicate",18,3,"duplicated parameter"," 播放地區         = [[馬來西亞]]\n "],["no-duplicate",25,3,"duplicated parameter"," 播放地區         = {{flagicon|Malaysia}} [[馬來西亞]]\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",104,30,"代替文="]]
+window.data=[["no-duplicate",104,30,"duplicated image caption parameter","代替文="],["no-duplicate",104,45,"duplicated image caption parameter","Yuri 1994 track"]]

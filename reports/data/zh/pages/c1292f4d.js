@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",108,2,"[[Category:牧夫座]]"]]
+window.data=[["no-duplicate",108,2,"duplicated category","[[Category:牧夫座]]"],["no-duplicate",114,2,"duplicated category","[[Category:牧夫座]]"]]

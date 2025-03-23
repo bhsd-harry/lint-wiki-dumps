@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",54,2,"[[Category:銀行術語]]"]]
+window.data=[["no-duplicate",54,2,"duplicated category","[[Category:銀行術語]]"],["no-duplicate",55,2,"duplicated category","[[Category:銀行術語]]"]]

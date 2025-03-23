@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,48,"Right"]]
+window.data=[["no-duplicate",29,48,"duplicated image caption parameter","Right"],["no-duplicate",29,60,"duplicated image caption parameter","泰瑞·克魯斯於2010年的[[聖地亞哥國際動漫展]]"]]

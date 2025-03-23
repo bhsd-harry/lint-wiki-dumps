@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",2439,35,"nowrap"],[1,"lonely-bracket",365,35,"{{"]]
+window.data=[["lonely-bracket",365,35,"lonely \"{\"","{{"],["illegal-attr",2439,35,"illegal attribute name","nowrap"]]

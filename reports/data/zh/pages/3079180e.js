@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3," birth_place = {{PRC|上海市}}\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," birth_place = {{PRC|上海市}}\n "],["no-duplicate",11,3,"duplicated parameter"," birth_place = 上海市\n "]]

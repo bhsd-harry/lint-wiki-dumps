@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",59,2,"[[Category:被判無期徒刑的美國囚犯|D]]"]]
+window.data=[["no-duplicate",59,2,"duplicated category","[[Category:被判無期徒刑的美國囚犯|D]]"],["no-duplicate",71,2,"duplicated category","[[Category:被判無期徒刑的美國囚犯]]"],["no-duplicate",61,2,"duplicated category","[[Category:在威斯康辛州被判謀殺罪的人|D]]"],["no-duplicate",72,2,"duplicated category","[[Category:在威斯康辛州被判謀殺罪的人]]"]]

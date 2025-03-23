@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",57,49,"[[群眾募資|集資]]"]]
+window.data=[["nested-link",57,49,"internal link in an external link","[[群眾募資|集資]]"],["nested-link",58,70,"internal link in an external link","[[Steam]]"]]

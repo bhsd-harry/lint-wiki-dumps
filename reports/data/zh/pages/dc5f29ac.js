@@ -1,1 +1,1 @@
-window.data=[[2,"invalid-gallery",225,128,"thumb"],[2,"no-duplicate",222,75,"Ssc2017-01g Sm"]]
+window.data=[["no-duplicate",222,75,"duplicated image caption parameter","Ssc2017-01g Sm"],["no-duplicate",222,90,"duplicated image caption parameter","TRAPPIST-1行星系与[[太阳系]]的比较; TRAPPIST-1的全部7个行星都在[[水星]]轨道之内。"],["invalid-gallery",225,128,"invalid image parameter","thumb"],["invalid-gallery",226,81,"invalid image parameter","thumb"]]

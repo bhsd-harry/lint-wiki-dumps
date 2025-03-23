@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,20,"\n {{Expand language|1=th| page1 =ศุภพงษ์ อุดมแก้วกาญจนา| 2=en| page2 =Suppapong Udomkaewkanjana}}\n {{BLP unsourced|time=2021-09-23T07:09:21+00:00}}\n "]]
+window.data=[["no-duplicate",3,20,"duplicated parameter","\n {{Expand language|1=th| page1 =ศุภพงษ์ อุดมแก้วกาญจนา| 2=en| page2 =Suppapong Udomkaewkanjana}}\n {{BLP unsourced|time=2021-09-23T07:09:21+00:00}}\n "],["no-duplicate",6,3,"duplicated parameter","1 = zh-cn:苏帕蓬; zh-hk:蘇柏邦; zh-tw:蘇帕蓬; \n "]]

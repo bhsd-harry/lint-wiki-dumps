@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,39,"{{clear|left}}"]]
+window.data=[["no-duplicate",15,39,"duplicated image caption parameter","{{clear|left}}"],["no-duplicate",15,54,"duplicated image caption parameter","签署普雷斯堡和约的法国外长夏尔·莫里斯·德塔列朗-佩里戈尔"]]

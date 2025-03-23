@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",810,5,"class=\"wikitable\""],[1,"no-ignored",824,4," 5月30日 圣女贞德纪念日"],[1,"unclosed-table",575,2,"{|"],[1,"unmatched-tag",39,23,"</span>"]]
+window.data=[["unmatched-tag",39,23,"unmatched closing tag","</span>"],["unclosed-table",575,2,"unclosed table","{|"],["no-duplicate",810,5,"duplicated class attribute","class=\"wikitable\""],["no-duplicate",810,28,"duplicated class attribute","class=\"wikitable\""],["no-ignored",824,4,"containing invalid attribute"," 5月30日 圣女贞德纪念日"]]

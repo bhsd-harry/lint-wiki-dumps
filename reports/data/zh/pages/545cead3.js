@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",56,1," * 美容时装商务学科<ref group=\"注\"  name=\"美容时装商务学科\"/>\n * 食物营养学科\n * 保育学科"]]
+window.data=[["fostered-content",56,1,"content to be moved out from the table"," * 美容时装商务学科<ref group=\"注\"  name=\"美容时装商务学科\"/>\n * 食物营养学科\n * 保育学科"],["fostered-content",79,1,"content to be moved out from the table"," * 幼儿园<ref name=\"幼儿园\">[http://www.hcc.ac.jp/kindergarten/index.html 东筑紫短期大学附属幼儿园] {{Wayback|url=http://www.hcc.ac.jp/kindergarten/index.html |date=202"]]

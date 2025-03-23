@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",9,3,"duplicated parameter","演化支=\t[[被子植物門]] Angiosperms\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter","演化支=\t[[被子植物門]] Angiosperms\n "],["no-duplicate",10,3,"duplicated parameter","演化支=\t[[雙子葉植物綱]] Eudicots\n "],["no-duplicate",11,3,"duplicated parameter","演化支=\t[[菊類植物]] Asterids\n "]]

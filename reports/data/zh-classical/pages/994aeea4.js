@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,53,"duplicated image caption parameter","Hosei University Boissonade Tower 120816"]]
+window.data=[["no-duplicate",1,53,"duplicated image caption parameter","Hosei University Boissonade Tower 120816"],["no-duplicate",1,112,"duplicated image caption parameter","法大之布亞索塔"]]

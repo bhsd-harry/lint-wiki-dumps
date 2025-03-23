@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",334,65,"ISBN"],[2,"no-duplicate",266,19,"240px"]]
+window.data=[["no-duplicate",266,19,"duplicated image width parameter","240px"],["no-duplicate",266,31,"duplicated image width parameter","220px"],["lonely-http",334,65,"lonely \"ISBN\"","ISBN"]]

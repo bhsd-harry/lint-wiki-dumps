@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,59,"267x267"]]
+window.data=[["no-duplicate",10,59,"duplicated image caption parameter","267x267"],["no-duplicate",10,67,"duplicated image caption parameter","帕斯夸莱·保利墓在他的出生地"]]

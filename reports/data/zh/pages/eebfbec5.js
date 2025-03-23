@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,20,"|西班牙传教风格建筑"]]
+window.data=[["no-ignored",1,20,"useless link text","|西班牙传教风格建筑"]]

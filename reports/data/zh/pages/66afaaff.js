@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",75,2,"[[Category:东北日占时期]]"]]
+window.data=[["no-duplicate",75,2,"duplicated category","[[Category:东北日占时期]]"],["no-duplicate",76,2,"duplicated category","[[Category:东北日占时期]]"]]

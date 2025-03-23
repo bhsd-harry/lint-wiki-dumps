@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",391,41,"rwospan"],[2,"no-ignored",219,57,"90%\";font-size:85%\""]]
+window.data=[["invalid-css",219,56,"semi-colon expected",""],["invalid-css",219,55,"colon expected","="],["no-ignored",219,57,"containing invalid attribute","90%\";font-size:85%\""],["illegal-attr",391,41,"illegal attribute name","rwospan"],["no-ignored",395,26,"containing invalid attribute"," 《宋恩伊、金淑的姐姐電台"]]

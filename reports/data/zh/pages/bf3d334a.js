@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",99,1," [[File:PRC_Emblem_Draft_Lin_Huiyin.jpg|林徽因设计的中华人民共和国国徽玉璧方案]]"]]
+window.data=[["no-ignored",99,1,"invalid content in <gallery>"," [[File:PRC_Emblem_Draft_Lin_Huiyin.jpg|林徽因设计的中华人民共和国国徽玉璧方案]]"]]

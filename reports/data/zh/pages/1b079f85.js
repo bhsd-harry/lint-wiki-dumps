@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",25,26,"label17=[[卡那卡那富語]]："]]
+window.data=[["no-duplicate",25,26,"duplicated parameter","label17=[[卡那卡那富語]]："],["no-duplicate",26,26,"duplicated parameter","label17=[[官話]]："],["no-duplicate",25,46,"duplicated parameter","data17={{lang|sxr|ciautungpuu}}\n  "],["no-duplicate",26,42,"duplicated parameter","data17={{lang|zh|ㄐㄧㄠ ㄊㄨㄥ ㄅㄨˋ}}\n  "]]

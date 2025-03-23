@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",74,2,"[[Category:西班牙公主]]"]]
+window.data=[["no-duplicate",74,2,"duplicated category","[[Category:西班牙公主]]"],["no-duplicate",76,2,"duplicated category","[[Category:西班牙公主]]"]]

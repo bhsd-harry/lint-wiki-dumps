@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",183,75,"皇太子徳仁親王妃雅子"]]
+window.data=[["no-ignored",183,75,"containing invalid attribute","皇太子徳仁親王妃雅子"],["no-ignored",236,51,"containing invalid attribute","国際連合"]]

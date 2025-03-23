@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",138,2,"[[Category:G型主序星]]"]]
+window.data=[["no-duplicate",138,2,"duplicated category","[[Category:G型主序星]]"],["no-duplicate",143,2,"duplicated category","[[Category:G型主序星]]"]]

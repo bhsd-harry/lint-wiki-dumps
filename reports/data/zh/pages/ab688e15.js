@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",839,2,"[[Category:2021年韓國電視劇集|P]]"]]
+window.data=[["no-duplicate",839,2,"duplicated category","[[Category:2021年韓國電視劇集|P]]"],["no-duplicate",840,2,"duplicated category","[[Category:2021年韓國電視劇集|P]]"]]

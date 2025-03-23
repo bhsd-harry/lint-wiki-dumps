@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,27,""]]
+window.data=[["no-duplicate",6,27,"duplicated parameter",""],["no-duplicate",6,28,"duplicated parameter","1=O͘-gû-lân"]]

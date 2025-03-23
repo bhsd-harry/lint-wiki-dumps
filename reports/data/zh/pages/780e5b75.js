@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,30,"250ox"]]
+window.data=[["no-duplicate",2,30,"duplicated image caption parameter","250ox"],["no-duplicate",2,42,"duplicated image caption parameter","华东地区在中国的位置"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",70,28,"这些笔直的特征可能表明未来定居者在此会找到有价值的矿床，比例尺为500米。它们可能是线性山脊的一部分，因此与撞击坑有关。 Image:Ridgecomplex22919.jpg"]]
+window.data=[["no-duplicate",70,28,"duplicated image caption parameter","这些笔直的特征可能表明未来定居者在此会找到有价值的矿床，比例尺为500米。它们可能是线性山脊的一部分，因此与撞击坑有关。 Image:Ridgecomplex22919.jpg"],["no-duplicate",70,117,"duplicated image caption parameter","HiWish计划下高分辨率成像科学设备拍摄的一组复杂山脊的特写，山脊可能是古河床和/或线性山脊网残迹。"]]

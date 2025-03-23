@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",66,2,"[[Category:哈尔滨公园]]"]]
+window.data=[["no-duplicate",66,2,"duplicated category","[[Category:哈尔滨公园]]"],["no-duplicate",70,2,"duplicated category","[[Category:哈尔滨公园]]"],["no-duplicate",72,2,"duplicated category","[[Category:道里区]]"],["no-duplicate",73,2,"duplicated category","[[Category:道里区]]"]]

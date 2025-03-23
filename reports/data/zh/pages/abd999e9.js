@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",85,4,"[[分类:航空先驱]]"]]
+window.data=[["no-duplicate",85,4,"duplicated category","[[分类:航空先驱]]"],["no-duplicate",112,2,"duplicated category","[[Category:航空先驱]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",86,1159,"name=His10世界过敏组织当前所使用的名称为“非免疫性全身性过敏反应”<ref"],[1,"tag-like",86,1197,"<ref"]]
+window.data=[["tag-like",86,1197,"lonely \"<\"","<ref"],["no-duplicate",86,1159,"duplicated name attribute","name=His10世界过敏组织当前所使用的名称为“非免疫性全身性过敏反应”<ref"],["no-duplicate",86,1202,"duplicated name attribute","name=His10"]]

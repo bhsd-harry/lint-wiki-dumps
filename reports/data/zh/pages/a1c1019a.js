@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3," 教育程度 = \n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter"," 教育程度 = \n "],["no-duplicate",28,3,"duplicated parameter","教育程度 = 作曲和音乐技术学士<br>影视作曲硕士\n "]]

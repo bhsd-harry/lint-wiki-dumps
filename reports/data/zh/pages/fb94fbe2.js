@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",58,1,"\n * [[佛教]]科<ref group=\"注\"  name=\"佛教科\">招生到2002年。停办于2007年</ref>\n * [[社会福利]][[学科]]\n * [[儿童]][[教育]]学科"]]
+window.data=[["fostered-content",58,1,"content to be moved out from the table","\n * [[佛教]]科<ref group=\"注\"  name=\"佛教科\">招生到2002年。停办于2007年</ref>\n * [[社会福利]][[学科]]\n * [[儿童]][[教育]]学科"]]

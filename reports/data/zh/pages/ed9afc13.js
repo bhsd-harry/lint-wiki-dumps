@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",66,43," Musikindustrie\""]]
+window.data=[["no-ignored",66,43,"containing invalid attribute"," Musikindustrie\""]]

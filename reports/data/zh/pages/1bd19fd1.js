@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",51,2,"[[Category:深圳摩天大楼]]"]]
+window.data=[["no-duplicate",51,2,"duplicated category","[[Category:深圳摩天大楼]]"],["no-duplicate",54,2,"duplicated category","[[category:深圳摩天大楼]]"]]

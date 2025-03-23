@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",51,2,"[[Category:十四行诗诗人]]"]]
+window.data=[["no-duplicate",51,2,"duplicated category","[[Category:十四行诗诗人]]"],["no-duplicate",59,2,"duplicated category","[[Category:十四行诗诗人]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,2,"[[Category:意大利奥运体操运动员]]"]]
+window.data=[["no-duplicate",13,2,"duplicated category","[[Category:意大利奥运体操运动员]]"],["no-duplicate",16,2,"duplicated category","[[Category:意大利奥运体操运动员]]"]]

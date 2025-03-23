@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",74,2,"[[Category:英伟达微架构]]"]]
+window.data=[["no-duplicate",74,2,"duplicated category","[[Category:英伟达微架构]]"],["no-duplicate",75,2,"duplicated category","[[Category:英伟达微架构]]"]]

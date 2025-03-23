@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,46,"Right"]]
+window.data=[["no-duplicate",13,46,"duplicated image caption parameter","Right"],["no-duplicate",13,52,"duplicated image caption parameter","大潭山郊野公園"]]

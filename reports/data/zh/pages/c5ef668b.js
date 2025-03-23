@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",127,897,"website=theinitium.com "]]
+window.data=[["no-duplicate",127,897,"duplicated parameter","website=theinitium.com "],["no-duplicate",127,961,"duplicated parameter","website=端傳媒 Initium Media "]]

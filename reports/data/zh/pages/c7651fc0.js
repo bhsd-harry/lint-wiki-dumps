@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",16,262,"[[MSDN]]"],[1,"pipe-like",38,47,"\n CreateXmlWriterOutputWithEncodingName || Encoding class"]]
+window.data=[["nested-link",16,262,"internal link in an external link","[[MSDN]]"],["pipe-like",38,47,"additional \"|\" in a table cell","\n CreateXmlWriterOutputWithEncodingName || Encoding class"]]

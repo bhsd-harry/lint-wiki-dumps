@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",224,56,"[[加時]]"],[2,"no-duplicate",2,11,"G1=足球\n "]]
+window.data=[["no-duplicate",2,11,"duplicated parameter","G1=足球\n "],["no-duplicate",3,3,"duplicated parameter","G1=EPL\n "],["invalid-css",85,81,"colon expected","="],["nested-link",224,56,"internal link in an external link","[[加時]]"],["invalid-css",241,81,"colon expected","="]]

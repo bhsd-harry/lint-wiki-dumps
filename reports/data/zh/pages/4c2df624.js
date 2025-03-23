@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",176,32,"250x250"]]
+window.data=[["no-duplicate",176,32,"duplicated image caption parameter","250x250"],["no-duplicate",176,40,"duplicated image caption parameter","会安{{link-vi|发牌唱曲|Bài chòi}}表演"]]

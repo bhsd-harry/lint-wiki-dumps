@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",44,1," * 农业科\n ** 农业专攻\n ** 园艺专攻"]]
+window.data=[["fostered-content",44,1,"content to be moved out from the table"," * 农业科\n ** 农业专攻\n ** 园艺专攻"],["fostered-content",60,1,"content to be moved out from the table"," * 前兵库农业短期大学附属高中（现在兵库县立农业高中）"]]

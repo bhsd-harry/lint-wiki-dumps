@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",12,48,"direita"]]
+window.data=[["no-duplicate",12,48,"duplicated image caption parameter","direita"],["no-duplicate",12,56,"duplicated image caption parameter","[[黄金小堂]]"],["no-duplicate",13,46,"duplicated image caption parameter","direita"],["no-duplicate",13,54,"duplicated image caption parameter","[[方济各第三会教堂]]"]]

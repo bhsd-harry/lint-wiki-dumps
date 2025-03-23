@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,3," color5 = {{party color|S.O.S. Romania}}\n "]]
+window.data=[["no-duplicate",63,3,"duplicated parameter"," color5 = {{party color|S.O.S. Romania}}\n "],["no-duplicate",65,3,"duplicated parameter"," color5 = {{party color|S.O.S. Romania}}\n "]]

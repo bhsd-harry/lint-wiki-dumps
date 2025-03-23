@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",10,1,"invalid content in <gallery>"," File:: 061212-nordkapp.jpg|"]]
+window.data=[["no-ignored",10,1,"invalid content in <gallery>"," File:: 061212-nordkapp.jpg|"]]

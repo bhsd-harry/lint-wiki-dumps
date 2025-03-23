@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",66,2,"[[Category:康乃狄克州企业家]]"]]
+window.data=[["no-duplicate",66,2,"duplicated category","[[Category:康乃狄克州企业家]]"],["no-duplicate",68,2,"duplicated category","[[Category:康乃狄克州企业家]]"]]

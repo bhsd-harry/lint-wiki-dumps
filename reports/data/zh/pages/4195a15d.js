@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,23,"thumbl"]]
+window.data=[["no-duplicate",33,23,"duplicated image caption parameter","thumbl"],["no-duplicate",33,36,"duplicated image caption parameter","月台(2008年3月)"]]

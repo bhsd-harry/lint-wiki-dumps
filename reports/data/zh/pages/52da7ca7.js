@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",213,75,"]]"],[1,"no-ignored",213,67,"ワタナベシンイチ]]}}"]]
+window.data=[["lonely-bracket",213,75,"lonely \"]\"","]]"],["lonely-bracket",213,77,"lonely \"}\"","}}"],["no-ignored",213,67,"containing invalid attribute","ワタナベシンイチ]]}}"]]

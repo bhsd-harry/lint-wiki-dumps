@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",156,56,"width"]]
+window.data=[["invalid-css",75,28,"semi-colon expected",":"],["invalid-css",75,52,"{ expected",";"],["invalid-css",93,28,"semi-colon expected",":"],["invalid-css",93,52,"{ expected",";"],["invalid-css",156,21,"colon expected",";"],["illegal-attr",156,56,"illegal attribute name","width"],["invalid-css",169,34,"colon expected",";"],["invalid-css",188,40,"semi-colon expected",":"],["invalid-css",188,64,"{ expected",";"],["illegal-attr",194,5,"illegal attribute name","width"]]

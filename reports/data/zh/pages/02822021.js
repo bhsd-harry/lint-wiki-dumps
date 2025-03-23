@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,62,"t250px"]]
+window.data=[["no-duplicate",33,62,"duplicated image caption parameter","t250px"],["no-duplicate",33,69,"duplicated image caption parameter","1609年的奧斯曼阿爾及利亞疆域"]]

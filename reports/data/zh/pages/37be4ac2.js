@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",872,18,"nowrap"],[2,"no-duplicate",1241,85,"缩略图"]]
+window.data=[["illegal-attr",872,18,"illegal attribute name","nowrap"],["illegal-attr",886,13,"illegal attribute name","nowrap"],["illegal-attr",888,18,"illegal attribute name","nowrap"],["no-duplicate",1241,85,"conflicting image frame parameter","缩略图"],["no-duplicate",1241,89,"conflicting image frame parameter","有框"]]

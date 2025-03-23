@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",36,2,"[[Category: 1809年描述的分类群]]"]]
+window.data=[["no-duplicate",36,2,"duplicated category","[[Category: 1809年描述的分类群]]"],["no-duplicate",37,2,"duplicated category","[[Category: 1809年描述的分类群]]"]]

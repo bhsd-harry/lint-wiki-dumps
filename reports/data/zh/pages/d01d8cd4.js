@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",80,24,"font-size:"],[1,"no-ignored",80,34," 95%;\"  "]]
+window.data=[["illegal-attr",80,24,"illegal attribute name","font-size:"],["no-ignored",80,34,"containing invalid attribute"," 95%;\"  "]]

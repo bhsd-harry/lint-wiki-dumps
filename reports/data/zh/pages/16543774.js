@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",43,2,"[[Category:美國LGBT藝人]]"]]
+window.data=[["no-duplicate",43,2,"duplicated category","[[Category:美國LGBT藝人]]"],["no-duplicate",46,2,"duplicated category","[[Category:美國LGBT藝人]]"]]

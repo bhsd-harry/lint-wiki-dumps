@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",17,2,"[[Category:1936年夏季奥林匹克运动会体操运动员]]"]]
+window.data=[["no-duplicate",17,2,"duplicated category","[[Category:1936年夏季奥林匹克运动会体操运动员]]"],["no-duplicate",26,2,"duplicated category","[[Category:1936年夏季奥林匹克运动会体操运动员]]"],["no-duplicate",19,2,"duplicated category","[[Category:1936年夏季奧林匹克運動會獎牌得主]]"],["no-duplicate",25,2,"duplicated category","[[Category:1936年夏季奧林匹克運動會獎牌得主]]"]]

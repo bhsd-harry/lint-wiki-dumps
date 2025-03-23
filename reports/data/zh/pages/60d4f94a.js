@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",5,253,"[[中共中央文献研究室]]"]]
+window.data=[["nested-link",5,253,"internal link in an external link","[[中共中央文献研究室]]"],["nested-link",5,269,"internal link in an external link","[[李捷 (中国共产党)|李捷]]"]]

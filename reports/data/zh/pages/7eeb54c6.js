@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",420,2,"[[Category:俄罗斯君主|*]]"]]
+window.data=[["no-duplicate",420,2,"duplicated category","[[Category:俄罗斯君主|*]]"],["no-duplicate",421,2,"duplicated category","[[Category:俄罗斯君主]]"]]

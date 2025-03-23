@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",47,2,"[[Category:中国保险公司]]"]]
+window.data=[["no-duplicate",47,2,"duplicated category","[[Category:中国保险公司]]"],["no-duplicate",53,2,"duplicated category","[[Category:中国保险公司]]"]]

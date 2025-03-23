@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",53,62,"{{"],[3,"no-duplicate",53,41,"[[卡拉瓦乔]]创作的油画《圣马太蒙召》（{{lang"]]
+window.data=[["lonely-bracket",53,62,"lonely \"{\"","{{"],["no-duplicate",53,41,"duplicated image caption parameter","[[卡拉瓦乔]]创作的油画《圣马太蒙召》（{{lang"],["no-duplicate",53,69,"duplicated image caption parameter","en"],["no-duplicate",53,73,"duplicated image caption parameter","《圣马太的召唤》"]]

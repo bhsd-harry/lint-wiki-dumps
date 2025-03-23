@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,3," parents = \n "]]
+window.data=[["no-duplicate",20,3,"duplicated parameter"," parents = \n "],["no-duplicate",24,3,"duplicated parameter"," parents = 劉神嶽（父）\n "]]

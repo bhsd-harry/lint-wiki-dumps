@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",39,132,"contenteditable"],[2,"no-duplicate",19,31,"40%px"]]
+window.data=[["no-duplicate",19,31,"duplicated image caption parameter","40%px"],["no-duplicate",19,41,"duplicated image caption parameter","2011年  沒裝義肢尾鰭的溫特"],["illegal-attr",39,132,"illegal attribute name","contenteditable"]]

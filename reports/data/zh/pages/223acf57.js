@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",201,2,"[[Category:1912年美國法律]]"],[2,"no-ignored",62,8," 15%"]]
+window.data=[["no-ignored",62,8,"containing invalid attribute"," 15%"],["no-ignored",63,9,"containing invalid attribute"," 15% "],["no-duplicate",201,2,"duplicated category","[[Category:1912年美國法律]]"],["no-duplicate",202,2,"duplicated category","[[Category:1912年美國法律]]"],["no-duplicate",203,2,"duplicated category","[[Category:1913年美國法律]]"],["no-duplicate",204,2,"duplicated category","[[Category:1913年美國法律]]"]]

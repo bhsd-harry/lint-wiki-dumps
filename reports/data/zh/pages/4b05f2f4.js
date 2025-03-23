@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,102,"upleft"]]
+window.data=[["no-duplicate",37,102,"duplicated image caption parameter","upleft"],["no-duplicate",37,109,"duplicated image caption parameter","2022年北京冬奥会闭幕式（下）作为中国代表团旗手（与[[徐梦桃]]一起担任）。"]]

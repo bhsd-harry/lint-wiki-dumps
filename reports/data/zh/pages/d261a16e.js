@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,2,"[[Category:凝乳]]"]]
+window.data=[["no-duplicate",12,2,"duplicated category","[[Category:凝乳]]"],["no-duplicate",15,2,"duplicated category","[[Category:凝乳]]"]]

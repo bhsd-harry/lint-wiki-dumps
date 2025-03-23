@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,3," 票房         = \n "]]
+window.data=[["no-duplicate",22,3,"duplicated parameter"," 票房         = \n "],["no-duplicate",23,3,"duplicated parameter"," 票房         = 2486萬元人民幣<ref name=\"Maoyan\">{{Cite Maoyan|id=1174000}}</ref>\n "]]

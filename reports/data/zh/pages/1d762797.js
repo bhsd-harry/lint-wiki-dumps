@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",30,2,"[[Category:美国流行病学家]]"]]
+window.data=[["no-duplicate",30,2,"duplicated category","[[Category:美国流行病学家]]"],["no-duplicate",37,2,"duplicated category","[[Category:美国流行病学家]]"]]

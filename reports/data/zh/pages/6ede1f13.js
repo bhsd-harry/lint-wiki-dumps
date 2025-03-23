@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",44,1," * 图书馆学科\n * 文献信息学科"]]
+window.data=[["fostered-content",44,1,"content to be moved out from the table"," * 图书馆学科\n * 文献信息学科"]]

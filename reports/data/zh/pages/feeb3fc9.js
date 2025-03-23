@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",290,2,"[[Category:威尼斯电影节评审团主席]]"]]
+window.data=[["no-duplicate",290,2,"duplicated category","[[Category:威尼斯电影节评审团主席]]"],["no-duplicate",295,2,"duplicated category","[[Category:威尼斯电影节评审团主席]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3," honours =\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter"," honours =\n "],["no-duplicate",11,3,"duplicated parameter"," honours = {{ubl\n |'''意大利冠軍見習騎師'''<br/>(2004/2005年度馬季)\n |'''巴林冠軍騎師'''<br/>(2016/2017年度馬季)\n }}\n "]]

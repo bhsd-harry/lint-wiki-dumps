@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",129,2,"[[Category:日本浪漫喜劇電視劇]]"]]
+window.data=[["no-duplicate",129,2,"duplicated category","[[Category:日本浪漫喜劇電視劇]]"],["no-duplicate",132,2,"duplicated category","[[Category:日本浪漫喜劇電視劇]]"]]

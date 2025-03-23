@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",63,41,"align"],[2,"no-duplicate",45,73,"480px <!-- must equal original width as scaled thumbnail loses animation -->"]]
+window.data=[["no-duplicate",45,73,"duplicated image caption parameter","480px <!-- must equal original width as scaled thumbnail loses animation -->"],["no-duplicate",45,150,"duplicated image caption parameter","在刚刚月食之前，期间和之后月球出现的仿真"],["illegal-attr",63,41,"illegal attribute name","align"]]

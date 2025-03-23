@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,3,"配偶=\n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter","配偶=\n "],["no-duplicate",20,3,"duplicated parameter","配偶 = [[陳國偉 (配音員)|陳國偉]] \n "]]

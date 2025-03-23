@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",81,11,"width"],[4,"invalid-gallery",82,25,"thumb"],[1,"nested-link",48,313,"[[新大陸]]"]]
+window.data=[["nested-link",48,313,"internal link in an external link","[[新大陸]]"],["illegal-attr",81,11,"illegal attribute name","width"],["illegal-attr",81,24,"illegal attribute name","height"],["invalid-gallery",82,25,"invalid image parameter","thumb"],["invalid-gallery",82,31,"invalid image parameter","left"],["invalid-gallery",83,57,"invalid image parameter","thumb"],["invalid-gallery",83,63,"invalid image parameter","left"]]

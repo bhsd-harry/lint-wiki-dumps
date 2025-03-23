@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",166,2,"[[Category:2013年美國電影作品]]"]]
+window.data=[["no-duplicate",166,2,"duplicated category","[[Category:2013年美國電影作品]]"],["no-duplicate",180,2,"duplicated category","[[Category:2013年美國電影作品]]"]]

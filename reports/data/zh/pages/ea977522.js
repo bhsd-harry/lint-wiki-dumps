@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",1,43,"альт=Чаадаев, Пётр Яковлевич (портрет)"]]
+window.data=[["no-duplicate",1,43,"duplicated image caption parameter","альт=Чаадаев, Пётр Яковлевич (портрет)"],["no-duplicate",1,82,"duplicated image caption parameter","мини"],["no-duplicate",1,87,"duplicated image caption parameter","彼得·恰达耶夫"]]

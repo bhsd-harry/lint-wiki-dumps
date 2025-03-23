@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,2,"[[Category:台灣銀行家]]"]]
+window.data=[["no-duplicate",25,2,"duplicated category","[[Category:台灣銀行家]]"],["no-duplicate",37,2,"duplicated category","[[Category:台灣銀行家]]"]]

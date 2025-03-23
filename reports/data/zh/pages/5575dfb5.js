@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3," assets = 1808.0億\n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter"," assets = 1808.0億\n "],["no-duplicate",17,3,"duplicated parameter"," assets = {{profit}} $3143億 [[新加坡元]] (2018)\n "]]

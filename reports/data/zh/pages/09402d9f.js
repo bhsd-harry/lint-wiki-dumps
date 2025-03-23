@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",115,1," '''巴利亚多利德-机场时间表'''<ref name=\"linea\">{{cite web |url=http://www.linecar.es/pdf/Nuevos%20horarios%20CASTELLANO.%20julio%202010.pdf |title=Horarios de a"]]
+window.data=[["fostered-content",115,1,"content to be moved out from the table"," '''巴利亚多利德-机场时间表'''<ref name=\"linea\">{{cite web |url=http://www.linecar.es/pdf/Nuevos%20horarios%20CASTELLANO.%20julio%202010.pdf |title=Horarios de a"],["fostered-content",130,1,"content to be moved out from the table"," '''机场-巴利亚多利德时间表'''<ref name=\"linea\"/>"]]

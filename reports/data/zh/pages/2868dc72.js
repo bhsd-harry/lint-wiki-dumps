@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",358,1,"\n == 参见 ==\n * [[道奇藍]]\n\n == 註釋 ==\n {{NoteFoot}}\n\n == 参考文献 ==\n {{Reflist}}\n\n == 外部链接 ==\n {{Commons category|Los Angeles Dodgers}}\n * [https://www.mlb.co"],[1,"unclosed-table",318,2,"{|"]]
+window.data=[["fostered-content",358,1,"content to be moved out from the table","\n == 参见 ==\n * [[道奇藍]]\n\n == 註釋 ==\n {{NoteFoot}}\n\n == 参考文献 ==\n {{Reflist}}\n\n == 外部链接 ==\n {{Commons category|Los Angeles Dodgers}}\n * [https://www.mlb.co"],["unclosed-table",318,2,"unclosed table","{|"]]

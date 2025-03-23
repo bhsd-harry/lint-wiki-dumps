@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",55,1," *時刻表僅供參考，請以[[豐原客運]]網站公告為準。"],[1,"no-ignored",90,4,"\"text-align:center;\""]]
+window.data=[["fostered-content",55,1,"content to be moved out from the table"," *時刻表僅供參考，請以[[豐原客運]]網站公告為準。"],["no-ignored",90,4,"containing invalid attribute","\"text-align:center;\""],["fostered-content",89,1,"content to be moved out from the table"," *時刻表僅供參考，請以[[豐原客運]]網站公告為準。"]]

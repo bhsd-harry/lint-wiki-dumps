@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",135,5,"style=\"background-color: #FFFFFF border=\""],[1,"no-ignored",135,46,"1\"  "]]
+window.data=[["invalid-css",135,45,"term expected",""],["no-ignored",135,46,"containing invalid attribute","1\"  "],["no-duplicate",135,5,"duplicated style attribute","style=\"background-color: #FFFFFF border=\""],["no-duplicate",135,84,"duplicated style attribute","style=\"text-align: center; font-size: 95%; border-collapse: collapse\""]]

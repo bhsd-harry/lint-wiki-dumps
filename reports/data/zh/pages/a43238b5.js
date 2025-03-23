@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,2,"[[Category:東京醫科大學校友]]"]]
+window.data=[["no-duplicate",14,2,"duplicated category","[[Category:東京醫科大學校友]]"],["no-duplicate",16,2,"duplicated category","[[Category:東京醫科大學校友|C陳]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",211,60,"Taiwanese Auxiliary Police Car"]]
+window.data=[["no-duplicate",211,60,"duplicated image caption parameter","Taiwanese Auxiliary Police Car"],["no-duplicate",211,91,"duplicated image caption parameter","中央海軍學校學生"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",479,85,"2016"],[1,"no-ignored",479,89," est.<ref name=\"ReferenceA\"/>  "],[1,"parsing-order",479,94,"<ref name=\"ReferenceA\"/>"]]
+window.data=[["illegal-attr",479,85,"illegal attribute name","2016"],["parsing-order",479,94,"extension tag in HTML tag attributes","<ref name=\"ReferenceA\"/>"],["no-ignored",479,89,"containing invalid attribute"," est.<ref name=\"ReferenceA\"/>  "]]

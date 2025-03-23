@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",64,2,"[[Category:纹章]]"]]
+window.data=[["no-duplicate",64,2,"duplicated category","[[Category:纹章]]"],["no-duplicate",65,2,"duplicated category","[[Category:纹章]]"],["no-duplicate",89,2,"duplicated category","[[Category:纹章]]"]]

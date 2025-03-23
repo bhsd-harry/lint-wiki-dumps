@@ -1,1 +1,1 @@
-window.data=[[4,"pipe-like",79,47," LACM-34919（初回限定盤）\n LACM-4919\n （通常盤） || 电视动画「"]]
+window.data=[["pipe-like",79,47,"additional \"|\" in a table cell"," LACM-34919（初回限定盤）\n LACM-4919\n （通常盤） || 电视动画「"],["pipe-like",81,30,"additional \"|\" in a table cell","」片頭曲 || 28位"],["pipe-like",84,335,"additional \"|\" in a table cell"," LACM-34011（初回限定盤）\n LACM-4011\n （通常盤） || 电视动画「"],["pipe-like",86,25,"additional \"|\" in a table cell","」片頭曲 || 41位"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",97,2,"[[Category:长尾鲨科|C]]"]]
+window.data=[["no-duplicate",97,2,"duplicated category","[[Category:长尾鲨科|C]]"],["no-duplicate",98,2,"duplicated category","[[Category:长尾鲨科|*]]"]]

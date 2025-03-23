@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",58,1," * 初等教育学科"]]
+window.data=[["fostered-content",58,1,"content to be moved out from the table"," * 初等教育学科"],["fostered-content",62,1,"content to be moved out from the table"," * 家政科<ref group=\"注\"  name=\"家政科\"/>\n * 保健科<ref group=\"注\"  name=\"保健科\"/>\n * 初等教育学科\n ** 第一部\n ** [[夜校|第二部]]<ref group=\"注\"  name=\"初等教育学科第二部\"/>"]]

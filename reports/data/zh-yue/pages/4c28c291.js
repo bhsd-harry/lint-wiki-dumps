@@ -1,1 +1,1 @@
-window.data=[[5,"no-duplicate",37,42,"duplicated image caption parameter","縮圖"]]
+window.data=[["no-duplicate",37,42,"duplicated image caption parameter","縮圖"],["no-duplicate",37,45,"duplicated image caption parameter","1910年，戴高樂喺[[聖西爾陸軍學校]]做學員嘅樣"],["no-duplicate",51,27,"duplicated image caption parameter","縮圖"],["no-duplicate",51,30,"duplicated image caption parameter","右"],["no-duplicate",51,32,"duplicated image caption parameter","[[迪南]]一塊紀念牌，記錄咗當時仲係步兵中尉嘅戴高樂喺1914年受傷嘅地方"]]

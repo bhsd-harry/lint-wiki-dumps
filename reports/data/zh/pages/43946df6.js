@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",403,2,"[[Category:澳門歷史|*]]"]]
+window.data=[["no-duplicate",403,2,"duplicated category","[[Category:澳門歷史|*]]"],["no-duplicate",409,2,"duplicated category","[[Category:澳門歷史]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",110,44,"{{"],[2,"no-duplicate",110,44,"{{link-ko"]]
+window.data=[["lonely-bracket",110,44,"lonely \"{\"","{{"],["no-duplicate",110,44,"duplicated image caption parameter","{{link-ko"],["no-duplicate",110,54,"duplicated image caption parameter","[[國道3號 (韓國)|国道3号]]上的胎田分歧点"]]

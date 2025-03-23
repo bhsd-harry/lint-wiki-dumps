@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,25,"duplicated image caption parameter","file"]]
+window.data=[["no-duplicate",5,25,"duplicated image caption parameter","file"],["no-duplicate",5,42,"duplicated image caption parameter","[[Évreux]], {{PAGENAME}}."]]

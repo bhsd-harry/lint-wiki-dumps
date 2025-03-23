@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",317,2,"[[Category:銀行題材作品]]"]]
+window.data=[["no-duplicate",317,2,"duplicated category","[[Category:銀行題材作品]]"],["no-duplicate",328,2,"duplicated category","[[Category:銀行題材作品]]"]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",68,2,"[[Category:使用BSD许可证的软件]]"]]
+window.data=[["no-duplicate",68,2,"duplicated category","[[Category:使用BSD许可证的软件]]"],["no-duplicate",73,2,"duplicated category","[[Category:使用BSD许可证的软件]]"],["no-duplicate",70,2,"duplicated category","[[Category:已停止開發的軟體]]"],["no-duplicate",75,2,"duplicated category","[[Category:已停止開發的軟體]]"],["no-duplicate",77,2,"duplicated category","[[Category:C++軟體]]"],["no-duplicate",78,2,"duplicated category","[[Category:C++軟體]]"]]

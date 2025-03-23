@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",310,75,"{{"],[3,"no-duplicate",310,55,"各黨在2017年大選之後的支持度變化： {{columns-list"]]
+window.data=[["lonely-bracket",310,75,"lonely \"{\"","{{"],["no-duplicate",310,55,"duplicated image caption parameter","各黨在2017年大選之後的支持度變化： {{columns-list"],["no-duplicate",310,90,"duplicated image caption parameter","colwidth=18em"],["no-duplicate",310,104,"duplicated image caption parameter","\n  {{Legend-line|#0087DC solid 5px|保守黨}}\n  {{Legend-line|#DC241f solid 5px|工黨}}\n  {{Legend-line|#FAA61A solid 5px|自民黨}}\n  {{Legend-line|#00C2DF solid "]]

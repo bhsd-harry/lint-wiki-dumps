@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",64,2,"[[Category:烏克蘭英雄]]"]]
+window.data=[["no-duplicate",64,2,"duplicated category","[[Category:烏克蘭英雄]]"],["no-duplicate",68,2,"duplicated category","[[Category:烏克蘭英雄]]"],["no-duplicate",65,2,"duplicated category","[[Category:金星勳章獲得者 (烏克蘭)]]"],["no-duplicate",69,2,"duplicated category","[[Category:金星勳章獲得者 (烏克蘭)]]"],["no-duplicate",66,2,"duplicated category","[[Category:俄羅斯入侵烏克蘭人物]]"],["no-duplicate",71,2,"duplicated category","[[Category:俄羅斯入侵烏克蘭人物]]"]]

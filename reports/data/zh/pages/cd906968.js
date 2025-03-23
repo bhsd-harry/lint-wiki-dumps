@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",6,1," 第一版"]]
+window.data=[["fostered-content",6,1,"content to be moved out from the table"," 第一版"],["fostered-content",48,1,"content to be moved out from the table"," 第二版（附加曲目）"]]

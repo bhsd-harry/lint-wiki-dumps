@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",38,67,"url="]]
+window.data=[["no-duplicate",38,67,"duplicated parameter","url="],["no-duplicate",38,72,"duplicated parameter","url = https://web.archive.org/web/20140211231857/http://sev.gov.ua/en/cityinfo/sovrem/"],["no-duplicate",64,78,"conflicting image horizontal-alignment parameter","right"],["no-duplicate",64,84,"conflicting image horizontal-alignment parameter","none"],["no-duplicate",93,64,"conflicting image horizontal-alignment parameter","right"],["no-duplicate",93,70,"conflicting image horizontal-alignment parameter","none"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,2,"[[Category:日本兒童歌手]]"]]
+window.data=[["no-duplicate",33,2,"duplicated category","[[Category:日本兒童歌手]]"],["no-duplicate",44,2,"duplicated category","[[Category:日本兒童歌手]]"]]

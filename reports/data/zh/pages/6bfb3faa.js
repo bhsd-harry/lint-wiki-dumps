@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",74,5,"[["],[2,"no-ignored",74,4,"《[[白发魔女传]]》||慕容冲"]]
+window.data=[["lonely-bracket",74,5,"lonely \"[\"","[["],["lonely-bracket",74,12,"lonely \"]\"","]]"],["no-ignored",74,4,"containing invalid attribute","《[[白发魔女传]]》||慕容冲"],["lonely-bracket",76,5,"lonely \"[\"","[["],["lonely-bracket",76,12,"lonely \"]\"","]]"],["no-ignored",76,4,"containing invalid attribute","《[[萍踪侠影录]]》||周山民"]]

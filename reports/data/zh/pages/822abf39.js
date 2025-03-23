@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",4,34,"href"],[1,"tag-like",5,74,"</img"]]
+window.data=[["illegal-attr",4,34,"illegal attribute name","href"],["tag-like",5,74,"lonely \"<\"","</img"]]

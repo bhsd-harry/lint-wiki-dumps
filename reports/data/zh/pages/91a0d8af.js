@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",37,518,"zy2=[[浙江按察使]]<br>[[張曾誼]]<br>監生(捐納知縣)"]]
+window.data=[["no-duplicate",37,518,"duplicated parameter","zy2=[[浙江按察使]]<br>[[張曾誼]]<br>監生(捐納知縣)"],["no-duplicate",37,908,"duplicated parameter","zy2=貴州[[貴西道]][[道員]]<br>[[張曾敭]]<br>乾隆戊子[[解元]]"],["no-duplicate",37,555,"duplicated parameter","boxstyle_zy2=background-color: #7FFFD4;"],["no-duplicate",37,953,"duplicated parameter","boxstyle_zy2=background-color: #FFE5B4;"]]

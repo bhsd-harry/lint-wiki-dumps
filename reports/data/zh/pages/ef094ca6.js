@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",269,396,"}"],[2,"no-duplicate",146,31,"缩略图"]]
+window.data=[["no-duplicate",146,31,"duplicated image thumbnail parameter","缩略图"],["no-duplicate",146,35,"duplicated image thumbnail parameter","thumb"],["lonely-bracket",269,396,"lonely \"}\"","}"]]

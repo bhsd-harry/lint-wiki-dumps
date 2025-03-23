@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",45,34,"缩略图"]]
+window.data=[["no-duplicate",45,34,"duplicated image thumbnail parameter","缩略图"],["no-duplicate",45,38,"duplicated image thumbnail parameter","thumb"],["no-duplicate",88,2,"duplicated category","[[Category:抗戰時期中國武器]]"],["no-duplicate",93,2,"duplicated category","[[Category:抗戰時期中國武器]]"]]

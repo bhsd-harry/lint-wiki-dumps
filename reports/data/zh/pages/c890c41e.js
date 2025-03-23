@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,3,"adopted       =\n "]]
+window.data=[["no-duplicate",14,3,"duplicated parameter","adopted       =\n "],["no-duplicate",16,3,"duplicated parameter","adopted       = 2004年7月12日（官方）\n "]]

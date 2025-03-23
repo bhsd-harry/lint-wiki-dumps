@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",162,23,"style=\"width:90%;\""]]
+window.data=[["no-duplicate",162,23,"duplicated style attribute","style=\"width:90%;\""],["no-duplicate",162,43,"duplicated style attribute","style=\"font-size:85%;\""],["no-duplicate",229,24,"duplicated style attribute","style=\"width:95%;\""],["no-duplicate",229,44,"duplicated style attribute","style=\"font-size:90%;\""],["no-duplicate",325,2,"duplicated category","[[Category:改编自电视剧的电影]]"],["no-duplicate",328,2,"duplicated category","[[Category:改编自电视剧的电影]]"]]

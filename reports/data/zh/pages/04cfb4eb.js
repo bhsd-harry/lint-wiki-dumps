@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",282,2,"[[Category:尾道市背景作品]]"]]
+window.data=[["no-duplicate",282,2,"duplicated category","[[Category:尾道市背景作品]]"],["no-duplicate",288,2,"duplicated category","[[Category:尾道市背景作品]]"]]

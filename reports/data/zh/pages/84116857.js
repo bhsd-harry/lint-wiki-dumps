@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",160,167,"{"]]
+window.data=[["lonely-bracket",160,167,"lonely \"{\"","{"],["lonely-bracket",174,128,"lonely \"{\"","{{"]]

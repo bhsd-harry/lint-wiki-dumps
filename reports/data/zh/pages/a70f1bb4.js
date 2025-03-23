@@ -1,1 +1,1 @@
-window.data=[[5,"no-duplicate",37,2,"[[Category:霍亨索倫王朝]]"]]
+window.data=[["no-duplicate",37,2,"duplicated category","[[Category:霍亨索倫王朝]]"],["no-duplicate",42,2,"duplicated category","[[Category:霍亨索倫王朝]]"],["no-duplicate",45,2,"duplicated category","[[Category:霍亨索倫王朝]]"],["no-duplicate",39,2,"duplicated category","[[Category:柏林人]]"],["no-duplicate",41,2,"duplicated category","[[Category:柏林人]]"]]

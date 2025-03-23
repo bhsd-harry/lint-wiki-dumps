@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",307,50,"超強、Soya、李川"]]
+window.data=[["no-ignored",307,50,"containing invalid attribute","超強、Soya、李川"]]

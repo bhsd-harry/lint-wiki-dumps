@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",34,43,"ISBN"],[2,"no-duplicate",38,2,"[[Category:情侶鸚鵡|H]]"]]
+window.data=[["lonely-http",34,43,"lonely \"ISBN\"","ISBN"],["no-duplicate",38,2,"duplicated category","[[Category:情侶鸚鵡|H]]"],["no-duplicate",39,2,"duplicated category","[[Category:情侶鸚鵡|H]]"]]

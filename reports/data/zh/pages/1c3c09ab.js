@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",123,5,"[["],[1,"no-ignored",123,4,"|[[塔吉克科学院天文台]]<!--Inst. of Astrophysics-->  ||{{flagicon|TJK}} 杜尚别 ||+68°47′ ||+38°34′ ||820 "]]
+window.data=[["lonely-bracket",123,5,"lonely \"[\"","[["],["lonely-bracket",123,16,"lonely \"]\"","]]"],["no-ignored",123,4,"containing invalid attribute","|[[塔吉克科学院天文台]]<!--Inst. of Astrophysics-->  ||{{flagicon|TJK}} 杜尚别 ||+68°47′ ||+38°34′ ||820 "]]

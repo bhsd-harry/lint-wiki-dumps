@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",68,4,"[["],[1,"nested-link",161,94,"[[東方日報]]"],[2,"no-ignored",68,4,"[[盧海鵬]]||盧　海||"]]
+window.data=[["lonely-bracket",68,4,"lonely \"[\"","[["],["lonely-bracket",68,9,"lonely \"]\"","]]"],["no-ignored",68,4,"containing invalid attribute","[[盧海鵬]]||盧　海||"],["lonely-bracket",108,4,"lonely \"[\"","[["],["lonely-bracket",108,9,"lonely \"]\"","]]"],["no-ignored",108,4,"containing invalid attribute","[[林穎彤]]||||侍應"],["nested-link",161,94,"internal link in an external link","[[東方日報]]"]]

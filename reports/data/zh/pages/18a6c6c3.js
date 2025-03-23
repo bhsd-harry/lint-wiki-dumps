@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",59,52,"Scopus_umbretta_-Serengeti,_Tanzania-8"]]
+window.data=[["no-duplicate",59,52,"duplicated image caption parameter","Scopus_umbretta_-Serengeti,_Tanzania-8"],["no-duplicate",59,102,"duplicated image caption parameter","[[坦桑尼亚]][[塞伦盖蒂国家公园]]内一只涉水的锤头鹳"]]

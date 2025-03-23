@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",45,3,"[[分类:清徐人]]"]]
+window.data=[["no-duplicate",45,3,"duplicated category","[[分类:清徐人]]"],["no-duplicate",61,2,"duplicated category","[[Category:清徐人]]"]]

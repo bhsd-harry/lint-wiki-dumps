@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",260,4,"The"],[1,"no-ignored",260,15," Riga#Adaptation"]]
+window.data=[["illegal-attr",260,4,"illegal attribute name","The"],["illegal-attr",260,8,"illegal attribute name","Dogs"],["illegal-attr",260,13,"illegal attribute name","of"],["no-ignored",260,15,"containing invalid attribute"," Riga#Adaptation"]]

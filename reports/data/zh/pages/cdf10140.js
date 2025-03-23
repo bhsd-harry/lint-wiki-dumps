@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,46,"Right"]]
+window.data=[["no-duplicate",35,46,"duplicated image caption parameter","Right"],["no-duplicate",35,64,"duplicated image caption parameter","席安2011年3月在明格拉影展上"]]

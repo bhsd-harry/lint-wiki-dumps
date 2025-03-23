@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",1372,4,"ISBN 978-4-04-886925-2"],[2,"no-ignored",267,48,"擔當"]]
+window.data=[["no-ignored",267,48,"invalid conversion flag","擔當"],["no-ignored",461,10,"invalid conversion flag","絶剣"],["invalid-isbn",1372,4,"invalid ISBN","ISBN 978-4-04-886925-2"]]

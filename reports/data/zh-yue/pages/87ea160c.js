@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",100,2,"duplicated category","[[Category:哈利波特]]"]]
+window.data=[["no-duplicate",100,2,"duplicated category","[[Category:哈利波特]]"],["no-duplicate",107,2,"duplicated category","[[Category:哈利波特]]"]]

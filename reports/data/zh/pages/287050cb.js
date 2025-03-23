@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",61,2,"[[Category:2020年成立的航空公司]]"]]
+window.data=[["no-duplicate",61,2,"duplicated category","[[Category:2020年成立的航空公司]]"],["no-duplicate",63,2,"duplicated category","[[Category:2020年成立的航空公司]]"]]

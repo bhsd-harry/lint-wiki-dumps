@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",14,2,"[[Category:在世人物]]"]]
+window.data=[["no-duplicate",14,2,"duplicated category","[[Category:在世人物]]"],["no-duplicate",15,22,"duplicated category","[[Category:在世人物]]"],["no-duplicate",15,2,"duplicated category","[[Category:台灣當代藝術家]]"],["no-duplicate",15,39,"duplicated category","[[Category:台灣當代藝術家]]"]]

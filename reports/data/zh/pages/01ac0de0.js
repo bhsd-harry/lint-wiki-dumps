@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,110,"work=南铁南平车务段"]]
+window.data=[["no-duplicate",14,110,"duplicated parameter","work=南铁南平车务段"],["no-duplicate",14,123,"duplicated parameter","work=微信公众号"]]

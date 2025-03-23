@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",399,2,"[[Category:香港破產人士]]"]]
+window.data=[["no-duplicate",399,2,"duplicated category","[[Category:香港破產人士]]"],["no-duplicate",408,2,"duplicated category","[[Category:香港破產人士]]"]]

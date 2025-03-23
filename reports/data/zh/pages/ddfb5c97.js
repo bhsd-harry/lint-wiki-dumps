@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",50,3," 首次個人展覽=《調和波長》 台北敦煌藝術中心 \n "]]
+window.data=[["no-duplicate",50,3,"duplicated parameter"," 首次個人展覽=《調和波長》 台北敦煌藝術中心 \n "],["no-duplicate",63,3,"duplicated parameter"," 首次個人展覽= \n "]]

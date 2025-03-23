@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1120,2,"[[Category:浙江卫视电视节目]]"]]
+window.data=[["no-duplicate",1120,2,"duplicated category","[[Category:浙江卫视电视节目]]"],["no-duplicate",1124,2,"duplicated category","[[Category:浙江卫视电视节目]]"]]

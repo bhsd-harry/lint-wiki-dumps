@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,2,"[[Category:中华民国大陆时期情报机构]]"]]
+window.data=[["no-duplicate",19,2,"duplicated category","[[Category:中华民国大陆时期情报机构]]"],["no-duplicate",20,2,"duplicated category","[[Category:中华民国大陆时期情报机构]]"]]

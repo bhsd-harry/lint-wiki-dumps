@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",49,21,"x"],[1,"lonely-bracket",59,30,"{{"],[2,"no-ignored",51,3,"!align=\"center\"  "]]
+window.data=[["illegal-attr",49,21,"illegal attribute name","x"],["no-ignored",51,3,"containing invalid attribute","!align=\"center\"  "],["lonely-bracket",59,30,"lonely \"{\"","{{"],["no-ignored",59,29,"containing invalid attribute"," {{lang"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,42,"hochkant=1.5"]]
+window.data=[["no-duplicate",4,42,"duplicated image caption parameter","hochkant=1.5"],["no-duplicate",4,55,"duplicated image caption parameter","Pg螺纹"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",18,380,"[[紐約聯邦儲備銀行]]"]]
+window.data=[["nested-link",18,380,"internal link in an external link","[[紐約聯邦儲備銀行]]"],["nested-link",47,152,"internal link in an external link","[[紐約聯邦儲備銀行]]"]]

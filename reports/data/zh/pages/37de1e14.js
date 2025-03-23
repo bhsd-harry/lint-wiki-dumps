@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",95,18,"Bfordms"]]
+window.data=[["no-duplicate",95,18,"duplicated image caption parameter","Bfordms"],["no-duplicate",95,38,"duplicated image caption parameter","福德學校培民街入口"]]

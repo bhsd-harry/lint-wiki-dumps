@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",9,170,"]"],[2,"no-duplicate",13,2,"[[Category:视频分享网站]]"]]
+window.data=[["lonely-bracket",9,170,"lonely \"]\"","]"],["no-duplicate",13,2,"duplicated category","[[Category:视频分享网站]]"],["no-duplicate",14,2,"duplicated category","[[Category:视频分享网站]]"]]

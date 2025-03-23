@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,251,"group=\"參\""]]
+window.data=[["no-duplicate",16,251,"duplicated group attribute","group=\"參\""],["no-duplicate",16,278,"duplicated group attribute","group=\"參\""]]

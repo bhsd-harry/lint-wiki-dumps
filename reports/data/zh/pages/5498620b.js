@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",58,26,"12Dec2015MeiYing"]]
+window.data=[["no-duplicate",58,26,"duplicated image caption parameter","12Dec2015MeiYing"],["no-duplicate",58,43,"duplicated image caption parameter","2015年12月"]]

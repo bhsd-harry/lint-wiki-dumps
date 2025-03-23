@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,2,"[[Category:倫敦音樂家]]"]]
+window.data=[["no-duplicate",44,2,"duplicated category","[[Category:倫敦音樂家]]"],["no-duplicate",49,2,"duplicated category","[[Category:倫敦音樂家]]"]]

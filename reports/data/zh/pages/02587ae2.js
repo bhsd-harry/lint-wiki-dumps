@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",40,2,"[[Category:20世纪法国哲学家]]"]]
+window.data=[["no-duplicate",40,2,"duplicated category","[[Category:20世纪法国哲学家]]"],["no-duplicate",41,2,"duplicated category","[[Category:20世纪法国哲学家]]"]]

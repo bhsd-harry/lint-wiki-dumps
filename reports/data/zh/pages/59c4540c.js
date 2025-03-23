@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",271,23,"thumb"],[2,"no-duplicate",271,29,"FUSO RP"]]
+window.data=[["invalid-gallery",271,23,"invalid image parameter","thumb"],["no-duplicate",271,29,"duplicated image caption parameter","FUSO RP"],["no-duplicate",271,37,"duplicated image caption parameter","臺中往北港的臺西客運'''{{green|912-FM}}'''"]]

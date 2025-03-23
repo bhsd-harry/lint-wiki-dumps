@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",80,38,"Right"]]
+window.data=[["no-duplicate",80,38,"duplicated image caption parameter","Right"],["no-duplicate",80,50,"duplicated image caption parameter","[[斯旺西城堡]]遺址"]]

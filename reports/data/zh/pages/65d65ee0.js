@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,3," champion        = \n "]]
+window.data=[["no-duplicate",37,3,"duplicated parameter"," champion        = \n "],["no-duplicate",40,3,"duplicated parameter"," champion        = {{flagdeco|South Korea}} [[T1 (電競隊伍)|T1]] <br>（第 5 次）\n "]]

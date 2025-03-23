@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",252,2,"[[Category:澳屬印度洋領地]]"]]
+window.data=[["no-duplicate",252,2,"duplicated category","[[Category:澳屬印度洋領地]]"],["no-duplicate",255,2,"duplicated category","[[Category:澳屬印度洋領地]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",147,1," '''1968年'''"]]
+window.data=[["fostered-content",147,1,"content to be moved out from the table"," '''1968年'''"],["fostered-content",188,1,"content to be moved out from the table"," '''1969年'''"]]

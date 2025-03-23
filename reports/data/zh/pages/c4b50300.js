@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",8,1,"  Marchetti, p.52.</ref>"],[1,"tag-like",7,123,"<ref"]]
+window.data=[["tag-like",7,123,"lonely \"<\"","<ref"],["no-ignored",8,1,"invalid content in <gallery>","  Marchetti, p.52.</ref>"]]

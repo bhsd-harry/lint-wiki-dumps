@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",34,54,"([[Image:Loudspeaker.svg|11px]]"]]
+window.data=[["no-duplicate",34,54,"duplicated image caption parameter","([[Image:Loudspeaker.svg|11px]]"],["no-duplicate",34,86,"duplicated image caption parameter","{{audio|R_U_V Quarten for wikipedia.mid|播放}})完全四度 (a),增四度 (b)和減四度 (c)"]]

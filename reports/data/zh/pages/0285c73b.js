@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",476,4,":"],[1,"lonely-bracket",375,51,"{"],[4,"no-duplicate",1093,3,"style=\"white-space:nowrap\""]]
+window.data=[["lonely-bracket",375,51,"lonely \"{\"","{"],["illegal-attr",476,4,"illegal attribute name",":"],["no-duplicate",1093,3,"duplicated style attribute","style=\"white-space:nowrap\""],["no-duplicate",1093,31,"duplicated style attribute","style=\"text-align:center”"],["no-duplicate",1182,3,"duplicated style attribute","style=\"text-align:center\""],["no-duplicate",1182,30,"duplicated style attribute","style=\"white-space:nowrap\""]]

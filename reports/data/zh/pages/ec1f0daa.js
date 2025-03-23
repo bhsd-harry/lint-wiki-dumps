@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,2,"[[Category:坎布里亞郡城鎮]]"]]
+window.data=[["no-duplicate",9,2,"duplicated category","[[Category:坎布里亞郡城鎮]]"],["no-duplicate",11,2,"duplicated category","[[Category:坎布里亞郡城鎮]]"]]

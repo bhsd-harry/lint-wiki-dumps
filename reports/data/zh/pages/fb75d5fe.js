@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",47,1," * [[汽车]][[工学]]科"]]
+window.data=[["fostered-content",47,1,"content to be moved out from the table"," * [[汽车]][[工学]]科"],["fostered-content",52,1,"content to be moved out from the table"," * 商经学科<ref group=\"注\"  name=\"商经学科\">招生到2003年。停办于2005年</ref>"]]

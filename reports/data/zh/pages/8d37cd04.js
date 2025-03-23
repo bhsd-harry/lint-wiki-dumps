@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",636,2,"[[Category:藥物題材作品|C]]"]]
+window.data=[["no-duplicate",636,2,"duplicated category","[[Category:藥物題材作品|C]]"],["no-duplicate",637,2,"duplicated category","[[Category:藥物題材作品|C]]"]]

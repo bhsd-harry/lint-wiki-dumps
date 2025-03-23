@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",227,2,"[[Category:東約克郡無民政教區]]"]]
+window.data=[["no-duplicate",227,2,"duplicated category","[[Category:東約克郡無民政教區]]"],["no-duplicate",234,2,"duplicated category","[[Category:東約克郡無民政教區]]"]]

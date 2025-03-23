@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",79,2,"[[Category:20世纪中国诗人]]"]]
+window.data=[["no-duplicate",79,2,"duplicated category","[[Category:20世纪中国诗人]]"],["no-duplicate",81,2,"duplicated category","[[Category:20世纪中国诗人]]"]]

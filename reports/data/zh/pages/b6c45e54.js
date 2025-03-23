@@ -1,1 +1,1 @@
-window.data=[[8,"no-ignored",111,3,"年度"]]
+window.data=[["no-ignored",111,3,"containing invalid attribute","年度"],["no-ignored",111,8,"containing invalid attribute","球隊"],["no-ignored",111,13,"containing invalid attribute","場次"],["no-ignored",111,18,"containing invalid attribute","勝場"],["no-ignored",111,23,"containing invalid attribute","敗場"],["no-ignored",111,28,"containing invalid attribute","和局"],["no-ignored",111,33,"containing invalid attribute","勝率"],["no-ignored",111,38,"containing invalid attribute","排名"]]

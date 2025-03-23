@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",137,69,"0-5"],[1,"no-ignored",137,3,"{{flagIOCathlete|[[Salvatore Todisco]]|ITA|1984年夏季}}<br />'''L''' "],[1,"parsing-order",137,55,"<br />"]]
+window.data=[["parsing-order",137,55,"HTML tag in table attributes","<br />"],["illegal-attr",137,69,"illegal attribute name","0-5"],["no-ignored",137,3,"containing invalid attribute","{{flagIOCathlete|[[Salvatore Todisco]]|ITA|1984年夏季}}<br />'''L''' "]]

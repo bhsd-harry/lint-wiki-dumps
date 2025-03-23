@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,42,"duplicated image caption parameter","200pax"]]
+window.data=[["no-duplicate",1,42,"duplicated image caption parameter","200pax"],["no-duplicate",1,49,"duplicated image caption parameter","環保4R層次圖"]]

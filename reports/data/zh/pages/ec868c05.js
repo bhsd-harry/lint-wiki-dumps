@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",22,54,"]"],[1,"no-ignored",402,207,"\n </ref>\n "]]
+window.data=[["lonely-bracket",22,54,"lonely \"]\"","]"],["lonely-bracket",22,59,"lonely \"[\"","["],["no-ignored",402,207,"invalid content in <references>","\n </ref>\n "]]

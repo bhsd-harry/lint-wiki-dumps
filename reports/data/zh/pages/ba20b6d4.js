@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",381,2,"[[Category:青春劇]]"]]
+window.data=[["no-duplicate",381,2,"duplicated category","[[Category:青春劇]]"],["no-duplicate",385,2,"duplicated category","[[Category:青春劇]]"],["no-duplicate",382,2,"duplicated category","[[Category:英語電視劇]]"],["no-duplicate",386,2,"duplicated category","[[Category:英語電視劇]]"],["no-duplicate",383,2,"duplicated category","[[Category:LGBT相關電視節目]]"],["no-duplicate",388,2,"duplicated category","[[Category:LGBT相關電視節目]]"]]

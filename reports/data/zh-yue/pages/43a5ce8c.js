@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,69,"duplicated image caption parameter","float"]]
+window.data=[["no-duplicate",20,69,"duplicated image caption parameter","float"],["no-duplicate",20,87,"duplicated image caption parameter","根據唔同嘅重組所展示過去二千年嘅平均地表溫度。每十年搵一個平均值。"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",69,2,"[[Category:光水蚤科|*]]"]]
+window.data=[["no-duplicate",69,2,"duplicated category","[[Category:光水蚤科|*]]"],["no-duplicate",70,2,"duplicated category","[[Category: 光水蚤科|G]]"]]

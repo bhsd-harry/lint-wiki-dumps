@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",96,31,"B-KJD_(20_Sep_2023)"]]
+window.data=[["no-duplicate",96,31,"duplicated image caption parameter","B-KJD_(20_Sep_2023)"],["no-duplicate",96,51,"duplicated image caption parameter","[[波音737#737-800|波音737-800]]"]]

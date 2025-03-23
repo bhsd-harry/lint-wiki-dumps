@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,2,"[[Category:共产主义青年团]]"]]
+window.data=[["no-duplicate",27,2,"duplicated category","[[Category:共产主义青年团]]"],["no-duplicate",29,2,"duplicated category","[[Category:共产主义青年团]]"]]

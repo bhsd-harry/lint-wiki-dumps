@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",51,102," publisher=《吳佩旻"]]
+window.data=[["no-duplicate",51,102,"duplicated parameter"," publisher=《吳佩旻"],["no-duplicate",51,133,"duplicated parameter","publisher=《聯合報》"]]

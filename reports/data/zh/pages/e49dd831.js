@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,3,"basin_countries = {{ISR}}\n "]]
+window.data=[["no-duplicate",14,3,"duplicated parameter","basin_countries = {{ISR}}\n "],["no-duplicate",27,3,"duplicated parameter","basin_countries = {{ISR}}\n <!--      Map      -->"]]

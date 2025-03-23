@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",61,159,"'"],[3,"nested-link",62,117,"[[Gerald Holton]]"]]
+window.data=[["lonely-apos",61,159,"lonely \"'\"","'"],["nested-link",62,117,"internal link in an external link","[[Gerald Holton]]"],["nested-link",62,136,"internal link in an external link","[[Robert Schulmann]]"],["nested-link",62,158,"internal link in an external link","[[John Stachel]]"]]

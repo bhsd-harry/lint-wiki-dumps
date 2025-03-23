@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",24,54," 12-"]]
+window.data=[["no-duplicate",24,54,"duplicated image caption parameter"," 12-"],["no-duplicate",24,59,"duplicated image caption parameter","晋州剑舞"]]

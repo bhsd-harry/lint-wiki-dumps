@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",23,17,"illegal attribute name","historic"],[1,"no-ignored",23,36,"invalid content in <gallery>","  >"]]
+window.data=[["illegal-attr",23,17,"illegal attribute name","historic"],["illegal-attr",23,26,"illegal attribute name","centre"],["no-ignored",23,36,"invalid content in <gallery>","  >"]]

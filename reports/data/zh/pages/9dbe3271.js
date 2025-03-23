@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",30,3," engine_power=\n "]]
+window.data=[["no-duplicate",30,3,"duplicated parameter"," engine_power=\n "],["no-duplicate",31,3,"duplicated parameter"," engine_power= {{cvt|243-294|kW|PS|abbr=on}}\n "]]

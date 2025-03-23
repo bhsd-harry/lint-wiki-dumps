@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,3," highlights   = <!-- 生涯焦點與獲得獎項 -->\n "]]
+window.data=[["no-duplicate",23,3,"duplicated parameter"," highlights   = <!-- 生涯焦點與獲得獎項 -->\n "],["no-duplicate",36,3,"duplicated parameter"," highlights =\n * [[NBA歷屆封阻王|NBA阻攻王]]（1983）\n "]]

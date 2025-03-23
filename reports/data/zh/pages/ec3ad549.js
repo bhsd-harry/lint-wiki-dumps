@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",567,2,"[[Category:城巴路線|E11A]]"]]
+window.data=[["no-duplicate",567,2,"duplicated category","[[Category:城巴路線|E11A]]"],["no-duplicate",568,2,"duplicated category","[[Category:城巴路線|E11S]]"],["no-duplicate",569,2,"duplicated category","[[Category:灣仔區巴士路線|E11A]]"],["no-duplicate",570,2,"duplicated category","[[Category:灣仔區巴士路線|E11S]]"],["no-duplicate",571,2,"duplicated category","[[Category:離島區巴士路線|E11A]]"],["no-duplicate",572,2,"duplicated category","[[Category:離島區巴士路線|E11S]]"]]

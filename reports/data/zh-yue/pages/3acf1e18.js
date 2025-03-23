@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",3,9,"containing invalid attribute"," %sound=\"1\"% "]]
+window.data=[["no-ignored",3,9,"containing invalid attribute"," %sound=\"1\"% "]]

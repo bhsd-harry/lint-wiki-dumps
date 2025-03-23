@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,10,"\n <!--|T = Nobel Prize ; zh-hans : 诺贝尔奖 ; zh-hant : 诺贝爾奖 ;-->\n "]]
+window.data=[["no-duplicate",1,10,"duplicated parameter","\n <!--|T = Nobel Prize ; zh-hans : 诺贝尔奖 ; zh-hant : 诺贝爾奖 ;-->\n "],["no-duplicate",5,3,"duplicated parameter","1 = zh-tw : 阿佛烈 ; zh-cn : 阿尔弗雷德 ;\n "]]

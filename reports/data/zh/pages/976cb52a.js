@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",54,2,"[[Category:巴基斯坦法官]]"],[1,"unmatched-tag",6,24,"</small>"]]
+window.data=[["unmatched-tag",6,24,"unmatched closing tag","</small>"],["no-duplicate",54,2,"duplicated category","[[Category:巴基斯坦法官]]"],["no-duplicate",56,2,"duplicated category","[[Category:巴基斯坦法官]]"]]

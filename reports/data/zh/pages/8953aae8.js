@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,2,"[[Category:朝鮮民主主義人民共和國國防相]]"]]
+window.data=[["no-duplicate",11,2,"duplicated category","[[Category:朝鮮民主主義人民共和國國防相]]"],["no-duplicate",16,2,"duplicated category","[[Category:朝鮮民主主義人民共和國國防相]]"]]

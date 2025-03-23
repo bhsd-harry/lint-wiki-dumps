@@ -1,1 +1,1 @@
-window.data=[[8,"no-duplicate",11,46,"duplicated parameter","lat_sec=11"]]
+window.data=[["no-duplicate",11,46,"duplicated parameter","lat_sec=11"],["no-duplicate",11,80,"duplicated parameter","lat_sec=57"],["no-duplicate",12,45,"duplicated parameter","lat_sec=50"],["no-duplicate",12,79,"duplicated parameter","lat_sec=48"],["no-duplicate",13,46,"duplicated parameter","lat_sec=56"],["no-duplicate",13,80,"duplicated parameter","lat_sec=16"],["no-duplicate",14,46,"duplicated parameter","lat_sec=35"],["no-duplicate",14,80,"duplicated parameter","lat_sec=06"]]

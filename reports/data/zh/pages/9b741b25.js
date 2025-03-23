@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",64,37,"alt = 粉紫色的球面，燈光斜照，產生陰影。"]]
+window.data=[["no-duplicate",64,37,"duplicated image caption parameter","alt = 粉紫色的球面，燈光斜照，產生陰影。"],["no-duplicate",64,61,"duplicated image caption parameter","無標記特定點的[[球面]]，對稱群為<math>O(3)</math>。"]]

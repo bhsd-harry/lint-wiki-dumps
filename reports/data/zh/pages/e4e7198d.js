@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,84,"圣文森特和格林纳丁斯签证政策"]]
+window.data=[["no-duplicate",8,84,"duplicated image caption parameter","圣文森特和格林纳丁斯签证政策"],["no-duplicate",8,99,"duplicated image caption parameter","\n {{legend|#ed1c24|圣文森特和格林纳丁斯}}\n {{legend|#00247d|自由進出停留}}\n {{legend|#62bd18|免簽證90天}}\n {{legend|#b5e61d|免簽證30天}}\n {{legend|#a6a6a6|需要申請簽證}}"]]

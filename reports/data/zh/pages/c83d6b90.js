@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,41,"Left"]]
+window.data=[["no-duplicate",10,41,"duplicated image caption parameter","Left"],["no-duplicate",10,52,"duplicated image caption parameter","[[挑戰者號太空梭]]於1984/1985年間以合成孔徑雷達探測的索德柏立盆地影像"]]

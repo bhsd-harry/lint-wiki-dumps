@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",87,2,"[[Category:法屬圭亞那河流]]"]]
+window.data=[["no-duplicate",87,2,"duplicated category","[[Category:法屬圭亞那河流]]"],["no-duplicate",89,2,"duplicated category","[[Category:法屬圭亞那河流]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,37,"{{largethumb}}"],[1,"unmatched-tag",73,19,"</sup>"]]
+window.data=[["no-duplicate",63,37,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",63,52,"duplicated image caption parameter","西西里大区的省级行政区划"],["unmatched-tag",73,19,"unmatched closing tag","</sup>"]]

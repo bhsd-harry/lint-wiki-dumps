@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",136,59,"L"],[1,"no-ignored",136,3,"{{flagIOCathlete|[[Sören Claeson]]|SWE|1988年夏季}}<br />  "],[1,"parsing-order",136,51,"<br />"]]
+window.data=[["parsing-order",136,51,"HTML tag in table attributes","<br />"],["illegal-attr",136,59,"illegal attribute name","L"],["illegal-attr",136,61,"illegal attribute name","0-4"],["no-ignored",136,3,"containing invalid attribute","{{flagIOCathlete|[[Sören Claeson]]|SWE|1988年夏季}}<br />  "]]

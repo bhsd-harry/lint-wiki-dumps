@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",1068,9,"ISBN"],[3,"invalid-isbn",224,4,"ISBN 986-11-6773-8"]]
+window.data=[["invalid-isbn",224,4,"invalid ISBN","ISBN 986-11-6773-8"],["invalid-isbn",231,4,"invalid ISBN","ISBN 986-11-7108-1"],["invalid-isbn",349,4,"invalid ISBN","ISBN 978-962-988-690-7"],["illegal-attr",1068,9,"illegal attribute name","ISBN"],["illegal-attr",1081,9,"illegal attribute name","ISBN"]]

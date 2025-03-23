@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",385,54,"ISBN 4-05-605008-0"],[2,"no-duplicate",219,95,"name=\"Ippan-p5\""],[1,"no-ignored",219,110,"  /但是在松號驅逐艦上又增加了8挺單裝25公厘機炮。<ref "],[1,"tag-like",219,137,"<ref"]]
+window.data=[["tag-like",219,137,"lonely \"<\"","<ref"],["no-ignored",219,110,"containing invalid attribute","  /但是在松號驅逐艦上又增加了8挺單裝25公厘機炮。<ref "],["no-duplicate",219,95,"duplicated name attribute","name=\"Ippan-p5\""],["no-duplicate",219,142,"duplicated name attribute","name=\"堀(1977)P253\""],["invalid-isbn",385,54,"invalid ISBN","ISBN 4-05-605008-0"]]

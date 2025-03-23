@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,49,"200pc"]]
+window.data=[["no-duplicate",14,49,"duplicated image caption parameter","200pc"],["no-duplicate",14,55,"duplicated image caption parameter","帶有[[斯洛伐克]]民族特色的建築，其中呈現典型的斯洛伐克風格的裝潢"]]

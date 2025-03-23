@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",62,51,"thumb"]]
+window.data=[["no-duplicate",62,51,"duplicated image thumbnail parameter","thumb"],["no-duplicate",62,92,"duplicated image thumbnail parameter","thumb"],["no-duplicate",62,57,"duplicated image caption parameter","View of City Botanic Gardens"],["no-duplicate",62,98,"duplicated image caption parameter","城市植物園一景"]]

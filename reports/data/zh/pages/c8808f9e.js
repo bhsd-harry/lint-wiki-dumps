@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",85,1," [[Category:国际围棋比赛]]"],[1,"unclosed-table",4,2,"{|"]]
+window.data=[["fostered-content",85,1,"content to be moved out from the table"," [[Category:国际围棋比赛]]"],["unclosed-table",4,2,"unclosed table","{|"]]

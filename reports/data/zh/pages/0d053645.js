@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,2,"[[Category:鲁汶天主教大学 (法语) 校友]]"]]
+window.data=[["no-duplicate",65,2,"duplicated category","[[Category:鲁汶天主教大学 (法语) 校友]]"],["no-duplicate",68,2,"duplicated category","[[Category:鲁汶天主教大学 (法语) 校友]]"]]

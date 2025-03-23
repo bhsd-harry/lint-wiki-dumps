@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3,"image = File:Kim_Yong-ju.jpg\n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter","image = File:Kim_Yong-ju.jpg\n "],["no-duplicate",29,3,"duplicated parameter","image        = <!-- 檔案不存在 File:Kim Yong-ju.jpg ，可從英文維基百科取得 -->\n "]]

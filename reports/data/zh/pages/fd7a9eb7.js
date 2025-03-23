@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",960,42,"播放檔次 = [[黄金剧场]] 週日至週五 20:00~21:00\n "]]
+window.data=[["no-duplicate",960,42,"duplicated parameter","播放檔次 = [[黄金剧场]] 週日至週五 20:00~21:00\n "],["no-duplicate",964,43,"duplicated parameter","播放檔次 = [[黄金剧场]] 週日至週五 20:00~21:00\n "]]

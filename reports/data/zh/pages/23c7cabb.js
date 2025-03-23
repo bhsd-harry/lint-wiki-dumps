@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",205,54,"Right"]]
+window.data=[["no-duplicate",205,54,"duplicated image caption parameter","Right"],["no-duplicate",205,60,"duplicated image caption parameter","世界饑荒救濟活動全球代言人的宣傳廣告。"]]

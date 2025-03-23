@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,2,"duplicated category","[[Category:川崎前鋒球員]]"]]
+window.data=[["no-duplicate",13,2,"duplicated category","[[Category:川崎前鋒球員]]"],["no-duplicate",17,2,"duplicated category","[[Category:川崎前鋒球員]]"]]

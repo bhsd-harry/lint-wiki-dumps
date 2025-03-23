@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,34,"Muru (Lom)"]]
+window.data=[["no-duplicate",4,34,"duplicated image caption parameter","Muru (Lom)"],["no-duplicate",4,45,"duplicated image caption parameter","Muru河流將岩粉倒入挪威的 Gjende 湖中"]]

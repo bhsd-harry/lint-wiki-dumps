@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",7,2,"[[Category:天主教教会法]]"]]
+window.data=[["no-duplicate",7,2,"duplicated category","[[Category:天主教教会法]]"],["no-duplicate",9,2,"duplicated category","[[Category:天主教教会法]]"],["no-duplicate",10,2,"duplicated category","[[Category:宗教刑罰]]"],["no-duplicate",12,2,"duplicated category","[[Category:宗教刑罰]]"],["no-duplicate",11,2,"duplicated category","[[Category:脫離宗教]]"],["no-duplicate",13,2,"duplicated category","[[Category:脫離宗教]]"]]

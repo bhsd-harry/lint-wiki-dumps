@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,3," office= {{HKSAR}}第2任[[運輸及房屋局局長]]\n "]]
+window.data=[["no-duplicate",19,3,"duplicated parameter"," office= {{HKSAR}}第2任[[運輸及房屋局局長]]\n "],["no-duplicate",31,3,"duplicated parameter"," office= {{HKSAR}}第2任[[運輸及房屋局]]局長\n "]]

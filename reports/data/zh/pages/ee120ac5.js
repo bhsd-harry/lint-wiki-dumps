@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",74,3,"s21 = 埃及苏丹国\n "]]
+window.data=[["no-duplicate",74,3,"duplicated parameter","s21 = 埃及苏丹国\n "],["no-duplicate",75,3,"duplicated parameter","s21 = 敵佔區管理局\n "]]

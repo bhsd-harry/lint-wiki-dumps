@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,181,"url=https://www.cpcs.com.tw/About/公司簡介{webarchive"]]
+window.data=[["no-duplicate",27,181,"duplicated parameter","url=https://www.cpcs.com.tw/About/公司簡介{webarchive"],["no-duplicate",27,231,"duplicated parameter","url=https://www.cpcs.com.tw/About/%E5%85%AC%E5%8F%B8%E7%B0%A1%E4%BB%8B"]]

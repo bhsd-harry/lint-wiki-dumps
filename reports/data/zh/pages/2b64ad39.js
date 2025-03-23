@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",58,1," * [[商业|商务]]交流学科<ref group=\"注\"  name=\"商务交流学科\"/>"]]
+window.data=[["fostered-content",58,1,"content to be moved out from the table"," * [[商业|商务]]交流学科<ref group=\"注\"  name=\"商务交流学科\"/>"],["fostered-content",62,1,"content to be moved out from the table"," * 经济学科<ref group=\"注\"  name=\"经济学科\"/>"]]

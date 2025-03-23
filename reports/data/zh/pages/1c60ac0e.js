@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",77,1," === OST ==="],[2,"no-ignored",135,30,"text-align:center\"  "]]
+window.data=[["fostered-content",77,1,"content to be moved out from the table"," === OST ==="],["no-ignored",135,30,"containing invalid attribute","text-align:center\"  "],["no-ignored",145,30,"containing invalid attribute","text-align:center\"  "]]

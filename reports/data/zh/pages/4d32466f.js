@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",18,115,"contenteditable"]]
+window.data=[["invalid-css",18,71,"property value expected",";"],["illegal-attr",18,115,"illegal attribute name","contenteditable"]]

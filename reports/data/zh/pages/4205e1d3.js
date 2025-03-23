@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",78,65,"upright="]]
+window.data=[["no-duplicate",78,65,"duplicated image caption parameter","upright="],["no-duplicate",78,79,"duplicated image caption parameter","1796年4月10日的[[蒙特諾特戰役]]態勢圖"],["no-duplicate",102,60,"duplicated image caption parameter","alt"],["no-duplicate",102,64,"duplicated image caption parameter","塞律里埃師在[[卡薩諾戰役 (1799年)|卡薩諾戰役]]中被俘"]]

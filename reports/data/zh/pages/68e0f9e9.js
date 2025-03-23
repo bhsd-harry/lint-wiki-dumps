@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",73,10,"105g"],[1,"no-ignored",73,4,"重量 || "]]
+window.data=[["illegal-attr",73,10,"illegal attribute name","105g"],["no-ignored",73,4,"containing invalid attribute","重量 || "]]

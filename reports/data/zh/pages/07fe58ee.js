@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",88,5,"span"],[2,"no-duplicate",151,2,"[[Category:中国高速铁路线|S]]"]]
+window.data=[["illegal-attr",88,5,"illegal attribute name","span"],["no-duplicate",151,2,"duplicated category","[[Category:中国高速铁路线|S]]"],["no-duplicate",152,2,"duplicated category","[[Category:中国高速铁路线]]"]]

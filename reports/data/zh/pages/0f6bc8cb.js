@@ -1,1 +1,1 @@
-window.data=[[5,"nested-link",35,472,"[[鹿島鹿角]]"]]
+window.data=[["nested-link",35,472,"internal link in an external link","[[鹿島鹿角]]"],["nested-link",35,983,"internal link in an external link","[[磐田山葉]]"],["nested-link",35,998,"internal link in an external link","[[菅沼駿哉]]"],["nested-link",35,1201,"internal link in an external link","[[鹿島鹿角]]"],["nested-link",35,1211,"internal link in an external link","[[磐田山葉]]"]]

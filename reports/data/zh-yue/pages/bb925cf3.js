@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",35,23,"duplicated image caption parameter","縮略圖"]]
+window.data=[["no-duplicate",35,23,"duplicated image caption parameter","縮略圖"],["no-duplicate",35,27,"duplicated image caption parameter","結構"],["no-duplicate",36,35,"duplicated image caption parameter","縮略圖"],["no-duplicate",36,39,"duplicated image caption parameter","繁殖程序"],["no-duplicate",37,46,"duplicated image caption parameter","縮略圖"],["no-duplicate",37,50,"duplicated image caption parameter","潛伏期與表面抗原生成時間序"]]

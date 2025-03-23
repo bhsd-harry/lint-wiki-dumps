@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:台灣男子跆拳道運動員]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:台灣男子跆拳道運動員]]"],["no-duplicate",44,2,"duplicated category","[[Category:台灣男子跆拳道運動員]]"]]

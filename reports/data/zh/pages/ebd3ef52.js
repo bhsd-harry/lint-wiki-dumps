@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",63,157,"[[Hubble Space Telescope]]"]]
+window.data=[["nested-link",63,157,"internal link in an external link","[[Hubble Space Telescope]]"]]

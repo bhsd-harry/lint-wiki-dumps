@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",49,1," * 保育学科\n * 英语交流学科<ref group=\"注\"  name=\"英语传播学科\"/>\n * 现代教养学科"]]
+window.data=[["fostered-content",49,1,"content to be moved out from the table"," * 保育学科\n * 英语交流学科<ref group=\"注\"  name=\"英语传播学科\"/>\n * 现代教养学科"],["fostered-content",66,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]] <ref name=\"幼儿园\">[http://www.ohkagakuen-u.ac.jp/yochi/ 名古屋短期大学附属幼儿园] {{Wayback|url=http://www.ohkagakuen-u.ac.jp/yochi/ |date=2021012815"]]

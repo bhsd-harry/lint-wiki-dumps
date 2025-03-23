@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",104,45,"200PX"]]
+window.data=[["no-duplicate",104,45,"duplicated image caption parameter","200PX"],["no-duplicate",104,56,"duplicated image caption parameter","[[大阪]][[道頓堀]][[日本桥 (大阪市)|日本橋]]旁的著名地標-第五代[[固力果]]跑跑人"]]

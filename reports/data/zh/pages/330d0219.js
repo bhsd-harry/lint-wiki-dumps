@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,3,"constituency = {{le|新莫斯科选区|New Moscow constituency}}\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter","constituency = {{le|新莫斯科选区|New Moscow constituency}}\n "],["no-duplicate",21,3,"duplicated parameter","constituency = [[封闭式名单|比例代表制]]\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",92,2,"[[Category:加州大學洛杉磯分校教師]]"]]
+window.data=[["no-duplicate",92,2,"duplicated category","[[Category:加州大學洛杉磯分校教師]]"],["no-duplicate",97,2,"duplicated category","[[Category:加州大學洛杉磯分校教師]]"]]

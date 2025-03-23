@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",36,2,"[[Category:20世紀古典音樂作曲家]]"]]
+window.data=[["no-duplicate",36,2,"duplicated category","[[Category:20世紀古典音樂作曲家]]"],["no-duplicate",41,2,"duplicated category","[[Category:20世紀古典音樂作曲家]]"]]

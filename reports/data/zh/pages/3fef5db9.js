@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",137,1,"\n == 音樂作品 ==\n ===單曲==="],[3,"no-ignored",95,4,"男主角"],[1,"unclosed-table",132,2,"{|"]]
+window.data=[["no-ignored",95,4,"containing invalid attribute","男主角"],["no-ignored",98,4,"containing invalid attribute","男主角"],["no-ignored",102,4,"containing invalid attribute","男主角"],["fostered-content",137,1,"content to be moved out from the table","\n == 音樂作品 ==\n ===單曲==="],["unclosed-table",132,2,"unclosed table","{|"]]

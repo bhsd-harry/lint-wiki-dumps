@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,46,"Weifang Railway Station_夜景"]]
+window.data=[["no-duplicate",21,46,"duplicated image caption parameter","Weifang Railway Station_夜景"],["no-duplicate",21,73,"duplicated image caption parameter","潍坊站夜景"]]

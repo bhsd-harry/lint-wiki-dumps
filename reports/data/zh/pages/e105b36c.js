@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",129,2,"[[Category:排球電視劇]]"]]
+window.data=[["no-duplicate",129,2,"duplicated category","[[Category:排球電視劇]]"],["no-duplicate",136,2,"duplicated category","[[Category:排球電視劇]]"]]

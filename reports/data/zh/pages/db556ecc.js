@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",61,1725,"name=<ref"],[1,"tag-like",61,1730,"<ref"]]
+window.data=[["tag-like",61,1730,"lonely \"<\"","<ref"],["no-duplicate",61,1725,"duplicated name attribute","name=<ref"],["no-duplicate",61,1735,"duplicated name attribute","name=\"nemoto\""]]

@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",11,2,"[[Category:1900年夏季奥林匹克运动会帆船运动员]]"]]
+window.data=[["no-duplicate",11,2,"duplicated category","[[Category:1900年夏季奥林匹克运动会帆船运动员]]"],["no-duplicate",12,2,"duplicated category","[[Category:1900年夏季奥林匹克运动会帆船运动员]]"],["no-duplicate",13,2,"duplicated category","[[Category:1900年夏季奥林匹克运动会帆船运动员]]"]]

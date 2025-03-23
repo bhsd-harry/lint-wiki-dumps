@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",43,1," * 保育科"]]
+window.data=[["fostered-content",43,1,"content to be moved out from the table"," * 保育科"],["fostered-content",57,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]<ref name=\"短期大学的历史\"/>"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",9,1," </div>"],[1,"unmatched-tag",9,2,"</div>"]]
+window.data=[["unmatched-tag",9,2,"unmatched closing tag","</div>"],["fostered-content",9,1,"content to be moved out from the table"," </div>"]]

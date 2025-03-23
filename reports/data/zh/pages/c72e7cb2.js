@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",59,14,"name=教育手冊1993"],[1,"no-ignored",59,27,"\n\n ====下午校====\n *郭龍章 先生<ref "],[1,"tag-like",62,9,"<ref"]]
+window.data=[["tag-like",62,9,"lonely \"<\"","<ref"],["no-ignored",59,27,"containing invalid attribute","\n\n ====下午校====\n *郭龍章 先生<ref "],["no-duplicate",59,14,"duplicated name attribute","name=教育手冊1993"],["no-duplicate",62,14,"duplicated name attribute","name=教育手冊1993"]]

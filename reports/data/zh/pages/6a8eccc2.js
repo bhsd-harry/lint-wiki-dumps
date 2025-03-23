@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",24,3,"symbol_type = \n "]]
+window.data=[["no-duplicate",24,3,"duplicated parameter","symbol_type = \n "],["no-duplicate",34,3,"duplicated parameter","symbol_type = 国徽\n "]]

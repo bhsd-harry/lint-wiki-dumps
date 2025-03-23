@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,63,"2024_Summer_Paralympics_opening_ceremony_-_Greece"]]
+window.data=[["no-duplicate",4,63,"duplicated image caption parameter","2024_Summer_Paralympics_opening_ceremony_-_Greece"],["no-duplicate",4,131,"duplicated image caption parameter","[[2024年夏季帕拉林匹克運動會|最近一屆已主辦夏季帕拉林匹克運動會]]的城市是[[巴黎]]；圖為開幕當時的殘奧主場館。"]]

@@ -1,1 +1,1 @@
-window.data=[[7,"no-ignored",38,1," type=search"]]
+window.data=[["no-ignored",38,1,"invalid parameter of <inputbox>"," type=search"],["no-ignored",39,1,"invalid parameter of <inputbox>"," width=10"],["no-ignored",40,1,"invalid parameter of <inputbox>"," default=ISO 639:"],["no-ignored",41,1,"invalid parameter of <inputbox>"," buttonlabel=前往"],["no-ignored",42,1,"invalid parameter of <inputbox>"," searchbuttonlabel=搜索"],["no-ignored",43,1,"invalid parameter of <inputbox>"," break=no"],["no-ignored",44,1,"invalid parameter of <inputbox>"," "]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-ignored",303,41," 双发窄体 "],[1,"unmatched-tag",373,93,"</sup>"]]
+window.data=[["no-ignored",303,41,"containing invalid attribute"," 双发窄体 "],["no-ignored",305,43,"containing invalid attribute"," 三发窄体 "],["no-ignored",307,43,"containing invalid attribute"," 四發宽体 "],["no-ignored",309,43,"containing invalid attribute"," 双发窄体 "],["unmatched-tag",373,93,"unmatched closing tag","</sup>"]]

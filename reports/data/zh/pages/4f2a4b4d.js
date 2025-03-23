@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",115,2,"[[Category:中國男配音員|G葛]]"]]
+window.data=[["no-duplicate",115,2,"duplicated category","[[Category:中國男配音員|G葛]]"],["no-duplicate",122,2,"duplicated category","[[Category:中國男配音員]]"]]

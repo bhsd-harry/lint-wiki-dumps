@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,291,"id={{全国書誌番号|47004572}}"]]
+window.data=[["no-duplicate",11,291,"duplicated parameter","id={{全国書誌番号|47004572}}"],["no-duplicate",11,314,"duplicated parameter","id={{NCID|BN05000207}}"]]

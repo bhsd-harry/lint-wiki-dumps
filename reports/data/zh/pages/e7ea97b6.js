@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",171,2,"[[Category:北區鐵路車站 (大阪市)]]"]]
+window.data=[["no-duplicate",171,2,"duplicated category","[[Category:北區鐵路車站 (大阪市)]]"],["no-duplicate",176,2,"duplicated category","[[Category:北區鐵路車站 (大阪市)]]"]]

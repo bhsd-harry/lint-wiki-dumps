@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",76,2,"[[Category:馬來西亞女演員]]"]]
+window.data=[["no-duplicate",76,2,"duplicated category","[[Category:馬來西亞女演員]]"],["no-duplicate",81,2,"duplicated category","[[Category:馬來西亞女演員]]"],["no-duplicate",78,2,"duplicated category","[[Category:馬來西亞模特兒]]"],["no-duplicate",83,2,"duplicated category","[[Category:馬來西亞模特兒]]"]]

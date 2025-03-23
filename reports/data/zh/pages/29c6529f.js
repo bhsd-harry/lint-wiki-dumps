@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,34,"Right"]]
+window.data=[["no-duplicate",6,34,"duplicated image caption parameter","Right"],["no-duplicate",6,40,"duplicated image caption parameter","立於基督教墳場的馬禮遜紀念碑"]]

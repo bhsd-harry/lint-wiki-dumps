@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",206,4," {{MedalistTable|type=項目|columns=2|labelwidth=200px|style=font-size:small;}}'"]]
+window.data=[["no-ignored",206,4,"containing invalid attribute"," {{MedalistTable|type=項目|columns=2|labelwidth=200px|style=font-size:small;}}'"]]

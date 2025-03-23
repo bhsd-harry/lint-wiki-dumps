@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",22,64,"text-valign"],[1,"lonely-bracket",68,67,"["],[1,"unescaped",68,123,"="]]
+window.data=[["illegal-attr",22,64,"illegal attribute name","text-valign"],["lonely-bracket",68,67,"lonely \"[\"","["],["unescaped",68,123,"unescaped query string in an anonymous parameter","="]]

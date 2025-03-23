@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,2,"[[cat:美國眾議院議長]]"]]
+window.data=[["no-duplicate",23,2,"duplicated category","[[cat:美國眾議院議長]]"],["no-duplicate",28,2,"duplicated category","[[Category:美國眾議院議長]]"]]

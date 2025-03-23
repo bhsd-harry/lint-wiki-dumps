@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",21,40,"]]"],[2,"no-duplicate",21,26,"[海盗号计划"]]
+window.data=[["lonely-bracket",21,40,"lonely \"]\"","]]"],["no-duplicate",21,26,"duplicated image caption parameter","[海盗号计划"],["no-duplicate",21,33,"duplicated image caption parameter","海盗2号轨道器]]拍摄的照片。"]]

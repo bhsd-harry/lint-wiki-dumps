@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",47,2,"[[Category:戰國武將]]"]]
+window.data=[["no-duplicate",47,2,"duplicated category","[[Category:戰國武將]]"],["no-duplicate",50,2,"duplicated category","[[Category:戰國武將]]"]]

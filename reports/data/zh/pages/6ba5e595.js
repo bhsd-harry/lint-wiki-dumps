@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",40,22,"]"],[2,"no-duplicate",157,2,"[[Category:天爐座| ]]"]]
+window.data=[["lonely-bracket",40,22,"lonely \"]\"","]"],["no-duplicate",157,2,"duplicated category","[[Category:天爐座| ]]"],["no-duplicate",159,24,"duplicated category","[[Category:天爐座| ]]"]]

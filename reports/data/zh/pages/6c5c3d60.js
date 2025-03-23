@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",14,53,"width:70%;text-align: center;\""]]
+window.data=[["invalid-css",14,52,"term expected",""],["no-ignored",14,53,"containing invalid attribute","width:70%;text-align: center;\""],["no-ignored",78,4,"containing invalid attribute","［［劉琢瑜］］（已離職）文武花臉浄行"]]

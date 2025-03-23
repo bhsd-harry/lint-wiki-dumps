@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,59,"穆爾西亞"]]
+window.data=[["no-duplicate",21,59,"duplicated image caption parameter","穆爾西亞"],["no-duplicate",21,64,"duplicated image caption parameter","莫夕亞"]]

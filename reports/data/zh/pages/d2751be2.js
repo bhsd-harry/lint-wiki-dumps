@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",103,189,"http://"],[1,"nested-link",250,193,"[[Defeating ISIS]]"]]
+window.data=[["lonely-http",103,189,"lonely \"http://\"","http://"],["nested-link",250,193,"internal link in an external link","[[Defeating ISIS]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",909,4,"Mandriva"]]
+window.data=[["illegal-attr",909,4,"illegal attribute name","Mandriva"],["illegal-attr",909,13,"illegal attribute name","Linux"]]

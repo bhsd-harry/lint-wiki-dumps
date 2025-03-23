@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",818,46,"location=臺灣"]]
+window.data=[["no-duplicate",818,46,"duplicated parameter","location=臺灣"],["no-duplicate",818,104,"duplicated parameter","location=臺灣"]]

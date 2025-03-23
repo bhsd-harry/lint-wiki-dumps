@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",49,24,"[["],[2,"no-duplicate",49,24,"[[test (zoologie)"]]
+window.data=[["lonely-bracket",49,24,"lonely \"[\"","[["],["no-duplicate",49,24,"duplicated image caption parameter","[[test (zoologie)"],["no-duplicate",49,42,"duplicated image caption parameter","''[[Encope emarginata]]''"]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",128,2,"[[Category:中華民國政黨]]"]]
+window.data=[["no-duplicate",128,2,"duplicated category","[[Category:中華民國政黨]]"],["no-duplicate",136,2,"duplicated category","[[Category:中華民國政黨]]"],["no-duplicate",129,2,"duplicated category","[[Category:工黨]]"],["no-duplicate",138,2,"duplicated category","[[分類:工黨]]"],["no-duplicate",130,2,"duplicated category","[[Category:促進中國統一組織]]"],["no-duplicate",139,2,"duplicated category","[[Category:促進中國統一組織]]"]]

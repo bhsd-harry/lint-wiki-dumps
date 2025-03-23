@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,590,"publisher = Рус. геогр. о-во. Моск. центр "]]
+window.data=[["no-duplicate",27,590,"duplicated parameter","publisher = Рус. геогр. о-во. Моск. центр "],["no-duplicate",27,658,"duplicated parameter","publisher = Институт географии РАН "]]

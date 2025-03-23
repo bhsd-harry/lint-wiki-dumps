@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,51,"275px</ref>"],[1,"tag-like",9,56,"</ref"]]
+window.data=[["tag-like",9,56,"lonely \"<\"","</ref"],["no-duplicate",9,51,"duplicated image caption parameter","275px</ref>"],["no-duplicate",9,69,"duplicated image caption parameter","山上的试探"]]

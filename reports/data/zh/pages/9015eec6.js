@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",101,2,"[[Category:澳大利亞澳式足球會]]"]]
+window.data=[["no-duplicate",101,2,"duplicated category","[[Category:澳大利亞澳式足球會]]"],["no-duplicate",102,2,"duplicated category","[[Category:澳大利亞澳式足球會]]"]]

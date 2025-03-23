@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",57,22,"  font-size:90%;\"  "]]
+window.data=[["no-ignored",57,22,"containing invalid attribute","  font-size:90%;\"  "],["invalid-css",1091,44,"semi-colon expected",""],["invalid-css",1091,44,"colon expected",""],["no-ignored",1091,45,"containing invalid attribute","=107em  \"text-align\"  \"center\"  "]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",9,3," hk_name        = 真的想飛您\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," hk_name        = 真的想飛您\n "],["no-duplicate",30,3,"duplicated parameter"," hk_name = 真的想飛您\n "],["no-duplicate",10,3,"duplicated parameter"," tw_name        = 七日之癢\n "],["no-duplicate",26,3,"duplicated parameter"," tw_name = 七日之癢\n "]]

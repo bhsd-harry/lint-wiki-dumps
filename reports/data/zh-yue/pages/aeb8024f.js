@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3,"duplicated parameter"," width = 250px\n "],[1,"unmatched-tag",54,2,"unmatched closing tag","</span>"]]
+window.data=[["unmatched-tag",54,2,"unmatched closing tag","</span>"],["no-duplicate",5,3,"duplicated parameter"," width = 250px\n "],["no-duplicate",20,3,"duplicated parameter"," width = \n "]]

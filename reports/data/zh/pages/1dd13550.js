@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",31,2,"[[Category:中医典籍]]"]]
+window.data=[["no-duplicate",31,2,"duplicated category","[[Category:中医典籍]]"],["no-duplicate",36,2,"duplicated category","[[Category:中医典籍]]"],["no-duplicate",33,2,"duplicated category","[[Category:长沙文物]]"],["no-duplicate",38,2,"duplicated category","[[Category:长沙文物]]"],["no-duplicate",40,2,"duplicated category","[[Category:1973年考古发现]]"],["no-duplicate",41,2,"duplicated category","[[Category:1973年考古发现]]"]]

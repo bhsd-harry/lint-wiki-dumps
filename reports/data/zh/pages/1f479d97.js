@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",57,41,"Left"]]
+window.data=[["no-duplicate",57,41,"duplicated image caption parameter","Left"],["no-duplicate",57,52,"duplicated image caption parameter","用於行案而租來的貨車被人群包圍著，擋風玻璃已因撞擊而碎裂。（拍攝於案發後兩個小時）"]]

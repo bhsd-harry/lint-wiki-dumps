@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,3," major_shareholder = \n "],[1,"unescaped",78,54,"="]]
+window.data=[["no-duplicate",16,3,"duplicated parameter"," major_shareholder = \n "],["no-duplicate",33,3,"duplicated parameter"," major_shareholder = \n "],["unescaped",78,54,"unescaped query string in an anonymous parameter","="]]

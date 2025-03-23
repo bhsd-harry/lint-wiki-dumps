@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",661,2,"[[Category:香港創作歌手]]"],[1,"no-ignored",361,38,"1''"]]
+window.data=[["no-ignored",361,38,"containing invalid attribute","1''"],["no-duplicate",661,2,"duplicated category","[[Category:香港創作歌手]]"],["no-duplicate",667,2,"duplicated category","[[Category:香港創作歌手]]"]]

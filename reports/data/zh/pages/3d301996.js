@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",111,2,"[[Category:第55届英国下议院议员]]"]]
+window.data=[["no-duplicate",111,2,"duplicated category","[[Category:第55届英国下议院议员]]"],["no-duplicate",117,2,"duplicated category","[[Category:第55届英国下议院议员]]"]]

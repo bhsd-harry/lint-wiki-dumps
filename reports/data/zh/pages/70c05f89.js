@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",310,2,"[[Category:富川市交通]]"]]
+window.data=[["no-duplicate",310,2,"duplicated category","[[Category:富川市交通]]"],["no-duplicate",315,2,"duplicated category","[[Category:富川市交通]]"]]

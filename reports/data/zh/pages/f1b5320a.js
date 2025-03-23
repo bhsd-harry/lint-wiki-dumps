@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",245,2,"[[Category:北卡罗来纳州火灾]]"]]
+window.data=[["no-duplicate",245,2,"duplicated category","[[Category:北卡罗来纳州火灾]]"],["no-duplicate",246,2,"duplicated category","[[Category:北卡罗来纳州火灾]]"]]

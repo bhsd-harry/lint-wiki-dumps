@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,2,"[[Category:金线鱼属|赤黄金线鱼]]"]]
+window.data=[["no-duplicate",19,2,"duplicated category","[[Category:金线鱼属|赤黄金线鱼]]"],["no-duplicate",20,2,"duplicated category","[[Category:金线鱼属|aurora]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,20,"duplicated image caption parameter","NASDAQ"]]
+window.data=[["no-duplicate",3,20,"duplicated image caption parameter","NASDAQ"],["no-duplicate",3,33,"duplicated image caption parameter","位於美國紐約嘅納斯達克總部。"]]

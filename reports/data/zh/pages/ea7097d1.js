@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",230,359,"]]"],[2,"no-duplicate",230,351,"name=現役/]])(<ref"],[1,"tag-like",230,363,"<ref"]]
+window.data=[["lonely-bracket",230,359,"lonely \"]\"","]]"],["tag-like",230,363,"lonely \"<\"","<ref"],["no-duplicate",230,351,"duplicated name attribute","name=現役/]])(<ref"],["no-duplicate",230,368,"duplicated name attribute","name=現役"]]

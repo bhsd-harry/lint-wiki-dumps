@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",36,4,"illegal attribute name","table"],[2,"no-duplicate",238,47,"duplicated image caption parameter","缩略图"]]
+window.data=[["illegal-attr",36,4,"illegal attribute name","table"],["no-duplicate",238,47,"duplicated image caption parameter","缩略图"],["no-duplicate",238,51,"duplicated image caption parameter","連接[[太古廣場]]三期行人隧道（2008年6月）"]]

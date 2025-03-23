@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",56,2,"[[Category:明朝鎮江府推官]]"]]
+window.data=[["no-duplicate",56,2,"duplicated category","[[Category:明朝鎮江府推官]]"],["no-duplicate",57,2,"duplicated category","[[Category:明朝鎮江府推官]]"]]

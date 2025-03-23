@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",39,2,"[[Category:北京大学人民医院院长]]"]]
+window.data=[["no-duplicate",39,2,"duplicated category","[[Category:北京大学人民医院院长]]"],["no-duplicate",45,2,"duplicated category","[[Category:北京大学人民医院院长]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",43,528," (1980)"]]
+window.data=[["no-ignored",43,528,"containing invalid attribute"," (1980)"],["no-ignored",380,22,"containing invalid attribute","|style=font-size:50%;line-height:50%"]]

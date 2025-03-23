@@ -1,1 +1,1 @@
-window.data=[[3,"fostered-content",255,1," \""],[1,"unclosed-table",275,2,"{|"],[1,"unmatched-tag",361,163,"</small>"]]
+window.data=[["fostered-content",255,1,"content to be moved out from the table"," \""],["unmatched-tag",361,163,"unmatched closing tag","</small>"],["fostered-content",369,1,"content to be moved out from the table"," \""],["fostered-content",396,1,"content to be moved out from the table"," \""],["unclosed-table",275,2,"unclosed table","{|"]]

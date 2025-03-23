@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3,"防止 -{羅蘋 ->  罗宾}-（Robin） 过度转换\n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter","防止 -{羅蘋 ->  罗宾}-（Robin） 过度转换\n "],["no-duplicate",2,3,"duplicated parameter","1=zh-hans:罗苹;zh-hant:羅蘋;\n "]]

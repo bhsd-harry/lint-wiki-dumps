@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",28,3," years4      = 2023–2024  "]]
+window.data=[["no-duplicate",28,3,"duplicated parameter"," years4      = 2023–2024  "],["no-duplicate",29,3,"duplicated parameter"," years4      = 2024–      "]]

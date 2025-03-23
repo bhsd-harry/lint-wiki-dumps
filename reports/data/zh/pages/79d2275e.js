@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,2,"[[Category:密歇根州行政区划]]"]]
+window.data=[["no-duplicate",32,2,"duplicated category","[[Category:密歇根州行政区划]]"],["no-duplicate",41,2,"duplicated category","[[Category:密歇根州行政区划|H]]"]]

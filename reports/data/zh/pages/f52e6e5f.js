@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",6,4," {{RankedMedalTable|team=代表团}}||总分"]]
+window.data=[["no-ignored",6,4,"containing invalid attribute"," {{RankedMedalTable|team=代表团}}||总分"]]

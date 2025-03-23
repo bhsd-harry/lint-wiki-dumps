@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",3,51,"containing invalid attribute"," tu'lname=\"Britannica\""]]
+window.data=[["no-ignored",3,51,"containing invalid attribute"," tu'lname=\"Britannica\""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",28,2,"[[Category:大隈重信]]"]]
+window.data=[["no-duplicate",28,2,"duplicated category","[[Category:大隈重信]]"],["no-duplicate",30,2,"duplicated category","[[Category:大隈重信]]"]]

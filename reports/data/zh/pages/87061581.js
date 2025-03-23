@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",89,2,"[[Category:新竹市醫院]]"]]
+window.data=[["no-duplicate",89,2,"duplicated category","[[Category:新竹市醫院]]"],["no-duplicate",94,2,"duplicated category","[[Category:新竹市醫院]]"]]

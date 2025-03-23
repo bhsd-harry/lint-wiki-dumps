@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",5,57,"illegal attribute name","text-align:left"],[1,"unmatched-tag",8,61,"unmatched closing tag","</tr>"]]
+window.data=[["illegal-attr",5,57,"illegal attribute name","text-align:left"],["unmatched-tag",8,61,"unmatched closing tag","</tr>"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",54,2,"[[Category:芬兰行政区划]]"]]
+window.data=[["no-duplicate",54,2,"duplicated category","[[Category:芬兰行政区划]]"],["no-duplicate",55,2,"duplicated category","[[Category:芬兰行政区划]]"]]

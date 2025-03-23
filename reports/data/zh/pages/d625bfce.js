@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",109,2,"[[Category:马里兰殖民地总督]]"]]
+window.data=[["no-duplicate",109,2,"duplicated category","[[Category:马里兰殖民地总督]]"],["no-duplicate",112,2,"duplicated category","[[Category:马里兰殖民地总督]]"]]

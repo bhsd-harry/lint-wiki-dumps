@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-bracket",158,52,"[[["],[2,"no-duplicate",46,3," party1 = Republican Party (US)\n "]]
+window.data=[["no-duplicate",46,3,"duplicated parameter"," party1 = Republican Party (US)\n "],["no-duplicate",47,3,"duplicated parameter"," party1 = Republican Party (US)\n "],["lonely-bracket",158,52,"lonely \"[\"","[[["],["lonely-bracket",158,71,"lonely \"]\"","]]"],["lonely-bracket",158,90,"lonely \"]\"","]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",23,4,"_row_count"],[1,"lonely-bracket",54,4,"{{"],[1,"no-ignored",54,3," {{Sort "]]
+window.data=[["illegal-attr",23,4,"illegal attribute name","_row_count"],["lonely-bracket",54,4,"lonely \"{\"","{{"],["no-ignored",54,3,"containing invalid attribute"," {{Sort "]]

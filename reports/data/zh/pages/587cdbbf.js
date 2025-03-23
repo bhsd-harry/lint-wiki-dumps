@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,30,"|三国虚构人物列表"]]
+window.data=[["no-ignored",1,30,"useless link text","|三国虚构人物列表"]]

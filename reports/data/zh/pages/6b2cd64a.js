@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",148,59,"300px"],[2,"no-duplicate",69,45,"umb"]]
+window.data=[["no-duplicate",69,45,"duplicated image caption parameter","umb"],["no-duplicate",69,49,"duplicated image caption parameter","印度空軍的[[Su-30MKI戰鬥機|Su-30MKI]]。可見其[[AL-31|AL-31FP發動機]]噴咀呈向下偏轉狀態。"],["invalid-gallery",148,59,"invalid image parameter","300px"]]

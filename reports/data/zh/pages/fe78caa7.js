@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",44,2,"[[Category:在世人物]]"]]
+window.data=[["no-duplicate",44,2,"duplicated category","[[Category:在世人物]]"],["no-duplicate",47,2,"duplicated category","[[Category:在世人物]]"],["no-duplicate",45,2,"duplicated category","[[Category:马来西亚政治相关人物]]"],["no-duplicate",49,2,"duplicated category","[[Category:马来西亚政治相关人物]]"]]

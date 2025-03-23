@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,2,"[[Category:苏联作家协会成员]]"]]
+window.data=[["no-duplicate",33,2,"duplicated category","[[Category:苏联作家协会成员]]"],["no-duplicate",35,2,"duplicated category","[[Category:苏联作家协会成员]]"]]

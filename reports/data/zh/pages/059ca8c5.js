@@ -1,1 +1,1 @@
-window.data=[[3,"invalid-gallery",81,27,"220x124px"],[2,"no-duplicate",81,49,"alt"]]
+window.data=[["invalid-gallery",81,27,"invalid image parameter","220x124px"],["invalid-gallery",81,37,"invalid image parameter","thumb"],["invalid-gallery",81,43,"invalid image parameter","right"],["no-duplicate",81,49,"duplicated image caption parameter","alt"],["no-duplicate",81,53,"duplicated image caption parameter","T1航站楼（摄于2018年7月19日13时52分）"]]

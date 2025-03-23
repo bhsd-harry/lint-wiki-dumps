@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,356,"name=\"1UP.com@Seid_090216\""],[1,"no-ignored",41,382,"/。當玩家取消兵種變更，角色的能力數據將會獲得保留<ref "],[1,"tag-like",41,407,"<ref"]]
+window.data=[["tag-like",41,407,"lonely \"<\"","<ref"],["no-ignored",41,382,"containing invalid attribute","/。當玩家取消兵種變更，角色的能力數據將會獲得保留<ref "],["no-duplicate",41,356,"duplicated name attribute","name=\"1UP.com@Seid_090216\""],["no-duplicate",41,412,"duplicated name attribute","name=\"FEmanual\""]]

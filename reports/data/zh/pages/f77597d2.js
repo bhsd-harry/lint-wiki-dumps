@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",117,5,"style= \"center\""]]
+window.data=[["invalid-css",117,19,"semi-colon expected",""],["invalid-css",117,19,"colon expected",""],["no-duplicate",117,5,"duplicated style attribute","style= \"center\""],["no-duplicate",117,38,"duplicated style attribute","style=\"color:white; font-size:100%\""]]

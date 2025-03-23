@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",57,2,"[[Category:20世纪建立的高等院校]]"]]
+window.data=[["no-duplicate",57,2,"duplicated category","[[Category:20世纪建立的高等院校]]"],["no-duplicate",60,2,"duplicated category","[[Category:20世纪建立的高等院校]]"],["no-duplicate",62,2,"duplicated category","[[Category:金沙萨]]"],["no-duplicate",64,2,"duplicated category","[[Category:金沙萨]]"],["no-duplicate",63,2,"duplicated category","[[Category:刚果民主共和国大学]]"],["no-duplicate",65,2,"duplicated category","[[Category:刚果民主共和国大学]]"]]

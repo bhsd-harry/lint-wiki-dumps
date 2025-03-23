@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,2,"[[Category:硒化物矿物]]"]]
+window.data=[["no-duplicate",11,2,"duplicated category","[[Category:硒化物矿物]]"],["no-duplicate",13,2,"duplicated category","[[Category:硒化物矿物]]"]]

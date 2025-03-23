@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",146,2,"[[Category:福岡證券交易所上市公司]]"]]
+window.data=[["no-duplicate",146,2,"duplicated category","[[Category:福岡證券交易所上市公司]]"],["no-duplicate",148,2,"duplicated category","[[Category:福岡證券交易所上市公司]]"]]

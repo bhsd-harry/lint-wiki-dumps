@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",132,33,"duplicated image caption parameter","缩略图"]]
+window.data=[["no-duplicate",132,33,"duplicated image caption parameter","缩略图"],["no-duplicate",132,37,"duplicated image caption parameter","右"],["no-duplicate",132,39,"duplicated image caption parameter","此線的走線圖"]]

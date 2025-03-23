@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",112,105,"color8={{party color|People's Party – Reformists}}"]]
+window.data=[["no-duplicate",112,105,"duplicated parameter","color8={{party color|People's Party – Reformists}}"],["no-duplicate",112,156,"duplicated parameter","color8=purple\n "]]

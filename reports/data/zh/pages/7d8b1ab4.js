@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,2,"[[Category:新西兰奥运赛艇运动员]]"]]
+window.data=[["no-duplicate",12,2,"duplicated category","[[Category:新西兰奥运赛艇运动员]]"],["no-duplicate",13,2,"duplicated category","[[Category:新西兰奥运赛艇运动员]]"]]

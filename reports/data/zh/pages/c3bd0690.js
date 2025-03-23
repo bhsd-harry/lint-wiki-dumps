@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",12,15,"http://"],[1,"unescaped",12,56,"="]]
+window.data=[["lonely-http",12,15,"lonely \"http://\"","http://"],["unescaped",12,56,"unescaped query string in an anonymous parameter","="]]

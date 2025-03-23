@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",179,35,"'"],[2,"no-duplicate",167,3," nominee1 = {{le|吉爾·德田|Jill Tokuda}}\n "]]
+window.data=[["lonely-apos",179,35,"lonely \"'\"","'"],["no-duplicate",167,3,"duplicated parameter"," nominee1 = {{le|吉爾·德田|Jill Tokuda}}\n "],["no-duplicate",168,3,"duplicated parameter"," nominee1 = '''[[吉爾·德田]]'''\n "]]

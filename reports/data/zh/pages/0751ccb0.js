@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,13,"romaji=レッドジェネシス"]]
+window.data=[["no-duplicate",25,13,"duplicated parameter","romaji=レッドジェネシス"],["no-duplicate",25,29,"duplicated parameter","romaji=Reddo Jeneshisu"]]

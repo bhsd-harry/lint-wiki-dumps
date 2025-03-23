@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",133,2,"[[Category:美国浪漫剧情片]]"],[1,"unmatched-tag",43,1055,"</blockquote>"]]
+window.data=[["unmatched-tag",43,1055,"unmatched closing tag","</blockquote>"],["no-duplicate",133,2,"duplicated category","[[Category:美国浪漫剧情片]]"],["no-duplicate",143,2,"duplicated category","[[Category:美国浪漫剧情片]]"]]

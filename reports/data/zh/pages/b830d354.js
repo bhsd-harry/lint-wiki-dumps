@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",83,96,"[[:en:The Sound of Young America|The Sound of Young America]]"]]
+window.data=[["nested-link",83,96,"internal link in an external link","[[:en:The Sound of Young America|The Sound of Young America]]"]]

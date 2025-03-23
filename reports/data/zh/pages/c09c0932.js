@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,3," tracks = {{成都地铁路线链接|1}}：2条<br />{{成都地铁路线链接|18}}：4条\n "]]
+window.data=[["no-duplicate",22,3,"duplicated parameter"," tracks = {{成都地铁路线链接|1}}：2条<br />{{成都地铁路线链接|18}}：4条\n "],["no-duplicate",23,3,"duplicated parameter"," tracks = \n "]]

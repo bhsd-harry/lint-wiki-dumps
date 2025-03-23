@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3,"bgcolor= silver\n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter","bgcolor= silver\n "],["no-duplicate",19,3,"duplicated parameter"," bgcolor= lightgray\n "]]

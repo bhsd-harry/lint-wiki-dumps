@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3,"-\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter","-\n "],["no-duplicate",4,3,"duplicated parameter","1=zh:假面騎士ZERO-ONE;\n "]]

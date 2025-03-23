@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",414,54,"[[伯樂音樂學院]]"]]
+window.data=[["nested-link",414,54,"internal link in an external link","[[伯樂音樂學院]]"]]

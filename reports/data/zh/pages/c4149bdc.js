@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",66,1," [[File:Straße von Hormuz.jpg|thumb|250px|霍爾木茲海峽的衛星圖片]]"]]
+window.data=[["fostered-content",66,1,"content to be moved out from the table"," [[File:Straße von Hormuz.jpg|thumb|250px|霍爾木茲海峽的衛星圖片]]"],["fostered-content",64,1,"content to be moved out from the table"," [[File:Strait_of_Hormuz.jpg|thumb|250px|霍爾木茲海峽地圖]]"]]

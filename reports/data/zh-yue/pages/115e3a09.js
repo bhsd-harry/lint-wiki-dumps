@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,3,"duplicated parameter"," ordo = [[菊分支]] Asterids\n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter"," ordo = [[菊分支]] Asterids\n "],["no-duplicate",12,3,"duplicated parameter"," ordo =[[龍膽目]] Gentianales\n "]]

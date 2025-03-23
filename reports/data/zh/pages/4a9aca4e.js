@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",48,1," * 幼儿教育学科\n ** 第一部\n ** 第三部\n * 现代[[商业|商务]]学科"]]
+window.data=[["fostered-content",48,1,"content to be moved out from the table"," * 幼儿教育学科\n ** 第一部\n ** 第三部\n * 现代[[商业|商务]]学科"],["fostered-content",71,1,"content to be moved out from the table"," * 冈崎女子短期大学附属嫩[[幼稚園|幼儿园]]<ref name=\"冈崎女子短期大学附属嫩幼儿园\">[http://www.okatan-f.jp/futaba/index.html 冈崎女子短期大学附属嫩幼儿园] {{Wayback|url=http://www.okatan-f.jp/fut"]]

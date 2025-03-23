@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,2,"[[Category:含有希臘語的條目]]"]]
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:含有希臘語的條目]]"],["no-duplicate",4,2,"duplicated category","[[Category:含有希臘語的條目]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",70,1," * 食物营养学科\n ** 营养师专攻\n ** [[糖果糕點|糖果]]专攻"],[1,"unmatched-tag",15,199,"</del>"]]
+window.data=[["unmatched-tag",15,199,"unmatched closing tag","</del>"],["fostered-content",70,1,"content to be moved out from the table"," * 食物营养学科\n ** 营养师专攻\n ** [[糖果糕點|糖果]]专攻"],["fostered-content",76,1,"content to be moved out from the table"," * 生活科学科<ref group=\"注\"  name=\"生活科学科\"/>\n * [[信息学|信息]]处理学科<ref group=\"注\"  name=\"1998年\"/>\n * 经营学科<ref group=\"注\"  name=\"1998年\"/>\n * 护理福利学科<ref group=\"注\"  "]]

@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-bracket",843,8,"}}"],[1,"no-ignored",12,4,":異世奇人故事列表 (復活系列)#系列總覽"],[2,"tag-like",843,2,"</ref"]]
+window.data=[["no-ignored",12,4,"useless fragment",":異世奇人故事列表 (復活系列)#系列總覽"],["tag-like",843,2,"lonely \"<\"","</ref"],["lonely-bracket",843,8,"lonely \"}\"","}}"],["lonely-bracket",941,2,"lonely \"}\"","}}"],["tag-like",941,4,"lonely \"<\"","</ref"],["lonely-bracket",941,114,"lonely \"}\"","}}"]]

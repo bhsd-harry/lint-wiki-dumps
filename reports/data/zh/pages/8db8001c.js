@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",220,2,"[[Category:加拿大指定的恐怖组织]]"]]
+window.data=[["no-duplicate",220,2,"duplicated category","[[Category:加拿大指定的恐怖组织]]"],["no-duplicate",225,2,"duplicated category","[[Category:加拿大指定的恐怖组织]]"]]

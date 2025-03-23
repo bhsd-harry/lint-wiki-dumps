@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",29,4,"colspan"],[2,"no-ignored",29,54,"  |成員列表"]]
+window.data=[["illegal-attr",29,4,"illegal attribute name","colspan"],["no-ignored",29,54,"containing invalid attribute","  |成員列表"],["illegal-attr",68,4,"illegal attribute name","colspan"],["no-ignored",68,54,"containing invalid attribute","  |退出成員列表"]]

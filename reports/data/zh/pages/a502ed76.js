@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,2,"[[Category:德国历史上的亲王国]]"]]
+window.data=[["no-duplicate",63,2,"duplicated category","[[Category:德国历史上的亲王国]]"],["no-duplicate",65,2,"duplicated category","[[Category:德国历史上的亲王国]]"]]

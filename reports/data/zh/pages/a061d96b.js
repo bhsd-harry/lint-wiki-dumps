@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",481,1," [[File:Jimmy Plaza in Yilan City, Yilan County-1.JPG|宜蘭車站南方幾米廣場"]]
+window.data=[["no-ignored",481,1,"invalid content in <gallery>"," [[File:Jimmy Plaza in Yilan City, Yilan County-1.JPG|宜蘭車站南方幾米廣場"],["no-ignored",483,1,"invalid content in <gallery>"," [[File:Moon bus (Jimmy) 2019-04-17.jpg|『[[月亮公車]]』裝置藝術"]]

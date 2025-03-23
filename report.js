@@ -58,19 +58,13 @@ for (const file of dir) {
 			for (const [page, errors] of Object.entries(data)) {
 				const hash = createHash('sha256').update(page).digest('hex')
 						.slice(0, 8),
-					relatedRules = [...new Set(errors.map(({rule}) => rule))].sort((a, b) => a.localeCompare(b)),
-					info = relatedRules.map(rule => {
-						const relatedErrors = errors.filter(({rule: r}) => r === rule),
-							[{startLine, startCol, message, excerpt}] = relatedErrors;
-						return [
-							relatedErrors.length,
-							rule,
-							startLine + 1,
-							startCol + 1,
-							message,
-							excerpt.slice(0, MAX),
-						];
-					});
+					info = errors.map(({startLine, startCol, rule, message, excerpt}) => [
+						rule,
+						startLine + 1,
+						startCol + 1,
+						message,
+						excerpt.slice(0, MAX),
+					]);
 				writeJS(info, path.join(site, 'pages', hash));
 			}
 		}

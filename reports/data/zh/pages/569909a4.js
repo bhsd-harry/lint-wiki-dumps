@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",14,1," [[File:GaugeHeightVernier-Electronic.jpg|thumb|高度計]]"]]
+window.data=[["no-ignored",14,1,"invalid content in <gallery>"," [[File:GaugeHeightVernier-Electronic.jpg|thumb|高度計]]"]]

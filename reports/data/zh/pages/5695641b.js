@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",35,175,"{{"],[1,"nested-link",143,158,"[[TED大会]]"]]
+window.data=[["lonely-bracket",35,175,"lonely \"{\"","{{"],["lonely-bracket",35,178,"lonely \"}\"","}}"],["lonely-bracket",35,538,"lonely \"{\"","{{"],["lonely-bracket",35,541,"lonely \"}\"","}}"],["nested-link",143,158,"internal link in an external link","[[TED大会]]"]]

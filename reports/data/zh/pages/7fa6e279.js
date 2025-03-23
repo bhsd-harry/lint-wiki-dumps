@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",51,2,"[[Category:大愛電視節目]]"]]
+window.data=[["no-duplicate",51,2,"duplicated category","[[Category:大愛電視節目]]"],["no-duplicate",622,2,"duplicated category","[[Category:大愛電視節目]]"]]

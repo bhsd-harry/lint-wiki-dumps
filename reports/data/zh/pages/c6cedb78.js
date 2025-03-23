@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",21,105,"[[盛懋]]"]]
+window.data=[["nested-link",21,105,"internal link in an external link","[[盛懋]]"],["nested-link",21,114,"internal link in an external link","[[弗瑞爾藝廊|美国首都佛利尔美术馆]]"]]

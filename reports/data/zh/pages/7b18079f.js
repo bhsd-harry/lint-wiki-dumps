@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",193,2,"[[Category:2020年建立的程式語言]]"]]
+window.data=[["no-duplicate",193,2,"duplicated category","[[Category:2020年建立的程式語言]]"],["no-duplicate",195,2,"duplicated category","[[Category:2020年建立的程式語言]]"],["no-duplicate",197,2,"duplicated category","[[Category:龙芯]]"],["no-duplicate",198,2,"duplicated category","[[Category:龙芯]]"]]

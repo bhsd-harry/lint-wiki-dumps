@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",64,48,"name=\"voice_drama1\""],[1,"no-ignored",64,67,"/<ref "],[1,"tag-like",64,68,"<ref"]]
+window.data=[["tag-like",64,68,"lonely \"<\"","<ref"],["no-ignored",64,67,"containing invalid attribute","/<ref "],["no-duplicate",64,48,"duplicated name attribute","name=\"voice_drama1\""],["no-duplicate",64,73,"duplicated name attribute","name=\"voice_drama2\""]]

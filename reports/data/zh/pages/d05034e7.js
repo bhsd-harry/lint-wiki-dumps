@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",111,33,"thumb"],[1,"unclosed-table",186,2,"{|"]]
+window.data=[["no-duplicate",111,33,"duplicated image thumbnail parameter","thumb"],["no-duplicate",111,73,"duplicated image thumbnail parameter","thumb"],["no-duplicate",111,39,"duplicated image caption parameter","Macao SAR Passport (1999 version)"],["no-duplicate",111,91,"duplicated image caption parameter","第一代澳門特區護照(1999版)"],["unclosed-table",186,2,"unclosed table","{|"]]

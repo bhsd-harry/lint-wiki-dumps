@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",95,2,"[[Category:成都將軍]]"]]
+window.data=[["no-duplicate",95,2,"duplicated category","[[Category:成都將軍]]"],["no-duplicate",98,2,"duplicated category","[[Category:成都將軍]]"]]

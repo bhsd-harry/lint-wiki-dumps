@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",153,2,"[[Category:烏克蘭警察]]"]]
+window.data=[["no-duplicate",153,2,"duplicated category","[[Category:烏克蘭警察]]"],["no-duplicate",155,2,"duplicated category","[[Category:烏克蘭警察]]"],["no-duplicate",154,2,"duplicated category","[[Category:各國警察]]"],["no-duplicate",156,2,"duplicated category","[[Category:各國警察]]"]]

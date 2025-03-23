@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",30,477," - 選舉結果(西貢)  "]]
+window.data=[["no-ignored",30,477,"containing invalid attribute"," - 選舉結果(西貢)  "],["no-ignored",120,22,"containing invalid attribute"," - 選舉結果(西貢)  "]]

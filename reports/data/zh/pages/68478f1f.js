@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",90,95,"[[YouTube|Youtube视频]]"]]
+window.data=[["nested-link",90,95,"internal link in an external link","[[YouTube|Youtube视频]]"]]

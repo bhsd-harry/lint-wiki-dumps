@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3," taxon = Rhinecanthus verrucosus\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter"," taxon = Rhinecanthus verrucosus\n "],["no-duplicate",6,3,"duplicated parameter"," taxon = Rhinecanthus verrucosus\n "]]

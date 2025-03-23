@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",90,2,"[[Category:多語言網站]]"]]
+window.data=[["no-duplicate",90,2,"duplicated category","[[Category:多語言網站]]"],["no-duplicate",101,2,"duplicated category","[[Category:多語言網站]]"]]

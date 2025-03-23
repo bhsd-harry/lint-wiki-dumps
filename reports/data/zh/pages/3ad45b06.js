@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,40,"the icon of the Enfield Council"]]
+window.data=[["no-duplicate",25,40,"duplicated image caption parameter","the icon of the Enfield Council"],["no-duplicate",25,77,"duplicated image caption parameter","恩菲特倫敦自治市[[政府]][[網站]]上所使用的恩菲爾德[[圖示]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,5," formed          =  {{start date and age|1865|7|5|paren=yes}}\n   "]]
+window.data=[["no-duplicate",11,5,"duplicated parameter"," formed          =  {{start date and age|1865|7|5|paren=yes}}\n   "],["no-duplicate",15,5,"duplicated parameter"," formed          =  {{start date and age|1865|7|5|paren=yes}}\n   "]]

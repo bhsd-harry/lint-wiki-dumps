@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",42,121,"[[Subversion]]"]]
+window.data=[["nested-link",42,121,"internal link in an external link","[[Subversion]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",171,2,"[[Category:有組織犯罪遊戲]]"]]
+window.data=[["no-duplicate",171,2,"duplicated category","[[Category:有組織犯罪遊戲]]"],["no-duplicate",176,2,"duplicated category","[[Category:有組織犯罪遊戲]]"]]

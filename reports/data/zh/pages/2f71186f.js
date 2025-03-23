@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,53,"RIGHt"]]
+window.data=[["no-duplicate",15,53,"duplicated image caption parameter","RIGHt"],["no-duplicate",15,65,"duplicated image caption parameter","[[特種空勤團]]"]]

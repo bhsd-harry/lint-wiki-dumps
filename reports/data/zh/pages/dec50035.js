@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,3," population_footnotes    = \n "]]
+window.data=[["no-duplicate",37,3,"duplicated parameter"," population_footnotes    = \n "],["no-duplicate",39,3,"duplicated parameter"," population_footnotes = {{Spain metadata Wikidata|population_footnotes}}\n "]]

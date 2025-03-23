@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",38,4,"table"],[1,"invalid-gallery",177,27,"thumb"],[2,"no-duplicate",163,60,"舊太原車站"],[1,"no-ignored",170,1," <BR>"]]
+window.data=[["illegal-attr",38,4,"illegal attribute name","table"],["no-duplicate",163,60,"duplicated image caption parameter","舊太原車站"],["no-duplicate",163,66,"duplicated image caption parameter","舊太原車站"],["no-ignored",170,1,"invalid content in <gallery>"," <BR>"],["invalid-gallery",177,27,"invalid image parameter","thumb"]]

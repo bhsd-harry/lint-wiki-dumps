@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",18,6," class-\"small-references\""]]
+window.data=[["no-ignored",18,6,"containing invalid attribute"," class-\"small-references\""]]

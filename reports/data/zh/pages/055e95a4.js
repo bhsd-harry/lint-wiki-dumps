@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,3," educate =\n "]]
+window.data=[["no-duplicate",29,3,"duplicated parameter"," educate =\n "],["no-duplicate",32,3,"duplicated parameter"," educate =\n *[[香港浸會大學]]歐洲研究社會科學學士（榮譽）\n *[[倫敦大學]]法律學士\n *[[香港大學]]國際關係學碩士\n "]]

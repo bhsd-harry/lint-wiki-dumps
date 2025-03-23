@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",96,2,"[[Category:Pages incorrectly using the Blockquote template]]"]]
+window.data=[["no-duplicate",96,2,"duplicated category","[[Category:Pages incorrectly using the Blockquote template]]"],["no-duplicate",114,2,"duplicated category","[[Category:Pages incorrectly using the Blockquote template]]"]]

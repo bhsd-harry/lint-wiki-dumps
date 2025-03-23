@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",134,1," File:[[意大利总理]]"]]
+window.data=[["no-ignored",134,1,"invalid content in <gallery>"," File:[[意大利总理]]"]]

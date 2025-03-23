@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",11,35,"duplicated image caption parameter","200x200"]]
+window.data=[["no-duplicate",11,35,"duplicated image caption parameter","200x200"],["no-duplicate",11,43,"duplicated image caption parameter","德里十一區嘅地圖"],["no-duplicate",12,60,"duplicated image caption parameter","200x200"],["no-duplicate",12,68,"duplicated image caption parameter","德里市內嘅管轄區分"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",235,5,"style=\"margin:inherit; padding-bottom:0.25em\""]]
+window.data=[["invalid-css",235,71,"semi-colon expected",""],["invalid-css",235,64,"colon expected","size"],["no-duplicate",235,5,"duplicated style attribute","style=\"margin:inherit; padding-bottom:0.25em\""],["no-duplicate",235,52,"duplicated style attribute","style=\"font size=95\""]]

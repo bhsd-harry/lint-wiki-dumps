@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3,"map_caption     = {{legend|#33CCFF|平和县}}在漳州市的位置\n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter","map_caption     = {{legend|#33CCFF|平和县}}在漳州市的位置\n "],["no-duplicate",37,3,"duplicated parameter","map_caption = 平和縣的位置\n "]]

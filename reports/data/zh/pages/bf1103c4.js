@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",503,5,"border=\"2\""]]
+window.data=[["no-duplicate",503,5,"duplicated border attribute","border=\"2\""],["no-duplicate",503,51,"duplicated border attribute","border=\"  1px #aaa solid\""]]

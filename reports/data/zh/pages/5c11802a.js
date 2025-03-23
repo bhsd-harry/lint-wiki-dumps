@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,650,"title=Mary Van Kleeck and Scientific Management"]]
+window.data=[["no-duplicate",15,650,"duplicated parameter","title=Mary Van Kleeck and Scientific Management"],["no-duplicate",15,739,"duplicated parameter","title=A Mental Revolution: Scientific Management since Taylor"]]

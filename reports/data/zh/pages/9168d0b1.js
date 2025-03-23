@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",48,2,"[[Category:靜岡縣古墳]]"]]
+window.data=[["no-duplicate",48,2,"duplicated category","[[Category:靜岡縣古墳]]"],["no-duplicate",50,2,"duplicated category","[[Category:靜岡縣古墳]]"]]

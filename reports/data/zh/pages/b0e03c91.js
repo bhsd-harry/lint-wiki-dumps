@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",45,49,"{{"],[2,"no-duplicate",45,49,"{{link-en"]]
+window.data=[["lonely-bracket",45,49,"lonely \"{\"","{{"],["no-duplicate",45,49,"duplicated image caption parameter","{{link-en"],["no-duplicate",45,59,"duplicated image caption parameter","[[珍·史瑪特]]飾演芙蘿依德·格哈特"]]

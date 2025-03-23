@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,3," 官方色彩 = \n "],[2,"no-ignored",89,21," 備註 "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter"," 官方色彩 = \n "],["no-duplicate",20,3,"duplicated parameter"," 官方色彩   = [[綠色]]、[[黃色]]\n "],["no-ignored",89,21,"containing invalid attribute"," 備註 "],["no-ignored",135,28,"containing invalid attribute"," 備註 "]]

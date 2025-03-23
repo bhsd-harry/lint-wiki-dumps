@@ -1,1 +1,1 @@
-window.data=[[5,"invalid-isbn",471,18,"ISBN 978-986-342-597-1"],[1,"unclosed-table",556,2,"{|"]]
+window.data=[["invalid-isbn",471,18,"invalid ISBN","ISBN 978-986-342-597-1"],["invalid-isbn",507,18,"invalid ISBN","ISBN 978-986-10-8318-0"],["invalid-isbn",511,18,"invalid ISBN","ISBN 978-957-669-069-4"],["unclosed-table",556,2,"unclosed table","{|"],["invalid-isbn",569,15,"invalid ISBN","ISBN 957-699-633-7"],["invalid-isbn",574,14,"invalid ISBN","ISBN 957-699-634-4"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,3," percentage = '''60.42%'''\n "]]
+window.data=[["no-duplicate",17,3,"duplicated parameter"," percentage = '''60.42%'''\n "],["no-duplicate",24,3,"duplicated parameter"," percentage = 37.17%\n "]]

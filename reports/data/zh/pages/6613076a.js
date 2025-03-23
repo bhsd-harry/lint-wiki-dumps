@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",68,33,"year = 2009年"]]
+window.data=[["no-duplicate",68,33,"duplicated parameter","year = 2009年"],["no-duplicate",68,95,"duplicated parameter","year=1911"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",16,101,"xml:lang"],[6,"no-duplicate",62,25,"中"]]
+window.data=[["illegal-attr",16,101,"illegal attribute name","xml:lang"],["no-duplicate",62,25,"duplicated image caption parameter","中"],["no-duplicate",62,44,"duplicated image caption parameter","华彩段开始时的独奏旋律"],["no-duplicate",66,25,"duplicated image caption parameter","中"],["no-duplicate",66,44,"duplicated image caption parameter","华彩段尾声时作曲家引进的旋律"],["no-duplicate",70,25,"duplicated image caption parameter","中"],["no-duplicate",70,44,"duplicated image caption parameter","上述「色彩鲜明的插曲」，最先由长笛奏出"]]

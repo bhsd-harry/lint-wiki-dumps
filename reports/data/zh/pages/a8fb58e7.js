@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",104,22,"Thessaloniki"],[1,"lonely-bracket",104,43,"]]"],[1,"no-ignored",104,12,"[:en:Aris "]]
+window.data=[["illegal-attr",104,22,"illegal attribute name","Thessaloniki"],["illegal-attr",104,35,"illegal attribute name","F.C."],["no-ignored",104,12,"containing invalid attribute","[:en:Aris "],["lonely-bracket",104,43,"lonely \"]\"","]]"]]

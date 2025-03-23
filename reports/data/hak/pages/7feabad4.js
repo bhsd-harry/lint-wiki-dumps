@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,2,"duplicated category","[[Category:Thi-lî]]"]]
+window.data=[["no-duplicate",23,2,"duplicated category","[[Category:Thi-lî]]"],["no-duplicate",25,2,"duplicated category","[[Category:Thi-lî]]"]]

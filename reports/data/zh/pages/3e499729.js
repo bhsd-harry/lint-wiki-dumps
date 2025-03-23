@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",133,681,"["],[4,"nested-link",133,648,"[[星光少女 極光之夢]]"]]
+window.data=[["nested-link",133,648,"internal link in an external link","[[星光少女 極光之夢]]"],["nested-link",133,662,"internal link in an external link","[[中文]]"],["nested-link",133,668,"internal link in an external link","[[動畫]]"],["nested-link",133,674,"internal link in an external link","[[原聲帶]]"],["lonely-bracket",133,681,"lonely \"[\"","["]]

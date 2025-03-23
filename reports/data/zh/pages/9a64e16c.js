@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",334,2,"[[Category:新界區小巴路線|059K]]"]]
+window.data=[["no-duplicate",334,2,"duplicated category","[[Category:新界區小巴路線|059K]]"],["no-duplicate",336,2,"duplicated category","[[Category:新界區小巴路線|059S]]"],["no-duplicate",335,2,"duplicated category","[[Category:香港北區小巴路線|059K]]"],["no-duplicate",337,2,"duplicated category","[[Category:香港北區小巴路線|059S]]"]]

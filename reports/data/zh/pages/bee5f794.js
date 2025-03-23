@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",66,2,"[[Category:大逃杀游戏]]"]]
+window.data=[["no-duplicate",66,2,"duplicated category","[[Category:大逃杀游戏]]"],["no-duplicate",76,2,"duplicated category","[[Category:大逃杀游戏]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",106,2,"[[Category:三發地產集團]]"]]
+window.data=[["no-duplicate",106,2,"duplicated category","[[Category:三發地產集團]]"],["no-duplicate",111,2,"duplicated category","[[Category:三發地產集團|*]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",97,2,"[[Category:西敏市音樂家]]"]]
+window.data=[["no-duplicate",97,2,"duplicated category","[[Category:西敏市音樂家]]"],["no-duplicate",103,2,"duplicated category","[[Category:西敏市音樂家]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,27,"duplicated image caption parameter","縮略圖"],[1,"unmatched-tag",42,6,"tag that is both closing and self-closing","</br>"]]
+window.data=[["no-duplicate",8,27,"duplicated image caption parameter","縮略圖"],["no-duplicate",8,45,"duplicated image caption parameter","[[地球]]、[[鬩神星]]、[[冥王星]]、[[鳥神星]]、[[妊神星]]、[[小行星90377|賽德娜]]、[[亡神星]]、[[小行星50000|創神星]]、[[小行星20000|伐羅那]]同佢哋啲衛星嘅大細比較圖。"],["unmatched-tag",42,6,"tag that is both closing and self-closing","</br>"]]

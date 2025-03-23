@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",192,2,"[[Category:新羅背景作品]]"]]
+window.data=[["no-duplicate",192,2,"duplicated category","[[Category:新羅背景作品]]"],["no-duplicate",199,2,"duplicated category","[[Category:新羅背景作品]]"]]

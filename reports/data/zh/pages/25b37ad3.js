@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,24,"Example"]]
+window.data=[["no-duplicate",10,24,"duplicated image caption parameter","Example"],["no-duplicate",10,44,"duplicated image caption parameter","醫生執行診斷的過程圖解"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",479,49,"["],[4,"no-duplicate",50,327,"language=ja"]]
+window.data=[["no-duplicate",50,327,"duplicated parameter","language=ja"],["no-duplicate",50,362,"duplicated parameter","language=ja"],["no-duplicate",59,1436,"duplicated parameter","language = ja "],["no-duplicate",59,1489,"duplicated parameter","language = ja "],["lonely-bracket",479,49,"lonely \"[\"","["]]

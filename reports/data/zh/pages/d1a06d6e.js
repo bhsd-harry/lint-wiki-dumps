@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",57,36,"印度"]]
+window.data=[["no-duplicate",57,36,"duplicated image caption parameter","印度"],["no-duplicate",57,39,"duplicated image caption parameter","[[泰姬瑪哈陵]]的外牆"]]

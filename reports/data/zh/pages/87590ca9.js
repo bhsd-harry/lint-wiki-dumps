@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",89,53,"rightb"]]
+window.data=[["no-duplicate",89,53,"duplicated image caption parameter","rightb"],["no-duplicate",89,60,"duplicated image caption parameter","[[圣维特主教座堂]]始建於 1344年"]]

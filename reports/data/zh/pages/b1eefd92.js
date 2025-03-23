@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",34,2,"[[Category:鰟鮍属|ocellatus]]"]]
+window.data=[["no-duplicate",34,2,"duplicated category","[[Category:鰟鮍属|ocellatus]]"],["no-duplicate",40,2,"duplicated category","[[Category:鰟鮍属|ocellatus]]"]]

@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-bracket",84,421,"lonely \"]\"","]]"],[2,"no-ignored",244,4,"containing invalid attribute"," ''ligne grise}}"]]
+window.data=[["lonely-bracket",84,421,"lonely \"]\"","]]"],["lonely-bracket",244,18,"lonely \"}\"","}}"],["no-ignored",244,4,"containing invalid attribute"," ''ligne grise}}"],["lonely-bracket",255,17,"lonely \"}\"","}}"],["no-ignored",255,4,"containing invalid attribute"," {ligne grise}}"]]

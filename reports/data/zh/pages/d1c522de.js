@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",35,94,"[[Racah (crater)|Racah Crater]]"]]
+window.data=[["nested-link",35,94,"internal link in an external link","[[Racah (crater)|Racah Crater]]"]]

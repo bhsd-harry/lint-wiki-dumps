@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",31,2,"[[Category:法国河流]]"]]
+window.data=[["no-duplicate",31,2,"duplicated category","[[Category:法国河流]]"],["no-duplicate",32,2,"duplicated category","[[Category:法国河流]]"]]

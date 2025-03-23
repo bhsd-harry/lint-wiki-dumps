@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",100,2,"[[Category:美国前州首府|M]]"]]
+window.data=[["no-duplicate",100,2,"duplicated category","[[Category:美国前州首府|M]]"],["no-duplicate",102,2,"duplicated category","[[Category:美国前州首府]]"]]

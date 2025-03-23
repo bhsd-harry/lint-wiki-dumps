@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",73,2,"[[Category:臺灣男性YouTuber]]"]]
+window.data=[["no-duplicate",73,2,"duplicated category","[[Category:臺灣男性YouTuber]]"],["no-duplicate",76,2,"duplicated category","[[Category:臺灣男性YouTuber]]"]]

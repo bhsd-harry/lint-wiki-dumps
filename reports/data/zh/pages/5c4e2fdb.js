@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,2,"[[Category:克罗皮夫尼茨基人]]"]]
+window.data=[["no-duplicate",65,2,"duplicated category","[[Category:克罗皮夫尼茨基人]]"],["no-duplicate",68,2,"duplicated category","[[Category:克罗皮夫尼茨基人]]"]]

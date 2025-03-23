@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",74,38,"hochkant=0.9"]]
+window.data=[["no-duplicate",74,38,"duplicated image caption parameter","hochkant=0.9"],["no-duplicate",74,51,"duplicated image caption parameter","奥伊尔多夫降水图"]]

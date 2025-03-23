@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,34,"duplicated image caption parameter","default"]]
+window.data=[["no-duplicate",4,34,"duplicated image caption parameter","default"],["no-duplicate",4,42,"duplicated image caption parameter","正八面體"]]

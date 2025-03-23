@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",79,59,"缩略图"],[2,"no-duplicate",1,10,"\n "]]
+window.data=[["no-duplicate",1,10,"duplicated parameter","\n "],["no-duplicate",3,3,"duplicated parameter","1=zh-hans:金枪鱼; zh-tw:鮪; zh-hant:金槍魚\n "],["invalid-gallery",79,59,"invalid image parameter","缩略图"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",210,36,"style=\"text-align: center;  \""],[1,"no-ignored",280,72," 日本最大の地热能发电 "]]
+window.data=[["no-duplicate",210,36,"duplicated style attribute","style=\"text-align: center;  \""],["no-duplicate",210,65,"duplicated style attribute","style=\"font-size:90%;"],["no-ignored",280,72,"containing invalid attribute"," 日本最大の地热能发电 "]]

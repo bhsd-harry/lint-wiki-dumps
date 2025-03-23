@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",71,34,"date=2024年9月26日\n "]]
+window.data=[["no-duplicate",71,34,"duplicated parameter","date=2024年9月26日\n "],["no-duplicate",72,29,"duplicated parameter"," date = 2024年9月26日"]]

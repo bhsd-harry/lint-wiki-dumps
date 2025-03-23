@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",69,2,"[[Category:古根海姆学者]]"]]
+window.data=[["no-duplicate",69,2,"duplicated category","[[Category:古根海姆学者]]"],["no-duplicate",72,2,"duplicated category","[[Category:古根海姆学者]]"]]

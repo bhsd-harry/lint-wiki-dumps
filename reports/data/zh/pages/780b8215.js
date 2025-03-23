@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",45,26,"[["],[2,"no-duplicate",45,26,"[[Isle de France (Mauritius)"]]
+window.data=[["lonely-bracket",45,26,"lonely \"[\"","[["],["no-duplicate",45,26,"duplicated image caption parameter","[[Isle de France (Mauritius)"],["no-duplicate",45,55,"duplicated image caption parameter","法兰西岛<br />（1792–1810）"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,2,"[[Category:大名县建筑物]]"]]
+window.data=[["no-duplicate",37,2,"duplicated category","[[Category:大名县建筑物]]"],["no-duplicate",41,2,"duplicated category","[[Category:大名县建筑物]]"]]

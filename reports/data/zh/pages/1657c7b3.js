@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",317,8,"display=\"block\""],[2,"no-ignored",313,17,"|-valign=\"top\""]]
+window.data=[["no-ignored",313,17,"containing invalid attribute","|-valign=\"top\""],["no-duplicate",317,8,"duplicated display attribute","display=\"block\""],["no-duplicate",317,25,"duplicated display attribute","display=\"block\""],["no-ignored",328,17,"containing invalid attribute","|-valign=\"top\""]]

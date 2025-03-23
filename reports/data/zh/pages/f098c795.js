@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",364,24,"collapsible"],[4,"invalid-gallery",313,12,"thumb"],[1,"no-ignored",364,35," collapsed\""]]
+window.data=[["invalid-gallery",313,12,"invalid image parameter","thumb"],["invalid-gallery",313,18,"invalid image parameter","350px"],["invalid-gallery",314,12,"invalid image parameter","thumb"],["invalid-gallery",314,18,"invalid image parameter","350px"],["illegal-attr",364,24,"illegal attribute name","collapsible"],["no-ignored",364,35,"containing invalid attribute"," collapsed\""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",24,42,"duplicated image caption parameter","縮圖"]]
+window.data=[["no-duplicate",24,42,"duplicated image caption parameter","縮圖"],["no-duplicate",24,45,"duplicated image caption parameter","珍．奧斯汀喺晚年住咗8年嘅屋。而家變咗博物館"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",68,29,"150px"],[2,"no-duplicate",68,41,"Border"]]
+window.data=[["invalid-gallery",68,29,"invalid image parameter","150px"],["no-duplicate",68,41,"duplicated image caption parameter","Border"],["no-duplicate",68,54,"duplicated image caption parameter","寶特瓶的瓶胚"]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",24,2,"[[Category:台灣藝術組織]]"]]
+window.data=[["no-duplicate",24,2,"duplicated category","[[Category:台灣藝術組織]]"],["no-duplicate",27,2,"duplicated category","[[Category:台灣藝術組織]]"],["no-duplicate",25,2,"duplicated category","[[Category:校友會]]"],["no-duplicate",28,2,"duplicated category","[[Category:校友會]]"],["no-duplicate",30,2,"duplicated category","[[Category:1974年建立的組織]]"],["no-duplicate",31,2,"duplicated category","[[Category:1974年建立的組織]]"]]

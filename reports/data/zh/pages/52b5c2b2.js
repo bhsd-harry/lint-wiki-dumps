@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,2,"[[Category:1962年中美洲和加勒比运动会运动员]]"]]
+window.data=[["no-duplicate",21,2,"duplicated category","[[Category:1962年中美洲和加勒比运动会运动员]]"],["no-duplicate",22,2,"duplicated category","[[Category:1962年中美洲和加勒比运动会运动员]]"]]

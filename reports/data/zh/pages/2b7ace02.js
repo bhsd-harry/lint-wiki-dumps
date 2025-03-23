@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",43,15,"サムネイル"]]
+window.data=[["no-duplicate",43,15,"duplicated image caption parameter","サムネイル"],["no-duplicate",43,21,"duplicated image caption parameter","豹"],["no-duplicate",44,15,"duplicated image caption parameter","サムネイル"],["no-duplicate",44,21,"duplicated image caption parameter","考拉"]]

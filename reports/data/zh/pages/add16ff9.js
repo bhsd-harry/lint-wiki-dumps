@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,30,"放大的前一幅照片中的滑坡。Wikischaeberlechannels.jpg"]]
+window.data=[["no-duplicate",21,30,"duplicated image caption parameter","放大的前一幅照片中的滑坡。Wikischaeberlechannels.jpg"],["no-duplicate",21,70,"duplicated image caption parameter","放大显示的陨坑中河道，照片右侧是被侵蚀的坑壁部分，左侧部分为坑底。"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",134,2,"[[分類:香港警匪片]]"]]
+window.data=[["no-duplicate",134,2,"duplicated category","[[分類:香港警匪片]]"],["no-duplicate",138,2,"duplicated category","[[Category:香港警匪片]]"]]

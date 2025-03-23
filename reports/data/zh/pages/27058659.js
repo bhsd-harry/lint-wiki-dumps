@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",110,16,"cellpadding"]]
+window.data=[["illegal-attr",110,16,"illegal attribute name","cellpadding"],["illegal-attr",110,33,"illegal attribute name","cellspacing"],["illegal-attr",122,16,"illegal attribute name","cellpadding"],["illegal-attr",122,33,"illegal attribute name","cellspacing"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,81,"centert"]]
+window.data=[["no-duplicate",26,81,"duplicated image caption parameter","centert"],["no-duplicate",26,89,"duplicated image caption parameter","大村市政府"]]

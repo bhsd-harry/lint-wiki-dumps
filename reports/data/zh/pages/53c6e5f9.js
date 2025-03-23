@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,2,"[[Category:性倾向、LGBT与社会]]"]]
+window.data=[["no-duplicate",29,2,"duplicated category","[[Category:性倾向、LGBT与社会]]"],["no-duplicate",31,2,"duplicated category","[[Category:性倾向、LGBT与社会]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",877,2,"[[Category:網路電視頻道]]"]]
+window.data=[["no-duplicate",877,2,"duplicated category","[[Category:網路電視頻道]]"],["no-duplicate",892,2,"duplicated category","[[Category:網路電視頻道]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",36,3," awards       = \n "]]
+window.data=[["no-duplicate",36,3,"duplicated parameter"," awards       = \n "],["no-duplicate",38,3,"duplicated parameter","awards = [[File:Ordre des Arts et des Lettres Chevalier ribbon.svg|40px|link=藝術與文學勳章|藝術與文學騎士勳章]]\n "]]

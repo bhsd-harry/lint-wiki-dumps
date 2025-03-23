@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,2,"[[Category:江蘇主題公園]]"]]
+window.data=[["no-duplicate",7,2,"duplicated category","[[Category:江蘇主題公園]]"],["no-duplicate",10,2,"duplicated category","[[Category:江蘇主題公園]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",151,2,"[[Category:國家聯盟打擊王]]"]]
+window.data=[["no-duplicate",151,2,"duplicated category","[[Category:國家聯盟打擊王]]"],["no-duplicate",161,2,"duplicated category","[[Category:國家聯盟打擊王]]"],["no-duplicate",152,2,"duplicated category","[[Category:國家聯盟打點王]]"],["no-duplicate",160,2,"duplicated category","[[Category:國家聯盟打點王]]"]]

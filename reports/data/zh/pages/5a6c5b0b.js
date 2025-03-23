@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3," image = Dark-capped Parrotfish.jpg\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter"," image = Dark-capped Parrotfish.jpg\n "],["no-duplicate",8,3,"duplicated parameter"," image = Dark-capped Parrotfish.jpg\n "]]

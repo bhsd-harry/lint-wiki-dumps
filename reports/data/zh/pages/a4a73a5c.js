@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",240,40,"463-239"]]
+window.data=[["no-duplicate",240,40,"duplicated image caption parameter","463-239"],["no-duplicate",240,48,"duplicated image caption parameter","Hidden Markov Model"]]

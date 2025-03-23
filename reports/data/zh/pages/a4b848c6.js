@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",55,174,"title=重庆市地方志编纂委员会"]]
+window.data=[["no-duplicate",55,174,"duplicated parameter","title=重庆市地方志编纂委员会"],["no-duplicate",55,192,"duplicated parameter","title=重庆市志 第十卷"]]

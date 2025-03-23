@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",48,2,"[[Category:建 (星官)|5]]"]]
+window.data=[["no-duplicate",48,2,"duplicated category","[[Category:建 (星官)|5]]"],["no-duplicate",49,2,"duplicated category","[[Category:建 (星官)|增8]]"]]

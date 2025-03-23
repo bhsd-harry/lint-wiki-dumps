@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,2,"[[Category:14世紀哲學家]]"]]
+window.data=[["no-duplicate",33,2,"duplicated category","[[Category:14世紀哲學家]]"],["no-duplicate",37,2,"duplicated category","[[Category:14世紀哲學家]]"]]

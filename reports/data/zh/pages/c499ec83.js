@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",51,22,"thumb"],[1,"lonely-bracket",51,33,"]]"],[2,"no-duplicate",51,28,"鵝鑾鼻燈塔]]"]]
+window.data=[["invalid-gallery",51,22,"invalid image parameter","thumb"],["lonely-bracket",51,33,"lonely \"]\"","]]"],["no-duplicate",51,28,"duplicated image caption parameter","鵝鑾鼻燈塔]]"],["no-duplicate",51,36,"duplicated image caption parameter","位於[[台灣]][[屏東縣]]的[[鵝鑾鼻燈塔]]，是台灣光力最強的燈塔，有「東亞之光」的美名。"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",1,148,"[[["],[2,"no-duplicate",1,50,"a)顯示了在重新成像的孔徑平面中使用孔徑掩模的簡單實驗。b) 和c) 顯示了由{{link-en|彼得·塔希爾 (天文學家)|Peter Tuthill (astronomer)}}和合作者放置在[[[凱克天文台"]]
+window.data=[["lonely-bracket",1,148,"lonely \"[\"","[[["],["lonely-bracket",1,162,"lonely \"]\"","]]"],["no-duplicate",1,50,"duplicated image caption parameter","a)顯示了在重新成像的孔徑平面中使用孔徑掩模的簡單實驗。b) 和c) 顯示了由{{link-en|彼得·塔希爾 (天文學家)|Peter Tuthill (astronomer)}}和合作者放置在[[[凱克天文台"],["no-duplicate",1,157,"duplicated image caption parameter","凱克望遠鏡]]的[[次鏡]]前的孔徑掩模圖。實心黑色形狀表示子孔徑（掩模中的孔）。[[凱克天文台|凱克]]主鏡段佈局的投影被疊加。"]]

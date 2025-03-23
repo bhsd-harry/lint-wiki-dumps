@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",64,20,"[["],[2,"no-duplicate",64,20,"[[File:HK_IVE_KwaiChung.JPG"]]
+window.data=[["lonely-bracket",64,20,"lonely \"[\"","[["],["no-duplicate",64,20,"duplicated image caption parameter","[[File:HK_IVE_KwaiChung.JPG"],["no-duplicate",64,48,"duplicated image caption parameter","[[香港專業教育學院（黃克競）|黃克競]]"]]

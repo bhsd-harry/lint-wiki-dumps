@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",127,6,"PC"],[3,"no-ignored",127,3,"年度 "]]
+window.data=[["illegal-attr",127,6,"illegal attribute name","PC"],["no-ignored",127,3,"containing invalid attribute","年度 "],["no-ignored",127,8,"containing invalid attribute"," 游戏"],["no-ignored",132,3,"containing invalid attribute","最佳策略游戏"]]

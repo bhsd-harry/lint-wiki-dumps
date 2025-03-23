@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,3," awards      = [[香港樹仁大学]]榮譽法學博士<br/>[[香港城市大学]]榮譽法學博士\n "]]
+window.data=[["no-duplicate",35,3,"duplicated parameter"," awards      = [[香港樹仁大学]]榮譽法學博士<br/>[[香港城市大学]]榮譽法學博士\n "],["no-duplicate",40,3,"duplicated parameter"," awards        = [[File:Grand Bauhinia Medal.gif|40px|link=大紫荊勳章|大紫荊勳章]]\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,3," image = Narcissus Flycatcher-cropped.jpg\n "]]
+window.data=[["no-duplicate",7,3,"duplicated parameter"," image = Narcissus Flycatcher-cropped.jpg\n "],["no-duplicate",14,3,"duplicated parameter"," image = Narcissus Flycatcher-cropped.jpg\n "]]

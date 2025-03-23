@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",92,1," ;奥体中心北门（站位位于天赐街，C出入口向西约300米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|浑雷}}"]]
+window.data=[["fostered-content",92,1,"content to be moved out from the table"," ;奥体中心北门（站位位于天赐街，C出入口向西约300米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|浑雷}}"],["fostered-content",95,1,"content to be moved out from the table"," ;富民街浑南五东路（站位位于富民南街，D出入口向东南约500米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|105|108}}\n {{col-end}}"]]

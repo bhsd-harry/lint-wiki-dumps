@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",19,54,"caption"]]
+window.data=[["no-duplicate",19,54,"duplicated image caption parameter","caption"],["no-duplicate",19,68,"duplicated image caption parameter","曾在纽约[[曼哈顿]][[麦迪逊大道550号]]的索尼美国分部大厦"],["no-duplicate",64,2,"duplicated category","[[Category:索尼子公司]]"],["no-duplicate",66,2,"duplicated category","[[Category:索尼子公司]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,62,"Middle_Hill_Residential_near_Sai_Ying_Pun_201709"]]
+window.data=[["no-duplicate",2,62,"duplicated image caption parameter","Middle_Hill_Residential_near_Sai_Ying_Pun_201709"],["no-duplicate",2,123,"duplicated image caption parameter","西環上方的半山"]]

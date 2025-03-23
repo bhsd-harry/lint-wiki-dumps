@@ -1,1 +1,1 @@
-window.data=[[3,"nested-link",88,161,"[[Encyclopædia Iranica]]"]]
+window.data=[["nested-link",88,161,"internal link in an external link","[[Encyclopædia Iranica]]"],["nested-link",92,107,"internal link in an external link","[[Viktor Ullmann]]"],["nested-link",92,178,"internal link in an external link","[[ARBOS - Company for Music and Theatre]]"]]

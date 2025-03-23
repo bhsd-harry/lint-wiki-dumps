@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,55,"150pix"]]
+window.data=[["no-duplicate",4,55,"duplicated image caption parameter","150pix"],["no-duplicate",4,68,"duplicated image caption parameter","美國可垂直起降戰機[[F-35|F-35B戰機]]"]]

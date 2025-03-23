@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",206,20,"[[悦城龙母祖庙]]"]]
+window.data=[["no-duplicate",206,20,"duplicated image caption parameter","[[悦城龙母祖庙]]"],["no-duplicate",206,31,"duplicated image caption parameter","绿琉璃瓦"]]

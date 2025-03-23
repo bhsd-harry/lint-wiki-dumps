@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",3,356,"language=en "]]
+window.data=[["no-duplicate",3,356,"duplicated parameter","language=en "],["no-duplicate",3,501,"duplicated parameter","language=en "],["no-duplicate",14,35,"duplicated image thumbnail parameter","thumb"],["no-duplicate",14,47,"duplicated image thumbnail parameter","thumb"]]

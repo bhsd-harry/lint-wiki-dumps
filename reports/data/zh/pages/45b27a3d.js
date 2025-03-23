@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",52,120,"投球局"],[1,"unmatched-tag",138,2,"</span>"]]
+window.data=[["no-ignored",52,120,"containing invalid attribute","投球局"],["no-ignored",52,214,"containing invalid attribute","失分"],["unmatched-tag",138,2,"unmatched closing tag","</span>"]]

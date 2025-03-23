@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,2,"[[Category:真理报总编]]"]]
+window.data=[["no-duplicate",65,2,"duplicated category","[[Category:真理报总编]]"],["no-duplicate",66,2,"duplicated category","[[Category:真理报总编]]"]]

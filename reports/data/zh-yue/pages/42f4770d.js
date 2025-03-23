@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,318,"duplicated parameter","title=Laughing哥學牌闖禍判罰 "]]
+window.data=[["no-duplicate",22,318,"duplicated parameter","title=Laughing哥學牌闖禍判罰 "],["no-duplicate",22,341,"duplicated parameter","title=Laughing哥學牌闖禍判罰"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",778,2,"[[Category:2017年台灣建立]]"],[1,"no-ignored",722,3,"《'''關掉／打開'''》"]]
+window.data=[["no-ignored",722,3,"containing invalid attribute","《'''關掉／打開'''》"],["no-duplicate",778,2,"duplicated category","[[Category:2017年台灣建立]]"],["no-duplicate",781,2,"duplicated category","[[Category:2017年台灣建立]]"]]

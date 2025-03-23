@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,35,"|华夏原创金曲榜"]]
+window.data=[["no-ignored",1,35,"useless link text","|华夏原创金曲榜"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",100,85,"  1995年9月开始交付 "]]
+window.data=[["no-ignored",100,85,"containing invalid attribute","  1995年9月开始交付 "]]

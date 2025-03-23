@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",433,2,"[[Category:臺灣政黨創始人]]"],[1,"pipe-like",300,38,"\n 農業工程學報||"]]
+window.data=[["pipe-like",300,38,"additional \"|\" in a table cell","\n 農業工程學報||"],["no-duplicate",433,2,"duplicated category","[[Category:臺灣政黨創始人]]"],["no-duplicate",444,2,"duplicated category","[[Category:臺灣政黨創始人]]"]]

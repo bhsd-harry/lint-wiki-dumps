@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",24,44,"Right"]]
+window.data=[["no-duplicate",24,44,"duplicated image caption parameter","Right"],["no-duplicate",24,50,"duplicated image caption parameter","宋玉生公園音樂噴泉眺望[[觀音蓮花苑]]"],["no-duplicate",29,40,"duplicated image caption parameter","Right"],["no-duplicate",29,46,"duplicated image caption parameter","宋玉生公園林蔭大道"],["no-duplicate",36,41,"duplicated image caption parameter","Right"],["no-duplicate",36,47,"duplicated image caption parameter","澳門教科文中心"]]

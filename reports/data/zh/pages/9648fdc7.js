@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",131,122,"publisher=日本プロサッカーリーグ"]]
+window.data=[["no-duplicate",131,122,"duplicated parameter","publisher=日本プロサッカーリーグ"],["no-duplicate",131,144,"duplicated parameter","publisher=日本職業足球聯盟"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",73,2,"[[Category:明末民变政权]]"]]
+window.data=[["no-duplicate",73,2,"duplicated category","[[Category:明末民变政权]]"],["no-duplicate",75,2,"duplicated category","[[Category:明末民变政权]]"]]

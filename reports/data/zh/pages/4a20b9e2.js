@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",67,2,"[[Category:高雄市街道]]"]]
+window.data=[["no-duplicate",67,2,"duplicated category","[[Category:高雄市街道]]"],["no-duplicate",68,2,"duplicated category","[[Category:高雄市街道]]"]]

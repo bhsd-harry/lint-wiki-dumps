@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,71,"安地卡及巴布達簽證政策"]]
+window.data=[["no-duplicate",5,71,"duplicated image caption parameter","安地卡及巴布達簽證政策"],["no-duplicate",5,83,"duplicated image caption parameter","\n {{legend|#ff7f27|安地卡及巴布達}}\n {{legend|#00247d|自由進出停留}}\n {{legend|#22b14c|免簽證入境180天}}\n {{legend|#8bc34a|免簽證入境30天}}\n {{legend|#fecb4c|電子簽證}}"]]

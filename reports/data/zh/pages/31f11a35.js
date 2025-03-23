@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",52,1," * 幼儿教育保育学科\n * 职业教养学科<ref group=\"注\"  name=\"职业教养学科\"/>"]]
+window.data=[["fostered-content",52,1,"content to be moved out from the table"," * 幼儿教育保育学科\n * 职业教养学科<ref group=\"注\"  name=\"职业教养学科\"/>"],["fostered-content",77,1,"content to be moved out from the table"," * 前常磐短期大学附属[[幼稚園|幼儿园]]：成立于1970年、改名为于常磐大学附属幼儿园于2005年<ref name=\"短期大学的历史\"/>"]]

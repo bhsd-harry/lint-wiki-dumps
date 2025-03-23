@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",43,14,";style=\"height: 25px"],[3,"unmatched-tag",41,88,"<small>"]]
+window.data=[["unmatched-tag",41,88,"unclosed tag","<small>"],["unmatched-tag",41,150,"unclosed tag","<small>"],["no-ignored",43,14,"containing invalid attribute",";style=\"height: 25px"],["unmatched-tag",43,284,"unclosed tag","<small>"]]

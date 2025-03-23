@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3," colorcode = {{Alaskan Independence Party/meta/color}}\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter"," colorcode = {{Alaskan Independence Party/meta/color}}\n "],["no-duplicate",6,3,"duplicated parameter"," colorcode        = {{party color|Alaskan Independence Party}}\n "]]

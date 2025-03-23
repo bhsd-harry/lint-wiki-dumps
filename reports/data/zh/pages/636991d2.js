@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",148,2,"[[Category:朱姓|wai]]"]]
+window.data=[["no-duplicate",148,2,"duplicated category","[[Category:朱姓|wai]]"],["no-duplicate",156,2,"duplicated category","[[Category:朱姓|W]]"]]

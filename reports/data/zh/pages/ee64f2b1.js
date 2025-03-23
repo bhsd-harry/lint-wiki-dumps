@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",235,29,"]]"],[2,"no-ignored",235,3,"國際音標的短期新增，[國際音標歷史"]]
+window.data=[["no-ignored",235,3,"containing invalid attribute","國際音標的短期新增，[國際音標歷史"],["lonely-bracket",235,29,"lonely \"]\"","]]"],["no-ignored",524,3,"containing invalid attribute","日本學家使用。在標準國際音標下，這些符號代表[音節輔音"],["lonely-bracket",524,35,"lonely \"]\"","]]"]]

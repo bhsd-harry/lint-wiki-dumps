@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",130,242," doi = 10.3969/j.issn.1673-1395.2006.02.003"]]
+window.data=[["no-duplicate",130,242,"duplicated parameter"," doi = 10.3969/j.issn.1673-1395.2006.02.003"],["no-duplicate",130,451,"duplicated parameter","doi=10.3969/j.issn.1673-1395.2006.02.003"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,2,"[[Category:阿南刻衛星群]]"]]
+window.data=[["no-duplicate",16,2,"duplicated category","[[Category:阿南刻衛星群]]"],["no-duplicate",26,2,"duplicated category","[[Category:阿南刻衛星群]]"]]

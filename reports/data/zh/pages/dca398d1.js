@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,49,"1976年欧洲足球锦标赛预选赛"]]
+window.data=[["no-duplicate",20,49,"duplicated image caption parameter","1976年欧洲足球锦标赛预选赛"],["no-duplicate",20,65,"duplicated image caption parameter","{{Legend|#0000FF|成功晋级}} {{Legend|#ff0000|未能晋级}} {{Legend|#000000|未能参赛}} {{Legend|#c3c3c3|非欧足联成员}}"]]

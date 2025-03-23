@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",5,31,"colspan"],[3,"nested-link",75,245,"[[The Guardian]]"]]
+window.data=[["illegal-attr",5,31,"illegal attribute name","colspan"],["nested-link",75,245,"internal link in an external link","[[The Guardian]]"],["nested-link",75,775,"internal link in an external link","[[The Times]]"],["nested-link",75,1161,"internal link in an external link","[[Washington Post]]"]]

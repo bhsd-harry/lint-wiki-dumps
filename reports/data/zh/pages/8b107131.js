@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",202,51,"table"],[2,"no-duplicate",238,55,"Right"]]
+window.data=[["illegal-attr",202,51,"illegal attribute name","table"],["illegal-attr",221,51,"illegal attribute name","table"],["no-duplicate",238,55,"duplicated image caption parameter","Right"],["no-duplicate",238,61,"duplicated image caption parameter","位於[[氹仔]]舊城區的鏡湖醫院氹仔醫療中心"]]

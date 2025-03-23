@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",39,1," *[[燕峰山炬禅师灵塔]]\n *[[涿鹿观音寺]]\n *[[宝峰寺 (涿鹿县)|宝峰寺]]\n *[[涿鹿清真寺]]"]]
+window.data=[["fostered-content",39,1,"content to be moved out from the table"," *[[燕峰山炬禅师灵塔]]\n *[[涿鹿观音寺]]\n *[[宝峰寺 (涿鹿县)|宝峰寺]]\n *[[涿鹿清真寺]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,161,"title=China"]]
+window.data=[["no-duplicate",4,161,"duplicated parameter","title=China"],["no-duplicate",4,197,"duplicated parameter","title=Eye Witness Travel Guides"]]

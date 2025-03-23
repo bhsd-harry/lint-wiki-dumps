@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",101,2,"[[Category:法国政治人物]]"]]
+window.data=[["no-duplicate",101,2,"duplicated category","[[Category:法国政治人物]]"],["no-duplicate",103,2,"duplicated category","[[Category:法国政治人物]]"]]

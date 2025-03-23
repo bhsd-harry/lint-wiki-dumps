@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,2,"duplicated category","[[Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference]]"]]
+window.data=[["no-duplicate",10,2,"duplicated category","[[Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference]]"],["no-duplicate",22,2,"duplicated category","[[Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference]]"]]

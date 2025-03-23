@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,2,"[[Category:擬狗脂鯉科|*]]"]]
+window.data=[["no-duplicate",27,2,"duplicated category","[[Category:擬狗脂鯉科|*]]"],["no-duplicate",29,2,"duplicated category","[[Category:擬狗脂鯉科|*]]"]]

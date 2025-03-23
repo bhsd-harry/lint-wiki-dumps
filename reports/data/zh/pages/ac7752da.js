@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",101,4,"同步"]]
+window.data=[["no-ignored",101,4,"containing invalid attribute","同步"]]

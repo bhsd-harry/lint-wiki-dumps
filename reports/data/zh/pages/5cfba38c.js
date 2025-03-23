@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3," general_secretary = [[习近平]]\n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter"," general_secretary = [[习近平]]\n "],["no-duplicate",10,3,"duplicated parameter"," general_secretary = [[习近平]]\n "]]

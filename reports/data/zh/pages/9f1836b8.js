@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",110,2,"[[Category:日本男性眾議院議員]]"]]
+window.data=[["no-duplicate",110,2,"duplicated category","[[Category:日本男性眾議院議員]]"],["no-duplicate",118,2,"duplicated category","[[Category:日本男性眾議院議員]]"]]

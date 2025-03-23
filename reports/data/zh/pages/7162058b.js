@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",106,2,"[[Category:板橋區 (台灣)]]"]]
+window.data=[["no-duplicate",106,2,"duplicated category","[[Category:板橋區 (台灣)]]"],["no-duplicate",109,2,"duplicated category","[[Category:板橋區 (台灣)]]"],["no-duplicate",107,2,"duplicated category","[[Category:1983年完工建築物]]"],["no-duplicate",110,2,"duplicated category","[[Category:1983年完工建築物]]"]]

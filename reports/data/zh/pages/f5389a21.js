@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",144,76,"vínculo=File:Coat_of_arms_of_the_Buenos_Aires_Province.png"]]
+window.data=[["no-duplicate",144,76,"duplicated image caption parameter","vínculo=File:Coat_of_arms_of_the_Buenos_Aires_Province.png"],["no-duplicate",144,135,"duplicated image caption parameter","borde"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",38,11,"[["],[2,"no-ignored",38,4,"台灣當地時間（[[UTC +8]]）"],[2,"unclosed-table",38,2,"{|"]]
+window.data=[["lonely-bracket",38,11,"lonely \"[\"","[["],["lonely-bracket",38,19,"lonely \"]\"","]]"],["no-ignored",38,4,"containing invalid attribute","台灣當地時間（[[UTC +8]]）"],["unclosed-table",38,2,"unclosed table","{|"],["lonely-bracket",242,11,"lonely \"[\"","[["],["lonely-bracket",242,19,"lonely \"]\"","]]"],["no-ignored",242,4,"containing invalid attribute","台灣當地時間（[[UTC +8]]）"],["unclosed-table",242,2,"unclosed table","{|"]]

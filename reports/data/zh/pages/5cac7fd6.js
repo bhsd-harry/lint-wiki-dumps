@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,2,"[[Category:巴西城市]]"]]
+window.data=[["no-duplicate",10,2,"duplicated category","[[Category:巴西城市]]"],["no-duplicate",15,2,"duplicated category","[[Category:巴西城市]]"]]

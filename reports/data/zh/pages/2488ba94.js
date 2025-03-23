@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",135,4,"style=\"background:#ccccff;\""]]
+window.data=[["no-duplicate",135,4,"duplicated style attribute","style=\"background:#ccccff;\""],["no-duplicate",135,31,"duplicated style attribute","style=\"white-space: nowrap\""]]

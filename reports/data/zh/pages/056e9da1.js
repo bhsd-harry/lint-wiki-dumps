@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",50,24,"  \"mw-collapsible mw-collapsed\"  "]]
+window.data=[["no-ignored",50,24,"containing invalid attribute","  \"mw-collapsible mw-collapsed\"  "]]

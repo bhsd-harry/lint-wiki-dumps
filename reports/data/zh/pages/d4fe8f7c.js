@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,2,"[[Category:清朝翰林院侍講學士]]"]]
+window.data=[["no-duplicate",27,2,"duplicated category","[[Category:清朝翰林院侍講學士]]"],["no-duplicate",30,2,"duplicated category","[[Category:清朝翰林院侍講學士]]"]]

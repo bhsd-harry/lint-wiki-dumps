@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,59,"链接=https://en.wikipedia.org/wiki/File:Dog and cat showing fight or flight responses.jpg"]]
+window.data=[["no-duplicate",22,59,"duplicated image caption parameter","链接=https://en.wikipedia.org/wiki/File:Dog and cat showing fight or flight responses.jpg"],["no-duplicate",22,151,"duplicated image caption parameter","一對[[狗]]和[[貓]]表現出該現象。"]]

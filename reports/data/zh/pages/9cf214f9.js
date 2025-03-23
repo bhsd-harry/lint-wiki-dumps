@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",295,38,"color"],[2,"no-ignored",145,4,"!colspan=\"2\"  "]]
+window.data=[["no-ignored",145,4,"containing invalid attribute","!colspan=\"2\"  "],["no-ignored",145,56,"containing invalid attribute","  | 最佳新闻报道"],["illegal-attr",295,38,"illegal attribute name","color"],["illegal-attr",493,38,"illegal attribute name","color"]]

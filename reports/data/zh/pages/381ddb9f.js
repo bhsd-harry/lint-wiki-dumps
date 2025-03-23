@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",43,62,"meta"],[2,"lonely-bracket",43,54,"{{"],[2,"no-ignored",43,72,"/九龍社團聯會}"]]
+window.data=[["lonely-bracket",43,54,"lonely \"{\"","{{"],["illegal-attr",43,62,"illegal attribute name","meta"],["illegal-attr",43,67,"illegal attribute name","color"],["no-ignored",43,72,"containing invalid attribute","/九龍社團聯會}"],["lonely-bracket",47,35,"lonely \"{\"","{{"],["illegal-attr",47,43,"illegal attribute name","meta"],["illegal-attr",47,48,"illegal attribute name","color"],["no-ignored",47,53,"containing invalid attribute","/創建力量}"]]

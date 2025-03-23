@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",283,19,"valing"],[2,"no-ignored",855,15,"  \"valign\"=\"top\""]]
+window.data=[["illegal-attr",283,19,"illegal attribute name","valing"],["no-ignored",855,15,"containing invalid attribute","  \"valign\"=\"top\""],["no-ignored",870,15,"containing invalid attribute","  \"valign\"=\"top\""]]

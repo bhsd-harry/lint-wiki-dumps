@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,37,"Right"]]
+window.data=[["no-duplicate",5,37,"duplicated image caption parameter","Right"],["no-duplicate",5,43,"duplicated image caption parameter","位於[[得勝花園]]內的戰勝荷蘭紀念碑"]]

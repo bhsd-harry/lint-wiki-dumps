@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,79,"Hoi_Wang_Road_near_West_Kowloon_Station_Bus_Terminus"]]
+window.data=[["no-duplicate",4,79,"duplicated image caption parameter","Hoi_Wang_Road_near_West_Kowloon_Station_Bus_Terminus"],["no-duplicate",4,138,"duplicated image caption parameter",""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",202,2,"[[Category:英語電視劇]]"]]
+window.data=[["no-duplicate",202,2,"duplicated category","[[Category:英語電視劇]]"],["no-duplicate",208,2,"duplicated category","[[Category:英語電視劇]]"]]

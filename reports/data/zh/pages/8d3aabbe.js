@@ -1,1 +1,1 @@
-window.data=[[5,"no-duplicate",939,2,"[[Category:TVBS| ]]"]]
+window.data=[["no-duplicate",939,2,"duplicated category","[[Category:TVBS| ]]"],["no-duplicate",949,2,"duplicated category","[[Category:TVBS| ]]"],["no-duplicate",959,2,"duplicated category","[[Category:TVBS| ]]"],["no-duplicate",969,2,"duplicated category","[[Category:TVBS| ]]"],["no-duplicate",984,2,"duplicated category","[[Category:TVBS| ]]"]]

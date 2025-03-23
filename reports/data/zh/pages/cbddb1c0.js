@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,62,"http://vignette2.wikia.nocookie.net/hk-rail/images/e/ea/LR_Network_Map_KX.png/revision/latest?cb=20100808070551&path-prefix=zh"]]
+window.data=[["no-duplicate",10,62,"duplicated image caption parameter","http://vignette2.wikia.nocookie.net/hk-rail/images/e/ea/LR_Network_Map_KX.png/revision/latest?cb=20100808070551&path-prefix=zh"],["no-duplicate",10,189,"duplicated image caption parameter","目前香港輕鐵路綫圖。"]]

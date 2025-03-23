@@ -1,0 +1,1 @@
+window.data=[["invalid-css",6,46,"semi-colon expected","center"],["invalid-css",6,34,"colon expected","航空的比奇"]]

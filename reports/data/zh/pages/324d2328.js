@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3,"area        = 62.7公頃\n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter","area        = 62.7公頃\n "],["no-duplicate",11,3,"duplicated parameter","area        = \n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",96,2,"[[Category:洛杉磯天使體育場]]"]]
+window.data=[["no-duplicate",96,2,"duplicated category","[[Category:洛杉磯天使體育場]]"],["no-duplicate",97,2,"duplicated category","[[Category:洛杉磯天使體育場]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,38,"right"]]
+window.data=[["no-duplicate",4,38,"conflicting image horizontal-alignment parameter","right"],["no-duplicate",4,70,"conflicting image horizontal-alignment parameter","居中"]]

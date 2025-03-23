@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",201,20,"]]"],[1,"no-ignored",201,4,"宁皇族（風族）|天宁皇族（風族）]] ||藤新"]]
+window.data=[["lonely-bracket",201,20,"lonely \"]\"","]]"],["no-ignored",201,4,"containing invalid attribute","宁皇族（風族）|天宁皇族（風族）]] ||藤新"]]

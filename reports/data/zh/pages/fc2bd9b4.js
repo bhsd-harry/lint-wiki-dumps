@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",41,2,"[[Category:2010年代動作片]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:2010年代動作片]]"],["no-duplicate",43,2,"duplicated category","[[Category:2010年代動作片]]"],["no-duplicate",42,2,"duplicated category","[[Category:馬來西亞動作片]]"],["no-duplicate",44,2,"duplicated category","[[Category:馬來西亞動作片]]"]]

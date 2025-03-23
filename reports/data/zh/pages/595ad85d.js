@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",138,2,"[[Category:韓國電視男演員]]"]]
+window.data=[["no-duplicate",138,2,"duplicated category","[[Category:韓國電視男演員]]"],["no-duplicate",139,2,"duplicated category","[[Category:韓國電視男演員]]"]]

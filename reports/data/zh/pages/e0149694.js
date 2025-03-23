@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",67,68,"thumb"]]
+window.data=[["no-duplicate",67,68,"duplicated image thumbnail parameter","thumb"],["no-duplicate",67,129,"duplicated image thumbnail parameter","thumb"],["no-duplicate",67,74,"duplicated image caption parameter","建设中的南龙铁路，Nan Long railway under construction, Aug 2017"],["no-duplicate",67,140,"duplicated image caption parameter","建设中的南龙铁路，此段靠近永安南站"]]

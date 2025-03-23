@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,50,"2024 INDIA Alliance Lok Sabha Seat Sharing"]]
+window.data=[["no-duplicate",32,50,"duplicated image caption parameter","2024 INDIA Alliance Lok Sabha Seat Sharing"],["no-duplicate",32,105,"duplicated image caption parameter","印度國家發展包容性聯盟候選人席次"]]

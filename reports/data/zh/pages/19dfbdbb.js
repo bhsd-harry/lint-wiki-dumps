@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",116,57,"font-size:85%"],[1,"pipe-like",169,13,"||週六 19:00||"]]
+window.data=[["no-ignored",116,57,"containing invalid attribute","font-size:85%"],["pipe-like",169,13,"additional \"|\" in a table cell","||週六 19:00||"]]

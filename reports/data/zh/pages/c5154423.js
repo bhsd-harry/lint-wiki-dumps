@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,3,"folded=\n "],[1,"unmatched-tag",31,133,"</br>"]]
+window.data=[["no-duplicate",16,3,"duplicated parameter","folded=\n "],["no-duplicate",19,3,"duplicated parameter","folded = 2019年\n "],["unmatched-tag",31,133,"tag that is both closing and self-closing","</br>"]]

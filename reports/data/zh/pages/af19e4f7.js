@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",130,71,"Border"]]
+window.data=[["no-duplicate",130,71,"duplicated image caption parameter","Border"],["no-duplicate",130,90,"duplicated image caption parameter","國務卿杜勒斯與美國總統艾森豪。"],["no-duplicate",144,64,"duplicated image caption parameter","Border"],["no-duplicate",144,123,"duplicated image caption parameter","{{link-en|伊希爾瑪雅人|Ixil people}}扛著被掘出的親人屍體，這些屍體都是[[瓜地馬拉內戰]]製造出來的。"]]

@@ -1,1 +1,1 @@
-window.data=[[10,"lonely-bracket",56,306,"{"]]
+window.data=[["lonely-bracket",56,306,"lonely \"{\"","{"],["lonely-bracket",56,308,"lonely \"}\"","}"],["lonely-bracket",59,63,"lonely \"{\"","{"],["lonely-bracket",59,66,"lonely \"}\"","}"],["lonely-bracket",61,157,"lonely \"{\"","{"],["lonely-bracket",61,160,"lonely \"}\"","}"],["lonely-bracket",63,58,"lonely \"{\"","{"],["lonely-bracket",63,60,"lonely \"}\"","}"],["lonely-bracket",77,80,"lonely \"{\"","{"],["lonely-bracket",77,82,"lonely \"}\"","}"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",57,2,"[[Category:明朝安慶府知府]]"]]
+window.data=[["no-duplicate",57,2,"duplicated category","[[Category:明朝安慶府知府]]"],["no-duplicate",58,2,"duplicated category","[[Category:明朝安慶府知府]]"]]

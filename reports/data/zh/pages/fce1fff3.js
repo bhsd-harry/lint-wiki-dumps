@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",74,64,"colspan"],[1,"invalid-gallery",61,31,"upright=1.5"],[2,"no-duplicate",74,24,"style=\"margin:0 auto;\""]]
+window.data=[["invalid-gallery",61,31,"invalid image parameter","upright=1.5"],["illegal-attr",74,64,"illegal attribute name","colspan"],["no-duplicate",74,24,"duplicated style attribute","style=\"margin:0 auto;\""],["no-duplicate",74,94,"duplicated style attribute","style=\"font-size: 80%; width: 100%;\""]]

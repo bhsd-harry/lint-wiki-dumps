@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",321,38,"[["],[1,"nested-link",312,69,"[[IMDb]]"]]
+window.data=[["nested-link",312,69,"internal link in an external link","[[IMDb]]"],["lonely-bracket",321,38,"lonely \"[\"","[["],["lonely-bracket",321,46,"lonely \"}\"","}}"]]

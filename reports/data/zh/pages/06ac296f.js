@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",1029,3,"KANTO"],[3,"no-ignored",1057,3,"신입 사원(?) 칸토의 브랜뉴뮤직 직원 체험기 "]]
+window.data=[["illegal-attr",1029,3,"illegal attribute name","KANTO"],["illegal-attr",1029,9,"illegal attribute name","COVER"],["no-ignored",1057,3,"containing invalid attribute","신입 사원(?) 칸토의 브랜뉴뮤직 직원 체험기 "],["no-ignored",1062,3,"containing invalid attribute","릴레이 롤러코스터🎢 댄스 예능 미리 체험기 "],["no-ignored",1067,3,"containing invalid attribute","마음만은 프로 바리스타! 칸토의 카페 아르바이트 체험기 "]]

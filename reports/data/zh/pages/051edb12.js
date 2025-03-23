@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",527,2,"[[Category:哆啦A夢電影作品]]"],[1,"no-ignored",71,22,"  text-align:center;\""]]
+window.data=[["no-ignored",71,22,"containing invalid attribute","  text-align:center;\""],["no-duplicate",527,2,"duplicated category","[[Category:哆啦A夢電影作品]]"],["no-duplicate",536,2,"duplicated category","[[Category:哆啦A夢電影作品]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",85,31,"thumb"],[1,"tag-like",98,427,"</ref"]]
+window.data=[["no-duplicate",85,31,"duplicated image thumbnail parameter","thumb"],["no-duplicate",85,43,"duplicated image thumbnail parameter","thumb"],["tag-like",98,427,"lonely \"<\"","</ref"]]

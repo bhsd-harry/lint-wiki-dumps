@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",4,3," birth_date = {{birth date and age|df=yes|1936|2|14}}\n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter"," birth_date = {{birth date and age|df=yes|1936|2|14}}\n "],["no-duplicate",18,3,"duplicated parameter"," birth_date   = {{birth date and age|df=y|1936|2|14}}\n "],["no-duplicate",5,3,"duplicated parameter"," birth_place = {{flag|French Equatorial Africa}}[[乌班吉沙立]][[班吉]] <small>(今{{CAF}})</small>\n "],["no-duplicate",19,3,"duplicated parameter"," birth_place  = {{flag|French Equatorial Africa}}[[乌班吉沙里]][[班吉]]\n "]]

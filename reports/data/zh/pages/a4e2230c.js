@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",1429,1," *歌曲名稱含有'''「」'''為日文歌曲"],[1,"lonely-bracket",1259,206,"]]"],[1,"no-ignored",266,26,"Mark、Jackson缺席"]]
+window.data=[["no-ignored",266,26,"containing invalid attribute","Mark、Jackson缺席"],["lonely-bracket",1259,206,"lonely \"]\"","]]"],["fostered-content",1429,1,"content to be moved out from the table"," *歌曲名稱含有'''「」'''為日文歌曲"]]

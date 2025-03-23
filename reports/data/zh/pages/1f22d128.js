@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,58,"八幡濱市"]]
+window.data=[["no-duplicate",29,58,"duplicated image caption parameter","八幡濱市"],["no-duplicate",29,63,"duplicated image caption parameter","八幡濱市位置圖"]]

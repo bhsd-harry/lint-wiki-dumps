@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,38,"Pedestal"]]
+window.data=[["no-duplicate",37,38,"duplicated image caption parameter","Pedestal"],["no-duplicate",37,47,"duplicated image caption parameter","位于[[欧克西亚沼区]]的底座形陨坑和山脊，靠近图片顶部的平顶山脊曾经是一条倒转河流，底座形陨坑坐落在山脊上，因此它更年轻。"]]

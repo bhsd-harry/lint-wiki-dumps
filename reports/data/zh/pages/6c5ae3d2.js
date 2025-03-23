@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,43,"Right"]]
+window.data=[["no-duplicate",65,43,"duplicated image caption parameter","Right"],["no-duplicate",65,49,"duplicated image caption parameter","電影《[[蝙蝠俠：開戰時刻]]》中的稻草人，由[[基利安·墨菲]]飾演"]]

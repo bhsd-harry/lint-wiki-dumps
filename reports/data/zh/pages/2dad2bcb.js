@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",127,2,"[[Category:巴比倫尼亞]]"]]
+window.data=[["no-duplicate",127,2,"duplicated category","[[Category:巴比倫尼亞]]"],["no-duplicate",130,2,"duplicated category","[[Category:巴比倫尼亞]]"]]

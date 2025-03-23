@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",33,73,"[[辛辛那提大師賽|2013年西南銀行公開賽]]"]]
+window.data=[["nested-link",33,73,"internal link in an external link","[[辛辛那提大師賽|2013年西南銀行公開賽]]"],["nested-link",143,53,"internal link in an external link","[[辛辛那提大師賽|2013年西南銀行公開賽]]"]]

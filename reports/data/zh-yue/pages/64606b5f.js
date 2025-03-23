@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,49,"duplicated image caption parameter","Right"]]
+window.data=[["no-duplicate",2,49,"duplicated image caption parameter","Right"],["no-duplicate",2,61,"duplicated image caption parameter","呢個銅像表面布滿銅綠"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",663,2,"[[Category:國立臺灣藝術大學校友|W吳]]"]]
+window.data=[["no-duplicate",663,2,"duplicated category","[[Category:國立臺灣藝術大學校友|W吳]]"],["no-duplicate",666,2,"duplicated category","[[Category:國立臺灣藝術大學校友|W吳]]"]]

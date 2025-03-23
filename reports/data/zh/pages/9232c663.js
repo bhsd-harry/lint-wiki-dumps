@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",39,55,"Gaafar_Nimeiry_and_Sadiq_al-Mahdi_in_1976 "]]
+window.data=[["no-duplicate",39,55,"duplicated image caption parameter","Gaafar_Nimeiry_and_Sadiq_al-Mahdi_in_1976 "],["no-duplicate",39,104,"duplicated image caption parameter","和解后的尼迈里和叛军领袖马赫迪，1976年"]]

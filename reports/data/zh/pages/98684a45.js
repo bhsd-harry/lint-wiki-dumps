@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",70,2,"[[Category:中华人民共和国边海防]]"]]
+window.data=[["no-duplicate",70,2,"duplicated category","[[Category:中华人民共和国边海防]]"],["no-duplicate",73,2,"duplicated category","[[Category:中华人民共和国边海防]]"]]

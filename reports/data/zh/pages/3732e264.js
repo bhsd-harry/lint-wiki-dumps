@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,34,"tㄍhumb"]]
+window.data=[["no-duplicate",5,34,"duplicated image caption parameter","tㄍhumb"],["no-duplicate",5,47,"duplicated image caption parameter","單[[原子]][[氣體]]的溫度和它的原子移動時帶有的[[动能]]有密切關係"]]

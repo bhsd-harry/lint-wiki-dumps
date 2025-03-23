@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,3,"elevation_ft             = 755\n "]]
+window.data=[["no-duplicate",25,3,"duplicated parameter","elevation_ft             = 755\n "],["no-duplicate",34,3,"duplicated parameter","elevation_ft             = 755\n "]]

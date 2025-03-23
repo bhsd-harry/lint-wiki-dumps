@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,3," 上下車人次 = 48,950<!--京都市統計書-->\n "]]
+window.data=[["no-duplicate",19,3,"duplicated parameter"," 上下車人次 = 48,950<!--京都市統計書-->\n "],["no-duplicate",20,3,"duplicated parameter"," 上下車人次 = （通年平均）78,595<!--阪急駅別乗降人員（上位50位）-->\n "]]

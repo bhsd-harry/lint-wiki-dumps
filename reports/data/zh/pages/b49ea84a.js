@@ -1,1 +1,1 @@
-window.data=[[2,"invalid-gallery",192,23,"thumb"]]
+window.data=[["invalid-gallery",192,23,"invalid image parameter","thumb"],["invalid-gallery",193,23,"invalid image parameter","thumb"],["invalid-css",260,59,"semi-colon expected",""],["invalid-css",260,56,"colon expected","4px"],["invalid-css",262,59,"semi-colon expected",""],["invalid-css",262,56,"colon expected","4px"],["invalid-css",568,59,"semi-colon expected",""],["invalid-css",568,56,"colon expected","4px"],["invalid-css",570,59,"semi-colon expected",""],["invalid-css",570,56,"colon expected","4px"]]

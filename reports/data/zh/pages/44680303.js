@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",258,1,"\n == 各項數據排行 ==\n\n === 野手 ===\n\n {{col-begin}}\n {{col-3}}\n\n '''打擊率'''"],[1,"unclosed-table",257,2,"{|"]]
+window.data=[["fostered-content",258,1,"content to be moved out from the table","\n == 各項數據排行 ==\n\n === 野手 ===\n\n {{col-begin}}\n {{col-3}}\n\n '''打擊率'''"],["unclosed-table",257,2,"unclosed table","{|"]]

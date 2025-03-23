@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",28,1,"\n ===运动奖牌榜==="]]
+window.data=[["fostered-content",28,1,"content to be moved out from the table","\n ===运动奖牌榜==="]]

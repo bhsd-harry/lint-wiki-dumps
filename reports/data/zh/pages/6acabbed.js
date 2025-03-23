@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3,"3=zh-cn:骗子; zh-tw:詐騙;\n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter","3=zh-cn:骗子; zh-tw:詐騙;\n "],["no-duplicate",8,3,"duplicated parameter","3=zh-cn:诈骗; zh-tw:詐騙;\n "]]

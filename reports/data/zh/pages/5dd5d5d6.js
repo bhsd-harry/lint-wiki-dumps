@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",35,4,"width"],[2,"no-duplicate",35,4,"width=\"200\""]]
+window.data=[["illegal-attr",35,4,"illegal attribute name","width"],["illegal-attr",35,21,"illegal attribute name","width"],["no-duplicate",35,4,"duplicated width attribute","width=\"200\""],["no-duplicate",35,21,"duplicated width attribute","width=\"200\""]]

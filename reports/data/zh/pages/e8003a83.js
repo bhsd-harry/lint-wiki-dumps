@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",979,2,"[[Category:超級戰隊系列| ]]"]]
+window.data=[["no-duplicate",979,2,"duplicated category","[[Category:超級戰隊系列| ]]"],["no-duplicate",995,2,"duplicated category","[[Category:超級戰隊系列]]"]]

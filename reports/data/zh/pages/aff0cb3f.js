@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",227,2,"[[Category:英國報復題材電影]]"]]
+window.data=[["no-duplicate",227,2,"duplicated category","[[Category:英國報復題材電影]]"],["no-duplicate",229,2,"duplicated category","[[Category:英國報復題材電影]]"]]

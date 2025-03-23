@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3," title=（美）比米斯（Bemis，S.F.）"]]
+window.data=[["no-duplicate",8,3,"duplicated parameter"," title=（美）比米斯（Bemis，S.F.）"],["no-duplicate",9,3,"duplicated parameter"," title = 美国外交史 "]]

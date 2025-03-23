@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",52,3,"duplicated parameter"," 國內生產總值估計年份 = 2021\n "]]
+window.data=[["no-duplicate",52,3,"duplicated parameter"," 國內生產總值估計年份 = 2021\n "],["no-duplicate",57,3,"duplicated parameter"," 國內生產總值估計年份 = 2024年\n "]]

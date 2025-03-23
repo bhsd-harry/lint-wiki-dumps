@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",346,183,"title=Anarchistes"]]
+window.data=[["no-duplicate",346,183,"duplicated parameter","title=Anarchistes"],["no-duplicate",346,201,"duplicated parameter","title=Robert Mencherini"]]

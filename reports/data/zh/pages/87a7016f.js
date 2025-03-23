@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",52,2,"[[Category:大气|Category:Atmosphere]]"]]
+window.data=[["no-duplicate",52,2,"duplicated category","[[Category:大气|Category:Atmosphere]]"],["no-duplicate",55,2,"duplicated category","[[Category:大气|Category:Atmosphere]]"],["no-duplicate",57,2,"duplicated category","[[Category:声学|Category:Acoustics]]"],["no-duplicate",58,2,"duplicated category","[[Category:声学|Category:Acoustics]]"]]

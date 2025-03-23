@@ -1,1 +1,1 @@
-window.data=[[3,"invalid-gallery",204,31,"thumb"],[1,"invalid-isbn",274,56,"ISBN 9578506674"]]
+window.data=[["invalid-gallery",204,31,"invalid image parameter","thumb"],["invalid-gallery",205,69,"invalid image parameter","thumb"],["invalid-gallery",236,34,"invalid image parameter","thumb"],["invalid-isbn",274,56,"invalid ISBN","ISBN 9578506674"]]

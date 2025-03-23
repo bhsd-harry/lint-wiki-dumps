@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",111,2,"[[Category:已解散的男子演唱團體]]"]]
+window.data=[["no-duplicate",111,2,"duplicated category","[[Category:已解散的男子演唱團體]]"],["no-duplicate",113,2,"duplicated category","[[Category:已解散的男子演唱團體]]"]]

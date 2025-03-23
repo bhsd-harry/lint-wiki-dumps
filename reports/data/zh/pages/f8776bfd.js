@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",105,14,"of"],[2,"no-ignored",105,3,"《Guardians "]]
+window.data=[["illegal-attr",105,14,"illegal attribute name","of"],["illegal-attr",105,17,"illegal attribute name","the"],["illegal-attr",105,21,"illegal attribute name","Galaxy"],["no-ignored",105,3,"containing invalid attribute","《Guardians "],["no-ignored",105,27,"containing invalid attribute"," (2008 team)"]]

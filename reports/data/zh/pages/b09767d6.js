@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",143,2,"[[Category:澳大利亚海军舰艇]]"]]
+window.data=[["no-duplicate",143,2,"duplicated category","[[Category:澳大利亚海军舰艇]]"],["no-duplicate",156,2,"duplicated category","[[Category:澳大利亚海军舰艇]]"]]

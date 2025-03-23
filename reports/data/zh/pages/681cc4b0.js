@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",67,46,"Napoli catcher for the Rangers in {{Mlby|2011}}.right"]]
+window.data=[["no-duplicate",67,46,"duplicated image caption parameter","Napoli catcher for the Rangers in {{Mlby|2011}}.right"],["no-duplicate",67,100,"duplicated image caption parameter","麥克·拿坡里 2011年在[[德州遊騎兵]]打撃照"],["no-duplicate",68,53,"duplicated image caption parameter","Napoli catcher for the Rangers in {{Mlby|2012}}.right"],["no-duplicate",68,107,"duplicated image caption parameter","麥克·拿坡里 2012年在[[德州遊騎兵]][[捕手]]照"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,2,"[[Category:百度人物]]"]]
+window.data=[["no-duplicate",22,2,"duplicated category","[[Category:百度人物]]"],["no-duplicate",25,2,"duplicated category","[[Category:百度人物]]"]]

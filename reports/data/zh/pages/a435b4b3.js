@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",278,876,"{{"],[2,"no-duplicate",278,852,"name=\"1985-k-28\""],[1,"no-ignored",278,868,"/，先頭部新安装{{tsl|ja|信号炎管||信号发射管}}<ref "],[1,"tag-like",278,898,"<ref"]]
+window.data=[["lonely-bracket",278,876,"lonely \"{\"","{{"],["lonely-bracket",278,896,"lonely \"}\"","}}"],["tag-like",278,898,"lonely \"<\"","<ref"],["no-ignored",278,868,"containing invalid attribute","/，先頭部新安装{{tsl|ja|信号炎管||信号发射管}}<ref "],["no-duplicate",278,852,"duplicated name attribute","name=\"1985-k-28\""],["no-duplicate",278,903,"duplicated name attribute","name=\"1985-k-28\""]]

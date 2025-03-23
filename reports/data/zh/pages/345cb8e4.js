@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",102,50,"line-height:125%;\""]]
+window.data=[["no-ignored",102,50,"containing invalid attribute","line-height:125%;\""],["no-ignored",114,47,"containing invalid attribute","line-height:125%;\""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",252,2,"[[Category:中国已解散足球俱乐部]]"],[1,"no-ignored",166,3,"!width=40%"]]
+window.data=[["no-ignored",166,3,"containing invalid attribute","!width=40%"],["no-duplicate",252,2,"duplicated category","[[Category:中国已解散足球俱乐部]]"],["no-duplicate",255,2,"duplicated category","[[Category:中国已解散足球俱乐部]]"]]

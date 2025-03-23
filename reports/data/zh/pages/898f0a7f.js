@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,2,"[[Category:匈牙利男子击剑运动员]]"]]
+window.data=[["no-duplicate",13,2,"duplicated category","[[Category:匈牙利男子击剑运动员]]"],["no-duplicate",14,2,"duplicated category","[[Category:匈牙利男子击剑运动员]]"]]

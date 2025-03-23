@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3,"接替者=[[中华人民共和国国家安全部]]\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","接替者=[[中华人民共和国国家安全部]]\n "],["no-duplicate",13,3,"duplicated parameter","接替者=[[中华人民共和国国家安全部]]\n "]]

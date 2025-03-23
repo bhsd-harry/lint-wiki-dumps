@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",34,2,"[[Category:朝鮮語姓氏|L廉]]"]]
+window.data=[["no-duplicate",34,2,"duplicated category","[[Category:朝鮮語姓氏|L廉]]"],["no-duplicate",35,2,"duplicated category","[[Category:朝鮮語姓氏|L廉]]"]]

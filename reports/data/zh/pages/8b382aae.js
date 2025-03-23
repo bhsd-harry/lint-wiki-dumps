@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",328,31,"style=font-size:85%"]]
+window.data=[["no-duplicate",328,31,"duplicated style attribute","style=font-size:85%"],["no-duplicate",328,52,"duplicated style attribute","style=text-align:center"],["no-duplicate",873,31,"duplicated style attribute","style=font-size:85%"],["no-duplicate",873,52,"duplicated style attribute","style=text-align:center"]]

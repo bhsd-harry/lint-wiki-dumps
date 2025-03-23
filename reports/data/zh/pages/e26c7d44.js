@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",39,2,"[[Category:郟縣人]]"]]
+window.data=[["no-duplicate",39,2,"duplicated category","[[Category:郟縣人]]"],["no-duplicate",44,2,"duplicated category","[[Category:郟縣人]]"],["no-duplicate",41,2,"duplicated category","[[Category:中華人民共和國教育家]]"],["no-duplicate",45,2,"duplicated category","[[Category:中華人民共和國教育家]]"]]

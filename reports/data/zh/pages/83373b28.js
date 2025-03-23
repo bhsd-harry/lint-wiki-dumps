@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",367,4,"hu"],[1,"no-ignored",1273,173," name\"new quarantine\""]]
+window.data=[["illegal-attr",367,4,"illegal attribute name","hu"],["no-ignored",1273,173,"containing invalid attribute"," name\"new quarantine\""]]

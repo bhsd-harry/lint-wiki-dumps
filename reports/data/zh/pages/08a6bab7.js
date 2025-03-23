@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",67,2,"[[Category:原蜥腳下目|L]]"]]
+window.data=[["no-duplicate",67,2,"duplicated category","[[Category:原蜥腳下目|L]]"],["no-duplicate",68,2,"duplicated category","[[Category:原蜥腳下目|*]]"]]

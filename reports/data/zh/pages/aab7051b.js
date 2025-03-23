@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",48,23,"al=Panaturan 1992"]]
+window.data=[["no-duplicate",48,23,"duplicated image caption parameter","al=Panaturan 1992"],["no-duplicate",48,52,"duplicated image caption parameter","卡哈林干經書 - {{link-id|帕納圖藍|Panaturan}}（1992年）"]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",14,3," office1 = [[第6届俄罗斯国家杜马]]议员\n "]]
+window.data=[["no-duplicate",14,3,"duplicated parameter"," office1 = [[第6届俄罗斯国家杜马]]议员\n "],["no-duplicate",18,3,"duplicated parameter"," office1 = [[俄罗斯联邦公众院]]议员\n "],["no-duplicate",15,3,"duplicated parameter"," term_start1 = 2011年12月21日\n "],["no-duplicate",19,3,"duplicated parameter"," term_start1 = 2006年\n "],["no-duplicate",16,3,"duplicated parameter"," term_end1 = 2016年10月5日\n "],["no-duplicate",20,3,"duplicated parameter"," term_end1 = 2011年\n "]]

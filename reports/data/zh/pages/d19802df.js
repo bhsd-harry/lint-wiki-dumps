@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",145,38,"border=\"1\""],[3,"unmatched-tag",29,29,"</small>"]]
+window.data=[["unmatched-tag",29,29,"unmatched closing tag","</small>"],["unmatched-tag",29,54,"unmatched closing tag","</small>"],["unmatched-tag",29,81,"unmatched closing tag","</small>"],["no-duplicate",145,38,"duplicated border attribute","border=\"1\""],["no-duplicate",145,50,"duplicated border attribute","border=\"1\""]]

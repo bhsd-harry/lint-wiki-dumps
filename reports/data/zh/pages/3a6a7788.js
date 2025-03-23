@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",5,26,"496kbpx"]]
+window.data=[["no-duplicate",5,26,"duplicated image caption parameter","496kbpx"],["no-duplicate",5,40,"duplicated image caption parameter","金銀業貿易場"],["no-duplicate",6,67,"duplicated image caption parameter","6.2MBpx"],["no-duplicate",6,81,"duplicated image caption parameter","公開喊價買賣"]]

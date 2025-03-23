@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",106,2,"[[Category:福州案件]]"]]
+window.data=[["no-duplicate",106,2,"duplicated category","[[Category:福州案件]]"],["no-duplicate",108,2,"duplicated category","[[Category:福州案件]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,41,"miniaturadeimagen"]]
+window.data=[["no-duplicate",2,41,"duplicated image caption parameter","miniaturadeimagen"],["no-duplicate",2,71,"duplicated image caption parameter","摩洛哥四大皇城位置圖"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,32,"style=\"text-align:center;\""]]
+window.data=[["invalid-css",10,91,"property value expected","#f"],["no-duplicate",10,32,"duplicated style attribute","style=\"text-align:center;\""],["no-duplicate",10,73,"duplicated style attribute","style=\"background:#f;\""]]

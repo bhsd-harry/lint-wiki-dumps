@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",257,648,"["],[2,"no-duplicate",410,2,"[[Category:臺灣網路節目主持人|K林]]"]]
+window.data=[["lonely-bracket",257,648,"lonely \"[\"","["],["lonely-bracket",257,651,"lonely \"]\"","]"],["no-duplicate",410,2,"duplicated category","[[Category:臺灣網路節目主持人|K林]]"],["no-duplicate",416,2,"duplicated category","[[Category:臺灣網路節目主持人|K林]]"]]

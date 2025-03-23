@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",73,24,"width"],[2,"no-duplicate",72,5,"class=\"wikitable\""]]
+window.data=[["no-duplicate",72,5,"duplicated class attribute","class=\"wikitable\""],["no-duplicate",72,28,"duplicated class attribute","class=\"wikitable\""],["illegal-attr",73,24,"illegal attribute name","width"]]

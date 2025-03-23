@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,441,"duplicated parameter","language=ja"]]
+window.data=[["no-duplicate",1,441,"duplicated parameter","language=ja"],["no-duplicate",1,616,"duplicated parameter","language=ja"]]

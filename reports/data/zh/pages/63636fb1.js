@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",56,72,"200pt"]]
+window.data=[["no-duplicate",56,72,"duplicated image caption parameter","200pt"],["no-duplicate",56,78,"duplicated image caption parameter","日本大學藝術學部大樓"],["no-duplicate",64,46,"duplicated image caption parameter","200pt"],["no-duplicate",64,52,"duplicated image caption parameter","落語表演"]]

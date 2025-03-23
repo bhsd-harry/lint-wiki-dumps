@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",158,2,"[[Category:行星]]"]]
+window.data=[["no-duplicate",158,2,"duplicated category","[[Category:行星]]"],["no-duplicate",161,2,"duplicated category","[[Category:行星]]"]]

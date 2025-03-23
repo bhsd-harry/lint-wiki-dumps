@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",62,7,"style=\"-moz-column-width:2; column-width:2;\""]]
+window.data=[["no-duplicate",62,7,"duplicated style attribute","style=\"-moz-column-width:2; column-width:2;\""],["no-duplicate",62,55,"duplicated style attribute","style=\"-moz-column-count:2; column-count:2;\""]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",44,2,"[[Category:王姓]]"]]
+window.data=[["no-duplicate",44,2,"duplicated category","[[Category:王姓]]"],["no-duplicate",49,2,"duplicated category","[[Category:王姓]]"],["no-duplicate",46,2,"duplicated category","[[Category:第18屆雲林縣議員]]"],["no-duplicate",52,2,"duplicated category","[[Category:第18屆雲林縣議員]]"],["no-duplicate",54,2,"duplicated category","[[Category:臺灣反同性婚姻人士]]"],["no-duplicate",55,2,"duplicated category","[[Category:臺灣反同性婚姻人士]]"]]

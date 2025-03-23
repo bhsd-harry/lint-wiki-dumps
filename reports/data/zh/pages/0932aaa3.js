@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",123,2,"[[Category:標度|K]]"]]
+window.data=[["no-duplicate",123,2,"duplicated category","[[Category:標度|K]]"],["no-duplicate",129,2,"duplicated category","[[Category:標度|K]]"]]

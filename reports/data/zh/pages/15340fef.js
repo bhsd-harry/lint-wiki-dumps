@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",388,2,"[[Category:最佳利益|3]]"]]
+window.data=[["no-duplicate",388,2,"duplicated category","[[Category:最佳利益|3]]"],["no-duplicate",391,2,"duplicated category","[[Category:最佳利益]]"]]

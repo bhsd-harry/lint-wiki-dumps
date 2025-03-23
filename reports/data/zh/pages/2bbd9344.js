@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",106,106,"[[Орфей (радиостанция)|радио «Орфей»]]"]]
+window.data=[["nested-link",106,106,"internal link in an external link","[[Орфей (радиостанция)|радио «Орфей»]]"]]

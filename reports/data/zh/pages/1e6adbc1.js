@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,2,"[[Category:梅鲷属|黄梅鲷]]"]]
+window.data=[["no-duplicate",20,2,"duplicated category","[[Category:梅鲷属|黄梅鲷]]"],["no-duplicate",21,2,"duplicated category","[[Category:梅鲷属|erythrogaster]]"]]

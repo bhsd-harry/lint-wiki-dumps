@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",38,37,"thumb"],[5,"no-ignored",49,40,"."]]
+window.data=[["invalid-gallery",38,37,"invalid image parameter","thumb"],["no-ignored",49,40,"invalid content in <gallery>","."],["no-ignored",63,40,"invalid content in <gallery>","."],["no-ignored",91,40,"invalid content in <gallery>","."],["no-ignored",110,40,"invalid content in <gallery>","."],["no-ignored",153,40,"invalid content in <gallery>","."]]

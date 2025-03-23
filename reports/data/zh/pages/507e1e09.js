@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",130,130,"[[University of Pennsylvania Law Review#History|American Law Register]]"]]
+window.data=[["nested-link",130,130,"internal link in an external link","[[University of Pennsylvania Law Review#History|American Law Register]]"]]

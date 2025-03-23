@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,3,"subdivision_type=Country\n "]]
+window.data=[["no-duplicate",17,3,"duplicated parameter","subdivision_type=Country\n "],["no-duplicate",19,3,"duplicated parameter"," subdivision_type   = 國家\n "]]

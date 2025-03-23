@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,95,"Right"]]
+window.data=[["no-duplicate",33,95,"duplicated image caption parameter","Right"],["no-duplicate",33,101,"duplicated image caption parameter","京基100和其他亚洲高楼比较。"]]

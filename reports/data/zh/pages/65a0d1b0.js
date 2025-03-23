@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",190,2,"[[Category:现代主义作家]]"]]
+window.data=[["no-duplicate",190,2,"duplicated category","[[Category:现代主义作家]]"],["no-duplicate",195,2,"duplicated category","[[Category:现代主义作家]]"]]

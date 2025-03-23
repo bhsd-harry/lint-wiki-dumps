@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",27,3,"s3 =老挝王国{{!}}{{nowrap|<small>老挝王国</small>}}\n "]]
+window.data=[["no-duplicate",27,3,"duplicated parameter","s3 =老挝王国{{!}}{{nowrap|<small>老挝王国</small>}}\n "],["no-duplicate",29,3,"duplicated parameter","s3 = 越南国{{!}}{{nowrap|<small>越南国</small>}}\n "],["no-duplicate",28,3,"duplicated parameter","flag_s3 = Flag of Laos (1952–1975).svg\n "],["no-duplicate",30,3,"duplicated parameter","flag_s3 = Flag of South Vietnam.svg\n "]]

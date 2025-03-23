@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",215,1," 300系列車編組表"],[1,"no-ignored",319,70,"  ;style=\"font-size: 90%\" "]]
+window.data=[["fostered-content",215,1,"content to be moved out from the table"," 300系列車編組表"],["no-ignored",319,70,"containing invalid attribute","  ;style=\"font-size: 90%\" "]]

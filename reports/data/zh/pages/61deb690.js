@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",837,2,"[[Category:比利时大奖赛]]"]]
+window.data=[["no-duplicate",837,2,"duplicated category","[[Category:比利时大奖赛]]"],["no-duplicate",839,2,"duplicated category","[[Category:比利时大奖赛]]"],["no-duplicate",838,2,"duplicated category","[[Category:2024年比利时体育]]"],["no-duplicate",840,2,"duplicated category","[[Category:2024年比利时体育]]"]]

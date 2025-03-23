@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",81,2,"[[Category:日本眾議院議員 (1976年—1979年)]]"]]
+window.data=[["no-duplicate",81,2,"duplicated category","[[Category:日本眾議院議員 (1976年—1979年)]]"],["no-duplicate",82,2,"duplicated category","[[Category:日本眾議院議員 (1976年—1979年)]]"]]

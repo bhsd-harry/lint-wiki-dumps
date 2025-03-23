@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,46,"Right"]]
+window.data=[["no-duplicate",18,46,"duplicated image caption parameter","Right"],["no-duplicate",18,52,"duplicated image caption parameter","國父紀念館"]]

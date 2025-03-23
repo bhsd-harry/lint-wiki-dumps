@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,137," publisher=Nouvelles Editions Africaines "]]
+window.data=[["no-duplicate",23,137,"duplicated parameter"," publisher=Nouvelles Editions Africaines "],["no-duplicate",23,188,"duplicated parameter"," publisher=Mouton "]]

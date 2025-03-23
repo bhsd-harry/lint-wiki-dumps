@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",81,46,"Right"]]
+window.data=[["no-duplicate",81,46,"duplicated image caption parameter","Right"],["no-duplicate",81,52,"duplicated image caption parameter","非洲黑奴贸易主要区域，15-19世纪"],["no-duplicate",110,38,"duplicated image width parameter","200px"],["no-duplicate",110,50,"duplicated image width parameter","180px"]]

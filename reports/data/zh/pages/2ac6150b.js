@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",217,98,"comment=[[百色绕城高速]]<br/>{{中国国道名|212}}"]]
+window.data=[["no-duplicate",217,98,"duplicated parameter","comment=[[百色绕城高速]]<br/>{{中国国道名|212}}"],["no-duplicate",217,135,"duplicated parameter","comment=与[[百色绕城高速]]共线段起点"],["no-duplicate",221,125,"duplicated parameter","comment=与{{China Expwy Name|G69}}共线段终点"],["no-duplicate",221,164,"duplicated parameter","comment="]]

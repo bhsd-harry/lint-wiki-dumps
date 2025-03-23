@@ -1,1 +1,1 @@
-window.data=[[2,"invalid-css",34,71,"semi-colon expected",""],[4,"no-duplicate",23,41,"duplicated image caption parameter","右"]]
+window.data=[["no-duplicate",23,41,"duplicated image caption parameter","右"],["no-duplicate",23,49,"duplicated image caption parameter","倫敦地下鐵收費區嘅實際地理路綫圖"],["invalid-css",34,71,"semi-colon expected",""],["invalid-css",34,64,"colon expected","size"],["no-duplicate",34,5,"duplicated style attribute","style=\"margin:inherit; padding-bottom:0.25em\""],["no-duplicate",34,52,"duplicated style attribute","style=\"font size=95\""]]

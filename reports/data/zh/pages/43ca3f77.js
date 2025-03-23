@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",567,60," ARWU_W_ENG_year = 2024\n "],[1,"no-ignored",917,49,"  | 香港大學學位 |-|"]]
+window.data=[["no-duplicate",567,60,"duplicated parameter"," ARWU_W_ENG_year = 2024\n "],["no-duplicate",568,61,"duplicated parameter"," ARWU_W_ENG_year = 2024\n "],["no-ignored",917,49,"containing invalid attribute","  | 香港大學學位 |-|"]]

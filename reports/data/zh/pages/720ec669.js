@@ -1,1 +1,1 @@
-window.data=[[2,"invalid-gallery",263,27,"thumb"],[1,"lonely-bracket",165,288,"["],[2,"no-duplicate",222,32,"left"]]
+window.data=[["lonely-bracket",165,288,"lonely \"[\"","["],["no-duplicate",222,32,"conflicting image horizontal-alignment parameter","left"],["no-duplicate",222,37,"conflicting image horizontal-alignment parameter","右"],["invalid-gallery",263,27,"invalid image parameter","thumb"],["invalid-gallery",264,21,"invalid image parameter","thumb"]]

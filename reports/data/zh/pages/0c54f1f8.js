@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,54,"upright="]]
+window.data=[["no-duplicate",26,54,"duplicated image caption parameter","upright="],["no-duplicate",26,63,"duplicated image caption parameter","[[奥斯曼帝国]]驱逐亚美尼亚人后，路边随处可见亚美尼亚人尸体{{sfn|Akçam|2018|p=158}}"]]

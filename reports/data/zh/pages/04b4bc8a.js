@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",47,4,"nowrap"],[2,"no-ignored",14,104,"萬國博览会"]]
+window.data=[["no-ignored",14,104,"invalid conversion flag","萬國博览会"],["no-ignored",14,169,"invalid conversion flag","萬博"],["illegal-attr",47,4,"illegal attribute name","nowrap"]]

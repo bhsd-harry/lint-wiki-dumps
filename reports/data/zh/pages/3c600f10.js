@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",5,31,"  |+ 中华人民共和国境内NDB导航台"]]
+window.data=[["no-ignored",5,31,"containing invalid attribute","  |+ 中华人民共和国境内NDB导航台"],["no-ignored",152,31,"containing invalid attribute","  |+ 中华人民共和国境内VOR导航台"]]

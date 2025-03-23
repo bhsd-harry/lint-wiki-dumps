@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",126,1," <div style=\"-moz-column-count:2; column-count:2;\">"],[2,"unmatched-tag",132,2,"</div>"]]
+window.data=[["unmatched-tag",132,2,"unmatched closing tag","</div>"],["unmatched-tag",137,2,"unmatched closing tag","</div>"],["fostered-content",126,1,"content to be moved out from the table"," <div style=\"-moz-column-count:2; column-count:2;\">"]]

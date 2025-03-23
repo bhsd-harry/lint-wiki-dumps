@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",385,14,"duplicated parameter","author=府川充男"]]
+window.data=[["no-duplicate",385,14,"duplicated parameter","author=府川充男"],["no-duplicate",385,42,"duplicated parameter","author=[[小池和夫]]"]]

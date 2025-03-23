@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,22,"H[[火星勘测轨道飞行器]]背景相机拍摄的哈德利陨击坑。File:Wikihadleydunes.jpg"]]
+window.data=[["no-duplicate",18,22,"duplicated image caption parameter","H[[火星勘测轨道飞行器]]背景相机拍摄的哈德利陨击坑。File:Wikihadleydunes.jpg"],["no-duplicate",18,75,"duplicated image caption parameter","[[火星勘测轨道飞行器]]背景相机显示的坑底沙丘，注：这是前一幅图像的放大版。"]]

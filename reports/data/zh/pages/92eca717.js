@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",100,5,"Palace"],[2,"no-duplicate",37,5,"class=\"wikitable\""],[1,"no-ignored",100,11," Theatre, "]]
+window.data=[["no-duplicate",37,5,"duplicated class attribute","class=\"wikitable\""],["no-duplicate",37,24,"duplicated class attribute","class=\"sortable wikitable\""],["illegal-attr",100,5,"illegal attribute name","Palace"],["illegal-attr",100,21,"illegal attribute name","New"],["illegal-attr",100,25,"illegal attribute name","York"],["no-ignored",100,11,"containing invalid attribute"," Theatre, "]]

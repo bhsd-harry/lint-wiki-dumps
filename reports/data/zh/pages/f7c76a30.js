@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",124,39,"缩略图"],[1,"parsing-order",8,28,"<br>"]]
+window.data=[["parsing-order",8,28,"HTML tag in table attributes","<br>"],["invalid-gallery",124,39,"invalid image parameter","缩略图"]]

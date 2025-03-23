@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,76,"title=奎澤石頭記"]]
+window.data=[["no-duplicate",13,76,"duplicated parameter","title=奎澤石頭記"],["no-duplicate",13,88,"duplicated parameter","title=人文蹤跡 "]]

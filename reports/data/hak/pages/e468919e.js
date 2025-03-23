@@ -1,1 +1,1 @@
-window.data=[[1,"unclosed-table",158,2,"unclosed table","{|"],[1,"unmatched-tag",166,392,"tag that is both closing and self-closing","</br>"]]
+window.data=[["unmatched-tag",166,392,"tag that is both closing and self-closing","</br>"],["unclosed-table",158,2,"unclosed table","{|"]]

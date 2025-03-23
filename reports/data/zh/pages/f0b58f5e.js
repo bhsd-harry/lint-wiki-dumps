@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",190,4,"D"],[2,"no-duplicate",42,5,"class=\"wikitable\""],[1,"no-ignored",217,4,"|哈哈蛇"]]
+window.data=[["no-duplicate",42,5,"duplicated class attribute","class=\"wikitable\""],["no-duplicate",42,28,"duplicated class attribute","class=\"wikitable\""],["illegal-attr",190,4,"illegal attribute name","D"],["no-ignored",217,4,"containing invalid attribute","|哈哈蛇"]]

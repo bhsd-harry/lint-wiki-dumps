@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",68,3,"2021"]]
+window.data=[["illegal-attr",68,3,"illegal attribute name","2021"],["illegal-attr",68,8,"illegal attribute name","10"],["illegal-attr",68,11,"illegal attribute name","22"],["invalid-css",960,34,"{ expected",";"],["invalid-css",978,34,"{ expected",";"]]

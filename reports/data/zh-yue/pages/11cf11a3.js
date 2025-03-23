@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",67,29,"duplicated image caption parameter","miniatura"]]
+window.data=[["no-duplicate",67,29,"duplicated image caption parameter","miniatura"],["no-duplicate",67,39,"duplicated image caption parameter","伽倻聯盟嘅鐵製頭盔，{{segle|V|s}}"],["no-duplicate",102,31,"duplicated image caption parameter","miniatura"],["no-duplicate",102,54,"duplicated image caption parameter","公元前1000年嘅世界。啲實行鐵冶金嘅地方用紅線劃，生產銅合金嘅地方用粉紅色劃。"]]

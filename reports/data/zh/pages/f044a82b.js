@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",19,4,"valign"],[1,"no-ignored",20,12,"  \"unsortable\""]]
+window.data=[["illegal-attr",19,4,"illegal attribute name","valign"],["no-ignored",20,12,"containing invalid attribute","  \"unsortable\""]]

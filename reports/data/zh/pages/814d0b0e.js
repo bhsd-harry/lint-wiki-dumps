@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",15,88,"targetname\":\"Reflist\"}\""]]
+window.data=[["no-ignored",15,88,"containing invalid attribute","targetname\":\"Reflist\"}\""]]

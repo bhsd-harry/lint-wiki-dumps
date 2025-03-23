@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",290,98,"[[FPGA]]"]]
+window.data=[["nested-link",290,98,"internal link in an external link","[[FPGA]]"]]

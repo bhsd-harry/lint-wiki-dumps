@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",125,2,"[[Category:屯門舊墟]]"]]
+window.data=[["no-duplicate",125,2,"duplicated category","[[Category:屯門舊墟]]"],["no-duplicate",130,2,"duplicated category","[[Category:屯門舊墟]]"],["no-duplicate",127,2,"duplicated category","[[Category:建在填海／填塘地的香港公營房屋]]"],["no-duplicate",132,2,"duplicated category","[[Category:建在填海／填塘地的香港公營房屋]]"]]

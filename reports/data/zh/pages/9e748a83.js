@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,93," 砂岩中的古波浪痕、地點：Moenkopi層、"],[1,"no-ignored",4,650," Greeley”"]]
+window.data=[["no-duplicate",3,93,"duplicated image caption parameter"," 砂岩中的古波浪痕、地點：Moenkopi層、"],["no-duplicate",3,117,"duplicated image caption parameter","Capitol Reef National Park猶他州"],["no-ignored",4,650,"containing invalid attribute"," Greeley”"]]

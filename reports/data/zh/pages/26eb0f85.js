@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",256,33,"thumb"],[1,"unmatched-tag",17,2,"</div>"]]
+window.data=[["unmatched-tag",17,2,"unmatched closing tag","</div>"],["invalid-gallery",256,33,"invalid image parameter","thumb"]]

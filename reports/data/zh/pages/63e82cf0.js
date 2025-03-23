@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",84,1025,"["],[1,"nested-link",84,998,"[[Stephen M. Schwebel]]"]]
+window.data=[["nested-link",84,998,"internal link in an external link","[[Stephen M. Schwebel]]"],["lonely-bracket",84,1025,"lonely \"[\"","["]]

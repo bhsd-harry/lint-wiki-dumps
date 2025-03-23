@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",105,69,"{{"],[2,"no-duplicate",105,44,"波赫聯邦的部份為藍色，綠色為[[布爾奇科特區]]。{{NoteTag"]]
+window.data=[["lonely-bracket",105,69,"lonely \"{\"","{{"],["no-duplicate",105,44,"duplicated image caption parameter","波赫聯邦的部份為藍色，綠色為[[布爾奇科特區]]。{{NoteTag"],["no-duplicate",105,79,"duplicated image caption parameter","雖然[[布爾奇科特區]]在名義上是屬於波士尼亞與赫塞哥維納的兩個實體波赫聯邦與[[塞族共和國]]共管(condominium)，但事實上(de facto)不受任何一个实体管辖，而是以去中心化的地方政府来运作的。<ref>{{cite web|url=http://www.ohr.int/ohr-o"]]

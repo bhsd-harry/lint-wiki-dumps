@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",103,2,"[[Category:2022年香港建立]]"]]
+window.data=[["no-duplicate",103,2,"duplicated category","[[Category:2022年香港建立]]"],["no-duplicate",110,2,"duplicated category","[[Category:2022年香港建立]]"]]

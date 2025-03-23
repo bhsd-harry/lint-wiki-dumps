@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",89,1," File::福間駅東口 工事中.JPG|工程中的東出口"]]
+window.data=[["no-ignored",89,1,"invalid content in <gallery>"," File::福間駅東口 工事中.JPG|工程中的東出口"]]

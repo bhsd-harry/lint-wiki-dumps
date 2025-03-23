@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,2,"[[Category:清朝鄰水縣知縣]]"]]
+window.data=[["no-duplicate",65,2,"duplicated category","[[Category:清朝鄰水縣知縣]]"],["no-duplicate",66,2,"duplicated category","[[Category:清朝鄰水縣知縣]]"]]

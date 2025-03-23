@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",68,30,"替代文字"]]
+window.data=[["no-duplicate",68,30,"duplicated image caption parameter","替代文字"],["no-duplicate",68,41,"duplicated image caption parameter","專輯標題參考自20世紀80年代公衛海報，該海報敦促[[海洛因]]成癮者使用[[漂白劑]]清潔用具，以減低[[愛滋病毒]]傳播的風險。"]]

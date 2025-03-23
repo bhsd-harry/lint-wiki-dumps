@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",64,48,"road connection="]]
+window.data=[["no-duplicate",64,48,"duplicated parameter","road connection="],["no-duplicate",64,65,"duplicated parameter","road connection={{中国国道名|220|金龙大道}}"]]

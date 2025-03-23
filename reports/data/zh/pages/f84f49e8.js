@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",6,110,"[[災害流行病學研究中心|美國災害流行病學研究中心]]"]]
+window.data=[["nested-link",6,110,"internal link in an external link","[[災害流行病學研究中心|美國災害流行病學研究中心]]"]]

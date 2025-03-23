@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,59,"note-right3=12.7km\n "]]
+window.data=[["no-duplicate",25,59,"duplicated parameter","note-right3=12.7km\n "],["no-duplicate",26,73,"duplicated parameter","note-right3=12.7km\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",127,5,"span"],[1,"lonely-bracket",425,335,"}"],[2,"no-duplicate",278,36,"thumb"],[2,"unmatched-tag",453,367,"</li>"]]
+window.data=[["illegal-attr",127,5,"illegal attribute name","span"],["illegal-attr",193,5,"illegal attribute name","span"],["no-duplicate",278,36,"duplicated image thumbnail parameter","thumb"],["no-duplicate",278,42,"duplicated image thumbnail parameter","thumb"],["lonely-bracket",425,335,"lonely \"}\"","}"],["unmatched-tag",453,367,"unmatched closing tag","</li>"],["unmatched-tag",453,372,"unmatched closing tag","</ul>"]]

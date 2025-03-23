@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",56,3," manageryears4 = 2023–2024\n "]]
+window.data=[["no-duplicate",56,3,"duplicated parameter"," manageryears4 = 2023–2024\n "],["no-duplicate",58,3,"duplicated parameter"," manageryears4 = 2024-\n "],["no-duplicate",57,3,"duplicated parameter"," managerclubs4 = [[傑志]]（暫代主教練）\n "],["no-duplicate",59,3,"duplicated parameter"," managerclubs4 = [[傑志]]（U22主教練）\n "]]

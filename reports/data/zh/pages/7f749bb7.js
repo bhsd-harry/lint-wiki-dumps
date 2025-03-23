@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",54,2,"[[Category:Amiga遊戲]]"]]
+window.data=[["no-duplicate",54,2,"duplicated category","[[Category:Amiga遊戲]]"],["no-duplicate",60,2,"duplicated category","[[Category:Amiga遊戲]]"],["no-duplicate",56,2,"duplicated category","[[Category:DOS遊戲]]"],["no-duplicate",62,2,"duplicated category","[[Category:DOS遊戲]]"]]

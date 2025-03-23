@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",236,27,"Freesm"],[1,"no-ignored",236,11,"해시태그(HASHTAG) - "]]
+window.data=[["illegal-attr",236,27,"illegal attribute name","Freesm"],["no-ignored",236,11,"containing invalid attribute","해시태그(HASHTAG) - "]]

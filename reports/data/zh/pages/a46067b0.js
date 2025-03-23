@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,2,"[[Category:Articles with Polish-language external links]]"]]
+window.data=[["no-duplicate",7,2,"duplicated category","[[Category:Articles with Polish-language external links]]"],["no-duplicate",9,2,"duplicated category","[[Category:Articles with Polish-language external links]]"]]

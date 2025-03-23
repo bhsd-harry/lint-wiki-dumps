@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",74,2,"[[Category:五大湖]]"]]
+window.data=[["no-duplicate",74,2,"duplicated category","[[Category:五大湖]]"],["no-duplicate",79,2,"duplicated category","[[Category:五大湖]]"],["no-duplicate",76,2,"duplicated category","[[Category:底特律國家史蹟名錄]]"],["no-duplicate",81,2,"duplicated category","[[Category:底特律國家史蹟名錄]]"]]

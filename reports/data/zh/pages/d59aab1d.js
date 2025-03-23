@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",90,61,"]]"],[2,"no-duplicate",90,37,"[帕莱斯特里纳_(罗马首都广域市)"]]
+window.data=[["lonely-bracket",90,61,"lonely \"]\"","]]"],["no-duplicate",90,37,"duplicated image caption parameter","[帕莱斯特里纳_(罗马首都广域市)"],["no-duplicate",90,55,"duplicated image caption parameter","帕莱斯特里纳]]古羅馬遺跡的多立克柱飾帶遺跡"]]

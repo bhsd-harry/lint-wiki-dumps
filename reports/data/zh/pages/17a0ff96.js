@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",108,2,"[[Category:李姓|建]]"]]
+window.data=[["no-duplicate",108,2,"duplicated category","[[Category:李姓|建]]"],["no-duplicate",118,2,"duplicated category","[[Category:李姓]]"],["no-duplicate",111,2,"duplicated category","[[Category:亞洲星光大道]]"],["no-duplicate",117,2,"duplicated category","[[Category:亞洲星光大道]]"]]

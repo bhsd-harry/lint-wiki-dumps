@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",175,2,"[[Category:亚洲运动会体操奖牌得主]]"]]
+window.data=[["no-duplicate",175,2,"duplicated category","[[Category:亚洲运动会体操奖牌得主]]"],["no-duplicate",181,2,"duplicated category","[[Category:亚洲运动会体操奖牌得主]]"]]

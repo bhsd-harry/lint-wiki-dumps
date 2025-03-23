@@ -1,1 +1,1 @@
-window.data=[[4,"pipe-like",283,17," ||11||4||+7"]]
+window.data=[["pipe-like",283,17,"additional \"|\" in a table cell"," ||11||4||+7"],["pipe-like",288,17,"additional \"|\" in a table cell"," ||0 ||1 || -1"],["pipe-like",291,18,"additional \"|\" in a table cell"," ||6||4||+2"],["pipe-like",294,21,"additional \"|\" in a table cell"," ||27||14||+13"]]

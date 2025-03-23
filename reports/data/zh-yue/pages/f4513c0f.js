@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,2,"duplicated category","[[類:秦皇島]]"]]
+window.data=[["no-duplicate",23,2,"duplicated category","[[類:秦皇島]]"],["no-duplicate",25,2,"duplicated category","[[類:秦皇島]]"]]

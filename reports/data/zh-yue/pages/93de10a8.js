@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,3,"duplicated parameter"," binomial = '''''Neofelis nebulosa'''''\n "]]
+window.data=[["no-duplicate",19,3,"duplicated parameter"," binomial = '''''Neofelis nebulosa'''''\n "],["no-duplicate",24,3,"duplicated parameter"," binomial = ''Neofelis nebulosa''\n "]]

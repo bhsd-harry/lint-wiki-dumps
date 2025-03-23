@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,5,"cellpadding=\"2\""]]
+window.data=[["no-duplicate",44,5,"duplicated cellpadding attribute","cellpadding=\"2\""],["no-duplicate",44,51,"duplicated cellpadding attribute","cellpadding=\"2\""]]

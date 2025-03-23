@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",70,1," <--Image:Icaria Fossae Graben.JPG|高分辨率成像科学设备显示的[[法厄同区]][[伊卡里亚堑沟群]]地堑，点击图片可查看[[尘暴痕迹|尘卷风痕迹]]。-->"]]
+window.data=[["no-ignored",70,1,"invalid content in <gallery>"," <--Image:Icaria Fossae Graben.JPG|高分辨率成像科学设备显示的[[法厄同区]][[伊卡里亚堑沟群]]地堑，点击图片可查看[[尘暴痕迹|尘卷风痕迹]]。-->"],["no-ignored",91,1,"invalid content in <gallery>"," <--Image:Hephaestus Fossae Two Vews.JPG|高分辨率成像科学设备显示的刻布壬尼亚区二幅[[赫淮斯托斯槽沟|赫淮斯托斯堑沟群]]图像：右侧图片位于左侧图片的顶部（北部），堑沟群通常是由表面地层陷入地下空腔所形成。-->"]]

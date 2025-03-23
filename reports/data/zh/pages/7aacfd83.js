@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",128,2,"{{"],[2,"no-duplicate",48,3," nominee2 = '''[[瑪麗安內特·米勒-米克斯]]'''\n "]]
+window.data=[["no-duplicate",48,3,"duplicated parameter"," nominee2 = '''[[瑪麗安內特·米勒-米克斯]]'''\n "],["no-duplicate",53,3,"duplicated parameter"," nominee2 = [[克里斯蒂娜·博漢南]]\n "],["lonely-bracket",128,2,"lonely \"{\"","{{"],["lonely-bracket",236,2,"lonely \"{\"","{{"],["lonely-bracket",338,2,"lonely \"{\"","{{"],["lonely-bracket",442,2,"lonely \"{\"","{{"]]

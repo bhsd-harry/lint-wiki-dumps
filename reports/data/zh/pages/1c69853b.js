@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",728,30,"'"],[2,"lonely-bracket",1367,58,"["],[3,"nested-link",1381,143,"[[全智賢]]"]]
+window.data=[["lonely-apos",728,30,"lonely \"'\"","'"],["invalid-css",1214,37,"property value expected","#black"],["invalid-css",1214,61,"{ expected",""],["lonely-bracket",1367,58,"lonely \"[\"","["],["nested-link",1381,143,"internal link in an external link","[[全智賢]]"],["nested-link",1381,151,"internal link in an external link","[[李敏鎬]]"],["nested-link",1404,358,"internal link in an external link","[[韓國振興院]]"],["lonely-bracket",1543,60,"lonely \"[\"","["]]

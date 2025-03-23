@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",26,4,"{"],[2,"no-ignored",26,4,"{虫部}-|| "],[1,"parsing-order",26,52,"<br/>"]]
+window.data=[["lonely-bracket",26,4,"lonely \"{\"","{"],["lonely-bracket",26,7,"lonely \"}\"","}"],["parsing-order",26,52,"HTML tag in table attributes","<br/>"],["no-ignored",26,4,"containing invalid attribute","{虫部}-|| "],["no-ignored",26,34,"containing invalid attribute","| 1,067字符 || 469字符<br/>(U+866B&ndash;883F)"]]

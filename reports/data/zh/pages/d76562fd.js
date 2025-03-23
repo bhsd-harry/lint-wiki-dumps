@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",50,816,"name=\"Alkhalil_2010\""],[1,"no-ignored",50,836,"  / EVs对于病毒在细胞间传播以及长距离传播是必不可少的。<ref "],[1,"tag-like",50,867,"<ref"]]
+window.data=[["tag-like",50,867,"lonely \"<\"","<ref"],["no-ignored",50,836,"containing invalid attribute","  / EVs对于病毒在细胞间传播以及长距离传播是必不可少的。<ref "],["no-duplicate",50,816,"duplicated name attribute","name=\"Alkhalil_2010\""],["no-duplicate",50,872,"duplicated name attribute","name=\"Realegeno_2017\""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,2,"[[Category:中共杭州市委常委]]"]]
+window.data=[["no-duplicate",22,2,"duplicated category","[[Category:中共杭州市委常委]]"],["no-duplicate",26,2,"duplicated category","[[Category:中共杭州市委常委]]"]]

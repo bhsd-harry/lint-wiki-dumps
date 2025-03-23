@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",31,29,"縮略圖"]]
+window.data=[["no-duplicate",31,29,"duplicated image caption parameter","縮略圖"],["no-duplicate",31,39,"duplicated image caption parameter","明朝萬曆二十三年 (1595)《粵大記．廣東沿海圖》節錄重繪，圖上為南、圖左為東"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",168,2,"[[Category:明朝諸王列表模板]]"]]
+window.data=[["no-duplicate",168,2,"duplicated category","[[Category:明朝諸王列表模板]]"],["no-duplicate",194,2,"duplicated category","[[Category:明朝諸王列表模板]]"]]

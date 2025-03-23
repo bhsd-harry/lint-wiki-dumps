@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,3," 相關團體 = \n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," 相關團體 = \n "],["no-duplicate",24,3,"duplicated parameter"," 相關團體 = [[Easy Shen]]（支援吉他手）<ref>{{cite news |author1=厚安 |title=掀起布幕一角，偷看一眼「夢夢夢」—— 拍謝少年首場線上演唱會 |url=https://www.theaffairs.com/%E6%8E%80%E8%B5%B7%E5%B"]]

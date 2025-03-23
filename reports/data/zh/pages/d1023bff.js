@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",137,2,"[[Category:第三次反法同盟战争战役]]"]]
+window.data=[["no-duplicate",137,2,"duplicated category","[[Category:第三次反法同盟战争战役]]"],["no-duplicate",139,2,"duplicated category","[[Category:第三次反法同盟战争战役]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",48,29,"iWish计划下高分辨率成像科学设备显示的舌状岩屑坡特写Wikifrettedctxp22.jpg"]]
+window.data=[["no-duplicate",48,29,"duplicated image caption parameter","iWish计划下高分辨率成像科学设备显示的舌状岩屑坡特写Wikifrettedctxp22.jpg"],["no-duplicate",48,79,"duplicated image caption parameter","显示带有舌状岩屑坡和线状谷底沉积的桌山及地垛广角背景相机图，地点是[[伊斯墨纽斯湖区|伊斯墨诺斯湖区]]。"]]

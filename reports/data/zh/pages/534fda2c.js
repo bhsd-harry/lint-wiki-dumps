@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",30,58,"{{largethumb}}"]]
+window.data=[["no-duplicate",30,58,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",30,73,"duplicated image caption parameter","[[贝娅特丽克丝 (荷兰)|荷兰女王贝娅特丽克丝]]会见了五位诺贝尔奖获得者（1983 年）：[[保羅·伯格]]、[[克里斯汀·德·迪夫]]、[[史蒂文·温伯格]]、[[曼弗雷德·艾根]]、和[[尼古拉斯·布隆伯根]]. "]]

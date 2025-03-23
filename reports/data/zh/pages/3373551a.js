@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",8,21,"{{"],[1,"nested-link",36,180,"[[加利福尼亞大學]]"]]
+window.data=[["lonely-bracket",8,21,"lonely \"{\"","{{"],["lonely-bracket",8,35,"lonely \"}\"","}}"],["nested-link",36,180,"internal link in an external link","[[加利福尼亞大學]]"]]

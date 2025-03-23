@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",442,164,"ISBN 3-924124-03-9"],[1,"unmatched-tag",402,29,"</small>"]]
+window.data=[["unmatched-tag",402,29,"unmatched closing tag","</small>"],["invalid-isbn",442,164,"invalid ISBN","ISBN 3-924124-03-9"]]

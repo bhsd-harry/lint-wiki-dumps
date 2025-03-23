@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",41,4,"一年前父母发生意外导致得精神病"]]
+window.data=[["no-ignored",41,4,"containing invalid attribute","一年前父母发生意外导致得精神病"]]

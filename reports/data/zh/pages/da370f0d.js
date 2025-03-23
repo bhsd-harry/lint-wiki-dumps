@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,82,"name=\"檐角梁柱\""],[1,"no-ignored",18,93,"<ref "],[1,"tag-like",18,93,"<ref"]]
+window.data=[["tag-like",18,93,"lonely \"<\"","<ref"],["no-ignored",18,93,"containing invalid attribute","<ref "],["no-duplicate",18,82,"duplicated name attribute","name=\"檐角梁柱\""],["no-duplicate",18,98,"duplicated name attribute","name=\"檐角梁柱\""]]

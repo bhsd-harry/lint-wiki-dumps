@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",140,87,"years='''[[2022年拉沃尔杯|2022]]'''"]]
+window.data=[["no-duplicate",140,87,"duplicated parameter","years='''[[2022年拉沃尔杯|2022]]'''"],["no-duplicate",140,168,"duplicated parameter","years='''2022'''"]]

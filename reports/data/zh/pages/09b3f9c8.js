@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",47,1," * 幼儿教育科"]]
+window.data=[["fostered-content",47,1,"content to be moved out from the table"," * 幼儿教育科"],["fostered-content",68,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]<ref name=\"幼儿园\">[http://iwatan-kinder.jp/ 磐城短期大学附属幼儿园] {{Wayback|url=http://iwatan-kinder.jp/ |date=20140517092520 }}{{ja}}2014年6月4日阅览。<"]]

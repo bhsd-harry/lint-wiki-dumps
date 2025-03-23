@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",81,35,"RIGHT"]]
+window.data=[["no-duplicate",81,35,"duplicated image caption parameter","RIGHT"],["no-duplicate",81,41,"duplicated image caption parameter","墨爾本子爵"]]

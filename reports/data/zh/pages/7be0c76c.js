@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",155,184,"'"],[2,"no-duplicate",198,2,"[[Category:美國聯盟最有價值球員獎得主]]"]]
+window.data=[["lonely-apos",155,184,"lonely \"'\"","'"],["no-duplicate",198,2,"duplicated category","[[Category:美國聯盟最有價值球員獎得主]]"],["no-duplicate",199,2,"duplicated category","[[Category:美國聯盟最有價值球員獎得主]]"]]

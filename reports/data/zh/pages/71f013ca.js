@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",522,3," va*lign=\"top\"  "]]
+window.data=[["no-ignored",522,3,"containing invalid attribute"," va*lign=\"top\"  "]]

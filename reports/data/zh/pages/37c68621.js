@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,41,"upright=1.6<!--fmt for multiple image-->"]]
+window.data=[["no-duplicate",25,41,"duplicated image caption parameter","upright=1.6<!--fmt for multiple image-->"],["no-duplicate",25,82,"duplicated image caption parameter","4种达尔文雀，自左上开始顺时针顺序依次为[[大嘴地雀]]、[[勇地雀]]、{{tsl|en|Certhidea olivacea|绿莺雀}}、[[小树雀]]"]]

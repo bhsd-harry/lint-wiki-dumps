@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",171,56,"width"]]
+window.data=[["invalid-css",171,21,"colon expected",";"],["illegal-attr",171,56,"illegal attribute name","width"],["invalid-css",382,28,"semi-colon expected",":"],["invalid-css",383,21,"colon expected",";"]]

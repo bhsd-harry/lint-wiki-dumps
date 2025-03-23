@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",69,7,"}"],[2,"no-duplicate",5,3," 1  = zh-hk:亞歷山大; zh-tw:亞歷山卓;  zh-cn:亚历山大;\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter"," 1  = zh-hk:亞歷山大; zh-tw:亞歷山卓;  zh-cn:亚历山大;\n "],["no-duplicate",6,3,"duplicated parameter","1=zh-tw:黑潭路面電車;zh-cn:布莱克浦电车;zh-hk:黑池電車;\n "],["lonely-bracket",69,7,"lonely \"}\"","}"]]

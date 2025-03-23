@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",24,19,"invalid content in <gallery>","<small>"]]
+window.data=[["no-ignored",24,19,"invalid content in <gallery>","<small>"],["no-ignored",35,1,"invalid content in <gallery>"," </small>"]]

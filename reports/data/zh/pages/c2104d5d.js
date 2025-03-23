@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,3,"欧洲组织 = [[共产党和工人党情报局]]（1947年—1956年）\n "]]
+window.data=[["no-duplicate",14,3,"duplicated parameter","欧洲组织 = [[共产党和工人党情报局]]（1947年—1956年）\n "],["no-duplicate",27,3,"duplicated parameter","欧洲组织 = [[共产党和工人党情报局]]（1948年—1956年）\n "]]

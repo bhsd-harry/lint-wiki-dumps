@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",48,78,"RIGHT"]]
+window.data=[["no-duplicate",48,78,"duplicated image caption parameter","RIGHT"],["no-duplicate",48,84,"duplicated image caption parameter","由雕刻家[[埃米尼奥·布洛塔]]做的胸像"]]

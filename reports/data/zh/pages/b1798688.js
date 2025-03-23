@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",83,2,"[[Category:2018年動作驚悚片]]"]]
+window.data=[["no-duplicate",83,2,"duplicated category","[[Category:2018年動作驚悚片]]"],["no-duplicate",86,2,"duplicated category","[[Category:2018年動作驚悚片]]"]]

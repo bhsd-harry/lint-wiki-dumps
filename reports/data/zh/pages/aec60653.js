@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",141,2,"[[Category:金姓|Ming明]]"]]
+window.data=[["no-duplicate",141,2,"duplicated category","[[Category:金姓|Ming明]]"],["no-duplicate",144,2,"duplicated category","[[Category:金姓|M]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,37,"160pz"]]
+window.data=[["no-duplicate",2,37,"duplicated image caption parameter","160pz"],["no-duplicate",2,49,"duplicated image caption parameter","薇吉妮亚·奥尔多伊尼的画像 (1862年)"]]

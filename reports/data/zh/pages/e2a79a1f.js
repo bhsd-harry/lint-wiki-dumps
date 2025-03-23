@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",4,3," birth_date   = 973年5月6日\n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter"," birth_date   = 973年5月6日\n "],["no-duplicate",10,3,"duplicated parameter"," birth_date   = 約975年\n "],["no-duplicate",5,3,"duplicated parameter"," death_date   = 1024年7月13日\n "],["no-duplicate",12,3,"duplicated parameter"," death_date   = {{death date and age|1040|3|3|975|df=yes}}\n "]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",73,103," name\"nikkei reconstruction\""]]
+window.data=[["no-ignored",73,103,"containing invalid attribute"," name\"nikkei reconstruction\""]]

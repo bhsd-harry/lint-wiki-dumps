@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",107,5,"span"],[2,"no-duplicate",113,5,"align=center"]]
+window.data=[["illegal-attr",107,5,"illegal attribute name","span"],["no-duplicate",113,5,"duplicated align attribute","align=center"],["no-duplicate",113,48,"duplicated align attribute","align=middle"]]

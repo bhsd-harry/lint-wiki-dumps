@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",588,2,"[[Category:郴州人]]"]]
+window.data=[["no-duplicate",588,2,"duplicated category","[[Category:郴州人]]"],["no-duplicate",591,2,"duplicated category","[[Category:郴州人]]"]]

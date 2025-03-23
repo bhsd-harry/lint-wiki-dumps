@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",25,53,"]]"],[2,"no-duplicate",354,23,"style=\"font-size:small\""],[1,"no-ignored",208,42,"  color:black; font-weight:bold;\"  "]]
+window.data=[["lonely-bracket",25,53,"lonely \"]\"","]]"],["no-ignored",208,42,"containing invalid attribute","  color:black; font-weight:bold;\"  "],["no-duplicate",354,23,"duplicated style attribute","style=\"font-size:small\""],["no-duplicate",354,48,"duplicated style attribute","style=\"text-align:center\""]]

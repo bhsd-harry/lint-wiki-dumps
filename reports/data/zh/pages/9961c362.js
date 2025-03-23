@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",46,1," * [[金属]][[工业]]科<ref name=\"短期大学#沿革\"/>\n * [[化学工业]]科<ref name=\"短期大学#沿革\"/>"]]
+window.data=[["fostered-content",46,1,"content to be moved out from the table"," * [[金属]][[工业]]科<ref name=\"短期大学#沿革\"/>\n * [[化学工业]]科<ref name=\"短期大学#沿革\"/>"]]

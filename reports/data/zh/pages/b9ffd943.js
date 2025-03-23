@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,64,"縮略圖"]]
+window.data=[["no-duplicate",41,64,"duplicated image caption parameter","縮略圖"],["no-duplicate",41,74,"duplicated image caption parameter","2021年5月30日紀念館重開，支聯會秘書蔡耀昌（左二）聯同3名常委（左一起）麥海華、盧偉明、梁錦威，在六四紀念館為死難者默哀一分鐘及獻花悼念。"]]

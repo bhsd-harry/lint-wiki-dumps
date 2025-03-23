@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",839,3,"7電視台={{flagicon|HK}} [[翡翠台]]\n "]]
+window.data=[["no-duplicate",839,3,"duplicated parameter","7電視台={{flagicon|HK}} [[翡翠台]]\n "],["no-duplicate",844,3,"duplicated parameter","7電視台={{flagicon|HK}} [[翡翠台]]\n "]]

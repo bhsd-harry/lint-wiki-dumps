@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,3," governing_body  = \n "]]
+window.data=[["no-duplicate",44,3,"duplicated parameter"," governing_body  = \n "],["no-duplicate",67,3,"duplicated parameter"," governing_body = 州政府\n "]]

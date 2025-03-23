@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",72,42,"RNN Chalmessin - img 45497"]]
+window.data=[["no-duplicate",72,42,"duplicated image caption parameter","RNN Chalmessin - img 45497"],["no-duplicate",72,75,"duplicated image caption parameter",""]]

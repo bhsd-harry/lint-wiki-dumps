@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",107,2,"[[Category:粵語流行音樂歌手]]"]]
+window.data=[["no-duplicate",107,2,"duplicated category","[[Category:粵語流行音樂歌手]]"],["no-duplicate",110,2,"duplicated category","[[Category:粵語流行音樂歌手]]"]]

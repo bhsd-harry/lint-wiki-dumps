@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",293,32,"}"]]
+window.data=[["lonely-bracket",293,32,"lonely \"}\"","}"],["invalid-css",367,28,"property value expected",""],["invalid-css",376,29,"property value expected",""],["invalid-css",412,29,"property value expected",""],["invalid-css",439,28,"property value expected",""],["invalid-css",448,28,"property value expected",""],["invalid-css",466,28,"property value expected",""],["invalid-css",538,27,"semi-colon expected",""],["invalid-css",538,27,"colon expected",""]]

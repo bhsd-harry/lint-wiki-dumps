@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",260,34,"rowspan"],[2,"no-ignored",260,86," #f6e39c;"],[1,"unmatched-tag",177,638,"</small>"]]
+window.data=[["unmatched-tag",177,638,"unmatched closing tag","</small>"],["illegal-attr",260,34,"illegal attribute name","rowspan"],["illegal-attr",260,75,"illegal attribute name","background:"],["no-ignored",260,86,"containing invalid attribute"," #f6e39c;"],["illegal-attr",671,35,"illegal attribute name","rowspan"],["illegal-attr",671,76,"illegal attribute name","background:"],["no-ignored",671,87,"containing invalid attribute"," #f6e39c;"]]

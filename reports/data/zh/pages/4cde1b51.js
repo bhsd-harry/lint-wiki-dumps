@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",60,88,"{{"],[2,"no-duplicate",60,88,"{{nowrap"]]
+window.data=[["lonely-bracket",60,88,"lonely \"{\"","{{"],["no-duplicate",60,88,"duplicated image caption parameter","{{nowrap"],["no-duplicate",60,97,"duplicated image caption parameter","1943年[[魁北克会议]]与会者（从左至右）：{{bulleted list|前排：[[安东尼·艾登]]、[[富兰克林·德拉诺·罗斯福]]总统、阿斯隆伯爵夫人和[[温斯顿·丘吉尔]]|后排：[[第一代阿斯隆伯爵亚历山大·坎布里奇|阿斯隆伯爵]]（[[加拿大总督]]）、[[威廉·莱昂·麦肯齐·金|麦"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,3," services = \n "]]
+window.data=[["no-duplicate",32,3,"duplicated parameter"," services = \n "],["no-duplicate",34,3,"duplicated parameter"," services = {{Adjacent stations|system=Copenhagen Metro\n |line1=M3|left1=国王新广场|right1=Østerport\n |line2=M4|left2=国王新广场|right2=Østerport\n }}\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,2,"[[Category:美國節日]]"]]
+window.data=[["no-duplicate",23,2,"duplicated category","[[Category:美國節日]]"],["no-duplicate",27,2,"duplicated category","[[Category:美國節日]]"]]

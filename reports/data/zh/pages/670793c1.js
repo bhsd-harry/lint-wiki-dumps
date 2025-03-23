@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",176,23,"height"],[2,"no-duplicate",128,85,"缩略图"]]
+window.data=[["no-duplicate",128,85,"conflicting image frame parameter","缩略图"],["no-duplicate",128,89,"conflicting image frame parameter","有框"],["illegal-attr",176,23,"illegal attribute name","height"]]

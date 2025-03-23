@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3," num_episodes  = 31集\n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter"," num_episodes  = 31集\n "],["no-duplicate",20,3,"duplicated parameter"," num_episodes = \n "]]

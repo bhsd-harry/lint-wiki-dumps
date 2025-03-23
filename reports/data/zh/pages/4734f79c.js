@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",67,28,"Katsuragiyama Ropeway.jpg"]]
+window.data=[["no-duplicate",67,28,"duplicated image caption parameter","Katsuragiyama Ropeway.jpg"],["no-duplicate",67,54,"duplicated image caption parameter","伊豆之國全景公園"]]

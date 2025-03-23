@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,41,"duplicated image caption parameter","300pX"]]
+window.data=[["no-duplicate",2,41,"duplicated image caption parameter","300pX"],["no-duplicate",2,47,"duplicated image caption parameter","泰坦號潛水器所屬公司OceanGate嘅同一類潛水器"]]

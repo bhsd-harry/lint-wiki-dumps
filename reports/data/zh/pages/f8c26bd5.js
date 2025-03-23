@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",149,16,"17:00"],[2,"lonely-bracket",149,4,"[["],[1,"no-ignored",149,4,"[[广西卫视]] || "]]
+window.data=[["lonely-bracket",149,4,"lonely \"[\"","[["],["lonely-bracket",149,10,"lonely \"]\"","]]"],["illegal-attr",149,16,"illegal attribute name","17:00"],["no-ignored",149,4,"containing invalid attribute","[[广西卫视]] || "]]

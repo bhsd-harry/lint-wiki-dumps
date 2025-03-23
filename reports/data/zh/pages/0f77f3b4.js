@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",28,3," free_label = 校地面積\n "]]
+window.data=[["no-duplicate",28,3,"duplicated parameter"," free_label = 校地面積\n "],["no-duplicate",30,3,"duplicated parameter"," free_label = 特色\n "],["no-duplicate",29,3,"duplicated parameter"," free_text = 2.79公頃\n "],["no-duplicate",31,3,"duplicated parameter"," free_text = [[木笛]]、[[柔道]]、[[書法]]、[[雙語]]\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,104,"thumb left"]]
+window.data=[["no-duplicate",25,104,"duplicated image caption parameter","thumb left"],["no-duplicate",25,121,"duplicated image caption parameter","痛苦圣母加俾额尔"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,23,"De Waag Leiden"]]
+window.data=[["no-duplicate",29,23,"duplicated image caption parameter","De Waag Leiden"],["no-duplicate",29,38,"duplicated image caption parameter","[[秤量房 (莱顿)]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",61,2,"[[Category:福爾摩沙夢想家球員]]"]]
+window.data=[["no-duplicate",61,2,"duplicated category","[[Category:福爾摩沙夢想家球員]]"],["no-duplicate",65,2,"duplicated category","[[Category:福爾摩沙夢想家球員]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",40,2,"[[Category:醴泉郡出身人物]]"]]
+window.data=[["no-duplicate",40,2,"duplicated category","[[Category:醴泉郡出身人物]]"],["no-duplicate",43,2,"duplicated category","[[Category:醴泉郡出身人物]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,3,"備註=\n "]]
+window.data=[["no-duplicate",33,3,"duplicated parameter","備註=\n "],["no-duplicate",64,3,"duplicated parameter","備註='''路線資訊與停站參考資料'''：<ref name=kmb60>{{cite web|language=zh-hk|url=http://www.kmb.com.hk/chinese.php?page=search&prog=route_no.php&route_no=60|title=6"]]

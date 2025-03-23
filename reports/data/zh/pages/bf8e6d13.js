@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",135,2,"[[Category:文化社會學]]"]]
+window.data=[["no-duplicate",135,2,"duplicated category","[[Category:文化社會學]]"],["no-duplicate",136,2,"duplicated category","[[Category:文化社會學]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",43,51,"縮略圖"]]
+window.data=[["no-duplicate",43,51,"duplicated image caption parameter","縮略圖"],["no-duplicate",43,67,"duplicated image caption parameter","拉達馬一世"]]

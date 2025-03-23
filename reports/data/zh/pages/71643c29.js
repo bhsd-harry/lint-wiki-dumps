@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,2,"[[Category:自由软件]]"]]
+window.data=[["no-duplicate",25,2,"duplicated category","[[Category:自由软件]]"],["no-duplicate",26,2,"duplicated category","[[Category:自由软件]]"]]

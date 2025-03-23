@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,24,"Right"]]
+window.data=[["no-duplicate",7,24,"duplicated image caption parameter","Right"],["no-duplicate",7,47,"duplicated image caption parameter","關東平原。遠處的山脈，中間是[[男體山]]及日光連山，左方是[[三國山脈]]。從[[東京國際機場]]上空拍攝"]]

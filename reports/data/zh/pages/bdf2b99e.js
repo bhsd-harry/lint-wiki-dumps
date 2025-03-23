@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",33,38,"{{largethumb}}"]]
+window.data=[["no-duplicate",33,38,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",33,53,"duplicated image caption parameter","门格尔贝格（1919年）"],["no-duplicate",64,45,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",64,60,"duplicated image caption parameter","门格尔贝格（左）与[[阿图尔·赛斯-英夸特]]（1942年）"]]

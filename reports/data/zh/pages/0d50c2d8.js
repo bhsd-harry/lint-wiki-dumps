@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",347,2,"[[Category:菲律賓城市]]"]]
+window.data=[["no-duplicate",347,2,"duplicated category","[[Category:菲律賓城市]]"],["no-duplicate",353,2,"duplicated category","[[Category:菲律賓城市|*]]"]]

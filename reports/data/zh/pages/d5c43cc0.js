@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",1,10,"\n "]]
+window.data=[["no-duplicate",1,10,"duplicated parameter","\n "],["no-duplicate",4,3,"duplicated parameter","1=zh-hans:通过;zh-hant:通過;zh-tw:透過;\n "],["no-duplicate",902,2,"duplicated category","[[Category:2020年Gaon專輯月榜冠軍作品]]"],["no-duplicate",913,2,"duplicated category","[[Category:2020年Gaon專輯月榜冠軍作品]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",56,2,"[[Category:古巴革命家]]"]]
+window.data=[["no-duplicate",56,2,"duplicated category","[[Category:古巴革命家]]"],["no-duplicate",58,2,"duplicated category","[[Category:古巴革命家]]"]]

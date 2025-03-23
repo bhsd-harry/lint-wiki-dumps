@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",12,59,"总统府前的[[杜达耶夫]]支持者，le"]]
+window.data=[["no-duplicate",12,59,"duplicated image caption parameter","总统府前的[[杜达耶夫]]支持者，le"],["no-duplicate",12,79,"duplicated image caption parameter","米哈伊尔·亚历山德罗维奇·叶夫斯塔菲耶夫"],["no-duplicate",12,100,"duplicated image caption parameter","Mikhail Evstafiev"],["no-duplicate",12,118,"duplicated image caption parameter","米哈伊尔·叶夫斯塔菲耶夫拍摄于1994年12月"]]

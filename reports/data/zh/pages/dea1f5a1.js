@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",23,1," <--Image:Sirenum Fossae Layers.JPG| [[高分辨率成像科学设备]]显示的塞壬堑沟，比例尺长度为500米。-->"]]
+window.data=[["no-ignored",23,1,"invalid content in <gallery>"," <--Image:Sirenum Fossae Layers.JPG| [[高分辨率成像科学设备]]显示的塞壬堑沟，比例尺长度为500米。-->"],["no-ignored",30,1,"invalid content in <gallery>"," <--Image:Sirenum Fossae.JPG|高分辨率成像科学设备显示的塞壬堑沟。-->"]]

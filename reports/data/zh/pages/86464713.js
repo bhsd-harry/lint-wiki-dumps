@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",55,51,"thumb"],[2,"no-duplicate",55,57,"HMS Illustrious R06 in Portsmouth(2007)"]]
+window.data=[["invalid-gallery",55,51,"invalid image parameter","thumb"],["no-duplicate",55,57,"duplicated image caption parameter","HMS Illustrious R06 in Portsmouth(2007)"],["no-duplicate",55,97,"duplicated image caption parameter","2007停泊於樸資茅斯"]]

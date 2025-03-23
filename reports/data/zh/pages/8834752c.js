@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",87,85,"upright=1.3<!--width for very low image-->"]]
+window.data=[["no-duplicate",87,85,"duplicated image caption parameter","upright=1.3<!--width for very low image-->"],["no-duplicate",87,128,"duplicated image caption parameter","1901年圣玛丽河上的原住民[[奥杰布瓦语|奥杰布瓦]]渔民"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",461,2,"[[Category:2023年蘇迪曼盃]]"]]
+window.data=[["no-duplicate",461,2,"duplicated category","[[Category:2023年蘇迪曼盃]]"],["no-duplicate",464,2,"duplicated category","[[Category:2023年蘇迪曼盃]]"]]

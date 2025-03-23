@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3," coordinates  = {{coord|3|38|32|N|98|53|7|E|region:ID_type:airport|name=Kualanamu International Airport (Medan)|display=inline,title}}\n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter"," coordinates  = {{coord|3|38|32|N|98|53|7|E|region:ID_type:airport|name=Kualanamu International Airport (Medan)|display=inline,title}}\n "],["no-duplicate",33,3,"duplicated parameter"," coordinates  = {{coord|3|38|16.2|N|98|52|13.8|E|region:ID_type:airport|name=Kualanamu International Airport (Medan)|display=inline,title}}\n "]]

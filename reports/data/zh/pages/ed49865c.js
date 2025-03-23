@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",20,1,"   1月1日 元旦"]]
+window.data=[["fostered-content",20,1,"content to be moved out from the table","   1月1日 元旦"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",21,92,"[["],[1,"no-ignored",125,231," 正式發行rowspan=\"2\"  "]]
+window.data=[["lonely-bracket",21,92,"lonely \"[\"","[["],["lonely-bracket",22,9,"lonely \"]\"","]]"],["no-ignored",125,231,"containing invalid attribute"," 正式發行rowspan=\"2\"  "]]

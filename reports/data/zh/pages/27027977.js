@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,3," gross              = \n "]]
+window.data=[["no-duplicate",20,3,"duplicated parameter"," gross              = \n "],["no-duplicate",29,3,"duplicated parameter"," gross           = 630,452（法国）<ref name=\"JP\">{{cite web |title=Good bye, Bruce Lee (1976) |url=http://www.jpbox-office.com/fichfilm.php?id=8153 |websi"]]

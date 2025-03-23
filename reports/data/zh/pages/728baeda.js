@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",3,3," office              = \n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter"," office              = \n "],["no-duplicate",16,3,"duplicated parameter","office       = {{VCP}}[[越南共產黨中央政治局|中央政治局]]委員\n "],["no-duplicate",14,3,"duplicated parameter"," term_start          = \n "],["no-duplicate",19,3,"duplicated parameter","term_start   = 2021年1月31日\n "],["no-duplicate",15,3,"duplicated parameter"," term_end            = \n "],["no-duplicate",20,3,"duplicated parameter","term_end     = \n "]]

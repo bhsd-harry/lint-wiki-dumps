@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,2,"[[Category:老挝动物]]"]]
+window.data=[["no-duplicate",32,2,"duplicated category","[[Category:老挝动物]]"],["no-duplicate",34,2,"duplicated category","[[Category:老挝动物]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",39,2,"[[Category:互联网审查]]"]]
+window.data=[["no-duplicate",39,2,"duplicated category","[[Category:互联网审查]]"],["no-duplicate",46,2,"duplicated category","[[Category:互联网审查]]"]]

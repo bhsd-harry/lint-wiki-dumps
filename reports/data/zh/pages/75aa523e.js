@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3," cover          = File:MWAM-TheWorld'sOnFire-cover.jpg\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter"," cover          = File:MWAM-TheWorld'sOnFire-cover.jpg\n "],["no-duplicate",11,3,"duplicated parameter"," cover          = File:MWAM-TheWorld'sOnFire-cover.jpg\n "]]

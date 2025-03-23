@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",56,127,"colspan=2"],[1,"unmatched-tag",56,164,"</small>"]]
+window.data=[["no-duplicate",56,127,"duplicated colspan attribute","colspan=2"],["no-duplicate",56,138,"duplicated colspan attribute","colspan=2"],["unmatched-tag",56,164,"unmatched closing tag","</small>"]]

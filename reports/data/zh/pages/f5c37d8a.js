@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",28,116,"[[馬太福音第2章|馬太福音 2:19]]"]]
+window.data=[["nested-link",28,116,"internal link in an external link","[[馬太福音第2章|馬太福音 2:19]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",5,147,"name"]]
+window.data=[["no-duplicate",5,147,"duplicated name attribute","name"],["no-duplicate",5,152,"duplicated name attribute","name=\"鄒\""],["no-duplicate",11,597,"duplicated name attribute","name"],["no-duplicate",11,602,"duplicated name attribute","name=\"鄒\""]]

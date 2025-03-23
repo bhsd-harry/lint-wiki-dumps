@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,2,"[[Category:重庆古代县份]]"]]
+window.data=[["no-duplicate",17,2,"duplicated category","[[Category:重庆古代县份]]"],["no-duplicate",21,2,"duplicated category","[[Category:重庆古代县份]]"]]

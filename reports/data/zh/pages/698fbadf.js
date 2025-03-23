@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",76,2,"[[Category:比什凱克人]]"]]
+window.data=[["no-duplicate",76,2,"duplicated category","[[Category:比什凱克人]]"],["no-duplicate",78,2,"duplicated category","[[Category:比什凱克人]]"],["no-duplicate",77,2,"duplicated category","[[Category:吉尔吉斯斯坦最高议会议员]]"],["no-duplicate",79,2,"duplicated category","[[Category:吉尔吉斯斯坦最高议会议员]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",242,31,"Fried Lotus Rootlet"]]
+window.data=[["no-duplicate",242,31,"duplicated image caption parameter","Fried Lotus Rootlet"],["no-duplicate",242,51,"duplicated image caption parameter","酸辣藕带"]]

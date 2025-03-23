@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",353,203,"]]"],[2,"no-ignored",115,31,"; color:snow\"  "]]
+window.data=[["no-ignored",115,31,"containing invalid attribute","; color:snow\"  "],["no-ignored",184,31,"containing invalid attribute","; color:snow\"  "],["lonely-bracket",353,203,"lonely \"]\"","]]"]]

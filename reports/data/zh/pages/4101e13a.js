@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",128,49,"style=\"text-align:center\""],[1,"no-ignored",154,3,"品质剧作"]]
+window.data=[["no-duplicate",128,49,"duplicated style attribute","style=\"text-align:center\""],["no-duplicate",128,77,"duplicated style attribute","style=\"width:90%\""],["no-ignored",154,3,"containing invalid attribute","品质剧作"]]

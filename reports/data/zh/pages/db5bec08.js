@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,52,"caption=Climber in a bouldering competition"]]
+window.data=[["no-duplicate",1,52,"duplicated image caption parameter","caption=Climber in a bouldering competition"],["no-duplicate",1,114,"duplicated image caption parameter","進行中的[[抱石]]比賽"]]

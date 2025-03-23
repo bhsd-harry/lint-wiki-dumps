@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",7,4," 公共汽车站场 "]]
+window.data=[["no-ignored",7,4,"containing invalid attribute"," 公共汽车站场 "],["no-ignored",42,3,"containing invalid attribute","岭南春"]]

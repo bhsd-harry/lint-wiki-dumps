@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3," struct = [[歇山式]]\n "],[1,"no-ignored",146,1," File:Xingtian Temple-Taipei-Taiwan-P1010118.JPG臺北本宮廟埕]"]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," struct = [[歇山式]]\n "],["no-duplicate",11,3,"duplicated parameter"," struct = 三宮均由[[廖石成]]設計，水泥鋼筋建築，臺灣傳統宮廟\n "],["no-ignored",146,1,"invalid content in <gallery>"," File:Xingtian Temple-Taipei-Taiwan-P1010118.JPG臺北本宮廟埕]"]]

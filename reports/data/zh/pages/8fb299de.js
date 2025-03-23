@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",246,1," </center>"],[1,"unmatched-tag",93,74,"</center>"]]
+window.data=[["unmatched-tag",93,74,"unmatched closing tag","</center>"],["no-ignored",246,1,"invalid content in <gallery>"," </center>"]]

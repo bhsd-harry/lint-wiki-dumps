@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,562,"name=\"Rues\""],[1,"no-ignored",14,573,"/。道两边种植两排梧桐树<ref "],[1,"tag-like",14,585,"<ref"]]
+window.data=[["tag-like",14,585,"lonely \"<\"","<ref"],["no-ignored",14,573,"containing invalid attribute","/。道两边种植两排梧桐树<ref "],["no-duplicate",14,562,"duplicated name attribute","name=\"Rues\""],["no-duplicate",14,590,"duplicated name attribute","name=\"Culture\""]]

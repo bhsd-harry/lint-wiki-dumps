@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",174,2,"[[Category:腾讯动漫]]"]]
+window.data=[["no-duplicate",174,2,"duplicated category","[[Category:腾讯动漫]]"],["no-duplicate",178,2,"duplicated category","[[Category:腾讯动漫]]"]]

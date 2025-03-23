@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",79,1,"\n ===手機影音平台==="],[1,"invalid-isbn",225,34,"ISBN 0010853454"],[1,"lonely-http",217,25,"ISBN"],[2,"unclosed-table",37,2,"{|"]]
+window.data=[["fostered-content",79,1,"content to be moved out from the table","\n ===手機影音平台==="],["unclosed-table",37,2,"unclosed table","{|"],["lonely-http",217,25,"lonely \"ISBN\"","ISBN"],["invalid-isbn",225,34,"invalid ISBN","ISBN 0010853454"],["unclosed-table",89,2,"unclosed table","{|"]]

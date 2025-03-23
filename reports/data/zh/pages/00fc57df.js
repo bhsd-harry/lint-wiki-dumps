@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,23,"背景相机显示的坑中冲沟，注：这是前一幅图像的放大版。Wikilyelldefrosting.jpg"]]
+window.data=[["no-duplicate",20,23,"duplicated image caption parameter","背景相机显示的坑中冲沟，注：这是前一幅图像的放大版。Wikilyelldefrosting.jpg"],["no-duplicate",20,73,"duplicated image caption parameter","背景相机显示坑内正在融霜的地方，黑色区域是霜冻已消失的地面，注：这是前一幅图像的放大版。"]]

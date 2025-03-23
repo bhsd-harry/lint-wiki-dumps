@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",300,3,"m={{flag icon|USA}} Must Be Loved<br>1993年（栗色）\n "]]
+window.data=[["no-duplicate",300,3,"duplicated parameter","m={{flag icon|USA}} Must Be Loved<br>1993年（栗色）\n "],["no-duplicate",301,3,"duplicated parameter","m={{flag icon|JPN}} [[火神 (馬)|火神]]<br>2003年（栗色）\n "]]

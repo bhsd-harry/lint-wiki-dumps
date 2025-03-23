@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,2,"duplicated category","[[Category:索尼]]"]]
+window.data=[["no-duplicate",37,2,"duplicated category","[[Category:索尼]]"],["no-duplicate",77,2,"duplicated category","[[Category:索尼| ]]"]]

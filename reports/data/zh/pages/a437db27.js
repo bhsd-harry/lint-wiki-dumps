@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",272,2,"[[Category:官方繁体中文化游戏]]"]]
+window.data=[["no-duplicate",272,2,"duplicated category","[[Category:官方繁体中文化游戏]]"],["no-duplicate",274,2,"duplicated category","[[Category:官方繁体中文化游戏]]"]]

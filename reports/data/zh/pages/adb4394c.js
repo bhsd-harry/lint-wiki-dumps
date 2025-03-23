@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",255,12,"2.63"],[1,"lonely-bracket",52,36,"}"]]
+window.data=[["lonely-bracket",52,36,"lonely \"}\"","}"],["illegal-attr",255,12,"illegal attribute name","2.63"]]

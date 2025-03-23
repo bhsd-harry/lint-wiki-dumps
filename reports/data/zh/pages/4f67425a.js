@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,2,"[[Category:岩鹨科|Y]]"]]
+window.data=[["no-duplicate",32,2,"duplicated category","[[Category:岩鹨科|Y]]"],["no-duplicate",33,2,"duplicated category","[[Category:岩鹨科|*]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",66,3," longnote5 = 原曲為[[財津和夫]]的《償いの日々》\n "]]
+window.data=[["no-duplicate",66,3,"duplicated parameter"," longnote5 = 原曲為[[財津和夫]]的《償いの日々》\n "],["no-duplicate",68,3,"duplicated parameter"," longnote5 = \n "]]

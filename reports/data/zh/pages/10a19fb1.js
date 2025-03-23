@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,26,"Chief and Fala's graves,jpg"]]
+window.data=[["no-duplicate",37,26,"duplicated image caption parameter","Chief and Fala's graves,jpg"],["no-duplicate",37,72,"duplicated image caption parameter","法拉和琪尔菲之墓"]]

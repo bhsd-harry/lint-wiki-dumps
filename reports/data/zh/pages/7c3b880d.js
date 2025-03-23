@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,47,"upright=1.75<!--fmt for very small text-->"]]
+window.data=[["no-duplicate",5,47,"duplicated image caption parameter","upright=1.75<!--fmt for very small text-->"],["no-duplicate",5,90,"duplicated image caption parameter","显示互惠利他主义的图表"]]

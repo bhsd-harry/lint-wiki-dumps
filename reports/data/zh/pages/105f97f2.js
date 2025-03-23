@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",150,2,"[[Category:斯坦福医学院校友]]"]]
+window.data=[["no-duplicate",150,2,"duplicated category","[[Category:斯坦福医学院校友]]"],["no-duplicate",154,2,"duplicated category","[[Category:斯坦福医学院校友]]"]]

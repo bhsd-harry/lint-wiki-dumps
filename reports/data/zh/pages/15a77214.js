@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,2,"[[Category:朝鮮民主主義人民共和國音樂家]]"]]
+window.data=[["no-duplicate",19,2,"duplicated category","[[Category:朝鮮民主主義人民共和國音樂家]]"],["no-duplicate",21,2,"duplicated category","[[Category:朝鮮民主主義人民共和國音樂家]]"]]

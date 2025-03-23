@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,2,"[[Category:加来海峡省河流]]"]]
+window.data=[["no-duplicate",37,2,"duplicated category","[[Category:加来海峡省河流]]"],["no-duplicate",38,2,"duplicated category","[[Category:加来海峡省河流]]"]]

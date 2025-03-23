@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",113,21,"midi"],[2,"no-duplicate",191,49,"200x200"]]
+window.data=[["illegal-attr",113,21,"illegal attribute name","midi"],["no-duplicate",191,49,"duplicated image caption parameter","200x200"],["no-duplicate",191,57,"duplicated image caption parameter","行進曲軍艦之碑（神奈川縣[[横須賀市]]三笠公園）"]]

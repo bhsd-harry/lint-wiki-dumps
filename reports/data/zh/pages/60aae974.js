@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",53,2,"[[Category:台风]]"]]
+window.data=[["no-duplicate",53,2,"duplicated category","[[Category:台风]]"],["no-duplicate",97,2,"duplicated category","[[Category:台风]]"]]

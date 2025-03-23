@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,3,"constituency  = {{le|奔萨选区|Penza constituency}}\n "]]
+window.data=[["no-duplicate",15,3,"duplicated parameter","constituency  = {{le|奔萨选区|Penza constituency}}\n "],["no-duplicate",22,3,"duplicated parameter","constituency = [[封闭式名单|比例代表制]]\n "]]

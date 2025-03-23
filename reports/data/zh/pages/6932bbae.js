@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,3," premierroc = [[吳敦義]]\n "]]
+window.data=[["no-duplicate",7,3,"duplicated parameter"," premierroc = [[吳敦義]]\n "],["no-duplicate",10,3,"duplicated parameter"," premierroc = [[吳敦義]]\n "]]

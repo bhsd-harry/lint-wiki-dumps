@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",368,128,"[[Beijing International Automotive Exhibition]]"]]
+window.data=[["invalid-css",129,69,"semi-colon expected",""],["invalid-css",129,68,"colon expected","="],["invalid-css",197,69,"semi-colon expected",""],["invalid-css",197,68,"colon expected","="],["nested-link",368,128,"internal link in an external link","[[Beijing International Automotive Exhibition]]"]]

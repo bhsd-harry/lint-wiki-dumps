@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,2,"[[Category:丹东人|S孙]]"]]
+window.data=[["no-duplicate",23,2,"duplicated category","[[Category:丹东人|S孙]]"],["no-duplicate",25,2,"duplicated category","[[Category:丹东人|S孙]]"]]

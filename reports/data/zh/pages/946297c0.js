@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",7,3,"zh-tw:鐘樓怪人;zh-hk:鐘樓駝俠;zh-sg:钟楼驼侠;zh-cn:巴黎圣母院;\n "]]
+window.data=[["no-duplicate",7,3,"duplicated parameter","zh-tw:鐘樓怪人;zh-hk:鐘樓駝俠;zh-sg:钟楼驼侠;zh-cn:巴黎圣母院;\n "],["no-duplicate",5,3,"duplicated parameter","1=zh-cn:吉娜·劳洛勃丽吉达;zh-tw:珍娜·露露布莉姬妲;zh-hk:珍娜·羅露寶烈吉妲;\n "],["no-duplicate",8,3,"duplicated parameter","zh-tw:鐘樓怪人;zh-hk:新鐘樓駝俠;zh-sg:新钟楼驼侠;zh-cn:巴黎圣母院;\n "],["no-duplicate",6,3,"duplicated parameter","2=zh-cn:安东尼·奎恩;zh-tw:安東尼·昆;zh-hk:安東尼·昆;zh-mo:安東尼·昆;\n "]]

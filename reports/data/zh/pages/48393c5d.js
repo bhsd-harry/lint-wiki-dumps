@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",18,66,"鈽238。File:Iridium clad GPHS pellet.jpg"]]
+window.data=[["no-duplicate",18,66,"duplicated image caption parameter","鈽238。File:Iridium clad GPHS pellet.jpg"],["no-duplicate",18,105,"duplicated image caption parameter","裝上銥外殼的鈽238。File:Fueling of the MSL MMRTG 002.jpg"],["no-duplicate",18,154,"duplicated image caption parameter","裝上碳纖維外殼的燃料球。File:Fueling of the MSL MMRTG 001.jpg"],["no-duplicate",18,204,"duplicated image caption parameter","模組總成。"]]

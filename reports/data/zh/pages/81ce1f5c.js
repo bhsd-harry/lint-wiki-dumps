@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,453,"title=Reproductive and Breeding Biology of Tuna ''Euthynnus affinis''"]]
+window.data=[["no-duplicate",33,453,"duplicated parameter","title=Reproductive and Breeding Biology of Tuna ''Euthynnus affinis''"],["no-duplicate",33,686,"duplicated parameter","title= Recent updates in molecular Endocrinology and Reproductive Physiology of Fish"]]

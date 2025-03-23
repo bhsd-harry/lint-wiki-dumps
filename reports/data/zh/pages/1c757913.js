@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,2,"[[Category:朝鲜劳动党]]"]]
+window.data=[["no-duplicate",33,2,"duplicated category","[[Category:朝鲜劳动党]]"],["no-duplicate",35,2,"duplicated category","[[Category:朝鲜劳动党]]"]]

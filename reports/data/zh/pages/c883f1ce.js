@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",61,24,"width"],[2,"no-duplicate",99,2,"[[Category:底特律老虎球員]]"]]
+window.data=[["illegal-attr",61,24,"illegal attribute name","width"],["illegal-attr",82,24,"illegal attribute name","width"],["no-duplicate",99,2,"duplicated category","[[Category:底特律老虎球員]]"],["no-duplicate",102,2,"duplicated category","[[Category:底特律老虎球員]]"]]

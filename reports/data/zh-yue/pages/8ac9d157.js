@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,45,"duplicated parameter","url=https://mp.weixin.qq.com/s/FO6_cgRcI-wHmuXykCgQlg "]]
+window.data=[["no-duplicate",7,45,"duplicated parameter","url=https://mp.weixin.qq.com/s/FO6_cgRcI-wHmuXykCgQlg "],["no-duplicate",7,216,"duplicated parameter","url=status=live"]]

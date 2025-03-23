@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",84,51,"containing invalid attribute","聯繫、維繫"]]
+window.data=[["no-ignored",84,51,"containing invalid attribute","聯繫、維繫"],["no-ignored",88,57,"containing invalid attribute","系統、化學系"]]

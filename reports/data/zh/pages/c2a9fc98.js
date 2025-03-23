@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",168,71,"[["],[1,"lonely-http",274,27,"ISBN"],[4,"no-duplicate",283,2,"[[Category:九龍巴士路線|272K]]"]]
+window.data=[["lonely-bracket",168,71,"lonely \"[\"","[["],["lonely-http",274,27,"lonely \"ISBN\"","ISBN"],["no-duplicate",283,2,"duplicated category","[[Category:九龍巴士路線|272K]]"],["no-duplicate",284,2,"duplicated category","[[Category:九龍巴士路線|272A]]"],["no-duplicate",285,2,"duplicated category","[[Category:沙田區巴士路線|272K]]"],["no-duplicate",286,2,"duplicated category","[[Category:沙田區巴士路線|272A]]"]]

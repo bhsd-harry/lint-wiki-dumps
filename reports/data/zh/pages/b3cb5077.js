@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1381,3," 两次当选为部长，1957年去世"]]
+window.data=[["no-ignored",1381,3,"containing invalid attribute"," 两次当选为部长，1957年去世"]]

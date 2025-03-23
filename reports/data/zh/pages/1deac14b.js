@@ -1,1 +1,1 @@
-window.data=[[8,"no-duplicate",49,432,"author=盧姮倩"]]
+window.data=[["no-duplicate",49,432,"duplicated parameter","author=盧姮倩"],["no-duplicate",49,554,"duplicated parameter","author=盧姮倩"],["no-duplicate",49,794,"duplicated parameter","author=顏振凱"],["no-duplicate",49,1084,"duplicated parameter","author=顏振凱"],["no-duplicate",55,186,"duplicated parameter","author=王良博"],["no-duplicate",55,529,"duplicated parameter","author=王良博"],["no-duplicate",75,63,"duplicated parameter","date=2022-12-06"],["no-duplicate",75,168,"duplicated parameter","date=2022-12-06"]]

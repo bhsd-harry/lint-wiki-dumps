@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",693,107,"]]"],[2,"no-duplicate",701,81,"align=right"],[1,"unmatched-tag",428,32,"<sup>"]]
+window.data=[["unmatched-tag",428,32,"unclosed tag","<sup>"],["lonely-bracket",693,107,"lonely \"]\"","]]"],["no-duplicate",701,81,"duplicated image caption parameter","align=right"],["no-duplicate",701,99,"duplicated image caption parameter","藝術家對早期宇宙形成源生星團的想像<ref>{{cite web|title=Construction Secrets of a Galactic Metropolis|url=http://www.eso.org/public/news/eso1431/|website=www.eso.org|p"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",55,2,"[[Category:程姓]]"]]
+window.data=[["no-duplicate",55,2,"duplicated category","[[Category:程姓]]"],["no-duplicate",60,2,"duplicated category","[[Category:程姓]]"],["no-duplicate",57,2,"duplicated category","[[Category:中国人权律师]]"],["no-duplicate",62,2,"duplicated category","[[Category:中国人权律师]]"]]

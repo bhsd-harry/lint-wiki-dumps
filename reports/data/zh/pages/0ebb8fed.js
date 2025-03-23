@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",11,18,"border"],[2,"no-duplicate",14,139,"style=\"width:20px\""]]
+window.data=[["illegal-attr",11,18,"illegal attribute name","border"],["no-duplicate",14,139,"duplicated style attribute","style=\"width:20px\""],["no-duplicate",14,173,"duplicated style attribute","style=\"color:black\""]]

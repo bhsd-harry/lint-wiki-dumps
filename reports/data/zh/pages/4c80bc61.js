@@ -1,1 +1,1 @@
-window.data=[[3,"fostered-content",35,1," *[[滴水崖石窟]]\n *[[朝阳洞塔]]\n *[[赤城鼓楼]]"]]
+window.data=[["fostered-content",35,1,"content to be moved out from the table"," *[[滴水崖石窟]]\n *[[朝阳洞塔]]\n *[[赤城鼓楼]]"],["fostered-content",41,1,"content to be moved out from the table"," *[[龙门崖摩崖石刻]]"],["fostered-content",51,1,"content to be moved out from the table"," *[[独石口砖瓦窑遗址群]]\n *[[瑞云寺塔(温泉塔)]]\n *[[独石口城]]\n *[[护国寺石窟]]\n *[[温泉碑刻]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",61,46,"Right"]]
+window.data=[["no-duplicate",61,46,"duplicated image caption parameter","Right"],["no-duplicate",61,52,"duplicated image caption parameter","電影《[[黑暗騎士：黎明昇起]]》中的班恩，由[[湯姆·哈迪]]飾演"]]

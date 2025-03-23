@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",220,70,"{{"],[2,"no-duplicate",220,70,"{{le"]]
+window.data=[["lonely-bracket",220,70,"lonely \"{\"","{{"],["no-duplicate",220,70,"duplicated image caption parameter","{{le"],["no-duplicate",220,75,"duplicated image caption parameter","東高止山脈蒂魯馬拉丘陵（Tirumala Hills）碎屑岩所呈現的{{le|蒂魯帕提始太古代不整合面|Eparchaean Unconformity|始太古代不整合構造}}。"]]

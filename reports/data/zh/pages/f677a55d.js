@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",71,3262,"name=interview/，其大聯盟時期總薪資為574萬美元<ref"],[1,"tag-like",71,3294,"<ref"]]
+window.data=[["tag-like",71,3294,"lonely \"<\"","<ref"],["no-duplicate",71,3262,"duplicated name attribute","name=interview/，其大聯盟時期總薪資為574萬美元<ref"],["no-duplicate",71,3299,"duplicated name attribute","name=statistics"]]

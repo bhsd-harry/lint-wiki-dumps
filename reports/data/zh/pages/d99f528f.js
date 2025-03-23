@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,77,"链接=https://en.wikipedia.org/wiki/File:Member states of the Convention on Intangible Cultural Heritage.svg"]]
+window.data=[["no-duplicate",2,77,"duplicated image caption parameter","链接=https://en.wikipedia.org/wiki/File:Member states of the Convention on Intangible Cultural Heritage.svg"],["no-duplicate",2,187,"duplicated image caption parameter","公約締約國"]]

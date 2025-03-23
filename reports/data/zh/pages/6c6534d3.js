@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",130,2,"[[Category:上海市人民委员会市长]]"]]
+window.data=[["no-duplicate",130,2,"duplicated category","[[Category:上海市人民委员会市长]]"],["no-duplicate",134,2,"duplicated category","[[Category:上海市人民委员会市长]]"]]

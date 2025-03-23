@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",28,3," structure = 地下车站\n "]]
+window.data=[["no-duplicate",28,3,"duplicated parameter"," structure = 地下车站\n "],["no-duplicate",52,3,"duplicated parameter"," structure = 地下車站\n "],["no-duplicate",32,3,"duplicated parameter"," exits = 4个\n "],["no-duplicate",55,3,"duplicated parameter"," exits = 4\n "]]

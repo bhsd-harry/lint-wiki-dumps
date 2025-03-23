@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3," colorcode        = #{{wikidata|property|P465}}\n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter"," colorcode        = #{{wikidata|property|P465}}\n "],["no-duplicate",21,3,"duplicated parameter"," colorcode     = {{Party meta/color/歐洲左派黨}}\n "]]

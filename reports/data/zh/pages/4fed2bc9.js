@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",178,2,"[[Category:中華民國陸軍武官]]"]]
+window.data=[["no-duplicate",178,2,"duplicated category","[[Category:中華民國陸軍武官]]"],["no-duplicate",185,2,"duplicated category","[[Category:中華民國陸軍武官]]"]]

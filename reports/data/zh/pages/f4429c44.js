@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",63,12,"2012"],[2,"no-ignored",63,4,"\t| 20|| "]]
+window.data=[["illegal-attr",63,12,"illegal attribute name","2012"],["illegal-attr",63,17,"illegal attribute name","07"],["no-ignored",63,4,"containing invalid attribute","\t| 20|| "],["no-ignored",63,19,"containing invalid attribute","/08||3.20||超越極限！！評審指定挑戰賽||"]]

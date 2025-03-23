@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",125,2,"[[Category:哈萨克斯坦亿万富豪]]"]]
+window.data=[["no-duplicate",125,2,"duplicated category","[[Category:哈萨克斯坦亿万富豪]]"],["no-duplicate",126,2,"duplicated category","[[Category:哈萨克斯坦亿万富豪]]"]]

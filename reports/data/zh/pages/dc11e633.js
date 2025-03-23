@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",26,2,"[[Category:明朝左副都御史]]"]]
+window.data=[["no-duplicate",26,2,"duplicated category","[[Category:明朝左副都御史]]"],["no-duplicate",31,2,"duplicated category","[[Category:明朝左副都御史]]"],["no-duplicate",27,2,"duplicated category","[[Category:明朝右都御史]]"],["no-duplicate",32,2,"duplicated category","[[Category:明朝右都御史]]"]]

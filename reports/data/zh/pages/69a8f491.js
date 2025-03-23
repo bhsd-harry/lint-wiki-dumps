@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",259,27,"]"],[1,"nested-link",249,97,"[[Office for National Statistics]]"]]
+window.data=[["nested-link",249,97,"internal link in an external link","[[Office for National Statistics]]"],["lonely-bracket",259,27,"lonely \"]\"","]"]]

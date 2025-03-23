@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,54,"中華民國簽證政策"]]
+window.data=[["no-duplicate",14,54,"duplicated image caption parameter","中華民國簽證政策"],["no-duplicate",14,63,"duplicated image caption parameter","{{legend|red|[[中華民國]]實際控制區}}{{legend|green|[[簽證#免簽證|免簽證]]}}{{legend|skyblue|[[簽證#电子签证|電子簽證]]}}{{legend|#FFFF99|[[簽證#落地签证|落地簽證]]}}{{legend|lightgrey|需签"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",159,129,"[[天王星|喬治星]]"],[2,"no-ignored",930,41,"2\"  "]]
+window.data=[["nested-link",159,129,"internal link in an external link","[[天王星|喬治星]]"],["invalid-css",930,40,"semi-colon expected",""],["invalid-css",930,39,"colon expected","="],["no-ignored",930,41,"containing invalid attribute","2\"  "],["invalid-css",939,40,"semi-colon expected",""],["invalid-css",939,39,"colon expected","="],["no-ignored",939,41,"containing invalid attribute","2\"  "]]

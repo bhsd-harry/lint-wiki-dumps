@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",73,1," * 儿童教育学科"]]
+window.data=[["fostered-content",73,1,"content to be moved out from the table"," * 儿童教育学科"],["fostered-content",95,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]：前樱井女子短期大学附属幼儿园成立于1979年<ref name=\"短期大学的历史\"/>。"]]

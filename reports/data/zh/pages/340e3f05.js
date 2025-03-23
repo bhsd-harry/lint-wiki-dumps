@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,2,"[[Category:芬兰社会民主党党员]]"]]
+window.data=[["no-duplicate",35,2,"duplicated category","[[Category:芬兰社会民主党党员]]"],["no-duplicate",39,2,"duplicated category","[[Category:芬兰社会民主党党员]]"]]

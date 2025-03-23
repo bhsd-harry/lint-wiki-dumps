@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,39,"thum"]]
+window.data=[["no-duplicate",27,39,"duplicated image caption parameter","thum"],["no-duplicate",27,50,"duplicated image caption parameter","舊站名標"]]

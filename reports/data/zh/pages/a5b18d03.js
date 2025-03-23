@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",329,4,"[["],[1,"no-ignored",329,4,"[[梅赛施密特163]] ''rocket interceptor''||1944||{{flag|Germany|Nazi}}||"]]
+window.data=[["lonely-bracket",329,4,"lonely \"[\"","[["],["lonely-bracket",329,14,"lonely \"]\"","]]"],["no-ignored",329,4,"containing invalid attribute","[[梅赛施密特163]] ''rocket interceptor''||1944||{{flag|Germany|Nazi}}||"]]

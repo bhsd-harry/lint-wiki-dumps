@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",262,2,"[[Category:民航機擊落事件]]"]]
+window.data=[["invalid-css",53,22,"property value expected","#red"],["no-duplicate",262,2,"duplicated category","[[Category:民航機擊落事件]]"],["no-duplicate",266,2,"duplicated category","[[Category:民航機擊落事件]]"]]

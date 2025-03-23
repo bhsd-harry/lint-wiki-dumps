@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",105,26,"[[Palácio de Friburgo]], demolido entre os anos de 1774 e 1787"]]
+window.data=[["no-duplicate",105,26,"duplicated image caption parameter","[[Palácio de Friburgo]], demolido entre os anos de 1774 e 1787"],["no-duplicate",105,89,"duplicated image caption parameter",""]]

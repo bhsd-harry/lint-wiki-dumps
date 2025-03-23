@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",9,2,"[[Category:斯洛伐克男子冬季两项运动员]]"]]
+window.data=[["no-duplicate",9,2,"duplicated category","[[Category:斯洛伐克男子冬季两项运动员]]"],["no-duplicate",11,2,"duplicated category","[[Category:斯洛伐克男子冬季两项运动员]]"],["no-duplicate",10,2,"duplicated category","[[Category:斯洛伐克残奥越野滑雪运动员]]"],["no-duplicate",12,2,"duplicated category","[[Category:斯洛伐克残奥越野滑雪运动员]]"]]

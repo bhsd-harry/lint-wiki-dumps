@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",39,2,"[[Category:香港公共圖書館]]"]]
+window.data=[["no-duplicate",39,2,"duplicated category","[[Category:香港公共圖書館]]"],["no-duplicate",42,2,"duplicated category","[[Category:香港公共圖書館]]"],["no-duplicate",44,2,"duplicated category","[[Category:2001年建立的网站]]"],["no-duplicate",45,2,"duplicated category","[[Category:2001年建立的网站]]"]]

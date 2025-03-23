@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",148,112,"author=三联美食"]]
+window.data=[["no-duplicate",148,112,"duplicated parameter","author=三联美食"],["no-duplicate",148,124,"duplicated parameter","author=申功晶"]]

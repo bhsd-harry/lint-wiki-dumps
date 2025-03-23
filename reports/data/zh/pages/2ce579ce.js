@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",49,2,"[[Category:明朝江山縣知縣]]"]]
+window.data=[["no-duplicate",49,2,"duplicated category","[[Category:明朝江山縣知縣]]"],["no-duplicate",60,2,"duplicated category","[[Category:明朝江山縣知縣]]"],["no-duplicate",50,2,"duplicated category","[[Category:明朝雲南按察使]]"],["no-duplicate",61,2,"duplicated category","[[Category:明朝雲南按察使]]"]]

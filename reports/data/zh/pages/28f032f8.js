@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",217,3," 新字形從「匚」；舊字形從「匸」 "]]
+window.data=[["no-ignored",217,3,"containing invalid attribute"," 新字形從「匚」；舊字形從「匸」 "]]

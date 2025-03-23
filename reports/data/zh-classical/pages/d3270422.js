@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,27,"duplicated image caption parameter","縮略圖"],[1,"unmatched-tag",38,5,"tag that is both closing and self-closing","</br>"]]
+window.data=[["no-duplicate",5,27,"duplicated image caption parameter","縮略圖"],["no-duplicate",5,45,"duplicated image caption parameter","[[坤輿]]、[[鬩神星]]、[[冥王星]]、[[鳥神星]]、[[妊神星]]、[[賽德娜]]、[[亡神星]]、[[創神星]]、[[伐羅那]]及其衛之大小比較圖。"],["unmatched-tag",38,5,"tag that is both closing and self-closing","</br>"]]

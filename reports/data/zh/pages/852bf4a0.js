@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",124,2,"[[Category:改編自真人真事的法國電影]]"]]
+window.data=[["no-duplicate",124,2,"duplicated category","[[Category:改編自真人真事的法國電影]]"],["no-duplicate",127,2,"duplicated category","[[Category:改編自真人真事的法國電影]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",1599,3,"HMS"],[2,"no-ignored",1599,6," ''Duke "]]
+window.data=[["illegal-attr",1599,3,"illegal attribute name","HMS"],["illegal-attr",1599,14,"illegal attribute name","of"],["no-ignored",1599,6,"containing invalid attribute"," ''Duke "],["no-ignored",1599,16,"containing invalid attribute"," Edinburgh''"]]

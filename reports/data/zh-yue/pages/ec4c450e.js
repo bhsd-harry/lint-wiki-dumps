@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,19,"useless link text","|外生殖器官"]]
+window.data=[["no-ignored",1,19,"useless link text","|外生殖器官"]]

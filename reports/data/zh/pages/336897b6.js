@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",49,3," 播出時間1 = 每週一更新\n "]]
+window.data=[["no-duplicate",49,3,"duplicated parameter"," 播出時間1 = 每週一更新\n "],["no-duplicate",54,3,"duplicated parameter"," 播出時間1 = 每週二更新\n "]]

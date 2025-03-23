@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",715,46,"縮略圖"]]
+window.data=[["no-duplicate",715,46,"duplicated image caption parameter","縮略圖"],["no-duplicate",715,56,"duplicated image caption parameter","2017年4月13日任天堂直面会開始使用的最新主標誌"]]

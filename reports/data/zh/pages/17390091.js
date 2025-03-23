@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",64,87,"name=\"MV\""],[1,"no-ignored",64,96,"/，成員們跳著象徵著剪掉劉海，動作激烈為特色的舞蹈「剪剪舞」<ref "],[1,"tag-like",64,126,"<ref"]]
+window.data=[["tag-like",64,126,"lonely \"<\"","<ref"],["no-ignored",64,96,"containing invalid attribute","/，成員們跳著象徵著剪掉劉海，動作激烈為特色的舞蹈「剪剪舞」<ref "],["no-duplicate",64,87,"duplicated name attribute","name=\"MV\""],["no-duplicate",64,131,"duplicated name attribute","name=\"MV\""]]

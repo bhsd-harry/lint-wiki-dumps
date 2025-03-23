@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1117,2,"[[分類:什葉派神學]]"]]
+window.data=[["no-duplicate",1117,2,"duplicated category","[[分類:什葉派神學]]"],["no-duplicate",1118,2,"duplicated category","[[分類:什葉派神學]]"]]

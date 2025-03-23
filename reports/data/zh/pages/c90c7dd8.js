@@ -1,1 +1,1 @@
-window.data=[[5,"parsing-order",9,29,"<ref name=\"Wegg\">Wegg 1990, pp. 187–199.</ref>"]]
+window.data=[["parsing-order",9,29,"extension tag in HTML tag attributes","<ref name=\"Wegg\">Wegg 1990, pp. 187–199.</ref>"],["parsing-order",12,24,"extension tag in HTML tag attributes","<ref name=\"Wegg\"/>"],["parsing-order",13,23,"extension tag in HTML tag attributes","<ref name=\"Wegg\"/>"],["parsing-order",16,27,"extension tag in HTML tag attributes","<ref name=\"Wegg\"/>"],["parsing-order",19,83,"HTML tag in table attributes","<br/>"]]

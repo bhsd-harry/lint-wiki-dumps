@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",52,2,"[[Category:歐洲冠軍聯賽冠軍隊主教練]]"]]
+window.data=[["no-duplicate",52,2,"duplicated category","[[Category:歐洲冠軍聯賽冠軍隊主教練]]"],["no-duplicate",69,2,"duplicated category","[[Category:歐洲冠軍聯賽冠軍隊主教練]]"]]

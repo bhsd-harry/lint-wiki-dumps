@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",49,15,"duplicated category","[[Category:公司模板|{{PAGENAME}}]]"]]
+window.data=[["no-duplicate",49,15,"duplicated category","[[Category:公司模板|{{PAGENAME}}]]"],["no-duplicate",73,2,"duplicated category","[[Category:公司模板]]"]]

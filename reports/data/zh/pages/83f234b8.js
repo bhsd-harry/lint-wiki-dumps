@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",206,1383,"name=\"TheNumbersOveralL\""],[1,"no-ignored",206,1407,"  /。电影的票房总额在8130至8300万美元范围<ref "],[1,"tag-like",206,1433,"<ref"]]
+window.data=[["tag-like",206,1433,"lonely \"<\"","<ref"],["no-ignored",206,1407,"containing invalid attribute","  /。电影的票房总额在8130至8300万美元范围<ref "],["no-duplicate",206,1383,"duplicated name attribute","name=\"TheNumbersOveralL\""],["no-duplicate",206,1438,"duplicated name attribute","name=\"TheNumbersSummary\""]]

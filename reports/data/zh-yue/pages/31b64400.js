@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,2,"duplicated category","[[Category:北京大學舊生]]"]]
+window.data=[["no-duplicate",9,2,"duplicated category","[[Category:北京大學舊生]]"],["no-duplicate",11,2,"duplicated category","[[Category:北京大學舊生]]"]]

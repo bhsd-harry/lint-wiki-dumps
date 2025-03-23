@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",57,128,"title=Financial crisis may hamper expected increase in Poland-China trade - People's Daily Online"]]
+window.data=[["no-duplicate",57,128,"duplicated parameter","title=Financial crisis may hamper expected increase in Poland-China trade - People's Daily Online"],["no-duplicate",57,226,"duplicated parameter","title=\n Financial crisis may hamper expected increase in Poland-China trade"]]

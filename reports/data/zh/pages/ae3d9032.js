@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",104,54,"[["],[2,"no-duplicate",104,54,"[[Neuenstein, Baden-Württemberg"]]
+window.data=[["lonely-bracket",104,54,"lonely \"[\"","[["],["no-duplicate",104,54,"duplicated image caption parameter","[[Neuenstein, Baden-Württemberg"],["no-duplicate",104,86,"duplicated image caption parameter","[[諾恩施泰因 (巴登-符騰堡)|諾恩施泰因]]城堡*"]]

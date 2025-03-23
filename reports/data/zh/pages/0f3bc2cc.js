@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",319,1,"\n === CD ==="],[1,"invalid-isbn",148,77,"ISBN 9784088551060"],[1,"unclosed-table",200,2,"{|"]]
+window.data=[["invalid-isbn",148,77,"invalid ISBN","ISBN 9784088551060"],["fostered-content",319,1,"content to be moved out from the table","\n === CD ==="],["unclosed-table",200,2,"unclosed table","{|"]]

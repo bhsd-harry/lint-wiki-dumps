@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",71,40,"text-align"],[1,"no-ignored",102,44,"老鳥 "]]
+window.data=[["illegal-attr",71,40,"illegal attribute name","text-align"],["illegal-attr",102,47,"illegal attribute name","lovelive"],["no-ignored",102,44,"containing invalid attribute","老鳥 "]]

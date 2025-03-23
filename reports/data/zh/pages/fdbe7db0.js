@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",24,311,"{"],[2,"no-duplicate",7,3,"coordinates = \n "]]
+window.data=[["no-duplicate",7,3,"duplicated parameter","coordinates = \n "],["no-duplicate",11,3,"duplicated parameter","coordinates = {{WikidataCoord|display=it}}\n "],["lonely-bracket",24,311,"lonely \"{\"","{"],["lonely-bracket",24,313,"lonely \"}\"","}"],["lonely-bracket",27,224,"lonely \"{\"","{"],["lonely-bracket",27,226,"lonely \"}\"","}"]]

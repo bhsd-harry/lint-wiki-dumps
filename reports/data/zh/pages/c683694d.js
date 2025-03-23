@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",18,90,"[[歐洲區域或少數民族語言憲章]]"]]
+window.data=[["nested-link",18,90,"internal link in an external link","[[歐洲區域或少數民族語言憲章]]"]]

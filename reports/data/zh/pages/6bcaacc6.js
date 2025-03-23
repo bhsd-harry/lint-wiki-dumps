@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",8,150,"{{"],[2,"no-duplicate",8,84,"英國1966年的外交電報：不幸的是，要走的除了雀鳥之外，還有一小撮「[[泰山 (角色)|泰山]]」或「[[魯賓遜漂流記|星期五]]」{{notetag"]]
+window.data=[["lonely-bracket",8,150,"lonely \"{\"","{{"],["no-duplicate",8,84,"duplicated image caption parameter","英國1966年的外交電報：不幸的是，要走的除了雀鳥之外，還有一小撮「[[泰山 (角色)|泰山]]」或「[[魯賓遜漂流記|星期五]]」{{notetag"],["no-duplicate",8,160,"duplicated image caption parameter","{{lang|en|Man Fridays}}，貶義詞，取自《[[魯賓遜漂流記]]》中名叫星期五的黑人奴僕）。"]]

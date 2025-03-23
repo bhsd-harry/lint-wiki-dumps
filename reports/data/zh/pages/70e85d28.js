@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",69,2,"[[Category:偶氮染料]]"]]
+window.data=[["no-duplicate",69,2,"duplicated category","[[Category:偶氮染料]]"],["no-duplicate",74,2,"duplicated category","[[Category:偶氮染料]]"]]

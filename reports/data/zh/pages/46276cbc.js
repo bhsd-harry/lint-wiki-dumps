@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",34,51,"300x300"]]
+window.data=[["no-duplicate",34,51,"duplicated image caption parameter","300x300"],["no-duplicate",34,59,"duplicated image caption parameter","展厅帝国时期的骑兵"],["no-duplicate",45,52,"duplicated image caption parameter","300x300"],["no-duplicate",45,62,"duplicated image caption parameter","奇异陈列室的小兵人偶"],["no-duplicate",53,52,"duplicated image caption parameter","300x300"],["no-duplicate",53,60,"duplicated image caption parameter","戴高乐纪念馆展览厅"]]

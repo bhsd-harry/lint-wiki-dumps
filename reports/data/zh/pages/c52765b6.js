@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",58,57,"Boeing_737-84P,_Hong_Kong_Express_JP6917811"]]
+window.data=[["no-duplicate",58,57,"duplicated image caption parameter","Boeing_737-84P,_Hong_Kong_Express_JP6917811"],["no-duplicate",58,119,"duplicated image caption parameter","香港快運航空舊飛機塗裝"]]

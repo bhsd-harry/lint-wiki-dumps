@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,36,"lang=en"]]
+window.data=[["no-duplicate",15,36,"duplicated image caption parameter","lang=en"],["no-duplicate",15,44,"duplicated image caption parameter","提取出来的人皮蝇幼虫：箭头指向幼虫的[[口器]]。"]]

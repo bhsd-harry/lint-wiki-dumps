@@ -1,1 +1,1 @@
-window.data=[[3,"no-ignored",100,30,"製作人"]]
+window.data=[["invalid-css",27,22,"property value expected",";"],["no-ignored",100,30,"containing invalid attribute","製作人"],["no-ignored",106,35,"containing invalid attribute","編曲"],["no-ignored",108,32,"containing invalid attribute","製作人／編曲"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",1,51,"thumb"]]
+window.data=[["no-duplicate",1,51,"duplicated image thumbnail parameter","thumb"],["no-duplicate",1,96,"duplicated image thumbnail parameter","thumb"],["no-duplicate",1,57,"duplicated image caption parameter","Front door to the Holy Miracles Temple"],["no-duplicate",1,102,"duplicated image caption parameter","聖蹟寺"]]

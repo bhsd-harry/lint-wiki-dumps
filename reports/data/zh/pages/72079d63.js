@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,48,"Piazza Savonarola con la statua di Savonarola e la via Coperta"]]
+window.data=[["no-duplicate",1,48,"duplicated image caption parameter","Piazza Savonarola con la statua di Savonarola e la via Coperta"],["no-duplicate",1,111,"duplicated image caption parameter",""]]

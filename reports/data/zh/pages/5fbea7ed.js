@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",46,2,"[[Category:唐朝检校司空]]"]]
+window.data=[["no-duplicate",46,2,"duplicated category","[[Category:唐朝检校司空]]"],["no-duplicate",54,2,"duplicated category","[[Category:唐朝检校司空]]"]]

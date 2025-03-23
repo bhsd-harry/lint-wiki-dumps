@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",100,1," [[File:Tin shai wai hospital west side.jpg|缩略图|天水圍醫院西面]]"]]
+window.data=[["no-ignored",100,1,"invalid content in <gallery>"," [[File:Tin shai wai hospital west side.jpg|缩略图|天水圍醫院西面]]"]]

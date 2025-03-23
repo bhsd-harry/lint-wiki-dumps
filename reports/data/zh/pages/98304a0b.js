@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",3,35,"200ppx"]]
+window.data=[["no-duplicate",3,35,"duplicated image caption parameter","200ppx"],["no-duplicate",3,42,"duplicated image caption parameter","BMW801后方"],["no-duplicate",4,42,"duplicated image caption parameter","200ppx"],["no-duplicate",4,49,"duplicated image caption parameter","BMW801背面"]]

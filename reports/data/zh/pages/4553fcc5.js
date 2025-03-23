@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",117,2,"[[Category:2022年中國災難|6]]"]]
+window.data=[["no-duplicate",117,2,"duplicated category","[[Category:2022年中國災難|6]]"],["no-duplicate",119,2,"duplicated category","[[Category:2022年中國災難|6]]"]]

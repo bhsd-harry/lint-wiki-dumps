@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",193,2,"[[Category:群體滅絕| ]]"]]
+window.data=[["no-duplicate",193,2,"duplicated category","[[Category:群體滅絕| ]]"],["no-duplicate",198,2,"duplicated category","[[Category:群體滅絕]]"]]

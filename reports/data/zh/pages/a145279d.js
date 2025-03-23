@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,108,"miniaturadeimagen"]]
+window.data=[["no-duplicate",33,108,"duplicated image caption parameter","miniaturadeimagen"],["no-duplicate",33,132,"duplicated image caption parameter","圣地亚哥民众庆祝智利新宪法未能通过"]]

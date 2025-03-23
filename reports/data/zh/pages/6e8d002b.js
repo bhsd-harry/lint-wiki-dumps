@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",325,23,"meta"],[1,"lonely-bracket",325,13,"{{"],[1,"no-ignored",325,35," 社会民主工党} "]]
+window.data=[["lonely-bracket",325,13,"lonely \"{\"","{{"],["illegal-attr",325,23,"illegal attribute name","meta"],["illegal-attr",325,30,"illegal attribute name","color"],["no-ignored",325,35,"containing invalid attribute"," 社会民主工党} "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",160,2,"[[Category:歌舞伎町背景作品]]"]]
+window.data=[["no-duplicate",160,2,"duplicated category","[[Category:歌舞伎町背景作品]]"],["no-duplicate",162,2,"duplicated category","[[Category:歌舞伎町背景作品]]"]]

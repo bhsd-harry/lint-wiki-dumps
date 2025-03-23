@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",116,2,"[[Category:音乐奖项]]"]]
+window.data=[["no-duplicate",116,2,"duplicated category","[[Category:音乐奖项]]"],["no-duplicate",118,2,"duplicated category","[[Category:音乐奖项]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3,"3=zh-cn:康复科;zh-tw:復健科;zh-hk:復康科;\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter","3=zh-cn:康复科;zh-tw:復健科;zh-hk:復康科;\n "],["no-duplicate",6,3,"duplicated parameter","3=zh-cn:康复服务;zh-tw:復健服務;zh-hk:康復服務;\n "]]

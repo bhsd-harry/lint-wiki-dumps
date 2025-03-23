@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",673,3,"m={{flag icon|JPN}} Air Deja Vu<br>1995年（棗色）\n "]]
+window.data=[["no-duplicate",673,3,"duplicated parameter","m={{flag icon|JPN}} Air Deja Vu<br>1995年（棗色）\n "],["no-duplicate",674,3,"duplicated parameter","m={{flag icon|JPN}} Dyna Traquin<br>1979年（棗色）\n "]]

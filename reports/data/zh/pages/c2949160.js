@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",90,2,"[[Category:德国逻辑学家]]"]]
+window.data=[["no-duplicate",90,2,"duplicated category","[[Category:德国逻辑学家]]"],["no-duplicate",96,2,"duplicated category","[[Category:德国逻辑学家]]"]]

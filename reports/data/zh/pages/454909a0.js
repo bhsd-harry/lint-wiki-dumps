@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,3,"code = {{#if:|{{厦门轨道交通车站编号|2|}}|}}\n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter","code = {{#if:|{{厦门轨道交通车站编号|2|}}|}}\n "],["no-duplicate",21,3,"duplicated parameter","code = \n "]]

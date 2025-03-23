@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",214,2,"[[Category:德國現代主義建築| ]]"]]
+window.data=[["no-duplicate",214,2,"duplicated category","[[Category:德國現代主義建築| ]]"],["no-duplicate",225,2,"duplicated category","[[Category:德國現代主義建築]]"]]

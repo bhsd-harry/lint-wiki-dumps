@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,2,"[[Category:冬青属|D]]"]]
+window.data=[["no-duplicate",14,2,"duplicated category","[[Category:冬青属|D]]"],["no-duplicate",17,2,"duplicated category","[[Category:冬青属|D]]"]]

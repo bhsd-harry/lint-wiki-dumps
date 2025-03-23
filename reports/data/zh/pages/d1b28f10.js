@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",67,22,"]]"],[2,"no-duplicate",56,2,"[[Category:明朝直隸華亭縣知縣]]"]]
+window.data=[["lonely-bracket",67,22,"lonely \"]\"","]]"],["no-duplicate",56,2,"duplicated category","[[Category:明朝直隸華亭縣知縣]]"],["no-duplicate",64,2,"duplicated category","[[Category:明朝直隸華亭縣知縣]]"]]

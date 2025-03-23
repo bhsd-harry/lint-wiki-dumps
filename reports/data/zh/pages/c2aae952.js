@@ -1,1 +1,1 @@
-window.data=[[4,"no-ignored",146,1," <gallery>"]]
+window.data=[["no-ignored",146,1,"invalid content in <gallery>"," <gallery>"],["no-ignored",148,1,"invalid content in <gallery>"," * 模擬[[飛機]]事故訓練設施："],["no-ignored",149,1,"invalid content in <gallery>"," * 模擬[[化工]]廠訓練設施："],["no-ignored",150,1,"invalid content in <gallery>"," <gallery>"]]

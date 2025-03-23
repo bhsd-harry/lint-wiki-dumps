@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",24,2,"[[Category:平盧節度使]]"]]
+window.data=[["no-duplicate",24,2,"duplicated category","[[Category:平盧節度使]]"],["no-duplicate",28,2,"duplicated category","[[Category:平盧節度使]]"],["no-duplicate",25,2,"duplicated category","[[Category:唐朝人]]"],["no-duplicate",29,2,"duplicated category","[[Category:唐朝人]]"]]

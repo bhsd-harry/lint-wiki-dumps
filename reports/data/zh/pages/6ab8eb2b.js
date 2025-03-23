@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",564,153," 68<br>（座28、企40） "],[2,"parsing-order",564,156,"<br>"]]
+window.data=[["invalid-css",551,16,"semi-colon expected",""],["invalid-css",551,16,"colon expected",""],["parsing-order",564,156,"HTML tag in table attributes","<br>"],["no-ignored",564,153,"containing invalid attribute"," 68<br>（座28、企40） "],["parsing-order",584,237,"HTML tag in table attributes","<br>"],["no-ignored",584,234,"containing invalid attribute"," 70<br>（座26、企44） "],["invalid-css",650,16,"semi-colon expected",""],["invalid-css",650,16,"colon expected",""]]

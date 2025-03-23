@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,4,"class=\"unsortable\""]]
+window.data=[["no-duplicate",41,4,"duplicated class attribute","class=\"unsortable\""],["no-duplicate",41,24,"duplicated class attribute","class=\"unsortable\""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",150,2,"[[Category:ZEROBASEONE]]"]]
+window.data=[["invalid-css",73,11,"} expected",";"],["invalid-css",73,28,"{ expected",""],["no-duplicate",150,2,"duplicated category","[[Category:ZEROBASEONE]]"],["no-duplicate",153,2,"duplicated category","[[Category:ZEROBASEONE]]"]]

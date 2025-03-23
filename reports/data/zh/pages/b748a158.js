@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,3," pushpin_map_caption     = 在奥地利的位置\n "]]
+window.data=[["no-duplicate",20,3,"duplicated parameter"," pushpin_map_caption     = 在奥地利的位置\n "],["no-duplicate",26,3,"duplicated parameter"," pushpin_map_caption      = [[巴特塔茨曼斯多夫]]在[[奥地利]]的位置\n "]]

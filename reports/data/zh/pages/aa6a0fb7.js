@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,46,"LEFt"]]
+window.data=[["no-duplicate",27,46,"duplicated image caption parameter","LEFt"],["no-duplicate",27,63,"duplicated image caption parameter","耶路撒冷宗主教進入耶路撒冷（作者：[[詹姆斯·迪索]]）"]]

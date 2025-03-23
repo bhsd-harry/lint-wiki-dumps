@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,49,"Plain_Clothes_police_use_leg_kick_the_flowers_2021-07-02.png"]]
+window.data=[["no-duplicate",37,49,"duplicated image caption parameter","Plain_Clothes_police_use_leg_kick_the_flowers_2021-07-02.png"],["no-duplicate",37,110,"duplicated image caption parameter","疑似便衣警員用腳踢市民擺放的鮮花"]]

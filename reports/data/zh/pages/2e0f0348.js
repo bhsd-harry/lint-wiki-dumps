@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",84,73,"[[e-rara.ch]]"]]
+window.data=[["nested-link",84,73,"internal link in an external link","[[e-rara.ch]]"],["nested-link",85,128,"internal link in an external link","[[自然科学会报]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",31,129,"[[PlayStation Portable|PSP]]"]]
+window.data=[["nested-link",31,129,"internal link in an external link","[[PlayStation Portable|PSP]]"]]

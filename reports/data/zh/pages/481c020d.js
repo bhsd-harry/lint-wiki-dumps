@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",137,2,"[[Category:無綫電視男藝員]]"]]
+window.data=[["no-duplicate",137,2,"duplicated category","[[Category:無綫電視男藝員]]"],["no-duplicate",150,2,"duplicated category","[[Category:無綫電視男藝員]]"],["no-duplicate",138,2,"duplicated category","[[Category:香港兒童節目主持]]"],["no-duplicate",149,2,"duplicated category","[[Category:香港兒童節目主持]]"]]

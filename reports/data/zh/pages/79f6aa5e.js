@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",127,56,"name=\"Airbus 2014\""],[1,"no-ignored",127,74,"/。\n\n 任务目标是:<ref "],[1,"tag-like",129,8,"<ref"]]
+window.data=[["tag-like",129,8,"lonely \"<\"","<ref"],["no-ignored",127,74,"containing invalid attribute","/。\n\n 任务目标是:<ref "],["no-duplicate",127,56,"duplicated name attribute","name=\"Airbus 2014\""],["no-duplicate",129,13,"duplicated name attribute","name=\"Airbus 2014\""]]

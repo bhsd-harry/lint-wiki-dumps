@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",14,839,"[[MSN]]"]]
+window.data=[["nested-link",14,839,"internal link in an external link","[[MSN]]"],["nested-link",14,851,"internal link in an external link","[[無名小站 (台灣)|無名小站]]"]]

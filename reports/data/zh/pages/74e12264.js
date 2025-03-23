@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",157,2,"[[Category:第十一届乌克兰苏维埃社会主义共和国最高苏维埃代表]]"]]
+window.data=[["no-duplicate",157,2,"duplicated category","[[Category:第十一届乌克兰苏维埃社会主义共和国最高苏维埃代表]]"],["no-duplicate",166,2,"duplicated category","[[Category:第十一届乌克兰苏维埃社会主义共和国最高苏维埃代表]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,3,"educate            = \n "]]
+window.data=[["no-duplicate",32,3,"duplicated parameter","educate            = \n "],["no-duplicate",56,3,"duplicated parameter"," educate = \n * [[空軍軍官學校]]1987年班（76年班）\n * [[美國]][[哈佛大學]][[甘迺迪政府學院]][[學分]]班\n * {{link-en|美國空軍戰爭學院|Air War College}}99年班\n "]]

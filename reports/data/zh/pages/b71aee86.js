@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,22,"|多特蒙德足球俱乐部"]]
+window.data=[["no-ignored",1,22,"useless link text","|多特蒙德足球俱乐部"]]

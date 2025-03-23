@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",56,2,"[[Category:Android遊戲]]"]]
+window.data=[["no-duplicate",56,2,"duplicated category","[[Category:Android遊戲]]"],["no-duplicate",61,2,"duplicated category","[[Category:Android遊戲]]"],["no-duplicate",58,2,"duplicated category","[[Category:IOS遊戲]]"],["no-duplicate",63,2,"duplicated category","[[Category:IOS遊戲]]"]]

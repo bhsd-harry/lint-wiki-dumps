@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",49,2,"[[Category:幽浮文化]]"]]
+window.data=[["no-duplicate",49,2,"duplicated category","[[Category:幽浮文化]]"],["no-duplicate",52,2,"duplicated category","[[Category:幽浮文化]]"]]

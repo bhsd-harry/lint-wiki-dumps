@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",104,1," ;辽宁中医（崇山路北陵大街路口西侧站位，西向站位F出入口向西140米省实验学校门前，东向站位G出入口向西190米过街天桥下方）\n {{沈阳公交线路列表|width=100%|format=|end=yes|205|210}}"]]
+window.data=[["fostered-content",104,1,"content to be moved out from the table"," ;辽宁中医（崇山路北陵大街路口西侧站位，西向站位F出入口向西140米省实验学校门前，东向站位G出入口向西190米过街天桥下方）\n {{沈阳公交线路列表|width=100%|format=|end=yes|205|210}}"],["fostered-content",107,1,"content to be moved out from the table"," ;辽宁中医（崇山路北陵大街路口东侧站位，西向站位A出入口向东210米建信花园门前，东向站位A出入口向东南160米辽宁中医北门）\n {{沈阳公交线路列表|width=100%|format=|end=yes|106|136|162|213|227|245|290|299}}\n {{col-end}}"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,29,"Diversity and progression of toxic effects produced by exposure to increased oxygen pressures."]]
+window.data=[["no-duplicate",23,29,"duplicated image caption parameter","Diversity and progression of toxic effects produced by exposure to increased oxygen pressures."],["no-duplicate",23,445,"duplicated image caption parameter","吸入高压氧气可导致一些不利影响"]]

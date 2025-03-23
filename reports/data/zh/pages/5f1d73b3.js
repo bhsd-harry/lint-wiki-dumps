@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",14,22,"Akher"],[1,"no-ignored",14,27," Ezaman\""]]
+window.data=[["invalid-css",9,63,"property value expected","#f"],["illegal-attr",14,22,"illegal attribute name","Akher"],["no-ignored",14,27,"containing invalid attribute"," Ezaman\""]]

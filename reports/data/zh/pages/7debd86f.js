@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-apos",7,13,"'"],[4,"no-duplicate",16,76,"border"]]
+window.data=[["lonely-apos",7,13,"lonely \"'\"","'"],["lonely-apos",8,10,"lonely \"'\"","'"],["no-duplicate",16,76,"duplicated image border parameter","border"],["no-duplicate",16,88,"duplicated image border parameter","border"],["no-duplicate",16,83,"duplicated image width parameter","25px"],["no-duplicate",16,95,"duplicated image width parameter","25px"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",4359,4,"2"],[2,"invalid-isbn",167,46,"ISBN 9789881585796"],[1,"lonely-bracket",67,1203,"["]]
+window.data=[["lonely-bracket",67,1203,"lonely \"[\"","["],["invalid-isbn",167,46,"invalid ISBN","ISBN 9789881585796"],["invalid-isbn",168,10,"invalid ISBN","ISBN 9627993513"],["illegal-attr",4359,4,"illegal attribute name","2"]]

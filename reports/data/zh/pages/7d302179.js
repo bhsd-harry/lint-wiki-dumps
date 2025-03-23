@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",67,102,"[[agarose electrophoresis]]"],[1,"tag-like",32,160,"</ref"]]
+window.data=[["tag-like",32,160,"lonely \"<\"","</ref"],["nested-link",67,102,"internal link in an external link","[[agarose electrophoresis]]"],["nested-link",67,134,"internal link in an external link","[[electroelution]]"]]

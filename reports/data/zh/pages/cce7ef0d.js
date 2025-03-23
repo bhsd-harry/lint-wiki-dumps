@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,2,"[[Category:宝坻区铁路车站]]"]]
+window.data=[["no-duplicate",20,2,"duplicated category","[[Category:宝坻区铁路车站]]"],["no-duplicate",33,2,"duplicated category","[[Category:宝坻区铁路车站|D]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2119,17,"rowspan=\"5\""]]
+window.data=[["invalid-css",525,22,"semi-colon expected","95%"],["invalid-css",525,17,"colon expected","size"],["invalid-css",625,22,"semi-colon expected","95%"],["invalid-css",625,17,"colon expected","size"],["invalid-css",937,58,"semi-colon expected",""],["no-duplicate",2119,17,"duplicated rowspan attribute","rowspan=\"5\""],["no-duplicate",2119,30,"duplicated rowspan attribute","rowspan=\"5\""]]

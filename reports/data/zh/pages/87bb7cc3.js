@@ -1,1 +1,1 @@
-window.data=[[6,"lonely-bracket",331,22,"[["],[1,"no-ignored",331,4,"2013年2月9日-9月7日 || [[MBC]] || [[我們結婚了]] || 與[[高俊熙]]為珍惜夫婦"]]
+window.data=[["lonely-bracket",331,22,"lonely \"[\"","[["],["lonely-bracket",331,27,"lonely \"]\"","]]"],["lonely-bracket",331,33,"lonely \"[\"","[["],["lonely-bracket",331,40,"lonely \"]\"","]]"],["lonely-bracket",331,47,"lonely \"[\"","[["],["lonely-bracket",331,52,"lonely \"]\"","]]"],["no-ignored",331,4,"containing invalid attribute","2013年2月9日-9月7日 || [[MBC]] || [[我們結婚了]] || 與[[高俊熙]]為珍惜夫婦"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,3," 配偶 =  謝京穎\n "]]
+window.data=[["no-duplicate",16,3,"duplicated parameter"," 配偶 =  謝京穎\n "],["no-duplicate",23,3,"duplicated parameter"," 配偶 = {{marriage|[[謝京穎]]|2023年12月18日}}<ref>{{cite news|url= https://tw.news.yahoo.com/%E6%81%AD%E5%96%9C%E5%BC%B5%E6%9B%B8%E5%81%89%E7%B5%90%E5%A9%9A%"]]

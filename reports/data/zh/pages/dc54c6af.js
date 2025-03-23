@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",98,2,"[[Category:無綫電視犯罪劇集]]"]]
+window.data=[["no-duplicate",98,2,"duplicated category","[[Category:無綫電視犯罪劇集]]"],["no-duplicate",100,2,"duplicated category","[[Category:無綫電視犯罪劇集]]"],["no-duplicate",99,2,"duplicated category","[[Category:廉政行動|2]]"],["no-duplicate",101,2,"duplicated category","[[Category:廉政行動|2]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,3," synonyms = "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter"," synonyms = "],["no-duplicate",11,16,"duplicated parameter"," synonyms = {{Specieslist\n  |Centropomus aureus|Lacepède, 1802\n  |Amia aurea|(Lacepède, 1802)\n  |Apogon aureus|(Lacepède, 1802)\n  |Gronovichthys aureu"]]

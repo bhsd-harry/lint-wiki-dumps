@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",286,33,"Right"]]
+window.data=[["no-duplicate",286,33,"duplicated image caption parameter","Right"],["no-duplicate",286,39,"duplicated image caption parameter","電影《[[惡棍英雄：死侍]]》中的死侍，由[[萊恩·雷諾斯]]飾演"]]

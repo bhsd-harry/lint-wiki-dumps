@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,2,"[[Category:中文短篇小说]]"]]
+window.data=[["no-duplicate",14,2,"duplicated category","[[Category:中文短篇小说]]"],["no-duplicate",20,2,"duplicated category","[[Category:中文短篇小说|C]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,5,"border=1"]]
+window.data=[["invalid-css",19,69,"semi-colon expected",""],["invalid-css",19,62,"colon expected","="],["no-duplicate",19,5,"duplicated border attribute","border=1"],["no-duplicate",19,72,"duplicated border attribute","border=\"1\""]]

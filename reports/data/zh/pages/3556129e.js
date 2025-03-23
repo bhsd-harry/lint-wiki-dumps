@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",132,2,"[[Category:WB电视网原创节目]]"]]
+window.data=[["no-duplicate",132,2,"duplicated category","[[Category:WB电视网原创节目]]"],["no-duplicate",134,2,"duplicated category","[[Category:WB电视网原创节目]]"]]

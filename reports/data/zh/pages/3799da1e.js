@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",130,2,"[[Category:1993年面世的汽車]]"]]
+window.data=[["no-duplicate",130,2,"duplicated category","[[Category:1993年面世的汽車]]"],["no-duplicate",134,2,"duplicated category","[[Category:1993年面世的汽車]]"]]

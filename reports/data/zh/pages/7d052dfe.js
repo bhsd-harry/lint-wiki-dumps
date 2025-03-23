@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",164,2,"[[Category:功勋十字勋章获得者]]"]]
+window.data=[["no-duplicate",164,2,"duplicated category","[[Category:功勋十字勋章获得者]]"],["no-duplicate",166,2,"duplicated category","[[Category:功勋十字勋章获得者]]"],["no-duplicate",165,2,"duplicated category","[[Category:艰苦战斗奖章获得者]]"],["no-duplicate",167,2,"duplicated category","[[Category:艰苦战斗奖章获得者]]"]]

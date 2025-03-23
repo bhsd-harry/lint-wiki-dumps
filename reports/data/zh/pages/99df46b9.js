@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",79,25,"vignette"]]
+window.data=[["no-duplicate",79,25,"duplicated image caption parameter","vignette"],["no-duplicate",79,46,"duplicated image caption parameter","[[帕萨鱼属|扁体帕萨鱼]]（''Pasaichthys pleuronectiformis''）的化石，它是一种小型的[[银鳞鲳科]]鱼类"]]

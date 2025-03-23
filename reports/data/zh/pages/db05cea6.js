@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",1581,3,"HDB"],[1,"no-ignored",1581,6," 太太 "]]
+window.data=[["illegal-attr",1581,3,"illegal attribute name","HDB"],["illegal-attr",1581,10,"illegal attribute name","4.0"],["no-ignored",1581,6,"containing invalid attribute"," 太太 "]]

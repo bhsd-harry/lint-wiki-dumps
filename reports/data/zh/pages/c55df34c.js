@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",997,26,"style=\"text-align:center;\""]]
+window.data=[["no-duplicate",997,26,"duplicated style attribute","style=\"text-align:center;\""],["no-duplicate",997,54,"duplicated style attribute","style=\"width:95%;\""]]

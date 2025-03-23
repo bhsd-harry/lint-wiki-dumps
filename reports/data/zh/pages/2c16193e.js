@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,22,"[[火星]]的"]]
+window.data=[["no-duplicate",13,22,"duplicated image caption parameter","[[火星]]的"],["no-duplicate",13,30,"duplicated image caption parameter","{{link-en|弗羅杰爾格坑|Flaugergues (crater)}}，底部和南側已經被侵蝕。箭頭指向皺脊。"]]

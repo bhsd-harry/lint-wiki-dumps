@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",61,2,"[[Category:历史学书籍]]"]]
+window.data=[["no-duplicate",61,2,"duplicated category","[[Category:历史学书籍]]"],["no-duplicate",63,2,"duplicated category","[[Category:历史学书籍]]"]]

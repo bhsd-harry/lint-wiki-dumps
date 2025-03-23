@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",97,49,"text-align"]]
+window.data=[["illegal-attr",97,49,"illegal attribute name","text-align"],["invalid-css",128,75,"semi-colon expected",""],["invalid-css",128,75,"colon expected",""],["invalid-css",130,72,"semi-colon expected",""],["invalid-css",130,72,"colon expected",""],["invalid-css",131,92,"semi-colon expected",""],["invalid-css",131,92,"colon expected",""],["invalid-css",133,86,"semi-colon expected",""],["invalid-css",133,86,"colon expected",""]]

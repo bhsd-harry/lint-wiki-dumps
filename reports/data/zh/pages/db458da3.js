@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",160,2,"[[Category:2000年代喜劇劇情片]]"]]
+window.data=[["no-duplicate",160,2,"duplicated category","[[Category:2000年代喜劇劇情片]]"],["no-duplicate",168,2,"duplicated category","[[Category:2000年代喜劇劇情片]]"]]

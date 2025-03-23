@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,35,"2006江门龙光塔_-_panoramio"]]
+window.data=[["no-duplicate",5,35,"duplicated image caption parameter","2006江门龙光塔_-_panoramio"],["no-duplicate",5,75,"duplicated image caption parameter","白水帶"]]

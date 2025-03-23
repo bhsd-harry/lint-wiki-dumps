@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",70,2,"[[Category:室內田徑場]]"]]
+window.data=[["no-duplicate",70,2,"duplicated category","[[Category:室內田徑場]]"],["no-duplicate",75,2,"duplicated category","[[分類:室內田徑場]]"]]

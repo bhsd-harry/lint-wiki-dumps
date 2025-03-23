@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,50,"rught"]]
+window.data=[["no-duplicate",3,50,"duplicated image caption parameter","rught"],["no-duplicate",3,56,"duplicated image caption parameter","[[香港警務處|警隊]]最高榮譽喪禮"]]

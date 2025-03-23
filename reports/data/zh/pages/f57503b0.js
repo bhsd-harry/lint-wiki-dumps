@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",30,42,"在[[光线追踪]]场景下使用构造实体几何"]]
+window.data=[["no-duplicate",30,42,"duplicated image caption parameter","在[[光线追踪]]场景下使用构造实体几何"],["no-duplicate",30,63,"duplicated image caption parameter","在[[光线追踪]]场景下使用构造实体几何"]]

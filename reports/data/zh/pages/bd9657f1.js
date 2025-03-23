@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",34,39,"Thumb"]]
+window.data=[["no-duplicate",34,39,"duplicated image caption parameter","Thumb"],["no-duplicate",34,45,"duplicated image caption parameter","浪琴湾"]]

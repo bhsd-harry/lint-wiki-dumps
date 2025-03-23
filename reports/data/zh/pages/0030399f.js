@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,29,"Auguste_Comte(1)"]]
+window.data=[["no-duplicate",1,29,"duplicated image caption parameter","Auguste_Comte(1)"],["no-duplicate",1,58,"duplicated image caption parameter","提出利他主義概念的哲學家奧古斯特·孔德"]]

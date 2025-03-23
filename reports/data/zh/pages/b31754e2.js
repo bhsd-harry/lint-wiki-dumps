@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,28,"页数=计算机技术与软件资格（水平）考试新版证书内"]]
+window.data=[["no-duplicate",2,28,"duplicated image caption parameter","页数=计算机技术与软件资格（水平）考试新版证书内"],["no-duplicate",2,67,"duplicated image caption parameter","社会工作者职业资格证（助理）"]]

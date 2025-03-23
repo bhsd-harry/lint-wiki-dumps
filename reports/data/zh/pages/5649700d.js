@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,1,"[[Category:皮奥伊州市镇]]"]]
+window.data=[["no-duplicate",2,1,"duplicated category","[[Category:皮奥伊州市镇]]"],["no-duplicate",62,2,"duplicated category","[[Category:皮奥伊州市镇]]"]]

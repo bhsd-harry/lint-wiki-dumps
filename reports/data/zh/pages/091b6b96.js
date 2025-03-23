@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",7,143,"[[Polski Słownik Biograficzny]]"]]
+window.data=[["nested-link",7,143,"internal link in an external link","[[Polski Słownik Biograficzny]]"]]

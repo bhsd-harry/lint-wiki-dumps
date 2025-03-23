@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,28,"|阿爾布雷希特五世 (巴伐利亞)"]]
+window.data=[["no-ignored",1,28,"useless link text","|阿爾布雷希特五世 (巴伐利亞)"]]

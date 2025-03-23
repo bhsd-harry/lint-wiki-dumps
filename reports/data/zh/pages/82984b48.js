@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3,"1 = zh-cn:奥斯曼帝国; zh-tw:鄂圖曼帝國; zh-hk:鄂圖曼帝國;\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter","1 = zh-cn:奥斯曼帝国; zh-tw:鄂圖曼帝國; zh-hk:鄂圖曼帝國;\n "],["no-duplicate",3,3,"duplicated parameter","1 = zh-cn:奥斯曼; zh-tw:鄂圖曼; zh-hk:鄂圖曼;\n "]]

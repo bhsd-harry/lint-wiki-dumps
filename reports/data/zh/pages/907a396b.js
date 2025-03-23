@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",14,5,"!scope=col"]]
+window.data=[["no-ignored",14,5,"containing invalid attribute","!scope=col"]]

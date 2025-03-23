@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",45,1," * 食物营养学科\n * 保育学科\n ** 第一部\n ** 函授教育课程"]]
+window.data=[["fostered-content",45,1,"content to be moved out from the table"," * 食物营养学科\n * 保育学科\n ** 第一部\n ** 函授教育课程"],["fostered-content",69,1,"content to be moved out from the table"," * 前有了附属保育専門学院:停办于1987年<ref name=\"短期大学的历史\"/>"]]

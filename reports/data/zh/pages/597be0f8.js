@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,2,"[[Category:放射線學]]"]]
+window.data=[["no-duplicate",18,2,"duplicated category","[[Category:放射線學]]"],["no-duplicate",21,2,"duplicated category","[[Category:放射線學]]"]]

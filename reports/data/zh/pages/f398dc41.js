@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,17,"|遺傳漂變"]]
+window.data=[["no-ignored",1,17,"useless link text","|遺傳漂變"]]

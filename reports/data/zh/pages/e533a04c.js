@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",136,2,"[[Category:时代楷模]]"]]
+window.data=[["no-duplicate",136,2,"duplicated category","[[Category:时代楷模]]"],["no-duplicate",138,2,"duplicated category","[[Category:时代楷模]]"]]

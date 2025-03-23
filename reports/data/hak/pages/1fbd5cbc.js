@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",15,1,"invalid content in <gallery>"," <gallery>"],[1,"tag-like",23,2,"lonely \"<\"","</gallery"]]
+window.data=[["no-ignored",15,1,"invalid content in <gallery>"," <gallery>"],["tag-like",23,2,"lonely \"<\"","</gallery"]]

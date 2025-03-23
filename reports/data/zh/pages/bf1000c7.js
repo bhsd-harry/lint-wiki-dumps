@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",18,52,"[[ATCC (company)|ATCC]]"]]
+window.data=[["nested-link",18,52,"internal link in an external link","[[ATCC (company)|ATCC]]"]]

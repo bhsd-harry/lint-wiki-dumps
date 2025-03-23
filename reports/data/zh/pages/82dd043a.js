@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",41,2,"[[Category:國防醫學院校友]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:國防醫學院校友]]"],["no-duplicate",44,2,"duplicated category","[[Category:國防醫學院校友]]"],["no-duplicate",42,2,"duplicated category","[[Category:臺灣軍醫師]]"],["no-duplicate",45,2,"duplicated category","[[Category:臺灣軍醫師]]"],["no-duplicate",47,2,"duplicated category","[[Category:牛津大学校友]]"],["no-duplicate",48,2,"duplicated category","[[Category:牛津大学校友]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",79,2,"[[Category:英國奧林匹克運動會銅牌得主]]"]]
+window.data=[["no-duplicate",79,2,"duplicated category","[[Category:英國奧林匹克運動會銅牌得主]]"],["no-duplicate",87,2,"duplicated category","[[Category:英國奧林匹克運動會銅牌得主]]"]]

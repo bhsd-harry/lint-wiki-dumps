@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,2,"[[Category:灶神星]]"]]
+window.data=[["no-duplicate",13,2,"duplicated category","[[Category:灶神星]]"],["no-duplicate",14,2,"duplicated category","[[Category:灶神星|V]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,3," educate             = \n "]]
+window.data=[["no-duplicate",17,3,"duplicated parameter"," educate             = \n "],["no-duplicate",19,3,"duplicated parameter"," educate = \n *中原大學工業工程系畢業\n *美國聖地牙哥大學人力資源發展中心研究\n "]]

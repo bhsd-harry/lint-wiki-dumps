@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3,"1=zh-tw:威廉·佛雷金;zh-hk:威廉·佛烈堅;zh-my:威廉·费烈金;zh-cn:威廉·弗莱德金;zh:威廉·弗莱德金;\n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter","1=zh-tw:威廉·佛雷金;zh-hk:威廉·佛烈堅;zh-my:威廉·费烈金;zh-cn:威廉·弗莱德金;zh:威廉·弗莱德金;\n "],["no-duplicate",9,3,"duplicated parameter"," 1 = zh:弗莱德金;zh-cn:弗里德金;zh-my:费烈金;zh-tw:佛雷金;zh-hk:佛烈堅;\n "]]

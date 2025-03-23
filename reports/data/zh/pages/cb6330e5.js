@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",97,20,"lang=\"bs\""]]
+window.data=[["no-duplicate",97,20,"duplicated lang attribute","lang=\"bs\""],["no-duplicate",97,31,"duplicated lang attribute","lang=\"bs\""],["no-duplicate",98,20,"duplicated lang attribute","lang=\"bs\""],["no-duplicate",98,31,"duplicated lang attribute","lang=\"bs\""]]

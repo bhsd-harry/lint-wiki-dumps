@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,3,"duplicated parameter"," pushpin_map_caption             = Hók-chiăng găk Hók-gióng gì sū-câi.\n "]]
+window.data=[["no-duplicate",16,3,"duplicated parameter"," pushpin_map_caption             = Hók-chiăng găk Hók-gióng gì sū-câi.\n "],["no-duplicate",20,3,"duplicated parameter","pushpin_map_caption = Hók-chiăng găk Hók-gióng\n "]]

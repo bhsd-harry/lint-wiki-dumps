@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",177,3,"{{"],[2,"no-ignored",157,18,"20px\""]]
+window.data=[["invalid-css",157,17,"semi-colon expected",""],["invalid-css",157,16,"colon expected","="],["no-ignored",157,18,"containing invalid attribute","20px\""],["lonely-bracket",177,3,"lonely \"{\"","{{"],["no-ignored",177,3,"containing invalid attribute","{{Nowrap"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",168,85,"大溪地航空 "]]
+window.data=[["no-duplicate",168,85,"duplicated image caption parameter","大溪地航空 "],["no-duplicate",168,92,"duplicated image caption parameter","空中巴士A340-300"]]

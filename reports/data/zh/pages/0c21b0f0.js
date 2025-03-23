@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3," date_first_issued   = \n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter"," date_first_issued   = \n "],["no-duplicate",7,3,"duplicated parameter"," date_first_issued   = 2006年10月12日 (現行版本)<ref>{{Cite web|url=http://www.consilium.europa.eu/prado/en/SMR-AO-02001/index.html|title = Home|website=www."]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",393,2,"[[Category:日本音效指導]]"]]
+window.data=[["no-duplicate",393,2,"duplicated category","[[Category:日本音效指導]]"],["no-duplicate",395,2,"duplicated category","[[Category:日本音效指導]]"]]

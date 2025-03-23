@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-bracket",415,2,"{{"],[2,"no-duplicate",285,3," nominee1 = [[吉姆·海姆斯]]\n "]]
+window.data=[["no-duplicate",285,3,"duplicated parameter"," nominee1 = [[吉姆·海姆斯]]\n "],["no-duplicate",286,3,"duplicated parameter"," nominee1 = '''[[吉姆·海姆斯]]'''\n "],["lonely-bracket",415,2,"lonely \"{\"","{{"],["lonely-bracket",416,15,"lonely \"[\"","[["],["lonely-bracket",420,2,"lonely \"}\"","}}"]]

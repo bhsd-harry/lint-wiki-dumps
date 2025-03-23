@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,3," creator =\n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter"," creator =\n "],["no-duplicate",17,3,"duplicated parameter"," creator = {{ubl|田中俊太郎|野中龍太郎}}\n "]]

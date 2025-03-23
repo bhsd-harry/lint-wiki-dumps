@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",50,2,"[[Category:伏龍芝軍事學院校友]]"]]
+window.data=[["no-duplicate",50,2,"duplicated category","[[Category:伏龍芝軍事學院校友]]"],["no-duplicate",54,2,"duplicated category","[[Category:伏龍芝軍事學院校友]]"]]

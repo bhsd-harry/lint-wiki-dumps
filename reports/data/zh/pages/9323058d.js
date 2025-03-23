@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3,"image_map              = Madison_County_Alabama_with_Current_Huntsville_Corporate_Limits_Highlighted_in_Blue.png\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","image_map              = Madison_County_Alabama_with_Current_Huntsville_Corporate_Limits_Highlighted_in_Blue.png\n "],["no-duplicate",24,3,"duplicated parameter","image_map       = Madison County Alabama Incorporated and Unincorporated areas Huntsville Highlighted.svg\n "]]

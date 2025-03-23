@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",42,95,"<br style=\"clear:both;\">"]]
+window.data=[["no-duplicate",42,95,"duplicated image caption parameter","<br style=\"clear:both;\">"],["no-duplicate",42,120,"duplicated image caption parameter","{{tsl|en|Cecilio Pla|塞西利奧·普拉}}插圖中的牧羊女瑪塞拉。根據一些解釋可以得知，這個女性角色在父權社會中捍衛自己的獨立。"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3,"image_skyline            = "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter","image_skyline            = "],["no-duplicate",13,31,"duplicated parameter"," image_skyline      = {{Photomontage|position=center\n   | photo1a                 = California - Santora Building - 20180915152902 (cropped).jpg\n   | "]]

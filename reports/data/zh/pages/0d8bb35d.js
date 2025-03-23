@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,3," partners = \n "]]
+window.data=[["no-duplicate",16,3,"duplicated parameter"," partners = \n "],["no-duplicate",23,3,"duplicated parameter"," partners = [[Oppo]] <br>  GCash  <br>  Globe  <br>  Tea Bliss  <br>Petron<br>  Greenwich  <br>  [[Acer Predator|Predator]]  <br>  Nanoleaf  <br>  Pec"]]

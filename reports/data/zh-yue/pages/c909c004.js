@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",31,55,"duplicated image caption parameter","缩略图"]]
+window.data=[["no-duplicate",31,55,"duplicated image caption parameter","缩略图"],["no-duplicate",31,59,"duplicated image caption parameter","2021年1月23日，王鳳瑤喺[[將軍澳]]尚德十字路口過路處舉起標語，畀警員以「阻礙警務人員執行職務」拉"]]

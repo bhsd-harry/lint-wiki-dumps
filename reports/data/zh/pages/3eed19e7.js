@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",140,241,"[["],[2,"no-duplicate",155,400,"group"]]
+window.data=[["lonely-bracket",140,241,"lonely \"[\"","[["],["lonely-bracket",140,243,"lonely \"]\"","]]"],["no-duplicate",155,400,"duplicated group attribute","group"],["no-duplicate",155,406,"duplicated group attribute","group=\"nb\""],["lonely-bracket",188,219,"lonely \"[\"","[["],["lonely-bracket",188,221,"lonely \"]\"","]]"]]

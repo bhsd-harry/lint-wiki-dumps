@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,116,"website=reptile-database "]]
+window.data=[["no-duplicate",8,116,"duplicated parameter","website=reptile-database "],["no-duplicate",8,274,"duplicated parameter","website=reptile-database"]]

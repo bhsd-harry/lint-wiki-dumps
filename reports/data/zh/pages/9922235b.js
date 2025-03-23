@@ -1,1 +1,1 @@
-window.data=[[4,"no-ignored",106,4,"th:70%\"|"],[4,"unmatched-tag",108,216,"<center>"]]
+window.data=[["no-ignored",106,4,"containing invalid attribute","th:70%\"|"],["unmatched-tag",108,216,"unclosed tag","<center>"],["unmatched-tag",110,192,"unclosed tag","<center>"],["no-ignored",117,4,"containing invalid attribute","th:70%\"|"],["unmatched-tag",119,222,"unclosed tag","<center>"],["unmatched-tag",121,219,"unclosed tag","<center>"],["no-ignored",131,4,"containing invalid attribute","th:70%\"|"],["no-ignored",141,4,"containing invalid attribute","th:70%\"|"]]

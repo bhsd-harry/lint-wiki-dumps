@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,32,"Right"]]
+window.data=[["no-duplicate",1,32,"duplicated image caption parameter","Right"],["no-duplicate",1,38,"duplicated image caption parameter","綽羅斯和碩親王[[達瓦齊]]朝服像"]]

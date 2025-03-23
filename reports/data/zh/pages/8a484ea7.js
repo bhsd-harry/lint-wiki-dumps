@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,3,"flag_type = 國旗<br>（1858－1896）<br>（1896－1917）\n "]]
+window.data=[["no-duplicate",33,3,"duplicated parameter","flag_type = 國旗<br>（1858－1896）<br>（1896－1917）\n "],["no-duplicate",34,3,"duplicated parameter"," flag_type              = [[俄罗斯国旗|'''上图'''<br/>民用旗（1696－1917）<br/>国旗（1896－1917）]]<br/>[[俄罗斯帝国的黑黄白三色旗|'''下图'''<br/>国旗（1858－1896）]]\n "]]

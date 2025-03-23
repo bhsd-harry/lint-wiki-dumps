@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",45,2,"[[Category:清朝學者]]"]]
+window.data=[["no-duplicate",45,2,"duplicated category","[[Category:清朝學者]]"],["no-duplicate",48,2,"duplicated category","[[Category:清朝學者]]"]]

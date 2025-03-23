@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",50,3," full_width    = yes\n "],[1,"no-ignored",320,4,"font-weight:bold\"  "]]
+window.data=[["no-duplicate",50,3,"duplicated parameter"," full_width    = yes\n "],["no-duplicate",54,3,"duplicated parameter"," full_width    = yes\n "],["no-ignored",320,4,"containing invalid attribute","font-weight:bold\"  "]]

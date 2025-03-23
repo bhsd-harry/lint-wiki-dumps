@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",46,28,"100x"]]
+window.data=[["no-duplicate",46,28,"duplicated image caption parameter","100x"],["no-duplicate",46,48,"duplicated image caption parameter","1966年奇想樂團。從左至右：雷·戴維斯、戴夫·戴維斯、米克·艾沃瑞、皮特·克伊夫"]]

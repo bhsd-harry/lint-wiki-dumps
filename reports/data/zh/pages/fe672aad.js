@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",35,241,"}"],[2,"no-duplicate",539,7,"name=\n <ref"],[1,"tag-like",540,2,"<ref"]]
+window.data=[["lonely-bracket",35,241,"lonely \"}\"","}"],["lonely-bracket",464,25,"lonely \"}\"","}}"],["tag-like",540,2,"lonely \"<\"","<ref"],["no-duplicate",539,7,"duplicated name attribute","name=\n <ref"],["no-duplicate",540,7,"duplicated name attribute","name=\"全怪獣図鑑\""]]

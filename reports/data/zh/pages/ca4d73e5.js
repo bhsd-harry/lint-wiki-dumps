@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,237,"work=[[人民网]]"]]
+window.data=[["no-duplicate",29,237,"duplicated parameter","work=[[人民网]]"],["no-duplicate",29,273,"duplicated parameter","work=opinion.people.com.cn"]]

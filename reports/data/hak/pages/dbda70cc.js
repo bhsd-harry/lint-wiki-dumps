@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",5,49,"containing invalid attribute","  st#le=\"text-align:center;\""]]
+window.data=[["no-ignored",5,49,"containing invalid attribute","  st#le=\"text-align:center;\""],["no-ignored",6,4,"containing invalid attribute"," st#le=\"background-color:#CCCCCC\""]]

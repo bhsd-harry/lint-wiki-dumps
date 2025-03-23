@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",47,1," * 工艺美术学科 \n * 产业设计学科 "]]
+window.data=[["fostered-content",47,1,"content to be moved out from the table"," * 工艺美术学科 \n * 产业设计学科 "],["fostered-content",63,1,"content to be moved out from the table"," * 秋田公立美術工芸短期大学附属高等学院"]]

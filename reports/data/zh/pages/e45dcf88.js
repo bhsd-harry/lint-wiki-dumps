@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",34,2,"[[Category:史密森學會研究項目]]"]]
+window.data=[["no-duplicate",34,2,"duplicated category","[[Category:史密森學會研究項目]]"],["no-duplicate",37,2,"duplicated category","[[Category:史密森學會研究項目]]"]]

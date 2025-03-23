@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",80,88,"xml:lang"]]
+window.data=[["illegal-attr",80,88,"illegal attribute name","xml:lang"]]

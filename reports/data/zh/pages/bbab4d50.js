@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",1309,10,"date"],[1,"no-ignored",1309,3,"{Birth "]]
+window.data=[["illegal-attr",1309,10,"illegal attribute name","date"],["illegal-attr",1309,15,"illegal attribute name","and"],["illegal-attr",1309,19,"illegal attribute name","age"],["no-ignored",1309,3,"containing invalid attribute","{Birth "]]

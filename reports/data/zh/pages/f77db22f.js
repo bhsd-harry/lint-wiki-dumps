@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,2,"[[Category:印尼音樂場地]]"]]
+window.data=[["no-duplicate",35,2,"duplicated category","[[Category:印尼音樂場地]]"],["no-duplicate",36,2,"duplicated category","[[Category:印尼音樂場地]]"]]

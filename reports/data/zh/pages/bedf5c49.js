@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,55,"香港郵政總局"]]
+window.data=[["no-duplicate",17,55,"duplicated image caption parameter","香港郵政總局"],["no-duplicate",17,62,"duplicated image caption parameter","香港-{zh-hans:邮政总局;zh-hk:郵政總局;zh-tw:郵政總局;}-"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,2,"[[Category:拉脫維亞教育]]"]]
+window.data=[["no-duplicate",35,2,"duplicated category","[[Category:拉脫維亞教育]]"],["no-duplicate",36,2,"duplicated category","[[Category:拉脫維亞教育]]"]]

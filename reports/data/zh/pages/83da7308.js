@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",128,2,"[[Category:國家聯盟打擊王]]"]]
+window.data=[["no-duplicate",128,2,"duplicated category","[[Category:國家聯盟打擊王]]"],["no-duplicate",137,2,"duplicated category","[[Category:國家聯盟打擊王]]"],["no-duplicate",130,2,"duplicated category","[[Category:聖地牙哥教士球員]]"],["no-duplicate",138,2,"duplicated category","[[Category:聖地牙哥教士球員]]"],["no-duplicate",131,2,"duplicated category","[[Category:美國國家棒球名人堂成員]]"],["no-duplicate",135,2,"duplicated category","[[Category:美國國家棒球名人堂成員]]"]]

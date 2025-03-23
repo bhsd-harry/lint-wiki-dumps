@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3,"duplicated parameter","pronunciation={{IPA|/pe˥˧/}}\n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter","pronunciation={{IPA|/pe˥˧/}}\n "],["no-duplicate",13,3,"duplicated parameter","pronunciation="]]

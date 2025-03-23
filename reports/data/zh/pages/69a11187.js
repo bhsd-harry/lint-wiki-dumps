@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,50,"rght"]]
+window.data=[["no-duplicate",3,50,"duplicated image caption parameter","rght"],["no-duplicate",3,55,"duplicated image caption parameter","BMTA旗下巴士。"]]

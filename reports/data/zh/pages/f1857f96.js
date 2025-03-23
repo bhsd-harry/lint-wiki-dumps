@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",82,2,"[[Category:美國太空總署太空探測器]]"]]
+window.data=[["no-duplicate",82,2,"duplicated category","[[Category:美國太空總署太空探測器]]"],["no-duplicate",83,2,"duplicated category","[[Category:美國太空總署太空探測器]]"]]

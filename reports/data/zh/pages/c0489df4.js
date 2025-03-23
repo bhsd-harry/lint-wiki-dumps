@@ -1,1 +1,1 @@
-window.data=[[1,"tag-like",109,73,"<span"],[1,"unmatched-tag",109,112,"</span>"]]
+window.data=[["tag-like",109,73,"lonely \"<\"","<span"],["unmatched-tag",109,112,"unmatched closing tag","</span>"],["invalid-css",287,21,"property value expected",""]]

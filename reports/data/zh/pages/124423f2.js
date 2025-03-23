@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",655,2,"[[Category:2025年地震]]"]]
+window.data=[["no-duplicate",655,2,"duplicated category","[[Category:2025年地震]]"],["no-duplicate",659,2,"duplicated category","[[Category:2025年地震| ]]"],["no-duplicate",656,2,"duplicated category","[[Category:2025年相關列表]]"],["no-duplicate",661,2,"duplicated category","[[Category:2025年相關列表]]"]]

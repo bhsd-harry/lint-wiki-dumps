@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",86,38,"[[贝宜系统]]"]]
+window.data=[["nested-link",86,38,"internal link in an external link","[[贝宜系统]]"]]

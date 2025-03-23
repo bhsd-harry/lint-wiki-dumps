@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",85,2,"[[Category:黃飛鴻電影]]"]]
+window.data=[["no-duplicate",85,2,"duplicated category","[[Category:黃飛鴻電影]]"],["no-duplicate",92,2,"duplicated category","[[Category:黃飛鴻電影]]"]]

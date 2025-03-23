@@ -1,1 +1,1 @@
-window.data=[[9,"no-ignored",498,4,":我是歌手 (第一季)#收視率"]]
+window.data=[["no-ignored",498,4,"useless fragment",":我是歌手 (第一季)#收視率"],["no-ignored",501,4,"useless fragment",":我是歌手 (第二季)#收視率"],["no-ignored",504,4,"useless fragment",":我是歌手 (第三季)#收視率"],["no-ignored",507,4,"useless fragment",":我是歌手 (第四季)#收視率"],["no-ignored",510,4,"useless fragment",":歌手2017#收视率"],["no-ignored",513,4,"useless fragment",":歌手2018#收视率"],["no-ignored",516,4,"useless fragment",":歌手2019#收视率"],["no-ignored",519,4,"useless fragment",":歌手·当打之年#收视率"],["no-ignored",522,4,"useless fragment",":歌手2024#收視率"]]

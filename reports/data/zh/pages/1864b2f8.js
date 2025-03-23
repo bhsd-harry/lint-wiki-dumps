@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-bracket",326,618,"}}"],[1,"no-ignored",402,3,"{{Flatlist "]]
+window.data=[["lonely-bracket",326,618,"lonely \"}\"","}}"],["lonely-bracket",329,512,"lonely \"}\"","}}"],["lonely-bracket",402,3,"lonely \"{\"","{{"],["no-ignored",402,3,"containing invalid attribute","{{Flatlist "]]

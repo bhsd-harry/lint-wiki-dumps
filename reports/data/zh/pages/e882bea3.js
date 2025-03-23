@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",361,1523,"pages=89–119"]]
+window.data=[["no-duplicate",361,1523,"duplicated parameter","pages=89–119"],["no-duplicate",361,1600,"duplicated parameter","pages=91–93"],["no-duplicate",432,53,"duplicated image caption parameter","Animation"],["no-duplicate",432,225,"duplicated image caption parameter","NASA预测若没有蒙特利尔协议，臭氧层空洞将覆盖北美<ref>{{cite web|last1=Beck|first1=Jefferson|last2=Newman|first2=Paul|last3=Schindler|first3=Trent L.|last4=Perkins|first4=Lo"]]

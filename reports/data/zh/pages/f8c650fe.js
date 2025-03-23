@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",160,2,"[[Category:從右到左書寫的文字]]"]]
+window.data=[["no-duplicate",160,2,"duplicated category","[[Category:從右到左書寫的文字]]"],["no-duplicate",161,2,"duplicated category","[[Category:從右到左書寫的文字]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",12,162," =\"古建筑地图\""]]
+window.data=[["no-ignored",12,162,"containing invalid attribute"," =\"古建筑地图\""]]

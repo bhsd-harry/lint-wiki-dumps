@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",32,9,"duplicated parameter","[[木蘭屬]] Magnolia\n    "]]
+window.data=[["no-duplicate",32,9,"duplicated parameter","[[木蘭屬]] Magnolia\n    "],["no-duplicate",31,6,"duplicated parameter","1=[[單性木蘭屬]] Kmeria\n    "],["no-duplicate",33,9,"duplicated parameter","[[木蓮屬]] Manglietia\n    "],["no-duplicate",32,6,"duplicated parameter","2="]]

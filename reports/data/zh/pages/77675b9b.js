@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",99,2,"[[Category:中华人民共和国煤炭工业部]]"]]
+window.data=[["no-duplicate",99,2,"duplicated category","[[Category:中华人民共和国煤炭工业部]]"],["no-duplicate",201,2,"duplicated category","[[Category:中华人民共和国煤炭工业部| ]]"]]

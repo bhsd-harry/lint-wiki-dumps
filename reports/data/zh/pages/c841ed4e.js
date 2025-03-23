@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",91,32,"style=\"line-height: 1.1em; border:1px #000000;\""]]
+window.data=[["no-duplicate",91,32,"duplicated style attribute","style=\"line-height: 1.1em; border:1px #000000;\""],["no-duplicate",91,113,"duplicated style attribute","style=\"margin-left: 0em; text-align:right;\""]]

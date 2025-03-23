@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-apos",10,76,"'"],[1,"unmatched-tag",24,85,"</span>"]]
+window.data=[["lonely-apos",10,76,"lonely \"'\"","'"],["lonely-apos",10,95,"lonely \"'\"","'"],["unmatched-tag",24,85,"unmatched closing tag","</span>"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",153,2,"[[Category:中国亚洲运动会铜牌得主]]"]]
+window.data=[["no-duplicate",153,2,"duplicated category","[[Category:中国亚洲运动会铜牌得主]]"],["no-duplicate",160,2,"duplicated category","[[Category:中国亚洲运动会铜牌得主]]"]]

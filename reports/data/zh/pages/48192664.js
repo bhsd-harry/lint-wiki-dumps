@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",87,3,"!width=15%"]]
+window.data=[["no-ignored",87,3,"containing invalid attribute","!width=15%"],["no-ignored",88,3,"containing invalid attribute","!width=20%"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",255,389,"https://"],[2,"no-duplicate",5,38,"YURIKA_NAKAMURA_P2"]]
+window.data=[["no-duplicate",5,38,"duplicated image caption parameter","YURIKA_NAKAMURA_P2"],["no-duplicate",5,83,"duplicated image caption parameter","第二十八届富川国际奇幻电影节Day2"],["lonely-http",255,389,"lonely \"https://\"","https://"]]

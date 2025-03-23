@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",60,1," * 地区总合文化学科"]]
+window.data=[["fostered-content",60,1,"content to be moved out from the table"," * 地区总合文化学科"],["fostered-content",64,1,"content to be moved out from the table"," * 英美语学科<ref group=\"注\"  name=\"招生到2009年\">招生到2009年、停办于2011年。</ref>\n * [[管理信息系统|经营信息]]学科<ref group=\"注\"  name=\"招生到2009年\"/>\n * 社会福利学科<ref group=\"注\"  name=\""]]

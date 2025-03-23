@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",92,2,"[[Category:芝加哥警察局虚构作品]]"]]
+window.data=[["no-duplicate",92,2,"duplicated category","[[Category:芝加哥警察局虚构作品]]"],["no-duplicate",93,2,"duplicated category","[[Category:芝加哥警察局虚构作品]]"]]

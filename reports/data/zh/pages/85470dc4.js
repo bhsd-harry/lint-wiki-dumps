@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",11,22,"releasedate={{Start date|2018|03|27}}"]]
+window.data=[["no-duplicate",11,22,"duplicated parameter","releasedate={{Start date|2018|03|27}}"],["no-duplicate",46,3,"duplicated parameter"," releasedate = {{Start date and age|2021|09|24}}\n "],["no-duplicate",11,60,"duplicated parameter"," discontinued = {{End date and age|2024|05|07}}\n "],["no-duplicate",47,3,"duplicated parameter"," discontinued = {{End date and age|2024|05|07}}\n "]]

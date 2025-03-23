@@ -1,1 +1,1 @@
-window.data=[[6,"no-ignored",91,1," </div>"]]
+window.data=[["no-ignored",91,1,"invalid content in <gallery>"," </div>"],["no-ignored",92,1,"invalid content in <gallery>"," <div style=\"text-align: center;\">"],["no-ignored",94,1,"invalid content in <gallery>"," </div>"],["no-ignored",95,1,"invalid content in <gallery>"," <div style=\"text-align: center;\">"],["no-ignored",97,1,"invalid content in <gallery>"," </div>"],["no-ignored",98,1,"invalid content in <gallery>"," <div style=\"text-align: center;\">"]]

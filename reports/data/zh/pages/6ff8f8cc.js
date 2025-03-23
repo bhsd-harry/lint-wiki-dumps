@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,3," completed event = {{le|2019 Brasil Open|2019}}\n\n "]]
+window.data=[["no-duplicate",17,3,"duplicated parameter"," completed event = {{le|2019 Brasil Open|2019}}\n\n "],["no-duplicate",23,3,"duplicated parameter"," completed event = 2019\n "]]

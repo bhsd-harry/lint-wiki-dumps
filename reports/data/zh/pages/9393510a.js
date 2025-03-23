@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",57,1," * 生活科学科\n ** 生活科学专攻\n ** 食物营养专攻\n * 国际文化学科"]]
+window.data=[["fostered-content",57,1,"content to be moved out from the table"," * 生活科学科\n ** 生活科学专攻\n ** 食物营养专攻\n * 国际文化学科"],["fostered-content",81,1,"content to be moved out from the table"," * 前岩手县立盛冈短期大学附属驹草幼儿园：成立于1969年<ref name=\"短期大学的历史\"/>"]]

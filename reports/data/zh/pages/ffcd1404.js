@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",127,4,"Results"],[1,"nested-link",190,227,"[[Émile Mayade]]"]]
+window.data=[["illegal-attr",127,4,"illegal attribute name","Results"],["nested-link",190,227,"internal link in an external link","[[Émile Mayade]]"]]

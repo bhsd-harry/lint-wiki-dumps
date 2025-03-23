@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",35,1," [[File: https://miro.medium.com/max/12286/1*TyOvquOCHE6AfkAeR-DStA.png]]|[[中華民國]]印有[[台灣省]]、[[金門縣]]、[[連江縣]]以及 [[臺北市]][[高雄市]]的車牌"]]
+window.data=[["no-ignored",35,1,"invalid content in <gallery>"," [[File: https://miro.medium.com/max/12286/1*TyOvquOCHE6AfkAeR-DStA.png]]|[[中華民國]]印有[[台灣省]]、[[金門縣]]、[[連江縣]]以及 [[臺北市]][[高雄市]]的車牌"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",577,49,"style=\"margin:auto\""]]
+window.data=[["no-duplicate",577,49,"duplicated style attribute","style=\"margin:auto\""],["no-duplicate",577,70,"duplicated style attribute","style=\"background:#fff; padding:1px; border-radius:40px/24px; border:1.5px solid #000; text-align:center; color:#000; font:normal 222% arial;\""]]

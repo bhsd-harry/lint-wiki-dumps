@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",402,2,"[[Category:Gogoro]]"]]
+window.data=[["no-duplicate",402,2,"duplicated category","[[Category:Gogoro]]"],["no-duplicate",403,2,"duplicated category","[[Category:Gogoro]]"]]

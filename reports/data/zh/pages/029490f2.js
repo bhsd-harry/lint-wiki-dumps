@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,2,"[[Category:教会学]]"]]
+window.data=[["no-duplicate",20,2,"duplicated category","[[Category:教会学]]"],["no-duplicate",21,2,"duplicated category","[[Category:教会学]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,24,"381.989x381.989像素"]]
+window.data=[["no-duplicate",1,24,"duplicated image caption parameter","381.989x381.989像素"],["no-duplicate",1,48,"duplicated image caption parameter","天竺路3号"]]

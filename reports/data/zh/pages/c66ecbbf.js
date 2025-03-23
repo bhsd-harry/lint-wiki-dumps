@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",187,3," 《博德之门3》 "]]
+window.data=[["no-ignored",187,3,"containing invalid attribute"," 《博德之门3》 "]]

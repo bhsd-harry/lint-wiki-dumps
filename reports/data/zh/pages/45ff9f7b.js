@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,2,"[[Category:強迫婚姻]]"]]
+window.data=[["no-duplicate",27,2,"duplicated category","[[Category:強迫婚姻]]"],["no-duplicate",39,2,"duplicated category","[[Category:強迫婚姻]]"]]

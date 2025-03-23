@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,42,"mini"]]
+window.data=[["no-duplicate",2,42,"duplicated image caption parameter","mini"],["no-duplicate",2,47,"duplicated image caption parameter","Goldmarie aus dem Märchen ''Frau Holle'', Illustration von [[Hermann Vogel (Maler, 1854)|Hermann Vogel]]"]]

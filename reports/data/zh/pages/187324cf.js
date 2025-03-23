@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",139,57,"愉翠商場地下，2016年"]]
+window.data=[["no-duplicate",139,57,"duplicated image caption parameter","愉翠商場地下，2016年"],["no-duplicate",139,82,"duplicated image caption parameter","愉翠商場地下（2016年）"]]

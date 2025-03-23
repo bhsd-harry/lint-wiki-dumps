@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",54,4,"[["],[1,"no-ignored",54,4,"[[慈光二十九村]]||"]]
+window.data=[["invalid-css",50,23,"property value expected",";"],["lonely-bracket",54,4,"lonely \"[\"","[["],["lonely-bracket",54,12,"lonely \"]\"","]]"],["no-ignored",54,4,"containing invalid attribute","[[慈光二十九村]]||"]]

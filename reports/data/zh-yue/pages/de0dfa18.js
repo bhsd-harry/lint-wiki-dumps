@@ -1,1 +1,1 @@
-window.data=[[5,"invalid-css",13,116,"} expected","1em"],[2,"no-duplicate",13,5,"duplicated class attribute","class=\"wikitable\""]]
+window.data=[["invalid-css",13,116,"} expected","1em"],["invalid-css",13,143,"{ expected",":"],["invalid-css",13,160,"{ expected",":"],["invalid-css",13,193,"{ expected",":"],["invalid-css",13,214,"{ expected",":"],["no-duplicate",13,5,"duplicated class attribute","class=\"wikitable\""],["no-duplicate",13,223,"duplicated class attribute","class=\"wikitable floatright;\""]]

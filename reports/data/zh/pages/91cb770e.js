@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",556,2,"[[Category:高中背景動畫]]"]]
+window.data=[["no-duplicate",556,2,"duplicated category","[[Category:高中背景動畫]]"],["no-duplicate",561,2,"duplicated category","[[Category:高中背景動畫]]"]]

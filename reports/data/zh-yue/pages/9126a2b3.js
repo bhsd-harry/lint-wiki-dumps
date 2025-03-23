@@ -1,1 +1,1 @@
-window.data=[[5,"no-duplicate",27,46,"duplicated image caption parameter","左"]]
+window.data=[["no-duplicate",27,46,"duplicated image caption parameter","左"],["no-duplicate",27,48,"duplicated image caption parameter","縮圖"],["no-duplicate",27,61,"duplicated image caption parameter","1860年嘅列夫·托爾斯泰。"],["no-duplicate",31,31,"duplicated image caption parameter","左"],["no-duplicate",31,45,"duplicated image caption parameter","索菲婭·安德烈耶夫娜·別爾斯同作家生嘅十三個仔女之一。"]]

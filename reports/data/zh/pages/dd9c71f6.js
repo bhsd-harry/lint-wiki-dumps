@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",75,2,"[[Category:美國小說]]"]]
+window.data=[["no-duplicate",75,2,"duplicated category","[[Category:美國小說]]"],["no-duplicate",82,2,"duplicated category","[[Category:美國小說]]"]]

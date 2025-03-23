@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,2,"[[Category:2020年夏季奧林匹克運動會獎牌得主]]"]]
+window.data=[["no-duplicate",15,2,"duplicated category","[[Category:2020年夏季奧林匹克運動會獎牌得主]]"],["no-duplicate",16,2,"duplicated category","[[Category:2020年夏季奧林匹克運動會獎牌得主]]"]]

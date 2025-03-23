@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,122,"ref=harv"]]
+window.data=[["no-duplicate",44,122,"duplicated parameter","ref=harv"],["no-duplicate",44,131,"duplicated parameter"," ref = {{sfnRef|''赵玉明''|2016}}"]]

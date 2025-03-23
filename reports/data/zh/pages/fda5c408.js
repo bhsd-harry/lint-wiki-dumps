@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",107,47,"9789863591566"],[1,"no-ignored",107,30," [Special:网络书源 / "]]
+window.data=[["illegal-attr",107,47,"illegal attribute name","9789863591566"],["no-ignored",107,30,"containing invalid attribute"," [Special:网络书源 / "]]

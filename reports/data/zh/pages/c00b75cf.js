@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",107,55,"サムネイル"]]
+window.data=[["no-duplicate",107,55,"duplicated image caption parameter","サムネイル"],["no-duplicate",107,73,"duplicated image caption parameter","站前停站中的西鐵巴士。相片右邊設有車站大樓。"]]

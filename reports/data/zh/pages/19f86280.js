@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",221,1," ==參考==\n * [http://hk.apple.nextmedia.com/news/art/20070305/6870508 我問你答：廚房仔寫廚房 rap歌] {{Wayback|url=http://hk.apple.nextmedia.com/news/art/20070305/68"],[1,"unclosed-table",40,2,"{|"]]
+window.data=[["fostered-content",221,1,"content to be moved out from the table"," ==參考==\n * [http://hk.apple.nextmedia.com/news/art/20070305/6870508 我問你答：廚房仔寫廚房 rap歌] {{Wayback|url=http://hk.apple.nextmedia.com/news/art/20070305/68"],["unclosed-table",40,2,"unclosed table","{|"]]

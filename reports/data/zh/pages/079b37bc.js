@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,563,"name=ref"]]
+window.data=[["no-duplicate",13,563,"duplicated name attribute","name=ref"],["no-duplicate",13,572,"duplicated name attribute","name=mp20121030"]]

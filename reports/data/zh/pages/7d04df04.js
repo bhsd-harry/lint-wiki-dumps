@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",27,2,"[[Category:贝尔格莱德大学校友]]"]]
+window.data=[["no-duplicate",27,2,"duplicated category","[[Category:贝尔格莱德大学校友]]"],["no-duplicate",30,2,"duplicated category","[[Category:贝尔格莱德大学校友]]"],["no-duplicate",28,2,"duplicated category","[[Category:莫斯科国立大学经济系校友]]"],["no-duplicate",32,2,"duplicated category","[[Category:莫斯科国立大学经济系校友]]"]]

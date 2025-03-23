@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",566,2,"[[Category:香港電視主持人]]"]]
+window.data=[["no-duplicate",566,2,"duplicated category","[[Category:香港電視主持人]]"],["no-duplicate",569,2,"duplicated category","[[Category:香港電視主持人]]"]]

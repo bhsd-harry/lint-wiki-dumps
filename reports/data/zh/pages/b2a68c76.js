@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",42,1," * 经济学科"]]
+window.data=[["fostered-content",42,1,"content to be moved out from the table"," * 经济学科"],["fostered-content",56,1,"content to be moved out from the table"," * 新潟短期大学有一个附属高级中学即新潟短期大学附属高级中学<ref group=\"注\"  name=\"高级中学\">日语:{{lang|ja|新潟短期大学付属高等学校}}</ref>。从1988年4月改编为新潟产业大学附属高级中学。"]]

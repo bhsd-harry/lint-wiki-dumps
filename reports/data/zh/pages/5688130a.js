@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,2,"[[Category:世界赛艇锦标赛奖牌得主]]"]]
+window.data=[["no-duplicate",22,2,"duplicated category","[[Category:世界赛艇锦标赛奖牌得主]]"],["no-duplicate",23,2,"duplicated category","[[Category:世界赛艇锦标赛奖牌得主]]"]]

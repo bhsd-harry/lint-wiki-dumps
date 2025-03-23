@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",81,1," ;太湖街黄海路北（站位位于太湖街，A出入口向东，新隆嘉生活广场东侧）\n {{沈阳公交线路列表|width=100%|format=|end=yes|181}}"]]
+window.data=[["fostered-content",81,1,"content to be moved out from the table"," ;太湖街黄海路北（站位位于太湖街，A出入口向东，新隆嘉生活广场东侧）\n {{沈阳公交线路列表|width=100%|format=|end=yes|181}}"],["fostered-content",84,1,"content to be moved out from the table"," ;太湖街黄海路（站位位于太湖街，C出入口向南，新玛特于洪店南侧）\n {{沈阳公交线路列表|width=100%|format=|end=yes|284}}"]]

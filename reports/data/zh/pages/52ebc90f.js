@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",978,2,"[[Category:殺手主角題材漫畫]]"]]
+window.data=[["no-duplicate",978,2,"duplicated category","[[Category:殺手主角題材漫畫]]"],["no-duplicate",982,2,"duplicated category","[[Category:殺手主角題材漫畫]]"]]

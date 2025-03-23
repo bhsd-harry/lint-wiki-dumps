@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",162,2,"[[Category:紅矮星]]"]]
+window.data=[["no-duplicate",162,2,"duplicated category","[[Category:紅矮星]]"],["no-duplicate",165,2,"duplicated category","[[Category:紅矮星]]"]]

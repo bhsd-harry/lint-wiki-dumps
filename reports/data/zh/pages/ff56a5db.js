@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,53,"Onychoprion_anaethetus_New_Caledonia_03"]]
+window.data=[["no-duplicate",41,53,"duplicated image caption parameter","Onychoprion_anaethetus_New_Caledonia_03"],["no-duplicate",41,104,"duplicated image caption parameter","飞行中的褐翅燕鸥，摄于[[新喀里多尼亚]]；注意其分叉的尾部与长而尖的翅膀"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",16,3,"duplicated parameter"," 配偶 = {{marriage|曾偉昌|2022年3月31號}}\n "]]
+window.data=[["no-duplicate",16,3,"duplicated parameter"," 配偶 = {{marriage|曾偉昌|2022年3月31號}}\n "],["no-duplicate",19,3,"duplicated parameter"," 配偶 = {{marriage|曾偉昌|2022年3月31日}}\n "],["no-duplicate",17,3,"duplicated parameter"," 出道地點 = {{TWN}}\n "],["no-duplicate",20,3,"duplicated parameter"," 出道地點 = {{TWN}}\n "]]

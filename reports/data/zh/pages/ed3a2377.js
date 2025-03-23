@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",58,2,"[[Category:流亡政治人物]]"]]
+window.data=[["no-duplicate",58,2,"duplicated category","[[Category:流亡政治人物]]"],["no-duplicate",63,2,"duplicated category","[[Category:流亡政治人物]]"]]

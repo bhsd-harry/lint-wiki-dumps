@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",80,2,"[[Category:前传电影]]"]]
+window.data=[["no-duplicate",80,2,"duplicated category","[[Category:前传电影]]"],["no-duplicate",83,2,"duplicated category","[[Category:前传电影]]"]]

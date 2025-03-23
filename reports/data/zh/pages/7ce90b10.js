@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",49,2,"[[Category:奢侈品牌]]"]]
+window.data=[["no-duplicate",49,2,"duplicated category","[[Category:奢侈品牌]]"],["no-duplicate",52,2,"duplicated category","[[Category:奢侈品牌]]"],["no-duplicate",50,2,"duplicated category","[[Category:1857年成立的公司]]"],["no-duplicate",54,2,"duplicated category","[[Category:1857年成立的公司]]"]]

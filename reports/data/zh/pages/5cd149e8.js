@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",130,2,"[[Category:國民力量黨員]]"]]
+window.data=[["no-duplicate",130,2,"duplicated category","[[Category:國民力量黨員]]"],["no-duplicate",131,2,"duplicated category","[[Category:國民力量黨員]]"]]

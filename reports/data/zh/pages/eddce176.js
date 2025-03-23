@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",3001,4,"tsl"],[4,"lonely-bracket",2076,15,"{{"],[2,"no-ignored",2094,23," {{coord"]]
+window.data=[["lonely-bracket",2076,15,"lonely \"{\"","{{"],["lonely-bracket",2094,24,"lonely \"{\"","{{"],["no-ignored",2094,23,"containing invalid attribute"," {{coord"],["lonely-bracket",2103,24,"lonely \"{\"","{{"],["no-ignored",2103,23,"containing invalid attribute"," {{coord"],["lonely-bracket",2139,17,"lonely \"{\"","{{"],["illegal-attr",3001,4,"illegal attribute name","tsl"]]

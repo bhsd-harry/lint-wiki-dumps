@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",454,80,"[[葵青貨櫃碼頭#碼頭|九號碼頭]]"],[1,"unmatched-tag",205,8,"</div>"]]
+window.data=[["unmatched-tag",205,8,"unmatched closing tag","</div>"],["no-duplicate",454,80,"duplicated image caption parameter","[[葵青貨櫃碼頭#碼頭|九號碼頭]]"],["no-duplicate",454,99,"duplicated image caption parameter",""]]

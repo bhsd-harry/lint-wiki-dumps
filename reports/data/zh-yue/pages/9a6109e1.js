@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",67,2,"duplicated category","[[Category:無綫電視女藝員]]"]]
+window.data=[["no-duplicate",67,2,"duplicated category","[[Category:無綫電視女藝員]]"],["no-duplicate",70,2,"duplicated category","[[Category:無綫電視女藝員]]"]]

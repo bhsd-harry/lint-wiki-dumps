@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",174,2,"[[Category:2021年1月]]"]]
+window.data=[["no-duplicate",174,2,"duplicated category","[[Category:2021年1月]]"],["no-duplicate",176,2,"duplicated category","[[Category:2021年1月]]"]]

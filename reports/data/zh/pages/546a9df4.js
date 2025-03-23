@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",91,1080,"name=\"VGC Review\""],[1,"no-ignored",91,1097,"/；赫特菲爾德表示平常的戰鬥與頭目戰的難度並不相等<ref "],[1,"tag-like",91,1122,"<ref"]]
+window.data=[["tag-like",91,1122,"lonely \"<\"","<ref"],["no-ignored",91,1097,"containing invalid attribute","/；赫特菲爾德表示平常的戰鬥與頭目戰的難度並不相等<ref "],["no-duplicate",91,1080,"duplicated name attribute","name=\"VGC Review\""],["no-duplicate",91,1127,"duplicated name attribute","name=\"Eurogamer Review\""]]

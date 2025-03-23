@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3," history = 1896年 - 至今\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter"," history = 1896年 - 至今\n "],["no-duplicate",16,3,"duplicated parameter"," history = 1896-至今\n "]]

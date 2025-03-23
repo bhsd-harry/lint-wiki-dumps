@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,790,"author = Добрецов В. Б. "]]
+window.data=[["no-duplicate",20,790,"duplicated parameter","author = Добрецов В. Б. "],["no-duplicate",20,910,"duplicated parameter","author = В. Б. Добрецов, О. Г. Воробьев, А. Н. Маковский "]]

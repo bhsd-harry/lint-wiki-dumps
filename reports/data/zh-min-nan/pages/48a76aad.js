@@ -1,1 +1,1 @@
-window.data=[[3,"parsing-order",2,19,"HTML tag in table attributes","<br>"]]
+window.data=[["parsing-order",2,19,"HTML tag in table attributes","<br>"],["parsing-order",12,21,"extension tag in HTML tag attributes","<ref name=\"Bronk_38\"/>"],["parsing-order",17,36,"extension tag in HTML tag attributes","<ref name=\"IISS2022_p261\">[[International Institute for Strategic Studies]]: The Military Balance 2022, p.261</ref>"]]

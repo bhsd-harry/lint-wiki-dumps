@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",28,2,"[[Category:汽車安全科技]]"]]
+window.data=[["no-duplicate",28,2,"duplicated category","[[Category:汽車安全科技]]"],["no-duplicate",30,2,"duplicated category","[[Category:汽車安全科技]]"],["no-duplicate",29,2,"duplicated category","[[Category:預警系統]]"],["no-duplicate",31,2,"duplicated category","[[Category:預警系統]]"]]

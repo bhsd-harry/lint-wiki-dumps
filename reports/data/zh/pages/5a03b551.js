@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,3," subdivision        = \n "]]
+window.data=[["no-duplicate",63,3,"duplicated parameter"," subdivision        = \n "],["no-duplicate",68,3,"duplicated parameter"," subdivision        = [[县 (美国)|县]]\n "]]

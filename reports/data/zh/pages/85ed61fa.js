@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",154,39,"panorama"]]
+window.data=[["no-duplicate",154,39,"duplicated image caption parameter","panorama"],["no-duplicate",154,54,"duplicated image caption parameter","由全景看到大堂G和H，以及南面的大堂J"],["invalid-css",319,59,"term expected",""]]

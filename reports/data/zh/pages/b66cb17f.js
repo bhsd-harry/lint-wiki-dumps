@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",1172,25,"text-align"],[2,"no-duplicate",515,225,"accessdate=2020-08-25 "]]
+window.data=[["no-duplicate",515,225,"duplicated parameter","accessdate=2020-08-25 "],["no-duplicate",515,248,"duplicated parameter","accessdate=2025-01-01"],["illegal-attr",1172,25,"illegal attribute name","text-align"]]

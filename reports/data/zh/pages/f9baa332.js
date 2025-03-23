@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",184,2,"[[Category:百年戰爭戰役]]"]]
+window.data=[["no-duplicate",184,2,"duplicated category","[[Category:百年戰爭戰役]]"],["no-duplicate",186,2,"duplicated category","[[Category:百年戰爭戰役]]"]]

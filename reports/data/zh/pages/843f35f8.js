@@ -1,1 +1,1 @@
-window.data=[[7,"illegal-attr",382,4,"span"]]
+window.data=[["invalid-css",374,17,"property value expected","%"],["illegal-attr",382,4,"illegal attribute name","span"],["illegal-attr",384,4,"illegal attribute name","span"],["illegal-attr",387,4,"illegal attribute name","span"],["illegal-attr",397,4,"illegal attribute name","span"],["illegal-attr",407,4,"illegal attribute name","span"],["illegal-attr",417,4,"illegal attribute name","span"],["illegal-attr",427,4,"illegal attribute name","span"]]

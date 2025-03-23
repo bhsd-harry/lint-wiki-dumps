@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",83,2,"[[Category:2010年代中国内地娱乐圈事件]]"]]
+window.data=[["no-duplicate",83,2,"duplicated category","[[Category:2010年代中国内地娱乐圈事件]]"],["no-duplicate",91,2,"duplicated category","[[Category:2010年代中国内地娱乐圈事件]]"]]

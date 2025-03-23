@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",69,11,"de"],[2,"no-ignored",69,4," Hôtel "]]
+window.data=[["illegal-attr",69,11,"illegal attribute name","de"],["illegal-attr",69,14,"illegal attribute name","ville"],["no-ignored",69,4,"containing invalid attribute"," Hôtel "],["no-ignored",69,19,"containing invalid attribute"," Mérignac"]]

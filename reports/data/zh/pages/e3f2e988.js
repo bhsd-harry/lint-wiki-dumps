@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,43,"Accipiter_soloensis_237882737"]]
+window.data=[["no-duplicate",19,43,"duplicated image caption parameter","Accipiter_soloensis_237882737"],["no-duplicate",19,84,"duplicated image caption parameter","成年雄鸟飞行照，摄于[[泰国]][[春蓬府]]"]]

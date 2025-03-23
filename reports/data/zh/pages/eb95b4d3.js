@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",52,1," * 生活学科\n ** 生活专攻</del><ref group=\"注\"  name=\"招生到2006年\"/>\n ** 营养专攻\n ** 儿童专攻"],[1,"unmatched-tag",53,9,"</del>"]]
+window.data=[["unmatched-tag",53,9,"unmatched closing tag","</del>"],["fostered-content",52,1,"content to be moved out from the table"," * 生活学科\n ** 生活专攻</del><ref group=\"注\"  name=\"招生到2006年\"/>\n ** 营养专攻\n ** 儿童专攻"]]

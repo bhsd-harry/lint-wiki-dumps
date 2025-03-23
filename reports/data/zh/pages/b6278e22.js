@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",59,2,"[[Category:弧菌目|H]]"]]
+window.data=[["no-duplicate",59,2,"duplicated category","[[Category:弧菌目|H]]"],["no-duplicate",60,2,"duplicated category","[[Category:弧菌目| ]]"]]

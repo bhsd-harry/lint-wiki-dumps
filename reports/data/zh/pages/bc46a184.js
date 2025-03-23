@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",247,2,"[[Category:MAJOR]]"]]
+window.data=[["no-duplicate",247,2,"duplicated category","[[Category:MAJOR]]"],["no-duplicate",264,2,"duplicated category","[[Category:MAJOR|*]]"]]

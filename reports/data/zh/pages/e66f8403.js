@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",593,78,"[[青空文库]]"],[2,"no-duplicate",229,45,"250pm"]]
+window.data=[["no-duplicate",229,45,"duplicated image caption parameter","250pm"],["no-duplicate",229,51,"duplicated image caption parameter","横光利一墓"],["nested-link",593,78,"internal link in an external link","[[青空文库]]"]]

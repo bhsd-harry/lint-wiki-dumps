@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",589,5,"color"],[4,"lonely-bracket",323,4,"{"],[1,"no-ignored",323,4,"{[[塔吉克族]]}-||51,069||26,112||51.13||24,957||48.87||104.63"]]
+window.data=[["lonely-bracket",323,4,"lonely \"{\"","{"],["lonely-bracket",323,5,"lonely \"[\"","[["],["lonely-bracket",323,11,"lonely \"]\"","]]"],["lonely-bracket",323,13,"lonely \"}\"","}"],["no-ignored",323,4,"containing invalid attribute","{[[塔吉克族]]}-||51,069||26,112||51.13||24,957||48.87||104.63"],["illegal-attr",589,5,"illegal attribute name","color"]]

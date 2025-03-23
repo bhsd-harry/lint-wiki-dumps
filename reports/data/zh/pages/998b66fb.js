@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",519,55,"]]"],[1,"no-ignored",616,3," 電視動畫《"]]
+window.data=[["lonely-bracket",519,55,"lonely \"]\"","]]"],["no-ignored",616,3,"containing invalid attribute"," 電視動畫《"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,2,"[[Category:世界竞技体操锦标赛奖牌得主]]"]]
+window.data=[["no-duplicate",11,2,"duplicated category","[[Category:世界竞技体操锦标赛奖牌得主]]"],["no-duplicate",17,2,"duplicated category","[[Category:世界竞技体操锦标赛奖牌得主]]"]]

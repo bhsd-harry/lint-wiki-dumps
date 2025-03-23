@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",10,1," [[File:孫母墓2013|缩略图|2013年重修後的孫母墓]]"]]
+window.data=[["no-ignored",10,1,"invalid content in <gallery>"," [[File:孫母墓2013|缩略图|2013年重修後的孫母墓]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",2033,37,"lonely \"}\"","}}"],[2,"no-ignored",2033,17,"containing invalid attribute"," {[jpautocore"]]
+window.data=[["no-ignored",2033,17,"containing invalid attribute"," {[jpautocore"],["lonely-bracket",2033,37,"lonely \"}\"","}}"],["no-ignored",2289,28,"containing invalid attribute"," {[jpautocore"],["lonely-bracket",2289,47,"lonely \"}\"","}}"]]

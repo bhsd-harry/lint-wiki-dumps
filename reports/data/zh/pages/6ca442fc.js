@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",137,2,"[[Category:墨西哥販毒集團題材作品]]"]]
+window.data=[["no-duplicate",137,2,"duplicated category","[[Category:墨西哥販毒集團題材作品]]"],["no-duplicate",138,2,"duplicated category","[[Category:墨西哥販毒集團題材作品]]"]]

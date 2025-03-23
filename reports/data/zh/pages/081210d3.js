@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",620,3,"mmfm={{flag icon|USA}} Indian Call\n "]]
+window.data=[["no-duplicate",620,3,"duplicated parameter","mmfm={{flag icon|USA}} Indian Call\n "],["no-duplicate",627,3,"duplicated parameter","mmfm={{flag icon|USA}} Rare Bouquet\n "]]

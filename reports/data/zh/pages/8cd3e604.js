@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",136,64,"roght"]]
+window.data=[["no-duplicate",136,64,"duplicated image caption parameter","roght"],["no-duplicate",136,70,"duplicated image caption parameter","委內瑞拉聯合航空的Embraer 190支線客機"]]

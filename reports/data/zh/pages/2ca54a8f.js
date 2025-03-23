@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-bracket",397,271,"}}"],[2,"no-duplicate",176,438,"work=Historia para Todos"]]
+window.data=[["no-duplicate",176,438,"duplicated parameter","work=Historia para Todos"],["no-duplicate",176,607,"duplicated parameter","work="],["lonely-bracket",397,271,"lonely \"}\"","}}"],["lonely-bracket",813,4,"lonely \"[\"","[["],["lonely-bracket",813,43,"lonely \"]\"","]]"]]

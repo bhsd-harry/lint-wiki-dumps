@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",31,77," 人权与文明联盟厅是位于瑞士日内瓦万国宫的联合国人权事务高级专员办事处"]]
+window.data=[["no-duplicate",31,77,"duplicated image caption parameter"," 人权与文明联盟厅是位于瑞士日内瓦万国宫的联合国人权事务高级专员办事处"],["no-duplicate",31,113,"duplicated image caption parameter","联合国人权理事会会议室"]]

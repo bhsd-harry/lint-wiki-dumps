@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",369,2,"[[Category:格利泽和GJ天体|0411]]"]]
+window.data=[["no-duplicate",369,2,"duplicated category","[[Category:格利泽和GJ天体|0411]]"],["no-duplicate",375,2,"duplicated category","[[Category:格利泽和GJ天体|L]]"]]

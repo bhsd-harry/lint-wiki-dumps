@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",108,2,"[[Category:韓國副總統]]"]]
+window.data=[["no-duplicate",108,2,"duplicated category","[[Category:韓國副總統]]"],["no-duplicate",110,2,"duplicated category","[[Category:韓國副總統|金]]"]]

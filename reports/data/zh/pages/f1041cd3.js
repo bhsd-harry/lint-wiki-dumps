@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",610,2,"[[Category:2024年中国体育]]"]]
+window.data=[["no-duplicate",610,2,"duplicated category","[[Category:2024年中国体育]]"],["no-duplicate",612,2,"duplicated category","[[Category:2024年中国体育]]"]]

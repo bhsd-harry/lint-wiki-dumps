@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",94,768,"]]"],[2,"no-duplicate",30,43,"uprigh"]]
+window.data=[["no-duplicate",30,43,"duplicated image caption parameter","uprigh"],["no-duplicate",30,50,"duplicated image caption parameter","1744年的兒童書《小小口袋書》，顯示一些人正在玩相似於棒球的遊戲"],["lonely-bracket",94,768,"lonely \"]\"","]]"]]

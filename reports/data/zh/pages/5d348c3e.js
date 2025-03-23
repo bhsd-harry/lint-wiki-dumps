@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",24,2,"[[Category:電子遊戲開發公司]]"]]
+window.data=[["no-duplicate",24,2,"duplicated category","[[Category:電子遊戲開發公司]]"],["no-duplicate",50,2,"duplicated category","[[Category:電子遊戲開發公司]]"],["no-duplicate",26,2,"duplicated category","[[Category:中华人民共和国电子游戏公司]]"],["no-duplicate",51,2,"duplicated category","[[Category:中华人民共和国电子游戏公司]]"],["no-duplicate",27,2,"duplicated category","[[Category:2015年開業電子遊戲公司]]"],["no-duplicate",52,2,"duplicated category","[[Category:2015年開業電子遊戲公司]]"]]

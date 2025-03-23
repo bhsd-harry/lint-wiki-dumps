@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",605,13,"{{"],[2,"no-ignored",605,13,"{{lang"],[1,"pipe-like",3596,114,"的方向。||"]]
+window.data=[["lonely-bracket",605,13,"lonely \"{\"","{{"],["no-ignored",605,13,"containing invalid attribute","{{lang"],["no-ignored",1116,3,"containing invalid attribute"," XYZ線照相機"],["pipe-like",3596,114,"additional \"|\" in a table cell","的方向。||"]]

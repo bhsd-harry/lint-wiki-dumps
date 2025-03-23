@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",39,2,"[[Category:浙江新石器时代遗址]]"]]
+window.data=[["no-duplicate",39,2,"duplicated category","[[Category:浙江新石器时代遗址]]"],["no-duplicate",46,2,"duplicated category","[[Category:浙江新石器时代遗址]]"]]

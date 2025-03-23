@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",109,23,"right"],[2,"parsing-order",8,16,"<br/>"]]
+window.data=[["parsing-order",8,16,"HTML tag in table attributes","<br/>"],["parsing-order",23,26,"HTML tag in table attributes","<br>"],["invalid-gallery",109,23,"invalid image parameter","right"]]

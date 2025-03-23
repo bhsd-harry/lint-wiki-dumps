@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",505,10,"shading"],[1,"lonely-bracket",505,21,"}}"],[2,"no-ignored",505,3,"{Party "]]
+window.data=[["illegal-attr",505,10,"illegal attribute name","shading"],["lonely-bracket",505,21,"lonely \"}\"","}}"],["no-ignored",505,3,"containing invalid attribute","{Party "],["no-ignored",505,17,"containing invalid attribute","/PAS}}"]]

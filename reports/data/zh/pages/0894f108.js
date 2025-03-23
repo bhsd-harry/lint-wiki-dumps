@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:蘇聯共產黨中央政治局委員]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:蘇聯共產黨中央政治局委員]]"],["no-duplicate",43,2,"duplicated category","[[Category:蘇聯共產黨中央政治局委員]]"]]

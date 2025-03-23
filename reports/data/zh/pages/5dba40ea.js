@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,2,"[[Category:眼科手術]]"]]
+window.data=[["no-duplicate",26,2,"duplicated category","[[Category:眼科手術]]"],["no-duplicate",38,2,"duplicated category","[[Category:眼科手術]]"]]

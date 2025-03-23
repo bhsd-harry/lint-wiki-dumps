@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,2,"[[Category:台灣縣道]]"]]
+window.data=[["no-duplicate",37,2,"duplicated category","[[Category:台灣縣道]]"],["no-duplicate",87,2,"duplicated category","[[分類:台灣縣道|*04]]"]]

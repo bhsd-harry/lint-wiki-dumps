@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",45,1," * 技术计划学科<ref group=\"注\"  name=\"技术计划学科\"/>"]]
+window.data=[["fostered-content",45,1,"content to be moved out from the table"," * 技术计划学科<ref group=\"注\"  name=\"技术计划学科\"/>"],["fostered-content",67,1,"content to be moved out from the table"," * 附属[[幼稚園]]：成立于1967年<ref name=\"全国短期大学高等専门学校一覧1987\">请参看1987年度『{{link-ja|全国短期大学高等專業学校一覧|全国短期大学高等専門学校一覧}}』150页「{{lang|ja|九州電機短期大学}}」的项目{{ja}}</ref>"]]

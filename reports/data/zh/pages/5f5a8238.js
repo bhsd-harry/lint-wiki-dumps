@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",836,2,"[[Category:美國科幻動作片]]"]]
+window.data=[["no-duplicate",836,2,"duplicated category","[[Category:美國科幻動作片]]"],["no-duplicate",843,2,"duplicated category","[[Category:美國科幻動作片]]"]]

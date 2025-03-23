@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",204,2,"[[Category:归化美国公民的香港人]]"]]
+window.data=[["no-duplicate",204,2,"duplicated category","[[Category:归化美国公民的香港人]]"],["no-duplicate",207,2,"duplicated category","[[Category:归化美国公民的香港人]]"]]

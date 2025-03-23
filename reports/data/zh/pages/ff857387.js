@@ -1,1 +1,1 @@
-window.data=[[1,"pipe-like",69,42,"合唱：沒離開過 || "]]
+window.data=[["pipe-like",69,42,"additional \"|\" in a table cell","合唱：沒離開過 || "]]

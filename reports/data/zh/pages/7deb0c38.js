@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",40,2,"[[Category:Java平台]]"]]
+window.data=[["no-duplicate",40,2,"duplicated category","[[Category:Java平台]]"],["no-duplicate",45,2,"duplicated category","[[Category:Java平台]]"],["no-duplicate",42,2,"duplicated category","[[Category:自由跨平台軟體]]"],["no-duplicate",47,2,"duplicated category","[[Category:自由跨平台軟體]]"]]

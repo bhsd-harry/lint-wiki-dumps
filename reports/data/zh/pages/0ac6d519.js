@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",328,72,"upright=1.2<!--size for very low image-->"]]
+window.data=[["no-duplicate",328,72,"duplicated image caption parameter","upright=1.2<!--size for very low image-->"],["no-duplicate",328,249,"duplicated image caption parameter","[[帆船時代]]海戰：1588年[[西班牙艦隊|格瑞福蘭海戰]]的畫作，該戰役促使[[西班牙艦隊]]的瓦解。"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",4,34,"{{"],[4,"no-duplicate",4,31,"古希腊{{tsl"]]
+window.data=[["lonely-bracket",4,34,"lonely \"{\"","{{"],["no-duplicate",4,31,"duplicated image caption parameter","古希腊{{tsl"],["no-duplicate",4,40,"duplicated image caption parameter","en"],["no-duplicate",4,43,"duplicated image caption parameter","Nine lyric poets"],["no-duplicate",4,60,"duplicated image caption parameter","[[亚历山大]]的学者们归纳的九位抒情诗人"]]

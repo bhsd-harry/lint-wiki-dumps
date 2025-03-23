@@ -1,1 +1,1 @@
-window.data=[[3,"fostered-content",52,1," * [[汽车|自动车]][[工业]]科"]]
+window.data=[["fostered-content",52,1,"content to be moved out from the table"," * [[汽车|自动车]][[工业]]科"],["fostered-content",57,1,"content to be moved out from the table"," * [[系统]][[设计]]学科<ref group=\"注\"  name=\"系统设计学科\"/>"],["fostered-content",68,1,"content to be moved out from the table"," * [[生产]][[系统]]工学专攻"]]

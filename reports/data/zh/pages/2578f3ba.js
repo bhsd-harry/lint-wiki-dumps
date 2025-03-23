@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,35,"縮略圖"]]
+window.data=[["no-duplicate",13,35,"duplicated image caption parameter","縮略圖"],["no-duplicate",13,50,"duplicated image caption parameter","中國鳥腳龍已發現的骨骼部位，下方橫線為50公分比例尺"]]

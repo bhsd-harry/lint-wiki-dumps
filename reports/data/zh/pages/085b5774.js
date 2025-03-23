@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",97,2,"[[Category:中華人民共和國社會學家]]"]]
+window.data=[["no-duplicate",97,2,"duplicated category","[[Category:中華人民共和國社會學家]]"],["no-duplicate",101,2,"duplicated category","[[Category:中華人民共和國社會學家]]"]]

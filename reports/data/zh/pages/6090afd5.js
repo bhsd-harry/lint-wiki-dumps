@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",117,2,"[[Category:察南自治政府| ]]"]]
+window.data=[["no-duplicate",117,2,"duplicated category","[[Category:察南自治政府| ]]"],["no-duplicate",118,2,"duplicated category","[[Category:察南自治政府]]"]]

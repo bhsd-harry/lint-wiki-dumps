@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,2,"[[Category:鳳飛飛音樂專輯]]"]]
+window.data=[["no-duplicate",63,2,"duplicated category","[[Category:鳳飛飛音樂專輯]]"],["no-duplicate",67,2,"duplicated category","[[Category:鳳飛飛音樂專輯]]"]]

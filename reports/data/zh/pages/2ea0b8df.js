@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,60,"b180px"]]
+window.data=[["no-duplicate",65,60,"duplicated image caption parameter","b180px"],["no-duplicate",65,67,"duplicated image caption parameter","均時差。"]]

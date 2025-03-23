@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",96,17,"サムネイル"]]
+window.data=[["no-duplicate",96,17,"duplicated image caption parameter","サムネイル"],["no-duplicate",96,23,"duplicated image caption parameter","1號月台中的側線（2019年1月）"]]

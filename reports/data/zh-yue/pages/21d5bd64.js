@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,630,"duplicated parameter","title=https://www.hk01.com/article/984600"]]
+window.data=[["no-duplicate",4,630,"duplicated parameter","title=https://www.hk01.com/article/984600"],["no-duplicate",4,672,"duplicated parameter","title=李家超︰廿三條立法將成立核心解說隊伍和「應變反駁隊」"]]

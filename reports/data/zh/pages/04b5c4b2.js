@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",82,45,"}"],[4,"no-duplicate",112,5,"style=\"background:#FF79BC\""]]
+window.data=[["lonely-bracket",82,45,"lonely \"}\"","}"],["no-duplicate",112,5,"duplicated style attribute","style=\"background:#FF79BC\""],["no-duplicate",112,33,"duplicated style attribute","style=\"font-weight:bold;\""],["no-duplicate",137,5,"duplicated style attribute","style=\"background:#FF79BC\""],["no-duplicate",137,33,"duplicated style attribute","style=\"font-weight:bold;\""]]

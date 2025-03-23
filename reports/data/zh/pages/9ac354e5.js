@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",127,1," ; 身份<!-- status -->\n {{legend|#E6E6AA|代总统|border=black}}"]]
+window.data=[["fostered-content",127,1,"content to be moved out from the table"," ; 身份<!-- status -->\n {{legend|#E6E6AA|代总统|border=black}}"]]

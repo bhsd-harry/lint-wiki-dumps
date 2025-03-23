@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",78,53,"width:70%;text-align: center;\""],[1,"tag-like",127,355,"</ref"]]
+window.data=[["invalid-css",78,52,"term expected",""],["no-ignored",78,53,"containing invalid attribute","width:70%;text-align: center;\""],["tag-like",127,355,"lonely \"<\"","</ref"]]

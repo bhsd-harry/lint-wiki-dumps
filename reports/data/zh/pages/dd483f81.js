@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",67,2,"[[Category:温度]]"]]
+window.data=[["no-duplicate",67,2,"duplicated category","[[Category:温度]]"],["no-duplicate",68,2,"duplicated category","[[Category:温度]]"]]

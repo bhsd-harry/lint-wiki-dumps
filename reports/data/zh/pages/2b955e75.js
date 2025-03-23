@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",194,34,"buttom"]]
+window.data=[["no-duplicate",194,34,"duplicated image caption parameter","buttom"],["no-duplicate",194,47,"duplicated image caption parameter","罐裝阿薩姆茶"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,3," tail_number     = PK-AXC\n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter"," tail_number     = PK-AXC\n "],["no-duplicate",23,3,"duplicated parameter","tail_number = PK-AXC\n "],["invalid-css",118,21,"property value expected",";"],["invalid-css",123,21,"property value expected",";"],["invalid-css",128,21,"property value expected",";"],["invalid-css",132,21,"property value expected",";"],["invalid-css",138,21,"property value expected",";"]]

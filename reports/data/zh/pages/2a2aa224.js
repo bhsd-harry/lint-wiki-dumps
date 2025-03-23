@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,31,"[[伊乌斯峡谷]]部分区域以及位于南侧边缘的卢罗斯谷全景图。File:Louresvallesmola.jpg"]]
+window.data=[["no-duplicate",7,31,"duplicated image caption parameter","[[伊乌斯峡谷]]部分区域以及位于南侧边缘的卢罗斯谷全景图。File:Louresvallesmola.jpg"],["no-duplicate",7,87,"duplicated image caption parameter","带有标注的[[水手号谷|水手谷]]部分区域图，卢罗斯谷位于图像中左方，颜色表示海拔高度。"]]

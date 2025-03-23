@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",32,8,"2.367km"],[1,"no-ignored",32,3," 平均: "]]
+window.data=[["illegal-attr",32,8,"illegal attribute name","2.367km"],["illegal-attr",32,16,"illegal attribute name","s"],["no-ignored",32,3,"containing invalid attribute"," 平均: "]]

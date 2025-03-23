@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1008,2,"[[Category:1990年成立的公司]]"],[1,"no-ignored",348,3," 2011年11月11日 "]]
+window.data=[["no-ignored",348,3,"containing invalid attribute"," 2011年11月11日 "],["no-duplicate",1008,2,"duplicated category","[[Category:1990年成立的公司]]"],["no-duplicate",1013,2,"duplicated category","[[Category:1990年成立的公司]]"]]

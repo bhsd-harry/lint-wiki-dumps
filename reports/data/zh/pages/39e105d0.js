@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,37,"px"]]
+window.data=[["no-duplicate",22,37,"duplicated image caption parameter","px"],["no-duplicate",22,40,"duplicated image caption parameter","[[阿利斯特·麦克雷]]在2001年[[芬兰拉力赛]]驾驶雅绅特WRC。"]]

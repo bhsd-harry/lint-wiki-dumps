@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",101,758,"ISBN"],[2,"no-duplicate",22,745,"border"],[2,"unmatched-tag",21,2,"</small>"]]
+window.data=[["unmatched-tag",21,2,"unmatched closing tag","</small>"],["no-duplicate",22,745,"duplicated image border parameter","border"],["no-duplicate",22,757,"duplicated image border parameter","border"],["unmatched-tag",23,2,"unmatched closing tag","</small>"],["lonely-http",101,758,"lonely \"ISBN\"","ISBN"]]

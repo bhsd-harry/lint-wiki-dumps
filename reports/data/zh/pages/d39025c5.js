@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",263,2,"[[Category:2020年代美國電視動畫]]"]]
+window.data=[["no-duplicate",263,2,"duplicated category","[[Category:2020年代美國電視動畫]]"],["no-duplicate",264,2,"duplicated category","[[Category:2020年代美國電視動畫]]"]]

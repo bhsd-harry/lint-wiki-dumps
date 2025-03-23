@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",243,2,"[[Category:模式匹配编程语言]]"]]
+window.data=[["no-duplicate",243,2,"duplicated category","[[Category:模式匹配编程语言]]"],["no-duplicate",247,2,"duplicated category","[[Category:模式匹配编程语言]]"]]

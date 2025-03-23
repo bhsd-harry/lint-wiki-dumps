@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",169,2,"[[Category:台灣戰後福建移民]]"]]
+window.data=[["no-duplicate",169,2,"duplicated category","[[Category:台灣戰後福建移民]]"],["no-duplicate",173,2,"duplicated category","[[Category:台灣戰後福建移民]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",41,4,"table"],[4,"no-duplicate",26,53,"Right"]]
+window.data=[["no-duplicate",26,53,"duplicated image caption parameter","Right"],["no-duplicate",26,65,"duplicated image caption parameter","車站大廳"],["no-duplicate",27,45,"duplicated image caption parameter","Right"],["no-duplicate",27,57,"duplicated image caption parameter","車站聯絡走道與高鐵台南站相連"],["illegal-attr",41,4,"illegal attribute name","table"],["illegal-attr",55,4,"illegal attribute name","table"]]

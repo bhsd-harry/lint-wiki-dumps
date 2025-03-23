@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",271,49,"}}"],[1,"lonely-http",261,33,"ISBN"],[2,"no-duplicate",59,24,"style=\"font-size:small;\""]]
+window.data=[["no-duplicate",59,24,"duplicated style attribute","style=\"font-size:small;\""],["no-duplicate",59,50,"duplicated style attribute","style=\"text-align:center\""],["lonely-http",261,33,"lonely \"ISBN\"","ISBN"],["lonely-bracket",271,49,"lonely \"}\"","}}"]]

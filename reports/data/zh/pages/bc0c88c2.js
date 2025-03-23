@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",2,131,"country={{MYS}}"]]
+window.data=[["no-duplicate",2,131,"duplicated parameter","country={{MYS}}"],["no-duplicate",2,215,"duplicated parameter","country= {{MYS}} \n "],["no-duplicate",2,147,"duplicated parameter","area={{MYS}}"],["no-duplicate",3,3,"duplicated parameter","area= {{MYS}}"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",234,4," {|cellpadding=\"3\"  "]]
+window.data=[["invalid-css",234,113,"semi-colon expected",""],["invalid-css",234,108,"colon expected","="],["no-ignored",234,4,"containing invalid attribute"," {|cellpadding=\"3\"  "]]

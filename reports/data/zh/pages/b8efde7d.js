@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,31,"Modern reconstruction"]]
+window.data=[["no-duplicate",3,31,"duplicated image caption parameter","Modern reconstruction"],["no-duplicate",3,59,"duplicated image caption parameter","當代重建的蠍砲。"]]

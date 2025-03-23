@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",284,2,"[[Category:韓國男歌手]]"]]
+window.data=[["no-duplicate",284,2,"duplicated category","[[Category:韓國男歌手]]"],["no-duplicate",403,2,"duplicated category","[[Category:韓國男歌手]]"],["no-duplicate",285,2,"duplicated category","[[Category:釜山廣域市出身人物|C]]"],["no-duplicate",405,2,"duplicated category","[[Category:釜山廣域市出身人物]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",13,3," 管理者         =\n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter"," 管理者         =\n "],["no-duplicate",20,3,"duplicated parameter"," 管理者         =井之頭恩賜公園管理所\n "],["no-duplicate",27,28,"duplicated image width parameter","300px"],["no-duplicate",27,40,"duplicated image width parameter","250px"]]

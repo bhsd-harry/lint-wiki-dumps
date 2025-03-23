@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",11,747,"[[Advanced Message Queuing Protocol|AMQP]]"]]
+window.data=[["nested-link",11,747,"internal link in an external link","[[Advanced Message Queuing Protocol|AMQP]]"]]

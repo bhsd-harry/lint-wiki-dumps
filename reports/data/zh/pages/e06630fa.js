@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",117,2,"[[Category:关岛植物|L]]"]]
+window.data=[["no-duplicate",117,2,"duplicated category","[[Category:关岛植物|L]]"],["no-duplicate",123,2,"duplicated category","[[Category:关岛植物|L]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",43,29,"duplicated image caption parameter","无框"]]
+window.data=[["no-duplicate",43,29,"duplicated image caption parameter","无框"],["no-duplicate",43,32,"duplicated image caption parameter","1070x1070像素"]]

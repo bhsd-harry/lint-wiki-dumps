@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",79,48,"Right"]]
+window.data=[["no-duplicate",79,48,"duplicated image caption parameter","Right"],["no-duplicate",79,54,"duplicated image caption parameter","1916年美國隊正式成軍並於[[瑞典]]的[[斯德哥爾摩奧林匹克體育場]]進行比賽。"],["no-duplicate",80,84,"duplicated image caption parameter","Right"],["no-duplicate",80,90,"duplicated image caption parameter","1930年[[1930年世界盃足球賽|第一屆世界盃]]，美國隊首次參賽，便奪下季軍。"]]

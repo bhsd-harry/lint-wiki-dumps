@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,30,"Right"]]
+window.data=[["no-duplicate",44,30,"duplicated image caption parameter","Right"],["no-duplicate",44,36,"duplicated image caption parameter","重新設計過的正義聯盟成員。藝術家為Ivan Reis"]]

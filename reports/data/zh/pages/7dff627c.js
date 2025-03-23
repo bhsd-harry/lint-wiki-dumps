@@ -1,1 +1,1 @@
-window.data=[[5,"nested-link",7,117,"[[波士頓交響樂團]]"]]
+window.data=[["nested-link",7,117,"internal link in an external link","[[波士頓交響樂團]]"],["nested-link",7,270,"internal link in an external link","[[指揮家]]"],["nested-link",7,429,"internal link in an external link","[[樂評]]"],["nested-link",7,481,"internal link in an external link","[[洛杉磯愛樂樂團]]"],["nested-link",7,540,"internal link in an external link","[[第10號交響曲_(蕭士塔高維奇)|第10號]]"]]

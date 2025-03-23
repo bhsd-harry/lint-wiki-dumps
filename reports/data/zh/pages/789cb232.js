@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",40,2,"[[Category:台灣—日本關係| ]]"]]
+window.data=[["no-duplicate",40,2,"duplicated category","[[Category:台灣—日本關係| ]]"],["no-duplicate",41,2,"duplicated category","[[Category:台灣—日本關係|台]]"]]

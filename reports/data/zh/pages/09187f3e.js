@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",270,296,"url=https://www.hk01.com/article/1090793?utm_source=01articlecopy&utm_medium=referral"]]
+window.data=[["no-duplicate",270,296,"duplicated parameter","url=https://www.hk01.com/article/1090793?utm_source=01articlecopy&utm_medium=referral"],["no-duplicate",270,382,"duplicated parameter","url=https://www.hk01.com/突發/1090793/寶田邨謀殺案-警用假人重組案發經過-56歲疑犯刀棄天橋旁"]]

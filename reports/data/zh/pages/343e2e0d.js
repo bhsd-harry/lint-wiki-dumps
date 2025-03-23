@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",428,28,"image_caption=Positano's beach from the roadway."]]
+window.data=[["no-duplicate",428,28,"duplicated image caption parameter","image_caption=Positano's beach from the roadway."],["no-duplicate",428,95,"duplicated image caption parameter","[[波西塔诺]]，[[阿马尔菲海岸]]"]]

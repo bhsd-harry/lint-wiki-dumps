@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",73,35,"Right"]]
+window.data=[["no-duplicate",73,35,"duplicated image caption parameter","Right"],["no-duplicate",73,41,"duplicated image caption parameter","[[芬兰]]铁路博物馆，ALCO的No 75214 Tr2 1319机车"]]

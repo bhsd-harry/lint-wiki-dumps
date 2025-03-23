@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3," traded_as = \n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter"," traded_as = \n "],["no-duplicate",15,3,"duplicated parameter"," traded_as = 已下市\n "]]

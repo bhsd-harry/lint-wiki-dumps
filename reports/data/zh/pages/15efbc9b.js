@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",8,2,"[[Category:美国泛美运动会金牌得主]]"]]
+window.data=[["no-duplicate",8,2,"duplicated category","[[Category:美国泛美运动会金牌得主]]"],["no-duplicate",20,2,"duplicated category","[[Category:美国泛美运动会金牌得主]]"],["no-duplicate",9,2,"duplicated category","[[Category:美国泛美运动会银牌得主]]"],["no-duplicate",21,2,"duplicated category","[[Category:美国泛美运动会银牌得主]]"]]

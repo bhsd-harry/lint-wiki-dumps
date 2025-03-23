@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",39,3,"{{"],[2,"no-ignored",26,4," {|class=\"wikitable\"  "]]
+window.data=[["no-ignored",26,4,"containing invalid attribute"," {|class=\"wikitable\"  "],["lonely-bracket",39,3,"lonely \"{\"","{{"],["no-ignored",39,3,"containing invalid attribute","{{center"]]

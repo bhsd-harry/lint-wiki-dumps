@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",84,2,"[[Category:中共榆林市委書記]]"]]
+window.data=[["no-duplicate",84,2,"duplicated category","[[Category:中共榆林市委書記]]"],["no-duplicate",88,2,"duplicated category","[[Category:中共榆林市委書記]]"]]

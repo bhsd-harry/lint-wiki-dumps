@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3," native_name      = BELvue Museum\n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter"," native_name      = BELvue Museum\n "],["no-duplicate",5,3,"duplicated parameter"," native_name      = \n "]]

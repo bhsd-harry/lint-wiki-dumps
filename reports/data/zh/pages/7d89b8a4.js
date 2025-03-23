@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",30,3," term_start4      = 2008年1月1日\n "]]
+window.data=[["no-duplicate",30,3,"duplicated parameter"," term_start4      = 2008年1月1日\n "],["no-duplicate",33,3,"duplicated parameter"," term_start4      = 2024年1月1日\n "],["no-duplicate",31,3,"duplicated parameter"," term_end4        = 2015年12月31日\n "],["no-duplicate",34,3,"duplicated parameter"," term_end4        = \n "],["no-duplicate",32,3,"duplicated parameter"," constituency4    = [[委任議席]]\n "],["no-duplicate",35,3,"duplicated parameter"," constituency4    = [[委任議席]]\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",76,15,"[["],[1,"no-ignored",37,36," 100%;\""]]
+window.data=[["invalid-css",37,36,"property value expected",""],["no-ignored",37,36,"containing invalid attribute"," 100%;\""],["lonely-bracket",76,15,"lonely \"[\"","[["],["lonely-bracket",76,26,"lonely \"]\"","]]"]]

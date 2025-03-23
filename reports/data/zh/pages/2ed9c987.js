@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",123,122,"Rel5 = 情侶"]]
+window.data=[["no-duplicate",123,122,"duplicated parameter","Rel5 = 情侶"],["no-duplicate",123,132,"duplicated parameter","Rel5 = 先情侶後分手"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",256,2,"[[Category:中国国民党革命委员会中央委员会主席]]"]]
+window.data=[["no-duplicate",256,2,"duplicated category","[[Category:中国国民党革命委员会中央委员会主席]]"],["no-duplicate",275,2,"duplicated category","[[Category:中国国民党革命委员会中央委员会主席]]"]]

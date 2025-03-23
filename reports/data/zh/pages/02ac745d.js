@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",205,10,"'"],[1,"no-ignored",10,22,"File:Brighton_&_Hove_Albion_logo.svg#filelinks"]]
+window.data=[["no-ignored",10,22,"useless fragment","File:Brighton_&_Hove_Albion_logo.svg#filelinks"],["invalid-css",88,81,"colon expected","="],["lonely-apos",205,10,"lonely \"'\"","'"],["invalid-css",308,81,"colon expected","="],["invalid-css",373,81,"colon expected","="],["invalid-css",649,81,"colon expected","="],["invalid-css",775,81,"colon expected","="]]

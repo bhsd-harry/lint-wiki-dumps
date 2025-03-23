@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",1057,363,"["],[2,"no-duplicate",1051,55,"釜山醫療中心使用釜山消防車救護車轉移了COVID-19確診患者，2020年3月22日。"]]
+window.data=[["no-duplicate",1051,55,"duplicated image caption parameter","釜山醫療中心使用釜山消防車救護車轉移了COVID-19確診患者，2020年3月22日。"],["no-duplicate",1051,99,"duplicated image caption parameter","釜山醫療中心轉交COVID-19確診患者。"],["lonely-bracket",1057,363,"lonely \"[\"","["]]

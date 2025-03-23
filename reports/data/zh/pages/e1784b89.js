@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,71," battles                       = [[World War II]]\n * [[Vistula-Oder Offensive]]"]]
+window.data=[["no-duplicate",4,71,"duplicated parameter"," battles                       = [[World War II]]\n * [[Vistula-Oder Offensive]]"],["no-duplicate",5,204,"duplicated parameter","battles="]]

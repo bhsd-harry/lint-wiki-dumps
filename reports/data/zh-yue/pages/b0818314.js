@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",9,3,"duplicated parameter"," free_label = 主辦方\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," free_label = 主辦方\n "],["no-duplicate",15,3,"duplicated parameter"," free_label =\n "],["no-duplicate",30,3,"duplicated parameter"," free_label = 校刊 \n "],["no-duplicate",10,3,"duplicated parameter"," free_text = 廣東省教育廳 華南師範大學\n "],["no-duplicate",16,3,"duplicated parameter"," free_text =\n "],["no-duplicate",31,3,"duplicated parameter"," free_text = 《聚清園》\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,169,"url="]]
+window.data=[["no-duplicate",32,169,"duplicated parameter","url="],["no-duplicate",32,253,"duplicated parameter","url=https://news.dwango.jp/gravure/71303-2206"]]

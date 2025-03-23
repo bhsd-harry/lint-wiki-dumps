@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,2,"[[Category:平鲷属|平鲷]]"]]
+window.data=[["no-duplicate",44,2,"duplicated category","[[Category:平鲷属|平鲷]]"],["no-duplicate",45,2,"duplicated category","[[Category:平鲷属|sarba]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",161,2,"[[Category:2020年代英語片]]"]]
+window.data=[["no-duplicate",161,2,"duplicated category","[[Category:2020年代英語片]]"],["no-duplicate",165,2,"duplicated category","[[Category:2020年代英語片]]"]]

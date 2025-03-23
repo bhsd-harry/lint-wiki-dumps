@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",144,3," previous_election = \n "]]
+window.data=[["no-duplicate",144,3,"duplicated parameter"," previous_election = \n "],["no-duplicate",145,3,"duplicated parameter"," previous_election = 2022年西維珍尼亞州聯邦眾議員選舉#第2選區\n "]]

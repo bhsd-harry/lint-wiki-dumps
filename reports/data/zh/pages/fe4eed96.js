@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",61,3," 民族 = [[汉族]]\n "]]
+window.data=[["no-duplicate",61,3,"duplicated parameter"," 民族 = [[汉族]]\n "],["no-duplicate",80,3,"duplicated parameter"," 民族 = [[汉族]]\n "]]

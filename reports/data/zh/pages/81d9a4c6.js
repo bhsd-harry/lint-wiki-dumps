@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",55,20,"series"],[1,"no-ignored",55,3," \"Darkstrike (TV "]]
+window.data=[["illegal-attr",55,20,"illegal attribute name","series"],["no-ignored",55,3,"containing invalid attribute"," \"Darkstrike (TV "],["illegal-attr",87,4,"illegal attribute name","will"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",18,19,"illegal attribute name","colspan"],[1,"no-ignored",18,30,"containing invalid attribute","  |Airbag"]]
+window.data=[["illegal-attr",18,19,"illegal attribute name","colspan"],["no-ignored",18,30,"containing invalid attribute","  |Airbag"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",161,68,"{{"],[1,"no-ignored",411,3," scope\"col\""]]
+window.data=[["lonely-bracket",161,68,"lonely \"{\"","{{"],["lonely-bracket",161,93,"lonely \"}\"","}}"],["no-ignored",411,3,"containing invalid attribute"," scope\"col\""]]

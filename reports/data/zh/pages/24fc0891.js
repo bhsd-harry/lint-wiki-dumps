@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3," 所在 = [[河北省]][[保定市]][[莲池区]]\n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter"," 所在 = [[河北省]][[保定市]][[莲池区]]\n "],["no-duplicate",12,3,"duplicated parameter"," 所在 = [[河北省]][[保定市]]\n "]]

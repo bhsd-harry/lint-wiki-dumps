@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,43,"240px"]]
+window.data=[["no-duplicate",13,43,"duplicated image width parameter","240px"],["no-duplicate",13,61,"duplicated image width parameter","240px"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,3,"members = \n "]]
+window.data=[["no-duplicate",37,3,"duplicated parameter","members = \n "],["no-duplicate",47,3,"duplicated parameter","members      = 2.3億<ref name=\"Peworthodox\">{{cite journal |title=Orthodox Christianity in the 21st Century |journal=Pew Research Center's Religion  & "]]

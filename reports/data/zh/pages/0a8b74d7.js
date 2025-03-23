@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,2,"[[Category:临沂行政区划]]"]]
+window.data=[["no-duplicate",33,2,"duplicated category","[[Category:临沂行政区划]]"],["no-duplicate",35,2,"duplicated category","[[Category:临沂行政区划]]"]]

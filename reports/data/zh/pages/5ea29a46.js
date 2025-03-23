@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",64,1," * 保育[[科系|科]]\n * 健康营养学科"]]
+window.data=[["fostered-content",64,1,"content to be moved out from the table"," * 保育[[科系|科]]\n * 健康营养学科"],["fostered-content",69,1,"content to be moved out from the table"," * 生活学科<ref group=\"注\"  name=\"关于食物营养专攻\"/>\n ** 生活文化专攻<ref group=\"注\"  name=\"生活文化专攻招生\"/>\n ** 食物营养专攻<ref group=\"注\"  name=\"关于食物营养专攻\"/>\n * [[工商管理学|经营]]学科<ref"]]

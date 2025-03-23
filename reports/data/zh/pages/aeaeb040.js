@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",60,1," [[File:People want to retrieve Flag of China 20190914.png|不同政見的人士互相指罵"]]
+window.data=[["no-ignored",60,1,"invalid content in <gallery>"," [[File:People want to retrieve Flag of China 20190914.png|不同政見的人士互相指罵"]]

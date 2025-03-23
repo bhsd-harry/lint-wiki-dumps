@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",85,21,"ISBN"],[4,"no-duplicate",44,90,"style=\"width:88%; margin:auto;\""]]
+window.data=[["no-duplicate",44,90,"duplicated style attribute","style=\"width:88%; margin:auto;\""],["no-duplicate",44,123,"duplicated style attribute","style=\"text-align:center; font-size:12px;\""],["no-duplicate",59,90,"duplicated style attribute","style=\"width:88%; margin:auto;\""],["no-duplicate",59,123,"duplicated style attribute","style=\"text-align:center; font-size:12px;\""],["lonely-http",85,21,"lonely \"ISBN\"","ISBN"]]

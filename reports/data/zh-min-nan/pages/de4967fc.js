@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",36,2,"duplicated category","[[Category:Italia ê comune lia̍t-toaⁿ]]"]]
+window.data=[["no-duplicate",36,2,"duplicated category","[[Category:Italia ê comune lia̍t-toaⁿ]]"],["no-duplicate",39,2,"duplicated category","[[Category:Italia ê comune lia̍t-toaⁿ]]"]]

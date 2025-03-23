@@ -1,1 +1,1 @@
-window.data=[[5,"nested-link",6,165,"[[聂荣臻|聂]]"]]
+window.data=[["nested-link",6,165,"internal link in an external link","[[聂荣臻|聂]]"],["nested-link",6,174,"internal link in an external link","[[萧克|萧]]"],["nested-link",6,182,"internal link in an external link","[[刘澜涛|刘]]"],["nested-link",6,191,"internal link in an external link","[[罗瑞卿|罗]]"],["nested-link",6,202,"internal link in an external link","[[程子华|子华]]"]]

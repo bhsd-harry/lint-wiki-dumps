@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,2,"[[Category:特拉帕尼省市镇]]"]]
+window.data=[["no-duplicate",26,2,"duplicated category","[[Category:特拉帕尼省市镇]]"],["no-duplicate",27,2,"duplicated category","[[Category:特拉帕尼省市镇|P]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,46," title = 32\n "]]
+window.data=[["no-duplicate",15,46,"duplicated parameter"," title = 32\n "],["no-duplicate",16,3,"duplicated parameter"," title=32個成員<!-- 依照英文字母開頭排序，請勿任意更動 -->\n "]]

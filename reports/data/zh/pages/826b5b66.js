@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",349,39,"potential"],[2,"lonely-bracket",349,6,"[["],[1,"no-ignored",349,4,"| [[Mischief Reef]] ||  ||  ||  || "]]
+window.data=[["lonely-bracket",349,6,"lonely \"[\"","[["],["lonely-bracket",349,21,"lonely \"]\"","]]"],["illegal-attr",349,39,"illegal attribute name","potential"],["no-ignored",349,4,"containing invalid attribute","| [[Mischief Reef]] ||  ||  ||  || "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",336,2,"[[Category:華人星光大道|+]]"]]
+window.data=[["no-duplicate",336,2,"duplicated category","[[Category:華人星光大道|+]]"],["no-duplicate",338,2,"duplicated category","[[Category:華人星光大道]]"]]

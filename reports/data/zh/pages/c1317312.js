@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,2,"[[Category:蘇聯阿富汗戰爭人物]]"]]
+window.data=[["no-duplicate",33,2,"duplicated category","[[Category:蘇聯阿富汗戰爭人物]]"],["no-duplicate",38,2,"duplicated category","[[Category:蘇聯阿富汗戰爭人物]]"]]

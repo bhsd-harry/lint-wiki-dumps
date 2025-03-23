@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",42,1," * 儿童教育学科<ref group=\"注\"  name=\"儿童教育学科\"/>"]]
+window.data=[["fostered-content",42,1,"content to be moved out from the table"," * 儿童教育学科<ref group=\"注\"  name=\"儿童教育学科\"/>"],["fostered-content",56,1,"content to be moved out from the table"," * 第一幼儿园<ref name=\"第一幼儿园\">[http://daiichi-k.fukuoka-kodomo.ac.jp/ 福冈儿童短期大学附属第一幼儿园] {{Wayback|url=http://daiichi-k.fukuoka-kodomo.ac.jp/ |date=20201205"]]

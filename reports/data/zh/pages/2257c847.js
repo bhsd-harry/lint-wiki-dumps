@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,24,"RIGHT"]]
+window.data=[["no-duplicate",35,24,"duplicated image caption parameter","RIGHT"],["no-duplicate",35,42,"duplicated image caption parameter","霍思燕2010年出席活動照"]]

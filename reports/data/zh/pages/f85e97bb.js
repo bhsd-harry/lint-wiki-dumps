@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",199,2,"[[Category:2013年開播的日本電視劇]]"]]
+window.data=[["invalid-css",31,40,"semi-colon expected",":"],["no-duplicate",199,2,"duplicated category","[[Category:2013年開播的日本電視劇]]"],["no-duplicate",200,2,"duplicated category","[[Category:2013年開播的日本電視劇]]"]]

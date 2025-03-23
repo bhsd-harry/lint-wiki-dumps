@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3," birth_place = {{CHN-1912|江苏省}}[[淮扬道]][[江都縣]]\n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter"," birth_place = {{CHN-1912|江苏省}}[[淮扬道]][[江都縣]]\n "],["no-duplicate",10,3,"duplicated parameter"," birth_place = [[比利时]]，[[安特卫普]]\n "]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",24,198,"/<ref"],[1,"tag-like",24,199,"<ref"]]
+window.data=[["tag-like",24,199,"lonely \"<\"","<ref"],["no-ignored",24,198,"containing invalid attribute","/<ref"]]

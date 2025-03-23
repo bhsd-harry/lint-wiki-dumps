@@ -1,1 +1,1 @@
-window.data=[[4,"nested-link",59,116,"[[加時賽|加時]]"]]
+window.data=[["nested-link",59,116,"internal link in an external link","[[加時賽|加時]]"],["nested-link",92,114,"internal link in an external link","[[加時賽|加時]]"],["nested-link",94,118,"internal link in an external link","[[加時賽|加時]]"],["nested-link",120,117,"internal link in an external link","[[PK]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",37,26,"url=https://shop.campus.org.tw/ProductDetails.aspx?productID=000544894"]]
+window.data=[["no-duplicate",37,26,"duplicated parameter","url=https://shop.campus.org.tw/ProductDetails.aspx?productID=000544894"],["no-duplicate",37,113,"duplicated parameter","url="],["no-duplicate",38,36,"duplicated parameter","url=https://shop.campus.org.tw/ProductDetails.aspx?productID=000595520"],["no-duplicate",38,129,"duplicated parameter","url="]]

@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",69,64,"20:00"],[1,"no-ignored",69,54,"每晚19:00 - "]]
+window.data=[["illegal-attr",69,64,"illegal attribute name","20:00"],["no-ignored",69,54,"containing invalid attribute","每晚19:00 - "]]

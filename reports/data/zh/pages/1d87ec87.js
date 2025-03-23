@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",3,47,"PlayStation Vita TV logo"]]
+window.data=[["no-duplicate",3,47,"duplicated image caption parameter","PlayStation Vita TV logo"],["no-duplicate",3,78,"duplicated image caption parameter","PlayStation Vita TV logo"],["no-duplicate",3,141,"duplicated image caption parameter","PlayStation TV logo"],["no-duplicate",3,167,"duplicated image caption parameter","PlayStation TV logo"]]

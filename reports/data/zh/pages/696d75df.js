@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",93,44,"Right"]]
+window.data=[["no-duplicate",93,44,"duplicated image caption parameter","Right"],["no-duplicate",93,58,"duplicated image caption parameter","效力巴塞隆拿時期"]]

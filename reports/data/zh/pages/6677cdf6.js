@@ -1,1 +1,1 @@
-window.data=[[4,"no-ignored",14,26," teams–Europa "]]
+window.data=[["no-ignored",14,26,"containing invalid attribute"," teams–Europa "],["no-ignored",69,26,"containing invalid attribute"," teams–Europa "],["no-ignored",72,26,"containing invalid attribute"," teams–Champions "],["no-ignored",106,26,"containing invalid attribute"," teams–Champions "]]

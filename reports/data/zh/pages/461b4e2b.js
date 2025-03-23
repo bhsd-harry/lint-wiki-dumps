@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",78,1," ;浑南汽车城西（站位位于浑南西路，胜利南街路口北侧，C出入口向西北约430米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|128|137|165|222复|287|预备役}}"]]
+window.data=[["fostered-content",78,1,"content to be moved out from the table"," ;浑南汽车城西（站位位于浑南西路，胜利南街路口北侧，C出入口向西北约430米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|128|137|165|222复|287|预备役}}"],["fostered-content",81,1,"content to be moved out from the table"," ;浑南西路胜利大街（站位位于浑南西路，胜利南街路口西侧，C出入口向西约480米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|164|K802}}\n {{col-end}}"]]

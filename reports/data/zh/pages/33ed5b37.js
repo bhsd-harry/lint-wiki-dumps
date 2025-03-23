@@ -1,1 +1,1 @@
-window.data=[[4,"fostered-content",30,1," '''第一季 Wanna One Go'''"]]
+window.data=[["fostered-content",30,1,"content to be moved out from the table"," '''第一季 Wanna One Go'''"],["fostered-content",41,1,"content to be moved out from the table"," '''第二季 Wanna One Go:ZERO BASE'''"],["fostered-content",63,1,"content to be moved out from the table"," '''Wanna One Go in 濟州'''"],["fostered-content",75,1,"content to be moved out from the table"," '''第三季 Wanna One Go:X-CON'''"]]

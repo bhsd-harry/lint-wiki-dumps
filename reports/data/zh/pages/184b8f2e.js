@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",34,3,"line6=東海線"],[1,"unmatched-tag",51,73,"<small>"]]
+window.data=[["no-duplicate",34,3,"duplicated parameter","line6=東海線"],["no-duplicate",35,3,"duplicated parameter","line6=東海線"],["unmatched-tag",51,73,"unclosed tag","<small>"]]

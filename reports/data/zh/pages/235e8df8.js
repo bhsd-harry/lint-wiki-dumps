@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",60,50,"zentriert"]]
+window.data=[["no-duplicate",60,50,"duplicated image caption parameter","zentriert"],["no-duplicate",60,60,"duplicated image caption parameter","用甘油和二氯化二硫制备1,3-二氯-2-丙醇"]]

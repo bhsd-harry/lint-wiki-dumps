@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,3,"flag_type              = [[東突厥斯坦共和國國旗|国旗]]\n "]]
+window.data=[["no-duplicate",7,3,"duplicated parameter","flag_type              = [[東突厥斯坦共和國國旗|国旗]]\n "],["no-duplicate",21,3,"duplicated parameter","flag_type              = \n "]]

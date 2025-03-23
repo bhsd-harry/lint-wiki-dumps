@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",278,12," 麥總 "],[2,"unmatched-tag",246,66,"</small>"]]
+window.data=[["unmatched-tag",246,66,"unmatched closing tag","</small>"],["no-ignored",278,12,"containing invalid attribute"," 麥總 "],["unmatched-tag",280,66,"unmatched closing tag","</small>"],["no-ignored",294,12,"containing invalid attribute"," 趙太 "]]

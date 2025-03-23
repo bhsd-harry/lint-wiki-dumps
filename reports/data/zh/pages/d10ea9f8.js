@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",138,73,"name=\"大英百科全書\""]]
+window.data=[["no-duplicate",138,73,"duplicated name attribute","name=\"大英百科全書\""],["no-duplicate",138,87,"duplicated name attribute","name=\"藝龍旅遊網\""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3,"time={{TWN-JPN}}\n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter","time={{TWN-JPN}}\n "],["no-duplicate",11,3,"duplicated parameter"," time        = 1943年\n "]]

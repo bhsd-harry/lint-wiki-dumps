@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",53,2,"[[Category:入祀國民革命忠烈祠者]]"]]
+window.data=[["no-duplicate",53,2,"duplicated category","[[Category:入祀國民革命忠烈祠者]]"],["no-duplicate",61,2,"duplicated category","[[Category:入祀國民革命忠烈祠者]]"]]

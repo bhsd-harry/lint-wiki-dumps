@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",109,2,"[[Category:泰國世界遺產]]"]]
+window.data=[["no-duplicate",109,2,"duplicated category","[[Category:泰國世界遺產]]"],["no-duplicate",113,2,"duplicated category","[[Category:泰國世界遺產]]"]]

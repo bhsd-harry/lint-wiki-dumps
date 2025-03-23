@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",4,33,"font"],[2,"no-duplicate",63,3,"bgcolor=\"#E0E0E0\""]]
+window.data=[["illegal-attr",4,33,"illegal attribute name","font"],["no-duplicate",63,3,"duplicated bgcolor attribute","bgcolor=\"#E0E0E0\""],["no-duplicate",63,22,"duplicated bgcolor attribute","bgcolor=\"#E0E0E0\""]]

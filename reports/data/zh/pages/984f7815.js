@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",384,495,"ISBN"],[2,"no-duplicate",449,2,"[[Category:香港民主派人士]]"]]
+window.data=[["lonely-http",384,495,"lonely \"ISBN\"","ISBN"],["no-duplicate",449,2,"duplicated category","[[Category:香港民主派人士]]"],["no-duplicate",462,2,"duplicated category","[[Category:香港民主派人士]]"]]

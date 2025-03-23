@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",67,83,"}}"],[4,"no-duplicate",67,39,"站前（{Translink"]]
+window.data=[["lonely-bracket",67,83,"lonely \"}\"","}}"],["no-duplicate",67,39,"duplicated image caption parameter","站前（{Translink"],["no-duplicate",67,53,"duplicated image caption parameter","ja"],["no-duplicate",67,56,"duplicated image caption parameter","新潟県道35号三条停車場線"],["no-duplicate",67,70,"duplicated image caption parameter","新潟縣道35號三條停車場線}}方向）"]]

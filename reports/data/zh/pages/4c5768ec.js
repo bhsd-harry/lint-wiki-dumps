@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",107,2,"[[Category:ONE PIECE角色]]"]]
+window.data=[["no-duplicate",107,2,"duplicated category","[[Category:ONE PIECE角色]]"],["no-duplicate",108,2,"duplicated category","[[Category:ONE PIECE角色]]"]]

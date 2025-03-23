@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,460,"awards=Hilal-e-Imtiaz"]]
+window.data=[["no-duplicate",2,460,"duplicated parameter","awards=Hilal-e-Imtiaz"],["no-duplicate",2,578,"duplicated parameter","awards=Hilal-e-Imtiaz (Military)"]]

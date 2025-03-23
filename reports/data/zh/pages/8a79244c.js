@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category: 疣海胆科|Y]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category: 疣海胆科|Y]]"],["no-duplicate",42,2,"duplicated category","[[Category: 疣海胆科|*]]"]]

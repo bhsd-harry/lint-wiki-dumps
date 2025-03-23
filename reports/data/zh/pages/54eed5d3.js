@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,38,"uright"]]
+window.data=[["no-duplicate",21,38,"duplicated image caption parameter","uright"],["no-duplicate",21,45,"duplicated image caption parameter","在匈牙利家庭中，以傳統方式製作香腸的過程。"]]

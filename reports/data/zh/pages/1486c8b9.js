@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",57,90,"  \"三星跑分作弊\""]]
+window.data=[["no-ignored",57,90,"containing invalid attribute","  \"三星跑分作弊\""]]

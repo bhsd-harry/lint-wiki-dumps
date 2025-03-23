@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",161,53,"230"],[1,"no-ignored",1292,54,"3期]"]]
+window.data=[["no-duplicate",161,53,"duplicated image caption parameter","230"],["no-duplicate",161,57,"duplicated image caption parameter","AKB48"],["no-ignored",1292,54,"containing invalid attribute","3期]"]]

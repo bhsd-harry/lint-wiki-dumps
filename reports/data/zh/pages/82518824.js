@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",104,36,"墨西哥护照的请求页"]]
+window.data=[["no-duplicate",104,36,"duplicated image caption parameter","墨西哥护照的请求页"],["no-duplicate",104,46,"duplicated image caption parameter","旧版墨西哥护照的请求页"]]

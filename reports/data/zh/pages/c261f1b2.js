@@ -1,1 +1,1 @@
-window.data=[[2,"invalid-gallery",80,54,"240px"],[1,"lonely-bracket",83,42,"[["],[2,"no-duplicate",83,42,"[[波音737"]]
+window.data=[["invalid-gallery",80,54,"invalid image parameter","240px"],["invalid-gallery",81,54,"invalid image parameter","240px"],["lonely-bracket",83,42,"lonely \"[\"","[["],["no-duplicate",83,42,"duplicated image caption parameter","[[波音737"],["no-duplicate",83,50,"duplicated image caption parameter","波音737-400"]]

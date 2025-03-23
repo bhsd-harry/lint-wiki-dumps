@@ -1,1 +1,1 @@
-window.data=[[5,"lonely-apos",27,20,"'"],[1,"unclosed-table",135,2,"{|"]]
+window.data=[["lonely-apos",27,20,"lonely \"'\"","'"],["lonely-apos",27,78,"lonely \"'\"","'"],["lonely-apos",28,20,"lonely \"'\"","'"],["lonely-apos",35,31,"lonely \"'\"","'"],["lonely-apos",35,102,"lonely \"'\"","'"],["unclosed-table",135,2,"unclosed table","{|"]]

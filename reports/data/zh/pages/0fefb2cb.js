@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:第四次中东战争]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:第四次中东战争]]"],["no-duplicate",42,2,"duplicated category","[[Category:第四次中东战争]]"]]

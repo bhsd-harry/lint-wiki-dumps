@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",378,48,"http://"],[2,"no-duplicate",132,40,"Right"]]
+window.data=[["no-duplicate",132,40,"duplicated image caption parameter","Right"],["no-duplicate",132,46,"duplicated image caption parameter","五行生剋，图中表示的“心”、“脾”等名词在中医学中表示的是相关的一个'''系统'''，而不仅仅指的是现代医学的“器官”"],["lonely-http",378,48,"lonely \"http://\"","http://"]]

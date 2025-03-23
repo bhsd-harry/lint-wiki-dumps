@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,2,"[[Category:越秀区建筑物]]"]]
+window.data=[["no-duplicate",21,2,"duplicated category","[[Category:越秀区建筑物]]"],["no-duplicate",22,2,"duplicated category","[[Category:越秀区建筑物|G廣]]"]]

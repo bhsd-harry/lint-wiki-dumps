@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",2,28,"thumb"]]
+window.data=[["no-duplicate",2,28,"duplicated image thumbnail parameter","thumb"],["no-duplicate",2,85,"duplicated image thumbnail parameter","thumb"],["no-duplicate",2,34,"duplicated image caption parameter","Schematic diagram showing anabolism and catabolism"],["no-duplicate",2,91,"duplicated image caption parameter","合成代谢（Anabolism）与[[分解代谢]]（Catabolism）相对，是指消耗能量将[[小分子]]合称为生物[[大分子]]的过程。"]]

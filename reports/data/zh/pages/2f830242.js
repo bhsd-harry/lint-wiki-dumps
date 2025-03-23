@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",118,41,"colspan"],[2,"no-duplicate",117,25,"style=\"width: 100%;\""]]
+window.data=[["no-duplicate",117,25,"duplicated style attribute","style=\"width: 100%;\""],["no-duplicate",117,47,"duplicated style attribute","style=\"text-align:center;"],["illegal-attr",118,41,"illegal attribute name","colspan"]]

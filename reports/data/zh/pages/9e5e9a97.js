@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,36,"日治時期的文武町"]]
+window.data=[["no-duplicate",4,36,"duplicated image caption parameter","日治時期的文武町"],["no-duplicate",4,45,"duplicated image caption parameter","日治時期文武町及其附近街町的地圖，圖中上方為北方。"]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",192,2,"[[Category:比特币交易平台]]"]]
+window.data=[["no-duplicate",192,2,"duplicated category","[[Category:比特币交易平台]]"],["no-duplicate",196,2,"duplicated category","[[Category:比特币交易平台]]"],["no-duplicate",193,2,"duplicated category","[[Category:数字货币交易所]]"],["no-duplicate",197,2,"duplicated category","[[Category:数字货币交易所]]"],["no-duplicate",194,2,"duplicated category","[[Category:2017年建立的网站]]"],["no-duplicate",198,2,"duplicated category","[[Category:2017年建立的网站]]"]]

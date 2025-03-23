@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",42,2,"[[分類:1942年新加坡]]"]]
+window.data=[["no-duplicate",42,2,"duplicated category","[[分類:1942年新加坡]]"],["no-duplicate",49,2,"duplicated category","[[分類:1942年新加坡]]"]]

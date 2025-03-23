@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",44,4,"CNN"]]
+window.data=[["illegal-attr",44,4,"illegal attribute name","CNN"]]

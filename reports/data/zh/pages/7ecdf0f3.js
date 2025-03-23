@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",46,34,"style=\"border-collapse:collapse\""]]
+window.data=[["no-duplicate",46,34,"duplicated style attribute","style=\"border-collapse:collapse\""],["no-duplicate",46,68,"duplicated style attribute","style=\"font-size:x-small\""]]

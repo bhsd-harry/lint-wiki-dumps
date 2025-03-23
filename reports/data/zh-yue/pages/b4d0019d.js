@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",35,4,"illegal attribute name","table"],[6,"no-ignored",4,38,"attributes of a closing tag"," color"]]
+window.data=[["no-ignored",4,38,"attributes of a closing tag"," color"],["no-ignored",7,46,"attributes of a closing tag"," color"],["illegal-attr",35,4,"illegal attribute name","table"],["no-ignored",142,129,"attributes of a closing tag"," color"],["no-ignored",148,169,"attributes of a closing tag"," color"],["no-ignored",209,53,"attributes of a closing tag"," color"],["no-ignored",211,44,"attributes of a closing tag"," color"]]

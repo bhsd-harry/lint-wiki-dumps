@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,3,"native_name=3. Luftwaffen-Feld-Division\n "]]
+window.data=[["no-duplicate",23,3,"duplicated parameter","native_name=3. Luftwaffen-Feld-Division\n "],["no-duplicate",25,3,"duplicated parameter","native_name={{lang|de|3. Luftwaffen-Felddivision}}\n "]]

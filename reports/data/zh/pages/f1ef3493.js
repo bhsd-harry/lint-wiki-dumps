@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,2,"[[Category:中國國民黨副主席| ]]"]]
+window.data=[["no-duplicate",65,2,"duplicated category","[[Category:中國國民黨副主席| ]]"],["no-duplicate",68,2,"duplicated category","[[Category:中國國民黨副主席]]"]]

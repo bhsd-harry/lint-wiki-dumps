@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",31,66,"Right"]]
+window.data=[["no-duplicate",31,66,"duplicated image caption parameter","Right"],["no-duplicate",31,72,"duplicated image caption parameter","[[卡拉科爾]]的[[東干]]清真寺"]]

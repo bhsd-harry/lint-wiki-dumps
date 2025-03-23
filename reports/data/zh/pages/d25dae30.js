@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",36,30,"Bengbu Bus No.7 2000.10"]]
+window.data=[["no-duplicate",36,30,"duplicated image caption parameter","Bengbu Bus No.7 2000.10"],["no-duplicate",36,54,"duplicated image caption parameter","2000年使用长江牌6151型客车的7路"]]

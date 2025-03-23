@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,59,"臺灣[[竹子湖]]的"]]
+window.data=[["no-duplicate",25,59,"duplicated image caption parameter","臺灣[[竹子湖]]的"],["no-duplicate",25,70,"duplicated image caption parameter","臺灣-{海芋}-田"]]

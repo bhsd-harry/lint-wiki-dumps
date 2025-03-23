@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",705,853,"]"],[6,"no-ignored",1322,3," width:100px;\""]]
+window.data=[["lonely-bracket",705,853,"lonely \"]\"","]"],["no-ignored",1322,3,"containing invalid attribute"," width:100px;\""],["no-ignored",1359,3,"containing invalid attribute"," width:60px;\""],["no-ignored",1361,3,"containing invalid attribute"," width:80px;\"  "],["no-ignored",1363,3,"containing invalid attribute"," width:200px;\"  "],["no-ignored",1364,3,"containing invalid attribute"," width:60px;\"  "],["no-ignored",1365,3,"containing invalid attribute"," width:100px;\"  "]]

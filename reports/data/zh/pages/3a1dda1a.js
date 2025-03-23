@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",478,2,"[[Category:2025年花样滑冰|World Junior Figure Skating Championships]]"]]
+window.data=[["no-duplicate",478,2,"duplicated category","[[Category:2025年花样滑冰|World Junior Figure Skating Championships]]"],["no-duplicate",481,2,"duplicated category","[[Category:2025年花样滑冰|World Junior Figure Skating Championships]]"]]

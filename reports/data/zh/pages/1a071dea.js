@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",139,2,"[[Category:伊奇克里亚车臣共和国总理]]"]]
+window.data=[["no-duplicate",139,2,"duplicated category","[[Category:伊奇克里亚车臣共和国总理]]"],["no-duplicate",155,2,"duplicated category","[[Category:伊奇克里亚车臣共和国总理]]"],["no-duplicate",141,2,"duplicated category","[[Category:俄罗斯联邦穆斯林]]"],["no-duplicate",157,2,"duplicated category","[[Category:俄罗斯联邦穆斯林]]"]]

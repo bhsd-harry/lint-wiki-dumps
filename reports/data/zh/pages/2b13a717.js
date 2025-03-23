@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",134,1," -{"],[4,"lonely-bracket",134,3,"{"],[2,"no-duplicate",942,2,"[[Category:日本冒險小說]]"]]
+window.data=[["lonely-bracket",134,3,"lonely \"{\"","{"],["fostered-content",134,1,"content to be moved out from the table"," -{"],["lonely-bracket",654,2,"lonely \"}\"","}"],["lonely-bracket",661,3,"lonely \"{\"","{"],["lonely-bracket",752,2,"lonely \"}\"","}"],["no-duplicate",942,2,"duplicated category","[[Category:日本冒險小說]]"],["no-duplicate",948,2,"duplicated category","[[Category:日本冒險小說]]"]]

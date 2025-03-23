@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",30,2,"[[Category:1934年建立的國家或政權]]"]]
+window.data=[["no-duplicate",30,2,"duplicated category","[[Category:1934年建立的國家或政權]]"],["no-duplicate",31,2,"duplicated category","[[Category:1934年建立的國家或政權]]"]]

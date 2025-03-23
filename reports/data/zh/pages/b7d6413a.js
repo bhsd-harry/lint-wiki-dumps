@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",187,2,"[[Category:香港女歌手]]"]]
+window.data=[["no-duplicate",187,2,"duplicated category","[[Category:香港女歌手]]"],["no-duplicate",190,2,"duplicated category","[[Category:香港女歌手]]"],["no-duplicate",192,2,"duplicated category","[[Category:中年好聲音系列參賽者]]"],["no-duplicate",193,2,"duplicated category","[[Category:中年好聲音系列參賽者]]"]]

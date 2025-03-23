@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",30,1," [[File:Nazaret Gabrielskirche BW 9.JPG|"]]
+window.data=[["no-ignored",30,1,"invalid content in <gallery>"," [[File:Nazaret Gabrielskirche BW 9.JPG|"],["no-ignored",31,1,"invalid content in <gallery>"," [[File:Nazaret Gabrielskirche BW 10.JPG|"]]

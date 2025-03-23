@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",11,960,"lonely \"[\"","[["],[2,"no-duplicate",7,65,"duplicated image caption parameter","200x200像素"]]
+window.data=[["no-duplicate",7,65,"duplicated image caption parameter","200x200像素"],["no-duplicate",7,75,"duplicated image caption parameter","波巴洞嘅校服，喺{{Link-zh|華納兄弟利維斯登工作室|华纳兄弟利维斯登工作室}}嗰度影嘅。"],["lonely-bracket",11,960,"lonely \"[\"","[["]]

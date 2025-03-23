@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",117,2,"[[Category:已取消小巴路線|034]]"]]
+window.data=[["no-duplicate",117,2,"duplicated category","[[Category:已取消小巴路線|034]]"],["no-duplicate",123,2,"duplicated category","[[Category:已取消小巴路線|034]]"]]

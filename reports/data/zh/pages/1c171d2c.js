@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",33,31,"lidhje="]]
+window.data=[["no-duplicate",33,31,"duplicated image caption parameter","lidhje="],["no-duplicate",33,44,"duplicated image caption parameter","kufi"],["no-duplicate",43,30,"duplicated image caption parameter","lidhje="],["no-duplicate",43,43,"duplicated image caption parameter","kufi"]]

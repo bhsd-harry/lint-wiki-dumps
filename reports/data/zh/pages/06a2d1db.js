@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",396,20," ; text-align:center;\""]]
+window.data=[["no-ignored",396,20,"containing invalid attribute"," ; text-align:center;\""],["invalid-css",410,30,"} expected","\""],["invalid-css",411,30,"} expected","\""],["invalid-css",412,30,"} expected","\""],["invalid-css",413,30,"} expected","\""],["invalid-css",414,30,"} expected","\""],["invalid-css",415,30,"} expected","\""],["invalid-css",416,28,"} expected","\""],["invalid-css",417,30,"} expected","\""]]

@@ -1,1 +1,1 @@
-window.data=[[1,"pipe-like",58,23,"\n *山陕会馆\n *黄州会馆\n *小江西会馆\n *中州会馆||古建筑 ||清 "]]
+window.data=[["pipe-like",58,23,"additional \"|\" in a table cell","\n *山陕会馆\n *黄州会馆\n *小江西会馆\n *中州会馆||古建筑 ||清 "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,2,"[[Category:唐朝华州刺史]]"]]
+window.data=[["no-duplicate",32,2,"duplicated category","[[Category:唐朝华州刺史]]"],["no-duplicate",34,2,"duplicated category","[[Category:唐朝华州刺史]]"]]

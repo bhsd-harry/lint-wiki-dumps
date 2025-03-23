@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3,"image = File:St Dominic's Church.jpg\n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter","image = File:St Dominic's Church.jpg\n "],["no-duplicate",7,3,"duplicated parameter","image = File:St Dominic's Church Macau.jpg\n "]]

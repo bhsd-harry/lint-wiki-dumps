@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",51,1," </span>"],[1,"unmatched-tag",51,2,"</span>"]]
+window.data=[["unmatched-tag",51,2,"unmatched closing tag","</span>"],["fostered-content",51,1,"content to be moved out from the table"," </span>"]]

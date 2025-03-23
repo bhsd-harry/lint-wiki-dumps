@@ -1,1 +1,1 @@
-window.data=[[3,"nested-link",271,68,"[[digital painting]]"]]
+window.data=[["nested-link",271,68,"internal link in an external link","[[digital painting]]"],["nested-link",271,92,"internal link in an external link","[[黛比·哈利|Debbie Harry]]"],["nested-link",271,132,"internal link in an external link","[[Amiga]]"]]

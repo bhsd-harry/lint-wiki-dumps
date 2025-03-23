@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",161,1," 賽主任||戴邦鑫"],[1,"no-ignored",151,3,"副裁判長"]]
+window.data=[["no-ignored",151,3,"containing invalid attribute","副裁判長"],["fostered-content",161,1,"content to be moved out from the table"," 賽主任||戴邦鑫"],["fostered-content",163,1,"content to be moved out from the table"," 競賽秘書||許力云"]]

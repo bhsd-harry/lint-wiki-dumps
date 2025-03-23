@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3," synonyms = IUCN3.1\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter"," synonyms = IUCN3.1\n "],["no-duplicate",7,3,"duplicated parameter"," synonyms = *''Tropidinius argyrogrammicus''<br /><small>Valenciennes, 1832</small>\n *''Platynius amoenus''<br /><small>Snyder, 1911</small>\n *''Prist"]]

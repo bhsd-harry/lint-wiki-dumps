@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",2,107,"thumb"]]
+window.data=[["no-duplicate",2,107,"duplicated image thumbnail parameter","thumb"],["no-duplicate",2,205,"duplicated image thumbnail parameter","thumb"],["no-duplicate",2,124,"duplicated image caption parameter","[[Mosaic]] of [[Mary (mother of Jesus)|Virgin Mary]] at the Pula Cathedral"],["no-duplicate",2,211,"duplicated image caption parameter","主教座堂牆上的聖母馬賽克"],["no-duplicate",2,113,"conflicting image horizontal-alignment parameter","left"],["no-duplicate",2,199,"conflicting image horizontal-alignment parameter","right"]]

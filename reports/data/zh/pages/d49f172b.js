@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",144,42,"  color:black; font-weight:bold;\"  "]]
+window.data=[["no-ignored",144,42,"containing invalid attribute","  color:black; font-weight:bold;\"  "],["invalid-css",264,28,"semi-colon expected",":"],["invalid-css",265,21,"colon expected",";"]]

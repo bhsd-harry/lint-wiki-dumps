@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,2,"[[Category:南北朝太傅]]"]]
+window.data=[["no-duplicate",22,2,"duplicated category","[[Category:南北朝太傅]]"],["no-duplicate",33,2,"duplicated category","[[Category:南北朝太傅]]"]]

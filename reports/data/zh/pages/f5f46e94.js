@@ -1,1 +1,1 @@
-window.data=[[4,"nested-link",46,96,"[[Malaysia]]"]]
+window.data=[["nested-link",46,96,"internal link in an external link","[[Malaysia]]"],["nested-link",46,148,"internal link in an external link","[[Federation of Malaya|Malaya]]"],["nested-link",46,181,"internal link in an external link","[[Crown Colony of North Borneo|North Borneo]]"],["nested-link",46,228,"internal link in an external link","[[Crown Colony of Sarawak|Sarawak]]"]]

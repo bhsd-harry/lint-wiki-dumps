@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",30,2,"[[Category:南京人]]"]]
+window.data=[["no-duplicate",30,2,"duplicated category","[[Category:南京人]]"],["no-duplicate",35,2,"duplicated category","[[Category:南京人]]"],["no-duplicate",31,2,"duplicated category","[[Category:北京外国语大学教授]]"],["no-duplicate",36,2,"duplicated category","[[Category:北京外国语大学教授]]"],["no-duplicate",33,2,"duplicated category","[[Category:东吴大学校友 (江苏省)]]"],["no-duplicate",38,2,"duplicated category","[[Category:东吴大学校友 (江苏省)]]"]]

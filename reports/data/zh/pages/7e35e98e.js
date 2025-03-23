@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",942,1," [[File:CNO Cycle.svg|200px|thumbnail|碳氮氧循環]]"]]
+window.data=[["fostered-content",942,1,"content to be moved out from the table"," [[File:CNO Cycle.svg|200px|thumbnail|碳氮氧循環]]"],["fostered-content",940,1,"content to be moved out from the table"," [[File:Fusion in the Sun.svg|200px|thumbnail|質子-質子鏈的回顧]]"]]

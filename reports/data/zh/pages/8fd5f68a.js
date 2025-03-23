@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,2,"[[Category:清朝骑都尉]]"]]
+window.data=[["no-duplicate",20,2,"duplicated category","[[Category:清朝骑都尉]]"],["no-duplicate",24,2,"duplicated category","[[Category:清朝骑都尉]]"]]

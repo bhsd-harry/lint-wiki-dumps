@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,3,"duplicated parameter"," 職業 = \n "]]
+window.data=[["no-duplicate",18,3,"duplicated parameter"," 職業 = \n "],["no-duplicate",20,3,"duplicated parameter"," 職業 = 演員、活動司儀\n "]]

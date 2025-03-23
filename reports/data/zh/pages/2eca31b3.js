@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,3,"year_date = 12月31日\n "],[1,"unmatched-tag",10,83,"</small>"]]
+window.data=[["unmatched-tag",10,83,"unmatched closing tag","</small>"],["no-duplicate",14,3,"duplicated parameter","year_date = 12月31日\n "],["no-duplicate",16,3,"duplicated parameter","year_date = 3月15日\n "]]

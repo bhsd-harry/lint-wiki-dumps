@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",28,2,"[[Category:整數素數]]"]]
+window.data=[["no-duplicate",28,2,"duplicated category","[[Category:整數素數]]"],["no-duplicate",33,2,"duplicated category","[[Category:整數素數|百位]]"]]

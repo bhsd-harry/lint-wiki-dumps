@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",111,2,"[[Category:多面體]]"]]
+window.data=[["no-duplicate",111,2,"duplicated category","[[Category:多面體]]"],["no-duplicate",113,2,"duplicated category","[[Category:多面體]]"],["no-duplicate",112,2,"duplicated category","[[Category:康威多面體]]"],["no-duplicate",114,2,"duplicated category","[[category:康威多面體]]"]]

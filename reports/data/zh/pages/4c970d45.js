@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,13,"|坎昆国际机场"]]
+window.data=[["no-ignored",1,13,"useless link text","|坎昆国际机场"]]

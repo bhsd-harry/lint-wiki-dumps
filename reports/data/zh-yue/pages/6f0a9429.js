@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",68,3,"duplicated parameter"," blank_name_sec2         = 從[[吉打蘇丹王朝]]獨立建立王國\n "]]
+window.data=[["no-duplicate",68,3,"duplicated parameter"," blank_name_sec2         = 從[[吉打蘇丹王朝]]獨立建立王國\n "],["no-duplicate",70,3,"duplicated parameter"," blank_name_sec2         = 英國統治\n "],["no-duplicate",69,3,"duplicated parameter"," blank_info_sec2         = 1843年4月20號\n "],["no-duplicate",71,3,"duplicated parameter"," blank_info_sec2         = 1909年\n "]]

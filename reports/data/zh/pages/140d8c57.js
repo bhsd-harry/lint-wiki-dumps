@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",378,943,"}}"],[3,"nested-link",25,442,"[[美國總統]]"]]
+window.data=[["nested-link",25,442,"internal link in an external link","[[美國總統]]"],["nested-link",25,450,"internal link in an external link","[[杜魯門]]"],["nested-link",25,471,"internal link in an external link","[[沃倫·奧斯汀|奧斯汀]]"],["lonely-bracket",378,943,"lonely \"}\"","}}"],["lonely-bracket",383,554,"lonely \"}\"","}}"]]

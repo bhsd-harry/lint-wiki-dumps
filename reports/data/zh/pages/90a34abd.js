@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,21,"900*497px"]]
+window.data=[["no-duplicate",12,21,"duplicated image caption parameter","900*497px"],["no-duplicate",12,37,"duplicated image caption parameter","宋楚瑜參選後各媒體之總統民調趨勢線"]]

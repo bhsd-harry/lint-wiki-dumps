@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,31,"代替文=<nowiki>秘密出版所使用的唱片制作机</nowiki>"]]
+window.data=[["no-duplicate",11,31,"duplicated image caption parameter","代替文=<nowiki>秘密出版所使用的唱片制作机</nowiki>"],["no-duplicate",11,78,"duplicated image caption parameter","秘密出版所使用的唱片制作机"]]

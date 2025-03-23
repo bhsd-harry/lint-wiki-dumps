@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",11,377,"[[United States Army Center of Military History]]"]]
+window.data=[["nested-link",11,377,"internal link in an external link","[[United States Army Center of Military History]]"]]

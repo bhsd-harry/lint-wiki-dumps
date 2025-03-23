@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,47,"1980年的冷战格局图"]]
+window.data=[["no-duplicate",7,47,"duplicated image caption parameter","1980年的冷战格局图"],["no-duplicate",7,59,"duplicated image caption parameter","1980年的冷戰格局圖<br/>{{color box|#000099}}{{color box|#6666ff}} [[北大西洋公约组织]]及西方盟国<br/>{{color box|#ff0000}}{{color box|#ff6666}}{{color box|#ffcccc}} 华沙条约组"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",229,49,"300"]]
+window.data=[["no-duplicate",229,49,"duplicated image caption parameter","300"],["no-duplicate",229,53,"duplicated image caption parameter","SF<sub>4</sub>不寻常的[[蹺蹺板形分子構型]]，符合[[VSEPR]]的预测。"]]

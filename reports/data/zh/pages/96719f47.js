@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,3," nationality   = {{US}}\n "]]
+window.data=[["no-duplicate",35,3,"duplicated parameter"," nationality   = {{US}}\n "],["no-duplicate",38,3,"duplicated parameter"," nationality   = {{US}}\n "]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",263,81,"ISBN"],[6,"no-duplicate",43,27,"Right"]]
+window.data=[["no-duplicate",43,27,"duplicated image caption parameter","Right"],["no-duplicate",43,39,"duplicated image caption parameter","阿纳斯塔西娅身穿公主服，攝於1904年。"],["no-duplicate",76,23,"duplicated image caption parameter","Right"],["no-duplicate",76,35,"duplicated image caption parameter","攝於1910年的正式肖像。"],["no-duplicate",90,30,"duplicated image caption parameter","Right"],["no-duplicate",90,42,"duplicated image caption parameter","攝於1914年。"],["lonely-http",263,81,"lonely \"ISBN\"","ISBN"]]

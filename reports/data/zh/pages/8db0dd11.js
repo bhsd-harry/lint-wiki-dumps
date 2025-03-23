@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",154,2,"[[Category:新疆生产建设兵团城市]]"]]
+window.data=[["no-duplicate",154,2,"duplicated category","[[Category:新疆生产建设兵团城市]]"],["no-duplicate",156,2,"duplicated category","[[Category:新疆生产建设兵团城市]]"]]

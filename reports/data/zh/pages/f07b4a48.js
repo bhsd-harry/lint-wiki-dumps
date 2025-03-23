@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",326,1,"\n === 影視綜藝單曲 ==="],[1,"unclosed-table",324,2,"{|"]]
+window.data=[["invalid-css",238,47,"} expected",""],["invalid-css",238,47,"{ expected",""],["invalid-css",275,47,"} expected",""],["invalid-css",275,47,"{ expected",""],["fostered-content",326,1,"content to be moved out from the table","\n === 影視綜藝單曲 ==="],["unclosed-table",324,2,"unclosed table","{|"],["invalid-css",483,47,"} expected",""],["invalid-css",483,47,"{ expected",""]]

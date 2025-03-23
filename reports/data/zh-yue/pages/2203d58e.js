@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1060,6,"duplicated parameter","page=[https://archive.org/details/armsethnicconfli0000sisl/page/99 99]\n    "]]
+window.data=[["no-duplicate",1060,6,"duplicated parameter","page=[https://archive.org/details/armsethnicconfli0000sisl/page/99 99]\n    "],["no-duplicate",1062,6,"duplicated parameter","page=[https://archive.org/details/armsethnicconfli0000sisl/page/99 99]\n    "]]

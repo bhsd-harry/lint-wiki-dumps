@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",80,2,"[[Category:漫威漫畫電視角色]]"]]
+window.data=[["no-duplicate",80,2,"duplicated category","[[Category:漫威漫畫電視角色]]"],["no-duplicate",84,2,"duplicated category","[[Category:漫威漫畫電視角色]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",60,2,"[[Category:香港輕鐵路綫|7]]"]]
+window.data=[["no-duplicate",60,2,"duplicated category","[[Category:香港輕鐵路綫|7]]"],["no-duplicate",63,2,"duplicated category","[[Category:香港輕鐵路綫]]"]]

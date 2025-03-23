@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",34,28,"table"],[4,"no-ignored",34,4," '''Cells left-aligned, "]]
+window.data=[["illegal-attr",34,28,"illegal attribute name","table"],["no-ignored",34,4,"containing invalid attribute"," '''Cells left-aligned, "],["no-ignored",34,33,"containing invalid attribute"," centered'''"],["illegal-attr",167,28,"illegal attribute name","table"],["no-ignored",167,4,"containing invalid attribute"," '''Cells left-aligned, "],["no-ignored",167,33,"containing invalid attribute"," centered'''"]]

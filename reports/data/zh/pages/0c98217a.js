@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",1,50,"mini"]]
+window.data=[["no-duplicate",1,50,"duplicated image caption parameter","mini"],["no-duplicate",1,61,"duplicated image caption parameter","2008年维也纳大学档案馆改造后的外观"],["no-duplicate",5,58,"duplicated image caption parameter","mini"],["no-duplicate",5,69,"duplicated image caption parameter","维也纳大学档案馆展示馆藏（原耶稣会食堂）"]]

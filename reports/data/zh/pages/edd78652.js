@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3,"longtype      = 全國性公共節日\n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter","longtype      = 全國性公共節日\n "],["no-duplicate",17,3,"duplicated parameter","longtype      =\n "]]

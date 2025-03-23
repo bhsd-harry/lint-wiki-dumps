@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,96,"vignette"]]
+window.data=[["no-duplicate",22,96,"duplicated image caption parameter","vignette"],["no-duplicate",22,105,"duplicated image caption parameter","霍卡一一生产的一双鞋子的动画"]]

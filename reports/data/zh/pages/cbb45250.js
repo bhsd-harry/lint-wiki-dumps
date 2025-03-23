@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",164,2,"[[Category:英國開發電子遊戲]]"]]
+window.data=[["no-duplicate",164,2,"duplicated category","[[Category:英國開發電子遊戲]]"],["no-duplicate",171,2,"duplicated category","[[Category:英國開發電子遊戲]]"]]

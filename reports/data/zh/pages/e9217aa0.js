@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",207,69,"0"],[1,"no-ignored",207,74," 1em; border-collapse:collapse;"]]
+window.data=[["invalid-css",207,66,"property value expected",""],["illegal-attr",207,69,"illegal attribute name","0"],["illegal-attr",207,71,"illegal attribute name","1em"],["no-ignored",207,74,"containing invalid attribute"," 1em; border-collapse:collapse;"]]

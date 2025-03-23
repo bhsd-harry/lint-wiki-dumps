@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",71,2,"[[Category:林迪斯法恩主教]]"]]
+window.data=[["no-duplicate",71,2,"duplicated category","[[Category:林迪斯法恩主教]]"],["no-duplicate",76,2,"duplicated category","[[Category:林迪斯法恩主教]]"]]

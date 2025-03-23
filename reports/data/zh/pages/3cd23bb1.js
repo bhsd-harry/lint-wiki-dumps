@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",53,86,"fcfccf\"; empty-cells:show; border-collapse:collapse;\"  "]]
+window.data=[["invalid-css",53,84,"semi-colon expected","#"],["no-ignored",53,86,"containing invalid attribute","fcfccf\"; empty-cells:show; border-collapse:collapse;\"  "]]

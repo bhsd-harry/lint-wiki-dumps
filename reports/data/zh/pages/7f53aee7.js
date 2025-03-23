@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",372,2,"[[Category:新大嶼山巴士路線|A35]]"]]
+window.data=[["no-duplicate",372,2,"duplicated category","[[Category:新大嶼山巴士路線|A35]]"],["no-duplicate",375,2,"duplicated category","[[Category:新大嶼山巴士路線|N35]]"],["no-duplicate",373,2,"duplicated category","[[Category:機場巴士路線|A35]]"],["no-duplicate",376,2,"duplicated category","[[Category:機場巴士路線|N35]]"],["no-duplicate",374,2,"duplicated category","[[Category:離島區巴士路線|A35]]"],["no-duplicate",377,2,"duplicated category","[[Category:離島區巴士路線|N35]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",73,2,"[[Category:中華民國海軍陸戰隊少將]]"]]
+window.data=[["no-duplicate",73,2,"duplicated category","[[Category:中華民國海軍陸戰隊少將]]"],["no-duplicate",74,2,"duplicated category","[[Category:中華民國海軍陸戰隊少將]]"]]

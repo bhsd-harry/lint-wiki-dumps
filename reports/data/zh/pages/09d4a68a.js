@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,2,"[[Category:北魏长史]]"]]
+window.data=[["no-duplicate",20,2,"duplicated category","[[Category:北魏长史]]"],["no-duplicate",22,2,"duplicated category","[[Category:北魏长史]]"]]

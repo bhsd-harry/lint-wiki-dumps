@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,44,"duplicated image caption parameter","縮圖"]]
+window.data=[["no-duplicate",2,44,"duplicated image caption parameter","縮圖"],["no-duplicate",2,47,"duplicated image caption parameter","Nguyễn Tấn Dũng (2014)"]]

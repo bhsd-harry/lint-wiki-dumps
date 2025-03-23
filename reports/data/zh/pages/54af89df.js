@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3," image = Mohéli-Poisson clown.jpg\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter"," image = Mohéli-Poisson clown.jpg\n "],["no-duplicate",6,3,"duplicated parameter"," image = Amphiprion pacificus.webp\n "]]

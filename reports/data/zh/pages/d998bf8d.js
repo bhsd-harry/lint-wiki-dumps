@@ -1,1 +1,1 @@
-window.data=[[3,"fostered-content",54,1," *時刻表僅供參考，請以[[巨業交通]]網站公告為準。時刻表更新日期為2025年1月26日。"]]
+window.data=[["fostered-content",54,1,"content to be moved out from the table"," *時刻表僅供參考，請以[[巨業交通]]網站公告為準。時刻表更新日期為2025年1月26日。"],["fostered-content",91,1,"content to be moved out from the table"," *時刻表僅供參考，請以[[巨業交通]]網站公告為準。時刻表更新日期為2025年1月26日。"],["fostered-content",127,1,"content to be moved out from the table"," *時刻表僅供參考，請以[[巨業交通]]網站公告為準。時刻表更新日期為2025年1月26日。"]]

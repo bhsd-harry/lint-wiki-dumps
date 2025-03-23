@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",36,3," manageryears9 = 2022–2024\n "]]
+window.data=[["no-duplicate",36,3,"duplicated parameter"," manageryears9 = 2022–2024\n "],["no-duplicate",38,3,"duplicated parameter"," manageryears9 = 2024–\n "],["no-duplicate",37,3,"duplicated parameter"," managerclubs9 = [[蘭斯體育會|蘭斯]]\n "],["no-duplicate",39,3,"duplicated parameter"," managerclubs9 = [[朗斯足球俱乐部|朗斯]]\n "]]

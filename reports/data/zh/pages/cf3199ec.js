@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",29,2,"[[Category:中国新教教堂]]"]]
+window.data=[["no-duplicate",29,2,"duplicated category","[[Category:中国新教教堂]]"],["no-duplicate",32,2,"duplicated category","[[Category:中国新教教堂]]"],["no-duplicate",34,2,"duplicated category","[[Category:使用创建条目精灵建立的页面]]"],["no-duplicate",35,2,"duplicated category","[[Category:使用创建条目精灵建立的页面]]"]]

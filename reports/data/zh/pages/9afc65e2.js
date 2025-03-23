@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",56,51,"mini"]]
+window.data=[["no-duplicate",56,51,"duplicated image caption parameter","mini"],["no-duplicate",56,74,"duplicated image caption parameter","BAZ A079巴士"],["no-duplicate",76,42,"duplicated image caption parameter","mini"],["no-duplicate",76,59,"duplicated image caption parameter","乌克兰国民警卫队的[[BTR-60]]武装运输车参与了营救行动"]]

@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",143,109,"Air"],[1,"no-ignored",234,4,"d|ACC"]]
+window.data=[["illegal-attr",143,109,"illegal attribute name","Air"],["illegal-attr",143,113,"illegal attribute name","Combat"],["illegal-attr",143,120,"illegal attribute name","Command"],["no-ignored",234,4,"containing invalid attribute","d|ACC"]]

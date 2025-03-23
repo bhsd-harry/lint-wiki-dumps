@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",170,2,"[[分類:多黏菌素抗生素]]"]]
+window.data=[["no-duplicate",170,2,"duplicated category","[[分類:多黏菌素抗生素]]"],["no-duplicate",180,2,"duplicated category","[[Category:多黏菌素抗生素]]"]]

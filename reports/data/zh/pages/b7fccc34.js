@@ -1,1 +1,1 @@
-window.data=[[3,"no-ignored",73,3,"!width=20%"],[1,"unmatched-tag",7,172,"<small>"]]
+window.data=[["unmatched-tag",7,172,"unclosed tag","<small>"],["invalid-css",69,81,"colon expected","="],["no-ignored",73,3,"containing invalid attribute","!width=20%"],["invalid-css",352,81,"colon expected","="],["no-ignored",356,3,"containing invalid attribute","!width=19%"],["invalid-css",437,81,"colon expected","="],["no-ignored",441,3,"containing invalid attribute","!width=20%"]]

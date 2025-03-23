@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,37,"icon"]]
+window.data=[["no-duplicate",7,37,"duplicated image caption parameter","icon"],["no-duplicate",7,42,"duplicated image caption parameter","The splash screen logo for the utau software"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",529,2,"[[Category:大逃杀游戏]]"],[1,"no-ignored",428,3,"粉絲最喜歡的多人遊戲"]]
+window.data=[["no-ignored",428,3,"containing invalid attribute","粉絲最喜歡的多人遊戲"],["no-duplicate",529,2,"duplicated category","[[Category:大逃杀游戏]]"],["no-duplicate",543,2,"duplicated category","[[Category:大逃杀游戏]]"]]

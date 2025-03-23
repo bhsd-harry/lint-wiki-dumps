@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",397,654,"]"],[2,"nested-link",203,251,"[[李嘉誠]]"]]
+window.data=[["nested-link",203,251,"internal link in an external link","[[李嘉誠]]"],["nested-link",203,259,"internal link in an external link","[[唐英年]]"],["lonely-bracket",397,654,"lonely \"]\"","]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,35,"duplicated image caption parameter","缩略图"]]
+window.data=[["no-duplicate",1,35,"duplicated image caption parameter","缩略图"],["no-duplicate",1,57,"duplicated image caption parameter","中國遼寧一座鋼鐵廠。"]]

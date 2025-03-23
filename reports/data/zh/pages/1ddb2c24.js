@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",65,42,"thumb"],[5,"no-duplicate",99,50,"Seat of JR 185-200.JPG"]]
+window.data=[["invalid-gallery",65,42,"invalid image parameter","thumb"],["no-duplicate",99,50,"duplicated image caption parameter","Seat of JR 185-200.JPG"],["no-duplicate",99,73,"duplicated image caption parameter","95"],["no-duplicate",99,76,"duplicated image caption parameter","Green Car's Seat of JR 185-200.JPG"],["no-duplicate",99,111,"duplicated image caption parameter","95"],["no-duplicate",99,114,"duplicated image caption parameter","1995年以後翻新的新前橋所屬車"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",149,2,"[[Category:威斯康辛州河流]]"]]
+window.data=[["no-duplicate",149,2,"duplicated category","[[Category:威斯康辛州河流]]"],["no-duplicate",150,2,"duplicated category","[[Category:威斯康辛州河流]]"]]

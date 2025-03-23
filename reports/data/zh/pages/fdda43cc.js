@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,15,"author=サイドランチ"]]
+window.data=[["no-duplicate",18,15,"duplicated parameter","author=サイドランチ"],["no-duplicate",18,29,"duplicated parameter","author=徐永為"]]

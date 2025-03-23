@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",104,1," 上陣入球上陣入球上陣入球上陣!!入球!!上陣!!入球"]]
+window.data=[["fostered-content",104,1,"content to be moved out from the table"," 上陣入球上陣入球上陣入球上陣!!入球!!上陣!!入球"]]

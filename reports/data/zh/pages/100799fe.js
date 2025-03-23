@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",39,104,"'"],[2,"no-duplicate",22,29,"240px"]]
+window.data=[["no-duplicate",22,29,"duplicated image width parameter","240px"],["no-duplicate",22,41,"duplicated image width parameter","200px"],["lonely-apos",39,104,"lonely \"'\"","'"]]

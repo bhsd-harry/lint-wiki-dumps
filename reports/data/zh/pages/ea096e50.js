@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",553,2,"[[Category:2022年日本電視動畫]]"]]
+window.data=[["no-duplicate",553,2,"duplicated category","[[Category:2022年日本電視動畫]]"],["no-duplicate",554,2,"duplicated category","[[Category:2022年日本電視動畫]]"]]

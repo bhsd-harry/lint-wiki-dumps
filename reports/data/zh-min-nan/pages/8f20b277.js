@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,39,"duplicated image caption parameter","替代文字"]]
+window.data=[["no-duplicate",2,39,"duplicated image caption parameter","替代文字"],["no-duplicate",2,47,"duplicated image caption parameter","Hán-pá-kuh ka chhì-suh"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",169,2,"[[Category:革命浪潮]]"]]
+window.data=[["no-duplicate",169,2,"duplicated category","[[Category:革命浪潮]]"],["no-duplicate",185,2,"duplicated category","[[Category:革命浪潮]]"]]

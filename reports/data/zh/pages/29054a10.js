@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",572,14,"solid"],[4,"no-ignored",572,19," #ccf\""]]
+window.data=[["illegal-attr",572,14,"illegal attribute name","solid"],["no-ignored",572,19,"containing invalid attribute"," #ccf\""],["illegal-attr",591,14,"illegal attribute name","solid"],["no-ignored",591,19,"containing invalid attribute"," #ccf\""],["illegal-attr",609,14,"illegal attribute name","solid"],["no-ignored",609,19,"containing invalid attribute"," #ccf\""],["illegal-attr",628,14,"illegal attribute name","solid"],["no-ignored",628,19,"containing invalid attribute"," #ccf\""]]

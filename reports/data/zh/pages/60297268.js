@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",114,14,"{{"],[1,"no-ignored",114,13," {{单双书名号转换"]]
+window.data=[["lonely-bracket",114,14,"lonely \"{\"","{{"],["no-ignored",114,13,"containing invalid attribute"," {{单双书名号转换"]]

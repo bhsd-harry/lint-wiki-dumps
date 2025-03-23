@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",70,1,"content to be moved out from the table"," 以下係已知以AK-47嘅仿製、變種同衍生嘅軍用版本："]]
+window.data=[["fostered-content",70,1,"content to be moved out from the table"," 以下係已知以AK-47嘅仿製、變種同衍生嘅軍用版本："]]

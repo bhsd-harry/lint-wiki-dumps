@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",13,3," designer       = [[Link-en|Rob Melville]]\n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter"," designer       = [[Link-en|Rob Melville]]\n "],["no-duplicate",29,3,"duplicated parameter"," designer       = \n "],["no-duplicate",19,3,"duplicated parameter"," related        = [[迈凯伦F1]]\n "],["no-duplicate",27,3,"duplicated parameter"," related        = \n "]]

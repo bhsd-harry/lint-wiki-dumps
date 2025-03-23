@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",29,35,"Right"]]
+window.data=[["no-duplicate",29,35,"duplicated image caption parameter","Right"],["no-duplicate",29,47,"duplicated image caption parameter","孫中山銅像"],["no-duplicate",30,61,"duplicated image caption parameter","Right"],["no-duplicate",30,73,"duplicated image caption parameter","國父紀念館內部"],["no-duplicate",31,55,"duplicated image caption parameter","Right"],["no-duplicate",31,67,"duplicated image caption parameter","國父紀念館內部"]]

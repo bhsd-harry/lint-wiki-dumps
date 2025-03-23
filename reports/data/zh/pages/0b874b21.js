@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",430,23,"font-size:"],[4,"no-ignored",430,33," 14px;\""]]
+window.data=[["illegal-attr",430,23,"illegal attribute name","font-size:"],["no-ignored",430,33,"containing invalid attribute"," 14px;\""],["no-ignored",472,48,"attributes of a closing tag"," color"],["no-ignored",472,113,"attributes of a closing tag"," color"],["no-ignored",472,162,"attributes of a closing tag"," color"]]

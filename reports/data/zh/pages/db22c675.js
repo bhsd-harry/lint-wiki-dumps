@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",210,77,"background:"],[2,"no-duplicate",355,2,"[[Category:哈利·波特演员]]"],[1,"no-ignored",210,88," #f9f9f9;"]]
+window.data=[["illegal-attr",210,77,"illegal attribute name","background:"],["no-ignored",210,88,"containing invalid attribute"," #f9f9f9;"],["no-duplicate",355,2,"duplicated category","[[Category:哈利·波特演员]]"],["no-duplicate",358,2,"duplicated category","[[Category:哈利·波特演员]]"]]

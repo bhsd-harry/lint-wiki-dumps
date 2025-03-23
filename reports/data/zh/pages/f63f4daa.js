@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",190,2,"[[Category:利比亚背景电子游戏]]"]]
+window.data=[["no-duplicate",190,2,"duplicated category","[[Category:利比亚背景电子游戏]]"],["no-duplicate",197,2,"duplicated category","[[Category:利比亚背景电子游戏]]"]]

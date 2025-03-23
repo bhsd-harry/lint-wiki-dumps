@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",44,2,"[[Category:霍巴特旅游景点]]"]]
+window.data=[["no-duplicate",44,2,"duplicated category","[[Category:霍巴特旅游景点]]"],["no-duplicate",46,2,"duplicated category","[[Category:霍巴特旅游景点]]"],["no-duplicate",45,2,"duplicated category","[[Category:塔斯马尼亚历史]]"],["no-duplicate",47,2,"duplicated category","[[Category:塔斯马尼亚历史]]"]]

@@ -1,1 +1,1 @@
-window.data=[[6,"lonely-bracket",143,19,"[["],[2,"no-ignored",143,4,"||〈戀歌2008〉||（與 [[宋承憲]]、[[朴容夏]]、[[河錫辰]]）"]]
+window.data=[["lonely-bracket",143,19,"lonely \"[\"","[["],["lonely-bracket",143,24,"lonely \"]\"","]]"],["lonely-bracket",143,27,"lonely \"[\"","[["],["lonely-bracket",143,32,"lonely \"]\"","]]"],["lonely-bracket",143,35,"lonely \"[\"","[["],["lonely-bracket",143,40,"lonely \"]\"","]]"],["no-ignored",143,4,"containing invalid attribute","||〈戀歌2008〉||（與 [[宋承憲]]、[[朴容夏]]、[[河錫辰]]）"],["no-ignored",145,3,"containing invalid attribute","2010年"]]

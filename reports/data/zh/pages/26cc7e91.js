@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",100,2,"[[Category:HD和HDE天體|184930]]"]]
+window.data=[["no-duplicate",100,2,"duplicated category","[[Category:HD和HDE天體|184930]]"],["no-duplicate",108,2,"duplicated category","[[Category:HD和HDE天體|184930]]"]]

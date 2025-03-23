@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",86,2,"[[Category:中国语言学家|L陆]]"]]
+window.data=[["no-duplicate",86,2,"duplicated category","[[Category:中国语言学家|L陆]]"],["no-duplicate",93,2,"duplicated category","[[Category:中国语言学家|L路]]"]]

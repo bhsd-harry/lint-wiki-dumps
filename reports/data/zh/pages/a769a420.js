@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",38,181,"website=[[澳門大學]]"]]
+window.data=[["no-duplicate",38,181,"duplicated parameter","website=[[澳門大學]]"],["no-duplicate",38,198,"duplicated parameter","website=www.um.edu.mo"]]

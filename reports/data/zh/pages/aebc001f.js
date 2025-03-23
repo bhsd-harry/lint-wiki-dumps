@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,3,"familycolor=尼日尔-刚果语系\n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter","familycolor=尼日尔-刚果语系\n "],["no-duplicate",17,3,"duplicated parameter"," familycolor      = Niger-Congo\n "]]

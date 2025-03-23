@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",61,1," File:Statue of Horemheb with Amun (Museo Egizio).jpg[[霍朗赫布]]及[[阿蒙]]雕像"]]
+window.data=[["no-ignored",61,1,"invalid content in <gallery>"," File:Statue of Horemheb with Amun (Museo Egizio).jpg[[霍朗赫布]]及[[阿蒙]]雕像"]]

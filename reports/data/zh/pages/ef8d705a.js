@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",46,1," * [[電機工程學|电气]][[科系|科]]\n ** 第一部<ref group=\"注\"  name=\"电气科第一部招生\"/>\n ** [[夜校|第二部]]"]]
+window.data=[["fostered-content",46,1,"content to be moved out from the table"," * [[電機工程學|电气]][[科系|科]]\n ** 第一部<ref group=\"注\"  name=\"电气科第一部招生\"/>\n ** [[夜校|第二部]]"]]

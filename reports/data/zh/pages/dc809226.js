@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",84,56,"Sina"],[2,"no-duplicate",147,2,"[[Category:泰國電視女演員]]"]]
+window.data=[["illegal-attr",84,56,"illegal attribute name","Sina"],["illegal-attr",84,63,"illegal attribute name","Suzy"],["illegal-attr",84,68,"illegal attribute name","Roth"],["no-duplicate",147,2,"duplicated category","[[Category:泰國電視女演員]]"],["no-duplicate",149,2,"duplicated category","[[Category:泰國電視女演員]]"]]

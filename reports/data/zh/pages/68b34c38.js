@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,3,"doublesrecord = {{tennis record|won=23|lost=23}}\n "]]
+window.data=[["no-duplicate",29,3,"duplicated parameter","doublesrecord = {{tennis record|won=23|lost=23}}\n "],["no-duplicate",39,3,"duplicated parameter","doublesrecord               = {{tennis record|won=21|lost=16}}\n "]]

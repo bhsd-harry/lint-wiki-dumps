@@ -1,1 +1,1 @@
-window.data=[[8,"no-ignored",97,3,"船塢登陸艦"]]
+window.data=[["no-ignored",97,3,"containing invalid attribute","船塢登陸艦"],["no-ignored",103,3,"containing invalid attribute","船塢登陸艦"],["no-ignored",109,3,"containing invalid attribute","船塢登陸艦"],["no-ignored",115,3,"containing invalid attribute","船塢登陸艦"],["no-ignored",121,3,"containing invalid attribute","船塢登陸艦"],["no-ignored",127,3,"containing invalid attribute","船塢登陸艦"],["no-ignored",133,3,"containing invalid attribute","船塢登陸艦"],["no-ignored",139,3,"containing invalid attribute","船塢登陸艦"]]

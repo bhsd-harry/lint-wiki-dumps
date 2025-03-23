@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",78,46,"#アニメーター・メカ作画監督"]]
+window.data=[["no-ignored",78,46,"containing invalid attribute","#アニメーター・メカ作画監督"]]

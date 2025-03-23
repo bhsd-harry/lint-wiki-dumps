@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",141,1," * [https://web.archive.org/web/20090601044207/http://www.go-nagano.net/tw/ 長野縣官方觀光網站(中文繁体)]\n * [https://web.archive.org/web/20090601044124/http://www"]]
+window.data=[["fostered-content",141,1,"content to be moved out from the table"," * [https://web.archive.org/web/20090601044207/http://www.go-nagano.net/tw/ 長野縣官方觀光網站(中文繁体)]\n * [https://web.archive.org/web/20090601044124/http://www"]]

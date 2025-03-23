@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,24,"|2006年菲律賓土石流事件"]]
+window.data=[["no-ignored",1,24,"useless link text","|2006年菲律賓土石流事件"]]

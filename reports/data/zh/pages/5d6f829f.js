@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",30,3,"代表作 = \n "]]
+window.data=[["no-duplicate",30,3,"duplicated parameter","代表作 = \n "],["no-duplicate",32,3,"duplicated parameter","代表作 = [[少女日記]]、[[甜蜜十六歲]]\n "]]

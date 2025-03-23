@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",56,347,"dead-url=no"]]
+window.data=[["no-duplicate",56,347,"duplicated parameter","dead-url=no"],["no-duplicate",56,478,"duplicated parameter","dead-url=no"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",12,147,"[[Вінницький край (журнал)|Вінницький край]]"]]
+window.data=[["nested-link",12,147,"internal link in an external link","[[Вінницький край (журнал)|Вінницький край]]"]]

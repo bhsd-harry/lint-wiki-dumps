@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",210,111," alt =亨利·戴维·梭罗的肖像照 "]]
+window.data=[["no-duplicate",210,111,"duplicated image caption parameter"," alt =亨利·戴维·梭罗的肖像照 "],["no-duplicate",210,131,"duplicated image caption parameter"," 知名美國個人主義者[[亨利·戴维·梭罗]]"]]

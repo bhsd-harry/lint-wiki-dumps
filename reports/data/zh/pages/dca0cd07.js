@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:已不存在的挪威市镇]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:已不存在的挪威市镇]]"],["no-duplicate",42,2,"duplicated category","[[Category:已不存在的挪威市镇]]"]]

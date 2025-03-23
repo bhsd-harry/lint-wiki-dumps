@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",14,144,"[[无中微子双β衰變]]"]]
+window.data=[["nested-link",14,144,"internal link in an external link","[[无中微子双β衰變]]"]]

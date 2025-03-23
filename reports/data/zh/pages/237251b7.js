@@ -1,1 +1,1 @@
-window.data=[[2,"pipe-like",871,98,"楊大正（滅火器 Fire EX.主唱）\n 吳志寧（929 主唱、2016 搖滾台中共同策展人）\n 陳低低（Legacy Taichung 總監）||誠品園道店"]]
+window.data=[["pipe-like",871,98,"additional \"|\" in a table cell","楊大正（滅火器 Fire EX.主唱）\n 吳志寧（929 主唱、2016 搖滾台中共同策展人）\n 陳低低（Legacy Taichung 總監）||誠品園道店"],["pipe-like",875,132,"additional \"|\" in a table cell","廖文凱（失控、三杯雞 吉他手、曾任五月天怪獸技師）\n 鄭宇辰（滅火器 Fire EX. 吉他手）\n 劉宗霖（Flesh Juicer 血肉果汁機吉他手）||誠品園道店"]]

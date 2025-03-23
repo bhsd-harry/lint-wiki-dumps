@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",149,67,"[[女子網球聯合會]]"]]
+window.data=[["nested-link",149,67,"internal link in an external link","[[女子網球聯合會]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,2,"[[Category:2018年亞洲運動會銀牌得主]]"]]
+window.data=[["no-duplicate",14,2,"duplicated category","[[Category:2018年亞洲運動會銀牌得主]]"],["no-duplicate",21,2,"duplicated category","[[Category:2018年亞洲運動會銀牌得主]]"]]

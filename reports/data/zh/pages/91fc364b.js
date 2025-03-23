@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",27,1," File:Facebook New Logo(2015).svg[[Facebook]]"]]
+window.data=[["no-ignored",27,1,"invalid content in <gallery>"," File:Facebook New Logo(2015).svg[[Facebook]]"]]

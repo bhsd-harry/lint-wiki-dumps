@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,2,"[[Category:意大利園林]]"]]
+window.data=[["no-duplicate",26,2,"duplicated category","[[Category:意大利園林]]"],["no-duplicate",27,2,"duplicated category","[[Category:意大利園林]]"]]

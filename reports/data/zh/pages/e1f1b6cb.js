@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,119,"rght"]]
+window.data=[["no-duplicate",13,119,"duplicated image caption parameter","rght"],["no-duplicate",13,130,"duplicated image caption parameter","[[澳大利亚平方千米阵探路者]]（{{lang|en|Australian Square Kilometre Array Pathfinder}}；ASKAP）的[[電波望遠鏡|電波望遠鏡陣列]]。"]]

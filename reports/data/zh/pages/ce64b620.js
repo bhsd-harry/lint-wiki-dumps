@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",99,1," * 保育科\n ** 第一部\n ** [[夜校|第二部]]\n ** 函授教育课程<ref group=\"注\"  name=\"函授教育课程\"/>\n * 总合文化学科"]]
+window.data=[["fostered-content",99,1,"content to be moved out from the table"," * 保育科\n ** 第一部\n ** [[夜校|第二部]]\n ** 函授教育课程<ref group=\"注\"  name=\"函授教育课程\"/>\n * 总合文化学科"],["fostered-content",107,1,"content to be moved out from the table"," * 保育科\n ** 第一部\n ** [[夜校|第二部]]\n ** 函授教育课程<ref group=\"注\"  name=\"函授教育课程\"/>\n * 生活文化学科<ref group=\"注\"  name=\"招生到2003年\"/>\n ** 服饰文化专攻<ref group=\"注\"  name=\"招生到"]]

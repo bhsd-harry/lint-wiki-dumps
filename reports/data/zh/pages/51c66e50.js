@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",49,1," * 总合文化学科\n * 儿童学科\n * 人类福利学科  "]]
+window.data=[["fostered-content",49,1,"content to be moved out from the table"," * 总合文化学科\n * 儿童学科\n * 人类福利学科  "],["fostered-content",71,1,"content to be moved out from the table"," * 前山形短期大学附属[[幼稚園|幼儿园]]：成立于1967年<ref name=\"短期大学的历史\"/>"]]

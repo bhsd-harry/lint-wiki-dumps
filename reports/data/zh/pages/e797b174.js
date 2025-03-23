@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",144,32,"]]"],[2,"no-duplicate",144,27,"150px]]"]]
+window.data=[["lonely-bracket",144,32,"lonely \"]\"","]]"],["no-duplicate",144,27,"duplicated image caption parameter","150px]]"],["no-duplicate",144,35,"duplicated image caption parameter","[[法兰西第二共和国]]国玺，至今仍然適用。<br/>1848"]]

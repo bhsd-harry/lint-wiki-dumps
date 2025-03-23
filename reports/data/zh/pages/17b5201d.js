@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",57,2,"[[Category:巴西旅外足球運動員]]"]]
+window.data=[["no-duplicate",57,2,"duplicated category","[[Category:巴西旅外足球運動員]]"],["no-duplicate",69,2,"duplicated category","[[Category:巴西旅外足球運動員]]"]]

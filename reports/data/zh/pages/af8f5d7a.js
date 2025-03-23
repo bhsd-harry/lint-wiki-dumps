@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",79,1," ;重型文化广场（北一路站位，B出入口路北及A出入口旁）<br>北一路万达广场（北一路南侧西向东单向站台，B出入口向西约240米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|184|208|268|277|288|303}}"]]
+window.data=[["fostered-content",79,1,"content to be moved out from the table"," ;重型文化广场（北一路站位，B出入口路北及A出入口旁）<br>北一路万达广场（北一路南侧西向东单向站台，B出入口向西约240米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|184|208|268|277|288|303}}"],["fostered-content",82,1,"content to be moved out from the table"," ;小北一路兴华街（站位位于小北一路，兴华北街东侧，C出入口向东南约360米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|147|233|299}}"]]

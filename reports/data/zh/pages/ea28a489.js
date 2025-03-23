@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",43,11,"color"],[4,"no-duplicate",26,36,"cellpadding=\"0\""]]
+window.data=[["no-duplicate",26,36,"duplicated cellpadding attribute","cellpadding=\"0\""],["no-duplicate",26,53,"duplicated cellpadding attribute","cellpadding=\"2\""],["illegal-attr",43,11,"illegal attribute name","color"],["no-duplicate",43,4,"duplicated border attribute","border"],["no-duplicate",43,28,"duplicated border attribute","border=\"0\""]]

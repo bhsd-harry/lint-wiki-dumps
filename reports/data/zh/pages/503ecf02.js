@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",148,2,"[[Category:2017年成立的音樂團體|M]]"]]
+window.data=[["no-duplicate",148,2,"duplicated category","[[Category:2017年成立的音樂團體|M]]"],["no-duplicate",153,2,"duplicated category","[[Category:2017年成立的音樂團體|M]]"],["no-duplicate",150,2,"duplicated category","[[Category:台灣獨立樂團]]"],["no-duplicate",155,2,"duplicated category","[[Category:台灣獨立樂團]]"],["no-duplicate",157,2,"duplicated category","[[Category:淡江大學校友]]"],["no-duplicate",158,2,"duplicated category","[[Category:淡江大學校友]]"]]

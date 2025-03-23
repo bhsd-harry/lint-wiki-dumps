@@ -1,1 +1,1 @@
-window.data=[[8,"no-duplicate",15,2,"[[Category:中医]]"]]
+window.data=[["no-duplicate",15,2,"duplicated category","[[Category:中医]]"],["no-duplicate",19,2,"duplicated category","[[Category:中医]]"],["no-duplicate",16,2,"duplicated category","[[Category:中國思想]]"],["no-duplicate",21,2,"duplicated category","[[Category:中國思想]]"],["no-duplicate",17,2,"duplicated category","[[Category:中醫診斷學]]"],["no-duplicate",23,2,"duplicated category","[[Category:中醫診斷學]]"],["no-duplicate",18,2,"duplicated category","[[Category:中醫疾病]]"],["no-duplicate",24,2,"duplicated category","[[Category:中醫疾病]]"]]

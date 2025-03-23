@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,3," party = [[Australian Labor Party (Victorian Branch)|Labor Party]]\n "]]
+window.data=[["no-duplicate",21,3,"duplicated parameter"," party = [[Australian Labor Party (Victorian Branch)|Labor Party]]\n "],["no-duplicate",29,3,"duplicated parameter"," party = [[澳大利亚工党]]\n "]]

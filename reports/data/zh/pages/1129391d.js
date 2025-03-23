@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3," progression = [[鳳山溪]]\n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter"," progression = [[鳳山溪]]\n "],["no-duplicate",17,3,"duplicated parameter"," progression = \n "]]

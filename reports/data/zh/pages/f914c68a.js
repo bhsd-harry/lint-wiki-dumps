@@ -1,1 +1,1 @@
-window.data=[[1,"pipe-like",106,131,"\n 喜歡沙雅，給她做了一個能夠投影星空的戒指💍。||"]]
+window.data=[["pipe-like",106,131,"additional \"|\" in a table cell","\n 喜歡沙雅，給她做了一個能夠投影星空的戒指💍。||"]]

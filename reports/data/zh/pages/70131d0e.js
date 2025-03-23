@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",10657,5,"wikitable"],[1,"unmatched-tag",756,31,"</span>"]]
+window.data=[["unmatched-tag",756,31,"unmatched closing tag","</span>"],["illegal-attr",10657,5,"illegal attribute name","wikitable"]]

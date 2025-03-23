@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",55,46,"meta"],[1,"lonely-bracket",55,38,"{{"],[1,"no-ignored",55,56,"/石排灣力量"]]
+window.data=[["lonely-bracket",55,38,"lonely \"{\"","{{"],["illegal-attr",55,46,"illegal attribute name","meta"],["illegal-attr",55,51,"illegal attribute name","color"],["no-ignored",55,56,"containing invalid attribute","/石排灣力量"]]

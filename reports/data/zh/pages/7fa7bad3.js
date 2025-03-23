@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",20,4,"style= border=\"1\""]]
+window.data=[["invalid-css",20,21,"semi-colon expected",""],["invalid-css",20,17,"colon expected","="],["no-duplicate",20,4,"duplicated style attribute","style= border=\"1\""],["no-duplicate",20,57,"duplicated style attribute","style=\"text-align:center\""],["invalid-css",50,21,"semi-colon expected",""],["invalid-css",50,17,"colon expected","="],["no-duplicate",50,4,"duplicated style attribute","style= border=\"1\""],["no-duplicate",50,57,"duplicated style attribute","style=\"text-align:center\""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,37,"24KBpx"]]
+window.data=[["no-duplicate",21,37,"duplicated image caption parameter","24KBpx"],["no-duplicate",21,50,"duplicated image caption parameter","City of Montgomery Logo"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",7,107,"'"],[3,"lonely-bracket",6,28,"}}"],[1,"no-ignored",256,4," 類=可維基"],[3,"tag-like",21,304,"<ref"]]
+window.data=[["lonely-bracket",6,28,"lonely \"}\"","}}"],["lonely-apos",7,107,"lonely \"'\"","'"],["tag-like",21,304,"lonely \"<\"","<ref"],["tag-like",21,546,"lonely \"<\"","</ ref"],["lonely-bracket",23,93,"lonely \"[\"","[["],["lonely-bracket",23,122,"lonely \"]\"","]]"],["tag-like",23,135,"lonely \"<\"","<ref"],["no-ignored",256,4,"containing invalid attribute"," 類=可維基"]]

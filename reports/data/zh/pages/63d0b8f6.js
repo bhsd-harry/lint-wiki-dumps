@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,71,"upright=1.2<!--fmt for low img-->"]]
+window.data=[["no-duplicate",23,71,"duplicated image caption parameter","upright=1.2<!--fmt for low img-->"],["no-duplicate",23,105,"duplicated image caption parameter","舞者在[[泰米爾納德邦]]的[[布里哈迪希瓦拉神廟]]前表演。這座寺廟自大約公元1000年以來一直是舞蹈的中心。<ref>{{cite book|author=James G. Lochtefeld |title=The Illustrated Encyclopedia of Hinduism: A"]]

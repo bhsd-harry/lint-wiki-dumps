@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",78,2,"[[Category:北京市砖造佛塔]]"]]
+window.data=[["no-duplicate",78,2,"duplicated category","[[Category:北京市砖造佛塔]]"],["no-duplicate",87,2,"duplicated category","[[Category:北京市砖造佛塔]]"],["no-duplicate",80,2,"duplicated category","[[Category:北京市密檐式砖塔]]"],["no-duplicate",85,2,"duplicated category","[[Category:北京市密檐式砖塔]]"]]

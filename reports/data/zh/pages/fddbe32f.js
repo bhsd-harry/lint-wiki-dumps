@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",270,27,"HiWish计划下高分辨率成像科学设备拍摄的陡坡冲沟全景图。45561 2310gullies.jpg"]]
+window.data=[["no-duplicate",270,27,"duplicated image caption parameter","HiWish计划下高分辨率成像科学设备拍摄的陡坡冲沟全景图。45561 2310gullies.jpg"],["no-duplicate",270,79,"duplicated image caption parameter","HiWish计划下高分辨率成像科学设备显示的前一幅图像的近景图。"]]

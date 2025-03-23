@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-bracket",23,28,"]]"],[1,"no-ignored",90,4,"[[鄭怡琳|琳琳]]"]]
+window.data=[["lonely-bracket",23,28,"lonely \"]\"","]]"],["lonely-bracket",90,4,"lonely \"[\"","[["],["lonely-bracket",90,12,"lonely \"]\"","]]"],["no-ignored",90,4,"containing invalid attribute","[[鄭怡琳|琳琳]]"]]

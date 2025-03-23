@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,54,"斯拉夫主义"]]
+window.data=[["no-duplicate",6,54,"duplicated image caption parameter","斯拉夫主义"],["no-duplicate",6,60,"duplicated image caption parameter","代表[[斯拉夫人]]旗帜在1848年的[[布拉格]]斯拉夫代表大会上获得批准"]]

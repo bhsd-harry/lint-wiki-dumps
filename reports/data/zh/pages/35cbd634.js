@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",46,1," * 音乐科\n ** <del>第一部</del>\n ** <del>[[夜校|第二部]]</del><ref group=\"注\"  name=\"第二部\">停办于1974年。</ref>"]]
+window.data=[["fostered-content",46,1,"content to be moved out from the table"," * 音乐科\n ** <del>第一部</del>\n ** <del>[[夜校|第二部]]</del><ref group=\"注\"  name=\"第二部\">停办于1974年。</ref>"]]

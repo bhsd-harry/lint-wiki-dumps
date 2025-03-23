@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",339,2,"[[Category:1977年逝世|*]]"]]
+window.data=[["no-duplicate",339,2,"duplicated category","[[Category:1977年逝世|*]]"],["no-duplicate",347,2,"duplicated category","[[Category:1977年逝世|*]]"]]

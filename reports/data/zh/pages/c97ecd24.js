@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",89,36,"title="]]
+window.data=[["no-duplicate",89,36,"duplicated parameter","title="],["no-duplicate",89,87,"duplicated parameter","title=高捷RK1岡山車站初勘合格 目標6月底通車"],["no-duplicate",93,182,"duplicated parameter","title="],["no-duplicate",93,244,"duplicated parameter","title=高雄捷運往北銜接台南 轉乘站將設於嘉南藥理大學"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",139,31,"长堤路"]]
+window.data=[["no-duplicate",139,31,"duplicated image caption parameter","长堤路"],["no-duplicate",139,35,"duplicated image caption parameter","舊城區"],["no-duplicate",141,67,"duplicated image caption parameter","Pengjiang,_Jiangmen,_Guangdong,_China_-_panoramio_(2)"],["no-duplicate",141,127,"duplicated image caption parameter","滨江新区"]]

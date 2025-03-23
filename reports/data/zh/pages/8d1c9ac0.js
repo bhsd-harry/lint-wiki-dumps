@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",100,2,"[[Category:CYP3A4抑制剂]]"]]
+window.data=[["no-duplicate",100,2,"duplicated category","[[Category:CYP3A4抑制剂]]"],["no-duplicate",107,2,"duplicated category","[[Category:CYP3A4抑制剂]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3,"zh-hk:法外英雄;zh-tw:法外狂徒;zh-sg:奈德凯利;\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter","zh-hk:法外英雄;zh-tw:法外狂徒;zh-sg:奈德凯利;\n "],["no-duplicate",2,3,"duplicated parameter","1=zh-cn:希斯·莱杰;zh-hk:希夫·烈爵;zh-tw:希斯·萊傑;\n "]]

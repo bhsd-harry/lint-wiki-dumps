@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",49,2,"[[Category:塞爾維亞奧林匹克運動會金牌得主]]"]]
+window.data=[["no-duplicate",49,2,"duplicated category","[[Category:塞爾維亞奧林匹克運動會金牌得主]]"],["no-duplicate",55,2,"duplicated category","[[Category:塞爾維亞奧林匹克運動會金牌得主]]"]]

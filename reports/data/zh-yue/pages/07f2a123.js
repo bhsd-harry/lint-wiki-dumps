@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",23,25,"invalid image parameter","250px"],[2,"no-duplicate",60,34,"duplicated image caption parameter","缩略图"]]
+window.data=[["invalid-gallery",23,25,"invalid image parameter","250px"],["no-duplicate",60,34,"duplicated image caption parameter","缩略图"],["no-duplicate",60,38,"duplicated image caption parameter","德軍進攻丹麥嘅路線"]]

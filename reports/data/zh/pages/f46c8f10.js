@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",284,4,"{{"],[2,"no-duplicate",437,2,"[[Category:臺灣網路節目主持人]]"],[1,"no-ignored",284,3," {{Plainlist"]]
+window.data=[["lonely-bracket",284,4,"lonely \"{\"","{{"],["no-ignored",284,3,"containing invalid attribute"," {{Plainlist"],["no-duplicate",437,2,"duplicated category","[[Category:臺灣網路節目主持人]]"],["no-duplicate",443,2,"duplicated category","[[Category:臺灣網路節目主持人]]"]]

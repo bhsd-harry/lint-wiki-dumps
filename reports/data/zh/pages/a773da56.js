@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,3,"flag_s2    =Derafsh_Kaviani_flag_of_the_late_Sassanid_Empire.svg\n "]]
+window.data=[["no-duplicate",27,3,"duplicated parameter","flag_s2    =Derafsh_Kaviani_flag_of_the_late_Sassanid_Empire.svg\n "],["no-duplicate",28,3,"duplicated parameter","flag_s2 =Derafsh_Kaviani_flag_of_the_late_Sassanid_Empire.svg\n "]]

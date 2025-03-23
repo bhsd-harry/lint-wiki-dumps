@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",151,154,"[[Palestine Festival of Literature]]"]]
+window.data=[["nested-link",151,154,"internal link in an external link","[[Palestine Festival of Literature]]"]]

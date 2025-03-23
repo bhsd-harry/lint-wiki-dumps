@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",58,2,"[[Category:福井縣旅遊景點]]"]]
+window.data=[["no-duplicate",58,2,"duplicated category","[[Category:福井縣旅遊景點]]"],["no-duplicate",62,2,"duplicated category","[[Category:福井縣旅遊景點]]"]]

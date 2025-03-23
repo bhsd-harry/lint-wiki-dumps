@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",98,3," 海屯路、新光巷、基因科技创新园、高新小屯汽车城"]]
+window.data=[["no-ignored",98,3,"containing invalid attribute"," 海屯路、新光巷、基因科技创新园、高新小屯汽车城"],["no-ignored",102,3,"containing invalid attribute"," 海屯路、二环西路、昆明市社会福利院、昆明市老年人公寓"]]

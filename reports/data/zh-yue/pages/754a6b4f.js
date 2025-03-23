@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,19,"duplicated image caption parameter","縮圖"]]
+window.data=[["no-duplicate",11,19,"duplicated image caption parameter","縮圖"],["no-duplicate",11,22,"duplicated image caption parameter","大黑佛母像"]]

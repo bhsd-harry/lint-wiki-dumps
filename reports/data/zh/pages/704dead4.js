@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",167,2,"[[Category:美国航空 (公司)航空事故]]"]]
+window.data=[["no-duplicate",167,2,"duplicated category","[[Category:美国航空 (公司)航空事故]]"],["no-duplicate",169,2,"duplicated category","[[Category:美国航空 (公司)航空事故]]"]]

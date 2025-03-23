@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,3," government_footnotes = \n "]]
+window.data=[["no-duplicate",27,3,"duplicated parameter"," government_footnotes = \n "],["no-duplicate",28,3,"duplicated parameter"," government_footnotes = \n "]]

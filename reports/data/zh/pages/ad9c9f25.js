@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",78,2,"[[Category:臺灣傳統手工藝]]"]]
+window.data=[["no-duplicate",78,2,"duplicated category","[[Category:臺灣傳統手工藝]]"],["no-duplicate",81,2,"duplicated category","[[Category:臺灣傳統手工藝]]"]]

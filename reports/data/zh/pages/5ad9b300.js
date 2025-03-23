@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",102,2,"[[Category:澳大利亚世界遗产]]"]]
+window.data=[["no-duplicate",102,2,"duplicated category","[[Category:澳大利亚世界遗产]]"],["no-duplicate",105,2,"duplicated category","[[Category:澳大利亚世界遗产]]"]]

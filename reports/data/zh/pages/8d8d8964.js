@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",30,51,"seal"]]
+window.data=[["no-duplicate",30,51,"duplicated image caption parameter","seal"],["no-duplicate",30,62,"duplicated image caption parameter","Identifier logo of Old Dominion University"]]

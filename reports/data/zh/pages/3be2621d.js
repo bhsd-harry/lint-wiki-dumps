@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-apos",32,7,"'"],[1,"lonely-bracket",753,139,"]]"],[2,"no-duplicate",70,3," before_election = [[安迪·哈里斯 (政治家)|安迪·哈里斯]]\n "]]
+window.data=[["lonely-apos",32,7,"lonely \"'\"","'"],["lonely-apos",69,24,"lonely \"'\"","'"],["no-duplicate",70,3,"duplicated parameter"," before_election = [[安迪·哈里斯 (政治家)|安迪·哈里斯]]\n "],["no-duplicate",72,3,"duplicated parameter"," before_election = [[安迪·哈里斯 (政治家)|安迪·哈里斯]]\n "],["lonely-bracket",753,139,"lonely \"]\"","]]"]]

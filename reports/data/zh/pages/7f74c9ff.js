@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,3,"production_date=1970年代\n "]]
+window.data=[["no-duplicate",17,3,"duplicated parameter","production_date=1970年代\n "],["no-duplicate",25,3,"duplicated parameter","production_date= 1970年代\n "]]

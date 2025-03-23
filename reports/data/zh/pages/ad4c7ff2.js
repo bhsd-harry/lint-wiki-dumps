@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,1101,"title=存档副本 "]]
+window.data=[["no-duplicate",6,1101,"duplicated parameter","title=存档副本 "],["no-duplicate",6,1272,"duplicated parameter","title=全国人民代表大会常务委员会关于香港特别行政区2012年行政长官和立法会产生办法及有关普选问题的决定"]]

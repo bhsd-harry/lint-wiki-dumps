@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3,"image= [[File:Flag of Haiti (WFB 2004).gif|220px]]\n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter","image= [[File:Flag of Haiti (WFB 2004).gif|220px]]\n "],["no-duplicate",4,3,"duplicated parameter"," image =\n {{image array|perrow=4|width=85|height=105\n | image1  = Général Toussaint Louverture.jpg| caption1 = [[杜桑·盧維杜爾]]\n | image2  =| caption2 = [["]]

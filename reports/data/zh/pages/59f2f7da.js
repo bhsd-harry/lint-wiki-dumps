@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",4456,7,"a"],[1,"lonely-bracket",4456,3,"{{"],[1,"no-ignored",4456,3,"{{n/"]]
+window.data=[["lonely-bracket",4456,3,"lonely \"{\"","{{"],["illegal-attr",4456,7,"illegal attribute name","a"],["no-ignored",4456,3,"containing invalid attribute","{{n/"],["invalid-css",6417,90,"semi-colon expected","#38AED2）"],["invalid-css",6417,111,"{ expected",""],["invalid-css",6518,90,"semi-colon expected","#FFB40D）"],["invalid-css",6518,111,"{ expected",""],["invalid-css",6976,90,"semi-colon expected","#38AED2）"],["invalid-css",6976,111,"{ expected",""]]

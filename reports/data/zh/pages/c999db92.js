@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3,"1=zh-cn:利奇菲尔德; zh-hk:李治菲特; zh-tw:利奇菲; zh:利奇菲爾德;\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter","1=zh-cn:利奇菲尔德; zh-hk:李治菲特; zh-tw:利奇菲; zh:利奇菲爾德;\n "],["no-duplicate",3,3,"duplicated parameter","1=zh-cn:利奇菲尔德县; zh-hk:李治菲特郡; zh-tw:利奇菲郡; zh:利奇菲爾德縣;\n "]]

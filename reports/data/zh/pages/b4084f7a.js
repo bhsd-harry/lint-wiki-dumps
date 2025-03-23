@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",525,2,"[[Category:广州媒体|电视]]"]]
+window.data=[["no-duplicate",525,2,"duplicated category","[[Category:广州媒体|电视]]"],["no-duplicate",527,2,"duplicated category","[[Category:广州媒体|G广]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",42,3003,"[["],[1,"no-ignored",42,2987,"/＞；劇場盤則附有劇場盤發售紀念[[握手會]]的參加券和寫真相一張<ref"],[1,"tag-like",42,3020,"<ref"],[2,"unmatched-tag",29,6,"</small>"]]
+window.data=[["unmatched-tag",29,6,"unmatched closing tag","</small>"],["unmatched-tag",29,33,"unmatched closing tag","</small>"],["lonely-bracket",42,3003,"lonely \"[\"","[["],["lonely-bracket",42,3008,"lonely \"]\"","]]"],["tag-like",42,3020,"lonely \"<\"","<ref"],["no-ignored",42,2987,"containing invalid attribute","/＞；劇場盤則附有劇場盤發售紀念[[握手會]]的參加券和寫真相一張<ref"]]

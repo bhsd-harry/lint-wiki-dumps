@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",34,120,"wikitable\""]]
+window.data=[["invalid-css",34,119,"semi-colon expected",""],["invalid-css",34,118,"colon expected","="],["no-ignored",34,120,"containing invalid attribute","wikitable\""]]

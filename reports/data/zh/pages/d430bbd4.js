@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",48,31,"background:cornflowerblue; color:white\"  "],[1,"parsing-order",88,167,"<center>"]]
+window.data=[["invalid-css",48,30,"semi-colon expected",""],["invalid-css",48,29,"colon expected","="],["no-ignored",48,31,"containing invalid attribute","background:cornflowerblue; color:white\"  "],["parsing-order",88,167,"HTML tag in table attributes","<center>"],["no-ignored",88,167,"containing invalid attribute","<center>"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",58,2,"[[Category:纯素主义]]"]]
+window.data=[["no-duplicate",58,2,"duplicated category","[[Category:纯素主义]]"],["no-duplicate",65,2,"duplicated category","[[Category:纯素主义]]"]]

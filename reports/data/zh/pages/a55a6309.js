@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",415,71,"School_in_Sloviansk_after_Russian_attack,_2024-02-17_(01)"]]
+window.data=[["no-duplicate",415,71,"duplicated image caption parameter","School_in_Sloviansk_after_Russian_attack,_2024-02-17_(01)"],["no-duplicate",415,135,"duplicated image caption parameter","俄羅斯晚上對頓涅茨克州發動導彈襲擊後"],["no-duplicate",490,80,"duplicated image caption parameter","Destructions_in_Nova_Sloboda_after_Russian_attack,_2024-02-20_(01)"],["no-duplicate",490,153,"duplicated image caption parameter"," 俄羅斯軍隊凌晨襲擊蘇梅州後"]]

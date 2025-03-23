@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",127,2,"[[Category:防護巡洋艦]]"]]
+window.data=[["no-duplicate",127,2,"duplicated category","[[Category:防護巡洋艦]]"],["no-duplicate",133,2,"duplicated category","[[Category:防護巡洋艦]]"],["no-duplicate",130,2,"duplicated category","[[Category:中華民國巡洋艦]]"],["no-duplicate",132,2,"duplicated category","[[Category:中華民國巡洋艦|H海]]"],["no-duplicate",131,2,"duplicated category","[[Category:抗戰時期中國武器]]"],["no-duplicate",134,2,"duplicated category","[[Category:抗戰時期中國武器]]"]]

@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",46,35,"talk "]]
+window.data=[["no-duplicate",46,35,"duplicated image caption parameter","talk "],["no-duplicate",46,41,"duplicated image caption parameter"," contribs"],["no-duplicate",46,51,"duplicated image caption parameter","員山公園 北台灣最高黑面濟公禪師大佛聖像（整修後）"]]

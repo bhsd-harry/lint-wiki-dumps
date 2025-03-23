@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",91,106,"[[Australian Dictionary of Biography]]"]]
+window.data=[["nested-link",91,106,"internal link in an external link","[[Australian Dictionary of Biography]]"],["nested-link",91,156,"internal link in an external link","[[Melbourne University Press]]"]]

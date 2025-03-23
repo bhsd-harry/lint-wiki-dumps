@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,183,"title=A compendium of fossil marine animal genera"]]
+window.data=[["no-duplicate",13,183,"duplicated parameter","title=A compendium of fossil marine animal genera"],["no-duplicate",13,233,"duplicated parameter","title=Bulletins of American Paleontology"]]

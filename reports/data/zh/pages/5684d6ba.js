@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",81,2,"[[Category:CS1 uses Korean-language script (ko)]]"]]
+window.data=[["no-duplicate",81,2,"duplicated category","[[Category:CS1 uses Korean-language script (ko)]]"],["no-duplicate",103,2,"duplicated category","[[Category:CS1 uses Korean-language script (ko)]]"],["no-duplicate",82,2,"duplicated category","[[Category:CS1 Korean-language sources (ko)]]"],["no-duplicate",104,2,"duplicated category","[[Category:CS1 Korean-language sources (ko)]]"]]

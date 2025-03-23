@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",64,1," <!-- 合理使用文件：史良.jpg -->|[[史良]]"]]
+window.data=[["no-ignored",64,1,"invalid content in <gallery>"," <!-- 合理使用文件：史良.jpg -->|[[史良]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"invalid-gallery",213,43,"250px"],[1,"lonely-bracket",184,410,"]"],[2,"no-duplicate",75,164,"title=https://www.bbc.com/news/world-europe-45499368 "]]
+window.data=[["no-duplicate",75,164,"duplicated parameter","title=https://www.bbc.com/news/world-europe-45499368 "],["no-duplicate",75,218,"duplicated parameter","title=Six held in France over vegan attacks on Lille shops "],["lonely-bracket",184,410,"lonely \"]\"","]"],["invalid-gallery",213,43,"invalid image parameter","250px"],["invalid-gallery",215,27,"invalid image parameter","250px"]]

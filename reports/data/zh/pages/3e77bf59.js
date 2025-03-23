@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",41,411,"[[金鐘 (編輯)|金鐘]]"]]
+window.data=[["nested-link",41,411,"internal link in an external link","[[金鐘 (編輯)|金鐘]]"]]

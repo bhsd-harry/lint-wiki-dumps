@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",19,1," [[image:Shikitume01.gif]]"]]
+window.data=[["no-ignored",19,1,"invalid content in <gallery>"," [[image:Shikitume01.gif]]"],["no-ignored",20,1,"invalid content in <gallery>"," [[image:Shikitume02.gif]]"]]

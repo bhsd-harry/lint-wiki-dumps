@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",57,1," * 幼儿教育・保育科\n * [[烹饪]]・[[糖果糕点|制果]]学科<ref group=\"注\"  name=\"烹饪・制果学科\"/>"]]
+window.data=[["fostered-content",57,1,"content to be moved out from the table"," * 幼儿教育・保育科\n * [[烹饪]]・[[糖果糕点|制果]]学科<ref group=\"注\"  name=\"烹饪・制果学科\"/>"],["fostered-content",62,1,"content to be moved out from the table"," * 生活科学科<ref group=\"注\"  name=\"生活科学科\"/>\n ** 生活造型专攻<ref group=\"注\"  name=\"招生到2004年\"/><ref group=\"注\"  name=\"停办于2006年\"/>\n ** 食物营养专攻<ref group=\"注\"  name=\"招生"]]

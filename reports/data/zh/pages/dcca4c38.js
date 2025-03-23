@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,3," monarch2            = [[苏丹端姑阿都哈林|端姑阿都哈林]]<sup>[[陛下]]</sup><br>[[苏丹莫哈末五世|端姑莫哈末五世]]<sup>陛下</sup><br>[[苏丹阿都拉|端姑阿都拉]]<sup>陛下</sup>\n "]]
+window.data=[["no-duplicate",26,3,"duplicated parameter"," monarch2            = [[苏丹端姑阿都哈林|端姑阿都哈林]]<sup>[[陛下]]</sup><br>[[苏丹莫哈末五世|端姑莫哈末五世]]<sup>陛下</sup><br>[[苏丹阿都拉|端姑阿都拉]]<sup>陛下</sup>\n "],["no-duplicate",27,3,"duplicated parameter"," monarch2            = [[纳吉·阿都拉萨]]<br>[[马哈迪·莫哈末]]<br>[[慕尤丁]]\n "]]

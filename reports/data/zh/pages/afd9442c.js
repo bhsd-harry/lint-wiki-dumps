@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,75,"Aaron_Paul_at_the_68th_Annual_Peabody_Awards_for_Breaking_Bad"]]
+window.data=[["no-duplicate",8,75,"duplicated image caption parameter","Aaron_Paul_at_the_68th_Annual_Peabody_Awards_for_Breaking_Bad"],["no-duplicate",8,143,"duplicated image caption parameter",""]]

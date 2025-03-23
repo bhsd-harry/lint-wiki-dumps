@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",73,2,"[[Category:EC 3.4.24]]"]]
+window.data=[["no-duplicate",73,2,"duplicated category","[[Category:EC 3.4.24]]"],["no-duplicate",78,2,"duplicated category","[[Category:EC 3.4.24]]"]]

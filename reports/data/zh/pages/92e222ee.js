@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",203,2,"[[Category:國立基隆女子高級中學校友]]"]]
+window.data=[["no-duplicate",203,2,"duplicated category","[[Category:國立基隆女子高級中學校友]]"],["no-duplicate",205,2,"duplicated category","[[Category:國立基隆女子高級中學校友]]"]]

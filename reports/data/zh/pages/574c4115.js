@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",38,4,"类=“wikitable”样式=“文本对齐：中心；”"]]
+window.data=[["no-ignored",38,4,"containing invalid attribute","类=“wikitable”样式=“文本对齐：中心；”"]]

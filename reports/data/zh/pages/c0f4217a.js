@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,3," educate = \n "]]
+window.data=[["no-duplicate",27,3,"duplicated parameter"," educate = \n "],["no-duplicate",30,3,"duplicated parameter"," educate = \n * [[國立臺灣大學]][[政治學]]系學士<br><span style=\"color: blue;\">（1977年）</span>\n * [[美國]]北伊利諾大學政治研究所[[碩士]]<br><span style=\"color: blue;\">（1979年）</spa"]]

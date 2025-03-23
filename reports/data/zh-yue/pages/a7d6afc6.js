@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,44,"duplicated image caption parameter","縮圖"]]
+window.data=[["no-duplicate",4,44,"duplicated image caption parameter","縮圖"],["no-duplicate",4,47,"duplicated image caption parameter","[[中華人民共和國]]前[[中華人民共和國國務院總理|總理]][[朱鎔基]]（1999年）"]]

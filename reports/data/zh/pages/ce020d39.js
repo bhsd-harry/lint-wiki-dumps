@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",182,53,"width:70%;text-align: center;\""],[1,"unescaped",332,80,"="]]
+window.data=[["invalid-css",182,52,"term expected",""],["no-ignored",182,53,"containing invalid attribute","width:70%;text-align: center;\""],["invalid-css",233,52,"term expected",""],["no-ignored",233,53,"containing invalid attribute","width:70%;text-align: center;\""],["unescaped",332,80,"unescaped query string in an anonymous parameter","="]]

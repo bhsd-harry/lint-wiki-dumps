@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",47,90,"position=bottom"]]
+window.data=[["no-duplicate",47,90,"duplicated parameter","position=bottom"],["no-duplicate",47,164,"duplicated parameter","position=right"],["no-duplicate",126,94,"duplicated parameter","position=right"],["no-duplicate",126,148,"duplicated parameter","position=top"],["no-duplicate",127,93,"duplicated parameter","position=right"],["no-duplicate",127,150,"duplicated parameter","position=left"]]

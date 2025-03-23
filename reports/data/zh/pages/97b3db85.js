@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,47,"{{largethumb}}"]]
+window.data=[["no-duplicate",2,47,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",2,62,"duplicated image caption parameter","运行中的WSRT，摄于2006年"]]

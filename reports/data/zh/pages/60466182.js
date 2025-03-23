@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",119,52,"[[SoundCloud]]"]]
+window.data=[["nested-link",119,52,"internal link in an external link","[[SoundCloud]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",61,2,"[[Category:香港人物小作品]]"]]
+window.data=[["no-duplicate",61,2,"duplicated category","[[Category:香港人物小作品]]"],["no-duplicate",62,2,"duplicated category","[[Category:香港人物小作品]]"]]

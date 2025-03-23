@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",191,59,"[[404不存在的國落]]"]]
+window.data=[["nested-link",191,59,"internal link in an external link","[[404不存在的國落]]"]]

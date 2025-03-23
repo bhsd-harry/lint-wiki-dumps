@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,2,"[[Category:法國一戰王牌飛行員]]"]]
+window.data=[["no-duplicate",44,2,"duplicated category","[[Category:法國一戰王牌飛行員]]"],["no-duplicate",46,2,"duplicated category","[[Category:法國一戰王牌飛行員]]"]]

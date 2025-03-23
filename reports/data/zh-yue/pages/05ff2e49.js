@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,54,"duplicated image caption parameter","upright =1.5"]]
+window.data=[["no-duplicate",10,54,"duplicated image caption parameter","upright =1.5"],["no-duplicate",10,67,"duplicated image caption parameter","A copy of the ''[[Canadian Charter of Rights and Freedoms]]''"]]

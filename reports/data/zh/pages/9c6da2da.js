@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,3," doublestitles = 8 [[ITF女子巡回赛|ITF]]\n "]]
+window.data=[["no-duplicate",17,3,"duplicated parameter"," doublestitles = 8 [[ITF女子巡回赛|ITF]]\n "],["no-duplicate",24,3,"duplicated parameter"," doublestitles = 11 [[WTA巡回赛|WTA]], 13 ITF\n "]]

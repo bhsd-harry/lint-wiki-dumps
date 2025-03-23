@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",18,1296,"["],[2,"no-duplicate",33,22,"菲尔索夫陨击坑的西侧，由火星勘测轨道飞行器背景摄像机拍摄。Wikifirsoffwestlayers.jpg"]]
+window.data=[["lonely-bracket",18,1296,"lonely \"[\"","["],["no-duplicate",33,22,"duplicated image caption parameter","菲尔索夫陨击坑的西侧，由火星勘测轨道飞行器背景摄像机拍摄。Wikifirsoffwestlayers.jpg"],["no-duplicate",33,77,"duplicated image caption parameter","火星勘测轨道飞行器背景摄像机看到的菲尔索夫陨击坑西侧地表上的岩层，注：这是前面菲尔索夫陨击坑西侧图像的放大版。"]]

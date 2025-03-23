@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",41,2,"[[Category:臺灣—瑞典關係| ]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:臺灣—瑞典關係| ]]"],["no-duplicate",42,2,"duplicated category","[[Category:臺灣—瑞典關係]]"]]

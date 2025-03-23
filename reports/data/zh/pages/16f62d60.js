@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",81,2,"[[分類:神經內科]]"],[1,"tag-like",54,1350,"</ref"]]
+window.data=[["tag-like",54,1350,"lonely \"<\"","</ref"],["no-duplicate",81,2,"duplicated category","[[分類:神經內科]]"],["no-duplicate",82,2,"duplicated category","[[Category:神經內科]]"]]

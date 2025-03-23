@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",129,269,"ISBN 1-97359-278-7"],[2,"lonely-bracket",133,152,"{{"]]
+window.data=[["invalid-isbn",129,269,"invalid ISBN","ISBN 1-97359-278-7"],["lonely-bracket",133,152,"lonely \"{\"","{{"],["lonely-bracket",133,420,"lonely \"{\"","{{"]]

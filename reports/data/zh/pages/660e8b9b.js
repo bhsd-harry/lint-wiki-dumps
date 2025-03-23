@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,130,"縮略圖"]]
+window.data=[["no-duplicate",37,130,"duplicated image caption parameter","縮略圖"],["no-duplicate",37,136,"duplicated image caption parameter","美國獨立戰爭時代公墓中的北美白橡(2014[[紐澤西州]]{{le|尤因鎮|Ewing Township, New Jersey}})"]]

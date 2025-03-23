@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",24,3,"duplicated parameter"," subdivision_type                = \n "]]
+window.data=[["no-duplicate",24,3,"duplicated parameter"," subdivision_type                = \n "],["no-duplicate",26,3,"duplicated parameter"," subdivision_type                = Koet-kâ\n "],["no-duplicate",25,3,"duplicated parameter"," subdivision_name                =\n "],["no-duplicate",27,3,"duplicated parameter"," subdivision_name                = {{flagcountry|Malaysia}}\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",767,23,"[["],[2,"no-duplicate",675,3," image1 =\n "]]
+window.data=[["no-duplicate",675,3,"duplicated parameter"," image1 =\n "],["no-duplicate",676,3,"duplicated parameter"," image1 = Tom Tiffany (alt crop).jpg\n "],["lonely-bracket",767,23,"lonely \"[\"","[["],["lonely-bracket",768,12,"lonely \"]\"","]]"]]

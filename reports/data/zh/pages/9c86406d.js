@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",155,3," group1 =  2022.03.03\n "]]
+window.data=[["no-duplicate",155,3,"duplicated parameter"," group1 =  2022.03.03\n "],["no-duplicate",157,3,"duplicated parameter"," group1 =  2022.07.14 \n "],["no-duplicate",156,3,"duplicated parameter"," list1 = 「增加申請入學穩定度，彰顯“得所應得”的公益價值」記者會\n "],["no-duplicate",158,3,"duplicated parameter"," list1 = 「108課綱暨學習歷程成效問卷調查結果報告」記者會\n "]]

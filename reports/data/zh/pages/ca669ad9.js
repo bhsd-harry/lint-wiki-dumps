@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",48,25,"size=300px"]]
+window.data=[["no-duplicate",48,25,"duplicated image caption parameter","size=300px"],["no-duplicate",48,41,"duplicated image caption parameter","以檸檬山24英吋望遠鏡看見的M88。"]]

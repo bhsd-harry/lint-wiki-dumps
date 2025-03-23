@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",88,2,"[[Category:中华人民共和国安徽省副县长]]"]]
+window.data=[["no-duplicate",88,2,"duplicated category","[[Category:中华人民共和国安徽省副县长]]"],["no-duplicate",93,2,"duplicated category","[[Category:中华人民共和国安徽省副县长]]"]]

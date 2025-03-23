@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,2,"[[Category:石鱸科|unimaculatus]]"]]
+window.data=[["no-duplicate",21,2,"duplicated category","[[Category:石鱸科|unimaculatus]]"],["no-duplicate",23,2,"duplicated category","[[Category:石鱸科]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,2,"[[Category:莱里达省市镇]]"]]
+window.data=[["no-duplicate",63,2,"duplicated category","[[Category:莱里达省市镇]]"],["no-duplicate",72,2,"duplicated category","[[Category:莱里达省市镇|A]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",38,3,"part_length={{convert|128|mm|in|1|abbr=on|lk=off}}\n "]]
+window.data=[["no-duplicate",38,3,"duplicated parameter","part_length={{convert|128|mm|in|1|abbr=on|lk=off}}\n "],["no-duplicate",40,3,"duplicated parameter","part_length={{convert|128|mm|in|1|abbr=on}}\n <!-- Ranged weapon specifications -->\n "]]

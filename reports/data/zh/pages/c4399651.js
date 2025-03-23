@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",30,108,"{{"],[2,"no-duplicate",37,316,"date=20160304135250 "],[1,"unmatched-tag",23,18,"</span>"]]
+window.data=[["unmatched-tag",23,18,"unmatched closing tag","</span>"],["lonely-bracket",30,108,"lonely \"{\"","{{"],["lonely-bracket",31,264,"lonely \"}\"","}}"],["no-duplicate",37,316,"duplicated parameter","date=20160304135250 "],["no-duplicate",37,378,"duplicated parameter","date=2007-06-27"]]

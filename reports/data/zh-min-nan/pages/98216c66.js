@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",33,178,"lonely \"}\"","}}"],[2,"no-duplicate",27,29,"duplicated image caption parameter","мини"]]
+window.data=[["no-duplicate",27,29,"duplicated image caption parameter","мини"],["no-duplicate",27,46,"duplicated image caption parameter","Tī 1931-nî, {{le|Nenets gú-giân|Nenets languages}} ê [[jī-bió]]-pió"],["lonely-bracket",33,178,"lonely \"}\"","}}"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",34,4,"File:Liu_Wendian.jpg#filelinks"]]
+window.data=[["no-ignored",34,4,"useless fragment","File:Liu_Wendian.jpg#filelinks"],["no-ignored",43,4,"useless fragment","File:Gate_of_Anhui_College.jpg#filelinks"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",114,2,"[[分类:1998年建立的政党]]"]]
+window.data=[["no-duplicate",114,2,"duplicated category","[[分类:1998年建立的政党]]"],["no-duplicate",118,2,"duplicated category","[[Category:1998年建立的政党]]"]]

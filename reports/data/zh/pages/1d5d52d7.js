@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",45,2,"[[Category:焦姓]]"]]
+window.data=[["no-duplicate",45,2,"duplicated category","[[Category:焦姓]]"],["no-duplicate",50,2,"duplicated category","[[Category:焦姓|Yuan元]]"]]

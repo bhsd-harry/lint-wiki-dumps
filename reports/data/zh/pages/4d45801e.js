@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",222,54,"bold"]]
+window.data=[["invalid-css",221,56,"semi-colon expected",":"],["invalid-css",222,53,"property value expected",""],["illegal-attr",222,54,"illegal attribute name","bold"]]

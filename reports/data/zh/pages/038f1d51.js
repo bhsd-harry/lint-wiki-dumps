@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,2,"[[Category:雅典衛城]]"]]
+window.data=[["no-duplicate",29,2,"duplicated category","[[Category:雅典衛城]]"],["no-duplicate",31,2,"duplicated category","[[Category:雅典衛城|舊帕德嫩]]"]]

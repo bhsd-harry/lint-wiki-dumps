@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3,"native_name=\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","native_name=\n "],["no-duplicate",34,35,"duplicated parameter","native_name={{lang|de|11. SS-Freiwilligen Panzergrenadier-Division \"Nordland\"}}"]]

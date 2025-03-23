@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",58,2,"[[Category:廣島原爆被爆者]]"]]
+window.data=[["no-duplicate",58,2,"duplicated category","[[Category:廣島原爆被爆者]]"],["no-duplicate",67,2,"duplicated category","[[Category:廣島原爆被爆者]]"]]

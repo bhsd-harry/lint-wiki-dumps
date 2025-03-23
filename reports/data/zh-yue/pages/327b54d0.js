@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",152,642,"lonely \"]\"","]"],[4,"no-duplicate",17,33,"duplicated parameter","名=Paris "]]
+window.data=[["no-duplicate",17,33,"duplicated parameter","名=Paris "],["no-duplicate",17,52,"duplicated parameter","名=Guillaume "],["no-duplicate",17,42,"duplicated parameter","名2=Piani "],["no-duplicate",17,65,"duplicated parameter","名2=Laurette "],["lonely-bracket",152,642,"lonely \"]\"","]"]]

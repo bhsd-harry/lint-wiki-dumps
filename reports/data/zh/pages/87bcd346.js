@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",60,150,"[[Institut de France]]"]]
+window.data=[["nested-link",60,150,"internal link in an external link","[[Institut de France]]"],["nested-link",60,174,"internal link in an external link","[[Académie des Beaux-Arts]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",59,2,"[[Category:萨莱诺省市镇|F]]"]]
+window.data=[["no-duplicate",59,2,"duplicated category","[[Category:萨莱诺省市镇|F]]"],["no-duplicate",61,2,"duplicated category","[[Category:萨莱诺省市镇]]"]]

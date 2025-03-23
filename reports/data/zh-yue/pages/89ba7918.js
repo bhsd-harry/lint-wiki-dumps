@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",24,89,"containing invalid attribute",";border=\"1\" "]]
+window.data=[["no-ignored",24,89,"containing invalid attribute",";border=\"1\" "]]

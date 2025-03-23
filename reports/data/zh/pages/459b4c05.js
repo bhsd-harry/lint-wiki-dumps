@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,63,"RIGHT"]]
+window.data=[["no-duplicate",8,63,"duplicated image caption parameter","RIGHT"],["no-duplicate",8,81,"duplicated image caption parameter","[[第一次世界大戰|一戰]][[索姆河戰役]]期間授勳的法國士兵"]]

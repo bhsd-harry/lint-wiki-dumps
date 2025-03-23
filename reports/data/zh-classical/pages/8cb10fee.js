@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",46,69,"internal link in an external link","[[史記]]"]]
+window.data=[["nested-link",46,69,"internal link in an external link","[[史記]]"],["nested-link",47,96,"internal link in an external link","[[漢書]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",60,70,"100 Laurier Avenue East"]]
+window.data=[["no-duplicate",60,70,"duplicated image caption parameter","100 Laurier Avenue East"],["no-duplicate",60,94,"duplicated image caption parameter",""]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",2,46,"duplicated image caption parameter","float"]]
+window.data=[["no-duplicate",2,46,"duplicated image caption parameter","float"],["no-duplicate",2,52,"duplicated image caption parameter","中環海皮望過去尖沙咀"],["no-duplicate",8,63,"duplicated image caption parameter","float"],["no-duplicate",8,69,"duplicated image caption parameter","大明粵大記內，地圖上嘅尖沙咀"],["no-duplicate",14,54,"duplicated image caption parameter","float"],["no-duplicate",14,60,"duplicated image caption parameter","1870年嘅尖沙咀灣，中間個山仔就係大包米，左邊係村"]]

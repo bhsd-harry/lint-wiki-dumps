@@ -1,1 +1,1 @@
-window.data=[[3,"unmatched-tag",130,7,"<sub>"]]
+window.data=[["unmatched-tag",130,7,"unclosed tag","<sub>"],["unmatched-tag",433,2,"unmatched closing tag","</sub>"],["unmatched-tag",434,2,"unmatched closing tag","</sub>"]]

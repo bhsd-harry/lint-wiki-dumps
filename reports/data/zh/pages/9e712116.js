@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",50,3," metabolites       = M4, an [[acyl]] [[glucuronide]]\n "]]
+window.data=[["no-duplicate",50,3,"duplicated parameter"," metabolites       = M4, an [[acyl]] [[glucuronide]]\n "],["no-duplicate",52,3,"duplicated parameter"," metabolites       = M4, [[酰基]] {{tsl|en|glucuronide||葡萄糖苷酸}}\n "]]

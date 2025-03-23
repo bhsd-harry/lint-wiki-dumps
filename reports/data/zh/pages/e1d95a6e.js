@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",53,2,"[[Category:1998年香港電影作品]]"]]
+window.data=[["no-duplicate",53,2,"duplicated category","[[Category:1998年香港電影作品]]"],["no-duplicate",70,2,"duplicated category","[[Category:1998年香港電影作品]]"]]

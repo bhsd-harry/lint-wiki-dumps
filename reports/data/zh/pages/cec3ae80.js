@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",72,2,"[[Category:台灣女性律師]]"]]
+window.data=[["no-duplicate",72,2,"duplicated category","[[Category:台灣女性律師]]"],["no-duplicate",73,2,"duplicated category","[[Category:台灣女性律師]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",5,821,"[[冠狀動脈疾病|coronary artery disease]]"]]
+window.data=[["nested-link",5,821,"internal link in an external link","[[冠狀動脈疾病|coronary artery disease]]"]]

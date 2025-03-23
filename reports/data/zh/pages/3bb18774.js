@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",49,2,"[[Category:台南市人]]"]]
+window.data=[["no-duplicate",49,2,"duplicated category","[[Category:台南市人]]"],["no-duplicate",51,2,"duplicated category","[[Category:台南市人]]"],["no-duplicate",50,2,"duplicated category","[[Category:臺南縣政治人物]]"],["no-duplicate",52,2,"duplicated category","[[Category:臺南縣政治人物]]"]]

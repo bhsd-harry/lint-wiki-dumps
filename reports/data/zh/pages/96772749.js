@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",1162,93,"ISBN 9784065119588"],[2,"no-duplicate",1059,5,"class=\"wikitable\""]]
+window.data=[["no-duplicate",1059,5,"duplicated class attribute","class=\"wikitable\""],["no-duplicate",1059,69,"duplicated class attribute","class=\"sortable wikitable\""],["invalid-isbn",1162,93,"invalid ISBN","ISBN 9784065119588"]]

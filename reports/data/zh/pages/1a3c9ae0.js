@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,52,"Milchkuh"]]
+window.data=[["no-duplicate",3,52,"duplicated image caption parameter","Milchkuh"],["no-duplicate",3,61,"duplicated image caption parameter","吃草的乳牛"]]

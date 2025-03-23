@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,2,"[[Category:2000年開業電子遊戲公司]]"]]
+window.data=[["no-duplicate",33,2,"duplicated category","[[Category:2000年開業電子遊戲公司]]"],["no-duplicate",38,2,"duplicated category","[[Category:2000年開業電子遊戲公司]]"]]

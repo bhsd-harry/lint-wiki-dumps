@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",7,38,"250px"],[1,"lonely-http",140,470,"ISBN"]]
+window.data=[["invalid-gallery",7,38,"invalid image parameter","250px"],["lonely-http",140,470,"lonely \"ISBN\"","ISBN"]]

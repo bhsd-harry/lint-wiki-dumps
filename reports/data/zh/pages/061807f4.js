@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",76,58,"padding"],[4,"no-duplicate",76,6,"class=\"wikitable\""]]
+window.data=[["illegal-attr",76,58,"illegal attribute name","padding"],["no-duplicate",76,6,"duplicated class attribute","class=\"wikitable\""],["no-duplicate",76,71,"duplicated class attribute","class=\"wikitable\""],["no-duplicate",76,25,"duplicated align attribute","align=\"center\""],["no-duplicate",76,90,"duplicated align attribute","align=\"center\""]]

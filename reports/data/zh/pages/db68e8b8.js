@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,54,"float:right"]]
+window.data=[["no-duplicate",4,54,"duplicated image caption parameter","float:right"],["no-duplicate",4,66,"duplicated image caption parameter","KDE 4 logo for KolourPaint"]]

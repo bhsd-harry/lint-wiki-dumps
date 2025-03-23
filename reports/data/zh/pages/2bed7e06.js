@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3," tradename = \n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter"," tradename = \n "],["no-duplicate",46,3,"duplicated parameter"," tradename = Cyoctol、X-Andron\n <!--Chemical data-->"]]

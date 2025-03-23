@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,96,"Andries Pretorius"]]
+window.data=[["no-duplicate",7,96,"duplicated image caption parameter","Andries Pretorius"],["no-duplicate",7,114,"duplicated image caption parameter",""]]

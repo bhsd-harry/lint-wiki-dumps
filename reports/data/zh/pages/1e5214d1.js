@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",805,62,"  :3\"=\"\""],[1,"tag-like",805,51,"<ref"]]
+window.data=[["tag-like",805,51,"lonely \"<\"","<ref"],["no-ignored",805,62,"containing invalid attribute","  :3\"=\"\""],["no-ignored",805,71,"invalid content in <gallery>","{{cite web|title=Plant wise details of Renewable Energy Installed Capacity|url=http://www.cea.nic.in/reports/others/planning/rpm/Plant-wise%20details%"]]

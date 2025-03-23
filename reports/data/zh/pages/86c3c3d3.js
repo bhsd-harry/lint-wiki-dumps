@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",50,29,"[["],[2,"no-duplicate",50,29,"[[Mosaics of Delos"]]
+window.data=[["lonely-bracket",50,29,"lonely \"[\"","[["],["no-duplicate",50,29,"duplicated image caption parameter","[[Mosaics of Delos"],["no-duplicate",50,48,"duplicated image caption parameter","海豚館的馬賽克地板"]]

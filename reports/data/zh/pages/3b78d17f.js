@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",34,3,"19=[[福鼎話|福鼎口音]]\n "]]
+window.data=[["no-duplicate",34,3,"duplicated parameter","19=[[福鼎話|福鼎口音]]\n "],["no-duplicate",35,3,"duplicated parameter","19=[[尤溪話|尤溪口音]]\n "]]

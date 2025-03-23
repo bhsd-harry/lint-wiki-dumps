@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",45,231,"]"]]
+window.data=[["lonely-bracket",45,231,"lonely \"]\"","]"]]

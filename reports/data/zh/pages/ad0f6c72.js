@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",42,83,"[["],[2,"no-duplicate",42,55,"name=\"zeneki21\""],[1,"no-ignored",42,70,"/。從前此站設有1面2線的[[島式月台]]，現時列車交會設備已經撤走<ref "],[1,"tag-like",42,104,"<ref"]]
+window.data=[["lonely-bracket",42,83,"lonely \"[\"","[["],["lonely-bracket",42,89,"lonely \"]\"","]]"],["tag-like",42,104,"lonely \"<\"","<ref"],["no-ignored",42,70,"containing invalid attribute","/。從前此站設有1面2線的[[島式月台]]，現時列車交會設備已經撤走<ref "],["no-duplicate",42,55,"duplicated name attribute","name=\"zeneki21\""],["no-duplicate",42,109,"duplicated name attribute","name=\"nippo\""]]

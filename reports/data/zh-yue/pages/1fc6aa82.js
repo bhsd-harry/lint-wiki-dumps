@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,3,"duplicated parameter"," type = [[Crown entity|Crown entity company]]\n "]]
+window.data=[["no-duplicate",7,3,"duplicated parameter"," type = [[Crown entity|Crown entity company]]\n "],["no-duplicate",17,3,"duplicated parameter"," type = [[電視台]]\n "]]

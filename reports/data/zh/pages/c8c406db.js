@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",345,31,"]]"],[1,"no-ignored",345,12,"  [新传媒8频道"]]
+window.data=[["no-ignored",345,12,"containing invalid attribute","  [新传媒8频道"],["lonely-bracket",345,31,"lonely \"]\"","]]"]]

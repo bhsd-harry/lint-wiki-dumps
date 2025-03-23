@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",436,2,"[[Category:2011年台灣電視劇集]]"]]
+window.data=[["no-duplicate",436,2,"duplicated category","[[Category:2011年台灣電視劇集]]"],["no-duplicate",443,2,"duplicated category","[[Category:2011年台灣電視劇集|愛]]"]]

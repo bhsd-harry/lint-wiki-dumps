@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",68,3," location = [[Varanasi]] "]]
+window.data=[["no-duplicate",68,3,"duplicated parameter"," location = [[Varanasi]] "],["no-duplicate",68,87,"duplicated parameter"," location = New Delhi "],["no-duplicate",68,29,"duplicated parameter"," publisher = Wangchuk Deden Shakabpa Memorial Foundation "],["no-duplicate",68,110,"duplicated parameter"," publisher = Taikhang\n "]]

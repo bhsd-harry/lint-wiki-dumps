@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,2,"duplicated category","[[Category:CS1 uses Chinese-language script (zh)]]"]]
+window.data=[["no-duplicate",9,2,"duplicated category","[[Category:CS1 uses Chinese-language script (zh)]]"],["no-duplicate",13,2,"duplicated category","[[Category:CS1 uses Chinese-language script (zh)]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",28,27,"Tohtoumi-Ichinomiya 002.JPG"]]
+window.data=[["no-duplicate",28,27,"duplicated image caption parameter","Tohtoumi-Ichinomiya 002.JPG"],["no-duplicate",28,73,"duplicated image caption parameter","上行月台與車站大樓"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,46,"<!--left-->none"]]
+window.data=[["no-duplicate",10,46,"duplicated image caption parameter","<!--left-->none"],["no-duplicate",10,74,"duplicated image caption parameter","复原模型"]]

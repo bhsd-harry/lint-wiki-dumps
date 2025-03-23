@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",149,1," *<sup>a</sup>他在第三轮资格赛赢得两场比赛.\n *<sup>b</sup>接手时，拜仁在德国杯中已经被淘汰出局."]]
+window.data=[["fostered-content",149,1,"content to be moved out from the table"," *<sup>a</sup>他在第三轮资格赛赢得两场比赛.\n *<sup>b</sup>接手时，拜仁在德国杯中已经被淘汰出局."]]

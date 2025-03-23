@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",114,40,"style=\"text-align:center\""],[1,"no-ignored",114,65,"!colspan=\"4\"  "]]
+window.data=[["no-ignored",114,65,"containing invalid attribute","!colspan=\"4\"  "],["no-duplicate",114,40,"duplicated style attribute","style=\"text-align:center\""],["no-duplicate",114,79,"duplicated style attribute","style=\"  text-align:center;  \""],["invalid-css",115,24,"semi-colon expected",""],["invalid-css",115,17,"colon expected","="],["invalid-css",126,24,"semi-colon expected",""],["invalid-css",126,17,"colon expected","="]]

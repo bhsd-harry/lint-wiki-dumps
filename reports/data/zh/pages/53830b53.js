@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",28,40,"Iyo_City_Hall_20240428_(1)"]]
+window.data=[["no-duplicate",28,40,"duplicated image caption parameter","Iyo_City_Hall_20240428_(1)"],["no-duplicate",28,73,"duplicated image caption parameter","伊予市政府"]]

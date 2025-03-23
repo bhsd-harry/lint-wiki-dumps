@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,2,"[[Category:林夕創作的歌曲]]"]]
+window.data=[["no-duplicate",26,2,"duplicated category","[[Category:林夕創作的歌曲]]"],["no-duplicate",52,2,"duplicated category","[[Category:林夕創作的歌曲]]"]]

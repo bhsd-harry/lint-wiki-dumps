@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,26,"西維吉尼亞州馬汀斯堡的"]]
+window.data=[["no-duplicate",63,26,"duplicated image caption parameter","西維吉尼亞州馬汀斯堡的"],["no-duplicate",63,38,"duplicated image caption parameter","巴爾的摩與俄亥俄鐵路車庫"]]

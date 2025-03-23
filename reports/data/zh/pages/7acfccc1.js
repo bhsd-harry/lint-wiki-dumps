@@ -1,1 +1,1 @@
-window.data=[[6,"lonely-bracket",115,5,"[["],[1,"no-ignored",115,4,"|[[孫夢泉]]||[[滅絕師太]]||[[陸惠玲]]"]]
+window.data=[["lonely-bracket",115,5,"lonely \"[\"","[["],["lonely-bracket",115,10,"lonely \"]\"","]]"],["lonely-bracket",115,14,"lonely \"[\"","[["],["lonely-bracket",115,20,"lonely \"]\"","]]"],["lonely-bracket",115,24,"lonely \"[\"","[["],["lonely-bracket",115,29,"lonely \"]\"","]]"],["no-ignored",115,4,"containing invalid attribute","|[[孫夢泉]]||[[滅絕師太]]||[[陸惠玲]]"]]

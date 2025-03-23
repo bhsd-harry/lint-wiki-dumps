@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",115,36,"Right"]]
+window.data=[["no-duplicate",115,36,"duplicated image caption parameter","Right"],["no-duplicate",115,42,"duplicated image caption parameter","[[莫里斯·威廉斯|威廉斯]]於騎士隊"]]

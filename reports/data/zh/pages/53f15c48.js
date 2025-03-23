@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,31,"{{largethumb}}"]]
+window.data=[["no-duplicate",63,31,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",63,46,"duplicated image caption parameter","注意力不足過動症的藥物"]]

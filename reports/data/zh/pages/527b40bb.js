@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",258,2,"[[Category:金馬獎最佳音效獲獎電影]]"]]
+window.data=[["no-duplicate",258,2,"duplicated category","[[Category:金馬獎最佳音效獲獎電影]]"],["no-duplicate",260,2,"duplicated category","[[Category:金馬獎最佳音效獲獎電影]]"]]

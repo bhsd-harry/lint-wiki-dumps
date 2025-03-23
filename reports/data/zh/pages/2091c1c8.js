@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",60,413,"title=As Nature Made Him: The Boy Who Was Raised as a Girl "]]
+window.data=[["no-duplicate",60,413,"duplicated parameter","title=As Nature Made Him: The Boy Who Was Raised as a Girl "],["no-duplicate",60,473,"duplicated parameter","title=As Nature Made Him: The Boy Who Was Raised as a Girl "]]

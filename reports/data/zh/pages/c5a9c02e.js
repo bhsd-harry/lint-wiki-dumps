@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",14,120,"[[Роговий Олександр Іванович|О.І. Роговий]]"]]
+window.data=[["nested-link",14,120,"internal link in an external link","[[Роговий Олександр Іванович|О.І. Роговий]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",154,2,"[[Category:利曼24小時耐力賽]]"]]
+window.data=[["no-duplicate",154,2,"duplicated category","[[Category:利曼24小時耐力賽]]"],["no-duplicate",184,2,"duplicated category","[[Category:利曼24小時耐力賽]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",67,13,"Domino"],[1,"no-ignored",67,19," (film)"]]
+window.data=[["illegal-attr",67,13,"illegal attribute name","Domino"],["no-ignored",67,19,"containing invalid attribute"," (film)"]]

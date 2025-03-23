@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",267,2,"[[Category:奧林匹克運動會足球獎牌得主]]"]]
+window.data=[["no-duplicate",267,2,"duplicated category","[[Category:奧林匹克運動會足球獎牌得主]]"],["no-duplicate",272,2,"duplicated category","[[Category:奧林匹克運動會足球獎牌得主]]"]]

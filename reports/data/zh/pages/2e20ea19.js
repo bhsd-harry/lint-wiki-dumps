@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",24,3," map_size = \n "]]
+window.data=[["no-duplicate",24,3,"duplicated parameter"," map_size = \n "],["no-duplicate",25,3,"duplicated parameter"," map_size = 縣結果\n "]]

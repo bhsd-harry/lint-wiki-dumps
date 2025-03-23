@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",23,94,"HL"],[2,"no-duplicate",250,45,"2008芝加哥马拉松起点Columbus Drive (Chicago)"]]
+window.data=[["illegal-attr",23,94,"illegal attribute name","HL"],["no-duplicate",250,45,"duplicated image caption parameter","2008芝加哥马拉松起点Columbus Drive (Chicago)"],["no-duplicate",250,82,"duplicated image caption parameter","Columbus Drive"]]

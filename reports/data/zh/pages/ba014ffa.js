@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",337,2,"[[Category:2011年启用的铁路车站]]"]]
+window.data=[["no-duplicate",337,2,"duplicated category","[[Category:2011年启用的铁路车站]]"],["no-duplicate",340,2,"duplicated category","[[Category:2011年启用的铁路车站]]"]]

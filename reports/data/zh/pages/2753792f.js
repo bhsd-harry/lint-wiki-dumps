@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3," pushpin_label_position=Center\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," pushpin_label_position=Center\n "],["no-duplicate",10,3,"duplicated parameter"," pushpin_label_position = right\n "]]

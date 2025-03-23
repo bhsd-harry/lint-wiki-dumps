@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",81,34,"金门砂岩岩石景观。GoldenGateGrootKlip02.JPG"]]
+window.data=[["no-duplicate",81,34,"duplicated image caption parameter","金门砂岩岩石景观。GoldenGateGrootKlip02.JPG"],["no-duplicate",81,69,"duplicated image caption parameter","公园里还可找到巨石。"]]

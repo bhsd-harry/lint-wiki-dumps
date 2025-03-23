@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",44,2,"[[Category:宜昌中等学校]]"]]
+window.data=[["no-duplicate",44,2,"duplicated category","[[Category:宜昌中等学校]]"],["no-duplicate",48,2,"duplicated category","[[Category:宜昌中等学校]]"],["no-duplicate",45,2,"duplicated category","[[Category:西陵区]]"],["no-duplicate",49,2,"duplicated category","[[Category:西陵区]]"]]

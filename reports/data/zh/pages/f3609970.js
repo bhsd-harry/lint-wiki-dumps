@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",6,185,"[[Голодомор в Україні 1932—1933]]"]]
+window.data=[["nested-link",6,185,"internal link in an external link","[[Голодомор в Україні 1932—1933]]"],["nested-link",6,242,"internal link in an external link","[[Факты и комментарии]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",269,2,"[[Category:MacOS遊戲]]"]]
+window.data=[["no-duplicate",269,2,"duplicated category","[[Category:MacOS遊戲]]"],["no-duplicate",271,2,"duplicated category","[[Category:MacOS遊戲]]"]]

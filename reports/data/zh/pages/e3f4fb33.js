@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,2,"[[Category:残疾人奥林匹克运动会轮椅篮球奖牌得主]]"]]
+window.data=[["no-duplicate",37,2,"duplicated category","[[Category:残疾人奥林匹克运动会轮椅篮球奖牌得主]]"],["no-duplicate",38,2,"duplicated category","[[Category:残疾人奥林匹克运动会轮椅篮球奖牌得主]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",154,90,"thumb"],[2,"no-duplicate",2,3,"T=zh-cn:吉野家;zh-sg:𠮷野家;zh-tw:吉野家;zh-hk:𠮷野家;\n "]]
+window.data=[["no-duplicate",2,3,"duplicated parameter","T=zh-cn:吉野家;zh-sg:𠮷野家;zh-tw:吉野家;zh-hk:𠮷野家;\n "],["no-duplicate",3,3,"duplicated parameter","T=zh-cn:吉野家;zh-sg:𠮷野家;zh-tw:吉野家;zh-hk:𠮷野家;\n "],["invalid-gallery",154,90,"invalid image parameter","thumb"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",257,2,"[[Category:日本機場聯絡鐵路車站]]"]]
+window.data=[["no-duplicate",257,2,"duplicated category","[[Category:日本機場聯絡鐵路車站]]"],["no-duplicate",264,2,"duplicated category","[[Category:日本機場聯絡鐵路車站]]"]]

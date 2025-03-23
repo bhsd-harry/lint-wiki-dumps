@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",119,40,"湖南湘江新区"]]
+window.data=[["no-duplicate",119,40,"duplicated image caption parameter","湖南湘江新区"],["no-duplicate",119,47,"duplicated image caption parameter","湘江新区"]]

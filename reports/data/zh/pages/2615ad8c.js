@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",156,392,"]]"],[1,"no-ignored",156,387,"1943年]]"]]
+window.data=[["lonely-bracket",156,392,"lonely \"]\"","]]"],["no-ignored",156,387,"containing invalid attribute","1943年]]"]]

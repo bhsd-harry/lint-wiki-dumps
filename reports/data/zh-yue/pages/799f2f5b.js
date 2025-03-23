@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",28,3,"duplicated parameter"," display      = \n "]]
+window.data=[["no-duplicate",28,3,"duplicated parameter"," display      = \n "],["no-duplicate",30,3,"duplicated parameter"," display      = \n {{Collapsible list\n |title=影片輸出格式\n |\n *[[HDMI]]\n }}\n "]]

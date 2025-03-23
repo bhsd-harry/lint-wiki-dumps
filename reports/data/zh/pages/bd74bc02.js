@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,39,"<br style=\"clear:both;\">"]]
+window.data=[["no-duplicate",1,39,"duplicated image caption parameter","<br style=\"clear:both;\">"],["no-duplicate",1,64,"duplicated image caption parameter","18世紀[[俄羅斯]][[卡累利阿]][[耶穌顯聖]]教堂的先知哈該的[[聖像]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",9,3," image_name       = Marotiri-map.jpg\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," image_name       = Marotiri-map.jpg\n "],["no-duplicate",11,3,"duplicated parameter"," image_name       = Marotiri - îlot sud.jpg\n "],["no-duplicate",10,3,"duplicated parameter"," image_caption    = Marotiri or Bass Rocks\n "],["no-duplicate",12,3,"duplicated parameter"," image_caption    = 馬羅蒂里群島的南岩\n "]]

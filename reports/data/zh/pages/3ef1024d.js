@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",45,2,"[[Category:中华人民共和国社会问题|X]]"]]
+window.data=[["no-duplicate",45,2,"duplicated category","[[Category:中华人民共和国社会问题|X]]"],["no-duplicate",55,2,"duplicated category","[[Category:中华人民共和国社会问题]]"]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",452,52,"Right"]]
+window.data=[["no-duplicate",452,52,"duplicated image caption parameter","Right"],["no-duplicate",452,64,"duplicated image caption parameter","拉祖姆科夫中心在2006年2月公布的民調圖表"],["no-duplicate",494,47,"duplicated image caption parameter","Right"],["no-duplicate",494,59,"duplicated image caption parameter","基輔社會學研究院在2006年2月公布的民調圖表"],["no-duplicate",495,52,"duplicated image caption parameter","Right"],["no-duplicate",495,64,"duplicated image caption parameter","基輔社會學研究院所使用的分區"]]

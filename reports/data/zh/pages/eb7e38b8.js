@@ -1,0 +1,1 @@
+window.data=[["invalid-css",16,69,"} expected","\""]]

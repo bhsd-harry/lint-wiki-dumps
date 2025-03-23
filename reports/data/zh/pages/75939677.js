@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3,"zh-hk:童心闖未來;zh-sg:童心闯未来;zh-tw:扭轉未來;\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter","zh-hk:童心闖未來;zh-sg:童心闯未来;zh-tw:扭轉未來;\n "],["no-duplicate",4,3,"duplicated parameter","1=zh-cn:威利斯;zh-sg:威利;zh-my:威利士;zh-hk:韋利士;zh-tw:威利;\n "]]

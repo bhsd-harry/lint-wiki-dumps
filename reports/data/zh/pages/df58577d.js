@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",18,61,"{{"],[3,"no-duplicate",18,40,"由[[湯姆·艾金斯]]在1875年所繪的《{{le"]]
+window.data=[["lonely-bracket",18,61,"lonely \"{\"","{{"],["no-duplicate",18,40,"duplicated image caption parameter","由[[湯姆·艾金斯]]在1875年所繪的《{{le"],["no-duplicate",18,66,"duplicated image caption parameter","格罗斯医师的临床课"],["no-duplicate",18,76,"duplicated image caption parameter","The Gross Clinic》，目前收藏在[[费城艺术博物馆]]及[[賓夕法尼亞美術學院]]"]]

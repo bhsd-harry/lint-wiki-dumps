@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",2308,4,"102"],[1,"no-ignored",56,4,"2007年532公車改為{{blue|'''藍29'''}}（名義上為裁撤並另立新線）"],[2,"unmatched-tag",386,26,"<small>"]]
+window.data=[["no-ignored",56,4,"containing invalid attribute","2007年532公車改為{{blue|'''藍29'''}}（名義上為裁撤並另立新線）"],["unmatched-tag",386,26,"unclosed tag","<small>"],["unmatched-tag",1352,29,"unmatched closing tag","</small>"],["illegal-attr",2308,4,"illegal attribute name","102"]]

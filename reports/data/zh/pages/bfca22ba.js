@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",137,21,"[["],[1,"no-ignored",137,4,"!colspan=\"6\"|收視率由[[Video Research]]於[[關東地區]]進行統計）"]]
+window.data=[["lonely-bracket",137,21,"lonely \"[\"","[["],["lonely-bracket",137,37,"lonely \"]\"","]]"],["lonely-bracket",137,40,"lonely \"[\"","[["],["lonely-bracket",137,46,"lonely \"]\"","]]"],["no-ignored",137,4,"containing invalid attribute","!colspan=\"6\"|收視率由[[Video Research]]於[[關東地區]]進行統計）"]]

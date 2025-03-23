@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,115,"title=\"Bến xe miền đông mới chính thức đưa vào khai thác (Theo: Báo Công An)\"  "]]
+window.data=[["no-duplicate",15,115,"duplicated parameter","title=\"Bến xe miền đông mới chính thức đưa vào khai thác (Theo: Báo Công An)\"  "],["no-duplicate",15,307,"duplicated parameter","title=Bến xe miền đông mới chính thức đưa vào khai thác"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",603,2,"[[Category:葡屬澳門出生者]]"]]
+window.data=[["no-duplicate",603,2,"duplicated category","[[Category:葡屬澳門出生者]]"],["no-duplicate",612,2,"duplicated category","[[Category:葡屬澳門出生者]]"]]

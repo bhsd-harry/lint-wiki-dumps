@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",60,180,"]]"],[2,"no-duplicate",60,160,"name=\"legacy\""],[1,"no-ignored",60,173,"當代成人單曲榜]]第28位，並在榜單逗留了四週<ref "],[1,"tag-like",60,196,"<ref"]]
+window.data=[["lonely-bracket",60,180,"lonely \"]\"","]]"],["tag-like",60,196,"lonely \"<\"","<ref"],["no-ignored",60,173,"containing invalid attribute","當代成人單曲榜]]第28位，並在榜單逗留了四週<ref "],["no-duplicate",60,160,"duplicated name attribute","name=\"legacy\""],["no-duplicate",60,201,"duplicated name attribute","name=\"usadult\""]]

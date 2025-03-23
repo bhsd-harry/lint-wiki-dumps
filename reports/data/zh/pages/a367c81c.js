@@ -1,1 +1,1 @@
-window.data=[[5,"illegal-attr",504,4,"href"],[2,"no-ignored",487,4,"發行日期"]]
+window.data=[["invalid-css",133,47,"property value expected",""],["invalid-css",202,24,"} expected",";"],["no-ignored",487,4,"containing invalid attribute","發行日期"],["illegal-attr",504,4,"illegal attribute name","href"],["illegal-attr",506,4,"illegal attribute name","href"],["illegal-attr",514,5,"illegal attribute name","href"],["illegal-attr",520,4,"illegal attribute name","href"],["illegal-attr",598,4,"illegal attribute name","href"],["no-ignored",600,4,"containing invalid attribute","2017年8月1日"]]

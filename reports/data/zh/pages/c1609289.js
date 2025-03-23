@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",174,3,"249"],[1,"no-ignored",196,3,"{{flagIOCathlete|[[Yvonne Prévost|Prévost]]|FRA|1900年夏季}}<br />'''L''' 1–6, 1–6 "],[1,"parsing-order",196,60,"<br />"]]
+window.data=[["illegal-attr",174,3,"illegal attribute name","249"],["parsing-order",196,60,"HTML tag in table attributes","<br />"],["no-ignored",196,3,"containing invalid attribute","{{flagIOCathlete|[[Yvonne Prévost|Prévost]]|FRA|1900年夏季}}<br />'''L''' 1–6, 1–6 "]]

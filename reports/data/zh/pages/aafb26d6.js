@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",419,26,"{{"],[2,"no-duplicate",214,20,"rowspan=\"8\""]]
+window.data=[["no-duplicate",214,20,"duplicated rowspan attribute","rowspan=\"8\""],["no-duplicate",214,33,"duplicated rowspan attribute","rowspan=\"11\""],["lonely-bracket",419,26,"lonely \"{\"","{{"],["lonely-bracket",425,22,"lonely \"{\"","{{"]]

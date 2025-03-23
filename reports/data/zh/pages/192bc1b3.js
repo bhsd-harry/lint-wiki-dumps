@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,33,"Ramón López Velarde in 1918"]]
+window.data=[["no-duplicate",1,33,"duplicated image caption parameter","Ramón López Velarde in 1918"],["no-duplicate",1,61,"duplicated image caption parameter","1918年的洛佩斯·贝拉尔德"]]

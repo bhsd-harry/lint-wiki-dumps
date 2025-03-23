@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3," abbreviation     = SFC\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," abbreviation     = SFC\n "],["no-duplicate",18,3,"duplicated parameter"," abbreviation        = {{lang|en|SFC}}\n "]]

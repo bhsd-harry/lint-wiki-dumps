@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",70,8,"\n ==== 女性 ====\n * 倉持若菜\n "]]
+window.data=[["no-duplicate",70,8,"duplicated parameter","\n ==== 女性 ====\n * 倉持若菜\n "],["no-duplicate",73,3,"duplicated parameter","\n ==== 男性 ====\n * 下川草介\n "]]

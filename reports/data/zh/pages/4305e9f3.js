@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,65,"Rainbow_runner_(Elagatis_bipinnulata)_(48813101612)"]]
+window.data=[["no-duplicate",29,65,"duplicated image caption parameter","Rainbow_runner_(Elagatis_bipinnulata)_(48813101612)"],["no-duplicate",29,128,"duplicated image caption parameter","印度尼西亚[[摩罗泰岛]]外海的一条纺缍𫚕，注意其两道横贯全身的浅蓝色窄带"]]

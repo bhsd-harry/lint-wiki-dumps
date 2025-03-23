@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",107,1,"\n == 实习生 =="],[1,"illegal-attr",270,65,"fontcolor"],[1,"unclosed-table",106,2,"{|"]]
+window.data=[["fostered-content",107,1,"content to be moved out from the table","\n == 实习生 =="],["unclosed-table",106,2,"unclosed table","{|"],["illegal-attr",270,65,"illegal attribute name","fontcolor"]]

@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",15,9,"mso-yfti-irow:"],[2,"no-ignored",15,23," 1\""]]
+window.data=[["illegal-attr",15,9,"illegal attribute name","mso-yfti-irow:"],["no-ignored",15,23,"containing invalid attribute"," 1\""],["illegal-attr",59,4,"illegal attribute name","x:num"],["illegal-attr",352,9,"illegal attribute name","mso-yfti-irow:"],["no-ignored",352,23,"containing invalid attribute"," 2;mso-yfti-lastrow: yes\""]]

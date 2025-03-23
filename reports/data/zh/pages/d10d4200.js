@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",94,2,"[[Category:澳門河底隧道]]"]]
+window.data=[["no-duplicate",94,2,"duplicated category","[[Category:澳門河底隧道]]"],["no-duplicate",97,2,"duplicated category","[[Category:澳門河底隧道]]"]]

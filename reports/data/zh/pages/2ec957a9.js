@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3," position     = [[控球后卫]]\n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter"," position     = [[控球后卫]]\n "],["no-duplicate",19,3,"duplicated parameter"," position     = 特別顧問\n "]]

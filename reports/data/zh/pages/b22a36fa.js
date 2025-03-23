@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",503,75,"}}"],[1,"lonely-http",503,9,"http://"],[1,"no-ignored",503,4,"|url=http://www.segye.com/newsView/20180115000979|accessdate=2018-01-15}}</ref>"],[1,"tag-like",503,77,"</ref"]]
+window.data=[["lonely-http",503,9,"lonely \"http://\"","http://"],["lonely-bracket",503,75,"lonely \"}\"","}}"],["tag-like",503,77,"lonely \"<\"","</ref"],["no-ignored",503,4,"containing invalid attribute","|url=http://www.segye.com/newsView/20180115000979|accessdate=2018-01-15}}</ref>"]]

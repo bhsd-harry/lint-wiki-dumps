@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",30,297,"title=A reassessment of ''Sinornis santensis'' and ''Cathayornis yandica'' (Aves: Enantiornithes)"]]
+window.data=[["no-duplicate",30,297,"duplicated parameter","title=A reassessment of ''Sinornis santensis'' and ''Cathayornis yandica'' (Aves: Enantiornithes)"],["no-duplicate",30,395,"duplicated parameter","title=Records of the Australian Museum"]]

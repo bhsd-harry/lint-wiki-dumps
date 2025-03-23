@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",113,127,"colspan=2"]]
+window.data=[["invalid-css",99,130,"colon expected",";"],["no-duplicate",113,127,"duplicated colspan attribute","colspan=2"],["no-duplicate",113,138,"duplicated colspan attribute","colspan=2"],["no-duplicate",121,127,"duplicated colspan attribute","colspan=2"],["no-duplicate",121,138,"duplicated colspan attribute","colspan=2"]]

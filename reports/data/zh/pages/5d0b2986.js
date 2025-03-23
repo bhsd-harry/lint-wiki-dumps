@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",105,308,"[[東方日報 (香港)|東方日報]]"]]
+window.data=[["nested-link",105,308,"internal link in an external link","[[東方日報 (香港)|東方日報]]"]]

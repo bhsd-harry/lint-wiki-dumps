@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",131,24,"whdth"],[1,"nested-link",91,701,"[[蘋果日報 (香港)|蘋果日報]]"]]
+window.data=[["nested-link",91,701,"internal link in an external link","[[蘋果日報 (香港)|蘋果日報]]"],["illegal-attr",131,24,"illegal attribute name","whdth"],["illegal-attr",348,24,"illegal attribute name","whdth"]]

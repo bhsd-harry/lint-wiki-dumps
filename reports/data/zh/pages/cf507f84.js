@@ -1,1 +1,1 @@
-window.data=[[5,"illegal-attr",76,13,"nowrap"],[2,"no-duplicate",9,23,"style=\"text-align:center;\""]]
+window.data=[["no-duplicate",9,23,"duplicated style attribute","style=\"text-align:center;\""],["no-duplicate",9,94,"duplicated style attribute","style=\"  \""],["illegal-attr",76,13,"illegal attribute name","nowrap"],["illegal-attr",88,13,"illegal attribute name","nowrap"],["illegal-attr",100,13,"illegal attribute name","nowrap"],["illegal-attr",126,13,"illegal attribute name","nowrap"],["illegal-attr",171,13,"illegal attribute name","nowrap"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",31,2,"[[分类:并发控制| ]]"]]
+window.data=[["no-duplicate",31,2,"duplicated category","[[分类:并发控制| ]]"],["no-duplicate",32,2,"duplicated category","[[Category:并发控制]]"]]

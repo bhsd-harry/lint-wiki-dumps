@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",557,49,"text-align"],[2,"no-duplicate",682,2,"[[Category:香港商人|苗]]"]]
+window.data=[["illegal-attr",557,49,"illegal attribute name","text-align"],["invalid-css",558,23,"property value expected",":"],["invalid-css",558,45,"{ expected",""],["no-duplicate",682,2,"duplicated category","[[Category:香港商人|苗]]"],["no-duplicate",683,2,"duplicated category","[[Category:香港商人|苗]]"]]

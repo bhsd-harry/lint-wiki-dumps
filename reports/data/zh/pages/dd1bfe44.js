@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",249,2,"[[Category:2012年背景作品]]"]]
+window.data=[["no-duplicate",249,2,"duplicated category","[[Category:2012年背景作品]]"],["no-duplicate",257,2,"duplicated category","[[Category:2012年背景作品]]"],["no-duplicate",250,2,"duplicated category","[[Category:2013年背景作品]]"],["no-duplicate",258,2,"duplicated category","[[Category:2013年背景作品]]"]]

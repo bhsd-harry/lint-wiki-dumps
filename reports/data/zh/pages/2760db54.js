@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,3," religious_affiliation =\n "]]
+window.data=[["no-duplicate",7,3,"duplicated parameter"," religious_affiliation =\n "],["no-duplicate",12,3,"duplicated parameter"," religious_affiliation = [[後期聖徒運動]]\n "]]

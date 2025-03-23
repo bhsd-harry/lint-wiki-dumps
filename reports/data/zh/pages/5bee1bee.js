@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",133,2,"[[Category:FIFA男子世紀俱樂部]]"]]
+window.data=[["no-duplicate",133,2,"duplicated category","[[Category:FIFA男子世紀俱樂部]]"],["no-duplicate",150,2,"duplicated category","[[Category:FIFA男子世紀俱樂部]]"]]

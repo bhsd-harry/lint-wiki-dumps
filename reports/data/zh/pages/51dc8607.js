@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",57,1," * 食物营养学科\n * 生活福利学科<ref group=\"注\"  name=\"生活福利学科\">日语:{{lang|ja|生活福祉学科}}</ref>\n * 幼儿保育学科"]]
+window.data=[["fostered-content",57,1,"content to be moved out from the table"," * 食物营养学科\n * 生活福利学科<ref group=\"注\"  name=\"生活福利学科\">日语:{{lang|ja|生活福祉学科}}</ref>\n * 幼儿保育学科"],["fostered-content",63,1,"content to be moved out from the table"," * 生活环境学科<ref group=\"注\"  name=\"招生到2008年\"/><ref group=\"注\"  name=\"生活环境学科\"/>"]]

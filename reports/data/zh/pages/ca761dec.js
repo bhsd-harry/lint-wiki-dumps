@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",76,2,"[[Category:台灣大專院校圖書館]]"]]
+window.data=[["no-duplicate",76,2,"duplicated category","[[Category:台灣大專院校圖書館]]"],["no-duplicate",79,2,"duplicated category","[[Category:台灣大專院校圖書館]]"]]

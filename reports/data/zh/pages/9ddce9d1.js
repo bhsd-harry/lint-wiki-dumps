@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",41,2,"[[Category:臺西鄉人]]"]]
+window.data=[["no-duplicate",41,2,"duplicated category","[[Category:臺西鄉人]]"],["no-duplicate",45,2,"duplicated category","[[Category:臺西鄉人]]"],["no-duplicate",42,2,"duplicated category","[[Category:台灣茶史]]"],["no-duplicate",46,2,"duplicated category","[[Category:台灣茶史]]"]]

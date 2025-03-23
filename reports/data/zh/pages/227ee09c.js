@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",405,316,"ISBN 90-04-16025-5"],[1,"lonely-bracket",16,33,"{{"],[2,"no-duplicate",16,33,"{{fr"]]
+window.data=[["lonely-bracket",16,33,"lonely \"{\"","{{"],["no-duplicate",16,33,"duplicated image caption parameter","{{fr"],["no-duplicate",16,38,"duplicated image caption parameter","推测的扶余语系诸语分布图={{Legend|#0000FF|夫余语}}\n {{Legend|#00BFFF|高句丽语}}\n {{Legend|#7FFFD4|渤海语}}\n {{Legend|#6495ED|沃沮语}}\n {{Legend|#7B68EE|濊貊语}}\n {{Legend|#87CEFA"],["invalid-isbn",405,316,"invalid ISBN","ISBN 90-04-16025-5"]]

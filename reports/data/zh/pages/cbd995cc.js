@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,3," currentclub = [[伯明翰足球會|伯明翰]]\n "]]
+window.data=[["no-duplicate",15,3,"duplicated parameter"," currentclub = [[伯明翰足球會|伯明翰]]\n "],["no-duplicate",17,3,"duplicated parameter"," currentclub = [[巴恩斯利足球俱乐部|巴恩斯利]]\n "]]

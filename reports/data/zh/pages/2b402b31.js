@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,67,"Zhuhai_old_Jintai_Temple_General_view_(cropped)"]]
+window.data=[["no-duplicate",4,67,"duplicated image caption parameter","Zhuhai_old_Jintai_Temple_General_view_(cropped)"],["no-duplicate",4,115,"duplicated image caption parameter","位于黄杨山大赤坎村的旧金台寺(金台寺遗址)，前面的水库是1981年兴建发电站时形成。"]]

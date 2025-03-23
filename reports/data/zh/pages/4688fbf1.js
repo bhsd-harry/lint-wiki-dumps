@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",489,21,"sytle"],[2,"no-ignored",505,28,"text_align:center\""]]
+window.data=[["illegal-attr",489,21,"illegal attribute name","sytle"],["no-ignored",505,28,"containing invalid attribute","text_align:center\""],["invalid-css",508,15,"colon expected","="],["no-ignored",535,28,"containing invalid attribute","text_align:center\""],["invalid-css",538,15,"colon expected","="]]

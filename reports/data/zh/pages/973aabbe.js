@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",693,2,"[[Category:美國職業足球聯賽]]"]]
+window.data=[["no-duplicate",693,2,"duplicated category","[[Category:美國職業足球聯賽]]"],["no-duplicate",695,2,"duplicated category","[[分類:美國職業足球聯賽]]"]]

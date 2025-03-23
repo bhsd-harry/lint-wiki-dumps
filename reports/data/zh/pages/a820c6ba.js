@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",190,1,"\n [[Category:长春高等教育]]\n [[Category:长春列表]]"],[1,"unclosed-table",1,1,"{|"]]
+window.data=[["fostered-content",190,1,"content to be moved out from the table","\n [[Category:长春高等教育]]\n [[Category:长春列表]]"],["unclosed-table",1,1,"unclosed table","{|"]]

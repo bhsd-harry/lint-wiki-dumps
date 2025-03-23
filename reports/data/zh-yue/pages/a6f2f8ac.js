@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",5,3,"duplicated parameter"," caption = 天津地鐵\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter"," caption = 天津地鐵\n "],["no-duplicate",24,3,"duplicated parameter"," caption = \n "],["no-duplicate",40,56,"duplicated image caption parameter","天津地鐵線示意圖，截止2023年12月"],["no-duplicate",40,76,"duplicated image caption parameter","750x750像素"]]

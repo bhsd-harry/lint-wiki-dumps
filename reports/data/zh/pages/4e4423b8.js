@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",36,10,"  \"mode=packed\"  "]]
+window.data=[["no-ignored",36,10,"containing invalid attribute","  \"mode=packed\"  "]]

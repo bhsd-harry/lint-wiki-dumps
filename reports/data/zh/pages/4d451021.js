@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",162,5,"style=\"width:95%;\""],[1,"no-ignored",226,3,"!width=15%"],[1,"unclosed-table",158,2,"{|"]]
+window.data=[["no-duplicate",162,5,"duplicated style attribute","style=\"width:95%;\""],["no-duplicate",162,25,"duplicated style attribute","style=\"font-size: 90%;\""],["no-ignored",226,3,"containing invalid attribute","!width=15%"],["unclosed-table",158,2,"unclosed table","{|"]]

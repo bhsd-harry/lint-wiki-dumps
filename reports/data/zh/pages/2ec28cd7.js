@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",247,996,"[[新浪微博]]"],[2,"no-duplicate",96,24,"width=\"80%\""],[2,"unmatched-tag",125,400,"</SMALL>"]]
+window.data=[["no-duplicate",96,24,"duplicated width attribute","width=\"80%\""],["no-duplicate",96,64,"duplicated width attribute","width=70%"],["unmatched-tag",125,400,"unmatched closing tag","</SMALL>"],["nested-link",247,996,"internal link in an external link","[[新浪微博]]"],["unmatched-tag",323,3,"unmatched closing tag","</font>"]]

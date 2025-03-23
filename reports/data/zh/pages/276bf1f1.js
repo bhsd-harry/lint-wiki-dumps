@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",249,72,"{{"],[2,"no-ignored",249,44," 可能读作*la~le，{{sfn|Cho|2009}}{{rp"]]
+window.data=[["lonely-bracket",249,72,"lonely \"{\"","{{"],["no-ignored",249,44,"containing invalid attribute"," 可能读作*la~le，{{sfn|Cho|2009}}{{rp"],["lonely-bracket",257,61,"lonely \"{\"","{{"],["no-ignored",257,36,"containing invalid attribute"," “很可能”{{sfn|Handel|2019}}{{rp"]]

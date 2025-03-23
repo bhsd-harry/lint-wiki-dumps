@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",4,3,"duplicated parameter"," status = \n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter"," status = \n "],["no-duplicate",15,3,"duplicated parameter"," status = \n "],["no-duplicate",5,3,"duplicated parameter"," status_system = \n "],["no-duplicate",16,3,"duplicated parameter"," status_system =\n "],["no-duplicate",28,3,"duplicated parameter"," 演化支=\t[[嗅球類]] Olfactores\n "],["no-duplicate",29,3,"duplicated parameter"," 演化支=\t[[有頭動物]] Craniata\n "]]

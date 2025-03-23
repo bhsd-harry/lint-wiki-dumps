@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",40,37,"替代文字"]]
+window.data=[["no-duplicate",40,37,"duplicated image caption parameter","替代文字"],["no-duplicate",40,42,"duplicated image caption parameter","汪精卫因病出国，于船上留影（前方右二为曾仲鸣）"]]

@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",46,172,"舒沙大屠杀"]]
+window.data=[["no-duplicate",46,172,"duplicated image caption parameter","舒沙大屠杀"],["no-duplicate",46,178,"duplicated image caption parameter","Shusha massacre"],["no-duplicate",46,194,"duplicated image caption parameter","1920年被阿塞拜疆军队破坏后的[[舒沙|舒沙城]]，中央位置是已经被毁的教堂。"]]

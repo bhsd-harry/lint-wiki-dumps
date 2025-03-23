@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",10,3," election_date = 2024年11月5日\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter"," election_date = 2024年11月5日\n "],["no-duplicate",11,3,"duplicated parameter"," election_date = November 5, 2024\n "],["no-duplicate",24,3,"duplicated parameter"," map_size = \n "],["no-duplicate",25,3,"duplicated parameter"," map_size = 縣結果\n "]]

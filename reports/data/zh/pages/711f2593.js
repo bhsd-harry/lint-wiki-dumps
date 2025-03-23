@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",145,13,"align=center"],[1,"no-ignored",215,19," |name=\"cost2\""]]
+window.data=[["no-duplicate",145,13,"duplicated align attribute","align=center"],["no-duplicate",145,26,"duplicated align attribute","align=center"],["no-duplicate",210,14,"duplicated align attribute","align=center"],["no-duplicate",210,27,"duplicated align attribute","align=center"],["no-ignored",215,19,"containing invalid attribute"," |name=\"cost2\""]]

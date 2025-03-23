@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,2,"duplicated category","[[Category:前亞洲電視新聞報導員]]"]]
+window.data=[["no-duplicate",8,2,"duplicated category","[[Category:前亞洲電視新聞報導員]]"],["no-duplicate",12,2,"duplicated category","[[Category:前亞洲電視新聞報導員]]"]]

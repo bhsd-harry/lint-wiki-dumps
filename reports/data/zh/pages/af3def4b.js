@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",266,1," [[西班牙波旁王朝|'''西班牙帝國''']] "]]
+window.data=[["fostered-content",266,1,"content to be moved out from the table"," [[西班牙波旁王朝|'''西班牙帝國''']] "]]

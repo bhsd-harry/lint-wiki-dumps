@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",45,2,"[[Category:嘉兴市境内的文物保护单位]]"]]
+window.data=[["no-duplicate",45,2,"duplicated category","[[Category:嘉兴市境内的文物保护单位]]"],["no-duplicate",47,2,"duplicated category","[[Category:嘉兴市境内的文物保护单位]]"]]

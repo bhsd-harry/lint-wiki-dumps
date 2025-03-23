@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,72,"title=http://www.twtsaa.org.hk/Docs/Magazine/Schoolmagazine/50anniversary.pdf"]]
+window.data=[["no-duplicate",44,72,"duplicated parameter","title=http://www.twtsaa.org.hk/Docs/Magazine/Schoolmagazine/50anniversary.pdf"],["no-duplicate",44,150,"duplicated parameter","title=五十載荃工情"]]

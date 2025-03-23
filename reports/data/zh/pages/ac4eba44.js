@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",200,2,"[[Category:香港動作指導]]"]]
+window.data=[["no-duplicate",200,2,"duplicated category","[[Category:香港動作指導]]"],["no-duplicate",203,2,"duplicated category","[[Category:香港動作指導]]"]]

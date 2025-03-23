@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,3," colour = \n "]]
+window.data=[["no-duplicate",25,3,"duplicated parameter"," colour = \n "],["no-duplicate",38,3,"duplicated parameter"," colour = {{北京地铁线路名|大|S}}：珊瑚色、灰色<br />{{北京地铁线路名|19|S}}：绿色、白色\n "]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",202,205,"]"],[1,"unclosed-table",232,2,"{|"],[1,"unmatched-tag",386,2,"</table>"]]
+window.data=[["lonely-bracket",202,205,"lonely \"]\"","]"],["unmatched-tag",386,2,"unmatched closing tag","</table>"],["unclosed-table",232,2,"unclosed table","{|"]]

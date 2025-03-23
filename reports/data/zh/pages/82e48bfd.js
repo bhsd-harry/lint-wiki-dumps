@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",60,5,"7."],[2,"no-duplicate",1338,45,"地图描述 = 印度洋海啸的电脑模拟示意图"]]
+window.data=[["illegal-attr",60,5,"illegal attribute name","7."],["no-duplicate",1338,45,"duplicated image caption parameter","地图描述 = 印度洋海啸的电脑模拟示意图"],["no-duplicate",1338,72,"duplicated image caption parameter","[[2004年印度洋大地震]]"]]

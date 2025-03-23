@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,43,"thumb"]]
+window.data=[["no-duplicate",11,43,"conflicting image frame parameter","thumb"],["no-duplicate",11,55,"conflicting image frame parameter","frame"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",36,2,"[[Category:中国共产党德宏傣族景颇族自治州委员会成员]]"]]
+window.data=[["no-duplicate",36,2,"duplicated category","[[Category:中国共产党德宏傣族景颇族自治州委员会成员]]"],["no-duplicate",43,2,"duplicated category","[[Category:中国共产党德宏傣族景颇族自治州委员会成员]]"]]

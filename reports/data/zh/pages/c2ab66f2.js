@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",430,24,"'"],[3,"lonely-bracket",380,24,"]"],[2,"no-duplicate",226,3," nominee1 = [[弗蘭克·盧卡斯 (俄克拉荷馬州政治家)|弗蘭克·盧卡斯]]\n "]]
+window.data=[["no-duplicate",226,3,"duplicated parameter"," nominee1 = [[弗蘭克·盧卡斯 (俄克拉荷馬州政治家)|弗蘭克·盧卡斯]]\n "],["no-duplicate",227,3,"duplicated parameter"," nominee1 = '''[[弗蘭克·盧卡斯 (俄克拉荷馬州政治家)|弗蘭克·盧卡斯]]'''\n "],["lonely-bracket",380,24,"lonely \"]\"","]"],["lonely-bracket",396,2,"lonely \"}\"","}}"],["lonely-apos",430,24,"lonely \"'\"","'"],["lonely-bracket",468,2,"lonely \"{\"","{{"]]

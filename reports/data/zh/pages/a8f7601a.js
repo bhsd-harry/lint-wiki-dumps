@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",158,21,"sortable"],[2,"lonely-bracket",113,20,"[["],[1,"no-ignored",113,17,"|| [[君主立憲制]] ||"],[1,"unmatched-tag",409,2,"</div>"]]
+window.data=[["lonely-bracket",113,20,"lonely \"[\"","[["],["lonely-bracket",113,27,"lonely \"]\"","]]"],["no-ignored",113,17,"containing invalid attribute","|| [[君主立憲制]] ||"],["illegal-attr",158,21,"illegal attribute name","sortable"],["unmatched-tag",409,2,"unmatched closing tag","</div>"]]

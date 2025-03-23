@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",71,4,"useless fragment",":我們來了 (第一季)#收視率"]]
+window.data=[["no-ignored",71,4,"useless fragment",":我們來了 (第一季)#收視率"],["no-ignored",74,4,"useless fragment",":我們來了 (第二季)#收視率"]]

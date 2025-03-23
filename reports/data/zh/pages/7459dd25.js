@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",135,3,"直播互動遊戲"]]
+window.data=[["no-ignored",135,3,"containing invalid attribute","直播互動遊戲"]]

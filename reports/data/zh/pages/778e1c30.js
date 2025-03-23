@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",427,2,"[[Category:1927年日本建立]]"]]
+window.data=[["no-duplicate",427,2,"duplicated category","[[Category:1927年日本建立]]"],["no-duplicate",443,2,"duplicated category","[[Category:1927年日本建立]]"],["no-duplicate",433,2,"duplicated category","[[Category:東急電鐵轉乘車站]]"],["no-duplicate",441,2,"duplicated category","[[Category:東急電鐵轉乘車站]]"]]

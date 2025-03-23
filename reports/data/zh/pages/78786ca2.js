@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-http",69,35,"http://"],[1,"no-ignored",45,50," \n =\"StatOperator\""]]
+window.data=[["no-ignored",45,50,"containing invalid attribute"," \n =\"StatOperator\""],["lonely-http",69,35,"lonely \"http://\"","http://"],["lonely-http",69,98,"lonely \"https://\"","https://"],["lonely-http",106,73,"lonely \"RFC\"","RFC"]]

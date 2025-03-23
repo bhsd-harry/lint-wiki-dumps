@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",230,5,"duplicated border attribute","border=\"1\""]]
+window.data=[["no-duplicate",230,5,"duplicated border attribute","border=\"1\""],["no-duplicate",230,34,"duplicated border attribute","border=\"2\""],["no-duplicate",230,17,"duplicated cellpadding attribute","cellpadding=\"3\""],["no-duplicate",230,46,"duplicated cellpadding attribute","cellpadding=\"4\""]]

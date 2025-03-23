@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3,"image = Picture-Zhong Lin Wang.jpg\n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter","image = Picture-Zhong Lin Wang.jpg\n "],["no-duplicate",12,3,"duplicated parameter","image ="]]

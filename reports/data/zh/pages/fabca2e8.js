@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",78,2,"[[Category:第八届最高苏维埃联盟院代表]]"]]
+window.data=[["no-duplicate",78,2,"duplicated category","[[Category:第八届最高苏维埃联盟院代表]]"],["no-duplicate",80,2,"duplicated category","[[Category:第八届最高苏维埃联盟院代表]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",170,73,"[[探索頻道]]"]]
+window.data=[["nested-link",170,73,"internal link in an external link","[[探索頻道]]"],["nested-link",171,117,"internal link in an external link","[[上海外语频道|ICS]]"]]

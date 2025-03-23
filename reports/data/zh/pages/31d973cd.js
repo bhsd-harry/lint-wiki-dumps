@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",92,122,"[[Greater Astoria Historical Society]]"]]
+window.data=[["nested-link",92,122,"internal link in an external link","[[Greater Astoria Historical Society]]"]]

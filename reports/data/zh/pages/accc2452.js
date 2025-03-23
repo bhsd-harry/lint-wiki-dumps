@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",712,16,"'"],[1,"no-ignored",920,50,"  ;style=font-size:90%; "]]
+window.data=[["lonely-apos",712,16,"lonely \"'\"","'"],["no-ignored",920,50,"containing invalid attribute","  ;style=font-size:90%; "]]

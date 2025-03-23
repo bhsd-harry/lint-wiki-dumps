@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",43,33,"rihgt"]]
+window.data=[["no-duplicate",43,33,"duplicated image caption parameter","rihgt"],["no-duplicate",43,45,"duplicated image caption parameter","[[米海洛·卜平]]的普利策奖证书<br />（由哥伦比亚大学毕业证书回收制成）"]]

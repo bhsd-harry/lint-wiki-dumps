@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",835,360,"}}"],[2,"no-duplicate",172,39,"Right"]]
+window.data=[["no-duplicate",172,39,"duplicated image caption parameter","Right"],["no-duplicate",172,45,"duplicated image caption parameter","LE SSERAFIM的字谜解释。"],["lonely-bracket",835,360,"lonely \"}\"","}}"]]

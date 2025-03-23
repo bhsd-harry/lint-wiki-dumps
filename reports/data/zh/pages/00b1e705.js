@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",28,2,"[[Category:迪士尼]]"]]
+window.data=[["no-duplicate",28,2,"duplicated category","[[Category:迪士尼]]"],["no-duplicate",32,2,"duplicated category","[[Category:迪士尼]]"],["no-duplicate",29,2,"duplicated category","[[Category:兄弟姐妹题材作品]]"],["no-duplicate",33,2,"duplicated category","[[Category:兄弟姐妹题材作品]]"]]

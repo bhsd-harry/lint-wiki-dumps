@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",349,4038,"publisher=IHS Jane's 360"]]
+window.data=[["no-duplicate",349,4038,"duplicated parameter","publisher=IHS Jane's 360"],["no-duplicate",349,4063,"duplicated parameter","publisher=www.janes.com"]]

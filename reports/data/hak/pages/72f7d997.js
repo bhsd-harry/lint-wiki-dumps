@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,30,"duplicated image caption parameter","替代文字"]]
+window.data=[["no-duplicate",3,30,"duplicated image caption parameter","替代文字"],["no-duplicate",3,48,"duplicated image caption parameter","{{PAGENAME}} Khì-chì"]]

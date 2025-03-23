@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",86,25,"thumb"],[2,"no-duplicate",86,31,"Bhaisajyaguru"]]
+window.data=[["invalid-gallery",86,25,"invalid image parameter","thumb"],["no-duplicate",86,31,"duplicated image caption parameter","Bhaisajyaguru"],["no-duplicate",86,45,"duplicated image caption parameter","[[清朝]]画风的[[藥師佛]]，载于《[[藥師琉璃光如來本願功德經]]》扉页"]]

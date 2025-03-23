@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",58,2,"[[Category:下級勳位爵士]]"]]
+window.data=[["no-duplicate",58,2,"duplicated category","[[Category:下級勳位爵士]]"],["no-duplicate",63,2,"duplicated category","[[Category:下級勳位爵士]]"]]

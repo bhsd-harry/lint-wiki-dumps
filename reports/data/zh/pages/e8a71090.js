@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",342,32,"width = 300px"]]
+window.data=[["no-duplicate",342,32,"duplicated image caption parameter","width = 300px"],["no-duplicate",342,57,"duplicated image caption parameter","在勢壘左邊的粒子沒有足夠能量越過勢壘。但是，它可以量子穿隧到勢壘右邊。"]]

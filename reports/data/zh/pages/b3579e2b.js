@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",163,3,"{{"],[2,"no-duplicate",685,24,"style=\"width:95%;\""],[1,"no-ignored",163,3,"{{link-yue"]]
+window.data=[["lonely-bracket",163,3,"lonely \"{\"","{{"],["no-ignored",163,3,"containing invalid attribute","{{link-yue"],["no-duplicate",685,24,"duplicated style attribute","style=\"width:95%;\""],["no-duplicate",685,44,"duplicated style attribute","style=\"font-size:90%;\""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,33,"哥白尼陨击坑边缘上小陨坑里的冲沟，火星勘测轨道飞行器背景相机拍摄。注：这是前一幅哥白尼陨击坑东侧边缘图像的放大版。File:Wikicopernicuschannels.jpg"]]
+window.data=[["no-duplicate",29,33,"duplicated image caption parameter","哥白尼陨击坑边缘上小陨坑里的冲沟，火星勘测轨道飞行器背景相机拍摄。注：这是前一幅哥白尼陨击坑东侧边缘图像的放大版。File:Wikicopernicuschannels.jpg"],["no-duplicate",29,122,"duplicated image caption parameter","C背景相机显示的哥白尼陨击坑底部的一系列通道。"]]

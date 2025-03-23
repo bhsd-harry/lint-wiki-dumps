@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",234,2,"[[Category:图像压缩]]"]]
+window.data=[["no-duplicate",234,2,"duplicated category","[[Category:图像压缩]]"],["no-duplicate",240,2,"duplicated category","[[Category:图像压缩]]"],["no-duplicate",235,2,"duplicated category","[[Category:公開格式]]"],["no-duplicate",241,2,"duplicated category","[[Category:公開格式]]"],["no-duplicate",237,2,"duplicated category","[[Category:图形标准]]"],["no-duplicate",243,2,"duplicated category","[[Category:图形标准]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,20,"Thumb"]]
+window.data=[["no-duplicate",3,20,"duplicated image caption parameter","Thumb"],["no-duplicate",3,38,"duplicated image caption parameter","威廉·克理"]]

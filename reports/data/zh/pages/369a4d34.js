@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",52,56,"機場"]]
+window.data=[["no-duplicate",52,56,"duplicated image caption parameter","機場"],["no-duplicate",52,59,"duplicated image caption parameter","ait="]]

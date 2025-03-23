@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,624,"url=https://www.hk01.com/article/929177 "]]
+window.data=[["no-duplicate",16,624,"duplicated parameter","url=https://www.hk01.com/article/929177 "],["no-duplicate",16,682,"duplicated parameter","url=https://www.hk01.com/%E7%AA%81%E7%99%BC/929177/%E5%9C%8B%E5%AE%89%E8%99%95%E6%8B%9810%E4%BA%BA-%E6%B6%89612%E5%9F%BA%E9%87%91%E5%92%8C-%E5%9C%8B%E"]]

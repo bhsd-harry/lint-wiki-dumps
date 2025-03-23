@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",53,1," * 总合[[商业|商务]]学科\n * 儿童学科<ref group=\"注\"  name=\"儿童学科\"/>\n * 健康福利学科"]]
+window.data=[["fostered-content",53,1,"content to be moved out from the table"," * 总合[[商业|商务]]学科\n * 儿童学科<ref group=\"注\"  name=\"儿童学科\"/>\n * 健康福利学科"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,44,"widthpx"]]
+window.data=[["no-duplicate",9,44,"duplicated image caption parameter","widthpx"],["no-duplicate",9,52,"duplicated image caption parameter","与传统开发方法那种大规模的、不频繁的发布（通常以“季度”或“年”为单位）相比，敏捷方法大大提升了发布频率（通常以“天”或“周”为单位）"]]

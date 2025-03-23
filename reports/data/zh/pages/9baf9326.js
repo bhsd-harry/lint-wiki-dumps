@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3,"order1 = \n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter","order1 = \n "],["no-duplicate",16,3,"duplicated parameter"," order1       = {{flagicon|France}} 第8任[[法國總統]]\n "]]

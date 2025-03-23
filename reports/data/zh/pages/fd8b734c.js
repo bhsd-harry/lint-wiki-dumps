@@ -1,1 +1,1 @@
-window.data=[[3,"nested-link",122,67,"[[Tim Berners-Lee]]"]]
+window.data=[["nested-link",122,67,"internal link in an external link","[[Tim Berners-Lee]]"],["nested-link",122,94,"internal link in an external link","[[TED大会]]"],["nested-link",123,105,"internal link in an external link","[[Tim Berners-Lee]]"]]

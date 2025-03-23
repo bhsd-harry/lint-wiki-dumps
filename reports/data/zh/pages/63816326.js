@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",96,14,"http://itpro.nikkeibp.co.jp/article/COLUMN/20090916/337359/"]]
+window.data=[["no-ignored",96,14,"invalid content in <references>","http://itpro.nikkeibp.co.jp/article/COLUMN/20090916/337359/"]]

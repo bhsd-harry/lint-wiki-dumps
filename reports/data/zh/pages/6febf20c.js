@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",106,2,"[[分類:前社會主義國家]]"]]
+window.data=[["no-duplicate",106,2,"duplicated category","[[分類:前社會主義國家]]"],["no-duplicate",107,2,"duplicated category","[[分類:前社會主義國家]]"]]

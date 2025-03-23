@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",86,488,"newspaper=中國檔案報"]]
+window.data=[["no-duplicate",86,488,"duplicated parameter","newspaper=中國檔案報"],["no-duplicate",86,519,"duplicated parameter","newspaper=《中国档案报》\n "]]

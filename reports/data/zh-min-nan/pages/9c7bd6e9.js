@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",87,149,"lonely \"]\"","]]"],[2,"no-duplicate",104,3,"duplicated align attribute","align=center"]]
+window.data=[["lonely-bracket",87,149,"lonely \"]\"","]]"],["no-duplicate",104,3,"duplicated align attribute","align=center"],["no-duplicate",104,44,"duplicated align attribute","align=\"center\""]]

@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",280,72,"Platt"],[2,"lonely-bracket",280,66,"[["],[2,"no-ignored",280,66,"[[Ben "]]
+window.data=[["lonely-bracket",280,66,"lonely \"[\"","[["],["illegal-attr",280,72,"illegal attribute name","Platt"],["lonely-bracket",280,85,"lonely \"]\"","]]"],["no-ignored",280,66,"containing invalid attribute","[[Ben "],["no-ignored",280,77,"containing invalid attribute"," (actor)]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-ignored",71,1," File:|較複雜的路障由[[特別戰術小隊]]處理"]]
+window.data=[["no-ignored",71,1,"invalid content in <gallery>"," File:|較複雜的路障由[[特別戰術小隊]]處理"],["no-ignored",72,1,"invalid content in <gallery>"," File:|市民只能在[[遠東金融中心]]的大快活快餐店以近距離目擊清場進度"],["no-ignored",73,1,"invalid content in <gallery>"," File:|[[香港佔領區]]的遮打自修室於三分鐘內遭電鋸瓦解"],["no-ignored",74,1,"invalid content in <gallery>"," File:|多把依燈柱而建的大黃傘，在警員合力下被拉扯破壞"]]

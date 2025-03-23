@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3," borough         = {{flag|Brandenburg}}{{link-de|舍讷费尔德|Schönefeld}}\n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter"," borough         = {{flag|Brandenburg}}{{link-de|舍讷费尔德|Schönefeld}}\n "],["no-duplicate",14,3,"duplicated parameter"," borough         = \n "]]

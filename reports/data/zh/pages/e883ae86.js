@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",129,4,"|style=\"height: 30px;\"  |二代目長崎一家    "]]
+window.data=[["no-ignored",129,4,"containing invalid attribute","|style=\"height: 30px;\"  |二代目長崎一家    "]]

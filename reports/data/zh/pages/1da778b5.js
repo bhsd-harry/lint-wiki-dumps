@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3," status_system = IUCN3.1\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," status_system = IUCN3.1\n "],["no-duplicate",11,3,"duplicated parameter"," status_system = [[IUCN Red List of Threatened Species|IUCN4]] \n "]]

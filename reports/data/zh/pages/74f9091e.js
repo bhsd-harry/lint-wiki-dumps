@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",180,4,"Magica"],[1,"lonely-bracket",180,18,"{{"],[1,"no-ignored",180,10," Quartet{{#tag:ref"]]
+window.data=[["invalid-css",90,41,"{ expected",";"],["invalid-css",97,41,"{ expected",";"],["invalid-css",104,41,"{ expected",";"],["invalid-css",111,41,"{ expected",";"],["illegal-attr",180,4,"illegal attribute name","Magica"],["lonely-bracket",180,18,"lonely \"{\"","{{"],["no-ignored",180,10,"containing invalid attribute"," Quartet{{#tag:ref"]]

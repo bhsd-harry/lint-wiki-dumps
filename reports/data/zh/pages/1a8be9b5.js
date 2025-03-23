@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",89,2,"[[Category:20世紀古典音樂作曲家]]"]]
+window.data=[["no-duplicate",89,2,"duplicated category","[[Category:20世紀古典音樂作曲家]]"],["no-duplicate",96,2,"duplicated category","[[Category:20世紀古典音樂作曲家]]"],["no-duplicate",95,2,"duplicated category","[[Category:藝術與文學司令勳章得主]]"],["no-duplicate",97,2,"duplicated category","[[Category:藝術與文學司令勳章得主]]"]]

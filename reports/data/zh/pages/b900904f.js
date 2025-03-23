@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",153,3,"a"],[1,"no-ignored",20,18," \"black\"; "]]
+window.data=[["invalid-css",20,18,"property value expected",""],["no-ignored",20,18,"containing invalid attribute"," \"black\"; "],["illegal-attr",153,3,"illegal attribute name","a"],["illegal-attr",153,5,"illegal attribute name","lign"]]

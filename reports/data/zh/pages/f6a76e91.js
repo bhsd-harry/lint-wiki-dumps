@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,47,"thumbtime=7"]]
+window.data=[["no-duplicate",35,47,"duplicated image caption parameter","thumbtime=7"],["no-duplicate",35,75,"duplicated image caption parameter","在电影《[[意亂情迷|爱德华大夫]]》（1945年）中，希区柯克客串的角色正走出电梯。<br /><small>《爱德华大夫》的原始[[预告片]]。</small>"]]

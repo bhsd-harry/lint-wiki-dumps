@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,2,"duplicated category","[[Category:神話生物]]"]]
+window.data=[["no-duplicate",65,2,"duplicated category","[[Category:神話生物]]"],["no-duplicate",68,2,"duplicated category","[[Category:神話生物]]"]]

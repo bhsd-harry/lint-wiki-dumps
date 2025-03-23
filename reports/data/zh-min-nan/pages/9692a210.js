@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,24,"duplicated image caption parameter","мини"]]
+window.data=[["no-duplicate",9,24,"duplicated image caption parameter","мини"],["no-duplicate",9,29,"duplicated image caption parameter","Автобус совершил наезд на столб. Несмотря на то, что деятельность по передаче электроэнергии — это тоже источник повышенной опасности, в данном случае"]]

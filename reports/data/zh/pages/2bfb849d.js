@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",262,1," }\n\n === R1SE組合單曲 ===\n {{For|R1SE組合作品|R1SE#音樂作品}}"],[1,"unclosed-table",56,2,"{|"]]
+window.data=[["fostered-content",262,1,"content to be moved out from the table"," }\n\n === R1SE組合單曲 ===\n {{For|R1SE組合作品|R1SE#音樂作品}}"],["unclosed-table",56,2,"unclosed table","{|"]]

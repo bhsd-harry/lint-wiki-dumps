@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,33,"duplicated image caption parameter","陶"]]
+window.data=[["no-duplicate",2,33,"duplicated image caption parameter","陶"],["no-duplicate",2,35,"duplicated image caption parameter","鬲"]]

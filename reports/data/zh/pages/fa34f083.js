@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",32,58,"thumb"]]
+window.data=[["no-duplicate",32,58,"duplicated image thumbnail parameter","thumb"],["no-duplicate",32,109,"duplicated image thumbnail parameter","thumb"],["no-duplicate",32,64,"duplicated image caption parameter","Westlake Institution for Advanced Study 2020"],["no-duplicate",32,115,"duplicated image caption parameter","[[云栖小镇]]浙江西湖高等研究院院门"]]

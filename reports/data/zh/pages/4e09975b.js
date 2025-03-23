@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",54,2,"[[Category:中華民國海軍軍官學校校友]]"]]
+window.data=[["no-duplicate",54,2,"duplicated category","[[Category:中華民國海軍軍官學校校友]]"],["no-duplicate",57,2,"duplicated category","[[Category:中華民國海軍軍官學校校友]]"],["no-duplicate",56,2,"duplicated category","[[Category:中華民國海軍少將]]"],["no-duplicate",58,2,"duplicated category","[[Category:中華民國海軍少將]]"]]

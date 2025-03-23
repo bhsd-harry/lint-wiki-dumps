@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",101,3," <hspace "]]
+window.data=[["no-ignored",101,3,"containing invalid attribute"," <hspace "],["no-ignored",112,3,"containing invalid attribute"," <hspace "]]

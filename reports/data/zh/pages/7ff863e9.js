@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",27,2,"[[Category:中医典籍]]"]]
+window.data=[["no-duplicate",27,2,"duplicated category","[[Category:中医典籍]]"],["no-duplicate",30,2,"duplicated category","[[Category:中医典籍]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",31,51,"{{Largethumb}}"]]
+window.data=[["no-duplicate",31,51,"duplicated image caption parameter","{{Largethumb}}"],["no-duplicate",31,66,"duplicated image caption parameter","1900年為[[保尔·魏尔伦]]一首詩繪製的插畫"]]

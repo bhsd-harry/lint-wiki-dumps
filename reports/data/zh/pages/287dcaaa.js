@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",79,2,"[[Category:苏共中央高级党校毕业生]]"]]
+window.data=[["no-duplicate",79,2,"duplicated category","[[Category:苏共中央高级党校毕业生]]"],["no-duplicate",83,2,"duplicated category","[[Category:苏共中央高级党校毕业生]]"]]

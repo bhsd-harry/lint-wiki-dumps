@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,27,"caption=\"\""]]
+window.data=[["no-duplicate",18,27,"duplicated caption attribute","caption=\"\""],["no-duplicate",18,72,"duplicated caption attribute","caption=\"设计与操作\""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",60,4,"<section begin=Films />"],[2,"parsing-order",60,4,"<section begin=Films />"],[1,"unmatched-tag",236,30,"</table>"]]
+window.data=[["parsing-order",60,4,"extension tag in HTML tag attributes","<section begin=Films />"],["no-ignored",60,4,"containing invalid attribute","<section begin=Films />"],["parsing-order",106,4,"extension tag in HTML tag attributes","<section end=Films />"],["no-ignored",106,4,"containing invalid attribute","<section end=Films />"],["unmatched-tag",236,30,"unmatched closing tag","</table>"]]

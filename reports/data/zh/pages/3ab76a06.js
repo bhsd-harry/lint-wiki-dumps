@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",44,2,"[[Category:2010年臺灣電影作品]]"]]
+window.data=[["no-duplicate",44,2,"duplicated category","[[Category:2010年臺灣電影作品]]"],["no-duplicate",45,2,"duplicated category","[[Category:2010年臺灣電影作品]]"]]

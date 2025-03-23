@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",15,3," orig_lang_code = la\n "]]
+window.data=[["no-duplicate",15,3,"duplicated parameter"," orig_lang_code = la\n "],["no-duplicate",20,3,"duplicated parameter"," orig_lang_code = en\n "],["no-duplicate",19,3,"duplicated parameter"," native_wikisource = Disputatio pro declaratione virtutis indulgentiarum\n "],["no-duplicate",21,3,"duplicated parameter"," native_wikisource = Ninety-five Theses\n "]]

@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",148,1," -"],[1,"lonely-http",169,17,"ISBN"]]
+window.data=[["fostered-content",148,1,"content to be moved out from the table"," -"],["lonely-http",169,17,"lonely \"ISBN\"","ISBN"]]

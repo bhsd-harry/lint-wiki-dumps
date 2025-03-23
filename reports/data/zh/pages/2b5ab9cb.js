@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",79,2,"[[Category:泰国政党]]"]]
+window.data=[["no-duplicate",79,2,"duplicated category","[[Category:泰国政党]]"],["no-duplicate",82,2,"duplicated category","[[Category:泰国政党]]"]]

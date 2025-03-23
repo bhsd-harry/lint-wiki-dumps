@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",24,3,"alma_mater       = \n "]]
+window.data=[["no-duplicate",24,3,"duplicated parameter","alma_mater       = \n "],["no-duplicate",28,3,"duplicated parameter","alma_mater = [[五旬節聖潔會永光書院]]\n "]]

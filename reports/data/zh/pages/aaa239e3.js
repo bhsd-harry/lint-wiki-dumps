@@ -1,1 +1,1 @@
-window.data=[[2,"parsing-order",6,195,"<br />"]]
+window.data=[["parsing-order",6,195,"HTML tag in table attributes","<br />"],["parsing-order",6,274,"extension tag in HTML tag attributes","<ref name=BCA-2019>{{cite magazine |url= https://aviationweek.com/site-files/aviationweek.com/files/datasheets/gated/BCA_201906.pdf |title= Purchase P"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",46,2,"[[Category:杨浦区教育]]"]]
+window.data=[["no-duplicate",46,2,"duplicated category","[[Category:杨浦区教育]]"],["no-duplicate",47,2,"duplicated category","[[Category:杨浦区教育]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,2,"[[Category:文化勳章獲得者 (日本)]]"]]
+window.data=[["no-duplicate",15,2,"duplicated category","[[Category:文化勳章獲得者 (日本)]]"],["no-duplicate",24,2,"duplicated category","[[Category:文化勳章獲得者 (日本)]]"]]

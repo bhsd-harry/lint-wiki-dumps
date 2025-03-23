@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",63,43,"thumb"],[2,"no-duplicate",5,46,"250 px"]]
+window.data=[["no-duplicate",5,46,"duplicated image width parameter","250 px"],["no-duplicate",5,60,"duplicated image width parameter","250px"],["invalid-gallery",63,43,"invalid image parameter","thumb"]]

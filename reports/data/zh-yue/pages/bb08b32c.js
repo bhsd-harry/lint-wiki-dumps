@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",6,22,"illegal attribute name","new"],[1,"no-ignored",6,37,"containing invalid attribute"," wheel?"]]
+window.data=[["illegal-attr",6,22,"illegal attribute name","new"],["illegal-attr",6,26,"illegal attribute name","ecoca"],["illegal-attr",6,32,"illegal attribute name","click"],["no-ignored",6,37,"containing invalid attribute"," wheel?"]]

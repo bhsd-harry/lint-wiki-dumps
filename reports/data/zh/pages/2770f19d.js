@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",62,2,"[[Category:中壢吳氏]]"]]
+window.data=[["no-duplicate",62,2,"duplicated category","[[Category:中壢吳氏]]"],["no-duplicate",73,2,"duplicated category","[[Category:中壢吳氏|Hong鴻]]"]]

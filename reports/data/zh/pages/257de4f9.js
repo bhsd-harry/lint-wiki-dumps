@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,80,"332nd Air Expeditionary Wing Insignia"]]
+window.data=[["no-duplicate",20,80,"duplicated image caption parameter","332nd Air Expeditionary Wing Insignia"],["no-duplicate",20,118,"duplicated image caption parameter","Center"]]

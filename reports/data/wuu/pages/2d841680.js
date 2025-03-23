@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,41,"duplicated image caption parameter","200p"]]
+window.data=[["no-duplicate",1,41,"duplicated image caption parameter","200p"],["no-duplicate",1,52,"duplicated image caption parameter","阪急京都本线"]]

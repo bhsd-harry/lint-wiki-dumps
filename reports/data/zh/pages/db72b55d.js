@@ -1,1 +1,1 @@
-window.data=[[5,"illegal-attr",215,10,"4girls"],[3,"no-ignored",215,3,"『2days "]]
+window.data=[["illegal-attr",215,10,"illegal attribute name","4girls"],["no-ignored",215,3,"containing invalid attribute","『2days "],["illegal-attr",571,8,"illegal attribute name","RA"],["illegal-attr",571,11,"illegal attribute name","RI"],["illegal-attr",571,14,"illegal attribute name","RU"],["illegal-attr",571,17,"illegal attribute name","RE"],["no-ignored",571,3,"containing invalid attribute","《朋友的 "],["no-ignored",571,19,"containing invalid attribute"," RO》"]]

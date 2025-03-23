@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,210,"title=Пиросманашвили"]]
+window.data=[["no-duplicate",2,210,"duplicated parameter","title=Пиросманашвили"],["no-duplicate",2,482,"duplicated parameter","title=ПИРОСМАНАШВИЛИ НИКО • Большая российская энциклопедия - электронная версия "]]

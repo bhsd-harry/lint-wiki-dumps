@@ -1,1 +1,1 @@
-window.data=[[2,"invalid-gallery",56,66,"thumb"],[1,"lonely-apos",40,103,"'"]]
+window.data=[["lonely-apos",40,103,"lonely \"'\"","'"],["invalid-gallery",56,66,"invalid image parameter","thumb"],["invalid-gallery",56,72,"invalid image parameter","left"]]

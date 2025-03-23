@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",83,2,"[[Category:美国工业事故]]"],[1,"unmatched-tag",63,977,"</blockquote>"]]
+window.data=[["unmatched-tag",63,977,"unmatched closing tag","</blockquote>"],["no-duplicate",83,2,"duplicated category","[[Category:美国工业事故]]"],["no-duplicate",95,2,"duplicated category","[[Category:美国工业事故]]"],["no-duplicate",84,2,"duplicated category","[[Category:1919年1月]]"],["no-duplicate",91,2,"duplicated category","[[Category:1919年1月]]"]]

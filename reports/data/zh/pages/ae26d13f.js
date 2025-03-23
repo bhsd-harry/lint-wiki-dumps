@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",117,5,"span"],[1,"tag-like",77,345,"</ref"]]
+window.data=[["tag-like",77,345,"lonely \"<\"","</ref"],["illegal-attr",117,5,"illegal attribute name","span"]]

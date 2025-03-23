@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",115,1397,"name=EdmontonJournal20071118/<ref"],[1,"tag-like",115,1426,"<ref"]]
+window.data=[["tag-like",115,1426,"lonely \"<\"","<ref"],["no-duplicate",115,1397,"duplicated name attribute","name=EdmontonJournal20071118/<ref"],["no-duplicate",115,1431,"duplicated name attribute","name=NunatsiaqNews"]]

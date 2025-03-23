@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",57,2,"[[Category:罗马尼亚历史政权]]"]]
+window.data=[["no-duplicate",57,2,"duplicated category","[[Category:罗马尼亚历史政权]]"],["no-duplicate",60,2,"duplicated category","[[Category:罗马尼亚历史政权]]"]]

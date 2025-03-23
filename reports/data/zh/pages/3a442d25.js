@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",48,7,"}"],[2,"no-duplicate",61,4,"class= border=\"0\""]]
+window.data=[["lonely-bracket",48,7,"lonely \"}\"","}"],["no-duplicate",61,4,"duplicated class attribute","class= border=\"0\""],["no-duplicate",61,23,"duplicated class attribute","class=\"wikitable\""]]

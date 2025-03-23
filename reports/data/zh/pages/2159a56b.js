@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",28,648,"work=www.xinhuanet.com"]]
+window.data=[["no-duplicate",28,648,"duplicated parameter","work=www.xinhuanet.com"],["no-duplicate",28,705,"duplicated parameter","work=[[新华网]]"]]

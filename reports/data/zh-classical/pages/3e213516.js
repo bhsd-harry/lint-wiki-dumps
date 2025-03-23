@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",23,57,"duplicated image caption parameter","替代文字"]]
+window.data=[["no-duplicate",23,57,"duplicated image caption parameter","替代文字"],["no-duplicate",23,67,"duplicated image caption parameter","十八丗紀故雅學者'''奧古斯特'''，作《荷馬書錄》。"]]

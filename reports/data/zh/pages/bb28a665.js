@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",311,350,"}"],[4,"no-duplicate",73,85,"date=2015-06-06"]]
+window.data=[["no-duplicate",73,85,"duplicated parameter","date=2015-06-06"],["no-duplicate",73,216,"duplicated parameter","date=2015-06-06"],["no-duplicate",73,254,"duplicated parameter","language=ja"],["no-duplicate",73,409,"duplicated parameter","language=ja"],["lonely-bracket",311,350,"lonely \"}\"","}"]]

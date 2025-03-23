@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",38,22,"</nowiki>"],[2,"tag-like",38,22,"</nowiki"]]
+window.data=[["tag-like",38,22,"lonely \"<\"","</nowiki"],["no-ignored",38,22,"containing invalid attribute","</nowiki>"],["tag-like",92,22,"lonely \"<\"","</nowiki"],["no-ignored",92,22,"containing invalid attribute","</nowiki>"]]

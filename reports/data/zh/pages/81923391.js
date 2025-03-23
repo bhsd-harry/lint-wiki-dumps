@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",499,17,"style=\"text-align: center;\""]]
+window.data=[["no-duplicate",499,17,"duplicated style attribute","style=\"text-align: center;\""],["no-duplicate",499,44,"duplicated style attribute","style=\"background:linear-gradient(#00BFFF, #cfebfc)\""]]

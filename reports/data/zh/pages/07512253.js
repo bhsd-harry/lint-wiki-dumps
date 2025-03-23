@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",40,63,"280px"]]
+window.data=[["no-duplicate",40,63,"duplicated image width parameter","280px"],["no-duplicate",40,81,"duplicated image width parameter","230px"],["no-duplicate",40,69,"duplicated image caption parameter","經國管理暨健康學院校徽"],["no-duplicate",40,93,"duplicated image caption parameter","2002年—2023年8月經國學院時期校徽"]]

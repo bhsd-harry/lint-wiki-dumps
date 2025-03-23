@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",250,1,"\n === 網路劇 ==="],[2,"lonely-bracket",36,1062,"}"],[2,"unclosed-table",184,2,"{|"]]
+window.data=[["lonely-bracket",36,1062,"lonely \"}\"","}"],["fostered-content",250,1,"content to be moved out from the table","\n === 網路劇 ==="],["unclosed-table",184,2,"unclosed table","{|"],["fostered-content",692,1,"content to be moved out from the table","\n === 主持 ==="],["unclosed-table",649,2,"unclosed table","{|"],["lonely-bracket",1108,112,"lonely \"[\"","["]]

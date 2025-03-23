@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",33,54,"name=\"林欣誼\""],[1,"no-ignored",33,64,"/，擔任料理教師講師的主要教授對像是營養師，還介紹日本人很少拿來做食物的豬內臟料理等等<ref "],[1,"tag-like",33,107,"<ref"]]
+window.data=[["tag-like",33,107,"lonely \"<\"","<ref"],["no-ignored",33,64,"containing invalid attribute","/，擔任料理教師講師的主要教授對像是營養師，還介紹日本人很少拿來做食物的豬內臟料理等等<ref "],["no-duplicate",33,54,"duplicated name attribute","name=\"林欣誼\""],["no-duplicate",33,112,"duplicated name attribute","name=\"校友風華\""]]

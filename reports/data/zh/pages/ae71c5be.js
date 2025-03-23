@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",31,2,"[[Category:塞維利亞人]]"]]
+window.data=[["no-duplicate",31,2,"duplicated category","[[Category:塞維利亞人]]"],["no-duplicate",34,2,"duplicated category","[[Category:塞維利亞人]]"]]

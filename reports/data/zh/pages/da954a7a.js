@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",35,43,"thumb"]]
+window.data=[["no-duplicate",35,43,"duplicated image thumbnail parameter","thumb"],["no-duplicate",35,76,"duplicated image thumbnail parameter","thumb"],["no-duplicate",35,49,"duplicated image caption parameter","WulunJuniorHighSchool Gate"],["no-duplicate",35,82,"duplicated image caption parameter","武崙國中校門口的字"]]

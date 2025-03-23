@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",78,4,"style=\"font-weight:bold;\""]]
+window.data=[["no-duplicate",78,4,"duplicated style attribute","style=\"font-weight:bold;\""],["no-duplicate",78,44,"duplicated style attribute","style=\"background: #5E86C1  "],["no-duplicate",100,4,"duplicated style attribute","style=\"font-weight:bold;\""],["no-duplicate",100,44,"duplicated style attribute","style=\"background: #5E86C1 "]]

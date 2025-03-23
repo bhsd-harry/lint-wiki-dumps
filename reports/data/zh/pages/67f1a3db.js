@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",59,36,"Left"]]
+window.data=[["no-duplicate",59,36,"duplicated image caption parameter","Left"],["no-duplicate",59,47,"duplicated image caption parameter","楊振寧故居（[[清華大學西院]]11號）"]]

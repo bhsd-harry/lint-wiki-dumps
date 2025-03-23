@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",277,65,"McCartney's campaign against landmines "]]
+window.data=[["no-duplicate",277,65,"duplicated image caption parameter","McCartney's campaign against landmines "],["no-duplicate",277,282,"duplicated image caption parameter","麦卡特尼2004年在[[布拉格]]"]]

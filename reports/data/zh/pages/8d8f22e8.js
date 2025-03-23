@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,3," native_name        = Llivia<br>Llívia\n "]]
+window.data=[["no-duplicate",7,3,"duplicated parameter"," native_name        = Llivia<br>Llívia\n "],["no-duplicate",10,3,"duplicated parameter"," native_name        = <!-- if different from name -->\n "]]

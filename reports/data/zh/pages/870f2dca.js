@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",60,2,"[[Category:1875年逝世]]"]]
+window.data=[["no-duplicate",60,2,"duplicated category","[[Category:1875年逝世]]"],["no-duplicate",63,2,"duplicated category","[[Category:1875年逝世]]"],["no-duplicate",65,2,"duplicated category","[[Category:俄羅斯帝國藝術學院校友]]"],["no-duplicate",66,2,"duplicated category","[[Category:俄羅斯帝國藝術學院校友]]"]]

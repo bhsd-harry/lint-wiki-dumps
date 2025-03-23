@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",102,2,"[[Category:國立中山大學校友]]"],[1,"unmatched-tag",74,27,"</div>"]]
+window.data=[["unmatched-tag",74,27,"unmatched closing tag","</div>"],["no-duplicate",102,2,"duplicated category","[[Category:國立中山大學校友]]"],["no-duplicate",104,2,"duplicated category","[[Category:國立中山大學校友|C邱]]"]]

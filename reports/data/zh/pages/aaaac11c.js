@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",47,2,"[[Category:后周皇后]]"]]
+window.data=[["no-duplicate",47,2,"duplicated category","[[Category:后周皇后]]"],["no-duplicate",52,2,"duplicated category","[[Category:后周皇后|F]]"]]

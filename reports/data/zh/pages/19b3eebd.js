@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",30,3,"first = \n "]]
+window.data=[["no-duplicate",30,3,"duplicated parameter","first = \n "],["no-duplicate",32,3,"duplicated parameter","first = {{青岛地铁线路名|13}}<br>往[[井冈山路站]]：6:30\n "],["no-duplicate",31,3,"duplicated parameter","last = \n "],["no-duplicate",33,3,"duplicated parameter","last = {{青岛地铁线路名|13}}<br>往[[井冈山路站]]：21:35\n "]]

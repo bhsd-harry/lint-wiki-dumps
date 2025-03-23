@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",141,5,"span"],[4,"no-duplicate",292,26,"{{zh|1=梅州中学正门牌坊}}"]]
+window.data=[["illegal-attr",141,5,"illegal attribute name","span"],["illegal-attr",213,5,"illegal attribute name","span"],["no-duplicate",292,26,"duplicated image caption parameter","{{zh|1=梅州中学正门牌坊}}"],["no-duplicate",292,44,"duplicated image caption parameter","[[梅州中学]]"],["no-duplicate",293,27,"duplicated image caption parameter","{{zh|1=梅州中学正门牌坊}}"],["no-duplicate",293,45,"duplicated image caption parameter","[[嘉应学院]]"]]

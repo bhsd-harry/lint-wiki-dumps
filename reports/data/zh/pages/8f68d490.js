@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",147,2,"[[Category:美國機械工程師]]"]]
+window.data=[["no-duplicate",147,2,"duplicated category","[[Category:美國機械工程師]]"],["no-duplicate",152,2,"duplicated category","[[Category:美國機械工程師]]"],["no-duplicate",149,2,"duplicated category","[[Category:美国国家工程院院士]]"],["no-duplicate",154,2,"duplicated category","[[Category:美国国家工程院院士]]"],["no-duplicate",156,2,"duplicated category","[[Category:密歇根大學教師]]"],["no-duplicate",157,2,"duplicated category","[[Category:密歇根大學教師]]"]]

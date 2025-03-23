@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",64,77,"background:"],[1,"nested-link",809,72,"[[Huffington Post]]"],[2,"no-ignored",64,88," #f9f9f9;"]]
+window.data=[["illegal-attr",64,77,"illegal attribute name","background:"],["no-ignored",64,88,"containing invalid attribute"," #f9f9f9;"],["illegal-attr",571,78,"illegal attribute name","background:"],["no-ignored",571,89,"containing invalid attribute"," #f9f9f9;"],["nested-link",809,72,"internal link in an external link","[[Huffington Post]]"]]

@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",23,37,"duplicated image caption parameter","替代=朝陽科技大學校門"]]
+window.data=[["no-duplicate",23,37,"duplicated image caption parameter","替代=朝陽科技大學校門"],["no-duplicate",23,49,"duplicated image caption parameter","缩略图"],["no-duplicate",23,53,"duplicated image caption parameter","朝陽科技大學校門"]]

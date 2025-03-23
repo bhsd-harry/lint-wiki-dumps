@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3," map_caption = \n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," map_caption = \n "],["no-duplicate",37,3,"duplicated parameter","map_caption = 湄洲島的位置\n "]]

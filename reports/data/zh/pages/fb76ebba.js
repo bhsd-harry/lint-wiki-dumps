@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",6,67," name-\"imdb\""]]
+window.data=[["no-ignored",6,67,"containing invalid attribute"," name-\"imdb\""]]

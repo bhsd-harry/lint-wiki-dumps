@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",267,1," *  韓文音樂錄影帶"],[1,"unclosed-table",265,2,"{|"]]
+window.data=[["invalid-css",28,35,"colon expected","85%"],["invalid-css",42,35,"colon expected","85%"],["invalid-css",58,35,"colon expected","85%"],["invalid-css",72,35,"colon expected","85%"],["invalid-css",121,35,"colon expected","85%"],["invalid-css",143,35,"colon expected","85%"],["fostered-content",267,1,"content to be moved out from the table"," *  韓文音樂錄影帶"],["unclosed-table",265,2,"unclosed table","{|"]]

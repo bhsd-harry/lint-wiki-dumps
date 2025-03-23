@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",24,46,"PalestrinaMuseoPlasticoSantuario"]]
+window.data=[["no-duplicate",24,46,"duplicated image caption parameter","PalestrinaMuseoPlasticoSantuario"],["no-duplicate",24,91,"duplicated image caption parameter","复原图"]]

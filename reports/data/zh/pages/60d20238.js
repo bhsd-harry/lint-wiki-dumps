@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",100,19,"}"],[2,"no-duplicate",79,5,"align=center"]]
+window.data=[["no-duplicate",79,5,"duplicated align attribute","align=center"],["no-duplicate",79,60,"duplicated align attribute","align=middle"],["lonely-bracket",100,19,"lonely \"}\"","}"]]

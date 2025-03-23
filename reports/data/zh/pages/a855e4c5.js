@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,51,"artist=[[鄭宜農]]"]]
+window.data=[["no-duplicate",1,51,"duplicated parameter","artist=[[鄭宜農]]"],["no-duplicate",6,3,"duplicated parameter","artist=鄭宜農"]]

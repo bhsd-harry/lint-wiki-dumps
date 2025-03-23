@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",189,2,"[[Category:英格蘭裔美國人]]"]]
+window.data=[["no-duplicate",189,2,"duplicated category","[[Category:英格蘭裔美國人]]"],["no-duplicate",195,2,"duplicated category","[[Category:英格蘭裔美國人]]"],["no-duplicate",190,2,"duplicated category","[[Category:蘇格蘭裔美國人]]"],["no-duplicate",196,2,"duplicated category","[[Category:蘇格蘭裔美國人]]"],["no-duplicate",191,2,"duplicated category","[[Category:西西里裔美國人]]"],["no-duplicate",197,2,"duplicated category","[[Category:西西里裔美國人]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",213,5,"span"],[2,"no-duplicate",512,2,"[[Category:国家卫生城市]]"]]
+window.data=[["illegal-attr",213,5,"illegal attribute name","span"],["illegal-attr",288,5,"illegal attribute name","span"],["no-duplicate",512,2,"duplicated category","[[Category:国家卫生城市]]"],["no-duplicate",513,2,"duplicated category","[[Category:国家卫生城市|晋]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",50,2,"[[Category:拉韦纳省市镇|M]]"]]
+window.data=[["no-duplicate",50,2,"duplicated category","[[Category:拉韦纳省市镇|M]]"],["no-duplicate",51,2,"duplicated category","[[Category:拉韦纳省市镇]]"]]

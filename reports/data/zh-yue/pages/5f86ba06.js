@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",90,3,"duplicated parameter"," 相關節目 = \n "],[2,"unclosed-table",102,2,"unclosed table","{|"]]
+window.data=[["no-duplicate",90,3,"duplicated parameter"," 相關節目 = \n "],["no-duplicate",93,3,"duplicated parameter"," 相關節目 = {{link-id|Buku Harian Nayla|Buku Harian Nayla}}（印尼版）<br>[[一公升的眼淚 (韓國電視劇)|一公升的眼淚]]（韓國版）\n "],["unclosed-table",102,2,"unclosed table","{|"],["unclosed-table",104,2,"unclosed table","{|"]]

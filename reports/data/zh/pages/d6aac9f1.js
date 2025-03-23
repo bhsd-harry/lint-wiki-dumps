@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",192,2,"[[Category:中国航天科技集团总经理]]"]]
+window.data=[["no-duplicate",192,2,"duplicated category","[[Category:中国航天科技集团总经理]]"],["no-duplicate",195,2,"duplicated category","[[Category:中国航天科技集团总经理]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",121,2,"[[Category:哈萨克斯坦男子网球运动员]]"]]
+window.data=[["no-duplicate",121,2,"duplicated category","[[Category:哈萨克斯坦男子网球运动员]]"],["no-duplicate",123,2,"duplicated category","[[Category:哈萨克斯坦男子网球运动员]]"]]

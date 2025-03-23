@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",104,30,"thumb"]]
+window.data=[["no-duplicate",104,30,"duplicated image thumbnail parameter","thumb"],["no-duplicate",104,36,"duplicated image thumbnail parameter","thumb"],["no-duplicate",141,2,"duplicated category","[[Category:主動防禦系統]]"],["no-duplicate",144,2,"duplicated category","[[Category:主動防禦系統]]"]]

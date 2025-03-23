@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",9,1," 排序先依照目前等級來排列、再來以加盟年分排列"]]
+window.data=[["fostered-content",9,1,"content to be moved out from the table"," 排序先依照目前等級來排列、再來以加盟年分排列"]]

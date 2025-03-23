@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",66,2,"[[Category:印尼群島]]"]]
+window.data=[["no-duplicate",66,2,"duplicated category","[[Category:印尼群島]]"],["no-duplicate",74,2,"duplicated category","[[Category:印尼群島]]"],["no-duplicate",67,2,"duplicated category","[[Category:班达海]]"],["no-duplicate",75,2,"duplicated category","[[Category:班达海]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",96,2,"[[Category:155毫米火炮]]"]]
+window.data=[["no-duplicate",96,2,"duplicated category","[[Category:155毫米火炮]]"],["no-duplicate",99,2,"duplicated category","[[Category:155毫米火炮]]"]]

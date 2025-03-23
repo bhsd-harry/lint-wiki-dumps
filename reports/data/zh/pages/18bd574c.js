@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",323,2,"[[Category:城巴路線|720A]]"]]
+window.data=[["no-duplicate",323,2,"duplicated category","[[Category:城巴路線|720A]]"],["no-duplicate",326,2,"duplicated category","[[Category:城巴路線|720P]]"],["no-duplicate",324,2,"duplicated category","[[Category:香港東區巴士路線|720A]]"],["no-duplicate",327,2,"duplicated category","[[Category:香港東區巴士路線|720P]]"],["no-duplicate",325,2,"duplicated category","[[Category:中西區巴士路線 (香港)|720A]]"],["no-duplicate",328,2,"duplicated category","[[Category:中西區巴士路線 (香港)|720P]]"]]

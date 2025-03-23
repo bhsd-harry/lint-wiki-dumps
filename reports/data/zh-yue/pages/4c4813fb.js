@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,39,"duplicated image caption parameter","Right"]]
+window.data=[["no-duplicate",1,39,"duplicated image caption parameter","Right"],["no-duplicate",1,45,"duplicated image caption parameter","根據五行學說嘅'''肝'''同其他臟腑之間嘅相生相剋關係。"]]

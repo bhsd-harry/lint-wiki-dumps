@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",70,52,"粉斑果鸽"],[1,"unmatched-tag",20,391,"<small>"]]
+window.data=[["unmatched-tag",20,391,"unclosed tag","<small>"],["no-duplicate",70,52,"duplicated image caption parameter","粉斑果鸽"],["no-duplicate",70,57,"duplicated image caption parameter","粉斑果鸽"]]

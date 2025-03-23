@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3," timezone      = [[Central European Time|CET]]\n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter"," timezone      = [[Central European Time|CET]]\n "],["no-duplicate",17,3,"duplicated parameter","timezone=[[欧洲中部时间|CET]]\n "]]

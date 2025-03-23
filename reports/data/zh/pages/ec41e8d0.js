@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",77,2,"[[Category:苏联共产党党员]]"]]
+window.data=[["no-duplicate",77,2,"duplicated category","[[Category:苏联共产党党员]]"],["no-duplicate",83,2,"duplicated category","[[Category:苏联共产党党员]]"]]

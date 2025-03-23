@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",34,2,"[[Category:愛知縣出身人物]]"]]
+window.data=[["no-duplicate",34,2,"duplicated category","[[Category:愛知縣出身人物]]"],["no-duplicate",41,2,"duplicated category","[[Category:愛知縣出身人物]]"]]

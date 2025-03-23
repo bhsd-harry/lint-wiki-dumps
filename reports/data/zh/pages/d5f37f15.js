@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",887,110,"{{"],[1,"no-ignored",830,14,"  \"style=\"background: #ffc\""]]
+window.data=[["no-ignored",830,14,"containing invalid attribute","  \"style=\"background: #ffc\""],["lonely-bracket",887,110,"lonely \"{\"","{{"],["lonely-bracket",887,127,"lonely \"}\"","}}"]]

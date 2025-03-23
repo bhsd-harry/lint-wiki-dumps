@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",36,52,"Shenyang Changqing Bridge 201807"]]
+window.data=[["no-duplicate",36,52,"duplicated image caption parameter","Shenyang Changqing Bridge 201807"],["no-duplicate",36,85,"duplicated image caption parameter","扩建中的沈阳长青桥（2018年7月）"]]

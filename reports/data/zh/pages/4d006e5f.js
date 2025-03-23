@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",55,40,"Right"]]
+window.data=[["no-duplicate",55,40,"duplicated image caption parameter","Right"],["no-duplicate",55,52,"duplicated image caption parameter","2014年12月辛賈爾攻勢"],["no-duplicate",62,68,"duplicated image caption parameter","Right"],["no-duplicate",62,80,"duplicated image caption parameter","2015年11月的[[2015年阿郝爾攻勢|阿郝爾攻勢]]與辛賈爾攻勢"]]

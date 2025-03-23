@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",26,3," highlights   = <!-- 生涯焦點與獲得獎項 -->\n "]]
+window.data=[["no-duplicate",26,3,"duplicated parameter"," highlights   = <!-- 生涯焦點與獲得獎項 -->\n "],["no-duplicate",39,3,"duplicated parameter"," highlights  = \n * [[NBA最佳防守陣容|NBA最佳防守陣容第二隊]]（{{nbay|1968|end}}）\n "]]

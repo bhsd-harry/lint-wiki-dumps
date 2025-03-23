@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",242,3,"3下一熱帶氣旋=[[颱風雪麗_(1968年)|颱風雪麗]]\n "]]
+window.data=[["no-duplicate",242,3,"duplicated parameter","3下一熱帶氣旋=[[颱風雪麗_(1968年)|颱風雪麗]]\n "],["no-duplicate",243,3,"duplicated parameter","3下一熱帶氣旋=[[颱風黛蒂_(1964年)|颱風黛蒂]]\n "]]

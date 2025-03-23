@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",12,3,"duplicated parameter","event_end=\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter","event_end=\n "],["no-duplicate",43,3,"duplicated parameter","event_end = 蒙古入侵+亡國\n "],["no-duplicate",48,269,"duplicated parameter","page=10-15 "],["no-duplicate",48,352,"duplicated parameter","page=10-15 "]]

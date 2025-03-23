@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",151,2,"[[Category:敘事者不可靠的作品]]"]]
+window.data=[["no-duplicate",151,2,"duplicated category","[[Category:敘事者不可靠的作品]]"],["no-duplicate",155,2,"duplicated category","[[Category:敘事者不可靠的作品]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",47,3," aircraft_helicopter_cargo = \n "]]
+window.data=[["no-duplicate",47,3,"duplicated parameter"," aircraft_helicopter_cargo = \n "],["no-duplicate",56,3,"duplicated parameter"," aircraft_helicopter_cargo = [[Mi-8]]、[[Mi-17]]\n "]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",81,2,"[[Category:八重山群島歷史]]"]]
+window.data=[["no-duplicate",81,2,"duplicated category","[[Category:八重山群島歷史]]"],["no-duplicate",84,2,"duplicated category","[[Category:八重山群島歷史]]"],["no-duplicate",82,2,"duplicated category","[[Category:在日本的台灣人]]"],["no-duplicate",85,2,"duplicated category","[[Category:在日本的台灣人]]"]]

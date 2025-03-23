@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",150,2,"[[Category:皇家蘇斯達球員]]"]]
+window.data=[["no-duplicate",150,2,"duplicated category","[[Category:皇家蘇斯達球員]]"],["no-duplicate",156,2,"duplicated category","[[Category:皇家蘇斯達球員]]"]]

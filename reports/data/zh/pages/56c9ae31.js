@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",48,2,"[[Category:樹黨黨員]]"]]
+window.data=[["no-duplicate",48,2,"duplicated category","[[Category:樹黨黨員]]"],["no-duplicate",53,2,"duplicated category","[[Category:樹黨黨員|P潘]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",46,7,"}"],[2,"no-duplicate",67,47,"Right"]]
+window.data=[["lonely-bracket",46,7,"lonely \"}\"","}"],["no-duplicate",67,47,"duplicated image caption parameter","Right"],["no-duplicate",67,65,"duplicated image caption parameter","新馬車站事故現場簡圖"]]

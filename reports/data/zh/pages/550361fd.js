@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",188,2,"[[Category:2024年中国网球|杭州网球公开赛]]"]]
+window.data=[["no-duplicate",188,2,"duplicated category","[[Category:2024年中国网球|杭州网球公开赛]]"],["no-duplicate",189,2,"duplicated category","[[Category:2024年中国网球|杭州公开赛]]"]]

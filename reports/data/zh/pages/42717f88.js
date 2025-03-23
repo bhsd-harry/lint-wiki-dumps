@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",155,2,"[[Category:安葬於克里姆林宮紅場墓園者]]"]]
+window.data=[["no-duplicate",155,2,"duplicated category","[[Category:安葬於克里姆林宮紅場墓園者]]"],["no-duplicate",161,2,"duplicated category","[[Category:安葬於克里姆林宮紅場墓園者]]"],["no-duplicate",159,2,"duplicated category","[[Category:效力苏联红军的沙俄军官]]"],["no-duplicate",162,2,"duplicated category","[[Category:效力苏联红军的沙俄军官]]"]]

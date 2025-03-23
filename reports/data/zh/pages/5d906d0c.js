@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",428,49,"[[Syukuro Manabe]], Physics, 2021"]]
+window.data=[["no-duplicate",428,49,"duplicated image caption parameter","[[Syukuro Manabe]], Physics, 2021"],["no-duplicate",428,83,"duplicated image caption parameter","[[真鍋淑郎]]，2021年物理學獎"]]

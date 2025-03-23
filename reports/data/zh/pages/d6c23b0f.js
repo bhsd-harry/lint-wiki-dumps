@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",159,24,"style=\"border-collapse: collapse;; font-size:90%;\""],[1,"no-ignored",83,48,"  \"border-collapse: collapse;; font-size:90%;\""]]
+window.data=[["no-ignored",83,48,"containing invalid attribute","  \"border-collapse: collapse;; font-size:90%;\""],["no-duplicate",159,24,"duplicated style attribute","style=\"border-collapse: collapse;; font-size:90%;\""],["no-duplicate",159,76,"duplicated style attribute","style=\"text-align: center;\""]]

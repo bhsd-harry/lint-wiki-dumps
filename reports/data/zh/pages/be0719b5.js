@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",66,95,"panorama"]]
+window.data=[["no-duplicate",66,95,"duplicated image caption parameter","panorama"],["no-duplicate",66,104,"duplicated image caption parameter","1908年的车站轨道布局"]]

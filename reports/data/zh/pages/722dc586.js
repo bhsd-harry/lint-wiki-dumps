@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",119,119,"[[Plášťovce]]"]]
+window.data=[["nested-link",119,119,"internal link in an external link","[[Plášťovce]]"],["nested-link",119,176,"internal link in an external link","[[Slovakia]]"]]

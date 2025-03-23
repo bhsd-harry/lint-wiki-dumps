@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",49,1," * 保育科"]]
+window.data=[["fostered-content",49,1,"content to be moved out from the table"," * 保育科"],["fostered-content",72,1,"content to be moved out from the table"," * [[幼稚園|幼儿园]]<ref name=\"幼儿园\">[http://www.yasuda-u.ac.jp/ck/ 安田女子短期大学附属幼儿园] {{Wayback|url=http://www.yasuda-u.ac.jp/ck/ |date=20210202141458 }}{{ja}}2"]]

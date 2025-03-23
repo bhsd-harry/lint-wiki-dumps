@@ -1,1 +1,1 @@
-window.data=[[5,"illegal-attr",250,19,"nicht"],[1,"no-ignored",250,46," zwölf "]]
+window.data=[["illegal-attr",250,19,"illegal attribute name","nicht"],["illegal-attr",250,25,"illegal attribute name","teilbarer"],["illegal-attr",250,35,"illegal attribute name","Langzug"],["illegal-attr",250,43,"illegal attribute name","mit"],["illegal-attr",250,53,"illegal attribute name","Passagier-Wagen."],["no-ignored",250,46,"containing invalid attribute"," zwölf "]]

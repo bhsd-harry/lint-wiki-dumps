@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",73,42,"ritht"]]
+window.data=[["no-duplicate",73,42,"duplicated image caption parameter","ritht"],["no-duplicate",73,48,"duplicated image caption parameter","<center>安东尼·韦恩肖像（(Sr.James Sharples作于1795)）</center>"]]

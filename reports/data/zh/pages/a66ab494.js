@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",42,487,"title=Henrique Rocha, 19, wins first ATP Challenger Tour title {{!}} ATP Tour {{!}} Tennis "]]
+window.data=[["no-duplicate",42,487,"duplicated parameter","title=Henrique Rocha, 19, wins first ATP Challenger Tour title {{!}} ATP Tour {{!}} Tennis "],["no-duplicate",42,719,"duplicated parameter","title= #NextGenATP Rocha downs Basilashvili for maiden Challenger title"]]

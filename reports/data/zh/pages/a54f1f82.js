@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",165,2,"[[Category:中国人民银行副行长]]"]]
+window.data=[["no-duplicate",165,2,"duplicated category","[[Category:中国人民银行副行长]]"],["no-duplicate",174,2,"duplicated category","[[Category:中国人民银行副行长]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3," cover       = blank\n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter"," cover       = blank\n "],["no-duplicate",7,3,"duplicated parameter"," cover       = Hello, World.png\n "]]

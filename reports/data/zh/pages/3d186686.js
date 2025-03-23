@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,2,"[[Category:高麗太師]]"]]
+window.data=[["no-duplicate",15,2,"duplicated category","[[Category:高麗太師]]"],["no-duplicate",16,2,"duplicated category","[[Category:高麗太師]]"]]

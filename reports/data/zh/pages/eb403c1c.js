@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",85,4,"[["],[1,"no-ignored",85,4,"[[趙希洛]] || 倪若兒 || 女鬼，於友愛邨跳樓自殺身亡，死後經常回到友愛邨跳樓嚇友愛邨居民"]]
+window.data=[["lonely-bracket",85,4,"lonely \"[\"","[["],["lonely-bracket",85,9,"lonely \"]\"","]]"],["no-ignored",85,4,"containing invalid attribute","[[趙希洛]] || 倪若兒 || 女鬼，於友愛邨跳樓自殺身亡，死後經常回到友愛邨跳樓嚇友愛邨居民"]]

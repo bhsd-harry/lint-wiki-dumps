@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",31,3,"relatives = \n "]]
+window.data=[["no-duplicate",31,3,"duplicated parameter","relatives = \n "],["no-duplicate",40,3,"duplicated parameter"," relatives = 岳父：叶汉林<br>配偶：叶苏建<br>儿子：苗峰\n "]]

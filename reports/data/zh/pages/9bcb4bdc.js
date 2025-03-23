@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",59,832,"}}"],[1,"nested-link",179,920,"[[The Guardian]]"]]
+window.data=[["lonely-bracket",59,832,"lonely \"}\"","}}"],["lonely-bracket",63,507,"lonely \"}\"","}}"],["nested-link",179,920,"internal link in an external link","[[The Guardian]]"]]

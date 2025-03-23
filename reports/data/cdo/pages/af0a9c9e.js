@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,3,"duplicated parameter"," image_map                       = \n "]]
+window.data=[["no-duplicate",19,3,"duplicated parameter"," image_map                       = \n "],["no-duplicate",20,3,"duplicated parameter"," image_map                      = Putrajaya in Malaysia (zoom).svg\n "]]

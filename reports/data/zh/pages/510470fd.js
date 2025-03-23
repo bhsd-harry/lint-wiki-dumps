@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",49,41,"Right"]]
+window.data=[["no-duplicate",49,41,"duplicated image caption parameter","Right"],["no-duplicate",49,53,"duplicated image caption parameter","[[雅德蕾德·克萊門斯]]在《[[沉默之丘2：啟示錄]]》中擔任主角希瑟·梅森。"]]

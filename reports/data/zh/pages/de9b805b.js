@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",119,2,"[[Category:日本日俄战争人物]]"]]
+window.data=[["no-duplicate",119,2,"duplicated category","[[Category:日本日俄战争人物]]"],["no-duplicate",127,2,"duplicated category","[[Category:日本日俄战争人物]]"]]

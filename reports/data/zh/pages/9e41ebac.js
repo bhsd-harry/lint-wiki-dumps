@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",135,2,"[[Category:中國國民黨黨員]]"]]
+window.data=[["no-duplicate",135,2,"duplicated category","[[Category:中國國民黨黨員]]"],["no-duplicate",137,2,"duplicated category","[[Category:中國國民黨黨員]]"],["no-duplicate",136,2,"duplicated category","[[Category:臺灣反同性婚姻人士]]"],["no-duplicate",144,2,"duplicated category","[[Category:臺灣反同性婚姻人士]]"]]

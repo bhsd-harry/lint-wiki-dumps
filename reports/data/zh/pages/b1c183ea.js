@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",91,39,"{{largethumb}}"]]
+window.data=[["no-duplicate",91,39,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",91,54,"duplicated image caption parameter","2015年6月，荷兰海尔德马尔森地形图"],["no-duplicate",92,50,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",92,65,"duplicated image caption parameter","海尔德马尔森市镇内的海尔德马尔森镇"]]

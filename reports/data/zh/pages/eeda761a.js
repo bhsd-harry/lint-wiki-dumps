@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,3," heritage_designation  =\n "]]
+window.data=[["no-duplicate",19,3,"duplicated parameter"," heritage_designation  =\n "],["no-duplicate",49,3,"duplicated parameter"," heritage_designation  = [[法国历史遗迹|历史遗迹]] (1930)\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3,"duplicated parameter","battles={{le|Tē-jī tshù kok-kiong lāi-tsiàn|第二次国共内战}}\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter","battles={{le|Tē-jī tshù kok-kiong lāi-tsiàn|第二次国共内战}}\n "],["no-duplicate",27,3,"duplicated parameter","battles={{link-zh|Tē-jī tshù kok-kiong lāi-tsiàn|第二次国共内战}}\n "]]

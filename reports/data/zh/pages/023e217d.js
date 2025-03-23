@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",181,2,"[[Category:林語堂]]"]]
+window.data=[["no-duplicate",181,2,"duplicated category","[[Category:林語堂]]"],["no-duplicate",185,2,"duplicated category","[[Category:林語堂]]"]]

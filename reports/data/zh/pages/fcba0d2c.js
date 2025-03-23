@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",10,3,"职位3 = 副书记\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","职位3 = 副书记\n "],["no-duplicate",12,3,"duplicated parameter","职位3 = 纪检监察工委书记\n "],["no-duplicate",11,3,"duplicated parameter","人员3 = [[秦斌 (1968年)|秦斌]]\n "],["no-duplicate",13,3,"duplicated parameter","人员3 = [[王卫东 (1968年5月)|王卫东]]\n "]]

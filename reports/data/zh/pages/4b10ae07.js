@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",3982,4,"{"],[1,"no-ignored",3982,4,"{[[動物仔傾吓偈]]}-"]]
+window.data=[["lonely-bracket",3982,4,"lonely \"{\"","{"],["lonely-bracket",3982,5,"lonely \"[\"","[["],["lonely-bracket",3982,13,"lonely \"]\"","]]"],["lonely-bracket",3982,15,"lonely \"}\"","}"],["no-ignored",3982,4,"containing invalid attribute","{[[動物仔傾吓偈]]}-"]]

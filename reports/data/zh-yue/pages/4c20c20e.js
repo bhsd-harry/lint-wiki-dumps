@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,40,"duplicated image caption parameter","float"]]
+window.data=[["no-duplicate",12,40,"duplicated image caption parameter","float"],["no-duplicate",12,52,"duplicated image caption parameter","九龍巴士11X號"]]

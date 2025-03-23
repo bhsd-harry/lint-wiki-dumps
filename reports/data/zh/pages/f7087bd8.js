@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",93,2,"[[Category:泰国足球运动员]]"]]
+window.data=[["no-duplicate",93,2,"duplicated category","[[Category:泰国足球运动员]]"],["no-duplicate",100,2,"duplicated category","[[Category:泰国足球运动员]]"],["no-duplicate",95,2,"duplicated category","[[Category:蒙通联球员]]"],["no-duplicate",103,2,"duplicated category","[[Category:蒙通联球员|Ekanit Panya]]"]]

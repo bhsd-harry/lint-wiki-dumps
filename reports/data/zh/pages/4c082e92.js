@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,19,"|巴黎條約 (1920年)"]]
+window.data=[["no-ignored",1,19,"useless link text","|巴黎條約 (1920年)"]]

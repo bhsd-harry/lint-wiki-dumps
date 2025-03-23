@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",59,2,"[[Category:格拉斯哥大學校友]]"]]
+window.data=[["no-duplicate",59,2,"duplicated category","[[Category:格拉斯哥大學校友]]"],["no-duplicate",66,2,"duplicated category","[[Category:格拉斯哥大學校友]]"]]

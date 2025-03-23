@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",72,2,"[[Category:奥林匹克运动会跆拳道奖牌得主]]"]]
+window.data=[["no-duplicate",72,2,"duplicated category","[[Category:奥林匹克运动会跆拳道奖牌得主]]"],["no-duplicate",80,2,"duplicated category","[[Category:奥林匹克运动会跆拳道奖牌得主]]"],["no-duplicate",79,2,"duplicated category","[[Category:保加利亚奥林匹克运动会铜牌得主]]"],["no-duplicate",82,2,"duplicated category","[[Category:保加利亚奥林匹克运动会铜牌得主]]"]]

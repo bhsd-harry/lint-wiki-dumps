@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",21,3," 中國大陸片名 = \n "]]
+window.data=[["no-duplicate",21,3,"duplicated parameter"," 中國大陸片名 = \n "],["no-duplicate",46,3,"duplicated parameter"," 中國大陸片名 = 龙珠超 超级人造人\n "],["no-duplicate",24,3,"duplicated parameter"," 台灣片名 = \n "],["no-duplicate",48,3,"duplicated parameter"," 台灣片名 = 七龍珠超 超級英雄\n "],["no-duplicate",25,3,"duplicated parameter"," 新馬片名 = \n "],["no-duplicate",49,3,"duplicated parameter"," 新馬片名 =\n "]]

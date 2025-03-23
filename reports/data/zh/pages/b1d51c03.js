@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",532,2,"[[Category:美國偉人名人堂入選者]]"]]
+window.data=[["no-duplicate",532,2,"duplicated category","[[Category:美國偉人名人堂入選者]]"],["no-duplicate",548,2,"duplicated category","[[Category:美國偉人名人堂入選者]]"]]

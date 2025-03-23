@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",345,2,"[[Category:CLC]]"]]
+window.data=[["no-duplicate",345,2,"duplicated category","[[Category:CLC]]"],["no-duplicate",357,2,"duplicated category","[[Category:CLC|莊]]"]]

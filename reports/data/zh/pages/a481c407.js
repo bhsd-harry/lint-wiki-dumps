@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3,"1=zh-cn:连接;zh-tw:連線;\n "]]
+window.data=[["no-duplicate",3,3,"duplicated parameter","1=zh-cn:连接;zh-tw:連線;\n "],["no-duplicate",4,3,"duplicated parameter","1=zh-cn:安全外壳协议;zh-hk:安全外殼協定;zh-tw:安全殼層協定;\n "]]

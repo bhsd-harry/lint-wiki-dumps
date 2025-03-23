@@ -1,1 +1,1 @@
-window.data=[[3,"pipe-like",476,3,"\n 3甲095名||第名||"]]
+window.data=[["pipe-like",476,3,"additional \"|\" in a table cell","\n 3甲095名||第名||"],["pipe-like",477,21,"additional \"|\" in a table cell","||||||||"],["pipe-like",477,50,"additional \"|\" in a table cell","||||||"]]

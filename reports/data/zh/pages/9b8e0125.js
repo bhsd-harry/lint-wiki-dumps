@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",50,281,"[[Airliners.net]]"]]
+window.data=[["nested-link",50,281,"internal link in an external link","[[Airliners.net]]"]]

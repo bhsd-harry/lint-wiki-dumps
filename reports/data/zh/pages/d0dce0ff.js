@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",24,2,"[[Category:超音波]]"]]
+window.data=[["no-duplicate",24,2,"duplicated category","[[Category:超音波]]"],["no-duplicate",28,2,"duplicated category","[[Category:超音波]]"],["no-duplicate",25,2,"duplicated category","[[Category:计算机图形学]]"],["no-duplicate",29,2,"duplicated category","[[Category:计算机图形学]]"],["no-duplicate",26,2,"duplicated category","[[Category:磁振造影|H]]"],["no-duplicate",31,2,"duplicated category","[[Category:磁振造影|H]]"]]

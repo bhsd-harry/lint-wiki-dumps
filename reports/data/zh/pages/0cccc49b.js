@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,2,"[[Category:台灣白色恐怖受害者]]"]]
+window.data=[["no-duplicate",29,2,"duplicated category","[[Category:台灣白色恐怖受害者]]"],["no-duplicate",31,2,"duplicated category","[[Category:台灣白色恐怖受害者]]"]]

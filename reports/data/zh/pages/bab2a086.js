@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3,"7\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","7\n "],["no-duplicate",3,3,"duplicated parameter","1=zh-cn:国际足球联合会;zh-hk:國際足球協會;zh-tw:國際足球總會;\n "]]

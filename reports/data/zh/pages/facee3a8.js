@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",59,2,"[[Category:台灣兒童歌手]]"]]
+window.data=[["no-duplicate",59,2,"duplicated category","[[Category:台灣兒童歌手]]"],["no-duplicate",107,2,"duplicated category","[[Category:台灣兒童歌手]]"],["no-duplicate",259,2,"duplicated category","[[Category:台灣兒童歌手]]"]]

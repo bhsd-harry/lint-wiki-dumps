@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,3,"operator = [[南昌地铁|南昌轨道交通集团有限公司运营分公司]]\n "]]
+window.data=[["no-duplicate",14,3,"duplicated parameter","operator = [[南昌地铁|南昌轨道交通集团有限公司运营分公司]]\n "],["no-duplicate",16,3,"duplicated parameter","operator = [[南昌地铁]]\n "]]

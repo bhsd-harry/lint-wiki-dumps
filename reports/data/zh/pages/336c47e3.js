@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",394,46," |name=\"VolcanoWatch\""]]
+window.data=[["no-ignored",394,46,"containing invalid attribute"," |name=\"VolcanoWatch\""]]

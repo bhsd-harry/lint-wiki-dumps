@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",150,3,"nowrap"],[1,"no-ignored",87,17," ''' 手紙 〜拝啓 十五の君へ〜"]]
+window.data=[["no-ignored",87,17,"containing invalid attribute"," ''' 手紙 〜拝啓 十五の君へ〜"],["illegal-attr",150,3,"illegal attribute name","nowrap"]]

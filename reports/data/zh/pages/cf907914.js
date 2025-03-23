@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,2,"[[Category:鸻科]]"]]
+window.data=[["no-duplicate",35,2,"duplicated category","[[Category:鸻科]]"],["no-duplicate",36,2,"duplicated category","[[Category: 鸻科|H]]"]]

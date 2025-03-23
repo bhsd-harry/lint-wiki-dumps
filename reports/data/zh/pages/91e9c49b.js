@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",505,2,"[[Category:成田機場線車站]]"]]
+window.data=[["no-duplicate",505,2,"duplicated category","[[Category:成田機場線車站]]"],["no-duplicate",509,2,"duplicated category","[[Category:成田機場線車站]]"]]

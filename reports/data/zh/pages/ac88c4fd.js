@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",71,9,"}}"],[2,"no-duplicate",177,2,"[[Category:韓國綜藝節目|R]]"]]
+window.data=[["lonely-bracket",71,9,"lonely \"}\"","}}"],["no-duplicate",177,2,"duplicated category","[[Category:韓國綜藝節目|R]]"],["no-duplicate",189,2,"duplicated category","[[Category:韓國綜藝節目]]"]]

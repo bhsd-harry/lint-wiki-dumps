@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",117,2,"[[Category:香港持不同政見者]]"],[1,"unmatched-tag",20,32,"</small>"]]
+window.data=[["unmatched-tag",20,32,"unmatched closing tag","</small>"],["no-duplicate",117,2,"duplicated category","[[Category:香港持不同政見者]]"],["no-duplicate",119,2,"duplicated category","[[Category:香港持不同政見者]]"]]

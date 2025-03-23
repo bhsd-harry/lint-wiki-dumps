@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,3," parent_authority = \n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter"," parent_authority = \n "],["no-duplicate",13,3,"duplicated parameter"," parent_authority = Utiger, Schätti &  Helfenberger, 2005\n "]]

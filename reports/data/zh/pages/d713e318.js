@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,47,"мини"]]
+window.data=[["no-duplicate",16,47,"duplicated image caption parameter","мини"],["no-duplicate",16,64,"duplicated image caption parameter","弗拉基米爾·普京的演講現場"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",61,59,"200x"]]
+window.data=[["no-duplicate",61,59,"duplicated image caption parameter","200x"],["no-duplicate",61,64,"duplicated image caption parameter","從特賴恩河流域西南部的圖拉丁遠眺西爾瓦尼亞山"],["no-duplicate",71,52,"duplicated image caption parameter","200x"],["no-duplicate",71,57,"duplicated image caption parameter","馬歇爾公園內的小徑，縱貫特賴恩河附近的森林"]]

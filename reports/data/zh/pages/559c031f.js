@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",344,2,"[[Category:2007年建立的奖项]]"]]
+window.data=[["no-duplicate",344,2,"duplicated category","[[Category:2007年建立的奖项]]"],["no-duplicate",347,2,"duplicated category","[[Category:2007年建立的奖项]]"]]

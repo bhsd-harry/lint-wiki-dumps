@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,24,"duplicated image caption parameter","righrt"]]
+window.data=[["no-duplicate",1,24,"duplicated image caption parameter","righrt"],["no-duplicate",1,37,"duplicated image caption parameter","{{PAGENAME}}"]]

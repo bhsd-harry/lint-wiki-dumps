@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",187,28,"padding"],[3,"no-duplicate",187,40,"0"]]
+window.data=[["illegal-attr",187,28,"illegal attribute name","padding"],["illegal-attr",187,40,"illegal attribute name","0"],["illegal-attr",187,42,"illegal attribute name","0"],["illegal-attr",187,44,"illegal attribute name","0"],["no-duplicate",187,40,"duplicated 0 attribute","0"],["no-duplicate",187,42,"duplicated 0 attribute","0"],["no-duplicate",187,44,"duplicated 0 attribute","0"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",22,2,"[[Category:美以美会在华传教士]]"]]
+window.data=[["no-duplicate",22,2,"duplicated category","[[Category:美以美会在华传教士]]"],["no-duplicate",24,2,"duplicated category","[[Category:美以美会在华传教士]]"]]

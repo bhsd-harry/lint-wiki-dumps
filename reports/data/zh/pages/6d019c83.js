@@ -1,1 +1,1 @@
-window.data=[[6,"lonely-apos",92,17,"'"],[2,"no-duplicate",67,5,"style=\"background:#FF79BC\""]]
+window.data=[["no-duplicate",67,5,"duplicated style attribute","style=\"background:#FF79BC\""],["no-duplicate",67,33,"duplicated style attribute","style=\"font-weight:bold;\""],["lonely-apos",92,17,"lonely \"'\"","'"],["lonely-apos",97,4,"lonely \"'\"","'"],["lonely-apos",110,17,"lonely \"'\"","'"],["lonely-apos",117,17,"lonely \"'\"","'"],["lonely-apos",124,17,"lonely \"'\"","'"],["lonely-apos",131,17,"lonely \"'\"","'"]]

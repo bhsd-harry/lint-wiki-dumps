@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3," 前作 = [[Universe Ticket]]\n "]]
+window.data=[["no-duplicate",13,3,"duplicated parameter"," 前作 = [[Universe Ticket]]\n "],["no-duplicate",44,3,"duplicated parameter"," 前作 = 《[[Universe Ticket]]》\n "]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",95,14,"\n <references>\n "]]
+window.data=[["no-ignored",95,14,"invalid content in <references>","\n <references>\n "]]

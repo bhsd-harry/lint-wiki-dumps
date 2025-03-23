@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",123,99,"RIGHT"],[1,"no-ignored",74,32," #F4F0EC;"]]
+window.data=[["invalid-css",74,32,"property value expected",""],["no-ignored",74,32,"containing invalid attribute"," #F4F0EC;"],["no-duplicate",123,99,"duplicated image caption parameter","RIGHT"],["no-duplicate",123,105,"duplicated image caption parameter","在祖治·紐比利機場上阿航飛機（2009）"]]

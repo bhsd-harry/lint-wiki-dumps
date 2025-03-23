@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,2,"[[Category:俄罗斯人瑞]]"]]
+window.data=[["no-duplicate",65,2,"duplicated category","[[Category:俄罗斯人瑞]]"],["no-duplicate",71,2,"duplicated category","[[Category:俄罗斯人瑞]]"]]

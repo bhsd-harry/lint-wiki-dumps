@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",228,5,"colspan"],[2,"no-duplicate",473,155," issn = 0511-4772"]]
+window.data=[["illegal-attr",228,5,"illegal attribute name","colspan"],["illegal-attr",435,26,"illegal attribute name","height"],["no-duplicate",473,155,"duplicated parameter"," issn = 0511-4772"],["no-duplicate",473,368,"duplicated parameter","issn=0511-4772"]]

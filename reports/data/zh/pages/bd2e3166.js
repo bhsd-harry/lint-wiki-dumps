@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",253,2,"[[Category:東日本旅客鐵道車輛]]"]]
+window.data=[["no-duplicate",253,2,"duplicated category","[[Category:東日本旅客鐵道車輛]]"],["no-duplicate",255,2,"duplicated category","[[Category:東日本旅客鐵道車輛|日本國鐵107系電聯車]]"],["no-duplicate",257,2,"duplicated category","[[Category:東日本旅客鐵道車輛]]"]]

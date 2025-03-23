@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",516,2,"[[Category:联合国会员国]]"]]
+window.data=[["no-duplicate",516,2,"duplicated category","[[Category:联合国会员国]]"],["no-duplicate",522,2,"duplicated category","[[Category:联合国会员国]]"]]

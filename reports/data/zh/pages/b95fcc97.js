@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",198,156,"圖像說明=近铁16600系Ace"]]
+window.data=[["no-duplicate",198,156,"duplicated parameter","圖像說明=近铁16600系Ace"],["no-duplicate",198,304,"duplicated parameter","圖像說明=[[南大阪線]]上的近鐵16600系電聯車"]]

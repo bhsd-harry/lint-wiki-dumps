@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",164,2,"[[Category:屯門區議員|C]]"]]
+window.data=[["no-duplicate",164,2,"duplicated category","[[Category:屯門區議員|C]]"],["no-duplicate",168,2,"duplicated category","[[Category:屯門區議員]]"]]

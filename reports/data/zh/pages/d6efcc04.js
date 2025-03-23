@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",111,2,"[[Category:流行音樂專輯]]"]]
+window.data=[["no-duplicate",111,2,"duplicated category","[[Category:流行音樂專輯]]"],["no-duplicate",113,2,"duplicated category","[[Category:流行音樂專輯]]"],["no-duplicate",112,2,"duplicated category","[[Category:台灣音樂專輯]]"],["no-duplicate",114,2,"duplicated category","[[Category:台灣音樂專輯]]"]]

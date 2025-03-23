@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",30,2,"[[Category:循環再造]]"]]
+window.data=[["no-duplicate",30,2,"duplicated category","[[Category:循環再造]]"],["no-duplicate",31,2,"duplicated category","[[Category:循環再造]]"]]

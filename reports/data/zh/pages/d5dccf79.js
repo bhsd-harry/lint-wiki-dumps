@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",122,132,"issn="]]
+window.data=[["no-duplicate",122,132,"duplicated parameter","issn="],["no-duplicate",122,152,"duplicated parameter","issn=1004-8049"],["no-duplicate",125,229,"duplicated parameter","issn="],["no-duplicate",125,250,"duplicated parameter","issn=1006-2254 "]]

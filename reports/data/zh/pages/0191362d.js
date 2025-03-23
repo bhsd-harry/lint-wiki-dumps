@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",159,2,"[[Category:东亚同文会人物]]"],[1,"unmatched-tag",118,64,"<small>"]]
+window.data=[["unmatched-tag",118,64,"unclosed tag","<small>"],["no-duplicate",159,2,"duplicated category","[[Category:东亚同文会人物]]"],["no-duplicate",163,2,"duplicated category","[[Category:东亚同文会人物]]"]]

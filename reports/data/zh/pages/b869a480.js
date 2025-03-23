@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",288,2,"[[Category:世嘉系列]]"],[1,"unmatched-tag",51,78,"<sup>"]]
+window.data=[["unmatched-tag",51,78,"unclosed tag","<sup>"],["no-duplicate",288,2,"duplicated category","[[Category:世嘉系列]]"],["no-duplicate",289,2,"duplicated category","[[Category:世嘉系列]]"]]

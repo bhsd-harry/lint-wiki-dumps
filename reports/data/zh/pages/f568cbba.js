@@ -1,1 +1,1 @@
-window.data=[[3,"fostered-content",83,1," | 2018 || OSIM 「8變小天后」 "]]
+window.data=[["fostered-content",83,1,"content to be moved out from the table"," | 2018 || OSIM 「8變小天后」 "],["fostered-content",97,1,"content to be moved out from the table"," | 2016 || Mitsubishi Electric 三菱電器 "],["fostered-content",109,1,"content to be moved out from the table"," | 2015 || KFC 肯德基 "]]

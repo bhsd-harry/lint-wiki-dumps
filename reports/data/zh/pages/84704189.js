@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,45,"url="]]
+window.data=[["no-duplicate",35,45,"duplicated parameter","url="],["no-duplicate",35,96,"duplicated parameter","url=https://m.mp.oeeee.com/a/BAAFRD000020210720522450.html"]]

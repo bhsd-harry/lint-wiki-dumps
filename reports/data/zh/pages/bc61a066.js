@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",18,51,"ISBN"]]
+window.data=[["lonely-http",18,51,"lonely \"ISBN\"","ISBN"]]

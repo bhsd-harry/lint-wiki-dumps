@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,2,"[[Category:台灣閩南式音樂]]"]]
+window.data=[["no-duplicate",21,2,"duplicated category","[[Category:台灣閩南式音樂]]"],["no-duplicate",23,2,"duplicated category","[[Category:台灣閩南式音樂]]"]]

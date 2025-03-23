@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",96,2,"[[Category:寶瓶座]]"]]
+window.data=[["no-duplicate",96,2,"duplicated category","[[Category:寶瓶座]]"],["no-duplicate",116,2,"duplicated category","[[Category:寶瓶座]]"],["no-duplicate",98,2,"duplicated category","[[Category:HD和HDE天體|196758]]"],["no-duplicate",117,2,"duplicated category","[[Category:HD和HDE天體|196758]]"],["no-duplicate",101,2,"duplicated category","[[Category:HR天體|7897]]"],["no-duplicate",118,2,"duplicated category","[[Category:HR天體|7897]]"]]

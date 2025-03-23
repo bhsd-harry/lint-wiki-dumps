@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",79,2,"[[Category:巴斯克足球運動員]]"]]
+window.data=[["no-duplicate",79,2,"duplicated category","[[Category:巴斯克足球運動員]]"],["no-duplicate",86,2,"duplicated category","[[Category:巴斯克足球運動員]]"]]

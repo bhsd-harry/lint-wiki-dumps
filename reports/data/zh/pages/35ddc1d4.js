@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",77,4,"因為某些原因離開空降兵部隊，到空降特戰部隊"]]
+window.data=[["no-ignored",77,4,"containing invalid attribute","因為某些原因離開空降兵部隊，到空降特戰部隊"]]

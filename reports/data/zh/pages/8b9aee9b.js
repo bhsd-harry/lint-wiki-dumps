@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",79,2,"[[Category:紐約州聯邦眾議員]]"]]
+window.data=[["no-duplicate",79,2,"duplicated category","[[Category:紐約州聯邦眾議員]]"],["no-duplicate",82,2,"duplicated category","[[Category:紐約州聯邦眾議員]]"],["no-duplicate",80,2,"duplicated category","[[Category:19世纪美国政治人物]]"],["no-duplicate",84,2,"duplicated category","[[Category:19世纪美国政治人物]]"]]

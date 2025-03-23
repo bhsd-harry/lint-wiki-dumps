@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,2,"[[Category:2022年冬季奥林匹克运动会歌曲]]"]]
+window.data=[["no-duplicate",21,2,"duplicated category","[[Category:2022年冬季奥林匹克运动会歌曲]]"],["no-duplicate",24,2,"duplicated category","[[Category:2022年冬季奥林匹克运动会歌曲]]"]]

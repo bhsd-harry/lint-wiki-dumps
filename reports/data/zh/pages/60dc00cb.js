@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",306,1,"\n == 参考资料 ==\n {{Reflist}}\n\n == 外部链接 ==\n *{{zh-cn}}{{Sinaweibo|2183487935}}\n *{{Facebook|wumochouwumochou}}\n *{{Instagram|wumochou}}\n *{{Bilibili|user="],[1,"unclosed-table",304,2,"{|"]]
+window.data=[["fostered-content",306,1,"content to be moved out from the table","\n == 参考资料 ==\n {{Reflist}}\n\n == 外部链接 ==\n *{{zh-cn}}{{Sinaweibo|2183487935}}\n *{{Facebook|wumochouwumochou}}\n *{{Instagram|wumochou}}\n *{{Bilibili|user="],["unclosed-table",304,2,"unclosed table","{|"]]

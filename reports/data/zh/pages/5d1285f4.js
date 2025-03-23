@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3," map_caption  = 国际清算银行成员国\n "]]
+window.data=[["no-duplicate",9,3,"duplicated parameter"," map_caption  = 国际清算银行成员国\n "],["no-duplicate",20,3,"duplicated parameter"," map_caption  = BIS members\n "]]

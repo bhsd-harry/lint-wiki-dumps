@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",360,2,"[[Category:改编自音乐剧的电影]]"]]
+window.data=[["no-duplicate",360,2,"duplicated category","[[Category:改编自音乐剧的电影]]"],["no-duplicate",370,2,"duplicated category","[[Category:改编自音乐剧的电影]]"]]

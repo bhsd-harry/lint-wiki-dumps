@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",50,1," * 护理学科\n * [[醫檢師|卫生技术]]学科\n * 诊疗[[醫事放射師|放射线]]技术学科"]]
+window.data=[["fostered-content",50,1,"content to be moved out from the table"," * 护理学科\n * [[醫檢師|卫生技术]]学科\n * 诊疗[[醫事放射師|放射线]]技术学科"]]

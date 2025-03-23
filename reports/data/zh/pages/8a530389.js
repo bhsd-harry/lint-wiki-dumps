@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",498,2,"[[Category:人名表]]"],[1,"no-ignored",101,4,"这是维吾尔人最古老的人名，愿意表示恒星！"]]
+window.data=[["no-ignored",101,4,"containing invalid attribute","这是维吾尔人最古老的人名，愿意表示恒星！"],["no-duplicate",498,2,"duplicated category","[[Category:人名表]]"],["no-duplicate",499,2,"duplicated category","[[Category:人名表]]"]]

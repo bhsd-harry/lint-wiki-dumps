@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",339,2,"[[Category:货运飞船]]"]]
+window.data=[["no-duplicate",339,2,"duplicated category","[[Category:货运飞船]]"],["no-duplicate",340,2,"duplicated category","[[Category:货运飞船]]"]]

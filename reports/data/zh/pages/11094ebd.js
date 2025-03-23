@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",68,37,"alt = 地圖上，有如葉脈般的綠色路網，綠線又有分虛線和實線。白色背景（表示森林）中，散佈着藍白相間表示濕軟地的區域。紅圓圈起幾個控制點，之間有紅線順序連接，紅圓旁邊又有紅色數字表示次序。"]]
+window.data=[["no-duplicate",68,37,"duplicated image caption parameter","alt = 地圖上，有如葉脈般的綠色路網，綠線又有分虛線和實線。白色背景（表示森林）中，散佈着藍白相間表示濕軟地的區域。紅圓圈起幾個控制點，之間有紅線順序連接，紅圓旁邊又有紅色數字表示次序。"],["no-duplicate",68,133,"duplicated image caption parameter","滑雪定向地圖"],["no-duplicate",71,33,"duplicated image caption parameter","alt = 地圖架利用與降落傘背帶類似的挽具狀帶子，固定在胸前。"],["no-duplicate",71,66,"duplicated image caption parameter","固定在胸前的地圖架"]]

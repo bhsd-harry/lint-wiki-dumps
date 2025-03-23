@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1514,2,"[[Category:報復題材電視劇]]"],[2,"no-ignored",1149,3,"!rowspan=\"2\""]]
+window.data=[["no-ignored",1149,3,"containing invalid attribute","!rowspan=\"2\""],["no-ignored",1183,3,"containing invalid attribute","!rowspan=\"2\""],["no-duplicate",1514,2,"duplicated category","[[Category:報復題材電視劇]]"],["no-duplicate",1542,2,"duplicated category","[[Category:報復題材電視劇]]"]]

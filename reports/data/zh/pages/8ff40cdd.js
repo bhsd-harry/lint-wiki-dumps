@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",14,3,"Molecule#Empirical_formula"]]
+window.data=[["no-ignored",14,3,"containing invalid attribute","Molecule#Empirical_formula"]]

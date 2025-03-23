@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",8,57,"vignette"]]
+window.data=[["no-duplicate",8,57,"duplicated image caption parameter","vignette"],["no-duplicate",8,73,"duplicated image caption parameter","gauche"],["no-duplicate",8,80,"duplicated image caption parameter","Statue de Bayard vue de 3/4 arrière"]]

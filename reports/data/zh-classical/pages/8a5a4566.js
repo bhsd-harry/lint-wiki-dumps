@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",5,29,"illegal attribute name","BORDERCOLOR"],[2,"unmatched-tag",271,5,"unmatched closing tag","</SPAN>"]]
+window.data=[["illegal-attr",5,29,"illegal attribute name","BORDERCOLOR"],["unmatched-tag",271,5,"unmatched closing tag","</SPAN>"],["unmatched-tag",271,12,"unmatched closing tag","</FONT>"]]

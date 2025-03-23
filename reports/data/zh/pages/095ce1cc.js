@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,59,"upright = 1.4"]]
+window.data=[["no-duplicate",1,59,"duplicated image caption parameter","upright = 1.4"],["no-duplicate",1,79,"duplicated image caption parameter","加里波第桥"]]

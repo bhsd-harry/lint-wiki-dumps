@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",129,51,"міні"]]
+window.data=[["no-duplicate",129,51,"duplicated image caption parameter","міні"],["no-duplicate",129,56,"duplicated image caption parameter","злева"],["no-duplicate",129,62,"duplicated image caption parameter","2016年白俄邮票"]]

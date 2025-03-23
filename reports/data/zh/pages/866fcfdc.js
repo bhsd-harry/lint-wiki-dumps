@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",386,51,"ISBN 962-7054-08-8"],[1,"no-ignored",218,31," smaller;\""]]
+window.data=[["invalid-css",139,77,"semi-colon expected",""],["invalid-css",139,71,"colon expected","="],["no-ignored",218,31,"containing invalid attribute"," smaller;\""],["invalid-isbn",386,51,"invalid ISBN","ISBN 962-7054-08-8"]]

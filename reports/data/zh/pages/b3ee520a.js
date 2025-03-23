@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",292,52,"]]"],[4,"no-duplicate",292,47,"100px]]"]]
+window.data=[["lonely-bracket",292,52,"lonely \"]\"","]]"],["no-duplicate",292,47,"duplicated image caption parameter","100px]]"],["no-duplicate",292,55,"duplicated image caption parameter","馬爾他，1967–1974"],["lonely-bracket",293,44,"lonely \"]\"","]]"],["no-duplicate",293,39,"duplicated image caption parameter","100px]]"],["no-duplicate",293,47,"duplicated image caption parameter","毛里求斯，1968–1992"]]

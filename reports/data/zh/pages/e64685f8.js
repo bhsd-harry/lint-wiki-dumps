@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",40,2,"[[Category:杭州奥体博览城]]"]]
+window.data=[["no-duplicate",40,2,"duplicated category","[[Category:杭州奥体博览城]]"],["no-duplicate",43,2,"duplicated category","[[Category:杭州奥体博览城]]"]]

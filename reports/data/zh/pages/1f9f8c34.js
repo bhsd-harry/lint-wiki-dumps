@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",60,110,"[[Vista]]"]]
+window.data=[["nested-link",60,110,"internal link in an external link","[[Vista]]"],["nested-link",60,121,"internal link in an external link","[[GPU]]"]]

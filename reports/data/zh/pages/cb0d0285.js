@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",52,1," * [[职业]]英语科<ref group=\"注\"  name=\"キャリア英語科\"/>"]]
+window.data=[["fostered-content",52,1,"content to be moved out from the table"," * [[职业]]英语科<ref group=\"注\"  name=\"キャリア英語科\"/>"],["fostered-content",56,1,"content to be moved out from the table"," * [[英语]]科\n ** 第一部<ref group=\"注\"  name=\"1959年停办\"/>\n ** [[夜校|第二部]]→职业英语科（于2007年成立。）\n * [[英语]]商业科<ref group=\"注\"  name=\"1959年停办\"/>"]]

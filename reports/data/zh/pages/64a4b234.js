@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",72,2,"[[分類:2024年衝突]]"]]
+window.data=[["no-duplicate",72,2,"duplicated category","[[分類:2024年衝突]]"],["no-duplicate",76,2,"duplicated category","[[分類:2024年衝突]]"]]

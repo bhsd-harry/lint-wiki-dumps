@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",209,2,"[[Category:台北市歷史|+]]"]]
+window.data=[["no-duplicate",209,2,"duplicated category","[[Category:台北市歷史|+]]"],["no-duplicate",222,2,"duplicated category","[[Category:台北市歷史]]"],["no-duplicate",210,2,"duplicated category","[[Category:台灣歷史相關列表]]"],["no-duplicate",223,2,"duplicated category","[[category:台灣歷史相關列表]]"]]

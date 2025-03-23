@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",50,1," * 航空机体科\n * 航空发动机科<ref group=\"注\"  name=\"航空发动机科\"/>"]]
+window.data=[["fostered-content",50,1,"content to be moved out from the table"," * 航空机体科\n * 航空发动机科<ref group=\"注\"  name=\"航空发动机科\"/>"]]

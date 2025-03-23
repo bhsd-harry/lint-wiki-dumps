@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",30,1," Image:Palacio_San_Telmo_facade_Seville_Spain.jpg[[圣特尔莫宫]]（1681-1796）"]]
+window.data=[["no-ignored",30,1,"invalid content in <gallery>"," Image:Palacio_San_Telmo_facade_Seville_Spain.jpg[[圣特尔莫宫]]（1681-1796）"]]

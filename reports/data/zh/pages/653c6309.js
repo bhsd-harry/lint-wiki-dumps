@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3,"zh-tw:梅森質數\n "],[4,"no-ignored",562,3," 卢卡斯-莱默检验法"]]
+window.data=[["no-duplicate",4,3,"duplicated parameter","zh-tw:梅森質數\n "],["no-duplicate",6,3,"duplicated parameter","1=zh:素数\n "],["no-ignored",562,3,"containing invalid attribute"," 卢卡斯-莱默检验法"],["no-ignored",570,3,"containing invalid attribute"," 卢卡斯-莱默检验法"],["no-ignored",578,3,"containing invalid attribute"," 卢卡斯-莱默检验法"],["no-ignored",586,3,"containing invalid attribute"," 卢卡斯-莱默检验法"]]

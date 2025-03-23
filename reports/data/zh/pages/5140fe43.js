@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",45,24,"섬네일"]]
+window.data=[["no-duplicate",45,24,"duplicated image caption parameter","섬네일"],["no-duplicate",45,46,"duplicated image caption parameter","地圖"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",39,33,"background:"],[2,"no-ignored",39,44," #f9f9f9;"]]
+window.data=[["illegal-attr",39,33,"illegal attribute name","background:"],["no-ignored",39,44,"containing invalid attribute"," #f9f9f9;"],["illegal-attr",53,33,"illegal attribute name","background:"],["no-ignored",53,44,"containing invalid attribute"," #f9f9f9;"]]

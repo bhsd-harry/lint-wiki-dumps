@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",337,2,"[[Category:2021年中国电影作品]]"]]
+window.data=[["no-duplicate",337,2,"duplicated category","[[Category:2021年中国电影作品]]"],["no-duplicate",347,2,"duplicated category","[[Category:2021年中国电影作品]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",54,2,"[[Category:國際稅務]]"]]
+window.data=[["no-duplicate",54,2,"duplicated category","[[Category:國際稅務]]"],["no-duplicate",58,2,"duplicated category","[[Category:國際稅務]]"]]

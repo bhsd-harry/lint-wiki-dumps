@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",12,442,"http://"],[2,"no-duplicate",10,28,"Marx Generator.svg"]]
+window.data=[["no-duplicate",10,28,"duplicated image caption parameter","Marx Generator.svg"],["no-duplicate",10,53,"duplicated image caption parameter","马克思发生器原理电路图"],["lonely-http",12,442,"lonely \"http://\"","http://"]]

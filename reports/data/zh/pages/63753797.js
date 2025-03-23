@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",14,102,"справа"]]
+window.data=[["no-duplicate",14,102,"duplicated image caption parameter","справа"],["no-duplicate",14,109,"duplicated image caption parameter","250пкс"],["no-duplicate",14,122,"duplicated image caption parameter","Экспедиция Ричарда Ченслера 1553 г. Ненокса. Ягры. Художник В.Косов, 2015"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",1,19,"|維爾紐斯大學"]]
+window.data=[["no-ignored",1,19,"useless link text","|維爾紐斯大學"]]

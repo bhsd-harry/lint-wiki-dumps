@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",65,2,"[[Category:古吉拉特邦城镇|N]]"]]
+window.data=[["no-duplicate",65,2,"duplicated category","[[Category:古吉拉特邦城镇|N]]"],["no-duplicate",66,2,"duplicated category","[[Category:古吉拉特邦城镇]]"]]

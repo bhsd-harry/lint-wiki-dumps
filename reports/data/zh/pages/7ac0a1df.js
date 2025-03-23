@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",98,44,"桑給巴爾"]]
+window.data=[["no-duplicate",98,44,"duplicated image caption parameter","桑給巴爾"],["no-duplicate",98,49,"duplicated image caption parameter","桑給巴爾一景"]]

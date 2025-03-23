@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",588,7," align=center"]]
+window.data=[["no-ignored",588,7,"attributes of a closing tag"," align=center"]]

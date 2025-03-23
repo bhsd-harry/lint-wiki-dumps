@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",47,3,"cyears7      = {{nbay|2020|start}}–{{nbay|2023|end}}\n "]]
+window.data=[["no-duplicate",47,3,"duplicated parameter","cyears7      = {{nbay|2020|start}}–{{nbay|2023|end}}\n "],["no-duplicate",49,3,"duplicated parameter","cyears7      = {{nbay|2024|start}}–至今\n "],["no-duplicate",48,3,"duplicated parameter","cteam7       = [[芝加哥公牛]] (助理)\n "],["no-duplicate",50,3,"duplicated parameter","cteam7       = [[紐約尼克]] (助理)\n "]]

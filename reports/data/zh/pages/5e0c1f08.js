@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",86,2,"[[Category:日本足球聯賽| ]]"],[1,"unclosed-table",283,2,"{|"]]
+window.data=[["unclosed-table",283,2,"unclosed table","{|"],["no-duplicate",86,2,"duplicated category","[[Category:日本足球聯賽| ]]"],["no-duplicate",290,2,"duplicated category","[[Category:日本足球聯賽]]"],["no-duplicate",87,2,"duplicated category","[[Category:1999年日本建立]]"],["no-duplicate",291,2,"duplicated category","[[Category:1999年日本建立]]"],["no-duplicate",88,2,"duplicated category","[[Category:日本足球協會]]"],["no-duplicate",292,2,"duplicated category","[[Category:日本足球協會]]"]]

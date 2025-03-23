@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",232,3,"nowrap"],[2,"no-duplicate",325,3,"width=10%"]]
+window.data=[["illegal-attr",232,3,"illegal attribute name","nowrap"],["illegal-attr",253,3,"illegal attribute name","nowrap"],["illegal-attr",264,4,"illegal attribute name","nowrap"],["illegal-attr",298,3,"illegal attribute name","nowrap"],["no-duplicate",325,3,"duplicated width attribute","width=10%"],["no-duplicate",325,26,"duplicated width attribute","width=\"10%\""]]

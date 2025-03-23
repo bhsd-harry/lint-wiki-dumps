@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3,"term              = [[中华人民共和国国务院 (第十二届)|第十二届国务院]]<br>[[中华人民共和国国务院 (第十三届)|第十三届国务院]]\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","term              = [[中华人民共和国国务院 (第十二届)|第十二届国务院]]<br>[[中华人民共和国国务院 (第十三届)|第十三届国务院]]\n "],["no-duplicate",12,3,"duplicated parameter"," term = [[中国人民政治协商会议第十四届全国委员会]]\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",125,26,"duplicated image caption parameter","替代文字"],[1,"no-ignored",68,4,"containing invalid attribute"," hō "]]
+window.data=[["no-ignored",68,4,"containing invalid attribute"," hō "],["no-duplicate",125,26,"duplicated image caption parameter","替代文字"],["no-duplicate",125,44,"duplicated image caption parameter","Tâi-tâi Chóng Tô͘-su-koán thâu-chêng ê Chín-heng Chháu-pêⁿ (振興草坪)"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",31,609,"[["],[1,"no-ignored",31,591,"/。1961年2月13日，歐文登上《[[運動畫刊]]》封面，一篇專題報道將她描述為“美國的最令人興奮的女滑冰運動員。<ref"],[1,"tag-like",31,649,"<ref"]]
+window.data=[["lonely-bracket",31,609,"lonely \"[\"","[["],["lonely-bracket",31,615,"lonely \"]\"","]]"],["tag-like",31,649,"lonely \"<\"","<ref"],["no-ignored",31,591,"containing invalid attribute","/。1961年2月13日，歐文登上《[[運動畫刊]]》封面，一篇專題報道將她描述為“美國的最令人興奮的女滑冰運動員。<ref"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,3," classification  = [[四等站 (中铁)|四等站]]\n "]]
+window.data=[["no-duplicate",15,3,"duplicated parameter"," classification  = [[四等站 (中铁)|四等站]]\n "],["no-duplicate",20,3,"duplicated parameter"," classification = [[四等站 (中铁)|四等站]]\n "]]

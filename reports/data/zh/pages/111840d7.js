@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",70,57,"rowspan=\"3\""]]
+window.data=[["no-duplicate",70,57,"duplicated rowspan attribute","rowspan=\"3\""],["no-duplicate",70,70,"duplicated rowspan attribute","rowspan=\"3\""]]

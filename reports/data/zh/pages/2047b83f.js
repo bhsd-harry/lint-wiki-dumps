@@ -1,1 +1,1 @@
-window.data=[[2,"fostered-content",49,1," * 总合生活学科\n * 食物营养学科\n * 幼儿教育学科"]]
+window.data=[["fostered-content",49,1,"content to be moved out from the table"," * 总合生活学科\n * 食物营养学科\n * 幼儿教育学科"],["fostered-content",65,1,"content to be moved out from the table"," * 儿童园<ref name=\"儿童园\">[http://www.shokei-gakuen.ac.jp/kids/ 尚絅大學短期大學部附属儿童园] {{Wayback|url=http://www.shokei-gakuen.ac.jp/kids/ |date=20161008155012 }}"]]

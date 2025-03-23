@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",68,2,"[[Category:色彩空间]]"]]
+window.data=[["no-duplicate",68,2,"duplicated category","[[Category:色彩空间]]"],["no-duplicate",81,2,"duplicated category","[[Category:色彩空间]]"]]

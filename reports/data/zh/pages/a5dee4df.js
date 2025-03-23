@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",528,3,"mmfm={{flag icon|USA}} Unfurled\n "]]
+window.data=[["no-duplicate",528,3,"duplicated parameter","mmfm={{flag icon|USA}} Unfurled\n "],["no-duplicate",531,3,"duplicated parameter","mmfm={{flag icon|GER}} Tania\n "]]

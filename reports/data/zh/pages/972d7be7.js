@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",130,5,"span"],[2,"no-duplicate",146,2,"[[Category:台南市人]]"]]
+window.data=[["illegal-attr",130,5,"illegal attribute name","span"],["illegal-attr",132,5,"illegal attribute name","span"],["no-duplicate",146,2,"duplicated category","[[Category:台南市人]]"],["no-duplicate",152,2,"duplicated category","[[Category:台南市人]]"]]

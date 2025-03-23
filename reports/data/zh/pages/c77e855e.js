@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",105,2,"[[Category:坎特伯雷大主教]]"]]
+window.data=[["no-duplicate",105,2,"duplicated category","[[Category:坎特伯雷大主教]]"],["no-duplicate",124,2,"duplicated category","[[Category:坎特伯雷大主教]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3," industry         = Hamburger\n "]]
+window.data=[["no-duplicate",5,3,"duplicated parameter"," industry         = Hamburger\n "],["no-duplicate",9,3,"duplicated parameter"," industry         = [[快餐店]]\n "]]

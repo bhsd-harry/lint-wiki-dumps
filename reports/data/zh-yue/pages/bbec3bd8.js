@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",20,41,"duplicated image caption parameter","左"]]
+window.data=[["no-duplicate",20,41,"duplicated image caption parameter","左"],["no-duplicate",20,43,"duplicated image caption parameter","佢細個嗰陣住過，亦係佢最後嘅安身之所嘅「藍屋」。而家變咗做[[弗里達·卡羅博物館]]，俾人參觀。"],["no-duplicate",46,49,"duplicated image caption parameter","右"],["no-duplicate",46,57,"duplicated image caption parameter","迪亞哥・里維拉同弗里達・卡蘿（1932年影）"]]

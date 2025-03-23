@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",11,2,"[[Category:明朝邵武府知府]]"]]
+window.data=[["no-duplicate",11,2,"duplicated category","[[Category:明朝邵武府知府]]"],["no-duplicate",30,2,"duplicated category","[[Category:明朝邵武府知府]]"],["no-duplicate",14,2,"duplicated category","[[Category:鄒姓]]"],["no-duplicate",31,2,"duplicated category","[[Category:鄒姓]]"]]

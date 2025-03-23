@@ -1,1 +1,1 @@
-window.data=[[5,"no-ignored",72,3," 票數 "],[1,"unmatched-tag",59,26,"</small>"]]
+window.data=[["unmatched-tag",59,26,"unmatched closing tag","</small>"],["no-ignored",72,3,"containing invalid attribute"," 票數 "],["no-ignored",81,3,"containing invalid attribute"," 佔可投票人士比例（%） "],["no-ignored",90,3,"containing invalid attribute"," 決選名額 "],["no-ignored",97,3,"containing invalid attribute"," 典禮場地 "],["no-ignored",104,3,"containing invalid attribute"," 入場人數 "]]

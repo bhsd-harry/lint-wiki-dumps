@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",22,175,"[[中華民國文化部|文化部]]"],[1,"unmatched-tag",73,70,"</div>"]]
+window.data=[["nested-link",22,175,"internal link in an external link","[[中華民國文化部|文化部]]"],["unmatched-tag",73,70,"unmatched closing tag","</div>"]]

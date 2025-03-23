@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",121,21," 統計時段 "]]
+window.data=[["no-ignored",121,21,"containing invalid attribute"," 統計時段 "],["no-ignored",121,67,"containing invalid attribute"," 統計時段 "]]

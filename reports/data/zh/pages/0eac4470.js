@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",180,3,"align=\"center\""],[1,"no-ignored",249,26,"  |align=|"]]
+window.data=[["no-duplicate",180,3,"duplicated align attribute","align=\"center\""],["no-duplicate",180,19,"duplicated align attribute","align= rowspan=\"4\""],["no-ignored",249,26,"containing invalid attribute","  |align=|"]]

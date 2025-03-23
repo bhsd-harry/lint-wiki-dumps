@@ -1,1 +1,1 @@
-window.data=[[8,"lonely-bracket",345,2037,"{{"],[1,"unmatched-tag",120,121,"<s>"]]
+window.data=[["unmatched-tag",120,121,"unclosed tag","<s>"],["lonely-bracket",345,2037,"lonely \"{\"","{{"],["lonely-bracket",345,2219,"lonely \"}\"","}}"],["lonely-bracket",345,2235,"lonely \"{\"","{{"],["lonely-bracket",345,2413,"lonely \"}\"","}}"],["lonely-bracket",345,2431,"lonely \"{\"","{{"],["lonely-bracket",345,2610,"lonely \"}\"","}}"],["lonely-bracket",345,2626,"lonely \"{\"","{{"],["lonely-bracket",345,2806,"lonely \"}\"","}}"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",76,2,"[[Category:苏联空军军官]]"]]
+window.data=[["no-duplicate",76,2,"duplicated category","[[Category:苏联空军军官]]"],["no-duplicate",78,2,"duplicated category","[[Category:苏联空军军官]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",33,2,"[[Category:在线备份服务]]"]]
+window.data=[["no-duplicate",33,2,"duplicated category","[[Category:在线备份服务]]"],["no-duplicate",37,2,"duplicated category","[[Category:在线备份服务]]"],["no-duplicate",34,2,"duplicated category","[[Category:文件共享服务]]"],["no-duplicate",38,2,"duplicated category","[[Category:文件共享服务]]"]]

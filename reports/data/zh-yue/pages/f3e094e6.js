@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,39,"duplicated parameter","title=英語指南"]]
+window.data=[["no-duplicate",2,39,"duplicated parameter","title=英語指南"],["no-duplicate",2,50,"duplicated parameter","title=黃履卿"]]

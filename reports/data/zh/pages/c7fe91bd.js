@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",35,42,"RIGHT"]]
+window.data=[["no-duplicate",35,42,"duplicated image caption parameter","RIGHT"],["no-duplicate",35,54,"duplicated image caption parameter","''亨利·格林(1825–1861). 《人体解剖》。''"],["no-duplicate",49,28,"duplicated image caption parameter","RIGHT"],["no-duplicate",49,40,"duplicated image caption parameter","腹部脏器与大血管的关系。"]]

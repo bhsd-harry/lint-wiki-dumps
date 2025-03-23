@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3,"duplicated parameter"," height = \n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter"," height = \n "],["no-duplicate",11,3,"duplicated parameter"," height         = {{height|m=1.77}}\n "]]

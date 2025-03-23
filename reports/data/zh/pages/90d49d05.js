@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",46,2,"[[Category:韓國翻譯家]]"],[1,"unmatched-tag",2,44,"<small>"]]
+window.data=[["unmatched-tag",2,44,"unclosed tag","<small>"],["no-duplicate",46,2,"duplicated category","[[Category:韓國翻譯家]]"],["no-duplicate",48,2,"duplicated category","[[Category:韓國翻譯家]]"],["no-duplicate",47,2,"duplicated category","[[Category:英國裔韓國人]]"],["no-duplicate",49,2,"duplicated category","[[Category:英國裔韓國人]]"]]

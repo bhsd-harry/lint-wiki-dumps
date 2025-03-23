@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",156,31,"]]"],[1,"parsing-order",2,22,"<br>"],[2,"tag-like",129,9,"<style"]]
+window.data=[["parsing-order",2,22,"HTML tag in table attributes","<br>"],["tag-like",129,9,"lonely \"<\"","<style"],["tag-like",129,235,"lonely \"<\"","</style"],["lonely-bracket",156,31,"lonely \"]\"","]]"]]

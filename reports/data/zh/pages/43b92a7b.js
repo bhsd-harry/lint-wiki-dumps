@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",10880,35,"松島恵利子"],[6,"unmatched-tag",5386,2,"</div>"]]
+window.data=[["unmatched-tag",5386,2,"unmatched closing tag","</div>"],["unmatched-tag",5887,2,"unmatched closing tag","</div>"],["unmatched-tag",6478,2,"unmatched closing tag","</div>"],["unmatched-tag",8229,2,"unmatched closing tag","</div>"],["unmatched-tag",8734,2,"unmatched closing tag","</div>"],["unmatched-tag",9425,2,"unmatched closing tag","</div>"],["no-ignored",10880,35,"containing invalid attribute","松島恵利子"]]

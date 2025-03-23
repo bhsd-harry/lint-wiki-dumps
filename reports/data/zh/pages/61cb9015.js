@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",93,2,"[[Category:马德里自治区市镇]]"],[1,"unmatched-tag",85,1504,"</small>"]]
+window.data=[["unmatched-tag",85,1504,"unmatched closing tag","</small>"],["no-duplicate",93,2,"duplicated category","[[Category:马德里自治区市镇]]"],["no-duplicate",95,2,"duplicated category","[[Category:马德里自治区市镇]]"]]

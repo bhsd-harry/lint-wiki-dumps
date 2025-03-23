@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,105,"縮略圖"]]
+window.data=[["no-duplicate",20,105,"duplicated image caption parameter","縮略圖"],["no-duplicate",20,111,"duplicated image caption parameter","對比比例字體[[Times New Roman]]（上）和等寬字體[[Courier New]]（下）顯示同一段[[C語言]]代碼的效果"]]

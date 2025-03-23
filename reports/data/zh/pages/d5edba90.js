@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",24,36,"''Michelia champaca "]]
+window.data=[["no-duplicate",24,36,"duplicated image caption parameter","''Michelia champaca "],["no-duplicate",24,57,"duplicated image caption parameter","L.的花和叶"]]

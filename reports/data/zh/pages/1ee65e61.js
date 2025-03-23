@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",509,37,"{{"],[2,"no-duplicate",509,34,"假設的{{nowrap "]]
+window.data=[["lonely-bracket",509,37,"lonely \"{\"","{{"],["no-duplicate",509,34,"duplicated image caption parameter","假設的{{nowrap "],["no-duplicate",509,47,"duplicated image caption parameter"," [[奧爾特雲]]示意圖：球形的外雲與圓盤形的內雲。"]]

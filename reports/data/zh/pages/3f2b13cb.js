@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",42,24,"width=\"98%\""]]
+window.data=[["no-duplicate",42,24,"duplicated width attribute","width=\"98%\""],["no-duplicate",42,64,"duplicated width attribute","width=100%"]]

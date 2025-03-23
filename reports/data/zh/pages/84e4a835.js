@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,3," 校长 = \n "]]
+window.data=[["no-duplicate",11,3,"duplicated parameter"," 校长 = \n "],["no-duplicate",12,3,"duplicated parameter"," 校长 = 罗旺次仁\n "]]

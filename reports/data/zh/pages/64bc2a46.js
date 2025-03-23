@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",175,39,"colspan"],[2,"no-duplicate",15,3,"operator       = 绍兴市轨道交通集团有限公司运营分公司\n "]]
+window.data=[["no-duplicate",15,3,"duplicated parameter","operator       = 绍兴市轨道交通集团有限公司运营分公司\n "],["no-duplicate",18,3,"duplicated parameter","operator       = \n "],["illegal-attr",175,39,"illegal attribute name","colspan"]]

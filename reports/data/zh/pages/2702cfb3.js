@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",122,2,"[[Category:后传电子游戏]]"]]
+window.data=[["no-duplicate",122,2,"duplicated category","[[Category:后传电子游戏]]"],["no-duplicate",125,2,"duplicated category","[[Category:后传电子游戏]]"]]

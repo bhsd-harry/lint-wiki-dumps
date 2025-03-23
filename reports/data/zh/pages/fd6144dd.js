@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",46,2,"[[Category:马克斯·普朗克奖章获得者]]"]]
+window.data=[["no-duplicate",46,2,"duplicated category","[[Category:马克斯·普朗克奖章获得者]]"],["no-duplicate",52,2,"duplicated category","[[Category:马克斯·普朗克奖章获得者]]"]]

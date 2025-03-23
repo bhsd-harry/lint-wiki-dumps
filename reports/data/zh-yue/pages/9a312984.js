@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",6,16,"illegal attribute name","cellspacing"],[1,"no-ignored",3,78,"containing invalid attribute","  | background:#f9f9f9; width:50%; font-size:small;\""]]
+window.data=[["no-ignored",3,78,"containing invalid attribute","  | background:#f9f9f9; width:50%; font-size:small;\""],["illegal-attr",6,16,"illegal attribute name","cellspacing"],["illegal-attr",6,33,"illegal attribute name","cellpadding"]]

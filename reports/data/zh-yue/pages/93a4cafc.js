@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",32,435,"duplicated parameter","url-status=live"]]
+window.data=[["no-duplicate",32,435,"duplicated parameter","url-status=live"],["no-duplicate",32,582,"duplicated parameter","url-status=live"],["no-duplicate",37,345,"duplicated parameter","url-status=live"],["no-duplicate",37,487,"duplicated parameter","url-status=live"]]

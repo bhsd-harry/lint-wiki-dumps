@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,2,"[[Category:2020年美國總統選舉|*]]"]]
+window.data=[["no-duplicate",25,2,"duplicated category","[[Category:2020年美國總統選舉|*]]"],["no-duplicate",31,2,"duplicated category","[[Category:2020年美國總統選舉]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",202,2,"[[Category:西藏独立运动人物]]"]]
+window.data=[["no-duplicate",202,2,"duplicated category","[[Category:西藏独立运动人物]]"],["no-duplicate",216,2,"duplicated category","[[Category:西藏独立运动人物]]"],["no-duplicate",204,2,"duplicated category","[[Category:美國藏傳佛教徒]]"],["no-duplicate",211,2,"duplicated category","[[Category:美國藏傳佛教徒]]"]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",31,3," cn_name        = \n "]]
+window.data=[["no-duplicate",31,3,"duplicated parameter"," cn_name        = \n "],["no-duplicate",39,3,"duplicated parameter"," cn_name = \n "],["no-duplicate",32,3,"duplicated parameter"," hk_name        = \n "],["no-duplicate",38,3,"duplicated parameter"," hk_name = AI愛上你\n "],["no-duplicate",33,3,"duplicated parameter"," tw_name        = \n "],["no-duplicate",34,3,"duplicated parameter"," tw_name = AI愛情故事\n "]]

@@ -1,1 +1,1 @@
-window.data=[[3,"nested-link",7,189,"[[渣甸山]]"]]
+window.data=[["nested-link",7,189,"internal link in an external link","[[渣甸山]]"],["nested-link",7,197,"internal link in an external link","[[黃泥涌峽]]"],["nested-link",7,525,"internal link in an external link","[[號]]"]]

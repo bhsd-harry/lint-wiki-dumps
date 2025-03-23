@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",35,182,"[[INSPIRE-HEP]]"]]
+window.data=[["nested-link",35,182,"internal link in an external link","[[INSPIRE-HEP]]"]]

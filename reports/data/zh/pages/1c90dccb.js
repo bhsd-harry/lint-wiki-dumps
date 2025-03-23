@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",44,19,"自动晋级"]]
+window.data=[["no-ignored",44,19,"containing invalid attribute","自动晋级"]]

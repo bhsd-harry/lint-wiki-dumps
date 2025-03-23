@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",62,179,"{{"],[2,"no-duplicate",12,3,"map_caption = \n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter","map_caption = \n "],["no-duplicate",14,3,"duplicated parameter","map_caption =\n "],["lonely-bracket",62,179,"lonely \"{\"","{{"]]

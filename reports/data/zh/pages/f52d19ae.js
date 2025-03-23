@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",367,3,"sire=\n "]]
+window.data=[["no-duplicate",367,3,"duplicated parameter","sire=\n "],["no-duplicate",368,3,"duplicated parameter","sire=金滿寶系（淘金者系）\n "]]

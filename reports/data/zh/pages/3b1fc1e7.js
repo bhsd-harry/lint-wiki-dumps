@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,3," authority = Pallas, 1770\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," authority = Pallas, 1770\n "],["no-duplicate",13,3,"duplicated parameter"," authority = ([[Peter Simon Pallas|Pallas]], 1770)\n "]]

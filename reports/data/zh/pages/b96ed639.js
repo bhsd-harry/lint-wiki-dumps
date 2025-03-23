@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",448,2,"[[Category:金鐘獎頒獎典禮]]"]]
+window.data=[["no-duplicate",448,2,"duplicated category","[[Category:金鐘獎頒獎典禮]]"],["no-duplicate",454,2,"duplicated category","[[Category:金鐘獎頒獎典禮]]"],["no-duplicate",449,2,"duplicated category","[[Category:2022年台灣獎項]]"],["no-duplicate",455,2,"duplicated category","[[Category:2022年台灣獎項]]"]]

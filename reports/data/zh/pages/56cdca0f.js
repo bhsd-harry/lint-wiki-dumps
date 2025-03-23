@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",119,2,"[[Category:重庆人]]"]]
+window.data=[["invalid-css",101,68,"semi-colon expected",""],["invalid-css",101,67,"colon expected","="],["no-duplicate",119,2,"duplicated category","[[Category:重庆人]]"],["no-duplicate",124,2,"duplicated category","[[Category:重庆人]]"],["no-duplicate",121,2,"duplicated category","[[Category:中國電視女演員]]"],["no-duplicate",126,2,"duplicated category","[[Category:中國電視女演員]]"]]

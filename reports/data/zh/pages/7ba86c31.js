@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",103,3," --system <jdk>"]]
+window.data=[["no-ignored",103,3,"containing invalid attribute"," --system <jdk>"]]

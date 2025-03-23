@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",94,2,"[[Category:北京市各人民法院]]"]]
+window.data=[["no-duplicate",94,2,"duplicated category","[[Category:北京市各人民法院]]"],["no-duplicate",100,2,"duplicated category","[[Category:北京市各人民法院]]"],["no-duplicate",95,2,"duplicated category","[[Category:北京市金融]]"],["no-duplicate",101,2,"duplicated category","[[Category:北京市金融]]"],["no-duplicate",97,2,"duplicated category","[[Category:2021年设立的中华人民共和国政府机构]]"],["no-duplicate",103,2,"duplicated category","[[Category:2021年设立的中华人民共和国政府机构]]"]]

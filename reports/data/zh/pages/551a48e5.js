@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",4,34,"{{largethumb}}"]]
+window.data=[["no-duplicate",4,34,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",4,49,"duplicated image caption parameter","營養酵母片"],["no-duplicate",5,44,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",5,59,"duplicated image caption parameter","一些电影院提供营养酵母给{{tsl|en|popcorn seasoning|爆米花调味}}"]]

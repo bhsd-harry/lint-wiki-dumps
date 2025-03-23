@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",17,124,"name=\"MIS-v3\""],[2,"no-ignored",17,137,"  /<ref "],[2,"tag-like",17,140,"<ref"]]
+window.data=[["tag-like",17,140,"lonely \"<\"","<ref"],["tag-like",17,162,"lonely \"<\"","<ref"],["no-ignored",17,137,"containing invalid attribute","  /<ref "],["no-ignored",17,159,"containing invalid attribute","  /<ref "],["no-duplicate",17,124,"duplicated name attribute","name=\"MIS-v3\""],["no-duplicate",17,145,"duplicated name attribute","name=\"TnC-144\""],["no-duplicate",17,167,"duplicated name attribute","name=\"WIS-What\""]]

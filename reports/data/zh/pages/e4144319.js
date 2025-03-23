@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,60,"英勇自我牺牲纪念碑"]]
+window.data=[["no-duplicate",1,60,"duplicated image caption parameter","英勇自我牺牲纪念碑"],["no-duplicate",1,70,"duplicated image caption parameter",""]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,49,"Right"]]
+window.data=[["no-duplicate",6,49,"duplicated image caption parameter","Right"],["no-duplicate",6,55,"duplicated image caption parameter","有机肼化合物的通式"]]

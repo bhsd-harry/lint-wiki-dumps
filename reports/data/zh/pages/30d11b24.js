@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,2,"[[Category:蕨类植物学家]]"]]
+window.data=[["no-duplicate",32,2,"duplicated category","[[Category:蕨类植物学家]]"],["no-duplicate",35,2,"duplicated category","[[Category:蕨类植物学家]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",200,33,"buttom"]]
+window.data=[["no-duplicate",200,33,"duplicated image caption parameter","buttom"],["no-duplicate",200,40,"duplicated image caption parameter","弗里克美術館"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",45,45,"250px"],[2,"no-duplicate",45,37,"ліворуч"]]
+window.data=[["invalid-gallery",45,45,"invalid image parameter","250px"],["no-duplicate",45,37,"duplicated image caption parameter","ліворуч"],["no-duplicate",45,51,"duplicated image caption parameter","十九世紀西藏的釋迦牟尼佛像"]]

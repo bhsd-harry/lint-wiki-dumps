@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",12,943,"["],[4,"nested-link",5,291,"[[德国之声]]"]]
+window.data=[["nested-link",5,291,"internal link in an external link","[[德国之声]]"],["nested-link",5,725,"internal link in an external link","[[新华社]]"],["nested-link",5,1138,"internal link in an external link","[[德国之声]]"],["nested-link",10,1910,"internal link in an external link","[[歌德学院]]"],["lonely-bracket",12,943,"lonely \"[\"","["],["lonely-bracket",44,202,"lonely \"]\"","]"]]

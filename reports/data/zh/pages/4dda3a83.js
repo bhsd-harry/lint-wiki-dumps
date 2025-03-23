@@ -1,1 +1,1 @@
-window.data=[[5,"no-ignored",7,990," 张广友等，新华社内参1980年11月6日"]]
+window.data=[["no-ignored",7,990,"containing invalid attribute"," 张广友等，新华社内参1980年11月6日"],["no-ignored",21,169,"containing invalid attribute"," 张广友等，新华社内参1980年11月6日"],["no-ignored",30,486,"containing invalid attribute"," 张广友等，新华社内参1980年11月6日"],["no-ignored",34,713,"containing invalid attribute"," 张广友等，新华社内参1980年11月6日"],["no-ignored",44,124,"containing invalid attribute"," 张广友等，新华社内参1980年11月6日"]]

@@ -1,1 +1,1 @@
-window.data=[[3,"invalid-isbn",403,16,"ISBN 978-4-04-713872-X"],[1,"lonely-bracket",129,3,"{{"],[1,"no-ignored",617,68,"松田剛吏"]]
+window.data=[["lonely-bracket",129,3,"lonely \"{\"","{{"],["invalid-isbn",403,16,"invalid ISBN","ISBN 978-4-04-713872-X"],["invalid-isbn",407,15,"invalid ISBN","ISBN 4-04-713912-1"],["invalid-isbn",411,16,"invalid ISBN","ISBN 978-4-04-713954-8"],["no-ignored",617,68,"containing invalid attribute","松田剛吏"]]

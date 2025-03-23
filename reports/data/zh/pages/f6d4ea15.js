@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3,"birth_name = 橫田邦子\n "]]
+window.data=[["no-duplicate",4,3,"duplicated parameter","birth_name = 橫田邦子\n "],["no-duplicate",31,3,"duplicated parameter","birth_name = 横田邦子\n "]]

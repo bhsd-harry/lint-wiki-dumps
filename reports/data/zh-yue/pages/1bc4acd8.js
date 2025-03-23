@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,191,"duplicated parameter","title=成立日子、正副主席"]]
+window.data=[["no-duplicate",9,191,"duplicated parameter","title=成立日子、正副主席"],["no-duplicate",9,207,"duplicated parameter","title=成立日子、正副主席"]]

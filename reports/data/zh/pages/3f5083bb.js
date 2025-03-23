@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",84,2,"[[Category:伊拉克法律]]"]]
+window.data=[["no-duplicate",84,2,"duplicated category","[[Category:伊拉克法律]]"],["no-duplicate",88,2,"duplicated category","[[Category:伊拉克法律]]"]]

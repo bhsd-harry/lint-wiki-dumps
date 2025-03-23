@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",50,2,"[[Category:北宋府尹]]"]]
+window.data=[["no-duplicate",50,2,"duplicated category","[[Category:北宋府尹]]"],["no-duplicate",54,2,"duplicated category","[[Category:北宋府尹]]"]]

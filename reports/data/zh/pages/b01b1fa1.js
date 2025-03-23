@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",94,4,"!次序!!姓名!!在任时期!!所属大学!!专业"]]
+window.data=[["no-ignored",94,4,"containing invalid attribute","!次序!!姓名!!在任时期!!所属大学!!专业"]]

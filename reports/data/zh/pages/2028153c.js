@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",29,1," {{Photomontage"]]
+window.data=[["no-ignored",29,1,"invalid content in <gallery>"," {{Photomontage"]]

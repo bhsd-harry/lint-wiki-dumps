@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",107,2,"[[Category:虛構男性香港人]]"]]
+window.data=[["no-duplicate",107,2,"duplicated category","[[Category:虛構男性香港人]]"],["no-duplicate",116,2,"duplicated category","[[Category:虛構男性香港人]]"]]

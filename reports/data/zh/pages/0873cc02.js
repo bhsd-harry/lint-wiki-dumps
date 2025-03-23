@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",64,3,"俺物語真人版電影"]]
+window.data=[["no-ignored",64,3,"containing invalid attribute","俺物語真人版電影"]]

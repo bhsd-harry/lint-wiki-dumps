@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",43,13," 标1 = 出入口 "]]
+window.data=[["no-duplicate",43,13,"duplicated parameter"," 标1 = 出入口 "],["no-duplicate",45,15,"duplicated parameter"," 标1 = 站台\n "]]

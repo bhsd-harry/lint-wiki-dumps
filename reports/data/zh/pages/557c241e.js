@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",97,57,"alt="]]
+window.data=[["no-duplicate",97,57,"duplicated image alt parameter","alt="],["no-duplicate",97,62,"duplicated image alt parameter","alt=1895 engraving of Brooklyn Borough Hall"]]

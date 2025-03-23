@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",63,2,"[[Category:歙縣人|L]]"]]
+window.data=[["no-duplicate",63,2,"duplicated category","[[Category:歙縣人|L]]"],["no-duplicate",65,2,"duplicated category","[[Category:歙縣人]]"]]

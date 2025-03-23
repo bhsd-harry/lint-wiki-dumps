@@ -1,1 +1,1 @@
-window.data=[[3,"no-ignored",118,24,"  |+ '''美国管理转基因食品的职能部门'''"]]
+window.data=[["no-ignored",118,24,"containing invalid attribute","  |+ '''美国管理转基因食品的职能部门'''"],["no-ignored",145,22,"containing invalid attribute","  |+ '''日本管理转基因食品的职能部门'''"],["no-ignored",169,39,"containing invalid attribute","|+ '''中国大陆地区颁布的转基因食品相关法律'''"]]

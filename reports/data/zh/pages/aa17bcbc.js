@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",42,2,"[[Category:薩哈共和國首腦]]"]]
+window.data=[["no-duplicate",42,2,"duplicated category","[[Category:薩哈共和國首腦]]"],["no-duplicate",49,2,"duplicated category","[[Category:薩哈共和國首腦]]"]]

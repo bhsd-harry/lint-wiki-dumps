@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",173,2,"[[Category:薩里取景電影]]"]]
+window.data=[["no-duplicate",173,2,"duplicated category","[[Category:薩里取景電影]]"],["no-duplicate",182,2,"duplicated category","[[Category:薩里取景電影]]"]]

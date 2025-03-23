@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",711,1," # [[File:Cruz Roja.svg|12px]]者為傷患球員"],[2,"lonely-bracket",1049,21,"[["],[2,"no-ignored",552,135,"  &nbsp;"]]
+window.data=[["no-ignored",552,135,"containing invalid attribute","  &nbsp;"],["fostered-content",711,1,"content to be moved out from the table"," # [[File:Cruz Roja.svg|12px]]者為傷患球員"],["lonely-bracket",1049,21,"lonely \"[\"","[["],["lonely-bracket",1049,25,"lonely \"]\"","]]"],["no-ignored",1049,20,"containing invalid attribute"," [[傑志]]"]]

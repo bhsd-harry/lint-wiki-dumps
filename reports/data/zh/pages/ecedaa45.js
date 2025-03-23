@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",42,40,"LEFT"]]
+window.data=[["no-duplicate",42,40,"duplicated image caption parameter","LEFT"],["no-duplicate",42,45,"duplicated image caption parameter","[[保連達]]代表巴黎聖日耳門對[[阿仙奴]]。"]]

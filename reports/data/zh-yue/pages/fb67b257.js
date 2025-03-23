@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3,"duplicated parameter"," regnum             = \n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter"," regnum             = \n "],["no-duplicate",8,3,"duplicated parameter"," regnum             = [[植物界]] Plantae\n "]]

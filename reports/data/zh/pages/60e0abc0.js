@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",196,12,"ref=Аклеев А. В., Подтёсов Г. Н. "]]
+window.data=[["no-duplicate",196,12,"duplicated parameter","ref=Аклеев А. В., Подтёсов Г. Н. "],["no-duplicate",204,4,"duplicated parameter","ref      ={{sfnref|Ильин|Губанов|2001|page=134}}\n "]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",25,2,"[[Category:行政法院| ]]"]]
+window.data=[["no-duplicate",25,2,"duplicated category","[[Category:行政法院| ]]"],["no-duplicate",28,2,"duplicated category","[[Category:行政法院| ]]"],["no-duplicate",26,2,"duplicated category","[[Category:审判机关类型]]"],["no-duplicate",29,2,"duplicated category","[[Category:审判机关类型]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",148,2,"[[Category:交通部中央氣象署|測]]"]]
+window.data=[["no-duplicate",148,2,"duplicated category","[[Category:交通部中央氣象署|測]]"],["no-duplicate",150,2,"duplicated category","[[Category:交通部中央氣象署]]"]]

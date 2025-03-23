@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",10,3,"duplicated parameter"," free_label = \n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter"," free_label = \n "],["no-duplicate",12,3,"duplicated parameter"," free_label = 級別\n "],["no-duplicate",11,3,"duplicated parameter"," free_text = \n "],["no-duplicate",13,3,"duplicated parameter"," free_text = 技工學校\n "]]

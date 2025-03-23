@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",32,45,"alt=Plane in flight with bits coming off."]]
+window.data=[["no-duplicate",32,45,"duplicated image alt parameter","alt=Plane in flight with bits coming off."],["no-duplicate",32,153,"duplicated image alt parameter","alt=Gunsight view: In the bottom left, a fighter aircraft is seen from the rear, its tail plane is separated and above it, a cluster of bright tracer "]]

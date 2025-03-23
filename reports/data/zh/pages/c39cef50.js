@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",2640,3,"nowrap"],[2,"no-duplicate",2191,3,"rowspan=2"]]
+window.data=[["no-duplicate",2191,3,"duplicated rowspan attribute","rowspan=2"],["no-duplicate",2191,13,"duplicated rowspan attribute","rowspan=2"],["illegal-attr",2640,3,"illegal attribute name","nowrap"]]

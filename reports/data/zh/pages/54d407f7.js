@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",18,55,"[[香港甲組足球聯賽]]"]]
+window.data=[["nested-link",18,55,"internal link in an external link","[[香港甲組足球聯賽]]"]]

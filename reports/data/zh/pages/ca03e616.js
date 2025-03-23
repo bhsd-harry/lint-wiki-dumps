@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,57,"Breccia di Porta Pia Ademollo"]]
+window.data=[["no-duplicate",9,57,"duplicated image caption parameter","Breccia di Porta Pia Ademollo"],["no-duplicate",9,93,"duplicated image caption parameter","caption=The breach of Porta Pia."]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,2,"[[Category:亞洲運動會射擊獎牌得主]]"]]
+window.data=[["no-duplicate",11,2,"duplicated category","[[Category:亞洲運動會射擊獎牌得主]]"],["no-duplicate",19,2,"duplicated category","[[Category:亞洲運動會射擊獎牌得主]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",417,54,"{{"],[4,"no-duplicate",417,43,"使用P226進行訓練的{{tsl"]]
+window.data=[["lonely-bracket",417,54,"lonely \"{\"","{{"],["no-duplicate",417,43,"duplicated image caption parameter","使用P226進行訓練的{{tsl"],["no-duplicate",417,60,"duplicated image caption parameter","en"],["no-duplicate",417,63,"duplicated image caption parameter","Army Ranger Wing"],["no-duplicate",417,80,"duplicated image caption parameter","[[愛爾蘭陸軍遊騎兵|愛爾蘭陸軍遊騎兵連]]隊員"]]

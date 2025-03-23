@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",98,4,"[["],[1,"no-ignored",98,4,"[[醉拳王無忌]]||少林藥王||"]]
+window.data=[["lonely-bracket",98,4,"lonely \"[\"","[["],["lonely-bracket",98,11,"lonely \"]\"","]]"],["no-ignored",98,4,"containing invalid attribute","[[醉拳王無忌]]||少林藥王||"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,3," products = [[臺北聯營公車|臺北市聯營公車]]<br>[[新北市公車]]<br>[[新北市新巴士]]\n "]]
+window.data=[["no-duplicate",19,3,"duplicated parameter"," products = [[臺北聯營公車|臺北市聯營公車]]<br>[[新北市公車]]<br>[[新北市新巴士]]\n "],["no-duplicate",20,3,"duplicated parameter"," products = \n "]]

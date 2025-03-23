@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",58,83,"ISBN 4035509509"],[2,"no-ignored",48,54," lang=ja"]]
+window.data=[["no-ignored",48,54,"attributes of a closing tag"," lang=ja"],["no-ignored",58,38,"attributes of a closing tag"," lang=ja"],["invalid-isbn",58,83,"invalid ISBN","ISBN 4035509509"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",94,21,"width"],[2,"no-duplicate",57,3,"aircraft_helicopter_cargo=\n "]]
+window.data=[["no-duplicate",57,3,"duplicated parameter","aircraft_helicopter_cargo=\n "],["no-duplicate",60,3,"duplicated parameter","aircraft_helicopter_cargo=[[Eurocopter Super Puma]][[Aérospatiale Dauphin]]  \n "],["illegal-attr",94,21,"illegal attribute name","width"]]

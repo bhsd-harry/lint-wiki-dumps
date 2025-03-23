@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,3," writer = {{Plainlist|\n * [[Efthimis Filippou]]\n * 尤格·藍西莫\n }}\n "]]
+window.data=[["no-duplicate",21,3,"duplicated parameter"," writer = {{Plainlist|\n * [[Efthimis Filippou]]\n * 尤格·藍西莫\n }}\n "],["no-duplicate",25,3,"duplicated parameter"," writer = {{link-el|艾浮堤米思·菲利普|Ευθύμης Φιλίππου}}<br>尤格·藍西莫\n "]]

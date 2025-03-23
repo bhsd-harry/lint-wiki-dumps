@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",35,78,"https://"],[2,"no-duplicate",1,46,"Cafe Deco Pizzeria Interior Photo"]]
+window.data=[["no-duplicate",1,46,"duplicated image caption parameter","Cafe Deco Pizzeria Interior Photo"],["no-duplicate",1,84,"duplicated image caption parameter","Cafe Deco Group旗下餐廳Cafe Deco Pizzeria"],["lonely-http",35,78,"lonely \"https://\"","https://"]]

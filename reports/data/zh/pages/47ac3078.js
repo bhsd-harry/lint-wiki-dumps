@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",37,49,"来自古瑟夫撞击坑的首张彩色照片。岩石被发现是玄武岩，所有一切都被勇气号确认为带有磁性的细尘埃所覆盖。Image:Rockgusev.jpg"]]
+window.data=[["no-duplicate",37,49,"duplicated image caption parameter","来自古瑟夫撞击坑的首张彩色照片。岩石被发现是玄武岩，所有一切都被勇气号确认为带有磁性的细尘埃所覆盖。Image:Rockgusev.jpg"],["no-duplicate",37,119,"duplicated image caption parameter","古瑟夫撞击坑平原典型岩石的横截面图。大多数岩石都含有一层尘埃和一层或多层坚硬的薄外壳。可看到水沉积矿脉以及橄榄石晶体。矿脉中可能含有溴盐。"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",65,127,"[[Museum of New Zealand Te Papa Tongarewa]]"]]
+window.data=[["nested-link",65,127,"internal link in an external link","[[Museum of New Zealand Te Papa Tongarewa]]"]]

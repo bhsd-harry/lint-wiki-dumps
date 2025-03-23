@@ -1,1 +1,1 @@
-window.data=[[5,"nested-link",14,113,"[[哈羅德·強生 (天文學家)|Johnson, H. L.]]"]]
+window.data=[["nested-link",14,113,"internal link in an external link","[[哈羅德·強生 (天文學家)|Johnson, H. L.]]"],["nested-link",14,150,"internal link in an external link","[[威廉·威爾遜·摩根|Morgan]]"],["nested-link",15,113,"internal link in an external link","[[艾倫·威廉·詹姆士·考欣|Cousins, A. W. J.]]"],["nested-link",16,113,"internal link in an external link","[[艾倫·威廉·詹姆士·考欣|Cousins, A. W. J.]]"],["nested-link",17,113,"internal link in an external link","[[Michael S. Bessell|Bessell, M. S.]]"]]

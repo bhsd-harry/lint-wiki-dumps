@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",244,30,"alt={{Lang|tok|sitelen sitelen}}词典"]]
+window.data=[["no-duplicate",244,30,"duplicated image alt parameter","alt={{Lang|tok|sitelen sitelen}}词典"],["no-duplicate",244,114,"duplicated image alt parameter","alt=一张有15个横排的表格，前13个横排各有10个元素，第14横排有8个元素，最后一横排有7个元素。每个元素都是一个道本语单词或标点符号的{{Lang|tok|sitelen sitelen}}写法。"]]

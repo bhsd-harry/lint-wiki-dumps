@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",280,2,"[[Category:一級熱帶氣旋|Chaba]]"]]
+window.data=[["no-duplicate",280,2,"duplicated category","[[Category:一級熱帶氣旋|Chaba]]"],["no-duplicate",289,2,"duplicated category","[[Category:一級熱帶氣旋]]"]]

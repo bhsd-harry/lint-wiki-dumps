@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",6,3,"3=zh-cn:公交枢纽站;zh-hk:公共運輸交匯處;zh-tw:公車轉運站;\n "]]
+window.data=[["no-duplicate",6,3,"duplicated parameter","3=zh-cn:公交枢纽站;zh-hk:公共運輸交匯處;zh-tw:公車轉運站;\n "],["no-duplicate",7,3,"duplicated parameter","3=zh-cn:公交总站;zh-hk:巴士總站;zh-tw:轉運站;\n "],["no-duplicate",12,3,"duplicated parameter"," symbol_right = {{rint|cn|rail}}\n "],["no-duplicate",17,3,"duplicated parameter"," symbol_right = {{rint|cn|rail}}\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",20,39,"RIGHt"]]
+window.data=[["no-duplicate",20,39,"duplicated image caption parameter","RIGHt"],["no-duplicate",20,45,"duplicated image caption parameter","[[理查·歐文]]發現的另一個標本（編號NHMUK PV R 41212）"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",1,64,"duplicated image thumbnail parameter","thumb"]]
+window.data=[["no-duplicate",1,64,"duplicated image thumbnail parameter","thumb"],["no-duplicate",1,81,"duplicated image thumbnail parameter","thumb"],["no-duplicate",1,70,"duplicated image caption parameter","北約克公共圖書館大樓"],["no-duplicate",1,87,"duplicated image caption parameter","圖書館大樓"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",175,5,"[["],[1,"no-ignored",175,4,"|[[湯志偉]]||任重||align=left|任非的爸爸，局長。||[[張錦江]]"]]
+window.data=[["lonely-bracket",175,5,"lonely \"[\"","[["],["lonely-bracket",175,10,"lonely \"]\"","]]"],["lonely-bracket",175,40,"lonely \"[\"","[["],["lonely-bracket",175,45,"lonely \"]\"","]]"],["no-ignored",175,4,"containing invalid attribute","|[[湯志偉]]||任重||align=left|任非的爸爸，局長。||[[張錦江]]"]]

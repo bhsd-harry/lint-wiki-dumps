@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",248,2,"[[Category:波士顿凯尔特人教练]]"]]
+window.data=[["no-duplicate",248,2,"duplicated category","[[Category:波士顿凯尔特人教练]]"],["no-duplicate",251,2,"duplicated category","[[Category:波士顿凯尔特人教练]]"]]

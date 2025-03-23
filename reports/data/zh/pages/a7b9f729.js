@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,2,"[[Category:田納西州行政區劃|M]]"]]
+window.data=[["no-duplicate",7,2,"duplicated category","[[Category:田納西州行政區劃|M]]"],["no-duplicate",10,2,"duplicated category","[[Category:田納西州行政區劃]]"]]

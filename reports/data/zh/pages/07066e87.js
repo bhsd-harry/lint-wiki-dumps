@@ -1,1 +1,1 @@
-window.data=[[3,"pipe-like",120,39," || Released on 1998-04-10."]]
+window.data=[["pipe-like",120,39,"additional \"|\" in a table cell"," || Released on 1998-04-10."],["pipe-like",124,15,"additional \"|\" in a table cell","  #15 Billboard Top Internet Albums || "],["pipe-like",134,21,"additional \"|\" in a table cell"," ||  Released on 2005-12-09."]]

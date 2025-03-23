@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",8,3,"zh-tw:小丑女;zh-sg:小丑女;zh-cn:哈莉·奎茵;\n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter","zh-tw:小丑女;zh-sg:小丑女;zh-cn:哈莉·奎茵;\n "],["no-duplicate",5,3,"duplicated parameter","1=zh-hans:凯莉·库柯;zh-tw:凱莉·庫柯;zh-hk:姬莉·戈高;\n "],["no-duplicate",9,3,"duplicated parameter","zh-tw:《小丑女》;zh-sg:《小丑女》;zh-cn:《哈莉·奎茵》;\n "],["no-duplicate",6,3,"duplicated parameter","2=zh-hans:凯莉;zh-tw:凱莉;zh-hk:姬莉;\n "]]

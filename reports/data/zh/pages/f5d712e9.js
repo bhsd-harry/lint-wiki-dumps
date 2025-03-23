@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",191,15,"ISBN 986-11-8752-5"],[1,"lonely-bracket",351,76,"{{"],[1,"no-ignored",351,76,"{{link-ja"]]
+window.data=[["invalid-isbn",191,15,"invalid ISBN","ISBN 986-11-8752-5"],["lonely-bracket",351,76,"lonely \"{\"","{{"],["no-ignored",351,76,"containing invalid attribute","{{link-ja"]]

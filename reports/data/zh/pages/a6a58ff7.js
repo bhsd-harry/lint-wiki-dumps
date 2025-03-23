@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",164,2,"[[Category:江西省人大常委会主任]]"]]
+window.data=[["no-duplicate",164,2,"duplicated category","[[Category:江西省人大常委会主任]]"],["no-duplicate",172,2,"duplicated category","[[Category:江西省人大常委会主任]]"]]

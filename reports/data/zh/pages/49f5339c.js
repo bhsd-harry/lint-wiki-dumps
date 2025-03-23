@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",38,1896,"id="]]
+window.data=[["no-duplicate",38,1896,"duplicated parameter","id="],["no-duplicate",38,1900,"duplicated parameter","id={{CNKI|BJJY201407018|CJFD|r}}"]]

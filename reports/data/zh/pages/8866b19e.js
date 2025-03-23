@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",50,2,"[[Category:NHK電視劇]]"]]
+window.data=[["no-duplicate",50,2,"duplicated category","[[Category:NHK電視劇]]"],["no-duplicate",57,2,"duplicated category","[[Category:NHK電視劇]]"]]

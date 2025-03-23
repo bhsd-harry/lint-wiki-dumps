@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",213,23,"黒滝"]]
+window.data=[["no-duplicate",213,23,"duplicated image caption parameter","黒滝"],["no-duplicate",213,32,"duplicated image caption parameter","烏場山麓的黑瀧"]]

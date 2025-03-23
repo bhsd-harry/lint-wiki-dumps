@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,50,"Taiwanese Auxiliary Police Car"],[1,"unescaped",188,123,"="]]
+window.data=[["no-duplicate",14,50,"duplicated image caption parameter","Taiwanese Auxiliary Police Car"],["no-duplicate",14,81,"duplicated image caption parameter","早期民防巡邏車，現在塗裝不得與警車相同。\n "],["unescaped",188,123,"unescaped query string in an anonymous parameter","="]]

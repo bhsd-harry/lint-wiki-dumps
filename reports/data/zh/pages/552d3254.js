@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",3,27,"  \"Series Order\""]]
+window.data=[["no-ignored",3,27,"containing invalid attribute","  \"Series Order\""]]

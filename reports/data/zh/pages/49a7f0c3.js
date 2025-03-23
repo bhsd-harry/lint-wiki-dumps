@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,473,"website=Ninth ATPD (Assembly of Tibetan People’s Deputies)"]]
+window.data=[["no-duplicate",8,473,"duplicated parameter","website=Ninth ATPD (Assembly of Tibetan People’s Deputies)"],["no-duplicate",8,532,"duplicated parameter","website=Tibetan Parliament-in-Exile"]]

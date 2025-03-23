@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",161,41,"thumb"],[4,"no-duplicate",28,753,"link="]]
+window.data=[["no-duplicate",28,753,"duplicated image link parameter","link="],["no-duplicate",28,759,"duplicated image link parameter","link=國民政府"],["no-duplicate",52,45,"duplicated image thumbnail parameter","thumb"],["no-duplicate",52,51,"duplicated image thumbnail parameter","thumb"],["invalid-gallery",161,41,"invalid image parameter","thumb"]]

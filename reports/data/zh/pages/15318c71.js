@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",164,545,"链接=https://en.wikipedia.org/wiki/File:Buster Keaton in costume.jpg"]]
+window.data=[["no-duplicate",164,545,"duplicated image caption parameter","链接=https://en.wikipedia.org/wiki/File:Buster Keaton in costume.jpg"],["no-duplicate",164,616,"duplicated image caption parameter","1939年头戴平顶小礼帽的基顿"]]

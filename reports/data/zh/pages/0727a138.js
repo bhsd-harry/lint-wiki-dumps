@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",43,2,"[[Category:美國魚類學家]]"]]
+window.data=[["no-duplicate",43,2,"duplicated category","[[Category:美國魚類學家]]"],["no-duplicate",44,2,"duplicated category","[[Category:美國魚類學家]]"]]

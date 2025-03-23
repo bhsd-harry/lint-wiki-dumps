@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3," image_caption           = \n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter"," image_caption           = \n "],["no-duplicate",44,3,"duplicated parameter"," image_caption           = 瓦尔马约尔教堂\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,29,"left200px"]]
+window.data=[["no-duplicate",9,29,"duplicated image caption parameter","left200px"],["no-duplicate",9,39,"duplicated image caption parameter","1德国制造的MEC-16 SB  16毫米相机"]]

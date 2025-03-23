@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",134,3,"'"],[2,"no-duplicate",207,2,"[[category:美国军用飞机]]"]]
+window.data=[["lonely-apos",134,3,"lonely \"'\"","'"],["no-duplicate",207,2,"duplicated category","[[category:美国军用飞机]]"],["no-duplicate",209,2,"duplicated category","[[category:美国军用飞机]]"]]

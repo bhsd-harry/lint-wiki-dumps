@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,3," physical_ref    = \n "]]
+window.data=[["no-duplicate",25,3,"duplicated parameter"," physical_ref    = \n "],["no-duplicate",28,3,"duplicated parameter"," physical_ref    = \n "]]

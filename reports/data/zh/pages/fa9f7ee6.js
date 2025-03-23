@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",233,24,"rowspan"],[2,"no-duplicate",304,2,"[[Category:病毒題材作品]]"]]
+window.data=[["illegal-attr",233,24,"illegal attribute name","rowspan"],["no-duplicate",304,2,"duplicated category","[[Category:病毒題材作品]]"],["no-duplicate",329,2,"duplicated category","[[Category:病毒題材作品]]"]]

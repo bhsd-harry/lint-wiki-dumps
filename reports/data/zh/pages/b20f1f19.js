@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",364,18,"'"],[2,"no-duplicate",805,2,"[[Category:格拉斯哥男演員]]"]]
+window.data=[["lonely-apos",364,18,"lonely \"'\"","'"],["no-duplicate",805,2,"duplicated category","[[Category:格拉斯哥男演員]]"],["no-duplicate",808,2,"duplicated category","[[Category:格拉斯哥男演員]]"]]

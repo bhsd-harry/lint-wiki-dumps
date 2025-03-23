@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",31,391,"[[哈尔滨——伯力　海参崴列车]]"]]
+window.data=[["nested-link",31,391,"internal link in an external link","[[哈尔滨——伯力　海参崴列车]]"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",124,3,"nowrap"],[4,"no-duplicate",224,2,"[[Category:太空站]]"]]
+window.data=[["illegal-attr",124,3,"illegal attribute name","nowrap"],["no-duplicate",224,2,"duplicated category","[[Category:太空站]]"],["no-duplicate",227,2,"duplicated category","[[Category:太空站]]"],["no-duplicate",225,2,"duplicated category","[[Category:货运飞船]]"],["no-duplicate",229,2,"duplicated category","[[Category:货运飞船]]"]]

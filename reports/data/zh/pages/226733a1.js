@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",55,2,"[[Category:发酵奶制品]]"]]
+window.data=[["no-duplicate",55,2,"duplicated category","[[Category:发酵奶制品]]"],["no-duplicate",64,2,"duplicated category","[[Category:发酵奶制品]]"],["no-duplicate",58,2,"duplicated category","[[Category:阿富汗飲食]]"],["no-duplicate",60,2,"duplicated category","[[Category:阿富汗飲食]]"]]

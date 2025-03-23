@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",154,19,"Attacks"],[1,"nested-link",179,52,"[[老鷹想飛]]"]]
+window.data=[["illegal-attr",154,19,"illegal attribute name","Attacks"],["nested-link",179,52,"internal link in an external link","[[老鷹想飛]]"]]

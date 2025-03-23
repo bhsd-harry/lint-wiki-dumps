@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,2,"[[Category:1982年世界盃足球賽裁判]]"]]
+window.data=[["no-duplicate",14,2,"duplicated category","[[Category:1982年世界盃足球賽裁判]]"],["no-duplicate",23,2,"duplicated category","[[Category:1982年世界盃足球賽裁判]]"]]

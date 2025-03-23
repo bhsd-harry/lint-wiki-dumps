@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",2,79,"duplicated image caption parameter","float"]]
+window.data=[["no-duplicate",2,79,"duplicated image caption parameter","float"],["no-duplicate",2,85,"duplicated image caption parameter","文森·梵高"],["no-duplicate",3,53,"duplicated image caption parameter","float"],["no-duplicate",3,65,"duplicated image caption parameter","梵高嘅自畫像（1889年）"]]

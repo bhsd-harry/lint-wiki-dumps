@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",63,133,"1px"],[3,"no-ignored",63,117,"style\":\"border: "]]
+window.data=[["illegal-attr",63,133,"illegal attribute name","1px"],["illegal-attr",63,137,"illegal attribute name","solid"],["no-ignored",63,117,"containing invalid attribute","style\":\"border: "],["no-ignored",63,142,"containing invalid attribute"," #999; background-color:#ffffff;\"}\""],["no-ignored",64,79,"containing invalid attribute","style\":\"background-color: #cccccc;\"}\""]]

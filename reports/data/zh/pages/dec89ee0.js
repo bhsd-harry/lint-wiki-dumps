@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",60,196,"]]"]]
+window.data=[["lonely-bracket",60,196,"lonely \"]\"","]]"],["invalid-css",70,49,"semi-colon expected",":"],["invalid-css",87,49,"semi-colon expected",":"]]

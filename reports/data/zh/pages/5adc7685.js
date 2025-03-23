@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",85,2,"[[Category:纳粹人体试验]]"]]
+window.data=[["no-duplicate",85,2,"duplicated category","[[Category:纳粹人体试验]]"],["no-duplicate",98,2,"duplicated category","[[Category:纳粹人体试验]]"]]

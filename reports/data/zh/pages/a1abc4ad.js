@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",38,2,"[[Category:五代十國藩鎮節度使]]"]]
+window.data=[["no-duplicate",38,2,"duplicated category","[[Category:五代十國藩鎮節度使]]"],["no-duplicate",39,2,"duplicated category","[[Category:五代十國藩鎮節度使]]"]]

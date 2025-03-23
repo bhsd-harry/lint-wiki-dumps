@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",45,2,"[[Category:明朝順天鄉試舉人]]"]]
+window.data=[["no-duplicate",45,2,"duplicated category","[[Category:明朝順天鄉試舉人]]"],["no-duplicate",46,2,"duplicated category","[[Category:明朝順天鄉試舉人]]"]]

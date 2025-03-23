@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,3," club = [[合作金庫]]\n "]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," club = [[合作金庫]]\n "],["no-duplicate",15,3,"duplicated parameter"," club =\n "]]

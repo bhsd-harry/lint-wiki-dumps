@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",284,2,"[[Category:香港數碼廣播節目]]"]]
+window.data=[["no-duplicate",284,2,"duplicated category","[[Category:香港數碼廣播節目]]"],["no-duplicate",300,2,"duplicated category","[[Category:香港數碼廣播節目]]"]]

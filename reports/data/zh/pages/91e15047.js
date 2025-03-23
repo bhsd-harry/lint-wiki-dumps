@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",584,1," <center>\n ;替补名单<br>\n </center>"]]
+window.data=[["fostered-content",584,1,"content to be moved out from the table"," <center>\n ;替补名单<br>\n </center>"]]

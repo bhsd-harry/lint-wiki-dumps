@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",111,44,"]]"],[1,"no-ignored",13,1," ]] - <br />（[[巴西]]）</center>"]]
+window.data=[["no-ignored",13,1,"invalid content in <gallery>"," ]] - <br />（[[巴西]]）</center>"],["lonely-bracket",111,44,"lonely \"]\"","]]"]]

@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",171,4,"nowrap"],[4,"no-duplicate",947,3,"name=黃金旅程\n "]]
+window.data=[["illegal-attr",171,4,"illegal attribute name","nowrap"],["illegal-attr",665,4,"illegal attribute name","nowrap"],["illegal-attr",753,4,"illegal attribute name","nowrap"],["no-duplicate",947,3,"duplicated parameter","name=黃金旅程\n "],["no-duplicate",949,3,"duplicated parameter","name=大和主將\n "],["no-duplicate",948,3,"duplicated parameter","sire=週日寧靜系（Halo系）\n "],["no-duplicate",950,3,"duplicated parameter","sire=週日寧靜系（Halo系）\n "]]

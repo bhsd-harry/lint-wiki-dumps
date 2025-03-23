@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",1175,16,"Canon EF 35mm镜头"]]
+window.data=[["no-duplicate",1175,16,"duplicated image caption parameter","Canon EF 35mm镜头"],["no-duplicate",1175,32,"duplicated image caption parameter","佳能EF 35mm {{f/}}1.4L镜头"],["no-duplicate",1177,16,"duplicated image caption parameter","Canon EF 85mm镜头"],["no-duplicate",1177,32,"duplicated image caption parameter","佳能EF 85mm {{f/}}1.2L镜头"]]

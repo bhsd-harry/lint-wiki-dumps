@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,34,"現代對貝海姆地球儀重建的"]]
+window.data=[["no-duplicate",3,34,"duplicated image caption parameter","現代對貝海姆地球儀重建的"],["no-duplicate",3,47,"duplicated image caption parameter","{{le|球面經線展開|Gore (segment)}}"]]

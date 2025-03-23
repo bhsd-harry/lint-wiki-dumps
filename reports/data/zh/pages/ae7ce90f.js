@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",124,2,"[[Category:波兰族群]]"]]
+window.data=[["no-duplicate",124,2,"duplicated category","[[Category:波兰族群]]"],["no-duplicate",128,2,"duplicated category","[[Category:波兰族群]]"]]

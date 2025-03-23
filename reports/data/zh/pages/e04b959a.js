@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",24,3,"predecessor1 = [[杰夫·塞申斯]]\n "]]
+window.data=[["no-duplicate",24,3,"duplicated parameter","predecessor1 = [[杰夫·塞申斯]]\n "],["no-duplicate",30,3,"duplicated parameter","predecessor1 = \n "],["no-duplicate",25,3,"duplicated parameter","successor1 = [[威廉·巴爾]]\n "],["no-duplicate",31,3,"duplicated parameter","successor1 = [[尼古拉斯·克兰菲特]]\n "]]

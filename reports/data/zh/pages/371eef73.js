@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",32,1," 其中1988年5月至1990年3月为'''中央政法领导小组组长'''。"]]
+window.data=[["fostered-content",32,1,"content to be moved out from the table"," 其中1988年5月至1990年3月为'''中央政法领导小组组长'''。"]]

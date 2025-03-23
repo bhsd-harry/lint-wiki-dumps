@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",132,4,"duplicated colspan attribute","colspan=\"3\""]]
+window.data=[["no-duplicate",132,4,"duplicated colspan attribute","colspan=\"3\""],["no-duplicate",132,59,"duplicated colspan attribute","colspan=\"4\""],["no-duplicate",136,4,"duplicated colspan attribute","colspan=\"3\""],["no-duplicate",136,59,"duplicated colspan attribute","colspan=\"4\""],["no-duplicate",152,4,"duplicated colspan attribute","colspan=\"3\""],["no-duplicate",152,59,"duplicated colspan attribute","colspan=\"5\""]]

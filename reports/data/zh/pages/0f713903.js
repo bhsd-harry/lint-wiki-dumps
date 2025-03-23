@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",71,1," <br>"],[1,"illegal-attr",58,4,"table"]]
+window.data=[["illegal-attr",58,4,"illegal attribute name","table"],["fostered-content",71,1,"content to be moved out from the table"," <br>"]]

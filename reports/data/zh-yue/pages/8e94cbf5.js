@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3,"duplicated parameter"," range_map = Alnus distribution.svg\n "]]
+window.data=[["no-duplicate",8,3,"duplicated parameter"," range_map = Alnus distribution.svg\n "],["no-duplicate",19,3,"duplicated parameter","range_map = IKAl-100210_Distribution_Alnus_glutinosa.png\n "]]

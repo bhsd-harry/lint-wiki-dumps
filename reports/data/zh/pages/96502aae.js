@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",856,184,"\n 從台語老歌小童星到星光大道與戲劇舞台，方宥心的人生轉折\n "]]
+window.data=[["no-ignored",856,184,"invalid content in <references>","\n 從台語老歌小童星到星光大道與戲劇舞台，方宥心的人生轉折\n "],["no-ignored",858,144,"invalid content in <references>","，2022年9月29日</ref>\n "]]
