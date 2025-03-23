@@ -56,4 +56,4 @@ node report.js zh-yue
 
 ## Report
 
-The tool will generate reports in two formats: `json` and `html`. The `json` report will be saved in the `results` folder, while the `html` report will be available at `reports/index.html`.
+The tool will generate reports in two formats: JSON and HTML. The JSON report will be saved in the `results` folder, while the HTML report will be available at `reports/index.html`.
