@@ -21,7 +21,7 @@ const writeJS = (data, file) => {
 
 const dir = fs.readdirSync('results'),
 	summary = [],
-	MAX = 150;
+	MAX = 100;
 for (const file of dir) {
 	try {
 		/** @type {Record<string, (import('wikilint').LintError & {excerpt: string})[]>} */

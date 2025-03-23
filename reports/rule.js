@@ -59,7 +59,7 @@ script.addEventListener('load', () => {
 		detail.textContent = message;
 		detail.className = 'excerpt';
 		notice.textContent = excerpt;
-		notice.className = 'excerpt';
+		notice.className = 'excerpt mono';
 		moreLink.textContent = 'more';
 		moreLink.href = `./article.html?lang=${lang}&page=${encodeURIComponent(page)}`;
 		more.append(moreLink);

@@ -63,6 +63,9 @@ th {
 	white-space: nowrap;
 	text-overflow: ellipsis;
 }
+.mono {
+	font-family: monospace;
+}
 
 @media screen and (max-width: 720px) {
 	main {
