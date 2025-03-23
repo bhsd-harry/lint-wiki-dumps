@@ -6,6 +6,8 @@ const search = new URLSearchParams(location.search),
 	batch = Math.floor((search.get('start') || 0) / 200),
 	/** @type {HTMLAnchorElement} */ prev = document.getElementById('prev'),
 	/** @type {HTMLAnchorElement} */ next = document.getElementById('next'),
+	start = document.getElementById('start'),
+	end = document.getElementById('end'),
 	title = document.querySelector('title'),
 	h2 = document.querySelector('h2'),
 	/** @type {HTMLAnchorElement} */ wiki = document.getElementById('wiki'),
@@ -18,6 +20,8 @@ wiki.href += `?lang=${lang}`;
 if (batch === 0) {
 	prev.removeAttribute('href');
 } else {
+	start.textContent = batch * 200 + 1;
+	end.textContent = (batch + 1) * 200;
 	search.set('start', (batch - 1) * 200);
 	prev.href = `${location.pathname}?${search}`;
 }
@@ -25,8 +29,9 @@ search.set('start', (batch + 1) * 200);
 next.href = `${location.pathname}?${search}`;
 script.src = `./data/${lang}/${rule}-${batch}.js`;
 script.addEventListener('load', () => {
-	if (globalThis.data.batches === batch) {
+	if (globalThis.data.batches === batch + 1) {
 		next.removeAttribute('href');
+		end.textContent = batch * 200 + globalThis.data.articles.length;
 	}
 	for (const entry of globalThis.data.articles) {
 		/** @type {[string, number, number, string, string]} */
