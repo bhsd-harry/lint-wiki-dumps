@@ -1,0 +1,1 @@
+window.data={"articles":[["Câung-kṳ̆",6,103,"semi-colon expected",""],["Šiprage",34,35,"} expected","''"],["Tàu Hiĕk",35,31,"semi-colon expected",":"],["士普拉格",33,35,"} expected","''"],["頭頁",31,31,"semi-colon expected",":"]],"batches":1}

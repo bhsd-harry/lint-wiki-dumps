@@ -1,1 +1,0 @@
-window.data=[["Niū-să̤-làng",102,326,"lonely \"'\"","'"],["Richard Clayderman",85,19,"lonely \"'\"","''"]]

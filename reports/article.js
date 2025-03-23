@@ -8,18 +8,18 @@
 		hash = [...new Uint8Array(buffer)].slice(0, 4)
 			.map(b => b.toString(16).padStart(2, '0'))
 			.join(''),
+		title = document.querySelector('title'),
+		/** @type {HTMLAnchorElement} */ h2 = document.getElementById('article'),
+		/** @type {HTMLAnchorElement} */ wiki = document.getElementById('wiki'),
+		tbody = document.querySelector('tbody'),
 		script = document.createElement('script');
+	title.textContent = title.textContent.replace('Wikipedia', page);
+	h2.textContent = page;
+	h2.href = `https://${lang}.wikipedia.org/wiki/${encodeURIComponent(page)}?redirect=no`;
+	wiki.textContent = `${lang}wiki`;
+	wiki.href += `?lang=${lang}`;
 	script.src = `./data/${lang}/pages/${hash}.js`;
 	script.addEventListener('load', () => {
-		const title = document.querySelector('title'),
-			/** @type {HTMLAnchorElement} */ h2 = document.getElementById('article'),
-			/** @type {HTMLAnchorElement} */ wiki = document.getElementById('wiki');
-		title.textContent = title.textContent.replace('Wikipedia', page);
-		h2.textContent = page;
-		h2.href = `https://${lang}.wikipedia.org/wiki/${encodeURIComponent(page)}?redirect=no`;
-		wiki.textContent = `${lang}wiki`;
-		wiki.href += `?lang=${lang}`;
-		const tbody = document.querySelector('tbody');
 		for (const entry of globalThis.data) {
 			/** @type {[string, number, number, string, string]} */
 			const [rule, startLine, startCol, message, excerpt] = entry,

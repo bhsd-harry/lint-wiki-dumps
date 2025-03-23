@@ -3,19 +3,32 @@
 const search = new URLSearchParams(location.search),
 	lang = search.get('lang'),
 	rule = search.get('rule'),
+	batch = Math.floor((search.get('start') || 0) / 200),
+	/** @type {HTMLAnchorElement} */ prev = document.getElementById('prev'),
+	/** @type {HTMLAnchorElement} */ next = document.getElementById('next'),
+	title = document.querySelector('title'),
+	h2 = document.querySelector('h2'),
+	/** @type {HTMLAnchorElement} */ wiki = document.getElementById('wiki'),
+	tbody = document.querySelector('tbody'),
 	script = document.createElement('script');
-script.src = `./data/${lang}/${rule}.js`;
+h2.textContent = h2.textContent.replace('Wikipedia', `${lang}.wikipedia.org: ${rule}`);
+title.textContent = title.textContent.replace('Wikipedia', `${lang}.wikipedia.org`);
+wiki.textContent = `${lang}wiki`;
+wiki.href += `?lang=${lang}`;
+if (batch === 0) {
+	prev.removeAttribute('href');
+} else {
+	search.set('start', (batch - 1) * 200);
+	prev.href = `${location.pathname}?${search}`;
+}
+search.set('start', (batch + 1) * 200);
+next.href = `${location.pathname}?${search}`;
+script.src = `./data/${lang}/${rule}-${batch}.js`;
 script.addEventListener('load', () => {
-	const title = document.querySelector('title'),
-		h2 = document.querySelector('h2'),
-		/** @type {HTMLAnchorElement} */ wiki = document.getElementById('wiki');
-	h2.textContent = h2.textContent.replace('Wikipedia', `${lang}.wikipedia.org: ${rule}`);
-	title.textContent = title.textContent.replace('Wikipedia', `${lang}.wikipedia.org`);
-	wiki.textContent = `${lang}wiki`;
-	wiki.href += `?lang=${lang}`;
-	/** @type {Record<string, (import('wikilint').LintError & {excerpt: string})[]>} */
-	const tbody = document.querySelector('tbody');
-	for (const entry of globalThis.data) {
+	if (globalThis.data.batches === batch) {
+		next.removeAttribute('href');
+	}
+	for (const entry of globalThis.data.articles) {
 		/** @type {[string, number, number, string, string]} */
 		const [page, startLine, startCol, message, excerpt] = entry,
 			tr = document.createElement('tr'),

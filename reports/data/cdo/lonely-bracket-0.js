@@ -1,0 +1,1 @@
+window.data={"articles":[["Bēng-nàng siáng",114,3,"lonely \"{\"","{{"],["Bō̤-dâi Huòng-dá̤",2,80,"lonely \"}\"","}"],["Dṳ̆ng-guók Ìng-mìng Dâi-hŏk",20,23,"lonely \"}\"","}"],["Ĕu-iòng Siŭ",3,86,"lonely \"{\"","{"],["Hiŏng Êu",11,48,"lonely \"}\"","}"]],"batches":1}

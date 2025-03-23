@@ -1,9 +1,9 @@
 'use strict';
 
-const script = document.createElement('script');
+const container = document.getElementById('container'),
+	script = document.createElement('script');
 script.src = './data/index.js';
 script.addEventListener('load', () => {
-	const container = document.getElementById('container');
 	container.append(...globalThis.data.map(lang => {
 		const div = document.createElement('div'),
 			a = document.createElement('a');
