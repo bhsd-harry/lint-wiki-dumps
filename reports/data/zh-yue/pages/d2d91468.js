@@ -1,1 +1,1 @@
-window.data=[[8,"no-duplicate",55,3," plant_owner        = \n "]]
+window.data=[[8,"no-duplicate",55,3,"duplicated parameter"," plant_owner        = \n "]]

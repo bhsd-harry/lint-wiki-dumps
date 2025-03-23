@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",57,2,"[[Category:代名詞]]"]]
+window.data=[[2,"no-duplicate",57,2,"duplicated category","[[Category:代名詞]]"]]

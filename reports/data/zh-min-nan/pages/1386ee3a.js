@@ -1,1 +1,1 @@
-window.data=[[15,"no-ignored",10,3," Nî-<br>tōo "],[16,"parsing-order",10,7,"<br>"],[12,"unmatched-tag",10,43,"</br>"]]
+window.data=[[15,"no-ignored",10,3,"containing invalid attribute"," Nî-<br>tōo "],[16,"parsing-order",10,7,"HTML tag in table attributes","<br>"],[12,"unmatched-tag",10,43,"tag that is both closing and self-closing","</br>"]]

@@ -1,1 +1,1 @@
-window.data=[[6,"no-ignored",93,1," type=search"],[4,"unmatched-tag",45,2,"</div>"]]
+window.data=[[16,"invalid-css",87,77,"semi-colon expected","#C26DEFE"],[6,"no-ignored",93,1,"invalid parameter of <inputbox>"," type=search"],[4,"unmatched-tag",45,2,"unmatched closing tag","</div>"]]

@@ -1,1 +1,1 @@
-window.data=[[5,"no-duplicate",133,49,"链接=https://en.wikipedia.org/wiki/File:Hogwarts_Express_Backlot.jpg"]]
+window.data=[[5,"no-duplicate",133,49,"duplicated image caption parameter","链接=https://en.wikipedia.org/wiki/File:Hogwarts_Express_Backlot.jpg"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,3," 音樂類型 = Pop\n "]]
+window.data=[[2,"no-duplicate",9,3,"duplicated parameter"," 音樂類型 = Pop\n "]]

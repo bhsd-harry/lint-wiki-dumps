@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",5,78,":"],[2,"no-duplicate",5,17,"style=\"width: 100%; font-size: 80%;\""]]
+window.data=[[2,"illegal-attr",5,78,"illegal attribute name",":"],[2,"invalid-css",5,77,"semi-colon expected",""],[2,"no-duplicate",5,17,"duplicated style attribute","style=\"width: 100%; font-size: 80%;\""]]

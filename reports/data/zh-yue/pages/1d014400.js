@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",185,117,"[[Natural Color System]]"]]
+window.data=[[1,"nested-link",185,117,"internal link in an external link","[[Natural Color System]]"]]

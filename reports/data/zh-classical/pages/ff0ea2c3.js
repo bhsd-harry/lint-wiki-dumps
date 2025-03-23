@@ -1,1 +1,1 @@
-window.data=[[5,"illegal-attr",13,157,"Wiki"],[1,"lonely-bracket",7,76,"}"],[1,"no-ignored",13,141,"Valenciclopèdia "]]
+window.data=[[5,"illegal-attr",13,157,"illegal attribute name","Wiki"],[1,"lonely-bracket",7,76,"lonely \"}\"","}"],[1,"no-ignored",13,141,"containing invalid attribute","Valenciclopèdia "]]

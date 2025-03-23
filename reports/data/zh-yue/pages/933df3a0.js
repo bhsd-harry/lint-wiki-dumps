@@ -1,1 +1,1 @@
-window.data=[[12,"no-duplicate",7,338,"url-status=live"],[3,"unescaped",54,334,"="]]
+window.data=[[12,"no-duplicate",7,338,"duplicated parameter","url-status=live"],[3,"unescaped",54,334,"unescaped query string in an anonymous parameter","="]]

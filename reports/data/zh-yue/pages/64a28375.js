@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",106,35,"[["],[2,"no-duplicate",106,35,"[[Sun Yat-sen Museum Penang"]]
+window.data=[[1,"lonely-bracket",106,35,"lonely \"[\"","[["],[2,"no-duplicate",106,35,"duplicated image caption parameter","[[Sun Yat-sen Museum Penang"]]

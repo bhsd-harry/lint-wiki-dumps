@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,2,"[[分類:Yîm-ngo̍k-kâ]]"]]
+window.data=[[2,"no-duplicate",35,2,"duplicated category","[[分類:Yîm-ngo̍k-kâ]]"]]

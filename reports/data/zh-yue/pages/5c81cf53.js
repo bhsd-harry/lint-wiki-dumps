@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",401,4,"Chris"],[1,"no-ignored",401,16," (musician)"]]
+window.data=[[2,"illegal-attr",401,4,"illegal attribute name","Chris"],[1,"no-ignored",401,16,"containing invalid attribute"," (musician)"]]

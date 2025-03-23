@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,37,"A slice of a [[layer cake|layered]] coconut cake"]]
+window.data=[[2,"no-duplicate",3,37,"duplicated image caption parameter","A slice of a [[layer cake|layered]] coconut cake"]]

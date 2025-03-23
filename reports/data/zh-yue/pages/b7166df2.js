@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3,"regnum = [[植物界]] \n "]]
+window.data=[[2,"no-duplicate",5,3,"duplicated parameter","regnum = [[植物界]] \n "]]

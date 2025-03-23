@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3," 導演         = [[梁麗賢]]\n "]]
+window.data=[[2,"no-duplicate",6,3,"duplicated parameter"," 導演         = [[梁麗賢]]\n "]]

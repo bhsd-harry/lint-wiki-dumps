@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",51,2,"[[Category:Gē-su̍t ūn-tōng]]"]]
+window.data=[[2,"no-duplicate",51,2,"duplicated category","[[Category:Gē-su̍t ūn-tōng]]"]]

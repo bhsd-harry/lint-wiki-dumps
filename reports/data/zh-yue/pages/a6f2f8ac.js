@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",5,3," caption = 天津地鐵\n "]]
+window.data=[[4,"no-duplicate",5,3,"duplicated parameter"," caption = 天津地鐵\n "]]

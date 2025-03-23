@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",10,3," footer =\n "]]
+window.data=[[2,"no-duplicate",10,3,"duplicated parameter"," footer =\n "]]

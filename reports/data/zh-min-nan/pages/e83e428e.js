@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",18,2,"[[Category:Bí-kok Hái-kun ê chiong-kun|N]]"],[2,"unmatched-tag",6,48,"</br>"]]
+window.data=[[3,"no-duplicate",18,2,"duplicated category","[[Category:Bí-kok Hái-kun ê chiong-kun|N]]"],[2,"unmatched-tag",6,48,"tag that is both closing and self-closing","</br>"]]

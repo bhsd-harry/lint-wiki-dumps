@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",24,4,"table"]]
+window.data=[[1,"illegal-attr",24,4,"illegal attribute name","table"],[1,"invalid-css",33,16,"colon expected","1px"]]

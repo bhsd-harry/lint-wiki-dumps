@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,3,"population_density_km2=1.245\n "]]
+window.data=[[2,"no-duplicate",15,3,"duplicated parameter","population_density_km2=1.245\n "]]

@@ -16,12 +16,14 @@ script.addEventListener('load', () => {
 	/** @type {Record<string, (import('wikilint').LintError & {excerpt: string})[]>} */
 	const tbody = document.querySelector('tbody');
 	for (const entry of globalThis.data) {
-		const /** @type {[string, number, number, string]} */ [page, startLine, startCol, excerpt] = entry,
+		/** @type {[string, number, number, string, string]} */
+		const [page, startLine, startCol, message, excerpt] = entry,
 			tr = document.createElement('tr'),
 			article = document.createElement('td'),
 			edit = document.createElement('td'),
 			line = document.createElement('td'),
 			column = document.createElement('td'),
+			detail = document.createElement('td'),
 			notice = document.createElement('td'),
 			more = document.createElement('td'),
 			articleLink = document.createElement('a'),
@@ -36,12 +38,14 @@ script.addEventListener('load', () => {
 		edit.append(editLink);
 		line.textContent = startLine;
 		column.textContent = startCol;
+		detail.textContent = message;
+		detail.className = 'excerpt';
 		notice.textContent = excerpt;
 		notice.className = 'excerpt';
 		moreLink.textContent = 'more';
 		moreLink.href = `./article.html?lang=${lang}&page=${encodeURIComponent(page)}`;
 		more.append(moreLink);
-		tr.append(article, edit, line, column, notice, more);
+		tr.append(article, edit, line, column, detail, notice, more);
 		tbody.append(tr);
 	}
 });

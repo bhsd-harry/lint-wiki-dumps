@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,87,"Alignment=\"super\""]]
+window.data=[[2,"no-duplicate",13,87,"duplicated image caption parameter","Alignment=\"super\""]]

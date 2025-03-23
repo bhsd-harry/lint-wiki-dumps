@@ -1,1 +1,1 @@
-window.data=[[8,"invalid-gallery",6,25,"thumb"],[4,"no-duplicate",8,24,"Hillside Home School, Taliesin (studio)"]]
+window.data=[[8,"invalid-gallery",6,25,"invalid image parameter","thumb"],[4,"no-duplicate",8,24,"duplicated image caption parameter","Hillside Home School, Taliesin (studio)"]]

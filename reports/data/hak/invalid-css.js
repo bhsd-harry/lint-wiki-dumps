@@ -1,1 +1,1 @@
-window.data=[["Šiprage",35,35,"''"],["Thai Ngi̍t-pún Ti-koet",6,41,"="],["Thòi-vân hàng-chṳn khî-va̍k",6,41,"="]]
+window.data=[["Šiprage",35,35,"} expected","''"],["Thai Ngi̍t-pún Ti-koet",6,41,"colon expected","="],["Thòi-vân hàng-chṳn khî-va̍k",6,41,"colon expected","="]]

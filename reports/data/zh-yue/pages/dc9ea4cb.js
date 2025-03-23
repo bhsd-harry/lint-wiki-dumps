@@ -1,1 +1,1 @@
-window.data=[[9,"no-ignored",973,4,":我是歌手 (第一季)#收視率"]]
+window.data=[[9,"no-ignored",973,4,"useless fragment",":我是歌手 (第一季)#收視率"]]

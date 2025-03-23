@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,2,"[[Category:日莲宗]]"]]
+window.data=[[2,"no-duplicate",21,2,"duplicated category","[[Category:日莲宗]]"]]

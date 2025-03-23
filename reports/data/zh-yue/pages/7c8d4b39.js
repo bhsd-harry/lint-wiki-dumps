@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",17,3," power        = \n "]]
+window.data=[[2,"no-duplicate",17,3,"duplicated parameter"," power        = \n "]]

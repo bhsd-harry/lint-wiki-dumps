@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",78,2,"[["],[2,"no-duplicate",22,162,"author=Hartnoll "]]
+window.data=[[2,"lonely-bracket",78,2,"lonely \"[\"","[["],[2,"no-duplicate",22,162,"duplicated parameter","author=Hartnoll "]]

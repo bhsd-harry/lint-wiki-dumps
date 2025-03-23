@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",23,13,"'"],[2,"unmatched-tag",11,32,"</br>"]]
+window.data=[[1,"lonely-apos",23,13,"lonely \"'\"","'"],[2,"unmatched-tag",11,32,"tag that is both closing and self-closing","</br>"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,2,"[[Category:物理]]"]]
+window.data=[[2,"no-duplicate",8,2,"duplicated category","[[Category:物理]]"]]

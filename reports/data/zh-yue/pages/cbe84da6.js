@@ -1,1 +1,1 @@
-window.data=[[10,"illegal-attr",50,4,"President"],[12,"no-ignored",92,36," 40,584,980 "],[3,"unclosed-table",376,2,"{|"]]
+window.data=[[10,"illegal-attr",50,4,"illegal attribute name","President"],[12,"no-ignored",92,36,"containing invalid attribute"," 40,584,980 "],[3,"unclosed-table",376,2,"unclosed table","{|"]]

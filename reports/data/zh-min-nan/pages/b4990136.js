@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",17,47," 2009 nî kì-"]]
+window.data=[[4,"no-duplicate",17,47,"duplicated image caption parameter"," 2009 nî kì-"]]

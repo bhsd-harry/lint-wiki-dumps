@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,25,"Don Quixote and Sancho Panza"]]
+window.data=[[2,"no-duplicate",16,25,"duplicated image caption parameter","Don Quixote and Sancho Panza"]]

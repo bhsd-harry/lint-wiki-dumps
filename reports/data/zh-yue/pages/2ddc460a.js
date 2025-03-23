@@ -1,1 +1,1 @@
-window.data=[[18,"no-duplicate",800,85,"300px"],[1,"no-ignored",987,32,"</ref>"],[4,"tag-like",987,32,"</ref"]]
+window.data=[[18,"no-duplicate",800,85,"duplicated image width parameter","300px"],[1,"no-ignored",987,32,"containing invalid attribute","</ref>"],[4,"tag-like",987,32,"lonely \"<\"","</ref"]]

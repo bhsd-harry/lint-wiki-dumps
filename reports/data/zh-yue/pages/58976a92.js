@@ -1,1 +1,1 @@
-window.data=[[8,"unmatched-tag",1361,59,"<font color=\"blue\">"]]
+window.data=[[12,"invalid-css",505,151,"semi-colon expected",""],[8,"unmatched-tag",1361,59,"unclosed tag","<font color=\"blue\">"]]

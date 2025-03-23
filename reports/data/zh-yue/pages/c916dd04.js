@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",12,3,"event_end=\n "]]
+window.data=[[4,"no-duplicate",12,3,"duplicated parameter","event_end=\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,2,"[[Category:格林童話]]"]]
+window.data=[[2,"no-duplicate",15,2,"duplicated category","[[Category:格林童話]]"]]

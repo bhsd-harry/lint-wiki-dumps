@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3," starring = {{ubl| {{link-en|Freddy Quinn}}| {{link-en|Corny Collins}}| {{link-en|Sabine Sesselmann}} }}\n "]]
+window.data=[[2,"no-duplicate",8,3,"duplicated parameter"," starring = {{ubl| {{link-en|Freddy Quinn}}| {{link-en|Corny Collins}}| {{link-en|Sabine Sesselmann}} }}\n "]]

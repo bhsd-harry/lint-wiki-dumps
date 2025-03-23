@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",36,4,"table"],[2,"no-duplicate",238,47,"缩略图"]]
+window.data=[[1,"illegal-attr",36,4,"illegal attribute name","table"],[2,"no-duplicate",238,47,"duplicated image caption parameter","缩略图"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",167,2,"[[Category:聖若瑟英文中學舊生]]"]]
+window.data=[[2,"no-duplicate",167,2,"duplicated category","[[Category:聖若瑟英文中學舊生]]"]]

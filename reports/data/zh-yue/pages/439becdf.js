@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",8,3," range_map           = Emberizacitronella3.png\n "]]
+window.data=[[4,"no-duplicate",8,3,"duplicated parameter"," range_map           = Emberizacitronella3.png\n "]]

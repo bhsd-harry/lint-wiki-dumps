@@ -1,1 +1,1 @@
-window.data=[[10,"no-duplicate",154,552,"last7=McKenzie "],[1,"no-ignored",170,1," [...]"]]
+window.data=[[10,"no-duplicate",154,552,"duplicated parameter","last7=McKenzie "],[1,"no-ignored",170,1,"invalid content in <gallery>"," [...]"]]

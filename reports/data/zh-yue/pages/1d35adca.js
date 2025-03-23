@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,20,"NASDAQ"]]
+window.data=[[2,"no-duplicate",3,20,"duplicated image caption parameter","NASDAQ"]]

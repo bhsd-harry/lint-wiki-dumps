@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",38,4,"table"],[2,"no-duplicate",21,25," nextdistance1 = 2km\n "],[2,"no-ignored",159,53," color"],[1,"unmatched-tag",60,33,"</small>"]]
+window.data=[[1,"illegal-attr",38,4,"illegal attribute name","table"],[2,"no-duplicate",21,25,"duplicated parameter"," nextdistance1 = 2km\n "],[2,"no-ignored",159,53,"attributes of a closing tag"," color"],[1,"unmatched-tag",60,33,"unmatched closing tag","</small>"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",6,3," regnum             = \n "]]
+window.data=[[2,"no-duplicate",6,3,"duplicated parameter"," regnum             = \n "]]

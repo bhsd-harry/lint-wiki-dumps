@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,22,"national_anthem = {{Script|Arab|{{lang|ar|السلام الأميري}}}}<br>\"Emir gì huò-bìng\"<br><div style=\"display:inline-block;margin-top:0.4em;\">[[File:Natio"]]
+window.data=[[2,"no-duplicate",19,22,"duplicated parameter","national_anthem = {{Script|Arab|{{lang|ar|السلام الأميري}}}}<br>\"Emir gì huò-bìng\"<br><div style=\"display:inline-block;margin-top:0.4em;\">[[File:Natio"]]

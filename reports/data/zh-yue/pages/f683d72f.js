@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,3," 時區 = \n "],[2,"unmatched-tag",30,18,"</br>"]]
+window.data=[[2,"no-duplicate",16,3,"duplicated parameter"," 時區 = \n "],[2,"unmatched-tag",30,18,"tag that is both closing and self-closing","</br>"]]

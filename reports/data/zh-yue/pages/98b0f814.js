@@ -1,1 +1,1 @@
-window.data=[[7,"illegal-attr",243,49,"text-align"],[2,"no-duplicate",441,2,"[[Category:香港電影女演員]]"]]
+window.data=[[7,"illegal-attr",243,49,"illegal attribute name","text-align"],[2,"no-duplicate",441,2,"duplicated category","[[Category:香港電影女演員]]"]]

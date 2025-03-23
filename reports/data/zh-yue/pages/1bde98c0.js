@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",248,16,"white-space:"],[1,"no-ignored",248,28," nowrap;\"  "]]
+window.data=[[1,"illegal-attr",248,16,"illegal attribute name","white-space:"],[48,"invalid-css",23,47,"colon expected",";"],[1,"no-ignored",248,28,"containing invalid attribute"," nowrap;\"  "]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-apos",142,77,"'"],[2,"no-duplicate",348,33,"270x"]]
+window.data=[[1,"lonely-apos",142,77,"lonely \"'\"","'"],[2,"no-duplicate",348,33,"duplicated image caption parameter","270x"]]

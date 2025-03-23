@@ -18,9 +18,12 @@ if (!fs.existsSync('results')) {
 	fs.mkdirSync('results');
 }
 const stream = new XmlStream(fs.createReadStream(file.replace(/^~/u, os.homedir())).pipe(bz2())),
-	output = path.join('results', `${site}.json`),
-	old = fs.existsSync(output) && require(`./${output}`),
-	time = old && old['#timestamp'],
+	output = path.join('results', `${site}.json`);
+let old;
+try {
+	old = require(`./${output}`);
+} catch {}
+const time = old?.['#timestamp'],
 	last = time && new Date(time),
 	results = fs.createWriteStream(output, {flags: restart ? 'a' : 'w'}),
 	ignore = new Set(['no-arg', 'url-encoding', 'h1', 'var-anchor']);

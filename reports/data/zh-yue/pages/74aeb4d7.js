@@ -1,1 +1,1 @@
-window.data=[[1,"unclosed-table",164,2,"{|"]]
+window.data=[[1,"unclosed-table",164,2,"unclosed table","{|"]]

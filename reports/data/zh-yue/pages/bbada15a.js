@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,3," 圖片 =\n "]]
+window.data=[[2,"no-duplicate",2,3,"duplicated parameter"," 圖片 =\n "]]

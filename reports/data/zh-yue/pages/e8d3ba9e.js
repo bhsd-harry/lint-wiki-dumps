@@ -1,1 +1,1 @@
-window.data=[[10,"nested-link",4,336,"[[南華早報]]"],[2,"no-duplicate",47,39,"Sign at Eden Course"]]
+window.data=[[10,"nested-link",4,336,"internal link in an external link","[[南華早報]]"],[2,"no-duplicate",47,39,"duplicated image caption parameter","Sign at Eden Course"]]

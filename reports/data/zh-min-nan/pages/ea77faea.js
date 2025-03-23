@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",7,2,"[[Category:Tek-kok jîn-bu̍t]]"]]
+window.data=[[2,"no-duplicate",7,2,"duplicated category","[[Category:Tek-kok jîn-bu̍t]]"]]

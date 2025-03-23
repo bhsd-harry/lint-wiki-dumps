@@ -1,1 +1,1 @@
-window.data=[[4,"illegal-attr",3,59,"of"],[1,"no-ignored",3,88," features\""]]
+window.data=[[4,"illegal-attr",3,59,"illegal attribute name","of"],[2,"invalid-css",3,58,"semi-colon expected",""],[1,"no-ignored",3,88,"containing invalid attribute"," features\""]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",249,135,"]]"],[1,"lonely-http",242,421,"ISBN"],[2,"nested-link",312,55,"[[Image:Biáng.svg|17px]]"]]
+window.data=[[1,"lonely-bracket",249,135,"lonely \"]\"","]]"],[1,"lonely-http",242,421,"lonely \"ISBN\"","ISBN"],[2,"nested-link",312,55,"internal link in an external link","[[Image:Biáng.svg|17px]]"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",67,1027," publisher=Future Publishing "]]
+window.data=[[4,"no-duplicate",67,1027,"duplicated parameter"," publisher=Future Publishing "]]

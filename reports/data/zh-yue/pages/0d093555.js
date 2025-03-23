@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",12,25,"[["],[3,"unmatched-tag",11,32,"</br>"]]
+window.data=[[2,"lonely-bracket",12,25,"lonely \"[\"","[["],[3,"unmatched-tag",11,32,"tag that is both closing and self-closing","</br>"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",33,178,"}}"],[2,"no-duplicate",27,29,"мини"]]
+window.data=[[1,"lonely-bracket",33,178,"lonely \"}\"","}}"],[2,"no-duplicate",27,29,"duplicated image caption parameter","мини"]]

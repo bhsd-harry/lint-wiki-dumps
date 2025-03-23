@@ -1,1 +1,1 @@
-window.data=[["Hui-tôaⁿ",26,69,"[[Center for Strategic and International Studies]]"],["Io̍h-phín",5,922,"[[Medicine|medicinal]]"],["Lûi-tân tsiong",18,58,"[[Ayah]]"]]
+window.data=[["Hui-tôaⁿ",26,69,"internal link in an external link","[[Center for Strategic and International Studies]]"],["Io̍h-phín",5,922,"internal link in an external link","[[Medicine|medicinal]]"],["Lûi-tân tsiong",18,58,"internal link in an external link","[[Ayah]]"]]

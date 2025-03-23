@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,24,"style=\"text-align:center\""],[2,"unmatched-tag",29,62,"</small>"]]
+window.data=[[2,"no-duplicate",12,24,"duplicated style attribute","style=\"text-align:center\""],[2,"unmatched-tag",29,62,"unmatched closing tag","</small>"]]

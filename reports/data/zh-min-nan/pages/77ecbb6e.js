@@ -1,1 +1,1 @@
-window.data=[[1,"unmatched-tag",65,4,"<font STYLE=\"background-color:pink\">"]]
+window.data=[[1,"unmatched-tag",65,4,"unclosed tag","<font STYLE=\"background-color:pink\">"]]

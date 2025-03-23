@@ -5,7 +5,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width">
 		<link rel="stylesheet" href="reports.css">
-		<style>td:nth-child(n+2):not(:nth-child(5)){text-align:center}</style>
+		<style>td:nth-child(-n+4):not(:first-child),td:last-child{text-align:center}</style>
 		<script defer="" src="rule.js"></script>
 	</head>
 	<body>
@@ -26,7 +26,8 @@
 						<col span="1" style="width:calc(1.6em + 5ch)">
 						<col span="1" style="width:calc(1.6em + 7ch)">
 						<col span="1" style="width:calc(1.6em + 7ch)">
-						<col span="1" style="width:60%">
+						<col span="1" style="width:20%">
+						<col span="1" style="width:40%">
 						<col span="1" style="width:calc(1.6em + 5ch)">
 					</colgroup>
 					<tbody>
@@ -35,6 +36,7 @@
 							<th>Edit</th>
 							<th>Line</th>
 							<th>Column</th>
+							<th>Detail</th>
 							<th>Notice</th>
 							<th>More</th>
 						</tr>

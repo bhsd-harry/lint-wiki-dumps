@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",29,3," homepage         = {{URL|https://kakaoent.com|KakaoEnt.com}}\n "]]
+window.data=[[2,"no-duplicate",29,3,"duplicated parameter"," homepage         = {{URL|https://kakaoent.com|KakaoEnt.com}}\n "]]

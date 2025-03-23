@@ -1,1 +1,1 @@
-window.data=[[10,"no-duplicate",124,33,"author=[[宇垣纏]]著"]]
+window.data=[[10,"no-duplicate",124,33,"duplicated parameter","author=[[宇垣纏]]著"]]

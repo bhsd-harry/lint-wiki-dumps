@@ -1,1 +1,1 @@
-window.data=[[8,"no-duplicate",34,54,"替代文字"]]
+window.data=[[8,"no-duplicate",34,54,"duplicated image caption parameter","替代文字"]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",10,3," free_label = \n "],[2,"no-ignored",36,82," color"]]
+window.data=[[4,"no-duplicate",10,3,"duplicated parameter"," free_label = \n "],[2,"no-ignored",36,82,"attributes of a closing tag"," color"]]

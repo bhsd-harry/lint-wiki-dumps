@@ -1,1 +1,1 @@
-window.data=[[4,"lonely-bracket",165,57,"{{"],[2,"lonely-http",138,1153,"http:/"],[2,"tag-like",253,538,"<  ref"],[10,"unmatched-tag",46,42,"</br>"]]
+window.data=[[4,"lonely-bracket",165,57,"lonely \"{\"","{{"],[2,"lonely-http",138,1153,"lonely \"http:/\"","http:/"],[2,"tag-like",253,538,"lonely \"<\"","<  ref"],[10,"unmatched-tag",46,42,"tag that is both closing and self-closing","</br>"]]

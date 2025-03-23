@@ -1,1 +1,1 @@
-window.data=[[1,"no-ignored",263,42,"  font-size:80%;"],[1,"unclosed-table",140,2,"{|"]]
+window.data=[[1,"invalid-css",263,41,"property value expected",""],[1,"no-ignored",263,42,"containing invalid attribute","  font-size:80%;"],[1,"unclosed-table",140,2,"unclosed table","{|"]]

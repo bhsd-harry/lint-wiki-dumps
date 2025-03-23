@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",11,5,"href"],[1,"unclosed-table",9,2,"{|"]]
+window.data=[[1,"illegal-attr",11,5,"illegal attribute name","href"],[1,"unclosed-table",9,2,"unclosed table","{|"]]

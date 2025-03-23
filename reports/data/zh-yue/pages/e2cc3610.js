@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",23,3," pattern_so1 = _osasuna2425h\n "]]
+window.data=[[6,"no-duplicate",23,3,"duplicated parameter"," pattern_so1 = _osasuna2425h\n "]]

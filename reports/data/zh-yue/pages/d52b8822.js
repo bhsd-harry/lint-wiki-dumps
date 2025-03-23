@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",207,24,"text-align"],[2,"no-duplicate",62,52,"style=\"width:90%\""],[2,"no-ignored",134,14,"  <small>;text-align:center"],[2,"parsing-order",134,16,"<small>"]]
+window.data=[[1,"illegal-attr",207,24,"illegal attribute name","text-align"],[2,"no-duplicate",62,52,"duplicated style attribute","style=\"width:90%\""],[2,"no-ignored",134,14,"containing invalid attribute","  <small>;text-align:center"],[2,"parsing-order",134,16,"HTML tag in table attributes","<small>"]]

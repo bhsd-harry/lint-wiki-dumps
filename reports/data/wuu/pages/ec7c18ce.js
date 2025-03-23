@@ -1,1 +1,1 @@
-window.data=[[10,"no-ignored",44,50,"width:7%\""]]
+window.data=[[34,"invalid-css",44,49,"semi-colon expected",""],[10,"no-ignored",44,50,"containing invalid attribute","width:7%\""]]

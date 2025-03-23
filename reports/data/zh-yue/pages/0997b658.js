@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",28,3," 官方網站  = \n "]]
+window.data=[[2,"no-duplicate",28,3,"duplicated parameter"," 官方網站  = \n "]]

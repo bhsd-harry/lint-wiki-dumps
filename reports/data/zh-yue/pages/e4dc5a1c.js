@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",228,50,"url="],[2,"unmatched-tag",198,91,"</br>"]]
+window.data=[[2,"no-duplicate",228,50,"duplicated parameter","url="],[2,"unmatched-tag",198,91,"tag that is both closing and self-closing","</br>"]]

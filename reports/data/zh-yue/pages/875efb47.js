@@ -1,1 +1,1 @@
-window.data=[[2,"no-ignored",135,32,"<font size=\"-1\">"],[2,"parsing-order",135,32,"<font size=\"-1\">"]]
+window.data=[[2,"no-ignored",135,32,"containing invalid attribute","<font size=\"-1\">"],[2,"parsing-order",135,32,"HTML tag in table attributes","<font size=\"-1\">"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",99,2,"[[Lūi-pia̍t:Hàn-gí sû-tián]]"]]
+window.data=[[2,"no-duplicate",99,2,"duplicated category","[[Lūi-pia̍t:Hàn-gí sû-tián]]"]]

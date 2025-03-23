@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",13,91,"xml:lang"],[1,"unclosed-table",92,2,"{|"]]
+window.data=[[3,"illegal-attr",13,91,"illegal attribute name","xml:lang"],[1,"unclosed-table",92,2,"unclosed table","{|"]]

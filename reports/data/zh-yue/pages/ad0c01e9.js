@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",141,54,"[[MobyGames]]"],[34,"unmatched-tag",50,156,"</span>"]]
+window.data=[[1,"nested-link",141,54,"internal link in an external link","[[MobyGames]]"],[34,"unmatched-tag",50,156,"unmatched closing tag","</span>"]]

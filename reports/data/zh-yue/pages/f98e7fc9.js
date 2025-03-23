@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,3," 其他藝名 = WOODZ\n "]]
+window.data=[[2,"no-duplicate",4,3,"duplicated parameter"," 其他藝名 = WOODZ\n "]]

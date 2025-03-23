@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",1,64,"thumb"]]
+window.data=[[4,"no-duplicate",1,64,"duplicated image thumbnail parameter","thumb"]]

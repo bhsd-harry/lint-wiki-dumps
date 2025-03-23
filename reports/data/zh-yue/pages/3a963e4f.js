@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",12,28,"Katsuragiyama Ropeway.jpg"]]
+window.data=[[2,"no-duplicate",12,28,"duplicated image caption parameter","Katsuragiyama Ropeway.jpg"]]

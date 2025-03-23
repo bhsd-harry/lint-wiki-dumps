@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",23,41,"右"]]
+window.data=[[2,"invalid-css",34,71,"semi-colon expected",""],[4,"no-duplicate",23,41,"duplicated image caption parameter","右"]]

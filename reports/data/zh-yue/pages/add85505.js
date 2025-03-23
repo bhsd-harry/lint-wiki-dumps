@@ -1,1 +1,1 @@
-window.data=[[7,"lonely-apos",1176,178,"'"],[7,"lonely-bracket",1169,101,"{{{"],[1,"no-ignored",1169,101,"{{{表格寬度|100%\"  "],[1,"unclosed-table",1169,15,"{|"],[5,"unmatched-tag",1324,38,"</br>"]]
+window.data=[[14,"invalid-css",477,151,"semi-colon expected",""],[7,"lonely-apos",1176,178,"lonely \"'\"","'"],[7,"lonely-bracket",1169,101,"lonely \"{\"","{{{"],[1,"no-ignored",1169,101,"containing invalid attribute","{{{表格寬度|100%\"  "],[1,"unclosed-table",1169,15,"unclosed table","{|"],[5,"unmatched-tag",1324,38,"tag that is both closing and self-closing","</br>"]]

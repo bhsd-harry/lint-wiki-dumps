@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-gallery",23,25,"250px"],[2,"no-duplicate",60,34,"缩略图"]]
+window.data=[[1,"invalid-gallery",23,25,"invalid image parameter","250px"],[2,"no-duplicate",60,34,"duplicated image caption parameter","缩略图"]]

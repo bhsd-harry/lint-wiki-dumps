@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3," 國籍 = {{CNMO}}\n "]]
+window.data=[[2,"no-duplicate",8,3,"duplicated parameter"," 國籍 = {{CNMO}}\n "]]

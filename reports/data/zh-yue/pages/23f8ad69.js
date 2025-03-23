@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,3," 主持 = "]]
+window.data=[[2,"no-duplicate",8,3,"duplicated parameter"," 主持 = "]]

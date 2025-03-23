@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",7,11,"stye"],[12,"no-duplicate",260,55,"height1=241 "]]
+window.data=[[1,"illegal-attr",7,11,"illegal attribute name","stye"],[12,"no-duplicate",260,55,"duplicated parameter","height1=241 "]]

@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",132,3,"rownspan"]]
+window.data=[[1,"illegal-attr",132,3,"illegal attribute name","rownspan"]]

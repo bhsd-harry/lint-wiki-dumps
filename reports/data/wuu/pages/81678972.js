@@ -1,1 +1,1 @@
-window.data=[[3,"lonely-bracket",84,421,"]]"],[2,"no-ignored",244,4," ''ligne grise}}"]]
+window.data=[[3,"lonely-bracket",84,421,"lonely \"]\"","]]"],[2,"no-ignored",244,4,"containing invalid attribute"," ''ligne grise}}"]]

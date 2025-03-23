@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",21,3," areas = \n "]]
+window.data=[[2,"no-duplicate",21,3,"duplicated parameter"," areas = \n "]]

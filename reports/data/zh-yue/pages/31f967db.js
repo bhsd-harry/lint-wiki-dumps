@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,2,"[[Category:美國軍校]]"]]
+window.data=[[2,"no-duplicate",3,2,"duplicated category","[[Category:美國軍校]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",9,2,"[[Category:Articles with hAudio microformats]]"]]
+window.data=[[2,"no-duplicate",9,2,"duplicated category","[[Category:Articles with hAudio microformats]]"]]

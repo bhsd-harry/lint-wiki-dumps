@@ -1,1 +1,1 @@
-window.data=[["蓝屏宕机",13,61,"[[二维码]]"]]
+window.data=[["蓝屏宕机",13,61,"internal link in an external link","[[二维码]]"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",90,3,"內容={{flagicon|HongKong}} [[瑞華行]]\n "]]
+window.data=[[2,"no-duplicate",90,3,"duplicated parameter","內容={{flagicon|HongKong}} [[瑞華行]]\n "]]

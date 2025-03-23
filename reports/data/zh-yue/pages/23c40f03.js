@@ -1,1 +1,1 @@
-window.data=[[4,"unmatched-tag",48,25,"</br>"]]
+window.data=[[4,"unmatched-tag",48,25,"tag that is both closing and self-closing","</br>"]]

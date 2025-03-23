@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3," 年 = 2004-2005</br>2005-\n "],[13,"unmatched-tag",13,17,"</br>"]]
+window.data=[[2,"no-duplicate",13,3,"duplicated parameter"," 年 = 2004-2005</br>2005-\n "],[13,"unmatched-tag",13,17,"tag that is both closing and self-closing","</br>"]]

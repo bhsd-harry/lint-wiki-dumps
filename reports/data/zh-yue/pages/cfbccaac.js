@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",228,1," </div>\n <div class=\"NavContent\"  style=\"text-align:center;\">"],[1,"unclosed-table",227,2,"{|"],[2,"unmatched-tag",228,2,"</div>"]]
+window.data=[[1,"fostered-content",228,1,"content to be moved out from the table"," </div>\n <div class=\"NavContent\"  style=\"text-align:center;\">"],[1,"unclosed-table",227,2,"unclosed table","{|"],[2,"unmatched-tag",228,2,"unmatched closing tag","</div>"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",67,365,"publisher=Rizzoli International Publications, Inc. "]]
+window.data=[[2,"no-duplicate",67,365,"duplicated parameter","publisher=Rizzoli International Publications, Inc. "]]

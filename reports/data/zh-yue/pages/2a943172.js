@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",199,5,"href"],[1,"lonely-bracket",151,208,"[["],[1,"unclosed-table",197,2,"{|"],[6,"unmatched-tag",336,43,"<center>"]]
+window.data=[[1,"illegal-attr",199,5,"illegal attribute name","href"],[1,"lonely-bracket",151,208,"lonely \"[\"","[["],[1,"unclosed-table",197,2,"unclosed table","{|"],[6,"unmatched-tag",336,43,"unclosed tag","<center>"]]

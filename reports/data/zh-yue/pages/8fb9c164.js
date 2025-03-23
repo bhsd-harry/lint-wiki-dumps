@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",10,3,"title = 1948–1967年：\n [[埃及]]控制[[加沙走廊]]、[[約旦]]控制[[西岸地區]]\n "],[17,"unmatched-tag",26,28,"<center/>"]]
+window.data=[[4,"no-duplicate",10,3,"duplicated parameter","title = 1948–1967年：\n [[埃及]]控制[[加沙走廊]]、[[約旦]]控制[[西岸地區]]\n "],[17,"unmatched-tag",26,28,"invalid self-closing tag","<center/>"]]

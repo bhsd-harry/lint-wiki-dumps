@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",8,2,"[[Category:Webarchive模板wayback链接]]"]]
+window.data=[[4,"no-duplicate",8,2,"duplicated category","[[Category:Webarchive模板wayback链接]]"]]

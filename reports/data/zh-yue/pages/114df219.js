@@ -1,1 +1,1 @@
-window.data=[[2,"nested-link",18,186,"[[文匯報 (香港)|文匯報]]"]]
+window.data=[[2,"nested-link",18,186,"internal link in an external link","[[文匯報 (香港)|文匯報]]"]]

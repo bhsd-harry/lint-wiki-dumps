@@ -21,13 +21,14 @@
 		wiki.href += `?lang=${lang}`;
 		const tbody = document.querySelector('tbody');
 		for (const entry of globalThis.data) {
-			/** @type {[number, string, number, number, string]} */
-			const [count, rule, startLine, startCol, excerpt] = entry,
+			/** @type {[number, string, number, number, string, string]} */
+			const [count, rule, startLine, startCol, message, excerpt] = entry,
 				tr = document.createElement('tr'),
 				error = document.createElement('td'),
 				description = document.createElement('td'),
 				line = document.createElement('td'),
 				column = document.createElement('td'),
+				detail = document.createElement('td'),
 				notice = document.createElement('td'),
 				descriptionLink = document.createElement('a');
 			error.textContent = count;
@@ -37,9 +38,11 @@
 			description.append(descriptionLink);
 			line.textContent = startLine;
 			column.textContent = startCol;
+			detail.textContent = message;
+			detail.className = 'excerpt';
 			notice.textContent = excerpt;
 			notice.className = 'excerpt';
-			tr.append(error, description, line, column, notice);
+			tr.append(error, description, line, column, detail, notice);
 			tbody.append(tr);
 		}
 	});

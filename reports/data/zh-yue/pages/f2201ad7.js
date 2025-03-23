@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3," layout         = [[前置引擎後轆驅動(FR)]]\n "]]
+window.data=[[2,"no-duplicate",5,3,"duplicated parameter"," layout         = [[前置引擎後轆驅動(FR)]]\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",25,30,"Map of Poland"]]
+window.data=[[2,"no-duplicate",25,30,"duplicated image caption parameter","Map of Poland"]]

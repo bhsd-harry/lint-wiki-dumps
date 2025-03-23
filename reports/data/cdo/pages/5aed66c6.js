@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",18,3,"image name 2 comment= cōng (cō̤) gâe̤ng siŏh-mĕ̤k (iêu)\n "]]
+window.data=[[2,"no-duplicate",18,3,"duplicated parameter","image name 2 comment= cōng (cō̤) gâe̤ng siŏh-mĕ̤k (iêu)\n "]]

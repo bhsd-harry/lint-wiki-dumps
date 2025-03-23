@@ -1,1 +1,1 @@
-window.data=[[15,"invalid-gallery",26,41,"thumb"],[3,"lonely-bracket",32,58,"]]"],[2,"no-duplicate",32,25,"مزرعه کشت زعفران"]]
+window.data=[[15,"invalid-gallery",26,41,"invalid image parameter","thumb"],[3,"lonely-bracket",32,58,"lonely \"]\"","]]"],[2,"no-duplicate",32,25,"duplicated image caption parameter","مزرعه کشت زعفران"]]

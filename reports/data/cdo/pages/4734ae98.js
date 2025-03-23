@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3," script=\n "]]
+window.data=[[2,"no-duplicate",13,3,"duplicated parameter"," script=\n "]]

@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",43,24,"style=\"text-align:center\""],[1,"no-ignored",1047,33," color"]]
+window.data=[[4,"no-duplicate",43,24,"duplicated style attribute","style=\"text-align:center\""],[1,"no-ignored",1047,33,"attributes of a closing tag"," color"]]

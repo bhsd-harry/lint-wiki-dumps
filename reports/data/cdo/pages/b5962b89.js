@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,41,"bélyegkép"]]
+window.data=[[2,"no-duplicate",5,41,"duplicated image caption parameter","bélyegkép"]]

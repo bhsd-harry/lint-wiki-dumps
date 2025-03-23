@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",28,2,"[[Category:基礎之文]]"]]
+window.data=[[4,"no-duplicate",28,2,"duplicated category","[[Category:基礎之文]]"]]

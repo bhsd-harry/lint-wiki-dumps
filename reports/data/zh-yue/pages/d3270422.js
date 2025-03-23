@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",8,27,"縮略圖"],[1,"unmatched-tag",42,6,"</br>"]]
+window.data=[[2,"no-duplicate",8,27,"duplicated image caption parameter","縮略圖"],[1,"unmatched-tag",42,6,"tag that is both closing and self-closing","</br>"]]

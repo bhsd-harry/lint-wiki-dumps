@@ -1,1 +1,1 @@
-window.data=[[10,"no-duplicate",46,3," area_footnotes                  = \n "],[1,"unclosed-table",88,2,"{|"]]
+window.data=[[10,"no-duplicate",46,3,"duplicated parameter"," area_footnotes                  = \n "],[1,"unclosed-table",88,2,"unclosed table","{|"]]

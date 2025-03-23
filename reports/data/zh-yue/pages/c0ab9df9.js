@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",14,3," 配偶 =  \n "]]
+window.data=[[2,"no-duplicate",14,3,"duplicated parameter"," 配偶 =  \n "]]

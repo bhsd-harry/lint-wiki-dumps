@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",122,5,"class=\"wikitable\""]]
+window.data=[[5,"invalid-css",122,116,"} expected","1em"],[2,"no-duplicate",122,5,"duplicated class attribute","class=\"wikitable\""]]

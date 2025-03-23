@@ -1,1 +1,1 @@
-window.data=[[8,"no-duplicate",11,46,"lat_sec=11"]]
+window.data=[[8,"no-duplicate",11,46,"duplicated parameter","lat_sec=11"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",2,68,"連結=https://cdo.wikipedia.org/wiki/%E6%96%87%E4%BB%B6:Kim Jong-un at the Workers' Party of Korea main building.png"]]
+window.data=[[2,"no-duplicate",2,68,"duplicated image caption parameter","連結=https://cdo.wikipedia.org/wiki/%E6%96%87%E4%BB%B6:Kim Jong-un at the Workers' Party of Korea main building.png"]]

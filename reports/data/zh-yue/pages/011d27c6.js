@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",11,2,"[[Category:韓國生意人]]"]]
+window.data=[[2,"no-duplicate",11,2,"duplicated category","[[Category:韓國生意人]]"]]

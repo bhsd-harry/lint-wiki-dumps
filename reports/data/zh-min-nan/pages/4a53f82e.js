@@ -1,1 +1,1 @@
-window.data=[[3,"no-duplicate",29,33,"Tombe du docteur John Conolly (date-"]]
+window.data=[[3,"no-duplicate",29,33,"duplicated image caption parameter","Tombe du docteur John Conolly (date-"]]

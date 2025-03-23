@@ -1,1 +1,1 @@
-window.data=[[1,"invalid-isbn",150,25,"ISBN 750116203X"],[1,"lonely-bracket",119,53,"]]"],[2,"unmatched-tag",59,83,"</br>"]]
+window.data=[[1,"invalid-isbn",150,25,"invalid ISBN","ISBN 750116203X"],[1,"lonely-bracket",119,53,"lonely \"]\"","]]"],[2,"unmatched-tag",59,83,"tag that is both closing and self-closing","</br>"]]

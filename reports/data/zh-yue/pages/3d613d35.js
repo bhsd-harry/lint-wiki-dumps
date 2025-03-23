@@ -1,1 +1,1 @@
-window.data=[[552,"illegal-attr",3,396,"label-module"]]
+window.data=[[552,"illegal-attr",3,396,"illegal attribute name","label-module"]]

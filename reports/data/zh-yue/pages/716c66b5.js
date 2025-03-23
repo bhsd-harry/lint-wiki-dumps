@@ -1,1 +1,1 @@
-window.data=[[4,"no-ignored",39,14,"  <small>;text-align:center"],[4,"parsing-order",39,16,"<small>"]]
+window.data=[[4,"no-ignored",39,14,"containing invalid attribute","  <small>;text-align:center"],[4,"parsing-order",39,16,"HTML tag in table attributes","<small>"]]

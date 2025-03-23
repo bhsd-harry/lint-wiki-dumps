@@ -1,1 +1,1 @@
-window.data=[[4,"no-ignored",226,4,"File:Nine-banded_Armadillo.jpg#mediaviewer/File:Nine-banded_Armadillo.jpg"]]
+window.data=[[4,"no-ignored",226,4,"useless fragment","File:Nine-banded_Armadillo.jpg#mediaviewer/File:Nine-banded_Armadillo.jpg"]]

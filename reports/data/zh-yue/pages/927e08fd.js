@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",49,17,"wideth"],[2,"unescaped",322,164,"="]]
+window.data=[[1,"illegal-attr",49,17,"illegal attribute name","wideth"],[2,"unescaped",322,164,"unescaped query string in an anonymous parameter","="]]

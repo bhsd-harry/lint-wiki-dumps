@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,4,"style=\"margin: 0 0 1em 1em\""]]
+window.data=[[2,"no-duplicate",1,4,"duplicated style attribute","style=\"margin: 0 0 1em 1em\""]]

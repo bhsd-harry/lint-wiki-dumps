@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",1,1,"[[Category:吴语俗话]]"]]
+window.data=[[2,"no-duplicate",1,1,"duplicated category","[[Category:吴语俗话]]"]]

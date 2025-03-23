@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",3,298,"[[:en:Techmoan|Techmoan]]"]]
+window.data=[[1,"nested-link",3,298,"internal link in an external link","[[:en:Techmoan|Techmoan]]"]]

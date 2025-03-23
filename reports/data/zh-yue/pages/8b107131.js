@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",38,4,"table"],[2,"no-duplicate",111,55,"Right"],[10,"unmatched-tag",44,62,"</center>"]]
+window.data=[[3,"illegal-attr",38,4,"illegal attribute name","table"],[2,"no-duplicate",111,55,"duplicated image caption parameter","Right"],[10,"unmatched-tag",44,62,"unmatched closing tag","</center>"]]

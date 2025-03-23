@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",66,41,"style=\"width:90%\""],[1,"no-ignored",66,22,"  mw-collapsible\"  "],[2,"unmatched-tag",139,57,"</br>"]]
+window.data=[[2,"no-duplicate",66,41,"duplicated style attribute","style=\"width:90%\""],[1,"no-ignored",66,22,"containing invalid attribute","  mw-collapsible\"  "],[2,"unmatched-tag",139,57,"tag that is both closing and self-closing","</br>"]]

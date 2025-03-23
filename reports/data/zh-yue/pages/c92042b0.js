@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",5,3,"方向=南北\n "]]
+window.data=[[2,"no-duplicate",5,3,"duplicated parameter","方向=南北\n "]]

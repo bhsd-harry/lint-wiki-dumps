@@ -1,1 +1,1 @@
-window.data=[[2,"lonely-bracket",337,74,"[["],[2,"no-duplicate",221,52,"float"],[1,"no-ignored",337,64,"|+ 伽利略衛星，同[[月亮]]比較"]]
+window.data=[[2,"lonely-bracket",337,74,"lonely \"[\"","[["],[2,"no-duplicate",221,52,"duplicated image caption parameter","float"],[1,"no-ignored",337,64,"containing invalid attribute","|+ 伽利略衛星，同[[月亮]]比較"]]

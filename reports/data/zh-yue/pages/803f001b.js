@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-http",62,39,"ISBN"],[2,"no-duplicate",22,24,"style=\"font-size:small;\""]]
+window.data=[[1,"lonely-http",62,39,"lonely \"ISBN\"","ISBN"],[2,"no-duplicate",22,24,"duplicated style attribute","style=\"font-size:small;\""]]

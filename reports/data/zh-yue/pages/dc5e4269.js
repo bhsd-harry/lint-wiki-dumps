@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",12,3," phylum = [[脊索動物門]]\n "]]
+window.data=[[4,"no-duplicate",12,3,"duplicated parameter"," phylum = [[脊索動物門]]\n "]]

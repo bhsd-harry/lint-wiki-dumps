@@ -1,1 +1,1 @@
-window.data=[[6,"no-ignored",8,20," %vorbis=\"1\"%%T257066%"]]
+window.data=[[6,"no-ignored",8,20,"containing invalid attribute"," %vorbis=\"1\"%%T257066%"]]

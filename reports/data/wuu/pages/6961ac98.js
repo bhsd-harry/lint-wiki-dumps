@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",16,2,"[[分类:中国]]"]]
+window.data=[[2,"no-duplicate",16,2,"duplicated category","[[分类:中国]]"]]

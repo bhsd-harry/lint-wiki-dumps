@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",134,60,"縮圖"],[1,"tag-like",143,1524,"<ref"]]
+window.data=[[2,"no-duplicate",134,60,"duplicated image caption parameter","縮圖"],[1,"tag-like",143,1524,"lonely \"<\"","<ref"]]

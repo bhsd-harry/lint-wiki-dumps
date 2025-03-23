@@ -1,1 +1,1 @@
-window.data=[[5,"illegal-attr",75,658,"monthly"],[1,"no-ignored",23,44,"  <section begin=world/>style=text-align:center "],[1,"parsing-order",23,46,"<section begin=world/>"]]
+window.data=[[5,"illegal-attr",75,658,"illegal attribute name","monthly"],[2,"invalid-css",75,657,"semi-colon expected",""],[1,"no-ignored",23,44,"containing invalid attribute","  <section begin=world/>style=text-align:center "],[1,"parsing-order",23,46,"extension tag in HTML tag attributes","<section begin=world/>"]]

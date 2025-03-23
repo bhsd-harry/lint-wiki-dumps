@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",31,53,"id=\"MainPageBox1\""]]
+window.data=[[2,"invalid-css",31,31,"semi-colon expected",":"],[6,"no-duplicate",31,53,"duplicated id attribute","id=\"MainPageBox1\""]]

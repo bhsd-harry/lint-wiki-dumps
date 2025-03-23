@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",5,922,"[[Medicine|medicinal]]"]]
+window.data=[[1,"nested-link",5,922,"internal link in an external link","[[Medicine|medicinal]]"]]

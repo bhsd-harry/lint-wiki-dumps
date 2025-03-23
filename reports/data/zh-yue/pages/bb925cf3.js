@@ -1,1 +1,1 @@
-window.data=[[6,"no-duplicate",35,23,"縮略圖"]]
+window.data=[[6,"no-duplicate",35,23,"duplicated image caption parameter","縮略圖"]]

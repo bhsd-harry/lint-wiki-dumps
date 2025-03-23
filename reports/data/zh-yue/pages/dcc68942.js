@@ -1,1 +1,1 @@
-window.data=[[1,"nested-link",141,125,"[[electric field]]"],[39,"no-ignored",34,51," color"]]
+window.data=[[1,"nested-link",141,125,"internal link in an external link","[[electric field]]"],[39,"no-ignored",34,51,"attributes of a closing tag"," color"]]

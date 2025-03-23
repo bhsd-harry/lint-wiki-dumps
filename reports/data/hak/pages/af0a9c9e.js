@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",19,3," image_map                       = \n "]]
+window.data=[[2,"no-duplicate",19,3,"duplicated parameter"," image_map                       = \n "]]

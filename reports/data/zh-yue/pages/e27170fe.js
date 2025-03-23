@@ -1,1 +1,1 @@
-window.data=[[16,"no-duplicate",57,39,"style=\"width:90%\""]]
+window.data=[[2,"invalid-css",379,49,"semi-colon expected",":"],[16,"no-duplicate",57,39,"duplicated style attribute","style=\"width:90%\""]]

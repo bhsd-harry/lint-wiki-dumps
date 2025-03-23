@@ -1,1 +1,1 @@
-window.data=[[9,"illegal-attr",1200,3,"BBO"],[9,"lonely-bracket",1011,31,"["],[24,"no-duplicate",16,3," 教育程度 = \n "],[6,"no-ignored",1076,3," 【Live】PØK1 保錡 "]]
+window.data=[[9,"illegal-attr",1200,3,"illegal attribute name","BBO"],[9,"lonely-bracket",1011,31,"lonely \"[\"","["],[24,"no-duplicate",16,3,"duplicated parameter"," 教育程度 = \n "],[6,"no-ignored",1076,3,"containing invalid attribute"," 【Live】PØK1 保錡 "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",3,3," company_logo = \n "]]
+window.data=[[2,"no-duplicate",3,3,"duplicated parameter"," company_logo = \n "]]

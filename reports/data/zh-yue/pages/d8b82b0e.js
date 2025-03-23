@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",15,3," synonyms           = \n "]]
+window.data=[[2,"no-duplicate",15,3,"duplicated parameter"," synonyms           = \n "]]

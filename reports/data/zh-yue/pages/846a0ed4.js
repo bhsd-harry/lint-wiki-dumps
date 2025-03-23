@@ -1,1 +1,1 @@
-window.data=[[3,"illegal-attr",594,4,"https:"],[1,"no-ignored",594,36,"/?hl=zh-hk"]]
+window.data=[[3,"illegal-attr",594,4,"illegal attribute name","https:"],[1,"no-ignored",594,36,"containing invalid attribute","/?hl=zh-hk"]]

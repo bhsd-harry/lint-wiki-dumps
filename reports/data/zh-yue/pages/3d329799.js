@@ -1,1 +1,1 @@
-window.data=[[13,"no-duplicate",5,3," image = Airport EBBR2.jpg\n "]]
+window.data=[[13,"no-duplicate",5,3,"duplicated parameter"," image = Airport EBBR2.jpg\n "]]

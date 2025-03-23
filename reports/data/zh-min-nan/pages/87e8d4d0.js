@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",35,2,"[[Category:Lâm-hui Chóng-thóng]]"]]
+window.data=[[2,"no-duplicate",35,2,"duplicated category","[[Category:Lâm-hui Chóng-thóng]]"]]

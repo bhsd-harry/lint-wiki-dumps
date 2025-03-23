@@ -1,1 +1,1 @@
-window.data=[[20,"illegal-attr",88,71,"_mstmutation"]]
+window.data=[[20,"illegal-attr",88,71,"illegal attribute name","_mstmutation"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"fostered-content",214,1,"\n </table></td>\n </table></td>"],[1,"illegal-attr",148,46,"float"],[12,"unmatched-tag",166,2,"</table>"]]
+window.data=[[1,"fostered-content",214,1,"content to be moved out from the table","\n </table></td>\n </table></td>"],[1,"illegal-attr",148,46,"illegal attribute name","float"],[12,"unmatched-tag",166,2,"unmatched closing tag","</table>"]]

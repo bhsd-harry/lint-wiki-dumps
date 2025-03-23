@@ -1,1 +1,1 @@
-window.data=[[8,"invalid-gallery",19,36,"thumb"],[1,"lonely-bracket",5,143,"[["]]
+window.data=[[8,"invalid-gallery",19,36,"invalid image parameter","thumb"],[1,"lonely-bracket",5,143,"lonely \"[\"","[["]]

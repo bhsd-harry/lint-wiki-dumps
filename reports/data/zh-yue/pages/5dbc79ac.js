@@ -1,1 +1,1 @@
-window.data=[[2,"illegal-attr",14,44,"xml:lang"],[2,"no-ignored",108,48,"; white-space:nowrap; "],[1,"unclosed-table",108,2,"{|"]]
+window.data=[[2,"illegal-attr",14,44,"illegal attribute name","xml:lang"],[2,"no-ignored",108,48,"containing invalid attribute","; white-space:nowrap; "],[1,"unclosed-table",108,2,"unclosed table","{|"]]

@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",340,213,"[["],[2,"no-duplicate",122,39,"縮圖"]]
+window.data=[[1,"lonely-bracket",340,213,"lonely \"[\"","[["],[2,"no-duplicate",122,39,"duplicated image caption parameter","縮圖"]]

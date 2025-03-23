@@ -1,1 +1,1 @@
-window.data=[[1,"unmatched-tag",116,81,"<center>"]]
+window.data=[[2,"invalid-css",33,36,"semi-colon expected",""],[1,"unmatched-tag",116,81,"unclosed tag","<center>"]]

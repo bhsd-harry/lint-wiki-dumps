@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",64,2,"[[Lūi-pia̍t:Bú-im]]"]]
+window.data=[[2,"no-duplicate",64,2,"duplicated category","[[Lūi-pia̍t:Bú-im]]"]]

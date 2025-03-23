@@ -1,1 +1,1 @@
-window.data=[[4,"no-duplicate",98,2,"[[Category:香港法律]]"]]
+window.data=[[4,"no-duplicate",98,2,"duplicated category","[[Category:香港法律]]"]]

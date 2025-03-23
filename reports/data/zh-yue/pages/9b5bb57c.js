@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",36,44,"1905年發行「千歳」副船長記念幣，"]]
+window.data=[[2,"no-duplicate",36,44,"duplicated image caption parameter","1905年發行「千歳」副船長記念幣，"]]

@@ -1,1 +1,1 @@
-window.data=[[2,"tag-like",79,81,"<a"],[2,"unmatched-tag",211,43,"</br>"]]
+window.data=[[2,"tag-like",79,81,"lonely \"<\"","<a"],[2,"unmatched-tag",211,43,"tag that is both closing and self-closing","</br>"]]

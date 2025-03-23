@@ -1,1 +1,1 @@
-window.data=[[1,"lonely-bracket",148,384,"["],[5,"no-ignored",3,40," color"]]
+window.data=[[1,"lonely-bracket",148,384,"lonely \"[\"","["],[5,"no-ignored",3,40,"attributes of a closing tag"," color"]]

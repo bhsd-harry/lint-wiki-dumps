@@ -1,1 +1,1 @@
-window.data=[[9,"no-duplicate",17,3," subdivision_ranks     =\n "],[4,"unmatched-tag",32,33,"</small>"]]
+window.data=[[9,"no-duplicate",17,3,"duplicated parameter"," subdivision_ranks     =\n "],[4,"unmatched-tag",32,33,"unmatched closing tag","</small>"]]

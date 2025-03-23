@@ -1,1 +1,1 @@
-window.data=[[1,"illegal-attr",33,4,"table"],[1,"unmatched-tag",62,48,"</br>"]]
+window.data=[[1,"illegal-attr",33,4,"illegal attribute name","table"],[1,"unmatched-tag",62,48,"tag that is both closing and self-closing","</br>"]]

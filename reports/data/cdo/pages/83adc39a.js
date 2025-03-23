@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",13,3,"map=Ryukyuan_languages_map.png\n "]]
+window.data=[[2,"no-duplicate",13,3,"duplicated parameter","map=Ryukyuan_languages_map.png\n "]]

@@ -1,1 +1,1 @@
-window.data=[[2,"no-duplicate",4,2,"[[分類:姜齊世家]]"]]
+window.data=[[2,"no-duplicate",4,2,"duplicated category","[[分類:姜齊世家]]"]]
