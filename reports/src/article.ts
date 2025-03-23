@@ -1,7 +1,3 @@
-import type {LintError} from 'wikilint';
-
-declare const data: [LintError.Rule, number, number, string, string][];
-
 (async () => {
 	const search = new URLSearchParams(location.search),
 		page = search.get('page')!,
@@ -22,8 +18,9 @@ declare const data: [LintError.Rule, number, number, string, string][];
 	wiki.href += `?lang=${lang}`;
 	script.src = `./data/${lang}/pages/${hash}.js`;
 	script.addEventListener('load', () => {
-		for (const [rule, startLine, startCol, message, excerpt] of data) {
-			const tr = document.createElement('tr'),
+		for (const entry of data as unknown as [string, number, number, string, string][]) {
+			const [rule, startLine, startCol, message, excerpt] = entry,
+				tr = document.createElement('tr'),
 				description = document.createElement('td'),
 				line = document.createElement('td'),
 				column = document.createElement('td'),
