@@ -1,14 +1,14 @@
 'use strict';
 
 const lang = new URLSearchParams(location.search).get('lang'),
-	script = document.createElement('script');
+	script = document.createElement('script'),
+	title = document.querySelector('title'),
+	h2 = document.querySelector('h2'),
+	tbody = document.querySelector('tbody');
+h2.textContent = h2.textContent.replace('Wikipedia', `${lang}.wikipedia.org`);
+title.textContent = title.textContent.replace('Wikipedia', `${lang}.wikipedia.org`);
 script.src = `./data/${lang}/index.js`;
 script.addEventListener('load', () => {
-	const title = document.querySelector('title'),
-		h2 = document.querySelector('h2');
-	h2.textContent = h2.textContent.replace('Wikipedia', `${lang}.wikipedia.org`);
-	title.textContent = title.textContent.replace('Wikipedia', `${lang}.wikipedia.org`);
-	const tbody = document.querySelector('tbody');
 	for (const entry of globalThis.data) {
 		const /** @type {[string, number]} */ [rule, count] = entry,
 			tr = document.createElement('tr'),

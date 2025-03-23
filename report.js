@@ -43,12 +43,21 @@ for (const file of dir) {
 
 				// rule
 				const articles = Object.entries(data).filter(([, errors]) => errors.some(({rule: r}) => r === rule))
-					.sort(([a], [b]) => a.localeCompare(b)).map(([page, errors]) => {
-						/** @type {import('wikilint').LintError & {excerpt: string}} */
-						const {startLine, startCol, message, excerpt} = errors.find(({rule: r}) => r === rule);
-						return [page, startLine + 1, startCol + 1, message, excerpt.slice(0, MAX)];
-					});
-				writeJS(articles, path.join(site, rule));
+						.sort(([a], [b]) => a.localeCompare(b)).map(([page, errors]) => {
+							/** @type {import('wikilint').LintError & {excerpt: string}} */
+							const {startLine, startCol, message, excerpt} = errors.find(({rule: r}) => r === rule);
+							return [page, startLine + 1, startCol + 1, message, excerpt.slice(0, MAX * 0.8)];
+						}),
+					batches = Math.ceil(articles.length / 200);
+				for (let i = 0; i < batches; i++) {
+					writeJS(
+						{
+							articles: articles.slice(i * 200, (i + 1) * 200),
+							batches,
+						},
+						path.join(site, `${rule}-${i}`),
+					);
+				}
 			}
 			writeJS(wiki, path.join(site, 'index'));
 
