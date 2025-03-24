@@ -27,6 +27,7 @@
 		"url": "git+https://github.com/bhsd-harry/lint-wiki-dumps.git"
 	},
 	"scripts": {
+		"prepublishOnly": "npm run build",
 		"build": "tsc && mv dist/* . && tsc --project reports/tsconfig.json",
 		"lint": "tsc --noEmit && tsc --project reports/tsconfig.json --noEmit && eslint --cache ."
 	},

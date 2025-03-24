@@ -2,3 +2,4 @@
 /results/
 dist/
 .eslintcache
+*.js
