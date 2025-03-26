@@ -34,6 +34,7 @@ results.on('close', () => {
 });
 const stop = () => {
     stopping = true;
+    console.log();
     console.timeEnd('parse');
     console.log(chalk_1.default.green(`Parsed ${i} pages`));
     if (failed) {
@@ -56,7 +57,7 @@ stream.on('endElement: page', ({ title, ns, revision: { model, timestamp, text: 
             stop();
         }
     }
-    else if (restarted && model === 'wikitext' && $text && ns === '0') {
+    else if (restarted && model === 'wikitext' && $text) {
         (0, common_1.refreshStdout)(`${i++} ${title}`);
         const date = new Date(timestamp);
         if (last && date <= last) {
@@ -68,7 +69,7 @@ stream.on('endElement: page', ({ title, ns, revision: { model, timestamp, text: 
         else {
             latest = !latest || date > latest ? date : latest;
             try {
-                const start = perf_hooks_1.performance.now(), errors = wikilint_1.default.parse($text).lint()
+                const start = perf_hooks_1.performance.now(), errors = wikilint_1.default.parse($text, ns === '10').lint()
                     .filter(({ severity, rule }) => severity === 'error' && !ignore.has(rule)), duration = perf_hooks_1.performance.now() - start;
                 if (errors.length > 0) {
                     newEntry(title, errors.map(({ severity, suggestions, fix, ...e }) => ({
