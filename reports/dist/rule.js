@@ -1,6 +1,6 @@
 "use strict";
 (() => {
-    const search = new URLSearchParams(location.search), lang = search.get('lang'), rule = search.get('rule'), batch = Math.floor(Number(search.get('start') || 0) / 200), endStr = String((batch + 1) * 200), prev = document.getElementById('prev'), next = document.getElementById('next'), start = document.getElementById('start'), end = document.getElementById('end'), title = document.querySelector('title'), h2 = document.querySelector('h2'), wiki = document.getElementById('wiki'), tbody = document.querySelector('tbody'), script = document.createElement('script');
+    const search = new URLSearchParams(location.search), lang = search.get('lang'), rule = search.get('rule'), batch = Math.floor(Number(search.get('start') || 0) / 200), endStr = String((batch + 1) * 200), nav = document.getElementById('nav'), prev = document.getElementById('prev'), next = document.getElementById('next'), start = document.getElementById('start'), end = document.getElementById('end'), title = document.querySelector('title'), h2 = document.querySelector('h2'), wiki = document.getElementById('wiki'), table = document.querySelector('table'), tbody = document.querySelector('tbody'), script = document.createElement('script');
     h2.textContent = h2.textContent.replace('Wikipedia', `${lang}.wikipedia.org: ${rule}`);
     title.textContent = title.textContent.replace('Wikipedia', `${lang}.wikipedia.org`);
     wiki.textContent = `${lang}wiki`;
@@ -43,6 +43,7 @@
             tr.append(article, edit, line, column, detail, notice, more);
             tbody.append(tr);
         }
+        table.after(nav.cloneNode(true));
     });
     document.head.append(script);
 })();
