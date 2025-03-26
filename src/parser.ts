@@ -24,8 +24,9 @@ const n = Number(process.argv[4]) || Infinity,
 
 Parser.config = `${site}wiki`;
 
-if (!fs.existsSync('results')) {
-	fs.mkdirSync('results');
+const resultDir = path.join(__dirname, 'results');
+if (!fs.existsSync(resultDir)) {
+	fs.mkdirSync(resultDir);
 }
 const stream = new XmlStream(fs.createReadStream(file!.replace(/^~/u, os.homedir())).pipe(bz2())),
 	output = path.join('results', `${site}.json`);
@@ -35,7 +36,7 @@ try {
 } catch {}
 const time = old?.['#timestamp'],
 	last = time && new Date(time),
-	results = fs.createWriteStream(output, {flags: restart ? 'a' : 'w'}),
+	results = fs.createWriteStream(path.join(__dirname, output), {flags: restart ? 'a' : 'w'}),
 	ignore = new Set(['no-arg', 'url-encoding', 'h1', 'var-anchor']);
 let i = 0,
 	latest = last,
@@ -93,7 +94,7 @@ stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$
 			latest = !latest || date > latest ? date : latest;
 			try {
 				const start = perf.now(),
-					errors = Parser.parse($text, ns === '10').lint()
+					errors = Parser.parse($text, ns === '10' || ns === '828').lint()
 						.filter(({severity, rule}) => severity === 'error' && !ignore.has(rule)),
 					duration = perf.now() - start;
 				if (errors.length > 0) {

@@ -7,20 +7,22 @@ import type {Results} from './parser';
 
 const [,, lang] = process.argv;
 
-const mkdir = (dir: string): void => {
+const mkdir = (dir: string, empty?: boolean): void => {
 	if (!fs.existsSync(dir)) {
 		fs.mkdirSync(dir);
+	} else if (empty) {
+		fs.rmSync(dir, {recursive: true});
 	}
 };
 
-const dataDir = path.join('reports', 'data');
+const dataDir = path.join(__dirname, 'reports', 'data');
 mkdir(dataDir);
 
 const writeJS = (data: object, file: string): void => {
 	fs.writeFileSync(path.join(dataDir, `${file}.js`), `window.data=${JSON.stringify(data)}`);
 };
 
-const dir = fs.readdirSync('results'),
+const dir = fs.readdirSync(path.join(__dirname, 'results')),
 	summary: string[] = [],
 	MAX = 100;
 for (const file of dir) {
@@ -33,7 +35,7 @@ for (const file of dir) {
 
 		if (!lang || lang === site) {
 			const siteDir = path.join(dataDir, site);
-			mkdir(siteDir);
+			mkdir(siteDir, true);
 
 			// wiki
 			const values = Object.values(data),

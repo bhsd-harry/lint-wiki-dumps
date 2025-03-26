@@ -8,17 +8,20 @@ const path_1 = __importDefault(require("path"));
 const crypto_1 = require("crypto");
 const chalk_1 = __importDefault(require("chalk"));
 const [, , lang] = process.argv;
-const mkdir = (dir) => {
+const mkdir = (dir, empty) => {
     if (!fs_1.default.existsSync(dir)) {
         fs_1.default.mkdirSync(dir);
     }
+    else if (empty) {
+        fs_1.default.rmSync(dir, { recursive: true });
+    }
 };
-const dataDir = path_1.default.join('reports', 'data');
+const dataDir = path_1.default.join(__dirname, 'reports', 'data');
 mkdir(dataDir);
 const writeJS = (data, file) => {
     fs_1.default.writeFileSync(path_1.default.join(dataDir, `${file}.js`), `window.data=${JSON.stringify(data)}`);
 };
-const dir = fs_1.default.readdirSync('results'), summary = [], MAX = 100;
+const dir = fs_1.default.readdirSync(path_1.default.join(__dirname, 'results')), summary = [], MAX = 100;
 for (const file of dir) {
     try {
         // eslint-disable-next-line @typescript-eslint/no-require-imports
@@ -28,7 +31,7 @@ for (const file of dir) {
         delete data['#timestamp'];
         if (!lang || lang === site) {
             const siteDir = path_1.default.join(dataDir, site);
-            mkdir(siteDir);
+            mkdir(siteDir, true);
             // wiki
             const values = Object.values(data), rules = [...new Set(values.flat().map(({ rule }) => rule))].sort((a, b) => a.localeCompare(b)), wiki = [];
             for (const rule of rules) {
