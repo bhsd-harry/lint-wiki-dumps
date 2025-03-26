@@ -55,6 +55,7 @@ results.on('close', () => {
 
 const stop = (): void => {
 	stopping = true;
+	console.log();
 	console.timeEnd('parse');
 	console.log(chalk.green(`Parsed ${i} pages`));
 	if (failed) {
@@ -80,7 +81,7 @@ stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$
 		if (!stopping) {
 			stop();
 		}
-	} else if (restarted && model === 'wikitext' && $text && ns === '0') {
+	} else if (restarted && model === 'wikitext' && $text) {
 		refreshStdout(`${i++} ${title}`);
 		const date = new Date(timestamp);
 		if (last && date <= last) {
@@ -92,7 +93,7 @@ stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$
 			latest = !latest || date > latest ? date : latest;
 			try {
 				const start = perf.now(),
-					errors = Parser.parse($text).lint()
+					errors = Parser.parse($text, ns === '10').lint()
 						.filter(({severity, rule}) => severity === 'error' && !ignore.has(rule)),
 					duration = perf.now() - start;
 				if (errors.length > 0) {
