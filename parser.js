@@ -70,8 +70,8 @@ stream.on('endElement: page', ({ title, ns, revision: { model, timestamp, text: 
         else {
             latest = !latest || date > latest ? date : latest;
             try {
-                const start = perf_hooks_1.performance.now(), errors = wikilint_1.default.parse($text, ns === '10' || ns === '828').lint()
-                    .filter(({ severity, rule }) => severity === 'error' && !ignore.has(rule)), duration = perf_hooks_1.performance.now() - start;
+                const start = perf_hooks_1.performance.now(), include = ns === '10' || ns === '828', errors = wikilint_1.default.parse($text, include).lint().filter(({ severity, rule }) => severity === 'error' && !ignore.has(rule)
+                    && !(include && rule === 'unclosed-table')), duration = perf_hooks_1.performance.now() - start;
                 if (errors.length > 0) {
                     newEntry(title, errors.map(({ severity, suggestions, fix, ...e }) => ({
                         ...e,

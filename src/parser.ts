@@ -94,8 +94,11 @@ stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$
 			latest = !latest || date > latest ? date : latest;
 			try {
 				const start = perf.now(),
-					errors = Parser.parse($text, ns === '10' || ns === '828').lint()
-						.filter(({severity, rule}) => severity === 'error' && !ignore.has(rule)),
+					include = ns === '10' || ns === '828',
+					errors = Parser.parse($text, include).lint().filter(
+						({severity, rule}) => severity === 'error' && !ignore.has(rule)
+							&& !(include && rule === 'unclosed-table'),
+					),
 					duration = perf.now() - start;
 				if (errors.length > 0) {
 					newEntry(
