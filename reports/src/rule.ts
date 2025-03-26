@@ -9,6 +9,7 @@ declare const data: {
 		rule = search.get('rule'),
 		batch = Math.floor(Number(search.get('start') || 0) / 200),
 		endStr = String((batch + 1) * 200),
+		nav = document.getElementById('nav')!,
 		prev = document.getElementById('prev') as HTMLAnchorElement,
 		next = document.getElementById('next') as HTMLAnchorElement,
 		start = document.getElementById('start')!,
@@ -16,6 +17,7 @@ declare const data: {
 		title = document.querySelector('title')!,
 		h2 = document.querySelector('h2')!,
 		wiki = document.getElementById('wiki') as HTMLAnchorElement,
+		table = document.querySelector('table')!,
 		tbody = document.querySelector('tbody')!,
 		script = document.createElement('script');
 	h2.textContent = h2.textContent!.replace('Wikipedia', `${lang}.wikipedia.org: ${rule}`);
@@ -69,6 +71,7 @@ declare const data: {
 			tr.append(article, edit, line, column, detail, notice, more);
 			tbody.append(tr);
 		}
+		table.after(nav.cloneNode(true));
 	});
 	document.head.append(script);
 })();
