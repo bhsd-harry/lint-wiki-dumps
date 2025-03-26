@@ -9,12 +9,13 @@ const crypto_1 = require("crypto");
 const chalk_1 = __importDefault(require("chalk"));
 const [, , lang] = process.argv;
 const mkdir = (dir, empty) => {
-    if (!fs_1.default.existsSync(dir)) {
-        fs_1.default.mkdirSync(dir);
-    }
-    else if (empty) {
+    if (fs_1.default.existsSync(dir)) {
+        if (!empty) {
+            return;
+        }
         fs_1.default.rmSync(dir, { recursive: true });
     }
+    fs_1.default.mkdirSync(dir);
 };
 const dataDir = path_1.default.join(__dirname, 'reports', 'data');
 mkdir(dataDir);

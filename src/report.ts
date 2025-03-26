@@ -8,11 +8,13 @@ import type {Results} from './parser';
 const [,, lang] = process.argv;
 
 const mkdir = (dir: string, empty?: boolean): void => {
-	if (!fs.existsSync(dir)) {
-		fs.mkdirSync(dir);
-	} else if (empty) {
+	if (fs.existsSync(dir)) {
+		if (!empty) {
+			return;
+		}
 		fs.rmSync(dir, {recursive: true});
 	}
+	fs.mkdirSync(dir);
 };
 
 const dataDir = path.join(__dirname, 'reports', 'data');
