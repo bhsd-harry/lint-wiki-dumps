@@ -82,7 +82,7 @@ stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$
 		if (!stopping) {
 			stop();
 		}
-	} else if (restarted && model === 'wikitext' && $text) {
+	} else if (restarted && model === 'wikitext' && $text && ns !== '10') {
 		refreshStdout(`${i++} ${title}`);
 		const date = new Date(timestamp);
 		if (last && date <= last) {
@@ -94,11 +94,8 @@ stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$
 			latest = !latest || date > latest ? date : latest;
 			try {
 				const start = perf.now(),
-					include = ns === '10' || ns === '828',
-					errors = Parser.parse($text, include).lint().filter(
-						({severity, rule}) => severity === 'error' && !ignore.has(rule)
-							&& !(include && rule === 'unclosed-table'),
-					),
+					errors = Parser.parse($text, ns === '828').lint()
+						.filter(({severity, rule}) => severity === 'error' && !ignore.has(rule)),
 					duration = perf.now() - start;
 				if (errors.length > 0) {
 					newEntry(
