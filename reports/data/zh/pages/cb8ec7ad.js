@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",16,5,"duplicated class attribute","class=\"sortable\""],["no-duplicate",16,169,"duplicated class attribute","class=\"plainlinks\""]]

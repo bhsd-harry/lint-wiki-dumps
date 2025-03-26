@@ -1,0 +1,1 @@
+window.data=[["no-ignored",21,81,"useless fragment","color#{{#switch:{{CURRENTDAYNAME-JST}}\n |月曜日\n |火曜日\n |水曜日\n |木曜日\n |金曜日=000000\n |土曜日=0000ff\n |日曜日=ff000"]]

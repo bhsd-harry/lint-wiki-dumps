@@ -1,0 +1,1 @@
+window.data=[["nested-link",188,142,"internal link in an external link","[[Special:Contributions/42.2.43.151|42.2.43.151]]"],["nested-link",188,193,"internal link in an external link","[[User talk:42.2.43.151|留言]]"]]

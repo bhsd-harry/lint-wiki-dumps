@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",32,3,"duplicated parameter"," successor = [[任天堂Switch 2]]\n "],["no-duplicate",61,3,"duplicated parameter"," successor = [[任天堂Switch 2]]\n "]]
+window.data=[["no-duplicate",31,3,"duplicated parameter"," successor = [[任天堂Switch 2]]\n "],["no-duplicate",60,3,"duplicated parameter"," successor = [[任天堂Switch 2]]\n "]]

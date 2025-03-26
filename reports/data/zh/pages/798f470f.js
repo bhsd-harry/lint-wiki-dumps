@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,26,"duplicated image caption parameter","Cha-syu"],["no-duplicate",1,34,"duplicated image caption parameter","日式叉燒在解開棉繩及切成薄片前的模樣"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",209,20,"containing invalid attribute"," ; text-align:center;\""],["unmatched-tag",282,100,"unmatched closing tag","</span>"]]

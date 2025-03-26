@@ -1,0 +1,1 @@
+window.data=[["invalid-css",16,162,"property value expected","#Black"],["invalid-css",16,226,"semi-colon expected",""],["invalid-css",16,226,"colon expected",""],["no-ignored",42,208,"attributes of a closing tag"," color=\"red\""]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",23,3,"duplicated parameter","date_event1            = 319年\n "],["no-duplicate",25,3,"duplicated parameter","date_event1            = 前65年\n "]]

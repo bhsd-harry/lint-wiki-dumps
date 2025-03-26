@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",25,3,"duplicated parameter","past = \n "],["no-duplicate",26,3,"duplicated parameter","past = \n *《南方雜誌》總編輯<br>{{color|blue|（1986年－1987年）}}\n *耶魯[[兩岸關係]]學會理事<br>{{color|blue|（1994年）}}\n *《[["]]

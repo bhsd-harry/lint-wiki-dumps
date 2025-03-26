@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",4,38,"conflicting image horizontal-alignment parameter","right"],["no-duplicate",4,70,"conflicting image horizontal-alignment parameter","居中"]]
+window.data=[["no-duplicate",4,38,"conflicting image horizontal-alignment parameter","right"],["no-duplicate",4,70,"conflicting image horizontal-alignment parameter","居中"],["lonely-bracket",19,422,"lonely \"{\"","{{"]]

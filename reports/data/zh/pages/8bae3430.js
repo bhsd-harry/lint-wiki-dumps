@@ -1,0 +1,1 @@
+window.data=[["no-ignored",16,8,"containing invalid attribute"," 無"],["no-ignored",17,6,"containing invalid attribute"," 無"],["unclosed-table",12,2,"unclosed table","{|"]]

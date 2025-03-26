@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",9,2,"duplicated category","[[Category:中国各省医院]]"],["no-duplicate",10,2,"duplicated category","[[Category:中国各省医院]]"]]

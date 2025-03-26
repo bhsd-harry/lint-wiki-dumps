@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",73,2,"unmatched closing tag","</div>"],["no-duplicate",293,78,"duplicated title attribute","title=\"First second of 2021-01-09 AoE minus one second.\""],["no-duplicate",293,174,"duplicated title attribute","title=\"<nowiki>First second of 2021-01-09 AoE minus one second.</nowiki>\""]]

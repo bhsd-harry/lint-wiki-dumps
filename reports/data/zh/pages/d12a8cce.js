@@ -1,0 +1,1 @@
+window.data=[["fostered-content",21,1,"content to be moved out from the table"," *[[User:Dodd|Dodd]]：夏聚講師\n *[[User:Reke|Reke]]：夏聚講師、總籌\n *[[User:Supaplex|Supaplex]]：夏聚講師、主辦人\n *[[Use"]]

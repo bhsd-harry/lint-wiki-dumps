@@ -1,0 +1,1 @@
+window.data=[["invalid-css",3,40,"} expected",""],["invalid-css",3,26,"identifier expected","\"padding-left\""]]

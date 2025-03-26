@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",16,2,"duplicated category","[[Category:独立战争]]"],["no-duplicate",26,2,"duplicated category","[[Category:独立战争]]"],["no-duplicate",17,2,"duplicated category","[[Category:冷戰衝突]]"],["no-duplicate",34,2,"duplicated category","[[Category:冷戰衝突]]"]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",2,85,"illegal attribute name","colspan"],["no-ignored",2,112,"containing invalid attribute"," font-weight:bold;\""],["no-duplicate",2,5,"duplicated align attribute","align = center"],["no-duplicate",2,97,"duplicated align attribute","align = center;"],["unmatched-tag",4,2,"unmatched closing tag","</center>"]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",390,63,"illegal attribute name","xml:lang"],["illegal-attr",557,67,"illegal attribute name","xml:lang"],["lonely-bracket",616,6,"lonely \"[\"","[["],["lonely-bracket",616,14,"lonely \"]\"","]]"],["invalid-css",754,47,"{ expected",";"],["illegal-attr",811,160,"illegal attribute name","xml:lang"]]

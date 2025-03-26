@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",64,2,"duplicated category","[[Category:CJK]]"],["no-duplicate",80,2,"duplicated category","[[Category:CJK]]"]]
+window.data=[["no-duplicate",64,2,"duplicated category","[[Category:中日韩汉字]]"],["no-duplicate",80,2,"duplicated category","[[Category:中日韩汉字]]"]]

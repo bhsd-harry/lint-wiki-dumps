@@ -1,0 +1,1 @@
+window.data=[["fostered-content",20,1,"content to be moved out from the table","\n == 協議 ==\n {{Non-free album cover}}\n [[Category:古巨基專輯]]"],["unclosed-table",3,2,"unclosed table","{|"]]

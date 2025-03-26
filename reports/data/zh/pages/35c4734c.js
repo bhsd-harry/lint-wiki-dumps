@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",50,2,"duplicated category","[[Category:2020年夏季奧林匹克運動會田徑運動員]]"],["no-duplicate",51,2,"duplicated category","[[Category:2020年夏季奧林匹克運動會田徑運動員]]"]]
+window.data=[["no-duplicate",55,2,"duplicated category","[[Category:2020年夏季奧林匹克運動會田徑運動員]]"],["no-duplicate",56,2,"duplicated category","[[Category:2020年夏季奧林匹克運動會田徑運動員]]"]]

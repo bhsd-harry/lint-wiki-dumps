@@ -1,0 +1,1 @@
+window.data=[["invalid-css",5,132,"property value expected","#"],["unmatched-tag",47,2,"unmatched closing tag","</div>"],["unclosed-table",5,2,"unclosed table","{|"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",19,3,"duplicated parameter"," 網站 = [https://pinupsartist.jp/actor/kobayashi/ PINUPS artist官網>小林虎之介專頁]\n "],["no-duplicate",22,3,"duplicated parameter"," 網站 = {{Official|http://www.horipro.co.jp/suzukiryohei/}}\n "]]

@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",607,2,"duplicated category","[[Category:北投區政治]]"],["no-duplicate",608,2,"duplicated category","[[Category:北投區政治]]"]]
+window.data=[["no-duplicate",609,2,"duplicated category","[[Category:北投區政治]]"],["no-duplicate",610,2,"duplicated category","[[Category:北投區政治]]"]]

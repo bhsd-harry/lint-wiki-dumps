@@ -1,1 +1,1 @@
-window.data=[["tag-like",477,596,"lonely \"<\"","</math"],["lonely-bracket",477,838,"lonely \"{\"","{{"]]
+window.data=[["tag-like",479,596,"lonely \"<\"","</math"],["lonely-bracket",479,838,"lonely \"{\"","{{"]]

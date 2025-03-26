@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",11,2,"duplicated category","[[Category:1700年條約]]"],["no-duplicate",12,2,"duplicated category","[[Category:1700年條約]]"]]

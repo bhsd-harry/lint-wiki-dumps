@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",13,92,"unmatched closing tag","</span>"],["invalid-css",126,218,"property value expected","#FDF5E"],["invalid-css",126,239,"{ expected",";"],["invalid-css",126,232,"identifier expected","#4682B4"],["invalid-css",126,254,"{ expected","1px"],["lonely-http",209,138,"lonely \"http://\"","http://"],["lonely-http",368,24,"lonely \"http://\"","http://"]]

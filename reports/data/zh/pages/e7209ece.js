@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",31,22,"tag that is both closing and self-closing","</br>"],["no-duplicate",28,3,"duplicated parameter"," producer = \n "],["no-duplicate",33,3,"duplicated parameter"," producer = \n "]]

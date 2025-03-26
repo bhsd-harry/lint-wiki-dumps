@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",195,132,"illegal attribute name","style:color"],["illegal-attr",195,200,"illegal attribute name","style:color"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,2,"duplicated category","[[Category:FORTRAN 使用者|1]]"],["no-duplicate",3,2,"duplicated category","[[Category:FORTRAN 使用者]]"]]

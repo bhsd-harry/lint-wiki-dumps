@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["no-duplicate",2,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"]]

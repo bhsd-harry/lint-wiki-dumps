@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",17,51,"conflicting image frame parameter","frameless"],["no-duplicate",17,73,"conflicting image frame parameter","thumb"],["no-duplicate",22,50,"conflicting image frame parameter","frameless"],["no-duplicate",22,78,"conflicting image frame parameter","thumb"]]

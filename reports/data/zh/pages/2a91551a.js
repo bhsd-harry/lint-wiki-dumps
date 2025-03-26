@@ -1,0 +1,1 @@
+window.data=[["lonely-http",33,3,"lonely \"http://\"","http://"],["lonely-bracket",75,55,"lonely \"[\"","[["],["lonely-bracket",75,74,"lonely \"]\"","]]"],["lonely-http",585,270,"lonely \"http://\"","http://"],["tag-like",656,22,"lonely \"<\"","<a"],["tag-like",656,55,"lonely \"<\"","</a"],["tag-like",657,20,"lonely \"<\"","<a"],["tag-like",657,53,"lonely \"<\"","</a"]]

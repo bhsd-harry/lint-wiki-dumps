@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",72,2,"duplicated category","[[Category:印度駐外機構]]"],["no-duplicate",75,2,"duplicated category","[[Category:印度駐外機構]]"]]
+window.data=[["no-duplicate",75,2,"duplicated category","[[Category:印度駐外機構]]"],["no-duplicate",78,2,"duplicated category","[[Category:印度駐外機構]]"]]

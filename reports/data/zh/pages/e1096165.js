@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",12,92,"unmatched closing tag","</span>"],["invalid-css",36,253,"semi-colon expected",":"],["lonely-http",45,45,"lonely \"http://\"","http://"],["invalid-css",62,233,"semi-colon expected",":"],["invalid-css",104,242,"semi-colon expected",":"]]

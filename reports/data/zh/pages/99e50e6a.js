@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",284,2,"duplicated category","[[Category:NHK週六電視劇]]"],["no-duplicate",288,2,"duplicated category","[[Category:NHK週六電視劇]]"]]
+window.data=[["no-duplicate",283,2,"duplicated category","[[Category:NHK週六電視劇]]"],["no-duplicate",287,2,"duplicated category","[[Category:NHK週六電視劇]]"]]

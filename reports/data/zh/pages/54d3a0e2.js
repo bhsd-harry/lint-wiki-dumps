@@ -1,0 +1,1 @@
+window.data=[["no-ignored",5,47,"attributes of a closing tag"," color=\"red\""]]

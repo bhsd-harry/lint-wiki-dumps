@@ -1,1 +1,1 @@
-window.data=[["fostered-content",1],["illegal-attr",37],["invalid-css",16],["invalid-isbn",5],["lonely-apos",231],["lonely-bracket",339],["lonely-http",24],["nested-link",1],["no-duplicate",29],["no-ignored",22],["parsing-order",1],["tag-like",11],["unclosed-table",9],["unmatched-tag",82]]
+window.data=[["fostered-content",1],["illegal-attr",39],["invalid-css",17],["invalid-isbn",5],["lonely-apos",231],["lonely-bracket",353],["lonely-http",24],["nested-link",1],["no-duplicate",30],["no-ignored",25],["parsing-order",1],["tag-like",12],["unclosed-table",9],["unmatched-tag",91]]

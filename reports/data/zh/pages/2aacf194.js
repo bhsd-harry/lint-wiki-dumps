@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",91,2,"duplicated category","[[Category:台灣女歌手]]"],["no-duplicate",97,2,"duplicated category","[[Category:台灣女歌手]]"]]

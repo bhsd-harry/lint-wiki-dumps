@@ -1,0 +1,1 @@
+window.data=[["fostered-content",102,1,"content to be moved out from the table"," (註：在.cn及.hk以外網域使用正體之'''維'''做關鍵字。)"],["invalid-css",1134,89,"colon expected","="],["invalid-css",1134,205,"colon expected","="]]

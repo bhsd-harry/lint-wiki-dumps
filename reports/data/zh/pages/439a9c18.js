@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",15,236,"duplicated parameter","url="],["no-duplicate",15,241,"duplicated parameter","url=https://tw.news.yahoo.com/%E4%B8%8D%E8%83%BD%E6%B5%81%E6%B7%9A%E7%9A%84%E6%82%B2%E5%82%B7-%E8%A8"]]

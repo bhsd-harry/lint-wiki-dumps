@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",8,2,"duplicated category","[[Category:古生物小作品|D]]"],["no-duplicate",12,2,"duplicated category","[[分類:古生物小作品]]"]]

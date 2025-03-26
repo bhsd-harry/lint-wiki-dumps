@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",25,221,"illegal attribute name",":Nice"],["illegal-attr",25,227,"illegal attribute name","to"],["illegal-attr",25,230,"illegal attribute name","meet"],["no-ignored",25,234,"containing invalid attribute"," you\""],["lonely-bracket",34,2,"lonely \"]\"","]]"]]

@@ -1,0 +1,1 @@
+window.data=[["invalid-css",287,235,"semi-colon expected",":"],["invalid-css",295,236,"semi-colon expected",":"],["lonely-bracket",342,90,"lonely \"[\"","[["],["lonely-bracket",343,10,"lonely \"]\"","]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",698,222,"containing invalid attribute"," | Христос Воскресе"],["no-ignored",745,93,"containing invalid attribute"," | Христос Воскресе"],["invalid-css",1175,42,"} expected",""],["invalid-css",1175,42,"{ expected",""]]

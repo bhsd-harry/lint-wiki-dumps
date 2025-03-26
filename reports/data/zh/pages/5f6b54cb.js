@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,38,"duplicated image caption parameter","link=//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/European electricity grid.svg/220px-Europea"],["no-duplicate",1,171,"duplicated image caption parameter","[[歐洲輸電系統運營商聯盟|歐洲電網運營商組織]]中的電網：[[歐洲大陸|欧洲大陆]]、[[北歐|北欧]]、[[波罗的海国家|波罗的海]]、[[大不列顛島|英國主島]]和[[爱尔兰岛|爱尔兰島]]"]]

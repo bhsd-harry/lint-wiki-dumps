@@ -1,1 +1,1 @@
-window.data=[["illegal-attr",38,4,"illegal attribute name","table"]]
+window.data=[["no-duplicate",32,3,"duplicated parameter"," status = {{合肥轨道交通线路名|2|short}}：运营中\n "],["no-duplicate",35,3,"duplicated parameter"," status = \n "],["illegal-attr",46,4,"illegal attribute name","table"]]

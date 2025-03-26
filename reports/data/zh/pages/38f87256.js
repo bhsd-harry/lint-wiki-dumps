@@ -1,0 +1,1 @@
+window.data=[["invalid-css",104,359,"colon expected","="],["lonely-apos",758,62,"lonely \"'\"","'"]]

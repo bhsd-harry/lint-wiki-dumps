@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",133,3,"duplicated parameter","to={{計算|{{CURRENTYEAR}}+25}}\n "],["no-duplicate",177,3,"duplicated parameter","to={{計算|{{CURRENTYEAR}}+25}}\n "],["no-ignored",1066,14,"containing invalid attribute","=\"2\""]]
+window.data=[["no-duplicate",132,3,"duplicated parameter","to={{計算|{{CURRENTYEAR}}+25}}\n "],["no-duplicate",176,3,"duplicated parameter","to={{計算|{{CURRENTYEAR}}+25}}\n "],["no-ignored",1071,14,"containing invalid attribute","=\"2\""]]

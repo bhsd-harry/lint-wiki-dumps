@@ -1,0 +1,1 @@
+window.data=[["lonely-http",234,20,"lonely \"https://\"","https://"],["no-duplicate",10,249,"duplicated category","[[Category:{{#if:|自{{#time:Y年F|{{{time}}}}}}}有未列明来源语句的条目|{{#switch:{{#if:|{{#time:j|{{{time}}}}}}}|1"],["no-duplicate",20,249,"duplicated category","[[Category:{{#if:|自{{#time:Y年F|{{{time}}}}}}}有未列明来源语句的条目|{{#switch:{{#if:|{{#time:j|{{{time}}}}}}}|1"]]

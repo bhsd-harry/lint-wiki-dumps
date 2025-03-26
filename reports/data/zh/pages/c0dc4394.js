@@ -1,0 +1,1 @@
+window.data=[["invalid-css",49,66,"colon expected","="],["invalid-css",49,191,"colon expected","="],["invalid-css",208,97,"colon expected","="],["invalid-css",208,222,"colon expected","="],["lonely-bracket",291,140,"lonely \"]\"","]"]]

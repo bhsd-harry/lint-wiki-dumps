@@ -1,0 +1,1 @@
+window.data=[["invalid-css",23,31,"{ expected",";"],["illegal-attr",27,147,"illegal attribute name","xml:lang"],["lonely-http",56,16,"lonely \"https://\"","https://"],["lonely-http",58,14,"lonely \"https://\"","https://"]]

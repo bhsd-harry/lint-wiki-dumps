@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1272,2,"duplicated category","[[Category:中文基礎條目| ]]"],["no-duplicate",1273,2,"duplicated category","[[Category:中文基礎條目| ]]"]]

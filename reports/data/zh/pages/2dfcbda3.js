@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",1030,2,"duplicated category","[[Category:韓國藝人經紀公司]]"],["no-duplicate",1033,2,"duplicated category","[[Category:韓國藝人經紀公司]]"]]
+window.data=[["no-duplicate",1029,2,"duplicated category","[[Category:韓國藝人經紀公司]]"],["no-duplicate",1032,2,"duplicated category","[[Category:韓國藝人經紀公司]]"]]

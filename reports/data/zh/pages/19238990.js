@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",135,2,"duplicated category","[[Category:2021年建立的足球俱乐部]]"],["no-duplicate",138,2,"duplicated category","[[Category:2021年建立的足球俱乐部]]"]]
+window.data=[["no-duplicate",131,2,"duplicated category","[[Category:2021年建立的足球俱乐部]]"],["no-duplicate",134,2,"duplicated category","[[Category:2021年建立的足球俱乐部]]"]]

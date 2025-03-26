@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",24,2,"duplicated category","[[Category:蘇格蘭鐵路公司車站]]"],["no-duplicate",25,2,"duplicated category","[[Category:蘇格蘭鐵路公司車站]]"]]
+window.data=[["no-duplicate",26,2,"duplicated category","[[Category:蘇格蘭鐵路公司車站]]"],["no-duplicate",27,2,"duplicated category","[[Category:蘇格蘭鐵路公司車站]]"]]

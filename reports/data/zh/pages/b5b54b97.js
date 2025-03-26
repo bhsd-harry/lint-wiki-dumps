@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",26,3,"duplicated parameter"," related_comps= [[王者荣耀职业联赛|王者荣耀职业联赛]]\n "],["no-duplicate",28,3,"duplicated parameter"," related_comps = [[王者榮耀職業聯賽]]<br>[[王者榮耀巴西職業聯賽]]<br>[[王者荣耀马来西亚职业联赛]]<br>[[王者荣耀印度尼西亚职业联赛]]<br>[[王者荣耀外卡"]]

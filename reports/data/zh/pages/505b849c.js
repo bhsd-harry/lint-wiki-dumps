@@ -1,1 +1,1 @@
-window.data=[["no-ignored",60,17,"containing invalid attribute"," 甦醒 (讚美之泉)"],["no-ignored",142,17,"containing invalid attribute"," 新造的人 (讚美之泉兒童專輯)"],["no-ignored",146,17,"containing invalid attribute"," 彩虹 (讚美之泉兒童專輯)"]]
+window.data=[["no-ignored",60,17,"containing invalid attribute"," 甦醒 (讚美之泉)"],["no-ignored",147,17,"containing invalid attribute"," 新造的人 (讚美之泉兒童專輯)"]]

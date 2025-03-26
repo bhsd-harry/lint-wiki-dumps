@@ -1,1 +1,1 @@
-window.data=[["parsing-order",535,55,"extension tag in HTML tag attributes","<ref name=\"Netflix\">{{Watch on Netflix|81672787}}</ref>"],["no-ignored",535,55,"containing invalid attribute","<ref name=\"Netflix\">{{Watch on Netflix|81672787}}</ref>"],["no-duplicate",573,2,"duplicated category","[[Category:改編自輕小說的動畫]]"],["no-duplicate",575,2,"duplicated category","[[Category:改編自輕小說的動畫]]"]]
+window.data=[["no-duplicate",581,2,"duplicated category","[[Category:改編自輕小說的動畫]]"],["no-duplicate",583,2,"duplicated category","[[Category:改編自輕小說的動畫]]"]]

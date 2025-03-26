@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",466,371,"lonely \"{\"","{{"],["lonely-bracket",466,398,"lonely \"}\"","}}"],["lonely-http",869,125,"lonely \"ISBN\"","ISBN"],["invalid-isbn",873,61,"invalid ISBN","ISBN 7100024025"]]
+window.data=[["lonely-bracket",465,371,"lonely \"{\"","{{"],["lonely-bracket",465,398,"lonely \"}\"","}}"],["lonely-http",868,125,"lonely \"ISBN\"","ISBN"],["invalid-isbn",872,61,"invalid ISBN","ISBN 7100024025"]]

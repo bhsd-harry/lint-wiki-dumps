@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[Category:信仰用戶框模板]]"],["no-duplicate",2,2,"duplicated category","[[Category:信仰用戶框模板]]"]]

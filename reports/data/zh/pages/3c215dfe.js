@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",17,59,"illegal attribute name","xml:lang"],["invalid-css",54,209,"semi-colon expected",""],["invalid-css",54,209,"colon expected",""],["illegal-attr",69,42,"illegal attribute name","xml:lang"],["illegal-attr",74,116,"illegal attribute name","xml:lang"],["illegal-attr",218,95,"illegal attribute name","xml:lang"]]

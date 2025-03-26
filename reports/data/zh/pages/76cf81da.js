@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",13,92,"unmatched closing tag","</span>"],["lonely-http",167,36,"lonely \"https://\"","https://"],["lonely-http",169,71,"lonely \"http://\"","http://"]]

@@ -1,1 +1,1 @@
-window.data=[["lonely-http",103,126,"lonely \"ISBN\"","ISBN"],["unclosed-table",600,2,"unclosed table","{|"],["unclosed-table",660,2,"unclosed table","{|"]]
+window.data=[["lonely-http",104,126,"lonely \"ISBN\"","ISBN"],["unclosed-table",601,2,"unclosed table","{|"],["unclosed-table",661,2,"unclosed table","{|"]]

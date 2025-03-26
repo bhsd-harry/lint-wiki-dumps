@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",7,47,"duplicated parameter","3=42.190.165.112"],["no-duplicate",7,64,"duplicated parameter","3=42.190.135.134"]]

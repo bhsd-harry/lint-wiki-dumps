@@ -1,0 +1,1 @@
+window.data=[["fostered-content",158,1,"content to be moved out from the table"," <quiz display=simple>\n {Bulgaria and Rumania joined the European Union in 2007.\n |type=\"()\"}\n + TRU"],["pipe-like",593,70,"additional \"|\" in a table cell","||"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,39,"duplicated image caption parameter","link=//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/European electricity grid.svg/220px-Europea"],["no-duplicate",2,172,"duplicated image caption parameter","欧洲输电系统运营商组织（区域集团）地图 欧洲大陆、北欧、波罗的海、大不列颠和爱尔兰/北爱尔兰（前 UCTE、UKTSOA、NORDEL、ATSOI、IPS/UPS）。"]]

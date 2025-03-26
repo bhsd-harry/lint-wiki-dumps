@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",21,3,"duplicated parameter"," image=\n "],["no-duplicate",23,3,"duplicated parameter"," image= Beckwith Headshot.jpg\n "],["no-duplicate",22,3,"duplicated parameter"," caption= 2025年官方肖像\n "],["no-duplicate",24,3,"duplicated parameter"," caption= 2025年官方肖像\n "]]

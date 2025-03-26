@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:各年南美洲建立|Brazil]]"],["no-duplicate",5,2,"duplicated category","[[Category:各年南美洲建立|Brazil]]"]]

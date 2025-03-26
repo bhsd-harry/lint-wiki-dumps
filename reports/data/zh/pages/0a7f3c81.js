@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",37,46,"duplicated image caption parameter","泗水亭雪景"],["no-duplicate",37,52,"duplicated image caption parameter","[[泗水亭]]"]]

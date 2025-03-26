@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",12,2,"unmatched closing tag","</div>"],["unmatched-tag",125,2,"unmatched closing tag","</div>"],["unmatched-tag",217,2,"unmatched closing tag","</div>"],["unclosed-table",2,2,"unclosed table","{|"]]

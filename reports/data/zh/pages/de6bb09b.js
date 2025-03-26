@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,2,"duplicated category","[[Category:漢地傳統文化]]"],["no-duplicate",4,2,"duplicated category","[[Category:漢地傳統文化]]"]]

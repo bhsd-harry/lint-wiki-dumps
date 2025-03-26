@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",138,546,"lonely \"}\"","}"],["illegal-attr",208,37,"illegal attribute name","date"],["illegal-attr",208,42,"illegal attribute name","and"],["illegal-attr",208,46,"illegal attribute name","age"],["no-ignored",208,30,"containing invalid attribute","{birth "],["lonely-bracket",208,60,"lonely \"}\"","}}"],["lonely-bracket",251,497,"lonely \"}\"","}"]]
+window.data=[["lonely-bracket",138,546,"lonely \"}\"","}"],["lonely-bracket",251,497,"lonely \"}\"","}"]]

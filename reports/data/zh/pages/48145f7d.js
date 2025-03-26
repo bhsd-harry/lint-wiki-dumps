@@ -1,0 +1,1 @@
+window.data=[["invalid-css",579,76,"colon expected",";"],["nested-link",935,479,"internal link in an external link","[[Special:Diff/83450171/83451612|版本差異]]"],["nested-link",935,525,"internal link in an external link","[[Special:Diff/83329696|版本差異]]"]]

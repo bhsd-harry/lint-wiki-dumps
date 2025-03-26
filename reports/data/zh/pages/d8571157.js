@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",435,428,"unmatched closing tag","</font>"],["lonely-http",856,14,"lonely \"http://\"","http://"],["lonely-bracket",972,145,"lonely \"[\"","["],["lonely-bracket",972,243,"lonely \"]\"","]"],["lonely-bracket",1003,145,"lonely \"]\"","]"],["lonely-bracket",1124,150,"lonely \"]\"","]"]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",9,133,"lonely \"[\"","[["],["lonely-bracket",21,99,"lonely \"{\"","{{"],["lonely-bracket",33,146,"lonely \"[\"","[["],["lonely-bracket",45,79,"lonely \"{\"","{{"],["lonely-bracket",55,85,"lonely \"{\"","{{"],["lonely-bracket",57,78,"lonely \"{\"","{{"],["unmatched-tag",57,182,"tag that is both closing and self-closing","</br>"]]

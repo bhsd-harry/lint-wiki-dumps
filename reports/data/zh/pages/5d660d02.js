@@ -1,1 +1,1 @@
-window.data=[["invalid-css",87,55,"semi-colon expected",":"],["invalid-css",87,69,"{ expected","="],["no-ignored",87,71,"containing invalid attribute","width:70%;text-align: center;\""]]
+window.data=[["invalid-css",75,55,"semi-colon expected",":"],["invalid-css",75,69,"{ expected","="],["no-ignored",75,71,"containing invalid attribute","width:70%;text-align: center;\""]]

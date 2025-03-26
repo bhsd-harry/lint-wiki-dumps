@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:葡萄酒历史]]"],["no-duplicate",4,2,"duplicated category","[[Category:葡萄酒历史]]"]]

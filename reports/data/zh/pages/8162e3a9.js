@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,2,"duplicated category","[[Category:英國女子高爾夫球運動員]]"],["no-duplicate",3,2,"duplicated category","[[Category:英國女子高爾夫球運動員]]"]]

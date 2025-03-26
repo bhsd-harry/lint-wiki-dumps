@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",326,32,"duplicated image caption parameter","width=250px "],["no-duplicate",326,51,"duplicated image caption parameter","中華民國總統[[蔣經國]]於[[東崗慘案]]被國際媒體曝光與[[民進黨]]立法委員聯合質詢後次月宣佈[[解嚴]]"]]
+window.data=[["no-duplicate",328,32,"duplicated image caption parameter","width=250px "],["no-duplicate",328,51,"duplicated image caption parameter","中華民國總統[[蔣經國]]於[[東崗慘案]]被國際媒體曝光與[[民進黨]]立法委員聯合質詢後次月宣佈[[解嚴]]"]]

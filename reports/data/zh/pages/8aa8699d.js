@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",8,2,"duplicated category","[[Category:Non-free images of film posters|Kolya]]"],["no-duplicate",30,2,"duplicated category","[[Category:Non-free images of film posters|Kolya]]"]]

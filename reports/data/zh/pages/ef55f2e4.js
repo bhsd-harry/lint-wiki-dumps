@@ -1,0 +1,1 @@
+window.data=[["invalid-css",63,116,"semi-colon expected",""],["invalid-css",63,108,"colon expected","="],["no-duplicate",108,96,"duplicated image caption parameter","boder=0"],["no-duplicate",108,104,"duplicated image caption parameter","logo"]]

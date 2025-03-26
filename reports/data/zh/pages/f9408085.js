@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",65,2,"duplicated category","[[Category:第十四次動員令已完成動員令者]]"],["no-duplicate",67,2,"duplicated category","[[Cat:第十四次動員令已完成動員令者]]"]]

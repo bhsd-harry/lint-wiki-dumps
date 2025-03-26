@@ -1,0 +1,1 @@
+window.data=[["no-ignored",6,4,"containing invalid attribute","-style=\"padding:1em;padding-top:1em;background:#000000;\""],["unclosed-table",86,2,"unclosed table","{|"]]

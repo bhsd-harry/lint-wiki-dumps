@@ -1,1 +1,1 @@
-window.data=[["no-ignored",190,61,"attributes of a closing tag"," size"],["no-ignored",191,61,"attributes of a closing tag"," size"],["no-ignored",192,61,"attributes of a closing tag"," size"]]
+window.data=[["no-ignored",186,61,"attributes of a closing tag"," size"],["no-ignored",187,61,"attributes of a closing tag"," size"],["no-ignored",188,61,"attributes of a closing tag"," size"]]

@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",570,340,"lonely \"}\"","}}"],["tag-like",570,342,"lonely \"<\"","</ref"],["lonely-http",4394,39,"lonely \"ISBN\"","ISBN"]]
+window.data=[["lonely-bracket",572,340,"lonely \"}\"","}}"],["tag-like",572,342,"lonely \"<\"","</ref"],["lonely-http",4395,39,"lonely \"ISBN\"","ISBN"]]

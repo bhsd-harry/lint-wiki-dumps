@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,4,"duplicated class attribute","class=\"plainlinks\""],["no-duplicate",3,58,"duplicated class attribute","class=\"header_section\""]]

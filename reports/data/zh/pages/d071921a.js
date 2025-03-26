@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",107,26,"lonely \"[\"","["]]
+window.data=[["no-duplicate",35,108,"duplicated parameter","title=https://news.yahoo.co.jp/articles/63828c3124a8b4f695237555fa4de981fc12fad4 "],["no-duplicate",35,383,"duplicated parameter","title=＜ONE PIECE＞全世界累計発行部数4億9000万部突破　100巻発売記念でルフィたちが“宇宙”へ　「ウォーリーをさがせ！」コラボ　企画続々 "]]

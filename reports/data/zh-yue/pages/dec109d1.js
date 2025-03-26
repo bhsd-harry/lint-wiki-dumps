@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",340,65,"duplicated image caption parameter","[[苯丙氨酸羥化酵素]]嘅色帶圖，具有結合嘅輔因子、輔酵素同底物"],["no-duplicate",340,98,"duplicated image caption parameter","喺 [[苯丙氨酸羥化酵素]] 入面，結構中超過 300 種唔同嘅突變會引起 [[苯丙酮尿症]]。黑色嘅係 [[苯丙氨酸]] 底物同 [[四氫生物蝶呤]] 輔酵素，黃色嘅係 [[鐵|Fe<sup>2+<"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",89,238,"internal link in an external link","[[wikipedia:人事任免投票資格|投票資格]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[Category:十字花目]]"],["no-duplicate",2,2,"duplicated category","[[Category:十字花目]]"]]

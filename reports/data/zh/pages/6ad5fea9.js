@@ -1,1 +1,1 @@
-window.data=[["no-ignored",92,4,"containing invalid attribute","【初配信】未來少女冷酷登場。 | 冰霧Eisnebel"]]
+window.data=[["no-ignored",96,4,"containing invalid attribute","【初配信】未來少女冷酷登場。 | 冰霧Eisnebel"]]

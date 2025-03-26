@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",55,689,"duplicated parameter","website=미래를 보는 신문"],["no-duplicate",55,707,"duplicated parameter","website=전자신문"]]

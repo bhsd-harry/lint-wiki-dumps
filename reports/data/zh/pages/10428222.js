@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",9,20,"tag that is both closing and self-closing","</br>"],["unmatched-tag",9,35,"tag that is both closing and self-closing","</br>"],["unmatched-tag",12,19,"tag that is both closing and self-closing","</br>"],["invalid-css",80,40,"property value expected","#0003FFF"]]

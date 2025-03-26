@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",149,25,"illegal attribute name","xml:lang"],["tag-like",228,7,"lonely \"<\"","<script"],["tag-like",228,53,"lonely \"<\"","</script"]]

@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",110,2,"duplicated category","[[Category:香港曾入獄的政治人物]]"],["no-duplicate",111,2,"duplicated category","[[Category:香港曾入獄的政治人物]]"]]
+window.data=[["no-duplicate",111,2,"duplicated category","[[Category:香港曾入獄的政治人物]]"],["no-duplicate",112,2,"duplicated category","[[Category:香港曾入獄的政治人物]]"]]

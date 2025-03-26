@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,2,"duplicated category","[[Category:中华民国大陆时期选举]]"],["no-duplicate",6,2,"duplicated category","[[Category:中华民国大陆时期选举]]"]]

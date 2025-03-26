@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",396,276,"lonely \"{\"","{"],["lonely-bracket",396,366,"lonely \"}\"","}"],["lonely-http",427,624,"lonely \"https://\"","https://"],["lonely-http",427,789,"lonely \"https://\"","https://"],["nested-link",943,307,"internal link in an external link","[[长津湖战役]]"],["nested-link",950,414,"internal link in an external link","[[长津湖战役]]"]]

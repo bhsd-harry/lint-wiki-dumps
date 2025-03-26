@@ -1,0 +1,1 @@
+window.data=[["unclosed-table",16,2,"unclosed table","{|"],["fostered-content",2,1,"content to be moved out from the table"," __NOTOC__\n ----\n"],["unclosed-table",1,1,"unclosed table","{|"]]

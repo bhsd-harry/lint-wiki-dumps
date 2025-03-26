@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",6,79,"illegal attribute name","g"],["invalid-css",47,61,"colon expected","色"],["illegal-attr",943,3,"illegal attribute name","ap| 建队"],["illegal-attr",1038,3,"illegal attribute name","ap| 建队"]]

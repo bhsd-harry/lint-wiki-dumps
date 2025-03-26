@@ -1,0 +1,1 @@
+window.data=[["tag-like",50,6,"lonely \"<\"","<span"],["lonely-bracket",54,121,"lonely \"[\"","["],["lonely-bracket",54,185,"lonely \"]\"","]"],["lonely-http",88,28,"lonely \"http://\"","http://"]]

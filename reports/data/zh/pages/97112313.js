@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",700,89,"illegal attribute name","16:10"],["no-ignored",700,67,"containing invalid attribute","長期全保護\"」2017年4月30日 (日) "],["no-ignored",700,94,"containing invalid attribute"," (UTC)\"  "],["invalid-css",807,211,"colon expected","="],["invalid-css",807,327,"colon expected","="]]

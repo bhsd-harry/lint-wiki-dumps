@@ -1,0 +1,1 @@
+window.data=[["parsing-order",71,4,"extension tag in HTML tag attributes","<section end=Future />"],["no-ignored",71,4,"containing invalid attribute","<section end=Future />"],["unmatched-tag",212,30,"unmatched closing tag","</table>"]]

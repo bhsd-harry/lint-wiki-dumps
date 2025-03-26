@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,10,"duplicated parameter","\n "],["no-duplicate",2,3,"duplicated parameter","1=zh-hans:朝鲜半岛;zh-hant:韓半島\n "]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2141,2,"duplicated category","[[Category:2025年世界羽聯世界巡迴賽|2-ENG]]"],["no-duplicate",2146,2,"duplicated category","[[Category:2025年世界羽聯世界巡迴賽]]"],["no-duplicate",2142,2,"duplicated category","[[Category:全英羽毛球公开锦标赛|2025]]"],["no-duplicate",2145,2,"duplicated category","[[Category:全英羽毛球公开锦标赛]]"]]

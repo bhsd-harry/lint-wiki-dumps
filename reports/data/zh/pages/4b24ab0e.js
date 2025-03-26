@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",160,2,"duplicated category","[[Category:2010年代英語片]]"],["no-duplicate",176,2,"duplicated category","[[Category:2010年代英語片]]"]]

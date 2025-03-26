@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",40,3,"duplicated parameter"," 有線電視供應商06 = {{flagicon|ROC}} [[三大有線電視]]\n "],["no-duplicate",42,3,"duplicated parameter"," 有線電視供應商06 = {{flagicon|ROC}} [[三大有線電視]]、[[澎湖有線電視]]\n "],["no-duplicate",41,3,"duplicated parameter"," 有線電視頻道數06 = 86台\n "],["no-duplicate",43,3,"duplicated parameter"," 有線電視頻道數06 = 86台\n "]]

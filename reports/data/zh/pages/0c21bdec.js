@@ -1,0 +1,1 @@
+window.data=[["tag-like",161,66,"lonely \"<\"","</nowiki"],["illegal-attr",180,206,"illegal attribute name","xml:lang"],["illegal-attr",286,71,"illegal attribute name","xml:lang"]]

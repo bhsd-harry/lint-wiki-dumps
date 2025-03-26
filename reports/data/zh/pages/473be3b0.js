@@ -1,0 +1,1 @@
+window.data=[["tag-like",104,2,"lonely \"<\"","<a"],["tag-like",104,62,"lonely \"<\"","<img"],["tag-like",104,176,"lonely \"<\"","</a"],["tag-like",106,2,"lonely \"<\"","<a"],["tag-like",106,86,"lonely \"<\"","</a"]]

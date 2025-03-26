@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",11,3,"duplicated parameter","nationality = [[File:Flag of Germany.svg|20px]] [[德国]] \n "],["no-duplicate",14,3,"duplicated parameter","nationality = [[德國]]\n "]]

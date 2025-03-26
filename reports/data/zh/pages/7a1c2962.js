@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",820,5,"illegal attribute name","https:"],["illegal-attr",820,14,"illegal attribute name","www.google.com"],["no-ignored",820,28,"containing invalid attribute"," url?sa=\"i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjo8aHDgZ7OAhVLuI8KHdbYC2AQjRw"]]

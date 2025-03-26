@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:多米尼克体育|Y]]"],["no-duplicate",5,2,"duplicated category","[[Category:多米尼克体育|Y]]"],["no-duplicate",4,2,"duplicated category","[[Category:各国运动员|D]]"],["no-duplicate",6,2,"duplicated category","[[Category:各国运动员|D]]"]]

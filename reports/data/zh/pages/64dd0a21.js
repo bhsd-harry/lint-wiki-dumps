@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,2,"duplicated category","[[Category:法國政府建築物]]"],["no-duplicate",8,2,"duplicated category","[[Category:法國政府建築物]]"]]

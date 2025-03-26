@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",46,2,"duplicated category","[[Category:氣象量]]"],["no-duplicate",51,2,"duplicated category","[[Category:氣象量]]"]]

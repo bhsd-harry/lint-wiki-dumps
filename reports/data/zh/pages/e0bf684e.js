@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:被判腐败罪的人物]]"],["no-duplicate",6,2,"duplicated category","[[Category:被判腐败罪的人物]]"]]

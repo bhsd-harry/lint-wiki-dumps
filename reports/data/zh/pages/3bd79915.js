@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",110,20,"lonely \"{\"","{{"],["fostered-content",148,1,"content to be moved out from the table"," [[File:Tetrahedron.gif|75px]][[File:Hexahedron.gif|75px]][[File:Octahedron.gif|75px]][[File:Dodecah"]]

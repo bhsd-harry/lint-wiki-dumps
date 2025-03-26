@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",30,67,"duplicated parameter","last=洪"],["no-duplicate",30,188,"duplicated parameter","last=中時電子報"],["no-duplicate",30,429,"duplicated parameter","last=吳"],["no-duplicate",30,553,"duplicated parameter","last=中時電子報"]]

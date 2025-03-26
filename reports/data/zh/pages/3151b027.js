@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",139,2,"unmatched closing tag","</p>"],["no-ignored",139,259,"containing invalid attribute","color:#87004F\""]]

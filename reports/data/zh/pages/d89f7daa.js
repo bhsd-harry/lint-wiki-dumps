@@ -1,0 +1,1 @@
+window.data=[["no-ignored",6,4,"useless fragment","Wikipedia:特色圖片評選/PHZ-89自行火箭炮#PHZ-89自行火箭炮"]]

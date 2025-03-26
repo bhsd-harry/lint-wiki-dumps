@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",51,86,"unmatched closing tag","</font>"],["unmatched-tag",51,248,"unmatched closing tag","</font>"],["lonely-http",61,68,"lonely \"http://\"","http://"],["tag-like",467,174,"lonely \"<\"","<img"]]

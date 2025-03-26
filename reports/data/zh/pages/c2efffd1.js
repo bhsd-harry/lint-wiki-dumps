@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",28,225,"duplicated parameter","url="],["no-duplicate",28,230,"duplicated parameter","url=https://www.nsysu.edu.tw/p/404-1000-66586.php?Lang=zh-tw"]]

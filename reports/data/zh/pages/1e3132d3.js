@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",268,130,"lonely \"[\"","[["],["lonely-bracket",268,145,"lonely \"]\"","]]"]]
+window.data=[["lonely-bracket",268,130,"lonely \"[\"","[["],["lonely-bracket",268,145,"lonely \"]\"","]]"],["no-duplicate",346,2,"duplicated category","[[Category:太空電漿]]"],["no-duplicate",348,2,"duplicated category","[[Category:太空電漿]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",15,3,"duplicated parameter","女性=#{{DC17/art|瑪格麗特·弗洛伊·瓦什本|type=2|length=8235|O|hostcomments=基本达标，给予通过；惟请补充“学术著作及研究报告”最后一句来源。}}\n #{"],["no-duplicate",17,3,"duplicated parameter","女性=#{{DC17/art|瑪格麗特·弗洛伊·瓦什本|type=2|length=8235|O|hostcomments=基本达标，给予通过；惟请补充“学术著作及研究报告”最后一句来源。}}\n #{"]]

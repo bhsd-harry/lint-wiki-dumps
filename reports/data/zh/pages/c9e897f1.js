@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",14,30,"duplicated image caption parameter","[[香港]]"],["no-duplicate",14,37,"duplicated image caption parameter","2005年的[[愉景灣]]龍舟競渡"]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," 省区市1 = 湖南省\n "],["no-duplicate",13,3,"duplicated parameter"," 省区市1 = 广东省\n "],["no-duplicate",14,3,"duplicated parameter"," 省区市1 = 贵州省\n "],["no-duplicate",30,30,"duplicated image caption parameter","[[香港]]"],["no-duplicate",30,37,"duplicated image caption parameter","2005年的[[愉景灣]]龍舟競渡"]]

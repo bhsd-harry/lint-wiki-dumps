@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,2,"duplicated category","[[Category:1944年北美洲]]"],["no-duplicate",5,2,"duplicated category","[[Category:1944年北美洲]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,46,"duplicated image caption parameter","{{#if:{{{size}}}|{{{size|300px}}}|300px}}"],["no-duplicate",1,88,"duplicated image caption parameter","{{{caption}}} {{#if:{{{imagelink|}}}|{{!}}link=File:{{{imagelink}}}|}}"]]

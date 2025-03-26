@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:以台灣大專院校命名的分類]]"],["no-duplicate",5,2,"duplicated category","[[Category:以台灣大專院校命名的分類]]"]]

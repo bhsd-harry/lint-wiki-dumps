@@ -1,0 +1,1 @@
+window.data=[["no-ignored",31,8,"useless fragment","ArticleHistory\n #*: "]]

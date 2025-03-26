@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",15,3,"duplicated parameter","配偶 = [[國語]] \n "],["no-duplicate",17,3,"duplicated parameter","配偶 = 全尚鎰「桑尼」<br>（Sangick Jeon “Sunny”）<br>（2025年結婚）\n "]]

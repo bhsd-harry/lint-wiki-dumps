@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",6,69,"duplicated image caption parameter","2／00px"],["no-duplicate",6,76,"duplicated image caption parameter","[[瑞典駐外機構列表|瑞典駐外使館]]的標章（攝於[[北欧大使馆|瑞典駐德國大使館]]）"]]

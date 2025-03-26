@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",21,36,"duplicated image caption parameter","Beijing_sundial_Ri_Gui"],["no-duplicate",21,65,"duplicated image caption parameter","位於[[故宮博物院]]的赤道式日晷"]]
+window.data=[["no-duplicate",22,36,"duplicated image caption parameter","Beijing_sundial_Ri_Gui"],["no-duplicate",22,65,"duplicated image caption parameter","位於[[故宮博物院]]的赤道式日晷"]]

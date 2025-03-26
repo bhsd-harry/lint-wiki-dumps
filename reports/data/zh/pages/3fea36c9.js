@@ -1,0 +1,1 @@
+window.data=[["tag-like",123,43,"lonely \"<\"","<span"],["invalid-css",123,252,"] expected","["],["invalid-css",123,262,"] expected",":"],["invalid-css",123,299,"{ expected",";"],["tag-like",234,94,"lonely \"<\"","<span"],["invalid-css",234,303,"] expected","["],["invalid-css",234,313,"] expected",":"],["invalid-css",234,350,"{ expected",";"]]

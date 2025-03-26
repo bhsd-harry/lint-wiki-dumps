@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",12,37,"duplicated parameter"," image_skyline      = \n "],["no-duplicate",38,3,"duplicated parameter"," image_skyline      = {{Photomontage\n |photo1a                 = Bus rapid transit in Dar es Salaam,"]]

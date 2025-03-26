@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",7,2,"duplicated category","[[Category:21世紀各國| England]]"],["no-duplicate",10,2,"duplicated category","[[Category:21世紀各國|England]]"]]

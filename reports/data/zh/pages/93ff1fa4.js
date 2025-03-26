@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,2,"duplicated category","[[Category:伊斯蘭政治及伊斯蘭世界研究]]"],["no-duplicate",10,2,"duplicated category","[[Category:伊斯蘭政治及伊斯蘭世界研究]]"]]

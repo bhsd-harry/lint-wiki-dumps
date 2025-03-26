@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",57,2,"duplicated category","[[Category:林鴞屬|leptogrammica]]"],["no-duplicate",59,2,"duplicated category","[[Category:林鴞屬|leptogrammica]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:1950年代美国政治]]"],["no-duplicate",5,2,"duplicated category","[[Category:1950年代美国政治]]"]]

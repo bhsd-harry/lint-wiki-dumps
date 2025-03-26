@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",65,2,"unmatched closing tag","</blockquote>"],["unmatched-tag",66,2,"unmatched closing tag","</tt>"],["no-ignored",105,313,"attributes of a closing tag"," id=\"mp-2012-column-feature-block\""],["unmatched-tag",105,308,"unmatched closing tag","</div id=\"mp-2012-column-feature-block\">"]]

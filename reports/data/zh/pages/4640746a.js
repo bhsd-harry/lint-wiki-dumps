@@ -1,0 +1,1 @@
+window.data=[["invalid-css",196,59,"colon expected",";"],["no-ignored",203,31,"containing invalid attribute"," direction:ltr;\""]]

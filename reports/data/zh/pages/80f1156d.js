@@ -1,0 +1,1 @@
+window.data=[["invalid-css",65,126,"property value expected","#2A52BE3"],["illegal-attr",68,48,"illegal attribute name","xml:lang"],["tag-like",86,92,"lonely \"<\"","<  /STRONG"],["tag-like",86,197,"lonely \"<\"","<  /STRONG"],["invalid-css",87,124,"semi-colon expected",""],["invalid-css",87,116,"colon expected","="]]

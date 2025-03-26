@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,33,"duplicated image caption parameter","祭り"],["no-duplicate",5,48,"duplicated image caption parameter","花笠祭"]]

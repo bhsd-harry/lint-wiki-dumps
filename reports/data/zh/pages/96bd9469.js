@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",14,92,"unmatched closing tag","</span>"],["lonely-bracket",49,3,"lonely \"{\"","{"],["invalid-css",232,212,"colon expected","="],["invalid-css",232,328,"colon expected","="]]

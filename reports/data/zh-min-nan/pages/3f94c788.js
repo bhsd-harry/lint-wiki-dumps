@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",10,8,"unmatched closing tag","</font>"],["unmatched-tag",10,81,"unclosed tag","<font color={{Tâi-pak Chia̍t-ūn sek-chhái|chang}}>"]]

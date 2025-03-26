@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",152,4,"lonely \"'\"","'"],["lonely-apos",152,23,"lonely \"'\"","'"],["unmatched-tag",318,33,"tag that is both closing and self-closing","</br>"],["lonely-http",520,456,"lonely \"https://\"","https://"],["lonely-http",556,15,"lonely \"https://\"","https://"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",25,3,"duplicated parameter"," 經紀公司 = Pan Entertainment\n "],["no-duplicate",28,3,"duplicated parameter"," 經紀公司 = \n "]]

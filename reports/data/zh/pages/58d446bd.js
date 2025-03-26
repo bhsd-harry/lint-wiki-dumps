@@ -1,1 +1,1 @@
-window.data=[["nested-link",265,1207,"internal link in an external link","[[跨太平洋戰略經濟夥伴關係協議|TPP]]"]]
+window.data=[["nested-link",269,1207,"internal link in an external link","[[跨太平洋戰略經濟夥伴關係協議|TPP]]"]]

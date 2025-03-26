@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",66,53,"illegal attribute name","xml:lang"],["illegal-attr",71,90,"illegal attribute name","xml:lang"],["illegal-attr",73,128,"illegal attribute name","xml:lang"],["illegal-attr",88,161,"illegal attribute name","xml:lang"],["lonely-http",809,43,"lonely \"http://\"","http://"],["lonely-http",1073,135,"lonely \"http://\"","http://"]]

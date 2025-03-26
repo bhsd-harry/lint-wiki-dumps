@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",14,92,"unmatched closing tag","</span>"],["invalid-css",58,53,"property value expected","#10000"],["invalid-css",94,121,"property value expected","#10000"],["invalid-css",133,94,"property value expected","#10000"]]

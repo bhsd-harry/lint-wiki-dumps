@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[Category:伊朗行政區劃]]"],["no-duplicate",1,20,"duplicated category","[[Category:伊朗行政區劃]]"]]

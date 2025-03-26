@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:東京都各區背景作品|Meguro-ku]]"],["no-duplicate",5,2,"duplicated category","[[Category:東京都各區背景作品|Meguro-ku]]"]]

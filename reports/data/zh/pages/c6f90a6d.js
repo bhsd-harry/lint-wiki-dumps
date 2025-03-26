@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",8,2,"duplicated category","[[Category:日本—美國關係]]"],["no-duplicate",13,2,"duplicated category","[[Category:日本—美國關係]]"]]

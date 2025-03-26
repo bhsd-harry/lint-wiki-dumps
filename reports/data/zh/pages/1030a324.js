@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",499,2,"duplicated category","[[Category:SpeXial]]"],["no-duplicate",503,2,"duplicated category","[[Category:SpeXial]]"]]
+window.data=[["no-duplicate",492,2,"duplicated category","[[Category:SpeXial]]"],["no-duplicate",496,2,"duplicated category","[[Category:SpeXial]]"]]

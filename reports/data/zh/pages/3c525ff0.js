@@ -1,0 +1,1 @@
+window.data=[["invalid-css",159,224,"property value expected","#FDF5E"],["invalid-css",159,245,"{ expected",";"],["invalid-css",159,238,"identifier expected","#4682B4"],["invalid-css",159,260,"{ expected","1px"],["lonely-http",253,9,"lonely \"http://\"","http://"],["lonely-http",260,17,"lonely \"ISBN\"","ISBN"]]

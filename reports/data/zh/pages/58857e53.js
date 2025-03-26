@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",78,3,"duplicated parameter","leader_name4 = [[約翰·羅伯茨]]\n "],["no-duplicate",79,3,"duplicated parameter","leader_name4 = [[查克·葛雷斯利]]\n "]]

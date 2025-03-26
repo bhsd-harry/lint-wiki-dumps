@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",283,2,"lonely \"{\"","{{"],["no-duplicate",345,3,"duplicated parameter"," image1 = David Schweikert official portrait 116th Congress (cropped).jpg\n "],["no-duplicate",346,3,"duplicated parameter"," image1 = Ron Estes, 115th official photo (cropped).jpg\n "]]
+window.data=[["no-duplicate",344,3,"duplicated parameter"," image1 = David Schweikert official portrait 116th Congress (cropped).jpg\n "],["no-duplicate",345,3,"duplicated parameter"," image1 = Ron Estes, 115th official photo (cropped).jpg\n "]]

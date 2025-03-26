@@ -1,0 +1,1 @@
+window.data=[["unclosed-table",22,2,"unclosed table","{|"],["fostered-content",30,1,"content to be moved out from the table"," #您可先把条目递交同行评审，征求其他维基人的意见，润色后再提交优良条目评选。\n #请确认您是[[Wikipedia:自動確認用戶|自動確認用戶]]（在中文维基百科注册满7天，并编辑至少50次），否则"]]

@@ -1,0 +1,1 @@
+window.data=[["fostered-content",60,1,"content to be moved out from the table"," <p></p>"],["fostered-content",75,1,"content to be moved out from the table"," <p></p>"],["fostered-content",88,1,"content to be moved out from the table"," <p></p>"]]

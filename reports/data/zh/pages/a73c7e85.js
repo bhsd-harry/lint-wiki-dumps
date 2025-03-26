@@ -1,0 +1,1 @@
+window.data=[["invalid-css",42,278,"semi-colon expected",""],["invalid-css",42,271,"colon expected","#E0E6F8"],["lonely-http",278,27,"lonely \"http://\"","http://"],["lonely-http",305,33,"lonely \"http://\"","http://"]]

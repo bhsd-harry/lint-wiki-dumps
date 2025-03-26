@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",1,1,"lonely \"[\"","[["],["unclosed-comment",1,17,"unclosed HTML comment","<!-- Koān ê hiong]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:中國革命家]]"],["no-duplicate",6,2,"duplicated category","[[Category:中國革命家]]"]]

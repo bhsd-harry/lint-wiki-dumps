@@ -1,1 +1,1 @@
-window.data=[["illegal-attr",48,51,"illegal attribute name","table"],["illegal-attr",80,51,"illegal attribute name","table"]]
+window.data=[["no-duplicate",6,3,"duplicated parameter"," type = [[合肥轨道交通]]车站\n "],["no-duplicate",9,3,"duplicated parameter"," type = [[合肥轨道交通]]车站\n "],["illegal-attr",52,51,"illegal attribute name","table"],["illegal-attr",84,51,"illegal attribute name","table"]]

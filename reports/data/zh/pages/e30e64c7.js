@@ -1,0 +1,1 @@
+window.data=[["no-ignored",95,89,"attributes of a closing tag"," size=\"4\""],["no-ignored",171,54,"attributes of a closing tag"," size=\"5\""],["illegal-attr",295,33,"illegal attribute name","xml:lang"],["illegal-attr",295,93,"illegal attribute name","xml:lang"],["illegal-attr",295,166,"illegal attribute name","xml:lang"],["lonely-http",508,11,"lonely \"http://\"","http://"]]

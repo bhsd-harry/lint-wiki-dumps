@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:基督教與政治意識形態]]"],["no-duplicate",8,2,"duplicated category","[[Category:基督教與政治意識形態]]"]]

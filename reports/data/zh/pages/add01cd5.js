@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[Category:慶尚南道出身人物|人]]"],["no-duplicate",2,2,"duplicated category","[[Category:慶尚南道出身人物|Geoje]]"]]

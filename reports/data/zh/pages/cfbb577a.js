@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",156,3,"duplicated width attribute","width=20"],["no-duplicate",156,40,"duplicated width attribute","width=\"20px\""]]

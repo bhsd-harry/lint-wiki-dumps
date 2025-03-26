@@ -1,0 +1,1 @@
+window.data=[["invalid-css",811,42,"} expected",""],["invalid-css",811,42,"{ expected",""],["lonely-bracket",886,10,"lonely \"[\"","["],["lonely-bracket",886,79,"lonely \"]\"","]"],["unmatched-tag",1049,90,"unmatched closing tag","</span>"],["lonely-bracket",1057,22,"lonely \"]\"","]]"],["lonely-bracket",1057,25,"lonely \"[\"","[["],["lonely-bracket",1057,35,"lonely \"}\"","}}"]]

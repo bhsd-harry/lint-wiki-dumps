@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",11,2,"duplicated category","[[Category:科學猜測]]"],["no-duplicate",13,2,"duplicated category","[[Category:科學猜測]]"]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",242,104,"lonely \"{\"","{"],["nested-link",242,105,"internal link in an external link","[[user:shizhao|百無一用是書生]]"],["lonely-bracket",242,129,"lonely \"}\"","}"],["nested-link",242,138,"internal link in an external link","[[User talk:Shizhao|&#9742;]]"]]

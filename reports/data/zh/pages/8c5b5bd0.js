@@ -1,1 +1,1 @@
-window.data=[["fostered-content",509,1,"content to be moved out from the table","\n ==演唱会==\n ===米卡「bleached漂」全国巡演==="],["unclosed-table",507,2,"unclosed table","{|"]]
+window.data=[["no-duplicate",13,3,"duplicated parameter"," 活躍年代 = 2018年至今\n "],["no-duplicate",15,3,"duplicated parameter"," 活躍年代 = 2018年至今\n "],["fostered-content",507,1,"content to be moved out from the table","\n ==演唱会==\n ===米卡「bleached漂」全国巡演==="],["unclosed-table",505,2,"unclosed table","{|"]]

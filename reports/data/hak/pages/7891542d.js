@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",84,6,"lonely \"[\"","["],["unmatched-tag",99,2,"unclosed tag","<tt>"]]

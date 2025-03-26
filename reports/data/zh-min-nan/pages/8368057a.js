@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[Lūi-pia̍t:Se-iûⁿ tiat-ha̍k]]"],["no-duplicate",3,2,"duplicated category","[[Lūi-pia̍t:Se-iûⁿ tiat-ha̍k]]"]]

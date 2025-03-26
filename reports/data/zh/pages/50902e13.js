@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",20,3,"duplicated parameter","zh-hans:歌朗途;zh-hant:壯遊之旅;\n "],["no-duplicate",10,3,"duplicated parameter","1=zh:英国疯狂汽车秀;zh-hk:Top Gear;zh-tw:頂級跑車秀;zh-sg:顶级跑车秀;zh-cn:最高档;\n "],["no-duplicate",21,3,"duplicated parameter","zh:壮游集数;zh-hans:歌朗途集数;zh-hant:壯遊之旅集數;\n "],["no-duplicate",11,3,"duplicated parameter","2=zh-tw:傑瑞米;zh-cn:杰里米;zh-hk:謝列美;\n "]]

@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",247,22,"lonely \"]\"","]"],["lonely-bracket",248,15,"lonely \"]\"","]"],["fostered-content",351,1,"content to be moved out from the table"," [[Category:芒果TV自制综艺节目]]\n [[Category:中國大陸綜藝節目]]\n [[Category:中国大陆真人秀节目]]"]]
+window.data=[["lonely-bracket",247,22,"lonely \"]\"","]"],["lonely-bracket",248,15,"lonely \"]\"","]"],["fostered-content",363,1,"content to be moved out from the table"," [[Category:芒果TV自制综艺节目]]\n [[Category:中國大陸綜藝節目]]\n [[Category:中国大陆真人秀节目]]"]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",4,17,"illegal attribute name","s"],["unmatched-tag",14,92,"unmatched closing tag","</span>"],["no-duplicate",252,19,"duplicated parameter","url=https://jas.hkbu.edu.hk/site/YCY/upload/mw_data/file/mw_data_2064_60c184a05748f.pdf "],["no-duplicate",252,175,"duplicated parameter","url= "]]

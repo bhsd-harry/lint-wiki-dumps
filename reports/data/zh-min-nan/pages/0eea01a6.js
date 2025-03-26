@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",22,2,"duplicated category","[[Category:United States portal|{{SUBPAGENAME}}]]"],["no-duplicate",24,13,"duplicated category","[[Category:United States portal|{{SUBPAGENAME}}]]"]]

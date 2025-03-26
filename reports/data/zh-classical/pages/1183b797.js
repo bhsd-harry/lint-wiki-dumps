@@ -1,0 +1,1 @@
+window.data=[["fostered-content",3,1,"content to be moved out from the table"," * [[維基大典:詩詞賞析/二〇二〇年第一周|木蘭花　劉克莊]]（二〇二〇年第一周）\n * [[維基大典:詩詞賞析/二〇二〇年第二周|秋露　雍陶]]（二〇二〇年第二周）\n * [[維基大典:詩詞賞析"]]

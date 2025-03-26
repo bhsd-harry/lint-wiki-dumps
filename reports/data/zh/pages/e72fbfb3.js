@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",150,2,"duplicated category","[[Category:雨傘革命人物]]"],["no-duplicate",151,2,"duplicated category","[[Category:雨傘革命人物]]"]]
+window.data=[["no-duplicate",148,2,"duplicated category","[[Category:雨傘革命人物]]"],["no-duplicate",149,2,"duplicated category","[[Category:雨傘革命人物]]"]]

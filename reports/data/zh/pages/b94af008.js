@@ -1,0 +1,1 @@
+window.data=[["no-ignored",8,186,"containing invalid attribute"," name\"CH\""],["no-ignored",8,341,"containing invalid attribute"," name\"CC\""],["no-duplicate",10,472,"duplicated parameter","年份=2011"],["no-duplicate",10,520,"duplicated parameter","年份=19979"],["no-duplicate",10,674,"duplicated parameter","年份=2011"],["no-duplicate",10,709,"duplicated parameter","年份=2017"]]

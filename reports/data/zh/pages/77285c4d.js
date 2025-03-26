@@ -1,0 +1,1 @@
+window.data=[["no-ignored",6,5,"invalid conversion flag","U+053ea只 =>  U+053ea只"],["lonely-bracket",8,3,"lonely \"{\"","{"]]

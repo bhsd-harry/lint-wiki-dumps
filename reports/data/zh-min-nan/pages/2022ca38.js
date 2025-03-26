@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:Chèng-koàn kau-e̍k uí-oân-hōe|Securities and Exchange Commission]]"],["no-duplicate",9,2,"duplicated category","[[Category:Chèng-koàn kau-e̍k uí-oân-hōe]]"]]

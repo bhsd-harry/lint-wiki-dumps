@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",3,17,"illegal attribute name","s"],["unmatched-tag",13,92,"unmatched closing tag","</span>"],["lonely-bracket",154,149,"lonely \"[\"","["],["lonely-bracket",154,224,"lonely \"]\"","]"]]

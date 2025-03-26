@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",13,92,"unmatched closing tag","</span>"],["illegal-attr",41,208,"illegal attribute name","xml:lang"],["lonely-http",121,12,"lonely \"https://\"","https://"],["illegal-attr",239,210,"illegal attribute name","xml:lang"],["illegal-attr",261,254,"illegal attribute name","xml:lang"]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",2,53,"illegal attribute name","valign"],["fostered-content",3,1,"content to be moved out from the table"," <br clear=\"all\">"],["unclosed-table",2,2,"unclosed table","{|"]]

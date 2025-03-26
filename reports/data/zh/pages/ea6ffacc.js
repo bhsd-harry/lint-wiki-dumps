@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,2,"duplicated category","[[Category:歐洲政治醜聞|Sweden]]"],["no-duplicate",3,2,"duplicated category","[[Category:歐洲政治醜聞]]"]]

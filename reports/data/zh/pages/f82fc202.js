@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",220,171,"unmatched closing tag","</small>"],["tag-like",223,39,"lonely \"<\"","</nowiki"],["tag-like",223,93,"lonely \"<\"","</nowiki"],["unmatched-tag",297,170,"unmatched closing tag","</small>"]]

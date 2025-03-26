@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,31,"duplicated category","[[Category:維基百科模板]]"],["no-duplicate",4,2,"duplicated category","[[Category:維基百科模板| ]]"]]

@@ -1,1 +1,1 @@
-window.data=[["invalid-css",40,52,"term expected",""],["no-ignored",40,53,"containing invalid attribute","width:70%;text-align: center;\""]]
+window.data=[["no-duplicate",6,3,"duplicated parameter","部門標誌尺寸   = 200px\n "],["no-duplicate",8,3,"duplicated parameter","部門標誌尺寸   = 150px\n "],["invalid-css",42,52,"term expected",""],["no-ignored",42,53,"containing invalid attribute","width:70%;text-align: center;\""]]

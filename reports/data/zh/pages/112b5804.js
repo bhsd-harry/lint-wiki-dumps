@@ -1,1 +1,1 @@
-window.data=[["unmatched-tag",226,35,"unmatched closing tag","</span>"]]
+window.data=[["lonely-bracket",1,68,"lonely \"[\"","["],["unescaped",1,111,"unescaped query string in an anonymous parameter","="]]

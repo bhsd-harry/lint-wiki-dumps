@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",166,15,"lonely \"]\"","]]"],["unmatched-tag",267,108,"tag that is both closing and self-closing","</br>"],["lonely-bracket",341,40,"lonely \"[\"","[["],["invalid-css",476,424,"property value expected","#FDF5E"],["invalid-css",476,445,"{ expected",";"],["invalid-css",476,438,"identifier expected","#4682B4"],["invalid-css",476,460,"{ expected","1px"]]

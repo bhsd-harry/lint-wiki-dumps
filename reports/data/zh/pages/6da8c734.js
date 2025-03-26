@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",109,2,"duplicated category","[[Category:受害者研究]]"],["no-duplicate",117,2,"duplicated category","[[Category:受害者研究]]"]]
+window.data=[["no-duplicate",112,2,"duplicated category","[[Category:受害者研究]]"],["no-duplicate",120,2,"duplicated category","[[Category:受害者研究]]"]]

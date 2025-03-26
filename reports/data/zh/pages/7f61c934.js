@@ -1,1 +1,1 @@
-window.data=[["invalid-css",73,11,"} expected",";"],["invalid-css",73,28,"{ expected",""],["no-duplicate",150,2,"duplicated category","[[Category:ZEROBASEONE]]"],["no-duplicate",153,2,"duplicated category","[[Category:ZEROBASEONE]]"]]
+window.data=[["invalid-css",72,11,"} expected",";"],["invalid-css",72,28,"{ expected",""],["no-duplicate",149,2,"duplicated category","[[Category:ZEROBASEONE]]"],["no-duplicate",152,2,"duplicated category","[[Category:ZEROBASEONE]]"]]

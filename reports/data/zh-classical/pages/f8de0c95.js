@@ -1,0 +1,1 @@
+window.data=[["fostered-content",3,1,"content to be moved out from the table"," * [[維基大典:博古櫃/二〇一八年第一週|明呂紀雪景翎毛圖]]（二〇一八年第一週）\n * [[維基大典:博古櫃/二〇一八年第二週|宋李安忠竹鳩扇]]（二〇一八年第二週）\n * [[維基大典:博古櫃"]]

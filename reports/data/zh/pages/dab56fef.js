@@ -1,1 +1,1 @@
-window.data=[["fostered-content",295,1,"content to be moved out from the table"," *"],["lonely-http",900,27,"lonely \"http://\"","http://"]]
+window.data=[["lonely-http",889,27,"lonely \"http://\"","http://"]]

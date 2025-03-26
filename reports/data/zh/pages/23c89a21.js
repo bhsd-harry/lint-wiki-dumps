@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:各国政府首脑|Nauru]]"],["no-duplicate",5,2,"duplicated category","[[Category:各国政府首脑|Nauru]]"]]

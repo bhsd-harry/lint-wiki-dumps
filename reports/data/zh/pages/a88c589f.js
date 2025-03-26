@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",11,222,"duplicated parameter","work = [http://www.astro.psu.edu/users/alex/Teaching_spring06.html ASTRO 497: \"Astronomy of Extrasol"],["no-duplicate",11,352,"duplicated parameter","work= [[宾夕法尼亚州立大学|Penn State University]] "]]

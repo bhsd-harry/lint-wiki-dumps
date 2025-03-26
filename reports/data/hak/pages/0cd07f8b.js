@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",1,27,"illegal attribute name","cellpad"],["illegal-attr",1,37,"illegal attribute name","cellspace"],["unmatched-tag",9,127,"tag that is both closing and self-closing","</br>"],["fostered-content",3,1,"content to be moved out from the table"," [[File:2009-07-20 wpy 07.JPG|right|150px]]\n Yá-têu mióng-ya̍p he [http://www.ethnologue.com/languag"]]

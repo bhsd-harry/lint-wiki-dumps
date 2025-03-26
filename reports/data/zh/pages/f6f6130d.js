@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,31,"duplicated image caption parameter","{{#if:|{{{size}}}|400px}}"],["no-duplicate",2,57,"duplicated image caption parameter",""],["lonely-bracket",4,36,"lonely \"[\"","[["],["lonely-bracket",4,38,"lonely \"]\"","]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,37,"duplicated image caption parameter","float"],["no-duplicate",1,49,"duplicated image caption parameter","2005年歐洲童軍大露營中，來自各國的童軍"]]

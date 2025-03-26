@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,1,"duplicated category","[[Category:各大洲背景作品]]"],["no-duplicate",3,2,"duplicated category","[[Category:各大洲背景作品]]"]]

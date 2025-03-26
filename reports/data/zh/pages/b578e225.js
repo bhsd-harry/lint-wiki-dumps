@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",317,144,"lonely \"{\"","{{"],["no-ignored",317,144,"containing invalid attribute","{{nobr"],["lonely-bracket",793,3,"lonely \"[\"","[["],["lonely-bracket",793,52,"lonely \"}\"","}}"],["lonely-bracket",892,376,"lonely \"}\"","}}"],["tag-like",899,17,"lonely \"<\"","<ref"]]
+window.data=[["lonely-bracket",1173,3,"lonely \"[\"","[["],["lonely-bracket",1173,52,"lonely \"}\"","}}"]]

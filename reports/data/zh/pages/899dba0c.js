@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",852,4,"lonely \"{\"","{{"],["no-ignored",852,4,"containing invalid attribute","{{fla"],["fostered-content",907,1,"content to be moved out from the table","\n ==註释==\n {{notefoot}}\n\n == 参考文献 ==\n {{Reflist}}\n\n == 外部链接 ==\n {{Portal|马来西亚|教育}}\n\n {{马来西亚华文小学列表}}\n\n"],["unclosed-table",789,2,"unclosed table","{|"]]
+window.data=[["lonely-bracket",831,4,"lonely \"{\"","{{"],["no-ignored",831,4,"containing invalid attribute","{{fla"]]

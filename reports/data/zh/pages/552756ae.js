@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",240,5,"lonely \"[\"","[["],["lonely-bracket",240,8,"lonely \"]\"","]]"],["lonely-http",242,62,"lonely \"https://\"","https://"],["lonely-http",242,718,"lonely \"https://\"","https://"],["lonely-http",318,10,"lonely \"https://\"","https://"],["illegal-attr",378,269,"illegal attribute name","xml:lang"]]

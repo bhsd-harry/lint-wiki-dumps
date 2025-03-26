@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",357,2,"duplicated category","[[Category:行動電話製造商]]"],["no-duplicate",364,2,"duplicated category","[[Category:行動電話製造商]]"]]
+window.data=[["no-duplicate",359,2,"duplicated category","[[Category:行動電話製造商]]"],["no-duplicate",366,2,"duplicated category","[[Category:行動電話製造商]]"]]

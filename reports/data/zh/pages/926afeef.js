@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",110,36,"lonely \"]\"","]]"],["fostered-content",111,1,"content to be moved out from the table","\n 10日观察法的方法适用于非狂犬病疫区，但在接触后仍要立即开始预防措施。如果伤人动物在10日观察期内保持健康，或经可靠的实验室使用恰当诊断技术证明该动物未患狂犬病，则可以终止免疫接种。\n 世界卫生组"],["unclosed-table",110,2,"unclosed table","{|"]]
+window.data=[["lonely-bracket",111,36,"lonely \"]\"","]]"],["fostered-content",112,1,"content to be moved out from the table","\n 10日观察法的方法适用于非狂犬病疫区，但在接触后仍要立即开始预防措施。如果伤人动物在10日观察期内保持健康，或经可靠的实验室使用恰当诊断技术证明该动物未患狂犬病，则可以终止免疫接种。\n 世界卫生组"],["unclosed-table",111,2,"unclosed table","{|"]]

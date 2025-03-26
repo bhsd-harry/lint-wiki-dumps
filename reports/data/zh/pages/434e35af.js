@@ -1,0 +1,1 @@
+window.data=[["lonely-http",16,13,"lonely \"http://\"","http://"],["unmatched-tag",561,4,"unclosed tag","<del>"],["unmatched-tag",561,146,"unclosed tag","<del>"],["illegal-attr",674,58,"illegal attribute name","xml:lang"]]

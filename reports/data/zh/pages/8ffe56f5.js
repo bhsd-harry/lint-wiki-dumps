@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",27,3,"duplicated parameter"," module = {{Infobox YouTube personality\n | embed                = yes\n | channel_name = sciencewillw"],["no-duplicate",37,3,"duplicated parameter","module = {{Infobox criminal\n |child=yes\n | honorific_prefix = \n | name = \n | honorific_suffix = \n | "]]

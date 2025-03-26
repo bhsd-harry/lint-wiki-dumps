@@ -1,0 +1,1 @@
+window.data=[["no-ignored",27,1,"invalid parameter of <inputbox>"," buttonlabel=-{zh:决定好开新條目;zh-hans:决定好开新條目;zh-hant:決定好開新條目;}-"],["no-ignored",28,1,"invalid parameter of <inputbox>"," width=25"],["no-ignored",29,1,"invalid parameter of <inputbox>"," "]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",87,465,"duplicated parameter","id="],["no-duplicate",87,469,"duplicated parameter"," id = {{CNKI|SDPK200301013|CJFD}}"]]

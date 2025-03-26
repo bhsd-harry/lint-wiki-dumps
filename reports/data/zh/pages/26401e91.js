@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",112,2,"duplicated category","[[Category:樂天桃猿球員]]"],["no-duplicate",113,2,"duplicated category","[[Category:樂天桃猿球員]]"]]
+window.data=[["no-duplicate",113,2,"duplicated category","[[Category:樂天桃猿球員]]"],["no-duplicate",114,2,"duplicated category","[[Category:樂天桃猿球員]]"]]

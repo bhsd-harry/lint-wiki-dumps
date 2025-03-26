@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,100,"duplicated parameter","url=https://www.td.gov.hk/filemanager/en/content_436/shekwuhui_ss_map_large.jpg"],["no-duplicate",6,212,"duplicated parameter","url=https://www.td.gov.hk/filemanager/en/content_436/shekwuhui_ss_map_large.jpg "]]

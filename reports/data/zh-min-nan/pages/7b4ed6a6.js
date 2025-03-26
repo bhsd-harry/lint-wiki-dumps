@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",21,3,"duplicated parameter","label9        = Chêng-jīm\n "],["no-duplicate",23,3,"duplicated parameter","label9        = Āu-jīm\n "],["no-duplicate",22,3,"duplicated parameter","data9         = [[Hasegawa Kiyosi]] \n "],["no-duplicate",24,3,"duplicated parameter","data9         = Bô\n\n "]]

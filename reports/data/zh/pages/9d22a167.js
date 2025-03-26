@@ -1,0 +1,1 @@
+window.data=[["no-ignored",50,100,"containing invalid attribute"," | Христос Воскресе"],["no-ignored",50,194,"containing invalid attribute"," | Христос воскресе"],["lonely-bracket",283,22,"lonely \"[\"","["],["lonely-bracket",283,74,"lonely \"]\"","]"]]

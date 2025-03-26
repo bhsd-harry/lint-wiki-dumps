@@ -1,1 +1,0 @@
-window.data=[["fostered-content",173,1,"content to be moved out from the table","\n ==参考文献==\n {{Reflist}}\n\n {{-}}\n {{中华人民共和国省级行政区行政主官|nocat}}\n {{中华人民共和国辽宁省正职领导人|nocat}}\n {{辽宁行政长官}}\n "],["unclosed-table",43,2,"unclosed table","{|"]]

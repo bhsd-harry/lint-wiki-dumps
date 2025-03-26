@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",10,2,"duplicated category","[[Category:User sk|{{PAGENAME}}]]"],["no-duplicate",11,2,"duplicated category","[[Category:User sk|{{PAGENAME}}]]"],["no-duplicate",12,2,"duplicated category","[[Category:User sk|N]]"]]

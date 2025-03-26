@@ -1,1 +1,1 @@
-window.data={"articles":[["Sè-kài Iá-kiû 12-kiông Pí-sài",39,2,"unclosed table","{|"]],"batches":1}
+window.data={"articles":[["Pang-chān:世界野球12強比賽",40,2,"unclosed table","{|"],["Portal:Thâu-ia̍h/header",1,1,"unclosed table","{|"],["Sè-kài Iá-kiû 12-kiông Pí-sài",39,2,"unclosed table","{|"],["Wikipedia:Siā-lí mn̂g-chhùi-kháu",1,1,"unclosed table","{|"]],"batches":1}

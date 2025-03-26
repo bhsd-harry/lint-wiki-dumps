@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",231,39,"duplicated image caption parameter","link=//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/European electricity grid.svg/220px-Europea"],["no-duplicate",231,172,"duplicated image caption parameter","范围地图"]]

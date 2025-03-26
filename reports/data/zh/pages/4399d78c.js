@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",71,1494,"lonely \"{\"","{{"],["no-duplicate",82,113,"duplicated image caption parameter","食物被用绳子拉进大使馆file:Gijzeling Franse ambassade 23.jpg"],["no-duplicate",82,163,"duplicated image caption parameter","受到警察保护的使馆女性工作人员"]]
+window.data=[["lonely-bracket",71,1505,"lonely \"{\"","{{"],["no-duplicate",82,113,"duplicated image caption parameter","食物被用绳子拉进大使馆file:Gijzeling Franse ambassade 23.jpg"],["no-duplicate",82,163,"duplicated image caption parameter","受到警察保护的使馆女性工作人员"]]

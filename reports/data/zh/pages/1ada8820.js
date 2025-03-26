@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",7,2,"duplicated category","[[Category:女性王族]]"],["no-duplicate",8,2,"duplicated category","[[Category:女性王族]]"]]

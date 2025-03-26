@@ -1,1 +1,1 @@
-window.data=[["fostered-content",44,1,"content to be moved out from the table"," *時刻表僅供參考，請以[[臺中客運]]網站公告為準。"],["fostered-content",75,1,"content to be moved out from the table"," *時刻表僅供參考，請以臺中客運網站公告為準。"]]
+window.data=[["fostered-content",44,1,"content to be moved out from the table"," *時刻表僅供參考，請以[[臺中客運]]網站公告為準。\n *時刻表更新時間為2025年3月8日。"],["fostered-content",77,1,"content to be moved out from the table"," *時刻表僅供參考，請以臺中客運網站公告為準。"]]

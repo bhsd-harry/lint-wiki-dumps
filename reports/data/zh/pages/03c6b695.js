@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",36,2,"tag that is both closing and self-closing","</br>"],["unmatched-tag",36,7,"tag that is both closing and self-closing","</br>"],["unmatched-tag",36,12,"tag that is both closing and self-closing","</br>"],["unmatched-tag",36,17,"tag that is both closing and self-closing","</br>"],["unmatched-tag",48,2,"unmatched closing tag","</div>"]]

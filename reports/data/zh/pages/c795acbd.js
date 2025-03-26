@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",74,216,"duplicated parameter","author3=姚岳宏"],["no-duplicate",74,228,"duplicated parameter","author3=黃立翔"]]

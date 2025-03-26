@@ -1,0 +1,1 @@
+window.data=[["lonely-http",283,69,"lonely \"ISBN\"","ISBN"],["lonely-apos",299,3,"lonely \"'\"","'"],["lonely-apos",299,18,"lonely \"'\"","'"],["illegal-attr",376,141,"illegal attribute name","xml:lang"],["illegal-attr",380,134,"illegal attribute name","xml:lang"]]

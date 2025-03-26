@@ -1,0 +1,1 @@
+window.data=[["invalid-css",22,118,"} expected",")"],["invalid-css",22,117,") expected",";"],["lonely-bracket",34,122,"lonely \"}\"","}}"],["lonely-bracket",40,63,"lonely \"}\"","}}"]]

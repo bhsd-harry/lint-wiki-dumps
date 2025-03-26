@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",620,4,"lonely \"{\"","{"],["lonely-bracket",620,70,"lonely \"}\"","}"],["no-ignored",620,4,"containing invalid attribute","{zh-cn:秀逗魔导士 EXCELLENT;zh-tw:秀逗魔導士 EXCELLENT;zh-hk:魔劍美神 EXCELLENT;}-||{{lang|ja|スレイヤーズえくせれんと}}||1998"]]
+window.data=[["lonely-bracket",621,4,"lonely \"{\"","{"],["lonely-bracket",621,70,"lonely \"}\"","}"],["no-ignored",621,4,"containing invalid attribute","{zh-cn:秀逗魔导士 EXCELLENT;zh-tw:秀逗魔導士 EXCELLENT;zh-hk:魔劍美神 EXCELLENT;}-||{{lang|ja|スレイヤーズえくせれんと}}||1998"]]

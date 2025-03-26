@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,26,"duplicated image caption parameter","{{#if:{{{size}}}|{{{size|200px}}}|200px}}"],["no-duplicate",2,68,"duplicated image caption parameter","社会网络"]]

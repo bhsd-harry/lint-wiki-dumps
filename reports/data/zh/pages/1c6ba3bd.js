@@ -1,0 +1,1 @@
+window.data=[["nested-link",115,85,"internal link in an external link","[[Special:用户贡献/110.228.76.201|110.228.76.201]]"],["nested-link",115,132,"internal link in an external link","[[User talk:110.228.76.201|留言]]"],["lonely-bracket",204,41,"lonely \"{\"","{{"],["lonely-bracket",204,52,"lonely \"}\"","}}"]]

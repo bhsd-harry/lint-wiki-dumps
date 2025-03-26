@@ -1,0 +1,1 @@
+window.data=[["tag-like",86,13,"lonely \"<\"","<style"],["tag-like",86,32,"lonely \"<\"","<style"],["illegal-attr",124,129,"illegal attribute name","font"],["illegal-attr",124,217,"illegal attribute name","font"],["illegal-attr",124,322,"illegal attribute name","font"],["lonely-http",234,4,"lonely \"https://\"","https://"]]

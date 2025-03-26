@@ -1,0 +1,1 @@
+window.data=[["invalid-css",8,38,"semi-colon expected",""],["invalid-css",8,37,"colon expected","="],["no-ignored",8,39,"containing invalid attribute","font-size:200%;\""],["no-duplicate",12,25,"duplicated image width parameter","2000px"],["no-duplicate",12,32,"duplicated image width parameter","1000px"]]

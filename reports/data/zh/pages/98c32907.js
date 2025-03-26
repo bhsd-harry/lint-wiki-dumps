@@ -1,1 +1,1 @@
-window.data=[["parsing-order",80,26,"HTML tag in table attributes","<span style=\"color: white;\">"],["no-ignored",80,23,"containing invalid attribute","|  <span style=\"color: white;\">"]]
+window.data=[["parsing-order",85,26,"HTML tag in table attributes","<span style=\"color: white;\">"],["no-ignored",85,23,"containing invalid attribute","|  <span style=\"color: white;\">"]]

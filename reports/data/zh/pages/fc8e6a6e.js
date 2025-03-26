@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",60,101,"illegal attribute name","xml:lang"],["illegal-attr",144,133,"illegal attribute name","xml:lang"],["illegal-attr",152,129,"illegal attribute name","xml:lang"],["illegal-attr",273,193,"illegal attribute name","xml:lang"],["fostered-content",482,1,"content to be moved out from the table"," <p></p>"],["lonely-bracket",642,203,"lonely \"]\"","]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,28,"duplicated category","[[Category:各日历史上的今天|{{PAGENAME}}]]"],["no-duplicate",19,2,"duplicated category","[[Category:各日历史上的今天|㋆11日]]"]]

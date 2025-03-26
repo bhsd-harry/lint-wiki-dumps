@@ -1,0 +1,1 @@
+window.data=[["no-ignored",87,1,"invalid content in <gallery>"," File:Wizarding_World_of_Harry_Potter_Castle.jpg<br />作者：[[:en:User:Rstoplabe14|User:Rstoplabe14]]"]]

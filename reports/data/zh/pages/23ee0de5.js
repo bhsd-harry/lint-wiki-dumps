@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",8,2,"duplicated category","[[Category:日本成人游戏封面]]"],["no-duplicate",12,2,"duplicated category","[[Category:日本成人游戏封面]]"]]

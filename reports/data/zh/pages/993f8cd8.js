@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",7,18,"lonely \"[\"","[["],["lonely-bracket",7,31,"lonely \"]\"","]]"],["fostered-content",37,1,"content to be moved out from the table","\n '''Lu Tie-Zhou''' (17 Jun 1899－24 September 1942), originally named Lu Ding-Zhu and a native of Da"],["unclosed-table",6,2,"unclosed table","{|"]]

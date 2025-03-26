@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",16,2,"duplicated category","[[Category:德克萨斯州运河]]"],["no-duplicate",20,2,"duplicated category","[[Category:德克萨斯州运河]]"]]

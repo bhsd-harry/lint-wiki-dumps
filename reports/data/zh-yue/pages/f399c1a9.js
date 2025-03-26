@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,3,"duplicated parameter","Description={{zh|2011年到依家嘅廣州恆大隊隊徽.}}<!--Description fetched by DieBucheBot-->\n "],["no-duplicate",5,3,"duplicated parameter","Description=廣州恆大足球會會徽\n "]]

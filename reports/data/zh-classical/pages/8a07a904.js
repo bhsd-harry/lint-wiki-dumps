@@ -1,0 +1,1 @@
+window.data=[["fostered-content",3,1,"content to be moved out from the table"," * [[維基大典:博古櫃/二〇一七年第二十六週|宋徽宗竹禽圖卷]]（二〇一七年第二十六週、二十七週）\n * [[維基大典:博古櫃/二〇一七年第二十八週|宋徽宗桃禽圖卷]]（二〇一七年第二十八週）\n "]]

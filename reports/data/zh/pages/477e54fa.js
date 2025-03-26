@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",12,45,"duplicated parameter","caption=圖片說明\n "],["no-duplicate",13,44,"duplicated parameter","caption=圖片說明2\n "]]

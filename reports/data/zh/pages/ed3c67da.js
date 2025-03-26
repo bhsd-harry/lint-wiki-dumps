@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",7,2,"duplicated category","[[Category:CAS號重定向]]"],["no-duplicate",8,2,"duplicated category","[[Cat:CAS號重定向]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",12,3,"duplicated parameter"," nickname      = \n "],["no-duplicate",14,3,"duplicated parameter"," nickname     = 帕迪·海明威（Paddy Hemingway）\n "]]

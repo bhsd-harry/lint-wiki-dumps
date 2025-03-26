@@ -1,0 +1,1 @@
+window.data=[["fostered-content",3,1,"content to be moved out from the table"," * [[維基大典:詩詞賞析/二〇一七年第一周|丁亥十二月五日雪晴　張雨]]（二〇一七年第一周）\n * [[維基大典:詩詞賞析/二〇一七年第二周|江水之辭節選　鄭道傳]]（二〇一七年第二周）\n * ["]]

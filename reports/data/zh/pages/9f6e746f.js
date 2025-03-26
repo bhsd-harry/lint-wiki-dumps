@@ -1,0 +1,1 @@
+window.data=[["invalid-css",19,74,"colon expected","="],["invalid-css",19,190,"colon expected","="],["unmatched-tag",359,4,"unclosed tag","<del>"],["unmatched-tag",359,192,"unclosed tag","<del>"],["lonely-http",451,10,"lonely \"RFC\"","RFC"],["lonely-http",452,56,"lonely \"RFC\"","RFC"],["lonely-http",504,11,"lonely \"https://\"","https://"]]

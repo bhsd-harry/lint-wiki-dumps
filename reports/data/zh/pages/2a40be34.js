@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[Category:超人力霸王系列]]"],["no-duplicate",3,2,"duplicated category","[[Category:超人力霸王系列]]"],["no-duplicate",2,2,"duplicated category","[[Category:超古代文明題材作品]]"],["no-duplicate",4,2,"duplicated category","[[Category:超古代文明題材作品]]"]]

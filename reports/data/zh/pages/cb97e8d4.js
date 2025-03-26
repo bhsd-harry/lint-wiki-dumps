@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",16,5,"duplicated parameter"," B1 = [[Wikipedia: 神話專題|神話專題]] \n   "],["no-duplicate",17,5,"duplicated parameter"," B1 =[[Wikipedia: 希臘神話專題|希臘神話專題]]\n "]]

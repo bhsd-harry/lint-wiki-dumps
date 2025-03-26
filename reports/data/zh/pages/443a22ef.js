@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",94,342,"duplicated parameter","language=ko"],["no-duplicate",94,499,"duplicated parameter","language=ko"],["no-duplicate",96,2532,"duplicated parameter","date=2014-12-18"],["no-duplicate",96,2729,"duplicated parameter","date=2014-12-18"]]

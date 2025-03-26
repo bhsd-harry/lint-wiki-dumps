@@ -1,1 +1,0 @@
-window.data=[["no-ignored",394,22,"containing invalid attribute","  font-size:small;\""],["fostered-content",445,1,"content to be moved out from the table","\n == 演出作品 ==\n === 電台廣播 ===\n * 鹿乃のばんび〜のラジオ（{{tsl|jp|FM-FUJI}}：2015年7月3日至2019年9月27日，每週五25;00至25;30（即週六"],["unclosed-table",394,2,"unclosed table","{|"]]

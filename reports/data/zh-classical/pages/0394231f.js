@@ -1,0 +1,1 @@
+window.data=[["fostered-content",3,1,"content to be moved out from the table"," * [[維基大典:博古櫃/二〇二〇年第一週|法國第三共和國盧米埃兄弟電影戲報]]（二〇二〇年第一週）\n * [[維基大典:博古櫃/二〇二〇年第二週|南宋哥窯灰青釉膽式瓶]]（二〇二〇年第二週）\n *"]]

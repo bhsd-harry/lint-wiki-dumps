@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",40,3,"duplicated parameter"," metric-rwy   = yes\n "],["no-duplicate",44,3,"duplicated parameter"," metric-rwy   = yes\n "]]

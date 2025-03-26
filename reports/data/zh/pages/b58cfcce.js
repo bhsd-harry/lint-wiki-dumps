@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",50,2,"duplicated category","[[Category:政治學術語]]"],["no-duplicate",53,2,"duplicated category","[[Category:政治學術語]]"]]

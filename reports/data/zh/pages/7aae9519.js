@@ -1,1 +1,1 @@
-window.data=[["invalid-css",21,120,"colon expected","="],["lonely-bracket",122,15,"lonely \"{\"","{{"],["invalid-css",398,120,"colon expected","="],["invalid-css",458,120,"colon expected","="],["invalid-css",605,120,"colon expected","="]]
+window.data=[["invalid-css",21,120,"colon expected","="],["invalid-css",399,120,"colon expected","="],["invalid-css",480,120,"colon expected","="],["invalid-css",643,120,"colon expected","="]]

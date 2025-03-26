@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",27,31,"tag that is both closing and self-closing","</br>"],["invalid-css",42,176,"property value expected","#Black"],["invalid-css",42,240,"semi-colon expected",""],["invalid-css",42,240,"colon expected",""],["illegal-attr",120,22,"illegal attribute name","datatime"],["lonely-bracket",781,177,"lonely \"[\"","[["]]

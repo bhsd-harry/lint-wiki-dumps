@@ -1,1 +1,0 @@
-window.data=[["fostered-content",29,1,"content to be moved out from the table","\n ==交通==\n 台鐵[[縱貫線 (北段)|縱貫線]]大致以東北－西南走向經過平鎮地區北部邊界外不遠處。東北側最近的是[[中壢車站]]，屬[[一等站 (台鐵)|一等站]]，除部分[[普悠瑪號]]、["],["unclosed-table",18,2,"unclosed table","{|"]]

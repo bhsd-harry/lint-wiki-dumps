@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",15,1635,"duplicated parameter","publisher=《嚴家淦總統文物》"],["no-duplicate",15,1655,"duplicated parameter","publisher=國史館藏"]]

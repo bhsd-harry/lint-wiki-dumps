@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,45,"duplicated image caption parameter","替代文字"],["no-duplicate",4,53,"duplicated image caption parameter","鎮"]]

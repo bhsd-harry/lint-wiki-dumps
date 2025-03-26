@@ -1,0 +1,1 @@
+window.data=[["tag-like",65,2,"lonely \"<\"","</a"],["no-ignored",149,4,"containing invalid attribute","-style=\"padding:2em;padding-top:2em;background:gold;\""]]

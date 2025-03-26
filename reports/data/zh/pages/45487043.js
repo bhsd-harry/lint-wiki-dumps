@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",10,61,"duplicated image caption parameter"," 1790年弗赖辛新任采邑主教同意的选举让步协议的扉页"],["no-duplicate",10,99,"duplicated image caption parameter","1790年弗赖辛新任采邑主教同意的选举让步协议的扉页"]]

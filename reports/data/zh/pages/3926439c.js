@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:维基百科统计|{{PAGENAME}}]]"],["no-duplicate",104,2,"duplicated category","[[Category:维基百科统计]]"]]

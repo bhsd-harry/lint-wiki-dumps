@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:新疆界計畫]]"],["no-duplicate",7,2,"duplicated category","[[Category:新疆界計畫]]"]]

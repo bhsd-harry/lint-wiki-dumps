@@ -1,0 +1,1 @@
+window.data=[["nested-link",678,388,"internal link in an external link","[[User:Liangent|Liangent]]"],["nested-link",678,416,"internal link in an external link","[[User talk:Liangent|留言]]"]]

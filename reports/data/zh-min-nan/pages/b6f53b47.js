@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,35,"duplicated image caption parameter","280xp"],["no-duplicate",3,51,"duplicated image caption parameter","王鏡銘"]]

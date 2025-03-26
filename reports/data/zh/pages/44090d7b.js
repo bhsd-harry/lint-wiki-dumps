@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",447,2,"duplicated category","[[Category:2025年蘇迪曼盃]]"],["no-duplicate",450,2,"duplicated category","[[Category:2025年蘇迪曼盃]]"]]
+window.data=[["unescaped",445,68,"unescaped query string in an anonymous parameter","="]]

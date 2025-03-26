@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",25,61,"duplicated image caption parameter","320 x 146"],["no-duplicate",25,71,"duplicated image caption parameter","海龍屯出土《驃騎將軍示諭龍巖囤嚴禁碑》經文獻核對，楊家統治播州725年間，29代人中，只有楊應龍被封為驃騎將軍，故考古學者傾向於此碑文為楊應龍手書。<ref>[http://paper.wenweip"]]

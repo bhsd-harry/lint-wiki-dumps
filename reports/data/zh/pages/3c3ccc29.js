@@ -1,0 +1,1 @@
+window.data=[["lonely-http",119,13,"lonely \"http://\"","http://"],["unmatched-tag",198,8,"unmatched closing tag","</div>"],["invalid-css",333,118,"colon expected",";"]]

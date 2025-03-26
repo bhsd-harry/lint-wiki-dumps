@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",109,2,"duplicated category","[[Category:社交網路服務]]"],["no-duplicate",119,2,"duplicated category","[[Category:社交網路服務]]"]]
+window.data=[["no-duplicate",110,2,"duplicated category","[[Category:社交網路服務]]"],["no-duplicate",120,2,"duplicated category","[[Category:社交網路服務]]"]]

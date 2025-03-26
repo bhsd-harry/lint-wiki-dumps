@@ -1,1 +1,1 @@
-window.data=[["no-ignored",462,34,"containing invalid attribute","CG(B)"],["lonely-bracket",1805,4,"lonely \"]\"","]]"],["no-ignored",2376,131,"containing invalid attribute","CG（C、B、R"]]
+window.data=[["no-ignored",464,34,"containing invalid attribute","CG(B)"],["lonely-bracket",1807,4,"lonely \"]\"","]]"],["no-ignored",2378,131,"containing invalid attribute","CG（C、B、R"]]

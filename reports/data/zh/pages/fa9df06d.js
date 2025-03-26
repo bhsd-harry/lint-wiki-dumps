@@ -1,0 +1,1 @@
+window.data=[["tag-like",148,11,"lonely \"<\"","<meta"],["lonely-bracket",268,217,"lonely \"{\"","{"],["lonely-bracket",268,218,"lonely \"}\"","}"],["tag-like",315,10,"lonely \"<\"","<ref"],["tag-like",317,36,"lonely \"<\"","<ref"],["no-duplicate",124,615,"duplicated category","[[Category:含有多个问题的条目]]"],["no-duplicate",134,609,"duplicated category","[[Category:含有多个问题的条目]]"]]

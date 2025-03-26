@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",142,87,"illegal attribute name","xml:lang"],["nested-link",291,205,"internal link in an external link","[[Template:uw-ublock|uw-ublock]]"],["illegal-attr",303,66,"illegal attribute name","xml:lang"],["lonely-bracket",326,43,"lonely \"[\"","[[["],["lonely-bracket",326,95,"lonely \"]\"","]]"]]

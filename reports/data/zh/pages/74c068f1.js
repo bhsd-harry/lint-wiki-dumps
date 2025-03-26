@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",123,2,"duplicated category","[[Category:英國裔泰國人]]"],["no-duplicate",1075,2,"duplicated category","[[Cat:英國裔泰國人]]"]]
+window.data=[["no-duplicate",125,2,"duplicated category","[[Category:英國裔泰國人]]"],["no-duplicate",1082,2,"duplicated category","[[Cat:英國裔泰國人]]"]]

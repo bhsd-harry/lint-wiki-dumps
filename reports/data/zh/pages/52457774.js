@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",8,2,"duplicated category","[[Category:輔助技術]]"],["no-duplicate",12,2,"duplicated category","[[Category:輔助技術]]"]]

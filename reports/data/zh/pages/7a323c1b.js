@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",52,369,"duplicated parameter","date=2007-03-02"],["no-duplicate",52,385,"duplicated parameter","date=蔣志薇"],["invalid-isbn",688,3,"invalid ISBN","ISBN 957-970-306-2"],["invalid-isbn",698,3,"invalid ISBN","ISBN 9575838096"]]
+window.data=[["invalid-isbn",690,3,"invalid ISBN","ISBN 957-970-306-2"],["invalid-isbn",700,3,"invalid ISBN","ISBN 9575838096"]]

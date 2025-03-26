@@ -1,1 +1,1 @@
-window.data=[["tag-like",226,95,"lonely \"<\"","<tbody"],["no-ignored",226,95,"containing invalid attribute","<tbody>"],["lonely-bracket",850,392,"lonely \"}\"","}"],["lonely-bracket",857,377,"lonely \"}\"","}"]]
+window.data=[["tag-like",226,95,"lonely \"<\"","<tbody"],["no-ignored",226,95,"containing invalid attribute","<tbody>"],["lonely-bracket",852,392,"lonely \"}\"","}"],["lonely-bracket",859,377,"lonely \"}\"","}"]]

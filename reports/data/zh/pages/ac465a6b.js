@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",143,126,"lonely \"[\"","[["],["unmatched-tag",143,128,"unmatched closing tag","</del>"],["no-ignored",143,44,"invalid conversion flag","[[User:1j1z2|唐吉訶德的劍]]([[User_talk:1j1z2|<span style=\"color: green;\">風車之戰</span>]])[[</del>Special:Co"],["lonely-bracket",143,241,"lonely \"]\"","]]"]]

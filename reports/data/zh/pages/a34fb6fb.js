@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:知识产权行动主义]]"],["no-duplicate",10,2,"duplicated category","[[Category:知识产权行动主义]]"]]

@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",58,2,"duplicated category","[[Category:臺灣網路紅人|L]]"],["no-duplicate",63,2,"duplicated category","[[Category:臺灣網路紅人]]"]]
+window.data=[["no-duplicate",57,2,"duplicated category","[[Category:臺灣網路紅人|L]]"],["no-duplicate",62,2,"duplicated category","[[Category:臺灣網路紅人]]"]]

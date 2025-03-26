@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",371,2,"duplicated category","[[Category:特斯拉人物]]"],["no-duplicate",374,2,"duplicated category","[[Category:特斯拉人物]]"]]
+window.data=[["no-duplicate",370,2,"duplicated category","[[Category:特斯拉人物]]"],["no-duplicate",373,2,"duplicated category","[[Category:特斯拉人物]]"]]

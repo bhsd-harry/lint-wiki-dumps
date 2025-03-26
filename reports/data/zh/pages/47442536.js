@@ -1,0 +1,1 @@
+window.data=[["nested-link",921,590,"internal link in an external link","[[Special:Diff/76825574]]"],["lonely-bracket",1422,194,"lonely \"[\"","["],["lonely-bracket",1422,308,"lonely \"]\"","]"]]

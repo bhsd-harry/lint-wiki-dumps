@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",148,2,"duplicated category","[[Lūi-pia̍t:A-chiu kok-ka]]"],["no-duplicate",154,2,"duplicated category","[[Category:A-chiu kok-ka]]"],["no-duplicate",149,2,"duplicated category","[[Lūi-pia̍t:Hui-li̍p-pin|*]]"],["no-duplicate",155,2,"duplicated category","[[Category:Hui-li̍p-pin]]"]]

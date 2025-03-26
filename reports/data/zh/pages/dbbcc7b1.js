@@ -1,0 +1,1 @@
+window.data=[["no-ignored",597,1,"invalid content in <gallery>"," F[[File:ile:Example.jpg|标题1"],["lonely-bracket",598,22,"lonely \"]\"","]]"],["no-ignored",599,1,"invalid content in <gallery>"," {| class=\"wikitable\""],["no-ignored",612,1,"invalid content in <gallery>"," <nowiki></nowiki>}"]]

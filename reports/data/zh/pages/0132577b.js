@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",41,30,"duplicated parameter","note-mid2=建设中\n "],["no-duplicate",42,24,"duplicated parameter","note-mid2=建设中"]]

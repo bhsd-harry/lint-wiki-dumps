@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",18,3,"duplicated parameter","leader_title = \n "],["no-duplicate",27,3,"duplicated parameter"," leader_title       = 市長\n "],["no-duplicate",19,3,"duplicated parameter","leader_name = \n "],["no-duplicate",28,3,"duplicated parameter"," leader_name        = Chris Pimentel\n "]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",2,79,"containing invalid attribute","| [{{fullurl:維基大典:正典/卷首/備選|action=edit}} 編輯]|}"],["fostered-content",3,1,"content to be moved out from the table"," ==格致==\n [[File:Hydrogenglow.jpg|left|80px|氫氣於電場中]]\n '''[[氫]]'''者，[[化學]][[元素]]，諸元素至輕者。六合之中，四有其三，可謂盈於"],["unclosed-table",2,2,"unclosed table","{|"]]

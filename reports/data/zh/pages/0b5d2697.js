@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",85,132,"illegal attribute name","datatime"],["no-duplicate",24,174,"duplicated category","[[Category:已處理的維基百科編輯被保護頁面請求]]"],["no-duplicate",33,177,"duplicated category","[[Category:已處理的維基百科編輯被保護頁面請求]]"]]

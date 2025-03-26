@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",75,78,"lonely \"[\"","[["],["lonely-bracket",75,88,"lonely \"]\"","]]"],["illegal-attr",92,223,"illegal attribute name","xml:lang"]]

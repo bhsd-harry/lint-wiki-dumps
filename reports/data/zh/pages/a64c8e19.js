@@ -1,1 +1,1 @@
-window.data=[["illegal-attr",44,5,"illegal attribute name","span"],["fostered-content",45,1,"content to be moved out from the table","\n ==交通==\n #[[长株潭城际铁路]]于2016年12月21日通车运营，其西延段于2017年12月26日通车运营。该线路全长97.5公里，运行时速达200公里。\n #[[常益长高速铁路]]于20"],["unclosed-table",40,2,"unclosed table","{|"]]
+window.data=[["illegal-attr",44,5,"illegal attribute name","span"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",16,106,"duplicated parameter","hostcomments=同上，有聲條目加成不能單獨獲得，而且這條目根本就是{{U}}\n #{{DC20/art|Google Penguin|type=1|length=0|spoken=1|spo"],["no-duplicate",17,122,"duplicated parameter","hostcomments=還是同上，這次條目建立者是{{U}}\n\n <!--缺少來源的條目類，type參數請填1-->\n "]]

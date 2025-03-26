@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",27,13,"duplicated category","[[Category:特色圖片除名投票]]"],["no-duplicate",37,13,"duplicated category","[[Category:特色圖片除名投票]]"],["no-duplicate",27,35,"duplicated category","[[Category:特色圖片評選/2022年3月 ]]"],["no-duplicate",37,35,"duplicated category","[[Category:特色圖片評選/2022年3月 ]]"]]

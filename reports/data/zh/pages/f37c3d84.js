@@ -1,0 +1,1 @@
+window.data=[["no-ignored",521,9,"containing invalid attribute"," ひとり旅 "],["invalid-css",641,34,"colon expected",";"]]

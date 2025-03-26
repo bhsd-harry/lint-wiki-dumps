@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",293,331,"lonely \"]\"","]"],["lonely-bracket",294,475,"lonely \"]\"","]"],["lonely-http",631,43,"lonely \"https://\"","https://"]]

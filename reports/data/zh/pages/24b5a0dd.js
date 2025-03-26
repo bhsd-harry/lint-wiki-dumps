@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",120,6,"illegal attribute name","align"],["illegal-attr",120,22,"illegal attribute name","noshade"],["illegal-attr",120,30,"illegal attribute name","size"]]

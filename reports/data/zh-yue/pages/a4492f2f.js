@@ -1,0 +1,1 @@
+window.data=[["no-ignored",9,1,"invalid parameter of <inputbox>"," type=create"],["no-ignored",10,1,"invalid parameter of <inputbox>"," bgcolor=#eeeeff"],["no-ignored",11,1,"invalid parameter of <inputbox>"," width=40"],["no-ignored",12,1,"invalid parameter of <inputbox>"," preload=Template:Pts format/preload"],["no-ignored",13,1,"invalid parameter of <inputbox>"," "]]

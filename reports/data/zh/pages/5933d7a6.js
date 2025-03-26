@@ -1,1 +1,0 @@
-window.data=[["lonely-bracket",19,352,"lonely \"]\"","]"],["no-duplicate",19,144,"duplicated parameter","url=https://tw.news.yahoo.com/%E9%A4%A8%E9%95%B7%E6%A7%8D%E6%93%8A%E6%A1%88%E5%88%A4%E6%B1%BA%E5%87%"],["no-duplicate",19,370,"duplicated parameter","url=https://tw.news.yahoo.com/%E9%A4%A8%E9%95%B7%E6%A7%8D%E6%93%8A%E6%A1%88%E5%88%A4%E6%B1%BA%E5%87%"]]

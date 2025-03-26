@@ -1,1 +1,0 @@
-window.data=[["lonely-bracket",1,58,"lonely \"[\"","["],["unescaped",1,90,"unescaped query string in an anonymous parameter","="]]

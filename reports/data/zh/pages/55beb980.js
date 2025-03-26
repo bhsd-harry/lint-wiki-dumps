@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",81,4,"lonely \"{\"","{{"],["lonely-bracket",81,28,"lonely \"}\"","}}"],["lonely-bracket",91,3,"lonely \"{\"","{{"],["lonely-bracket",91,41,"lonely \"}\"","}}"],["unclosed-comment",124,2,"unclosed <includeonly>","<includeonly>[[Category:福建專題| ]]\n [[Category:专题委员会模板]]\n [[Category:专题|福]]\n [[Category:福建专题]]"]]

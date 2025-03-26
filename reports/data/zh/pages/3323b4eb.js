@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",82,2,"duplicated category","[[Category:奥地利犹太裔美国人]]"],["no-duplicate",85,2,"duplicated category","[[Category:奥地利犹太裔美国人]]"]]
+window.data=[["no-duplicate",80,2,"duplicated category","[[Category:奥地利犹太裔美国人]]"],["no-duplicate",83,2,"duplicated category","[[Category:奥地利犹太裔美国人]]"]]

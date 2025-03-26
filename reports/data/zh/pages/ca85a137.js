@@ -1,1 +1,1 @@
-window.data=[["lonely-apos",97,35,"lonely \"'\"","'"],["lonely-apos",309,26,"lonely \"'\"","'"],["no-duplicate",412,3,"duplicated parameter"," percentage2 = 31.5%\n "],["no-duplicate",413,3,"duplicated parameter"," percentage2 = 31.50%\n "],["lonely-bracket",1693,27,"lonely \"]\"","]"],["lonely-bracket",2024,37,"lonely \"]\"","]]"]]
+window.data=[["lonely-apos",97,35,"lonely \"'\"","'"],["lonely-apos",309,26,"lonely \"'\"","'"],["lonely-bracket",1692,27,"lonely \"]\"","]"],["lonely-bracket",2023,37,"lonely \"]\"","]]"]]

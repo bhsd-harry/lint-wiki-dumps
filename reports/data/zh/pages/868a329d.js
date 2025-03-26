@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",87,125,"lonely \"]\"","]]"],["no-duplicate",153,34,"duplicated parameter","LuciferianThomas"],["no-duplicate",153,15,"duplicated parameter","1=LuciferianThomas"]]

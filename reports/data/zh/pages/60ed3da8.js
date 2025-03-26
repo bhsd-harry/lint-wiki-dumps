@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,2,"duplicated category","[[Category:秋季節日]]"],["no-duplicate",5,2,"duplicated category","[[Category:秋季節日]]"]]

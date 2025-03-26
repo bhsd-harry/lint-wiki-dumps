@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,71,"duplicated image caption parameter","120px120px"],["no-duplicate",1,87,"duplicated image caption parameter","Syntactic tree"]]

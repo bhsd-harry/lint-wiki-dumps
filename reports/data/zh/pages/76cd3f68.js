@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",52,3,"duplicated parameter"," color4 = {{party color|The Greens (Luxembourg)}}\n "],["no-duplicate",64,3,"duplicated parameter"," color4 = {{party color|Alternative Democratic Reform Party}}\n "]]

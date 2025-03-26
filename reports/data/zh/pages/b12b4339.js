@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",22,9,"lonely \"[\"","[["],["lonely-bracket",22,12,"lonely \"]\"","]]"],["no-duplicate",35,2,"duplicated category","[[Category:台北寫作聚貢獻頁面]]"],["no-duplicate",76,2,"duplicated category","[[Category:台北寫作聚貢獻頁面]]"]]

@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",26,6,"unmatched closing tag","</table>"],["unmatched-tag",28,2,"unmatched closing tag","</div>"],["illegal-attr",73,54,"illegal attribute name","st"],["unclosed-table",128,2,"unclosed table","{|"],["unclosed-table",2,2,"unclosed table","{|"]]

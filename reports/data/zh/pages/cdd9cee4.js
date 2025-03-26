@@ -1,0 +1,1 @@
+window.data=[["invalid-css",69,97,"property value expected",""],["unmatched-tag",207,2,"unmatched closing tag","</div>"],["invalid-css",237,97,"property value expected",""],["unmatched-tag",375,2,"unmatched closing tag","</div>"],["no-duplicate",72,2,"duplicated category","[[Category:维基质量提督员]]"],["no-duplicate",240,2,"duplicated category","[[Category:维基质量提督员]]"]]

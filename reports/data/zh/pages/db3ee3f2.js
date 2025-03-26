@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",3,3,"duplicated parameter","G2=Canada\n "],["no-duplicate",4,3,"duplicated parameter","G2=PoliticiansUK\n "]]

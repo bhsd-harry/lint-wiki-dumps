@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:意识形态]]"],["no-duplicate",7,2,"duplicated category","[[Category:意识形态]]"]]

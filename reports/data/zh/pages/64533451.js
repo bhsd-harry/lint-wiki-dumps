@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:富山縣交通]]"],["no-duplicate",6,2,"duplicated category","[[Category:富山縣交通]]"]]

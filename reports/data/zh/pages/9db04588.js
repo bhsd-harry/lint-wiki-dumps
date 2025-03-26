@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",14,92,"unmatched closing tag","</span>"],["lonely-http",118,12,"lonely \"https://\"","https://"],["invalid-isbn",261,314,"invalid ISBN","ISBN 7-5108-1258-3"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",24,1,"invalid parameter of <inputbox>"," type=comment"],["no-ignored",25,1,"invalid parameter of <inputbox>"," page=Wikipedia:翻译请求#翻译请求列表"],["no-ignored",26,1,"invalid parameter of <inputbox>"," break=no"],["no-ignored",27,1,"invalid parameter of <inputbox>"," buttonlabel=添加请求"],["no-ignored",28,1,"invalid parameter of <inputbox>"," "]]

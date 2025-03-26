@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",29,76,"duplicated parameter","5=111.83.108.71"],["no-duplicate",29,92,"duplicated parameter","5=111.83.108.71"],["lonely-bracket",36,176,"lonely \"]\"","]]"],["illegal-attr",55,200,"illegal attribute name","xml:lang"]]

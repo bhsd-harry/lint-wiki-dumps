@@ -1,1 +1,1 @@
-window.data=[["no-ignored",30,100,"containing invalid attribute","  |pages=xii–xiii"]]
+window.data=[["no-ignored",33,100,"containing invalid attribute","  |pages=xii–xiii"]]

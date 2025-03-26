@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,35,"duplicated image caption parameter","南京大学"],["no-duplicate",1,46,"duplicated image caption parameter","南京大学"],["unmatched-tag",4,17,"unmatched closing tag","</div>"]]

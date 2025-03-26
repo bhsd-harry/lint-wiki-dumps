@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",45,32,"duplicated image caption parameter","phallocrypts"],["no-duplicate",45,45,"duplicated image caption parameter","生殖器上的裝飾品"],["no-duplicate",55,34,"duplicated image caption parameter","phallocrypts"],["no-duplicate",55,47,"duplicated image caption parameter","生殖器上的裝飾品"]]

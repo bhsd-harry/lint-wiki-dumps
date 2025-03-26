@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",70,2,"lonely \"[\"","[["],["lonely-bracket",142,2,"lonely \"]\"","]]"],["no-duplicate",67,2,"duplicated category","[[Category:Help:贛語辭典]]"],["no-duplicate",135,2,"duplicated category","[[Category:Help:贛語辭典]]"]]

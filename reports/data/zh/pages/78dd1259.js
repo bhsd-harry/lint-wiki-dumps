@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",3,17,"illegal attribute name","s"],["unmatched-tag",13,92,"unmatched closing tag","</span>"],["unmatched-tag",59,10,"unmatched closing tag","</s>"]]

@@ -1,1 +1,1 @@
-window.data=[["fostered-content",1327,1,"content to be moved out from the table"," }\n\n 本文包含依照時間順序排列的著名電影列表，其中[[人工智慧]]作為主角或電影的重要組成部分。\n\n\n\n [[Category:人工智能题材电影]]"],["unclosed-table",1,1,"unclosed table","{|"]]
+window.data=[["fostered-content",1328,1,"content to be moved out from the table"," }\n\n 本文包含依照時間順序排列的著名電影列表，其中[[人工智慧]]作為主角或電影的重要組成部分。\n\n\n\n [[Category:人工智能题材电影]]"],["unclosed-table",2,2,"unclosed table","{|"]]

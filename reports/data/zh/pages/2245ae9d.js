@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",82,197,"unmatched closing tag","</font>"],["unmatched-tag",92,439,"unmatched closing tag","</li>"],["unmatched-tag",106,223,"unmatched closing tag","</li>"],["fostered-content",1031,1,"content to be moved out from the table"," #您認為「三個問題的回答」回答的幫助有多大？明知道別人都還會加問問題為啥一定要回答這三個問題？\n #您對[[Wikipedia:互助客栈|互助客棧]]的使用感覺如何？如果當您提的互助客棧提案都不會通"]]

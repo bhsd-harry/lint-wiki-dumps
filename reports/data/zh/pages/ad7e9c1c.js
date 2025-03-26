@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",7,68,"tag that is both closing and self-closing","</br>"],["lonely-http",108,235,"lonely \"http://\"","http://"],["lonely-apos",387,43,"lonely \"'\"","'"]]

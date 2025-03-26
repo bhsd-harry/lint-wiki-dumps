@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",64,1810,"duplicated parameter","language=台北市 "],["no-duplicate",64,1848,"duplicated parameter","language=en "]]

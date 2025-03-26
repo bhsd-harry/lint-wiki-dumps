@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,3,"duplicated parameter","2=zh-tw:古迪; zh-hk:高迪; zh-cn:古迪;\n "],["no-duplicate",7,3,"duplicated parameter","2=zh-sg:欲望庄园; zh-tw:慾望莊園; zh-hk:故園風雨後; zh-cn:故园风雨后;\n "]]

@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",21,516,"lonely \"[\"","["],["lonely-bracket",21,519,"lonely \"]\"","]"],["no-ignored",61,4,"containing invalid attribute","2022年youtbe（中國信託你理財理你）"]]
+window.data=[["lonely-bracket",21,516,"lonely \"[\"","["],["lonely-bracket",21,519,"lonely \"]\"","]"],["no-ignored",66,4,"containing invalid attribute","2022年youtbe（中國信託你理財理你）"]]

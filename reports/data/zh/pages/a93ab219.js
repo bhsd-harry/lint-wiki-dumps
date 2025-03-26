@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",21,2,"duplicated category","[[Category:蒙古族支系]]"],["no-duplicate",25,2,"duplicated category","[[分类:蒙古族支系]]"]]
+window.data=[["no-duplicate",26,2,"duplicated category","[[Category:蒙古族支系]]"],["no-duplicate",30,2,"duplicated category","[[分类:蒙古族支系]]"]]

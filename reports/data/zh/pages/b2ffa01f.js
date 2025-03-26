@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",696,62,"lonely \"]\"","]"],["no-ignored",974,54,"containing invalid attribute","亂馬是男是女"]]
+window.data=[["no-ignored",1045,54,"containing invalid attribute","亂馬是男是女"]]

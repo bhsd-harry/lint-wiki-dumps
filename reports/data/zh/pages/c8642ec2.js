@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",17,182,"unmatched closing tag","</span>"],["invalid-gallery",74,33,"invalid image parameter","220px"],["invalid-gallery",74,39,"invalid image parameter","缩略图"]]

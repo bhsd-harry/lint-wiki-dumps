@@ -1,0 +1,1 @@
+window.data=[["invalid-css",95,168,"property value expected","#FDF5E"],["invalid-css",95,189,"{ expected",";"],["invalid-css",95,182,"identifier expected","#4682B4"],["invalid-css",95,204,"{ expected","1px"],["lonely-http",188,34,"lonely \"http://\"","http://"]]

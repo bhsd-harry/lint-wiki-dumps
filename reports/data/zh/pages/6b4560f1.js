@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",13,92,"unmatched closing tag","</span>"],["unescaped",150,118,"unescaped query string in an anonymous parameter","="]]

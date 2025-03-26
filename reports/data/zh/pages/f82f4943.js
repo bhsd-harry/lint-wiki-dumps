@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",83,2,"duplicated category","[[Category:2024年軟體]]"],["no-duplicate",86,2,"duplicated category","[[Category:2024年軟體]]"],["no-duplicate",84,2,"duplicated category","[[Category:蘋果公司軟體]]"],["no-duplicate",88,2,"duplicated category","[[Category:蘋果公司軟體]]"]]
+window.data=[["no-duplicate",82,2,"duplicated category","[[Category:2024年軟體]]"],["no-duplicate",85,2,"duplicated category","[[Category:2024年軟體]]"],["no-duplicate",83,2,"duplicated category","[[Category:蘋果公司軟體]]"],["no-duplicate",87,2,"duplicated category","[[Category:蘋果公司軟體]]"]]

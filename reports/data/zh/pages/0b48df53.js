@@ -1,0 +1,1 @@
+window.data=[["no-ignored",12,1,"invalid parameter of <inputbox>"," type=fulltext"],["no-ignored",13,1,"invalid parameter of <inputbox>"," prefix=維基百科:每週記事/"],["no-ignored",14,1,"invalid parameter of <inputbox>"," buttonlabel=每週記事全文搜索"],["no-ignored",15,1,"invalid parameter of <inputbox>"," break=no"],["no-ignored",16,1,"invalid parameter of <inputbox>"," "]]

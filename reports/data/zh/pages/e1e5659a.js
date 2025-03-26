@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",303,45,"illegal attribute name","xml:lang"],["unmatched-tag",314,170,"unmatched closing tag","</span>"],["invalid-css",344,133,"semi-colon expected",""],["invalid-css",344,125,"colon expected","="]]

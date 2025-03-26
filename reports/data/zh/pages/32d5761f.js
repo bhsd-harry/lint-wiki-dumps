@@ -1,0 +1,1 @@
+window.data=[["invalid-css",49,151,"property value expected","#"],["lonely-http",125,45,"lonely \"https://\"","https://"],["lonely-http",449,68,"lonely \"https://\"","https://"],["unmatched-tag",538,295,"tag that is both closing and self-closing","</br>"],["unmatched-tag",538,547,"tag that is both closing and self-closing","</br>"]]

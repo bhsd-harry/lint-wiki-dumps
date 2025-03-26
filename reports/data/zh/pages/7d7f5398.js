@@ -1,0 +1,1 @@
+window.data=[["lonely-http",12,14,"lonely \"https://\"","https://"],["illegal-attr",27,25,"illegal attribute name","sytle"],["lonely-bracket",38,3,"lonely \"}\"","}}"]]

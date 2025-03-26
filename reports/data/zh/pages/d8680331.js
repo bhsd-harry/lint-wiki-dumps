@@ -1,0 +1,1 @@
+window.data=[["invalid-css",8,61,"semi-colon expected",""],["invalid-css",8,61,"colon expected",""],["illegal-attr",15,32,"illegal attribute name","direction:"],["no-ignored",15,42,"containing invalid attribute"," ltr\""]]

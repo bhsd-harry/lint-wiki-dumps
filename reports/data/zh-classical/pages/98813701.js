@@ -1,0 +1,1 @@
+window.data=[["fostered-content",3,1,"content to be moved out from the table"," *[[Wikipedia:詩詞賞析/二千九年第一周|醜奴兒　辛棄疾]]（二〇〇九年第一周）\n *[[Wikipedia:詩詞賞析/二千九年第二周|燕詩　示劉叟　白居易]]（二〇〇九年第二周）\n *["]]

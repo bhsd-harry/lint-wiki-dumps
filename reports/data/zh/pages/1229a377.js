@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",742,156,"illegal attribute name","font"],["illegal-attr",742,185,"illegal attribute name","font"],["no-duplicate",742,156,"duplicated font attribute","font"],["no-duplicate",742,185,"duplicated font attribute","font"]]

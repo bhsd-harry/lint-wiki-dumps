@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",30,3,"duplicated parameter"," opened = 2019年12月26日\n "],["no-duplicate",35,3,"duplicated parameter"," opened = \n "],["no-duplicate",31,3,"duplicated parameter"," closed =\n "],["no-duplicate",36,3,"duplicated parameter"," closed =\n "]]

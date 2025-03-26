@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",192,31,"duplicated image caption parameter","upright=1.2<!--fmt for low image-->"],["no-duplicate",192,72,"duplicated image caption parameter","用軟木製成嘅屋頂桁架"]]

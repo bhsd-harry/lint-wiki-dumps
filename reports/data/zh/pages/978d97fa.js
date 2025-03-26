@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",91,57,"illegal attribute name","xml:lang"],["lonely-http",114,108,"lonely \"http://\"","http://"],["lonely-bracket",414,5,"lonely \"[\"","[["],["lonely-bracket",414,8,"lonely \"]\"","]]"],["lonely-bracket",443,93,"lonely \"]\"","]"],["lonely-http",510,19,"lonely \"http://\"","http://"],["invalid-css",1215,105,"colon expected",";"]]

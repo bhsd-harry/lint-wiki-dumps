@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,31,"duplicated category","[[Category:Group屬性錯誤的頁面{{!}}*]]"],["no-duplicate",2,68,"duplicated category","[[Category:Group屬性錯誤的頁面{{!}}{{NAMESPACE}}]]"]]

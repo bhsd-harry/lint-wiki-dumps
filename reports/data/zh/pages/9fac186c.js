@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",72,76,"lonely \"[\"","["],["lonely-bracket",72,170,"lonely \"]\"","]"],["no-duplicate",21,1401,"duplicated category","[[Category:引文格式1错误：日期]]"],["no-duplicate",21,2677,"duplicated category","[[Category:引文格式1错误：日期]]"]]

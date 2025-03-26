@@ -1,0 +1,1 @@
+window.data=[["invalid-css",52,431,"colon expected",";"],["lonely-http",355,7,"lonely \"http://\"","http://"],["lonely-http",355,89,"lonely \"http://\"","http://"],["lonely-http",355,212,"lonely \"http://\"","http://"],["lonely-bracket",437,36,"lonely \"}\"","}"],["no-ignored",573,22,"containing invalid attribute","  font-family:\"Lucida console\""]]

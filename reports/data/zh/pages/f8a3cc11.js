@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",307,162,"duplicated image caption parameter","alt☺"],["no-duplicate",307,167,"duplicated image caption parameter","link"]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",167,104,"lonely \"'\"","'"],["lonely-apos",167,114,"lonely \"'\"","'"],["lonely-http",265,29,"lonely \"https://\"","https://"],["lonely-http",267,39,"lonely \"https://\"","https://"]]

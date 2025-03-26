@@ -1,0 +1,1 @@
+window.data=[["fostered-content",96,1,"content to be moved out from the table"," {{#if:[[:en:WP:G11]]|{{#if:{{NAMESPACE}}||[[Category:使用抬升式引用的條目]]}}\n {{!}} colspan=\"3\"  class=\"cquo"],["lonely-bracket",140,13,"lonely \"[\"","["],["lonely-bracket",140,147,"lonely \"]\"","]"]]

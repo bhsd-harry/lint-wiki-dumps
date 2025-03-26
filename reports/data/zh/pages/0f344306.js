@@ -1,0 +1,1 @@
+window.data=[["invalid-css",2,36,"term expected",""],["no-ignored",2,37,"containing invalid attribute","#E3E3E3\"  "],["nested-link",215,1034,"internal link in an external link","[[天國樂團]]"],["nested-link",215,1055,"internal link in an external link","[[神韻藝術團]]"]]

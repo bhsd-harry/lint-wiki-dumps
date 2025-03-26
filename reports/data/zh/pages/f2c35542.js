@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",81,3,"lonely \"[\"","[["],["lonely-bracket",81,19,"lonely \"]\"","]]"],["lonely-bracket",220,46,"lonely \"}\"","}}"],["illegal-attr",274,242,"illegal attribute name","font"],["illegal-attr",274,271,"illegal attribute name","font"],["no-duplicate",274,242,"duplicated font attribute","font"],["no-duplicate",274,271,"duplicated font attribute","font"]]

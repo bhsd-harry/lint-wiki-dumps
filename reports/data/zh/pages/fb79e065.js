@@ -1,1 +1,1 @@
-window.data=[["fostered-content",190,1,"content to be moved out from the table"," *2004年 [[周杰倫]] 《[[七里香 (專輯)|七里香]]》 \n *2008年 [[黃靖倫]] 《月光》\n *2011年 [[蕭煌奇]] 《[[孤獨的和弦|只能勇敢]]》\n *2020年 [["],["unclosed-table",188,3,"unclosed table","{|"]]
+window.data=[["fostered-content",192,1,"content to be moved out from the table"," *2004年 [[周杰倫]] 《[[七里香 (專輯)|七里香]]》 \n *2008年 [[黃靖倫]] 《月光》\n *2011年 [[蕭煌奇]] 《[[孤獨的和弦|只能勇敢]]》\n *2020年 [["],["unclosed-table",190,3,"unclosed table","{|"]]

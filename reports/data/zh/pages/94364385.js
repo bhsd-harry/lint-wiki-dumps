@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",975,2,"duplicated category","[[Category:Across Entertainment]]"],["no-duplicate",982,2,"duplicated category","[[Category:Across Entertainment]]"]]
+window.data=[["no-duplicate",979,2,"duplicated category","[[Category:Across Entertainment]]"],["no-duplicate",986,2,"duplicated category","[[Category:Across Entertainment]]"]]

@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",39,140,"unmatched closing tag","</span>"],["unmatched-tag",240,10,"tag that is both closing and self-closing","</br>"],["unmatched-tag",244,15,"tag that is both closing and self-closing","</br>"],["invalid-css",308,140,"semi-colon expected","#000000"],["invalid-css",308,134,"colon expected","color"]]

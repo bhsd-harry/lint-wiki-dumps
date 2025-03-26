@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,15,"duplicated width attribute","width=\"100%\""],["no-duplicate",1,29,"duplicated width attribute","width=\"100%\""]]

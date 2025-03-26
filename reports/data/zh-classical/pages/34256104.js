@@ -1,0 +1,1 @@
+window.data=[["fostered-content",3,1,"content to be moved out from the table"," * [[維基大典:詩詞賞析/二〇一九年第一周|元夕與婦飲　楊維楨]]（二〇一九年第一周）\n * [[維基大典:詩詞賞析/二〇一九年第二周|戲答元珍　歐陽修]]（二〇一九年第二周）\n * [[維基大典"]]

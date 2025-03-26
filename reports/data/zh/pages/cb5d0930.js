@@ -1,0 +1,1 @@
+window.data=[["invalid-css",7,59,"colon expected",";"],["no-ignored",13,31,"containing invalid attribute"," direction:ltr;\""],["unmatched-tag",455,14,"unmatched closing tag","</div>"],["unmatched-tag",455,20,"unmatched closing tag","</div>"],["unmatched-tag",455,26,"unmatched closing tag","</div>"],["unmatched-tag",455,32,"unmatched closing tag","</div>"]]

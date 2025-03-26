@@ -1,1 +1,1 @@
-window.data=[["no-ignored",1669,3,"containing invalid attribute"," Dokkin♢魔法つかいプリキュア!Part2/魔法アラ・ドーモ!"]]
+window.data=[["no-ignored",1673,3,"containing invalid attribute"," Dokkin♢魔法つかいプリキュア!Part2/魔法アラ・ドーモ!"]]

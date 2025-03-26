@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",42,83,"lonely \"]\"","]"],["lonely-bracket",89,67,"lonely \"]\"","]"],["lonely-bracket",96,38,"lonely \"[\"","[["],["lonely-bracket",98,47,"lonely \"]\"","]"],["lonely-bracket",109,22,"lonely \"]\"","]"],["no-duplicate",177,2,"duplicated category","[[Category:湖南主页模板]]"],["no-duplicate",180,2,"duplicated category","[[Category:湖南主页模板]]"]]

@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",387,3,"duplicated parameter","update=complete\n\n <!--UPDATE standings below (including date)-->\n "],["no-duplicate",390,3,"duplicated parameter","update=complete\n "]]

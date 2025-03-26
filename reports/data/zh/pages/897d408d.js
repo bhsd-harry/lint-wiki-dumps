@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",109,37,"illegal attribute name","xml:lang"],["illegal-attr",109,119,"illegal attribute name","xml:lang"],["invalid-css",172,191,"property value expected","#COC0C0"],["invalid-css",172,227,"{ expected",";"]]

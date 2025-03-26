@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",198,1459,"duplicated category","[[Category:CS1英语来源 (en)]]"],["no-duplicate",527,1503,"duplicated category","[[Category:CS1英语来源 (en)]]"]]

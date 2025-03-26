@@ -1,1 +1,1 @@
-window.data=[["fostered-content",179,1,"content to be moved out from the table"," *資料來源：各國統計年報及月報、聯合國統計年鑑、各國及歐洲聯盟統計局網頁。\n *附　　註：\n #離婚率=(離婚對數/年中人口數)*1000。\n #法國2010-2011年為初估或初步統計資料。\n #"]]
+window.data=[["fostered-content",178,1,"content to be moved out from the table"," *資料來源：各國統計年報及月報、聯合國統計年鑑、各國及歐洲聯盟統計局網頁。\n *附　　註：\n #離婚率=(離婚對數/年中人口數)*1000。\n #法國2010-2011年為初估或初步統計資料。\n #"]]

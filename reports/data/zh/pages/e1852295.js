@@ -1,0 +1,1 @@
+window.data=[["nested-link",464,50,"internal link in an external link","[[d:Q115870510|LGBT+ identity<small>  (Q115870510)</small>]]"],["unmatched-tag",653,2,"unmatched closing tag","</div>"]]

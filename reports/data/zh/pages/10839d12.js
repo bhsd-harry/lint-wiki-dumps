@@ -1,0 +1,1 @@
+window.data=[["nested-link",394,77,"internal link in an external link","[[d:Q16957|東德<small>  (Q16957)</small>]]"],["nested-link",394,122,"internal link in an external link","[[d:Q713750|西德<small>  (Q713750)</small>]]"]]

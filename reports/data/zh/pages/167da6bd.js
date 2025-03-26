@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",18,3,"duplicated parameter"," manganese_mg=55\n "],["no-duplicate",24,3,"duplicated parameter"," manganese_mg=1.26\n "]]

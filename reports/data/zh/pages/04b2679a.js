@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[分類:日本漫畫改編電影]]"],["no-duplicate",3,2,"duplicated category","[[Category:日本漫畫改編電影]]"],["no-duplicate",2,2,"duplicated category","[[Category:漫畫改編真人電影]]"],["no-duplicate",4,2,"duplicated category","[[Category:漫畫改編真人電影]]"]]

@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",1034,2,"duplicated category","[[Category:密歇根大學| ]]"],["no-duplicate",1038,2,"duplicated category","[[Category:密歇根大學]]"]]
+window.data=[["no-duplicate",1035,2,"duplicated category","[[Category:密歇根大學| ]]"],["no-duplicate",1039,2,"duplicated category","[[Category:密歇根大學]]"]]

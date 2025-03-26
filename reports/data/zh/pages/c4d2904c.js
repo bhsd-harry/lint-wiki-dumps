@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",63,2,"duplicated category","[[Category:李姓]]"],["no-duplicate",64,2,"duplicated category","[[Category:李姓]]"]]

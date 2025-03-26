@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[分類:清朝四川知縣|順慶府]]"],["no-duplicate",2,2,"duplicated category","[[分類:清朝四川知縣|綏定府]]"]]

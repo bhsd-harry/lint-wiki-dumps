@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",10,3,"duplicated parameter"," 曾用车次   = \n "],["no-duplicate",12,3,"duplicated parameter"," 曾用车次  = 1143/2、1144/1次\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter"," 曾用车次 = \n "],["no-duplicate",12,3,"duplicated parameter"," 曾用车次 = 1143/2、1144/1次\n "]]

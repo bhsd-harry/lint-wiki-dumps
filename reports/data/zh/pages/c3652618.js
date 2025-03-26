@@ -1,1 +1,1 @@
-window.data=[["fostered-content",50,1,"content to be moved out from the table"," *時刻表僅供參考，請以[[豐原客運]]網站公告為準。"]]
+window.data=[["fostered-content",50,1,"content to be moved out from the table"," *時刻表僅供參考，請以[[豐原客運]]網站公告為準。\n *時刻表更新日期為2025年3月7日。"]]

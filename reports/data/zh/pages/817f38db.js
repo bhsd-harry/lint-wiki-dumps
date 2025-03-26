@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",7,3,"duplicated parameter","tw_name = 五日戰爭\n "],["no-duplicate",24,3,"duplicated parameter"," tw_name = 五日戰爭\n "]]

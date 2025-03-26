@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",11,23,"duplicated parameter"," tradename          = \n "],["no-duplicate",14,3,"duplicated parameter"," tradename          = 开文通（Cavinton）<ref name=MedEx/>、多力康、泰力平等\n\n "]]

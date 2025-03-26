@@ -1,1 +1,1 @@
-window.data=[["fostered-content",6,1,"content to be moved out from the table"," {{{image|}}} "],["lonely-bracket",70,154,"lonely \"}\"","}"]]
+window.data=[["lonely-bracket",70,154,"lonely \"}\"","}"]]

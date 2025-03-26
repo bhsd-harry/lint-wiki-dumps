@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",47,4,"lonely \"[\"","[["],["lonely-bracket",47,33,"lonely \"]\"","]]"],["lonely-bracket",440,59,"lonely \"[\"","[["],["lonely-http",807,20,"lonely \"ISBN\"","ISBN"],["no-ignored",852,4,"containing invalid attribute"," font-size:\"smaller;\""],["unmatched-tag",982,2,"unmatched closing tag","</table>"],["unclosed-table",908,2,"unclosed table","{|"]]

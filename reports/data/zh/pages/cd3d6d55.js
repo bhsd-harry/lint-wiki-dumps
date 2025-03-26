@@ -1,1 +1,1 @@
-window.data=[["invalid-css",63,68,"property value expected",";"],["invalid-css",1111,49,"property value expected",";"]]
+window.data=[["invalid-css",63,68,"property value expected",";"],["unmatched-tag",84,29,"tag that is both closing and self-closing","</br>"],["invalid-css",1661,49,"property value expected",";"],["invalid-css",2466,49,"property value expected",";"]]

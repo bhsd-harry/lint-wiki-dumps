@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",184,2,"duplicated category","[[Category:美國劇情電視劇]]"],["no-duplicate",187,2,"duplicated category","[[Category:美國劇情電視劇]]"]]
+window.data=[["no-duplicate",181,2,"duplicated category","[[Category:美國劇情電視劇]]"],["no-duplicate",184,2,"duplicated category","[[Category:美國劇情電視劇]]"]]

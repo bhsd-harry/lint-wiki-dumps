@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",114,78,"duplicated parameter","ref=石2007c"],["no-duplicate",114,89,"duplicated parameter","ref=石2007b"]]
+window.data=[["no-duplicate",118,78,"duplicated parameter","ref=石2007c"],["no-duplicate",118,89,"duplicated parameter","ref=石2007b"]]

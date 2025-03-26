@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[Category:1993年欧洲体育]]"],["no-duplicate",6,2,"duplicated category","[[Category:1993年欧洲体育]]"]]

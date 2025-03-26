@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,28,"duplicated image right parameter","right"],["no-duplicate",1,40,"duplicated image right parameter","right"]]

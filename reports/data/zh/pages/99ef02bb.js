@@ -1,0 +1,1 @@
+window.data=[["fostered-content",4,1,"content to be moved out from the table"," [[File:Solidarity.png|border|100px|left]] "]]

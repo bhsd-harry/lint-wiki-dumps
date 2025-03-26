@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",157,199,"duplicated parameter","3loc=第34頁至第36頁"],["no-duplicate",157,225,"duplicated parameter","3loc=第1頁至第29頁、第75頁至第76頁、第107頁至第110頁、第171頁至第177頁、第242頁至第243頁、第476頁至第477頁"]]

@@ -1,0 +1,1 @@
+window.data=[["fostered-content",3,1,"content to be moved out from the table"," *[[Wikipedia:詩詞賞析/二千八年第一周|詩經周南關睢三章]]（二〇〇八年第一周）\n *[[Wikipedia:詩詞賞析/二千八年第二周|楚辭離騷經　節錄一　周屈原]]（二〇〇八年第二周）"]]

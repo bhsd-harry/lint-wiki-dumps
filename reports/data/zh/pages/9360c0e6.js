@@ -1,0 +1,1 @@
+window.data=[["invalid-css",1,71,"property value expected","#white"],["invalid-css",1,97,"{ expected",";"],["invalid-css",1,112,"identifier expected","2px"],["invalid-css",1,129,"{ expected",":"],["unclosed-table",1,1,"unclosed table","{|"]]

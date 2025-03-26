@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",11,3,"duplicated parameter"," next_mps  = 马来西亚第12届国会议员列表\n "],["no-duplicate",18,3,"duplicated parameter"," next_mps           = 马来西亚第12届国会议员列表\n\n <!-- 国阵 -->\n "]]

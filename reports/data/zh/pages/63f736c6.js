@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,3,"duplicated parameter","4=zh-cn:推移; zh-sg:过度;  zh-tw:衍變; zh-hk:過渡;\n "],["no-duplicate",7,3,"duplicated parameter","4=zh-hans:划; zh-hant:畫\n "]]

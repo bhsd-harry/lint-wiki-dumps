@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",68,2,"duplicated category","[[Category:旗帜模板|{{PAGENAME}}]]"],["no-duplicate",83,2,"duplicated category","[[Category:旗帜模板|{{PAGENAME}}]]"]]
+window.data=[["no-duplicate",69,2,"duplicated category","[[Category:旗帜模板|{{PAGENAME}}]]"],["no-duplicate",84,2,"duplicated category","[[Category:旗帜模板|{{PAGENAME}}]]"]]

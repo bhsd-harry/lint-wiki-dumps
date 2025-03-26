@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",29,2,"duplicated category","[[Category:明朝市舶司提舉]]"],["no-duplicate",32,2,"duplicated category","[[Category:明朝市舶司提舉]]"]]
+window.data=[["no-duplicate",30,2,"duplicated category","[[Category:明朝市舶司提舉]]"],["no-duplicate",33,2,"duplicated category","[[Category:明朝市舶司提舉]]"]]

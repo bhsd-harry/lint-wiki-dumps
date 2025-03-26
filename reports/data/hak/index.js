@@ -1,1 +1,1 @@
-window.data=[["illegal-attr",17],["invalid-css",3],["invalid-gallery",1],["lonely-apos",6],["lonely-bracket",30],["nested-link",1],["no-duplicate",33],["no-ignored",9],["tag-like",5],["unclosed-table",2],["unescaped",1],["unmatched-tag",77]]
+window.data=[["fostered-content",1],["illegal-attr",18],["invalid-css",5],["invalid-gallery",1],["lonely-apos",6],["lonely-bracket",35],["nested-link",1],["no-duplicate",34],["no-ignored",12],["tag-like",6],["unclosed-table",3],["unescaped",1],["unmatched-tag",87]]

@@ -1,0 +1,1 @@
+window.data=[["invalid-css",75,2,"semi-colon expected",":"],["lonely-bracket",80,34,"lonely \"{\"","{{"],["lonely-bracket",102,33,"lonely \"}\"","}}"],["invalid-gallery",142,40,"invalid image parameter","thumb"],["invalid-gallery",143,40,"invalid image parameter","thumb"],["invalid-gallery",144,51,"invalid image parameter","thumb"]]

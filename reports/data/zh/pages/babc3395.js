@@ -1,0 +1,1 @@
+window.data=[["fostered-content",8,1,"content to be moved out from the table"," [[Category:维基百科版权]]"],["fostered-content",3,1,"content to be moved out from the table"," ==一般条目=="],["unclosed-table",2,2,"unclosed table","{|"]]

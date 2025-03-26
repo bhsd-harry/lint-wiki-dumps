@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",413,41,"illegal attribute name","color"],["illegal-attr",413,106,"illegal attribute name","color"],["invalid-css",2133,171,"colon expected",";"]]

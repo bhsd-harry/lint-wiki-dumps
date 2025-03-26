@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",2029,9,"lonely \"{\"","{{"],["no-ignored",2029,3,"containing invalid attribute","幕後和音配唱{{notetag"]]
+window.data=[["lonely-bracket",2036,9,"lonely \"{\"","{{"],["no-ignored",2036,3,"containing invalid attribute","幕後和音配唱{{notetag"]]

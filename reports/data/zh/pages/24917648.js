@@ -1,0 +1,1 @@
+window.data=[["invalid-css",47,200,"semi-colon expected",":"],["illegal-attr",153,143,"illegal attribute name","xml:lang"],["illegal-attr",169,258,"illegal attribute name","xml:lang"],["illegal-attr",237,209,"illegal attribute name","xml:lang"],["lonely-http",441,29,"lonely \"http://\"","http://"]]

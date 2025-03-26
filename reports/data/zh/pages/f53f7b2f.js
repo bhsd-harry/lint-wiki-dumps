@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",118,2,"duplicated category","[[Category:韓語流行音樂歌手|E]]"],["no-duplicate",122,2,"duplicated category","[[Category:韓語流行音樂歌手|K]]"]]

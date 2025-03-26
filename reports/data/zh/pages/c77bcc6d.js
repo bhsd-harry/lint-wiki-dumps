@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",11,3,"duplicated parameter","decay_product = {{SimpleNuclide2|nickel|60}}\n "],["no-duplicate",21,3,"duplicated parameter","decay_product= 鎳-64\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","decay_product = {{SimpleNuclide2|nickel|60}}\n "],["no-duplicate",20,3,"duplicated parameter","decay_product= 鎳-64\n "]]

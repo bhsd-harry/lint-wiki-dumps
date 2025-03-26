@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",55,336,"lonely \"[\"","[["]]
+window.data=[["no-duplicate",187,17,"duplicated parameter","ref=harv"],["no-duplicate",187,189,"duplicated parameter"," ref={{sfnref|Cambridge Univ. Press|2003}}"]]

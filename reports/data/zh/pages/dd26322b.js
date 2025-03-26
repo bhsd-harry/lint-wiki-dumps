@@ -1,0 +1,1 @@
+window.data=[["insecure-style",162,105,"insecure style","background: url(chrome-extension://immhpnclomdloikkpcefncmfgjbkojmh/emoji-data/sheet_apple_64.png);b"]]

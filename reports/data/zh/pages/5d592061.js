@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",31,86,"duplicated image caption parameter","350"],["no-duplicate",31,90,"duplicated image caption parameter","康乐园卫星图（1966年）"]]

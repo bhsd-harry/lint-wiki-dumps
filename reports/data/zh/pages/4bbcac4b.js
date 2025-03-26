@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",28,30,"duplicated image caption parameter","centr"],["no-duplicate",28,42,"duplicated image caption parameter","鸡形陶壶，出土自[[元谋大墩子遗址]]，藏于[[云南省博物馆]]"]]

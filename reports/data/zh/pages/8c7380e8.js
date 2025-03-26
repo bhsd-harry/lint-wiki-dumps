@@ -1,0 +1,1 @@
+window.data=[["invalid-css",1,117,"semi-colon expected","1px"],["invalid-css",1,111,"colon expected","width"],["invalid-css",1,140,"{ expected",";"],["unclosed-table",1,1,"unclosed table","{|"]]

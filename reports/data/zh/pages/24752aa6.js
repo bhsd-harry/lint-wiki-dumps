@@ -1,0 +1,1 @@
+window.data=[["no-ignored",188,118,"attributes of a closing tag"," color"],["illegal-attr",551,106,"illegal attribute name","xml:lang"]]

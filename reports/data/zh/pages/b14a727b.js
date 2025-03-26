@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",22,3,"duplicated parameter","engine_power=320 hp\n "],["no-duplicate",24,3,"duplicated parameter","engine_power= 360 hp\n "]]

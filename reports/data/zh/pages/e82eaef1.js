@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",7,2,"duplicated category","[[Category:保加利亞小作品|地]]"],["no-duplicate",8,2,"duplicated category","[[Category:保加利亞小作品]]"]]

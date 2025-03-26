@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:中非共和國文化]]"],["no-duplicate",6,2,"duplicated category","[[Category:中非共和國文化]]"]]

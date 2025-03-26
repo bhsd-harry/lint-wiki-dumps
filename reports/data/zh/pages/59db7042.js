@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",31,4,"duplicated bgcolor attribute","bgcolor=\"#FFFCE1\""],["no-duplicate",31,23,"duplicated bgcolor attribute","bgcolor= colspan=10"],["lonely-apos",99,64,"lonely \"'\"","'"],["invalid-css",165,259,"property value expected","#"],["invalid-css",483,259,"property value expected","#"]]

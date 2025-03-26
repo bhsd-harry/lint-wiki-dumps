@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",24,88,"tag that is both closing and self-closing","</br>"],["no-ignored",132,3,"containing invalid attribute","!width=15%"]]

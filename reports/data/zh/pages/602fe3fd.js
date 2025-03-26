@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",28,3,"duplicated parameter"," regent2 = [[查理五世 (神圣罗马帝国)|卡洛斯一世]]（1516年—1556年在位）\n "],["no-duplicate",30,3,"duplicated parameter"," regent2      = 卡洛斯一世\n "],["invalid-isbn",207,87,"invalid ISBN","ISBN 84-7737-206-6"]]
+window.data=[["no-duplicate",28,3,"duplicated parameter"," regent2 = [[查理五世 (神圣罗马帝国)|卡洛斯一世]]（1516年—1556年在位）\n "],["no-duplicate",30,3,"duplicated parameter"," regent2      = 卡洛斯一世\n "],["invalid-isbn",211,87,"invalid ISBN","ISBN 84-7737-206-6"]]

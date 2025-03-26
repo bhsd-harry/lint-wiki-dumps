@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",73,46,"duplicated image caption parameter","替代文字"],["no-duplicate",73,54,"duplicated image caption parameter","中華民國兮國旗"]]

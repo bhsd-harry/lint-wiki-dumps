@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:美国政治家族]]"],["no-duplicate",6,2,"duplicated category","[[Category:美国政治家族]]"]]

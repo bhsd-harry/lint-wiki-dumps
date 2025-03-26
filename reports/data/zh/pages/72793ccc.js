@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",5,3,"duplicated parameter","zh-tw:愚蠢年代;zh-cn:愚昧年代;\n "],["no-duplicate",3,3,"duplicated parameter","1=zh-cn:壳牌; zh-tw:殼牌; zh-hk:蜆殼; zh-sg:蚬壳;\n "]]

@@ -1,0 +1,1 @@
+window.data=[["invalid-css",63,78,"colon expected",";"],["illegal-attr",90,212,"illegal attribute name","face"],["invalid-css",142,173,"semi-colon expected","Comic"],["invalid-css",142,166,"colon expected","family"],["invalid-css",142,197,"identifier expected","14pt"]]

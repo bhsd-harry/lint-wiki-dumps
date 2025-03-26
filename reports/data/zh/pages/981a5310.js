@@ -1,0 +1,1 @@
+window.data=[["invalid-css",308,741,"colon expected","="],["invalid-css",308,866,"colon expected","="],["lonely-bracket",353,140,"lonely \"}\"","}}"],["no-duplicate",475,66,"duplicated category","[[Category:含有电话号码的条目]]"],["no-duplicate",475,155,"duplicated category","[[Category:含有电话号码的条目]]"]]

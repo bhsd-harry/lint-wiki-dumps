@@ -1,1 +1,1 @@
-window.data=[["fostered-content",119,1,"content to be moved out from the table","\n == 人口历史 ==\n ===人口===\n 根据现代分析，人类在大约公元前七万年遭遇了[[种群瓶颈]]。起因可能是印尼[[苏门达腊岛]]北部的[[多峇巨灾理论|多峇湖大型火山爆发]]造成的巨灾所影"],["unclosed-table",75,2,"unclosed table","{|"]]
+window.data=[["fostered-content",120,1,"content to be moved out from the table","\n == 人口历史 ==\n ===人口===\n 根据现代分析，人类在大约公元前七万年遭遇了[[种群瓶颈]]。起因可能是印尼[[苏门达腊岛]]北部的[[多峇巨灾理论|多峇湖大型火山爆发]]造成的巨灾所影"],["unclosed-table",76,2,"unclosed table","{|"]]

@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",11,3,"duplicated parameter","area        = 30,000平方公尺\n "],["no-duplicate",17,3,"duplicated parameter","area=3公頃（30,000平方公尺）\n "]]
+window.data=[["no-duplicate",10,3,"duplicated parameter","area        = 30,000平方公尺\n "],["no-duplicate",16,3,"duplicated parameter","area=3公頃（30,000平方公尺）\n "]]

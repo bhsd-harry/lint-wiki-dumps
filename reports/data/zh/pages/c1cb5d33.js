@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",16,3,"duplicated parameter"," 性別 = 男\n "],["no-duplicate",26,3,"duplicated parameter"," 性別 = 男\n "],["no-duplicate",17,3,"duplicated parameter"," 民族 = [[汉族]]\n "],["no-duplicate",27,3,"duplicated parameter"," 民族 = [[汉族]]\n "]]

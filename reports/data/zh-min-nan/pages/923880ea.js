@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",106,2,"duplicated category","[[Category:Tiong-hôa Bîn-kok tiong-iong chèng-hú ki-koan|L]]"],["no-duplicate",107,2,"duplicated category","[[Category:Tiong-hôa Bîn-kok tiong-iong chèng-hú ki-koan|L]]"]]

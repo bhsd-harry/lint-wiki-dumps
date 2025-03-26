@@ -1,0 +1,1 @@
+window.data=[["invalid-css",7,74,"colon expected","="],["unclosed-table",4,2,"unclosed table","{|"]]

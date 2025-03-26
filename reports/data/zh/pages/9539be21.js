@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",71,143,"duplicated parameter","date=2025-03-05 "],["no-duplicate",71,170,"duplicated parameter","date=2025-03-05 "],["invalid-css",82,56,"property value expected","#black"]]

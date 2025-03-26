@@ -1,0 +1,1 @@
+window.data=[["invalid-css",149,154,"colon expected","="],["invalid-css",149,274,"colon expected","="],["invalid-css",156,154,"colon expected","="],["invalid-css",156,274,"colon expected","="],["tag-like",276,84,"lonely \"<\"","</nowiki"]]

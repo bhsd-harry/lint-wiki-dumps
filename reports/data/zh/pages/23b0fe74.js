@@ -1,0 +1,1 @@
+window.data=[["lonely-http",78,83,"lonely \"https://\"","https://"],["lonely-bracket",242,32,"lonely \"}\"","}"],["unmatched-tag",299,75,"unmatched closing tag","</span>"],["invalid-css",300,88,"} expected",""],["invalid-css",300,88,"{ expected",""]]

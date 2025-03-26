@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,58,"duplicated image caption parameter","400"],["no-duplicate",2,62,"duplicated image caption parameter","20190630 維基X頑石劇團 藝術與維基編輯課程"]]

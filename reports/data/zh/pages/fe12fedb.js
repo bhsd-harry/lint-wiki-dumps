@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",22,13,"duplicated category","[[Category:特色圖片評選]]"],["no-duplicate",47,13,"duplicated category","[[Category:特色圖片評選]]"],["no-duplicate",22,33,"duplicated category","[[Category:特色圖片評選/2014年6月 ]]"],["no-duplicate",47,33,"duplicated category","[[Category:特色圖片評選/2014年6月 ]]"]]

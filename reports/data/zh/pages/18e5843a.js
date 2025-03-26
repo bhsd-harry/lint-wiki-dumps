@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",8,3,"duplicated parameter","3=zh-hans:注册表; zh-hant:登錄檔;\n "],["no-duplicate",9,3,"duplicated parameter","3=zh-hans:键; zh-hant:機碼;\n "]]

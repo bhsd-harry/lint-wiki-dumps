@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",12,72,"duplicated image caption parameter","destra"],["no-duplicate",12,79,"duplicated image caption parameter","内部"],["no-duplicate",13,71,"duplicated image caption parameter","destra"],["no-duplicate",13,78,"duplicated image caption parameter","正祭台"]]

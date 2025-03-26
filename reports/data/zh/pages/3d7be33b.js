@@ -1,0 +1,1 @@
+window.data=[["no-ignored",5,109,"containing invalid attribute","{{#switch:{{{3|}}} | 特色=A1 | 特色列表=A2 | 甲=B | 优良=C | 乙=D | 丙=E | 初=F | 小作品=G | 列表=H | #default=Z}}\""]]

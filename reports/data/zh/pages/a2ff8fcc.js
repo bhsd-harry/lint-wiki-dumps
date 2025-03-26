@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",50,213,"illegal attribute name","xml:lang"],["invalid-css",239,330,"} expected",";"],["nested-link",246,321,"internal link in an external link","[[user:kiyokoakiyama|kiyokoakiyama]]"]]

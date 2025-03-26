@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",21,3,"duplicated parameter","備註       = 無人站\n "],["no-duplicate",28,3,"duplicated parameter","備註       = 無人站\n "]]

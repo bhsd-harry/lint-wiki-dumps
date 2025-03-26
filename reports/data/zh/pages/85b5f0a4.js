@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",160,69,"duplicated image width parameter","25px"],["no-duplicate",160,74,"duplicated image width parameter","25px"],["unmatched-tag",232,61,"unmatched closing tag","</span>"]]
+window.data=[["unmatched-tag",232,61,"unmatched closing tag","</span>"]]

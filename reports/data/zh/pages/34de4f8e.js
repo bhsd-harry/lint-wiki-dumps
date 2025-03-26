@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",12,2,"duplicated category","[[Cat:中华全国新闻工作者协会副主席]]"],["no-duplicate",19,2,"duplicated category","[[Cat:中华全国新闻工作者协会副主席]]"]]
+window.data=[["no-duplicate",17,2,"duplicated category","[[Category:中华全国新闻工作者协会副主席]]"],["no-duplicate",20,2,"duplicated category","[[Category:中华全国新闻工作者协会副主席]]"]]

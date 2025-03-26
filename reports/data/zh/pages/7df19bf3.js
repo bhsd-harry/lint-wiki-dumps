@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",92,53,"duplicated image caption parameter","rihgt"],["no-duplicate",92,65,"duplicated image caption parameter","[[克里斯蒂安堡宮]]是丹麥君主諸多官方活動的舉辦場所。"]]

@@ -1,1 +1,0 @@
-window.data=[["fostered-content",54,1,"content to be moved out from the table","\n ==聚落==\n 本地區發展較早的聚落有下崩崁、上崩崁（頂崩崁）、山背（山後）、楊寮、牛埔仔、水頭、上北勢、水尾(部分)等，在日治期初期的官方地圖上已有記載。其後因本地區北部緊臨[[中壢老街]]<r"],["unclosed-table",23,2,"unclosed table","{|"]]

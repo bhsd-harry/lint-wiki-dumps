@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",87,87,"duplicated image caption parameter","Right"],["no-duplicate",87,93,"duplicated image caption parameter","[[昆士蘭州]]城市[[凱恩斯 (昆士蘭州)|凱恩斯]]附近的原住民傳統領域"]]

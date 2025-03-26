@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",54,2,"duplicated category","[[Category:明朝雲南按察使]]"],["no-duplicate",59,2,"duplicated category","[[Category:明朝雲南按察使]]"]]

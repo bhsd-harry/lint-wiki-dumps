@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,3,"duplicated parameter","1=zh-hans:电脑;zh-hant:電腦\n "],["no-duplicate",5,3,"duplicated parameter","1=zh-hans:快速计算链接;zh-hant:快速運算連結\n "]]

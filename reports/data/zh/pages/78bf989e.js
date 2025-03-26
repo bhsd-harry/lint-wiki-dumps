@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[Category:崇禎十二年己卯科舉人]]"],["no-duplicate",2,2,"duplicated category","[[Category:崇禎十二年己卯科舉人|貴]]"]]

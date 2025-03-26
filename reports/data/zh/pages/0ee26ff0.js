@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,33,"duplicated image caption parameter","Right"],["no-duplicate",3,45,"duplicated image caption parameter","图中左侧的维基人并不诚实。他在背后藏了两张牌。"]]

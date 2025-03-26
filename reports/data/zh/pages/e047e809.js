@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",15,2,"duplicated category","[[Category:2010年代馬來西亞]]"],["no-duplicate",17,2,"duplicated category","[[Category:2010年代馬來西亞]]"]]

@@ -1,0 +1,1 @@
+window.data=[["fostered-content",8,1,"content to be moved out from the table"," <noinclude>[[Category:台灣維基人模板]]</noinclude>"]]

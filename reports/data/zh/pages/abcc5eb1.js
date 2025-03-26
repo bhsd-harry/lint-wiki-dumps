@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[Category:中国省级非物质文化遗产]]"],["no-duplicate",1,25,"duplicated category","[[Category:中国省级非物质文化遗产]]"]]

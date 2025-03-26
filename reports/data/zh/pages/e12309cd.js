@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",10,3,"duplicated parameter"," bp         = Sīn Siǒgēláng／Siǒgēláng Sīnzn̄g\n "],["no-duplicate",11,3,"duplicated parameter"," bp         = \n "]]

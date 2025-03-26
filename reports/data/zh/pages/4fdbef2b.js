@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",763,2,"duplicated category","[[Category:2024年夏季奥林匹克运动会羽毛球运动员]]"],["no-duplicate",764,2,"duplicated category","[[Category:2024年夏季奥林匹克运动会羽毛球运动员]]"]]
+window.data=[["no-duplicate",775,2,"duplicated category","[[Category:2024年夏季奥林匹克运动会羽毛球运动员]]"],["no-duplicate",776,2,"duplicated category","[[Category:2024年夏季奥林匹克运动会羽毛球运动员]]"]]

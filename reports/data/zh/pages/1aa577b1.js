@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",46,19,"illegal attribute name","xml:lang"],["illegal-attr",47,68,"illegal attribute name","xml:lang"],["no-duplicate",384,1207,"duplicated category","[[Category:有蓝链却未移除内部链接助手模板的页面]]"],["no-duplicate",388,247,"duplicated category","[[Category:有蓝链却未移除内部链接助手模板的页面]]"]]

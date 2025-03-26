@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",2,51,"illegal attribute name","height"],["no-duplicate",2,5,"duplicated border attribute","border=\"5\""],["no-duplicate",2,77,"duplicated border attribute","border=0"]]

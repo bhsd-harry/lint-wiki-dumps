@@ -1,1 +1,1 @@
-window.data=[["unclosed-table",193,2,"unclosed table","{|"],["lonely-bracket",515,258,"lonely \"{\"","{"],["unmatched-tag",611,34,"tag that is both closing and self-closing","</br>"],["lonely-apos",670,20,"lonely \"'\"","'"],["lonely-bracket",704,292,"lonely \"}\"","}"],["tag-like",911,453,"lonely \"<\"","</ref"]]
+window.data=[["unclosed-table",193,2,"unclosed table","{|"],["lonely-bracket",515,258,"lonely \"{\"","{"],["lonely-apos",670,20,"lonely \"'\"","'"],["lonely-bracket",704,292,"lonely \"}\"","}"],["tag-like",911,453,"lonely \"<\"","</ref"]]

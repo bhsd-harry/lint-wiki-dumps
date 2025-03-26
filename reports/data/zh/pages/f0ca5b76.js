@@ -1,0 +1,1 @@
+window.data=[["no-ignored",6,366,"useless fragment","{{{subst|}}}#if:{{{sig|}}}"]]

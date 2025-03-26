@@ -1,0 +1,1 @@
+window.data=[["invalid-css",13,195,"semi-colon expected",":"],["lonely-apos",35,4,"lonely \"'\"","'"]]

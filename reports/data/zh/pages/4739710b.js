@@ -1,0 +1,1 @@
+window.data=[["nested-link",34,233,"internal link in an external link","[[:Template:UrlencodeFile:B'z motel.jpg]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,3,"duplicated parameter"," org/group = <!-- 在此填寫管理或營運此醫院的機構或團體名稱。 -->\n "],["no-duplicate",17,3,"duplicated parameter"," org/group = [[天津市卫生健康委员会]]\n "]]

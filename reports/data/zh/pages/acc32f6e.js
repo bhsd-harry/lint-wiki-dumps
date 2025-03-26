@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",34,3,"duplicated parameter"," mrstage         = Hanpin\n "],["no-duplicate",35,3,"duplicated parameter"," mrstage        =    Hàn Bân\n "]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",330,29,"duplicated image caption parameter","{{#switch:{{CONTENTLANG}}|ar=left|he=left|right}}"],["no-duplicate",330,79,"duplicated image caption parameter",""]]

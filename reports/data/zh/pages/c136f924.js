@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",16,3,"duplicated parameter"," season = 全年\n "],["no-duplicate",22,3,"duplicated parameter"," season = \n "],["lonely-bracket",55,66,"lonely \"]\"","]"]]
+window.data=[["no-duplicate",12,3,"duplicated parameter"," season = 全年\n "],["no-duplicate",18,3,"duplicated parameter"," season = \n "],["lonely-bracket",51,66,"lonely \"]\"","]"]]

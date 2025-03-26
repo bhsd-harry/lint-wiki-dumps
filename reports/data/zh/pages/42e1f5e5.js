@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",15,352,"unmatched closing tag","</small>"],["tag-like",51,290,"lonely \"<\"","<a"],["tag-like",51,368,"lonely \"<\"","<img"],["tag-like",51,780,"lonely \"<\"","</a"],["tag-like",51,889,"lonely \"<\"","<a"],["tag-like",51,1045,"lonely \"<\"","</a"],["lonely-http",165,2,"lonely \"https://\"","https://"]]

@@ -1,1 +1,1 @@
-window.data=[["fostered-content",55,1,"content to be moved out from the table"," *時刻表僅供參考，請以母公司[[統聯客運]]網站公告為準。"],["fostered-content",122,1,"content to be moved out from the table"," *時刻表僅供參考，請以母公司[[統聯客運]]網站公告為準。"],["invalid-gallery",239,38,"invalid image parameter","300px"]]
+window.data=[["fostered-content",52,1,"content to be moved out from the table"," *時刻表僅供參考，請以母公司[[統聯客運]]網站公告為準。"],["fostered-content",178,1,"content to be moved out from the table"," *時刻表僅供參考，請以母公司[[統聯客運]]網站公告為準。"],["invalid-gallery",311,38,"invalid image parameter","300px"]]

@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",104,5,"duplicated style attribute","style=\"background:#FF79BC\""],["no-duplicate",104,33,"duplicated style attribute","style=\"font-weight:bold;\""]]

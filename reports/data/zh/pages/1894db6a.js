@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[分类:1980年代漫画]]"],["no-duplicate",3,2,"duplicated category","[[Category:1980年代漫画]]"]]

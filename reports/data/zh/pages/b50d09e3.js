@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",2,2,"unmatched closing tag","</div>"],["unmatched-tag",83,2,"unmatched closing tag","</div>"],["no-duplicate",217,22,"duplicated image border parameter","border"],["no-duplicate",217,35,"duplicated image border parameter","border"]]

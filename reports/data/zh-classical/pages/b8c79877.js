@@ -1,0 +1,1 @@
+window.data=[["fostered-content",3,1,"content to be moved out from the table"," * [[維基大典:博古櫃/二〇二二年第八週|唐刻印金剛經]]（二〇二二年第八週）\n * [[維基大典:博古櫃/二〇二二年第九週|南宋馬遠團扇畫月下賞梅圖]]（二〇二二年第九週）\n * [[維基大典:"]]

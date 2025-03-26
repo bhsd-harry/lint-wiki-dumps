@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",13,92,"unmatched closing tag","</span>"],["illegal-attr",247,87,"illegal attribute name","font"],["illegal-attr",247,116,"illegal attribute name","font"],["no-duplicate",247,87,"duplicated font attribute","font"],["no-duplicate",247,116,"duplicated font attribute","font"]]

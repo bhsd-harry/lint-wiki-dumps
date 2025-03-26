@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:表演藝術場地]]"],["no-duplicate",6,2,"duplicated category","[[Category:表演藝術場地]]"]]

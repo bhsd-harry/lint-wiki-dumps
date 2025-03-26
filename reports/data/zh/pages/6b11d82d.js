@@ -1,0 +1,1 @@
+window.data=[["invalid-css",100,526,"property value expected","#00000"],["invalid-css",199,709,"property value expected","#00000"],["unmatched-tag",418,45,"unmatched closing tag","</span>"],["no-duplicate",142,216,"duplicated category","[[Category:有蓝链却未移除内部链接助手模板的页面]]"],["no-duplicate",758,214,"duplicated category","[[Category:有蓝链却未移除内部链接助手模板的页面]]"]]

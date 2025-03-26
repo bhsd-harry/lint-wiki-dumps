@@ -1,1 +1,0 @@
-window.data=[["invalid-css",404,37,"property value expected","#black"],["invalid-css",404,61,"{ expected",""]]

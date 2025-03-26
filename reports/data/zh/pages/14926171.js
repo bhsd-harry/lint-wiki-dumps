@@ -1,0 +1,1 @@
+window.data=[["no-ignored",2,1,"invalid parameter of <inputbox>"," type=search"],["no-ignored",3,1,"invalid parameter of <inputbox>"," buttonlabel=转到"],["no-ignored",4,1,"invalid parameter of <inputbox>"," searchbuttonlabel=搜索"],["no-ignored",5,1,"invalid parameter of <inputbox>"," width=25%"],["no-ignored",6,1,"invalid parameter of <inputbox>"," "]]

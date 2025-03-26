@@ -1,1 +1,1 @@
-window.data=[["illegal-attr",41,4,"illegal attribute name","caption"],["lonely-bracket",205,153,"lonely \"{\"","{{"],["lonely-bracket",205,166,"lonely \"}\"","}}"],["lonely-http",206,44,"lonely \"ISBN\"","ISBN"],["lonely-bracket",206,125,"lonely \"}\"","}}"]]
+window.data=[["illegal-attr",40,4,"illegal attribute name","caption"],["lonely-bracket",202,153,"lonely \"{\"","{{"],["lonely-bracket",202,166,"lonely \"}\"","}}"],["lonely-http",203,44,"lonely \"ISBN\"","ISBN"],["lonely-bracket",203,125,"lonely \"}\"","}}"]]

@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",73,2,"duplicated category","[[Category:安葬於新聖女公墓者]]"],["no-duplicate",77,2,"duplicated category","[[Category:安葬於新聖女公墓者]]"]]
+window.data=[["no-duplicate",75,2,"duplicated category","[[Category:安葬於新聖女公墓者]]"],["no-duplicate",79,2,"duplicated category","[[Category:安葬於新聖女公墓者]]"]]

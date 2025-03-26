@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",136,3,"duplicated parameter"," swing8 =\n\n <!-- NI -->"],["no-duplicate",149,3,"duplicated parameter"," swing8 =\n\n "],["no-ignored",1180,20,"containing invalid attribute"," ; text-align:center;\""],["no-ignored",1312,20,"containing invalid attribute"," ; text-align:center;\""]]
+window.data=[["no-ignored",1180,20,"containing invalid attribute"," ; text-align:center;\""],["no-ignored",1312,20,"containing invalid attribute"," ; text-align:center;\""]]

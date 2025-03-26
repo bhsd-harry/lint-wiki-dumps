@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",815,29,"duplicated image caption parameter","{{#switch:{{CONTENTLANG}}|ar=left|he=left|right}}"],["no-duplicate",815,79,"duplicated image caption parameter",""],["lonely-bracket",1812,45,"lonely \"{\"","{{"],["lonely-bracket",1813,44,"lonely \"{\"","{{"],["lonely-http",1883,4,"lonely \"https://\"","https://"]]

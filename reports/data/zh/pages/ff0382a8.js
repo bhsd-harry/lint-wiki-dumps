@@ -1,0 +1,1 @@
+window.data=[["fostered-content",7,1,"content to be moved out from the table","\n\n [[Category:维基百科版权]]"],["unclosed-table",2,2,"unclosed table","{|"]]

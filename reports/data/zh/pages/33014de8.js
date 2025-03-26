@@ -1,1 +1,0 @@
-window.data=[["lonely-bracket",99,19,"lonely \"{\"","{{"],["no-duplicate",99,19,"duplicated image caption parameter","{{:en:Strongylocentrotus droebachiensis"],["no-duplicate",99,59,"duplicated image caption parameter","[[綠海膽]]"]]

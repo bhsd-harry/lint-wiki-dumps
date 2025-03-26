@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",964,2,"duplicated category","[[Category:社会自由主义政党]]"],["no-duplicate",966,2,"duplicated category","[[Category:社会自由主义政党]]"]]
+window.data=[["no-duplicate",965,2,"duplicated category","[[Category:社会自由主义政党]]"],["no-duplicate",967,2,"duplicated category","[[Category:社会自由主义政党]]"]]

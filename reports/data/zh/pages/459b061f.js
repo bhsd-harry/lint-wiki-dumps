@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",13,92,"unmatched closing tag","</span>"],["tag-like",312,54,"lonely \"<\"","</nowiki"],["invalid-css",335,136,"semi-colon expected",""],["invalid-css",335,128,"colon expected","="],["invalid-css",354,108,"property value expected","#80000"]]

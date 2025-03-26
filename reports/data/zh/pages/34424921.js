@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",29,68,"duplicated category","[[Category:新手會成員|{{BASEPAGENAME}}]]"],["no-duplicate",29,114,"duplicated category","[[Category:新手會成員| ]]"]]

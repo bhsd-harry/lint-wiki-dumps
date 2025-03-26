@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:未解決的問題|代碼及密碼]]"],["no-duplicate",7,2,"duplicated category","[[Category:未解決的問題]]"]]

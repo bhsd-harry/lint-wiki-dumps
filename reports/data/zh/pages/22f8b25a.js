@@ -1,1 +1,1 @@
-window.data=[["illegal-attr",964,6,"illegal attribute name","colspan"],["no-ignored",964,18,"containing invalid attribute","  |{{small|「－」表示該單曲未有在榜上排名或未有資料或沒有在當地發行}}"]]
+window.data=[["illegal-attr",972,6,"illegal attribute name","colspan"],["no-ignored",972,18,"containing invalid attribute","  |{{small|「－」表示該單曲未有在榜上排名或未有資料或沒有在當地發行}}"]]

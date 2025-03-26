@@ -1,1 +1,0 @@
-window.data=[["unmatched-tag",286,2,"unmatched closing tag","</center>"],["fostered-content",286,1,"content to be moved out from the table"," </center>\n {{中国公交线路表}}\n [[Category:北京公交路线]]\n [[Category:北京市列表]]"],["unclosed-table",4,2,"unclosed table","{|"]]

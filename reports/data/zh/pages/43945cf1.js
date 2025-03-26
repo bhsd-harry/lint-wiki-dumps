@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",31,2,"duplicated category","[[Category:1972年考古发现]]"],["no-duplicate",35,2,"duplicated category","[[Category:1972年考古发现]]"]]

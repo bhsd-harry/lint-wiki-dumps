@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,52,"duplicated image caption parameter","Portal:Biology"],["no-duplicate",4,67,"duplicated image caption parameter","linkPortal:生物学"],["illegal-attr",37,27,"illegal attribute name","cellspacing"],["illegal-attr",45,27,"illegal attribute name","cellspacing"]]

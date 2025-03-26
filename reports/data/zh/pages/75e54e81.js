@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",580,3,"duplicated parameter","sire=\n "],["no-duplicate",581,3,"duplicated parameter","sire=Zeddaan系（Grey Sovereign系）\n "]]

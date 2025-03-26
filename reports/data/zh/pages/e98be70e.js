@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",10,3,"duplicated parameter","territory=\n "],["no-duplicate",13,3,"duplicated parameter","territory=* 波旁家族得到[[那不勒斯王國]]和[[西西里王國]]\n * [[洛林公國]]將併入法國\n * [[法蘭茲一世 (神聖羅馬帝國)|弗朗西斯·斯蒂芬]]得到[[托斯卡納大公國]]\n"]]

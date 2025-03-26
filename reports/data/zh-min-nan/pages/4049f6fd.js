@@ -1,0 +1,1 @@
+window.data=[["invalid-css",195,76,"property value expected","#fffff"],["invalid-css",195,91,"identifier expected","2px"],["invalid-css",195,124,"identifier expected","4px"],["invalid-css",195,139,"identifier expected","100%"],["lonely-bracket",1023,176,"lonely \"{\"","{{"],["lonely-bracket",1023,208,"lonely \"}\"","}}"]]

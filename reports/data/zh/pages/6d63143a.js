@@ -1,0 +1,1 @@
+window.data=[["invalid-css",8,132,"property value expected","#Gray"],["unclosed-table",8,2,"unclosed table","{|"]]

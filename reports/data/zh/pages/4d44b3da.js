@@ -1,1 +1,1 @@
-window.data=[["nested-link",47,205,"internal link in an external link","[[星島日報]]"],["unescaped",49,149,"unescaped query string in an anonymous parameter","="],["no-duplicate",540,2,"duplicated category","[[Category:香港電影女演員]]"],["no-duplicate",541,2,"duplicated category","[[Category:香港電影女演員]]"]]
+window.data=[["nested-link",47,205,"internal link in an external link","[[星島日報]]"],["unescaped",49,149,"unescaped query string in an anonymous parameter","="]]

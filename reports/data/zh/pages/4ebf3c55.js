@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",18,17,"illegal attribute name","border-spacing"],["unmatched-tag",26,69,"unmatched closing tag","</span>"],["lonely-bracket",77,40,"lonely \"[\"","[["],["lonely-http",77,142,"lonely \"http://\"","http://"],["lonely-http",77,163,"lonely \"https://\"","https://"],["lonely-bracket",97,43,"lonely \"[\"","[["],["lonely-bracket",97,128,"lonely \"[\"","[["]]

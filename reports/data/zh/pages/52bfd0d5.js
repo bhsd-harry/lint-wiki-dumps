@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,24,"duplicated image caption parameter","南京城墙"],["no-duplicate",1,35,"duplicated image caption parameter","南京城墙"],["no-duplicate",1,46,"duplicated image caption parameter",""]]

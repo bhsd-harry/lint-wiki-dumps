@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",12,92,"unmatched closing tag","</span>"],["lonely-bracket",146,252,"lonely \"{\"","{"],["nested-link",146,253,"internal link in an external link","[[user:shizhao|百無一用是書生]]"],["lonely-bracket",146,277,"lonely \"}\"","}"],["nested-link",146,286,"internal link in an external link","[[User talk:Shizhao|&#9742;]]"]]

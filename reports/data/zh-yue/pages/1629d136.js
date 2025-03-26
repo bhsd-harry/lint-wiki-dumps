@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",339,491,"lonely \"]\"","]"],["lonely-bracket",767,491,"lonely \"]\"","]"],["lonely-bracket",852,2,"lonely \"}\"","}}"],["no-duplicate",423,2,"duplicated category","[[Category:維基百科版權‏‎]]"],["no-duplicate",851,2,"duplicated category","[[Category:維基百科版權‏‎]]"]]

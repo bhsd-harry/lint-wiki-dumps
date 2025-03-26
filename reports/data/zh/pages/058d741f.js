@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[Category:移民美國的外國人|Soviet]]"],["no-duplicate",3,2,"duplicated category","[[Category:移民美國的外國人]]"]]

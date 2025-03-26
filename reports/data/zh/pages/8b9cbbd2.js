@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",32,123,"lonely \"{\"","{"],["lonely-bracket",32,149,"lonely \"}\"","}"],["lonely-bracket",249,119,"lonely \"[\"","[["],["tag-like",249,128,"lonely \"<\"","<span"],["no-ignored",288,99,"containing invalid attribute","\n 回到上一步\n 捲動至編輯方塊\n =\"background:blue;box-shadow:2px 2px 2px purple;color:lightblue;border-radius:999p"]]

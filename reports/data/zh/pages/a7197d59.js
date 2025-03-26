@@ -1,0 +1,1 @@
+window.data=[["fostered-content",624,1,"content to be moved out from the table"," }\n\n == 參考資料 ==\n {{Reflist}}\n\n {{世界羽聯排名}}\n {{苏迪曼杯冠军}}\n {{汤姆斯杯冠军}}\n {{亚洲运动会羽毛球比赛男子团体冠军}}\n {{全英羽毛球公开赛男"],["unclosed-table",563,2,"unclosed table","{|"]]

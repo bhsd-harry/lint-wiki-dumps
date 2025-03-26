@@ -1,1 +1,0 @@
-window.data=[["no-ignored",247,4,"containing invalid attribute"," color:white; font-weight:bold; text-align:center;\""]]

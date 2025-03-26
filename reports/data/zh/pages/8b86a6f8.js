@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",1,28,"duplicated parameter","\n "],["no-duplicate",8,3,"duplicated parameter","1=zh-cn:流浪地球2;\n "],["no-duplicate",1340,205,"duplicated parameter","dead-url=no "],["no-duplicate",1340,262,"duplicated parameter","dead-url=no "],["no-duplicate",1340,218,"duplicated parameter","archive-date= "],["no-duplicate",1340,247,"duplicated parameter","archive-date= "]]
+window.data=[["no-duplicate",1,28,"duplicated parameter","\n "],["no-duplicate",8,3,"duplicated parameter","1=zh-cn:流浪地球2;\n "]]

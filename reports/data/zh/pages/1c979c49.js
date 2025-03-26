@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",64,9,"lonely \"{\"","{{"],["lonely-bracket",64,88,"lonely \"}\"","}}"],["lonely-bracket",67,12,"lonely \"{\"","{{"],["lonely-bracket",67,67,"lonely \"}\"","}}"],["lonely-bracket",131,56,"lonely \"{\"","{{"],["lonely-bracket",131,77,"lonely \"}\"","}}"],["tag-like",213,9,"lonely \"<\"","<a"],["tag-like",217,9,"lonely \"<\"","<a"]]

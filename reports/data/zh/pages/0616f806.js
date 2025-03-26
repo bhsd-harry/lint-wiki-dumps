@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",13,92,"unmatched closing tag","</span>"],["unescaped",72,86,"unescaped query string in an anonymous parameter","="],["invalid-css",243,32,"colon expected",";"],["invalid-css",250,47,"colon expected",";"],["invalid-css",267,32,"colon expected",";"]]

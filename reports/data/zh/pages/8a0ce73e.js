@@ -1,0 +1,1 @@
+window.data=[["tag-like",21,13,"lonely \"<\"","<  nowiki"],["tag-like",21,23,"lonely \"<\"","</nowiki"],["invalid-css",158,310,"colon expected",";"],["invalid-css",161,160,"colon expected",";"]]

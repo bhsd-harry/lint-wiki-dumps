@@ -1,1 +1,1 @@
-window.data=[["nested-link",18,1846,"internal link in an external link","[[Reclaiming the Dead Sea Scrolls]]"]]
+window.data=[["nested-link",21,1846,"internal link in an external link","[[Reclaiming the Dead Sea Scrolls]]"]]

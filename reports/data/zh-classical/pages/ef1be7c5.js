@@ -1,0 +1,1 @@
+window.data=[["fostered-content",3,1,"content to be moved out from the table"," * [[維基大典:詩詞賞析/二〇一八年第一周|孟城坳　裴迪]]（二〇一八年第一周）\n * [[維基大典:詩詞賞析/二〇一八年第二周|柳浪　王維]]（二〇一八年第二周）\n * [[維基大典:詩詞賞析/"]]

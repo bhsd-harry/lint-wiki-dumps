@@ -1,0 +1,1 @@
+window.data=[["no-ignored",338,99,"containing invalid attribute"," | Христос Воскресе"]]

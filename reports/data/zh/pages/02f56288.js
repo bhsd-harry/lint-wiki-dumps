@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",91,2,"duplicated category","[[Category:鬼船]]"],["no-duplicate",98,2,"duplicated category","[[Category:鬼船]]"]]

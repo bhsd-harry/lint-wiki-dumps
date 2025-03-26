@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",59,1544,"duplicated parameter","page=第四張第一頁"],["no-duplicate",59,2988,"duplicated parameter","page=第四張第一頁"]]

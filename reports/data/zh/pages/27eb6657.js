@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",207,2,"duplicated category","[[Category:東京都體育競賽]]"],["no-duplicate",211,2,"duplicated category","[[Category:東京都體育競賽]]"]]
+window.data=[["no-duplicate",200,2,"duplicated category","[[Category:東京都體育競賽]]"],["no-duplicate",204,2,"duplicated category","[[Category:東京都體育競賽]]"]]

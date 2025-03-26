@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:以宗教建筑物命名的分类]]"],["no-duplicate",5,2,"duplicated category","[[Category:以宗教建筑物命名的分类]]"]]

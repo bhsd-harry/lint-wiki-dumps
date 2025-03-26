@@ -1,0 +1,1 @@
+window.data=[["fostered-content",74,1,"content to be moved out from the table","\n [[Category:用条目向导创建的草稿]]"],["unclosed-table",19,2,"unclosed table","{|"]]

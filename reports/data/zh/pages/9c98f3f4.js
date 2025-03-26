@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",153,92,"lonely \"}\"","}"],["no-duplicate",296,2,"duplicated category","[[Category:泰國情節劇]]"],["no-duplicate",298,2,"duplicated category","[[Category:泰國情節劇]]"]]
+window.data=[["lonely-bracket",153,92,"lonely \"}\"","}"],["no-duplicate",322,2,"duplicated category","[[Category:泰國情節劇]]"],["no-duplicate",324,2,"duplicated category","[[Category:泰國情節劇]]"]]

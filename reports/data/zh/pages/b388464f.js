@@ -1,0 +1,1 @@
+window.data=[["no-ignored",28,251,"containing invalid attribute","color:#87004F\""],["no-ignored",206,216,"containing invalid attribute","color:#87004F\""],["no-ignored",255,238,"containing invalid attribute","color:#87004F\""],["no-ignored",348,233,"containing invalid attribute","color:#87004F\""],["no-ignored",349,217,"containing invalid attribute","color:#87004F\""]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",46,27,"lonely \"}\"","}}"],["lonely-bracket",82,27,"lonely \"}\"","}}"],["lonely-bracket",113,27,"lonely \"}\"","}}"],["lonely-bracket",166,2,"lonely \"{\"","{{"],["fostered-content",166,1,"content to be moved out from the table"," {{BS-header|命名參數\n {{BS-table|0}}\n {{BS| BHF ||<code><nowiki>{{BS|BHF|bg=#ccccff|tw=500px|PX=40px|O1"]]

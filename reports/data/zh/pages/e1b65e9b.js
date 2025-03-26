@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",2,18,"illegal attribute name","sytle"],["unmatched-tag",17,21,"unclosed tag","<del>"],["illegal-attr",19,19,"illegal attribute name","sytle"],["illegal-attr",30,24,"illegal attribute name","sytle"],["illegal-attr",41,23,"illegal attribute name","sytle"],["illegal-attr",52,20,"illegal attribute name","sytle"]]

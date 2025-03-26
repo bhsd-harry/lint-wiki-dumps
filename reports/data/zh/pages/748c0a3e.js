@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",8,2,"duplicated category","[[Category:英國歷史遺跡]]"],["no-duplicate",11,2,"duplicated category","[[Category:英國歷史遺跡]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",42,5,"useless fragment","Wikipedia:可靠来源/布告板评级指引#來源評級"]]

@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",7,101,"tag that is both closing and self-closing","</br>"],["unmatched-tag",15,2,"unmatched closing tag","</div>"],["no-duplicate",63,2,"duplicated category","[[Category:主题首页]]"],["no-duplicate",65,8,"duplicated category","[[Category:主题首页|古典音乐]]"]]

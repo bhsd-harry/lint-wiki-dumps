@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",39,27,"duplicated image caption parameter","icon"],["no-duplicate",39,32,"duplicated image caption parameter","位于[[马六甲]]的郑和像"],["unmatched-tag",51,2,"unmatched closing tag","</div>"],["unmatched-tag",55,2,"unmatched closing tag","</div>"],["unmatched-tag",59,2,"unmatched closing tag","</div>"]]

@@ -1,1 +1,0 @@
-window.data=[["fostered-content",104,1,"content to be moved out from the table","\n ==參考資料==\n *中華職棒紀錄年鑑\n\n ==外部連結==\n {{中華職棒千安球員}}\n {{中華職棒各項紀錄}}\n\n [[Category:中華職棒數據統計]]\n [[Category:中華職"],["unclosed-table",8,2,"unclosed table","{|"]]

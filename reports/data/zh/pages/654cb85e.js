@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:對中國國民黨的批評與爭議|馬英九]]"],["no-duplicate",4,2,"duplicated category","[[Category:對中國國民黨的批評與爭議]]"]]

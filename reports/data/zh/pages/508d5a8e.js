@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",323,2,"lonely \"{\"","{{"],["lonely-bracket",324,16,"lonely \"}\"","}}"],["unmatched-tag",466,18,"tag that is both closing and self-closing","</br>"],["no-ignored",903,7,"attributes of a closing tag"," style"]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-http",27,21,"lonely \"http://\"","http://"],["illegal-attr",29,260,"illegal attribute name",":Nice"],["illegal-attr",29,266,"illegal attribute name","to"],["illegal-attr",29,269,"illegal attribute name","meet"],["no-ignored",29,273,"containing invalid attribute"," you\""],["unmatched-tag",29,344,"unmatched closing tag","</span>"]]

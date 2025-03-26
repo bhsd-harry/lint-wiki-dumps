@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",354,87,"duplicated image caption parameter","thumbtime=0:04"],["no-duplicate",354,102,"duplicated image caption parameter","俄羅斯入侵烏克蘭頓巴斯期間，來自哈爾科夫和盧甘斯克被佔領土的流離失所者。"]]
+window.data=[["no-duplicate",352,87,"duplicated image caption parameter","thumbtime=0:04"],["no-duplicate",352,102,"duplicated image caption parameter","俄羅斯入侵烏克蘭頓巴斯期間，來自哈爾科夫和盧甘斯克被佔領土的流離失所者。"]]

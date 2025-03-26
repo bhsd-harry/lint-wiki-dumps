@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",735,2,"duplicated category","[[Category:日本樂團]]"],["no-duplicate",738,2,"duplicated category","[[Category:日本樂團|F]]"]]
+window.data=[["no-duplicate",740,2,"duplicated category","[[Category:日本樂團]]"],["no-duplicate",743,2,"duplicated category","[[Category:日本樂團|F]]"]]

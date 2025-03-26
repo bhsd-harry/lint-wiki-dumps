@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",237,42,"illegal attribute name","xml:lang"],["no-duplicate",189,702,"duplicated category","[[Category:含有网址格式错误的引用的页面]]"],["no-duplicate",190,618,"duplicated category","[[Category:含有网址格式错误的引用的页面]]"],["no-duplicate",193,705,"duplicated category","[[Category:含有网址格式错误的引用的页面]]"]]

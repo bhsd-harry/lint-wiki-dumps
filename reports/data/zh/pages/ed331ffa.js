@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",71,137,"illegal attribute name","xml:lang"],["illegal-attr",106,49,"illegal attribute name","xml:lang"],["unmatched-tag",121,3,"unclosed tag","<del>"],["unmatched-tag",121,565,"unclosed tag","<del>"]]

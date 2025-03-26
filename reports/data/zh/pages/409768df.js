@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",125,34,"duplicated image caption parameter","caption"],["no-duplicate",125,48,"duplicated image caption parameter","克卜勒1610年肖像畫，作者不詳"]]
+window.data=[["no-duplicate",126,34,"duplicated image caption parameter","caption"],["no-duplicate",126,48,"duplicated image caption parameter","克卜勒1610年肖像畫，作者不詳"]]

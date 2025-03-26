@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",135,166,"duplicated parameter","date=2024-01-04"],["no-duplicate",135,189,"duplicated parameter","date=2024-05-08"],["lonely-bracket",139,32,"lonely \"{\"","{{"],["lonely-bracket",141,50,"lonely \"}\"","}}"]]
+window.data=[["no-duplicate",138,166,"duplicated parameter","date=2024-01-04"],["no-duplicate",138,189,"duplicated parameter","date=2024-05-08"]]

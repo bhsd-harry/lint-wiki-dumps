@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,77,"duplicated id attribute","id=\"fileinfotpl_src\""],["no-duplicate",6,97,"duplicated id attribute","id=\"fileinfotpl_src\""]]

@@ -1,0 +1,1 @@
+window.data=[["fostered-content",3,1,"content to be moved out from the table"," * [[維基大典:博古櫃/二〇一九年第一週|唐鎏金飛廉紋六曲銀盤]]（二〇一九年第一週）\n * [[維基大典:博古櫃/二〇一九年第二週|周御龍帛畫]]（二〇一九年第二週）\n * [[維基大典:博古櫃"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,57,"duplicated image caption parameter","width   = 240"],["no-duplicate",1,71,"duplicated image caption parameter","世界各國的[[2019冠狀病毒病]]疫情示意圖"]]

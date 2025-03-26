@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",11,88,"illegal attribute name","line-height"],["unclosed-table",19,2,"unclosed table","{|"],["fostered-content",3,1,"content to be moved out from the table"," __NOTOC__\n ----\n"],["unclosed-table",2,2,"unclosed table","{|"]]

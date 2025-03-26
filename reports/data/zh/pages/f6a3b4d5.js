@@ -1,1 +1,1 @@
-window.data=[["unmatched-tag",93,210,"unmatched closing tag","</span>"],["unmatched-tag",93,287,"unmatched closing tag","</span>"],["unmatched-tag",93,359,"unmatched closing tag","</span>"],["no-ignored",178,4,"containing invalid attribute","台灣數分會，如新店分會會長阿海，花東分會會長戰神"]]
+window.data=[["unmatched-tag",93,210,"unmatched closing tag","</span>"],["unmatched-tag",93,287,"unmatched closing tag","</span>"],["unmatched-tag",93,359,"unmatched closing tag","</span>"],["no-ignored",173,4,"containing invalid attribute","台灣數分會，如新店分會會長阿海，花東分會會長戰神"]]

@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",13,92,"unmatched closing tag","</span>"],["nested-link",138,216,"internal link in an external link","[[User:nivekin|<span style=\"color: #808000;\">'''Nivekin'''</span>]]"],["nested-link",138,284,"internal link in an external link","[[User talk:nivekin|<span style=\"color: #ff00ff;\">請留言</span>]]"]]

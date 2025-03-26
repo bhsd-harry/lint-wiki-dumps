@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",170,11,"lonely \"'\"","''''"],["lonely-bracket",193,80,"lonely \"]\"","]]"],["tag-like",1098,47,"lonely \"<\"","</nowiki"],["lonely-apos",1374,152,"lonely \"'\"","'''''"],["lonely-bracket",1374,177,"lonely \"}\"","}}"]]

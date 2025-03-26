@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",105,2,"duplicated category","[[Category:主题首页]]"],["no-duplicate",107,2,"duplicated category","[[Category:主题首页|哲學]]"]]

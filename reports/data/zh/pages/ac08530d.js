@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",94,2,"duplicated category","[[Category:浙江省一级重点中学]]"],["no-duplicate",97,2,"duplicated category","[[Category:浙江省一级重点中学]]"]]
+window.data=[["no-duplicate",92,2,"duplicated category","[[Category:浙江省一级重点中学]]"],["no-duplicate",95,2,"duplicated category","[[Category:浙江省一级重点中学]]"]]

@@ -1,1 +1,0 @@
-window.data=[["fostered-content",67,1,"content to be moved out from the table"," <!-- [[护法寺桥]]（包括[[护法寺塔|护法寺砖塔]]）（3-64）2013年第七批国保 护法寺桥和塔-->\n *[[张琴墓]]（4-27）\n <!-- *[[赤溪五洞桥]]（4-69）200"]]

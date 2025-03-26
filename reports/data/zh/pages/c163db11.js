@@ -1,0 +1,1 @@
+window.data=[["lonely-http",36,25,"lonely \"http://\"","http://"],["lonely-http",169,29,"lonely \"http://\"","http://"],["lonely-bracket",316,9,"lonely \"}\"","}"],["invalid-css",328,171,"colon expected","="]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",63,369,"internal link in an external link","[[User:笑風塵]]"],["nested-link",63,391,"internal link in an external link","[[User:笑風塵]]"],["nested-link",63,503,"internal link in an external link","[[User:笑風塵]]"],["illegal-attr",108,45,"illegal attribute name","xml:lang"],["illegal-attr",192,45,"illegal attribute name","xml:lang"]]

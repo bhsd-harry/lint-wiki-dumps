@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",132,537,"unclosed tag","<mark class=\"template-facttext\">"],["unmatched-tag",132,612,"unmatched closing tag","</span>"],["lonely-bracket",174,10,"lonely \"[\"","["],["lonely-bracket",234,5,"lonely \"{\"","{{"],["lonely-bracket",234,55,"lonely \"}\"","}}"],["lonely-bracket",266,66,"lonely \"]\"","]]"]]

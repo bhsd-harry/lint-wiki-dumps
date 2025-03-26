@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",71,437,"duplicated parameter","date=1936 "],["no-duplicate",71,507,"duplicated parameter","date=1996-06-01"],["lonely-bracket",89,80,"lonely \"{\"","{{"]]

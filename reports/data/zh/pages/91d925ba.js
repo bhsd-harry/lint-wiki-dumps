@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,2,"duplicated category","[[Category:波多黎各文化組織]]"],["no-duplicate",8,2,"duplicated category","[[Category:波多黎各文化組織]]"]]

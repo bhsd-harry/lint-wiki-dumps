@@ -1,0 +1,1 @@
+window.data=[["invalid-css",50,78,"semi-colon expected",""],["invalid-css",50,78,"colon expected",""],["invalid-css",50,139,"semi-colon expected",""],["invalid-css",50,139,"colon expected",""],["invalid-css",50,185,"semi-colon expected",""],["invalid-css",50,185,"colon expected",""],["lonely-http",175,24,"lonely \"https://\"","https://"]]

@@ -1,1 +1,1 @@
-window.data=[["lonely-http",1608,53,"lonely \"ISBN\"","ISBN"],["no-duplicate",1661,2,"duplicated category","[[Category:華語流行音樂歌手]]"],["no-duplicate",1675,2,"duplicated category","[[Category:華語流行音樂歌手]]"]]
+window.data=[["lonely-http",1610,53,"lonely \"ISBN\"","ISBN"],["no-duplicate",1663,2,"duplicated category","[[Category:華語流行音樂歌手]]"],["no-duplicate",1677,2,"duplicated category","[[Category:華語流行音樂歌手]]"]]

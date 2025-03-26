@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",105,119,"duplicated image caption parameter","1918年"],["no-duplicate",105,125,"duplicated image caption parameter","[[中爪哇]]Salatiga，身着華人传统服饰的新娘和新郎，攝於1918年"]]
+window.data=[["no-duplicate",108,119,"duplicated image caption parameter","1918年"],["no-duplicate",108,125,"duplicated image caption parameter","[[中爪哇]]Salatiga，身着華人传统服饰的新娘和新郎，攝於1918年"]]

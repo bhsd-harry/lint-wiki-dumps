@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",60,41,"duplicated image caption parameter","float"],["no-duplicate",60,47,"duplicated image caption parameter","唔好喂粗士"]]

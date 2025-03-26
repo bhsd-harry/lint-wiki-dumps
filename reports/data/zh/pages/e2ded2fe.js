@@ -1,1 +1,0 @@
-window.data=[["fostered-content",6,1,"content to be moved out from the table"," {{{image|}}} "]]

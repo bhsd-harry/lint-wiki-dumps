@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",12,3,"duplicated parameter"," free_label = 校区\n "],["no-duplicate",14,3,"duplicated parameter"," free_label = 校歌\n "],["no-duplicate",13,3,"duplicated parameter"," free_text = 2个\n "],["no-duplicate",15,3,"duplicated parameter"," free_text = 《龙川一中校歌》\n "]]

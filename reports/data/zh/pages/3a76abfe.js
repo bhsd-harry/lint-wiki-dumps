@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",31,56,"duplicated image width parameter","120px"],["no-duplicate",31,62,"duplicated image width parameter","90px"]]

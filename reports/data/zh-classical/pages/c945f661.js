@@ -1,0 +1,1 @@
+window.data=[["fostered-content",3,1,"content to be moved out from the table"," * [[維基大典:博古櫃/二〇二〇年第五十三週|周青銅盉]]（二〇二一年第一週）\n * [[維基大典:博古櫃/二〇二一年第二週|清董其昌行書五絕]]（二〇二一年第二週）\n * [[維基大典:博古櫃/"]]

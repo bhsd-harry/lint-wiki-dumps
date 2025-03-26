@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",275,2,"duplicated category","[[Category:服裝品牌|U]]"],["no-duplicate",279,2,"duplicated category","[[Category:服裝品牌]]"]]
+window.data=[["no-duplicate",250,2,"duplicated category","[[Category:服裝品牌|U]]"],["no-duplicate",254,2,"duplicated category","[[Category:服裝品牌]]"]]

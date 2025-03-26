@@ -1,0 +1,1 @@
+window.data=[["tag-like",68,37,"lonely \"<\"","<input"],["lonely-bracket",144,93,"lonely \"[\"","[["],["lonely-bracket",144,551,"lonely \"]\"","]]"],["lonely-bracket",144,562,"lonely \"[\"","[["],["lonely-bracket",144,565,"lonely \"]\"","]]"],["invalid-css",187,59,"colon expected",";"]]

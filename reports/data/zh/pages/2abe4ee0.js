@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",86,2,"duplicated category","[[Category:動畫歌曲]]"],["no-duplicate",88,2,"duplicated category","[[Category:動畫歌曲|*]]"]]
+window.data=[["no-duplicate",87,2,"duplicated category","[[Category:動畫歌曲]]"],["no-duplicate",89,2,"duplicated category","[[Category:動畫歌曲|*]]"]]

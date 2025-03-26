@@ -1,1 +1,1 @@
-window.data=[["nested-link",82,321,"internal link in an external link","[[马来西亚国会|Parlimen Malaysia]]"],["lonely-bracket",82,351,"lonely \"[\"","["]]
+window.data=[["nested-link",90,321,"internal link in an external link","[[马来西亚国会|Parlimen Malaysia]]"],["lonely-bracket",90,351,"lonely \"[\"","["]]

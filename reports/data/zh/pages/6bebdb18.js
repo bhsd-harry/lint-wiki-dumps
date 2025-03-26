@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",57,48,"unmatched closing tag","</span>"],["illegal-attr",84,213,"illegal attribute name",":Nice"],["illegal-attr",84,219,"illegal attribute name","to"],["illegal-attr",84,222,"illegal attribute name","meet"],["no-ignored",84,226,"containing invalid attribute"," you\""],["invalid-css",92,85,"colon expected",";"]]

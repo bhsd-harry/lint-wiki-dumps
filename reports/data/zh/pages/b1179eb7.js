@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,10,"duplicated parameter","1=zh-hant:北干巴魯; zh-hans:北干巴鲁"],["no-duplicate",1,39,"duplicated parameter","1=zh-hant:北干巴魯; zh-hans:北干巴鲁"]]

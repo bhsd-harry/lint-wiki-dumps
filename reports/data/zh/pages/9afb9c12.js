@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,2,"duplicated category","[[分類:蔡志明家族]]"],["no-duplicate",11,2,"duplicated category","[[Category:蔡志明家族]]"]]

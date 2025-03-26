@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",106,2,"duplicated category","[[Category:越南佛教徒]]"],["no-duplicate",119,2,"duplicated category","[[Category:越南佛教徒]]"]]
+window.data=[["no-duplicate",106,2,"duplicated category","[[Category:越南佛教徒]]"],["no-duplicate",120,2,"duplicated category","[[Category:越南佛教徒]]"]]

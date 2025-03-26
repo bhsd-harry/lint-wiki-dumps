@@ -1,1 +1,1 @@
-window.data=[["fostered-content",2558,1,"content to be moved out from the table","\n ==創作精選大碟列表==\n *《黃偉文 十年選》（推出日期：2005年8月23日）\n {{HideH|曲目列表}}"],["unclosed-table",1732,2,"unclosed table","{|"],["invalid-css",3028,35,"semi-colon expected",""],["invalid-css",3028,35,"colon expected",""]]
+window.data=[["fostered-content",2560,1,"content to be moved out from the table","\n ==創作精選大碟列表==\n *《黃偉文 十年選》（推出日期：2005年8月23日）\n {{HideH|曲目列表}}"],["unclosed-table",1734,2,"unclosed table","{|"],["invalid-css",3030,35,"semi-colon expected",""],["invalid-css",3030,35,"colon expected",""]]

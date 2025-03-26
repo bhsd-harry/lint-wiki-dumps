@@ -1,1 +1,1 @@
-window.data=[["no-ignored",121,1,"invalid content in <gallery>"," [[File:Mourning ceremony Victor Choi.jpg|spontaneous mourning ceremony in St.Petersburg]]"]]
+window.data=[["no-ignored",118,1,"invalid content in <gallery>"," [[File:Mourning ceremony Victor Choi.jpg|spontaneous mourning ceremony in St.Petersburg]]"]]

@@ -1,1 +1,1 @@
-window.data=[["no-ignored",64,1,"invalid content in <gallery>"," </center>"]]
+window.data=[["no-ignored",72,1,"invalid content in <gallery>"," </center>"],["lonely-bracket",212,2,"lonely \"[\"","[["]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",11,20,"invalid conversion flag","[[User:Cdip150|街燈電箱150號]] <small>[[User talk:Cdip150|開箱維修]]"],["unmatched-tag",11,296,"unmatched closing tag","</small>"],["invalid-css",56,37,"colon expected","="],["invalid-css",70,37,"colon expected","="]]

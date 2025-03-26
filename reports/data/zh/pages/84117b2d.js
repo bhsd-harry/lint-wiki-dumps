@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",232,79,"lonely \"]\"","]]"],["unmatched-tag",812,62,"tag that is both closing and self-closing","</br>"],["lonely-bracket",1019,36,"lonely \"{\"","{"],["lonely-http",1124,65,"lonely \"http://\"","http://"]]

@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",41,95,"lonely \"[\"","["]]
+window.data=[["lonely-bracket",41,95,"lonely \"[\"","["],["fostered-content",1038,1,"content to be moved out from the table","\n == 參考資料 ==\n <references responsive=\"\"  />{{張韶涵}}\n [[Category:巡迴演唱會列表]]\n [[Category:現場表演列表]]"],["unclosed-table",1028,2,"unclosed table","{|"]]

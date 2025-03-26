@@ -1,0 +1,1 @@
+window.data=[["no-ignored",39,1,"invalid content in <gallery>"," File:Wang Zhi.png[[王直 (明朝官员)|王直]]"]]

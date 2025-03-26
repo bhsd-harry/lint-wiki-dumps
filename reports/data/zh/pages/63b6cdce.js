@@ -1,0 +1,1 @@
+window.data=[["tag-like",148,69,"lonely \"<\"","</nowiki"],["lonely-bracket",188,64,"lonely \"}\"","}"],["lonely-bracket",188,83,"lonely \"}\"","}"],["lonely-bracket",190,240,"lonely \"}\"","}"],["lonely-bracket",190,259,"lonely \"}\"","}"]]

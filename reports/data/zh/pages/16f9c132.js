@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",12,3,"duplicated parameter"," coordinates    = {{coord|35|40|51|N|139|46|14|E}}\n "],["no-duplicate",14,3,"duplicated parameter"," coordinates         = \n "]]

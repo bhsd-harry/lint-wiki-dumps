@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",351,122,"duplicated parameter","title=البرلمان العربي يدين استهداف القوات الأمنية في سوريا "],["no-duplicate",351,182,"duplicated parameter","title=albarlaman alearabiu yudin aistihdaf alquaat al'amniat fi suria "]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",4,46,"internal link in an external link","[[TED大会|TED]]"],["invalid-css",18,240,"semi-colon expected",""],["invalid-css",18,232,"colon expected","="],["nested-link",138,46,"internal link in an external link","[[TED大会|TED]]"]]

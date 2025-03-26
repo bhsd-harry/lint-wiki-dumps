@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",125,2,"duplicated category","[[Category:葬于维也纳中央公墓]]"],["no-duplicate",129,2,"duplicated category","[[Category:葬于维也纳中央公墓]]"]]
+window.data=[["no-duplicate",125,2,"duplicated category","[[Category:葬于维也纳中央公墓]]"],["no-duplicate",130,2,"duplicated category","[[Category:葬于维也纳中央公墓]]"]]

@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",85,46,"duplicated image caption parameter","righr"],["no-duplicate",85,58,"duplicated image caption parameter","斯坎德培之妻多妮卡（68歲），1596年雕刻"]]
+window.data=[["no-duplicate",83,46,"duplicated image caption parameter","righr"],["no-duplicate",83,58,"duplicated image caption parameter","斯坎德培之妻多妮卡（68歲），1596年雕刻"]]

@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",85,2,"duplicated category","[[Category:巴西总理]]"],["no-duplicate",89,2,"duplicated category","[[Category:巴西总理]]"]]
+window.data=[["no-duplicate",82,2,"duplicated category","[[Category:巴西总理]]"],["no-duplicate",86,2,"duplicated category","[[Category:巴西总理]]"]]

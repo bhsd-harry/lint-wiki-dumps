@@ -1,0 +1,1 @@
+window.data=[["tag-like",22,75,"lonely \"<\"","<maplink"],["tag-like",22,85,"lonely \"<\"","<maplink"],["tag-like",113,61,"lonely \"<\"","<maplink"],["tag-like",113,165,"lonely \"<\"","<mapframe"],["unmatched-tag",177,26,"tag that is both closing and self-closing","</br>"],["unmatched-tag",178,94,"tag that is both closing and self-closing","</br>"]]

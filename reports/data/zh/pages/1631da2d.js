@@ -1,1 +1,1 @@
-window.data=[["no-duplicate",121,227,"duplicated parameter","publisher="],["no-duplicate",121,278,"duplicated parameter","publisher=Natasha"]]
+window.data=[["no-duplicate",50,336,"duplicated parameter","language=ja"],["no-duplicate",50,480,"duplicated parameter","language=ja"]]

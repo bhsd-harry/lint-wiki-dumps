@@ -1,0 +1,1 @@
+window.data=[["fostered-content",3,1,"content to be moved out from the table"," * [[維基大典:詩詞賞析/二〇一〇年第四十二周|破陣子　李煜]]（二〇一〇年第四十二周）\n * [[維基大典:詩詞賞析/二〇一〇年第四十三周|昇龍　阮攸]]（二〇一〇年第四十三周）\n * [[維基"]]

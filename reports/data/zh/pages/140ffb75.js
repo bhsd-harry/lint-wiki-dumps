@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:東京都各區背景作品|Adachi-ku]]"],["no-duplicate",6,2,"duplicated category","[[Category:東京都各區背景作品|Adachi-ku]]"]]

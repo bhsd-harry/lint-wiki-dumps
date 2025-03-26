@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:新疆生产建设兵团城市]]"],["no-duplicate",4,2,"duplicated category","[[Category:新疆生产建设兵团城市]]"]]

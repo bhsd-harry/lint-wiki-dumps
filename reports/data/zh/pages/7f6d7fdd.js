@@ -1,1 +1,1 @@
-window.data=[["no-ignored",92,6,"containing invalid attribute","香港摩天輪"],["lonely-http",99,18,"lonely \"ISBN\"","ISBN"]]
+window.data=[["no-ignored",91,6,"containing invalid attribute","香港摩天輪"],["lonely-http",98,18,"lonely \"ISBN\"","ISBN"]]

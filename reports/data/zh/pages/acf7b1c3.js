@@ -1,1 +1,1 @@
-window.data=[["no-ignored",91,3,"containing invalid attribute","六四事件二十三週年"],["no-ignored",93,3,"containing invalid attribute","六四事件二十四週年"],["invalid-gallery",232,48,"invalid image parameter","缩略图"]]
+window.data=[["no-ignored",90,3,"containing invalid attribute","六四事件二十三週年"],["no-ignored",92,3,"containing invalid attribute","六四事件二十四週年"],["invalid-gallery",231,48,"invalid image parameter","缩略图"]]

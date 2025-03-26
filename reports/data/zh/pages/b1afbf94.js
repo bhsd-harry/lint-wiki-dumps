@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",117,102,"lonely \"]\"","]]"],["invalid-css",270,84,"semi-colon expected","#"],["no-ignored",270,86,"containing invalid attribute","fcfccf\"; empty-cells:show; border-collapse:collapse;\"  "]]

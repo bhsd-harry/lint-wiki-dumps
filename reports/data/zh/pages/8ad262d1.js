@@ -1,0 +1,1 @@
+window.data=[["fostered-content",41,1,"content to be moved out from the table"," 註：2024年度因颱風因素影響，僅依勝場數做排名依據。\n"],["unclosed-table",19,2,"unclosed table","{|"]]

@@ -1,0 +1,1 @@
+window.data=[["invalid-css",245,84,"semi-colon expected","#"],["no-ignored",245,86,"containing invalid attribute","fcfccf\"; empty-cells:show; border-collapse:collapse;\"  "],["invalid-css",255,84,"semi-colon expected","#"],["no-ignored",255,86,"containing invalid attribute","fcfccf\"; empty-cells:show; border-collapse:collapse;\"  "]]

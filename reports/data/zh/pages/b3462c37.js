@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:1986年面世的电子游戏系列]]"],["no-duplicate",8,2,"duplicated category","[[Category:1986年面世的电子游戏系列]]"]]

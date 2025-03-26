@@ -1,1 +1,1 @@
-window.data=[["lonely-bracket",99,23,"lonely \"]\"","]]"],["tag-like",240,21,"lonely \"<\"","<br"],["lonely-bracket",242,44,"lonely \"]\"","]"],["lonely-bracket",276,2,"lonely \"{\"","{"],["lonely-bracket",363,2,"lonely \"{\"","{"],["lonely-bracket",426,22,"lonely \"]\"","]]"],["no-duplicate",465,3,"duplicated parameter"," next_year = 2024\n "],["no-duplicate",467,3,"duplicated parameter"," next_year = 2024\n "]]
+window.data=[["lonely-bracket",99,23,"lonely \"]\"","]]"],["tag-like",240,21,"lonely \"<\"","<br"],["lonely-bracket",242,44,"lonely \"]\"","]"]]

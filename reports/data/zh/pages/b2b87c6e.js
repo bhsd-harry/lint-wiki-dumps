@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",11,227,"unmatched closing tag","</font>"],["fostered-content",3,1,"content to be moved out from the table"," __NOTOC__\n ----\n"],["unclosed-table",2,1,"unclosed table","{|"]]

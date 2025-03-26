@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",20,2,"duplicated category","[[分類:台灣客運公司]]"],["no-duplicate",24,2,"duplicated category","[[分類:台灣客運公司]]"]]

@@ -1,1 +1,0 @@
-window.data=[["no-duplicate",19,3,"duplicated parameter"," attendance         =\n "],["no-duplicate",20,3,"duplicated parameter"," attendance         =\n "]]

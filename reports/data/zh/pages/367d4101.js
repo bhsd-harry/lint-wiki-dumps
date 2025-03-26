@@ -1,1 +1,1 @@
-window.data=[["illegal-attr",419,5,"illegal attribute name","20"]]
+window.data=[["no-duplicate",9,3,"duplicated parameter","6=zh-hans:核试验; zh-hant:核試;\n "],["no-duplicate",10,3,"duplicated parameter","6=zh-hans:朝鲜; zh-hant:北韓;\n "],["illegal-attr",472,5,"illegal attribute name","20"]]

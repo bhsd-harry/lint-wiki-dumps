@@ -1,0 +1,1 @@
+window.data=[["no-ignored",6,4,"containing invalid attribute","|style=\"color:#000\""],["illegal-attr",14,39,"illegal attribute name","igor-style"],["invalid-css",14,97,"colon expected","="]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[Category:20世纪各年政治事件]]"],["no-duplicate",3,2,"duplicated category","[[Category:20世纪各年政治事件]]"]]
