@@ -12,19 +12,14 @@ const unbzip2_stream_1 = __importDefault(require("unbzip2-stream"));
 const xml_stream_1 = __importDefault(require("xml-stream"));
 const wikilint_1 = __importDefault(require("wikilint"));
 const common_1 = require("@bhsd/common");
+const util_1 = require("./util");
 const n = Number(process.argv[4]) || Infinity, [, , site, file, , restart] = process.argv;
 wikilint_1.default.config = `${site}wiki`;
 const resultDir = path_1.default.join(__dirname, 'results');
 if (!fs_1.default.existsSync(resultDir)) {
     fs_1.default.mkdirSync(resultDir);
 }
-const stream = new xml_stream_1.default(fs_1.default.createReadStream(file.replace(/^~/u, os_1.default.homedir())).pipe((0, unbzip2_stream_1.default)())), output = path_1.default.join('results', `${site}.json`);
-let old;
-try {
-    old = require(`./${output}`); // eslint-disable-line @typescript-eslint/no-require-imports
-}
-catch { }
-const time = old?.['#timestamp'], last = time && new Date(time), results = fs_1.default.createWriteStream(path_1.default.join(__dirname, output), { flags: restart ? 'a' : 'w' }), ignore = new Set(['no-arg', 'url-encoding', 'h1', 'var-anchor']);
+const stream = new xml_stream_1.default(fs_1.default.createReadStream(file.replace(/^~/u, os_1.default.homedir())).pipe((0, unbzip2_stream_1.default)())), time = (0, util_1.getTimestamp)(site), last = time && new Date(time), results = fs_1.default.createWriteStream(path_1.default.join(resultDir, `${site}.json`), { flags: restart ? 'a' : 'w' }), ignore = new Set(['no-arg', 'url-encoding', 'h1', 'var-anchor']);
 let i = 0, latest = last, failed = 0, comma = restart ? ',' : '', stopping = false, restarted = !restart, worst;
 stream.preserve('text', true);
 if (!restart) {
@@ -45,7 +40,7 @@ const stop = () => {
         console.info(chalk_1.default.yellow(`Worst page: ${worst.title} (${worst.duration.toFixed(3)} ms)`));
     }
     results.write(`${comma}\n"#timestamp": ${JSON.stringify(latest)}\n}`);
-    results.close();
+    results.end();
 };
 const newEntry = (title, errors) => {
     results.write(`${comma}\n${JSON.stringify(title)}: ${JSON.stringify(errors, null, '\t')}`);
@@ -62,7 +57,7 @@ stream.on('endElement: page', ({ title, ns, revision: { model, timestamp, text: 
         (0, common_1.refreshStdout)(`${i++} ${title}`);
         const date = new Date(timestamp);
         if (last && date <= last) {
-            const previous = old[title];
+            const previous = (0, util_1.getErrors)(site, title);
             if (previous) {
                 newEntry(title, previous);
             }
@@ -82,7 +77,7 @@ stream.on('endElement: page', ({ title, ns, revision: { model, timestamp, text: 
                             })),
                         },
                         ...fix && { fix: { ...fix, original: $text.slice(...fix.range) } },
-                        excerpt: $text.slice(e.startIndex, e.endIndex),
+                        excerpt: $text.slice(e.startIndex, e.endIndex).slice(0, util_1.MAX),
                     })));
                 }
                 if (!worst || duration > worst.duration) {
