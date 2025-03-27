@@ -14,6 +14,7 @@ files=$( \
 )
 if (( ${#files} < 2 ))
 then
+	echo 'Switching to single-threaded mode'
 	bash scan.sh "$1" "$2"
 else
 	curl --output-dir "$2" --remote-name-all $files
