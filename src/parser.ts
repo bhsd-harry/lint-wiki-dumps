@@ -7,17 +7,8 @@ import bz2 from 'unbzip2-stream';
 import XmlStream from 'xml-stream';
 import Parser from 'wikilint';
 import {refreshStdout} from '@bhsd/common';
-import type {LintError as LintErrorBase} from 'wikilint';
-
-declare interface Fix extends LintErrorBase.Fix {
-	original: string;
-}
-export interface LintError extends Omit<LintErrorBase, 'severity'> {
-	excerpt: string;
-	fix?: Fix;
-	sugggestions?: Fix[];
-}
-export type Results = Record<string, LintError[]> & {'#timestamp': string};
+import {MAX, getTimestamp, getErrors} from './util';
+import type {LintError} from './util';
 
 const n = Number(process.argv[4]) || Infinity,
 	[,, site, file,, restart] = process.argv;
@@ -29,14 +20,9 @@ if (!fs.existsSync(resultDir)) {
 	fs.mkdirSync(resultDir);
 }
 const stream = new XmlStream(fs.createReadStream(file!.replace(/^~/u, os.homedir())).pipe(bz2())),
-	output = path.join('results', `${site}.json`);
-let old: Results | undefined;
-try {
-	old = require(`./${output}`); // eslint-disable-line @typescript-eslint/no-require-imports
-} catch {}
-const time = old?.['#timestamp'],
+	time = getTimestamp(site!),
 	last = time && new Date(time),
-	results = fs.createWriteStream(path.join(__dirname, output), {flags: restart ? 'a' : 'w'}),
+	results = fs.createWriteStream(path.join(resultDir, `${site}.json`), {flags: restart ? 'a' : 'w'}),
 	ignore = new Set(['no-arg', 'url-encoding', 'h1', 'var-anchor']);
 let i = 0,
 	latest = last,
@@ -68,7 +54,7 @@ const stop = (): void => {
 		);
 	}
 	results.write(`${comma}\n"#timestamp": ${JSON.stringify(latest)}\n}`);
-	results.close();
+	results.end();
 };
 
 const newEntry = (title: string, errors: LintError[]): void => {
@@ -86,7 +72,7 @@ stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$
 		refreshStdout(`${i++} ${title}`);
 		const date = new Date(timestamp);
 		if (last && date <= last) {
-			const previous = old![title];
+			const previous = getErrors(site!, title);
 			if (previous) {
 				newEntry(title, previous);
 			}
@@ -109,7 +95,7 @@ stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$
 								})),
 							},
 							...fix && {fix: {...fix, original: $text.slice(...fix.range)}},
-							excerpt: $text.slice(e.startIndex, e.endIndex),
+							excerpt: $text.slice(e.startIndex, e.endIndex).slice(0, MAX),
 						})),
 					);
 				}
