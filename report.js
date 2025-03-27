@@ -46,11 +46,10 @@ for (const file of dir) {
     if (lang !== site) {
         continue;
     }
-    const data = JSON.parse(fs_1.default.readFileSync(fileDir, 'utf8'));
-    delete data['#timestamp'];
-    for (const [page, errors] of Object.entries(data)) {
-        const hash = (0, crypto_1.createHash)('sha256').update(page).digest('hex')
-            .slice(0, 8), rules = new Set(), info = [];
+    const data = fs_1.default.readFileSync(fileDir, 'utf8');
+    for (const mt of data.matchAll(/^(".+"): \[$/gmu)) {
+        const page = JSON.parse(mt[1]), hash = (0, crypto_1.createHash)('sha256').update(page).digest('hex')
+            .slice(0, 8), errors = JSON.parse(data.slice(mt.index + mt[0].length - 1, data.indexOf('\n]', mt.index) + 2)), rules = new Set(), info = [];
         for (const { rule, startLine, startCol, message, excerpt } of errors) {
             // article
             const line = startLine + 1, col = startCol + 1;
@@ -90,8 +89,7 @@ for (const [rule, [str, pages]] of ruleRecords) {
                 break;
             }
             const index = str.indexOf(`[\n\t${JSON.stringify(page)}`);
-            const comma = j === (i + 1) * 200 - 1 || j === pages.length - 1 ? '' : ',';
-            stream.write(JSON.stringify(JSON.parse(str.slice(index, str.indexOf('\n]', index) + 2))) + comma);
+            stream.write(str.slice(index, str.indexOf('\n]', index) + 3));
         }
         stream.write(`],"batches":${batches}}`);
         stream.end();
