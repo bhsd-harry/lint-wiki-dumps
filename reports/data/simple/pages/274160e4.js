@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",50,4,"illegal attribute name","US"],["illegal-attr",50,21,"illegal attribute name","Mainstream"],["illegal-attr",50,32,"illegal attribute name","Top"],["illegal-attr",50,36,"illegal attribute name","40"],["no-ignored",50,6,"containing invalid attribute"," ''Billboard'' "]]

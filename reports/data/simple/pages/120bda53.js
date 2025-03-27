@@ -1,0 +1,1 @@
+window.data=[["pipe-like",252,106,"additional \"|\" in a table cell"," Warsaw Bisons\n Fort Nysa\n Wrocław Lions || AFL Polska || AFL Polska|| "],["pipe-like",254,56,"additional \"|\" in a table cell","||"]]

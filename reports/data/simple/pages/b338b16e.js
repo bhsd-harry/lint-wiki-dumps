@@ -1,0 +1,1 @@
+window.data=[["no-ignored",62,3,"containing invalid attribute"," \"background:#dcdcfe;\""],["unclosed-table",30,2,"unclosed table","{|"]]

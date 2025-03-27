@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",62,2,"duplicated category","[[Category:Coupes]]"],["no-duplicate",65,2,"duplicated category","[[Category:Coupes]]"]]

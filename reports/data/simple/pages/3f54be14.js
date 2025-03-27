@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",36,2,"duplicated category","[[Category:2015 establishments in the United Kingdom]]"],["no-duplicate",40,2,"duplicated category","[[Category:2015 establishments in the United Kingdom]]"]]

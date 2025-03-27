@@ -1,0 +1,1 @@
+window.data=[["no-ignored",163,1,"invalid content in <gallery>"," [[File:The Monastery, Petra, Jordan8.jpg|thumbnail|The Monastery in Petra]]"]]

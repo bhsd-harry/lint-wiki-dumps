@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",374,4,"duplicated bgcolor attribute","bgcolor=\"#F0F0F0\""],["no-duplicate",374,36,"duplicated bgcolor attribute","bgcolor=\"#F0F0F0\""]]

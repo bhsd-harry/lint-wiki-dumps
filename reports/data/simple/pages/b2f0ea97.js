@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",643,3,"lonely \"{\"","{{"],["illegal-attr",643,11,"illegal attribute name","date"],["no-ignored",643,3,"containing invalid attribute","{{Start "]]

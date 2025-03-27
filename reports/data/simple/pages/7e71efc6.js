@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",110,3,"illegal attribute name","Austrian"],["illegal-attr",110,12,"illegal attribute name","Football"],["illegal-attr",110,21,"illegal attribute name","Bundesliga"]]

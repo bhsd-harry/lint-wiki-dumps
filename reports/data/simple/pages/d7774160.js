@@ -1,0 +1,1 @@
+window.data=[["no-ignored",22,12,"useless fragment","File:Jenderal pdh ad.png#mw-jump-to-license"]]

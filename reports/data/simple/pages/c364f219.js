@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",49,4,"duplicated style attribute","style=\"width:200px\""],["no-duplicate",49,25,"duplicated style attribute","style=\"{{NFLPrimaryStyle|Carolina Panthers}}\""],["no-duplicate",49,119,"duplicated style attribute","style=\"width:200px\""],["no-duplicate",49,140,"duplicated style attribute","style=\"{{NFLPrimaryStyle|Denver Broncos}}\""]]

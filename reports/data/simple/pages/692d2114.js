@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",14,3,"duplicated parameter"," module           = {{Infobox musical artist|embed=yes\n | label            = {{hlist|RGF|[[Tr3yway]]"],["no-duplicate",19,3,"duplicated parameter"," module            = {{infobox criminal\n | child = yes\n | criminal_status    = [[Imprisonment|Incarc"],["lonely-apos",36,4871,"lonely \"'\"","'"]]

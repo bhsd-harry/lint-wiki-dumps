@@ -1,0 +1,1 @@
+window.data=[["tag-like",32,763,"lonely \"<\"","<font"],["unmatched-tag",32,827,"unmatched closing tag","</font>"],["unmatched-tag",221,765,"unclosed tag","<font color=\"lightblue\">"],["unmatched-tag",221,790,"unclosed tag","<font color=\"blue\">"],["unmatched-tag",221,966,"unmatched closing tag","</font>"]]

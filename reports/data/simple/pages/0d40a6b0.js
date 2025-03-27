@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",166,18,"lonely \"'\"","'"],["lonely-apos",523,3,"lonely \"'\"","'"],["fostered-content",1273,1,"content to be moved out from the table"," * '''Goalkeeper''': [[Heinz Lindner]] (36/-)\n * '''Defenders''': [[Emir Dilaver]] (26/2), [[Fabian "]]

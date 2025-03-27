@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,1,"duplicated category","[[Category:History of Asia]]"],["no-duplicate",5,2,"duplicated category","[[Category:History of Asia]]"]]

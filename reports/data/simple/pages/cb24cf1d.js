@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,48,"useless link text","|Soviet Union"]]

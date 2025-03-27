@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",45,3,"duplicated parameter"," blank_info_sec2 = [[Kapampangan language|Kapampangan]]\n "],["no-duplicate",47,3,"duplicated parameter"," blank_info_sec2 = \n "]]

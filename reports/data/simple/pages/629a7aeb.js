@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",37,3,"duplicated parameter"," blank_info_sec2 = [[Hiligaynon language|Hiligaynon]]\n "],["no-duplicate",39,3,"duplicated parameter"," blank_info_sec2 = \n "]]

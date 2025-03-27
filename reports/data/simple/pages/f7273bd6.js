@@ -1,0 +1,1 @@
+window.data=[["no-ignored",9,14,"containing invalid attribute",";data-sort-type=\"number\"  "],["no-ignored",10,14,"containing invalid attribute",";data-sort-type=\"number\"  "]]

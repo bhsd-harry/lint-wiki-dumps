@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,3,"duplicated parameter","birth_date= {{Birth date and age|1933|8|12}}\n "],["no-duplicate",8,3,"duplicated parameter","birth_date= {{birth date|1933|8|12}}\n "],["no-duplicate",4,3,"duplicated parameter","death_date=\n "],["no-duplicate",10,3,"duplicated parameter","death_date= {{death date and age|2023|03|29|1933|8|12}}\n "]]

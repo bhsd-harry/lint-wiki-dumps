@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",526,4,"illegal attribute name","Bravoora"],["illegal-attr",526,13,"illegal attribute name","Awards"],["no-ignored",526,19,"containing invalid attribute"," (Poland) "]]

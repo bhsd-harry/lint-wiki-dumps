@@ -1,0 +1,1 @@
+window.data=[["lonely-http",87,6,"lonely \"https://\"","https://"],["illegal-attr",87,14,"illegal attribute name","en.wikipedia.org"],["illegal-attr",87,31,"illegal attribute name","wiki"],["illegal-attr",87,36,"illegal attribute name","Drop_Dead_Diva"],["no-ignored",87,3,"containing invalid attribute","''[https://"]]

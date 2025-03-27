@@ -1,0 +1,1 @@
+window.data=[["no-ignored",18,1,"invalid parameter of <inputbox>"," type=create"],["no-ignored",19,1,"invalid parameter of <inputbox>"," width=45"],["no-ignored",20,1,"invalid parameter of <inputbox>"," "],["lonely-bracket",48,97,"lonely \"[\"","[["]]

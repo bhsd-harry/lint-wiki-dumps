@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",86,584,"duplicated parameter","author2=Cristian González-Acosta "],["no-duplicate",86,618,"duplicated parameter","author2=Pedro Henrique Dias"]]

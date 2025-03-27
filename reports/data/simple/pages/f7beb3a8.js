@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",57,2,"duplicated category","[[Category:2006 fantasy movies]]"],["no-duplicate",68,2,"duplicated category","[[Category:2006 fantasy movies]]"]]

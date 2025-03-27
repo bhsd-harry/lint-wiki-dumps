@@ -1,0 +1,1 @@
+window.data=[["no-ignored",253,42,"containing invalid attribute","  /  \"Rapp, Marcel\"  /  \"Herdling, Kai\"  "]]

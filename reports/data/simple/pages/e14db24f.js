@@ -1,0 +1,1 @@
+window.data=[["no-ignored",72,1,"invalid content in <gallery>"," {{Cleanup-gallery}}"],["no-ignored",77,1,"invalid content in <gallery>"," [[File:Rezwana Choudhury Bannya]]"]]

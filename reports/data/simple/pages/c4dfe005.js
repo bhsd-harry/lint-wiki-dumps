@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",11,3,"duplicated parameter"," map_caption            = {{PH wikidata|map_caption}}\n "],["no-duplicate",13,3,"duplicated parameter"," map_caption = Canlubang map locayed within the Philippines.\n "]]

@@ -1,0 +1,1 @@
+window.data=[["fostered-content",1309,1,"content to be moved out from the table"," * '''Goalkeepers:''' [[Christian Gratzei]] (26 matches/ 2340 minutes/ 0 goals), [[Silvije Čavlina]]"]]

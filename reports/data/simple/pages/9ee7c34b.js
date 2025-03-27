@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,45,"duplicated image caption parameter","link=https://en.wikipedia.org/wiki/File:Descendants of Izanami alone-en.svg"],["no-duplicate",4,137,"duplicated image caption parameter","Family tree of Toyuoke-hime"]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",449,12,"illegal attribute name","LNAH"],["illegal-attr",449,17,"illegal attribute name","season"],["no-ignored",449,3,"containing invalid attribute"," 2015–16 "],["illegal-attr",463,12,"illegal attribute name","LNAH"],["illegal-attr",463,17,"illegal attribute name","season"],["no-ignored",463,3,"containing invalid attribute"," 2016–17 "]]

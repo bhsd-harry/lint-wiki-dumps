@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",40,3,"duplicated parameter"," blank_info_sec2 = [[Ilocano dialects]]\n "],["no-duplicate",42,3,"duplicated parameter"," blank_info_sec2 = \n "]]

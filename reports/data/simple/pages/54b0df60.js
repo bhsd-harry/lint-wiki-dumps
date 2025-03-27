@@ -1,0 +1,1 @@
+window.data=[["parsing-order",137,5,"HTML tag in table attributes","<sup>"],["parsing-order",137,11,"HTML tag in table attributes","</sup>"],["no-ignored",137,4,"containing invalid attribute"," <sup>†</sup>"],["invalid-css",527,17,"colon expected",";"]]

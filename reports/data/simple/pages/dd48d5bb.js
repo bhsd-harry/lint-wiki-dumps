@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",304,333,"tag that is both closing and self-closing","</br>"],["no-duplicate",580,33,"duplicated style attribute","style=\"background: #C0C0C0\""],["no-duplicate",580,62,"duplicated style attribute","style=\"background: #E6BE8A  \""]]

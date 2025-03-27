@@ -1,0 +1,1 @@
+window.data=[["no-ignored",11,1,"invalid parameter of <inputbox>"," type=fulltext"],["no-ignored",12,1,"invalid parameter of <inputbox>"," searchfilter=incategory:\"Harv and Sfn no-target errors\""],["no-ignored",13,1,"invalid parameter of <inputbox>"," namespaces=Main**"],["no-ignored",14,1,"invalid parameter of <inputbox>"," "]]

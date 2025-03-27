@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",117,16,"duplicated parameter","website=Presse fédéraliste "],["no-duplicate",117,255,"duplicated parameter","website=www.pressefederaliste.eu "]]

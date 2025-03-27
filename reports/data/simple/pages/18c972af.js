@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",33,24,"illegal attribute name","0"],["illegal-attr",33,26,"illegal attribute name","0"],["no-ignored",33,27,"containing invalid attribute"," 0.5em\""],["no-duplicate",33,24,"duplicated 0 attribute","0"],["no-duplicate",33,26,"duplicated 0 attribute","0"],["illegal-attr",47,3,"illegal attribute name","cellspacing"]]

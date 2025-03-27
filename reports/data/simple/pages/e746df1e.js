@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",12,3,"duplicated parameter"," mapsize                         = 260px\n "],["no-duplicate",14,3,"duplicated parameter"," mapsize = \n "]]

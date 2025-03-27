@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",1,318,"lonely \"{\"","{{"],["lonely-bracket",1,336,"lonely \"}\"","}}"],["tag-like",1,338,"lonely \"<\"","<ref"],["no-ignored",1,310,"containing invalid attribute","|height={{height|ft=5|in=4}}<ref "],["no-duplicate",1,299,"duplicated name attribute","name=\"slam\""],["no-duplicate",1,343,"duplicated name attribute","name=\"shimbio\""]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",32,29,"illegal attribute name","Nouvelle"],["illegal-attr",32,38,"illegal attribute name","Donne"],["no-ignored",32,4,"containing invalid attribute"," 2010|| ''Gladiator'' || "]]

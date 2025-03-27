@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",42,18,"illegal attribute name","district"],["no-ignored",42,3,"containing invalid attribute","[2 [Sipahijala "],["illegal-attr",48,14,"illegal attribute name","district"],["no-ignored",48,3,"containing invalid attribute","[4 [Gomati "]]

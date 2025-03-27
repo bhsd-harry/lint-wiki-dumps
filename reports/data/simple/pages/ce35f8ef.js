@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",23,386,"duplicated parameter","first4 = Maciej "],["no-duplicate",23,419,"duplicated parameter","first4 = Andrzej "]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",44,3,"duplicated parameter"," website             = <!--{{URL|example.com}}-->\n "],["no-duplicate",62,3,"duplicated parameter"," website             = <!--{{URL|example.com}}-->\n "]]

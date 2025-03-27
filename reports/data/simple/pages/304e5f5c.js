@@ -1,0 +1,1 @@
+window.data=[["no-ignored",24,1,"invalid content in <gallery>"," [[File:Attributed_to_Bartolomeo_Cavarozzi_(Italian)_-_The_Supper_at_Emmaus_-_Google_Art_Project.jpg"],["no-ignored",26,1,"invalid content in <gallery>"," 's school iskolája, [[Kunsthistorisches Museum]]"]]

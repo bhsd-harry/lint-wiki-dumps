@@ -1,0 +1,1 @@
+window.data=[["no-ignored",109,168,"attributes of a closing tag"," style=\"outline: 1px solid #da1d81;\""]]

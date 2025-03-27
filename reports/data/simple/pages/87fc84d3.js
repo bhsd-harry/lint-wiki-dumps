@@ -1,0 +1,1 @@
+window.data=[["no-ignored",17,184,"attributes of a closing tag"," face"],["no-ignored",17,291,"attributes of a closing tag"," face"]]

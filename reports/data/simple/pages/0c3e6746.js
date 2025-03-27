@@ -1,0 +1,1 @@
+window.data=[["no-ignored",48,1,"invalid content in <gallery>"," File:Basra-ps64.JPG?uselang=fa] [[File:Basra-ps64.JPG|Map of Persian Gulf "],["lonely-bracket",50,62,"lonely \"]\"","]]"]]

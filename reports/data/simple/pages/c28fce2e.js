@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",27,58,"illegal attribute name","Setyembre"],["illegal-attr",27,72,"illegal attribute name","2022"],["no-ignored",27,67,"containing invalid attribute"," 25, "],["invalid-css",31,37,"} expected","\""],["invalid-css",33,34,"} expected","\""]]

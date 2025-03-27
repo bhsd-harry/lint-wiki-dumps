@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",41,4,"illegal attribute name","http:"],["illegal-attr",41,11,"illegal attribute name","www.nhl.com"],["illegal-attr",41,23,"illegal attribute name","stats"],["no-ignored",41,28,"containing invalid attribute","/player?reportType=season&report=skatersummary&season=20152016&gameType=2&sort=goals&aggregate=0&pos"]]

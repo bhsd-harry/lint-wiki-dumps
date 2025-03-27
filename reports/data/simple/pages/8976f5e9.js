@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,660,"duplicated image alt parameter","alt=Map"],["no-duplicate",3,668,"duplicated image alt parameter","alt=Map"]]

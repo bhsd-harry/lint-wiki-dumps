@@ -1,0 +1,1 @@
+window.data=[["invalid-css",67,61,"semi-colon expected","%"],["no-ignored",84,3,"containing invalid attribute"," ''Shararat (TV series)"]]

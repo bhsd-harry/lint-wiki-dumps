@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",658,25,"duplicated style attribute","style=\"text-align:center;\""],["no-duplicate",658,53,"duplicated style attribute","style=\"background: #f2f2f2;\""]]

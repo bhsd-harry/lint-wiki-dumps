@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",215,19,"illegal attribute name","Party"],["illegal-attr",215,25,"illegal attribute name","for"],["illegal-attr",215,29,"illegal attribute name","Socialism"],["illegal-attr",215,39,"illegal attribute name","and"],["illegal-attr",215,43,"illegal attribute name","Liberation"]]

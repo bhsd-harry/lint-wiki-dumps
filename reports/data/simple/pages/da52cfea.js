@@ -1,0 +1,1 @@
+window.data=[["no-ignored",105,1,"invalid content in <gallery>"," Arkansas borders [[Louisiana]] to the south, [[Texas]] to the southwest, [[Oklahoma]] to the west, "]]

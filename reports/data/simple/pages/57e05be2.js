@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",594,57,"illegal attribute name","cellpadding"],["no-duplicate",601,4,"duplicated class attribute","class=\"width:9%;\""],["no-duplicate",601,23,"duplicated class attribute","class=\"unsortable\""]]

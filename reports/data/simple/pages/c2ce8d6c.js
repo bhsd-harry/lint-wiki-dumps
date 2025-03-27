@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:16th century in India|Establishments]]"],["no-duplicate",7,2,"duplicated category","[[Category:16th century in India]]"]]

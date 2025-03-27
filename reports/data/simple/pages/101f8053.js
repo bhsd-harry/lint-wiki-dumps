@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",1,3,"illegal attribute name","table"],["no-ignored",1,54,"containing invalid attribute",";width:130%\"  "],["illegal-attr",3,69,"illegal attribute name","cellpadding"],["no-ignored",3,39,"containing invalid attribute",";width:100%\"  "]]

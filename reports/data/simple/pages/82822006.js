@@ -1,0 +1,1 @@
+window.data=[["no-ignored",60,91,"containing invalid attribute","   20,000"],["lonely-http",134,122,"lonely \"http://\"","http://"],["illegal-attr",134,129,"illegal attribute name","www.kampwesterbork.nl"],["no-ignored",134,120,"containing invalid attribute"," [http://"]]

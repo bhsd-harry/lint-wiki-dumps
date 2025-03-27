@@ -1,0 +1,1 @@
+window.data=[["invalid-css",299,18,"semi-colon expected",""],["invalid-css",299,17,"colon expected","="],["no-ignored",299,19,"containing invalid attribute","30%\"; font-size:95%; text-align:left; padding:-2px; background:FFFFFF\"  "],["unmatched-tag",316,2,"unmatched closing tag","</div>"],["unmatched-tag",320,2,"unmatched closing tag","</div>"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",11,3,"duplicated parameter"," predecessor         = [[Mohammad Mokhber]] (acting)\n "],["no-duplicate",39,3,"duplicated parameter"," predecessor         = [[Mohammad Mokhber]] (acting)\n "]]

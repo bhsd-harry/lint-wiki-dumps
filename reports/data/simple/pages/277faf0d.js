@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",1,55,"lonely \"}\"","}}"],["lonely-bracket",68,4,"lonely \"{\"","{{"],["no-ignored",68,3,"containing invalid attribute"," {{big"]]

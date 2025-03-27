@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",17,3,"duplicated parameter"," issue= Stillborn ({{circa|1555}})<br>Stillborn ({{circa|1556}})\n "],["no-duplicate",28,19,"duplicated parameter","issue="]]

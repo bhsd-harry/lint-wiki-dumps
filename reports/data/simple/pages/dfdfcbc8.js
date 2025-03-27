@@ -1,0 +1,1 @@
+window.data=[["parsing-order",10,32,"extension tag in HTML tag attributes","<ref name=\"Gordon 2005\">{{cite book |last=Gordon |first=Yefim |author2=Dimitriy and Sergey Komissaro"],["parsing-order",11,24,"extension tag in HTML tag attributes","<ref name=\"Gordon 2005\"/>"],["parsing-order",17,22,"extension tag in HTML tag attributes","<ref name=\"Gordon 2005\"/>"]]

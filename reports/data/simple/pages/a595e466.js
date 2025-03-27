@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,50,"useless link text","|British 1 Columbia New Democratic group of persons"]]

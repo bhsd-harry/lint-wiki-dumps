@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,47,"useless link text","|2022 Afghanistan earthquake"]]

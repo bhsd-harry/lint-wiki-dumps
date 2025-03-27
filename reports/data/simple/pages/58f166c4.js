@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",84,3,"duplicated {{party shading/republican}} attribute","{{Party shading/Republican}}"],["no-duplicate",84,32,"duplicated {{party shading/republican}} attribute","{{Party shading/Republican}}"]]

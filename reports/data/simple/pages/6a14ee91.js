@@ -1,0 +1,1 @@
+window.data=[["no-ignored",11,1,"invalid parameter of <inputbox>"," type=search2"],["no-ignored",12,1,"invalid parameter of <inputbox>"," buttonlabel=Search"],["no-ignored",13,1,"invalid parameter of <inputbox>"," width=22"],["no-ignored",14,1,"invalid parameter of <inputbox>"," id=MP"],["no-ignored",15,1,"invalid parameter of <inputbox>"," "]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:20th century by country|Pakistan]]"],["no-duplicate",7,2,"duplicated category","[[Category:20th century by country|Pakistan]]"],["no-duplicate",4,2,"duplicated category","[[Category:20th century in Asia|Pakistan]]"],["no-duplicate",6,2,"duplicated category","[[Category:20th century in Asia|Pakistan]]"]]

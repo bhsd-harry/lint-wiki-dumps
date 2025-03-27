@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",56,3,"duplicated style attribute","style=\"width:160px\""],["no-duplicate",56,24,"duplicated style attribute","style=\"{{NFLPrimaryStyle|New England Patriots}}\""],["no-duplicate",56,124,"duplicated style attribute","style=\"width:160px\""],["no-duplicate",56,145,"duplicated style attribute","style=\"{{NFLPrimaryStyle|Atlanta Falcons}}\""]]

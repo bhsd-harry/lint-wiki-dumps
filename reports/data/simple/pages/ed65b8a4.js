@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,33,"useless link text","|Fall of Kabul"]]

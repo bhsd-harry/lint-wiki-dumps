@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",19,29,"illegal attribute name","nowrap"],["lonely-bracket",110,3,"lonely \"{\"","{{"],["no-ignored",110,3,"containing invalid attribute","{{nowrap"]]

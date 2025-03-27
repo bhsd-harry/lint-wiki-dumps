@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",62,4,"illegal attribute name","Mainichi"],["illegal-attr",62,13,"illegal attribute name","Film"],["illegal-attr",62,18,"illegal attribute name","Awards"]]

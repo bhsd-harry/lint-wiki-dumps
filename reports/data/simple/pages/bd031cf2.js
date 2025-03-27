@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:1840s establishments in Europe|Germany]]"],["no-duplicate",5,2,"duplicated category","[[Category:1840s establishments in Europe|Germany]]"]]

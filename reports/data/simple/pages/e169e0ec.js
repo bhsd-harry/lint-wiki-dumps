@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",54,74,"lonely \"'\"","'"],["no-duplicate",99,197,"duplicated parameter","last=CNN"],["no-duplicate",99,217,"duplicated parameter","last=Respers France"]]

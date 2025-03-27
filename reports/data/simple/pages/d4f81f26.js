@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,3,"duplicated parameter","succession = [[Emir of Kuwait]]\n "],["no-duplicate",4,3,"duplicated parameter"," succession   = [[List of emirs of Kuwait|Emir of Kuwait]]\n "]]

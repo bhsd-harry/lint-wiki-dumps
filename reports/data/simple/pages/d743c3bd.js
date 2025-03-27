@@ -1,0 +1,1 @@
+window.data=[["no-ignored",518,31,"containing invalid attribute","; color:#FFF;\""]]

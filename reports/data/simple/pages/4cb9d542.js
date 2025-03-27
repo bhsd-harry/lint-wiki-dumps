@@ -1,0 +1,1 @@
+window.data=[["no-ignored",17,1,"invalid content in <gallery>"," The biosynthesis of lovastatin occurs via an iterative type I polyketide synthase (PKS) pathway. Th"]]

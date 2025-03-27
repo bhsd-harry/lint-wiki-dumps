@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",13,3,"duplicated parameter"," sat_serv_1 = [[SKY México]]\n "],["no-duplicate",17,3,"duplicated parameter"," sat_serv_1 = [[Dish Network]]\n "],["no-duplicate",14,3,"duplicated parameter"," sat_chan_1 = 709\n "],["no-duplicate",18,3,"duplicated parameter"," sat_chan_1 = Channel 868\n "]]

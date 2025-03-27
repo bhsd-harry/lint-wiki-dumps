@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",105,3,"duplicated parameter","publisher=The Bruce Brouch Press"],["no-duplicate",105,121,"duplicated parameter","publisher="]]

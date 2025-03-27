@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",27,79,"illegal attribute name","National"],["illegal-attr",27,88,"illegal attribute name","Basketball"],["illegal-attr",27,99,"illegal attribute name","League"],["no-ignored",27,66,"containing invalid attribute","  '''Women's "],["no-ignored",27,105,"containing invalid attribute"," (WNBL)'''"]]

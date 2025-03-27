@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,3,"duplicated parameter"," caption    = \n "],["no-duplicate",20,3,"duplicated parameter"," caption           = \n "]]

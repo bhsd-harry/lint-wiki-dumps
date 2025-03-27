@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",26,59,"illegal attribute name","Christian"],["illegal-attr",26,69,"illegal attribute name","Democratic"],["illegal-attr",26,80,"illegal attribute name","Party"],["no-ignored",26,85,"containing invalid attribute"," (Chile)"]]

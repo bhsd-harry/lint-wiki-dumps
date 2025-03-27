@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",20,4,"lonely \"[\"","["],["unescaped",20,46,"unescaped query string in an anonymous parameter","="]]

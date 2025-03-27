@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",17,3,"duplicated parameter"," years2 =\n "],["no-duplicate",18,3,"duplicated parameter"," years2 = 1977-1981\n "]]

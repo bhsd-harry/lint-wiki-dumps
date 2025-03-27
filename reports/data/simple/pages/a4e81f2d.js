@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,195,"duplicated name attribute","name=ref"],["no-duplicate",2,204,"duplicated name attribute","name=ABSUCL"]]

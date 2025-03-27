@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",22,520,"duplicated parameter","publisher=Herald Sun"],["no-duplicate",22,541,"duplicated parameter","publisher=PAGEANT Circle"],["no-duplicate",22,886,"duplicated parameter","publisher=Herald Sun"],["no-duplicate",22,907,"duplicated parameter","publisher=Gold Coast Magazine"]]

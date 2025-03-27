@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[Category:American singers by genre|R&B]]"],["no-duplicate",2,2,"duplicated category","[[Category:American singers by genre|Soul]]"]]

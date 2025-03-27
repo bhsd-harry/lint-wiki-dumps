@@ -1,0 +1,1 @@
+window.data=[["no-ignored",66,11,"invalid content in <gallery>","<center>  Image:Acanthopleura_granulata_with_Nerita_tessellata.jpg|two '''''chitons''''' with small "],["no-ignored",74,1,"invalid content in <gallery>"," </center>"]]

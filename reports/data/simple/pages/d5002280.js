@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",9,3,"duplicated parameter"," era              = {{circa|600 BC to 525 AD}}\n "],["no-duplicate",11,3,"duplicated parameter"," era        = Developed into [[Old Welsh]], [[Cumbric language|Old Cumber]], [[Cornish language|Old "]]

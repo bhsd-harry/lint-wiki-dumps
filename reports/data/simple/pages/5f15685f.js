@@ -1,0 +1,1 @@
+window.data=[["invalid-css",48,59,"term expected",";"],["no-ignored",48,61,"containing invalid attribute","color:#708090;\""],["invalid-css",127,59,"term expected",";"],["no-ignored",127,61,"containing invalid attribute","color:#708090;\""]]

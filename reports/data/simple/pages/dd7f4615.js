@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",145,5,"lonely \"{\"","{{"],["illegal-attr",145,13,"illegal attribute name","shading"],["no-ignored",145,4,"containing invalid attribute"," {{Party "],["no-ignored",145,20,"containing invalid attribute","/Democratic-Republican}"]]

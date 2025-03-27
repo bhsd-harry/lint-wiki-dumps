@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",31,1052,"lonely \"'\"","'"],["no-ignored",52,2491,"containing invalid attribute"," name\"Croft\""]]

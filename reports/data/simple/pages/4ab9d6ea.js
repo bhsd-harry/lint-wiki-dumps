@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",50,50,"illegal attribute name","cellpadding"],["invalid-css",422,66,"property value expected","%"],["lonely-bracket",1185,72,"lonely \"{\"","{{"],["no-ignored",1185,71,"containing invalid attribute"," {{center"]]

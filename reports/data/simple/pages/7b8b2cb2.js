@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,3,"duplicated parameter","image                  = Saint-Martin.jpg\n "],["no-duplicate",6,3,"duplicated parameter","image                  = ReMartin.jpg\n "]]

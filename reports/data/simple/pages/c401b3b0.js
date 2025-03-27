@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,46,"duplicated image caption parameter","link=https://en.wikipedia.org/wiki/File:Solarpunk Flag Vectorized Version.svg"],["no-duplicate",1,146,"duplicated image caption parameter","The Solarpunk Flag"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",32,46,"duplicated parameter","title=The State of Ladino Today "],["no-duplicate",32,179,"duplicated parameter","title=Tracy K. "]]

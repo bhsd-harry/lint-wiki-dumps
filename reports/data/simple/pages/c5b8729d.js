@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",15,3,"duplicated parameter","ancestor3 = [[Latino-Faliscan languages#Phonology|Proto-Latino-Faliscan]]\n "],["no-duplicate",16,3,"duplicated parameter","ancestor3 = [[Old Latin]]\n "]]

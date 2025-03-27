@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",164,149,"unclosed tag","<font face=\"Papyrus\">"],["unmatched-tag",164,279,"unclosed tag","<font color=\"red\">"],["no-ignored",164,335,"attributes of a closing tag"," face"],["unmatched-tag",164,351,"unmatched closing tag","</b>"],["unmatched-tag",164,357,"unclosed tag","<font color=\"black\">"]]

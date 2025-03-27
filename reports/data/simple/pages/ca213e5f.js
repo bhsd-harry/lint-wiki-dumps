@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,67,"duplicated image caption parameter","link=//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Wufang Shangdi – Five Forms of the Supreme "],["no-duplicate",1,258,"duplicated image caption parameter","The [[Five manifestations of Shangdi|Wufang Shangdi]] a set of Confucian deities"]]

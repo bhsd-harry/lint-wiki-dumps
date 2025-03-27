@@ -1,0 +1,1 @@
+window.data=[["parsing-order",15,43,"HTML tag in table attributes","<br />"],["parsing-order",15,79,"HTML tag in table attributes","<br />"],["parsing-order",17,23,"extension tag in HTML tag attributes","<ref name=  \"Andrade p.65\">Andrade 1979, p. 65.</ref>"]]

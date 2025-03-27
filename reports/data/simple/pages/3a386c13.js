@@ -1,0 +1,1 @@
+window.data=[["parsing-order",176,3,"extension tag in HTML tag attributes","<ref name=\"ProvArea\">{{cite web|url=http://statline.cbs.nl/StatWeb/publication/?VW=T&DM=SLNL&PA=7007"],["no-ignored",176,3,"containing invalid attribute","<ref name=\"ProvArea\">{{cite web|url=http://statline.cbs.nl/StatWeb/publication/?VW=T&DM=SLNL&PA=7007"]]

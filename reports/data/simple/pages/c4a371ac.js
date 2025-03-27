@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",499,5,"illegal attribute name","http:"],["illegal-attr",499,12,"illegal attribute name","en.wikipedia.org"],["illegal-attr",499,29,"illegal attribute name","w"],["no-ignored",499,30,"containing invalid attribute","/index.php?title=Africa&"]]

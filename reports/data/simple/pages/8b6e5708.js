@@ -1,0 +1,1 @@
+window.data=[["no-ignored",80,4,"containing invalid attribute"," class\"wikitable plainrowheaders\"  "],["unclosed-table",80,2,"unclosed table","{|"]]

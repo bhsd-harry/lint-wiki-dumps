@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",7,4,"lonely \"'\"","'"],["lonely-apos",7,12,"lonely \"'\"","'"],["lonely-apos",291,3,"lonely \"'\"","'"],["unmatched-tag",351,253,"tag that is both closing and self-closing","</br>"],["unmatched-tag",351,882,"tag that is both closing and self-closing","</br>"],["lonely-apos",411,78,"lonely \"'\"","'"]]

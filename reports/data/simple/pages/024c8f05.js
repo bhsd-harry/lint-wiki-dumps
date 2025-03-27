@@ -1,0 +1,1 @@
+window.data=[["invalid-css",70,40,"semi-colon expected","0.9em"],["invalid-css",70,35,"colon expected","size"],["invalid-css",70,53,"identifier expected","50px"],["no-ignored",104,3,"containing invalid attribute"," colspan\"3\"  "]]

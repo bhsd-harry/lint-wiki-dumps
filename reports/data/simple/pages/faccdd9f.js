@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,67,"duplicated parameter","image=Izumooyashiro89.JPG\n "],["no-duplicate",2,3,"duplicated parameter","image=[[File:Meotoiwa.jpg|200px]]\n "]]

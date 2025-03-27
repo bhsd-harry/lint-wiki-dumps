@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",28,670,"duplicated parameter","publisher=University of California Press"],["no-duplicate",28,749,"duplicated parameter","publisher=Univ of California Press "]]

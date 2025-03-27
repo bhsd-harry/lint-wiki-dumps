@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,28,"useless link text","|chimaera"],["lonely-bracket",1,39,"lonely \"]\"","]"]]

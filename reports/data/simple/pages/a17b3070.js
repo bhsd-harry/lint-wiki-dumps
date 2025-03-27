@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",287,170,"illegal attribute name","1994"],["illegal-attr",287,175,"illegal attribute name","FIFA"],["illegal-attr",287,180,"illegal attribute name","World"],["illegal-attr",287,186,"illegal attribute name","Cup"],["illegal-attr",287,190,"illegal attribute name","Group"],["illegal-attr",287,196,"illegal attribute name","A"]]

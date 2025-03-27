@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",741,4,"lonely \"[\"","[["],["lonely-bracket",741,26,"lonely \"]\"","]]"],["no-ignored",741,4,"containing invalid attribute","[[Interstate 496|I-496]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,1070,"duplicated parameter","date=2010-07-30"],["no-duplicate",6,1340,"duplicated parameter","date=2010-06-01"],["no-duplicate",6,1205,"duplicated parameter","accessdate=2010-09-25"],["no-duplicate",6,1356,"duplicated parameter","accessdate=2010-09-25"]]

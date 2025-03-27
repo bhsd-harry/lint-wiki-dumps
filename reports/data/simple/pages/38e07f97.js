@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,2,"duplicated category","[[Category:Video games based on multiple mythologies]]"],["no-duplicate",7,2,"duplicated category","[[Category:Video games based on multiple mythologies]]"]]

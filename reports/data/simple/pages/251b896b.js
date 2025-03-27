@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",3,115,"illegal attribute name","l"],["illegal-attr",3,154,"illegal attribute name","l"],["no-ignored",3,153,"attributes of a closing tag","/l"]]

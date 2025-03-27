@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,210,"duplicated category","[[Category:Unsuccessful requests for adminship|{{SUBPAGENAME}}]]"],["no-duplicate",42,210,"duplicated category","[[Category:Unsuccessful requests for adminship|{{SUBPAGENAME}}]]"]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",206,24,"illegal attribute name","table"],["no-duplicate",206,30,"duplicated style attribute","style=\"border:1px #000000;\""],["no-duplicate",206,92,"duplicated style attribute","style=\"margin-left: 1em\""]]

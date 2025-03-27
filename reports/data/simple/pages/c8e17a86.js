@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",193,95,"duplicated parameter","url=https://www.ushmm.org/collections/the-museums-collections/collections-highlights/500-years-of-an"],["no-duplicate",193,217,"duplicated parameter","url=https://www.ushmm.org/collections/the-museums-collections/collections-highlights/500-years-of-an"]]

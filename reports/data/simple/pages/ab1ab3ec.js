@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,2,"duplicated category","[[Category:17th-century establishments in England| Colonial Empire]]"],["no-duplicate",6,2,"duplicated category","[[Category:17th-century establishments in England|Colonial empire]]"]]

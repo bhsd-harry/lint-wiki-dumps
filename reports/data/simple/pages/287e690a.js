@@ -1,0 +1,1 @@
+window.data=[["no-ignored",138,1,"useless fragment"," File:Kodeks_borbonic.jpg#/media/File:Kodeks_borbonic.jpg"]]

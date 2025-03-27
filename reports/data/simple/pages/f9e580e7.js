@@ -1,0 +1,1 @@
+window.data=[["invalid-css",39,119,"semi-colon expected",""],["invalid-css",39,118,"colon expected","="],["no-ignored",39,120,"containing invalid attribute","wikitable\""]]

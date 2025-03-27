@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",9,3,"duplicated parameter"," image_style              = border:none;\n "],["no-duplicate",10,3,"duplicated parameter"," image_style              = border:none;\n "]]

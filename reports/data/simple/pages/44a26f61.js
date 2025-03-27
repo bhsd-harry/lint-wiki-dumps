@@ -1,0 +1,1 @@
+window.data=[["no-ignored",10,38,"containing invalid attribute","  (europa)=\"\"  "],["no-ignored",52,36,"containing invalid attribute","  (europa)=\"\"  "],["no-ignored",55,38,"containing invalid attribute","  (champions)=\"\"  "],["no-ignored",86,36,"containing invalid attribute","  (champions)=\"\"  "]]

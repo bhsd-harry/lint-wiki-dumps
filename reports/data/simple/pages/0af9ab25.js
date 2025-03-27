@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",141,11,"illegal attribute name","Fulham"],["illegal-attr",141,18,"illegal attribute name","F.C."],["illegal-attr",141,23,"illegal attribute name","season"],["no-ignored",141,3,"containing invalid attribute","2019–20 "]]

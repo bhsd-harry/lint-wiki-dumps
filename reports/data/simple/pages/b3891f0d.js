@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",36,17,"duplicated parameter","title=Population Losses in the Holodomor and the Destruction of Related Archives: New Archival Evide"],["no-duplicate",36,178,"duplicated parameter","title=Hennadii "]]

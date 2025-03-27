@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",42,436,"lonely \"{\"","{{"],["pipe-like",70,72,"additional \"|\" in a table cell"," A gold, enamel egg supported by three lions is mounted on a pedestal. At the top is a royal elephan"]]

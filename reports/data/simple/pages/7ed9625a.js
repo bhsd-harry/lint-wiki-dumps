@@ -1,0 +1,1 @@
+window.data=[["no-ignored",14,1,"invalid content in <gallery>"," File:Lostau Hochwasser 2013-06-09.jpgA [[dike]] is being stanilized, near [[Magdeburg]]"]]

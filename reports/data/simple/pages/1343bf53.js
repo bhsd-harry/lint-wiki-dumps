@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",90,73,"lonely \"'\"","'"],["lonely-apos",96,32,"lonely \"'\"","'"]]

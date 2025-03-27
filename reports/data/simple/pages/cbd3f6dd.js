@@ -1,0 +1,1 @@
+window.data=[["invalid-css",3,109,"semi-colon expected",":"],["illegal-attr",7,18,"illegal attribute name","border"],["illegal-attr",7,31,"illegal attribute name","border"],["illegal-attr",7,38,"illegal attribute name","color"],["no-duplicate",7,18,"duplicated border attribute","border =\"1\""],["no-duplicate",7,31,"duplicated border attribute","border"]]

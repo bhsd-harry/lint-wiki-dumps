@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",74,3,"illegal attribute name","Kopparbergs"],["illegal-attr",74,24,"illegal attribute name","FC"],["no-ignored",74,14,"containing invalid attribute","/Göteborg "]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",30,4,"illegal attribute name","ABS"]]

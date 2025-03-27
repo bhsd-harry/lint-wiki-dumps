@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",20,3,"duplicated parameter"," ethnic_groups          = {{tree list}} \n *80% [[Thai people|Thai]]\n **37% Thai (Central Thai)\n **25"],["no-duplicate",33,3,"duplicated parameter"," ethnic_groups = [[Thai people|Thai]] (75%)<br>\n {{*}}Northeastern Thai ([[Lao people|Isan]]) (34.2%"]]

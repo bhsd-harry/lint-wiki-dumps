@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:Wars involving the Soviet Union]]"],["no-duplicate",8,2,"duplicated category","[[Category:Wars involving the Soviet Union]]"],["no-duplicate",6,2,"duplicated category","[[Category:Wars involving the United States]]"],["no-duplicate",9,2,"duplicated category","[[Category:Wars involving the United States]]"]]

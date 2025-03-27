@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",79,79,"duplicated image caption parameter","thumbtime=0:02"],["no-duplicate",79,199,"duplicated image caption parameter","Simulated views of the Moon over one month, demonstrating '''librations''' in [[latitude]] and [[lon"]]

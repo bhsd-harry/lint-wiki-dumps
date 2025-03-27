@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",39,5,"illegal attribute name","The"],["illegal-attr",39,26,"illegal attribute name","colspan"],["no-ignored",39,8,"containing invalid attribute"," table's caption! "]]

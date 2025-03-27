@@ -1,0 +1,1 @@
+window.data=[["no-ignored",14,1,"invalid content in <gallery>"," [[File:Masjid Putra, Putra Jaya KL Malaysia - Photo Bart Sakwerda.jpg|alt=Masjid Putra, Putra Jaya "]]

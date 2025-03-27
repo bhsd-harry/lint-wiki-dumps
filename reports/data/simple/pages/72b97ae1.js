@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",78,36,"duplicated parameter","title=Idlib: 'I cried so much when we heard the warplanes again' "],["no-duplicate",78,161,"duplicated parameter","title=Idlib: 'I cried so much when we heard the warplanes again' "]]

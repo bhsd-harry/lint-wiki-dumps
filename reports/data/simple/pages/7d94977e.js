@@ -1,0 +1,1 @@
+window.data=[["tag-like",236,83,"lonely \"<\"","<ref"],["no-ignored",236,83,"containing invalid attribute","<ref "],["no-duplicate",236,60,"duplicated name attribute","name=\"Etiopi in Italia\""],["no-duplicate",236,88,"duplicated name attribute","name=tuttitalia"]]

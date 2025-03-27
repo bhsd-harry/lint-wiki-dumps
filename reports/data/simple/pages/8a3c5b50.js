@@ -1,0 +1,1 @@
+window.data=[["no-ignored",446,3,"containing invalid attribute","''data-sort-value=1986-01-06"]]

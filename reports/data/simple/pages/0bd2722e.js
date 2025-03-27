@@ -1,0 +1,1 @@
+window.data=[["invalid-css",20,43,"semi-colon expected",""],["invalid-css",20,36,"colon expected","="],["no-ignored",20,44,"containing invalid attribute","  |font-size=\"60%\"  |text-align=\"right&quot;\""]]

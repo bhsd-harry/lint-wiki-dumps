@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",13,3,"duplicated parameter","image_caption            = A church in Milbank\n "],["no-duplicate",14,3,"duplicated parameter","image_caption            = \n "]]

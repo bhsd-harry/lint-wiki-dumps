@@ -1,0 +1,1 @@
+window.data=[["fostered-content",188,1,"content to be moved out from the table"," <ref>https://iramcenter.org/en/the-prominent-figure-as-al-sistanis-potential-successor-al-irvani-64"],["lonely-bracket",217,188,"lonely \"{\"","{{"]]

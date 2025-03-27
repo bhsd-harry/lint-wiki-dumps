@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",48,84,"illegal attribute name","background:"],["no-ignored",48,95,"containing invalid attribute"," #f6e39c;"],["illegal-attr",111,48,"illegal attribute name","Globe"],["illegal-attr",111,54,"illegal attribute name","Theatre"],["no-ignored",111,61,"containing invalid attribute"," (disambiguation)"]]

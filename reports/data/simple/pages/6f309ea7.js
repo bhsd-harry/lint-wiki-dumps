@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",122,8,"illegal attribute name","Passage"],["no-ignored",122,3,"containing invalid attribute","''Le "],["no-ignored",122,15,"containing invalid attribute"," (film)"],["illegal-attr",143,9,"illegal attribute name","Medic"],["no-ignored",143,3,"containing invalid attribute","''The "],["no-ignored",143,14,"containing invalid attribute"," (1979 film)"]]

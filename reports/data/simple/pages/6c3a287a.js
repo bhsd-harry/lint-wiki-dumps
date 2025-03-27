@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",40,18,"duplicated parameter","author1=Jiang, Wang"],["no-duplicate",40,38,"duplicated parameter","author1= Yan Che "]]

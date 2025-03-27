@@ -1,0 +1,1 @@
+window.data=[["parsing-order",841,4,"extension tag in HTML tag attributes","<ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388.6"],["no-ignored",841,3,"containing invalid attribute","1<ref>{{cite web|url=http://www.collectionscanada.gc.ca/rpm/028020-119.01-e.php?&file_num=nlc008388."]]

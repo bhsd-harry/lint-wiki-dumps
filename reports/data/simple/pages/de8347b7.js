@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",17,3,"duplicated parameter"," house = [[House of Bourbon-Condé|Bourbon-Condé]]\n "],["no-duplicate",20,3,"duplicated parameter"," house = [[House of Bourbon|Bourbon]] (Condé branch)\n "]]

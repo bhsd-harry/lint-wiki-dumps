@@ -1,0 +1,1 @@
+window.data=[["no-ignored",270,3,"containing invalid attribute","!scope=\"col\""],["no-ignored",271,3,"containing invalid attribute","!scope=\"col\""]]

@@ -1,0 +1,1 @@
+window.data=[["invalid-css",6,34,"colon expected","="],["no-ignored",6,37,"containing invalid attribute","sortable\""]]

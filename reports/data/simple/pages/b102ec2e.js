@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",287,97,"illegal attribute name","2006"],["illegal-attr",287,102,"illegal attribute name","FIFA"],["illegal-attr",287,107,"illegal attribute name","World"],["illegal-attr",287,113,"illegal attribute name","Cup"],["illegal-attr",287,117,"illegal attribute name","qualification"],["no-ignored",287,130,"containing invalid attribute"," (CONMEBOL)"]]

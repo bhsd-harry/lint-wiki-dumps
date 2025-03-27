@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",107,3,"duplicated parameter"," party               = [[Communist Party of Nepal (Unified Marxist–Leninist)|CPN (UML)]]\n "],["no-duplicate",110,3,"duplicated parameter"," party               = [[Communist Party of Nepal (Unified Marxist-Leninist)]]\n "]]

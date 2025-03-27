@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",13,23,"lonely \"[\"","[["],["illegal-attr",13,31,"illegal attribute name","War"],["lonely-bracket",13,36,"lonely \"]\"","]]"],["no-ignored",13,19,"containing invalid attribute"," || [[World "],["no-ignored",13,34,"containing invalid attribute"," I]]"]]

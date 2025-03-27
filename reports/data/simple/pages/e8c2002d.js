@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",4,2,"illegal attribute name","Son"],["illegal-attr",4,6,"illegal attribute name","name:"],["illegal-attr",4,12,"illegal attribute name","yousif"],["no-ignored",4,18,"containing invalid attribute"," shafik, "]]

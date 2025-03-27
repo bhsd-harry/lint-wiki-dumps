@@ -1,0 +1,1 @@
+window.data=[["tag-like",32,48,"lonely \"<\"","<abbr"],["unmatched-tag",32,127,"unmatched closing tag","</abbr>"],["illegal-attr",35,63,"illegal attribute name","data-mw"]]
