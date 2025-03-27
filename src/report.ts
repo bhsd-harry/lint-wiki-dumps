@@ -20,7 +20,7 @@ const mkdir = (dir: string, empty?: boolean): void => {
 const dataDir = path.join(__dirname, 'reports', 'data');
 mkdir(dataDir);
 
-const writeJS = (data: object, file: string): void => {
+const writeJS = (data: unknown[], file: string): void => {
 	fs.writeFileSync(path.join(dataDir, `${file}.js`), `window.data=${JSON.stringify(data)}`);
 };
 
@@ -30,28 +30,33 @@ const initJS = (file: string): fs.WriteStream => {
 	return stream;
 };
 
+const compare = (a: string, b: string): number => a.localeCompare(b);
+
 const resultDir = path.join(__dirname, 'results'),
 	dir = fs.readdirSync(resultDir),
-	summary: string[] = [];
+	summary = new Set<string>(),
+	ruleRecords = new Map<string, [string, string[]]>(),
+	wiki: Partial<Record<string, number>> = {},
+	siteDir = path.join(dataDir, lang!),
+	articlesDir = path.join(siteDir, 'pages');
+mkdir(siteDir, true);
+mkdir(articlesDir);
 for (const file of dir) {
+	if (!file.endsWith('.json')) {
+		continue;
+	}
 	const fileDir = path.join(resultDir, file);
 	if (!fs.existsSync(fileDir)) {
 		console.error(chalk.red(`Failed to read ${file}`));
 		continue;
 	}
-	const site = file.slice(0, -5);
-	summary.push(site);
-	if (lang && lang !== site) {
+	const k = file.search(/-\d+\.json$/u),
+		site = k === -1 ? file.slice(0, -5) : file.slice(0, k);
+	summary.add(site);
+	if (lang !== site) {
 		continue;
 	}
-	const data = fs.readFileSync(fileDir, 'utf8'),
-		ruleRecords = new Map<string, [string, string[]]>(),
-		wiki: Partial<Record<string, number>> = {},
-		siteDir = path.join(dataDir, site),
-		articlesDir = path.join(siteDir, 'pages');
-	mkdir(siteDir, true);
-	mkdir(articlesDir);
-
+	const data = fs.readFileSync(fileDir, 'utf8');
 	for (const mt of data.matchAll(/^(".+"): \[$/gmu)) {
 		const page: string = JSON.parse(mt[1]!),
 			hash = createHash('sha256').update(page).digest('hex')
@@ -95,25 +100,25 @@ for (const file of dir) {
 		}
 		writeJS(info, path.join(site, 'pages', hash));
 	}
-	writeJS(Object.entries(wiki).sort(([a], [b]) => a.localeCompare(b)), path.join(site, 'index'));
+}
 
-	// rule
-	for (const [rule, [str, pages]] of ruleRecords) {
-		const batches = Math.ceil(pages.length / 200);
-		pages.sort((a, b) => a.localeCompare(b));
-		for (let i = 0; i < batches; i++) {
-			const stream = initJS(path.join(siteDir, `${rule}-${i}`));
-			for (let j = i * 200; j < (i + 1) * 200; j++) {
-				const page = pages[j];
-				if (!page) {
-					break;
-				}
-				const index = str.indexOf(`[\n\t${JSON.stringify(page)}`);
-				stream.write(str.slice(index, str.indexOf('\n]', index) + 3));
+// rule
+for (const [rule, [str, pages]] of ruleRecords) {
+	const batches = Math.ceil(pages.length / 200);
+	pages.sort(compare);
+	for (let i = 0; i < batches; i++) {
+		const stream = initJS(path.join(siteDir, `${rule}-${i}`));
+		for (let j = i * 200; j < (i + 1) * 200; j++) {
+			const page = pages[j];
+			if (!page) {
+				break;
 			}
-			stream.write(`],"batches":${batches}}`);
-			stream.end();
+			const index = str.indexOf(`[\n\t${JSON.stringify(page)}`);
+			stream.write(str.slice(index, str.indexOf('\n]', index) + 3));
 		}
+		stream.write(`],"batches":${batches}}`);
+		stream.end();
 	}
 }
-writeJS(summary, 'index');
+writeJS([...summary].sort(compare), 'index');
+writeJS(Object.entries(wiki).sort(([a], [b]) => a.localeCompare(b)), path.join(lang!, 'index'));

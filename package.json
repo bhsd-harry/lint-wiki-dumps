@@ -20,7 +20,7 @@
 		"reports/*.css"
 	],
 	"bin": {
-		"lint-wiki-dumps": "scan.sh"
+		"lint-wiki-dumps": "scan-parallel.sh"
 	},
 	"repository": {
 		"type": "git",
