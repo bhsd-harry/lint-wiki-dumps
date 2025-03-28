@@ -1,0 +1,1 @@
+window.data=[["nested-link",106,170,"internal link in an external link","[[大韓民国|韓国]]"]]

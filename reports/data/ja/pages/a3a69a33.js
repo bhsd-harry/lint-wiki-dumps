@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",7,3,"illegal attribute name","nowrap"],["no-ignored",423,3,"containing invalid attribute"," カルビン・クーリッジ"],["illegal-attr",474,4,"illegal attribute name","nowrap"],["no-ignored",519,3,"containing invalid attribute"," リンドン・ジョンソン"],["no-ignored",557,3,"containing invalid attribute"," ジェラルド・R・フォード"]]

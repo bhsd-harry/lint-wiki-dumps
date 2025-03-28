@@ -1,0 +1,1 @@
+window.data=[["tag-like",75,82,"lonely \"<\"","<br"],["no-ignored",75,86,"invalid content in <gallery>","(画)[[浅井忠]] (1902)"]]

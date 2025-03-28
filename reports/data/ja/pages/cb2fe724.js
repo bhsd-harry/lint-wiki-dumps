@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",288,7,"lonely \"[\"","[["],["lonely-bracket",288,19,"lonely \"]\"","]]"],["no-ignored",288,5,"containing invalid attribute","||[[アラン・デサンミゲル]]||戦略コーチ兼ブルペン捕手"],["no-ignored",290,5,"containing invalid attribute","||{{仮リンク|パーカー・モーリン|en|Parker Morin}}||戦略コーチ兼ブルペン捕手"],["no-ignored",294,5,"containing invalid attribute","||ビル・デュプリシア||リプレイ・コーディネイター"]]

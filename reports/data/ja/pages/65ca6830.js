@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",285,23,"illegal attribute name","font-size"],["invalid-css",289,41,"semi-colon expected",":"],["illegal-attr",311,23,"illegal attribute name","font-size"],["illegal-attr",333,23,"illegal attribute name","font-size"],["illegal-attr",353,23,"illegal attribute name","font-size"]]

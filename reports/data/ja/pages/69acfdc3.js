@@ -1,0 +1,1 @@
+window.data=[["nested-link",29,61,"internal link in an external link","[[:en:Lawrence Person]]"],["nested-link",29,117,"internal link in an external link","[[:en:Nova Express (fanzine)|Nova Express]]"]]

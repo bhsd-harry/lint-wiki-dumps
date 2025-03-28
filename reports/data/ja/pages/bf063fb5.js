@@ -1,0 +1,1 @@
+window.data=[["nested-link",38,115,"internal link in an external link","[[プロジェクトEGG]]"],["nested-link",39,115,"internal link in an external link","[[プロジェクトEGG]]"]]

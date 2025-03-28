@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",50,243,"unmatched closing tag","</span>"],["nested-link",58,213,"internal link in an external link","[[パリ]]"],["lonely-bracket",58,501,"lonely \"{\"","{{"],["lonely-bracket",58,783,"lonely \"}\"","}}"],["lonely-bracket",389,126,"lonely \"]\"","]"]]

@@ -1,0 +1,1 @@
+window.data=[["invalid-css",1,117,"property value expected","#white"],["lonely-apos",466,622,"lonely \"'\"","'"]]

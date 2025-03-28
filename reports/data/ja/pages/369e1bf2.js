@@ -1,0 +1,1 @@
+window.data=[["nested-link",13,102,"internal link in an external link","[[日本食品標準成分表]]"]]

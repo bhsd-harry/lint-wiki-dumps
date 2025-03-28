@@ -1,0 +1,1 @@
+window.data=[["no-ignored",49,4,"containing invalid attribute","!放送日||!!タイトル!!"],["no-ignored",115,4,"containing invalid attribute","!放送日||!!タイトル!!"],["no-ignored",195,4,"containing invalid attribute","!放送日||!!タイトル!!"],["no-ignored",287,4,"containing invalid attribute","!放送日||!!タイトル!!"]]

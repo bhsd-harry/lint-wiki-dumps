@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,46,"useless link text","|ノルアドレナリン作動性・特異的セロトニン作動性抗うつ薬"]]

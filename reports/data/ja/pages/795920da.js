@@ -1,0 +1,1 @@
+window.data=[["no-ignored",35,57,"containing invalid attribute","programma\""],["no-ignored",36,73,"containing invalid attribute","programma\""],["no-ignored",37,40,"containing invalid attribute","programma\""],["lonely-bracket",43,736,"lonely \"]\"","]"]]

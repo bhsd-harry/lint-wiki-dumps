@@ -1,0 +1,1 @@
+window.data=[["no-ignored",717,4,"containing invalid attribute","1995年・春||相撲BEAUTIFUL||深沢和博"]]

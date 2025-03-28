@@ -1,0 +1,1 @@
+window.data=[["nested-link",65,53,"internal link in an external link","[[社僧]]"],["nested-link",65,63,"internal link in an external link","[[宮寺]]"],["nested-link",66,57,"internal link in an external link","[[weblio]]"],["nested-link",67,115,"internal link in an external link","[[goo辞書]]"],["nested-link",68,59,"internal link in an external link","[[コトバンク]]"]]

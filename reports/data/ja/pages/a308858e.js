@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",69,268,"lonely \"{\"","{{"],["lonely-bracket",69,353,"lonely \"}\"","}}"],["nested-link",82,417,"internal link in an external link","[[国土交通省]]"]]

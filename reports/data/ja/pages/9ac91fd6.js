@@ -1,0 +1,1 @@
+window.data=[["no-ignored",51,31,"containing invalid attribute","  rowspan\""],["no-ignored",413,3,"containing invalid attribute","style~\"white-space: nowrap;\"  "]]

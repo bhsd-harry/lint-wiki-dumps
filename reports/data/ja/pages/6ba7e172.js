@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",14,2,"duplicated category","[[Category:短編小説作家]]"],["no-duplicate",17,2,"duplicated category","[[Category:短編小説作家]]"]]

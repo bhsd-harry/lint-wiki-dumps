@@ -1,0 +1,1 @@
+window.data=[["no-ignored",117,1,"invalid content in <gallery>"," ファイル:Kyu-Takedanomiyatei-19991018.jpg<center>|旧竹田宮邸</center>"]]

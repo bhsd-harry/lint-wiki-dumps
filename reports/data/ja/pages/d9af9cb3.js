@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",28,8,"duplicated parameter","\n === 英語 ===\n :O arise all you sons of this land,\n :Let us sing of our joy to be free,\n :Praising Go"],["no-duplicate",49,3,"duplicated parameter","\n === 日本語訳 ===\n :ああ　立ち上がれ　この土地に生きる全ての息子 \n :私たちの喜びを歌うよ \n :神を賛美し歓喜し\n :パプアニューギニア\n\n :山から海に名を叫び \n :パプアニュー"]]

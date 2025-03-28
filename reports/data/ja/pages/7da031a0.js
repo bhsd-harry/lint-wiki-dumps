@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[Category:日本の外交官|*かいこうかん]]"],["no-duplicate",2,2,"duplicated category","[[Category:日本の外交官|*しよせい]]"]]

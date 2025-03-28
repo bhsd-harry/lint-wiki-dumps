@@ -1,0 +1,1 @@
+window.data=[["nested-link",32,178,"internal link in an external link","[[宝蔵寺 (山形県大江町)|月布山寶藏寺]]"]]

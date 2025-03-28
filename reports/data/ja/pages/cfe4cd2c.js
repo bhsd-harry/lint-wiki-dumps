@@ -1,0 +1,1 @@
+window.data=[["nested-link",159,244,"internal link in an external link","[[文部科学省]]"],["nested-link",159,253,"internal link in an external link","[[スポーツ]]"],["nested-link",159,262,"internal link in an external link","[[青少年]]"],["nested-link",159,273,"internal link in an external link","[[体育]]"]]

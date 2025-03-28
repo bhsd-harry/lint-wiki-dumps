@@ -1,0 +1,1 @@
+window.data=[["invalid-css",53,30,"} expected","'margin-left: auto; margin-right: auto'"],["invalid-css",127,30,"} expected","'margin-left: auto; margin-right: auto'"]]

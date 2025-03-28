@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",96,7,"illegal attribute name","scope"],["illegal-attr",105,7,"illegal attribute name","scope"],["invalid-css",106,40,"property value expected","#eeeee"],["illegal-attr",114,7,"illegal attribute name","scope"],["illegal-attr",123,7,"illegal attribute name","scope"],["illegal-attr",132,7,"illegal attribute name","scope"]]

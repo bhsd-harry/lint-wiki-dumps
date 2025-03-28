@@ -1,0 +1,1 @@
+window.data=[["no-ignored",365,115,"containing invalid attribute"," 十一面観世音菩薩{{Sfn|愛知県史誌出版協会編集事務局|1986|p=23}}"]]

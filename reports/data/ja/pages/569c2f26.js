@@ -1,0 +1,1 @@
+window.data=[["no-ignored",552,1,"useless fragment"," File:J30_637_Bf_Bartolom%C3%A9_Mitre,_MC024.jpg#mw-jump-to-license"]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",832,9,"lonely \"[\"","[["],["lonely-bracket",832,15,"lonely \"]\"","]]"],["no-ignored",832,4,"containing invalid attribute","この時点で[[国共内戦]]での劣勢により台湾へ亡命し、中国大陸を失った。"]]

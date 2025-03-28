@@ -1,0 +1,1 @@
+window.data=[["nested-link",8,473,"internal link in an external link","[[利用者:Bluebell|Bluebell]]"]]

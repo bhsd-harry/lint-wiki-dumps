@@ -1,0 +1,1 @@
+window.data=[["nested-link",74,55,"internal link in an external link","[[新疆ウイグル自治区|新疆]]"]]

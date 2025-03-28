@@ -1,0 +1,1 @@
+window.data=[["unclosed-comment",3,2,"unclosed HTML comment","<!--\n [[Category:ファシスト]]\n [[Category:ネオ・ファシズム]]\n [[Category:思想別の人物]]"]]

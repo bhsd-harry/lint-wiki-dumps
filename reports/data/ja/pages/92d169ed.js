@@ -1,0 +1,1 @@
+window.data=[["no-ignored",542,3,"containing invalid attribute","テレビアニメ『デュエル・マスターズキング！』エンディングテーマ"]]

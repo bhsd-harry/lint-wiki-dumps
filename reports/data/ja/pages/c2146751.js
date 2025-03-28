@@ -1,0 +1,1 @@
+window.data=[["no-ignored",101,66,"containing invalid attribute"," ヒットメーカー (セガ)"]]

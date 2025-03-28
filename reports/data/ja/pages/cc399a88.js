@@ -1,0 +1,1 @@
+window.data=[["tag-like",38,968,"lonely \"<\"","<ref"],["no-ignored",38,965,"containing invalid attribute","  /<ref "],["no-duplicate",38,954,"duplicated name attribute","name=\"FOCg\""],["no-duplicate",38,973,"duplicated name attribute","name=\"長田1976\""]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",15,331,"internal link in an external link","[[海部野根道路]]"],["nested-link",15,342,"internal link in an external link","[[徳島県|徳島]]"],["nested-link",15,352,"internal link in an external link","[[高知県|高知]]"]]

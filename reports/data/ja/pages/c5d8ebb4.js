@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",95,2,"duplicated category","[[Category:浦安D-Rocks及びその前身チームの選手]]"],["no-duplicate",100,2,"duplicated category","[[Category:浦安D-Rocks及びその前身チームの選手]]"]]

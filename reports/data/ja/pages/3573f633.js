@@ -1,0 +1,1 @@
+window.data=[["invalid-imagemap",171,1,"invalid link in <imagemap>"," poly 1664 340 1720 472 2432 188 2356 60 [[明神ヶ岳 (神奈川県)|]]"],["invalid-imagemap",172,1,"invalid link in <imagemap>"," poly 2420 484 2960 284 2928 176 2388 380 [[明星ヶ岳 (神奈川県)|]]"]]

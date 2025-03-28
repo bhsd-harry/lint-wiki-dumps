@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",318,266,"unmatched closing tag","</small>"],["no-duplicate",578,8,"duplicated parameter","\n === 現有車両 ===\n * コ3形 - [[近鉄生駒鋼索線|生駒鋼索線]] 宝山寺2号線\n * コ7形 - [[近鉄西信貴鋼索線|西信貴鋼索線]]\n ** コニ7形 - 西信貴鋼索線 貨車\n "],["no-duplicate",585,3,"duplicated parameter","\n === 過去の車両 ===\n * コ1形 - 生駒鋼索線 宝山寺1号線\n * コ5形 - 生駒鋼索線 山上線\n * コ9形 - [[近鉄東信貴鋼索線|東信貴鋼索線]]\n "]]

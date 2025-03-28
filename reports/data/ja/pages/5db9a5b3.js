@@ -1,0 +1,1 @@
+window.data=[["no-ignored",9,28,"containing invalid attribute","  \"北極海季報注8引用\""]]

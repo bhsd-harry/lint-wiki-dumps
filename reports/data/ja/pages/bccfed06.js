@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",23,4,"lonely \"[\"","[["],["lonely-bracket",23,11,"lonely \"]\"","]]"],["tag-like",23,37,"lonely \"<\"","<ref"],["no-ignored",22,32,"containing invalid attribute","/\n * [[1926年]]7月 - 史跡名勝天然記念物保存協会東京支部幹事<ref "],["no-duplicate",22,24,"duplicated name attribute","name=\"i\""],["no-duplicate",23,42,"duplicated name attribute","name=\"i\""]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",662,400,"internal link in an external link","[[本州四国連絡高速道路株式会社]]"]]

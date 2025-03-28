@@ -1,0 +1,1 @@
+window.data=[["no-ignored",170,52,"containing invalid attribute","2時間7分50秒=\"cc9966\""],["invalid-css",189,40,"colon expected",";"],["invalid-css",189,45,"colon expected",";"],["no-ignored",203,81,"containing invalid attribute","兄・啓太は1区で区間賞"]]

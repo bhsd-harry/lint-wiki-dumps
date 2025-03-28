@@ -1,0 +1,1 @@
+window.data=[["no-ignored",25,353,"containing invalid attribute","  \"45cat\"\""],["no-ignored",37,766,"containing invalid attribute"," name\"huffpost\""],["no-ignored",62,6,"containing invalid attribute","  \"secondhand\"\""]]

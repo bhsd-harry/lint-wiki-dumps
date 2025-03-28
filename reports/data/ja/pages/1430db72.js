@@ -1,0 +1,1 @@
+window.data=[["no-ignored",17,1,"invalid content in <gallery>"," {{cite web"],["no-ignored",27,1,"invalid content in <gallery>"," }}, 作者：Eric Erbe, Christopher Pooley"]]

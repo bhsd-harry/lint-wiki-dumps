@@ -1,0 +1,1 @@
+window.data=[["no-ignored",97,252,"containing invalid attribute","{{increase}}&nbsp;&nbsp;15,3 %"]]

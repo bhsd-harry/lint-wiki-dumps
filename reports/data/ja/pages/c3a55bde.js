@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",44,77,"duplicated image caption parameter","リンク=https://en.wikipedia.org/wiki/File:Cabin pressure and Bleed air control panels on a Boeing 737-8"],["no-duplicate",44,206,"duplicated image caption parameter","ボーイング737-800の与圧設定パネル（写真下部）。右下のノブが与圧システムの設定スイッチで、この写真では自動(AUTO)に設定されている。"],["illegal-attr",84,4,"illegal attribute name","colwidth"]]

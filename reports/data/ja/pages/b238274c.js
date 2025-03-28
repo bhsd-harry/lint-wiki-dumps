@@ -1,0 +1,1 @@
+window.data=[["invalid-css",12,49,"semi-colon expected",""],["invalid-css",12,49,"colon expected",""],["no-duplicate",236,14,"duplicated style attribute","style=\"text-align: right;\""],["no-duplicate",236,70,"duplicated style attribute","style=\"margin: 0 0 1em 1em; background: #f9f9f9; border: 0px #aaaaaa solid; border-collapse: collaps"]]

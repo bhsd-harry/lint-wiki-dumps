@@ -1,0 +1,1 @@
+window.data=[["no-ignored",46,1,"invalid content in <gallery>"," <br />''\"Nicolas I<sup>er</sup>  de Russie\"''"]]

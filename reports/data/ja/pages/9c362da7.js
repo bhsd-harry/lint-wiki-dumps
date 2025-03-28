@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",682,202,"lonely \"}\"","}"],["lonely-bracket",687,191,"lonely \"}\"","}"],["tag-like",886,57,"lonely \"<\"","<ref"],["no-ignored",886,69,"containing invalid attribute","注\"  "],["no-duplicate",886,51,"duplicated name attribute","name=\"<ref group=\""],["no-duplicate",886,73,"duplicated name attribute","name=\"YTONLY\""]]

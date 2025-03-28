@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",84,17,"duplicated style attribute","style=\"background:transparent;\""],["no-duplicate",84,50,"duplicated style attribute","style=\"width: 100%;\""],["lonely-bracket",1105,194,"lonely \"}\"","}"]]

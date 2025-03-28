@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",62,4,"duplicated align attribute","align=\"center\""],["no-duplicate",62,21,"duplicated align attribute","align=\"center\""],["unmatched-tag",73,29,"unmatched closing tag","</font>"]]

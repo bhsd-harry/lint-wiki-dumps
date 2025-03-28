@@ -1,0 +1,1 @@
+window.data=[["invalid-css",426,52,"semi-colon expected",""],["invalid-css",426,51,"colon expected","="],["no-ignored",426,53,"containing invalid attribute","text-align:center\""],["no-ignored",784,4,"containing invalid attribute"," {{MsStatsC|dsq}}| 黒 || 失格 (DSQ)"]]

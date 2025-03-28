@@ -1,0 +1,1 @@
+window.data=[["no-ignored",10,20,"containing invalid attribute","  style:\"color:white\""]]

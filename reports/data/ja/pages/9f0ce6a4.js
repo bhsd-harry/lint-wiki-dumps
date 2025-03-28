@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",32,3,"unclosed tag","<strike>"],["unmatched-tag",32,46,"unclosed tag","<strike>"]]

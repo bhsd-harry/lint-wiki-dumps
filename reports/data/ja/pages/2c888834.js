@@ -1,0 +1,1 @@
+window.data=[["nested-link",254,185,"internal link in an external link","[[町田市立総合体育館]]"],["nested-link",254,210,"internal link in an external link","[[成瀬駅]]"]]

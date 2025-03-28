@@ -1,0 +1,1 @@
+window.data=[["no-ignored",103,85,"containing invalid attribute"," 1890–1977"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,2,"duplicated category","[[Category:プロパガンダ・テクニック]]"],["no-duplicate",11,2,"duplicated category","[[Category:プロパガンダ・テクニック]]"]]

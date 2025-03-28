@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",19,989,"lonely \"]\"","]"],["no-ignored",186,3,"containing invalid attribute","2014年世界短水路選手権"]]

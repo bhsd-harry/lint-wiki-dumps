@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",7,2,"duplicated category","[[Category:みどり会]]"],["no-duplicate",10,2,"duplicated category","[[Category:みどり会]]"]]

@@ -1,0 +1,1 @@
+window.data=[["invalid-css",124,21,"property value expected","#silver"],["illegal-attr",149,3,"illegal attribute name","iOS"],["no-ignored",149,6,"containing invalid attribute"," 5系"],["invalid-css",293,21,"property value expected","#silver"]]

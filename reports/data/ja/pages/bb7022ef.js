@@ -1,0 +1,1 @@
+window.data=[["lonely-http",25,149,"lonely \"https://\"","https://"],["lonely-http",26,153,"lonely \"https://\"","https://"],["unescaped",26,209,"unescaped query string in an anonymous parameter","="],["lonely-http",27,155,"lonely \"https://\"","https://"],["unescaped",27,211,"unescaped query string in an anonymous parameter","="]]

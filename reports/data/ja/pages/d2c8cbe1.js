@@ -1,0 +1,1 @@
+window.data=[["nested-link",106,88,"internal link in an external link","[[旭川市]]"],["nested-link",106,96,"internal link in an external link","[[牧野富太郎]]"],["nested-link",107,81,"internal link in an external link","[[長野県]]"],["nested-link",107,89,"internal link in an external link","[[白馬岳]]"]]

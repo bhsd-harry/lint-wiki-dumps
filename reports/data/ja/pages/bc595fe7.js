@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,23,"useless link text","|ブルー・スカイ (アーヴィング・バーリンの曲)"]]

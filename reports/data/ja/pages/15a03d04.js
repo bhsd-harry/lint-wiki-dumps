@@ -1,0 +1,1 @@
+window.data=[["no-ignored",87,1,"invalid content in <gallery>"," [File:美江寺 (岐阜市)-菩薩mieji020.jpg|菩薩"]]

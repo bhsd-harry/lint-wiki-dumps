@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,8,"useless link text","|X光線"]]

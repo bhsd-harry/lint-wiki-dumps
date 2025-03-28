@@ -1,0 +1,1 @@
+window.data=[["parsing-order",2228,115,"extension tag in HTML tag attributes","<ref>{{cite web|url=http://www.nba.com/hawks/news/atlanta-hawks-and-danny-ferry-part-ways|title=Atla"],["no-ignored",2228,114,"containing invalid attribute"," <ref>{{cite web|url=http://www.nba.com/hawks/news/atlanta-hawks-and-danny-ferry-part-ways|title=Atl"]]

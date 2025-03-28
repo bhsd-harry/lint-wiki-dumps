@@ -1,0 +1,1 @@
+window.data=[["no-ignored",46,22,"containing invalid attribute","  |+ '''Kavalactones'''"]]

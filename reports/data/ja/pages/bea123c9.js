@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",35,678,"illegal attribute name","href"],["illegal-attr",35,888,"illegal attribute name","href"],["no-ignored",40,4,"containing invalid attribute","\"text-align:center; "],["unmatched-tag",78,1583,"unmatched closing tag","</p>"]]

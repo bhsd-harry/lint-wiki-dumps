@@ -1,0 +1,1 @@
+window.data=[["nested-link",96,331,"internal link in an external link","[[Electronics Weekly]]"],["nested-link",96,591,"internal link in an external link","[[CNET|CNET News]]"]]

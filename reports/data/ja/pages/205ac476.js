@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1024,22,"containing invalid attribute","群馬県道6号前橋箕郷線"],["no-ignored",1079,3,"containing invalid attribute","利根川橋 (常磐自動車道)"],["unescaped",1243,83,"unescaped query string in an anonymous parameter","="]]

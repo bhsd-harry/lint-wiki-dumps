@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,13,"duplicated category","[[Category:緊急案件| {{REVISIONTIMESTAMP}}]]"],["no-duplicate",7,13,"duplicated category","[[Category:緊急案件| {{REVISIONTIMESTAMP}}]]"]]

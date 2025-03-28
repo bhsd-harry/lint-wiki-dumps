@@ -1,0 +1,1 @@
+window.data=[["invalid-css",27,59,"semi-colon expected",":"],["no-ignored",45,43,"containing invalid attribute","第100回東京箱根間往復大学駅伝競走"],["invalid-css",49,59,"semi-colon expected",":"],["invalid-css",478,68,"semi-colon expected",":"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",6,177,"internal link in an external link","[[曹洞宗]]"],["nested-link",6,185,"internal link in an external link","[[道元]]"]]

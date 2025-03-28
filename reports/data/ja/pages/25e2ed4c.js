@@ -1,0 +1,1 @@
+window.data=[["no-ignored",78,31,"containing invalid attribute","  | 廃車年月"]]

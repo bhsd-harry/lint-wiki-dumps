@@ -1,0 +1,1 @@
+window.data=[["no-ignored",89,69,"containing invalid attribute","  |class=\"wikitable\""]]

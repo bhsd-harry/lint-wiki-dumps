@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",179,80,"illegal attribute name","1.00"],["no-ignored",227,346,"containing invalid attribute","刺殺"],["no-ignored",227,365,"containing invalid attribute","補殺"],["no-ignored",227,384,"containing invalid attribute","失策"],["no-ignored",227,403,"containing invalid attribute","併殺"],["no-ignored",227,422,"containing invalid attribute","守備率"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",35,25,"containing invalid attribute","電波の周波数による分類"]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",112,28,"illegal attribute name","1:44"],["no-ignored",112,4,"containing invalid attribute"," 関西広域圏||朝日放送テレビ（ABC）|木曜 "],["no-ignored",112,32,"containing invalid attribute"," - 2:20（水曜深夜）||遅れネット|"]]

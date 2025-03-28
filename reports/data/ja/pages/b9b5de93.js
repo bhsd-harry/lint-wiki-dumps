@@ -1,0 +1,1 @@
+window.data=[["nested-link",80,72,"internal link in an external link","[[紀伊國屋書店]]"]]

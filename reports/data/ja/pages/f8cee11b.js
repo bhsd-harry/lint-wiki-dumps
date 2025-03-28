@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",52,77,"illegal attribute name","white-space:"],["no-ignored",52,57,"containing invalid attribute","  \"font-size: 100%; "],["no-ignored",52,89,"containing invalid attribute"," nowrap;\""]]

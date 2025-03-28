@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",11,2,"duplicated category","[[Category:日本の内閣総理大臣別のトピックス]]"],["no-duplicate",12,2,"duplicated category","[[Category:日本の内閣総理大臣別のトピックス]]"]]

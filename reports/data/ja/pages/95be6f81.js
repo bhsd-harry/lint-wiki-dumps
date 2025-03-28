@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:User am]]"],["no-duplicate",5,2,"duplicated category","[[Category:User am]]"]]

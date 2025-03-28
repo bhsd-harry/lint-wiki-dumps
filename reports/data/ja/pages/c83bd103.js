@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",154,55,"lonely \"{\"","{{"],["no-duplicate",154,55,"duplicated image caption parameter","{{center"],["no-duplicate",154,64,"duplicated image caption parameter","本殿（奥、京都府登録有形文化財）と<br />拝所（手前、唐破風造の建物）"]]

@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",16,84,"unmatched closing tag","</small>"],["tag-like",730,85,"lonely \"<\"","<ref"],["no-ignored",730,85,"containing invalid attribute","<ref"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,29,"useless link text","|古畑任三郎の登場人物"]]

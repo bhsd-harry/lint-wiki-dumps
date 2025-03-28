@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",74,4,"illegal attribute name","1959"],["illegal-attr",74,14,"illegal attribute name","Real"],["illegal-attr",74,28,"illegal attribute name","as"],["illegal-attr",74,31,"illegal attribute name","Lori"],["no-ignored",74,8,"containing invalid attribute"," \"The "],["no-ignored",74,18,"containing invalid attribute"," McCoys\"  "]]

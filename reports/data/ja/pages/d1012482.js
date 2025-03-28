@@ -1,0 +1,1 @@
+window.data=[["invalid-css",184,30,"} expected","'font-size: smaller; text-align: center"]]

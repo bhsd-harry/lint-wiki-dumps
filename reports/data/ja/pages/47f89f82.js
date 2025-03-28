@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",13,2,"duplicated category","[[Category:ウィキペディアタウン]]"],["no-duplicate",17,2,"duplicated category","[[Category:ウィキペディアタウン]]"]]

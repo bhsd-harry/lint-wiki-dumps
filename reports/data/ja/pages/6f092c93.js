@@ -1,0 +1,1 @@
+window.data=[["pipe-like",821,169,"additional \"|\" in a table cell","AKB48、NMB48、乃木坂46、\n 前田敦子、大島優子||"]]

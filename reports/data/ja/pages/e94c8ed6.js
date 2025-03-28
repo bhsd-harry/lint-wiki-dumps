@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",71,4,"illegal attribute name","1"],["illegal-attr",533,3,"illegal attribute name","TRITON"],["no-ignored",533,9,"containing invalid attribute"," (勘定系パッケージ)"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",8,1,"invalid content in <gallery>"," [[File:武富勝彦.jpg|thumb|ニンニクの効用について語る武富勝彦]]"]]

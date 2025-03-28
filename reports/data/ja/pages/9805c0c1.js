@@ -1,0 +1,1 @@
+window.data=[["no-ignored",301,85,"containing invalid attribute","center''"],["illegal-attr",355,11,"illegal attribute name","el"],["illegal-attr",355,14,"illegal attribute name","Diyar"],["no-ignored",355,3,"containing invalid attribute","''Homat "]]

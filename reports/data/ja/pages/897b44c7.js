@@ -1,0 +1,1 @@
+window.data=[["no-ignored",230,1,"invalid content in <gallery>"," more pictures at [http://galeria.esopot.info Sopot Web Gallery]"]]

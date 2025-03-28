@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",9,2,"duplicated category","[[Category:日本の文芸評論家]]"],["no-duplicate",11,2,"duplicated category","[[Category:日本の文芸評論家]]"]]

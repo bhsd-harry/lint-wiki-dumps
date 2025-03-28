@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",563,49,"duplicated border attribute","border=\"1\""],["no-duplicate",563,61,"duplicated border attribute","border=\"1\""],["no-ignored",571,27,"containing invalid attribute","中村直人"]]

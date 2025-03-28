@@ -1,0 +1,1 @@
+window.data=[["nested-link",42,406,"internal link in an external link","[[桜井啓子 (イスラーム研究者)|桜井啓子]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",27,25,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",27,40,"duplicated image caption parameter","オランダでのオズモンズ（1973年）"]]

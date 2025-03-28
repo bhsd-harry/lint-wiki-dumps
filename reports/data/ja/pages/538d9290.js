@@ -1,0 +1,1 @@
+window.data=[["no-ignored",23,1,"invalid content in <gallery>"," File:Mount Hoken.jpg[[宝剣岳]]"]]

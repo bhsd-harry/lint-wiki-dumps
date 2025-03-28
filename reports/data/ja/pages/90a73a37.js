@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1998,3,"containing invalid attribute"," 江東区立豊洲西小学校"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",103,21,"containing invalid attribute","0,000"],["no-ignored",472,86,"invalid content in <references>","\n 血小板増多症\n "]]

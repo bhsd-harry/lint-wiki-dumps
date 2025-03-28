@@ -1,0 +1,1 @@
+window.data=[["pipe-like",147,34,"additional \"|\" in a table cell","-||-||"],["pipe-like",147,49,"additional \"|\" in a table cell","||"],["pipe-like",147,60,"additional \"|\" in a table cell","||"],["pipe-like",147,71,"additional \"|\" in a table cell","||"],["pipe-like",147,82,"additional \"|\" in a table cell","||-||-"]]

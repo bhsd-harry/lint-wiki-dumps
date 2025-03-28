@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:NTTグループ|てた]]"],["no-duplicate",12,2,"duplicated category","[[カテゴリ:NTTグループ|てた]]"]]

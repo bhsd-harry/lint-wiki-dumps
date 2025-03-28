@@ -1,0 +1,1 @@
+window.data=[["nested-link",74,61,"internal link in an external link","[[GeneCards]]"]]

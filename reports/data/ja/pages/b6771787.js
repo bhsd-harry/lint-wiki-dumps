@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,44,"duplicated image caption parameter","236px<!--(approx Sidebar/Infobox)-->"],["no-duplicate",2,81,"duplicated image caption parameter","[[ボッティチェッリ]] ({{circa}}1445–1510)による[[アウグスティヌス]] (354–430)。アウグスティヌスはアウグスティヌス神義論を提唱した最初の人物である。"]]

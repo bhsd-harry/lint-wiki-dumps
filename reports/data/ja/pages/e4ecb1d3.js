@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",690,36,"lonely \"'\"","'"],["lonely-apos",816,45,"lonely \"'\"","'"],["no-ignored",1004,3,"containing invalid attribute"," 『クリード チャンプを継ぐ男』"]]

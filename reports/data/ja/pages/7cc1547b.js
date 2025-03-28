@@ -1,0 +1,1 @@
+window.data=[["nested-link",32,183,"internal link in an external link","[[古河市]]"],["nested-link",32,303,"internal link in an external link","[[古河市]]"],["nested-link",40,221,"internal link in an external link","[[古河市]]"],["nested-link",40,243,"internal link in an external link","[[古河市]]"]]

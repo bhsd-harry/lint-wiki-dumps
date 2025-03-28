@@ -1,0 +1,1 @@
+window.data=[["parsing-order",2148,64,"HTML tag in table attributes","<div align=\"center\">"],["no-ignored",2148,62,"containing invalid attribute","  <div align=\"center\">  "],["parsing-order",2150,37,"HTML tag in table attributes","<div align=\"center\">"],["no-ignored",2150,36,"containing invalid attribute"," <div align=\"center\">  "]]

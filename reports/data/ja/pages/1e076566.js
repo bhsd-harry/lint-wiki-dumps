@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",76,46,"duplicated image caption parameter","px"],["no-duplicate",76,49,"duplicated image caption parameter","4輪（上）と2輪（下）のコースレイアウト（2010年）"]]

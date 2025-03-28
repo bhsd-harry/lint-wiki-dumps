@@ -1,0 +1,1 @@
+window.data=[["tag-like",33,341,"lonely \"<\"","<ref"],["no-ignored",33,338,"containing invalid attribute","  /<ref "],["no-duplicate",33,318,"duplicated name attribute","name=\"アフト企画20130731\""],["no-duplicate",33,346,"duplicated name attribute","name=enkaphone"]]

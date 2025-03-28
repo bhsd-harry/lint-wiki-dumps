@@ -1,0 +1,1 @@
+window.data=[["no-ignored",175,3,"containing invalid attribute","○1983年12月開局から"]]

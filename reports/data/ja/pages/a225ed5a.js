@@ -1,0 +1,1 @@
+window.data=[["no-ignored",84,25,"containing invalid attribute","自由民主党"]]

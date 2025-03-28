@@ -1,0 +1,1 @@
+window.data=[["lonely-http",34,259,"lonely \"ISBN\"","ISBN"],["invalid-css",639,40,"colon expected",";"],["invalid-css",672,40,"colon expected",";"],["invalid-css",700,34,"colon expected",";"],["invalid-css",715,41,"property value expected",""]]

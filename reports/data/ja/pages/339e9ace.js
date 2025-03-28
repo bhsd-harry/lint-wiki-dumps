@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",416,31,"lonely \"'\"","'"],["illegal-attr",762,32,"illegal attribute name","mw-collapsible"],["no-ignored",762,46,"containing invalid attribute"," mw-collapsed\""]]

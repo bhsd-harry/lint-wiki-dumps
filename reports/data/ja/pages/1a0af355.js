@@ -1,0 +1,1 @@
+window.data=[["invalid-css",412,39,"} expected","="],["no-ignored",412,52,"containing invalid attribute"," margin-left:1em; text-align:left\""]]

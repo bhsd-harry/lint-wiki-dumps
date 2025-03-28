@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",114,743,"lonely \"]\"","]"],["no-ignored",278,3,"containing invalid attribute","放送音楽協会"]]

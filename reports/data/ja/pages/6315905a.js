@@ -1,0 +1,1 @@
+window.data=[["nested-link",227,83,"internal link in an external link","[[テルスター (フリーペーパー) |TELSTAR]]"]]

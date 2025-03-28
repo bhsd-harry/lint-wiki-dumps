@@ -1,0 +1,1 @@
+window.data=[["nested-link",45,122,"internal link in an external link","[[小美玉市]]"],["nested-link",54,128,"internal link in an external link","[[田原市]]"],["nested-link",56,98,"internal link in an external link","[[湯沢雄勝観光]]"]]

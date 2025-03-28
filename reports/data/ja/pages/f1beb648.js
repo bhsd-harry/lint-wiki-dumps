@@ -1,0 +1,1 @@
+window.data=[["invalid-css",54,74,"property value expected","#light-dark"],["invalid-css",54,126,"{ expected",";"],["invalid-css",54,143,"{ expected",""],["illegal-attr",372,4,"illegal attribute name","nowrap"]]

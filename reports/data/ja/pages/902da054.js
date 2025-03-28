@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",28,24,"illegal attribute name","Different"],["illegal-attr",28,34,"illegal attribute name","isoforms"],["illegal-attr",28,43,"illegal attribute name","of"],["illegal-attr",28,46,"illegal attribute name","glycodelin"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,42,"useless link text","|Enter Enter MISSION! 最終章 ver."]]

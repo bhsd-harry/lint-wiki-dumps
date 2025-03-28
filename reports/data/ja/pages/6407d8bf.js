@@ -1,0 +1,1 @@
+window.data=[["no-ignored",13,32,"containing invalid attribute"," !colspan=\"2\"  "],["unmatched-tag",55,2,"unmatched closing tag","</small>"],["fostered-content",55,1,"content to be moved out from the table"," </small>"]]

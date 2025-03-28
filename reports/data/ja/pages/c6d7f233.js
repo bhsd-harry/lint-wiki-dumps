@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,28,"useless link text","|鹿児島市立錫山小中学校"]]

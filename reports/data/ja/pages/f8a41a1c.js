@@ -1,0 +1,1 @@
+window.data=[["no-ignored",73,1,"invalid content in <gallery>"," <!--Ishihara Building01.jpg|石原ビルディング"],["no-ignored",75,1,"invalid content in <gallery>"," ・・・あまり関係ないのでは？-->"]]

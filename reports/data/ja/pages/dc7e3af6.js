@@ -1,0 +1,1 @@
+window.data=[["nested-link",102,63,"internal link in an external link","[[祇園神社 (神戸市兵庫区)|祇園神社]]"]]

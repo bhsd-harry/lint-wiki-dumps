@@ -1,0 +1,1 @@
+window.data=[["nested-link",11,204,"internal link in an external link","[[アルミニウム|アルミ]]"],["nested-link",11,219,"internal link in an external link","[[真鍮]]"]]

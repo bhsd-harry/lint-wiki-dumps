@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",180,21,"illegal attribute name","sortable"],["lonely-bracket",214,3,"lonely \"{\"","{{"],["no-ignored",214,3,"containing invalid attribute","{{投稿なし、"],["illegal-attr",627,21,"illegal attribute name","sortable"]]

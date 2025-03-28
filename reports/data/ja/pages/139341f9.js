@@ -1,0 +1,1 @@
+window.data=[["no-ignored",83,21,"containing invalid attribute","児童福祉法第50条"]]

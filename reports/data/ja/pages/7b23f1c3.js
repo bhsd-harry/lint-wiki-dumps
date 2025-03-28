@@ -1,0 +1,1 @@
+window.data=[["nested-link",149,113,"internal link in an external link","[[スポーツニッポン|スポニチアネックス]]"],["nested-link",150,107,"internal link in an external link","[[日刊スポーツ|nikkansports.com]]"],["nested-link",151,115,"internal link in an external link","[[スポーツナビ]]"]]

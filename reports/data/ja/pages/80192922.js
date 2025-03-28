@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",84,38,"illegal attribute name","height"],["no-ignored",126,1,"invalid content in <gallery>"," [[:en:Red Cross with Triptych|キリストと聖女の像と赤十字]]（1915年、[[アレクサンドラ・フョードロヴナ (ニコライ2世皇后)|A]]）"],["illegal-attr",173,38,"illegal attribute name","height"]]

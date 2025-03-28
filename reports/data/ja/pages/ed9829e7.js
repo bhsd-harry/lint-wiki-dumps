@@ -1,0 +1,1 @@
+window.data=[["tag-like",57,163,"lonely \"<\"","<ref"],["no-ignored",57,130,"containing invalid attribute","/＞。日活が再び一般向け映画製作に戻ると、『メロドラマ』を監督した<ref "],["no-duplicate",57,120,"duplicated name attribute","name=\"edb\""],["no-duplicate",57,168,"duplicated name attribute","name=\"dg\""]]

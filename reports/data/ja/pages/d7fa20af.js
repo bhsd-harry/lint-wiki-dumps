@@ -1,0 +1,1 @@
+window.data=[["nested-link",204,33,"internal link in an external link","[[山田ジャパン|劇団山田ジャパン]]"]]

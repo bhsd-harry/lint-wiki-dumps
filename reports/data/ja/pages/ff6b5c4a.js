@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",43,4,"lonely \"[\"","[["],["lonely-bracket",43,11,"lonely \"]\"","]]"],["tag-like",43,32,"lonely \"<\"","<ref"],["no-ignored",42,76,"containing invalid attribute","  /。\n * [[1965年]]（昭和40年）国道158号に指定される<ref "],["no-duplicate",42,66,"duplicated name attribute","name=\"wp2\""],["no-duplicate",43,37,"duplicated name attribute","name=\"wp2\""]]

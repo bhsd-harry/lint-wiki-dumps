@@ -1,0 +1,1 @@
+window.data=[["no-ignored",52,1,"invalid content in <gallery>"," {{sfn|Delitzsch|McCormack|Carruth|Robinson|1906|p=78}}。"]]

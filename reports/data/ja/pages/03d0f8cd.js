@@ -1,0 +1,1 @@
+window.data=[["invalid-css",205,97,"semi-colon expected",""],["invalid-css",205,96,"colon expected","="],["no-ignored",205,98,"containing invalid attribute","padding-right:17px; white-space:nowrap;                   "]]

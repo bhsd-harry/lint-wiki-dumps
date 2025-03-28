@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",14,2,"duplicated category","[[Category:日本史の画像]]"],["no-duplicate",23,2,"duplicated category","[[Category:日本史の画像]]"]]

@@ -1,0 +1,1 @@
+window.data=[["tag-like",179,55,"lonely \"<\"","<ref"],["no-ignored",179,67,"containing invalid attribute","広報\"  "],["no-duplicate",179,49,"duplicated name attribute","name=\"<ref group=\""],["no-duplicate",179,72,"duplicated name attribute","name=\"yamaya-securities-report-2006-4\""]]

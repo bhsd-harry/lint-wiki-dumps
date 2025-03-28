@@ -1,0 +1,1 @@
+window.data=[["parsing-order",292,19,"HTML tag in table attributes","<br/>"],["parsing-order",292,39,"extension tag in HTML tag attributes","<ref group=\"注\">番組途中で「SKE48 100+100は200じゃないよ!」のタイトルコールも行なわれた。</ref>"],["no-ignored",292,10,"containing invalid attribute","世界征服女子ラジオ<br/>鉄平のオールナイト ナッゴヤ!<ref group=\"注\">番組途中で「SKE48 100+100は200じゃないよ!」のタイトルコールも行なわれた。</ref>"]]

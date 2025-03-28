@@ -1,0 +1,1 @@
+window.data=[["lonely-http",31,88,"lonely \"ISBN\"","ISBN"],["nested-link",91,78,"internal link in an external link","[[Sui Dynasty]]"],["invalid-isbn",121,68,"invalid ISBN","ISBN 0-07230-0304"]]

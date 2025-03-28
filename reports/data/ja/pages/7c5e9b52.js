@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",278,4,"illegal attribute name","Aimia"],["no-ignored",278,9,"containing invalid attribute"," (company)"]]

@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",644,66,"unmatched closing tag","</span>"],["no-duplicate",1454,3,"duplicated rowspan attribute","rowspan=\"4\""],["no-duplicate",1454,16,"duplicated rowspan attribute","rowspan=\"2\""]]

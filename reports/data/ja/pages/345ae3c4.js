@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",39,2,"duplicated category","[[Category:茨城県|*Portal]]"],["no-duplicate",52,2,"duplicated category","[[Category:茨城県|*ほおたる]]"]]

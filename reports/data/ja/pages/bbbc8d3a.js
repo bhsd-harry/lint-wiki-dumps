@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,31,"useless link text","|Power over Ethernet#非標準規格の実装"]]

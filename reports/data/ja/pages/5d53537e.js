@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",24,46,"duplicated image caption parameter","{{Largethumb}}"],["no-duplicate",24,66,"duplicated image caption parameter","同性愛者であるゆえに火刑や拷問を受ける5人のフランシスコ修道会の修道士。1578年7月26日、ブルッヘにて。"]]

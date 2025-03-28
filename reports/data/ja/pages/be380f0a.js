@@ -1,0 +1,1 @@
+window.data=[["nested-link",52,155,"internal link in an external link","[[日本ご当地アイドル活性協会#未発掘アイドルセレクト10に正式認定されたグループ|2020年下半期（第15回）未発掘アイドルセレクト10]]"]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",1259,3,"illegal attribute name","NONA"],["illegal-attr",1259,8,"illegal attribute name","REEVES"],["illegal-attr",1259,15,"illegal attribute name","Billboard"],["illegal-attr",1259,25,"illegal attribute name","Live"],["no-ignored",1259,29,"containing invalid attribute"," 2016年"],["lonely-bracket",1561,40,"lonely \"]\"","]"]]

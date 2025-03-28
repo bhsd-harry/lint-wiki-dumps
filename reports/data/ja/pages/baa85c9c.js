@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",614,3,"unmatched closing tag","</div>"],["unmatched-tag",615,2,"unmatched closing tag","</div>"],["no-ignored",691,16,"containing invalid attribute","­style=\"white-space:nowrap\""]]

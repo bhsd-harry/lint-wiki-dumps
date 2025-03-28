@@ -1,0 +1,1 @@
+window.data=[["no-ignored",17,4,"containing invalid attribute","広島ケントス開店日1987年３月２７日、"]]

@@ -1,0 +1,1 @@
+window.data=[["pipe-like",92,33,"additional \"|\" in a table cell"," 富澤啓二\n 齋藤幸子\n 伊藤妙子||2||66.6"],["pipe-like",109,32,"additional \"|\" in a table cell","赤松祐造\n 萩原圭一\n 吉田活生||1||-"]]

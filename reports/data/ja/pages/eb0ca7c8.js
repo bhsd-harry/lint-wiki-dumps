@@ -1,0 +1,1 @@
+window.data=[["nested-link",288,177,"internal link in an external link","[[永昌寺 (中津川市)|西澤山萬福庵永昌寺]]"]]

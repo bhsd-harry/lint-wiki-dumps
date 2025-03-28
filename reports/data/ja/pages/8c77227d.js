@@ -1,0 +1,1 @@
+window.data=[["nested-link",18,133,"internal link in an external link","[[コモンウェルス戦争墓地委員会]]"],["nested-link",758,283,"internal link in an external link","[[R. J. Rummel]]"],["nested-link",828,108,"internal link in an external link","[[Strategic bombing survey]]"],["lonely-bracket",878,303,"lonely \"]\"","]"]]

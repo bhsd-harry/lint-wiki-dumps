@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,46,"useless link text","|快盗戦隊ルパンレンジャーVS警察戦隊パトレンジャー"]]

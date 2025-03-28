@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",5,38,"unmatched closing tag","</small>"],["unmatched-tag",5,59,"unmatched closing tag","</small>"],["no-duplicate",122,33,"duplicated style attribute","style=\"font-size:small\""],["no-duplicate",122,58,"duplicated style attribute","style=\"text-align:center\""]]

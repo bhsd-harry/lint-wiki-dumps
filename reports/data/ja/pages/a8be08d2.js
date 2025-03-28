@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,36,"useless link text","|抱きしめたい (曖昧さ回避)#抱きしめたい（ドイツ語）"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",132,14,"containing invalid attribute","12.7cm連装高角×1"],["no-ignored",141,14,"containing invalid attribute","12.7cm連装高角×1"]]

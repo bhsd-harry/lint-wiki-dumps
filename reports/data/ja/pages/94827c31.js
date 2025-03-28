@@ -1,0 +1,1 @@
+window.data=[["no-ignored",26,1,"invalid content in <gallery>"," <ref>[http://cms.zwergfledermaus.de/?page_id=73 bat scanner] www.zwergfledermaus.de  </ref><ref>[ht"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",29,367,"containing invalid attribute"," name:\"デビュー曲リリース発表\"=\"\"  "]]

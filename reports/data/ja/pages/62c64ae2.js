@@ -1,0 +1,1 @@
+window.data=[["no-ignored",35,1,"invalid content in <gallery>"," File:Vingboon.jpg{盲人を癒すキリスト、ヒリス・ドンデクーテルと共作"]]

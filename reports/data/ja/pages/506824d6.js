@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",175,2,"duplicated category","[[Category:COVID-19陰謀論者]]"],["no-duplicate",177,2,"duplicated category","[[Category:COVID-19陰謀論者]]"]]

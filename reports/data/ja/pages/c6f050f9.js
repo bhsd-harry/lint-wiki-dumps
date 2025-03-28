@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",129,196,"lonely \"[\"","["],["no-duplicate",168,24,"duplicated style attribute","style=\"width:110%\""],["no-duplicate",168,44,"duplicated style attribute","style=\"font-size:90%;\""]]

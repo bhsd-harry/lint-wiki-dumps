@@ -1,0 +1,1 @@
+window.data=[["invalid-css",440,33,"colon expected","="],["invalid-css",598,33,"colon expected","="],["no-ignored",611,4,"containing invalid attribute"," !class=\"wikitable\"  "],["no-ignored",618,4,"containing invalid attribute"," !class=\"wikitable\"  "],["invalid-css",891,24,"} expected","!"],["invalid-css",891,58,"{ expected",";"],["invalid-css",1007,47,"} expected","!"]]

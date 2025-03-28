@@ -1,0 +1,1 @@
+window.data=[["nested-link",67,73,"internal link in an external link","[[ホノルル・スター・アドバタイザー|ホノルル・スター・ブレティン]]"]]

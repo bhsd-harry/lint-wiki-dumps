@@ -1,0 +1,1 @@
+window.data=[["nested-link",87,94,"internal link in an external link","[[ブシロード]]"]]

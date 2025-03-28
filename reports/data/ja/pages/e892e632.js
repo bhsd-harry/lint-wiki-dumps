@@ -1,0 +1,1 @@
+window.data=[["no-ignored",159,216,"containing invalid attribute","守備率"],["no-ignored",159,317,"containing invalid attribute","守備率"],["no-ignored",159,418,"containing invalid attribute","守備率"],["no-ignored",198,216,"containing invalid attribute","守備率"],["no-ignored",198,317,"containing invalid attribute","守備率"]]

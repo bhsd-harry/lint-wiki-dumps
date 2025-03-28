@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",15,2,"duplicated category","[[Category:岡山県のスポーツに関する人物]]"],["no-duplicate",16,2,"duplicated category","[[Category:岡山県のスポーツに関する人物]]"]]

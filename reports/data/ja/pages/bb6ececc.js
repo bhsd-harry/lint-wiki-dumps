@@ -1,0 +1,1 @@
+window.data=[["nested-link",27,866,"internal link in an external link","[[ブルームバーグ (企業)|Bloomberg]]"],["nested-link",34,1470,"internal link in an external link","[[Wall Street Journal]]"]]

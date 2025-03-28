@@ -1,0 +1,1 @@
+window.data=[["invalid-css",95,13,"} expected","'border:1px solid #dddddd; background-color:#fefefe; padding:3px; margin:0px'"]]

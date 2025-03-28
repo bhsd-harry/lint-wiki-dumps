@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",206,24,"duplicated style attribute","style=\"font-size:bigeer\""],["no-duplicate",206,79,"duplicated style attribute","style=font-size:small"],["unmatched-tag",355,50,"unmatched closing tag","</small>"]]

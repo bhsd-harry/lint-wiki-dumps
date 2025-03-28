@@ -1,0 +1,1 @@
+window.data=[["no-ignored",253,1,"invalid content in <gallery>"," File:DiezAlbumsAstronomers.jpg<ref>"],["no-ignored",254,1,"invalid content in <gallery>"," File:DiezAlbumsBirth.jpg</ref>"]]

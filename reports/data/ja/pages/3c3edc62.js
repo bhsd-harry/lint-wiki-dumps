@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,84,"containing invalid attribute"," name\"日本図書設計家協会\"=\"\"  "]]

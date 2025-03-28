@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,12,"useless link text","|黒い暴動"]]

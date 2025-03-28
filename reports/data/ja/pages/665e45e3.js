@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",40,42,"illegal attribute name","gallery"]]

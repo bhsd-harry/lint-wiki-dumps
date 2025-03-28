@@ -1,0 +1,1 @@
+window.data=[["no-ignored",183,65,"containing invalid attribute"," モスクワオリンピック"]]

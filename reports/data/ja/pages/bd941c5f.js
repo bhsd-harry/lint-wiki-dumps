@@ -1,0 +1,1 @@
+window.data=[["parsing-order",232,17,"HTML tag in table attributes","<br />"],["parsing-order",232,99,"HTML tag in table attributes","<br />"],["no-ignored",232,4,"containing invalid attribute","||GIFT||横手美智子<br />伊藤和典||colspan=\"2\"  "],["no-ignored",232,67,"containing invalid attribute","|川面真也||門智昭||初出：ゲーム「.hack」全巻購入特典。<br />ギャグアニメ。"]]

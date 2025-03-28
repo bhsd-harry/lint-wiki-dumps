@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",178,4,"duplicated {{msstatsc|pt}} attribute","{{MsStatsC|pt}}"],["no-duplicate",178,20,"duplicated {{msstatsc|pt}} attribute","{{MsStatsC|pt}}"]]

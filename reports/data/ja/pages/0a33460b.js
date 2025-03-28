@@ -1,0 +1,1 @@
+window.data=[["tag-like",130,171,"lonely \"<\"","</nowiki"],["lonely-bracket",223,76,"lonely \"]\"","]]"]]

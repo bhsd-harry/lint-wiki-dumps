@@ -1,0 +1,1 @@
+window.data=[["no-ignored",2,101,"containing invalid attribute"," =  \"url\""]]

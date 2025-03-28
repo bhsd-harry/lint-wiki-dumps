@@ -1,0 +1,1 @@
+window.data=[["invalid-css",21,22,"semi-colon expected",":"],["nested-link",166,165,"internal link in an external link","[[WONDA|ワンダ]]"]]

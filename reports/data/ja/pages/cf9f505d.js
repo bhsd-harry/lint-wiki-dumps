@@ -1,0 +1,1 @@
+window.data=[["nested-link",33,541,"internal link in an external link","[[HMV]]"],["nested-link",100,301,"internal link in an external link","[[UKプロジェクト|UK PROJECT]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",32,8,"duplicated parameter","\n === DISK1 ===\n # 序曲X\n # アンルシアの願い（シンセサイザー）\n # 追憶のオルゴール（シンセサイザー）\n # 勇者アンルシア（シンセサイザー）\n # 晴れわたる世界（シンセサ"],["no-duplicate",53,3,"duplicated parameter","\n === DISK 2===\n # ハッピーハミング（[[ドラゴンクエストVI 幻の大地|DQVI]]）\n # 魔物出現（DQVI）\n # 奇蹟のオカリナ（DQVI）\n # 空飛ぶベッド（DQVI）"]]

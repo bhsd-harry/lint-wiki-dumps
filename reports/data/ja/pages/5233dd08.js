@@ -1,0 +1,1 @@
+window.data=[["no-ignored",24,329,"containing invalid attribute","  \"funplus\"=\"\"  "]]

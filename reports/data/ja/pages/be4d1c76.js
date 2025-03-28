@@ -1,0 +1,1 @@
+window.data=[["no-ignored",22,1,"invalid content in <gallery>"," File:三河国分尼寺跡出土 [[煉瓦|塼]]・墨書銘土器.JPG|[[愛知県]][[豊川市]][[三河国分尼寺跡]]出土塼・墨書土器"]]

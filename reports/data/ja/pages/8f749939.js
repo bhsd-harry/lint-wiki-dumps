@@ -1,0 +1,1 @@
+window.data=[["nested-link",52,274,"internal link in an external link","[[兵庫県]]"],["nested-link",52,281,"internal link in an external link","[[猪名川町]]"],["nested-link",52,522,"internal link in an external link","[[宮内庁]]"],["nested-link",52,529,"internal link in an external link","[[三の丸尚蔵館]]"]]

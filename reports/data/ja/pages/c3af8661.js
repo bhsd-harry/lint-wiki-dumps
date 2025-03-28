@@ -1,0 +1,1 @@
+window.data=[["nested-link",22,68,"internal link in an external link","[[物理探査#物理現象の種類|CDP法探査]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:職業別の女性 (国と世紀別)|きよういくしや]]"],["no-duplicate",7,2,"duplicated category","[[Category:職業別の女性 (国と世紀別)|きよういくしや]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",295,3,"containing invalid attribute","1953年に英海軍より退役。"],["no-ignored",304,3,"containing invalid attribute","1953年に英海軍より退役。"]]

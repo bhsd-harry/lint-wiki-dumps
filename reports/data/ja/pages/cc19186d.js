@@ -1,0 +1,1 @@
+window.data=[["nested-link",5,367,"internal link in an external link","[[公安調査庁]]"]]

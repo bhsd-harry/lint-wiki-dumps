@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",813,4,"illegal attribute name","BabyKingdom"],["illegal-attr",813,16,"illegal attribute name","REMIX"],["illegal-attr",813,36,"illegal attribute name","to"],["no-ignored",813,21,"containing invalid attribute"," ALBUM『Welcome "],["no-ignored",813,38,"containing invalid attribute"," ZERO』"]]

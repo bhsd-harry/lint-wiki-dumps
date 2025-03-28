@@ -1,0 +1,1 @@
+window.data=[["no-ignored",85,1,"invalid content in <gallery>"," 湖姫（[[信濃川]]）.jpg|湖姫（[[信濃川]]）"]]

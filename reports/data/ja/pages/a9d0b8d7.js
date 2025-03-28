@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",10,2,"duplicated category","[[Category:宇宙戦争を題材とした作品]]"],["no-duplicate",13,2,"duplicated category","[[Category:宇宙戦争を題材とした作品]]"]]

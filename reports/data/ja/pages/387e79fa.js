@@ -1,0 +1,1 @@
+window.data=[["no-ignored",45,4,"containing invalid attribute","|期||名前||担当カラー||キャッチフレーズ||備考"]]

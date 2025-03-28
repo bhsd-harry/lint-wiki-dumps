@@ -1,0 +1,1 @@
+window.data=[["no-ignored",31,1,"invalid content in <gallery>"," [[ファイル:Tamamushi Shrine.JPG|thumb|right|180px|[[玉虫厨子]]（[[法隆寺]]・[[国宝]]）]]"],["no-ignored",32,1,"invalid content in <gallery>"," [[File:Dainichi Nyorai.jpg|thumb|180px|栃木・光得寺 厨子入大日如来像（厨子・像ともに重要文化財）]]"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",11,620,"internal link in an external link","[[小林哲夫 (教育ジャーナリスト)|小林哲夫]]"]]

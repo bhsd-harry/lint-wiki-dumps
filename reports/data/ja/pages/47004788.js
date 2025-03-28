@@ -1,0 +1,1 @@
+window.data=[["nested-link",12,132,"internal link in an external link","[[コトバンク]]"],["illegal-attr",14,44,"illegal attribute name","height"]]

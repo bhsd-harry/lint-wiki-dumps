@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",254,58,"duplicated image caption parameter","px"],["no-duplicate",254,61,"duplicated image caption parameter","[[ロータスF1チーム]]の[[キミ・ライコネン]]（2012年）"]]

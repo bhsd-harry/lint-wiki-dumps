@@ -1,0 +1,1 @@
+window.data=[["tag-like",59,74,"lonely \"<\"","<ref"],["no-ignored",60,1,"invalid content in <gallery>"," </ref>"],["tag-like",90,77,"lonely \"<\"","<ref"],["no-ignored",91,1,"invalid content in <gallery>"," </ref>"],["no-ignored",153,1,"invalid content in <gallery>"," <br>神戸メリケンパーク"]]

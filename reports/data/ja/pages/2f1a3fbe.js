@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",15,7,"lonely \"[\"","[["],["lonely-bracket",15,24,"lonely \"]\"","]]"],["tag-like",15,26,"lonely \"<\"","<ref"],["no-ignored",14,35,"containing invalid attribute","  /\n |産 = [[ノーザンファーム|社台ファーム]]<ref "],["no-duplicate",14,24,"duplicated name attribute","name=\"jbis\""],["no-duplicate",15,31,"duplicated name attribute","name=\"jbis\""]]

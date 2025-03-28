@@ -1,0 +1,1 @@
+window.data=[["no-ignored",36,3,"containing invalid attribute"," セル2A "]]

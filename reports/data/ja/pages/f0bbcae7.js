@@ -1,0 +1,1 @@
+window.data=[["no-ignored",70,3,"containing invalid attribute","ビクターエンタテインメント"],["no-ignored",105,3,"containing invalid attribute","ワーナーミュージック・ジャパン"],["lonely-apos",799,3,"lonely \"'\"","'"]]

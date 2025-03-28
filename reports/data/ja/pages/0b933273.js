@@ -1,0 +1,1 @@
+window.data=[["no-ignored",53,1,"invalid content in <gallery>"," File:山頂から筑波山（左）と[[加波山]]（右奥）を望む.JPG|山頂から筑波山（左）と加波山（右奥）を望む"]]

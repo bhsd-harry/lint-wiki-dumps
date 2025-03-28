@@ -1,0 +1,1 @@
+window.data=[["no-ignored",4,50,"containing invalid attribute","  \"margin:0 auto;\""]]

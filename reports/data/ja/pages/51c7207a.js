@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",9,62,"duplicated image caption parameter","リンク=https://en.wikipedia.org/wiki/File:Felix Reda at Public Domain Day Celebration 2016.jpg"],["no-duplicate",9,160,"duplicated image caption parameter","2016年のパブリックドメインのお祝いで撮影されたパブリックドメインの写真（[[ブリュッセル]]、{{Ill|ユリア・レダ|en|Julia Reda}}が話している）"]]

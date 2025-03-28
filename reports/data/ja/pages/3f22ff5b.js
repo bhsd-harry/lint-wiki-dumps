@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",33,56,"duplicated image caption parameter","thumbtime=1"],["no-duplicate",33,68,"duplicated image caption parameter","雌雄のマガモ"]]

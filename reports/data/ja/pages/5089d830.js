@@ -1,0 +1,1 @@
+window.data=[["no-ignored",30,50,"containing invalid attribute","|class=\"wikitable\"  "],["no-duplicate",30,24,"duplicated style attribute","style=\"text-align:center;\""],["no-duplicate",30,70,"duplicated style attribute","style=\"font-size:small\""]]

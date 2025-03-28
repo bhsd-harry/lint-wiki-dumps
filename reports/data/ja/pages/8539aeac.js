@@ -1,0 +1,1 @@
+window.data=[["no-ignored",59,1,"invalid content in <gallery>"," 画像:Satanic leaf-tailed gecko (Uroplatus phantasticus) Ranomafana 1.jpg'''エダハヘラオヤモリ'''<br />''U. pha"]]

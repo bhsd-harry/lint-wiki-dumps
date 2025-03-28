@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",61,49,"illegal attribute name","nowrap"],["illegal-attr",67,49,"illegal attribute name","nowrap"],["illegal-attr",67,159,"illegal attribute name","nowrap"],["no-ignored",69,63,"containing invalid attribute","\"color: darkred;\""]]

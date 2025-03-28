@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",54,29,"lonely \"[\"","[["],["lonely-bracket",54,63,"lonely \"]\"","]]"],["no-duplicate",54,28,"duplicated image caption parameter","『[[マダムXの肖像"],["no-duplicate",54,39,"duplicated image caption parameter","{{small|マダムXの肖像（ゴートロー夫人）]]』（1884年）}}"]]

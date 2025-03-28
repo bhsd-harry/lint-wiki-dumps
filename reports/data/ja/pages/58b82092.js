@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",261,2,"duplicated category","[[Category:ウィキプロジェクト|ウィキメディア財団ハンドブック]]"],["no-duplicate",262,2,"duplicated category","[[Category:ウィキプロジェクト]]"]]

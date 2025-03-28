@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",12,2,"duplicated category","[[Category:20世紀日本の政治家]]"],["no-duplicate",16,2,"duplicated category","[[Category:20世紀日本の政治家]]"]]

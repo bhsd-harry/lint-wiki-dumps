@@ -1,0 +1,1 @@
+window.data=[["no-ignored",43,17,"containing invalid attribute","全日部に電子資料処理科を設置"]]

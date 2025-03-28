@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,3,"useless fragment","ファイル:PumpkinOilFactory-Prekmurje1.JPG#file"],["no-ignored",2,4,"useless fragment","ファイル:Steirischer Ölkürbis Feld Allhaming 20200911b.jpg#file"],["no-ignored",3,4,"useless fragment","ファイル:Cucurbita pepo var. styriaca07.jpg#file"]]

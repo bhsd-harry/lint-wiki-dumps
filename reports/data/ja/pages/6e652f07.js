@@ -1,0 +1,1 @@
+window.data=[["no-ignored",386,30,"containing invalid attribute","  width:315px\"  "],["invalid-css",529,36,"property value expected",""],["invalid-css",552,36,"property value expected",""],["no-duplicate",1328,33,"duplicated style attribute","style=\"width:125%\""],["no-duplicate",1328,53,"duplicated style attribute","style=\"font-size:90%\""]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",53,361,"internal link in an external link","[[十勝毎日新聞]]"],["nested-link",55,410,"internal link in an external link","[[十勝毎日新聞]]"]]

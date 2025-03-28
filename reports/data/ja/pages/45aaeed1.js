@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,34,"duplicated image caption parameter","Zoushunkaku_exterior"],["no-duplicate",4,61,"duplicated image caption parameter",""]]

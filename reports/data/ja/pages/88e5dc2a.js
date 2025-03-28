@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,44,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",1,59,"duplicated image caption parameter","国際連合安全保障理事会会議場"]]

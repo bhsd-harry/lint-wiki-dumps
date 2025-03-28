@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:日本のアイスホッケーチームに所属する選手]]"],["no-duplicate",8,2,"duplicated category","[[Category:日本のアイスホッケーチームに所属する選手]]"]]

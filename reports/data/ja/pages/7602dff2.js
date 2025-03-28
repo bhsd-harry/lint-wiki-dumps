@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",7,2,"duplicated category","[[Category:生物学史]]"],["no-duplicate",12,2,"duplicated category","[[Category:生物学史]]"]]

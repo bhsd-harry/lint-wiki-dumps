@@ -1,0 +1,1 @@
+window.data=[["no-ignored",239,16,"containing invalid attribute"," KBC, TSC, MOURI, AKASAKA,"]]

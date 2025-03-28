@@ -1,0 +1,1 @@
+window.data=[["tag-like",69,42,"lonely \"<\"","<ref"],["no-ignored",68,112,"containing invalid attribute","  /）\n * ネヴァー・エヴァー - ''Never Ever'' （1997年、全英1位<ref "],["no-duplicate",68,97,"duplicated name attribute","name=\"AllMusic\""],["no-duplicate",69,47,"duplicated name attribute","name=\"ChartStats\""]]

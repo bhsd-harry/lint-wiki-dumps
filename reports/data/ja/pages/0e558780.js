@@ -1,0 +1,1 @@
+window.data=[["lonely-http",519,4,"lonely \"https://\"","https://"],["illegal-attr",519,12,"illegal attribute name","www.inabe-nigiwai.jp"],["parsing-order",519,41,"HTML tag in table attributes","<br>"],["no-ignored",519,3,"containing invalid attribute","[https://"],["no-ignored",519,32,"containing invalid attribute","/ にぎわいの森]<br>（"]]

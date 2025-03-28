@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",6,5,"lonely \"[\"","[["],["lonely-bracket",6,12,"lonely \"]\"","]]"],["no-ignored",6,4,"containing invalid attribute"," [[birds]]"],["illegal-attr",9,4,"illegal attribute name","bird"],["lonely-bracket",265,134,"lonely \"[\"","["],["lonely-bracket",267,152,"lonely \"[\"","["]]

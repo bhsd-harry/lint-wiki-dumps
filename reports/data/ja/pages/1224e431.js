@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",13,5,"duplicated class attribute","class=\"wikitable left\""],["no-duplicate",13,56,"duplicated class attribute","class=\"skin-invert-image\""]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",274,27,"duplicated group attribute","group=\"注\""],["no-duplicate",274,38,"duplicated group attribute","group=\"注\""],["illegal-attr",566,4,"illegal attribute name","Col"],["illegal-attr",637,4,"illegal attribute name","Col"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",50,4,"containing invalid attribute","||colspan=\"4\"|（中止）"],["no-ignored",52,4,"containing invalid attribute","||2022年1月5日-8日||三重県||四日市市総合体育館||代替大会として開催"]]

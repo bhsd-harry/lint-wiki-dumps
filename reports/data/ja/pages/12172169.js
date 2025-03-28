@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",173,8,"duplicated parameter","\n === 連結子会社 ===\n *高速シーパック株式会社\n *株式会社清和\n *日本コンテック株式会社\n *プラス包装システム株式会社\n *常磐パッケージ株式会社\n "],["no-duplicate",180,3,"duplicated parameter","\n === 非連結子会社 ===\n *日本包装工業株式会社\n "]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",36,259,"internal link in an external link","[[スポーツニッポン]]"],["illegal-attr",52,11,"illegal attribute name","nowrap"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",312,175,"internal link in an external link","[[西日本電信電話|NTT西日本]]"]]

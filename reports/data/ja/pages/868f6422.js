@@ -1,0 +1,1 @@
+window.data=[["invalid-css",1014,10,"} expected","!"],["no-ignored",1241,7,"attributes of a closing tag"," style=\"display:none\""]]

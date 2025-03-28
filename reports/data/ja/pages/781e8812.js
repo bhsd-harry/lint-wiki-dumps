@@ -1,0 +1,1 @@
+window.data=[["parsing-order",62,41,"HTML tag in table attributes","<small>"],["parsing-order",62,48,"HTML tag in table attributes","</small>"],["parsing-order",62,56,"HTML tag in table attributes","<br/>"],["no-ignored",62,31,"containing invalid attribute"," 自主制作※生産中止<small></small><br/>"]]

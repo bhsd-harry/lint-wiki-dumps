@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",391,4,"illegal attribute name","Assistants"],["illegal-attr",391,15,"illegal attribute name",":"],["no-ignored",391,16,"containing invalid attribute"," 伊東俊郎、大城健、高松幹大、渡辺茂実、"]]

@@ -1,0 +1,1 @@
+window.data=[["parsing-order",40,26,"extension tag in HTML tag attributes","<ref name=SpeedSkating>http://www.vancouver2010.com/olympic-speed-skating-schedule-results/</ref>"],["parsing-order",74,26,"extension tag in HTML tag attributes","<ref name=SpeedSkating>http://www.vancouver2010.com/olympic-speed-skating-schedule-results/</ref>"]]

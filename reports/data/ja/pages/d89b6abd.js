@@ -1,0 +1,1 @@
+window.data=[["no-ignored",87,33,"containing invalid attribute","'''その他クラス'''-与える（分詞）"]]

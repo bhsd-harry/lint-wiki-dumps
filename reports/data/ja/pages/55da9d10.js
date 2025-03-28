@@ -1,0 +1,1 @@
+window.data=[["nested-link",83,212,"internal link in an external link","[[ライフサイクルアセスメント]]"]]

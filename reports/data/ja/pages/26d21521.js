@@ -1,0 +1,1 @@
+window.data=[["no-ignored",55,10,"containing invalid attribute"," float:left\"  "],["unmatched-tag",114,511,"unmatched closing tag","</small>"],["unmatched-tag",128,48,"unmatched closing tag","</small>"],["unmatched-tag",142,47,"unmatched closing tag","</small>"],["unmatched-tag",154,372,"unmatched closing tag","</small>"]]

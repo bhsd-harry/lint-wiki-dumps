@@ -1,0 +1,1 @@
+window.data=[["nested-link",156,227,"internal link in an external link","[[日本オーディオ協会]]"],["lonely-bracket",334,28,"lonely \"[\"","["],["lonely-bracket",335,10,"lonely \"]\"","]"]]

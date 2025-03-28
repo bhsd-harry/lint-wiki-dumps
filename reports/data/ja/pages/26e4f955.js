@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",369,4,"illegal attribute name","background:gold"]]

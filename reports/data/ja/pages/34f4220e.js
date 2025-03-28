@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,25,"useless link text","|RGM-122 ジャベリン"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:北アフリカの文化|しゆうきよう]]"],["no-duplicate",5,2,"duplicated category","[[Category:北アフリカの文化|しゆうきよう]]"]]

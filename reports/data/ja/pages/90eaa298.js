@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",24,921,"duplicated name attribute","name"],["no-duplicate",24,926,"duplicated name attribute","name=archsig1"]]

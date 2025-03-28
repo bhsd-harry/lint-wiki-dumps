@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",710,2,"duplicated category","[[Category:ダルメーターの操り人形だと疑われるユーザー|*]]"],["no-duplicate",1049,2,"duplicated category","[[Category:ダルメーターの操り人形だと疑われるユーザー|*]]"]]

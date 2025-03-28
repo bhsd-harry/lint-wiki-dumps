@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",65,37,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",65,52,"duplicated image caption parameter","スパルタ・ロッテルダム対[[ブラックプールFC]]の試合（1957年8月）"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",637,3,"duplicated colspan attribute","colspan=\"1\""],["no-duplicate",637,16,"duplicated colspan attribute","colspan=\"4\""],["lonely-bracket",1009,439,"lonely \"{\"","{{"],["lonely-bracket",1009,442,"lonely \"}\"","}}"],["lonely-bracket",1009,792,"lonely \"{\"","{{"],["lonely-bracket",1009,795,"lonely \"}\"","}}"]]

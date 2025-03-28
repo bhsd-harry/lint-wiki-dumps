@@ -1,0 +1,1 @@
+window.data=[["invalid-css",259,30,"semi-colon expected",""],["invalid-css",259,21,"colon expected","|"],["no-ignored",259,31,"containing invalid attribute","background:lemonchiffon\""]]

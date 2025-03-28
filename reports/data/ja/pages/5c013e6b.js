@@ -1,0 +1,1 @@
+window.data=[["no-ignored",131,21,"containing invalid attribute","  |style=\"float:right;width:20em;font-size:80%;margin:5px\""]]

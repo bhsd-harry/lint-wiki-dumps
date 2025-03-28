@@ -1,0 +1,1 @@
+window.data=[["no-ignored",52,1,"invalid content in <gallery>"," <br>ゆずり葉緑地 芝生広場<br><ref group=\"備考\">市制40周年記念 石彫シンポジウム'94</ref>"]]

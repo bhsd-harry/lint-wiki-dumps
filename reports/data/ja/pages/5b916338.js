@@ -1,0 +1,1 @@
+window.data=[["no-ignored",180,3,"containing invalid attribute","width:1em; "],["no-duplicate",237,3,"duplicated rowspan attribute","rowspan=\"2\""],["no-duplicate",237,16,"duplicated rowspan attribute","rowspan=\"2\""]]

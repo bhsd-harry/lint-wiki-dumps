@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",158,11,"illegal attribute name","Mama"],["illegal-attr",158,16,"illegal attribute name","Blues"],["no-ignored",158,3,"containing invalid attribute"," 「Sugar "]]

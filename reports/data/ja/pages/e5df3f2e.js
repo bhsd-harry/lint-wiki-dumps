@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",190,6,"lonely \"[\"","[["],["lonely-bracket",190,12,"lonely \"]\"","]]"],["no-ignored",190,4,"containing invalid attribute"," |[[流し満貫]]||☆||ナガシマンガン||捨牌を鳴かれると不成立。"]]

@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",59,86,"tag that is both closing and self-closing","</br>"],["lonely-bracket",99,45,"lonely \"[\"","["]]

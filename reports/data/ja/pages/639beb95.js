@@ -1,0 +1,1 @@
+window.data=[["nested-link",2,86,"internal link in an external link","[[w:Kalto language]]"]]

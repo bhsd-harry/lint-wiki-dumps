@@ -1,0 +1,1 @@
+window.data=[["no-ignored",74,36,"invalid content in <references>","\n *[[ヒッパルコス星表]]\n *[[:en:Catalog of Components of Double and Multiple Stars|CCDM]]（2002年）\n "]]

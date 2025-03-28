@@ -1,0 +1,1 @@
+window.data=[["no-ignored",102,7,"containing invalid attribute","　石.I"]]

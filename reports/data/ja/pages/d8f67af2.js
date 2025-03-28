@@ -1,0 +1,1 @@
+window.data=[["nested-link",33,183,"internal link in an external link","[[:en:Cosmopolitan (magazine)<!-- [[:ja:COSMOPOLITAN]] とリンク -->|Cosmopolitan]]"]]

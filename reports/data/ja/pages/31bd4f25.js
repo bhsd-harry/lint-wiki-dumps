@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,28,"useless link text","|商用電源周波数"]]

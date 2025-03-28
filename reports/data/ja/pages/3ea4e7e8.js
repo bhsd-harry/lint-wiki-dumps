@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",13,67,"duplicated style attribute","style=\"margin-left:2em; margin-bottom: 2em;\""],["no-duplicate",13,113,"duplicated style attribute","style=\"font-size: smaller\""],["unmatched-tag",60,6,"unmatched closing tag","</p>"]]

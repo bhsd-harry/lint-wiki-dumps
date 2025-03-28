@@ -1,0 +1,1 @@
+window.data=[["no-ignored",69,39,"containing invalid attribute","無期懲役が確定。"],["no-ignored",105,39,"containing invalid attribute","無期懲役が確定。"]]

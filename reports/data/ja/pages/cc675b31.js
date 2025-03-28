@@ -1,0 +1,1 @@
+window.data=[["no-ignored",14,61,"containing invalid attribute"," name\"jmbsc土壌雨量指数\""]]

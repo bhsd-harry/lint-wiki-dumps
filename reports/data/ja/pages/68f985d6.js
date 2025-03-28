@@ -1,0 +1,1 @@
+window.data=[["nested-link",18,545,"internal link in an external link","[[ジェンダー・トラブル|Gender Trouble]]"]]

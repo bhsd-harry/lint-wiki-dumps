@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",29,43,"illegal attribute name","0"],["illegal-attr",29,45,"illegal attribute name","1em"],["no-ignored",29,20,"containing invalid attribute","  float:right;margin:0 "],["no-ignored",29,48,"containing invalid attribute"," 1em;font-size:100%;clear:right;\"  "]]

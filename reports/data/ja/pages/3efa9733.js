@@ -1,0 +1,1 @@
+window.data=[["nested-link",129,105,"internal link in an external link","[[ダイヤモンド・オンライン]]"]]

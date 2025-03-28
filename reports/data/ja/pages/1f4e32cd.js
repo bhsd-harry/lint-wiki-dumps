@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",68,2,"duplicated category","[[Category:20世紀韓国の教育者]]"],["no-duplicate",72,2,"duplicated category","[[Category:20世紀韓国の教育者]]"],["no-duplicate",73,2,"duplicated category","[[Category:20世紀韓国の教育者]]"]]

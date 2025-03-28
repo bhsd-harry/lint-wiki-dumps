@@ -1,0 +1,1 @@
+window.data=[["fostered-content",16,1,"content to be moved out from the table","\n == 改名歴 ==\n 坂本→防長山\n <ref>大相撲力士名鑑平成13年版、水野尚文、京須利敏、共同通信社、2000年、ISBN 978-4764104709</ref>\n\n == 出典 ==\n "],["unclosed-table",12,2,"unclosed table","{|"]]

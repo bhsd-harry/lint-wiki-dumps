@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",91,48,"lonely \"[\"","[["],["lonely-bracket",91,76,"lonely \"]\"","]]"],["no-duplicate",91,42,"duplicated image caption parameter","超低床電車の[[フレキシティ・アウトルック (インスブルック市電)"],["no-duplicate",91,76,"duplicated image caption parameter","]]はバリアフリー化に貢献した（[[2018年]]撮影）"]]

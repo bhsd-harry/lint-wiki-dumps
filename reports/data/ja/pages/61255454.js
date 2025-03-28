@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",59,198,"unclosed tag","<ins>"],["illegal-attr",59,521,"illegal attribute name","ns"],["no-ignored",59,520,"attributes of a closing tag","　ns"],["unmatched-tag",59,517,"unmatched closing tag","</i　ns>"]]

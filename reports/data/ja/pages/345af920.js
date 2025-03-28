@@ -1,0 +1,1 @@
+window.data=[["no-ignored",5,4,"useless fragment","File:John_Thelwall_by_John_Hazlitt.jpg#/media/File:John_Thelwall_by_John_Hazlitt.jpg"]]

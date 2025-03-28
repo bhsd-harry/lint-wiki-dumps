@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",25,21,"lonely \"[\"","[["],["lonely-bracket",25,36,"lonely \"]\"","]]"],["no-ignored",24,806,"containing invalid attribute"," \n その後、モ702、モ706、モ708は[[シングルアームパンタグラフ]]に変更されている。\n "]]

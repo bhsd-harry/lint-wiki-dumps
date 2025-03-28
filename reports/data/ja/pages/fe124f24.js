@@ -1,0 +1,1 @@
+window.data=[["no-ignored",138,42,"containing invalid attribute","  white-space:nowrap;\""],["no-ignored",151,29,"containing invalid attribute","  white-space:nowrap;\""],["no-ignored",155,42,"containing invalid attribute","  white-nowrap;\""]]

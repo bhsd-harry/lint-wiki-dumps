@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",511,8,"duplicated group attribute","group=\"統計\""],["no-duplicate",511,20,"duplicated group attribute","group=\"統計\""]]

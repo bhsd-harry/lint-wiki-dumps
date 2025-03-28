@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",154,186,"duplicated parameter","publisher=とれたてフジテレビ"],["no-duplicate",154,206,"duplicated parameter","publisher=[[フジテレビジョン]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",8,2,"duplicated category","[[Category:ハンガリーの歴史的地域]]"],["no-duplicate",9,2,"duplicated category","[[Category:ハンガリーの歴史的地域]]"]]

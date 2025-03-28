@@ -1,0 +1,1 @@
+window.data=[["nested-link",126,165,"internal link in an external link","[[Google マップ]]"]]

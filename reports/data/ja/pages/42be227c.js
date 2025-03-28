@@ -1,0 +1,1 @@
+window.data=[["nested-link",160,113,"internal link in an external link","[[自動船舶識別装置]]"]]

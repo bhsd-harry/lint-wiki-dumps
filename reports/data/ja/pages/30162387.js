@@ -1,0 +1,1 @@
+window.data=[["no-ignored",137,4,"containing invalid attribute","||下旬"],["no-ignored",138,4,"containing invalid attribute","2.1（4位）||'''-2.9（1位）'''||'''-2.6（1位）'''||-1.1"]]

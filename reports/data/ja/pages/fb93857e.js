@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,10,"useless link text","|遠紫外線(deep UV)"]]

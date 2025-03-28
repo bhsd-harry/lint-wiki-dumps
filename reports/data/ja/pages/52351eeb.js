@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",8,2,"duplicated category","[[Category:日本のコメディ映画]]"],["no-duplicate",9,2,"duplicated category","[[Category:日本のコメディ映画]]"]]

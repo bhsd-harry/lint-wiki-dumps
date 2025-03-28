@@ -1,0 +1,1 @@
+window.data=[["tag-like",38,189,"lonely \"<\"","<ref"],["no-duplicate",38,177,"duplicated name attribute","name=dw0324/<ref"],["no-duplicate",38,194,"duplicated name attribute","name=\"rfa-02\""]]

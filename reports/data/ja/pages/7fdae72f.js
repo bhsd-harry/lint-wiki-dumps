@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:農業|こんさるたんと]]"],["no-duplicate",6,2,"duplicated category","[[Category:農業]]"]]

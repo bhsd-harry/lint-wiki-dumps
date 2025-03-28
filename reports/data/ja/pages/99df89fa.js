@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",176,51,"duplicated style attribute","style=\"border-collapse: collapse;\""],["no-duplicate",176,87,"duplicated style attribute","style=\"font-size:smaller;\""]]

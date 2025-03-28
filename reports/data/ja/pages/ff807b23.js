@@ -1,0 +1,1 @@
+window.data=[["no-ignored",307,4,"useless fragment","ファイル:V.M._Doroshevich-Sakhalin._Part_II._Nivkh_Amusement.png#%7B%7Bint%3Afiledesc%7D%7D"]]

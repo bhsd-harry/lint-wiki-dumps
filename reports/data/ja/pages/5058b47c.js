@@ -1,0 +1,1 @@
+window.data=[["no-ignored",542,1,"invalid content in <gallery>"," <ref>[http://udoncompany.com/2018/02/restaurantbus/ レストランバス三豊のご案内] - 瀬戸内うどんカンパニー株式会社 2018年2月23日</re"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:腹足綱]]"],["no-duplicate",4,2,"duplicated category","[[Category:腹足綱]]"]]

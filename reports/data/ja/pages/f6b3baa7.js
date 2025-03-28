@@ -1,0 +1,1 @@
+window.data=[["no-ignored",142,1,"invalid content in <gallery>"," [[File:05 Nissan X-Terra FCV (Fuel Cell Vehicle (6251528505).jpg|エクステラFCV<ref group=\"注釈\">画像は、2006 年"],["no-ignored",192,45,"containing invalid attribute"," name\"show\""]]

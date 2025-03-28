@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:ティムール朝の君主]]"],["no-duplicate",10,2,"duplicated category","[[Category:ティムール朝の君主]]"]]

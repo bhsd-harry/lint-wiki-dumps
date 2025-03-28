@@ -1,0 +1,1 @@
+window.data=[["no-ignored",36,1,"invalid content in <gallery>"," Flag of Ecuador (1845–1860).svg{{FIAV|historical}}1845年から1860年までの国旗（別の仕様）"]]

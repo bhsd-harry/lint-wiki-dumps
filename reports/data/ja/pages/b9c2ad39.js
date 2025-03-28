@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",26,83,"lonely \"{\"","{{"],["lonely-bracket",26,116,"lonely \"}\"","}}"],["lonely-bracket",26,123,"lonely \"[\"","[["],["lonely-bracket",26,146,"lonely \"]\"","]]"],["no-ignored",26,80,"containing invalid attribute"," * {{仮リンク|カリン・アリソン|en|Karrin Allyson}} - ''[[:en:Azure-Té|Azure-Té]]'' (1995年)\n "]]

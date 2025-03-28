@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",41,4,"illegal attribute name","nowrap"],["illegal-attr",447,33,"illegal attribute name","font-size:"],["no-ignored",447,43,"containing invalid attribute"," 90%;"],["illegal-attr",452,34,"illegal attribute name","nowrap"],["illegal-attr",458,34,"illegal attribute name","nowrap"],["illegal-attr",470,48,"illegal attribute name","nowrap"]]

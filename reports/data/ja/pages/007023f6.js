@@ -1,0 +1,1 @@
+window.data=[["parsing-order",57,60,"HTML tag in table attributes","<br />"],["no-ignored",57,56,"containing invalid attribute","リーダー<br />パジャコレ博多からの参加者"],["no-ignored",59,55,"containing invalid attribute","パジャコレ博多からの参加者"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,35,"useless link text","|仮面ライダー555の登場キャラクター"]]

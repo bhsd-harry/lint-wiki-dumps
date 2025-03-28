@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",975,19,"lonely \"}\"","}"],["no-ignored",975,3,"containing invalid attribute"," {{MsStatsC|pt}}} "]]

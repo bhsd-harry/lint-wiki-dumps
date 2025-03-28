@@ -1,0 +1,1 @@
+window.data=[["no-ignored",118,25,"containing invalid attribute","color:deepskyblue;\"\""],["no-ignored",126,25,"containing invalid attribute","color:yellowgreen;\"\""],["illegal-attr",149,229,"illegal attribute name","xml:lang"]]

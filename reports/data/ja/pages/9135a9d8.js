@@ -1,0 +1,1 @@
+window.data=[["parsing-order",86,25,"HTML tag in table attributes","<br />"],["parsing-order",86,38,"HTML tag in table attributes","<br />"],["no-ignored",86,4,"containing invalid attribute","||著者||原題||訳書の題||国||原著<br />刊行年||邦訳<br />刊行年||訳者||出版社"]]

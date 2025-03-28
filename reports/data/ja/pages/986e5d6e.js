@@ -1,0 +1,1 @@
+window.data=[["invalid-css",135,34,"colon expected",";"],["nested-link",219,85,"internal link in an external link","[[日刊ゲンダイ]]"]]

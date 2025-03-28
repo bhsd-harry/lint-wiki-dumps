@@ -1,0 +1,1 @@
+window.data=[["no-ignored",842,3,"containing invalid attribute","{{MsStatsC|f}}\""],["nested-link",1087,106,"internal link in an external link","[[らじこん]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",168,97,"containing invalid attribute"," =春日居町誌"]]

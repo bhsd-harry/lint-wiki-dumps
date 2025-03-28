@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",36,6,"lonely \"[\"","[["],["lonely-bracket",36,13,"lonely \"]\"","]]"],["illegal-attr",36,16,"illegal attribute name","98.552mm"],["no-ignored",36,4,"containing invalid attribute","||[[鋼|軟鋼板]] "]]

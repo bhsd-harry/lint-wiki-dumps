@@ -1,0 +1,1 @@
+window.data=[["nested-link",33,143,"internal link in an external link","[[着信御礼!ケータイ大喜利]]"]]

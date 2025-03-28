@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",70,5,"lonely \"[\"","[["],["lonely-bracket",70,17,"lonely \"]\"","]]"],["lonely-bracket",70,21,"lonely \"[\"","[["],["lonely-bracket",70,41,"lonely \"]\"","]]"],["parsing-order",70,50,"HTML tag in table attributes","<br/>"],["no-ignored",70,4,"containing invalid attribute","|[[日本ソフトテニス連盟]]||[[全日本ジュニアソフトテニス選手権大会]]||20歳以下<br/>13歳以上||"]]

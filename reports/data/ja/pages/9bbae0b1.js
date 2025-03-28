@@ -1,0 +1,1 @@
+window.data=[["no-ignored",664,117,"attributes of a closing tag"," color=white"],["unmatched-tag",664,111,"unmatched closing tag","</font color=white>"]]

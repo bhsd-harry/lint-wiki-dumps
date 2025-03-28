@@ -1,0 +1,1 @@
+window.data=[["nested-link",92,311,"internal link in an external link","[[フランス・テレビジョン]]"],["nested-link",129,1230,"internal link in an external link","[[ライアン・ブラッドリー]]"]]

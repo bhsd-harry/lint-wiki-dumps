@@ -1,0 +1,1 @@
+window.data=[["no-ignored",76,227,"containing invalid attribute"," name\"毎日20221003\""],["lonely-bracket",144,479,"lonely \"]\"","]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",134,1,"invalid content in <gallery>"," [Bison skull pile-restored.jpg|thumb|240px|肥料用に積み重なったアメリカンバイソンの頭骨（1870年代中期）"]]

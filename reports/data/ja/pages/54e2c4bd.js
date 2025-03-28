@@ -1,0 +1,1 @@
+window.data=[["tag-like",832,9,"lonely \"<\"","<ref"],["no-ignored",831,32,"containing invalid attribute","/\n * 小網輿八郎<ref "],["no-duplicate",831,14,"duplicated name attribute","name=\"shinoda1932\""],["no-duplicate",832,14,"duplicated name attribute","name=\"shinoda1932\""]]

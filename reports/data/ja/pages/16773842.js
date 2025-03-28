@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",12,58,"lonely \"[\"","[["],["lonely-bracket",13,10,"lonely \"]\"","]]"],["no-duplicate",12,54,"duplicated image caption parameter","リンク=[[:ファイル:Philosophical Transactions - Volume 001.djvu\n ?page=60]]"],["no-duplicate",13,28,"duplicated image caption parameter","[[アドリアン・オーズー]]の「対物レンズの開口数表。[[フィロソフィカル・トランザクションズ]]に掲載された論文（1665年）"]]

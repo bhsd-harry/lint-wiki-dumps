@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",144,103,"unmatched closing tag","</small>"],["lonely-apos",235,4,"lonely \"'\"","'"],["lonely-apos",235,10,"lonely \"'\"","'"],["lonely-apos",275,4,"lonely \"'\"","'"],["lonely-apos",275,10,"lonely \"'\"","'"]]

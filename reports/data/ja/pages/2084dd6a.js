@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",981,42,"duplicated image caption parameter","<!--180px|-->thumb"],["no-duplicate",981,61,"duplicated image caption parameter","[[富士ソフト]]本社ビル"],["no-duplicate",982,32,"duplicated image caption parameter","<!--180px|-->thumb"],["no-duplicate",982,51,"duplicated image caption parameter","[[ヒューリックみなとみらい]]"]]

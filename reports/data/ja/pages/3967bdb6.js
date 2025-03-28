@@ -1,0 +1,1 @@
+window.data=[["no-ignored",2,358,"containing invalid attribute"," name~\"study1-5\""],["lonely-http",161,66,"lonely \"ISBN\"","ISBN"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",39,1,"invalid content in <gallery>"," File:Black boy carrying a watermelon l<!--ithograph.jpg|[[Lithograph]] of a black boy holding a wat"]]

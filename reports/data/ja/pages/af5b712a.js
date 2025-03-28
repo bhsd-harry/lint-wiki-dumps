@@ -1,0 +1,1 @@
+window.data=[["no-ignored",280,4,"containing invalid attribute","\\\\tousyu"],["illegal-attr",281,16,"illegal attribute name","sylyle"],["illegal-attr",372,16,"illegal attribute name","sylyle"],["illegal-attr",456,16,"illegal attribute name","sylyle"],["illegal-attr",539,16,"illegal attribute name","sylyle"],["illegal-attr",619,16,"illegal attribute name","sylyle"]]

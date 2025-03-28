@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",21,2,"duplicated category","[[Category:無教会|*]]"],["no-duplicate",34,2,"duplicated category","[[Category:無教会]]"]]

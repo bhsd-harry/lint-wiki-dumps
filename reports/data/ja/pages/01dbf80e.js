@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",30,8,"duplicated parameter","\n === 釈文 ===\n 全釈文は以下の通りだが、本項では便宜上、文中に句読点および返り点を補った{{Sfn|東京帝国大学文学部史料編纂掛|1928}}{{Sfn|恩賜京都博物館|1940}}{{S"],["no-duplicate",69,3,"duplicated parameter","\n === 読み下し文 ===\n 読み下し文は以下の通りだが、一部漢字を旧字体から新字体へ改め、難読語に読み仮名を補った{{Sfn|小松|1986|p=85}}。\n {{Quotation|\n 天台座"]]

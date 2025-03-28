@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",311,7,"lonely \"[\"","[["],["lonely-bracket",311,18,"lonely \"]\"","]]"],["no-ignored",311,5,"containing invalid attribute","||[[ダンテ・ビシェット]]||特別補佐"]]

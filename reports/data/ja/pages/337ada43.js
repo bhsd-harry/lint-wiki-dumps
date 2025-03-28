@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",32,150,"lonely \"}\"","}}"],["lonely-bracket",35,80,"lonely \"}\"","}}"],["unclosed-comment",224,2,"unclosed HTML comment","<!--標準の書式\n # （質問文）\n #: '''A'''.（回答位置）\n #:\n #\n #: '''A'''.\n #:\n --"]]

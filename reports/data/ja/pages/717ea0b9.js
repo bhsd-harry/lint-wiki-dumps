@@ -1,0 +1,1 @@
+window.data=[["nested-link",62,564,"internal link in an external link","[[2020年]]"],["nested-link",62,574,"internal link in an external link","[[令和]]"]]

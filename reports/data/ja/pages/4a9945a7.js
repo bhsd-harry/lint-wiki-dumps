@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,2,"duplicated category","[[Category:紀元前4千年紀]]"],["no-duplicate",20,2,"duplicated category","[[Category:紀元前4千年紀|*]]"]]

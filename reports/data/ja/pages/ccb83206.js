@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",9,17,"duplicated style attribute","style=\"margin: 1em 1em 1em 0;\""],["no-duplicate",9,68,"duplicated style attribute","style=\"font-size: 80%;\""]]

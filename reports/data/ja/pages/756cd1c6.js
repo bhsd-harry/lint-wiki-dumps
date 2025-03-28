@@ -1,0 +1,1 @@
+window.data=[["nested-link",229,75,"internal link in an external link","[[報道の魂]]"],["nested-link",229,86,"internal link in an external link","[[TBSテレビ|TBS]]"]]

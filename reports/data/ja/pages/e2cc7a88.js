@@ -1,0 +1,1 @@
+window.data=[["no-ignored",69,32,"containing invalid attribute"," 0勝4分14敗 "],["no-ignored",72,31,"containing invalid attribute"," 10勝9分3敗 "],["no-ignored",75,59,"containing invalid attribute"," 12勝3分3敗 "],["no-ignored",78,59,"containing invalid attribute"," 7勝7分8敗 "],["no-ignored",81,59,"containing invalid attribute"," 1勝1分2敗 "]]

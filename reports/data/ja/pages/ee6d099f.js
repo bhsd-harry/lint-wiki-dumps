@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,67,"useless link text","|FNSスーパースペシャル1億人のテレビ夢列島'89"]]

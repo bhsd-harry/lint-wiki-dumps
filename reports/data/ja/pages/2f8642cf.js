@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",118,4,"illegal attribute name","table"],["no-duplicate",121,80,"duplicated rowspan attribute","rowspan=2"],["no-duplicate",121,101,"duplicated rowspan attribute","rowspan=\"4\""],["illegal-attr",132,4,"illegal attribute name","table"],["illegal-attr",149,4,"illegal attribute name","table"]]

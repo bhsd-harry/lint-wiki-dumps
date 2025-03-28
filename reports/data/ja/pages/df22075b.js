@@ -1,0 +1,1 @@
+window.data=[["nested-link",12,443,"internal link in an external link","[[日本オリンピック委員会]]"],["nested-link",12,1101,"internal link in an external link","[[1992年]]"],["nested-link",12,1111,"internal link in an external link","[[平成]]"]]

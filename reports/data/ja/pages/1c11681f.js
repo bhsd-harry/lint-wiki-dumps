@@ -1,0 +1,1 @@
+window.data=[["parsing-order",5,185,"extension tag in HTML tag attributes","<ref>{{cite web|title = Ukraine Buys Advanced Turkish Strike Drones|url = https://jamestown.org/prog"]]

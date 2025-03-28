@@ -1,0 +1,1 @@
+window.data=[["no-ignored",40,124,"containing invalid attribute"," name\"trafficnews_20210727\""]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",302,74,"containing invalid attribute","!Chart (1988–2023)"]]

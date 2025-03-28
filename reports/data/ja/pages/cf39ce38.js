@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,21,"duplicated image caption parameter","<!--サムネイル|282x282ピクセル|-->220px"],["no-duplicate",1,64,"duplicated image caption parameter","上田正造"]]

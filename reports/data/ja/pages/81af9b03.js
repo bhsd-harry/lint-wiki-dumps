@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",48,688,"lonely \"'\"","'"],["no-ignored",107,70,"containing invalid attribute","  font-size:90%;\""]]

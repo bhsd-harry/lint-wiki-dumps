@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",14,2,"duplicated category","[[Category:ウガンダの戦争]]"],["no-duplicate",18,2,"duplicated category","[[Category:ウガンダの戦争]]"]]

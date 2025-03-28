@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",62,4,"lonely \"[\"","[["],["lonely-bracket",62,22,"lonely \"]\"","]]"],["no-ignored",62,4,"containing invalid attribute","[[Clausen function]]"]]

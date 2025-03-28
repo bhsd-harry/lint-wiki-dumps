@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",118,36,"illegal attribute name","Swedish"],["illegal-attr",118,44,"illegal attribute name","Nymphet"],["no-ignored",118,26,"containing invalid attribute"," ''Anita: "]]

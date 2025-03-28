@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",8,81,"duplicated image caption parameter","px"],["no-duplicate",8,84,"duplicated image caption parameter","第2戦マレーシアGPにおけるレッドブルのチームメイト間の争い"]]

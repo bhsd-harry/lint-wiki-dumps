@@ -1,0 +1,1 @@
+window.data=[["no-ignored",578,1,"invalid content in <gallery>"," 画像:|"],["no-ignored",579,1,"invalid content in <gallery>"," 画像:|"],["no-ignored",580,1,"invalid content in <gallery>"," 画像:|"],["no-ignored",581,1,"invalid content in <gallery>"," 画像:|"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1159,3,"containing invalid attribute","スバル・インプレッサ"]]

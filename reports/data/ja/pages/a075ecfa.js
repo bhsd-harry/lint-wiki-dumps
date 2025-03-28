@@ -1,0 +1,1 @@
+window.data=[["pipe-like",55,11,"additional \"|\" in a table cell","||"],["illegal-attr",68,3,"illegal attribute name","nowrap"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",92,88,"internal link in an external link","[[ペトリッサ・ゾルヤ]]"],["nested-link",92,102,"internal link in an external link","[[単暁娜]]"],["nested-link",185,159,"internal link in an external link","[[ナタリア・パルティカ|パルティカ]]"]]

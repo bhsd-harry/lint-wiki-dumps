@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",62,51,"duplicated image caption parameter","{{#ifeq:{{{small|}}}|yes|50px|100px}}"],["no-duplicate",62,89,"duplicated image caption parameter","カワセミ"],["unmatched-tag",89,2,"unmatched closing tag","</div>"],["unmatched-tag",90,2,"unmatched closing tag","</div>"]]

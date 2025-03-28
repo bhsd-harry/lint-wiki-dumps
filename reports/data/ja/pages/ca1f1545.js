@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",13,201,"lonely \"[\"","["],["lonely-bracket",13,212,"lonely \"]\"","]"],["nested-link",32,223,"internal link in an external link","[[山﨑武司]]"]]

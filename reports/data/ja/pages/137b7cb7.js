@@ -1,0 +1,1 @@
+window.data=[["no-ignored",87,3,"containing invalid attribute","デジタル"]]

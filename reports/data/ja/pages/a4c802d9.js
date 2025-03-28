@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,66,"useless link text","|MAGI SOUNDTRACK 〜To the kingdom of magic〜"]]

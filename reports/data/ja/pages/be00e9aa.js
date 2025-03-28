@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",93,2,"duplicated category","[[Category:図書館総合展2023]]"],["no-duplicate",99,2,"duplicated category","[[Category:図書館総合展2023]]"]]

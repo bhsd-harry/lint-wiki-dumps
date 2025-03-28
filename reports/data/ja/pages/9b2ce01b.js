@@ -1,0 +1,1 @@
+window.data=[["no-ignored",62,22,"containing invalid attribute","   font-size:95%;\""],["no-duplicate",72,5,"duplicated style attribute","style=\"text-align:center;\""],["no-duplicate",72,34,"duplicated style attribute","style=\"text-align:center;\""]]

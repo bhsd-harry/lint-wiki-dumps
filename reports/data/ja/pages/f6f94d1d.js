@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,39,"duplicated image caption parameter","Lissodus hasleensis"],["no-duplicate",4,65,"duplicated image caption parameter",""]]

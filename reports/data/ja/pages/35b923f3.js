@@ -1,0 +1,1 @@
+window.data=[["invalid-css",6,59,"property value expected",""],["illegal-attr",6,60,"illegal attribute name","Hiragino"],["illegal-attr",6,69,"illegal attribute name","Kaku"],["illegal-attr",6,74,"illegal attribute name","Gothic"],["no-ignored",6,80,"containing invalid attribute"," ProN\";\""]]

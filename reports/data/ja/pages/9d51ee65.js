@@ -1,0 +1,1 @@
+window.data=[["nested-link",65,497,"internal link in an external link","[[日本放送協会|NHK]]"],["nested-link",65,512,"internal link in an external link","[[クローズアップ現代]]"],["no-ignored",81,46,"containing invalid attribute"," font-size:small;\""],["invalid-css",140,15,"semi-colon expected",""],["invalid-css",140,15,"colon expected",""]]

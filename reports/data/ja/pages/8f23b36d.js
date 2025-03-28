@@ -1,0 +1,1 @@
+window.data=[["parsing-order",141,3,"extension tag in HTML tag attributes","<ref group=\"*\"  name=\"chiba_pref_R05\">{{Cite report|author=千葉県|authorlink=千葉県|title=千葉県統計年鑑(令和5年) 11"],["no-ignored",141,3,"containing invalid attribute","<ref group=\"*\"  name=\"chiba_pref_R05\">{{Cite report|author=千葉県|authorlink=千葉県|title=千葉県統計年鑑(令和5年) 11"]]

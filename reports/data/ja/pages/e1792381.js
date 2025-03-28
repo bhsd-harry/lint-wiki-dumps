@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",7,70,"duplicated image caption parameter","thmub"],["no-duplicate",7,87,"duplicated image caption parameter","<small>第一次大戦前までのハンガリー</small>"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",35,4,"containing invalid attribute","昭和19年　三重県立神戸高等学校卒業"]]

@@ -1,0 +1,1 @@
+window.data=[["invalid-css",235,50,"term expected",""],["illegal-attr",235,51,"illegal attribute name","font-size:"],["no-ignored",235,61,"containing invalid attribute"," 85%\""]]

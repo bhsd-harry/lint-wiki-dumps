@@ -1,0 +1,1 @@
+window.data=[["nested-link",154,88,"internal link in an external link","[[損害保険料率算出機構]]"],["nested-link",155,87,"internal link in an external link","[[国土地理院]]"],["nested-link",156,81,"internal link in an external link","[[名古屋地方気象台]]"],["nested-link",157,70,"internal link in an external link","[[静岡大学]]"]]

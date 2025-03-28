@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",39,116,"unclosed tag","<del>"],["unmatched-tag",39,134,"unclosed tag","<del>"],["unmatched-tag",40,142,"unclosed tag","<font color=\"black\">"],["unmatched-tag",40,178,"unmatched closing tag","</font>"],["illegal-attr",49,265,"illegal attribute name","pink"]]

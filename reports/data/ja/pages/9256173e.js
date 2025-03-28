@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,2,"duplicated category","[[Category:各国を舞台とした映画作品]]"],["no-duplicate",8,2,"duplicated category","[[Category:各国を舞台とした映画作品]]"]]

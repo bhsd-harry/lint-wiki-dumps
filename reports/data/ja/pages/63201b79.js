@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",679,82,"lonely \"[\"","[["],["lonely-bracket",679,100,"lonely \"]\"","]]"],["no-duplicate",679,82,"duplicated image caption parameter","[[チャールズ3世 (イギリス王)"],["no-duplicate",679,100,"duplicated image caption parameter","]]（当時皇太子）と[[ダイアナ (プリンセス・オブ・ウェールズ)|ダイアナ妃]]と共に写真に納まるレーガン大統領とナンシー夫人 (1985年、ホワイトハウスにて。)"]]

@@ -1,0 +1,1 @@
+window.data=[["invalid-css",1740,26,"property value expected",""],["invalid-css",1741,26,"property value expected",""],["invalid-css",1742,26,"property value expected",""],["invalid-css",1743,26,"property value expected",""],["invalid-css",1744,26,"property value expected",""],["no-ignored",1788,64,"containing invalid attribute","\"white-space:nowrap\""]]

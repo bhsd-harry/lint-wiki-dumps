@@ -1,0 +1,1 @@
+window.data=[["no-ignored",830,3,"containing invalid attribute"," テイルズ オブ ザ ワールド ダイスアドベンチャー "],["no-ignored",836,3,"containing invalid attribute"," テイルズ オブ リンク "]]

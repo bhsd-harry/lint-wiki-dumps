@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",48,3,"lonely \"'\"","'"],["lonely-apos",50,3,"lonely \"'\"","'"],["no-ignored",82,65,"attributes of a closing tag"," style"],["no-ignored",104,86,"attributes of a closing tag"," style"]]

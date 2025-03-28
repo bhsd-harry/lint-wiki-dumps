@@ -1,0 +1,1 @@
+window.data=[["invalid-css",56,34,"property value expected",""],["no-ignored",56,34,"containing invalid attribute"," center;\""],["invalid-css",93,33,"property value expected",""],["no-ignored",93,33,"containing invalid attribute"," center;\""]]

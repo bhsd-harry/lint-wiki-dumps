@@ -1,0 +1,1 @@
+window.data=[["invalid-css",93,85,"semi-colon expected",""],["invalid-css",93,85,"colon expected",""],["no-duplicate",93,34,"duplicated style attribute","style=\"text-align:center\""],["no-duplicate",93,62,"duplicated style attribute","style=\"font-size: 90%;　"]]

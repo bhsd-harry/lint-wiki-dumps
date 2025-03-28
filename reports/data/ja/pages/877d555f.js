@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:各アーティストのアルバム|いわさき よしみ]]"],["no-duplicate",8,2,"duplicated category","[[Category:各アーティストのアルバム]]"]]

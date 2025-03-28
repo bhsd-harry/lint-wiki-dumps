@@ -1,0 +1,1 @@
+window.data=[["lonely-http",54,356,"lonely \"ISBN\"","ISBN"],["no-ignored",94,22,"containing invalid attribute","  ; font-size:small\""]]

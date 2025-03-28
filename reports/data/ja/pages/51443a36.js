@@ -1,0 +1,1 @@
+window.data=[["no-ignored",131,10,"containing invalid attribute","開化の度に因て改文字を発すべきの論"],["no-ignored",137,9,"containing invalid attribute","学者職分論の評"],["no-ignored",140,10,"containing invalid attribute","学者職分論の評"],["no-ignored",143,8,"containing invalid attribute","非学者職分論"]]

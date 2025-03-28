@@ -1,0 +1,1 @@
+window.data=[["nested-link",186,126,"internal link in an external link","[[民主党 (日本 1998-2016)|民主党]]"],["nested-link",186,153,"internal link in an external link","[[松井孝治]]"]]

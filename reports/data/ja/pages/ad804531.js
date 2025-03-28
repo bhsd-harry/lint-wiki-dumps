@@ -1,0 +1,1 @@
+window.data=[["no-ignored",118,6,"containing invalid attribute","コロリン、オアシス星からやって来るのコロリ!"],["no-ignored",127,6,"containing invalid attribute","切っても切ってもムダカミラー!のコロリ"],["no-ignored",142,7,"containing invalid attribute","チョウのおばけにチョービックリ!のコロリ"]]

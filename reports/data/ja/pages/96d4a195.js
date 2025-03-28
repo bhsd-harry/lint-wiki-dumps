@@ -1,0 +1,1 @@
+window.data=[["nested-link",51,373,"internal link in an external link","[[タワーレコード]]"]]

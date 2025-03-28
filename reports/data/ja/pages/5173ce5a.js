@@ -1,0 +1,1 @@
+window.data=[["no-ignored",31,1,"invalid content in <gallery>"," ファイル:|[[サニディン]]（玻璃長石）"],["no-ignored",33,1,"invalid content in <gallery>"," ファイル:|[[アノーソクレース]]（曹微斜長石）"]]

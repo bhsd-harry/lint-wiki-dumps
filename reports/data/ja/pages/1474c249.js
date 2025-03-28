@@ -1,0 +1,1 @@
+window.data=[["nested-link",205,96,"internal link in an external link","[[デビスカップ]]"],["nested-link",206,97,"internal link in an external link","[[デビスカップ]]"],["nested-link",210,93,"internal link in an external link","[[USTA]]"]]

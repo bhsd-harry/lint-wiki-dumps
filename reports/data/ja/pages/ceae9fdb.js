@@ -1,0 +1,1 @@
+window.data=[["no-ignored",116,4,"useless fragment",":Wikipedia:Good article criteria#良質な記事とは?"]]

@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",75,31,"unmatched closing tag","</CAPTION>"],["no-ignored",418,3,"containing invalid attribute","ター・マルブータ"]]

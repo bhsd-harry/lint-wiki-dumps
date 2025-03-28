@@ -1,0 +1,1 @@
+window.data=[["no-ignored",34,3,"containing invalid attribute"," 新学制により長地小学校に併設し、長地村立長地中学校開校 校歌制定"],["no-ignored",37,3,"containing invalid attribute"," セル2A "]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",35,98,"internal link in an external link","[[日本医史学会|日本医史学雑誌]]"]]

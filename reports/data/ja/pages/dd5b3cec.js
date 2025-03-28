@@ -1,0 +1,1 @@
+window.data=[["no-ignored",23,1,"invalid content in <gallery>"," [[ファイル:河野静雲.jpg|サムネイル|右]]"]]

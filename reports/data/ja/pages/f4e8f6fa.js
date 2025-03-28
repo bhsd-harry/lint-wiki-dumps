@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",51,54,"duplicated image caption parameter","px"],["no-duplicate",51,57,"duplicated image caption parameter","[[Halo (フォーミュラカー)|Halo]]をテストするベッテル（2016年イギリスGP）"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,24,"useless link text","|特定保健用食品"]]

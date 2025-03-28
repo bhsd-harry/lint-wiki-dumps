@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",9,41,"duplicated image caption parameter","リンク=https://en.wikipedia.org/wiki/File:World Map of Web Index 2014.svg"],["no-duplicate",9,118,"duplicated image caption parameter","2014年時点での各国の{{仮リンク|ウェブ・インデックス|en|Web index}}を表した世界地図。"]]

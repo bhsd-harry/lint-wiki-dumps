@@ -1,0 +1,1 @@
+window.data=[["nested-link",288,118,"internal link in an external link","[[警視庁]]"],["nested-link",288,125,"internal link in an external link","[[刑事部|捜査一課]]"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",461,279,"internal link in an external link","[[ジーパラドットコム]]"]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",28,4,"illegal attribute name","0"],["no-ignored",332,68,"containing invalid attribute","小林真由"]]

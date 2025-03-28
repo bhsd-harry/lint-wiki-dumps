@@ -1,0 +1,1 @@
+window.data=[["no-ignored",27,1,"invalid content in <gallery>"," Image:"],["no-ignored",28,1,"invalid content in <gallery>"," Image:"],["no-ignored",29,1,"invalid content in <gallery>"," Image:"],["no-ignored",30,1,"invalid content in <gallery>"," Image:"],["no-ignored",31,1,"invalid content in <gallery>"," Image:"]]

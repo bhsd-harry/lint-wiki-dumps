@@ -1,0 +1,1 @@
+window.data=[["nested-link",46,716,"internal link in an external link","[[Bintan Island]]"],["nested-link",46,735,"internal link in an external link","[[Riau]]"]]

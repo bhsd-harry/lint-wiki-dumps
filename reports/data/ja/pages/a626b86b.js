@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",7,2,"duplicated category","[[Category:セント・ジョーンズ大学]]"],["no-duplicate",8,2,"duplicated category","[[Category:セント・ジョーンズ大学|しゆつしんのしんふつ]]"]]

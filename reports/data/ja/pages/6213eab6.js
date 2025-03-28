@@ -1,0 +1,1 @@
+window.data=[["no-ignored",192,142,"containing invalid attribute","\"colspan=\"2\""],["nested-link",331,92,"internal link in an external link","[[バイオマスエタノール]]"]]

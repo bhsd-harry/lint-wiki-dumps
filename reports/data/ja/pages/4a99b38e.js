@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",15,2,"duplicated category","[[Category:日本の新宗教系学校]]"],["no-duplicate",19,2,"duplicated category","[[Category:日本の新宗教系学校]]"]]

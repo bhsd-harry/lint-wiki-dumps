@@ -1,0 +1,1 @@
+window.data=[["no-ignored",196,54,"containing invalid attribute","  表全体の背景色を白に"]]

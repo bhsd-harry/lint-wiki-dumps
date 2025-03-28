@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",30,12,"illegal attribute name","ICC"],["illegal-attr",30,16,"illegal attribute name","World"],["illegal-attr",30,22,"illegal attribute name","Test"],["illegal-attr",30,27,"illegal attribute name","Championship"],["illegal-attr",30,40,"illegal attribute name","Final"],["no-ignored",30,3,"containing invalid attribute"," '''2021 "]]

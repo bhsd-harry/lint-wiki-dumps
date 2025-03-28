@@ -1,0 +1,1 @@
+window.data=[["tag-like",46,166,"lonely \"<\"","<ref"],["no-ignored",46,96,"containing invalid attribute","  /。本作ではダウンロードプレイでも全てのコースを選ぶことが可能。ただし、ゲームカードを持っていないプレイヤーの操作キャラクターはヘイホー<ref "],["no-duplicate",46,80,"duplicated name attribute","name=\"mk7manual\""],["no-duplicate",46,171,"duplicated name attribute","name=\"mk7manual\""]]

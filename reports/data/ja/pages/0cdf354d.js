@@ -1,0 +1,1 @@
+window.data=[["no-ignored",70,3,"containing invalid attribute","2020年（令和2年）{{R|group=WEB|R2国勢調査}}"]]

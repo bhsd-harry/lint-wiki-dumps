@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",54,8,"duplicated parameter","\n === 1F ===\n * [[ミスタードーナツ]]秋田山王ショップ（エムディフード東北運営）\n * [[大阪王将]]秋田ドンキホーテ店<!-- 点なし表記 -->（協和石油運営）\n * 謝謝珍味"],["no-duplicate",75,3,"duplicated parameter","\n === 2F ===\n * [[ブックオフコーポレーション|BOOK・OFF PLUS]]\n * heir salon aki\n "]]

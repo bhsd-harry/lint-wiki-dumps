@@ -1,0 +1,1 @@
+window.data=[["no-ignored",152,4,"useless fragment","Image:Ganymede magnetic field.svg#Summary"]]

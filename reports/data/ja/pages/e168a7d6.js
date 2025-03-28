@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",51,24,"duplicated style attribute","style=\"text-align:right\""],["no-duplicate",51,50,"duplicated style attribute","style=\"float:right\""],["unmatched-tag",52,103,"unmatched closing tag","</th>"]]

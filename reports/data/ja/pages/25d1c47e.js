@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",72,26,"duplicated caption attribute","caption=\"\""],["no-duplicate",72,51,"duplicated caption attribute","caption= マルセイユ石鹸の製造"],["no-duplicate",131,26,"duplicated caption attribute","caption=\"\""],["no-duplicate",131,53,"duplicated caption attribute","caption= フランス各地の店頭に並べられるマルセイユ石鹸"]]

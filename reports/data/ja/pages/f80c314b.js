@@ -1,0 +1,1 @@
+window.data=[["nested-link",14,355,"internal link in an external link","[[ガーディアン]]"],["nested-link",14,539,"internal link in an external link","[[インデペンデント|インディペンデント紙]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",15,2,"duplicated category","[[Category:阪神タイガース|かんれんしんふつ]]"],["no-duplicate",19,2,"duplicated category","[[Category:阪神タイガース|かんれんしんふつ]]"]]

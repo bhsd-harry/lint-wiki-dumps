@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",289,3,"illegal attribute name","nowrap"],["lonely-bracket",555,317,"lonely \"]\"","]"],["no-duplicate",559,24,"duplicated style attribute","style=\"width:200%;\""],["no-duplicate",559,45,"duplicated style attribute","style=font-size:small"]]

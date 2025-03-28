@@ -1,0 +1,1 @@
+window.data=[["invalid-css",63,40,"colon expected",";"],["invalid-css",63,45,"colon expected",";"],["parsing-order",72,61,"HTML tag in table attributes","<br>"],["no-ignored",72,61,"containing invalid attribute","<br>'''区間新記録'''"]]

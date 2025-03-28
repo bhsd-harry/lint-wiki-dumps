@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,54,"duplicated style attribute","style=\"margin:10px;border: 1px solid #B3A000; padding: 5px; margin: 0em 0em 1em 1em; float: right; c"],["no-duplicate",3,189,"duplicated style attribute","style=\"border:1px solid #B37D00;"],["unmatched-tag",4,307,"unmatched closing tag","</font>"]]

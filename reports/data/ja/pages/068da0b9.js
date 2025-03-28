@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:タイの観光|こくさいはくらんかい]]"],["no-duplicate",6,2,"duplicated category","[[Category:タイの観光|こくさいはくらんかい]]"]]

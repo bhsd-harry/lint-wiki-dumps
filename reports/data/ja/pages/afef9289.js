@@ -1,0 +1,1 @@
+window.data=[["no-ignored",28,22,"containing invalid attribute","!bgcolor=\"silver|氏名"],["unmatched-tag",47,4,"unmatched closing tag","</tr>"],["unmatched-tag",49,25,"unmatched closing tag","</tr>"],["unmatched-tag",57,6,"unmatched closing tag","</tr>"]]

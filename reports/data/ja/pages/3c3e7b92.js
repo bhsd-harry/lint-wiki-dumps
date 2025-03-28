@@ -1,0 +1,1 @@
+window.data=[["no-ignored",68,39,"invalid content in <references>","<references />\n https://docs.moodle.org/3x/ja/SCORM%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%"]]

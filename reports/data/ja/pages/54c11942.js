@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",104,18,"illegal attribute name","nowrap"],["illegal-attr",104,72,"illegal attribute name","nowrap"],["no-duplicate",478,23,"duplicated style attribute","style=\"font-size:small\""],["no-duplicate",478,48,"duplicated style attribute","style=\"text-align:left;\""]]

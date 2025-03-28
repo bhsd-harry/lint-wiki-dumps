@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",620,51,"duplicated bgcolor attribute","bgcolor=\"#f0f0f0\""],["no-duplicate",620,70,"duplicated bgcolor attribute","bgcolor=\"#f0f0f0\""],["no-ignored",733,37,"containing invalid attribute","日本サッカー協会"]]

@@ -1,0 +1,1 @@
+window.data=[["fostered-content",119,1,"content to be moved out from the table","\n {{DEFAULTSORT:ふるうらいん}}\n [[Category:東京都中央区の企業]]\n [[Category:2002年設立の企業]]"],["unclosed-table",110,2,"unclosed table","{|"]]

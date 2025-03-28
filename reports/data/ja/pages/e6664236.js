@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,26,"useless link text","|デフレ脱却議員連盟"]]

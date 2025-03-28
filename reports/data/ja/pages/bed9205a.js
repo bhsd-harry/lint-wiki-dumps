@@ -1,0 +1,1 @@
+window.data=[["tag-like",59,121,"lonely \"<\"","<ref"],["no-ignored",59,59,"containing invalid attribute","/土日も営業する内科・眼科・耳鼻咽喉科・薬局の入る4番館・クリニックセンターを開業し、待ち時間の間に買い物を行えるようにした<ref "],["no-duplicate",59,26,"duplicated name attribute","name=\"shopping-center-1993-10-29\""],["no-duplicate",59,126,"duplicated name attribute","name=\"shopping-center-1989-12-15\""]]

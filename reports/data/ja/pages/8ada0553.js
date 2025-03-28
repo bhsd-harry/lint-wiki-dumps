@@ -1,0 +1,1 @@
+window.data=[["nested-link",152,115,"internal link in an external link","[[日本広告審査機構]]"],["nested-link",152,128,"internal link in an external link","[[和田龍夫]]"],["nested-link",153,99,"internal link in an external link","[[家入一真]]"]]

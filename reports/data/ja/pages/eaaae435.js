@@ -1,0 +1,1 @@
+window.data=[["nested-link",26,487,"internal link in an external link","[[ジョン・ブローヴェン|John Broven]]"],["lonely-apos",50,43,"lonely \"'\"","'"],["lonely-apos",51,37,"lonely \"'\"","'"]]

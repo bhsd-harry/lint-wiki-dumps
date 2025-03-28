@@ -1,0 +1,1 @@
+window.data=[["pipe-like",66,70,"additional \"|\" in a table cell"," 2015年1月23日-\n 在位中 ||"]]

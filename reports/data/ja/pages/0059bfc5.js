@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",507,71,"lonely \"[\"","["],["illegal-attr",893,4,"illegal attribute name","nowrap"],["illegal-attr",903,4,"illegal attribute name","nowrap"],["illegal-attr",903,29,"illegal attribute name","nowrap"],["illegal-attr",905,4,"illegal attribute name","nowrap"]]

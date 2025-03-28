@@ -1,0 +1,1 @@
+window.data=[["no-ignored",53,67,"containing invalid attribute","|left  "]]

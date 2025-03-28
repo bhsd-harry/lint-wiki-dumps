@@ -1,0 +1,1 @@
+window.data=[["no-ignored",461,4,"containing invalid attribute","||国士舘大学||-||-||-||-||-||-||-"]]

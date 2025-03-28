@@ -1,0 +1,1 @@
+window.data=[["nested-link",32,141,"internal link in an external link","[[内閣府]]"],["nested-link",32,148,"internal link in an external link","[[食品安全委員会]]"],["nested-link",32,252,"internal link in an external link","[[内閣府]]"],["nested-link",32,259,"internal link in an external link","[[食品安全委員会]]"]]

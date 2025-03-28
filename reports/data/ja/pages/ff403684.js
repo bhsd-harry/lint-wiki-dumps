@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,33,"useless link text","|新潟県内高速バス共通カード"]]

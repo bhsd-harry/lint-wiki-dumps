@@ -1,0 +1,1 @@
+window.data=[["no-ignored",65,4,"containing invalid attribute"," 行動を促す情報"],["no-ignored",66,4,"containing invalid attribute"," 行動を促す情報"],["no-ignored",109,3,"containing invalid attribute","background-color:#FFFFFF; "]]

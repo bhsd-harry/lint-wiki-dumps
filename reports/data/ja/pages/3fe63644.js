@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",67,91,"lonely \"'\"","'"],["tag-like",71,318,"lonely \"<\"","<span"],["unmatched-tag",71,487,"unmatched closing tag","</span>"],["lonely-bracket",97,181,"lonely \"]\"","]"],["lonely-bracket",98,124,"lonely \"]\"","]"],["lonely-bracket",99,178,"lonely \"]\"","]"]]

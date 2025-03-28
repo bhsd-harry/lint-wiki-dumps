@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",14,86,"illegal attribute name","background:"],["no-ignored",14,97,"containing invalid attribute"," #f9f9f9;"],["illegal-attr",16,4,"illegal attribute name","nowrap"]]

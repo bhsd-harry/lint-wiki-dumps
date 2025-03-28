@@ -1,0 +1,1 @@
+window.data=[["no-ignored",82,1,"invalid content in <gallery>"," [[ファイル:図11谷中を描く邦二|サムネイル|谷中を描く邦二]]"]]

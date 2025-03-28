@@ -1,0 +1,1 @@
+window.data=[["no-ignored",57,1,"invalid content in <gallery>"," [[:pl:Poliptyk augustiański|Poliptyku Augustiańskiego]] ok. 1468"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",55,44,"duplicated image caption parameter","305px<!--meant to match infobox width-->"],["no-duplicate",55,85,"duplicated image caption parameter","1861年のモービル湾図、下左にドーフィン島のゲインズ砦、湾入口の東岸にモーガン砦が見られる"],["lonely-apos",176,204,"lonely \"'\"","'"]]

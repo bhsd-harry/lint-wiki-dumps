@@ -1,0 +1,1 @@
+window.data=[["invalid-css",35,70,"colon expected","="],["no-duplicate",40,24,"duplicated style attribute","style=\"text-align: center;\""],["no-duplicate",40,53,"duplicated style attribute","style=\"margin:0.5em auto; line-height:1.25em;\""]]

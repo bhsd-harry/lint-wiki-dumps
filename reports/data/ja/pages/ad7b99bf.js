@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",136,8,"duplicated parameter","\n === 連結子会社 ===\n * 欧州静岡銀行（Shizuoka Bank (Europe) S.A.）\n * [https://www.sgs-hr.co.jp/ 静銀総合サービス株式会社]\n "],["no-duplicate",148,3,"duplicated parameter","\n === 持分法適用関連会社 ===\n * [[静銀セゾンカード]]株式会社\n * [http://www.commons30.jp/ コモンズ投信株式会社]\n "]]

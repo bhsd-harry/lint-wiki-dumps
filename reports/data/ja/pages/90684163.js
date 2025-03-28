@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",12,2,"duplicated category","[[Category:江戸時代の剣客]]"],["no-duplicate",15,2,"duplicated category","[[Category:江戸時代の剣客]]"]]

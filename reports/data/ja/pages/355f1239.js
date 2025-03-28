@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",8,103,"lonely \"[\"","["],["lonely-bracket",8,139,"lonely \"]\"","]"],["nested-link",15,875,"internal link in an external link","[[祇陀寺 (金沢市)|祇陀]]"]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",59,337,"lonely \"'\"","'"],["lonely-bracket",415,5,"lonely \"[\"","[["],["lonely-bracket",415,10,"lonely \"]\"","]]"],["lonely-bracket",415,17,"lonely \"[\"","[["],["lonely-bracket",415,22,"lonely \"]\"","]]"],["no-ignored",415,4,"containing invalid attribute"," [[佐藤渚]] || 元[[TBS]]アナウンサー  "]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",14,55,"internal link in an external link","[[:de:Zinn (Begriffsklärung)|Zinn]]"],["nested-link",15,55,"internal link in an external link","[[:de:Zinnkann|Zinnkann]]"],["nested-link",16,60,"internal link in an external link","[[:en:Zinnemann|Zinnemann]]"],["nested-link",17,56,"internal link in an external link","[[:de:Zinne|Zinne]]"]]

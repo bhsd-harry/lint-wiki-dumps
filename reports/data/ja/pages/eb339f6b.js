@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",37,330,"duplicated group attribute","group"],["no-duplicate",37,336,"duplicated group attribute","group=\"nb\""],["no-duplicate",39,120,"duplicated group attribute","group"],["no-duplicate",39,126,"duplicated group attribute","group=\"nb\""]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1738,3,"containing invalid attribute"," 広域放送 "],["no-ignored",1738,17,"containing invalid attribute"," 日本テレビ放送網 "]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",45,228,"internal link in an external link","[[京阪神エルマガジン社|Lmaga.jp]]"],["nested-link",45,355,"internal link in an external link","[[日本経済新聞]]"],["nested-link",45,516,"internal link in an external link","[[ダイヤモンド社|ダイヤモンド・オンライン]]"]]

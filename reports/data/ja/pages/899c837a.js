@@ -1,0 +1,1 @@
+window.data=[["no-ignored",118,4,"containing invalid attribute","  || デビッド・A・シーカム（暫定市長）|| 1856年8月23日|| 1857年4月7日||"]]

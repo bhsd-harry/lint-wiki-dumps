@@ -1,0 +1,1 @@
+window.data=[["no-ignored",233,3,"containing invalid attribute","2014年のセントラル・リーグクライマックスシリーズ"]]

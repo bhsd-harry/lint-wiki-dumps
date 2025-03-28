@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",290,59,"unmatched closing tag","</div>"],["unmatched-tag",347,98,"unmatched closing tag","</div>"],["no-ignored",352,1,"invalid content in <gallery>"," 年 - 1994年）</div>"]]

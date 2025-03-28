@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",82,79,"unmatched closing tag","</small>"],["lonely-apos",176,38,"lonely \"'\"","'"],["lonely-apos",256,38,"lonely \"'\"","'"],["invalid-css",407,41,"colon expected",";"]]

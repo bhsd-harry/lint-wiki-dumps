@@ -1,0 +1,1 @@
+window.data=[["nested-link",130,112,"internal link in an external link","[[:en:Archeophone Records|Archeophone Records]]"]]

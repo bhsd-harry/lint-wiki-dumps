@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",10,2,"duplicated category","[[Category:社会運動]]"],["no-duplicate",16,2,"duplicated category","[[Category:社会運動]]"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",100,250,"internal link in an external link","[[メビバイト|MiB]]"],["nested-link",100,264,"internal link in an external link","[[MPEG-1]]"]]

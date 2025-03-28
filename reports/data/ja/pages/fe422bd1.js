@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",8,47,"unmatched closing tag","</span>"],["no-duplicate",37,150,"duplicated image width parameter","30px"],["no-duplicate",37,155,"duplicated image width parameter","15px"]]

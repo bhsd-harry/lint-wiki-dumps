@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,10,"useless link text","|デンジャラス飯野"]]

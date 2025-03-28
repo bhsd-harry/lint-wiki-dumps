@@ -1,0 +1,1 @@
+window.data=[["nested-link",82,77,"internal link in an external link","[[原田郁子]]"],["nested-link",82,87,"internal link in an external link","[[クラムボン (バンド)|Clammbon]]"]]

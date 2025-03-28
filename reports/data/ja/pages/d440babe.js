@@ -1,0 +1,1 @@
+window.data=[["no-ignored",217,16,"containing invalid attribute","熊本県下益城郡美里町 (熊本県)"],["unmatched-tag",385,4,"unmatched closing tag","</div>"]]

@@ -1,0 +1,1 @@
+window.data=[["parsing-order",194,74,"HTML tag in table attributes","<br>"],["no-ignored",194,47,"containing invalid attribute","ニッポンの雇用は変わるのか 第2弾 若者はどう生き抜く<br>{{small|[[山田伸二]]・柳澤秀夫・今井純子}}"]]

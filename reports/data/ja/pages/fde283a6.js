@@ -1,0 +1,1 @@
+window.data=[["invalid-css",800,34,"semi-colon expected",":"],["invalid-css",1307,34,"semi-colon expected",":"],["no-ignored",1436,23,"containing invalid attribute"," class\"table-rh\"  "]]

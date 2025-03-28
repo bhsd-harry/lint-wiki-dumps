@@ -1,0 +1,1 @@
+window.data=[["no-ignored",84,1,"invalid content in <gallery>"," を加工し建物を作る職人を[[石工]]という。"]]

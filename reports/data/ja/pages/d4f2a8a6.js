@@ -1,0 +1,1 @@
+window.data=[["no-ignored",111,152,"containing invalid attribute","刺殺"],["no-ignored",111,171,"containing invalid attribute","補殺"],["no-ignored",111,190,"containing invalid attribute","失策"],["no-ignored",111,209,"containing invalid attribute","併殺"],["no-ignored",111,228,"containing invalid attribute","守備率"]]

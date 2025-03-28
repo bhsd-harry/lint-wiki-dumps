@@ -1,0 +1,1 @@
+window.data=[["no-ignored",85,22,"containing invalid attribute","  :left; margin-left:3px; text-size:80%; text-align:right\""],["parsing-order",112,30,"HTML tag in table attributes","<br />"],["no-ignored",112,29,"containing invalid attribute","|<br />"]]

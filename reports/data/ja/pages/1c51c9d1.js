@@ -1,0 +1,1 @@
+window.data=[["invalid-css",73,46,"semi-colon expected",":"],["no-duplicate",73,28,"duplicated style attribute","style=\"margin:auto:\""],["no-duplicate",73,66,"duplicated style attribute","style=\"text-align:center\""],["illegal-attr",74,4,"illegal attribute name","caption"]]

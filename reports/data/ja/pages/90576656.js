@@ -1,0 +1,1 @@
+window.data=[["invalid-css",614,40,"colon expected",";"],["invalid-css",675,34,"colon expected",";"],["invalid-css",798,41,"property value expected",""],["no-ignored",810,3,"containing invalid attribute","温泉芸者"]]

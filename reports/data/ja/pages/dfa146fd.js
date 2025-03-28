@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:各国のスポーツ競技大会]]"],["no-duplicate",6,2,"duplicated category","[[Category:各国のスポーツ競技大会|へるきい]]"]]

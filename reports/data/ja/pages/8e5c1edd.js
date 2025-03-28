@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",54,8,"duplicated parameter","\n\n === 公式版 ===\n ; 1番\n : Australians all let us rejoice,\n : For we are one and free;\n : We've golden "],["no-duplicate",79,3,"duplicated parameter","\n\n ==== 和訳詞 ====\n ; 1番\n : 全てのオーストラリア人よ 喜ぼう\n : 我らは 一つで自由\n : 労苦に代わる黄金の土地と 富を持つ\n : 我らが故郷は 海に囲まれ\n : 大地は自"]]

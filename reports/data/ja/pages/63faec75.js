@@ -1,0 +1,1 @@
+window.data=[["no-ignored",43,10,"containing invalid attribute"," ''Крыша мира ("]]

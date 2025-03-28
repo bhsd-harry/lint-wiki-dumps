@@ -1,0 +1,1 @@
+window.data=[["invalid-css",162,44,"semi-colon expected",":"],["no-ignored",180,25,"containing invalid attribute","現職 "]]

@@ -1,0 +1,1 @@
+window.data=[["invalid-css",82,40,"semi-colon expected",""],["invalid-css",82,40,"colon expected",""],["no-ignored",95,3,"containing invalid attribute"," 8センチCD"],["no-ignored",174,24,"containing invalid attribute"," name\"大和邦久音源古今東西\""]]

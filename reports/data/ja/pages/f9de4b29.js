@@ -1,0 +1,1 @@
+window.data=[["no-ignored",727,72,"containing invalid attribute","!style=\"width:13%;"],["no-ignored",805,29,"containing invalid attribute"," 1998年"]]

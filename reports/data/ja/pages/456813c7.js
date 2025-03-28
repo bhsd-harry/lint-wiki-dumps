@@ -1,0 +1,1 @@
+window.data=[["nested-link",647,135,"internal link in an external link","[[:en:Motor Sport (magazine)|Motor Sport Magazine]]"]]

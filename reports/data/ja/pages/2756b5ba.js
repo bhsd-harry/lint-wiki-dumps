@@ -1,0 +1,1 @@
+window.data=[["no-ignored",118,24,"containing invalid attribute","東大阪市若江東町"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",114,84,"containing invalid attribute","就任（16節）以降の成績"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",53,83,"internal link in an external link","[[群馬県]]"],["nested-link",53,91,"internal link in an external link","[[至仏山]]"]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",150,6,"lonely \"[\"","[["],["lonely-bracket",150,12,"lonely \"]\"","]]"],["no-ignored",150,4,"containing invalid attribute","||[[榎本武揚]]||黒田内閣||1888年4月30日-1888年7月25日||逓信大臣による臨時兼任"]]

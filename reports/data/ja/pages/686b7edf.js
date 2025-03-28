@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",60,2,"duplicated category","[[Category:日本語の姓|た]]"],["no-duplicate",66,2,"duplicated category","[[Category:日本語の姓]]"],["no-duplicate",61,2,"duplicated category","[[Category:日本の地名|た]]"],["no-duplicate",65,2,"duplicated category","[[Category:日本の地名]]"]]

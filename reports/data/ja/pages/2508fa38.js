@@ -1,0 +1,1 @@
+window.data=[["pipe-like",339,21,"additional \"|\" in a table cell","2.0・AT (2001-10〜)\n *第196号車 スバル・レガシィ・ツーリングワゴンGT-B Eチューン|| (2001-11〜)\n *第197号車 "]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",95,67,"internal link in an external link","[[ナショナル ジオグラフィック (雑誌)|ナショナル ジオグラフィック]]"]]

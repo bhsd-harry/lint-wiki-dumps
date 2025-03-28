@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,1,"duplicated category","[[Category:アイドル歌謡]]"],["no-duplicate",7,2,"duplicated category","[[Category:アイドル歌謡]]"]]

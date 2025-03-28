@@ -1,0 +1,1 @@
+window.data=[["pipe-like",115,3,"additional \"|\" in a table cell","P牙狼 月虹ノ旅人\n CR真・花の慶次2 漆黒の衝撃\n スーパーリノMAX||新!ガーデン八潮"]]

@@ -1,0 +1,1 @@
+window.data=[["invalid-css",72,21,"property value expected","#silver"],["parsing-order",111,95,"HTML tag in table attributes","<br>"],["no-ignored",111,92,"containing invalid attribute","3GB<br>LPDDR4X"],["invalid-css",163,21,"property value expected","#silver"]]

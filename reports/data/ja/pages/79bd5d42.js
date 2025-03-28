@@ -1,0 +1,1 @@
+window.data=[["no-ignored",63,57,"containing invalid attribute","  \"width:\"90％\""],["no-ignored",125,57,"containing invalid attribute"," width:\"90%\""],["no-ignored",147,55,"containing invalid attribute",";  \"width:90%\""]]

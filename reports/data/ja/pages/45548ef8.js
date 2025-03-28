@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",158,2,"duplicated category","[[Category:千代田区の企業]]"],["no-duplicate",168,2,"duplicated category","[[Category:千代田区の企業|みつひしゆうえふしえいいいすまあとしようけん]]"]]

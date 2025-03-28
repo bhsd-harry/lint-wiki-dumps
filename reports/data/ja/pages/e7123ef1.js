@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1178,24,"containing invalid attribute","京都大学大学院法学研究科・法学部"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",45,40,"containing invalid attribute"," lang＝\"th\""],["no-ignored",48,17,"containing invalid attribute"," lang＝\"th\""],["no-ignored",51,38,"containing invalid attribute"," lang＝\"th\""]]

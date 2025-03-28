@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",37,50,"duplicated image caption parameter","px"],["no-duplicate",38,3,"duplicated image caption parameter","撮影中の1コマ。左から2番目は[[ジェームズ・ステュアート (俳優)|ジェームズ・ステュアート]]、その右隣が[[アンソニー・マン]]。"]]

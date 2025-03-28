@@ -1,0 +1,1 @@
+window.data=[["no-ignored",48,44,"containing invalid attribute"," name＝\"嶋村瞳ら5人が選出\""],["no-ignored",104,43,"containing invalid attribute"," name＝\"嶋村瞳ら5人が選出\""]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",771,6,"lonely \"[\"","[["],["lonely-bracket",771,16,"lonely \"]\"","]]"],["invalid-isbn",1087,8,"invalid ISBN","ISBN 978-4-987654-32-1"],["tag-like",1346,69,"lonely \"<\"","<syntaxhighlight"]]

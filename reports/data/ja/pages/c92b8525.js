@@ -1,0 +1,1 @@
+window.data=[["no-ignored",512,1,"invalid content in <gallery>"," File::2007_Subaru_Exiga_01.jpg|エクシーガ（1996）"]]

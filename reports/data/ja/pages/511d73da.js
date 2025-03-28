@@ -1,0 +1,1 @@
+window.data=[["nested-link",120,174,"internal link in an external link","[[徳洲会事件]]"]]

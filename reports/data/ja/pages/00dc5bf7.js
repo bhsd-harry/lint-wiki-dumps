@@ -1,0 +1,1 @@
+window.data=[["nested-link",145,70,"internal link in an external link","[[水木しげるの妖怪事典]]"]]

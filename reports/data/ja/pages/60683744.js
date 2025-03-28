@@ -1,0 +1,1 @@
+window.data=[["no-ignored",25,4,"containing invalid attribute","||-||合計||1,136,775"]]

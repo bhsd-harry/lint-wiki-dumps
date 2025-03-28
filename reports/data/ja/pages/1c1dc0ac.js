@@ -1,0 +1,1 @@
+window.data=[["invalid-css",204,53,"term expected",""],["no-ignored",204,54,"containing invalid attribute","width:90%;\""],["no-duplicate",243,24,"duplicated style attribute","style=\"font-size:small  \""],["no-duplicate",243,49,"duplicated style attribute","style=\"width:80%;\""]]

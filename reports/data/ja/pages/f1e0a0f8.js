@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",51,9,"lonely \"[\"","[["],["lonely-bracket",51,13,"lonely \"]\"","]]"],["no-ignored",51,4,"containing invalid attribute","ノット/-[[海里]]（重油：300トン）"]]

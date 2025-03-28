@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,2,"duplicated category","[[Category:ウィキペディアの私論|If it ain&#39;t broke, don&#39;t fix it]]"],["no-duplicate",18,2,"duplicated category","[[Category:ウィキペディアの私論|こわれていないものをなおそうとしない]]"]]

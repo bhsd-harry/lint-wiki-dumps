@@ -1,0 +1,1 @@
+window.data=[["no-ignored",300,15,"containing invalid attribute","  align-\"center\"  "],["unescaped",352,81,"unescaped query string in an anonymous parameter","="]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",56,119,"internal link in an external link","[[法律学]]"]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",142,41,"illegal attribute name","classes"],["no-ignored",145,1,"invalid content in <gallery>"," {{flagcountry|Kenya}}<br />[[ウフル・ケニヤッタ]]<br />[[ケニアの大統領|大統領]]"]]

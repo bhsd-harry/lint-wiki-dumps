@@ -1,0 +1,1 @@
+window.data=[["nested-link",30,119,"internal link in an external link","[[私のお父さん]]"],["nested-link",56,77,"internal link in an external link","[[ウルトラトップ]]"],["nested-link",62,77,"internal link in an external link","[[ウルトラトップ]]"]]

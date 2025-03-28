@@ -1,0 +1,1 @@
+window.data=[["no-ignored",93,3,"containing invalid attribute"," フォード・コスワース・ZETEC-Rエンジン"],["illegal-attr",137,17,"illegal attribute name","nowrap"],["illegal-attr",138,17,"illegal attribute name","nowrap"],["illegal-attr",139,17,"illegal attribute name","nowrap"],["illegal-attr",263,17,"illegal attribute name","nowrap"]]

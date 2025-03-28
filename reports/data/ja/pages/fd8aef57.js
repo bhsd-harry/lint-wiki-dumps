@@ -1,0 +1,1 @@
+window.data=[["nested-link",329,53,"internal link in an external link","[[JVCケンウッド・ビクターエンタテインメント|ビクターエンタテインメント]]"],["nested-link",330,36,"internal link in an external link","[[日本コロムビア]]"]]

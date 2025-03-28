@@ -1,0 +1,1 @@
+window.data=[["lonely-http",212,5,"lonely \"https://\"","https://"],["illegal-attr",212,13,"illegal attribute name","www.youtube.com"],["no-ignored",212,3,"containing invalid attribute","「[https://"],["no-ignored",212,28,"containing invalid attribute","/watch?v=4WAK87cgq-w ダンス]」"]]

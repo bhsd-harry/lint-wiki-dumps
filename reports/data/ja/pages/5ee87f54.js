@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",34,390,"lonely \"[\"","["],["lonely-bracket",35,2,"lonely \"]\"","]"],["nested-link",47,383,"internal link in an external link","[[上毛かるた]]"],["nested-link",47,534,"internal link in an external link","[[速水堅曹]]"],["nested-link",47,586,"internal link in an external link","[[家内制手工業]]"]]

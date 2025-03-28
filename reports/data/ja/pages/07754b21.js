@@ -1,0 +1,1 @@
+window.data=[["nested-link",13,104,"internal link in an external link","[[戸川安宣 (編集者)|戸川安宣]]"]]

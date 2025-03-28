@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,2,"duplicated category","[[Category:学校を舞台としたテレビドラマ]]"],["no-duplicate",18,2,"duplicated category","[[Category:学校を舞台としたテレビドラマ]]"]]

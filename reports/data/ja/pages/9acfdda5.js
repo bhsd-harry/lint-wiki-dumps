@@ -1,0 +1,1 @@
+window.data=[["tag-like",827,26,"lonely \"<\"","<ref"],["no-ignored",826,31,"containing invalid attribute","/）\n *ニュートリッピングカー（サノヤス・ヒシノ明昌製<ref "],["no-duplicate",826,18,"duplicated name attribute","name=\"sankei\""],["no-duplicate",827,31,"duplicated name attribute","name=\"sankei\""]]

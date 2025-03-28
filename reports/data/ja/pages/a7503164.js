@@ -1,0 +1,1 @@
+window.data=[["nested-link",1,64,"internal link in an external link","[[:en:Soner Cagaptay]]"]]

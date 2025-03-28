@@ -1,0 +1,1 @@
+window.data=[["no-ignored",37,865,"containing invalid attribute","　ＭＧ株式会社　S100788F：有価証券届出書（参照方式）"],["no-ignored",37,1681,"containing invalid attribute","　ＭＧ株式会社　S100788F：有価証券届出書（参照方式）"],["no-ignored",39,565,"containing invalid attribute","　ＭＧ株式会社　S1008CXD：有価証券届出書（参照方式）"]]

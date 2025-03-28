@@ -1,0 +1,1 @@
+window.data=[["tag-like",100,136,"lonely \"<\"","<ref"],["no-ignored",100,135,"containing invalid attribute","/<ref "],["no-duplicate",100,124,"duplicated name attribute","name=\"青谷町誌\""],["no-duplicate",100,141,"duplicated name attribute","name=\"青谷町誌\""]]

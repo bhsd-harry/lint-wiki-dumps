@@ -1,0 +1,1 @@
+window.data=[["nested-link",35,380,"internal link in an external link","[[引退]]"],["nested-link",35,405,"internal link in an external link","[[サンケイスポーツ]]"]]

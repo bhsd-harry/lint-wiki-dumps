@@ -1,0 +1,1 @@
+window.data=[["no-ignored",32,1,"invalid content in <gallery>"," <ref name=\"伊勢志摩観光ガイド\">[http://www.isetown.com/ 伊勢志摩観光ガイド]</ref>"]]

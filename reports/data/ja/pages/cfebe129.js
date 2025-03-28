@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",27,5,"duplicated valign attribute","valign=\"top\""],["no-duplicate",27,20,"duplicated valign attribute","valign=\"top\""],["no-duplicate",284,5,"duplicated valign attribute","valign=\"top\""],["no-duplicate",284,20,"duplicated valign attribute","valign=\"top\""]]

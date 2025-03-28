@@ -1,0 +1,1 @@
+window.data=[["no-ignored",109,1,"invalid content in <gallery>"," の例。<br />バードケージの別名を持ち、[[コックピット]]内にも一部が露出している。"]]

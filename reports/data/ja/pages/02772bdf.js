@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,30,"useless link text","|クリーン設計"]]

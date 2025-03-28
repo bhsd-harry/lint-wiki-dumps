@@ -1,0 +1,1 @@
+window.data=[["no-ignored",48,1,"invalid content in <gallery>"," [[願人坊主]] ([[小林永濯]]作)<ref>「願人坊主」。日本画家の小林永濯が描いた「風俗画報」7号の口絵。1889年 (明治22) 8月10日号。</ref>"]]

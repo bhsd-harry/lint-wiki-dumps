@@ -1,0 +1,1 @@
+window.data=[["no-ignored",99,3,"containing invalid attribute","!style=\"white-space: nowrap;\""],["lonely-apos",113,73,"lonely \"'\"","'"]]

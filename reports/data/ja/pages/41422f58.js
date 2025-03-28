@@ -1,0 +1,1 @@
+window.data=[["nested-link",453,98,"internal link in an external link","[[鎮座DOPENESS]]"],["nested-link",485,58,"internal link in an external link","[[ele-king]]"],["nested-link",493,59,"internal link in an external link","[[ele-king]]"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",25,622,"internal link in an external link","[[w:Pieni Tietosanakirja|「Pieni Tietosanakirja」]]"]]

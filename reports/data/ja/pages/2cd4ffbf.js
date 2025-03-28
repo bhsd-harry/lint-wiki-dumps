@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",76,28,"lonely \"[\"","[["],["lonely-bracket",76,89,"lonely \"]\"","]]"],["no-duplicate",76,26,"duplicated image caption parameter","''[[:en:The Wounded Philoctetes"],["no-duplicate",76,58,"duplicated image caption parameter","{{small|The Wounded Philoctetes]]''<br/>  [[ニコライ・アビルゴール]], 1775年}}"]]

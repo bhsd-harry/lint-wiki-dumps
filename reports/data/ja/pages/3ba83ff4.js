@@ -1,0 +1,1 @@
+window.data=[["invalid-css",170,16,"colon expected",";"],["unmatched-tag",187,2,"unmatched closing tag","</div>"],["fostered-content",187,1,"content to be moved out from the table"," </div>"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,200,"duplicated image caption parameter","start=38"],["no-duplicate",4,209,"duplicated image caption parameter","end=80"],["no-duplicate",4,216,"duplicated image caption parameter","thumbtime=38"],["no-duplicate",4,235,"duplicated image caption parameter","メリー・モナーク・フェスティバルで優勝したフラ ハラウ オ カムエラ（2019）- 現代的なウクレレと共にパフ(伝統的なドラム）、ウリウリ、や[[イプヘケ]]が並べられている"]]

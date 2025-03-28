@@ -1,0 +1,1 @@
+window.data=[["parsing-order",79,103,"HTML tag in table attributes","<br />"],["no-ignored",79,98,"containing invalid attribute","3月31日<br />style=\"white-space: nowrap;\""],["illegal-attr",83,135,"illegal attribute name","nowarp"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",49,53,"duplicated style attribute","style=\"width:4em\""],["no-duplicate",49,72,"duplicated style attribute","style"]]

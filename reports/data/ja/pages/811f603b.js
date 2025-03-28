@@ -1,0 +1,1 @@
+window.data=[["no-ignored",47,21,"containing invalid attribute","|+複合的なパーソナリティ"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",73,101,"containing invalid attribute"," 2023年は特別指定選手として在籍"]]

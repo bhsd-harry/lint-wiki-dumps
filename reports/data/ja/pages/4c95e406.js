@@ -1,0 +1,1 @@
+window.data=[["nested-link",2,110,"internal link in an external link","[[:en:Foreign relations of the United Kingdom]]"]]

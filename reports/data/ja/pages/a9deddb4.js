@@ -1,0 +1,1 @@
+window.data=[["no-ignored",40,52,"containing invalid attribute","|  ||  ||  || ||{{SWE}}||"]]

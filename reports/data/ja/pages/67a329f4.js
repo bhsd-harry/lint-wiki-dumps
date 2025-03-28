@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",12,46,"duplicated image caption parameter","lang=ja"],["no-duplicate",12,66,"duplicated image caption parameter","ダウ・ジョーンズ輸送株平均の推移 1896–2012"]]

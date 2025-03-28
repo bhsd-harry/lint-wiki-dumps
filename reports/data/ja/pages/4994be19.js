@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,45,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",1,60,"duplicated image caption parameter","モスクワで開催された{{仮リンク|アメリカ博覧会 (ソ連)|label=アメリカ博覧会|en|American National Exhibition}}会場内に建てられたモデルハウスの台所で議論する"]]

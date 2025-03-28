@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",8,2,"duplicated category","[[Category:設立年別組織]]"],["no-duplicate",11,2,"duplicated category","[[Category:設立年別組織]]"]]

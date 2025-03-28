@@ -1,0 +1,1 @@
+window.data=[["no-ignored",99,595,"containing invalid attribute","'Ajde, kroči"]]

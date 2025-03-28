@@ -1,0 +1,1 @@
+window.data=[["no-ignored",11,58,"containing invalid attribute","<nowiki>\n |-</nowiki>"]]

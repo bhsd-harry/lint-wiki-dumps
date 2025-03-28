@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",180,4,"duplicated rowspan attribute","rowspan=2"],["no-duplicate",180,43,"duplicated rowspan attribute","rowspan=2"],["invalid-css",271,104,"property value expected","#"],["invalid-css",271,137,"property value expected","#"],["illegal-attr",275,26,"illegal attribute name","height"]]

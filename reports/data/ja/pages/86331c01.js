@@ -1,0 +1,1 @@
+window.data=[["no-ignored",4,14,"containing invalid attribute","  !style=\"background: #e3e3e3;\""]]

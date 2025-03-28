@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",108,42,"duplicated image caption parameter","mini"],["no-duplicate",108,47,"duplicated image caption parameter","hochkant=2"],["no-duplicate",108,125,"duplicated image caption parameter","{{Center|Ergebnisse der Nationalratswahlen seit 1945 bis 2024}}"]]

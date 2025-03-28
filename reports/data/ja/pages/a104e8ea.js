@@ -1,0 +1,1 @@
+window.data=[["nested-link",126,104,"internal link in an external link","[[バンド計算]]"]]

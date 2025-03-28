@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",71,28,"lonely \"[\"","[["],["lonely-bracket",71,34,"lonely \"]\"","]]"],["no-ignored",71,4,"containing invalid attribute","|プールヴァ・シェーダー||アーシェーダー月15[[ティティ]]日"]]

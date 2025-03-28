@@ -1,0 +1,1 @@
+window.data=[["nested-link",135,455,"internal link in an external link","[[ユニバーサルミュージックジャパン]]"],["nested-link",1002,130,"internal link in an external link","[[Spotify]]"],["nested-link",1004,125,"internal link in an external link","[[Youtube]]"],["nested-link",1005,110,"internal link in an external link","[[YouTube Music]]"]]

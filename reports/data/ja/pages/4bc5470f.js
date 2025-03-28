@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",975,14,"illegal attribute name","Dance"],["illegal-attr",975,20,"illegal attribute name","Revolution"],["no-ignored",975,4,"containing invalid attribute","コナミ「Dance "],["no-ignored",975,30,"containing invalid attribute"," X」"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,14,"useless link text","|ラダマンテュス (曖昧さ回避)"]]

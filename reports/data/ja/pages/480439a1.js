@@ -1,0 +1,1 @@
+window.data=[["tag-like",87,117,"lonely \"<\"","<ref"],["no-ignored",87,114,"containing invalid attribute","  /<ref "],["no-duplicate",87,104,"duplicated name attribute","name=\"11話\""],["no-duplicate",87,122,"duplicated name attribute","name=\"18話\""]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",13,36,"illegal attribute name","1"],["illegal-attr",13,38,"illegal attribute name","7"],["no-ignored",13,39,"containing invalid attribute"," の鏡を鋳造"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",131,163,"containing invalid attribute","  digi-ana_tv-02\"=\"\""]]

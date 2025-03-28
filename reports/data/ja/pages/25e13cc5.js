@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:テキサス州の都市]]"],["no-duplicate",7,2,"duplicated category","[[Category:テキサス州の都市]]"]]

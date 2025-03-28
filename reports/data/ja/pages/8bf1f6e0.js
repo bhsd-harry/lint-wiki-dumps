@@ -1,0 +1,1 @@
+window.data=[["nested-link",459,161,"internal link in an external link","[[アートギャラリー・オブ・オンタリオ]]"],["nested-link",480,137,"internal link in an external link","[[シャトー・ペトリュス]]"],["no-ignored",730,3,"containing invalid attribute"," ${{Inflation|US|75|2011|r=0}}"]]

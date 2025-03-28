@@ -1,0 +1,1 @@
+window.data=[["no-ignored",49,1,"invalid content in <gallery>"," File:Escolanets, Josep Benlliure i Gil, Museu de Belles Arts de València.jpg｜見習い修道士(Escolanets)<br>"]]

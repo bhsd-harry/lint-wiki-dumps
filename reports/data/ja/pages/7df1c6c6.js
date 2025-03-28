@@ -1,0 +1,1 @@
+window.data=[["nested-link",25,383,"internal link in an external link","[[百舌鳥・古市古墳群]]"],["nested-link",25,397,"internal link in an external link","[[世界遺産]]"]]

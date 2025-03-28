@@ -1,0 +1,1 @@
+window.data=[["nested-link",48,235,"internal link in an external link","[[ネーミングライツ]]"],["nested-link",48,249,"internal link in an external link","[[スポンサー]]"],["nested-link",48,261,"internal link in an external link","[[三島信用金庫]]"]]

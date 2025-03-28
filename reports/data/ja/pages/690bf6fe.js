@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,24,"useless link text","|日本航空2便着水事故"]]

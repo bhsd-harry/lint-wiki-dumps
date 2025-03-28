@@ -1,0 +1,1 @@
+window.data=[["no-ignored",7,377,"containing invalid attribute","  /ref\""]]

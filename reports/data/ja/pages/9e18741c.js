@@ -1,0 +1,1 @@
+window.data=[["unclosed-comment",306,2,"unclosed HTML comment","<!--*[[PKa]] → [[平衡]]- → \n *[[PMSF]] → [[フッ化フェニルメチルスルホニル]]\n *[[PRO]] → [[プロリン]]\n *[[PRTR]] → [[PRTR制"]]

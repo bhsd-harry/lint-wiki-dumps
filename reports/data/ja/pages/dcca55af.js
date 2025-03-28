@@ -1,0 +1,1 @@
+window.data=[["no-ignored",7,57,"attributes of a closing tag"," lang=\"ko\""]]

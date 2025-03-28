@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",30,4,"illegal attribute name","main"],["no-ignored",30,8,"containing invalid attribute"," ||標準名前空間のページのみチェックします。"]]

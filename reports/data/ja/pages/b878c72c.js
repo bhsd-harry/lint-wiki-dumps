@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",69,7,"duplicated style attribute","style=\"font-size: small;\""],["no-duplicate",69,34,"duplicated style attribute","style=\"white-space:nowrap\""]]

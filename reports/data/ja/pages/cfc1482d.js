@@ -1,0 +1,1 @@
+window.data=[["nested-link",14,65,"internal link in an external link","[[:en:Keauhou Bay|Keauhou Bay]]"]]

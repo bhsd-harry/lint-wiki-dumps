@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",84,8,"duplicated parameter","\n ====運動部====\n *野球\n *男子サッカー\n *女子サッカー\n *硬式テニス\n *バレーボール\n *バドミントン\n *ソフトボール\n *柔道\n *剣道\n *陸上競技\n *水泳\n *男子バス"],["no-duplicate",100,3,"duplicated parameter","\n ====文化部====\n *吹奏楽\n *美術\n *フォーク\n *映画研究\n *調理\n *茶華道\n *コンピュータ \n *文芸同好会\n "]]

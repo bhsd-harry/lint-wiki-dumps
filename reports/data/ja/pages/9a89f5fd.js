@@ -1,0 +1,1 @@
+window.data=[["nested-link",7,580,"internal link in an external link","[[Daily News (Perth, Western Australia)|Daily News]]"]]

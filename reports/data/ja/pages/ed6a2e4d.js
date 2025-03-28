@@ -1,0 +1,1 @@
+window.data=[["no-ignored",38,1,"invalid content in <gallery>"," 青銅の脚つき鍋。紀元前1180年-1050年頃。（ [[ミケーネ]]考古学博物館展示品）"]]

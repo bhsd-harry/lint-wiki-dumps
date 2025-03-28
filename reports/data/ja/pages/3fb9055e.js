@@ -1,0 +1,1 @@
+window.data=[["nested-link",2,491,"internal link in an external link","[[脱北者]]"],["nested-link",2,502,"internal link in an external link","[[朝鮮族]]"]]

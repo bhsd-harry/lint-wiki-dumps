@@ -1,0 +1,1 @@
+window.data=[["no-ignored",255,275,"containing invalid attribute","  \"Chairlift-Accident-News-03\""],["no-ignored",255,504,"containing invalid attribute","  \"Chairlift-Accident-News-04\""]]

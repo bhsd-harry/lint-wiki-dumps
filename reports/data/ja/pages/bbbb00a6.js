@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:ヨルダンの歴史]]"],["no-duplicate",9,2,"duplicated category","[[Category:ヨルダンの歴史]]"],["no-duplicate",6,2,"duplicated category","[[Category:イラクの歴史]]"],["no-duplicate",10,2,"duplicated category","[[Category:イラクの歴史]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",61,54,"duplicated image caption parameter","px"],["no-duplicate",61,57,"duplicated image caption parameter","東京・浅草寺の白鷺の舞。"]]

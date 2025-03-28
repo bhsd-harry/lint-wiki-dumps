@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",71,52,"duplicated image caption parameter","<!-- right -->none"],["no-duplicate",71,71,"duplicated image caption parameter","EU加盟国における住民のドイツ語への理解度<br />黒色が母語地域、以下50%以上、20-49%、10-19%、5-9%、5%未満（灰色はEU非加盟国・地域）"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",258,2,"duplicated category","[[Category:過去の栄養士養成施設  (短期大学)]]"],["no-duplicate",261,2,"duplicated category","[[Category:過去の栄養士養成施設 (短期大学)]]"]]

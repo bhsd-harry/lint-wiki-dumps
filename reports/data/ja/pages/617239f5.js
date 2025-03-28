@@ -1,0 +1,1 @@
+window.data=[["parsing-order",406,4,"extension tag in HTML tag attributes","<ref>{{cite news|url=http://www.bbc.com/news/uk-34953782|work=BBC News|date=28 November 2015}}</ref>"],["no-ignored",406,4,"containing invalid attribute","<ref>{{cite news|url=http://www.bbc.com/news/uk-34953782|work=BBC News|date=28 November 2015}}</ref>"]]

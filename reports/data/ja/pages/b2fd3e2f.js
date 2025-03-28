@@ -1,0 +1,1 @@
+window.data=[["invalid-css",79,40,"} expected","\""],["invalid-css",105,40,"} expected","\""],["no-duplicate",178,24,"duplicated style attribute","style=\"text-align:center;\""],["no-duplicate",178,52,"duplicated style attribute","style=\"font-size:small;\""]]

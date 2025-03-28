@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1052,4,"containing invalid attribute","||伊藤一行(4)||城西大学\t||1時間10分39秒||-分--秒||"],["no-ignored",1105,4,"containing invalid attribute","||田村優典(1)||城西大学\t||1時間12分49秒||-分--秒||"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",16,16,"invalid content in <references>","[https://xtech.nikkei.com/it/article/Interview/20110712/362309// IT Pro 記事] 2011年7月　[電話サービスのクラウド化進む、"]]

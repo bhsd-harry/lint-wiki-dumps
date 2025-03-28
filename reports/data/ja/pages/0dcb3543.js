@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",55,22,"lonely \"[\"","[["],["lonely-bracket",55,29,"lonely \"]\"","]]"],["no-ignored",55,20,"containing invalid attribute","| [[ベイナイト]] || "]]

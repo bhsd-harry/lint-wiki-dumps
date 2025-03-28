@@ -1,0 +1,1 @@
+window.data=[["nested-link",24,383,"internal link in an external link","[[石井妙子 (ノンフィクション作家)|石井妙子]]"],["nested-link",31,234,"internal link in an external link","[[石井妙子 (ノンフィクション作家)|石井妙子]]"]]

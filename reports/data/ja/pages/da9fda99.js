@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",155,113,"duplicated image caption parameter","180px<!--縦長のため指定-->"],["no-duplicate",155,133,"duplicated image caption parameter","完成当初の南北連絡通路"]]

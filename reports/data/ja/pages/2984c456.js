@@ -1,0 +1,1 @@
+window.data=[["nested-link",78,80,"internal link in an external link","[[青森県]]"],["nested-link",78,87,"internal link in an external link","[[下北郡]]"],["nested-link",78,94,"internal link in an external link","[[風間浦村]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",68,3,"containing invalid attribute","2004年の地域リーグ (サッカー)#中国"],["no-ignored",71,3,"containing invalid attribute","2005年の地域リーグ (サッカー)#中国"],["no-ignored",74,3,"containing invalid attribute","2006年の地域リーグ (サッカー)#中国"]]

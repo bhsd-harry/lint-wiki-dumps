@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",854,23,"illegal attribute name","2005"],["illegal-attr",854,28,"illegal attribute name","YU55"],["no-ignored",854,13,"containing invalid attribute"," (308635) "],["illegal-attr",984,23,"illegal attribute name","1998"],["illegal-attr",984,28,"illegal attribute name","MZ"],["no-ignored",984,13,"containing invalid attribute"," (152685) "]]

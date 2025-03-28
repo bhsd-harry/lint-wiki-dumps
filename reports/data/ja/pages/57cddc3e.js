@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,34,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",1,49,"duplicated image caption parameter","8000メートル峰の位置"]]

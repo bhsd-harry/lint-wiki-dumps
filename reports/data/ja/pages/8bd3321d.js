@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",197,80,"lonely \"]\"","]"],["no-duplicate",421,2,"duplicated category","[[Category:多数の言語版にあるが日本語版にない記事の執筆依頼|けんこ]]"],["no-duplicate",423,2,"duplicated category","[[Category:多数の言語版にあるが日本語版にない記事の執筆依頼|けんこ]]"]]

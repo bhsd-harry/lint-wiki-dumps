@@ -1,0 +1,1 @@
+window.data=[["no-ignored",72,57,"containing invalid attribute"," エドワード・シーモア (初代サマセット公)"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",220,7,"containing invalid attribute","1997年12月10日"],["no-ignored",234,7,"containing invalid attribute","1998年2月4日"],["no-ignored",246,7,"containing invalid attribute","1998年3月18日"]]

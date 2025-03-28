@@ -1,0 +1,1 @@
+window.data=[["nested-link",379,83,"internal link in an external link","[[内務省 (日本)|内務省]]"],["nested-link",379,99,"internal link in an external link","[[神社局]]"]]

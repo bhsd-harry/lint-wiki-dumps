@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",10,21,"illegal attribute name","sortable"],["parsing-order",23,67,"HTML tag in table attributes","<br />"],["no-ignored",23,3,"containing invalid attribute","[{{fullurl:メタルギアシリーズの登場人物|oldid=49972772}}2013年12月7日 (土) 02:28‎]<br />"]]

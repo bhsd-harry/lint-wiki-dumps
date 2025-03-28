@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,39,"duplicated image thumbnail parameter","thumb"],["no-duplicate",4,56,"duplicated image thumbnail parameter","サムネイル"]]

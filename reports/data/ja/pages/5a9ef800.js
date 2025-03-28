@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",975,61,"duplicated image caption parameter","ページ=28"],["no-duplicate",975,74,"duplicated image caption parameter","[[山西省]]『[[広勝寺]]』明応王殿<br>当時の元雑劇の様子を描いた<br>壁画（復元画像）<br>[[泰定 (元)|泰定]]元年（[[1324年]]）"]]

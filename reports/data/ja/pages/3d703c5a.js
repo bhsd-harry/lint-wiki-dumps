@@ -1,0 +1,1 @@
+window.data=[["no-ignored",87,4,"containing invalid attribute","レアル・マドリード・カスティージャ］］0ー3ヴェルディ川崎"]]

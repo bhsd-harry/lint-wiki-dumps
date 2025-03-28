@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,16,"useless link text","|ブッシュレンジャー (曖昧さ回避) "]]

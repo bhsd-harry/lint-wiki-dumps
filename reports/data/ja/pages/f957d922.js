@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",36,64,"duplicated image caption parameter","px"],["no-duplicate",36,67,"duplicated image caption parameter","[[ティレル・P34]]に乗るシェクター（1976年）"],["no-duplicate",37,63,"duplicated image caption parameter","px"],["no-duplicate",37,66,"duplicated image caption parameter","[[ウルフ・WR1]]に乗るシェクター"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",20,39,"duplicated style attribute","style=\"margin:3px; border:1px solid #000000;\""],["no-duplicate",20,111,"duplicated style attribute","style=\"border-collapse: collapse;\""]]

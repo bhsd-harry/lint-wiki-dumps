@@ -1,0 +1,1 @@
+window.data=[["no-ignored",227,3,"containing invalid attribute","女性新人賞"],["no-ignored",230,3,"containing invalid attribute","ベストカップル賞{{Small|(with [[김성균 (배우)|김성균]])}} "],["no-ignored",234,3,"containing invalid attribute","女性新人賞"],["no-ignored",240,3,"containing invalid attribute","「オンマ」 "]]

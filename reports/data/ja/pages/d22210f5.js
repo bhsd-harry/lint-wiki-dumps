@@ -1,0 +1,1 @@
+window.data=[["no-ignored",613,22,"containing invalid attribute","  mw-collapsible\"  "],["no-ignored",746,22,"containing invalid attribute","  mw-collapsible\"  "],["no-ignored",1266,22,"containing invalid attribute","  mw-collapsible\"  "],["no-ignored",1310,22,"containing invalid attribute","  mw-collapsible\"  "]]

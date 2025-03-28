@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",42,66,"illegal attribute name","height"],["no-ignored",42,41,"containing invalid attribute","  (デザイン画) "]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",32,40,"duplicated image caption parameter","リンク=https://en.wikipedia.org/wiki/File:Perseverance's first photo.jpg"],["no-duplicate",32,130,"duplicated image caption parameter","パーサヴィアランス – 1枚目の生画像 - 火星着陸（2021年2月18日"]]

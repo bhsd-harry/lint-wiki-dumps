@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",24,2,"duplicated category","[[Category:イスラエルの戦争]]"],["no-duplicate",54,2,"duplicated category","[[Category:イスラエルの戦争]]"],["no-duplicate",25,2,"duplicated category","[[Category:イラクの戦争]]"],["no-duplicate",55,2,"duplicated category","[[Category:イラクの戦争]]"]]

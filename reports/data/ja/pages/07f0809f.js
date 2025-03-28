@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:日本の建築物 (都市別)|*しゆうきようしせつ]]"],["no-duplicate",6,2,"duplicated category","[[Category:日本の建築物 (都市別)|*しゆうきようしせつ]]"]]

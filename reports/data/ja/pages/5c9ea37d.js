@@ -1,0 +1,1 @@
+window.data=[["no-ignored",74,4,"containing invalid attribute","塵の雲を持つ太陽と似た恒星"]]

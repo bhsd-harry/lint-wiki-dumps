@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",107,2,"duplicated category","[[Category:アルゼンチンの戦艦]]"],["no-duplicate",109,2,"duplicated category","[[Category:アルゼンチンの戦艦|りはたひあきゆう]]"]]

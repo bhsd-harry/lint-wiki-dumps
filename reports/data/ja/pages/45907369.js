@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",18,169,"lonely \"]\"","]"],["nested-link",38,308,"internal link in an external link","[[菟道稚郎子]]"],["nested-link",38,319,"internal link in an external link","[[部民制#分類|名代]]"],["nested-link",38,333,"internal link in an external link","[[菟道稚郎子#宇治部|宇治部]]"],["nested-link",38,379,"internal link in an external link","[[菟道稚郎子#宇治部|宇治部]]"]]

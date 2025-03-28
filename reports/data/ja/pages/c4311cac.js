@@ -1,0 +1,1 @@
+window.data=[["nested-link",49,106,"internal link in an external link","[[:en:Jonah Goldberg]]"]]

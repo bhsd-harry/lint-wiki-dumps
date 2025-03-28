@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,24,"useless link text","|東京都立多摩南部地域病院"]]

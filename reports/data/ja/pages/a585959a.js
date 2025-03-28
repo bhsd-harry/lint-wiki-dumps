@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",100,4,"illegal attribute name","frame"],["nested-link",160,91,"internal link in an external link","[[1984年]]"],["nested-link",161,121,"internal link in an external link","[[2001年]]"],["nested-link",170,119,"internal link in an external link","[[1987年]]"]]

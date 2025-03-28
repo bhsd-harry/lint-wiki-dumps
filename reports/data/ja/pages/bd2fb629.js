@@ -1,0 +1,1 @@
+window.data=[["no-ignored",182,4,"useless fragment","Category:和歌山市#出身著名人"]]

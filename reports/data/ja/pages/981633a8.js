@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",67,8,"duplicated parameter","\n === ロシア及びヨーロッパ ===\n *{{navy|SSR}}/{{navy|RUS}}\n **[[ゲパルト型フリゲート]]\n **[[グリシャ型コルベット|グリシャIV/V型コルベット]]\n"],["no-duplicate",106,3,"duplicated parameter","\n === アジア及びアフリカ、南北アメリカ ===\n *{{navy|CHN}}\n **[[江凱型フリゲート|江凱-II型フリゲート]]\n **[[紅箭型ミサイル艇]]<!--en:Type 037"]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-http",28,802,"lonely \"PMID\"","pmid"],["no-duplicate",36,24,"duplicated style attribute","style=\"margin: 1em auto 1em auto\""],["no-duplicate",36,59,"duplicated style attribute","style=\"background:white\""]]

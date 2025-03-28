@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,2,"duplicated category","[[Category:各国のラッパー]]"],["no-duplicate",9,2,"duplicated category","[[Category:各国のラッパー|いきりす]]"]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",2,117,"illegal attribute name","valign"],["unclosed-comment",12,2,"unclosed <includeonly>","<includeonly>| style=\"border-bottom:2px solid #A3B1BF\"  width=\"3000\"  |  &nbsp;\n |}<noinclude>\n\n 使い方"],["unclosed-table",2,2,"unclosed table","{|"]]

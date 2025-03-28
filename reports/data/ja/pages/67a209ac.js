@@ -1,0 +1,1 @@
+window.data=[["parsing-order",75,19,"HTML tag in table attributes","<br>"],["no-ignored",75,4,"containing invalid attribute","{{年度別打撃成績}}||勝利<br>打点"]]

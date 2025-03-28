@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",693,3,"illegal attribute name","nowrap"],["illegal-attr",708,4,"illegal attribute name","nowrap"],["illegal-attr",715,4,"illegal attribute name","nowrap"],["illegal-attr",719,4,"illegal attribute name","nowrap"],["illegal-attr",721,4,"illegal attribute name","nowrap"],["no-ignored",752,3,"containing invalid attribute"," お笑いタレント"]]

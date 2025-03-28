@@ -1,0 +1,1 @@
+window.data=[["no-ignored",13,1,"invalid content in <gallery>"," File:Georg Decker Archduke Charles - Duke of Teschen.jpg[[カール・フォン・エスターライヒ＝テシェン]] "]]

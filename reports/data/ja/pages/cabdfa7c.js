@@ -1,0 +1,1 @@
+window.data=[["tag-like",122,287,"lonely \"<\"","<ref"],["no-ignored",122,286,"containing invalid attribute","/<ref "],["no-duplicate",122,270,"duplicated name attribute","name=\"江坂124-134\""],["no-duplicate",122,292,"duplicated name attribute","name=\"ジャーナル18\""]]

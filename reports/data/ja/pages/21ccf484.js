@@ -1,0 +1,1 @@
+window.data=[["pipe-like",653,59,"additional \"|\" in a table cell","\n #ワンダーランダー\n #未完成ファンファーレ\n #ファンタジ\n #まるさんかくしかく || "],["pipe-like",801,86,"additional \"|\" in a table cell","\n #SE まるさんかくしかく\n #未完成ファンファーレ\n #だっても\n #ファンタジ ||"],["pipe-like",947,48,"additional \"|\" in a table cell","\n #SE ファンタジ\n #カコステルフィ\n #だっても\n #未完成ファンファーレ || "]]

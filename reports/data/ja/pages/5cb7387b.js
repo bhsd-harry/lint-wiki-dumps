@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",318,1189,"duplicated name attribute","name=ref"],["no-duplicate",318,1198,"duplicated name attribute","name=\"mono3.chernobyl\""],["no-duplicate",318,1519,"duplicated name attribute","name=ref"],["no-duplicate",318,1528,"duplicated name attribute","name=\"mono3.chernobyl\""]]

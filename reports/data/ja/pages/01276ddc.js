@@ -1,0 +1,1 @@
+window.data=[["tag-like",36,79,"lonely \"<\"","<ref"],["no-ignored",36,34,"containing invalid attribute","  /。葉は互生で卵状心臓形、鋭頭、全縁、ときに片裂、長さ7.5-20センチメートル、長柄<ref "],["no-duplicate",36,24,"duplicated name attribute","name=\"NSY\""],["no-duplicate",36,84,"duplicated name attribute","name=\"NSY\""]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",215,55,"lonely \"[\"","[["],["lonely-bracket",215,68,"lonely \"]\"","]]"],["no-duplicate",215,32,"duplicated image caption parameter","[[UボートXXI型]]に搭載された擬似気泡缶[[ボールド (デコイ)"],["no-duplicate",215,68,"duplicated image caption parameter","]]の発射管"]]

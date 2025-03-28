@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",19,37,"unclosed tag","<small>"],["unmatched-tag",20,17,"unclosed tag","<small>"],["unmatched-tag",20,40,"unclosed tag","<small>"],["no-ignored",52,1,"invalid content in <gallery>"," ファイル:"]]

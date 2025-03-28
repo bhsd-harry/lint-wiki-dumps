@@ -1,0 +1,1 @@
+window.data=[["no-ignored",41,1,"invalid content in <gallery>"," 画像: |宝永二ツ宝豆板銀"],["no-ignored",43,1,"invalid content in <gallery>"," 画像: |宝永三ツ宝豆板銀"]]

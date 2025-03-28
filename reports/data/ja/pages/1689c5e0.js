@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",168,116,"lonely \"[\"","["],["lonely-bracket",168,187,"lonely \"]\"","]"],["lonely-bracket",168,369,"lonely \"[\"","["],["lonely-bracket",169,103,"lonely \"]\"","]"],["nested-link",1469,103,"internal link in an external link","[[電気車研究会]]"]]

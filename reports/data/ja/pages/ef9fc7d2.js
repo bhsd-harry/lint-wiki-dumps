@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",88,31,"illegal attribute name","Krush"],["parsing-order",88,44,"HTML tag in table attributes","<br>"],["no-ignored",88,28,"containing invalid attribute","初代 "],["no-ignored",88,36,"containing invalid attribute"," -58kg王座<br>初代"]]

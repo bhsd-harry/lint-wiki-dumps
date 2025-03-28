@@ -1,0 +1,1 @@
+window.data=[["nested-link",67,262,"internal link in an external link","[[:en:Crain Communications Inc.|Crain's Chicago Business]]"]]

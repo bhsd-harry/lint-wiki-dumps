@@ -1,0 +1,1 @@
+window.data=[["nested-link",118,290,"internal link in an external link","[[利用者:IP58xv|IP58xv]]"]]

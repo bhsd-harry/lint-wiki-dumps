@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",138,63,"illegal attribute name","Desktop"],["illegal-attr",138,71,"illegal attribute name","System"],["illegal-attr",138,78,"illegal attribute name","Release"],["illegal-attr",138,86,"illegal attribute name","3"],["no-ignored",138,43,"containing invalid attribute"," 予測的自己修復機能の追加、[Java "]]

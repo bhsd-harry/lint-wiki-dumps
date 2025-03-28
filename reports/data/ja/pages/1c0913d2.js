@@ -1,0 +1,1 @@
+window.data=[["invalid-css",8,46,"semi-colon expected",":"],["invalid-css",8,81,"{ expected",":"],["invalid-css",19,52,"semi-colon expected",":"],["invalid-css",19,87,"{ expected",":"],["invalid-css",32,52,"semi-colon expected",":"],["invalid-css",32,87,"{ expected",":"]]

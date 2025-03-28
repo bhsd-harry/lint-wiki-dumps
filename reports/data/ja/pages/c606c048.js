@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",90,53,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",90,68,"duplicated image caption parameter","ライデンの壁に描かれた式"]]

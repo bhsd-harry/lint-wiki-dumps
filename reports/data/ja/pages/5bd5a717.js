@@ -1,0 +1,1 @@
+window.data=[["no-ignored",398,7,"attributes of a closing tag"," style=\"float:left; vertical-align:top; white-space:nowrap; margin-right:1em\""],["unmatched-tag",403,2,"unmatched closing tag","</div>"]]

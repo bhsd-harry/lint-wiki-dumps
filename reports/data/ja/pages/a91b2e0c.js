@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",69,36,"lonely \"[\"","[["],["lonely-bracket",69,71,"lonely \"]\"","]]"],["lonely-bracket",69,83,"lonely \"[\"","[["],["lonely-bracket",69,99,"lonely \"]\"","]]"],["tag-like",69,104,"lonely \"<\"","<ref"],["no-ignored",69,31,"containing invalid attribute","|内1回は[[新型コロナウイルス感染症 (2019年)|新型コロナウイルス感染症]]によって中止になった[[第92回選抜高等学校野球大会]]を含む<ref "]]

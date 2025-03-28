@@ -1,0 +1,1 @@
+window.data=[["tag-like",184,25,"lonely \"<\"","<ref"],["no-ignored",183,47,"containing invalid attribute","/「\n * 津幡町立種中学校（1963年津幡中へ統合）<ref "],["no-duplicate",183,31,"duplicated name attribute","name=\"津幡町立津幡中学校\""],["no-duplicate",184,30,"duplicated name attribute","name=\"津幡町立津幡中学校\""]]

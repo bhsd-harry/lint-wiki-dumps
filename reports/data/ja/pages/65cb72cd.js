@@ -1,0 +1,1 @@
+window.data=[["pipe-like",1032,55,"additional \"|\" in a table cell"," 全国準々決勝敗退\n （誤審）\n アイディア賞 || 見かけ倒し || B"],["pipe-like",1056,50,"additional \"|\" in a table cell"," 全国2回戦敗退\n 特別賞\n （電気事業連合会） || 夢KANAE || B"],["pipe-like",1066,58,"additional \"|\" in a table cell"," 全国1回戦敗退\n 特別賞\n （マブチモーター） || TOTOYA || A"]]

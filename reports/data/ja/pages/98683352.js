@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",295,24,"illegal attribute name","wikitable"],["illegal-attr",334,24,"illegal attribute name","wikitable"]]

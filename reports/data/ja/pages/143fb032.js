@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",271,28,"illegal attribute name","19:00"],["parsing-order",271,41,"extension tag in HTML tag attributes","<ref>『[[福島民報]]』1974年10月19日 - 1975年10月4日付朝刊、テレビ欄。</ref>"],["no-ignored",271,25,"containing invalid attribute","土曜 "],["no-ignored",271,33,"containing invalid attribute"," - 19:30<ref>『[[福島民報]]』1974年10月19日 - 1975年10月4日付朝刊、テレビ欄。</ref>"]]

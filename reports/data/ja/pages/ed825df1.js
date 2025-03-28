@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",29,25,"lonely \"[\"","[["],["lonely-bracket",29,82,"lonely \"]\"","]]"],["no-duplicate",29,25,"duplicated image caption parameter","[[Fw 190 (航空機)"],["no-duplicate",29,40,"duplicated image caption parameter","[[ユンカース ユモ 213]]エンジンを搭載したフォッケウルフ Fw 190D-9]]"]]

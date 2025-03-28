@@ -1,0 +1,1 @@
+window.data=[["no-ignored",20,4,"containing invalid attribute"," 砲塔四十五口径四十糎加農"],["no-ignored",47,4,"containing invalid attribute","各砲の配置 (戦艦)"]]

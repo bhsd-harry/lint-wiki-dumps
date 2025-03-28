@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,35,"duplicated image caption parameter","thumbtime=36"],["no-duplicate",6,54,"duplicated image caption parameter"," [[K-36 (射出座席)|K-36]] DMイジェクションシート（ [[MiG-29 (航空機)|MiG-29]] 、 [[Su-30 (航空機)|Su-30で使用）]] "]]

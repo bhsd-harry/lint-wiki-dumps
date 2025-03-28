@@ -1,0 +1,1 @@
+window.data=[["invalid-gallery",35,20,"invalid image parameter","right"]]

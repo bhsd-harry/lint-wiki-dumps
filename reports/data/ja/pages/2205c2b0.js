@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,2,"duplicated category","[[Category:イタリアの食文化|ひさ]]"],["no-duplicate",8,2,"duplicated category","[[Category:イタリアの食文化|ひさ]]"]]

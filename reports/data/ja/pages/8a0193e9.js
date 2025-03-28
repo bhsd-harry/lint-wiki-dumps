@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",399,125,"unmatched closing tag","</small>"],["unmatched-tag",535,126,"unmatched closing tag","</small>"],["no-ignored",592,42,"containing invalid attribute","2006年 ワールド・ベースボール・クラシック日本代表"],["lonely-apos",841,156,"lonely \"'\"","'"],["lonely-apos",841,184,"lonely \"'\"","'"]]

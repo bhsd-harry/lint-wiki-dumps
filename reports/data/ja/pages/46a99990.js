@@ -1,0 +1,1 @@
+window.data=[["pipe-like",143,59,"additional \"|\" in a table cell"," 第1シーズン第1、6,\n 7話 ||ショーランナーも兼ねる"]]

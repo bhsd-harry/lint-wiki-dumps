@@ -1,0 +1,1 @@
+window.data=[["nested-link",246,176,"internal link in an external link","[[集中豪雨|豪雨]]"],["nested-link",246,191,"internal link in an external link","[[ダム]]"],["unmatched-tag",457,99,"unmatched closing tag","</small>"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",20,365,"containing invalid attribute"," name\"ukrinform\""]]

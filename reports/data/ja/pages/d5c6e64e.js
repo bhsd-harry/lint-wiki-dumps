@@ -1,0 +1,1 @@
+window.data=[["tag-like",679,86,"lonely \"<\"","<ref"],["no-ignored",679,85,"containing invalid attribute","/<ref name-\"2017-11dia\""]]

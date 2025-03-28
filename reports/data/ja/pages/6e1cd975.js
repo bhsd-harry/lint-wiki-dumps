@@ -1,0 +1,1 @@
+window.data=[["no-ignored",115,35,"containing invalid attribute","ポストシーズン"],["unmatched-tag",291,2,"unmatched closing tag","</span>"],["unmatched-tag",304,2,"unmatched closing tag","</span>"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",21,23,"duplicated style attribute","style=\"text-align:center;\""],["no-duplicate",21,52,"duplicated style attribute","style=\"width:70%\""],["lonely-http",123,110,"lonely \"ISBN\"","ISBN"]]

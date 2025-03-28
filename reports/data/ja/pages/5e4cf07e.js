@@ -1,0 +1,1 @@
+window.data=[["nested-link",194,144,"internal link in an external link","[[渡辺淳一|公式ページ（淳平書店]]"]]

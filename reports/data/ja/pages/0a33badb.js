@@ -1,0 +1,1 @@
+window.data=[["lonely-http",206,5,"lonely \"https://\"","https://"],["tag-like",206,32,"lonely \"<\"","</nowiki"],["lonely-http",207,5,"lonely \"https://\"","https://"],["tag-like",207,32,"lonely \"<\"","</nowiki"]]

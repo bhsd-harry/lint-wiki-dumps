@@ -1,0 +1,1 @@
+window.data=[["no-ignored",98,1,"invalid content in <gallery>"," 2024年7月18日「CR-V e:FCEV」として日本で公式発表（翌7月19日発売）<ref>{{Cite web|和書|title=ホンダ、新型FCEV「CR-V e:FCEV」を発売 リース販"]]

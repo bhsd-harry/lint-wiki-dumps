@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,60,"useless link text","|FNS大サービスバラエティー1億2450万人の平成教育テレビ"]]

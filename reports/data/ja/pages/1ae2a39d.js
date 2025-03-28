@@ -1,0 +1,1 @@
+window.data=[["no-ignored",507,17,"containing invalid attribute","鈴木浩子 (1962年生)"],["no-ignored",579,17,"containing invalid attribute","鈴木浩子 (1962年生)"],["no-ignored",651,17,"containing invalid attribute","鈴木浩子 (1962年生)"],["no-ignored",722,17,"containing invalid attribute","鈴木浩子 (1962年生)"]]

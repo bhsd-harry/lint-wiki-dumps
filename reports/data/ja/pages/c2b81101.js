@@ -1,0 +1,1 @@
+window.data=[["nested-link",1,97,"internal link in an external link","[[w:Diffraction-limited system]]"]]

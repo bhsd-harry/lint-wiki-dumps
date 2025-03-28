@@ -1,0 +1,1 @@
+window.data=[["pipe-like",10,40,"additional \"|\" in a table cell","||ベトナム語"]]

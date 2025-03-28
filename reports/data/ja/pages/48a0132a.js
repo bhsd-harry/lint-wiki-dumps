@@ -1,0 +1,1 @@
+window.data=[["nested-link",11,240,"internal link in an external link","[[池袋暴走事故 (2019年)|池袋暴走事故]]"]]

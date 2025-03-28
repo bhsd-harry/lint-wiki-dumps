@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",22,572,"lonely \"]\"","]"],["lonely-apos",201,4,"lonely \"'\"","'"],["no-ignored",218,3,"containing invalid attribute"," 判型 "],["no-ignored",339,3,"containing invalid attribute"," 判型 "]]

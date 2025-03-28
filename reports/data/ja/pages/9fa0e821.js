@@ -1,0 +1,1 @@
+window.data=[["no-ignored",245,21,"containing invalid attribute","! !!中学校のみ!!高等学校のみ!!中学校・高等学校双方設置"]]

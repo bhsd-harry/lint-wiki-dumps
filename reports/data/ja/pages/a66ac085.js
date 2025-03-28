@@ -1,0 +1,1 @@
+window.data=[["nested-link",18,124,"internal link in an external link","[[:en:Women's Wear Daily|WWD]]"]]

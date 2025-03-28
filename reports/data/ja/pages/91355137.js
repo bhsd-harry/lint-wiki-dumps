@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,22,"useless link text","|宮崎漁港#宮の崎橋"]]

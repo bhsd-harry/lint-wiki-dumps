@@ -1,0 +1,1 @@
+window.data=[["nested-link",27,192,"internal link in an external link","[[大島渚|大島監督]]"]]

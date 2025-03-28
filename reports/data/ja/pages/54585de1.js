@@ -1,0 +1,1 @@
+window.data=[["no-ignored",50,49,"containing invalid attribute","人民党 (ウクライナ)"],["illegal-attr",66,50,"illegal attribute name","nowrap"],["illegal-attr",70,49,"illegal attribute name","nowrap"],["illegal-attr",74,32,"illegal attribute name","nowrap"]]

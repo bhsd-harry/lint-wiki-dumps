@@ -1,0 +1,1 @@
+window.data=[["nested-link",18,154,"internal link in an external link","[[:ko:강원도 (남)|강원도]]"],["nested-link",18,174,"internal link in an external link","[[:ko:춘천시|춘천시]]"],["nested-link",18,190,"internal link in an external link","[[:ko:신북읍|신북읍]]"],["nested-link",18,206,"internal link in an external link","[[:ko:신북읍#행정 구역|영서로]]"]]

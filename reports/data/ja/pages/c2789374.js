@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",95,20,"illegal attribute name","22:39"],["no-ignored",95,4,"containing invalid attribute","2006年12月15日 (金) "],["no-ignored",95,25,"containing invalid attribute"," (UTC) || 竹麦魚 || "],["no-ignored",95,56,"containing invalid attribute"," || 無期限"]]

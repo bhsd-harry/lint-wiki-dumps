@@ -1,0 +1,1 @@
+window.data=[["nested-link",170,184,"internal link in an external link","[[しんぶん赤旗]]"]]

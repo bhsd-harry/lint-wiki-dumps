@@ -1,0 +1,1 @@
+window.data=[["no-ignored",61,46,"containing invalid attribute"," 鉱工業指数"]]

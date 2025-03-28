@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",202,140,"illegal attribute name","2018"],["no-ignored",202,144,"containing invalid attribute"," FIFAワールドカップ・北中米カリブ海予選"]]

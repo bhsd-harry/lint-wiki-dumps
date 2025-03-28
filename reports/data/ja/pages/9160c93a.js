@@ -1,0 +1,1 @@
+window.data=[["nested-link",7,197,"internal link in an external link","[[利用者:青子守歌|青子守歌]]"],["nested-link",7,264,"internal link in an external link","[[利用者:MOTOI Kenkichi|基 建吉(MOTOI Kenkichi)]]"],["nested-link",35,453,"internal link in an external link","[[バグ]]"]]

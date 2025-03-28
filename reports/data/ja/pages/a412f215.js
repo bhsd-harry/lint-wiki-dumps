@@ -1,0 +1,1 @@
+window.data=[["nested-link",48,118,"internal link in an external link","[[大阪府知事]]"],["nested-link",48,128,"internal link in an external link","[[橋下徹]]"]]

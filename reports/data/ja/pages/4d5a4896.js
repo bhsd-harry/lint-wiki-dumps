@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",436,57,"illegal attribute name","29"],["illegal-attr",436,63,"illegal attribute name","27"],["illegal-attr",436,69,"illegal attribute name","33"],["illegal-attr",436,75,"illegal attribute name","89"],["no-ignored",436,4,"containing invalid attribute","||align=\"left\"|{{flagIOC2team|MIX|Youth Olympics}}|| "]]

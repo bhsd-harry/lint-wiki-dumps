@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",162,8,"duplicated parameter","\n ===アジア===\n * {{flagcountry|Thailand}} - バンコク、パタヤ、クラビ\n * {{flagcountry|Malaysia}} - ランカウイ、ペナン\n * {{"],["no-duplicate",188,45,"duplicated parameter","\n ===アフリカ===\n * {{flagcountry|Egypt}} - カイロ、[[ボルグ・エル・アラブ空港|アレクサンドリア]]\n * {{flagcountry|Sudan}} - [[ハ"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,47,"duplicated image caption parameter","upright=1.75<!--fmt for very small text-->"],["no-duplicate",2,90,"duplicated image caption parameter","互恵的利他主義を示す図"]]

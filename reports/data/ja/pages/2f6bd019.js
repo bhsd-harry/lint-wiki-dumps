@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",8,2,"duplicated category","[[Category:含窒素複素環式化合物]]"],["no-duplicate",9,2,"duplicated category","[[Category:含窒素複素環式化合物]]"]]

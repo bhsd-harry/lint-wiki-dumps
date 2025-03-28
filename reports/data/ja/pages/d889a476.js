@@ -1,0 +1,1 @@
+window.data=[["no-ignored",78,22,"containing invalid attribute","  :left; margin-left:3px; text-size:80%; text-align:right\""],["no-ignored",536,22,"containing invalid attribute","  ; margin-left:3px; text-size:80%; text-align:right\""]]

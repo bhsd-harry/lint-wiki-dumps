@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",536,95,"illegal attribute name","bordercolor"],["invalid-css",594,91,"semi-colon expected",""],["invalid-css",594,87,"colon expected","="],["invalid-css",608,92,"semi-colon expected",""],["invalid-css",608,88,"colon expected","="],["invalid-css",620,92,"semi-colon expected",""],["invalid-css",620,88,"colon expected","="]]

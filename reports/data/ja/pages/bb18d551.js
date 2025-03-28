@@ -1,0 +1,1 @@
+window.data=[["tag-like",160,772,"lonely \"<\"","<ref"],["no-ignored",160,705,"containing invalid attribute","/。関連する投稿、画像、動画はフォローしているアカウントからだけでなく、アルゴリズムによる「おすすめ」フィードにも目立つ形で表示された<ref "],["no-duplicate",160,685,"duplicated name attribute","name=\"NBC News-2024\""],["no-duplicate",160,777,"duplicated name attribute","name=\"BBC News-2024\""]]

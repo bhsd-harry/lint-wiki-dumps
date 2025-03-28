@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",45,186,"lonely \"{\"","{{"],["lonely-bracket",45,206,"lonely \"}\"","}}"],["no-ignored",45,186,"containing invalid attribute","{{リンク切れ|date=2024年3月}}"]]

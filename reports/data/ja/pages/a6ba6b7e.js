@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",59,1015,"duplicated name attribute","name=ref"],["no-duplicate",59,1024,"duplicated name attribute","name=\"野球の国(5)\""]]

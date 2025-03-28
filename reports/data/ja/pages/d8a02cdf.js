@@ -1,0 +1,1 @@
+window.data=[["invalid-css",150,52,"semi-colon expected",":"],["invalid-css",168,52,"semi-colon expected",":"],["no-ignored",1675,108,"containing invalid attribute","通販限定発売。"],["no-ignored",1684,108,"containing invalid attribute","通販限定発売。"],["no-ignored",1693,57,"containing invalid attribute","通販限定発売。"],["no-ignored",1720,98,"containing invalid attribute","通販限定発売。"]]

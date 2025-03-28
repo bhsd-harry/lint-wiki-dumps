@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",9,11,"duplicated category","[[Category:ウィキポータル医学と医療の関連記事‎|特]]"],["no-duplicate",23,2,"duplicated category","[[Category:ウィキポータル医学と医療の関連記事‎|特]]"]]

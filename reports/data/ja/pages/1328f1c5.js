@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",59,8,"duplicated parameter","\n ===通貨===\n 英ポンドと4外貨の[[ユーロカレンシー]]が対象\n *USD（ユーロ[[米ドル]]）\n *GBP（[[スターリング・ポンド]]）\n *JPY（ユーロ[[円 (通貨)|円]]）\n"],["no-duplicate",73,3,"duplicated parameter","\n ===期間===\n *1日：USD、EUR、GBP、CADは[[オーバー・ナイト]]（O/N）、その他通貨は[[スポット・ネクスト]]（s/n)<ref>http://www.bbalibor.c"]]

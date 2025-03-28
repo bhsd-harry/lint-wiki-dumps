@@ -1,0 +1,1 @@
+window.data=[["no-ignored",321,1,"invalid content in <gallery>"," *[[フォッカー F.VII|フォッカーF.VII]]"]]

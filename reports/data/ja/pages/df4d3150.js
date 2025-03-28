@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,29,"useless link text","|系 (自然科学)"]]

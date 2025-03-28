@@ -1,0 +1,1 @@
+window.data=[["parsing-order",55,105,"HTML tag in table attributes","<br />"],["no-ignored",55,95,"containing invalid attribute","2018年10月2日<br />style=\"white-space:nowrap\"  "]]

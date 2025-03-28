@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,26,"useless link text","|二木式腹式呼吸法"]]

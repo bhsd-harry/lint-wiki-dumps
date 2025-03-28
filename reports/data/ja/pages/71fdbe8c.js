@@ -1,0 +1,1 @@
+window.data=[["lonely-http",84,22,"lonely \"ISBN\"","ISBN"],["nested-link",102,133,"internal link in an external link","[[未来シャッター]]"]]

@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",16,127,"unclosed tag","<small>"],["tag-like",179,356,"lonely \"<\"","<ref"],["no-ignored",179,330,"containing invalid attribute","  /。仔魚が野生下で何を食べているかは明らかでない<ref "],["no-duplicate",179,315,"duplicated name attribute","name=\"Doi 2015\""],["no-duplicate",179,361,"duplicated name attribute","name=\"Ebert\""]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",16,25,"containing invalid attribute"," name\"nikkei20210924\""]]

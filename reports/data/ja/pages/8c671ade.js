@@ -1,0 +1,1 @@
+window.data=[["no-ignored",2,11,"invalid content in <gallery>",">File:Okinawa_yanbaru_12-22.jpg|沖縄中央観光(10/1)"]]

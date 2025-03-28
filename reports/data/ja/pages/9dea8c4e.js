@@ -1,0 +1,1 @@
+window.data=[["nested-link",35,119,"internal link in an external link","[[立花隆]]"]]

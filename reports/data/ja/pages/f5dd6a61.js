@@ -1,0 +1,1 @@
+window.data=[["no-ignored",109,184,"invalid content in <references>","\n\n https://tablo.jp/case/international/news004584.html\n\n\n "]]

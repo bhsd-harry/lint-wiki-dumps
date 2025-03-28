@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",42,130,"lonely \"[\"","["],["lonely-bracket",43,10,"lonely \"]\"","]"],["no-ignored",862,18,"containing invalid attribute","リスナー電話罵倒に変化"]]

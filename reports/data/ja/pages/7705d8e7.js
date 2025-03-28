@@ -1,0 +1,1 @@
+window.data=[["nested-link",83,73,"internal link in an external link","[[デンマーク語]]"],["nested-link",83,84,"internal link in an external link","[[英語]]"]]

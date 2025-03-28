@@ -1,0 +1,1 @@
+window.data=[["invalid-css",45,61,"semi-colon expected",":"],["no-duplicate",45,24,"duplicated style attribute","style=\"background-color:#fee0fb width:40%\""],["no-duplicate",45,68,"duplicated style attribute","style=\"text-align:right\""]]

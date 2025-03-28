@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",34,148,"lonely \"]\"","]"],["illegal-attr",342,3,"illegal attribute name",":fr:Louise"],["no-ignored",342,13,"containing invalid attribute"," (opéra)"],["no-ignored",342,37,"containing invalid attribute","ニュー・フィルハーモニア管弦楽団"],["no-ignored",350,3,"containing invalid attribute","ウェルテル (オペラ)"]]

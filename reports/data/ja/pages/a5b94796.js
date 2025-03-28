@@ -1,0 +1,1 @@
+window.data=[["nested-link",149,111,"internal link in an external link","[[:ru:Слабкий Леонид Ильич|СлабкийЛ.И.]]"]]

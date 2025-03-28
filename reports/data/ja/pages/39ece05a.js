@@ -1,0 +1,1 @@
+window.data=[["nested-link",15,384,"internal link in an external link","[[:en:Renzo Novatore]]"],["nested-link",15,1223,"internal link in an external link","[[ピョートル・クロポトキン]]"],["lonely-bracket",140,566,"lonely \"{\"","{{"],["lonely-bracket",140,686,"lonely \"}\"","}}"]]

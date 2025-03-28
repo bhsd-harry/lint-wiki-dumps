@@ -1,0 +1,1 @@
+window.data=[["no-ignored",367,17,"containing invalid attribute","[花園近鉄ライナーズ"],["lonely-bracket",367,35,"lonely \"]\"","]]"],["lonely-bracket",371,46,"lonely \"]\"","]]"]]

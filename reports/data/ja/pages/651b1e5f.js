@@ -1,0 +1,1 @@
+window.data=[["nested-link",69,142,"internal link in an external link","[[ウェイバックマシン]]"]]

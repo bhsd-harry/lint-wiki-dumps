@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",85,52,"illegal attribute name","1965.12.19"],["no-ignored",85,4,"containing invalid attribute","|style=\"text-align:right\"|7||大場健三||1963.12.23 – "]]

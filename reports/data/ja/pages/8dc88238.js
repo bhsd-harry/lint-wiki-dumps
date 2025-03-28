@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,43,"duplicated image caption parameter","雌"],["no-duplicate",5,51,"duplicated image caption parameter","ヘラジカ"]]

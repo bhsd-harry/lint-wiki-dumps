@@ -1,0 +1,1 @@
+window.data=[["no-ignored",125,4,"containing invalid attribute","class0\"hintergrundfarbe1\""]]

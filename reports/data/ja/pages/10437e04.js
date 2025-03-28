@@ -1,0 +1,1 @@
+window.data=[["no-ignored",20,49,"containing invalid attribute"," group\"注\""],["no-ignored",20,142,"containing invalid attribute"," group\"注\""],["no-ignored",22,26,"containing invalid attribute"," group\"注\""],["no-ignored",31,20,"containing invalid attribute"," group\"注\""],["no-ignored",32,79,"containing invalid attribute"," group\"注\""]]

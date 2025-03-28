@@ -1,0 +1,1 @@
+window.data=[["no-ignored",69,4,"containing invalid attribute","backgroud-co:or:#f2f2f2;"],["no-ignored",106,4,"containing invalid attribute","backgroud-co:or:#f2f2f2;"]]

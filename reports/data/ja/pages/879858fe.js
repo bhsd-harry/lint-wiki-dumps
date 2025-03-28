@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",178,4,"lonely \"[\"","[["],["lonely-bracket",178,16,"lonely \"]\"","]]"],["no-ignored",178,4,"containing invalid attribute","[[犬王 (映画)|犬王]]"]]

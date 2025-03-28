@@ -1,0 +1,1 @@
+window.data=[["nested-link",58,713,"internal link in an external link","[[読売新聞]]"],["nested-link",58,879,"internal link in an external link","[[毎日新聞]]"],["lonely-http",71,56,"lonely \"ISBN\"","ISBN"]]

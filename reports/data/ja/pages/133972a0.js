@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",14,2,"duplicated category","[[Category:2010年代のポルトガル]]"],["no-duplicate",15,2,"duplicated category","[[Category:2010年代のポルトガル]]"]]

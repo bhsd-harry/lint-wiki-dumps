@@ -1,0 +1,1 @@
+window.data=[["nested-link",122,247,"internal link in an external link","[[フランス通信社|AFPBB]]"]]

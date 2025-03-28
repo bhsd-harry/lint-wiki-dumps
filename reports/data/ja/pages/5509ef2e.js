@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",9,2,"duplicated category","[[Category:20世紀日本の小説家]]"],["no-duplicate",12,2,"duplicated category","[[Category:20世紀日本の小説家]]"],["no-duplicate",13,2,"duplicated category","[[Category:20世紀日本の評論家]]"],["no-duplicate",14,2,"duplicated category","[[Category:20世紀日本の評論家]]"]]

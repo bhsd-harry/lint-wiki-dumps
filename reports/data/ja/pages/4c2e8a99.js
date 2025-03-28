@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",118,108,"lonely \"]\"","]]"],["tag-like",203,15,"lonely \"<\"","<a"],["tag-like",203,35,"lonely \"<\"","</a"]]

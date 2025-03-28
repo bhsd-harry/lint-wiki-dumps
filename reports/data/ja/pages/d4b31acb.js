@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1939,3,"containing invalid attribute"," ラグビーワールドカップ2019 "],["no-ignored",1946,3,"containing invalid attribute"," ラグビーワールドカップ2019 "]]

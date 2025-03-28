@@ -1,0 +1,1 @@
+window.data=[["invalid-css",1,59,"colon expected","grande"],["illegal-attr",3,17,"illegal attribute name","text-align"]]

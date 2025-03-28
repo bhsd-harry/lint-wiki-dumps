@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:各年のアメリカ|みなみ]]"],["no-duplicate",4,2,"duplicated category","[[Category:各年のアメリカ|みなみあめりか]]"]]

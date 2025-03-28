@@ -1,0 +1,1 @@
+window.data=[["tag-like",91,87,"lonely \"<\"","< 　ruby"],["tag-like",91,98,"lonely \"<\"","< 　/ruby"]]

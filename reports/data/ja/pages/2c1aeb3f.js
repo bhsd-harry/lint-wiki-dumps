@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",12,2,"duplicated category","[[Category:20世紀ポルトガルの人物]]"],["no-duplicate",13,2,"duplicated category","[[Category:20世紀ポルトガルの人物]]"]]

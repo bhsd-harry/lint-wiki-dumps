@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",8,2,"duplicated category","[[Category:各国の競馬|けにあ]]"],["no-duplicate",9,2,"duplicated category","[[Category:各国の競馬]]"]]

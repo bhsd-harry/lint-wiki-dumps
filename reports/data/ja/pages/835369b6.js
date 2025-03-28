@@ -1,0 +1,1 @@
+window.data=[["no-ignored",838,4,"containing invalid attribute","|style=\"text-align:center;\"|"]]

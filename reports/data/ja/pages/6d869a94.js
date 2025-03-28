@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",6,64,"lonely \"[\"","["],["nested-link",35,93,"internal link in an external link","[[大阪大学]]"],["nested-link",43,69,"internal link in an external link","[[東京理科大学]]"]]

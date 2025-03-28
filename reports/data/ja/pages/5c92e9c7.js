@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",69,4,"illegal attribute name","nowrap"],["illegal-attr",75,4,"illegal attribute name","nowrap"],["no-ignored",302,145,"containing invalid attribute","  white-space:nowrap;\""],["lonely-bracket",357,160,"lonely \"[\"","["]]

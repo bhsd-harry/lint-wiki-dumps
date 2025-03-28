@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",61,9,"lonely \"[\"","[["],["lonely-bracket",61,13,"lonely \"]\"","]]"],["no-ignored",61,4,"containing invalid attribute","ノット/-[[海里]]"]]

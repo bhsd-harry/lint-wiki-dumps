@@ -1,0 +1,1 @@
+window.data=[["no-ignored",56,1,"invalid content in <gallery>"," File:McDonnell Douglas A-4F Skyhawk Ayit F (468970264).jpg[[A-4 (航空機)|A-4F アヒト]]"]]

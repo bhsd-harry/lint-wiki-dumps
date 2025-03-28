@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",10,2,"duplicated category","[[Category:各国を舞台とした作品|にほん]]"],["no-duplicate",11,2,"duplicated category","[[Category:各国を舞台とした作品]]"]]

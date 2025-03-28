@@ -1,0 +1,1 @@
+window.data=[["nested-link",62,415,"internal link in an external link","[[平成23年台風12号]]"]]

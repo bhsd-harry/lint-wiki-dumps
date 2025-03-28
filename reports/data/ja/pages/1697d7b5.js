@@ -1,0 +1,1 @@
+window.data=[["nested-link",43,268,"internal link in an external link","[[KADOKAWA Game Linkage]]"],["nested-link",47,204,"internal link in an external link","[[インプレス]]"]]

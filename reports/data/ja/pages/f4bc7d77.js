@@ -1,0 +1,1 @@
+window.data=[["no-ignored",3285,4,"containing invalid attribute","{{efn|スーパー戦隊シリーズ第39作『[[手裏剣戦隊ニンニンジャー]]』に登場する牙鬼軍団の妖怪。}}||ディー博士||『ニンニンジャーVSドライブ』||"]]

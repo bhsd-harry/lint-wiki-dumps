@@ -1,0 +1,1 @@
+window.data=[["tag-like",29,98,"lonely \"<\"","<ref"],["no-ignored",27,639,"containing invalid attribute","/。\n\n 第一次世界大戦が始まり、ヨーロッパの街が被害を受けるようになった1916年にアメリカに移住した。この時点でアールは国際的に知られている画家であり、アールの作品は、書籍や版画の形で出版されてい"],["no-duplicate",27,624,"duplicated name attribute","name=\"Spalding\""],["no-duplicate",29,103,"duplicated name attribute","name=\"MAW\""]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",164,1,"invalid content in <gallery>"," ほとんどの橋は[[1992年]]（平成4年）に完成した仙川改修工事で架け替えられた。"]]

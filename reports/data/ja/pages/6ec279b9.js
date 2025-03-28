@@ -1,0 +1,1 @@
+window.data=[["nested-link",308,438,"internal link in an external link","[[小松市]]"],["invalid-css",550,44,"semi-colon expected",":"]]

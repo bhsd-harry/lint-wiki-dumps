@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",228,90,"illegal attribute name","ow:4px"],["illegal-attr",228,97,"illegal attribute name","4px"],["illegal-attr",228,101,"illegal attribute name","4px"],["no-ignored",228,104,"containing invalid attribute"," #011D64;"],["no-duplicate",228,97,"duplicated 4px attribute","4px"],["no-duplicate",228,101,"duplicated 4px attribute","4px"]]

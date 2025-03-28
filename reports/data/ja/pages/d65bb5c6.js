@@ -1,0 +1,1 @@
+window.data=[["nested-link",72,98,"internal link in an external link","[[マイクロダイエット]]"]]

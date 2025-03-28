@@ -1,0 +1,1 @@
+window.data=[["nested-link",18,379,"internal link in an external link","[[西武文理大学]]"],["nested-link",20,383,"internal link in an external link","[[農林水産省]]"],["nested-link",20,419,"internal link in an external link","[[江戸]]"]]

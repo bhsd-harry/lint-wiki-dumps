@@ -1,0 +1,1 @@
+window.data=[["tag-like",762,123,"lonely \"<\"","<ref"],["no-ignored",762,72,"containing invalid attribute","  /。ただし、単一の物質が香気全体を規定することは少なく、ふつういくつかの物質が複合的に関わっている<ref "],["no-duplicate",762,58,"duplicated name attribute","name=\"阿部2003b\""],["no-duplicate",762,128,"duplicated name attribute","name=\"阿部2003b\""]]

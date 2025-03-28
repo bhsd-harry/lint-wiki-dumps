@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,2,"duplicated category","[[Category:コネチカット州の河川]]"],["no-duplicate",6,2,"duplicated category","[[Category:コネチカット州の河川]]"]]

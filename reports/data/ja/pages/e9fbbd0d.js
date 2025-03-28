@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",104,3,"illegal attribute name","Automatic"],["illegal-attr",104,13,"illegal attribute name","Data"],["illegal-attr",104,18,"illegal attribute name","Processing"],["illegal-attr",112,3,"illegal attribute name","Euronet"],["illegal-attr",112,11,"illegal attribute name","Worldwide"]]

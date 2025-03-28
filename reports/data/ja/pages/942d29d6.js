@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",10,2,"duplicated category","[[Category:17世紀オランダの哲学者]]"],["no-duplicate",11,2,"duplicated category","[[Category:17世紀オランダの哲学者]]"]]

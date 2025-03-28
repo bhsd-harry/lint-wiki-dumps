@@ -1,0 +1,1 @@
+window.data=[["no-ignored",40,1,"invalid content in <gallery>"," ファイル:Pseudalopex fulvipes.jpg<br />ダーウィンギツネ<br />''L. fulvipes''"]]

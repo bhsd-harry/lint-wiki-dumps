@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",9,33,"duplicated category","[[Category:スタブ]]"],["no-duplicate",9,94,"duplicated category","[[Category:スタブ|*]]"],["no-duplicate",9,133,"duplicated category","[[Category:スタブ|*]]"],["no-duplicate",9,168,"duplicated category","[[Category:スタブ|*]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",78,3,"containing invalid attribute"," MBSテレビ"]]

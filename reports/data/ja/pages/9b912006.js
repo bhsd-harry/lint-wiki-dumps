@@ -1,0 +1,1 @@
+window.data=[["nested-link",8,317,"internal link in an external link","[[XX_(Vシネマ)#第6作『XX（ダブルエックス）_美しき機能（キリングマシーン）』|XX ダブルエックス 美しき機能]]"]]

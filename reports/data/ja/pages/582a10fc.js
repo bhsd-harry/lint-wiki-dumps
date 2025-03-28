@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",250,46,"lonely \"[\"","[["],["lonely-bracket",250,56,"lonely \"]\"","]]"],["nested-link",444,109,"internal link in an external link","[[:en: Wojciech Żywny|of Wojciech Żywny]]"]]

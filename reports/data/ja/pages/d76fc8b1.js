@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",13,2,"duplicated category","[[Category:超常現象を題材としたテレビドラマ]]"],["no-duplicate",20,2,"duplicated category","[[Category:超常現象を題材としたテレビドラマ]]"]]

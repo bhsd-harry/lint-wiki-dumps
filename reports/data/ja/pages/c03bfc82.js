@@ -1,0 +1,1 @@
+window.data=[["no-ignored",99,4,"containing invalid attribute","'''基準値'''（きじゅんち、{{lang-en|reference values}}）は、臨床検査の結果を解釈するための指標であり、結果値が健常人でよくみられる範囲にあるか（基準範囲）、結果値が特"]]

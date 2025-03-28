@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,2,"duplicated category","[[Category:18世紀の著作家|ほんやくか]]"],["no-duplicate",7,2,"duplicated category","[[Category:18世紀の著作家|ほんやくか]]"]]

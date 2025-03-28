@@ -1,0 +1,1 @@
+window.data=[["no-ignored",167,1,"invalid content in <gallery>"," [[ファイル:Gaulle002.jpg|250px|thumb|right|フランス陸軍の軍装。ケピ帽が特徴的]]"],["no-ignored",309,1,"invalid content in <gallery>"," [[ファイル:Manchukuo politician.jpg|[[満州国]]閣僚の軍人]]"],["no-ignored",310,1,"invalid content in <gallery>"," [[ファイル:33 HayashiS.jpg|満州国建国と同時期の日本の陸軍制服（[[林銑十郎]]）]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",393,17,"duplicated align attribute","align=\"left\""],["no-duplicate",393,29,"duplicated align attribute","align=\"left\""]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",328,3,"duplicated style attribute","style=\"background:#efefef;\""],["no-duplicate",328,32,"duplicated style attribute","style=background:#efefef"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",179,73,"internal link in an external link","[[ユニバーサルミュージック (日本)|ユニバーサル・ミュージック]]"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",1,89,"internal link in an external link","[[:en:Coretta Scott King]]"]]

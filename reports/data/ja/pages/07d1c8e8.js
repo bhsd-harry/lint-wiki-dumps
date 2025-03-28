@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",475,2,"duplicated category","[[Category:日本女子サッカーリーグ|おおるすたあ]]"],["no-duplicate",477,2,"duplicated category","[[Category:日本女子サッカーリーグ|廃]]"]]

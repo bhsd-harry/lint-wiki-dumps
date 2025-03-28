@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",10,133,"lonely \"[\"","[["],["illegal-attr",10,206,"illegal attribute name","small"],["lonely-bracket",10,233,"lonely \"]\"","]]"],["unmatched-tag",357,74,"tag that is both closing and self-closing","</br>"],["unmatched-tag",369,74,"tag that is both closing and self-closing","</br>"]]

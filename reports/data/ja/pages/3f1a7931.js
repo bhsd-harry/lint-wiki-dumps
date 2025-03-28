@@ -1,0 +1,1 @@
+window.data=[["no-ignored",567,114,"containing invalid attribute","日曜は2話連続"],["unmatched-tag",622,2,"unmatched closing tag","</div>"],["unmatched-tag",622,8,"unmatched closing tag","</div>"]]

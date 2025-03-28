@@ -1,0 +1,1 @@
+window.data=[["no-ignored",137,46,"containing invalid attribute"," name＝\"毎日新聞2022-11-18\""],["no-ignored",137,246,"containing invalid attribute"," name＝\"日本経済新聞2022-11-18\""]]

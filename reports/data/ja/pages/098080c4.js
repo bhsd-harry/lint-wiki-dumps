@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",20,2,"duplicated category","[[Category:アメリカ独立戦争の人物]]"],["no-duplicate",22,2,"duplicated category","[[Category:アメリカ独立戦争の人物]]"]]

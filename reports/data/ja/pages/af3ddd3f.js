@@ -1,0 +1,1 @@
+window.data=[["no-ignored",167,1,"invalid content in <gallery>"," [[画像:西条駅駅名標.jpg|サムネイル|駅名標]]"]]

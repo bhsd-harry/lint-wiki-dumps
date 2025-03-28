@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",17,20,"unmatched closing tag","</span>"],["nested-link",67,174,"internal link in an external link","[[ブラジル・テレコム]]"],["nested-link",67,188,"internal link in an external link","[[3G]]"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",151,60,"internal link in an external link","[[セメダイン#CEMEDINE C発売|セメダインC]]"]]

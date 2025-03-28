@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",33,157,"lonely \"[\"","["],["parsing-order",47,11,"HTML tag in table attributes","<sup>"],["parsing-order",47,17,"HTML tag in table attributes","</sup>"],["no-ignored",47,3,"containing invalid attribute","536.20km<sup>2</sup>"]]

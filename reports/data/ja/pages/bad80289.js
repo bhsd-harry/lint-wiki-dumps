@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",95,92,"lonely \"}\"","}}"],["lonely-bracket",105,24,"lonely \"{\"","{{"],["no-duplicate",105,24,"duplicated image caption parameter","{{small"],["no-duplicate",105,32,"duplicated image caption parameter","アポローン像、[[ウォルターズ美術館]]所蔵"]]

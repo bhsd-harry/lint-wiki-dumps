@@ -1,0 +1,1 @@
+window.data=[["nested-link",28,562,"internal link in an external link","[[日本の国会議員#衆議院議員|衆議院議員]]"],["nested-link",28,586,"internal link in an external link","[[岡田康裕]]"]]

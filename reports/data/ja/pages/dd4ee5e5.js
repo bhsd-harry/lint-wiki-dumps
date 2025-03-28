@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",843,33,"duplicated style attribute","style=\"font-size: 85%\""],["no-duplicate",843,86,"duplicated style attribute","style=\"border-collapse:collapse\""],["no-ignored",1143,3,"containing invalid attribute"," フォーサイス・ペティット・レーシングチーム"]]

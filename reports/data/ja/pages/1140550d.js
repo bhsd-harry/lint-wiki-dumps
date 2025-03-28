@@ -1,0 +1,1 @@
+window.data=[["nested-link",35,256,"internal link in an external link","[[靖国神社]]"],["nested-link",49,328,"internal link in an external link","[[増渕英紀]]"]]

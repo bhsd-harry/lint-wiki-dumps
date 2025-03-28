@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",10,2,"duplicated category","[[Category:複数誌並行連載の漫画作品]]"],["no-duplicate",14,2,"duplicated category","[[Category:複数誌並行連載の漫画作品]]"]]

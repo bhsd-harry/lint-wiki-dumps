@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:テュルク諸語の人名]]"],["no-duplicate",6,2,"duplicated category","[[Category:テュルク諸語の人名]]"]]

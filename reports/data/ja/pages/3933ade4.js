@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",43,31,"illegal attribute name","City"],["illegal-attr",43,36,"illegal attribute name","Population"],["no-ignored",43,22,"containing invalid attribute","  '''Wau "],["no-ignored",43,46,"containing invalid attribute"," Trends'''"]]

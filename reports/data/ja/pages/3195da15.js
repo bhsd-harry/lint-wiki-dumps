@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",90,11,"illegal attribute name","width"],["illegal-attr",90,26,"illegal attribute name","width"],["no-duplicate",90,11,"duplicated width attribute","width=\"140px\""],["no-duplicate",90,26,"duplicated width attribute","width=\"140px\""]]

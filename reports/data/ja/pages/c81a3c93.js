@@ -1,0 +1,1 @@
+window.data=[["parsing-order",232,71,"extension tag in HTML tag attributes","<ref>[https://www.cdjournal.com/main/news/hikasa-yoko/33923 「世紀末オカルト学院」　Blu-ray / DVD各巻収録の声優カヴァー曲が判明"],["no-ignored",232,71,"containing invalid attribute","<ref>[https://www.cdjournal.com/main/news/hikasa-yoko/33923 「世紀末オカルト学院」　Blu-ray / DVD各巻収録の声優カヴァー曲が判明"]]

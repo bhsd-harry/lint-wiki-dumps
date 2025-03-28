@@ -1,0 +1,1 @@
+window.data=[["nested-link",71,78,"internal link in an external link","[[歌劇 (雑誌)]]"]]

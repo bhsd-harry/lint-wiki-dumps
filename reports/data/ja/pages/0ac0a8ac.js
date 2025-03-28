@@ -1,0 +1,1 @@
+window.data=[["no-ignored",473,4,"containing invalid attribute","社長が平和堂出身であることから平和堂との繋がりが強い"]]

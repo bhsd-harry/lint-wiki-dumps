@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",20,2,"duplicated category","[[Category:画像の削除依頼/削除]]"],["no-duplicate",43,2,"duplicated category","[[Category:画像の削除依頼/削除]]"]]

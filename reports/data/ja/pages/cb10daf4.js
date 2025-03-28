@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:安倍晋三]]"],["no-duplicate",5,2,"duplicated category","[[Category:安倍晋三|こくそうき]]"]]

@@ -1,0 +1,1 @@
+window.data=[["invalid-css",81,29,"property value expected",";"],["invalid-css",83,29,"property value expected",";"],["no-ignored",89,29,"containing invalid attribute","  style\"text-align: left;\""]]

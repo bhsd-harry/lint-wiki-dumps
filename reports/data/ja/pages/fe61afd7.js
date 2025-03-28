@@ -1,0 +1,1 @@
+window.data=[["no-ignored",223,4,"containing invalid attribute"," ||--,---人 ||--.--％ || -人 || "],["no-ignored",223,47,"containing invalid attribute","  |-人 ||- ||-"]]

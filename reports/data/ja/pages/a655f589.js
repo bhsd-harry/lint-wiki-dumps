@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",291,7,"lonely \"[\"","[["],["lonely-bracket",291,20,"lonely \"]\"","]]"],["no-ignored",291,5,"containing invalid attribute","||[[ジェイス・ティングラー]]||ベンチコーチ"],["no-ignored",293,5,"containing invalid attribute","||{{仮リンク|デビッド・ポプキンス|en|David Popkins}}||打撃コーチ"]]

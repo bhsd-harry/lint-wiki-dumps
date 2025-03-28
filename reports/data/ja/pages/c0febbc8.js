@@ -1,0 +1,1 @@
+window.data=[["no-ignored",2,1,"invalid content in <gallery>"," [[File:Chief Michael Ragmaw|thumbnail]]"]]

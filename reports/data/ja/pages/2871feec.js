@@ -1,0 +1,1 @@
+window.data=[["pipe-like",575,32,"additional \"|\" in a table cell","早碁||"],["unmatched-tag",632,2,"unmatched closing tag","</span>"]]

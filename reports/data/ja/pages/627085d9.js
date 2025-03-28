@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",32,7,"illegal attribute name","vowel"],["no-ignored",32,3,"containing invalid attribute"," 前舌 "],["illegal-attr",34,7,"illegal attribute name","vowel"],["no-ignored",34,3,"containing invalid attribute"," 後舌 "]]

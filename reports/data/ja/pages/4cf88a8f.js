@@ -1,0 +1,1 @@
+window.data=[["no-ignored",63,4,"containing invalid attribute","|{{Won|'''Totals'''}}|{{Won|'''13'''}}|{{Nom|'''15'''}}"]]

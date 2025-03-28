@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",52,37,"duplicated image caption parameter","light"],["no-duplicate",52,43,"duplicated image caption parameter","情報提供イメージ"]]

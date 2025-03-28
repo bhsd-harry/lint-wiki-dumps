@@ -1,0 +1,1 @@
+window.data=[["nested-link",530,213,"internal link in an external link","[[災害]]"],["nested-link",530,219,"internal link in an external link","[[アーカイブス]]"]]

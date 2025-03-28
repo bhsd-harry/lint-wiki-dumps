@@ -1,0 +1,1 @@
+window.data=[["nested-link",35,994,"internal link in an external link","[[Wikipedia:すぐに古くなる表現は使わない]]"]]

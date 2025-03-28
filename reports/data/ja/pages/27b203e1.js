@@ -1,0 +1,1 @@
+window.data=[["nested-link",49,180,"internal link in an external link","[[神島 (笠岡市)|神島]]"]]

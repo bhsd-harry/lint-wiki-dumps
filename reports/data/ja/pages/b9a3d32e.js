@@ -1,0 +1,1 @@
+window.data=[["tag-like",8,412,"lonely \"<\"","<ref"],["no-ignored",8,408,"containing invalid attribute"," の試訳<ref "],["lonely-apos",86,13,"lonely \"'\"","'"],["unescaped",202,198,"unescaped query string in an anonymous parameter","="],["unescaped",203,193,"unescaped query string in an anonymous parameter","="]]

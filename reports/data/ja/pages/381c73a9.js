@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:ア・コルーニャ県|しちたい]]"],["no-duplicate",7,2,"duplicated category","[[Category:ア・コルーニャ県|ししたい]]"]]

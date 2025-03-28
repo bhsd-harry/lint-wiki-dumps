@@ -1,0 +1,1 @@
+window.data=[["no-ignored",286,3,"containing invalid attribute"," アメジストステークス"],["no-ignored",318,3,"containing invalid attribute"," 福島テレビオープン"]]

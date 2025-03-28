@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",26,8,"duplicated parameter","<!-- 左 -->\n == 勲位 ==\n * 勲一等\n * 勲二等\n * 勲三等\n * 勲四等\n * 勲五等\n * 勲六等\n * 勲七等\n * 勲八等\n * 勲九等\n * 勲十等\n * 勲十一等\n "],["no-duplicate",41,3,"duplicated parameter","<!-- 右 -->\n == 勲等 ==\n * [[菊花章|大勲位]]\n * {{nowrap|勲一等}}\n * 勲二等\n * 勲三等\n * 勲四等\n * 勲五等\n * 勲六等\n * 勲七等\n * 勲"]]

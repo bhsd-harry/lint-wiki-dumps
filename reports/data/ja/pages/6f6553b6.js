@@ -1,0 +1,1 @@
+window.data=[["nested-link",56,101,"internal link in an external link","[[INSPIRE-HEP]]"]]

@@ -1,0 +1,1 @@
+window.data=[["parsing-order",507,4,"extension tag in HTML tag attributes","<ref>{{Cite news|和書 |url=https://www.kobe-np.co.jp/news/sougou/201906/0012415851.shtml |title=「芦屋ブラン"],["no-ignored",507,4,"containing invalid attribute","<ref>{{Cite news|和書 |url=https://www.kobe-np.co.jp/news/sougou/201906/0012415851.shtml |title=「芦屋ブラン"]]

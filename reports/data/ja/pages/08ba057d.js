@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",25,2,"duplicated category","[[Category:バーミンガムの歴史]]"],["no-duplicate",27,2,"duplicated category","[[Category:バーミンガムの歴史]]"]]

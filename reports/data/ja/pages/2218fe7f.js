@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",1079,3,"lonely \"'\"","'"],["lonely-apos",1087,3,"lonely \"'\"","'"],["invalid-css",1775,34,"colon expected",";"]]

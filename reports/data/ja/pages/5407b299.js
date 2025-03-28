@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",16,6,"lonely \"[\"","[["],["lonely-bracket",16,10,"lonely \"]\"","]]"],["lonely-bracket",16,14,"lonely \"[\"","[["],["lonely-bracket",16,18,"lonely \"]\"","]]"],["lonely-bracket",16,22,"lonely \"[\"","[["],["lonely-bracket",16,26,"lonely \"]\"","]]"],["no-ignored",16,4,"containing invalid attribute"," |[[干支]]||[[乙酉]]||[[丙戌]]"]]

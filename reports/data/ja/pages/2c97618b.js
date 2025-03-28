@@ -1,0 +1,1 @@
+window.data=[["no-ignored",52,3,"containing invalid attribute","ミッドナイト・バス"]]

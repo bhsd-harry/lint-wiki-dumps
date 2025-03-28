@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:中央アジアの地形]]"],["no-duplicate",9,2,"duplicated category","[[Category:中央アジアの地形]]"]]

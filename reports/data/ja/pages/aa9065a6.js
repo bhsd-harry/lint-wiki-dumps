@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",25,4,"lonely \"[\"","[["],["lonely-bracket",25,12,"lonely \"]\"","]]"],["tag-like",25,19,"lonely \"<\"","<ref"],["no-ignored",24,33,"containing invalid attribute","/\n * [[バレーボール]]部（男子）<ref "],["no-duplicate",24,23,"duplicated name attribute","name=\"部活動\""],["no-duplicate",25,24,"duplicated name attribute","name=\"部活動\""]]

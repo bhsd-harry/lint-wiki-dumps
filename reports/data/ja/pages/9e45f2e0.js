@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",88,169,"lonely \"'\"","'"],["invalid-css",347,29,"} expected","\""],["invalid-css",359,29,"} expected","\""]]

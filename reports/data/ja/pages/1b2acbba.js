@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",7,2,"duplicated category","[[Category:戦後日本の芸能人別のトピックス]]"],["no-duplicate",12,2,"duplicated category","[[Category:戦後日本の芸能人別のトピックス]]"]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",38,273,"lonely \"]\"","]"],["nested-link",192,100,"internal link in an external link","[[プロジェクトEGG]]"]]

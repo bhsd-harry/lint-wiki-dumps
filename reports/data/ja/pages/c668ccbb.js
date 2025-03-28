@@ -1,0 +1,1 @@
+window.data=[["tag-like",4,736,"lonely \"<\"","<ref"],["no-ignored",4,694,"containing invalid attribute","/。2019年TMIプライバシー＆セキュリティコンサルティング株式会社代表取締役就任<ref "],["no-duplicate",4,682,"duplicated name attribute","name=\"tmiPS\""],["no-duplicate",4,741,"duplicated name attribute","name=\"tmiPS\""]]

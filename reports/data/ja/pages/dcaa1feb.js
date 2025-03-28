@@ -1,0 +1,1 @@
+window.data=[["nested-link",239,90,"internal link in an external link","[[FC岐阜]]"],["unmatched-tag",480,2,"unmatched closing tag","</div>"],["unmatched-tag",480,8,"unmatched closing tag","</div>"]]

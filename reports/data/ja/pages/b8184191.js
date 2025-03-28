@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",393,8,"duplicated group attribute","group=\"東京都統計\""],["no-duplicate",393,23,"duplicated group attribute","group=\"東京都統計\""]]

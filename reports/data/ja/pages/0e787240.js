@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",186,15,"illegal attribute name","stranden"],["no-ignored",186,3,"containing invalid attribute"," ''Kafka på "]]

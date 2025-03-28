@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",16,28,"duplicated image border parameter","border"],["no-duplicate",16,35,"duplicated image border parameter","border"]]

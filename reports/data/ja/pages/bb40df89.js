@@ -1,0 +1,1 @@
+window.data=[["invalid-css",912,37,"colon expected",";"],["no-duplicate",912,24,"duplicated style attribute","style=\"middle;\""],["no-duplicate",912,41,"duplicated style attribute","style=\"font-size:small;\""]]

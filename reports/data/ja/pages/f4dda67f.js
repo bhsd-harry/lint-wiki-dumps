@@ -1,0 +1,1 @@
+window.data=[["no-ignored",3974,41,"containing invalid attribute","ダニエル・M・キトニー"]]

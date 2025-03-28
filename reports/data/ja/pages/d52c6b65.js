@@ -1,0 +1,1 @@
+window.data=[["no-ignored",15,4,"useless fragment","Wikipedia:削除依頼/うつ病#うつ病を患った著名人"]]

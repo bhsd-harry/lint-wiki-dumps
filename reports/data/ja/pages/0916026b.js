@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",450,36,"duplicated style attribute","style=\"\""],["no-duplicate",450,46,"duplicated style attribute","style=\"background-color:#F0F0F0; vertical-align:top\""],["no-duplicate",464,13,"duplicated style attribute","style=\"vertical-align:top\""],["no-duplicate",464,54,"duplicated style attribute","style=\"background-color:#F0F0F0\""]]

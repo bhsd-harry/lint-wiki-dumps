@@ -1,0 +1,1 @@
+window.data=[["no-ignored",145,401,"containing invalid attribute","刺殺"],["illegal-attr",152,12,"illegal attribute name","0"],["illegal-attr",198,13,"illegal attribute name","0"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",70,5,"duplicated style attribute","style=\"vertical-align:top\""],["no-duplicate",70,33,"duplicated style attribute","style=\"white-space:nowrap\""]]

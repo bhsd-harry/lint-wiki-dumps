@@ -1,0 +1,1 @@
+window.data=[["no-ignored",303,16,"containing invalid attribute","  \"centre\""],["no-ignored",1022,15,"containing invalid attribute","  width:\"100%; float:center; background:transparent;\""],["no-ignored",1024,4,"containing invalid attribute"," width:\"50%\"  "]]

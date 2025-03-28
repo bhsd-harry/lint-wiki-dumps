@@ -1,0 +1,1 @@
+window.data=[["no-ignored",116,4,"containing invalid attribute","||くらもん||1999年7月9日||愛知県||研修生||"],["no-ignored",118,4,"containing invalid attribute","||きにーにゃ||2002年5月13日||岡山県||研修生||"],["no-ignored",128,4,"containing invalid attribute","||みーちゃん||1999年7月14日||千葉県||研修生||"]]

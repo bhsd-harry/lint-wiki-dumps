@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",4,180,"lonely \"[\"","["],["nested-link",4,344,"internal link in an external link","[[儀仗兵]]"],["lonely-bracket",20,269,"lonely \"[\"","["],["lonely-bracket",20,488,"lonely \"[\"","["]]

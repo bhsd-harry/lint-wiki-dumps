@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",14,24,"duplicated style attribute","style=\"width:450px\""],["no-duplicate",14,45,"duplicated style attribute","style=\"white-space:nowrap\""]]

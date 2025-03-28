@@ -1,0 +1,1 @@
+window.data=[["no-ignored",370,20,"containing invalid attribute","タイトル"],["illegal-attr",394,35,"illegal attribute name","HIMk"],["unmatched-tag",541,92,"unmatched closing tag","</small>"]]

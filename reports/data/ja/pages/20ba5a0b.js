@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",21,2,"duplicated category","[[Category:キリスト教倫理学者]]"],["no-duplicate",25,2,"duplicated category","[[Category:キリスト教倫理学者]]"]]

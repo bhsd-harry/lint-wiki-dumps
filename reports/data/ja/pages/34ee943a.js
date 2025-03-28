@@ -1,0 +1,1 @@
+window.data=[["nested-link",30,202,"internal link in an external link","[[東京書籍]]"],["nested-link",30,211,"internal link in an external link","[[Adobe Flash|Flash]]"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",12,247,"internal link in an external link","[[Wikipedia:新規参加者を苛めないでください]]"]]

@@ -1,0 +1,1 @@
+window.data=[["parsing-order",669,25,"HTML tag in table attributes","<br />"],["parsing-order",669,53,"HTML tag in table attributes","<br />"],["no-ignored",669,3,"containing invalid attribute","'''小屋・須縄線'''：小浜二中 / 小屋<br />'''小屋・谷田部線'''：道の駅 / 小屋<br />"]]

@@ -1,0 +1,1 @@
+window.data=[["parsing-order",88,36,"HTML tag in table attributes","<small>"],["illegal-attr",88,49,"illegal attribute name","Alp"],["no-ignored",88,35,"containing invalid attribute"," <small>Çetin "],["invalid-css",205,39,"property value expected","#FFGOLD"],["invalid-css",206,40,"property value expected","#FFGOLD"]]

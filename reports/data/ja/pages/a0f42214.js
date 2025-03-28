@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",372,8,"duplicated name attribute","name=\"toukei2019\""],["no-duplicate",372,27,"duplicated name attribute","name=\"toukei2019\""]]

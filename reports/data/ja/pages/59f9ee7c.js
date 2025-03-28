@@ -1,0 +1,1 @@
+window.data=[["no-ignored",121,1,"invalid content in <gallery>"," [[ワシントン・オン・ザ・ブラゾス (テキサス州)|ワシントン・オン・ザ・ブラゾス]]議事録による。"],["no-ignored",123,1,"invalid content in <gallery>"," [[ワシントン・オン・ザ・ブラゾス (テキサス州)|ワシントン・オン・ザ・ブラゾス]]議事録による。"]]

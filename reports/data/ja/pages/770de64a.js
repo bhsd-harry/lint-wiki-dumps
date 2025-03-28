@@ -1,0 +1,1 @@
+window.data=[["parsing-order",94,125,"extension tag in HTML tag attributes","<ref>{{Cite web|和書|url=http://www.c-linkage.co.jp/jsps55/ |title=第55回春季日本歯周病学会学術大会 |publisher=[[北海道医"],["no-ignored",94,125,"containing invalid attribute","<ref>{{Cite web|和書|url=http://www.c-linkage.co.jp/jsps55/ |title=第55回春季日本歯周病学会学術大会 |publisher=[[北海道医"]]

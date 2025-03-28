@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,2,"duplicated category","[[Category:人物名目録（日本）]]"],["no-duplicate",8,2,"duplicated category","[[Category:人物名目録（日本）]]"]]

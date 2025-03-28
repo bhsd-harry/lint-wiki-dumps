@@ -1,0 +1,1 @@
+window.data=[["unclosed-comment",54,7,"unclosed HTML comment","<!--\n\n == 関連項目 ==\n * [[滋賀県の県道一覧]]\n\n {{Road-stub}}\n {{滋賀県道}}\n {{DEFAULTSORT:しかけんとう268}}\n [[Category:滋"]]

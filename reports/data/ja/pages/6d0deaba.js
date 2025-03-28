@@ -1,0 +1,1 @@
+window.data=[["invalid-css",119,35,"semi-colon expected",""],["invalid-css",119,26,"colon expected","\"#f2f2f2\""],["no-ignored",131,35,"containing invalid attribute","ポストシーズン"],["unmatched-tag",252,2,"unmatched closing tag","</span>"]]

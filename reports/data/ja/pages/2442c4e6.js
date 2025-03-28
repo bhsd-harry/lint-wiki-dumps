@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",131,175,"lonely \"[\"","["],["lonely-bracket",667,6,"lonely \"[\"","[["],["lonely-bracket",667,12,"lonely \"]\"","]]"],["no-ignored",667,4,"containing invalid attribute"," |[[竹中直人]]||助演男優賞 3（第16回・第19回・第20回）"]]

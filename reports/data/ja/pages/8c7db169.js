@@ -1,0 +1,1 @@
+window.data=[["parsing-order",19,17,"extension tag in HTML tag attributes","<ref name=bts1>{{cite web |title=Table 1-40: U.S. Passenger-Miles (Millions) |url=http://www.rita.do"],["no-ignored",19,4,"containing invalid attribute"," 旅客シェア（2012年）<ref name=bts1>{{cite web |title=Table 1-40: U.S. Passenger-Miles (Millions) |url=http:"]]

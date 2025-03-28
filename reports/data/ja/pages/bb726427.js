@@ -1,0 +1,1 @@
+window.data=[["no-ignored",220,4,"containing invalid attribute"," 歴代のグランプリ受賞店舗"]]

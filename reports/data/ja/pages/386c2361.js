@@ -1,0 +1,1 @@
+window.data=[["tag-like",145,55,"lonely \"<\"","<div"],["no-ignored",145,145,"attributes of a closing tag"," style=\"text-align:center\""],["unmatched-tag",145,140,"unmatched closing tag","</div style=\"text-align:center\">"]]

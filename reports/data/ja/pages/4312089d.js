@@ -1,0 +1,1 @@
+window.data=[["no-ignored",148,32,"containing invalid attribute","\n 専用通行帯以外の自転車走行空間の整備形態\"  "]]

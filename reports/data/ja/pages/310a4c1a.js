@@ -1,0 +1,1 @@
+window.data=[["parsing-order",324,67,"extension tag in HTML tag attributes","<ref group=\"注\">2024年3月までは土曜 9:25 - 10:25。</ref>"],["no-ignored",324,67,"containing invalid attribute","<ref group=\"注\">2024年3月までは土曜 9:25 - 10:25。</ref>"]]

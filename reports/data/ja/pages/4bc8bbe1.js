@@ -1,0 +1,1 @@
+window.data=[["lonely-http",16,229,"lonely \"ISBN\"","ISBN"],["illegal-attr",43,3,"illegal attribute name","unsortable"],["lonely-bracket",47,4,"lonely \"[\"","[["],["lonely-bracket",47,32,"lonely \"]\"","]]"],["no-ignored",47,4,"containing invalid attribute","[[:イード・アル＝アドハー#日付が2種類|日付が2種類]]"]]

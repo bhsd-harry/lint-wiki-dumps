@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",107,104,"lonely \"[\"","[["],["lonely-bracket",107,111,"lonely \"]\"","]]"],["lonely-bracket",107,122,"lonely \"[\"","[["],["lonely-bracket",107,129,"lonely \"]\"","]]"],["tag-like",107,140,"lonely \"<\"","<ref"],["no-ignored",107,101,"containing invalid attribute","  。[[ファシズム]]については右翼版の[[アナキズム]]であると考えている<ref"]]

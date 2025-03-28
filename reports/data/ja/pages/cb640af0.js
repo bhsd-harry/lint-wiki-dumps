@@ -1,0 +1,1 @@
+window.data=[["no-ignored",79,4,"containing invalid attribute","|※：7月、農園内に新校舎落成。※※：12月、閉校。"]]

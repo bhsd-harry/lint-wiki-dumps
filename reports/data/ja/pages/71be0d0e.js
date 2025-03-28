@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",150,39,"duplicated image caption parameter","light"],["no-duplicate",150,45,"duplicated image caption parameter","ヤナーチェクの作品群を記念して設計されたレリーフ"],["lonely-http",184,55,"lonely \"ISBN\"","ISBN"],["lonely-http",184,76,"lonely \"ISBN\"","ISBN"]]

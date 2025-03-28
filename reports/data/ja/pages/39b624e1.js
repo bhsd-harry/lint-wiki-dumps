@@ -1,0 +1,1 @@
+window.data=[["no-ignored",260,3,"containing invalid attribute","新人王戦 (囲碁)"]]

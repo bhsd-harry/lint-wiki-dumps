@@ -1,0 +1,1 @@
+window.data=[["no-ignored",48,1,"invalid content in <gallery>"," File:Osaka Suijyo Bus Naniwa III IMG 0855 20130127.JP4/16 [[大阪水上バス]]・アクアライナー『なにわ3号』"],["no-ignored",54,1,"invalid content in <gallery>"," ファイル:Kumata crossroad 201304081619.jpg4/9 [[杭全交差点]]"]]

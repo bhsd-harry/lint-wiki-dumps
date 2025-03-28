@@ -1,0 +1,1 @@
+window.data=[["no-ignored",347,3,"containing invalid attribute"," 佐藤蓮 (レーサー)"],["no-ignored",401,3,"containing invalid attribute"," 佐藤蓮 (レーサー)"],["illegal-attr",1253,28,"illegal attribute name","nowrap"]]

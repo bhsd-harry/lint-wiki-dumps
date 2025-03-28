@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",12,3,"duplicated parameter","開通年           = [[2009年]]（平成21年） \n "],["no-duplicate",13,3,"duplicated parameter","開通年           =\n "]]

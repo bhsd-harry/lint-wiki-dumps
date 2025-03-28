@@ -1,0 +1,1 @@
+window.data=[["no-ignored",58,1,"invalid content in <gallery>"," {{-}}"]]

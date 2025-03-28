@@ -1,0 +1,1 @@
+window.data=[["parsing-order",465,27,"extension tag in HTML tag attributes","<ref name=\"スーパーモーニング\"  group=\"注\"  />"],["no-ignored",465,27,"containing invalid attribute","<ref name=\"スーパーモーニング\"  group=\"注\"  />"]]

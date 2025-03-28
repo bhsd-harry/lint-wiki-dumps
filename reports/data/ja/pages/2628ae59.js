@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:執筆依頼|ふあつしよん]]"],["no-duplicate",58,2,"duplicated category","[[Category:執筆依頼|ふあつしよん]]"]]

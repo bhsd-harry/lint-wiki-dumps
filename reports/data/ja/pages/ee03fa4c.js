@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,2,"duplicated category","[[Category:日本の信用金庫 (都道府県別)|やまかたけん]]"],["no-duplicate",4,2,"duplicated category","[[Category:日本の信用金庫 (都道府県別)|やまかたけん]]"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",83,232,"internal link in an external link","[[楢崎弥之助]]"],["nested-link",83,488,"internal link in an external link","[[国際連合総会第6委員会]]"]]

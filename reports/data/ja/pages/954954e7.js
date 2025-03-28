@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",115,50,"illegal attribute name","text-align"],["illegal-attr",265,50,"illegal attribute name","text-align"],["illegal-attr",415,50,"illegal attribute name","text-align"],["no-ignored",466,4,"containing invalid attribute","トレゴンイング"]]

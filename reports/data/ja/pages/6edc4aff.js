@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",30,7,"illegal attribute name","Book"],["illegal-attr",30,12,"illegal attribute name","Like"],["illegal-attr",30,17,"illegal attribute name","This"],["no-ignored",30,4,"containing invalid attribute","|A "]]

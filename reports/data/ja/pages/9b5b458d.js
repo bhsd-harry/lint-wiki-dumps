@@ -1,0 +1,1 @@
+window.data=[["nested-link",10,628,"internal link in an external link","[[新庄市]]"]]

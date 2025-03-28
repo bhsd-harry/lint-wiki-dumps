@@ -1,0 +1,1 @@
+window.data=[["no-ignored",30,1,"invalid content in <gallery>"," <sup><sup><sup></sup></sup></sup>File:Sørensen Sejlskibe i sundet syd for Kronborg 1857.jpg|[[クロンボー"]]

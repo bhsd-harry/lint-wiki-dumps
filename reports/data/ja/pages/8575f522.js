@@ -1,0 +1,1 @@
+window.data=[["no-ignored",49,1,"invalid content in <gallery>"," Image:|《聖衣剥奪》<br />1605年頃<br />トレド、サント・トメ教区聖堂所蔵"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",32,3,"containing invalid attribute","!style=\"width:30%\"  "],["no-ignored",33,3,"containing invalid attribute","!style=\"width:70%\"  "],["no-ignored",34,3,"containing invalid attribute","!style=\"width:70%\"  "]]

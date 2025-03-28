@@ -1,0 +1,1 @@
+window.data=[["nested-link",465,192,"internal link in an external link","[[脳軟化症]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",117,60,"duplicated style attribute","style=\"border:1px solid #e7dcc3\""],["no-duplicate",117,94,"duplicated style attribute","style=font-size:small"]]

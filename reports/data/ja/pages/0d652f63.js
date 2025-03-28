@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",14,31,"lonely \"'\"","'"],["no-duplicate",36,163,"duplicated align attribute","align=\"right\""],["no-duplicate",36,178,"duplicated align attribute","align=\"center\""],["illegal-attr",92,115,"illegal attribute name","561"],["illegal-attr",152,111,"illegal attribute name","295"],["illegal-attr",196,4,"illegal attribute name","81"]]

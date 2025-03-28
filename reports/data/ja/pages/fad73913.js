@@ -1,0 +1,1 @@
+window.data=[["nested-link",63,287,"internal link in an external link","[[ロータス・エヴォーラ]]"],["invalid-css",567,52,"semi-colon expected",""],["invalid-css",567,51,"colon expected","="],["no-ignored",567,53,"containing invalid attribute","text-align:center\""]]

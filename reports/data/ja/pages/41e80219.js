@@ -1,0 +1,1 @@
+window.data=[["invalid-css",75,41,"property value expected",""],["nested-link",88,57,"internal link in an external link","[[ビクターエンタテインメント]]"]]

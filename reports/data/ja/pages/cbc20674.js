@@ -1,0 +1,1 @@
+window.data=[["no-ignored",246,1,"invalid content in <gallery>"," File:Frederick Weisman Museum of Art.jpg<center>[[ミネソタ大学ツインシティー校|ミネソタ大学]][[ワイズマン美術館]]</center>"]]

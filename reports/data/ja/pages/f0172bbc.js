@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",107,5,"duplicated class attribute","class=\"wikitable\""],["no-duplicate",107,24,"duplicated class attribute","class=\"toccolours\""]]

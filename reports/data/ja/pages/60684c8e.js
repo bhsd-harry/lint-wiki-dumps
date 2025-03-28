@@ -1,0 +1,1 @@
+window.data=[["no-ignored",215,3,"containing invalid attribute","2013年世界陸上競技選手権大会"],["no-ignored",262,3,"containing invalid attribute","2015年世界陸上競技選手権大会"],["no-ignored",290,3,"containing invalid attribute","2019年世界陸上競技選手権大会"],["no-ignored",304,3,"containing invalid attribute","2022年世界陸上競技選手権大会"]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",7,17,"illegal attribute name","div"],["no-ignored",19,4,"containing invalid attribute"," 郡: || 郡独立市"],["lonely-http",92,584,"lonely \"ISBN\"","ISBN"]]

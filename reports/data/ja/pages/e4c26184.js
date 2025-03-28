@@ -1,0 +1,1 @@
+window.data=[["nested-link",17,129,"internal link in an external link","[[WP:CSD#全般8]]"]]

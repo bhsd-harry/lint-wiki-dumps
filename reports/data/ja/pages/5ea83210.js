@@ -1,0 +1,1 @@
+window.data=[["tag-like",367,354,"lonely \"<\"","<ref"],["no-ignored",367,342,"containing invalid attribute","/）、駐車台数約690台<ref "],["no-duplicate",367,306,"duplicated name attribute","name=\"shopping-center-list-1988-165\""],["no-duplicate",367,359,"duplicated name attribute","name=\"shopping-center-list-1988-165\""]]

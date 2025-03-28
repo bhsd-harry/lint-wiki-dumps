@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",81,48,"duplicated image caption parameter","px"],["no-duplicate",81,51,"duplicated image caption parameter","F1デビュー戦となった[[2016年バーレーングランプリ|2016年第2戦バーレーンGP]]にて。"]]

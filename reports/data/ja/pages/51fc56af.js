@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",347,4,"lonely \"[\"","[["],["lonely-bracket",347,37,"lonely \"]\"","]]"],["no-ignored",347,4,"containing invalid attribute","[[ルートヴィヒ・ヴァン・ベートーヴェン|Walter Moore]]"],["lonely-bracket",1475,3,"lonely \"[\"","[["],["lonely-bracket",1475,17,"lonely \"]\"","]]"]]

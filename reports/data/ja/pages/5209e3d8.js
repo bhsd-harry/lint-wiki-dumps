@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",77,4,"illegal attribute name","JINS"],["illegal-attr",77,9,"illegal attribute name","SWFC"],["no-ignored",77,13,"containing invalid attribute"," Shop(JINS上海環球金融中心店)"]]

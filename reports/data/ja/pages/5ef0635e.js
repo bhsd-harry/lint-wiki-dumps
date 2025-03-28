@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,95,"duplicated image caption parameter","Oerlikon_Millennium_35_mm_Naval_Revolver_Gun_Systems_on_HDMS_Absalon_(L16)"],["no-duplicate",3,176,"duplicated image caption parameter",""]]

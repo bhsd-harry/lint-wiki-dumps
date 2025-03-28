@@ -1,0 +1,1 @@
+window.data=[["pipe-like",94,34,"additional \"|\" in a table cell","-||-||98||57||17||24"]]

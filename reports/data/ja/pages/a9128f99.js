@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",84,75,"duplicated image caption parameter","px"],["no-duplicate",84,78,"duplicated image caption parameter","[[2006年ブラジルグランプリ|ブラジルGP]]にて[[スクーデリア・トロ・ロッソ|トロ・ロッソ]]の[[ヴィタントニオ・リウッツィ]]を追う佐藤琢磨"]]

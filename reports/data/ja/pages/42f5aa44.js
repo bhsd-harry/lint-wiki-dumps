@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",406,4,"duplicated style attribute","style=\"border-bottom: 3px solid #FFD700\""],["no-duplicate",406,44,"duplicated style attribute","style=\"border-bottom: 3px solid #FF0000\""]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",17,52,"containing invalid attribute"," 同作品は2019年初の3週連続1位を記録した。 "]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",35,179,"internal link in an external link","[[明極楚俊]]"],["nested-link",35,444,"internal link in an external link","[[楠町 (神戸市)]]"],["nested-link",35,574,"internal link in an external link","[[明極楚俊]]"],["nested-link",35,652,"internal link in an external link","[[後醍醐天皇]]"],["nested-link",35,667,"internal link in an external link","[[元徳]]"]]

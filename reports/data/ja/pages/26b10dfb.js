@@ -1,0 +1,1 @@
+window.data=[["nested-link",47,72,"internal link in an external link","[[東京外国語大学]]"],["nested-link",47,84,"internal link in an external link","[[岡田知子 (文学研究者)|岡田知子]]"]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",131,24,"illegal attribute name","mw-collapsible"],["no-ignored",131,38,"containing invalid attribute"," mw-collapsed\"  "],["no-ignored",131,77,"containing invalid attribute",";  \"margin:0 auto\""]]

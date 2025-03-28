@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",9,11,"duplicated category","[[Category:災害ポータル|特]]"],["no-duplicate",24,2,"duplicated category","[[Category:災害ポータル|特]]"]]

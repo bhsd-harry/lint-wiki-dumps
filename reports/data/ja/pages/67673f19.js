@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:アジア関連の一覧|*ちり]]"],["no-duplicate",7,2,"duplicated category","[[Category:アジア関連の一覧|*ちり]]"]]

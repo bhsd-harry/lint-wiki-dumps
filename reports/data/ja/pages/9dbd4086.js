@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",4,4,"illegal attribute name","AND"],["illegal-attr",4,8,"illegal attribute name","POTATO"],["illegal-attr",4,15,"illegal attribute name","YEA"],["illegal-attr",4,19,"illegal attribute name","POTATO"],["no-duplicate",4,8,"duplicated potato attribute","POTATO"],["no-duplicate",4,19,"duplicated potato attribute","POTATO"]]

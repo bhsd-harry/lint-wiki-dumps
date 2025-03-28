@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",1457,4,"illegal attribute name","TRINITY"],["no-ignored",1457,11,"containing invalid attribute"," ARTIST,"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",9,2,"duplicated category","[[Category:トリニダード・トバゴの建築物|くうこう]]"],["no-duplicate",11,2,"duplicated category","[[Category:トリニダード・トバゴの建築物|くうこう]]"]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",65,7,"lonely \"[\"","[["],["lonely-bracket",65,14,"lonely \"]\"","]]"],["parsing-order",65,16,"HTML tag in table attributes","<br />"],["no-ignored",65,4,"containing invalid attribute","||●[[樟蔭中学校]]<br />（大阪）"]]

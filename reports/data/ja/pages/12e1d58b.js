@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",412,20,"lonely \"'\"","'"],["illegal-attr",474,3,"illegal attribute name","span"],["illegal-attr",557,3,"illegal attribute name","span"],["illegal-attr",654,3,"illegal attribute name","span"],["no-ignored",787,28,"containing invalid attribute"," 規格品番"]]

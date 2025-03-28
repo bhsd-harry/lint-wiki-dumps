@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",398,100,"lonely \"[\"","["],["lonely-bracket",398,168,"lonely \"]\"","]"],["nested-link",427,106,"internal link in an external link","[[ケイエムシネマ企画]]"]]

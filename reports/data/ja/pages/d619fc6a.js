@@ -1,0 +1,1 @@
+window.data=[["nested-link",48,215,"internal link in an external link","[[美術手帳]]"]]

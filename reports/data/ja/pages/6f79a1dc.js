@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:日本の鉄道に関係する人物]]"],["no-duplicate",7,2,"duplicated category","[[Category:日本の鉄道に関係する人物]]"]]

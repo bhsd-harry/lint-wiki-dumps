@@ -1,0 +1,1 @@
+window.data=[["no-ignored",61,1,"invalid content in <gallery>"," {{0}}|5年次は小天狗<br />（2000m級）"]]

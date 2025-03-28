@@ -1,0 +1,1 @@
+window.data=[["nested-link",59,144,"internal link in an external link","[[アメリカ野球学会]]"],["lonely-apos",76,31,"lonely \"'\"","'"],["lonely-apos",94,31,"lonely \"'\"","'"]]

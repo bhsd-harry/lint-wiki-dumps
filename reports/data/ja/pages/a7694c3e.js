@@ -1,0 +1,1 @@
+window.data=[["nested-link",64,237,"internal link in an external link","[[利用者:Bletilla|Bletilla]]"],["nested-link",64,403,"internal link in an external link","[[利用者:Bletilla|Bletilla]]"]]

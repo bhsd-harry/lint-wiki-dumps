@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",314,16,"lonely \"[\"","[["],["lonely-bracket",314,21,"lonely \"]\"","]]"],["tag-like",314,28,"lonely \"<\"","<ref"],["no-ignored",312,368,"containing invalid attribute","/。\n\n スタイリングはデザイン主査の[[石井守]]が手掛けた<ref "],["no-duplicate",312,356,"duplicated name attribute","name=\"emund\""],["no-duplicate",314,33,"duplicated name attribute","name=\"emund\""]]

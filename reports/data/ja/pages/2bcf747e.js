@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",57,5,"duplicated style attribute","style=\"font-size: 105%;\""],["no-duplicate",57,31,"duplicated style attribute","style=\"background-color:#FCC\""],["no-ignored",144,7,"attributes of a closing tag"," style=\"display:none\""],["invalid-css",203,29,"colon expected","="]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",32,1,"invalid content in <gallery>"," [[File:1952MGYBSaloon.jpg|thumb|1952MGYBSaloon|alt=1952MGYBSaloon.jpg]]|1952年　MG YB"]]

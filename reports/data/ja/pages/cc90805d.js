@@ -1,0 +1,1 @@
+window.data=[["pipe-like",80,46,"additional \"|\" in a table cell","\n #ぼくらの物語\n #くらげくらげ\n #マーマレードの歌\n #ぼくらの物語(instrumental)\n #くらげくらげ(instrumental)\n #マーマレードの歌(instrumental)"]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",37,4,"lonely \"[\"","[["],["lonely-bracket",37,11,"lonely \"]\"","]]"],["lonely-bracket",37,14,"lonely \"[\"","[["],["lonely-bracket",37,18,"lonely \"]\"","]]"],["tag-like",37,59,"lonely \"<\"","<ref"],["no-ignored",36,102,"containing invalid attribute","\n * [[1955年]]（[[昭和]]30年）4月1日 -三濃村の一部（旧・横通村）が岐阜県恵那郡明智町に編入される<ref "]]

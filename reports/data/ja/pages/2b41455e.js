@@ -1,0 +1,1 @@
+window.data=[["nested-link",197,68,"internal link in an external link","[[ダ・ヴィンチ (雑誌)|ダ・ヴィンチ]]"]]

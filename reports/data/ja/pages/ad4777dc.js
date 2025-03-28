@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",27,237,"lonely \"'\"","'"],["nested-link",109,55,"internal link in an external link","[[建築設計事務所]]"]]

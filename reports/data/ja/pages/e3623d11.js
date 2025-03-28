@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",69,843,"duplicated name attribute","name"],["no-duplicate",69,848,"duplicated name attribute","name=\"shigaplaza_SCFC\""]]

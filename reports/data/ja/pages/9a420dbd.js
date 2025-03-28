@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",186,110,"lonely \"{\"","{"],["lonely-bracket",186,387,"lonely \"{\"","{"],["lonely-bracket",344,137,"lonely \"{\"","{"],["no-duplicate",363,29,"duplicated image caption parameter","{{#switch:{{CONTENTLANG}}|ar=left|he=left|right}}"],["no-duplicate",363,79,"duplicated image caption parameter",""]]

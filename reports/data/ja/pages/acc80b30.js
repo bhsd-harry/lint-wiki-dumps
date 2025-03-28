@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",171,7,"lonely \"[\"","[["],["lonely-bracket",171,19,"lonely \"]\"","]]"],["no-ignored",171,5,"containing invalid attribute","||[[エリック・ヒンスキー]]||打撃コーチ補佐"],["no-ignored",179,5,"containing invalid attribute","||{{仮リンク|ドム・チティ|en|Dom Chiti}}||ブルペンコーチ"]]

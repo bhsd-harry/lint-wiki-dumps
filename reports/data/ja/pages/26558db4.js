@@ -1,0 +1,1 @@
+window.data=[["no-ignored",30,1,"invalid content in <gallery>"," <br>|ベルンストルフ伯"]]

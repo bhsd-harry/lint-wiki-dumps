@@ -1,0 +1,1 @@
+window.data=[["no-ignored",65,1,"invalid content in <gallery>"," ファイル:Lion man photo.jpgホーレンシュタイン・シュターデル洞窟（ドイツ）で発見された[[ライオンマン]]（3万2,000年前）"]]

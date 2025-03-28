@@ -1,0 +1,1 @@
+window.data=[["pipe-like",452,32,"additional \"|\" in a table cell","ミラナ・ヴェイントゥルブ || 2019年10月7日"],["pipe-like",454,121,"additional \"|\" in a table cell","\n マシュー・センライヒ、トム・シェパード、ミラナ・ヴェイントゥルブ || 2019年10月7日"],["pipe-like",489,33,"additional \"|\" in a table cell","トム・シェパード、エロリー・スミス || 2020年7月27日"]]

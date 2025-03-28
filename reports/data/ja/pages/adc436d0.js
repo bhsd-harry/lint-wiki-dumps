@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",22,9,"lonely \"{\"","{{"],["lonely-bracket",22,20,"lonely \"}\"","}}"],["no-ignored",22,8,"containing invalid attribute"," {{Lang属性|ru}}"],["lonely-bracket",54,9,"lonely \"{\"","{{"],["lonely-bracket",54,25,"lonely \"}\"","}}"],["no-ignored",54,8,"containing invalid attribute"," {{Lang属性|ru-Latn}}"]]

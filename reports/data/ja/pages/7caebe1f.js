@@ -1,0 +1,1 @@
+window.data=[["invalid-css",21,42,"semi-colon expected",""],["invalid-css",21,31,"colon expected","\"loat:left\""]]

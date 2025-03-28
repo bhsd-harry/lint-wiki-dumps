@@ -1,0 +1,1 @@
+window.data=[["no-ignored",38,23,"containing invalid attribute","実効放射電力"]]

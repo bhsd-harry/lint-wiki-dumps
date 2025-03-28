@@ -1,0 +1,1 @@
+window.data=[["nested-link",291,218,"internal link in an external link","[[虐殺]]"],["nested-link",328,49,"internal link in an external link","[[アルメニアの歴史]]"],["nested-link",331,53,"internal link in an external link","[[国家社会主義]]"],["nested-link",331,78,"internal link in an external link","[[ドイツ語]]"]]

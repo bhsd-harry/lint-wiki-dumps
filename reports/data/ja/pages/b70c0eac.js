@@ -1,0 +1,1 @@
+window.data=[["nested-link",55,75,"internal link in an external link","[[アール・エフ・ラジオ日本|ラジオ日本]]"],["nested-link",55,108,"internal link in an external link","[[ポッドキャスト]]"]]

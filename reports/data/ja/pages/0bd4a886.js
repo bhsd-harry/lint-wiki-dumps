@@ -1,0 +1,1 @@
+window.data=[["nested-link",50,125,"internal link in an external link","[[日本革命的共産主義者同盟 (JRCL)]]"]]

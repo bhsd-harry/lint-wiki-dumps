@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",677,16,"lonely \"'\"","'"],["no-ignored",1751,31,"containing invalid attribute","|奪格 (ablativus)||'''-a''' (Aenea)||'''-is''' (Aeneis)"],["no-ignored",1831,31,"containing invalid attribute","|奪格 (ablativus)||'''-ō''' (equo)||'''-īs''' (equis)"]]

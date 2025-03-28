@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",13,13,"duplicated category","[[Category:ウィキプロジェクト キリスト教]]"],["no-duplicate",15,13,"duplicated category","[[Category:ウィキプロジェクト キリスト教]]"]]

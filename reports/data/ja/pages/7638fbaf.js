@@ -1,0 +1,1 @@
+window.data=[["no-ignored",322,31,"containing invalid attribute","  ; margin:auto;\""]]

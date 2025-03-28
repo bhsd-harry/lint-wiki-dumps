@@ -1,0 +1,1 @@
+window.data=[["unclosed-comment",483,224,"unclosed HTML comment","<!--フランス語版 Rue Campagne-Première より、"]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",35,4,"illegal attribute name","nowrap"],["nested-link",35,168,"internal link in an external link","[[富山大学]]"]]

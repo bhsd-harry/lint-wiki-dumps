@@ -1,0 +1,1 @@
+window.data=[["no-ignored",153,1,"invalid content in <gallery>"," [[画像:Chicken for sale.jpg|thumb|羽をむしった鶏]]"],["no-ignored",154,1,"invalid content in <gallery>"," [[画像:Ayam kampung free range chicken meat Indonesia.JPG|thumb|生の鶏肉のプレート]]"]]

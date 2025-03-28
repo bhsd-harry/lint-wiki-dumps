@@ -1,0 +1,1 @@
+window.data=[["nested-link",67,237,"internal link in an external link","[[スポーツ]]"],["nested-link",67,245,"internal link in an external link","[[ジャーナリスト]]"],["nested-link",67,257,"internal link in an external link","[[元川悦子]]"]]

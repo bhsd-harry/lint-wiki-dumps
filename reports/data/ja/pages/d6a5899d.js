@@ -1,0 +1,1 @@
+window.data=[["parsing-order",379,3,"extension tag in HTML tag attributes","<ref>{{cite web|title=High Jump Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/5838"],["no-ignored",379,3,"containing invalid attribute","<ref>{{cite web|title=High Jump Results|url=https://media.aws.iaaf.org/competitiondocuments/pdf/5838"]]

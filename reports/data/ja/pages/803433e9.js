@@ -1,0 +1,1 @@
+window.data=[["no-ignored",74,1,"invalid content in <gallery>"," ''The taking of Jerusalem by [[Herod the Great]], 36 BC''"]]

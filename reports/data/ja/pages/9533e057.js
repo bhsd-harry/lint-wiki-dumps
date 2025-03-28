@@ -1,0 +1,1 @@
+window.data=[["invalid-css",143,23,"property value expected",""],["no-ignored",143,24,"containing invalid attribute","FFA07A\""]]

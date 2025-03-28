@@ -1,0 +1,1 @@
+window.data=[["tag-like",31,29,"lonely \"<\"","<ref"],["no-ignored",29,145,"containing invalid attribute","/。\n\n 1934年にヘルシンキで肝臓癌のため43歳で亡くなった<ref "],["no-duplicate",29,123,"duplicated name attribute","name=\"kaupunkiuutiset\""],["no-duplicate",31,34,"duplicated name attribute","name=\"kaupunkiuutiset\""]]

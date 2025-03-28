@@ -1,0 +1,1 @@
+window.data=[["no-ignored",34,34,"containing invalid attribute","  border-collapse:collapse;\"  "]]

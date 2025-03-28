@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:メディアミックス作品]]"],["no-duplicate",12,2,"duplicated category","[[category:メディアミックス作品]]"]]

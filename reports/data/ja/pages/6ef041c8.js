@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",24,132,"unmatched closing tag","</span>"],["unmatched-tag",25,10,"unclosed tag","<cite id=\"CITEREF図書館管理運営規則\">"],["unmatched-tag",25,129,"unmatched closing tag","</span>"]]

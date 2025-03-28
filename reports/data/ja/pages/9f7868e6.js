@@ -1,0 +1,1 @@
+window.data=[["invalid-css",312,41,"semi-colon expected",":"],["lonely-http",658,63,"lonely \"ISBN\"","ISBN"],["lonely-http",659,69,"lonely \"ISBN\"","ISBN"],["lonely-http",660,79,"lonely \"ISBN\"","ISBN"],["lonely-http",661,97,"lonely \"ISBN\"","ISBN"],["lonely-http",663,74,"lonely \"ISBN\"","ISBN"]]

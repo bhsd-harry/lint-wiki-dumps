@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",27,33,"duplicated style attribute","style=\"text-align:center;\""],["no-duplicate",27,61,"duplicated style attribute","style=\"font-size:smaller;\""],["no-duplicate",69,33,"duplicated style attribute","style=\"text-align:center;\""],["no-duplicate",69,61,"duplicated style attribute","style=\"font-size:smaller;\""]]

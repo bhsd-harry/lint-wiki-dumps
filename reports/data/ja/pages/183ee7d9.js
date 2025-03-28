@@ -1,0 +1,1 @@
+window.data=[["nested-link",68,731,"internal link in an external link","[[:en:WED Allen|WED Allen]]"],["nested-link",68,791,"internal link in an external link","[[:en:Royal Geographical Society|Royal Geographical Society]]"]]

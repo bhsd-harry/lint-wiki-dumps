@@ -1,0 +1,1 @@
+window.data=[["no-ignored",115,71,"containing invalid attribute","スターブリッジプロモーション"],["illegal-attr",125,57,"illegal attribute name","STARSIGN"],["illegal-attr",125,66,"illegal attribute name","PRO"],["illegal-attr",148,59,"illegal attribute name","CTU"],["no-ignored",148,62,"containing invalid attribute"," (企業)"],["no-ignored",178,57,"containing invalid attribute","スパイス (企業)"]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",64,442,"lonely \"[\"","["],["no-ignored",642,4,"containing invalid attribute","性的な内容が含まれるため"],["lonely-bracket",3675,359,"lonely \"[\"","["],["lonely-bracket",3678,694,"lonely \"[\"","["],["lonely-bracket",3738,506,"lonely \"[\"","["]]

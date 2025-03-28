@@ -1,0 +1,1 @@
+window.data=[["no-ignored",373,140,"containing invalid attribute","無期懲役"],["no-ignored",377,173,"containing invalid attribute","無期懲役"],["no-ignored",379,120,"containing invalid attribute","無期懲役"]]

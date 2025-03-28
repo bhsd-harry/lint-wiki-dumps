@@ -1,0 +1,1 @@
+window.data=[["no-ignored",46,25,"containing invalid attribute","ナース競馬場"],["no-ignored",49,15,"containing invalid attribute","ゴウランパーク競馬場"],["no-ignored",52,15,"containing invalid attribute","ダンドーク競馬場"],["no-ignored",70,15,"containing invalid attribute","レパーズタウン競馬場"],["illegal-attr",94,4,"illegal attribute name","nowrap"],["illegal-attr",96,4,"illegal attribute name","nowrap"]]

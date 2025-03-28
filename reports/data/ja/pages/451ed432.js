@@ -1,0 +1,1 @@
+window.data=[["no-ignored",118,4,"containing invalid attribute","2022年2月20日に起きた新己斐橋での衝突事故の事故車。現在修理のため運用離脱中。"]]

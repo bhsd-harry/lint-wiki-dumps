@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",9,2,"duplicated category","[[Category:19世紀イギリスの物理学者]]"],["no-duplicate",10,2,"duplicated category","[[Category:19世紀イギリスの物理学者]]"]]

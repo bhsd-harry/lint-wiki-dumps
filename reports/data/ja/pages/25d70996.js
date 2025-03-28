@@ -1,0 +1,1 @@
+window.data=[["no-ignored",76,1,"invalid content in <gallery>"," [[File:Yamawaki Junior &  Senior High School.jpg|thumb|中学校旧校舎]]"],["no-ignored",77,1,"invalid content in <gallery>"," [[File:Yamawaki Gakuen.JPG|thumb|高等学校旧校舎]]"]]

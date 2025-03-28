@@ -1,0 +1,1 @@
+window.data=[["no-ignored",92,88,"containing invalid attribute","予選リーグ敗退"]]

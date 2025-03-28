@@ -1,0 +1,1 @@
+window.data=[["no-ignored",418,3,"containing invalid attribute","森一郎(稲城村長、町長)"]]

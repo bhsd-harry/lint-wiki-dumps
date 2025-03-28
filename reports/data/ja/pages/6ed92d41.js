@@ -1,0 +1,1 @@
+window.data=[["nested-link",11,49,"internal link in an external link","[[絶滅のおそれのある野生動植物の種の国際取引に関する条約|ワシントン条約]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1115,4,"containing invalid attribute"," background:#ccc; text-align:center;\""],["lonely-bracket",1332,173,"lonely \"{\"","{{"],["lonely-bracket",1333,191,"lonely \"}\"","}}"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",29,16,"duplicated cellpadding attribute","cellpadding=\"0\""],["no-duplicate",29,50,"duplicated cellpadding attribute","cellpadding=\"4\""]]

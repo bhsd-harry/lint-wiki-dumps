@@ -1,0 +1,1 @@
+window.data=[["tag-like",60,40,"lonely \"<\"","<ref"],["no-ignored",60,38,"containing invalid attribute","  <ref"],["no-ignored",60,45,"invalid content in <gallery>","本物の画像の入手が難しいため。</ref>  widths=\"100px\"  heights=\"80px\"  perrow=\"6\">"]]

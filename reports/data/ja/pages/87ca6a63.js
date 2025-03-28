@@ -1,0 +1,1 @@
+window.data=[["no-ignored",83,98,"containing invalid attribute","  \"2019rule\""]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",34,121,"internal link in an external link","[[出没!アド街ック天国]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",83,1,"invalid content in <gallery>"," Yubari-stamp.JPG[[駅スタンプ]]（1933年）"]]

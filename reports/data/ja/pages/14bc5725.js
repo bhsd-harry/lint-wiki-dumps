@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",11,49,"illegal attribute name","text-align:"],["no-ignored",11,60,"containing invalid attribute"," center\"  "],["illegal-attr",12,49,"illegal attribute name","text-align:"],["no-ignored",12,60,"containing invalid attribute"," center\"  "]]

@@ -1,0 +1,1 @@
+window.data=[["unclosed-comment",53,125,"unclosed HTML comment","<!--"],["no-ignored",54,1,"invalid content in <gallery>"," [[ファイル:MAPAprovincias unidas de sudamerica.png|サムネイル|180px|1816年7月9日のリオ・デ・ラ・プラタ連合州（南アメリカ連合州）の独立宣言時の"]]

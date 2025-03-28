@@ -1,0 +1,1 @@
+window.data=[["nested-link",38,164,"internal link in an external link","[[A.J.アルメンディンガー]]"],["nested-link",39,176,"internal link in an external link","[[ジャスティン・ウィルソン]]"]]

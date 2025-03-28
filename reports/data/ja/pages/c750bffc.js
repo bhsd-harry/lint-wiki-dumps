@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,13,"useless link text","|るぷぷキューブ ルプ★さらだ"]]

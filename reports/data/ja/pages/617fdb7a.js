@@ -1,0 +1,1 @@
+window.data=[["void-ext",41,395,"nothing should be in <section>","両社の統合後のホテル数は計5500余りとなり、客室数は世界で110万室で、世界最大のホテル会社が誕生する。"]]

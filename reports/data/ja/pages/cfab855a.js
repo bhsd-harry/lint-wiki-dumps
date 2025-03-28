@@ -1,0 +1,1 @@
+window.data=[["no-ignored",27,8,"containing invalid attribute","法律経済"]]

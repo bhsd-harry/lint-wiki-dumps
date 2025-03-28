@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,20,"duplicated style attribute","style=\"background:#efefef;\""],["no-duplicate",2,62,"duplicated style attribute","style=\"border-bottom:1px #aaa solid;\""]]

@@ -1,0 +1,1 @@
+window.data=[["invalid-css",101,40,"semi-colon expected",""],["invalid-css",101,40,"colon expected",""],["no-duplicate",101,24,"duplicated style attribute","style=\"wikitable\""],["no-duplicate",101,43,"duplicated style attribute","style=\"font-size:small; text-align:center; white-space: nowrap;\""]]

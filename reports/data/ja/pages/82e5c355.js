@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,35,"duplicated image caption parameter","<!--440x440ピクセル-->300px"],["no-duplicate",2,59,"duplicated image caption parameter","理化学研究所<!--にて-->での野崎（2010年）"]]

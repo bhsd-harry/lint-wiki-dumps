@@ -1,0 +1,1 @@
+window.data=[["unescaped",70,188,"unescaped query string in an anonymous parameter","="],["unescaped",72,447,"unescaped query string in an anonymous parameter","="],["nested-link",110,136,"internal link in an external link","[[Simferopol]]"]]

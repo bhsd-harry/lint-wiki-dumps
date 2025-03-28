@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",179,3,"duplicated image caption parameter","350px<!--largish size to make inscription more noticeable, inviting click-to-enlarge-->\n "],["no-duplicate",180,3,"duplicated image caption parameter","ゲージのダゲレオタイプの写真。2009年に彼のものと分かった。<ref group=\"脚注\">''ダゲレオタイプ肖像写真、ジャックとベヴァリー・ウィルガスのコレクションより。'' オリジナルでは、他の"]]

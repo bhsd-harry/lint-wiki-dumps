@@ -1,0 +1,1 @@
+window.data=[["no-ignored",97,21,"containing invalid attribute"," 神奈川県立県民ホール#神奈川芸術劇場（KAAT）"],["no-ignored",103,19,"containing invalid attribute"," 東急歌舞伎町タワー#劇場"],["no-ignored",105,19,"containing invalid attribute"," 東急歌舞伎町タワー#劇場"]]

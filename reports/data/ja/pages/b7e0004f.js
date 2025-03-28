@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",101,295,"duplicated group attribute","group=\"book\""],["no-duplicate",101,309,"duplicated group attribute","group=\"book\""]]

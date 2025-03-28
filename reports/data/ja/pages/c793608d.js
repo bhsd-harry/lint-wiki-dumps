@@ -1,0 +1,1 @@
+window.data=[["tag-like",193,22,"lonely \"<\"","<ref"],["no-ignored",192,36,"containing invalid attribute"," /）\n * 小仙波貝塚（昭和33年3月6日指定）<ref "],["no-duplicate",192,22,"duplicated name attribute","name=川越市の指定文化財"],["no-duplicate",193,27,"duplicated name attribute","name=川越市記念物一覧"]]

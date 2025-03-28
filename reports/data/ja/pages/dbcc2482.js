@@ -1,0 +1,1 @@
+window.data=[["no-ignored",49,1,"invalid content in <gallery>"," {{-}}本節では共通部分について記述し、各仕様特有の構造については後段にて説明する。"],["no-ignored",76,35,"containing invalid attribute","   font-size:90%;\""],["no-ignored",85,35,"containing invalid attribute","   font-size:90%;\""],["illegal-attr",202,49,"illegal attribute name","styles"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",17,265,"internal link in an external link","[[小川清 (通信技術者)|小川清]]"],["nested-link",17,289,"internal link in an external link","[[渡辺尚]]"],["nested-link",17,539,"internal link in an external link","[[中山雅哉]]"]]

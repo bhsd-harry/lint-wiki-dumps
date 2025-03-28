@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",67,299,"unmatched closing tag","</small>"],["lonely-http",106,213,"lonely \"ISBN\"","ISBN"],["lonely-http",235,355,"lonely \"ISBN\"","ISBN"],["lonely-http",289,225,"lonely \"ISBN\"","ISBN"]]

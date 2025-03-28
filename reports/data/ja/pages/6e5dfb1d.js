@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",3007,17,"illegal attribute name","7001"],["no-ignored",3007,3,"containing invalid attribute","改番・観光列車化(キハ47 "],["lonely-bracket",5036,265,"lonely \"[\"","[["],["lonely-bracket",5441,171,"lonely \"[\"","[["]]

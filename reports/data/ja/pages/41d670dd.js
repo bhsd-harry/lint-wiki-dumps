@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",60,7,"duplicated style attribute","style=\"background-color: #000; color: #fff;\""],["no-duplicate",60,51,"duplicated style attribute","style=\"background-color: green; color: #fff;\""]]

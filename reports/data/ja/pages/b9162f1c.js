@@ -1,0 +1,1 @@
+window.data=[["no-ignored",63,17,"containing invalid attribute","  \n * 特技：くまモン体操とサプライズを見つけて広げること\n "]]

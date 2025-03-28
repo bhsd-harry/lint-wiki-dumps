@@ -1,0 +1,1 @@
+window.data=[["tag-like",128,229,"lonely \"<\"","<ref"],["no-ignored",128,188,"containing invalid attribute","/の軍とともにカヘティへ移動し、その後ディドエティのダヴィトによる支配下に置かれた<ref "],["no-duplicate",128,171,"duplicated name attribute","name=\"Brosset209\""],["no-duplicate",128,234,"duplicated name attribute","name=\"AD122\""]]

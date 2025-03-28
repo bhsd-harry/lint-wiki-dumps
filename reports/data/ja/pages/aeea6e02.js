@@ -1,0 +1,1 @@
+window.data=[["tag-like",72,66,"lonely \"<\"","<img"],["tag-like",126,76,"lonely \"<\"","<audio"],["tag-like",126,90,"lonely \"<\"","<video"]]

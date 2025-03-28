@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",15,4,"lonely \"[\"","[["],["lonely-bracket",15,16,"lonely \"]\"","]]"],["lonely-bracket",15,36,"lonely \"[\"","[["],["lonely-bracket",15,54,"lonely \"]\"","]]"],["no-ignored",15,4,"containing invalid attribute","[[テツandトモ|トモ]]（テツandトモ）||11月3日||[[柴田徹 (アナウンサー)|柴田徹]]"]]

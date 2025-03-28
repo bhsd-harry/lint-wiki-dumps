@@ -1,0 +1,1 @@
+window.data=[["nested-link",25,257,"internal link in an external link","[[:en:Diurnality|diurnal]]"]]

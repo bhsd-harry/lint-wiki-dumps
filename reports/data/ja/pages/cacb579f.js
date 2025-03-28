@@ -1,0 +1,1 @@
+window.data=[["no-ignored",107,1,"invalid content in <gallery>"," * 車両の[[夜間滞泊|夜間留置]]は行わず富山駅との間で回送列車が設定されている。"]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",62,5,"lonely \"[\"","[["],["lonely-bracket",62,15,"lonely \"]\"","]]"],["no-ignored",62,4,"containing invalid attribute","　[[ジャン・ギャバン]]と共演"]]

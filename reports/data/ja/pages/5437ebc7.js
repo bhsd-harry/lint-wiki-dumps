@@ -1,0 +1,1 @@
+window.data=[["nested-link",56,413,"internal link in an external link","[[:fr:Orly|Wikipedia仏語版]]"]]

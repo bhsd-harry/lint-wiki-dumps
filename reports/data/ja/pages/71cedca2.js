@@ -1,0 +1,1 @@
+window.data=[["no-ignored",61,31,"containing invalid attribute"," =  \"financialpost27012022\""]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",118,30,"lonely \"[\"","[["],["lonely-bracket",118,42,"lonely \"]\"","]]"],["no-duplicate",118,30,"duplicated image caption parameter","[[黄金山 (広島市)"],["no-duplicate",118,42,"duplicated image caption parameter","]]から撮影された[[パルラーダ_(防護巡洋艦)|パルラーダ]]とペレスヴェート（右）"]]

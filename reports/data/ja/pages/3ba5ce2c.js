@@ -1,0 +1,1 @@
+window.data=[["nested-link",30,374,"internal link in an external link","[[バッファオーバーフロー]]"],["nested-link",30,491,"internal link in an external link","[[バッファオーバーフロー]]"]]

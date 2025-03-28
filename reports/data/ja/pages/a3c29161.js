@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,18,"useless link text","|第2次オイルショック（第2次石油危機）"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",147,1499,"duplicated name attribute","name=ref"],["no-duplicate",147,1508,"duplicated name attribute","name=\"logi-today.25065\""]]

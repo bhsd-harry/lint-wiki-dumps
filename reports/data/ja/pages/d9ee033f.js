@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",47,46,"duplicated image center parameter","center"],["no-duplicate",47,59,"duplicated image center parameter","center"]]

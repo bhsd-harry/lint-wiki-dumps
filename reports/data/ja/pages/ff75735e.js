@@ -1,0 +1,1 @@
+window.data=[["nested-link",39,102,"internal link in an external link","[[ロンドン・スクール・オブ・エコノミクス]]"],["nested-link",39,127,"internal link in an external link","[[国内避難民]]"]]

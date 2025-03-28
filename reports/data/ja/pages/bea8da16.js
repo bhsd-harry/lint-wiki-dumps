@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",134,25,"lonely \"[\"","[["],["lonely-bracket",134,32,"lonely \"]\"","]]"],["no-ignored",134,4,"containing invalid attribute","||{{flag|フェロー諸島}} || [[ミキネス島]]の西にある岩 || 7°47'W ||"]]

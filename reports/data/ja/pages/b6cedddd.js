@@ -1,0 +1,1 @@
+window.data=[["nested-link",39,119,"internal link in an external link","[[フジテレビジョン|フジテレビ]]"],["nested-link",39,138,"internal link in an external link","[[新堂本兄弟]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1791,3,"containing invalid attribute","2億4千万の瞳"],["illegal-attr",1796,3,"illegal attribute name","Cool"],["illegal-attr",1796,8,"illegal attribute name","LABYRINTH"]]

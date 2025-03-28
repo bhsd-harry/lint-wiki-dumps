@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",17,93,"illegal attribute name","small"],["invalid-css",275,50,"semi-colon expected",""],["no-ignored",275,50,"containing invalid attribute"," Linotype',Palatino"]]

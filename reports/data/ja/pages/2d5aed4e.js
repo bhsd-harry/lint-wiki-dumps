@@ -1,0 +1,1 @@
+window.data=[["invalid-gallery",30,31,"invalid image parameter","中央"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",253,3,"containing invalid attribute"," 中国国鉄NZJ1型ディーゼル機関車"],["no-ignored",259,3,"containing invalid attribute"," 中国国鉄NZJ2型ディーゼル機関車"],["no-ignored",273,3,"containing invalid attribute"," 中国国鉄DDJ1型電車"]]

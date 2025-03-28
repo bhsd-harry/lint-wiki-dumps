@@ -1,0 +1,1 @@
+window.data=[["no-ignored",31,31,"containing invalid attribute","  mw-collapsible\"  "],["illegal-attr",36,3,"illegal attribute name","nowrap"],["illegal-attr",151,42,"illegal attribute name","nowrap"],["illegal-attr",157,41,"illegal attribute name","nowrap"]]

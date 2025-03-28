@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,84,"duplicated name attribute","name=ref"],["no-duplicate",3,93,"duplicated name attribute","name=\"nagahara\""]]

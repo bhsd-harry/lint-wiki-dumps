@@ -1,0 +1,1 @@
+window.data=[["nested-link",19,209,"internal link in an external link","[[利用者‐会話:CB750#要約欄などについて]]"]]

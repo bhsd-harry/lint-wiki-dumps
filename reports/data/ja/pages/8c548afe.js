@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",81,285,"duplicated parameter","publisher=アニメハック"],["no-duplicate",81,302,"duplicated parameter","publisher=[[映画.com|エイガ・ドット・コム]]"]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",64,64,"lonely \"]\"","]"],["lonely-bracket",65,58,"lonely \"]\"","]"]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",47,20,"illegal attribute name","sortable"],["illegal-attr",60,18,"illegal attribute name","colspan"],["no-ignored",60,4,"containing invalid attribute","!align=center "],["illegal-attr",71,20,"illegal attribute name","sortable"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",75,1,"invalid content in <gallery>"," <small>（農道交差地点か管理棟を望む）</small>"]]

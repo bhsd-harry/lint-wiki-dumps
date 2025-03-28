@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",61,3,"duplicated rowspan attribute","rowspan=\"4\""],["no-duplicate",61,16,"duplicated rowspan attribute","rowspan=\"4\""],["no-duplicate",77,3,"duplicated rowspan attribute","rowspan=\"3\""],["no-duplicate",77,16,"duplicated rowspan attribute","rowspan=\"3\""]]

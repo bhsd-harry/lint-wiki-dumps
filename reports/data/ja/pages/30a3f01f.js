@@ -1,0 +1,1 @@
+window.data=[["nested-link",68,251,"internal link in an external link","[[長崎街道]]"],["lonely-http",302,53,"lonely \"ISBN\"","ISBN"],["lonely-http",303,53,"lonely \"ISBN\"","ISBN"]]

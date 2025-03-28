@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",157,7,"illegal attribute name","LIVE-GYM"],["no-ignored",157,3,"containing invalid attribute","B'z "],["illegal-attr",238,3,"illegal attribute name","nowrap"],["illegal-attr",239,17,"illegal attribute name","nowrap"],["illegal-attr",817,3,"illegal attribute name","nowrap"]]

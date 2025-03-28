@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",53,59,"illegal attribute name","padding:"],["no-ignored",53,32,"containing invalid attribute","  width:70%; float:center; "],["no-ignored",53,67,"containing invalid attribute"," 10px; display:table; margin-left:80px;\""]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",62,17,"duplicated style attribute","style=\"text-align: center; font-weight:bold;\""],["no-duplicate",62,64,"duplicated style attribute","style=\"{{CollegePrimaryStyle|California Golden Bears}}\""]]

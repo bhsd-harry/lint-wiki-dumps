@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",33,16,"illegal attribute name","cellspacing"],["illegal-attr",33,33,"illegal attribute name","cellpadding"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",83,1,"invalid parameter of <inputbox>"," type=create"],["no-ignored",84,1,"invalid parameter of <inputbox>"," width=50"],["no-ignored",85,1,"invalid parameter of <inputbox>"," buttonlabel=新規記事の作成"],["no-ignored",86,1,"invalid parameter of <inputbox>"," placeholder=記事名を入力してください"],["no-ignored",87,1,"invalid parameter of <inputbox>"," "]]

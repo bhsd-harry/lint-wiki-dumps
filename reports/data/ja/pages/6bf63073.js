@@ -1,0 +1,1 @@
+window.data=[["nested-link",74,163,"internal link in an external link","[[欧州議会]]"],["nested-link",74,172,"internal link in an external link","[[欧州理事会|理事会]]"]]

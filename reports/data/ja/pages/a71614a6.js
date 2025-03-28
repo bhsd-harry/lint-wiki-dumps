@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",458,46,"duplicated image caption parameter","リンク=https://en.wikipedia.org/wiki/File:Analisa Torres (Judge) (cropped).jpg"],["no-duplicate",458,147,"duplicated image caption parameter","2020年12月から始まったSEC対Ripple訴訟を担当した[[:en:Analisa Torres|アナリサ・トーレス]]判事"]]

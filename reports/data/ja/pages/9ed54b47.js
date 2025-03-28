@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",43,8,"duplicated parameter","\n === 技 ===\n *[[DRAGON QUEST -ダイの大冒険- の呪文・技#大地斬|大地斬]]\n **[[DRAGON QUEST -ダイの大冒険- の呪文・技#火炎大地斬|火炎大地斬]]"],["no-duplicate",57,3,"duplicated parameter","\n === 呪文 ===\n ※がついているものは紋章発動時のみ使える呪文。\n *[[DRAGON QUEST -ダイの大冒険- の呪文・技#真空系呪文|真空呪文]]（バギ・バギマ・※バギクロス）\n *"]]

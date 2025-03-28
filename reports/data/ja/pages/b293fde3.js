@@ -1,0 +1,1 @@
+window.data=[["no-ignored",91,3,"containing invalid attribute","川田隆 (プロ雀士)"]]

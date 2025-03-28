@@ -1,0 +1,1 @@
+window.data=[["no-ignored",109,4,"containing invalid attribute","||1964.2.21||エッカー実験場||　||未確認"]]

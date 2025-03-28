@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",2964,3,"illegal attribute name","Fate"],["illegal-attr",2964,8,"illegal attribute name","stay_night"]]

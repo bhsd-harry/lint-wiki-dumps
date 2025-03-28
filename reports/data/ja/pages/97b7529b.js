@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",1066,5,"illegal attribute name","wikiclass"]]

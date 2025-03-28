@@ -1,0 +1,1 @@
+window.data=[["no-ignored",80,4,"containing invalid attribute","第2回研究会は2000年7月大阪歯科大教授を会長に一般演題34題，第3回研究会は2001年6月明海大学山本美朗教授を会長に開催され、"]]

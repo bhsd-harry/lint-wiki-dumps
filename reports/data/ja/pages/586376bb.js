@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",12,2,"duplicated category","[[Category:Windows用ゲームソフト]]"],["no-duplicate",15,2,"duplicated category","[[Category:Windows用ゲームソフト]]"]]

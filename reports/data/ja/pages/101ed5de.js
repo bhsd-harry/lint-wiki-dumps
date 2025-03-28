@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",429,10,"illegal attribute name","has"],["no-ignored",429,4,"containing invalid attribute","℃-ute "],["no-ignored",429,13,"containing invalid attribute"," come.〜キュートガヤッテキタ〜 ||2007年8月1日||極秘指令!℃-uteの魅力をあなたなりの方法で伝えてください。未公開映像収録"]]

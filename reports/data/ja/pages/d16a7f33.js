@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",27,8,"duplicated parameter","\n === DISC1「シンセサイザー版」 ===\n # 序曲IX\n # 天の祈り\n # 王宮のオーボエ\n # 来たれわが街へ\n # 夢見るわが街\n # 酒場のポルカ\n # 陽だまりの村\n # 村の夕"],["no-duplicate",57,3,"duplicated parameter","\n === DISC2「オリジナル サウンドトラック」 ===\n # 序曲IX\n # インテルメッツォ（[[ドラゴンクエストIV 導かれし者たち|DQIV]]）\n # 天の祈り\n # 王宮のオーボエ\n"]]

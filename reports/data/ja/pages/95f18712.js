@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",1775,68,"unmatched closing tag","</span>"],["no-duplicate",1786,33,"duplicated style attribute","style=\"font-size: 85%\""],["no-duplicate",1786,86,"duplicated style attribute","style=\"border-collapse:collapse\""]]

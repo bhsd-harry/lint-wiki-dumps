@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",236,94,"duplicated group attribute","group=\"幌延町\""],["no-duplicate",236,107,"duplicated group attribute","group=\"幌延町\""]]

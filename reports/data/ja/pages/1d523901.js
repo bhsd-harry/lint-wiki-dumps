@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",143,8,"duplicated parameter","\n ===警察===\n *[[守山警察署 (滋賀県)|滋賀県守山警察署]]（守山市金森町494）\n "],["no-duplicate",146,3,"duplicated parameter","\n ===消防===\n *北消防署（守山市石田町377-1）\n "],["no-duplicate",149,3,"duplicated parameter","\n ===医療===\n ;主な病院\n *[[守山市民病院]]（守山市守山四丁目14番1号）\n *[[滋賀県立総合病院]]（守山市守山五丁目4番30号）\n *[[滋賀県立小児保健医療センター]]（守山市"]]

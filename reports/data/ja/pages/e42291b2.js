@@ -1,0 +1,1 @@
+window.data=[["nested-link",48,82,"internal link in an external link","[[Wikipedia:管理者の解任/ＮｉＫｅ 20080110‎|勇気ある行動]]"]]

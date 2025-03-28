@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",203,1924,"duplicated name attribute","name=\"秋田県\""],["no-duplicate",203,1936,"duplicated name attribute","name=\"秋田県\""]]

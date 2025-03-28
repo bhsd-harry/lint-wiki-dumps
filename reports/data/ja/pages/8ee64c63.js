@@ -1,0 +1,1 @@
+window.data=[["no-ignored",36,1,"invalid content in <gallery>"," {{Commons|Sphynx (cat)}}"]]

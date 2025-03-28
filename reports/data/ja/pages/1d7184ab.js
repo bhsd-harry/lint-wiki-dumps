@@ -1,0 +1,1 @@
+window.data=[["nested-link",20,274,"internal link in an external link","[[国際単位系]]"]]

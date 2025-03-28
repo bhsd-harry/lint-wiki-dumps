@@ -1,0 +1,1 @@
+window.data=[["no-ignored",81,1,"invalid content in <gallery>"," File:Flag of Shinminato, Toyama (1951–2005).svg[[新湊市]]<ref>[http://warp.da.ndl.go.jp/info:ndljp/pid"]]

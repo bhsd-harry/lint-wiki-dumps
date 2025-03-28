@@ -1,0 +1,1 @@
+window.data=[["no-ignored",75,23,"containing invalid attribute","|gallery "]]

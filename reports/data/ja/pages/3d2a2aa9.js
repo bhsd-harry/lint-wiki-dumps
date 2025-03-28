@@ -1,0 +1,1 @@
+window.data=[["pipe-like",44,36,"additional \"|\" in a table cell","||数学における増分・対称差・ラプラス演算子を意味する。"]]

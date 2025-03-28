@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1029,7,"containing invalid attribute","コンチェルト (お笑いコンビ)"],["no-ignored",1067,7,"containing invalid attribute","カブレラ (お笑いコンビ)"],["no-ignored",1170,7,"containing invalid attribute","カキツバタ (お笑いコンビ)"],["no-ignored",1342,6,"containing invalid attribute","アキレスと亀 (お笑い)"]]

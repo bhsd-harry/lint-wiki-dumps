@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:自動車メーカー別の人物]]"],["no-duplicate",8,2,"duplicated category","[[Category:自動車メーカー別の人物|へんとれえ]]"]]

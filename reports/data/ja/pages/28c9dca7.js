@@ -1,0 +1,1 @@
+window.data=[["nested-link",3,394,"internal link in an external link","[[Weblio]]"]]

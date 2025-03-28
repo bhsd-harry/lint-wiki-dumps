@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",33,2,"duplicated category","[[Category:1946年生]]"],["no-duplicate",34,2,"duplicated category","[[Category:1946年生]]"]]

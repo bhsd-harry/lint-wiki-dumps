@@ -1,0 +1,1 @@
+window.data=[["no-ignored",25,4,"containing invalid attribute"," 2電子が2原子間で共有されている共有結合"]]

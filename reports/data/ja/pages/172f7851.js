@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",426,16,"duplicated category","[[Category:日本のグラフィックデザイナー|グラフィックデザイン]]"],["no-duplicate",464,2,"duplicated category","[[Category:日本のグラフィックデザイナー]]"]]

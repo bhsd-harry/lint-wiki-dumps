@@ -1,0 +1,1 @@
+window.data=[["no-ignored",140,4,"useless fragment","ファイル:M16A1_M203.jpg#file"],["no-ignored",149,4,"useless fragment","ファイル:M16A2_2.jpg#file"]]

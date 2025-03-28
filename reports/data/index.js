@@ -1,1 +1,1 @@
-window.data=["cdo","gan","hak","simple","wuu","zh","zh-classical","zh-min-nan","zh-yue"]
+window.data=["cdo","gan","hak","ja","simple","wuu","zh","zh-classical","zh-min-nan","zh-yue"]

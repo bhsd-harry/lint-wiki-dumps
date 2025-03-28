@@ -1,0 +1,1 @@
+window.data=[["no-ignored",63,3,"containing invalid attribute"," 2022年12月28日"],["no-ignored",66,3,"containing invalid attribute"," 2023年6月21日"],["no-ignored",69,3,"containing invalid attribute"," 2023年7月5日"],["no-ignored",72,3,"containing invalid attribute"," 2023年8月25日"],["no-ignored",75,3,"containing invalid attribute"," 2023年10月27日"]]

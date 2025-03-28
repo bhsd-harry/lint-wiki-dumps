@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",184,174,"duplicated name attribute","name=\"注\""],["no-duplicate",184,184,"duplicated name attribute","name=\"madein\""]]

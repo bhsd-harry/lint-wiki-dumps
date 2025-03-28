@@ -1,0 +1,1 @@
+window.data=[["no-ignored",127,20,"containing invalid attribute","前1745? - 前1705年頃?"]]

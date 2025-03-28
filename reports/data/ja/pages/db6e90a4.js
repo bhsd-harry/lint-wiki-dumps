@@ -1,0 +1,1 @@
+window.data=[["nested-link",64,61,"internal link in an external link","[[ミハイル・ゴルバチョフ|ゴルバチョフ]]"],["nested-link",64,90,"internal link in an external link","[[ウラジーミル・レーニン|レーニン]]"],["nested-link",64,111,"internal link in an external link","[[ダムディン・スフバートル|スフバートル]]"]]

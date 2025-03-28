@@ -1,0 +1,1 @@
+window.data=[["invalid-css",105,35,"colon expected",";"],["no-duplicate",105,24,"duplicated style attribute","style=\"none; margin: 0.5em; background:#ffffff\""],["no-duplicate",105,73,"duplicated style attribute","style=\"font-size:95%;\""]]

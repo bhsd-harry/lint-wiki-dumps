@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",53,8,"duplicated parameter","\n === 長編映画 ===\n * 2013年 [[「僕の戦争」を探して]]\n * 2013年 Temporal\n * 2015年 Solo química\n * 2015年 Cómo sobrevi"],["no-duplicate",81,3,"duplicated parameter","\n === テレビ ===\n * 2012年 El gran día de los feos\n * 2015年 Bajo sospecha\n * 2016年 Web Therapy\n * 2016年 "]]

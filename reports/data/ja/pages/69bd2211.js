@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",43,52,"duplicated image caption parameter","リンク=https://en.wikipedia.org/wiki/File:Kubernetes talk at Google Cloud Summit.jpg"],["no-duplicate",43,140,"duplicated image caption parameter","Google Container Engine/Kubernetesに関するカンファレンスでのプレゼンテーションの様子"]]

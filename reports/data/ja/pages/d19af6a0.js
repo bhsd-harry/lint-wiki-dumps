@@ -1,0 +1,1 @@
+window.data=[["invalid-css",7,73,"colon expected",";"],["no-duplicate",7,17,"duplicated cellspacing attribute","cellspacing=\"0\""],["no-duplicate",7,34,"duplicated cellspacing attribute","cellspacing=\"5\""]]

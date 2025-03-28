@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",12,2,"duplicated category","[[Category:アゼルバイジャンの芸術|けんちく]]"],["no-duplicate",13,36,"duplicated category","[[Category:アゼルバイジャンの芸術|けんちく]]"]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-http",849,6,"lonely \"https://\"","https://"],["illegal-attr",849,14,"illegal attribute name","www.youtube.com"],["no-ignored",849,4,"containing invalid attribute","「[https://"],["no-ignored",849,29,"containing invalid attribute","/watch?v=0LEMlbpx6jU NOTHING]」"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",37,71,"duplicated image caption parameter","{{BSpx}}"],["no-duplicate",37,80,"duplicated image caption parameter","大丸"],["no-duplicate",38,72,"duplicated image caption parameter","{{BSpx}}"],["no-duplicate",38,81,"duplicated image caption parameter","小丸"]]

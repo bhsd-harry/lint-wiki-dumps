@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",89,5,"duplicated id attribute","id=\"Allegro\""],["no-duplicate",89,19,"duplicated id attribute","id=\"Allo\""]]

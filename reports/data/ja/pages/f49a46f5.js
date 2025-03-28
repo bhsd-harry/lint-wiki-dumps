@@ -1,0 +1,1 @@
+window.data=[["no-ignored",10,60,"containing invalid attribute","  \"color:black;\""],["no-duplicate",10,5,"duplicated align attribute","align=\"center\""],["no-duplicate",10,21,"duplicated align attribute","align=center"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",43,152,"containing invalid attribute","  white-space:nowrap;\""],["lonely-bracket",257,91,"lonely \"[\"","["]]

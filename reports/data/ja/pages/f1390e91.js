@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",126,4,"illegal attribute name","vlign"],["invalid-css",138,23,"property value expected","#"],["illegal-attr",176,4,"illegal attribute name","vlign"],["invalid-css",188,23,"property value expected","#"],["invalid-css",258,20,"} expected","\""],["invalid-css",330,29,"property value expected","#"],["invalid-css",330,42,"{ expected",":"]]

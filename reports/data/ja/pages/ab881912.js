@@ -1,0 +1,1 @@
+window.data=[["parsing-order",173,16,"HTML tag in table attributes","<br />"],["parsing-order",173,32,"HTML tag in table attributes","<br />"],["no-ignored",173,3,"containing invalid attribute","三菱UFJキャピタル（株）<br />  （代表者）安藤啓<br />  （所在地）東京都中央区日本橋1丁目7番17号"]]

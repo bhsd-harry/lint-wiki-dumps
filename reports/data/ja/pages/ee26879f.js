@@ -1,0 +1,1 @@
+window.data=[["nested-link",6,244,"internal link in an external link","[[関西国際空港]]"]]

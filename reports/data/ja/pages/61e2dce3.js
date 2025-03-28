@@ -1,0 +1,1 @@
+window.data=[["invalid-css",169,29,"property value expected","#silver"],["invalid-css",180,29,"property value expected","#silver"],["no-duplicate",218,43,"duplicated group attribute","group=\"注\""],["no-duplicate",218,54,"duplicated group attribute","group=\"注\""],["unescaped",266,63,"unescaped query string in an anonymous parameter","="]]

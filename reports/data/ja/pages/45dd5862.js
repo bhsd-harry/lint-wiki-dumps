@@ -1,0 +1,1 @@
+window.data=[["parsing-order",619,4,"HTML tag in table attributes","<s>"],["no-ignored",619,3,"containing invalid attribute"," <s>rowspan=\"2\""],["unmatched-tag",619,19,"unmatched closing tag","</s>"]]

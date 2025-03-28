@@ -1,0 +1,1 @@
+window.data=[["no-ignored",111,1,"invalid content in <gallery>"," ファイル:GP1.JPG[[カラビネーロス・デ・チレ]]隊員"]]

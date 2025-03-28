@@ -1,0 +1,1 @@
+window.data=[["no-ignored",11,4,"useless fragment","File:Coleridge_Cottage_1797.jpg#/media/File:Coleridge_Cottage_1797.jpg"],["no-ignored",19,4,"useless fragment","File:Tom_Poole%27s_grave.jpg#/media/File:Tom_Poole%27s_grave.jpg"]]

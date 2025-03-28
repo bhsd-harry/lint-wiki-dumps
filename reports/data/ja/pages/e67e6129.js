@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",7,2,"duplicated category","[[Category:紀元前4世紀の君主]]"],["no-duplicate",9,2,"duplicated category","[[Category:紀元前4世紀の君主]]"],["no-duplicate",8,2,"duplicated category","[[Category:シケリア戦争]]"],["no-duplicate",10,2,"duplicated category","[[Category:シケリア戦争]]"]]

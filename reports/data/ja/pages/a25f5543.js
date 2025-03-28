@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",3979,58,"illegal attribute name","552n:Book"],["illegal-attr",3979,68,"illegal attribute name","of"],["illegal-attr",3979,71,"illegal attribute name","the"],["illegal-attr",3979,75,"illegal attribute name","Dead"],["lonely-bracket",3979,96,"lonely \"]\"","]]"],["lonely-bracket",4048,45,"lonely \"[\"","[["]]

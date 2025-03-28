@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",134,94,"duplicated image caption parameter","<!-- left|300px -->alt=2人の女、隼の頭をした神、長い山羊鬚のある黒髪の男、ジャッカルの頭をした神が彫られ彩色されている薄灰色の石。上部にはヒエログリフが刻まれている"],["no-duplicate",134,189,"duplicated image caption parameter","神々と共にある[[アメンエムハト1世]]を描いたレリーフ。アメンエムハト1世の死は『[[シヌヘの物語]]』において[[センウセレト1世]]により報告されている"]]

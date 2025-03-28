@@ -1,0 +1,1 @@
+window.data=[["parsing-order",45,4,"HTML tag in table attributes","<br />"],["lonely-bracket",45,13,"lonely \"[\"","[["],["lonely-bracket",45,32,"lonely \"]\"","]]"],["lonely-bracket",45,51,"lonely \"[\"","[["],["lonely-bracket",45,56,"lonely \"]\"","]]"],["no-ignored",45,4,"containing invalid attribute","<br />/松山[[NHK総合テレビジョン|総合テレビ]]||7ch||rowspan=3|[[愛媛県]]"]]

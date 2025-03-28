@@ -1,0 +1,1 @@
+window.data=[["no-ignored",274,1,"invalid content in <gallery>"," [[ファイル:イメージ|サムネイル|http://blogs.yahoo.co.jp/touhokuhonsendaisuki/GALLERY/show_image.html?id=31733156"]]

@@ -1,0 +1,1 @@
+window.data=[["parsing-order",393,11,"HTML tag in table attributes","<br />"],["no-ignored",393,7,"containing invalid attribute","伝送交換<br />主任技術者{{efn2|従前の第一種伝送交換主任技術者を含む。}}"]]

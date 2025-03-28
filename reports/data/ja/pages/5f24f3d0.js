@@ -1,0 +1,1 @@
+window.data=[["no-ignored",297,75,"containing invalid attribute","UEFAヨーロッパリーグ"]]

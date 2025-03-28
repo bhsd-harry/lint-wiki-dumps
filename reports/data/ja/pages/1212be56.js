@@ -1,0 +1,1 @@
+window.data=[["parsing-order",392,4,"extension tag in HTML tag attributes","<ref>https://commandmagazine.jp/com/160/index.html</ref>"],["no-ignored",392,4,"containing invalid attribute","<ref>https://commandmagazine.jp/com/160/index.html</ref>"]]

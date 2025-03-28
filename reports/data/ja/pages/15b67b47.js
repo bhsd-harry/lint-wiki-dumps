@@ -1,0 +1,1 @@
+window.data=[["tag-like",52,208,"lonely \"<\"","<ref"],["no-ignored",52,124,"containing invalid attribute","。1937年11月29日に漂水県の空襲において民間人1200人余り、家屋数千戸の被害を出したのを始め、12月4日から5日にかけて句容県倪塘村で120名あまりが殺害された<ref "],["no-duplicate",52,108,"duplicated name attribute","name=\"笠原1997p83\""],["no-duplicate",52,213,"duplicated name attribute","name=\"笠原1997p83\""]]

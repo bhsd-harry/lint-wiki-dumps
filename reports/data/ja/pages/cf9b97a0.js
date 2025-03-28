@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",352,9,"illegal attribute name","TW"],["illegal-attr",352,12,"illegal attribute name","6000"],["no-ignored",352,3,"containing invalid attribute","Düwag "]]

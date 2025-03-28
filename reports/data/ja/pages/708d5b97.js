@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",1,82,"illegal attribute name","font"],["no-ignored",25,6,"containing invalid attribute","|-||'''開平工商職業学校'''と改称し，電子設備修護科、汽車修護科、電工科、総合商業科を設置"]]

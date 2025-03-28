@@ -1,0 +1,1 @@
+window.data=[["no-ignored",427,4,"containing invalid attribute"," !style=\"vertical-align:middle\""],["no-ignored",573,7,"attributes of a closing tag"," style=\"display:none;\""],["unmatched-tag",573,2,"unmatched closing tag","</div style=\"display:none;\">"]]

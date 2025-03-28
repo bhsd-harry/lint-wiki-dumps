@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",189,3,"duplicated colspan attribute","colspan=\"2\""],["no-duplicate",189,29,"duplicated colspan attribute","colspan=\"3\""]]

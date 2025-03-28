@@ -1,0 +1,1 @@
+window.data=[["nested-link",108,129,"internal link in an external link","[[スペイン国立統計局]]"],["invalid-css",178,84,"colon expected",";"],["unmatched-tag",230,2,"unmatched closing tag","</table>"],["illegal-attr",233,9,"illegal attribute name","height"],["unmatched-tag",335,2,"unmatched closing tag","</p>"]]

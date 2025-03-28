@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",40,4,"lonely \"[\"","[["],["lonely-bracket",40,15,"lonely \"]\"","]]"],["tag-like",40,21,"lonely \"<\"","<ref"],["no-ignored",39,41,"containing invalid attribute","/「\n * [[桐生市立昭和中学校]]（同上）<ref "],["no-duplicate",39,25,"duplicated name attribute","name=\"桐生市立中央中学校\""],["no-duplicate",40,26,"duplicated name attribute","name=\"桐生市立中央中学校\""]]

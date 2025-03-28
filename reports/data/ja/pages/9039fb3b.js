@@ -1,0 +1,1 @@
+window.data=[["no-ignored",18,118,"containing invalid attribute","肺の持病が悪化。"]]

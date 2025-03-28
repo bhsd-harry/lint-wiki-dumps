@@ -1,0 +1,1 @@
+window.data=[["nested-link",164,90,"internal link in an external link","[[1985年オーストリアグランプリ|Austrian Grand Prix]]"]]

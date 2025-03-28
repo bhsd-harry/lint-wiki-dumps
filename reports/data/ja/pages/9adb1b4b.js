@@ -1,0 +1,1 @@
+window.data=[["no-ignored",78,55,"containing invalid attribute","  !rowspan=\"3\"  "]]

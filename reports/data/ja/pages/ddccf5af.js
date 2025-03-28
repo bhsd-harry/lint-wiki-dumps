@@ -1,0 +1,1 @@
+window.data=[["unclosed-comment",140,150,"unclosed HTML comment","<!--そのタイトルの文献が見つからない。「世界宗教用語大事典」ISBN 4404031386 の誤りか？"]]

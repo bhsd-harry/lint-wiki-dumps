@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",19,4,"duplicated category","[[Category:文化と芸術関連のウィキプロジェクト]]"],["no-duplicate",50,2,"duplicated category","[[Category:文化と芸術関連のウィキプロジェクト]]"]]

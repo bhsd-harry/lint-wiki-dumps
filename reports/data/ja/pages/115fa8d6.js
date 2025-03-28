@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",77,10,"illegal attribute name","permanent"],["no-ignored",77,3,"containing invalid attribute"," Accès "],["illegal-attr",179,10,"illegal attribute name","permanent"],["no-ignored",179,3,"containing invalid attribute"," Accès "],["illegal-attr",247,10,"illegal attribute name","permanent"],["no-ignored",247,3,"containing invalid attribute"," Accès "]]

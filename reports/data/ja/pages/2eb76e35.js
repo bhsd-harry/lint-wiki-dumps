@@ -1,0 +1,1 @@
+window.data=[["tag-like",92,51,"lonely \"<\"","<ref"],["no-ignored",88,104,"containing invalid attribute","  /。\n\n == 主要新作レーベルと活動期間、発売会社の変遷 ==\n '''芳友舎（新）は現・芳友舎（旧・芳友舎J）を示す'''\n *サム （SAMM）（1981年～2004年）…サム→芳友舎→芳友"],["no-duplicate",88,95,"duplicated name attribute","name=\":0\""],["no-duplicate",92,56,"duplicated name attribute","name=\":0\""]]

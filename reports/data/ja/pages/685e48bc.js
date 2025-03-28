@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,41,"useless link text","|THE BEST OF MAGI"]]

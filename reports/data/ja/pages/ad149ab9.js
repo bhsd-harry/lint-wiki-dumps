@@ -1,0 +1,1 @@
+window.data=[["no-ignored",314,1,"invalid content in <gallery>"," File:Young Fish-hawks NGM-v31-p303.jpg[[ミサゴ]]の雛（''National Geographic Magazine'' 1917年4月号）"]]

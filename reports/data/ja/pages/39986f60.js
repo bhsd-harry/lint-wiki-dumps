@@ -1,0 +1,1 @@
+window.data=[["no-ignored",101,4,"containing invalid attribute","!左構造規則:!右構造規則:"]]

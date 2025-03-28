@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",61,50,"duplicated image caption parameter","px"],["no-duplicate",61,53,"duplicated image caption parameter","ザ・クロスでギターを弾くロジャー"]]

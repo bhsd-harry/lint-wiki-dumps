@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",527,82,"illegal attribute name","KID"],["no-ignored",527,85,"containing invalid attribute"," (ゲームブランド)"]]

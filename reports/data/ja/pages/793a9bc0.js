@@ -1,0 +1,1 @@
+window.data=[["invalid-css",491,22,"property value expected","#"],["invalid-css",523,22,"property value expected","#"]]

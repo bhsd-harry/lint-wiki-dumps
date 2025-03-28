@@ -1,0 +1,1 @@
+window.data=[["tag-like",25,78,"lonely \"<\"","</img"]]

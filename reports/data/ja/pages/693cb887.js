@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:正体不明の人物]]"],["no-duplicate",4,2,"duplicated category","[[Category:正体不明の人物]]"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",6,122,"internal link in an external link","[[利用者:ロックオン・媚・ブリタニア|ロックオン・媚・ブリタニア]]"],["nested-link",9,121,"internal link in an external link","[[利用者:ロックオン・媚・ブリタニア|ロックオン・媚・ブリタニア]]"],["nested-link",14,158,"internal link in an external link","[[利用者:ロックオン・媚・ブリタニア|ロックオン・媚・ブリタニア]]"]]

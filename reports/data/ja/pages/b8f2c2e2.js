@@ -1,0 +1,1 @@
+window.data=[["tag-like",78,192,"lonely \"<\"","</nowiki"],["lonely-http",735,7,"lonely \"https://\"","https://"],["lonely-bracket",1173,4,"lonely \"[\"","[["],["lonely-bracket",1173,164,"lonely \"]\"","]]"],["lonely-bracket",1435,31,"lonely \"[\"","[["],["lonely-bracket",1435,34,"lonely \"]\"","]]"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",154,125,"internal link in an external link","[[:en:WikiArt|WikiArt]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",63,1,"invalid content in <gallery>"," File:Freightliner FLA 606121-606122 at Didcot.JPG連結器より低い、超低床貨車と架線の高さに注目。（[[ウェールズ]]）"]]

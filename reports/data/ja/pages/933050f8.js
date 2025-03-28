@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",9,31,"illegal attribute name","rel"],["illegal-attr",11,5,"illegal attribute name","scope"],["illegal-attr",17,5,"illegal attribute name","href"],["illegal-attr",17,20,"illegal attribute name","rel"]]

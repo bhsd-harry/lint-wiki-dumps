@@ -1,0 +1,1 @@
+window.data=[["nested-link",36,390,"internal link in an external link","[[オールミュージック|Allmusic]]"],["lonely-apos",46,28,"lonely \"'\"","'"]]

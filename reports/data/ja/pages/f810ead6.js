@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",149,8,"duplicated parameter","\n === 関連人物 ===\n * [[多賀谷朝経|多賀谷高経（朝経）]]\n * [[多賀谷政広]]\n * [[岩城宣隆|多賀谷宣家（岩城宣隆）]]\n * [[多賀谷茂光]]\n * [[結城秀康]]\n"],["no-duplicate",157,3,"duplicated parameter","\n === 関連氏族 ===\n * [[結城氏]]\n * [[佐竹氏]]\n * [[岩城氏]]\n * [[金子氏]] \n "]]

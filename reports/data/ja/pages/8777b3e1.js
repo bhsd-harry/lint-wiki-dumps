@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",265,404,"unmatched closing tag","</small>"],["no-ignored",335,129,"containing invalid attribute"," RKBエキサイトホークス "]]

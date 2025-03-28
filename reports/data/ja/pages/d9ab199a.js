@@ -1,0 +1,1 @@
+window.data=[["nested-link",64,293,"internal link in an external link","[[国際連合教育科学文化機関|UNESCO]]"]]

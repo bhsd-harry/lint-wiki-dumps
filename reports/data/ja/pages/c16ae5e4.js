@@ -1,0 +1,1 @@
+window.data=[["no-ignored",241,49,"containing invalid attribute","1972年度新人選手選択会議 (日本プロ野球)"]]

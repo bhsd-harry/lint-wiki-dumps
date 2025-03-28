@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,43,"useless link text","|予防接種のための国際金融ファシリティ"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",35,75,"internal link in an external link","[[利用者:アルトクール|アルトクール]]"]]

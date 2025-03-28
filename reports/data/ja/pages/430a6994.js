@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",340,3,"illegal attribute name","nowrap"],["illegal-attr",387,3,"illegal attribute name","nowrap"],["illegal-attr",436,3,"illegal attribute name","nowrap"],["no-ignored",836,3,"containing invalid attribute","2011年（平成23年）10月"],["illegal-attr",867,4,"illegal attribute name","colspan"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",32,11,"invalid content in <gallery>","海岸付近の耕作地の縁に群生しているのがよく見られるとも<ref>谷城(2007),p.139</ref>。"]]

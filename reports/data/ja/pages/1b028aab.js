@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",219,37,"duplicated image caption parameter","page=1"],["no-duplicate",219,61,"duplicated image caption parameter","アメリカ陸軍のブラッドレイ・マニングは、ウィキリークスに機密の文書を渡したかどで告発された<ref name=pogo>\n [https://archive.is/20130105024259/htt"]]

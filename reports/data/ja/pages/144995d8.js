@@ -1,0 +1,1 @@
+window.data=[["no-ignored",110,45,"containing invalid attribute"," name-\"バイオエナジーお知らせ\"=\"\""],["no-ignored",112,50,"containing invalid attribute"," name-\"バイオエナジーお知らせ（新エネ大賞））\"=\"\""]]

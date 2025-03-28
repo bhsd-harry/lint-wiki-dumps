@@ -1,0 +1,1 @@
+window.data=[["no-ignored",95,21,"containing invalid attribute","  \"font-size:small;\""],["illegal-attr",96,3,"illegal attribute name","C"],["illegal-attr",96,16,"illegal attribute name","C"],["invalid-css",470,31,"} expected",";"],["invalid-css",470,47,"{ expected",""]]

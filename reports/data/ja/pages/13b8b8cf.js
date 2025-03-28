@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",69,55,"lonely \"'\"","'"],["pipe-like",266,42,"additional \"|\" in a table cell"," Episode: \"The Power of Euphemism: How Torture Became\n a Matter of Debate in American Politics\"  ||"]]

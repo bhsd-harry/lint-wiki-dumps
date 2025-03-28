@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",62,3,"illegal attribute name","nowrap"],["invalid-css",66,40,"colon expected",";"],["invalid-css",66,45,"colon expected",";"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",28,8,"duplicated parameter","\n === DISK1 ===\n # 序曲X\n # インテルメッツォ（[[ドラゴンクエストIV 導かれし者たち|DQIV]]）\n # 村人たちのおしゃべり\n # おやすみ村人たち\n # 讃美歌に癒され"],["no-duplicate",61,3,"duplicated parameter","\n === DISK2 ===\n # アンルシアの恵み\n # 王宮への招待\n # 風雅の都\n # 五重魔塔\n # 高なる鼓動\n # 愛する人へ（[[ドラゴンクエストVII エデンの戦士たち|DQVII"]]

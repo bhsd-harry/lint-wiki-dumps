@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",406,4,"duplicated {{party shading/whig}} attribute","{{Party shading/Whig}}"],["no-duplicate",406,37,"duplicated {{party shading/whig}} attribute","{{Party shading/Whig}}"],["illegal-attr",1266,3,"illegal attribute name","nowrap"],["illegal-attr",1267,3,"illegal attribute name","nowrap"]]

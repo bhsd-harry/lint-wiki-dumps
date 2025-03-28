@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",8,24,"illegal attribute name","xml:lang"],["illegal-attr",49,42,"illegal attribute name","xml:lang"],["illegal-attr",49,125,"illegal attribute name","xml:lang"],["nested-link",104,203,"internal link in an external link","[[CNN (アメリカの放送局)|CNN]]"],["nested-link",291,496,"internal link in an external link","[[ザ・ワールド・ファクトブック]]"]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",98,99,"illegal attribute name","WEST"],["no-ignored",98,71,"containing invalid attribute","アイランドシティオーシャン＆フォレストタワーレジデンス "],["illegal-attr",100,32,"illegal attribute name","EAST"],["no-ignored",100,3,"containing invalid attribute","アイランドシティ オーシャン&フォレストタワーレジデンス "]]

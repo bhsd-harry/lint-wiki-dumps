@@ -1,0 +1,1 @@
+window.data=[["no-ignored",53,1,"invalid content in <gallery>"," image:Tottori feudal lord Ikedas cemetery 124.jpg｜第6代藩主池田治道の[[正室]]生姫（左）と[[継室]]丞姫（右）の墓"]]

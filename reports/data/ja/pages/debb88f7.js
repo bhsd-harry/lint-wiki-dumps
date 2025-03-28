@@ -1,0 +1,1 @@
+window.data=[["no-ignored",917,10,"containing invalid attribute","ランランのゴルフ矢作越え 〜ホールインワン編〜"]]

@@ -1,0 +1,1 @@
+window.data=[["pipe-like",30,28,"additional \"|\" in a table cell","\n 退任後の主な役職 || 備考"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",451,27,"containing invalid attribute","=\"日活映画\""],["no-ignored",477,30,"containing invalid attribute","=\"日活映画\""],["no-ignored",953,64,"containing invalid attribute","=\"日活映画\""]]

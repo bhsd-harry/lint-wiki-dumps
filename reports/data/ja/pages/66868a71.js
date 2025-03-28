@@ -1,0 +1,1 @@
+window.data=[["invalid-css",124,76,"property value expected","#Silver"],["no-duplicate",124,24,"duplicated style attribute","style=\"text-align:center\""],["no-duplicate",124,51,"duplicated style attribute","style=\"background-color: #Silver\""]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:アジア各国の科学技術]]"],["no-duplicate",6,2,"duplicated category","[[Category:アジア各国の科学技術]]"]]

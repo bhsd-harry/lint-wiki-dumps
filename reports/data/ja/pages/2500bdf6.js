@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",87,29,"lonely \"{\"","{{"],["illegal-attr",169,24,"illegal attribute name","mw-collapsible"],["no-ignored",169,38,"containing invalid attribute"," mw-collapsed\""]]

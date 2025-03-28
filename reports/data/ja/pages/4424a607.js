@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",314,4,"illegal attribute name","Tentem"],["illegal-attr",314,11,"illegal attribute name","uiri"],["no-ignored",314,15,"containing invalid attribute"," ||大小の川の間"]]

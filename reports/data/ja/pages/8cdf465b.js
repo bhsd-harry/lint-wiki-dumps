@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,72,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",5,87,"duplicated image caption parameter","イングランド、ケント州のデメルツァこどもホスピスケア"]]

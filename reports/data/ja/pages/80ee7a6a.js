@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,18,"useless link text","|イオン札幌琴似店"]]

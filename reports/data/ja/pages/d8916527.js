@@ -1,0 +1,1 @@
+window.data=[["invalid-css",101,40,"} expected",";"],["invalid-css",101,58,"{ expected",";"],["invalid-css",101,76,"{ expected",""],["lonely-apos",406,58,"lonely \"'\"","'"]]

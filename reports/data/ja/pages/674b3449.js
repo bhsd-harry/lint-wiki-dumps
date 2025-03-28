@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,2,"duplicated category","[[Category:アフリカの共産党]]"],["no-duplicate",7,2,"duplicated category","[[Category:アフリカの共産党]]"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",48,72,"internal link in an external link","[[PlanetMath]]"]]

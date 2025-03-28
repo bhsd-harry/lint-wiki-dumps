@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",56,67,"duplicated image caption parameter","128px <!-- 128 px renders overline correctly -->"],["no-duplicate",56,116,"duplicated image caption parameter","[[NANDゲート]]によるJK型フリップフロップ"]]

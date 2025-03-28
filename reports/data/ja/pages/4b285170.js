@@ -1,0 +1,1 @@
+window.data=[["nested-link",67,119,"internal link in an external link","[[メディア・ヴァーグ|マグミクス]]"]]

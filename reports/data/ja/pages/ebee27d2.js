@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",66,3,"duplicated scope attribute","scope=\"col\""],["no-duplicate",66,29,"duplicated scope attribute","scope=\"col\""]]

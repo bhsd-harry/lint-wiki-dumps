@@ -1,0 +1,1 @@
+window.data=[["nested-link",61,267,"internal link in an external link","[[内外タイムス|リアルライブ]]"]]

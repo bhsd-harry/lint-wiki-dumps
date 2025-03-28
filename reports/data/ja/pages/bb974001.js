@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",58,50,"lonely \"[\"","[["],["lonely-bracket",58,67,"lonely \"]\"","]]"],["lonely-bracket",58,71,"lonely \"[\"","[["],["lonely-bracket",58,91,"lonely \"]\"","]]"],["no-ignored",58,4,"containing invalid attribute"," {{MsStatsC|C}}|'''アルファロメオ・179C'''||24||1981||[[1981年アメリカ西グランプリ]]||[[1981年シーザースパレスグランプリ]]"]]

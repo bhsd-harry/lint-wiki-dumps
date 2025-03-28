@@ -1,0 +1,1 @@
+window.data=[["nested-link",70,104,"internal link in an external link","[[インターネットアーカイブ]]"]]

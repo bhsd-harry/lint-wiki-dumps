@@ -1,0 +1,1 @@
+window.data=[["nested-link",73,295,"internal link in an external link","[[スペイン語]]"]]

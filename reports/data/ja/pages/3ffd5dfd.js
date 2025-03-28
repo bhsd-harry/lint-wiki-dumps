@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",27,51,"duplicated image caption parameter","Hiroshima_Dentetsu_602_2024-2-2"],["no-duplicate",27,100,"duplicated image caption parameter","2024年撮影。シングルアーム化後"]]

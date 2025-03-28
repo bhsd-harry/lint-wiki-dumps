@@ -1,0 +1,1 @@
+window.data=[["no-ignored",72,4,"containing invalid attribute"," 20201年6月末付を以て 芸能界を引退"],["no-ignored",78,4,"containing invalid attribute","2020年6月17日 グループから脱退し同時に事務所も退所。以降は個人活動をしている。"],["no-ignored",84,4,"containing invalid attribute","2020年6月17日 グループから脱退し、同時に事務所も退所。以降は個人活動をしている。"],["lonely-apos",313,12,"lonely \"'\"","'"]]

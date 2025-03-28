@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",27,116,"duplicated parameter","lat_sec=01 "],["no-duplicate",27,150,"duplicated parameter","lat_sec=44 "]]

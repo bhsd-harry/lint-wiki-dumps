@@ -1,0 +1,1 @@
+window.data=[["nested-link",39,824,"internal link in an external link","[[労働基本権]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",78,13,"containing invalid attribute","wikitable\"\""]]

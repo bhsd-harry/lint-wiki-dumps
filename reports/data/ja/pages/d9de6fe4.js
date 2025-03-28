@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,34,"useless link text","|SUITS/スーツ2"]]

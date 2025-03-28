@@ -1,0 +1,1 @@
+window.data=[["nested-link",28,68,"internal link in an external link","[[:en:1911 Encyclopædia Britannica]]"]]

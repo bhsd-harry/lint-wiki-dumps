@@ -1,0 +1,1 @@
+window.data=[["invalid-css",209,112,"colon expected",";"],["illegal-attr",209,116,"illegal attribute name",":"],["illegal-attr",209,118,"illegal attribute name","4px"],["no-ignored",209,121,"containing invalid attribute"," #228B22;\""]]

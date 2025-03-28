@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",46,187,"lonely \"]\"","]"],["no-ignored",174,3,"containing invalid attribute","!align=\"center\""]]

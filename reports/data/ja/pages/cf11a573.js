@@ -1,0 +1,1 @@
+window.data=[["no-ignored",42,1,"invalid content in <gallery>"," File:Henri Toulouse-Lautrec - [[ロートレック]]の『白馬ガゼル』 (1881)"]]

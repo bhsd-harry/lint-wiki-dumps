@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",83,46,"illegal attribute name","OPS"],["no-ignored",83,49,"containing invalid attribute"," (野球)"],["illegal-attr",105,42,"illegal attribute name","OPS"],["no-ignored",105,45,"containing invalid attribute"," (野球)"]]

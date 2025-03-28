@@ -1,0 +1,1 @@
+window.data=[["nested-link",61,146,"internal link in an external link","[[選挙]]"],["nested-link",61,153,"internal link in an external link","[[政党]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",68,1,"invalid content in <gallery>"," <gallery widths=\"250px\"  heights=\"150px\">"],["no-ignored",155,1,"invalid content in <gallery>"," <gallery widths=\"250px\"  heights=\"150px\">"]]

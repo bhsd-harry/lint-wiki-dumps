@@ -1,0 +1,1 @@
+window.data=[["nested-link",30,254,"internal link in an external link","[[ギネス世界記録]]"]]

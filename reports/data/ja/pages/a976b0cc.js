@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,27,"useless link text","|前田建設ファンタジー営業部"]]

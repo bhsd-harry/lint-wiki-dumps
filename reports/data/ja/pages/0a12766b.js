@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",7,2,"duplicated category","[[Category:19世紀日本の学者]]"],["no-duplicate",10,2,"duplicated category","[[Category:19世紀日本の学者|れきしかくしや]]"]]

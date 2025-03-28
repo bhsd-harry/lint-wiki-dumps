@@ -1,0 +1,1 @@
+window.data=[["no-ignored",102,1,"invalid content in <gallery>"," <!--Image:Tejas AI-07.jpg  commenting out image about to be deleted-->|HAL manufactured Tejas"]]

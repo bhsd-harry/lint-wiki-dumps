@@ -1,0 +1,1 @@
+window.data=[["nested-link",27,533,"internal link in an external link","[[国土地理院]]"],["illegal-attr",173,103,"illegal attribute name","xml:lang"],["lonely-bracket",224,84,"lonely \"[\"","["]]

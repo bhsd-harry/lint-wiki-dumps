@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:カナダの歴史 (都市別)]]"],["no-duplicate",6,2,"duplicated category","[[Category:カナダの歴史 (都市別)]]"]]

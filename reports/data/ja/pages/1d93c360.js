@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",88,8,"duplicated parameter","\n === 文化部 ===\n * 工業技術部\n * 吹奏楽部\n 　　ー[[総文祭]]出場([[令和6年]])\n * 美術部\n "],["no-duplicate",94,3,"duplicated parameter","\n === 外局 ===\n * 新聞局\n * 図書局\n * 放送局\n "]]

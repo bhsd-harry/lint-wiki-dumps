@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",106,2,"duplicated category","[[Category:鉱物]]"],["no-duplicate",158,2,"duplicated category","[[Category:鉱物]]"],["no-duplicate",175,2,"duplicated category","[[Category:鉱物|*ふろしえくと]]"]]

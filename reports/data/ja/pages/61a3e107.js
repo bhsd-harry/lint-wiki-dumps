@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:スペインの航空機|りよかくき]]"],["no-duplicate",6,2,"duplicated category","[[Category:スペインの航空機|りよかくき]]"]]

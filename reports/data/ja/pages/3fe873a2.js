@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,2,"duplicated category","[[Category:チェコ貴族の家系]]"],["no-duplicate",7,2,"duplicated category","[[Category:チェコ貴族の家系]]"]]

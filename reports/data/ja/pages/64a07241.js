@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",203,3,"duplicated style attribute","style=\"background-color:#E3F2E8\""],["no-duplicate",203,37,"duplicated style attribute","style=\"white-space: nowrap\""]]

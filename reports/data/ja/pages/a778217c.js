@@ -1,0 +1,1 @@
+window.data=[["nested-link",12,420,"internal link in an external link","[[世界まる見え!テレビ特捜部]]"],["nested-link",40,62,"internal link in an external link","[[イリュストラシオン]]"]]

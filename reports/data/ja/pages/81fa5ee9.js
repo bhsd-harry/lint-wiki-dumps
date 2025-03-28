@@ -1,0 +1,1 @@
+window.data=[["nested-link",4,327,"internal link in an external link","[[アリオン (漫画)]]"],["lonely-bracket",4,353,"lonely \"[\"","["]]

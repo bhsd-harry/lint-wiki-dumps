@@ -1,0 +1,1 @@
+window.data=[["tag-like",52,78,"lonely \"<\"","<mapframe"],["tag-like",52,102,"lonely \"<\"","<maplink"]]

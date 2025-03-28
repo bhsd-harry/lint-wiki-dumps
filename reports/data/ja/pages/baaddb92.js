@@ -1,0 +1,1 @@
+window.data=[["no-ignored",71,41,"containing invalid attribute"," 位yle=\"border-collapse: collapse; text-align:center; font-size: 80%;\""]]

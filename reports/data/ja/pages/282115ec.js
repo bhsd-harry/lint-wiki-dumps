@@ -1,0 +1,1 @@
+window.data=[["no-ignored",12,187,"containing invalid attribute"," {{FIAV|historical}}白地に青"]]

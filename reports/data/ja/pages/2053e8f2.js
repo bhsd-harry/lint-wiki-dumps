@@ -1,0 +1,1 @@
+window.data=[["parsing-order",100,3,"HTML tag in table attributes","<del>"],["no-ignored",100,3,"containing invalid attribute","<del>"],["unmatched-tag",100,35,"unmatched closing tag","</del>"]]

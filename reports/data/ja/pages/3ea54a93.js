@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",43,134,"lonely \"[\"","[["],["lonely-bracket",43,139,"lonely \"]\"","]]"],["tag-like",43,204,"lonely \"<\"","<ref"],["no-duplicate",43,117,"duplicated name attribute","name = LjR/。アラは犬の[[狂犬病]]にも間接的に関わっている。雲に到達してアラに遭遇する雲雀は発狂し（アロサン）、地面に落ちて自殺する。鳥を見つけて食べる犬も狂う<ref"],["no-duplicate",43,209,"duplicated name attribute","name = kulisic"]]

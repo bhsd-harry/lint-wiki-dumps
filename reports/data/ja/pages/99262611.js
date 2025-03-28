@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",71,33,"lonely \"[\"","[["],["lonely-bracket",71,51,"lonely \"]\"","]]"],["no-ignored",71,33,"containing invalid attribute","[[スペイングランプリ|スペインGP]]"]]

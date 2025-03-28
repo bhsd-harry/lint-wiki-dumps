@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",13,209,"lonely \"'\"","'"],["no-duplicate",63,8,"duplicated parameter","\n == 研究開発センター ==\n * [[マクルーシ]]（フランス）\n * [[シュトゥットガルト]]（ドイツ）\n * [[アントウェルペン]]（ベルギー）\n * [[プレイノ]]（アメリカ[[テキ"],["no-duplicate",71,3,"duplicated parameter","\n == 財務 ==\n [[2013年]]3月期の連結決算\n *売上高 14,446 Million € \n *営業利益 -260 Million €\n *純利益 -1,451 Million €\n "]]

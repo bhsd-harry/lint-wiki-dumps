@@ -1,0 +1,1 @@
+window.data=[["invalid-css",12,17,"property value expected","%"],["illegal-attr",19,4,"illegal attribute name","span"],["illegal-attr",21,4,"illegal attribute name","span"]]

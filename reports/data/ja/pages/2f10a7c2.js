@@ -1,0 +1,1 @@
+window.data=[["no-ignored",98,3,"containing invalid attribute","通常盤"],["no-ignored",109,3,"containing invalid attribute","通常盤"]]

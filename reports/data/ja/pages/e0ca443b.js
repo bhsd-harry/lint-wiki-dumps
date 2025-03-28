@@ -1,0 +1,1 @@
+window.data=[["nested-link",56,189,"internal link in an external link","[[欧州]]"],["nested-link",56,196,"internal link in an external link","[[オーストラリア|豪州]]"],["nested-link",56,211,"internal link in an external link","[[中国]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",56,9,"containing invalid attribute"," アパホテル＆リゾート〈新潟駅前大通〉"]]

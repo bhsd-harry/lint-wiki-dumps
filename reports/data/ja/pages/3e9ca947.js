@@ -1,0 +1,1 @@
+window.data=[["invalid-css",994,42,"property value expected",";"],["invalid-css",1073,42,"property value expected",";"],["lonely-bracket",1324,613,"lonely \"]\"","]"],["invalid-css",1531,42,"property value expected",";"]]

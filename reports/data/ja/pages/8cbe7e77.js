@@ -1,0 +1,1 @@
+window.data=[["pipe-like",101,40,"additional \"|\" in a table cell","11||0||2||0||2||0||9||1||24||1\n "],["pipe-like",102,40,"additional \"|\" in a table cell","45||6||5||1||1||0||colspan=\"2\"  | -||51||7\n "],["pipe-like",103,34,"additional \"|\" in a table cell","59||6||9||1||3||0||9||1||80||8"]]

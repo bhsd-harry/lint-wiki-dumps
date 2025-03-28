@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",72,34,"duplicated image caption parameter","upright=1.5<!--key diagram to be readable-->"],["no-duplicate",72,79,"duplicated image caption parameter","カウンターシェーディングが迷彩の一形態としてはたらき、体や物体の落とす影を塗りつぶす。その結果見た目は、カウンターシェーディングがない場合に比べて平坦になる。"]]

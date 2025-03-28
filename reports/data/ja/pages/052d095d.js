@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",7,40,"duplicated image caption parameter","160px<!--図の縮尺をあわせる-->"],["no-duplicate",7,62,"duplicated image caption parameter","クォーク模型による[[パイ中間子]]（中間子の例）。色は一例。"]]

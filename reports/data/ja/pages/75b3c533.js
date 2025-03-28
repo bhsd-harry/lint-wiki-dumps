@@ -1,0 +1,1 @@
+window.data=[["nested-link",78,521,"internal link in an external link","[[Newsweek]]"],["nested-link",80,446,"internal link in an external link","[[トルコ国営放送|TRT]]"]]

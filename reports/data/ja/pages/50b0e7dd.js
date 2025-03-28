@@ -1,0 +1,1 @@
+window.data=[["nested-link",96,195,"internal link in an external link","[[2021年]]"],["nested-link",96,218,"internal link in an external link","[[社会福祉協議会]]"]]

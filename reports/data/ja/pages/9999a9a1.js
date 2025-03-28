@@ -1,0 +1,1 @@
+window.data=[["nested-link",89,123,"internal link in an external link","[[フランス国立図書館]]"],["nested-link",140,473,"internal link in an external link","[[インターネットアーカイブ]]"],["nested-link",141,116,"internal link in an external link","[[LibriVox]]"]]

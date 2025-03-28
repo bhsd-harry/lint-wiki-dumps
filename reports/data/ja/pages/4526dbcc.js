@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",10,20,"duplicated border attribute","border = 1"],["no-duplicate",10,31,"duplicated border attribute","border=\"1\""]]

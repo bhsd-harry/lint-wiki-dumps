@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",6,2,"duplicated category","[[Category:江戸時代の大阪|まちふきよう]]"],["no-duplicate",10,2,"duplicated category","[[Category:江戸時代の大阪]]"]]

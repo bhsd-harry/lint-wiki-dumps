@@ -1,0 +1,1 @@
+window.data=[["parsing-order",61,15,"extension tag in HTML tag attributes","<ref group=WEB>{{Cite web|url=https://www.e-stat.go.jp/stat-search/file-download?statInfId=000012671"],["no-ignored",61,3,"containing invalid attribute","2010年（平成22年）<ref group=WEB>{{Cite web|url=https://www.e-stat.go.jp/stat-search/file-download?statInf"]]

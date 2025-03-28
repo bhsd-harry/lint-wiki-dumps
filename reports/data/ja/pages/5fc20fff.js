@@ -1,0 +1,1 @@
+window.data=[["tag-like",57,135,"lonely \"<\"","<ref"],["no-ignored",57,105,"containing invalid attribute","/。子供の頃から勉強が得意で健康体だったが、体育は苦手だった<ref "],["no-duplicate",57,78,"duplicated name attribute","name=\"  「Ms Wendy」201809  \""],["no-duplicate",57,140,"duplicated name attribute","name=\"  「Ms Wendy」201809  \""]]

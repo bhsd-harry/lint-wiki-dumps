@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,52,"duplicated image caption parameter","<!--サムネイル-->200px"],["no-duplicate",1,82,"duplicated image caption parameter","アンドレ・イゾワール"]]

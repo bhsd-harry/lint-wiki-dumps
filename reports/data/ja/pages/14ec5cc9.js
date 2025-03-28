@@ -1,0 +1,1 @@
+window.data=[["nested-link",45,1203,"internal link in an external link","[[報道1930#過去のコーナー|1930文化情報部（報道1930）]]"]]

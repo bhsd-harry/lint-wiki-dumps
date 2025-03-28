@@ -1,0 +1,1 @@
+window.data=[["no-ignored",132,25,"containing invalid attribute"," =\"鉄道辞典_補遺版\"=\"\""],["no-ignored",135,14,"containing invalid attribute"," =\"鉄道辞典_補遺版\"=\"\""],["no-ignored",138,41,"containing invalid attribute"," =\"鉄道辞典_補遺版\"=\"\""]]

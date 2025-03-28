@@ -1,0 +1,1 @@
+window.data=[["nested-link",18,185,"internal link in an external link","[[雇用調整助成金]]"]]

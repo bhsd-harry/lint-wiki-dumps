@@ -1,0 +1,1 @@
+window.data=[["nested-link",47,176,"internal link in an external link","[[ラピュタ阿佐ヶ谷]]"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",16,194,"internal link in an external link","[[ELLE (雑誌)|ELLE]]"],["nested-link",17,131,"internal link in an external link","[[朝日新聞デジタル]]"],["nested-link",18,138,"internal link in an external link","[[共同通信]]"],["nested-link",19,142,"internal link in an external link","[[産経新聞]]"],["nested-link",20,227,"internal link in an external link","[[ジャパンタイムズ]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",146,64,"duplicated colspan attribute","colspan=\"2\""],["no-duplicate",146,77,"duplicated colspan attribute","colspan=\"2\""],["invalid-css",338,56,"property value expected","#dfd；font-size"],["lonely-bracket",660,72,"lonely \"]\"","]"],["lonely-bracket",680,37,"lonely \"]\"","]"]]

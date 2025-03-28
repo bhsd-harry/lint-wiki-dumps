@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,32,"useless link text","|川内永利中継局"]]

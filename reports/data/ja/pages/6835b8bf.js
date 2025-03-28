@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",51,4,"lonely \"[\"","[["],["lonely-bracket",51,12,"lonely \"]\"","]]"],["tag-like",51,14,"lonely \"<\"","<ref"],["no-ignored",50,30,"containing invalid attribute","  /\n * [[歯科口腔外科]]<ref "],["no-duplicate",50,21,"duplicated name attribute","name=\":0\""],["no-duplicate",51,19,"duplicated name attribute","name=\":0\""]]

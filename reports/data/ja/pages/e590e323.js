@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1115,3,"containing invalid attribute","西日本電信電話"]]

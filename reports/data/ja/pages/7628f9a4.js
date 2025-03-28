@@ -1,0 +1,1 @@
+window.data=[["no-ignored",37,81,"containing invalid attribute","  \"goo辞書\""]]

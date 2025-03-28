@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",299,4,"illegal attribute name","Flag"],["illegal-attr",299,9,"illegal attribute name","of"],["illegal-attr",299,12,"illegal attribute name","Croatia"],["no-ignored",299,19,"containing invalid attribute"," (1990).svg"]]

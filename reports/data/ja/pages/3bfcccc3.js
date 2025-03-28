@@ -1,0 +1,1 @@
+window.data=[["no-ignored",188,5,"containing invalid attribute","||{{仮リンク|カイル・ハドソン|en|Kyle Hudson}}||一塁コーチ"]]

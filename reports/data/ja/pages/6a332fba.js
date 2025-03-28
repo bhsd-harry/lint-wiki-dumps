@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",445,2,"duplicated category","[[Category:日本の反ワクチン活動家]]"],["no-duplicate",456,2,"duplicated category","[[Category:日本の反ワクチン活動家]]"]]

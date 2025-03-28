@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,23,"useless link text","|風来物語 仁侠篇"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",44,34,"duplicated image caption parameter","px"],["no-duplicate",44,49,"duplicated image caption parameter","2024年3月22日 [[平塚球場]]にて"]]

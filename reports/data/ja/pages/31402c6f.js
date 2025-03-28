@@ -1,0 +1,1 @@
+window.data=[["nested-link",135,715,"internal link in an external link","[[どきどき魔女神判!]]"],["nested-link",135,841,"internal link in an external link","[[どきどき魔女神判!]]"],["nested-link",135,967,"internal link in an external link","[[どきどき魔女神判!]]"]]

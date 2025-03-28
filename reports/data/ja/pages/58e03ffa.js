@@ -1,0 +1,1 @@
+window.data=[["nested-link",29,111,"internal link in an external link","[[松岡正剛]]"],["lonely-apos",37,34,"lonely \"'\"","'"]]

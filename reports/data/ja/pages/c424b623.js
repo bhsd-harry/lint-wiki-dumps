@@ -1,0 +1,1 @@
+window.data=[["no-ignored",18,97,"containing invalid attribute"," name＝新版恐竜=\"\"  "],["no-ignored",18,240,"containing invalid attribute"," name＝骨格図集=\"\""],["no-ignored",18,481,"containing invalid attribute"," name＝新ポケット版=\"\"  "]]

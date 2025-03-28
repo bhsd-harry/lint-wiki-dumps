@@ -1,0 +1,1 @@
+window.data=[["nested-link",58,81,"internal link in an external link","[[:en:Lower Paleolithic|Lower Paleolithic]]"],["nested-link",60,95,"internal link in an external link","[[:en:Edmund the Martyr|Saint Edmund]]"]]

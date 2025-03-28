@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",136,4,"illegal attribute name","1960"],["no-ignored",136,8,"containing invalid attribute"," ボナンザ(BONANZA)３月１９日放映・ゲスト出演"]]

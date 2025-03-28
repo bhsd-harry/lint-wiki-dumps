@@ -1,0 +1,1 @@
+window.data=[["no-ignored",93,52,"containing invalid attribute","width:100%;  \"  font-size:smaller; white-space:nowrap\""]]

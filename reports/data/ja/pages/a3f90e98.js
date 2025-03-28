@@ -1,0 +1,1 @@
+window.data=[["no-ignored",172,4,"containing invalid attribute"," 丶"],["no-ignored",192,4,"containing invalid attribute"," 丶"],["illegal-attr",193,7,"illegal attribute name","nowrap"]]

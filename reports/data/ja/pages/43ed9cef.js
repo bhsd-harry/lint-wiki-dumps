@@ -1,0 +1,1 @@
+window.data=[["no-ignored",187,3,"containing invalid attribute","'''{{display none|さかもと/}}style=\"background-color: #CCFFBB;\""]]

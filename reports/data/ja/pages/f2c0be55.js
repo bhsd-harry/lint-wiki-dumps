@@ -1,0 +1,1 @@
+window.data=[["tag-like",37,46,"lonely \"<\"","<ref"],["no-ignored",37,37,"containing invalid attribute","/。料理、音楽鑑賞<ref "],["no-duplicate",37,16,"duplicated name attribute","name=\"342304-ラブセッション\""],["no-duplicate",37,51,"duplicated name attribute","name=\"1602-さおり\""]]

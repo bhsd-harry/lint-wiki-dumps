@@ -1,0 +1,1 @@
+window.data=[["no-ignored",85,4,"containing invalid attribute","2012年2月、ICカード全扉乗降試験に使用"]]

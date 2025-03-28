@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",68,253,"duplicated name attribute","name=ref"],["no-duplicate",68,262,"duplicated name attribute","name=\"honda1996\""],["no-duplicate",70,349,"duplicated name attribute","name=ref"],["no-duplicate",70,358,"duplicated name attribute","name=\"honda1996\""]]

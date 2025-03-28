@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",51,2,"duplicated category","[[Category:2018年没]]"],["no-duplicate",52,2,"duplicated category","[[Category:2018年没]]"]]

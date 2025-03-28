@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",133,16,"illegal attribute name","Central"],["illegal-attr",133,24,"illegal attribute name","News"],["illegal-attr",133,29,"illegal attribute name","Agency"],["no-ignored",133,35,"containing invalid attribute"," (London)"]]

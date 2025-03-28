@@ -1,0 +1,1 @@
+window.data=[["tag-like",15,140,"lonely \"<\"","<ref"],["no-ignored",15,140,"containing invalid attribute","<ref "],["no-duplicate",15,109,"duplicated name attribute","name=\"Keppen  &  Gorlenko 1975\""],["no-duplicate",15,145,"duplicated name attribute","name=\"10.1099/ijs.0.037903-0\""]]

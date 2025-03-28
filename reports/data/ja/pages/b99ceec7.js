@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",150,60,"duplicated image caption parameter","alternativtext=Kirsten Fehrs, Stellvertretende Ratsvorsitzende der EKD (2021)"],["no-duplicate",150,145,"duplicated image caption parameter","キルステン・フェールス (2021)"],["no-ignored",188,22,"containing invalid attribute","sortable\"  "]]

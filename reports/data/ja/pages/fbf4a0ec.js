@@ -1,0 +1,1 @@
+window.data=[["tag-like",4,20,"lonely \"<\"","<ref"],["no-ignored",3,317,"containing invalid attribute"," \n 社会によっては'''婚外性交渉'''<ref "],["no-duplicate",3,308,"duplicated name attribute","name=\":2\""],["no-duplicate",4,25,"duplicated name attribute","name=\":1\""]]

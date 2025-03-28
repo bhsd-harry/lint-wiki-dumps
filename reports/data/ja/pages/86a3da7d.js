@@ -1,0 +1,1 @@
+window.data=[["nested-link",25,171,"internal link in an external link","[[情報通信技術|ICT]]"]]

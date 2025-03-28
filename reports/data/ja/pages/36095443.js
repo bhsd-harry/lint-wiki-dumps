@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,19,"useless link text","|マイ・マジェスティ事件"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",82,4,"containing invalid attribute","!!平均自責点\t!!試合\t!!勝利\t!!敗戦\t!!セーブ\t!!ホールド\t!!完投\t!!完封\t!!イニング\t!!被安打\t!!被本塁打\t!!四死球\t!!奪三振\t!!失点\t!!自責点 "]]

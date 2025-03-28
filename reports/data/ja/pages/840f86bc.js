@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",92,172,"unmatched closing tag","</sub>"],["lonely-bracket",152,38,"lonely \"{\"","{{"],["illegal-attr",317,13,"illegal attribute name","nowrap"],["illegal-attr",602,3,"illegal attribute name","nowrap"],["illegal-attr",798,3,"illegal attribute name","nowrap"],["illegal-attr",798,18,"illegal attribute name","nowrap"]]

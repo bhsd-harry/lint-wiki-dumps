@@ -1,0 +1,1 @@
+window.data=[["no-ignored",239,4,"containing invalid attribute","カムイチカプ  [しまふくろう]"],["no-ignored",801,4,"containing invalid attribute","|{{lang|ain-Kana|ライ}}||{{lang|ain-Latn|ray}}||死ぬ"]]

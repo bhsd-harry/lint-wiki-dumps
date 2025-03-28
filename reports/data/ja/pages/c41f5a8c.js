@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,63,"duplicated image caption parameter","px"],["no-duplicate",4,66,"duplicated image caption parameter","1976年のF3マシン、RT1"]]

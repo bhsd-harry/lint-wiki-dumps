@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,68,"duplicated image caption parameter","px"],["no-duplicate",2,77,"duplicated image caption parameter","パトリック・ウィリアムズ"]]

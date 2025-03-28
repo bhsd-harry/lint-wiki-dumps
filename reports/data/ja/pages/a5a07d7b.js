@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",84,24,"duplicated style attribute","style=\"white-space:nowrap; text-align:center\""],["no-duplicate",84,71,"duplicated style attribute","style=\"font-size:80%\""]]

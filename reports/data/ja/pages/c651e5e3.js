@@ -1,0 +1,1 @@
+window.data=[["tag-like",47,95,"lonely \"<\"","<ref"],["no-ignored",47,67,"containing invalid attribute","  。=\"\"  1993年から1996年にかけて就役した<ref "]]

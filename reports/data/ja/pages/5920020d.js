@@ -1,0 +1,1 @@
+window.data=[["no-ignored",93,1,"invalid content in <gallery>"," ENEOS_WING_Komaki_IC_SS_20160831.jpg ENEOS<br/>（JXエネルギー時代）"]]

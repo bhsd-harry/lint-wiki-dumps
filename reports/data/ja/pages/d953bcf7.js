@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,42,"useless link text","|Hymne à l'amour 〜愛のアンセム〜"]]

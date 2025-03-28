@@ -1,0 +1,1 @@
+window.data=[["nested-link",45,158,"internal link in an external link","[[石川県立図書館]]"],["lonely-http",57,139,"lonely \"ISBN\"","ISBN"]]

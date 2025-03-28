@@ -1,0 +1,1 @@
+window.data=[["no-ignored",76,55,"invalid content in <gallery>","<div style=\"font-size:85%\">"],["no-ignored",79,1,"invalid content in <gallery>"," </div>"]]

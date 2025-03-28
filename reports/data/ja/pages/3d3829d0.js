@@ -1,0 +1,1 @@
+window.data=[["nested-link",37,366,"internal link in an external link","[[徳富蘇峰記念館]]"],["nested-link",112,56,"internal link in an external link","[[国立国会図書館]]"]]

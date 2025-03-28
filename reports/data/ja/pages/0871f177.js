@@ -1,0 +1,1 @@
+window.data=[["no-ignored",73,1,"invalid content in <gallery>"," [[ファイル:Nigoi-070927-e115.jpg|代替文=ニゴイ類の幼魚|サムネイル|黒斑が目立つニゴイ類の幼魚（佐渡ヶ島、国内移入）]]"]]

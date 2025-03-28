@@ -1,0 +1,1 @@
+window.data=[["lonely-apos",565,12,"lonely \"'\"","'"],["illegal-attr",1456,3,"illegal attribute name","INI"],["no-ignored",1462,3,"containing invalid attribute","「THE FRAME」"]]

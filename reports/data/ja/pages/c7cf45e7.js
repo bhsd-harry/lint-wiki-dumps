@@ -1,0 +1,1 @@
+window.data=[["nested-link",35,313,"internal link in an external link","[[室町時代]]"],["nested-link",35,325,"internal link in an external link","[[明治時代|明治]]"]]

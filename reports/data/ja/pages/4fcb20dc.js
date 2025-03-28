@@ -1,0 +1,1 @@
+window.data=[["no-ignored",41,1,"invalid content in <gallery>"," 現存する白バイの一種である。<br>"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",87,40,"duplicated image caption parameter","px"],["no-duplicate",87,43,"duplicated image caption parameter","十五糎榴弾砲（[[15cm sFH 18]]）"],["no-duplicate",122,63,"duplicated image caption parameter","px"],["no-duplicate",122,66,"duplicated image caption parameter","日本軍からの鹵獲品展示"]]

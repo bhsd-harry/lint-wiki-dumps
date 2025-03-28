@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,2,"duplicated category","[[Category:NVIDIA|GPU]]"],["no-duplicate",3,25,"duplicated category","[[Category:NVIDIA|せいひん]]"]]

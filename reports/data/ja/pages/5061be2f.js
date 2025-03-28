@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",3,60,"illegal attribute name","center"],["no-ignored",7,1,"invalid content in <gallery>"," サイクラムの誘導体である[[プレリキサホル]]は、[[悪性リンパ腫]]や[[多発性骨髄腫]]の治療に用いられる<ref name=\"DrugsRD\">{{Cite journal | title ="]]

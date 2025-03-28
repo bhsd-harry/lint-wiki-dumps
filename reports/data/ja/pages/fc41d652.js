@@ -1,0 +1,1 @@
+window.data=[["no-ignored",542,22,"containing invalid attribute","  !class=\"unsortable\""],["no-ignored",1081,22,"containing invalid attribute","  !class=\"unsortable\""],["no-ignored",1618,22,"containing invalid attribute","  !class=\"unsortable\""],["lonely-bracket",2038,4,"lonely \"[\"","["]]

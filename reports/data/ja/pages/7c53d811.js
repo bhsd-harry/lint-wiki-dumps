@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:2004年のテレビドラマ]]"],["no-duplicate",6,2,"duplicated category","[[Category:2004年のテレビドラマ]]"]]

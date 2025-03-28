@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2206,3,"duplicated rowspan attribute","rowspan=2"],["no-duplicate",2206,13,"duplicated rowspan attribute","rowspan=2"],["illegal-attr",2346,17,"illegal attribute name","nowrap"]]

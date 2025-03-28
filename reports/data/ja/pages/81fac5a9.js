@@ -1,0 +1,1 @@
+window.data=[["invalid-css",206,53,"semi-colon expected",""],["invalid-css",206,52,"colon expected","="],["no-ignored",206,54,"containing invalid attribute","width:100%\"  line-height:1.4em; margin-right:0px;\""],["lonely-bracket",4779,28,"lonely \"]\"","]"],["no-ignored",6687,3,"containing invalid attribute","植田鳥越「口は○○のもと」#テレビ放送"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",19,2,"duplicated category","[[Category:佐賀大学の教員]]"],["no-duplicate",20,2,"duplicated category","[[Category:佐賀大学の教員]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1651,4,"containing invalid attribute"," a#lign=\"center\"  "],["no-duplicate",1693,5,"duplicated style attribute","style=\"text-align: center; vertical-align: top;\""],["no-duplicate",1693,56,"duplicated style attribute","style=\"text-align: center; vertical-align: top;\""]]

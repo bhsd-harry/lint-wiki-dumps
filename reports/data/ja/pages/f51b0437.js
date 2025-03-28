@@ -1,0 +1,1 @@
+window.data=[["tag-like",8,80,"lonely \"<\"","<ref"],["no-ignored",8,79,"containing invalid attribute","/<ref "],["no-duplicate",8,68,"duplicated name attribute","name=\"doc1\""],["no-duplicate",8,85,"duplicated name attribute","name=\"doc2\""]]

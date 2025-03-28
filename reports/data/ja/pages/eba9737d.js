@@ -1,0 +1,1 @@
+window.data=[["no-ignored",348,1,"invalid content in <gallery>"," File:国道19号 150&nbsp;[[距離標|kp]] 長野県木曽郡木祖村菅.jpg|[[鳥居峠 (長野県)|鳥居峠]]付近の壁画<br />長野県木曽郡木祖村菅"]]

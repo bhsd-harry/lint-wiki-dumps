@@ -1,0 +1,1 @@
+window.data=[["invalid-css",248,62,"semi-colon expected",":"],["illegal-attr",324,32,"illegal attribute name","row"],["illegal-attr",324,36,"illegal attribute name","span"],["illegal-attr",325,32,"illegal attribute name","row"],["illegal-attr",325,36,"illegal attribute name","span"]]

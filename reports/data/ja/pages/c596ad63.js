@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",93,14,"lonely \"{\"","{{"],["no-ignored",93,13,"containing invalid attribute"," {{Nowrap"]]

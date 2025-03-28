@@ -1,0 +1,1 @@
+window.data=[["nested-link",29,857,"internal link in an external link","[[バービー|バービー人形]]"]]

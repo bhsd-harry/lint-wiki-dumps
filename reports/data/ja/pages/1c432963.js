@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",55,23,"lonely \"[\"","[["],["lonely-bracket",55,27,"lonely \"]\"","]]"],["lonely-bracket",55,31,"lonely \"[\"","[["],["lonely-bracket",55,39,"lonely \"]\"","]]"],["lonely-bracket",55,43,"lonely \"[\"","[["],["lonely-bracket",55,47,"lonely \"]\"","]]"],["no-ignored",55,22,"containing invalid attribute","![[大字]]!![[世帯|世帯数]]!![[人口]]"]]

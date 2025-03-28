@@ -1,0 +1,1 @@
+window.data=[["invalid-css",315,36,"colon expected",";"]]

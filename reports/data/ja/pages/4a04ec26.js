@@ -1,0 +1,1 @@
+window.data=[["tag-like",71,772,"lonely \"<\"","<ref"],["no-ignored",71,730,"containing invalid attribute","  /。一方で''nad11''は二分割し、N末側の部分は核ゲノムにコードされている<ref "],["no-duplicate",71,714,"duplicated name attribute","name=\"Eliáš2017\""],["no-duplicate",71,777,"duplicated name attribute","name=\"Eliáš2017\""]]

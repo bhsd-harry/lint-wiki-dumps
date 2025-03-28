@@ -1,0 +1,1 @@
+window.data=[["invalid-imagemap",181,1,"invalid link in <imagemap>"," circle 464 66 4 [[日本橋 (東京都中央区の橋)|]]"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",27,8,"duplicated parameter","\n === 旧約聖書 ===\n * [[都留仙次]]\n * [[遠藤敏雄]]\n * [[手塚儀一郎]]\n "],["no-duplicate",32,3,"duplicated parameter","\n === 新約聖書 ===\n * [[松本卓夫]]\n * [[山谷省吾]]\n * [[高橋虔]]\n "]]

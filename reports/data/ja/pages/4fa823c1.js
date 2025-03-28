@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",7,34,"duplicated style attribute","style=\"font-size:95%;\""],["no-duplicate",7,95,"duplicated style attribute","style=\"clear:both\""]]

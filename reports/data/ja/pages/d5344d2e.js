@@ -1,0 +1,1 @@
+window.data=[["no-ignored",404,3,"containing invalid attribute","font-weight:bold; "],["lonely-http",466,62,"lonely \"ISBN\"","ISBN"]]

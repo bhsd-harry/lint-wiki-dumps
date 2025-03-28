@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",64,42,"duplicated image caption parameter","4"],["no-duplicate",64,44,"duplicated image caption parameter","label="]]

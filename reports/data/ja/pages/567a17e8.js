@@ -1,0 +1,1 @@
+window.data=[["no-ignored",71,1,"invalid content in <gallery>"," File:Nagaimo-Fields-Hokuei-Tottori-2013071401.jpg<br>栽培されている様子<br>同上"]]

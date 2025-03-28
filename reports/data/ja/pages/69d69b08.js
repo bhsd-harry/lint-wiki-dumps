@@ -1,0 +1,1 @@
+window.data=[["parsing-order",102,3,"HTML tag in table attributes","<del>"],["parsing-order",102,15,"HTML tag in table attributes","</del>"],["parsing-order",102,21,"HTML tag in table attributes","<br/>"],["no-ignored",102,3,"containing invalid attribute","<del>EZチャンネル</del><br/>"]]

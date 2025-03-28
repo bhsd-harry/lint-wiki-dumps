@@ -1,0 +1,1 @@
+window.data=[["no-ignored",138,29,"containing invalid attribute","ポストシーズン"],["no-ignored",242,152,"containing invalid attribute","刺殺"],["no-ignored",242,171,"containing invalid attribute","補殺"],["no-ignored",242,190,"containing invalid attribute","失策"],["no-ignored",242,209,"containing invalid attribute","併殺"],["no-ignored",242,228,"containing invalid attribute","守備率"]]

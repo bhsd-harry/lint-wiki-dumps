@@ -1,0 +1,1 @@
+window.data=[["lonely-http",56,273,"lonely \"https://\"","https://"],["no-ignored",223,157,"containing invalid attribute"," ''Lady Bugs'' "]]

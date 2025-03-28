@@ -1,0 +1,1 @@
+window.data=[["no-ignored",575,3,"containing invalid attribute","2010年から可となった。それまでは不可"]]

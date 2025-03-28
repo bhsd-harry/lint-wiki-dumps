@@ -1,0 +1,1 @@
+window.data=[["no-ignored",93,1,"invalid content in <gallery>"," [mage:Red Cloud (T-AKR 313) unloads bulgarian vehicle.jpg|Véhicule de l'[[armée bulgare]] de retour"]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",424,5,"lonely \"[\"","[["],["lonely-bracket",424,13,"lonely \"]\"","]]"],["illegal-attr",424,18,"illegal attribute name","Paris-Charles"],["illegal-attr",424,32,"illegal attribute name","De"],["illegal-attr",424,35,"illegal attribute name","Gaulle"],["no-ignored",424,4,"containing invalid attribute","*[[France]] - "]]

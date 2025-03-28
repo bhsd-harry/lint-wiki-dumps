@@ -1,0 +1,1 @@
+window.data=[["nested-link",37,698,"internal link in an external link","[[Musicman (書籍)|Musicman-NET]]"]]

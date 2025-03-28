@@ -1,0 +1,1 @@
+window.data=[["no-ignored",123,4,"containing invalid attribute","||（空席）||1999年9月20日 - 1999年10月5日"]]

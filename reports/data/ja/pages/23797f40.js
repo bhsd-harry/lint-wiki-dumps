@@ -1,0 +1,1 @@
+window.data=[["no-ignored",36,13,"containing invalid attribute","日本のラジオ放送局"],["no-ignored",38,55,"containing invalid attribute","soumu20170928\""],["no-ignored",38,95,"containing invalid attribute","soumu20170928\""],["no-ignored",38,392,"containing invalid attribute","soumu20170928\""],["no-ignored",42,107,"containing invalid attribute","soumu20170928\""]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",104,169,"internal link in an external link","[[:en:Heinrich<!-- [[:ja:ハインリヒ]] とリンク -->|Heinrich]]"]]

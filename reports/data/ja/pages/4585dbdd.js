@@ -1,0 +1,1 @@
+window.data=[["invalid-css",9,87,"property value expected","#f"],["no-duplicate",9,32,"duplicated style attribute","style=\"font-size: 80%\""],["no-duplicate",9,69,"duplicated style attribute","style=\"background:#f;\""]]

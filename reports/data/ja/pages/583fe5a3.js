@@ -1,0 +1,1 @@
+window.data=[["invalid-css",694,51,"term expected",""],["no-ignored",694,52,"containing invalid attribute","text-align:center\""]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",9,24,"duplicated style attribute","style=\"font-size:small; background:#ffffff\""],["no-duplicate",9,69,"duplicated style attribute","style=\"font-size:small; background:#ffffff\""],["no-ignored",289,14,"containing invalid attribute","東京パフォーマンスドール"]]

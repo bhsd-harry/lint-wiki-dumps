@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,2,"duplicated category","[[Category:過去の違反報告|あらししこさしもとしIP]]"],["no-duplicate",161,2,"duplicated category","[[Category:過去の違反報告]]"]]

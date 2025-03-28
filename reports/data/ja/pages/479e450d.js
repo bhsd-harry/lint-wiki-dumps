@@ -1,0 +1,1 @@
+window.data=[["nested-link",13,331,"internal link in an external link","[[CBCテレビ|CBC]]"]]

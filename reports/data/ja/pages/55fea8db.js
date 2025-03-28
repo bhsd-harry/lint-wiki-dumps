@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1190,3,"containing invalid attribute","チアゴ・アレシャンドレ・メンデス・アウベス"],["invalid-css",1926,92,"} expected","4px"],["invalid-css",1960,112,"} expected","4px"],["invalid-css",2027,112,"} expected","4px"],["invalid-css",2097,112,"} expected","4px"],["invalid-css",2133,111,"} expected","4px"]]

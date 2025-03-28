@@ -1,0 +1,1 @@
+window.data=[["tag-like",140,55,"lonely \"<\"","<ref"],["no-ignored",140,54,"containing invalid attribute","/<ref "],["no-duplicate",140,35,"duplicated name attribute","name=\"週刊映画19730922\""],["no-duplicate",140,60,"duplicated name attribute","name=\"映画時報197310_19\""]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",9,2,"duplicated category","[[Category:イスラムの哲学者]]"],["no-duplicate",12,2,"duplicated category","[[Category:イスラムの哲学者]]"]]

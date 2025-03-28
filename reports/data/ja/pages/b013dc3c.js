@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,59,"duplicated image caption parameter","{{largethumb}}"],["no-duplicate",1,74,"duplicated image caption parameter","[[システィーナ礼拝堂]]にあるサルマ、ボアズ、[[オベデ]]の[[ルネット]]。"]]

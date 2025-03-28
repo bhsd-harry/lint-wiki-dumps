@@ -1,0 +1,1 @@
+window.data=[["no-ignored",44,1,"invalid content in <gallery>"," Ulisse Aldrovandi - [[Red-flanked Duiker]] - WGA00138.jpg|Red-flanked Duiker"],["no-ignored",45,1,"invalid content in <gallery>"," Ulisse Aldrovandi -[[Red Hartebeest]] - WGA00137.jpg|Red Hartebeest"]]

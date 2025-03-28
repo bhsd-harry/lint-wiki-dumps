@@ -1,0 +1,1 @@
+window.data=[["no-ignored",555,37,"containing invalid attribute"," 岡山維新の会 (2015-)"]]

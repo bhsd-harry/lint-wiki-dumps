@@ -1,0 +1,1 @@
+window.data=[["no-ignored",57,4,"containing invalid attribute","クラス= \"ソート可能なwikitable\""]]

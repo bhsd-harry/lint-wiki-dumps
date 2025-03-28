@@ -1,0 +1,1 @@
+window.data=[["nested-link",78,50,"internal link in an external link","[[もしも (テレビ番組)|もしも]]"]]

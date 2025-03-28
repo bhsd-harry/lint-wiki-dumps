@@ -1,0 +1,1 @@
+window.data=[["no-ignored",30,5,"containing invalid attribute","練習ヘリコプター"],["no-ignored",281,3,"containing invalid attribute","[輸送機#回転翼機"],["illegal-attr",712,11,"illegal attribute name","LC-130"],["no-ignored",712,5,"containing invalid attribute","ロッキード "],["illegal-attr",1067,5,"illegal attribute name","Su-35"],["no-ignored",1067,10,"containing invalid attribute"," (航空機)"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,23,"useless link text","|罰金制度"]]

@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",25,44,"unclosed tag","<small>"],["unmatched-tag",25,68,"unclosed tag","<small>"],["nested-link",47,240,"internal link in an external link","[[日外アソシエーツ]]"]]

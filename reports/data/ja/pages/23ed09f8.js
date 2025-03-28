@@ -1,0 +1,1 @@
+window.data=[["pipe-like",53,47,"additional \"|\" in a table cell","||ルーマニア語、ラトビア語、リヴォニア語で用いられる"]]

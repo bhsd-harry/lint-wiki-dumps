@@ -1,0 +1,1 @@
+window.data=[["nested-link",13,119,"internal link in an external link","[[ナショナル ジオグラフィック (雑誌)|ナショナル ジオグラフィック]]"],["nested-link",13,248,"internal link in an external link","[[アレクセイ・コヴァリョフ|コヴァリョフ A.]]"]]

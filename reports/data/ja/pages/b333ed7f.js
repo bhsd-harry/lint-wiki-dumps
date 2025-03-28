@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",126,216,"lonely \"[\"","["],["lonely-bracket",127,65,"lonely \"]\"","]"],["nested-link",231,319,"internal link in an external link","[[DeNA]]"]]

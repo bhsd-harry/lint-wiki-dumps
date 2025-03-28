@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",7,14,"duplicated category","[[Category:韓国の軍事史|せんそう]]"],["no-duplicate",8,14,"duplicated category","[[Category:韓国の軍事史|せんそう]]"]]

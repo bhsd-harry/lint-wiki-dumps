@@ -1,0 +1,1 @@
+window.data=[["no-ignored",4,14,"containing invalid attribute"," border-style:solid; "]]

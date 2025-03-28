@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",135,33,"duplicated image caption parameter","リンク=https://en.wikipedia.org/wiki/File:CHE Maienfeld COA.svg"],["no-duplicate",135,104,"duplicated image caption parameter","Maienfeld"]]

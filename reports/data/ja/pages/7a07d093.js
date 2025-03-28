@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",48,21,"illegal attribute name","sortable"],["unmatched-tag",58,36,"tag that is both closing and self-closing","</br>"],["unmatched-tag",58,64,"tag that is both closing and self-closing","</br>"],["unmatched-tag",58,93,"tag that is both closing and self-closing","</br>"]]

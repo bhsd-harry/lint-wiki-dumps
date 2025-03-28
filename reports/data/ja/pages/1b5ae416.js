@@ -1,0 +1,1 @@
+window.data=[["invalid-css",297,160,"property value expected",""],["no-ignored",297,160,"containing invalid attribute"," nowrap;\""]]

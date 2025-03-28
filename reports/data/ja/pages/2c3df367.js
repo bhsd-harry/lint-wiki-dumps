@@ -1,0 +1,1 @@
+window.data=[["invalid-css",132,23,"property value expected","#"],["no-duplicate",711,3,"duplicated align attribute","align=\"center\""],["no-duplicate",711,19,"duplicated align attribute","align=\"center\""],["unmatched-tag",865,2,"unmatched closing tag","</span>"]]

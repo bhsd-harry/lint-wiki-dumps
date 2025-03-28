@@ -1,0 +1,1 @@
+window.data=[["tag-like",18,13,"lonely \"<\"","<ref"],["no-ignored",17,31,"containing invalid attribute","  /\n |資本金=1000万円<ref "],["no-duplicate",17,22,"duplicated name attribute","name=\"co\""],["no-duplicate",18,18,"duplicated name attribute","name=\"co\""]]

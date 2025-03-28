@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",187,8,"duplicated parameter","\n ==== つくばハイテクパークいわい ====\n * [[福山通運]]\n * [[LIXIL]]\n * [[ウッドワン]]\n * [[全日食]]\n * 田中食品興業所\n * NEケムキャット\n *"],["no-duplicate",205,3,"duplicated parameter","\n ==== 沓掛工業団地 ====\n * [[エフピコ]]\n * 前山倉庫\n * カシワテック 筑波工場\n * コバックス\n * [[ヤマダイ]] 坂東ファクトリー\n "]]

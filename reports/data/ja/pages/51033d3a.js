@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",162,24,"illegal attribute name","ruls"],["invalid-css",178,29,"} expected","1em"],["invalid-css",178,28,"colon expected",";"],["invalid-css",178,51,"{ expected",";"],["invalid-css",202,29,"} expected","1em"],["invalid-css",202,28,"colon expected",";"],["invalid-css",202,51,"{ expected",";"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",33,8,"duplicated parameter","\n === 作曲家 ===\n * [[長谷川哲史]]\n\n === 俳優 ===\n * [[松本カオル]]\n * [[海道力也]]（業務提携）\n\n "],["no-duplicate",41,3,"duplicated parameter","\n\n === 女優 ===\n * [[朝比奈加奈]]\n * [[岡野さくら]]\n * [[鈴木まゆ]]\n * [[森田このみ]]\n * [[優美早紀]]\n * [[黒永明日香]]\n * [[寺村恵理加"]]

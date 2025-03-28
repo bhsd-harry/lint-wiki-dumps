@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",69,404,"duplicated name attribute","name"],["no-duplicate",69,409,"duplicated name attribute","name=\"dokusyo\""]]

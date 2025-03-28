@@ -1,0 +1,1 @@
+window.data=[["unmatched-tag",89,4,"unmatched closing tag","</center>"],["invalid-gallery",174,26,"invalid image parameter","right"]]

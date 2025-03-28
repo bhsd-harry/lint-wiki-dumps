@@ -1,0 +1,1 @@
+window.data=[["nested-link",238,92,"internal link in an external link","[[第151合同任務部隊|第151連合任務部隊（CTF151）]]"]]

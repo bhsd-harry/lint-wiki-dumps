@@ -1,0 +1,1 @@
+window.data=[["invalid-css",85,74,"} expected","4px"],["no-ignored",117,35,"containing invalid attribute","bgcolor\"#DEB678\""]]

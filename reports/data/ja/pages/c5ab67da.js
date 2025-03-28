@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",1151,225,"lonely \"}\"","}"],["illegal-attr",1435,144,"illegal attribute name","Barents"],["illegal-attr",1435,152,"illegal attribute name","Sea"],["no-ignored",1435,134,"containing invalid attribute","『Fishing: "]]

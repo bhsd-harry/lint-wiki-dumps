@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",18,50,"duplicated image caption parameter","px"],["no-duplicate",18,53,"duplicated image caption parameter","ストヤノフに贈られた[[二級鉄十字章]]の表彰状。（1943年9月22日）"]]

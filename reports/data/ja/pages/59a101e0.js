@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",624,33,"illegal attribute name","minapita"],["no-ignored",624,23,"containing invalid attribute","南海グループカード "]]

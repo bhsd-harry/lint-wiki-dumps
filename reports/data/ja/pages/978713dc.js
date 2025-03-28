@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",48,3,"duplicated parameter"," 話数 =全13話（シーズン1）\n "],["no-duplicate",49,3,"duplicated parameter"," 話数 =シーズン1：全13話\n "]]

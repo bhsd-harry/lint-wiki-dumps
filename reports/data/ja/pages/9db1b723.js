@@ -1,0 +1,1 @@
+window.data=[["nested-link",20,360,"internal link in an external link","[[泉涌寺]]"],["nested-link",20,369,"internal link in an external link","[[密乗山長福寺|密乘山長&#64027;寺]]"],["nested-link",20,547,"internal link in an external link","[[松尾三宮社]]"]]

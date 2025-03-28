@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",10,8,"duplicated parameter","\n ==== 斎姫異聞 ====\n イラスト：[[浅見侑]]、全15巻+外伝1巻\n # 斎姫異聞\n # 月光真珠\n # 六花風舞\n # 夢幻調伏\n # 満天星降\n # 暁闇新皇\n # 燐火鎮魂\n # "],["no-duplicate",29,3,"duplicated parameter","\n ==== 斎姫繚乱 ====\n イラスト：[[浅見侑]]、全13巻\n # 斎姫繚乱\n # 積善白花\n # 火炎藤葛\n # 龍棲宝珠\n # 怨呪白妙\n # 華燭恋唄\n # 歳星天経\n # 夜啼姫神\n"]]

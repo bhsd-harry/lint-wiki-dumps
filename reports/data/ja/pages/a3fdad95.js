@@ -1,0 +1,1 @@
+window.data=[["parsing-order",516,135,"HTML tag in table attributes","<br/>"],["no-ignored",516,129,"containing invalid attribute"," 2021年<br/>（BF活動再開） "],["illegal-attr",1731,39,"illegal attribute name","MSH"],["illegal-attr",1731,43,"illegal attribute name","Entertainment"],["illegal-attr",2204,4,"illegal attribute name","3"]]

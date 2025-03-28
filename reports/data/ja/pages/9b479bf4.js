@@ -1,0 +1,1 @@
+window.data=[["no-ignored",43,1,"invalid content in <gallery>"," [[File:Torigashima island.jpg|250px|thumb|前浜海岸にある新島の陸繋島「鳥ヶ島」干潮時に渡島できる]]"]]

@@ -1,0 +1,1 @@
+window.data=[["tag-like",85,106,"lonely \"<\"","</nowiki"],["parsing-order",117,84,"HTML tag in table attributes","<br />"],["no-ignored",117,3,"containing invalid attribute"," 個人設定の「{{int:wikieditor-toolbar-dialogs-preference}}」がオンなら、列と行を入力できるダイアログが表示されます。<br /><nowiki>{</no"],["tag-like",169,106,"lonely \"<\"","</nowiki"]]

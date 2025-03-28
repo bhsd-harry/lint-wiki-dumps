@@ -1,0 +1,1 @@
+window.data=[["nested-link",93,233,"internal link in an external link","[[Yahoo! JAPAN]]"],["nested-link",135,115,"internal link in an external link","[[東京ダンス&アクターズ専門学校]]"]]

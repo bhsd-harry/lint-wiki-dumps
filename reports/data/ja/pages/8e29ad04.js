@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",3,93,"duplicated image caption parameter","<!--450-->250px"],["no-duplicate",3,109,"duplicated image caption parameter","<!--川に面した中央の高層ビルが-->ロイヤル・オーキッド・シェラトン・ホテル&タワーズ"]]

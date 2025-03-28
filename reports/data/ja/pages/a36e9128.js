@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",43,26,"duplicated caption attribute","caption=\"\""],["no-duplicate",43,51,"duplicated caption attribute","caption=作者自身による系図"]]

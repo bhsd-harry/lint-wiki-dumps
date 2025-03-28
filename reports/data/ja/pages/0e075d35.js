@@ -1,0 +1,1 @@
+window.data=[["no-ignored",169,1,"invalid content in <gallery>"," File:Naosuke Matsuki.jpg陸軍中将。[[松木直亮]]"],["no-ignored",345,1,"invalid content in <gallery>"," Image:HakkodaStatue2.jpg[[1902年]]（明治35年）当時の下士（陸軍歩兵伍長）の外套。[[後藤房之助]]"]]

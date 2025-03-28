@@ -1,0 +1,1 @@
+window.data=[["nested-link",131,136,"internal link in an external link","[[自衛隊ハイチPKO派遣|第3次ハイチ派遣国際救援隊長]]"]]

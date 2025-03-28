@@ -1,0 +1,1 @@
+window.data=[["lonely-http",78,43,"lonely \"ISBN\"","ISBN"],["lonely-bracket",100,110,"lonely \"]\"","]"]]

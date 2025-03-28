@@ -1,0 +1,1 @@
+window.data=[["nested-link",27,203,"internal link in an external link","[[ユニバーサルミュージック合同会社|ポリドール株式会社]]"],["nested-link",37,158,"internal link in an external link","[[ユニバーサルミュージック合同会社]]"]]

@@ -1,0 +1,1 @@
+window.data=[["parsing-order",126,6,"HTML tag in table attributes","</div>"],["unmatched-tag",126,6,"unmatched closing tag","</div>"],["no-ignored",126,4,"containing invalid attribute","  </div>"],["unmatched-tag",127,2,"unmatched closing tag","</div>"],["fostered-content",127,1,"content to be moved out from the table"," </div>"]]

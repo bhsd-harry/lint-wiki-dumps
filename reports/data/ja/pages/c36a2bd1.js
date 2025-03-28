@@ -1,0 +1,1 @@
+window.data=[["invalid-css",988,112,"} expected","4px"],["invalid-css",1074,112,"} expected","4px"],["invalid-css",1164,112,"} expected","4px"],["no-ignored",1286,9,"containing invalid attribute","rowspan\"1\"  "]]

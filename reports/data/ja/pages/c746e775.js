@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",479,68,"duplicated style attribute","style=\"text-align:center\""],["no-duplicate",479,109,"duplicated style attribute","style=\"text-align:center\""],["no-ignored",1062,4,"containing invalid attribute","||最終回おまけ||style=\"text-align:center\"|-||高本宣弘||筒井義明||丹内司||style=\"text-align:center\"|- "]]

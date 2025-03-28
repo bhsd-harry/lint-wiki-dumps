@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",152,66,"duplicated image caption parameter","px"],["no-duplicate",152,69,"duplicated image caption parameter","デス・トライアングル[[AEW世界トリオ王座]]"]]

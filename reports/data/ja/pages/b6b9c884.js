@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",364,88,"lonely \"[\"","["],["no-ignored",610,50,"containing invalid attribute","  font-weight:bold;\""]]

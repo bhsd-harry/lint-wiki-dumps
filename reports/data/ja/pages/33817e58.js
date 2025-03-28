@@ -1,0 +1,1 @@
+window.data=[["nested-link",35,186,"internal link in an external link","[[バブル景気|バブル]]"],["illegal-attr",43,17,"illegal attribute name","nowrap"],["illegal-attr",75,17,"illegal attribute name","nowrap"],["illegal-attr",93,4,"illegal attribute name","nowrap"]]

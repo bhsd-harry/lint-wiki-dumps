@@ -1,0 +1,1 @@
+window.data=[["no-ignored",148,23,"containing invalid attribute","|gallery "],["lonely-bracket",153,47,"lonely \"{\"","{{"],["no-duplicate",153,47,"duplicated image caption parameter","{{仮リンク"],["no-duplicate",153,54,"duplicated image caption parameter","アバトン西側"]]

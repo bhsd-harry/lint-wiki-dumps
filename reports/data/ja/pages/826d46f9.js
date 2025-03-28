@@ -1,0 +1,1 @@
+window.data=[["no-ignored",311,5,"containing invalid attribute","||ジョエル・マングラム||投手コーディネイター"],["no-ignored",313,5,"containing invalid attribute","||ジョー・トーレス||投手コーディネイター"],["lonely-bracket",315,7,"lonely \"[\"","[["],["lonely-bracket",315,35,"lonely \"]\"","]]"],["no-ignored",315,5,"containing invalid attribute","||[[ジョン・マクドナルド (野球)|ジョン・マクドナルド]]||守備コーディネイター"]]

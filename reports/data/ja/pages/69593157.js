@@ -1,0 +1,1 @@
+window.data=[["no-ignored",75,309,"containing invalid attribute"," name\"沙石集_米沢本\""],["no-ignored",192,162,"containing invalid attribute"," name\"水谷2009\""],["lonely-bracket",355,64,"lonely \"[\"","[["],["lonely-bracket",355,70,"lonely \"]\"","]]"]]

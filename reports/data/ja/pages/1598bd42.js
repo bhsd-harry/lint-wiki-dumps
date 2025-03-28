@@ -1,0 +1,1 @@
+window.data=[["no-ignored",152,15,"containing invalid attribute","  style-\"font-size: 85%;\"  "],["illegal-attr",321,67,"illegal attribute name","href"]]

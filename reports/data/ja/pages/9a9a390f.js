@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",101,4,"illegal attribute name","Vorarlberg"],["illegal-attr",101,15,"illegal attribute name","University"],["illegal-attr",101,26,"illegal attribute name","of"],["illegal-attr",101,29,"illegal attribute name","Applied"],["illegal-attr",101,37,"illegal attribute name","Sciences"]]

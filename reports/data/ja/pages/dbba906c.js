@@ -1,0 +1,1 @@
+window.data=[["no-ignored",80,4,"containing invalid attribute","1972年 || テンプテーションズ ||『All Directions』"]]

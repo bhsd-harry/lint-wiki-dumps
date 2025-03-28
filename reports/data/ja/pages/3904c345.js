@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",58,2,"duplicated category","[[Category:アジア競技大会陸上競技メダリスト]]"],["no-duplicate",62,2,"duplicated category","[[Category:アジア競技大会陸上競技メダリスト]]"]]

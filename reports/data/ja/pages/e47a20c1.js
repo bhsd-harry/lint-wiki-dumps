@@ -1,0 +1,1 @@
+window.data=[["no-ignored",88,1,"invalid content in <gallery>"," ファイル:F6F-5N_F6F-5_CVE-87_1944-45.jpg[[スティーマー・ベイ (護衛空母)|スチーマー・ベィ]]から離陸する、夜戦型 F6F-5N<br/>右主翼の円筒状の張出しが"]]

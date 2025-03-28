@@ -1,0 +1,1 @@
+window.data=[["invalid-css",75,68,"semi-colon expected",""],["invalid-css",75,68,"colon expected",""],["no-ignored",77,3,"containing invalid attribute","!align=\"center\""]]

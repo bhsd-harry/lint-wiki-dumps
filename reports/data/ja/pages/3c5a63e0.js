@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",103,192,"duplicated parameter","publisher=アイティメディア"],["no-duplicate",103,235,"duplicated parameter","publisher=アイティメディア"]]

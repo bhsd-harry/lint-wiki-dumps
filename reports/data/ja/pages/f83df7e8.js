@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",790,4,"lonely \"[\"","[["],["lonely-bracket",790,16,"lonely \"]\"","]]"],["no-ignored",790,4,"containing invalid attribute","[[オスカー・アイザック]]"]]

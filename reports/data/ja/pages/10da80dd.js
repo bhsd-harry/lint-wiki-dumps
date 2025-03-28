@@ -1,0 +1,1 @@
+window.data=[["parsing-order",58,4,"HTML tag in table attributes","<span style=\"display:none\">"],["parsing-order",58,33,"HTML tag in table attributes","</span>"],["no-ignored",58,3,"containing invalid attribute"," <span style=\"display:none\">00</span>  "]]

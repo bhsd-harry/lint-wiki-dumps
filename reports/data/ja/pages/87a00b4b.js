@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",79,97,"illegal attribute name","classstyle"],["no-duplicate",79,24,"duplicated style attribute","style=\"white-space: nowrap; overflow:scroll; width:100%; margin:0 auto\""],["no-duplicate",79,129,"duplicated style attribute","style=\"font-size:80%\""]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",278,13,"illegal attribute name","WORLD"],["no-ignored",278,3,"containing invalid attribute"," POPMAN'S "],["no-ignored",278,18,"containing invalid attribute"," -Second-#DELUXE盤のみ"]]

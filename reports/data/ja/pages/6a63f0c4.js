@@ -1,0 +1,1 @@
+window.data=[["no-ignored",89,4,"containing invalid attribute","|style=\"text-align:center\"|大字十八日町"]]

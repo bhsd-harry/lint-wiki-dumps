@@ -1,0 +1,1 @@
+window.data=[["no-ignored",72,4,"containing invalid attribute","伊藤幸男||17||近鉄||"]]

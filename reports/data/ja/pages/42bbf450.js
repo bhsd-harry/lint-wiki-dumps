@@ -1,0 +1,1 @@
+window.data=[["no-ignored",37,41,"containing invalid attribute","生年月日"],["no-ignored",39,41,"containing invalid attribute","生年月日"],["no-ignored",41,40,"containing invalid attribute","生年月日"],["no-ignored",43,41,"containing invalid attribute","生年月日"],["no-ignored",45,39,"containing invalid attribute","生年月日"]]

@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",67,28,"duplicated image caption parameter","px"],["no-duplicate",67,31,"duplicated image caption parameter","3代目「ABC」ロゴ（大淀旧社屋裏の旧大阪タワー案内板）（2008年撮影）"],["no-duplicate",68,36,"duplicated image caption parameter","px"],["no-duplicate",68,39,"duplicated image caption parameter","3代目「ABC」ロゴと6マークが付けられたままの中継車（2012年撮影）"]]

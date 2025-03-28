@@ -1,0 +1,1 @@
+window.data=[["no-ignored",596,11,"containing invalid attribute","  \"注釈\"=\"\"  "],["no-ignored",654,15,"containing invalid attribute","  \"注釈\"=\"\"  "]]

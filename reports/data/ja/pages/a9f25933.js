@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",302,34,"duplicated align attribute","align='center'"],["no-duplicate",302,49,"duplicated align attribute","align='center'"]]

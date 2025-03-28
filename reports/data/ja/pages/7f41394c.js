@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",24,744,"duplicated image caption parameter","サバ・メフル・ガズヴィーンBC"],["no-duplicate",24,760,"duplicated image caption parameter","サバ・バッテリー・テヘランBC"]]

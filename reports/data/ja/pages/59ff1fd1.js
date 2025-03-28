@@ -1,0 +1,1 @@
+window.data=[["pipe-like",29,99,"additional \"|\" in a table cell","ワシル・レフスキ高等軍事学校\n G,Sラコフスキー陸軍士官学校\n\n ソ連　参謀アカデミー||陸軍参謀長"]]

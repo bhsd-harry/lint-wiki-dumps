@@ -1,0 +1,1 @@
+window.data=[["invalid-css",1202,84,"semi-colon expected","normal"],["invalid-css",1202,77,"colon expected","space"],["invalid-css",1206,75,"semi-colon expected","normal"],["invalid-css",1206,68,"colon expected","space"],["no-ignored",1530,22,"containing invalid attribute","  style-\"text-align:left;font-size: small;white-space: nowrap;\""]]

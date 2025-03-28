@@ -1,0 +1,1 @@
+window.data=[["no-ignored",87,1,"invalid content in <gallery>"," [File:Hamarikyū Garden 浜離宮恩賜庭園 - panoramio - AMANO Jun-ichi.jpg|浜離宮恩賜庭園から汐留のビル群を望む"]]

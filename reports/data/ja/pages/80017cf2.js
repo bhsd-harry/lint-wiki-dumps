@@ -1,0 +1,1 @@
+window.data=[["nested-link",70,82,"internal link in an external link","[[茨城県]]"],["nested-link",70,89,"internal link in an external link","[[筑波山]]"]]

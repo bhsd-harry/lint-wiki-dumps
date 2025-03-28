@@ -1,0 +1,1 @@
+window.data=[["no-ignored",628,32,"containing invalid attribute","『ミリオンアーサー アルカナブラッド』風で、二刀アーサーとエルからの大納言エルが対戦するが、大納言エルのナイスちんちん！でエルが勝利する"],["no-ignored",630,55,"containing invalid attribute","乖離性ミリオンアーサーのCM風で　『ミリアサあるある』をやるエルとビスクラヴレット"]]

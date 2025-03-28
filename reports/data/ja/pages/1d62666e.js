@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:ユニバーサル・ピクチャーズの作品]]"],["no-duplicate",7,2,"duplicated category","[[Category:ユニバーサル・ピクチャーズの作品]]"]]

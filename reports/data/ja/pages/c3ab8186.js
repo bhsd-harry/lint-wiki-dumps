@@ -1,0 +1,1 @@
+window.data=[["invalid-css",94,56,"semi-colon expected",":"],["no-duplicate",178,24,"duplicated style attribute","style=\"text-align:center\""],["no-duplicate",178,51,"duplicated style attribute","style=\"font-size:85%\""]]

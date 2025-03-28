@@ -1,0 +1,1 @@
+window.data=[["no-ignored",498,534,"containing invalid attribute"," name\"endo2ch\""],["invalid-css",556,42,"colon expected",";"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",43,659,"containing invalid attribute","ギリシャ文字が発達したのは紀元前8世紀"]]

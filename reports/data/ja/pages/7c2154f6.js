@@ -1,0 +1,1 @@
+window.data=[["no-ignored",306,15,"containing invalid attribute","  !rowspan=\"2\"  "],["no-duplicate",357,3,"duplicated colspan attribute","colspan=\"2\""],["no-duplicate",357,16,"duplicated colspan attribute","colspan=\"2\""]]

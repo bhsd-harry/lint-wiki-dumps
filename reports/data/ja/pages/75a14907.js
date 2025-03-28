@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,19,"useless link text","|ムムターズ・マハル (曖昧さ回避)"]]

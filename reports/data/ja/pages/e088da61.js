@@ -1,0 +1,1 @@
+window.data=[["no-ignored",110,1,"invalid content in <gallery>"," ファイル:|<br />[[commons:Category:|{{Snamei|}}]]"]]

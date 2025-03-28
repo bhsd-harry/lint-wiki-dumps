@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",10,2,"duplicated category","[[Category:ハイファンタジー小説]]"],["no-duplicate",19,2,"duplicated category","[[Category:ハイファンタジー小説]]"]]

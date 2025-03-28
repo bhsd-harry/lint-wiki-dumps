@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",390,45,"lonely \"[\"","[["],["lonely-bracket",390,53,"lonely \"]\"","]]"],["lonely-bracket",390,57,"lonely \"[\"","[["],["lonely-bracket",390,68,"lonely \"]\"","]]"],["no-ignored",390,43,"containing invalid attribute","* [[一般社団法人]]  [[LGBT理解増進会]] (顧問) "]]

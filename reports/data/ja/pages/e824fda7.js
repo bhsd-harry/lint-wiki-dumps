@@ -1,0 +1,1 @@
+window.data=[["no-ignored",306,24,"containing invalid attribute","栃木SC"],["invalid-css",360,89,"} expected","4px"],["invalid-css",360,130,"{ expected",";"],["invalid-css",398,109,"} expected","4px"],["invalid-css",596,109,"} expected","4px"],["invalid-css",782,90,"} expected","4px"]]

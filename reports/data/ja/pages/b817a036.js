@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",34,47,"duplicated image caption parameter","リンク=//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/The Beatles arrive at JFK Airport.jpg/220px-"],["no-duplicate",34,193,"duplicated image caption parameter","[[ビートルズ]]が米国に到着し、その後''[[エド・サリヴァン・ショー]]''に出演したことで、ブリティッシュ・インヴェイジョンが始まった。"]]

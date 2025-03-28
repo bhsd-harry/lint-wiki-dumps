@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,22,"useless link text","|日本の大蔵大臣・財務大臣一覧"]]

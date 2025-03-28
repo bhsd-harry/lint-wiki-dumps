@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:職業別の女性 (国別)| せいき]]"],["no-duplicate",7,2,"duplicated category","[[Category:職業別の女性 (国別)| せいき]]"]]

@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",399,79,"lonely \"{\"","{{"],["lonely-bracket",399,89,"lonely \"}\"","}}"],["lonely-bracket",408,15,"lonely \"}\"","}}"],["nested-link",614,139,"internal link in an external link","[[SKE48]]"],["nested-link",614,285,"internal link in an external link","[[AKB48]]"],["unmatched-tag",614,398,"unmatched closing tag","</small>"]]

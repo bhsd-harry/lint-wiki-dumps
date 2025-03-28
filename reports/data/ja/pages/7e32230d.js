@@ -1,0 +1,1 @@
+window.data=[["no-ignored",1,49,"useless link text","|ニコマートシリーズ"]]

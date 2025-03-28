@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,26,"duplicated image caption parameter","氷旗の例"],["no-duplicate",5,43,"duplicated image caption parameter","氷旗の例"]]

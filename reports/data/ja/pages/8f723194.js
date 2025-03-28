@@ -1,0 +1,1 @@
+window.data=[["unescaped",2562,50,"unescaped query string in an anonymous parameter","="]]

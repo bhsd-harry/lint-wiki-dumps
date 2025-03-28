@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",2,2,"duplicated category","[[Category:20世紀朝鮮の詩人|かんこく]]"],["no-duplicate",4,2,"duplicated category","[[Category:20世紀朝鮮の詩人|かんこく]]"]]

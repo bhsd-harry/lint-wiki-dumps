@@ -1,0 +1,1 @@
+window.data=[["nested-link",208,141,"internal link in an external link","[[歌詞]]"],["nested-link",211,129,"internal link in an external link","[[LIVE]]"],["nested-link",217,151,"internal link in an external link","[[夢想]]"]]

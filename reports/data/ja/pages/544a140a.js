@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,92,"duplicated image caption parameter","<!--300-->220px"],["no-duplicate",1,120,"duplicated image caption parameter","ロンドン五輪での梁鶴善"]]

@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",1,29,"illegal attribute name","border:"],["illegal-attr",1,37,"illegal attribute name","1px"],["illegal-attr",1,41,"illegal attribute name","solid"],["no-ignored",1,46,"containing invalid attribute"," #6688AA; background-color:#FFFFFF; padding:1em;\""]]

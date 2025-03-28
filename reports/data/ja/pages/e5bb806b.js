@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",285,4,"lonely \"[\"","[["],["lonely-bracket",285,13,"lonely \"]\"","]]"],["no-ignored",285,4,"containing invalid attribute","[[Netflix]]"]]

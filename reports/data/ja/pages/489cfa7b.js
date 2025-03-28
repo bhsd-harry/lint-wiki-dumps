@@ -1,0 +1,1 @@
+window.data=[["no-ignored",39,44,"containing invalid attribute","  \"news\""]]

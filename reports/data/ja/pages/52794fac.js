@@ -1,0 +1,1 @@
+window.data=[["no-ignored",33,20,"containing invalid attribute","　トラスト (自動車部品)"]]

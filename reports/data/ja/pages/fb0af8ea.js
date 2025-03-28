@@ -1,0 +1,1 @@
+window.data=[["tag-like",31,35,"lonely \"<\"","<ref"],["no-ignored",28,609,"containing invalid attribute","\n\n == 正式名称 ==\n 厚生労働省では、「柔道整復師」を資格者の名称として正式に定めている<ref "]]

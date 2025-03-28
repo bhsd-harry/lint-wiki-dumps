@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:18世紀のスコットランド|*しんふつ]]"],["no-duplicate",8,2,"duplicated category","[[Category:18世紀のスコットランド|しんふつ]]"]]

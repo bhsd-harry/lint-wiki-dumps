@@ -1,0 +1,1 @@
+window.data=[["nested-link",10,624,"internal link in an external link","[[ストローマン論法]]"]]

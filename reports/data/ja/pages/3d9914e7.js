@@ -1,0 +1,1 @@
+window.data=[["no-ignored",143,96,"containing invalid attribute","\n  ＊名古屋市営地下鉄庄内通駅から徒歩19分(1500m)\n "]]

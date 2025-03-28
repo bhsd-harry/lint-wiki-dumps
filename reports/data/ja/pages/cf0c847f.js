@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",192,5,"duplicated cellspacing attribute","cellspacing=\"0\""],["no-duplicate",192,22,"duplicated cellspacing attribute","cellspacing=\"2\""]]

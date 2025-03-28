@@ -1,0 +1,1 @@
+window.data=[["no-ignored",264,10,"containing invalid attribute"," サンテレビジョン"],["no-ignored",270,11,"containing invalid attribute"," ワールド・ハイビジョン・チャンネル"],["no-ignored",276,10,"containing invalid attribute"," サンテレビジョン"],["no-ignored",278,11,"containing invalid attribute"," ワールド・ハイビジョン・チャンネル"],["no-ignored",286,10,"containing invalid attribute"," サンテレビジョン"]]

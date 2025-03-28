@@ -1,0 +1,1 @@
+window.data=[["no-ignored",2,4,"useless fragment","ファイル:Bear_claw_pastry.JPG#file"]]

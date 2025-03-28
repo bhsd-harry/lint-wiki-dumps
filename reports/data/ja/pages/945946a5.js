@@ -1,0 +1,1 @@
+window.data=[["nested-link",42,56,"internal link in an external link","[[木内重四郎|木内]]"],["nested-link",42,69,"internal link in an external link","[[京都府知事]]"],["nested-link",48,56,"internal link in an external link","[[臀肉事件|人肉事件]]"]]

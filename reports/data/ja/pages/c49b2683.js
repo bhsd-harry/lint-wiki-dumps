@@ -1,0 +1,1 @@
+window.data=[["tag-like",46,250,"lonely \"<\"","<ref"],["no-ignored",46,248,"containing invalid attribute","  <ref"],["no-ignored",48,389,"containing invalid attribute"," |name=\"All Primark stores\""]]

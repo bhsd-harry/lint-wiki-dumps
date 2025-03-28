@@ -1,0 +1,1 @@
+window.data=[["tag-like",117,12,"lonely \"<\"","<span"],["unmatched-tag",117,90,"unmatched closing tag","</span>"],["lonely-bracket",250,21,"lonely \"[\"","["],["lonely-bracket",250,119,"lonely \"]\"","]"],["lonely-apos",280,10,"lonely \"'\"","'"],["invalid-gallery",333,16,"invalid image parameter","thumb"]]

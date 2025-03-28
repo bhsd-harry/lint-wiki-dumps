@@ -1,0 +1,1 @@
+window.data=[["nested-link",199,582,"internal link in an external link","[[毎日新聞]]"],["lonely-bracket",986,62,"lonely \"[\"","[["],["lonely-bracket",986,74,"lonely \"]\"","]]"]]

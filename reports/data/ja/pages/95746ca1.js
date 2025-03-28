@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",4,2,"duplicated category","[[Category:中央アメリカの神話]]"],["no-duplicate",7,2,"duplicated category","[[Category:中央アメリカの神話]]"]]

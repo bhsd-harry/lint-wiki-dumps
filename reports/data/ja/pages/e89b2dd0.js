@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",11,2,"duplicated category","[[Category:東海・北陸地方のラジオ局]]"],["no-duplicate",14,2,"duplicated category","[[Category:東海・北陸地方のラジオ局]]"]]

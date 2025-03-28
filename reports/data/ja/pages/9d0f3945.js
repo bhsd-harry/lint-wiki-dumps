@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",9,65,"duplicated image caption parameter","px"],["no-duplicate",9,68,"duplicated image caption parameter","Sv-262のデザインモチーフとされた[[サーブ 35 ドラケン]]"],["no-duplicate",10,45,"duplicated image caption parameter","px"],["no-duplicate",10,48,"duplicated image caption parameter","[[サーブ 210]]（リルドラケン）"]]

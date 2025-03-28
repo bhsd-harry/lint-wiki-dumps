@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",11,68,"lonely \"[\"","[["],["lonely-bracket",11,73,"lonely \"]\"","]]"],["lonely-bracket",11,78,"lonely \"[\"","[["],["lonely-bracket",11,85,"lonely \"]\"","]]"],["no-ignored",1086,3,"containing invalid attribute","チョコレート･アスレチック"],["no-ignored",1433,3,"containing invalid attribute","エッビーナースデイ"]]

@@ -1,0 +1,1 @@
+window.data=[["nested-link",91,630,"internal link in an external link","[[渡辺忠雄 (三和銀行)|渡辺忠雄]]"]]

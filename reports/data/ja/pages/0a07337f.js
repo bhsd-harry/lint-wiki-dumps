@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",7,2,"duplicated category","[[Category:日本の陸軍大臣]]"],["no-duplicate",12,2,"duplicated category","[[Category:日本の陸軍大臣]]"]]

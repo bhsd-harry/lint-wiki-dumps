@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",574,54,"lonely \"[\"","[["],["lonely-bracket",574,72,"lonely \"]\"","]]"],["no-ignored",574,50,"containing invalid attribute","  * [[マイ・ブラッディ・ヴァレンタイン]]"]]

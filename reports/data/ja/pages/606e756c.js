@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",97,8,"duplicated parameter","\n === 運動部 ===\n * アメリカンフットボール部\n * 剣道部\n * 高校硬式野球部\n * 高校軟式野球部\n * 中学軟式野球部\n * ゴルフ部\n * \n * 山岳部\n * 射撃部\n * 柔"],["no-duplicate",121,3,"duplicated parameter","\n === 学芸部 ===\n * 囲碁将棋部\n * 英語研究部\n * 演劇部\n * 音楽同好会\n * 化学部\n * 華道愛好会\n * 軽音楽部\n * 書道部\n * 新聞部\n * 吹奏楽部\n * 生物部"]]

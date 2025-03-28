@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",91,3,"illegal attribute name","2024"],["illegal-attr",91,10,"illegal attribute name","5"],["illegal-attr",91,14,"illegal attribute name","31"],["no-ignored",91,7,"containing invalid attribute"," 年 "],["no-ignored",91,11,"containing invalid attribute"," 月 "],["no-ignored",91,16,"containing invalid attribute"," 日"]]

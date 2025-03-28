@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",4,120,"lonely \"]\"","]]"],["no-duplicate",32,2,"duplicated category","[[Category:Pywikipedia]]"],["no-duplicate",40,2,"duplicated category","[[Category:Pywikipedia|upload.py]]"]]

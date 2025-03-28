@@ -1,0 +1,1 @@
+window.data=[["pipe-like",689,27,"additional \"|\" in a table cell","ニンテンドウパワー書き換え専用||"],["no-ignored",1604,95,"containing invalid attribute","ミニカー・ダンガンレーサーのコンピュータゲーム化"]]

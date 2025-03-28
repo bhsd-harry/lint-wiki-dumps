@@ -1,0 +1,1 @@
+window.data=[["nested-link",90,100,"internal link in an external link","[[:en:Australian Dictionary of Biography|Australian Dictionary of Biography]]"],["nested-link",90,189,"internal link in an external link","[[メルボルン大学出版]]"]]

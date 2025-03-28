@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",129,8,"duplicated parameter","\n ===拠点===\n *本店（東京）\n *北海道支店（札幌）\n *東北支店（仙台）\n *新潟支店（新潟）\n *北陸支店（金沢）\n *東海支店（名古屋）\n *関西支店（大阪）\n *中国支店（広島）\n "],["no-duplicate",151,3,"duplicated parameter","\n === 関係会社 ===\n ;連結子会社\n *株式会社日本経済研究所\n *株式会社価値総合研究所\n *DBJ証券株式会社\n *DBJ事業投資株式会社\n *DBJキャピタル株式会社\n *DBJアセッ"]]

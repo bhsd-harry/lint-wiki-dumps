@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",76,31,"duplicated group attribute","group=\"WEB\""],["no-duplicate",76,44,"duplicated group attribute","group=\"WEB\""],["no-duplicate",87,27,"duplicated group attribute","group=\"WEB\""],["no-duplicate",87,40,"duplicated group attribute","group=\"WEB\""]]

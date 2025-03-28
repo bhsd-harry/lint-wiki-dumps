@@ -1,0 +1,1 @@
+window.data=[["lonely-bracket",14,111,"lonely \"]\"","]"],["illegal-attr",210,4,"illegal attribute name","nowrap"],["no-ignored",237,4,"containing invalid attribute","1月7日"]]

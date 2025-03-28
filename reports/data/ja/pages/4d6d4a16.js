@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",1,107,"duplicated image caption parameter","Flag of Japan"],["no-duplicate",1,121,"duplicated image caption parameter","境界線"]]

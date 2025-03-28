@@ -1,0 +1,1 @@
+window.data=[["illegal-attr",29,43,"illegal attribute name","pan"],["illegal-attr",29,51,"illegal attribute name","de"],["illegal-attr",29,70,"illegal attribute name","variants"],["no-ignored",29,56,"containing invalid attribute","  monja''=\"\"  "]]

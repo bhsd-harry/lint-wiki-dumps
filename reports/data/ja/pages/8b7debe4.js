@@ -1,0 +1,1 @@
+window.data=[["no-ignored",142,4,"containing invalid attribute","8°~+88°||-7°~+90°||-15°~+85°||-10°~+90°"]]

@@ -1,0 +1,1 @@
+window.data=[["no-ignored",91,104,"containing invalid attribute","民主党"],["no-ignored",95,49,"containing invalid attribute","民主党"],["no-ignored",99,100,"containing invalid attribute","民主党"],["no-ignored",103,69,"containing invalid attribute","民主党"]]

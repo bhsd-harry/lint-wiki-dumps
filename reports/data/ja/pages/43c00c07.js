@@ -1,0 +1,1 @@
+window.data=[["no-duplicate",5,2,"duplicated category","[[Category:中国の帝位僭称者]]"],["no-duplicate",9,2,"duplicated category","[[Category:中国の帝位僭称者]]"]]
