@@ -1,1 +1,1201 @@
-window.data={"articles":[["審判者阿里瑟姆",64,2,"duplicated category","[[Category:漫威漫畫作品|A]]"],["寰椎",92,2,"duplicated category","[[Category:骨骼]]"],["寶井理人",31,21,"duplicated style attribute","style=\"font-size:small;\""],["寶島少年",42,33,"duplicated style attribute","style=\"background: #FFF;\""],["寶池公園",8,3,"duplicated parameter","area        = 62.7公頃\n "],["寶萊塢奪命煞星Ⅱ",138,2,"duplicated category","[[Category:泰國取景電影]]"],["寶騰Wira",130,2,"duplicated category","[[Category:1993年面世的汽車]]"],["对TikTok的审查",154,2,"duplicated category","[[分类:抖音]]"],["对维基媒体的审查和封锁",175,273,"duplicated parameter","access-date=2023-08-07"],["對大罷免潮的民意調查",330,4,"duplicated rowspan attribute","rowspan=\"2\""],["對數尺度",32,44,"duplicated image caption parameter","不同的尺度：線性–線性, {{le"],["導演好了沒",64,24,"duplicated style attribute","style=\"text-align:center\""],["小偷與鞋匠",247,96,"duplicated name attribute","name=\"Beck\""],["小傑茲·齊森姆",55,1322,"duplicated parameter","date=2024-07-30"],["小十月党人",4,334,"duplicated parameter","publisher=Pioneers in the Village"],["小南站 (长春轨道交通)",77,52,"duplicated valign attribute","valign=top"],["小双孢菌属",46,2,"duplicated category","[[Category: 链孢囊菌科|*]]"],["小堡螺亚科",21,341,"duplicated parameter","language=en "],["小娘惹",378,3,"duplicated parameter","3电视台={{MYS}} [[Astro AEC|Astro AEC、AEC HD]]\n "],["小婦人 (2019年電影)",203,2,"duplicated category","[[Category:哥倫比亞影業電影]]"],["小小小警察",137,2,"duplicated category","[[Category:香港警匪片]]"],["小嶋真子",73,85,"duplicated parameter","date=2015-06-06"],["小心肝儿",161,2,"duplicated category","[[Category:2020年代英語片]]"],["小春",46,24,"duplicated style attribute","style=\"background:white; text-align:center\""],["小木之城站",37,34,"duplicated name attribute","name=\"zeneki21\""],["小林勇",20,2,"duplicated category","[[Category:日本画家]]"],["小林虎之介",19,3,"duplicated parameter"," 網站 = [https://pinupsartist.jp/actor/kobayashi/ PINUPS artist官網>小林虎之介專頁]\n "],["小森林 (日本電影)",158,2,"duplicated category","[[Category:岩手縣背景電影]]"],["小樹",70,2,"duplicated category","[[category:台灣小說家]]"],["小氣財神：快樂頌",5,3,"duplicated parameter","zh-hk:聖誕快樂頌;zh-tw:小氣財神：快樂頌;\n "],["小洋江站",22,3,"duplicated parameter"," colour = \n "],["小烟墩站",23,2,"duplicated category","[[Category:1970年启用的铁路车站|X]]"],["小熊國",30,2,"duplicated category","[[Category:香港主題公園]]"],["小爸爸上學去",107,2,"duplicated category","[[Category:台視外購電視劇]]"],["小田急3000型電聯車 (初代)",278,852,"duplicated name attribute","name=\"1985-k-28\""],["小米集團",359,2,"duplicated category","[[Category:行動電話製造商]]"],["小艾伯特·布莱恩",36,426,"duplicated parameter","language=en-US"],["小行星614689",63,41,"duplicated image caption parameter","顯示地球拉格朗日點的[[等效位能]]圖（未按比例）；{{L4|nolink=yes}}和{L5"],["小野三太",37,2,"duplicated category","[[Category:倫敦大學學院教師]]"],["小野屋站",271,405,"duplicated group attribute","group=\"統計\""],["小飛俠彼得潘 (電影)",8,3,"duplicated parameter","zh-tw:小飛俠彼得潘;zh-cn:小飞侠彼得潘;zh-sg:神奇小飞侠;zh-hk:小飛俠2004;\n "],["小飛諜",249,2,"duplicated category","[[Category:2012年背景作品]]"],["小鬼當家3",30,3,"duplicated parameter"," cn_name = {{lang|Zh-cn|小鬼当家3}}\n "],["小黄山遗址",39,2,"duplicated category","[[Category:浙江新石器时代遗址]]"],["尖翼石燕属",4,2,"duplicated category","[[Category: 1931年描述的分类群|J]]"],["尚德俊",44,2,"duplicated category","[[Category:国医大师]]"],["尚恩·曼德斯",475,2,"duplicated category","[[Category:英格蘭裔加拿大人]]"],["尚韋帆",82,2,"duplicated category","[[Category:九太科技籃球隊球員]]"],["尤努斯·马尔勒",73,2,"duplicated category","[[Category:德国21岁以下国家足球队球员]]"],["尤吉·貝拉",198,2,"duplicated category","[[Category:美國聯盟最有價值球員獎得主]]"],["尤尼斯·阿魯什",9,2,"duplicated category","[[Category:科索沃國家足球隊球員]]"],["尤清韋",50,5,"duplicated align attribute","align=center"],["尤索夫伊薩東南亞研究所",26,3,"duplicated parameter","logo           = ISEAS - Yusof Ishak Institute logo.svg\n "],["尤里·安东诺夫",42,2,"duplicated category","[[Category:俄罗斯作曲家]]"],["尤金妮·布沙尔",95,50,"duplicated image caption parameter","Right"],["尤长靖",105,5,"duplicated style attribute","style=\"  text-align:center\""],["尧",110,2,"duplicated category","[[Category:中国人物神|E]]"],["尼克·昂斯",47,5,"duplicated align attribute","align=center"],["尼加拉瓜職業棒球聯盟",25,5,"duplicated align attribute","align=center"],["尼古拉·什皮里奇",48,2,"duplicated category","[[Category:波斯尼亚和黑塞哥维那代表院议员]]"],["尼古拉·尼古拉耶维奇·博戈柳博夫",50,2,"duplicated category","[[Category:基輔大學校友]]"],["尼古拉·布雷金",12,3,"duplicated parameter"," constituency = {{le|秋明选区|Tyumen constituency}}\n "],["尼古拉·戴多維奇",49,2,"duplicated category","[[Category:塞爾維亞奧林匹克運動會金牌得主]]"],["尼古拉·扎莱夫斯基",100,2,"duplicated category","[[Category:波蘭國家足球隊球員]]"],["尼古拉·艾登",19,2,"duplicated category","[[Category:英格兰军事人物]]"],["尼古拉·许凯",9,3,"duplicated parameter"," 死亡原因 = \n "],["尼古拉·费克连科",31,2,"duplicated category","[[Category:诺门罕战役人物]]"],["尼古拉·阿扎罗夫",39,3,"duplicated parameter","signature      =\n "],["尼古拉·馬克西莫維奇",29,3,"duplicated parameter"," years8 = 2021–     "],["尼古拉斯·凯奇",78,46,"duplicated image caption parameter","Right"],["尼古拉斯·奥塔门迪",13,3,"duplicated parameter","8=zh-hans:迭戈·马拉多纳;zh-hk:迪亞高·馬勒當拿;zh-tw:迪亞哥·馬拉度納;\n "],["尼古拉斯·马杜罗",194,2,"duplicated category","[[Category:被美國通緝者]]"],["尼古拉耶夫装甲厂",33,3,"duplicated parameter"," area_served = <!-- or: areas_served = -->\n "],["尼基塔·赫鲁晓夫",327,2,"duplicated category","[[Category:蘇聯共產黨總書記]]"],["尼姆·耶尔维",62,2,"duplicated category","[[Category:20世紀愛沙尼亞音樂家]]"],["尼尔·哈塞维奇",164,2,"duplicated category","[[Category:功勋十字勋章获得者]]"],["尼尔·德鲁克曼",424,2,"duplicated category","[[Category:以色列猶太人]]"],["尼康D300",3,44,"duplicated image caption parameter","noframe"],["尼比鲁碰撞",49,2,"duplicated category","[[Category:幽浮文化]]"],["尼波斯",5,87,"duplicated image caption parameter","[[Solidus (coin)|Solidus]] of Emperor Julius Nepos; mint in [[Ravenna]], 474-5"],["尼爾：自動人形Ver1.1a",462,2,"duplicated category","[[Category:2023年日本電視動畫]]"],["尼科·皮羅斯馬尼",2,210,"duplicated parameter","title=Пиросманашвили"],["尼科爾·奧雷姆",33,2,"duplicated category","[[Category:14世紀哲學家]]"],["尼羅河謀殺案 (2022年電影)",242,2,"duplicated category","[[Category:美國續集電影]]"],["尾張德川家",13,26,"duplicated style attribute","style=\"align: left; margin: 0px\""],["居禮夫人：放射永恆",9,3,"duplicated parameter","zh-cn:居里;zh-sg:居礼;zh-hk:居禮;zh-tw:居禮;\n "],["居維象",21,37,"duplicated image caption parameter","Restoration"],["居銮县",365,33,"duplicated style attribute","style=\"white-space:nowrap\""],["屏東縣民公園",7,3,"duplicated parameter","area        = 20[[公頃]]\n "],["屠潔",204,2,"duplicated category","[[Category:台灣主持人]]"],["屯門兆麟政府綜合大樓",70,14,"duplicated 1px attribute","1px"],["屯門海戰",31,29,"duplicated image caption parameter","縮略圖"],["山东省",102,3,"duplicated parameter","image1                         = \n "],["山东鲁能泰山足球俱乐部2011赛季",879,5,"duplicated style attribute","style=\"width:95%;\""],["山姆·哈里斯",20,2,"duplicated category","[[Category:猶太裔美國人]]"],["山姆·巴爾多克",72,2,"duplicated category","[[Category:白禮頓球員]]"],["山姆·曼德斯",252,2,"duplicated category","[[Category:劍橋大學彼得學院校友]]"],["山姓",44,2,"duplicated category","[[Category:山姓|*]]"],["山富国际旅行社",60,2,"duplicated category","[[Category:中華民國證券櫃檯買賣中心上櫃公司]]"],["山寨人生",28,3,"duplicated parameter"," producer = \n "],["山崎之戰",86,2,"duplicated category","[[Category:勝幡織田氏]]"],["山崎八重子",11,95,"duplicated category","[[Category:1972年夏季奧林匹克運動會獎牌得主]]"],["山崎惠理",34,519,"duplicated parameter","language=ja"],["山本健誌",133,2,"duplicated category","[[Category:日本作曲家]]"],["山本洞",13,3,"duplicated parameter"," divs = 30統、197[[班 (行政區劃)|班]]\n "],["山本笃",10,2,"duplicated category","[[Category:日本男子田徑運動員]]"],["山東昭子",133,2,"duplicated category","[[Category:藝人出身的政治人物]]"],["山海关站",28,3,"duplicated parameter"," pinyin_code = SHG\n "],["山海经",130,242,"duplicated parameter"," doi = 10.3969/j.issn.1673-1395.2006.02.003"],["山西省体育馆比赛馆",7,3,"duplicated parameter","坐标 =\n "],["山陽本線 (廣島地區)",435,3,"duplicated style attribute","style=\"text-align:center;\""],["岚皋路站",6,3,"duplicated parameter","type = [[上海地铁]]车站\n "],["岡山路竹延伸線",89,36,"duplicated parameter","title="],["岡本太郎",61,2,"duplicated category","[[Category:日本雕塑家]]"],["岩攀鼠亞科",12,2,"duplicated category","[[Category:岩攀鼠亞科|Y]]"],["岩本貴裕",63,5,"duplicated align attribute","align=center"],["岩淵真奈",267,2,"duplicated category","[[Category:奧林匹克運動會足球獎牌得主]]"],["岩石",35,5,"duplicated class attribute","class=\"wikitable\""],["岩粉",4,34,"duplicated image caption parameter","Muru (Lom)"],["岩鹨属",32,2,"duplicated category","[[Category:岩鹨科|Y]]"],["岳美中",22,2,"duplicated category","[[Category:中國中醫師]]"],["岸美洲鱥",3,3,"duplicated parameter"," image = \n "],["峇都茅",9,3,"duplicated parameter"," pushpin_label_position=Center\n "],["峭岐站",20,3,"duplicated parameter"," code              = \n "],["峰景餐廳集團",1,46,"duplicated image caption parameter","Cafe Deco Pizzeria Interior Photo"],["崔世安",5,3,"duplicated parameter"," honorific-suffix = [[大蓮花榮譽勳章|GML]]\n "],["崔忠獻",237,2,"duplicated category","[[Category:高麗功臣]]"],["崔斯頓·卡薩斯",69,2,"duplicated category","[[Category:美國奧運棒球運動員]]"],["崔春植 (1956年)",30,2,"duplicated category","[[Category:國民力量黨員]]"],["崔添偉",24,2,"duplicated category","[[Category:聖類斯中學校友]]"],["崔炯斗",32,2,"duplicated category","[[Category:國民力量黨員]]"],["崔爱民",1,37,"duplicated image thumbnail parameter","thumb"],["崔珉起",284,2,"duplicated category","[[Category:韓國男歌手]]"],["崔維斯·班沃特",77,5,"duplicated align attribute","align=center"],["嵩江东路站",20,3,"duplicated parameter"," colour = \n "],["嶺南建築",69,25,"duplicated image caption parameter","\"Gam Leon Wui Gwun\"  in Gwongzau."],["川崎汽船",17,3,"duplicated parameter"," accounting_period = \n "],["川崎重工-日本車輛C751B型電力動車組",112,32,"duplicated 0 attribute","0"],["川崎重工C151型電力動車組",110,32,"duplicated 0 attribute","0"],["川普 (消歧義)",6,3,"duplicated parameter","4=zh-tw:艾瑞克;zh-cn:埃里克;\n "],["川普勒3",33,34,"duplicated image caption parameter","x"],["州縣制",52,2,"duplicated category","[[Category:隋朝行政区划]]"],["巢湖东站",72,127,"duplicated colspan attribute","colspan=2"],["左翼民粹主義",20,45,"duplicated image thumbnail parameter","thumb"],["左藤惠",81,2,"duplicated category","[[Category:日本眾議院議員 (1976年—1979年)]]"],["巨蟒飛彈",188,2,"duplicated category","[[Category:以色列軍工廠]]"],["巫顯東",6,3,"duplicated parameter"," nationality = {{CHN-HKG}}\n "],["己二酸二甲酯",46,2,"duplicated category","[[Category:己二酸酯]]"],["巴亚尔骑士雕像",8,57,"duplicated image caption parameter","vignette"],["巴亞波·恩多里",10,2,"duplicated category","[[Category:2020年夏季奧林匹克運動會獎牌得主]]"],["巴伦西亚街道赛道",43,21,"duplicated style attribute","style=\"font-size:90%\""],["巴克霍恩 (肯塔基州)",25,3,"duplicated parameter","elevation_ft             = 755\n "],["巴列夫防线",41,2,"duplicated category","[[Category:第四次中东战争]]"],["巴列姆期",96,43,"duplicated image thumbnail parameter","thumb"],["巴利阿里競技體育會",29,2,"duplicated category","[[Category:西班牙足球俱樂部]]"],["巴勒斯坦獨立宣言",2,36,"duplicated image caption parameter","替代文字"],["巴勒贝克",187,51,"duplicated image caption parameter","52 / 50"],["巴基斯坦电视公司",44,202,"duplicated parameter","publisher=Asian Media Information and Communication Centre"],["巴基斯坦陸軍",71,66,"duplicated image width parameter","200px"],["巴塔哥鸟属",13,233,"duplicated parameter","title=A new flightless landbird from the Cretaceous of Patagonia"],["巴塔瓜蘇",2,44,"duplicated image caption parameter","r250px"],["巴士底狱",10,60,"duplicated image caption parameter","2;;::;……50px"],["巴士快速交通系統",11,3,"duplicated parameter","zh-cn:库里蒂巴;zh-tw:古里提巴;\n "],["巴威·翁素万",168,2,"duplicated category","[[Category:泰國皇家陸軍司令]]"],["巴尔德迪奥斯圣救主教堂",27,11,"duplicated mode attribute","mode=center"],["巴尼特足球俱乐部",293,2,"duplicated category","[[Category:英格蘭足球俱樂部]]"],["巴巴里戰爭",17,75,"duplicated image width parameter","22px"],["巴巴里獅",47,2,"duplicated category","[[Category:摩洛哥动物]]"],["巴布亞新畿內亞國家足球隊",130,24,"duplicated style attribute","style=\"text-align: center;\""],["巴恩斯利足球俱乐部",2,11,"duplicated parameter","G1=足球\n "],["巴拉卡核能發電廠",118,35,"duplicated parameter","access-date=2023-02-26"],["巴拿馬世界遺產列表",16,291,"duplicated parameter"," publisher = UNESCO World Heritage Centre "],["巴拿馬城",10,3,"duplicated parameter","image_skyline = "],["巴斯克和巴约讷历史博物馆",1,33,"duplicated image width parameter","240px"],["巴斯特·克拉布",64,2,"duplicated category","[[Category:1932年夏季奥林匹克运动会游泳运动员]]"],["巴斯特·基頓",164,545,"duplicated image caption parameter","链接=https://en.wikipedia.org/wiki/File:Buster Keaton in costume.jpg"],["巴林駐外機構列表",2,56,"duplicated image width parameter","500px"],["巴比倫 (紐約州)",52,2,"duplicated category","[[Category:紐約州沿海聚居地|B]]"],["巴氏細鰩",6,3,"duplicated parameter"," synonyms = \n "],["巴氏雙鋸魚",15,40,"duplicated image caption parameter","''[[Amphiprion rubrocinctus"],["巴爾的摩與俄亥俄鐵路",63,26,"duplicated image caption parameter","西維吉尼亞州馬汀斯堡的"],["巴特勒圖書館",44,35,"duplicated image caption parameter","180xp"],["巴特塔茨曼斯多夫",20,3,"duplicated parameter"," pushpin_map_caption     = 在奥地利的位置\n "],["巴瑟麗人",15,23,"duplicated image caption parameter","Basseri"],["巴生北部海峡环城大道",89,3,"duplicated style attribute","style=\"width:600px\""],["巴福荣",10,2,"duplicated category","[[Category:辽宁省第十届全国人大代表]]"],["巴纳特共和国",57,2,"duplicated category","[[Category:罗马尼亚历史政权]]"],["巴西公開賽",17,3,"duplicated parameter"," completed event = {{le|2019 Brasil Open|2019}}\n\n "],["巴西對X的封鎖",36,2400,"duplicated parameter","language=en "],["巴西簽證政策",207,91,"duplicated image caption parameter","巴西針對外交或公務護照持有人的簽證政策"],["巴赫穆特区",3,3,"duplicated parameter","1=zh-cn:坐标; zh-tw:座標; zh-hk:座標;\n "],["巴達霍斯圍城戰 (1705年)",49,2,"duplicated category","[[Category:荷蘭共和國圍城戰]]"],["巴里·希爾曼",13,2,"duplicated category","[[Category:第49届英国下议院议员]]"],["巴里亚诺新堡",50,2,"duplicated category","[[Category:罗维戈省市镇]]"],["巴頓·沃倫·艾夫曼",43,2,"duplicated category","[[Category:美國魚類學家]]"],["巴馬丹拿",78,5,"duplicated border attribute","border=\"1\""],["巴鰹",33,453,"duplicated parameter","title=Reproductive and Breeding Biology of Tuna ''Euthynnus affinis''"],["巴黎中央理工学院",211,29,"duplicated image caption parameter","165*165px"],["巴黎区份",209,102,"duplicated image caption parameter","droite"],["巴黎和平協約",4,3,"duplicated parameter","1=zh-hans:基辛格;zh-hk:基辛格;zh-tw:季辛吉;\n "]],"batches":43}
+window.data={"articles":[[
+	"審判者阿里瑟姆",
+	64,
+	2,
+	"duplicated category",
+	"[[Category:漫威漫畫作品|A]]"
+],[
+	"寰椎",
+	92,
+	2,
+	"duplicated category",
+	"[[Category:骨骼]]"
+],[
+	"寶井理人",
+	31,
+	21,
+	"duplicated style attribute",
+	"style=\"font-size:small;\""
+],[
+	"寶島少年",
+	42,
+	33,
+	"duplicated style attribute",
+	"style=\"background: #FFF;\""
+],[
+	"寶池公園",
+	8,
+	3,
+	"duplicated parameter",
+	"area        = 62.7公頃\n "
+],[
+	"寶萊塢奪命煞星Ⅱ",
+	138,
+	2,
+	"duplicated category",
+	"[[Category:泰國取景電影]]"
+],[
+	"寶騰Wira",
+	130,
+	2,
+	"duplicated category",
+	"[[Category:1993年面世的汽車]]"
+],[
+	"对TikTok的审查",
+	154,
+	2,
+	"duplicated category",
+	"[[分类:抖音]]"
+],[
+	"对维基媒体的审查和封锁",
+	175,
+	273,
+	"duplicated parameter",
+	"access-date=2023-08-07"
+],[
+	"對大罷免潮的民意調查",
+	330,
+	4,
+	"duplicated rowspan attribute",
+	"rowspan=\"2\""
+],[
+	"對數尺度",
+	32,
+	44,
+	"duplicated image caption parameter",
+	"不同的尺度：線性–線性, {{le"
+],[
+	"導演好了沒",
+	64,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"小偷與鞋匠",
+	247,
+	96,
+	"duplicated name attribute",
+	"name=\"Beck\""
+],[
+	"小傑茲·齊森姆",
+	55,
+	1322,
+	"duplicated parameter",
+	"date=2024-07-30"
+],[
+	"小十月党人",
+	4,
+	334,
+	"duplicated parameter",
+	"publisher=Pioneers in the Village"
+],[
+	"小南站 (长春轨道交通)",
+	77,
+	52,
+	"duplicated valign attribute",
+	"valign=top"
+],[
+	"小双孢菌属",
+	46,
+	2,
+	"duplicated category",
+	"[[Category: 链孢囊菌科|*]]"
+],[
+	"小堡螺亚科",
+	21,
+	341,
+	"duplicated parameter",
+	"language=en "
+],[
+	"小娘惹",
+	378,
+	3,
+	"duplicated parameter",
+	"3电视台={{MYS}} [[Astro AEC|Astro AEC、AEC HD]]\n "
+],[
+	"小婦人 (2019年電影)",
+	203,
+	2,
+	"duplicated category",
+	"[[Category:哥倫比亞影業電影]]"
+],[
+	"小小小警察",
+	137,
+	2,
+	"duplicated category",
+	"[[Category:香港警匪片]]"
+],[
+	"小嶋真子",
+	73,
+	85,
+	"duplicated parameter",
+	"date=2015-06-06"
+],[
+	"小心肝儿",
+	161,
+	2,
+	"duplicated category",
+	"[[Category:2020年代英語片]]"
+],[
+	"小春",
+	46,
+	24,
+	"duplicated style attribute",
+	"style=\"background:white; text-align:center\""
+],[
+	"小木之城站",
+	37,
+	34,
+	"duplicated name attribute",
+	"name=\"zeneki21\""
+],[
+	"小林勇",
+	20,
+	2,
+	"duplicated category",
+	"[[Category:日本画家]]"
+],[
+	"小林虎之介",
+	19,
+	3,
+	"duplicated parameter",
+	" 網站 = [https://pinupsartist.jp/actor/kobayashi/ PINUPS artist官網>小林虎之介專頁]\n "
+],[
+	"小森林 (日本電影)",
+	158,
+	2,
+	"duplicated category",
+	"[[Category:岩手縣背景電影]]"
+],[
+	"小樹",
+	70,
+	2,
+	"duplicated category",
+	"[[category:台灣小說家]]"
+],[
+	"小氣財神：快樂頌",
+	5,
+	3,
+	"duplicated parameter",
+	"zh-hk:聖誕快樂頌;zh-tw:小氣財神：快樂頌;\n "
+],[
+	"小洋江站",
+	22,
+	3,
+	"duplicated parameter",
+	" colour = \n "
+],[
+	"小烟墩站",
+	23,
+	2,
+	"duplicated category",
+	"[[Category:1970年启用的铁路车站|X]]"
+],[
+	"小熊國",
+	30,
+	2,
+	"duplicated category",
+	"[[Category:香港主題公園]]"
+],[
+	"小爸爸上學去",
+	107,
+	2,
+	"duplicated category",
+	"[[Category:台視外購電視劇]]"
+],[
+	"小田急3000型電聯車 (初代)",
+	278,
+	852,
+	"duplicated name attribute",
+	"name=\"1985-k-28\""
+],[
+	"小米集團",
+	359,
+	2,
+	"duplicated category",
+	"[[Category:行動電話製造商]]"
+],[
+	"小艾伯特·布莱恩",
+	36,
+	426,
+	"duplicated parameter",
+	"language=en-US"
+],[
+	"小行星614689",
+	63,
+	41,
+	"duplicated image caption parameter",
+	"顯示地球拉格朗日點的[[等效位能]]圖（未按比例）；{{L4|nolink=yes}}和{L5"
+],[
+	"小野三太",
+	37,
+	2,
+	"duplicated category",
+	"[[Category:倫敦大學學院教師]]"
+],[
+	"小野屋站",
+	271,
+	405,
+	"duplicated group attribute",
+	"group=\"統計\""
+],[
+	"小飛俠彼得潘 (電影)",
+	8,
+	3,
+	"duplicated parameter",
+	"zh-tw:小飛俠彼得潘;zh-cn:小飞侠彼得潘;zh-sg:神奇小飞侠;zh-hk:小飛俠2004;\n "
+],[
+	"小飛諜",
+	249,
+	2,
+	"duplicated category",
+	"[[Category:2012年背景作品]]"
+],[
+	"小鬼當家3",
+	30,
+	3,
+	"duplicated parameter",
+	" cn_name = {{lang|Zh-cn|小鬼当家3}}\n "
+],[
+	"小黄山遗址",
+	39,
+	2,
+	"duplicated category",
+	"[[Category:浙江新石器时代遗址]]"
+],[
+	"尖翼石燕属",
+	4,
+	2,
+	"duplicated category",
+	"[[Category: 1931年描述的分类群|J]]"
+],[
+	"尚德俊",
+	44,
+	2,
+	"duplicated category",
+	"[[Category:国医大师]]"
+],[
+	"尚恩·曼德斯",
+	475,
+	2,
+	"duplicated category",
+	"[[Category:英格蘭裔加拿大人]]"
+],[
+	"尚韋帆",
+	82,
+	2,
+	"duplicated category",
+	"[[Category:九太科技籃球隊球員]]"
+],[
+	"尤努斯·马尔勒",
+	73,
+	2,
+	"duplicated category",
+	"[[Category:德国21岁以下国家足球队球员]]"
+],[
+	"尤吉·貝拉",
+	198,
+	2,
+	"duplicated category",
+	"[[Category:美國聯盟最有價值球員獎得主]]"
+],[
+	"尤尼斯·阿魯什",
+	9,
+	2,
+	"duplicated category",
+	"[[Category:科索沃國家足球隊球員]]"
+],[
+	"尤清韋",
+	50,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"尤索夫伊薩東南亞研究所",
+	26,
+	3,
+	"duplicated parameter",
+	"logo           = ISEAS - Yusof Ishak Institute logo.svg\n "
+],[
+	"尤里·安东诺夫",
+	42,
+	2,
+	"duplicated category",
+	"[[Category:俄罗斯作曲家]]"
+],[
+	"尤金妮·布沙尔",
+	95,
+	50,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"尤长靖",
+	105,
+	5,
+	"duplicated style attribute",
+	"style=\"  text-align:center\""
+],[
+	"尧",
+	110,
+	2,
+	"duplicated category",
+	"[[Category:中国人物神|E]]"
+],[
+	"尼克·昂斯",
+	47,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"尼加拉瓜職業棒球聯盟",
+	25,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"尼古拉·什皮里奇",
+	48,
+	2,
+	"duplicated category",
+	"[[Category:波斯尼亚和黑塞哥维那代表院议员]]"
+],[
+	"尼古拉·尼古拉耶维奇·博戈柳博夫",
+	50,
+	2,
+	"duplicated category",
+	"[[Category:基輔大學校友]]"
+],[
+	"尼古拉·布雷金",
+	12,
+	3,
+	"duplicated parameter",
+	" constituency = {{le|秋明选区|Tyumen constituency}}\n "
+],[
+	"尼古拉·戴多維奇",
+	49,
+	2,
+	"duplicated category",
+	"[[Category:塞爾維亞奧林匹克運動會金牌得主]]"
+],[
+	"尼古拉·扎莱夫斯基",
+	100,
+	2,
+	"duplicated category",
+	"[[Category:波蘭國家足球隊球員]]"
+],[
+	"尼古拉·艾登",
+	19,
+	2,
+	"duplicated category",
+	"[[Category:英格兰军事人物]]"
+],[
+	"尼古拉·许凯",
+	9,
+	3,
+	"duplicated parameter",
+	" 死亡原因 = \n "
+],[
+	"尼古拉·费克连科",
+	31,
+	2,
+	"duplicated category",
+	"[[Category:诺门罕战役人物]]"
+],[
+	"尼古拉·阿扎罗夫",
+	39,
+	3,
+	"duplicated parameter",
+	"signature      =\n "
+],[
+	"尼古拉·馬克西莫維奇",
+	29,
+	3,
+	"duplicated parameter",
+	" years8 = 2021–     "
+],[
+	"尼古拉斯·凯奇",
+	78,
+	46,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"尼古拉斯·奥塔门迪",
+	13,
+	3,
+	"duplicated parameter",
+	"8=zh-hans:迭戈·马拉多纳;zh-hk:迪亞高·馬勒當拿;zh-tw:迪亞哥·馬拉度納;\n "
+],[
+	"尼古拉斯·马杜罗",
+	194,
+	2,
+	"duplicated category",
+	"[[Category:被美國通緝者]]"
+],[
+	"尼古拉耶夫装甲厂",
+	33,
+	3,
+	"duplicated parameter",
+	" area_served = <!-- or: areas_served = -->\n "
+],[
+	"尼基塔·赫鲁晓夫",
+	327,
+	2,
+	"duplicated category",
+	"[[Category:蘇聯共產黨總書記]]"
+],[
+	"尼姆·耶尔维",
+	62,
+	2,
+	"duplicated category",
+	"[[Category:20世紀愛沙尼亞音樂家]]"
+],[
+	"尼尔·哈塞维奇",
+	164,
+	2,
+	"duplicated category",
+	"[[Category:功勋十字勋章获得者]]"
+],[
+	"尼尔·德鲁克曼",
+	424,
+	2,
+	"duplicated category",
+	"[[Category:以色列猶太人]]"
+],[
+	"尼康D300",
+	3,
+	44,
+	"duplicated image caption parameter",
+	"noframe"
+],[
+	"尼比鲁碰撞",
+	49,
+	2,
+	"duplicated category",
+	"[[Category:幽浮文化]]"
+],[
+	"尼波斯",
+	5,
+	87,
+	"duplicated image caption parameter",
+	"[[Solidus (coin)|Solidus]] of Emperor Julius Nepos; mint in [[Ravenna]], 474-5"
+],[
+	"尼爾：自動人形Ver1.1a",
+	462,
+	2,
+	"duplicated category",
+	"[[Category:2023年日本電視動畫]]"
+],[
+	"尼科·皮羅斯馬尼",
+	2,
+	210,
+	"duplicated parameter",
+	"title=Пиросманашвили"
+],[
+	"尼科爾·奧雷姆",
+	33,
+	2,
+	"duplicated category",
+	"[[Category:14世紀哲學家]]"
+],[
+	"尼羅河謀殺案 (2022年電影)",
+	242,
+	2,
+	"duplicated category",
+	"[[Category:美國續集電影]]"
+],[
+	"尾張德川家",
+	13,
+	26,
+	"duplicated style attribute",
+	"style=\"align: left; margin: 0px\""
+],[
+	"居禮夫人：放射永恆",
+	9,
+	3,
+	"duplicated parameter",
+	"zh-cn:居里;zh-sg:居礼;zh-hk:居禮;zh-tw:居禮;\n "
+],[
+	"居維象",
+	21,
+	37,
+	"duplicated image caption parameter",
+	"Restoration"
+],[
+	"居銮县",
+	365,
+	33,
+	"duplicated style attribute",
+	"style=\"white-space:nowrap\""
+],[
+	"屏東縣民公園",
+	7,
+	3,
+	"duplicated parameter",
+	"area        = 20[[公頃]]\n "
+],[
+	"屠潔",
+	204,
+	2,
+	"duplicated category",
+	"[[Category:台灣主持人]]"
+],[
+	"屯門兆麟政府綜合大樓",
+	70,
+	14,
+	"duplicated 1px attribute",
+	"1px"
+],[
+	"屯門海戰",
+	31,
+	29,
+	"duplicated image caption parameter",
+	"縮略圖"
+],[
+	"山东省",
+	102,
+	3,
+	"duplicated parameter",
+	"image1                         = \n "
+],[
+	"山东鲁能泰山足球俱乐部2011赛季",
+	879,
+	5,
+	"duplicated style attribute",
+	"style=\"width:95%;\""
+],[
+	"山姆·哈里斯",
+	20,
+	2,
+	"duplicated category",
+	"[[Category:猶太裔美國人]]"
+],[
+	"山姆·巴爾多克",
+	72,
+	2,
+	"duplicated category",
+	"[[Category:白禮頓球員]]"
+],[
+	"山姆·曼德斯",
+	252,
+	2,
+	"duplicated category",
+	"[[Category:劍橋大學彼得學院校友]]"
+],[
+	"山姓",
+	44,
+	2,
+	"duplicated category",
+	"[[Category:山姓|*]]"
+],[
+	"山富国际旅行社",
+	60,
+	2,
+	"duplicated category",
+	"[[Category:中華民國證券櫃檯買賣中心上櫃公司]]"
+],[
+	"山寨人生",
+	28,
+	3,
+	"duplicated parameter",
+	" producer = \n "
+],[
+	"山崎之戰",
+	86,
+	2,
+	"duplicated category",
+	"[[Category:勝幡織田氏]]"
+],[
+	"山崎八重子",
+	11,
+	95,
+	"duplicated category",
+	"[[Category:1972年夏季奧林匹克運動會獎牌得主]]"
+],[
+	"山崎惠理",
+	34,
+	519,
+	"duplicated parameter",
+	"language=ja"
+],[
+	"山本健誌",
+	133,
+	2,
+	"duplicated category",
+	"[[Category:日本作曲家]]"
+],[
+	"山本洞",
+	13,
+	3,
+	"duplicated parameter",
+	" divs = 30統、197[[班 (行政區劃)|班]]\n "
+],[
+	"山本笃",
+	10,
+	2,
+	"duplicated category",
+	"[[Category:日本男子田徑運動員]]"
+],[
+	"山東昭子",
+	133,
+	2,
+	"duplicated category",
+	"[[Category:藝人出身的政治人物]]"
+],[
+	"山海关站",
+	28,
+	3,
+	"duplicated parameter",
+	" pinyin_code = SHG\n "
+],[
+	"山海经",
+	130,
+	242,
+	"duplicated parameter",
+	" doi = 10.3969/j.issn.1673-1395.2006.02.003"
+],[
+	"山西省体育馆比赛馆",
+	7,
+	3,
+	"duplicated parameter",
+	"坐标 =\n "
+],[
+	"山陽本線 (廣島地區)",
+	435,
+	3,
+	"duplicated style attribute",
+	"style=\"text-align:center;\""
+],[
+	"岚皋路站",
+	6,
+	3,
+	"duplicated parameter",
+	"type = [[上海地铁]]车站\n "
+],[
+	"岡山路竹延伸線",
+	89,
+	36,
+	"duplicated parameter",
+	"title="
+],[
+	"岡本太郎",
+	61,
+	2,
+	"duplicated category",
+	"[[Category:日本雕塑家]]"
+],[
+	"岩攀鼠亞科",
+	12,
+	2,
+	"duplicated category",
+	"[[Category:岩攀鼠亞科|Y]]"
+],[
+	"岩本貴裕",
+	63,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"岩淵真奈",
+	267,
+	2,
+	"duplicated category",
+	"[[Category:奧林匹克運動會足球獎牌得主]]"
+],[
+	"岩石",
+	35,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"岩粉",
+	4,
+	34,
+	"duplicated image caption parameter",
+	"Muru (Lom)"
+],[
+	"岩鹨属",
+	32,
+	2,
+	"duplicated category",
+	"[[Category:岩鹨科|Y]]"
+],[
+	"岳美中",
+	22,
+	2,
+	"duplicated category",
+	"[[Category:中國中醫師]]"
+],[
+	"岸美洲鱥",
+	3,
+	3,
+	"duplicated parameter",
+	" image = \n "
+],[
+	"峇都茅",
+	9,
+	3,
+	"duplicated parameter",
+	" pushpin_label_position=Center\n "
+],[
+	"峭岐站",
+	20,
+	3,
+	"duplicated parameter",
+	" code              = \n "
+],[
+	"峰景餐廳集團",
+	1,
+	46,
+	"duplicated image caption parameter",
+	"Cafe Deco Pizzeria Interior Photo"
+],[
+	"崔世安",
+	5,
+	3,
+	"duplicated parameter",
+	" honorific-suffix = [[大蓮花榮譽勳章|GML]]\n "
+],[
+	"崔忠獻",
+	237,
+	2,
+	"duplicated category",
+	"[[Category:高麗功臣]]"
+],[
+	"崔斯頓·卡薩斯",
+	69,
+	2,
+	"duplicated category",
+	"[[Category:美國奧運棒球運動員]]"
+],[
+	"崔春植 (1956年)",
+	30,
+	2,
+	"duplicated category",
+	"[[Category:國民力量黨員]]"
+],[
+	"崔添偉",
+	24,
+	2,
+	"duplicated category",
+	"[[Category:聖類斯中學校友]]"
+],[
+	"崔炯斗",
+	32,
+	2,
+	"duplicated category",
+	"[[Category:國民力量黨員]]"
+],[
+	"崔爱民",
+	1,
+	37,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"崔珉起",
+	284,
+	2,
+	"duplicated category",
+	"[[Category:韓國男歌手]]"
+],[
+	"崔維斯·班沃特",
+	77,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"嵩江东路站",
+	20,
+	3,
+	"duplicated parameter",
+	" colour = \n "
+],[
+	"嶺南建築",
+	69,
+	25,
+	"duplicated image caption parameter",
+	"\"Gam Leon Wui Gwun\"  in Gwongzau."
+],[
+	"川崎汽船",
+	17,
+	3,
+	"duplicated parameter",
+	" accounting_period = \n "
+],[
+	"川崎重工-日本車輛C751B型電力動車組",
+	112,
+	32,
+	"duplicated 0 attribute",
+	"0"
+],[
+	"川崎重工C151型電力動車組",
+	110,
+	32,
+	"duplicated 0 attribute",
+	"0"
+],[
+	"川普 (消歧義)",
+	6,
+	3,
+	"duplicated parameter",
+	"4=zh-tw:艾瑞克;zh-cn:埃里克;\n "
+],[
+	"川普勒3",
+	33,
+	34,
+	"duplicated image caption parameter",
+	"x"
+],[
+	"州縣制",
+	52,
+	2,
+	"duplicated category",
+	"[[Category:隋朝行政区划]]"
+],[
+	"巢湖东站",
+	72,
+	127,
+	"duplicated colspan attribute",
+	"colspan=2"
+],[
+	"左翼民粹主義",
+	20,
+	45,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"左藤惠",
+	81,
+	2,
+	"duplicated category",
+	"[[Category:日本眾議院議員 (1976年—1979年)]]"
+],[
+	"巨蟒飛彈",
+	188,
+	2,
+	"duplicated category",
+	"[[Category:以色列軍工廠]]"
+],[
+	"巫顯東",
+	6,
+	3,
+	"duplicated parameter",
+	" nationality = {{CHN-HKG}}\n "
+],[
+	"己二酸二甲酯",
+	46,
+	2,
+	"duplicated category",
+	"[[Category:己二酸酯]]"
+],[
+	"巴亚尔骑士雕像",
+	8,
+	57,
+	"duplicated image caption parameter",
+	"vignette"
+],[
+	"巴亞波·恩多里",
+	10,
+	2,
+	"duplicated category",
+	"[[Category:2020年夏季奧林匹克運動會獎牌得主]]"
+],[
+	"巴伦西亚街道赛道",
+	43,
+	21,
+	"duplicated style attribute",
+	"style=\"font-size:90%\""
+],[
+	"巴克霍恩 (肯塔基州)",
+	25,
+	3,
+	"duplicated parameter",
+	"elevation_ft             = 755\n "
+],[
+	"巴列夫防线",
+	41,
+	2,
+	"duplicated category",
+	"[[Category:第四次中东战争]]"
+],[
+	"巴列姆期",
+	96,
+	43,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"巴利阿里競技體育會",
+	29,
+	2,
+	"duplicated category",
+	"[[Category:西班牙足球俱樂部]]"
+],[
+	"巴勒斯坦獨立宣言",
+	2,
+	36,
+	"duplicated image caption parameter",
+	"替代文字"
+],[
+	"巴勒贝克",
+	187,
+	51,
+	"duplicated image caption parameter",
+	"52 / 50"
+],[
+	"巴基斯坦电视公司",
+	44,
+	202,
+	"duplicated parameter",
+	"publisher=Asian Media Information and Communication Centre"
+],[
+	"巴基斯坦陸軍",
+	71,
+	66,
+	"duplicated image width parameter",
+	"200px"
+],[
+	"巴塔哥鸟属",
+	13,
+	233,
+	"duplicated parameter",
+	"title=A new flightless landbird from the Cretaceous of Patagonia"
+],[
+	"巴塔瓜蘇",
+	2,
+	44,
+	"duplicated image caption parameter",
+	"r250px"
+],[
+	"巴士底狱",
+	10,
+	60,
+	"duplicated image caption parameter",
+	"2;;::;……50px"
+],[
+	"巴士快速交通系統",
+	11,
+	3,
+	"duplicated parameter",
+	"zh-cn:库里蒂巴;zh-tw:古里提巴;\n "
+],[
+	"巴威·翁素万",
+	168,
+	2,
+	"duplicated category",
+	"[[Category:泰國皇家陸軍司令]]"
+],[
+	"巴尔德迪奥斯圣救主教堂",
+	27,
+	11,
+	"duplicated mode attribute",
+	"mode=center"
+],[
+	"巴尼特足球俱乐部",
+	293,
+	2,
+	"duplicated category",
+	"[[Category:英格蘭足球俱樂部]]"
+],[
+	"巴巴里戰爭",
+	17,
+	75,
+	"duplicated image width parameter",
+	"22px"
+],[
+	"巴巴里獅",
+	47,
+	2,
+	"duplicated category",
+	"[[Category:摩洛哥动物]]"
+],[
+	"巴布亞新畿內亞國家足球隊",
+	130,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align: center;\""
+],[
+	"巴恩斯利足球俱乐部",
+	2,
+	11,
+	"duplicated parameter",
+	"G1=足球\n "
+],[
+	"巴拉卡核能發電廠",
+	118,
+	35,
+	"duplicated parameter",
+	"access-date=2023-02-26"
+],[
+	"巴拿馬世界遺產列表",
+	16,
+	291,
+	"duplicated parameter",
+	" publisher = UNESCO World Heritage Centre "
+],[
+	"巴拿馬城",
+	10,
+	3,
+	"duplicated parameter",
+	"image_skyline = "
+],[
+	"巴斯克和巴约讷历史博物馆",
+	1,
+	33,
+	"duplicated image width parameter",
+	"240px"
+],[
+	"巴斯特·克拉布",
+	64,
+	2,
+	"duplicated category",
+	"[[Category:1932年夏季奥林匹克运动会游泳运动员]]"
+],[
+	"巴斯特·基頓",
+	164,
+	545,
+	"duplicated image caption parameter",
+	"链接=https://en.wikipedia.org/wiki/File:Buster Keaton in costume.jpg"
+],[
+	"巴林駐外機構列表",
+	2,
+	56,
+	"duplicated image width parameter",
+	"500px"
+],[
+	"巴比倫 (紐約州)",
+	52,
+	2,
+	"duplicated category",
+	"[[Category:紐約州沿海聚居地|B]]"
+],[
+	"巴氏細鰩",
+	6,
+	3,
+	"duplicated parameter",
+	" synonyms = \n "
+],[
+	"巴氏雙鋸魚",
+	15,
+	40,
+	"duplicated image caption parameter",
+	"''[[Amphiprion rubrocinctus"
+],[
+	"巴爾的摩與俄亥俄鐵路",
+	63,
+	26,
+	"duplicated image caption parameter",
+	"西維吉尼亞州馬汀斯堡的"
+],[
+	"巴特勒圖書館",
+	44,
+	35,
+	"duplicated image caption parameter",
+	"180xp"
+],[
+	"巴特塔茨曼斯多夫",
+	20,
+	3,
+	"duplicated parameter",
+	" pushpin_map_caption     = 在奥地利的位置\n "
+],[
+	"巴瑟麗人",
+	15,
+	23,
+	"duplicated image caption parameter",
+	"Basseri"
+],[
+	"巴生北部海峡环城大道",
+	89,
+	3,
+	"duplicated style attribute",
+	"style=\"width:600px\""
+],[
+	"巴福荣",
+	10,
+	2,
+	"duplicated category",
+	"[[Category:辽宁省第十届全国人大代表]]"
+],[
+	"巴纳特共和国",
+	57,
+	2,
+	"duplicated category",
+	"[[Category:罗马尼亚历史政权]]"
+],[
+	"巴西公開賽",
+	17,
+	3,
+	"duplicated parameter",
+	" completed event = {{le|2019 Brasil Open|2019}}\n\n "
+],[
+	"巴西對X的封鎖",
+	36,
+	2400,
+	"duplicated parameter",
+	"language=en "
+],[
+	"巴西簽證政策",
+	207,
+	91,
+	"duplicated image caption parameter",
+	"巴西針對外交或公務護照持有人的簽證政策"
+],[
+	"巴赫穆特区",
+	3,
+	3,
+	"duplicated parameter",
+	"1=zh-cn:坐标; zh-tw:座標; zh-hk:座標;\n "
+],[
+	"巴達霍斯圍城戰 (1705年)",
+	49,
+	2,
+	"duplicated category",
+	"[[Category:荷蘭共和國圍城戰]]"
+],[
+	"巴里·希爾曼",
+	13,
+	2,
+	"duplicated category",
+	"[[Category:第49届英国下议院议员]]"
+],[
+	"巴里亚诺新堡",
+	50,
+	2,
+	"duplicated category",
+	"[[Category:罗维戈省市镇]]"
+],[
+	"巴頓·沃倫·艾夫曼",
+	43,
+	2,
+	"duplicated category",
+	"[[Category:美國魚類學家]]"
+],[
+	"巴馬丹拿",
+	78,
+	5,
+	"duplicated border attribute",
+	"border=\"1\""
+],[
+	"巴鰹",
+	33,
+	453,
+	"duplicated parameter",
+	"title=Reproductive and Breeding Biology of Tuna ''Euthynnus affinis''"
+],[
+	"巴黎中央理工学院",
+	211,
+	29,
+	"duplicated image caption parameter",
+	"165*165px"
+],[
+	"巴黎区份",
+	209,
+	102,
+	"duplicated image caption parameter",
+	"droite"
+],[
+	"巴黎和平協約",
+	4,
+	3,
+	"duplicated parameter",
+	"1=zh-hans:基辛格;zh-hk:基辛格;zh-tw:季辛吉;\n "
+],],"batches":43}

@@ -1,1 +1,1201 @@
-window.data={"articles":[["苔蘚蛙",22,35,"duplicated image caption parameter","300pyuk"],["苗僑偉",682,2,"duplicated category","[[Category:香港商人|苗]]"],["苗华",31,3,"duplicated parameter","relatives = \n "],["若埃尔·巴茨",7,3,"duplicated parameter","d2=法语：Joël \n "],["若斯諾·孟",35,2,"duplicated category","[[Category:21世紀臺灣詩人]]"],["若昂·瓦斯·科尔特-雷阿尔",7,161,"duplicated image caption parameter","Right"],["若昂內瓦",10,2,"duplicated category","[[Category:巴西城市]]"],["若望·洛西",18,57,"duplicated image caption parameter","Right"],["若田部健一",130,2,"duplicated category","[[Category:鎌倉市出身人物]]"],["苯丙酮尿症",36,1474,"duplicated name attribute","name=NIH2000/。使用[[四氫生物蝶呤]]藥物或許對部分患者有效<ref"],["苯并呋喃",3,3,"duplicated parameter","   OtherNames = Coumarone, benzo[b]furan\n "],["英勇自我牺牲纪念碑",1,60,"duplicated image caption parameter","英勇自我牺牲纪念碑"],["英千里",68,153,"duplicated parameter","=[[英]]"],["英国",14,3,"duplicated parameter","9 = zh-hk:艾克魯斯的麥福男爵; zh-tw:艾克魯斯的麥克福爾男爵; zh-cn:艾克鲁斯的麦克福尔男爵;\n "],["英国东洋舰队溃灭",13,2,"duplicated category","[[Category:進行曲]]"],["英国签证政策",95,17,"duplicated parameter","name=TWN"],["英國去留歐盟公投",37,44,"duplicated image caption parameter","本次公投的民意調查"],["英國在台辦事處",40,33,"duplicated style attribute","style=\"font-size: 100%\""],["英國駐華大使列表",478,99,"duplicated parameter","date=1950-01-10"],["英如镝",40,153,"duplicated parameter","=[[英]]"],["英屬維爾京群島足球代表隊",40,24,"duplicated style attribute","style=\"text-align: center;\""],["英斂之",26,153,"duplicated parameter","=[[英]]"],["英格伦弃兵",8,27,"duplicated parameter","=\n "],["英格兰足球超级联赛赛季最佳年轻球员",13,3,"duplicated parameter"," caption = [[科爾·帕爾默]]為該獎項的應屆得主。\n "],["英格蘭甲組聯賽",43,36,"duplicated style attribute","style=\"font-size:90%\""],["英格蘭超級足球聯賽紀錄",1944,32,"duplicated style attribute","style=\"text-align: center\""],["英格蘭足球冠軍",63,36,"duplicated style attribute","style=\"font-size:90%\""],["英若诚",83,153,"duplicated parameter","=[[英]]"],["英达",192,153,"duplicated parameter","=[[英]]"],["英雄本色 (1986年電影)",258,2,"duplicated category","[[Category:金馬獎最佳音效獲獎電影]]"],["英雄联盟全球总决赛",37,3,"duplicated parameter"," champion        = \n "],["苹果设计大奖",27,16,"duplicated rowspan attribute","rowspan=5"],["茂世路岳",16,500,"duplicated parameter","title = http://www.gsj.jp/data/chishitsunews/94_08_09.pdf "],["茂新面粉厂旧址",48,29,"duplicated heights attribute","heights=10px"],["茂林區",202,5,"duplicated class attribute","class=\"wikitable\""],["茂林源記",144,2,"duplicated category","[[Category:2019年年度最佳桌遊]]"],["范德科皮特序列",1,46,"duplicated image caption parameter","330px<!-- Use a multiple of 11 to reduce aliasing artifact -->"],["范明熙",107,2,"duplicated category","[[Category:粵語流行音樂歌手]]"],["范朋飞",161,2,"duplicated category","[[Category:1992年出生]]"],["范氏裸天竺鯛",5,3,"duplicated parameter"," image = \n "],["范瑪泰",36,2,"duplicated category","[[Category:臺北富邦勇士球員]]"],["范良銹",19,3,"duplicated parameter"," party =\n "],["范艾倫探測器",82,2,"duplicated category","[[Category:美國太空總署太空探測器]]"],["范进",23,2,"duplicated category","[[Category:虚构角色小作品]]"],["茱莉·安德絲",717,2,"duplicated category","[[Category:格莱美奖获得者]]"],["茱莉亚·斯蒂芬",124,2,"duplicated category","[[Category:加尔各答人]]"],["荃威花園空姐衣櫃藏屍案",134,2,"duplicated category","[[Category:2010年代香港谋杀案]]"],["荃灣運動場",5,46,"duplicated image width parameter","250 px"],["草如茵",399,3,"duplicated parameter","m={{flag icon|JPN}} Chasse' Roll<br>2010年（棗色）\n "],["草屯囝仔",122,24,"duplicated style attribute","style=\"background:#66DD00; text-align:center\""],["草裙舞计划",58,39,"duplicated image caption parameter","{{center"],["荏荪",135,2,"duplicated category","[[Category:长春电影制片厂导演]]"],["荞麦面",3,62,"duplicated image caption parameter","180"],["药水洞苏维埃政府",22,202,"duplicated parameter","page=27"],["荫家堂",12,123,"duplicated parameter"," title=中国传统村落数字博物馆系列报道——“邵商溯源”清水村"],["荷巴特犹太教堂",44,2,"duplicated category","[[Category:霍巴特旅游景点]]"],["荷蘭國家足球隊",86,52,"duplicated image caption parameter","Right"],["荷西·包提斯塔",80,67,"duplicated image caption parameter","Right"],["荷西·摩里納",83,5,"duplicated class attribute","class=\"wikitable\""],["荷西·羅培茲",102,5,"duplicated align attribute","align=center"],["莊勝雄",146,2,"duplicated category","[[Category:台南市人]]"],["莊拿芬·占士·布殊",50,2,"duplicated category","[[Category:布希家族]]"],["莊景賀",116,5,"duplicated align attribute","align=center"],["莊碩漢",27,3,"duplicated parameter"," educate = \n "],["莊錠欣",347,2,"duplicated category","[[Category:CLC]]"],["莎乐美",7,40,"duplicated image thumbnail parameter","thumb"],["莎拉·保罗森",54,2,"duplicated category","[[Category:21世纪美国女演员]]"],["莎拉·瓦根克內希特聯盟—理性和公正",75,1799,"duplicated parameter","url=https://www.staatsanzeiger.de/nachrichten/politik-und-verwaltung/wagenknecht"],["莎木系列",288,2,"duplicated category","[[Category:世嘉系列]]"],["莎露彩·查金哈",613,2,"duplicated category","[[Category:泰国女演员]]"],["莒光號列車",18,3,"duplicated parameter"," railways administration =\n "],["莫克瓜大区",106,23,"duplicated border attribute","border=\"1\""],["莫哈末再拉尼",68,3,"duplicated parameter"," religion         = [[伊斯兰教]]\n "],["莫哈末纳西·依布拉欣菲克里",17,3,"duplicated parameter"," majority = 1,341（2008）\n "],["莫娜·辛普森 (作家)",64,2,"duplicated category","[[Category:加州大學洛杉磯分校教師]]"],["莫斯科",358,2,"duplicated category","[[Category:俄罗斯联邦主体行政中心]]"],["莫斯科及全羅斯牧首",41,82,"duplicated image caption parameter","мини"],["莫斯科專員轄區",36,93,"duplicated image thumbnail parameter","thumb"],["莫罗萨利亚",10,59,"duplicated image caption parameter","267x267"],["莫里斯·奇克斯",47,3,"duplicated parameter","cyears7      = {{nbay|2020|start}}–{{nbay|2023|end}}\n "],["莫霍利-纳吉·拉斯洛",10,3,"duplicated parameter"," native_name      = Moholy-Nagy László\n "],["莫龍戈萊山",16,3,"duplicated parameter"," coordinates = {{coord|3|49|N|34|2|E|type:mountain|format=dms|display=inline,tit"],["莱尔陨击坑",20,23,"duplicated image caption parameter","背景相机显示的坑中冲沟，注：这是前一幅图像的放大版。Wikilyelldefrosting.jpg"],["莱斯利·理查德·格罗夫斯",228,2,"duplicated category","[[Category:美国军事科技人物]]"],["莱斯特",123,146,"duplicated image caption parameter","在"],["莱昂德拉·克鲁格",43,2,"duplicated category","[[Category:非洲裔美国女性人物]]"],["莱格尼察战役",9,48,"duplicated image border parameter","border"],["菊頭蝠科",149,2879,"duplicated name attribute","name=\"MurakamiKitamura2020\""],["菜鳥新移民",603,17,"duplicated colspan attribute","colspan=\"2\""],["菩提禪心",51,2,"duplicated category","[[Category:大愛電視節目]]"],["華人星光大道1",516,5,"duplicated style attribute","style=\"background-color: #F2F2F2; text-align: center;\""],["華沙要塞師 (德國國防軍)",4,71,"duplicated parameter"," battles                       = [[World War II]]\n * [[Vistula-Oder Offensive]]"],["華為P40系列",5,3,"duplicated parameter"," imagesize    = 300px"],["華盛頓港燈塔 (威斯康辛州)",48,2,"duplicated category","[[Category:五大湖燈塔]]"],["華膳空廚",27,181,"duplicated parameter","url=https://www.cpcs.com.tw/About/公司簡介{webarchive"],["華麗明星賽",237,49,"duplicated align attribute","align=center"],["菱形九十面體",111,2,"duplicated category","[[Category:多面體]]"],["菱百媚",483,3,"duplicated parameter","mmf={{flag icon|USA}} Princess Pout\n "],["菲丽普",13,3,"duplicated parameter"," drinkware   = \n "],["菲利普·貝杰羅",4,3,"duplicated parameter",""],["菲利浦·普萊因",30,48,"duplicated image caption parameter","XXXpx"],["菲尔索夫陨击坑",33,22,"duplicated image caption parameter","菲尔索夫陨击坑的西侧，由火星勘测轨道飞行器背景摄像机拍摄。Wikifirsoffwestlayers.jpg"],["菲律宾",422,5,"duplicated style attribute","style=\"{{Table center}}\""],["菲律宾城市列表",347,2,"duplicated category","[[Category:菲律賓城市]]"],["菲律宾护照",150,63,"duplicated image center parameter","center"],["菲律賓公民簽證要求",3,63,"duplicated image center parameter","center"],["菲律賓駐阿根廷大使館",121,185,"duplicated parameter"," language=es "],["菲慈佔·天樂",4,3,"duplicated parameter","G1=足球\n "],["菲爾·柏堅斯",2,24,"duplicated parameter","G4=People"],["萊克縣 (加利福尼亞州)",72,5,"duplicated class attribute","class=\"wikitable\""],["萊斯銀行糞化石",31,2,"duplicated category","[[Category:1972年考古发现]]"],["萊茵力量",300,3,"duplicated parameter","m={{flag icon|USA}} Must Be Loved<br>1993年（栗色）\n "],["萌探探探案2",475,39,"duplicated style attribute","style=\"text-align:center;font-size:90%\""],["萌探探探案3",293,39,"duplicated style attribute","style=\"text-align:center;font-size:90%\""],["萝恩·麦凯勒",11,2,"duplicated category","[[Category:英国女子赛艇运动员]]"],["萧城一中",1,4,"duplicated class attribute","class=\"wikitable\""],["萨佛纳罗拉广场 (费拉拉)",1,48,"duplicated image caption parameter","Piazza Savonarola con la statua di Savonarola e la via Coperta"],["萨克森统治者列表",106,21,"duplicated border attribute","border = 1"],["萨利江·沙里波夫",76,2,"duplicated category","[[Category:苏联空军军官]]"],["萨奇卡龙属",18,468,"duplicated parameter","first=N. G."],["萨姆·劳埃德",22,18,"duplicated parameter","=\n "],["萨姆·爱德华兹",43,2,"duplicated category","[[Category:劍橋大學教師]]"],["萨尔瓦多·伊利亚",20,3,"duplicated parameter","term_start2      = 1995年9月23日\n "],["萨德·扎格卢勒",30,2,"duplicated category","[[Category:埃及民族主义者]]"],["萨拉亚尔群岛县",24,3,"duplicated parameter"," leader_title           = 摄政\n "],["萨拉切诺镇",50,2,"duplicated category","[[Category:弗利-切塞納省市鎮|S]]"],["萨格勒布国际机场",18,3,"duplicated parameter"," elevation-f = 353\n "],["萨迦寺",15,3,"duplicated parameter","coordinates = {{WikidataCoord|display=it}}\n "],["萨迪什·达万航天中心",72,2,"duplicated category","[[Category:發射場]]"],["萨默塞特公爵埃德蒙·都铎",40,2,"duplicated category","[[Category:萨默塞特公爵]]"],["萩野動力",504,3,"duplicated parameter","m={{flag icon|JPN}} Happy Painter<br>1998年（深棗色）\n "],["葉世文",42,165,"duplicated parameter","author=陳正健"],["葉佩雯",607,2,"duplicated category","[[Category:香港電影女演員]]"],["葉匡時",96,2768,"duplicated parameter","date=2020-06-05"],["葉卡捷琳堡",148,2,"duplicated category","[[Category:俄罗斯联邦主体行政中心]]"],["葉夫根·馬洛列特卡",25,3,"duplicated parameter"," awards = [[自由媒體獎]]<br/>[[普立茲突發新聞攝影獎]]（2023年）<br/>[[烏克蘭謝甫琴科國家獎]]<br/>{{le|以利亞·帕里"],["葉寶琳",16,624,"duplicated parameter","url=https://www.hk01.com/article/929177 "],["葉煥榮",23,2,"duplicated category","[[Category:東莞人]]"],["葉竹軒",113,2,"duplicated category","[[Category:樂天桃猿球員]]"],["葉長龍",53,5,"duplicated align attribute","align=center"],["葉鞘",11,43,"conflicting image frame parameter","thumb"],["葛劍青",204,2,"duplicated category","[[Category:归化美国公民的香港人]]"],["葛哈·李希特",36,2,"duplicated category","[[Category:含有德語的條目]]"],["葛城王牌",438,3,"duplicated parameter","fmf={{flag icon|GBR}} Equiria\n "],["葛平",115,2,"duplicated category","[[Category:中國男配音員|G葛]]"],["葛西瓦",22,24,"duplicated style attribute","style=\"background:white; text-align:center\""],["葛西神社",83,33,"duplicated image caption parameter","Kasai shrine 02"],["葡屬澳門",403,2,"duplicated category","[[Category:澳門歷史|*]]"],["葡荷澳門戰役",59,37,"duplicated image caption parameter","Right"],["葡萄牙語",741,24,"duplicated fica attribute","fica"],["董修甲",53,2,"duplicated category","[[Category:汪精卫政权江苏省政府官员]]"],["董其政",41,2,"duplicated category","[[Category:立法院第一屆正選立法委員]]"],["董家口火车站 (地铁)",30,3,"duplicated parameter","first = \n "],["董燕生",49,2,"duplicated category","[[Category:鲁迅文学奖得主]]"],["董裕",54,2,"duplicated category","[[Category:明朝东莞县知县]]"],["蒂姆·凯恩",50,3,"duplicated parameter","signature    = Tim Kaine Signature.svg\n "],["蒂姆·布拉班茨",12,2,"duplicated category","[[Category:英国男子皮划艇运动员]]"],["蒂姆·普伦德加斯特",9,2,"duplicated category","[[Category:新西兰男子田径运动员]]"],["蒂娜·特纳",61,42,"duplicated image caption parameter","Left"],["蒂爾堡車站",41,27,"duplicated image caption parameter","Tilburg Station, 2005"],["蒋洪新",59,2,"duplicated category","[[Category:湖南师范大学校友]]"],["蒋璐霞",191,2,"duplicated category","[[Category:蔣姓]]"],["蒙哥马利 (亚拉巴马州)",21,37,"duplicated image caption parameter","24KBpx"],["蒙大拿州市镇列表",208,4,"duplicated scope attribute","scope=\"row\""],["蒙特內哥羅軍政府",8,3,"duplicated parameter"," image_map              = Axis occupation of Yugoslavia 1941-43.png\n "],["蒙特塞拉特足球代表隊",62,24,"duplicated style attribute","style=\"font-size:60%\""],["蒙特波卡化石库",79,25,"duplicated image caption parameter","vignette"],["蒙特羅戰役",44,2,"duplicated category","[[Category:拿破崙戰爭戰役]]"],["蒙特雷 (加利福尼亚州)",100,2,"duplicated category","[[Category:美国前州首府|M]]"],["蒙自市",396,72,"duplicated image caption parameter","Shiqicun Bridge of G8011 Kaihe Expressway (20200126144022)"],["蒙茅斯的杰弗里",27,2,"duplicated category","[[Category:含有拉丁語的條目]]"],["蒲生秀行",62,371,"duplicated name attribute","name=\"宇都宮・高徳藩13\""],["蒼天航路",1589,2,"duplicated category","[[Category:青年漫畫]]"],["蓋瑞特·理查斯",105,2,"duplicated category","[[Category:洛杉磯天使球員]]"],["蓝家店站",20,3,"duplicated parameter"," code = {{成都轨道交通车站编号|19|17}}\n "],["蓝衣社",154,49,"duplicated parameter","url= "],["蓝调天后",149,4,"duplicated rowspan attribute","rowspan=\"5\""],["蓝鹇",4,3,"duplicated parameter","3=zh-cn:鹇;zh-tw:鷳;zh-hk:鷴;\n "],["蓬江区",140,31,"duplicated image caption parameter","长堤路"],["蔡依林",143,1816,"duplicated parameter","website=ent.sina.com.cn"],["蔡兆浚",61,2,"duplicated category","[[Category:香港人物小作品]]"],["蔡士勤",55,5,"duplicated align attribute","align=center"],["蔡夢熊",49,2,"duplicated category","[[Category:台南市人]]"],["蔡孟修",52,5,"duplicated align attribute","align=center"],["蔡家宏",57,5,"duplicated align attribute","align=center"],["蔡展鵬",84,2,"duplicated category","[[Category:香港警務人員]]"],["蔡希邠",15,2,"duplicated category","[[Category:清朝廣西按察使|C]]"],["蔡建偉",89,5,"duplicated align attribute","align=center"],["蔡徐恩",83,2,"duplicated category","[[Category:蔡]]"],["蔡文誠",252,2,"duplicated category","[[Category:臺北富邦勇士球員]]"],["蔡明覺",48,5,"duplicated align attribute","align=center"],["蔡易餘",155,2,"duplicated category","[[Category:英派系 ]]"],["蔡森夫",33,2,"duplicated category","[[Category:蔡姓]]"],["蔡榮宗",70,2,"duplicated category","[[Category:蔡姓|R蔡]]"],["蔡汝賢",45,2,"duplicated category","[[Category:明朝福建按察使]]"],["蔡淑君",8,3,"duplicated parameter"," term_end1     = \n "],["蔡耀勛",66,2,"duplicated category","[[Category:臺北富邦勇士球員]]"],["蔡英峰",53,5,"duplicated align attribute","align=center"],["蔡詩羽",191,2,"duplicated category","[[Category:台灣電影女演員]]"],["蔡豐安",105,3,"duplicated align attribute","align=center"]],"batches":43}
+window.data={"articles":[[
+	"苔蘚蛙",
+	22,
+	35,
+	"duplicated image caption parameter",
+	"300pyuk"
+],[
+	"苗僑偉",
+	682,
+	2,
+	"duplicated category",
+	"[[Category:香港商人|苗]]"
+],[
+	"苗华",
+	31,
+	3,
+	"duplicated parameter",
+	"relatives = \n "
+],[
+	"若埃尔·巴茨",
+	7,
+	3,
+	"duplicated parameter",
+	"d2=法语：Joël \n "
+],[
+	"若斯諾·孟",
+	35,
+	2,
+	"duplicated category",
+	"[[Category:21世紀臺灣詩人]]"
+],[
+	"若昂·瓦斯·科尔特-雷阿尔",
+	7,
+	161,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"若昂內瓦",
+	10,
+	2,
+	"duplicated category",
+	"[[Category:巴西城市]]"
+],[
+	"若望·洛西",
+	18,
+	57,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"若田部健一",
+	130,
+	2,
+	"duplicated category",
+	"[[Category:鎌倉市出身人物]]"
+],[
+	"苯丙酮尿症",
+	36,
+	1474,
+	"duplicated name attribute",
+	"name=NIH2000/。使用[[四氫生物蝶呤]]藥物或許對部分患者有效<ref"
+],[
+	"苯并呋喃",
+	3,
+	3,
+	"duplicated parameter",
+	"   OtherNames = Coumarone, benzo[b]furan\n "
+],[
+	"英勇自我牺牲纪念碑",
+	1,
+	60,
+	"duplicated image caption parameter",
+	"英勇自我牺牲纪念碑"
+],[
+	"英千里",
+	68,
+	153,
+	"duplicated parameter",
+	"=[[英]]"
+],[
+	"英国",
+	14,
+	3,
+	"duplicated parameter",
+	"9 = zh-hk:艾克魯斯的麥福男爵; zh-tw:艾克魯斯的麥克福爾男爵; zh-cn:艾克鲁斯的麦克福尔男爵;\n "
+],[
+	"英国东洋舰队溃灭",
+	13,
+	2,
+	"duplicated category",
+	"[[Category:進行曲]]"
+],[
+	"英国签证政策",
+	95,
+	17,
+	"duplicated parameter",
+	"name=TWN"
+],[
+	"英國去留歐盟公投",
+	37,
+	44,
+	"duplicated image caption parameter",
+	"本次公投的民意調查"
+],[
+	"英國在台辦事處",
+	40,
+	33,
+	"duplicated style attribute",
+	"style=\"font-size: 100%\""
+],[
+	"英國駐華大使列表",
+	478,
+	99,
+	"duplicated parameter",
+	"date=1950-01-10"
+],[
+	"英如镝",
+	40,
+	153,
+	"duplicated parameter",
+	"=[[英]]"
+],[
+	"英屬維爾京群島足球代表隊",
+	40,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align: center;\""
+],[
+	"英斂之",
+	26,
+	153,
+	"duplicated parameter",
+	"=[[英]]"
+],[
+	"英格伦弃兵",
+	8,
+	27,
+	"duplicated parameter",
+	"=\n "
+],[
+	"英格兰足球超级联赛赛季最佳年轻球员",
+	13,
+	3,
+	"duplicated parameter",
+	" caption = [[科爾·帕爾默]]為該獎項的應屆得主。\n "
+],[
+	"英格蘭甲組聯賽",
+	43,
+	36,
+	"duplicated style attribute",
+	"style=\"font-size:90%\""
+],[
+	"英格蘭超級足球聯賽紀錄",
+	1944,
+	32,
+	"duplicated style attribute",
+	"style=\"text-align: center\""
+],[
+	"英格蘭足球冠軍",
+	63,
+	36,
+	"duplicated style attribute",
+	"style=\"font-size:90%\""
+],[
+	"英若诚",
+	83,
+	153,
+	"duplicated parameter",
+	"=[[英]]"
+],[
+	"英达",
+	192,
+	153,
+	"duplicated parameter",
+	"=[[英]]"
+],[
+	"英雄本色 (1986年電影)",
+	258,
+	2,
+	"duplicated category",
+	"[[Category:金馬獎最佳音效獲獎電影]]"
+],[
+	"英雄联盟全球总决赛",
+	37,
+	3,
+	"duplicated parameter",
+	" champion        = \n "
+],[
+	"苹果设计大奖",
+	27,
+	16,
+	"duplicated rowspan attribute",
+	"rowspan=5"
+],[
+	"茂世路岳",
+	16,
+	500,
+	"duplicated parameter",
+	"title = http://www.gsj.jp/data/chishitsunews/94_08_09.pdf "
+],[
+	"茂新面粉厂旧址",
+	48,
+	29,
+	"duplicated heights attribute",
+	"heights=10px"
+],[
+	"茂林區",
+	202,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"茂林源記",
+	144,
+	2,
+	"duplicated category",
+	"[[Category:2019年年度最佳桌遊]]"
+],[
+	"范德科皮特序列",
+	1,
+	46,
+	"duplicated image caption parameter",
+	"330px<!-- Use a multiple of 11 to reduce aliasing artifact -->"
+],[
+	"范明熙",
+	107,
+	2,
+	"duplicated category",
+	"[[Category:粵語流行音樂歌手]]"
+],[
+	"范朋飞",
+	161,
+	2,
+	"duplicated category",
+	"[[Category:1992年出生]]"
+],[
+	"范氏裸天竺鯛",
+	5,
+	3,
+	"duplicated parameter",
+	" image = \n "
+],[
+	"范瑪泰",
+	36,
+	2,
+	"duplicated category",
+	"[[Category:臺北富邦勇士球員]]"
+],[
+	"范良銹",
+	19,
+	3,
+	"duplicated parameter",
+	" party =\n "
+],[
+	"范艾倫探測器",
+	82,
+	2,
+	"duplicated category",
+	"[[Category:美國太空總署太空探測器]]"
+],[
+	"范进",
+	23,
+	2,
+	"duplicated category",
+	"[[Category:虚构角色小作品]]"
+],[
+	"茱莉·安德絲",
+	717,
+	2,
+	"duplicated category",
+	"[[Category:格莱美奖获得者]]"
+],[
+	"茱莉亚·斯蒂芬",
+	124,
+	2,
+	"duplicated category",
+	"[[Category:加尔各答人]]"
+],[
+	"荃威花園空姐衣櫃藏屍案",
+	134,
+	2,
+	"duplicated category",
+	"[[Category:2010年代香港谋杀案]]"
+],[
+	"荃灣運動場",
+	5,
+	46,
+	"duplicated image width parameter",
+	"250 px"
+],[
+	"草如茵",
+	399,
+	3,
+	"duplicated parameter",
+	"m={{flag icon|JPN}} Chasse' Roll<br>2010年（棗色）\n "
+],[
+	"草屯囝仔",
+	122,
+	24,
+	"duplicated style attribute",
+	"style=\"background:#66DD00; text-align:center\""
+],[
+	"草裙舞计划",
+	58,
+	39,
+	"duplicated image caption parameter",
+	"{{center"
+],[
+	"荏荪",
+	135,
+	2,
+	"duplicated category",
+	"[[Category:长春电影制片厂导演]]"
+],[
+	"荞麦面",
+	3,
+	62,
+	"duplicated image caption parameter",
+	"180"
+],[
+	"药水洞苏维埃政府",
+	22,
+	202,
+	"duplicated parameter",
+	"page=27"
+],[
+	"荫家堂",
+	12,
+	123,
+	"duplicated parameter",
+	" title=中国传统村落数字博物馆系列报道——“邵商溯源”清水村"
+],[
+	"荷巴特犹太教堂",
+	44,
+	2,
+	"duplicated category",
+	"[[Category:霍巴特旅游景点]]"
+],[
+	"荷蘭國家足球隊",
+	86,
+	52,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"荷西·包提斯塔",
+	80,
+	67,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"荷西·摩里納",
+	83,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"荷西·羅培茲",
+	102,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"莊勝雄",
+	146,
+	2,
+	"duplicated category",
+	"[[Category:台南市人]]"
+],[
+	"莊拿芬·占士·布殊",
+	50,
+	2,
+	"duplicated category",
+	"[[Category:布希家族]]"
+],[
+	"莊景賀",
+	116,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"莊碩漢",
+	27,
+	3,
+	"duplicated parameter",
+	" educate = \n "
+],[
+	"莊錠欣",
+	347,
+	2,
+	"duplicated category",
+	"[[Category:CLC]]"
+],[
+	"莎乐美",
+	7,
+	40,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"莎拉·保罗森",
+	54,
+	2,
+	"duplicated category",
+	"[[Category:21世纪美国女演员]]"
+],[
+	"莎拉·瓦根克內希特聯盟—理性和公正",
+	75,
+	1799,
+	"duplicated parameter",
+	"url=https://www.staatsanzeiger.de/nachrichten/politik-und-verwaltung/wagenknecht"
+],[
+	"莎木系列",
+	288,
+	2,
+	"duplicated category",
+	"[[Category:世嘉系列]]"
+],[
+	"莎露彩·查金哈",
+	613,
+	2,
+	"duplicated category",
+	"[[Category:泰国女演员]]"
+],[
+	"莒光號列車",
+	18,
+	3,
+	"duplicated parameter",
+	" railways administration =\n "
+],[
+	"莫克瓜大区",
+	106,
+	23,
+	"duplicated border attribute",
+	"border=\"1\""
+],[
+	"莫哈末再拉尼",
+	68,
+	3,
+	"duplicated parameter",
+	" religion         = [[伊斯兰教]]\n "
+],[
+	"莫哈末纳西·依布拉欣菲克里",
+	17,
+	3,
+	"duplicated parameter",
+	" majority = 1,341（2008）\n "
+],[
+	"莫娜·辛普森 (作家)",
+	64,
+	2,
+	"duplicated category",
+	"[[Category:加州大學洛杉磯分校教師]]"
+],[
+	"莫斯科",
+	358,
+	2,
+	"duplicated category",
+	"[[Category:俄罗斯联邦主体行政中心]]"
+],[
+	"莫斯科及全羅斯牧首",
+	41,
+	82,
+	"duplicated image caption parameter",
+	"мини"
+],[
+	"莫斯科專員轄區",
+	36,
+	93,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"莫罗萨利亚",
+	10,
+	59,
+	"duplicated image caption parameter",
+	"267x267"
+],[
+	"莫里斯·奇克斯",
+	47,
+	3,
+	"duplicated parameter",
+	"cyears7      = {{nbay|2020|start}}–{{nbay|2023|end}}\n "
+],[
+	"莫霍利-纳吉·拉斯洛",
+	10,
+	3,
+	"duplicated parameter",
+	" native_name      = Moholy-Nagy László\n "
+],[
+	"莫龍戈萊山",
+	16,
+	3,
+	"duplicated parameter",
+	" coordinates = {{coord|3|49|N|34|2|E|type:mountain|format=dms|display=inline,tit"
+],[
+	"莱尔陨击坑",
+	20,
+	23,
+	"duplicated image caption parameter",
+	"背景相机显示的坑中冲沟，注：这是前一幅图像的放大版。Wikilyelldefrosting.jpg"
+],[
+	"莱斯利·理查德·格罗夫斯",
+	228,
+	2,
+	"duplicated category",
+	"[[Category:美国军事科技人物]]"
+],[
+	"莱斯特",
+	123,
+	146,
+	"duplicated image caption parameter",
+	"在"
+],[
+	"莱昂德拉·克鲁格",
+	43,
+	2,
+	"duplicated category",
+	"[[Category:非洲裔美国女性人物]]"
+],[
+	"莱格尼察战役",
+	9,
+	48,
+	"duplicated image border parameter",
+	"border"
+],[
+	"菊頭蝠科",
+	149,
+	2879,
+	"duplicated name attribute",
+	"name=\"MurakamiKitamura2020\""
+],[
+	"菜鳥新移民",
+	603,
+	17,
+	"duplicated colspan attribute",
+	"colspan=\"2\""
+],[
+	"菩提禪心",
+	51,
+	2,
+	"duplicated category",
+	"[[Category:大愛電視節目]]"
+],[
+	"華人星光大道1",
+	516,
+	5,
+	"duplicated style attribute",
+	"style=\"background-color: #F2F2F2; text-align: center;\""
+],[
+	"華沙要塞師 (德國國防軍)",
+	4,
+	71,
+	"duplicated parameter",
+	" battles                       = [[World War II]]\n * [[Vistula-Oder Offensive]]"
+],[
+	"華為P40系列",
+	5,
+	3,
+	"duplicated parameter",
+	" imagesize    = 300px"
+],[
+	"華盛頓港燈塔 (威斯康辛州)",
+	48,
+	2,
+	"duplicated category",
+	"[[Category:五大湖燈塔]]"
+],[
+	"華膳空廚",
+	27,
+	181,
+	"duplicated parameter",
+	"url=https://www.cpcs.com.tw/About/公司簡介{webarchive"
+],[
+	"華麗明星賽",
+	237,
+	49,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"菱形九十面體",
+	111,
+	2,
+	"duplicated category",
+	"[[Category:多面體]]"
+],[
+	"菱百媚",
+	483,
+	3,
+	"duplicated parameter",
+	"mmf={{flag icon|USA}} Princess Pout\n "
+],[
+	"菲丽普",
+	13,
+	3,
+	"duplicated parameter",
+	" drinkware   = \n "
+],[
+	"菲利普·貝杰羅",
+	4,
+	3,
+	"duplicated parameter",
+	""
+],[
+	"菲利浦·普萊因",
+	30,
+	48,
+	"duplicated image caption parameter",
+	"XXXpx"
+],[
+	"菲尔索夫陨击坑",
+	33,
+	22,
+	"duplicated image caption parameter",
+	"菲尔索夫陨击坑的西侧，由火星勘测轨道飞行器背景摄像机拍摄。Wikifirsoffwestlayers.jpg"
+],[
+	"菲律宾",
+	422,
+	5,
+	"duplicated style attribute",
+	"style=\"{{Table center}}\""
+],[
+	"菲律宾城市列表",
+	347,
+	2,
+	"duplicated category",
+	"[[Category:菲律賓城市]]"
+],[
+	"菲律宾护照",
+	150,
+	63,
+	"duplicated image center parameter",
+	"center"
+],[
+	"菲律賓公民簽證要求",
+	3,
+	63,
+	"duplicated image center parameter",
+	"center"
+],[
+	"菲律賓駐阿根廷大使館",
+	121,
+	185,
+	"duplicated parameter",
+	" language=es "
+],[
+	"菲慈佔·天樂",
+	4,
+	3,
+	"duplicated parameter",
+	"G1=足球\n "
+],[
+	"菲爾·柏堅斯",
+	2,
+	24,
+	"duplicated parameter",
+	"G4=People"
+],[
+	"萊克縣 (加利福尼亞州)",
+	72,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"萊斯銀行糞化石",
+	31,
+	2,
+	"duplicated category",
+	"[[Category:1972年考古发现]]"
+],[
+	"萊茵力量",
+	300,
+	3,
+	"duplicated parameter",
+	"m={{flag icon|USA}} Must Be Loved<br>1993年（栗色）\n "
+],[
+	"萌探探探案2",
+	475,
+	39,
+	"duplicated style attribute",
+	"style=\"text-align:center;font-size:90%\""
+],[
+	"萌探探探案3",
+	293,
+	39,
+	"duplicated style attribute",
+	"style=\"text-align:center;font-size:90%\""
+],[
+	"萝恩·麦凯勒",
+	11,
+	2,
+	"duplicated category",
+	"[[Category:英国女子赛艇运动员]]"
+],[
+	"萧城一中",
+	1,
+	4,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"萨佛纳罗拉广场 (费拉拉)",
+	1,
+	48,
+	"duplicated image caption parameter",
+	"Piazza Savonarola con la statua di Savonarola e la via Coperta"
+],[
+	"萨克森统治者列表",
+	106,
+	21,
+	"duplicated border attribute",
+	"border = 1"
+],[
+	"萨利江·沙里波夫",
+	76,
+	2,
+	"duplicated category",
+	"[[Category:苏联空军军官]]"
+],[
+	"萨奇卡龙属",
+	18,
+	468,
+	"duplicated parameter",
+	"first=N. G."
+],[
+	"萨姆·劳埃德",
+	22,
+	18,
+	"duplicated parameter",
+	"=\n "
+],[
+	"萨姆·爱德华兹",
+	43,
+	2,
+	"duplicated category",
+	"[[Category:劍橋大學教師]]"
+],[
+	"萨尔瓦多·伊利亚",
+	20,
+	3,
+	"duplicated parameter",
+	"term_start2      = 1995年9月23日\n "
+],[
+	"萨德·扎格卢勒",
+	30,
+	2,
+	"duplicated category",
+	"[[Category:埃及民族主义者]]"
+],[
+	"萨拉亚尔群岛县",
+	24,
+	3,
+	"duplicated parameter",
+	" leader_title           = 摄政\n "
+],[
+	"萨拉切诺镇",
+	50,
+	2,
+	"duplicated category",
+	"[[Category:弗利-切塞納省市鎮|S]]"
+],[
+	"萨格勒布国际机场",
+	18,
+	3,
+	"duplicated parameter",
+	" elevation-f = 353\n "
+],[
+	"萨迦寺",
+	15,
+	3,
+	"duplicated parameter",
+	"coordinates = {{WikidataCoord|display=it}}\n "
+],[
+	"萨迪什·达万航天中心",
+	72,
+	2,
+	"duplicated category",
+	"[[Category:發射場]]"
+],[
+	"萨默塞特公爵埃德蒙·都铎",
+	40,
+	2,
+	"duplicated category",
+	"[[Category:萨默塞特公爵]]"
+],[
+	"萩野動力",
+	504,
+	3,
+	"duplicated parameter",
+	"m={{flag icon|JPN}} Happy Painter<br>1998年（深棗色）\n "
+],[
+	"葉世文",
+	42,
+	165,
+	"duplicated parameter",
+	"author=陳正健"
+],[
+	"葉佩雯",
+	607,
+	2,
+	"duplicated category",
+	"[[Category:香港電影女演員]]"
+],[
+	"葉匡時",
+	96,
+	2768,
+	"duplicated parameter",
+	"date=2020-06-05"
+],[
+	"葉卡捷琳堡",
+	148,
+	2,
+	"duplicated category",
+	"[[Category:俄罗斯联邦主体行政中心]]"
+],[
+	"葉夫根·馬洛列特卡",
+	25,
+	3,
+	"duplicated parameter",
+	" awards = [[自由媒體獎]]<br/>[[普立茲突發新聞攝影獎]]（2023年）<br/>[[烏克蘭謝甫琴科國家獎]]<br/>{{le|以利亞·帕里"
+],[
+	"葉寶琳",
+	16,
+	624,
+	"duplicated parameter",
+	"url=https://www.hk01.com/article/929177 "
+],[
+	"葉煥榮",
+	23,
+	2,
+	"duplicated category",
+	"[[Category:東莞人]]"
+],[
+	"葉竹軒",
+	113,
+	2,
+	"duplicated category",
+	"[[Category:樂天桃猿球員]]"
+],[
+	"葉長龍",
+	53,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"葉鞘",
+	11,
+	43,
+	"conflicting image frame parameter",
+	"thumb"
+],[
+	"葛劍青",
+	204,
+	2,
+	"duplicated category",
+	"[[Category:归化美国公民的香港人]]"
+],[
+	"葛哈·李希特",
+	36,
+	2,
+	"duplicated category",
+	"[[Category:含有德語的條目]]"
+],[
+	"葛城王牌",
+	438,
+	3,
+	"duplicated parameter",
+	"fmf={{flag icon|GBR}} Equiria\n "
+],[
+	"葛平",
+	115,
+	2,
+	"duplicated category",
+	"[[Category:中國男配音員|G葛]]"
+],[
+	"葛西瓦",
+	22,
+	24,
+	"duplicated style attribute",
+	"style=\"background:white; text-align:center\""
+],[
+	"葛西神社",
+	83,
+	33,
+	"duplicated image caption parameter",
+	"Kasai shrine 02"
+],[
+	"葡屬澳門",
+	403,
+	2,
+	"duplicated category",
+	"[[Category:澳門歷史|*]]"
+],[
+	"葡荷澳門戰役",
+	59,
+	37,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"葡萄牙語",
+	741,
+	24,
+	"duplicated fica attribute",
+	"fica"
+],[
+	"董修甲",
+	53,
+	2,
+	"duplicated category",
+	"[[Category:汪精卫政权江苏省政府官员]]"
+],[
+	"董其政",
+	41,
+	2,
+	"duplicated category",
+	"[[Category:立法院第一屆正選立法委員]]"
+],[
+	"董家口火车站 (地铁)",
+	30,
+	3,
+	"duplicated parameter",
+	"first = \n "
+],[
+	"董燕生",
+	49,
+	2,
+	"duplicated category",
+	"[[Category:鲁迅文学奖得主]]"
+],[
+	"董裕",
+	54,
+	2,
+	"duplicated category",
+	"[[Category:明朝东莞县知县]]"
+],[
+	"蒂姆·凯恩",
+	50,
+	3,
+	"duplicated parameter",
+	"signature    = Tim Kaine Signature.svg\n "
+],[
+	"蒂姆·布拉班茨",
+	12,
+	2,
+	"duplicated category",
+	"[[Category:英国男子皮划艇运动员]]"
+],[
+	"蒂姆·普伦德加斯特",
+	9,
+	2,
+	"duplicated category",
+	"[[Category:新西兰男子田径运动员]]"
+],[
+	"蒂娜·特纳",
+	61,
+	42,
+	"duplicated image caption parameter",
+	"Left"
+],[
+	"蒂爾堡車站",
+	41,
+	27,
+	"duplicated image caption parameter",
+	"Tilburg Station, 2005"
+],[
+	"蒋洪新",
+	59,
+	2,
+	"duplicated category",
+	"[[Category:湖南师范大学校友]]"
+],[
+	"蒋璐霞",
+	191,
+	2,
+	"duplicated category",
+	"[[Category:蔣姓]]"
+],[
+	"蒙哥马利 (亚拉巴马州)",
+	21,
+	37,
+	"duplicated image caption parameter",
+	"24KBpx"
+],[
+	"蒙大拿州市镇列表",
+	208,
+	4,
+	"duplicated scope attribute",
+	"scope=\"row\""
+],[
+	"蒙特內哥羅軍政府",
+	8,
+	3,
+	"duplicated parameter",
+	" image_map              = Axis occupation of Yugoslavia 1941-43.png\n "
+],[
+	"蒙特塞拉特足球代表隊",
+	62,
+	24,
+	"duplicated style attribute",
+	"style=\"font-size:60%\""
+],[
+	"蒙特波卡化石库",
+	79,
+	25,
+	"duplicated image caption parameter",
+	"vignette"
+],[
+	"蒙特羅戰役",
+	44,
+	2,
+	"duplicated category",
+	"[[Category:拿破崙戰爭戰役]]"
+],[
+	"蒙特雷 (加利福尼亚州)",
+	100,
+	2,
+	"duplicated category",
+	"[[Category:美国前州首府|M]]"
+],[
+	"蒙自市",
+	396,
+	72,
+	"duplicated image caption parameter",
+	"Shiqicun Bridge of G8011 Kaihe Expressway (20200126144022)"
+],[
+	"蒙茅斯的杰弗里",
+	27,
+	2,
+	"duplicated category",
+	"[[Category:含有拉丁語的條目]]"
+],[
+	"蒲生秀行",
+	62,
+	371,
+	"duplicated name attribute",
+	"name=\"宇都宮・高徳藩13\""
+],[
+	"蒼天航路",
+	1589,
+	2,
+	"duplicated category",
+	"[[Category:青年漫畫]]"
+],[
+	"蓋瑞特·理查斯",
+	105,
+	2,
+	"duplicated category",
+	"[[Category:洛杉磯天使球員]]"
+],[
+	"蓝家店站",
+	20,
+	3,
+	"duplicated parameter",
+	" code = {{成都轨道交通车站编号|19|17}}\n "
+],[
+	"蓝衣社",
+	154,
+	49,
+	"duplicated parameter",
+	"url= "
+],[
+	"蓝调天后",
+	149,
+	4,
+	"duplicated rowspan attribute",
+	"rowspan=\"5\""
+],[
+	"蓝鹇",
+	4,
+	3,
+	"duplicated parameter",
+	"3=zh-cn:鹇;zh-tw:鷳;zh-hk:鷴;\n "
+],[
+	"蓬江区",
+	140,
+	31,
+	"duplicated image caption parameter",
+	"长堤路"
+],[
+	"蔡依林",
+	143,
+	1816,
+	"duplicated parameter",
+	"website=ent.sina.com.cn"
+],[
+	"蔡兆浚",
+	61,
+	2,
+	"duplicated category",
+	"[[Category:香港人物小作品]]"
+],[
+	"蔡士勤",
+	55,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"蔡夢熊",
+	49,
+	2,
+	"duplicated category",
+	"[[Category:台南市人]]"
+],[
+	"蔡孟修",
+	52,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"蔡家宏",
+	57,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"蔡展鵬",
+	84,
+	2,
+	"duplicated category",
+	"[[Category:香港警務人員]]"
+],[
+	"蔡希邠",
+	15,
+	2,
+	"duplicated category",
+	"[[Category:清朝廣西按察使|C]]"
+],[
+	"蔡建偉",
+	89,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"蔡徐恩",
+	83,
+	2,
+	"duplicated category",
+	"[[Category:蔡]]"
+],[
+	"蔡文誠",
+	252,
+	2,
+	"duplicated category",
+	"[[Category:臺北富邦勇士球員]]"
+],[
+	"蔡明覺",
+	48,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"蔡易餘",
+	155,
+	2,
+	"duplicated category",
+	"[[Category:英派系 ]]"
+],[
+	"蔡森夫",
+	33,
+	2,
+	"duplicated category",
+	"[[Category:蔡姓]]"
+],[
+	"蔡榮宗",
+	70,
+	2,
+	"duplicated category",
+	"[[Category:蔡姓|R蔡]]"
+],[
+	"蔡汝賢",
+	45,
+	2,
+	"duplicated category",
+	"[[Category:明朝福建按察使]]"
+],[
+	"蔡淑君",
+	8,
+	3,
+	"duplicated parameter",
+	" term_end1     = \n "
+],[
+	"蔡耀勛",
+	66,
+	2,
+	"duplicated category",
+	"[[Category:臺北富邦勇士球員]]"
+],[
+	"蔡英峰",
+	53,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"蔡詩羽",
+	191,
+	2,
+	"duplicated category",
+	"[[Category:台灣電影女演員]]"
+],[
+	"蔡豐安",
+	105,
+	3,
+	"duplicated align attribute",
+	"align=center"
+],],"batches":43}

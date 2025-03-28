@@ -1,1 +1,1201 @@
-window.data={"articles":[["Regsvr32",16,33,"lonely \"]\"","]]"],["Restaurant Gordon Ramsay",1,23,"lonely \"]\"","]"],["Rewrite",179,28,"lonely \"[\"","[["],["RIDEBACK",261,34,"lonely \"]\"","]]"],["RIP",6,35,"lonely \"}\"","}}"],["RISC-V",261,202,"lonely \"}\"","}"],["Road to Kingdom : Ace of Ace",263,39,"lonely \"]\"","]]"],["ROCK MUSICAL BLEACH",270,10,"lonely \"{\"","{{"],["Rocket Punch",58,67,"lonely \"[\"","["],["ROG Phone 3",74,4,"lonely \"{\"","{{"],["ROG Phone II",73,17,"lonely \"{\"","{{"],["Rolling Quartz",100,624,"lonely \"]\"","]]"],["Rosegarden",21,45,"lonely \"]\"","]"],["Run Girls, Run!",432,245,"lonely \"}\"","}}"],["Running Man節目列表",2055,3,"lonely \"{\"","{{"],["R進化 Online",19,64,"lonely \"}\"","}}"],["S-Train",5,36,"lonely \"]\"","]]"],["S/2003 J 10",5,62,"lonely \"]\"","]]"],["S/2022 J 1",11,39,"lonely \"]\"","]]"],["S/2022 J 2",11,39,"lonely \"]\"","]]"],["S/2022 J 3",11,39,"lonely \"]\"","]]"],["Sailing to the Sunshine",138,39,"lonely \"}\"","}}"],["SAKURA (歌手)",87,103,"lonely \"]\"","]"],["SAY MY NAME",113,1218,"lonely \"}\"","}}"],["SBS金土連續劇",438,66,"lonely \"}\"","}"],["SCP基金会",78,435,"lonely \"[\"","[["],["SD5",66,2,"lonely \"}\"","}}"],["Sequence : 17&",299,350,"lonely \"}\"","}"],["Setx",20,53,"lonely \"]\"","]]]]"],["SEVEN (歌曲)",254,40,"lonely \"]\"","]]"],["SEVENUS",122,3,"lonely \"{\"","{{"],["SF9媒體作品列表",36,1062,"lonely \"}\"","}"],["SF9音樂作品列表",118,26,"lonely \"{\"","{"],["Shapefile",195,109,"lonely \"]\"","]]"],["Shine",299,11,"lonely \"}\"","}}"],["SHOKICHI",428,36,"lonely \"]\"","]"],["SIB-1553A",35,114,"lonely \"{\"","{{"],["SICK'S ～內閣情報調查室特務專項專從係事件簿～",317,44,"lonely \"}\"","}}"],["SIG P226半自動手槍",417,54,"lonely \"{\"","{{"],["SIG P227半自動手槍",80,23,"lonely \"]\"","]]"],["SIG P229半自動手槍",204,87,"lonely \"[\"","["],["Signal (TWICE迷你專輯)",442,16,"lonely \"[\"","["],["Signal (電視劇)",156,4,"lonely \"{\"","{{"],["SimulationX",21,401,"lonely \"[\"","[["],["Singing With You",108,17,"lonely \"[\"","[["],["Sketch (韓國電視劇)",74,4,"lonely \"{\"","{"],["SKZ-REPLAY",274,83,"lonely \"[\"","["],["Sleepless Nights",109,19,"lonely \"]\"","]]"],["Slow Start",289,36,"lonely \"{\"","{"],["SMACS J0723.3–7327",13,2250,"lonely \"]\"","]]"],["SME Records",182,14,"lonely \"]\"","]]"],["Smile 光之美少女！",690,26,"lonely \"}\"","}"],["SNH48 Group第七屆總決選",78,4,"lonely \"]\"","]]"],["SNH48 Group第六屆總決選",71,4,"lonely \"]\"","]]"],["Sony Music Direct",66,105,"lonely \"]\"","]]"],["Sou",63,206,"lonely \"}\"","}}"],["South Club",29,836,"lonely \"{\"","{{"],["SpaceX星艦研發歷史",909,35,"lonely \"{\"","{{"],["SPEEDLAND -The Premium Best Re Tracks-",29,59,"lonely \"]\"","]]"],["Spotify串流成就排行榜",226,32,"lonely \"{\"","{{"],["SS 433",69,74,"lonely \"]\"","]]"],["Starman (歌曲)",61,163,"lonely \"}\"","}}"],["Stray Kids 2nd World Tour \"MANIAC\"",87,31,"lonely \"]\"","]"],["Stray Kids演唱會列表",590,85,"lonely \"]\"","]"],["STS-61-B",35,93,"lonely \"]\"","]]"],["Sundome西站",151,4,"lonely \"{\"","{{"],["SUNRISE (GFRIEND單曲)",50,308,"lonely \"}\"","}"],["SUPER EIGHT",256,342,"lonely \"[\"","["],["Super One",99,57,"lonely \"]\"","]]"],["SURVIVORS feat. DJ MAKIDAI from EXILE/榮耀",40,99,"lonely \"[\"","[["],["T-33教練機",120,4,"lonely \"[\"","["],["T-35皮蘭教練機",87,216,"lonely \"]\"","]"],["T-80主戰坦克",234,182,"lonely \"}\"","}"],["T-ara",133,811,"lonely \"[\"","[["],["T-ARA 2014 TOUR in JAPAN",58,2,"lonely \"{\"","{{"],["T-Series",66,577,"lonely \"[\"","[["],["T·H·罗杰斯学校",14,5,"lonely \"[\"","["],["TakingITGlobal",4,152,"lonely \"[\"","["],["TALOS (軍服)",2,881,"lonely \"]\"","]"],["Taste of Love",88,37,"lonely \"[\"","[["],["TBS週五連續劇",127,15,"lonely \"]\"","]"],["Team K 5th Stage“引体后翻”",110,392,"lonely \"}\"","}"],["Team SoloMid",41,211,"lonely \"]\"","]"],["TG-32滑翔機",60,116,"lonely \"{\"","{{"],["THE BAWDIES",534,33,"lonely \"[\"","[["],["THE BIGDIPPER",90,3,"lonely \"{\"","{{"],["THE BOYZ",1157,146,"lonely \"[\"","["],["The Chaos Chapter: FREEZE",19,68,"lonely \"]\"","]"],["THE FAN",188,27,"lonely \"]\"","]"],["THE FUTURE",53,14,"lonely \"]\"","]"],["The Pretty Reckless",73,60,"lonely \"{\"","{{"],["The Unit",4456,3,"lonely \"{\"","{{"],["Theora",130,565,"lonely \"[\"","[["],["Tiffany (少女時代)",65,1337,"lonely \"{\"","{{"],["TikTok相关争议",52,51,"lonely \"{\"","{{"],["TIME SPACE EP",11,31,"lonely \"]\"","]]"],["TN",18,53,"lonely \"]\"","]]"],["Tonight (BIGBANG迷你專輯)",54,83,"lonely \"[\"","["],["TOPGEAR 極速誌",31,6,"lonely \"]\"","]]"],["Touch (Unix)",17,16,"lonely \"[\"","[["],["Treasure (飛輪海單曲)",17,84,"lonely \"[\"","[["],["Triple A (動畫製作公司)",117,3,"lonely \"{\"","{{"],["TurboLinux",30,20,"lonely \"[\"","[["],["TUYU",412,4,"lonely \"{\"","{{"],["TvN金土連續劇",59,172,"lonely \"}\"","}}"],["TWICE",93,52,"lonely \"[\"","["],["TWICE媒體作品列表",373,32,"lonely \"[\"","["],["TWS (團體)",849,171,"lonely \"[\"","["],["TXT演唱會作品列表",348,178,"lonely \"[\"","["],["U-KISS JAPAN BEST COLLECTION 2011-2016",303,20,"lonely \"]\"","]]"],["U.S. News大學排名",1,32,"lonely \"]\"","]]"],["UH-60黑鹰直升机",63,107,"lonely \"]\"","]"],["UH-72 拉科塔直升機",69,120,"lonely \"]\"","]]"],["UiO-66",7,94,"lonely \"]\"","]]"],["UiO-67",7,26,"lonely \"[\"","[["],["Unknown Mother Goose",31,55,"lonely \"}\"","}}"],["UNVEIL",39,70,"lonely \"]\"","]"],["Urpmi",30,177,"lonely \"[\"","["],["Utada Hikaru SINGLE COLLECTION VOL.1",25,563,"lonely \"]\"","]"],["V.W.P",378,292,"lonely \"}\"","}"],["Vantis",2,209,"lonely \"]\"","]]"],["Velostat",4,108,"lonely \"[\"","[["],["Verilog",242,24,"lonely \"}\"","}}"],["Vernalossom",860,31,"lonely \"{\"","{"],["VH-71紅隼直升機",71,68,"lonely \"[\"","[["],["Vice (雜誌)",96,280,"lonely \"]\"","]"],["Viola Beach",62,21,"lonely \"]\"","]"],["Virtual Boy",139,59,"lonely \"]\"","]"],["Visual Basic for Applications",148,46,"lonely \"]\"","]]"],["VKontakte",40,558,"lonely \"}\"","}}"],["VOB",45,2,"lonely \"}\"","}}"],["VoIP軟體的比較",265,30,"lonely \"[\"","["],["W70 (核彈頭)",39,30,"lonely \"{\"","{{"],["WA$$UP",46,69,"lonely \"{\"","{{"],["WebLogic",120,91,"lonely \"[\"","["],["What the Golf",50,244,"lonely \"[\"","[["],["Wicket",185,471,"lonely \"{\"","{{"],["Wifey",37,93,"lonely \"[\"","["],["Wikipedia:「per」是什麼意思？",11,11,"lonely \"{\"","{"],["Wikipedia:2006中文維基年會/時間選擇",53,63,"lonely \"]\"","]]"],["Wikipedia:2009年媒體引用維基百科內容列表",4,94,"lonely \"]\"","]"],["Wikipedia:2010年媒體引用維基百科內容列表",28,71,"lonely \"]\"","]"],["Wikipedia:ArArchive/中国人列表",10,247,"lonely \"}\"","}}"],["Wikipedia:ArArchive/蔡元豐",16,267,"lonely \"}\"","}}"],["Wikipedia:AutoWikiBrowser/CheckPage/2016",120,48,"lonely \"[\"","[["],["Wikipedia:AutoWikiBrowser/CheckPage/2017",13,76,"lonely \"}\"","}"],["Wikipedia:AutoWikiBrowser/Settings",40,25,"lonely \"{\"","{{"],["Wikipedia:AutoWikiBrowser/任务/存檔/2013",70,50,"lonely \"}\"","}}"],["Wikipedia:AutoWikiBrowser/查找和替换",128,30,"lonely \"{\"","{{"],["Wikipedia:AutoWikiBrowser/版本历史",930,27,"lonely \"[\"","[["],["Wikipedia:AutoWikiBrowser/用户手册",166,2,"lonely \"}\"","}}"],["Wikipedia:CVN",21,29,"lonely \"[\"","[["],["Wikipedia:Google搜尋和數量",47,185,"lonely \"]\"","]"],["Wikipedia:Lua",30,52,"lonely \"}\"","}}"],["Wikipedia:NS2021/MOSSC",1,6,"lonely \"[\"","[["],["Wikipedia:Twinkle/修复RFPP",7,21,"lonely \"}\"","}}"],["Wikipedia:U18协会",66,5,"lonely \"[\"","[["],["Wikipedia:Unihan繁简体对照表/简繁一多对应表",8,3,"lonely \"{\"","{"],["Wikipedia:WIAFL",1,31,"lonely \"{\"","{{"],["Wikipedia:WikipediaCatNews/简报存档/4",17,32,"lonely \"]\"","]]"],["Wikipedia:上载纪录/存档/2003年",17,183,"lonely \"]\"","]]"],["Wikipedia:上载纪录/存档/2004年10月",22,111,"lonely \"}\"","}}"],["Wikipedia:上载纪录/存档/2004年11月",18,119,"lonely \"}\"","}}"],["Wikipedia:上载纪录/存档/2004年12月",9,114,"lonely \"}\"","}}"],["Wikipedia:上载纪录/存档/2004年2月",3,54,"lonely \"[\"","[["],["Wikipedia:上载纪录/存档/2004年3月",30,44,"lonely \"[\"","[["],["Wikipedia:上载纪录/存档/2004年4月",98,141,"lonely \"]\"","]]"],["Wikipedia:上载纪录/存档/2004年5月",4,194,"lonely \"]\"","]]"],["Wikipedia:上载纪录/存档/2004年6月",34,188,"lonely \"]\"","]]"],["Wikipedia:上载纪录/存档/2004年7月",153,103,"lonely \"]\"","]]"],["Wikipedia:上载纪录/存档/2004年8月",19,113,"lonely \"}\"","}}"],["Wikipedia:上载纪录/存档/2004年9月",23,117,"lonely \"}\"","}}"],["Wikipedia:不再活跃的用户",133,53,"lonely \"[\"","["],["Wikipedia:不应提交刪除的條目",36,48,"lonely \"}\"","}}"],["Wikipedia:不要使用叙述手法",3,2,"lonely \"{\"","{{"],["Wikipedia:不要倉促編輯",93,5,"lonely \"{\"","{{"],["Wikipedia:专题委员会/专题名录",14,10,"lonely \"{\"","{{"],["Wikipedia:专题委员会/技术支持/存档",1233,11,"lonely \"{\"","{{"],["Wikipedia:主题/建立主题",21,20,"lonely \"}\"","}}"],["Wikipedia:互助客栈/其他",342,249,"lonely \"]\"","]"],["Wikipedia:互助客栈/其他/存档/2003年8月",269,3,"lonely \"[\"","["],["Wikipedia:互助客栈/其他/存档/2004年10月",35,63,"lonely \"[\"","[["],["Wikipedia:互助客栈/其他/存档/2004年11月",70,33,"lonely \"[\"","[["],["Wikipedia:互助客栈/其他/存档/2004年12月",59,58,"lonely \"[\"","[["],["Wikipedia:互助客栈/其他/存档/2004年6月",34,76,"lonely \"]\"","]]"],["Wikipedia:互助客栈/其他/存档/2004年9月",261,11,"lonely \"[\"","[["],["Wikipedia:互助客栈/其他/存档/2005年11月",7,65,"lonely \"[\"","[["],["Wikipedia:互助客栈/其他/存档/2005年12月",552,18,"lonely \"{\"","{"],["Wikipedia:互助客栈/其他/存档/2005年3月",306,22,"lonely \"[\"","[["],["Wikipedia:互助客栈/其他/存档/2005年5月",44,128,"lonely \"[\"","[["],["Wikipedia:互助客栈/其他/存档/2005年6月",122,142,"lonely \"]\"","]"],["Wikipedia:互助客栈/其他/存档/2005年7月",1050,59,"lonely \"]\"","]"],["Wikipedia:互助客栈/其他/存档/2005年8月",1117,5,"lonely \"[\"","[["],["Wikipedia:互助客栈/其他/存档/2006年10月",208,116,"lonely \"[\"","["],["Wikipedia:互助客栈/其他/存档/2006年12月",24,206,"lonely \"]\"","]]]]"],["Wikipedia:互助客栈/其他/存档/2006年2月",232,79,"lonely \"]\"","]]"],["Wikipedia:互助客栈/其他/存档/2006年3月",1492,226,"lonely \"[\"","["],["Wikipedia:互助客栈/其他/存档/2006年8月",487,162,"lonely \"[\"","["],["Wikipedia:互助客栈/其他/存档/2006年9月",109,67,"lonely \"]\"","]"],["Wikipedia:互助客栈/其他/存档/2007年10月",156,147,"lonely \"[\"","[["]],"batches":68}
+window.data={"articles":[[
+	"Regsvr32",
+	16,
+	33,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Restaurant Gordon Ramsay",
+	1,
+	23,
+	"lonely \"]\"",
+	"]"
+],[
+	"Rewrite",
+	179,
+	28,
+	"lonely \"[\"",
+	"[["
+],[
+	"RIDEBACK",
+	261,
+	34,
+	"lonely \"]\"",
+	"]]"
+],[
+	"RIP",
+	6,
+	35,
+	"lonely \"}\"",
+	"}}"
+],[
+	"RISC-V",
+	261,
+	202,
+	"lonely \"}\"",
+	"}"
+],[
+	"Road to Kingdom : Ace of Ace",
+	263,
+	39,
+	"lonely \"]\"",
+	"]]"
+],[
+	"ROCK MUSICAL BLEACH",
+	270,
+	10,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Rocket Punch",
+	58,
+	67,
+	"lonely \"[\"",
+	"["
+],[
+	"ROG Phone 3",
+	74,
+	4,
+	"lonely \"{\"",
+	"{{"
+],[
+	"ROG Phone II",
+	73,
+	17,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Rolling Quartz",
+	100,
+	624,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Rosegarden",
+	21,
+	45,
+	"lonely \"]\"",
+	"]"
+],[
+	"Run Girls, Run!",
+	432,
+	245,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Running Man節目列表",
+	2055,
+	3,
+	"lonely \"{\"",
+	"{{"
+],[
+	"R進化 Online",
+	19,
+	64,
+	"lonely \"}\"",
+	"}}"
+],[
+	"S-Train",
+	5,
+	36,
+	"lonely \"]\"",
+	"]]"
+],[
+	"S/2003 J 10",
+	5,
+	62,
+	"lonely \"]\"",
+	"]]"
+],[
+	"S/2022 J 1",
+	11,
+	39,
+	"lonely \"]\"",
+	"]]"
+],[
+	"S/2022 J 2",
+	11,
+	39,
+	"lonely \"]\"",
+	"]]"
+],[
+	"S/2022 J 3",
+	11,
+	39,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Sailing to the Sunshine",
+	138,
+	39,
+	"lonely \"}\"",
+	"}}"
+],[
+	"SAKURA (歌手)",
+	87,
+	103,
+	"lonely \"]\"",
+	"]"
+],[
+	"SAY MY NAME",
+	113,
+	1218,
+	"lonely \"}\"",
+	"}}"
+],[
+	"SBS金土連續劇",
+	438,
+	66,
+	"lonely \"}\"",
+	"}"
+],[
+	"SCP基金会",
+	78,
+	435,
+	"lonely \"[\"",
+	"[["
+],[
+	"SD5",
+	66,
+	2,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Sequence : 17&",
+	299,
+	350,
+	"lonely \"}\"",
+	"}"
+],[
+	"Setx",
+	20,
+	53,
+	"lonely \"]\"",
+	"]]]]"
+],[
+	"SEVEN (歌曲)",
+	254,
+	40,
+	"lonely \"]\"",
+	"]]"
+],[
+	"SEVENUS",
+	122,
+	3,
+	"lonely \"{\"",
+	"{{"
+],[
+	"SF9媒體作品列表",
+	36,
+	1062,
+	"lonely \"}\"",
+	"}"
+],[
+	"SF9音樂作品列表",
+	118,
+	26,
+	"lonely \"{\"",
+	"{"
+],[
+	"Shapefile",
+	195,
+	109,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Shine",
+	299,
+	11,
+	"lonely \"}\"",
+	"}}"
+],[
+	"SHOKICHI",
+	428,
+	36,
+	"lonely \"]\"",
+	"]"
+],[
+	"SIB-1553A",
+	35,
+	114,
+	"lonely \"{\"",
+	"{{"
+],[
+	"SICK'S ～內閣情報調查室特務專項專從係事件簿～",
+	317,
+	44,
+	"lonely \"}\"",
+	"}}"
+],[
+	"SIG P226半自動手槍",
+	417,
+	54,
+	"lonely \"{\"",
+	"{{"
+],[
+	"SIG P227半自動手槍",
+	80,
+	23,
+	"lonely \"]\"",
+	"]]"
+],[
+	"SIG P229半自動手槍",
+	204,
+	87,
+	"lonely \"[\"",
+	"["
+],[
+	"Signal (TWICE迷你專輯)",
+	442,
+	16,
+	"lonely \"[\"",
+	"["
+],[
+	"Signal (電視劇)",
+	156,
+	4,
+	"lonely \"{\"",
+	"{{"
+],[
+	"SimulationX",
+	21,
+	401,
+	"lonely \"[\"",
+	"[["
+],[
+	"Singing With You",
+	108,
+	17,
+	"lonely \"[\"",
+	"[["
+],[
+	"Sketch (韓國電視劇)",
+	74,
+	4,
+	"lonely \"{\"",
+	"{"
+],[
+	"SKZ-REPLAY",
+	274,
+	83,
+	"lonely \"[\"",
+	"["
+],[
+	"Sleepless Nights",
+	109,
+	19,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Slow Start",
+	289,
+	36,
+	"lonely \"{\"",
+	"{"
+],[
+	"SMACS J0723.3–7327",
+	13,
+	2250,
+	"lonely \"]\"",
+	"]]"
+],[
+	"SME Records",
+	182,
+	14,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Smile 光之美少女！",
+	690,
+	26,
+	"lonely \"}\"",
+	"}"
+],[
+	"SNH48 Group第七屆總決選",
+	78,
+	4,
+	"lonely \"]\"",
+	"]]"
+],[
+	"SNH48 Group第六屆總決選",
+	71,
+	4,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Sony Music Direct",
+	66,
+	105,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Sou",
+	63,
+	206,
+	"lonely \"}\"",
+	"}}"
+],[
+	"South Club",
+	29,
+	836,
+	"lonely \"{\"",
+	"{{"
+],[
+	"SpaceX星艦研發歷史",
+	909,
+	35,
+	"lonely \"{\"",
+	"{{"
+],[
+	"SPEEDLAND -The Premium Best Re Tracks-",
+	29,
+	59,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Spotify串流成就排行榜",
+	226,
+	32,
+	"lonely \"{\"",
+	"{{"
+],[
+	"SS 433",
+	69,
+	74,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Starman (歌曲)",
+	61,
+	163,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Stray Kids 2nd World Tour \"MANIAC\"",
+	87,
+	31,
+	"lonely \"]\"",
+	"]"
+],[
+	"Stray Kids演唱會列表",
+	590,
+	85,
+	"lonely \"]\"",
+	"]"
+],[
+	"STS-61-B",
+	35,
+	93,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Sundome西站",
+	151,
+	4,
+	"lonely \"{\"",
+	"{{"
+],[
+	"SUNRISE (GFRIEND單曲)",
+	50,
+	308,
+	"lonely \"}\"",
+	"}"
+],[
+	"SUPER EIGHT",
+	256,
+	342,
+	"lonely \"[\"",
+	"["
+],[
+	"Super One",
+	99,
+	57,
+	"lonely \"]\"",
+	"]]"
+],[
+	"SURVIVORS feat. DJ MAKIDAI from EXILE/榮耀",
+	40,
+	99,
+	"lonely \"[\"",
+	"[["
+],[
+	"T-33教練機",
+	120,
+	4,
+	"lonely \"[\"",
+	"["
+],[
+	"T-35皮蘭教練機",
+	87,
+	216,
+	"lonely \"]\"",
+	"]"
+],[
+	"T-80主戰坦克",
+	234,
+	182,
+	"lonely \"}\"",
+	"}"
+],[
+	"T-ara",
+	133,
+	811,
+	"lonely \"[\"",
+	"[["
+],[
+	"T-ARA 2014 TOUR in JAPAN",
+	58,
+	2,
+	"lonely \"{\"",
+	"{{"
+],[
+	"T-Series",
+	66,
+	577,
+	"lonely \"[\"",
+	"[["
+],[
+	"T·H·罗杰斯学校",
+	14,
+	5,
+	"lonely \"[\"",
+	"["
+],[
+	"TakingITGlobal",
+	4,
+	152,
+	"lonely \"[\"",
+	"["
+],[
+	"TALOS (軍服)",
+	2,
+	881,
+	"lonely \"]\"",
+	"]"
+],[
+	"Taste of Love",
+	88,
+	37,
+	"lonely \"[\"",
+	"[["
+],[
+	"TBS週五連續劇",
+	127,
+	15,
+	"lonely \"]\"",
+	"]"
+],[
+	"Team K 5th Stage“引体后翻”",
+	110,
+	392,
+	"lonely \"}\"",
+	"}"
+],[
+	"Team SoloMid",
+	41,
+	211,
+	"lonely \"]\"",
+	"]"
+],[
+	"TG-32滑翔機",
+	60,
+	116,
+	"lonely \"{\"",
+	"{{"
+],[
+	"THE BAWDIES",
+	534,
+	33,
+	"lonely \"[\"",
+	"[["
+],[
+	"THE BIGDIPPER",
+	90,
+	3,
+	"lonely \"{\"",
+	"{{"
+],[
+	"THE BOYZ",
+	1157,
+	146,
+	"lonely \"[\"",
+	"["
+],[
+	"The Chaos Chapter: FREEZE",
+	19,
+	68,
+	"lonely \"]\"",
+	"]"
+],[
+	"THE FAN",
+	188,
+	27,
+	"lonely \"]\"",
+	"]"
+],[
+	"THE FUTURE",
+	53,
+	14,
+	"lonely \"]\"",
+	"]"
+],[
+	"The Pretty Reckless",
+	73,
+	60,
+	"lonely \"{\"",
+	"{{"
+],[
+	"The Unit",
+	4456,
+	3,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Theora",
+	130,
+	565,
+	"lonely \"[\"",
+	"[["
+],[
+	"Tiffany (少女時代)",
+	65,
+	1337,
+	"lonely \"{\"",
+	"{{"
+],[
+	"TikTok相关争议",
+	52,
+	51,
+	"lonely \"{\"",
+	"{{"
+],[
+	"TIME SPACE EP",
+	11,
+	31,
+	"lonely \"]\"",
+	"]]"
+],[
+	"TN",
+	18,
+	53,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Tonight (BIGBANG迷你專輯)",
+	54,
+	83,
+	"lonely \"[\"",
+	"["
+],[
+	"TOPGEAR 極速誌",
+	31,
+	6,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Touch (Unix)",
+	17,
+	16,
+	"lonely \"[\"",
+	"[["
+],[
+	"Treasure (飛輪海單曲)",
+	17,
+	84,
+	"lonely \"[\"",
+	"[["
+],[
+	"Triple A (動畫製作公司)",
+	117,
+	3,
+	"lonely \"{\"",
+	"{{"
+],[
+	"TurboLinux",
+	30,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"TUYU",
+	412,
+	4,
+	"lonely \"{\"",
+	"{{"
+],[
+	"TvN金土連續劇",
+	59,
+	172,
+	"lonely \"}\"",
+	"}}"
+],[
+	"TWICE",
+	93,
+	52,
+	"lonely \"[\"",
+	"["
+],[
+	"TWICE媒體作品列表",
+	373,
+	32,
+	"lonely \"[\"",
+	"["
+],[
+	"TWS (團體)",
+	849,
+	171,
+	"lonely \"[\"",
+	"["
+],[
+	"TXT演唱會作品列表",
+	348,
+	178,
+	"lonely \"[\"",
+	"["
+],[
+	"U-KISS JAPAN BEST COLLECTION 2011-2016",
+	303,
+	20,
+	"lonely \"]\"",
+	"]]"
+],[
+	"U.S. News大學排名",
+	1,
+	32,
+	"lonely \"]\"",
+	"]]"
+],[
+	"UH-60黑鹰直升机",
+	63,
+	107,
+	"lonely \"]\"",
+	"]"
+],[
+	"UH-72 拉科塔直升機",
+	69,
+	120,
+	"lonely \"]\"",
+	"]]"
+],[
+	"UiO-66",
+	7,
+	94,
+	"lonely \"]\"",
+	"]]"
+],[
+	"UiO-67",
+	7,
+	26,
+	"lonely \"[\"",
+	"[["
+],[
+	"Unknown Mother Goose",
+	31,
+	55,
+	"lonely \"}\"",
+	"}}"
+],[
+	"UNVEIL",
+	39,
+	70,
+	"lonely \"]\"",
+	"]"
+],[
+	"Urpmi",
+	30,
+	177,
+	"lonely \"[\"",
+	"["
+],[
+	"Utada Hikaru SINGLE COLLECTION VOL.1",
+	25,
+	563,
+	"lonely \"]\"",
+	"]"
+],[
+	"V.W.P",
+	378,
+	292,
+	"lonely \"}\"",
+	"}"
+],[
+	"Vantis",
+	2,
+	209,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Velostat",
+	4,
+	108,
+	"lonely \"[\"",
+	"[["
+],[
+	"Verilog",
+	242,
+	24,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Vernalossom",
+	860,
+	31,
+	"lonely \"{\"",
+	"{"
+],[
+	"VH-71紅隼直升機",
+	71,
+	68,
+	"lonely \"[\"",
+	"[["
+],[
+	"Vice (雜誌)",
+	96,
+	280,
+	"lonely \"]\"",
+	"]"
+],[
+	"Viola Beach",
+	62,
+	21,
+	"lonely \"]\"",
+	"]"
+],[
+	"Virtual Boy",
+	139,
+	59,
+	"lonely \"]\"",
+	"]"
+],[
+	"Visual Basic for Applications",
+	148,
+	46,
+	"lonely \"]\"",
+	"]]"
+],[
+	"VKontakte",
+	40,
+	558,
+	"lonely \"}\"",
+	"}}"
+],[
+	"VOB",
+	45,
+	2,
+	"lonely \"}\"",
+	"}}"
+],[
+	"VoIP軟體的比較",
+	265,
+	30,
+	"lonely \"[\"",
+	"["
+],[
+	"W70 (核彈頭)",
+	39,
+	30,
+	"lonely \"{\"",
+	"{{"
+],[
+	"WA$$UP",
+	46,
+	69,
+	"lonely \"{\"",
+	"{{"
+],[
+	"WebLogic",
+	120,
+	91,
+	"lonely \"[\"",
+	"["
+],[
+	"What the Golf",
+	50,
+	244,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wicket",
+	185,
+	471,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Wifey",
+	37,
+	93,
+	"lonely \"[\"",
+	"["
+],[
+	"Wikipedia:「per」是什麼意思？",
+	11,
+	11,
+	"lonely \"{\"",
+	"{"
+],[
+	"Wikipedia:2006中文維基年會/時間選擇",
+	53,
+	63,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Wikipedia:2009年媒體引用維基百科內容列表",
+	4,
+	94,
+	"lonely \"]\"",
+	"]"
+],[
+	"Wikipedia:2010年媒體引用維基百科內容列表",
+	28,
+	71,
+	"lonely \"]\"",
+	"]"
+],[
+	"Wikipedia:ArArchive/中国人列表",
+	10,
+	247,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Wikipedia:ArArchive/蔡元豐",
+	16,
+	267,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Wikipedia:AutoWikiBrowser/CheckPage/2016",
+	120,
+	48,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wikipedia:AutoWikiBrowser/CheckPage/2017",
+	13,
+	76,
+	"lonely \"}\"",
+	"}"
+],[
+	"Wikipedia:AutoWikiBrowser/Settings",
+	40,
+	25,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Wikipedia:AutoWikiBrowser/任务/存檔/2013",
+	70,
+	50,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Wikipedia:AutoWikiBrowser/查找和替换",
+	128,
+	30,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Wikipedia:AutoWikiBrowser/版本历史",
+	930,
+	27,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wikipedia:AutoWikiBrowser/用户手册",
+	166,
+	2,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Wikipedia:CVN",
+	21,
+	29,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wikipedia:Google搜尋和數量",
+	47,
+	185,
+	"lonely \"]\"",
+	"]"
+],[
+	"Wikipedia:Lua",
+	30,
+	52,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Wikipedia:NS2021/MOSSC",
+	1,
+	6,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wikipedia:Twinkle/修复RFPP",
+	7,
+	21,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Wikipedia:U18协会",
+	66,
+	5,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wikipedia:Unihan繁简体对照表/简繁一多对应表",
+	8,
+	3,
+	"lonely \"{\"",
+	"{"
+],[
+	"Wikipedia:WIAFL",
+	1,
+	31,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Wikipedia:WikipediaCatNews/简报存档/4",
+	17,
+	32,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Wikipedia:上载纪录/存档/2003年",
+	17,
+	183,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Wikipedia:上载纪录/存档/2004年10月",
+	22,
+	111,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Wikipedia:上载纪录/存档/2004年11月",
+	18,
+	119,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Wikipedia:上载纪录/存档/2004年12月",
+	9,
+	114,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Wikipedia:上载纪录/存档/2004年2月",
+	3,
+	54,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wikipedia:上载纪录/存档/2004年3月",
+	30,
+	44,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wikipedia:上载纪录/存档/2004年4月",
+	98,
+	141,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Wikipedia:上载纪录/存档/2004年5月",
+	4,
+	194,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Wikipedia:上载纪录/存档/2004年6月",
+	34,
+	188,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Wikipedia:上载纪录/存档/2004年7月",
+	153,
+	103,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Wikipedia:上载纪录/存档/2004年8月",
+	19,
+	113,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Wikipedia:上载纪录/存档/2004年9月",
+	23,
+	117,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Wikipedia:不再活跃的用户",
+	133,
+	53,
+	"lonely \"[\"",
+	"["
+],[
+	"Wikipedia:不应提交刪除的條目",
+	36,
+	48,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Wikipedia:不要使用叙述手法",
+	3,
+	2,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Wikipedia:不要倉促編輯",
+	93,
+	5,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Wikipedia:专题委员会/专题名录",
+	14,
+	10,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Wikipedia:专题委员会/技术支持/存档",
+	1233,
+	11,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Wikipedia:主题/建立主题",
+	21,
+	20,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Wikipedia:互助客栈/其他",
+	342,
+	249,
+	"lonely \"]\"",
+	"]"
+],[
+	"Wikipedia:互助客栈/其他/存档/2003年8月",
+	269,
+	3,
+	"lonely \"[\"",
+	"["
+],[
+	"Wikipedia:互助客栈/其他/存档/2004年10月",
+	35,
+	63,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wikipedia:互助客栈/其他/存档/2004年11月",
+	70,
+	33,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wikipedia:互助客栈/其他/存档/2004年12月",
+	59,
+	58,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wikipedia:互助客栈/其他/存档/2004年6月",
+	34,
+	76,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Wikipedia:互助客栈/其他/存档/2004年9月",
+	261,
+	11,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wikipedia:互助客栈/其他/存档/2005年11月",
+	7,
+	65,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wikipedia:互助客栈/其他/存档/2005年12月",
+	552,
+	18,
+	"lonely \"{\"",
+	"{"
+],[
+	"Wikipedia:互助客栈/其他/存档/2005年3月",
+	306,
+	22,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wikipedia:互助客栈/其他/存档/2005年5月",
+	44,
+	128,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wikipedia:互助客栈/其他/存档/2005年6月",
+	122,
+	142,
+	"lonely \"]\"",
+	"]"
+],[
+	"Wikipedia:互助客栈/其他/存档/2005年7月",
+	1050,
+	59,
+	"lonely \"]\"",
+	"]"
+],[
+	"Wikipedia:互助客栈/其他/存档/2005年8月",
+	1117,
+	5,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wikipedia:互助客栈/其他/存档/2006年10月",
+	208,
+	116,
+	"lonely \"[\"",
+	"["
+],[
+	"Wikipedia:互助客栈/其他/存档/2006年12月",
+	24,
+	206,
+	"lonely \"]\"",
+	"]]]]"
+],[
+	"Wikipedia:互助客栈/其他/存档/2006年2月",
+	232,
+	79,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Wikipedia:互助客栈/其他/存档/2006年3月",
+	1492,
+	226,
+	"lonely \"[\"",
+	"["
+],[
+	"Wikipedia:互助客栈/其他/存档/2006年8月",
+	487,
+	162,
+	"lonely \"[\"",
+	"["
+],[
+	"Wikipedia:互助客栈/其他/存档/2006年9月",
+	109,
+	67,
+	"lonely \"]\"",
+	"]"
+],[
+	"Wikipedia:互助客栈/其他/存档/2007年10月",
+	156,
+	147,
+	"lonely \"[\"",
+	"[["
+],],"batches":68}

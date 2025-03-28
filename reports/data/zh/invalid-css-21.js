@@ -1,1 +1,1201 @@
-window.data={"articles":[["你好？是我！",453,37,"property value expected","#black"],["佩西比萬隆",135,47,"semi-colon expected",":"],["來了！張寶利",573,37,"property value expected","#black"],["依賴選擇公理",28,57,"semi-colon expected",""],["侯城2010年至2011年球季",73,82,"property value expected","#white"],["侯城2011年至2012年球季",75,82,"property value expected","#white"],["侯城2012年至2013年球季",85,82,"property value expected","#white"],["侯城2013年至2014年球季",70,82,"property value expected","#white"],["侯城2014年至2015年球季",93,82,"property value expected","#white"],["便利店新星",874,37,"property value expected","#black"],["促進轉型正義委員會",85,52,"term expected",""],["俄罗斯海军",129,36,"property value expected",";"],["俄罗斯海军水面舰艇和潜艇列表",9,36,"property value expected",";"],["俄羅斯國家羽毛球隊",24,26,"semi-colon expected",""],["俄语正写法",224,62,"semi-colon expected",""],["俏郎君 (歌曲)",102,39,"property value expected","#"],["保加利亞歐洲發展公民黨",110,35,"semi-colon expected",""],["保定站",55,162,"colon expected",";"],["保山市文物保护单位",12,27,"semi-colon expected",""],["保頓2012年至2013年球季",83,81,"colon expected","="],["保頓2013年至2014年球季",75,81,"colon expected","="],["保頓2014年至2015年球季",73,81,"colon expected","="],["俠盜獵車手系列",163,21,"semi-colon expected",""],["信浓之国",85,11,"} expected",";"],["信約：動盪的年代",284,30,"semi-colon expected",""],["信約：我們的家園",248,30,"semi-colon expected",""],["信者得愛",192,22,"semi-colon expected",""],["修咸頓2011年至2012年球季",70,81,"colon expected","="],["修咸頓2013年至2014年球季",69,81,"colon expected","="],["修咸頓2014年至2015年球季",84,81,"colon expected","="],["修夫港足球會",30,81,"colon expected","="],["修杰楷",42,22,"property value expected",";"],["個人主義者智英小姐",117,37,"property value expected","#black"],["倫敦東北鐵路公司",31,60,"} expected",""],["值得",178,22,"semi-colon expected",""],["倾城雪",92,72,"property value expected",""],["假面騎士 永遠的平成世代",227,29,"semi-colon expected",""],["假面騎士Drive",1387,16,"property value expected","#E6B800”"],["假面騎士Fourze",514,16,"property value expected","#000000”"],["假面騎士GAVV",564,29,"semi-colon expected",""],["假面騎士GOTCHARD",1064,29,"semi-colon expected",""],["假面騎士W",1059,36,"property value expected",""],["假面騎士W Forever A至Z/命運的Gaia Memory",224,36,"property value expected",""],["假面騎士Wizard",686,33,"semi-colon expected",""],["假面騎士ZERO-ONE",1000,29,"semi-colon expected",""],["假面騎士ZI-O",369,29,"semi-colon expected",""],["假面騎士ZI-O NEXT TIME",158,29,"semi-colon expected",""],["假面騎士ZI-O 外傳 RIDER TIME",117,29,"semi-colon expected",""],["假面騎士令和The First Generation",274,29,"semi-colon expected",""],["假面騎士聖刃",1310,29,"semi-colon expected",""],["偉大的隱藏者",122,36,"semi-colon expected",""],["偶像練習生",7634,82,"colon expected","="],["偶然成為社長",72,37,"property value expected","#black"],["偶然成為社長2",73,37,"property value expected","#black"],["傑克·切斯伯",84,22,"property value expected",""],["傑米·查德威克",468,21,"property value expected","#"],["傲慢與偏見 (歌曲)",33,22,"property value expected",""],["傲慢與偏見 (韓國電視劇)",316,37,"property value expected","#black"],["傳聞中的七公主",63,37,"property value expected","#black"],["傳說中的大魚",40,37,"property value expected","#black"],["傻瓜的戀愛",181,37,"property value expected","#black"],["僅此一次的愛情",658,37,"property value expected","#black"],["儋州市",260,60,"semi-colon expected",":"],["優雅的母女",791,37,"property value expected","#black"],["元衛覺醒",40,18,"property value expected","#10dded6"],["先哭為敬",104,39,"property value expected","#"],["先生娘",275,40,"semi-colon expected",""],["光華巴士",36,52,"term expected",""],["克丘亞語",85,40,"} expected","\""],["克劳利镇足球俱乐部",74,81,"colon expected","="],["克拉斯诺达尔边疆区",90,83,"property value expected","#48A3BА"],["克留基夫希納",7,81,"semi-colon expected",""],["克罗地亚乌马格公开赛",95,20,"property value expected",""],["克莱德·德雷克斯勒",215,27,"semi-colon expected",""],["克里斯托弗·托德·多纳霍",38,17,"colon expected","="],["克里斯托弗·普卢默",46,69,"semi-colon expected","#f9f9f9"],["克里斯蒂安·莱特纳",255,27,"semi-colon expected",""],["克鲁足球俱乐部",69,81,"colon expected","="],["內政部國土測繪中心",47,51,"term expected",""],["內政部國土管理署",52,52,"term expected",""],["內政部國土管理署城鄉發展分署",56,51,"term expected",""],["內政部建築研究所",54,52,"term expected",""],["內政部役政司",52,51,"term expected",""],["內政部警政署刑事警察局",65,51,"term expected",""],["內衣少女時代",230,37,"property value expected","#black"],["全民一起來",80,16,"property value expected",";"],["全球中文音樂榜上榜 (臺灣版)",45,23,"property value expected",";"],["全球增长生成国家",47,50,"semi-colon expected","120%"],["全面攻佔3：天使救援",82,22,"semi-colon expected",""],["兩天一夜",53,24,"semi-colon expected",""],["八三夭音樂作品列表",196,28,"semi-colon expected",":"],["八度空间电视剧列表",441,108,"colon expected",";"],["公主我來了",73,47,"semi-colon expected",""],["公制",344,31,"colon expected","="],["六广动车组列车",183,56,"semi-colon expected",""],["六龍飛天",815,37,"property value expected","#black"],["兰新铁路车站列表",18,41,"property value expected",""],["兰辛首都地区国际机场",57,59,"term expected",""],["共享之家",38,37,"property value expected","#black"],["共价半径",163,58,"colon expected",";"],["共沸物列表",187,26,"semi-colon expected","center"],["具廷謨",76,28,"semi-colon expected",":"],["再一次初戀",936,37,"property value expected","#black"],["最大隧道掘进机列表",4,70,"property value expected",";"],["最完美的離婚 (韓國電視劇)",289,37,"property value expected","#black"],["最強送餐員",518,37,"property value expected","#black"],["最熟悉的...蕭亞軒",371,44,"property value expected","#white"],["最美的相遇",59,55,"semi-colon expected",":"],["最美逆行者",64,36,"semi-colon expected",":"],["最長隧道列表",2422,51,"property value expected",";"],["最食人间烟火色",57,12,"} expected",";"],["最高法院 (中華民國)",54,52,"term expected",""],["军机大臣列表",776,94,"semi-colon expected",""],["冥想",25,209,"property value expected",""],["冬筍的滋味",31,43,"semi-colon expected","&"],["冯嘉怡",260,68,"semi-colon expected",""],["冰岛语正字法",23,42,"colon expected","auto"],["冰峰暴",54,22,"semi-colon expected",""],["冲绳县议会",121,59,"semi-colon expected",":"],["冲遊泰國",34,48,"term expected",""],["冼靖峰",331,51,"term expected",""],["凌志LFA",88,52,"property value expected","%"],["凌雪怡",56,22,"property value expected","#"],["凍結 (电视剧)",42,37,"property value expected","#black"],["凯尔特人足球俱乐部",204,82,"property value expected","#white"],["凯文·史派西片目列表",1,117,"property value expected","#white"],["凯文·科斯特纳",57,132,"property value expected","%"],["凯西·贝茨奖项列表",10,95,"property value expected","#white"],["凱戈",104,66,"semi-colon expected",""],["凱戈音樂作品列表",97,66,"semi-colon expected",""],["凱文·阿富汗尼",23,61,"colon expected","="],["凱爾·朱利爾斯",69,24,"colon expected",";"],["凱爾·漢崔克斯",60,22,"property value expected",""],["凱達格蘭學校",41,51,"term expected",""],["凶宅清潔師",180,23,"property value expected",";"],["出師表 (韓國電視劇)",309,37,"property value expected","#black"],["出軌的話就死定了",333,37,"property value expected","#black"],["切斯特菲尔德足球俱乐部",87,81,"colon expected","="],["切罗基语历史",118,15,"semi-colon expected",""],["列宁格勒核电站",46,16,"colon expected","="],["刘宇 (艺人)",57,73,"semi-colon expected",""],["刘琳",179,68,"semi-colon expected",""],["刘禅",112,40,"semi-colon expected",""],["刘结一",40,22,"property value expected",""],["刘邦",326,40,"semi-colon expected",""],["利物浦",235,71,"semi-colon expected",""],["利物浦交通",15,71,"semi-colon expected",""],["利物浦足球俱乐部",1217,82,"property value expected",":"],["到怡",87,28,"semi-colon expected",":"],["前2千纪",184,24,"semi-colon expected",""],["前島麻由",24,47,"semi-colon expected",""],["前輩",23,37,"colon expected",";"],["剑桥联足球俱乐部",80,81,"colon expected","="],["創富文化集團",37,34,"property value expected","#black"],["劇場版 假面騎士Ghost 100個眼魂與Ghost命運的瞬間",206,33,"semi-colon expected",""],["劇場版 假面騎士ZI-O Over Quartzer",225,29,"semi-colon expected",""],["劇場版 咒術迴戰 0",489,54,"property value expected",""],["劇場版 爆龍戰隊暴連者 DELUXE 暴連者的暑假好冰喔!",64,50,"semi-colon expected",":"],["劇場版 魔法少女小圓",90,41,"{ expected",";"],["劉以達",376,76,"semi-colon expected",""],["劉品言",632,22,"property value expected",";"],["劉家凱",37,36,"property value expected",""],["劉家輝",231,23,"property value expected","#darkred"],["劉彰",64,73,"semi-colon expected",""],["劉德華影視作品列表",14,134,"property value expected","%"],["劉明湘",170,27,"semi-colon expected",""],["劉書宏",132,28,"semi-colon expected",":"],["劉沛緹",198,23,"property value expected",";"],["劉祖德",341,37,"property value expected","#"],["劉艾立",177,91,"semi-colon expected",""],["劉芷希",139,44,"term expected",""],["劉謙益",730,105,"semi-colon expected",""],["劉逸雲",439,27,"semi-colon expected",""],["劉香君",37,46,"property value expected","%"],["劉鳳瑤",140,24,"semi-colon expected",""],["加勒比海盃",224,40,"semi-colon expected",""],["加勒比海盗5：死无对证",63,22,"semi-colon expected",""],["加勒比海盗系列电影",350,47,"term expected",";"],["加尔各答级驱逐舰",42,35,"colon expected",";"],["加州大學聖塔克魯茲分校",85,22,"semi-colon expected","|"],["加拿大交通",8,43,"semi-colon expected",""],["加拿大國家羽毛球隊",98,20,"semi-colon expected",""],["加油吧曼蘇爾",35,37,"property value expected","#black"],["加納經濟",433,24,"semi-colon expected",""],["努諾·雷森德",120,68,"colon expected",";"],["劲漫画",50,29,"property value expected","#Silver"],["勁歌金曲頒獎典禮",58,74,"colon expected","%"],["勝安航空航點",12,69,"semi-colon expected",":"],["勞動部勞動力發展署中彰投分署",55,51,"term expected",""],["勞動部勞動力發展署北基宜花金馬分署",38,51,"term expected",""],["勞動部勞動力發展署技能檢定中心",64,51,"term expected",""],["勞動部勞動力發展署桃竹苗分署",61,51,"term expected",""],["勞動部勞動力發展署雲嘉南分署",76,53,"term expected",""],["勞動部勞動基金運用局",48,52,"term expected",""],["勞動部勞工保險局",187,51,"term expected",""],["勞動部職業安全衛生署",47,52,"term expected",""],["北64線",23,19,"semi-colon expected",""],["北上广不相信眼泪",77,29,"semi-colon expected",":"],["北也门总统",12,29,"property value expected",""],["北京中赫国安足球俱乐部2017赛季",38,81,"colon expected","="]],"batches":38}
+window.data={"articles":[[
+	"你好？是我！",
+	453,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"佩西比萬隆",
+	135,
+	47,
+	"semi-colon expected",
+	":"
+],[
+	"來了！張寶利",
+	573,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"依賴選擇公理",
+	28,
+	57,
+	"semi-colon expected",
+	""
+],[
+	"侯城2010年至2011年球季",
+	73,
+	82,
+	"property value expected",
+	"#white"
+],[
+	"侯城2011年至2012年球季",
+	75,
+	82,
+	"property value expected",
+	"#white"
+],[
+	"侯城2012年至2013年球季",
+	85,
+	82,
+	"property value expected",
+	"#white"
+],[
+	"侯城2013年至2014年球季",
+	70,
+	82,
+	"property value expected",
+	"#white"
+],[
+	"侯城2014年至2015年球季",
+	93,
+	82,
+	"property value expected",
+	"#white"
+],[
+	"便利店新星",
+	874,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"促進轉型正義委員會",
+	85,
+	52,
+	"term expected",
+	""
+],[
+	"俄罗斯海军",
+	129,
+	36,
+	"property value expected",
+	";"
+],[
+	"俄罗斯海军水面舰艇和潜艇列表",
+	9,
+	36,
+	"property value expected",
+	";"
+],[
+	"俄羅斯國家羽毛球隊",
+	24,
+	26,
+	"semi-colon expected",
+	""
+],[
+	"俄语正写法",
+	224,
+	62,
+	"semi-colon expected",
+	""
+],[
+	"俏郎君 (歌曲)",
+	102,
+	39,
+	"property value expected",
+	"#"
+],[
+	"保加利亞歐洲發展公民黨",
+	110,
+	35,
+	"semi-colon expected",
+	""
+],[
+	"保定站",
+	55,
+	162,
+	"colon expected",
+	";"
+],[
+	"保山市文物保护单位",
+	12,
+	27,
+	"semi-colon expected",
+	""
+],[
+	"保頓2012年至2013年球季",
+	83,
+	81,
+	"colon expected",
+	"="
+],[
+	"保頓2013年至2014年球季",
+	75,
+	81,
+	"colon expected",
+	"="
+],[
+	"保頓2014年至2015年球季",
+	73,
+	81,
+	"colon expected",
+	"="
+],[
+	"俠盜獵車手系列",
+	163,
+	21,
+	"semi-colon expected",
+	""
+],[
+	"信浓之国",
+	85,
+	11,
+	"} expected",
+	";"
+],[
+	"信約：動盪的年代",
+	284,
+	30,
+	"semi-colon expected",
+	""
+],[
+	"信約：我們的家園",
+	248,
+	30,
+	"semi-colon expected",
+	""
+],[
+	"信者得愛",
+	192,
+	22,
+	"semi-colon expected",
+	""
+],[
+	"修咸頓2011年至2012年球季",
+	70,
+	81,
+	"colon expected",
+	"="
+],[
+	"修咸頓2013年至2014年球季",
+	69,
+	81,
+	"colon expected",
+	"="
+],[
+	"修咸頓2014年至2015年球季",
+	84,
+	81,
+	"colon expected",
+	"="
+],[
+	"修夫港足球會",
+	30,
+	81,
+	"colon expected",
+	"="
+],[
+	"修杰楷",
+	42,
+	22,
+	"property value expected",
+	";"
+],[
+	"個人主義者智英小姐",
+	117,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"倫敦東北鐵路公司",
+	31,
+	60,
+	"} expected",
+	""
+],[
+	"值得",
+	178,
+	22,
+	"semi-colon expected",
+	""
+],[
+	"倾城雪",
+	92,
+	72,
+	"property value expected",
+	""
+],[
+	"假面騎士 永遠的平成世代",
+	227,
+	29,
+	"semi-colon expected",
+	""
+],[
+	"假面騎士Drive",
+	1387,
+	16,
+	"property value expected",
+	"#E6B800”"
+],[
+	"假面騎士Fourze",
+	514,
+	16,
+	"property value expected",
+	"#000000”"
+],[
+	"假面騎士GAVV",
+	564,
+	29,
+	"semi-colon expected",
+	""
+],[
+	"假面騎士GOTCHARD",
+	1064,
+	29,
+	"semi-colon expected",
+	""
+],[
+	"假面騎士W",
+	1059,
+	36,
+	"property value expected",
+	""
+],[
+	"假面騎士W Forever A至Z/命運的Gaia Memory",
+	224,
+	36,
+	"property value expected",
+	""
+],[
+	"假面騎士Wizard",
+	686,
+	33,
+	"semi-colon expected",
+	""
+],[
+	"假面騎士ZERO-ONE",
+	1000,
+	29,
+	"semi-colon expected",
+	""
+],[
+	"假面騎士ZI-O",
+	369,
+	29,
+	"semi-colon expected",
+	""
+],[
+	"假面騎士ZI-O NEXT TIME",
+	158,
+	29,
+	"semi-colon expected",
+	""
+],[
+	"假面騎士ZI-O 外傳 RIDER TIME",
+	117,
+	29,
+	"semi-colon expected",
+	""
+],[
+	"假面騎士令和The First Generation",
+	274,
+	29,
+	"semi-colon expected",
+	""
+],[
+	"假面騎士聖刃",
+	1310,
+	29,
+	"semi-colon expected",
+	""
+],[
+	"偉大的隱藏者",
+	122,
+	36,
+	"semi-colon expected",
+	""
+],[
+	"偶像練習生",
+	7634,
+	82,
+	"colon expected",
+	"="
+],[
+	"偶然成為社長",
+	72,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"偶然成為社長2",
+	73,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"傑克·切斯伯",
+	84,
+	22,
+	"property value expected",
+	""
+],[
+	"傑米·查德威克",
+	468,
+	21,
+	"property value expected",
+	"#"
+],[
+	"傲慢與偏見 (歌曲)",
+	33,
+	22,
+	"property value expected",
+	""
+],[
+	"傲慢與偏見 (韓國電視劇)",
+	316,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"傳聞中的七公主",
+	63,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"傳說中的大魚",
+	40,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"傻瓜的戀愛",
+	181,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"僅此一次的愛情",
+	658,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"儋州市",
+	260,
+	60,
+	"semi-colon expected",
+	":"
+],[
+	"優雅的母女",
+	791,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"元衛覺醒",
+	40,
+	18,
+	"property value expected",
+	"#10dded6"
+],[
+	"先哭為敬",
+	104,
+	39,
+	"property value expected",
+	"#"
+],[
+	"先生娘",
+	275,
+	40,
+	"semi-colon expected",
+	""
+],[
+	"光華巴士",
+	36,
+	52,
+	"term expected",
+	""
+],[
+	"克丘亞語",
+	85,
+	40,
+	"} expected",
+	"\""
+],[
+	"克劳利镇足球俱乐部",
+	74,
+	81,
+	"colon expected",
+	"="
+],[
+	"克拉斯诺达尔边疆区",
+	90,
+	83,
+	"property value expected",
+	"#48A3BА"
+],[
+	"克留基夫希納",
+	7,
+	81,
+	"semi-colon expected",
+	""
+],[
+	"克罗地亚乌马格公开赛",
+	95,
+	20,
+	"property value expected",
+	""
+],[
+	"克莱德·德雷克斯勒",
+	215,
+	27,
+	"semi-colon expected",
+	""
+],[
+	"克里斯托弗·托德·多纳霍",
+	38,
+	17,
+	"colon expected",
+	"="
+],[
+	"克里斯托弗·普卢默",
+	46,
+	69,
+	"semi-colon expected",
+	"#f9f9f9"
+],[
+	"克里斯蒂安·莱特纳",
+	255,
+	27,
+	"semi-colon expected",
+	""
+],[
+	"克鲁足球俱乐部",
+	69,
+	81,
+	"colon expected",
+	"="
+],[
+	"內政部國土測繪中心",
+	47,
+	51,
+	"term expected",
+	""
+],[
+	"內政部國土管理署",
+	52,
+	52,
+	"term expected",
+	""
+],[
+	"內政部國土管理署城鄉發展分署",
+	56,
+	51,
+	"term expected",
+	""
+],[
+	"內政部建築研究所",
+	54,
+	52,
+	"term expected",
+	""
+],[
+	"內政部役政司",
+	52,
+	51,
+	"term expected",
+	""
+],[
+	"內政部警政署刑事警察局",
+	65,
+	51,
+	"term expected",
+	""
+],[
+	"內衣少女時代",
+	230,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"全民一起來",
+	80,
+	16,
+	"property value expected",
+	";"
+],[
+	"全球中文音樂榜上榜 (臺灣版)",
+	45,
+	23,
+	"property value expected",
+	";"
+],[
+	"全球增长生成国家",
+	47,
+	50,
+	"semi-colon expected",
+	"120%"
+],[
+	"全面攻佔3：天使救援",
+	82,
+	22,
+	"semi-colon expected",
+	""
+],[
+	"兩天一夜",
+	53,
+	24,
+	"semi-colon expected",
+	""
+],[
+	"八三夭音樂作品列表",
+	196,
+	28,
+	"semi-colon expected",
+	":"
+],[
+	"八度空间电视剧列表",
+	441,
+	108,
+	"colon expected",
+	";"
+],[
+	"公主我來了",
+	73,
+	47,
+	"semi-colon expected",
+	""
+],[
+	"公制",
+	344,
+	31,
+	"colon expected",
+	"="
+],[
+	"六广动车组列车",
+	183,
+	56,
+	"semi-colon expected",
+	""
+],[
+	"六龍飛天",
+	815,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"兰新铁路车站列表",
+	18,
+	41,
+	"property value expected",
+	""
+],[
+	"兰辛首都地区国际机场",
+	57,
+	59,
+	"term expected",
+	""
+],[
+	"共享之家",
+	38,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"共价半径",
+	163,
+	58,
+	"colon expected",
+	";"
+],[
+	"共沸物列表",
+	187,
+	26,
+	"semi-colon expected",
+	"center"
+],[
+	"具廷謨",
+	76,
+	28,
+	"semi-colon expected",
+	":"
+],[
+	"再一次初戀",
+	936,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"最大隧道掘进机列表",
+	4,
+	70,
+	"property value expected",
+	";"
+],[
+	"最完美的離婚 (韓國電視劇)",
+	289,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"最強送餐員",
+	518,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"最熟悉的...蕭亞軒",
+	371,
+	44,
+	"property value expected",
+	"#white"
+],[
+	"最美的相遇",
+	59,
+	55,
+	"semi-colon expected",
+	":"
+],[
+	"最美逆行者",
+	64,
+	36,
+	"semi-colon expected",
+	":"
+],[
+	"最長隧道列表",
+	2422,
+	51,
+	"property value expected",
+	";"
+],[
+	"最食人间烟火色",
+	57,
+	12,
+	"} expected",
+	";"
+],[
+	"最高法院 (中華民國)",
+	54,
+	52,
+	"term expected",
+	""
+],[
+	"军机大臣列表",
+	776,
+	94,
+	"semi-colon expected",
+	""
+],[
+	"冥想",
+	25,
+	209,
+	"property value expected",
+	""
+],[
+	"冬筍的滋味",
+	31,
+	43,
+	"semi-colon expected",
+	"&"
+],[
+	"冯嘉怡",
+	260,
+	68,
+	"semi-colon expected",
+	""
+],[
+	"冰岛语正字法",
+	23,
+	42,
+	"colon expected",
+	"auto"
+],[
+	"冰峰暴",
+	54,
+	22,
+	"semi-colon expected",
+	""
+],[
+	"冲绳县议会",
+	121,
+	59,
+	"semi-colon expected",
+	":"
+],[
+	"冲遊泰國",
+	34,
+	48,
+	"term expected",
+	""
+],[
+	"冼靖峰",
+	331,
+	51,
+	"term expected",
+	""
+],[
+	"凌志LFA",
+	88,
+	52,
+	"property value expected",
+	"%"
+],[
+	"凌雪怡",
+	56,
+	22,
+	"property value expected",
+	"#"
+],[
+	"凍結 (电视剧)",
+	42,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"凯尔特人足球俱乐部",
+	204,
+	82,
+	"property value expected",
+	"#white"
+],[
+	"凯文·史派西片目列表",
+	1,
+	117,
+	"property value expected",
+	"#white"
+],[
+	"凯文·科斯特纳",
+	57,
+	132,
+	"property value expected",
+	"%"
+],[
+	"凯西·贝茨奖项列表",
+	10,
+	95,
+	"property value expected",
+	"#white"
+],[
+	"凱戈",
+	104,
+	66,
+	"semi-colon expected",
+	""
+],[
+	"凱戈音樂作品列表",
+	97,
+	66,
+	"semi-colon expected",
+	""
+],[
+	"凱文·阿富汗尼",
+	23,
+	61,
+	"colon expected",
+	"="
+],[
+	"凱爾·朱利爾斯",
+	69,
+	24,
+	"colon expected",
+	";"
+],[
+	"凱爾·漢崔克斯",
+	60,
+	22,
+	"property value expected",
+	""
+],[
+	"凱達格蘭學校",
+	41,
+	51,
+	"term expected",
+	""
+],[
+	"凶宅清潔師",
+	180,
+	23,
+	"property value expected",
+	";"
+],[
+	"出師表 (韓國電視劇)",
+	309,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"出軌的話就死定了",
+	333,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"切斯特菲尔德足球俱乐部",
+	87,
+	81,
+	"colon expected",
+	"="
+],[
+	"切罗基语历史",
+	118,
+	15,
+	"semi-colon expected",
+	""
+],[
+	"列宁格勒核电站",
+	46,
+	16,
+	"colon expected",
+	"="
+],[
+	"刘宇 (艺人)",
+	57,
+	73,
+	"semi-colon expected",
+	""
+],[
+	"刘琳",
+	179,
+	68,
+	"semi-colon expected",
+	""
+],[
+	"刘禅",
+	112,
+	40,
+	"semi-colon expected",
+	""
+],[
+	"刘结一",
+	40,
+	22,
+	"property value expected",
+	""
+],[
+	"刘邦",
+	326,
+	40,
+	"semi-colon expected",
+	""
+],[
+	"利物浦",
+	235,
+	71,
+	"semi-colon expected",
+	""
+],[
+	"利物浦交通",
+	15,
+	71,
+	"semi-colon expected",
+	""
+],[
+	"利物浦足球俱乐部",
+	1217,
+	82,
+	"property value expected",
+	":"
+],[
+	"到怡",
+	87,
+	28,
+	"semi-colon expected",
+	":"
+],[
+	"前2千纪",
+	184,
+	24,
+	"semi-colon expected",
+	""
+],[
+	"前島麻由",
+	24,
+	47,
+	"semi-colon expected",
+	""
+],[
+	"前輩",
+	23,
+	37,
+	"colon expected",
+	";"
+],[
+	"剑桥联足球俱乐部",
+	80,
+	81,
+	"colon expected",
+	"="
+],[
+	"創富文化集團",
+	37,
+	34,
+	"property value expected",
+	"#black"
+],[
+	"劇場版 假面騎士Ghost 100個眼魂與Ghost命運的瞬間",
+	206,
+	33,
+	"semi-colon expected",
+	""
+],[
+	"劇場版 假面騎士ZI-O Over Quartzer",
+	225,
+	29,
+	"semi-colon expected",
+	""
+],[
+	"劇場版 咒術迴戰 0",
+	489,
+	54,
+	"property value expected",
+	""
+],[
+	"劇場版 爆龍戰隊暴連者 DELUXE 暴連者的暑假好冰喔!",
+	64,
+	50,
+	"semi-colon expected",
+	":"
+],[
+	"劇場版 魔法少女小圓",
+	90,
+	41,
+	"{ expected",
+	";"
+],[
+	"劉以達",
+	376,
+	76,
+	"semi-colon expected",
+	""
+],[
+	"劉品言",
+	632,
+	22,
+	"property value expected",
+	";"
+],[
+	"劉家凱",
+	37,
+	36,
+	"property value expected",
+	""
+],[
+	"劉家輝",
+	231,
+	23,
+	"property value expected",
+	"#darkred"
+],[
+	"劉彰",
+	64,
+	73,
+	"semi-colon expected",
+	""
+],[
+	"劉德華影視作品列表",
+	14,
+	134,
+	"property value expected",
+	"%"
+],[
+	"劉明湘",
+	170,
+	27,
+	"semi-colon expected",
+	""
+],[
+	"劉書宏",
+	132,
+	28,
+	"semi-colon expected",
+	":"
+],[
+	"劉沛緹",
+	198,
+	23,
+	"property value expected",
+	";"
+],[
+	"劉祖德",
+	341,
+	37,
+	"property value expected",
+	"#"
+],[
+	"劉艾立",
+	177,
+	91,
+	"semi-colon expected",
+	""
+],[
+	"劉芷希",
+	139,
+	44,
+	"term expected",
+	""
+],[
+	"劉謙益",
+	730,
+	105,
+	"semi-colon expected",
+	""
+],[
+	"劉逸雲",
+	439,
+	27,
+	"semi-colon expected",
+	""
+],[
+	"劉香君",
+	37,
+	46,
+	"property value expected",
+	"%"
+],[
+	"劉鳳瑤",
+	140,
+	24,
+	"semi-colon expected",
+	""
+],[
+	"加勒比海盃",
+	224,
+	40,
+	"semi-colon expected",
+	""
+],[
+	"加勒比海盗5：死无对证",
+	63,
+	22,
+	"semi-colon expected",
+	""
+],[
+	"加勒比海盗系列电影",
+	350,
+	47,
+	"term expected",
+	";"
+],[
+	"加尔各答级驱逐舰",
+	42,
+	35,
+	"colon expected",
+	";"
+],[
+	"加州大學聖塔克魯茲分校",
+	85,
+	22,
+	"semi-colon expected",
+	"|"
+],[
+	"加拿大交通",
+	8,
+	43,
+	"semi-colon expected",
+	""
+],[
+	"加拿大國家羽毛球隊",
+	98,
+	20,
+	"semi-colon expected",
+	""
+],[
+	"加油吧曼蘇爾",
+	35,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"加納經濟",
+	433,
+	24,
+	"semi-colon expected",
+	""
+],[
+	"努諾·雷森德",
+	120,
+	68,
+	"colon expected",
+	";"
+],[
+	"劲漫画",
+	50,
+	29,
+	"property value expected",
+	"#Silver"
+],[
+	"勁歌金曲頒獎典禮",
+	58,
+	74,
+	"colon expected",
+	"%"
+],[
+	"勝安航空航點",
+	12,
+	69,
+	"semi-colon expected",
+	":"
+],[
+	"勞動部勞動力發展署中彰投分署",
+	55,
+	51,
+	"term expected",
+	""
+],[
+	"勞動部勞動力發展署北基宜花金馬分署",
+	38,
+	51,
+	"term expected",
+	""
+],[
+	"勞動部勞動力發展署技能檢定中心",
+	64,
+	51,
+	"term expected",
+	""
+],[
+	"勞動部勞動力發展署桃竹苗分署",
+	61,
+	51,
+	"term expected",
+	""
+],[
+	"勞動部勞動力發展署雲嘉南分署",
+	76,
+	53,
+	"term expected",
+	""
+],[
+	"勞動部勞動基金運用局",
+	48,
+	52,
+	"term expected",
+	""
+],[
+	"勞動部勞工保險局",
+	187,
+	51,
+	"term expected",
+	""
+],[
+	"勞動部職業安全衛生署",
+	47,
+	52,
+	"term expected",
+	""
+],[
+	"北64線",
+	23,
+	19,
+	"semi-colon expected",
+	""
+],[
+	"北上广不相信眼泪",
+	77,
+	29,
+	"semi-colon expected",
+	":"
+],[
+	"北也门总统",
+	12,
+	29,
+	"property value expected",
+	""
+],[
+	"北京中赫国安足球俱乐部2017赛季",
+	38,
+	81,
+	"colon expected",
+	"="
+],],"batches":38}

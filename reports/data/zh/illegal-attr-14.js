@@ -1,1 +1,1201 @@
-window.data={"articles":[["Wikipedia:頁面存廢討論/記錄/2024/03/06",112,117,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/07",56,121,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/08",63,152,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/09",48,118,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/10",145,191,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/11",149,149,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/12",200,118,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/13",31,125,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/14",111,128,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/15",49,115,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/18",100,160,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/19",64,169,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/20",106,127,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/21",31,136,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/22",58,189,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/23",29,115,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/24",44,117,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/25",50,138,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/26",31,181,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/27",33,131,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/28",85,116,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/29",41,208,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/30",89,137,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/03/31",47,112,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/01",42,119,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/02",177,116,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/03",58,142,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/04",92,128,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/05",83,199,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/06",31,125,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/07",33,181,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/08",76,113,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/09",82,152,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/10",48,122,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/11",52,152,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/12",48,152,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/13",34,189,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/14",52,208,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/15",78,111,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/16",29,128,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/17",46,209,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/18",79,181,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/19",53,128,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/20",31,119,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/21",124,121,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/22",44,135,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/23",67,152,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/24",74,154,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/25",69,229,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/26",46,113,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/28",116,110,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/04/29",144,114,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/01",64,112,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/02",122,128,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/03",38,154,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/04",50,154,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/05",227,106,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/06",260,128,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/07",112,112,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/08",53,151,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/09",89,112,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/12",76,154,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/13",105,133,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/14",39,154,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/15",59,165,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/16",29,153,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/19",179,151,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/20",55,152,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/21",42,132,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/22",121,154,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/23",172,201,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/24",70,115,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/26",243,260,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/05/27",138,111,"illegal attribute name","xml:lang"],["Wikipedia:頁面存廢討論/記錄/2024/07/06",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/07",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/08",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/09",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/10",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/11",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/12",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/13",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/14",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/15",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/16",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/17",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/18",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/19",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/20",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/21",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/22",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/23",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/24",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/25",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/26",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/27",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/28",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/29",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/30",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/07/31",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/01",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/02",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/03",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/04",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/05",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/06",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/07",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/08",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/09",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/10",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/11",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/12",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/13",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/14",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/15",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/16",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/17",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/18",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/19",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/20",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/21",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/22",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/23",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/24",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/25",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/26",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/27",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/28",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/29",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/30",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/08/31",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/01",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/02",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/03",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/04",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/05",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/06",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/07",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/08",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/09",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/10",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/11",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/12",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/13",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/14",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/15",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/16",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/17",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/18",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/19",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/20",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/21",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/22",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/23",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/24",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/25",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/26",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/27",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/28",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/29",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/09/30",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/01",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/02",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/03",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/04",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/05",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/06",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/07",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/08",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/09",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/10",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/11",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/12",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/13",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/14",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/15",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/16",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/17",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/18",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/19",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/20",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/21",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/22",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/23",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/24",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/25",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/26",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/27",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/28",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/29",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/30",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/10/31",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/11/01",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/11/02",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/11/03",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/11/04",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/11/05",4,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/11/06",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/11/07",3,17,"illegal attribute name","s"],["Wikipedia:頁面存廢討論/記錄/2024/11/08",3,17,"illegal attribute name","s"]],"batches":42}
+window.data={"articles":[[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/06",
+	112,
+	117,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/07",
+	56,
+	121,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/08",
+	63,
+	152,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/09",
+	48,
+	118,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/10",
+	145,
+	191,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/11",
+	149,
+	149,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/12",
+	200,
+	118,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/13",
+	31,
+	125,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/14",
+	111,
+	128,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/15",
+	49,
+	115,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/18",
+	100,
+	160,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/19",
+	64,
+	169,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/20",
+	106,
+	127,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/21",
+	31,
+	136,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/22",
+	58,
+	189,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/23",
+	29,
+	115,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/24",
+	44,
+	117,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/25",
+	50,
+	138,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/26",
+	31,
+	181,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/27",
+	33,
+	131,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/28",
+	85,
+	116,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/29",
+	41,
+	208,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/30",
+	89,
+	137,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/03/31",
+	47,
+	112,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/01",
+	42,
+	119,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/02",
+	177,
+	116,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/03",
+	58,
+	142,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/04",
+	92,
+	128,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/05",
+	83,
+	199,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/06",
+	31,
+	125,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/07",
+	33,
+	181,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/08",
+	76,
+	113,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/09",
+	82,
+	152,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/10",
+	48,
+	122,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/11",
+	52,
+	152,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/12",
+	48,
+	152,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/13",
+	34,
+	189,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/14",
+	52,
+	208,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/15",
+	78,
+	111,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/16",
+	29,
+	128,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/17",
+	46,
+	209,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/18",
+	79,
+	181,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/19",
+	53,
+	128,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/20",
+	31,
+	119,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/21",
+	124,
+	121,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/22",
+	44,
+	135,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/23",
+	67,
+	152,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/24",
+	74,
+	154,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/25",
+	69,
+	229,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/26",
+	46,
+	113,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/28",
+	116,
+	110,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/29",
+	144,
+	114,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/01",
+	64,
+	112,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/02",
+	122,
+	128,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/03",
+	38,
+	154,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/04",
+	50,
+	154,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/05",
+	227,
+	106,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/06",
+	260,
+	128,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/07",
+	112,
+	112,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/08",
+	53,
+	151,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/09",
+	89,
+	112,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/12",
+	76,
+	154,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/13",
+	105,
+	133,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/14",
+	39,
+	154,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/15",
+	59,
+	165,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/16",
+	29,
+	153,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/19",
+	179,
+	151,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/20",
+	55,
+	152,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/21",
+	42,
+	132,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/22",
+	121,
+	154,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/23",
+	172,
+	201,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/24",
+	70,
+	115,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/26",
+	243,
+	260,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/27",
+	138,
+	111,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/06",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/07",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/08",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/09",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/10",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/11",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/12",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/13",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/14",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/15",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/16",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/17",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/18",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/19",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/20",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/21",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/22",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/23",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/24",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/25",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/26",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/27",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/28",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/29",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/30",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/31",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/01",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/02",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/03",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/04",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/05",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/06",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/07",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/08",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/09",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/10",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/11",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/12",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/13",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/14",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/15",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/16",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/17",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/18",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/19",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/20",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/21",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/22",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/23",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/24",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/25",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/26",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/27",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/28",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/29",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/30",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/31",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/01",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/02",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/03",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/04",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/05",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/06",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/07",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/08",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/09",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/10",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/11",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/12",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/13",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/14",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/15",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/16",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/17",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/18",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/19",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/20",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/21",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/22",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/23",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/24",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/25",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/26",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/27",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/28",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/29",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/30",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/01",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/02",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/03",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/04",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/05",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/06",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/07",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/08",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/09",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/10",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/11",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/12",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/13",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/14",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/15",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/16",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/17",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/18",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/19",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/20",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/21",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/22",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/23",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/24",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/25",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/26",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/27",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/28",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/29",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/30",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/31",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/01",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/02",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/03",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/04",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/05",
+	4,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/06",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/07",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/08",
+	3,
+	17,
+	"illegal attribute name",
+	"s"
+],],"batches":42}

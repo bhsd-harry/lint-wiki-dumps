@@ -1,1 +1,1201 @@
-window.data={"articles":[["克里斯·約翰遜 (投手)",57,5,"duplicated align attribute","align=center"],["克里斯·赫杰斯",92,2,"duplicated category","[[Category:美國戰地記者]]"],["克里斯·馬雷羅",65,5,"duplicated align attribute","align=center"],["克里斯多福·斯卡弗",59,2,"duplicated category","[[Category:被判無期徒刑的美國囚犯|D]]"],["克里斯托夫·克拉雷尔",28,3,"duplicated parameter"," years4      = 2023–2024  "],["克里斯托弗·劳埃德",100,12,"duplicated to attribute","To"],["克里斯托弗·恩昆库",9,3,"duplicated parameter"," 3 = zh-hans:克里斯托弗·恩昆库;zh-hk:基斯杜化·尼干古;zh-tw:克里斯多福·恩昆庫;\n "],["克里斯托弗·盧克森",68,2,"duplicated category","[[Category:CS1 maint: url-status]]"],["克里斯蒂娜·圭密",147,57,"duplicated image thumbnail parameter","thumb"],["克里斯蒂安·惠更斯",3,3,"duplicated parameter","1=people\n "],["克里斯蒂安·維拉紐瓦",74,5,"duplicated align attribute","align=center"],["克里斯蒂安娜·哈岑多夫",16,2,"duplicated category","[[Category:世界赛艇锦标赛奖牌得主]]"],["克雷-梅皮约",14,45,"duplicated image caption parameter","Right"],["克雷格·福赛思",70,2,"duplicated category","[[Category:阿布羅斯球員]]"],["兒玉遙",400,168,"duplicated parameter","date=2022-08-12"],["兔田佩克拉",100,472,"duplicated parameter","language=zh-tw"],["內之浦宇宙空間觀測所",64,2,"duplicated category","[[Category:發射場]]"],["內分泌干擾物",153,2,"duplicated category","[[Category:环境激素]]"],["內壢車站",98,5,"duplicated border attribute","border=0"],["內夫大黎·索托",57,5,"duplicated align attribute","align=center"],["內容分級",51,2,"duplicated category","[[Category:电子游戏分级系统]]"],["內灣線",164,3,"duplicated colspan attribute","colspan=3"],["全俄政党“祖国”",114,2,"duplicated category","[[分类:1998年建立的政党]]"],["全北現代汽車足球俱樂部",562,21,"duplicated style attribute","style=\"margin: 1em auto 1em auto;\""],["全国体操锦标赛",31,24,"duplicated border attribute","border=\"2\""],["全國高中名校辯論邀請賽",38,2,"duplicated category","[[Category:臺灣辯論賽]]"],["全日本空輸",197,51,"duplicated image caption parameter","波音"],["全日本花式溜冰錦標賽",1070,4,"duplicated style attribute","style=\"width:8em\""],["全星暑假",112,24,"duplicated style attribute","style=\"text-align:center\""],["全椎亚目",25,6,"duplicated parameter","2={{clade\n       |1=[[石螈科]]Lapillopsidae [[File:Lapillopsis_nana.jpg|60px]]}}\n  "],["全沖繩",60,2,"duplicated category","[[Category:民進黨 (日本)]]"],["全球最高電影票房收入列表",1,28,"duplicated parameter","\n "],["全球火山計畫",34,2,"duplicated category","[[Category:史密森學會研究項目]]"],["全知讀者視角",744,2,"duplicated category","[[Category:韓國小說]]"],["全羅北道 (日治時期)",83,3,"duplicated parameter"," alt1 = \n "],["全美超級模特兒新秀大賽 (第八季)",572,83,"duplicated bgcolor attribute","bgcolor=\"darkgray\""],["全面禁止核试验条约",9,3,"duplicated parameter","6=zh-hans:核试验; zh-hant:核試;\n "],["兩裂狸藻",117,2,"duplicated category","[[Category:关岛植物|L]]"],["八一剧场 (乌鲁木齐)",28,85,"duplicated name attribute","name=\"新2\""],["八丁牟田站",107,55,"duplicated image caption parameter","サムネイル"],["八和会馆 (香港)",59,1544,"duplicated parameter","page=第四張第一頁"],["八幡濱市",29,58,"duplicated image caption parameter","八幡濱市"],["八德交流道",13,3,"duplicated parameter","connect=\n "],["八德獎",50,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["八重山郡",36,3,"duplicated bgcolor attribute","bgcolor=yellow"],["公主嫁到",330,24,"duplicated style attribute","style=\"width:95%;\""],["公姓",33,2,"duplicated category","[[Category:公姓| ]]"],["公安分局",2,172,"duplicated category","[[Category:快速删除候选]]"],["公安厅",2,172,"duplicated category","[[Category:快速删除候选]]"],["公安局",2,172,"duplicated category","[[Category:快速删除候选]]"],["公开密钥加密",5,45,"duplicated image caption parameter","lang=zh"],["公施設法人",79,2,"duplicated category","[[Category:法国公立机构]]"],["公民大会",9,4,"duplicated parameter"," meeting_place     = Pnyx-berg2.png\n  "],["公民毒魔：毒魔復仇4",108,2,"duplicated category","[[Category:超級英雄恐怖片]]"],["六中菱湖校区站",21,3,"duplicated parameter"," code = \n "],["六四紀念館",41,64,"duplicated image caption parameter","縮略圖"],["六月豪取",25,13,"duplicated parameter","romaji=ジューンテイク"],["六氢合锇(II)酸镁",33,2,"duplicated category","[[Category:锇化合物]]"],["六角化五角化倒角十二面體",52,33,"duplicated style attribute","style=\"font-size: 90%;\""],["六镇之乱",19,21,"duplicated image caption parameter","180 × 240px"],["六齿金线鱼",19,2,"duplicated category","[[Category:金线鱼属|六齿金线鱼]]"],["兰海高速公路",283,46,"duplicated parameter","place rows=1"],["关于波苏战争的争议",7,2,"duplicated category","[[Category:Articles with Polish-language external links]]"],["关敏",6,2,"duplicated category","[[Category:明朝]]"],["关系型数据库管理系统比较",199,5,"duplicated style attribute","style=\"background: #ececec\""],["具滋根",32,2,"duplicated category","[[Category:國民力量黨員]]"],["具臺晟",149,5,"duplicated align attribute","align=center"],["养生方",16,2,"duplicated category","[[Category:长沙文物]]"],["兼祧",5,318,"duplicated parameter","date= "],["冀光祚",54,2,"duplicated category","[[Category:明朝雲南按察使]]"],["内华达州城市列表",84,25,"duplicated style attribute","style=\"text-align:center;\""],["再入境许可 (美国)",41,2,"duplicated category","[[Category:美国政府证件]]"],["再就业男团",79,5,"duplicated class attribute","class=\"wikitable\""],["再望山河",421,3,"duplicated parameter","mare=號族：8-h\n "],["再現之慾",111,2,"duplicated category","[[Category:西西里黑手黨相關電影]]"],["再見台北",11,4,"duplicated parameter"," distributor = \n  "],["再见，伦敦",170,2,"duplicated category","[[Category:亚伦·戴斯纳创作的歌曲]]"],["最佳利益3－最終利益",388,2,"duplicated category","[[Category:最佳利益|3]]"],["最佳瑞典犯罪小說獎",6,5,"duplicated class attribute","class=\"wikitable\""],["最大購物中心列表",10,8,"duplicated far attribute","far"],["最後的王國",231,2,"duplicated category","[[Category:英國電視劇]]"],["最後目擊",4,3,"duplicated parameter",""],["最终幻想III (2006年游戏)",49,750,"duplicated parameter","language=ja"],["最高榮譽喪禮",3,50,"duplicated image caption parameter","rught"],["军人",3,52,"duplicated image caption parameter","250p7x"],["军舰进行曲",191,49,"duplicated image caption parameter","200x200"],["冰川 (火星)",48,29,"duplicated image caption parameter","iWish计划下高分辨率成像科学设备显示的舌状岩屑坡特写Wikifrettedctxp22.jpg"],["冰血暴 (第二季)",45,49,"duplicated image caption parameter","{{link-en"],["冰雪奇緣2",247,205,"duplicated parameter","language=ja"],["冷战 (1979年—1985年)",7,47,"duplicated image caption parameter","1980年的冷战格局图"],["冼澤正",10,2,"duplicated category","[[Category:香港警務人員]]"],["冼秉熹",39,2,"duplicated category","[[Category:拔萃男書院校友|S]]"],["冼靖峰",78,39,"duplicated style attribute","style=\"width:90%\""],["凃壯勳",82,5,"duplicated align attribute","align=center"],["凌新生",60,2,"duplicated category","[[Category:美国物理学会会士]]"],["凝血因子IX濃縮物",3,3,"duplicated parameter"," INN               = \n "],["凡人譜",740,2,"duplicated category","[[Category:日本樂團]]"],["凯文·彭金",10,3,"duplicated parameter"," 教育程度 = \n "],["凯特·道格拉斯",81,2,"duplicated category","[[Category:美國奧林匹克運動會金牌得主]]"],["凯瑟琳·约翰逊 (曲棍球运动员)",15,2,"duplicated category","[[Category:英国女子曲棍球运动员]]"],["凯瑟琳·邓翰",33,2,"duplicated category","[[Category:非洲裔美國編舞家]]"],["凯茜·詹宁斯",35,20,"duplicated style attribute","style=\"width: 94%\""],["凱爾·凱勒",75,5,"duplicated align attribute","align=center"],["凱爾·拉林",90,2,"duplicated category","[[Category:美國職業足球大聯盟選秀狀元]]"],["凱聯大廈 (新加坡)",3,3,"duplicated parameter","native_name        = International Plaza\n "],["凱西·麥克基",95,5,"duplicated align attribute","align=center"],["分析化学 (期刊)",4,3,"duplicated parameter","native_title= Analytical Chemistry\n "],["分销",3,3,"duplicated parameter","1=zh-tw:行銷;zh-hk:營銷;zh-cn:营销;\n "],["切尔克斯人",6,58,"duplicated image thumbnail parameter","thumb"],["切尔西",5,3,"duplicated parameter","\n "],["刑事學",20,2,"duplicated category","[[Category:社会科学]]"],["刑偵日記",44,3,"duplicated parameter","早於=\n "],["刑部大牢",16,2,"duplicated category","[[Category:北京司法史]]"],["列夫·托爾斯泰",144,2,"duplicated category","[[Category:俄羅斯小说家]]"],["列拿士地臺",49,28,"duplicated image caption parameter","Acts Rednaxela"],["列昂尼德·坎托罗维奇",90,2,"duplicated category","[[Category:苏联诺贝尔奖得主]]"],["列霞·烏克蘭卡",121,2,"duplicated category","[[Category:安葬于拜科夫公墓者]]"],["列頓公園",36,2,"duplicated category","[[Category:多倫多社區]]"],["刘伟 (1965年)",5,3,"duplicated parameter"," 职务 = \n "],["刘宇宁",135,3,"duplicated align attribute","align=\"left\""],["刘峻诚",90,2,"duplicated category","[[Category:國立成功大學校友]]"],["刘庆邦",27,2,"duplicated category","[[Category:老舍文学奖得主]]"],["刘志琴",19,2,"duplicated category","[[Category:江苏作家]]"],["刘恺欣",76,2,"duplicated category","[[Category:馬來西亞女演員]]"],["刘正维",39,2,"duplicated category","[[分类:中国曲艺家协会会员]]"],["刘海澜",22,2,"duplicated category","[[Category:美以美会在华传教士]]"],["刘焕华",65,2,"duplicated category","[[Category:亞洲運動會舉重獎牌得主]]"],["刘磊 (1969年)",25,2,"duplicated category","[[Category:广东省人大代表]]"],["刘驭万",19,2,"duplicated category","[[Category:中華民國駐古巴公使]]"],["刚果—大洋铁路",60,90,"duplicated parameter","language=zh-cn "],["刚果危机",224,32,"duplicated image caption parameter","出现在{{le"],["初代超人力霸王",2,3,"duplicated parameter","1=zh-hant:Ultraman Ace;zh-hk:Ultraman Ace;zh-tw:Ultraman Ace;zh-hans:Ultraman Ac"],["初安民",77,2,"duplicated category","[[分類:國立成功大學校友|C]]"],["初恋 (岛本理生)",297,2,"duplicated category","[[Category:2016年日本小說]]"],["初等函数",42,29,"duplicated image caption parameter","各种底数的对数: <span style=\"color:red\">红色</span>函数底数是<span style=\"color:red\">[[E (数学常数"],["初識與告別之間",110,2,"duplicated category","[[Category:女同性戀相關電影]]"],["初音未來演唱會列表",60,91,"duplicated parameter","language=ja"],["判官 (神祇)",9,31,"duplicated image caption parameter","縮略圖"],["別府站 (兵庫縣)",89,51,"duplicated group attribute","group='統'"],["利他主义",1,29,"duplicated image caption parameter","Auguste_Comte(1)"],["利奇菲爾德縣 (康涅狄格州)",2,3,"duplicated parameter","1=zh-cn:利奇菲尔德; zh-hk:李治菲特; zh-tw:利奇菲; zh:利奇菲爾德;\n "],["利奥波德·斯托科夫斯基",97,2,"duplicated category","[[Category:西敏市音樂家]]"],["利安娜·王",11,2,"duplicated category","[[Category:世界竞技体操锦标赛奖牌得主]]"],["利普卡韃靼人",124,2,"duplicated category","[[Category:波兰族群]]"],["利沃夫装甲厂",36,3,"duplicated parameter"," area_served = <!-- or: areas_served = -->\n "],["利物浦",235,5,"duplicated style attribute","style=\"margin:inherit; padding-bottom:0.25em\""],["利物浦交通",15,5,"duplicated style attribute","style=\"margin:inherit; padding-bottom:0.25em\""],["利维亚",7,3,"duplicated parameter"," native_name        = Llivia<br>Llívia\n "],["别林斯高晋环形山",13,43,"duplicated image width parameter","240px"],["制憲國民大會",280,4,"duplicated colspan attribute","colspan=2"],["刺细胞",16,2,"duplicated category","[[Category:動物解剖學]]"],["削山造城",242,2,"duplicated category","[[Category:环境保护]]"],["前卫级核潜艇",39,36,"duplicated cellspacing attribute","cellspacing=\"1\""],["剑与远征：启程",83,2,"duplicated category","[[Category:Windows游戏]]"],["剛果人民共和國",14,3,"duplicated parameter","year_date = 12月31日\n "],["剪切帶 (材料工程)",12,2,"duplicated category","[[Category:Pages that use a deprecated format of the math tags]]"],["副島種臣",159,2,"duplicated category","[[Category:东亚同文会人物]]"],["割闌尾計畫",33,121,"duplicated parameter","author=王家俊"],["創：光速戰記",277,2,"duplicated category","[[Category:電腦動畫電影]]"],["創造營2021",1965,49,"duplicated style attribute","style=\"text-align:center\""],["劇場版 假面騎士EX-AID True·Ending",225,3,"duplicated style attribute","style=\"text-align:center\""],["劉冠軍",2,23,"duplicated image caption parameter","劉冠軍"],["劉劭威",48,5,"duplicated align attribute","align=center"],["劉奕霆",51,537,"duplicated parameter","date=2022-12-17"],["劉宇寧音樂作品列表",876,3,"duplicated align attribute","align=\"left\""],["劉家愷",61,5,"duplicated align attribute","align=center"],["劉家豪 (棒球運動員)",82,5,"duplicated align attribute","align=center"],["劉廷元",26,2,"duplicated category","[[Category:明朝左副都御史]]"],["劉得金",178,2,"duplicated category","[[Category:中華民國陸軍武官]]"],["劉惠鳴",57,2,"duplicated category","[[Category:香港粵劇演員|L]]"],["劉承旼",83,2,"duplicated category","[[Category:國民力量黨員]]"],["劉明朝",20,3,"duplicated parameter"," parents = \n "],["劉正福",119,2,"duplicated category","[[Category:國民力量黨員]]"],["劉沛穎",59,2,"duplicated category","[[Category:國立臺北大學校友]]"],["劉渡舟",33,2,"duplicated category","[[category:中國中醫師]]"],["劉潼",22,2,"duplicated category","[[Category:唐朝上柱国]]"],["劉玉婷 (香港)",255,2,"duplicated category","[[Category:华裔美国人]]"],["劉瑞祈",78,2,"duplicated category","[[Category:香港男歌手]]"],["劉聰 (成化戊戌進士)",45,2,"duplicated category","[[Category:明朝順天鄉試舉人]]"],["劉鏡清 (1963年)",65,2,"duplicated category","[[Category:行政院政務委員]]"],["劍橋大學岡維爾與凱斯學院",11,74,"duplicated image caption parameter","22"],["劍翔無人機",113,2,"duplicated category","[[Category:臺灣國防工業]]"],["功能和声",166,2,"duplicated category","[[Category:和声]]"],["加利·麥基昂",3,3,"duplicated parameter",""],["加利利海",14,3,"duplicated parameter","basin_countries = {{ISR}}\n "],["加尔默罗第三会教堂",12,50,"duplicated image caption parameter","direita"],["加布丽埃莱·梅尔",17,2,"duplicated category","[[Category:世界赛艇锦标赛奖牌得主]]"],["加布里埃尔·斯劳特",78,280,"duplicated name attribute","name=powell24"],["加布里埃尔·瓦斯康塞洛斯·费雷拉",57,2,"duplicated category","[[Category:巴西旅外足球運動員]]"],["加布里埃尔·费尔南德斯谋杀案",13,2,"duplicated category","[[Category:2010年代庭审]]"],["加思欄花園",28,33,"duplicated image caption parameter","Right"],["加拉帕戈斯群岛",26,3,"duplicated parameter"," coordinates      = \n "],["加拿大女足無人機醜聞",1,7,"duplicated parameter","date=2025/03/15"],["加文·威廉姆森",11,51,"duplicated parameter","size=100%"],["加斯佩西-马德莱娜群岛区",55,40,"duplicated image caption parameter","RIGHT"],["加斯科因河",1,48,"duplicated image thumbnail parameter","thumb"],["加法原理",19,161,"duplicated image caption parameter","A"],["加法尔·尼迈里",39,55,"duplicated image caption parameter","Gaafar_Nimeiry_and_Sadiq_al-Mahdi_in_1976 "],["加特契纳",19,3,"duplicated parameter","pushpin_map = \n "],["加納經濟",433,4,"duplicated style attribute","style=align=\"center\""]],"batches":43}
+window.data={"articles":[[
+	"克里斯·約翰遜 (投手)",
+	57,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"克里斯·赫杰斯",
+	92,
+	2,
+	"duplicated category",
+	"[[Category:美國戰地記者]]"
+],[
+	"克里斯·馬雷羅",
+	65,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"克里斯多福·斯卡弗",
+	59,
+	2,
+	"duplicated category",
+	"[[Category:被判無期徒刑的美國囚犯|D]]"
+],[
+	"克里斯托夫·克拉雷尔",
+	28,
+	3,
+	"duplicated parameter",
+	" years4      = 2023–2024  "
+],[
+	"克里斯托弗·劳埃德",
+	100,
+	12,
+	"duplicated to attribute",
+	"To"
+],[
+	"克里斯托弗·恩昆库",
+	9,
+	3,
+	"duplicated parameter",
+	" 3 = zh-hans:克里斯托弗·恩昆库;zh-hk:基斯杜化·尼干古;zh-tw:克里斯多福·恩昆庫;\n "
+],[
+	"克里斯托弗·盧克森",
+	68,
+	2,
+	"duplicated category",
+	"[[Category:CS1 maint: url-status]]"
+],[
+	"克里斯蒂娜·圭密",
+	147,
+	57,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"克里斯蒂安·惠更斯",
+	3,
+	3,
+	"duplicated parameter",
+	"1=people\n "
+],[
+	"克里斯蒂安·維拉紐瓦",
+	74,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"克里斯蒂安娜·哈岑多夫",
+	16,
+	2,
+	"duplicated category",
+	"[[Category:世界赛艇锦标赛奖牌得主]]"
+],[
+	"克雷-梅皮约",
+	14,
+	45,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"克雷格·福赛思",
+	70,
+	2,
+	"duplicated category",
+	"[[Category:阿布羅斯球員]]"
+],[
+	"兒玉遙",
+	400,
+	168,
+	"duplicated parameter",
+	"date=2022-08-12"
+],[
+	"兔田佩克拉",
+	100,
+	472,
+	"duplicated parameter",
+	"language=zh-tw"
+],[
+	"內之浦宇宙空間觀測所",
+	64,
+	2,
+	"duplicated category",
+	"[[Category:發射場]]"
+],[
+	"內分泌干擾物",
+	153,
+	2,
+	"duplicated category",
+	"[[Category:环境激素]]"
+],[
+	"內壢車站",
+	98,
+	5,
+	"duplicated border attribute",
+	"border=0"
+],[
+	"內夫大黎·索托",
+	57,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"內容分級",
+	51,
+	2,
+	"duplicated category",
+	"[[Category:电子游戏分级系统]]"
+],[
+	"內灣線",
+	164,
+	3,
+	"duplicated colspan attribute",
+	"colspan=3"
+],[
+	"全俄政党“祖国”",
+	114,
+	2,
+	"duplicated category",
+	"[[分类:1998年建立的政党]]"
+],[
+	"全北現代汽車足球俱樂部",
+	562,
+	21,
+	"duplicated style attribute",
+	"style=\"margin: 1em auto 1em auto;\""
+],[
+	"全国体操锦标赛",
+	31,
+	24,
+	"duplicated border attribute",
+	"border=\"2\""
+],[
+	"全國高中名校辯論邀請賽",
+	38,
+	2,
+	"duplicated category",
+	"[[Category:臺灣辯論賽]]"
+],[
+	"全日本空輸",
+	197,
+	51,
+	"duplicated image caption parameter",
+	"波音"
+],[
+	"全日本花式溜冰錦標賽",
+	1070,
+	4,
+	"duplicated style attribute",
+	"style=\"width:8em\""
+],[
+	"全星暑假",
+	112,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"全椎亚目",
+	25,
+	6,
+	"duplicated parameter",
+	"2={{clade\n       |1=[[石螈科]]Lapillopsidae [[File:Lapillopsis_nana.jpg|60px]]}}\n  "
+],[
+	"全沖繩",
+	60,
+	2,
+	"duplicated category",
+	"[[Category:民進黨 (日本)]]"
+],[
+	"全球最高電影票房收入列表",
+	1,
+	28,
+	"duplicated parameter",
+	"\n "
+],[
+	"全球火山計畫",
+	34,
+	2,
+	"duplicated category",
+	"[[Category:史密森學會研究項目]]"
+],[
+	"全知讀者視角",
+	744,
+	2,
+	"duplicated category",
+	"[[Category:韓國小說]]"
+],[
+	"全羅北道 (日治時期)",
+	83,
+	3,
+	"duplicated parameter",
+	" alt1 = \n "
+],[
+	"全美超級模特兒新秀大賽 (第八季)",
+	572,
+	83,
+	"duplicated bgcolor attribute",
+	"bgcolor=\"darkgray\""
+],[
+	"全面禁止核试验条约",
+	9,
+	3,
+	"duplicated parameter",
+	"6=zh-hans:核试验; zh-hant:核試;\n "
+],[
+	"兩裂狸藻",
+	117,
+	2,
+	"duplicated category",
+	"[[Category:关岛植物|L]]"
+],[
+	"八一剧场 (乌鲁木齐)",
+	28,
+	85,
+	"duplicated name attribute",
+	"name=\"新2\""
+],[
+	"八丁牟田站",
+	107,
+	55,
+	"duplicated image caption parameter",
+	"サムネイル"
+],[
+	"八和会馆 (香港)",
+	59,
+	1544,
+	"duplicated parameter",
+	"page=第四張第一頁"
+],[
+	"八幡濱市",
+	29,
+	58,
+	"duplicated image caption parameter",
+	"八幡濱市"
+],[
+	"八德交流道",
+	13,
+	3,
+	"duplicated parameter",
+	"connect=\n "
+],[
+	"八德獎",
+	50,
+	2,
+	"duplicated category",
+	"[[Category:臺灣戰後時期獎項]]"
+],[
+	"八重山郡",
+	36,
+	3,
+	"duplicated bgcolor attribute",
+	"bgcolor=yellow"
+],[
+	"公主嫁到",
+	330,
+	24,
+	"duplicated style attribute",
+	"style=\"width:95%;\""
+],[
+	"公姓",
+	33,
+	2,
+	"duplicated category",
+	"[[Category:公姓| ]]"
+],[
+	"公安分局",
+	2,
+	172,
+	"duplicated category",
+	"[[Category:快速删除候选]]"
+],[
+	"公安厅",
+	2,
+	172,
+	"duplicated category",
+	"[[Category:快速删除候选]]"
+],[
+	"公安局",
+	2,
+	172,
+	"duplicated category",
+	"[[Category:快速删除候选]]"
+],[
+	"公开密钥加密",
+	5,
+	45,
+	"duplicated image caption parameter",
+	"lang=zh"
+],[
+	"公施設法人",
+	79,
+	2,
+	"duplicated category",
+	"[[Category:法国公立机构]]"
+],[
+	"公民大会",
+	9,
+	4,
+	"duplicated parameter",
+	" meeting_place     = Pnyx-berg2.png\n  "
+],[
+	"公民毒魔：毒魔復仇4",
+	108,
+	2,
+	"duplicated category",
+	"[[Category:超級英雄恐怖片]]"
+],[
+	"六中菱湖校区站",
+	21,
+	3,
+	"duplicated parameter",
+	" code = \n "
+],[
+	"六四紀念館",
+	41,
+	64,
+	"duplicated image caption parameter",
+	"縮略圖"
+],[
+	"六月豪取",
+	25,
+	13,
+	"duplicated parameter",
+	"romaji=ジューンテイク"
+],[
+	"六氢合锇(II)酸镁",
+	33,
+	2,
+	"duplicated category",
+	"[[Category:锇化合物]]"
+],[
+	"六角化五角化倒角十二面體",
+	52,
+	33,
+	"duplicated style attribute",
+	"style=\"font-size: 90%;\""
+],[
+	"六镇之乱",
+	19,
+	21,
+	"duplicated image caption parameter",
+	"180 × 240px"
+],[
+	"六齿金线鱼",
+	19,
+	2,
+	"duplicated category",
+	"[[Category:金线鱼属|六齿金线鱼]]"
+],[
+	"兰海高速公路",
+	283,
+	46,
+	"duplicated parameter",
+	"place rows=1"
+],[
+	"关于波苏战争的争议",
+	7,
+	2,
+	"duplicated category",
+	"[[Category:Articles with Polish-language external links]]"
+],[
+	"关敏",
+	6,
+	2,
+	"duplicated category",
+	"[[Category:明朝]]"
+],[
+	"关系型数据库管理系统比较",
+	199,
+	5,
+	"duplicated style attribute",
+	"style=\"background: #ececec\""
+],[
+	"具滋根",
+	32,
+	2,
+	"duplicated category",
+	"[[Category:國民力量黨員]]"
+],[
+	"具臺晟",
+	149,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"养生方",
+	16,
+	2,
+	"duplicated category",
+	"[[Category:长沙文物]]"
+],[
+	"兼祧",
+	5,
+	318,
+	"duplicated parameter",
+	"date= "
+],[
+	"冀光祚",
+	54,
+	2,
+	"duplicated category",
+	"[[Category:明朝雲南按察使]]"
+],[
+	"内华达州城市列表",
+	84,
+	25,
+	"duplicated style attribute",
+	"style=\"text-align:center;\""
+],[
+	"再入境许可 (美国)",
+	41,
+	2,
+	"duplicated category",
+	"[[Category:美国政府证件]]"
+],[
+	"再就业男团",
+	79,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"再望山河",
+	421,
+	3,
+	"duplicated parameter",
+	"mare=號族：8-h\n "
+],[
+	"再現之慾",
+	111,
+	2,
+	"duplicated category",
+	"[[Category:西西里黑手黨相關電影]]"
+],[
+	"再見台北",
+	11,
+	4,
+	"duplicated parameter",
+	" distributor = \n  "
+],[
+	"再见，伦敦",
+	170,
+	2,
+	"duplicated category",
+	"[[Category:亚伦·戴斯纳创作的歌曲]]"
+],[
+	"最佳利益3－最終利益",
+	388,
+	2,
+	"duplicated category",
+	"[[Category:最佳利益|3]]"
+],[
+	"最佳瑞典犯罪小說獎",
+	6,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"最大購物中心列表",
+	10,
+	8,
+	"duplicated far attribute",
+	"far"
+],[
+	"最後的王國",
+	231,
+	2,
+	"duplicated category",
+	"[[Category:英國電視劇]]"
+],[
+	"最後目擊",
+	4,
+	3,
+	"duplicated parameter",
+	""
+],[
+	"最终幻想III (2006年游戏)",
+	49,
+	750,
+	"duplicated parameter",
+	"language=ja"
+],[
+	"最高榮譽喪禮",
+	3,
+	50,
+	"duplicated image caption parameter",
+	"rught"
+],[
+	"军人",
+	3,
+	52,
+	"duplicated image caption parameter",
+	"250p7x"
+],[
+	"军舰进行曲",
+	191,
+	49,
+	"duplicated image caption parameter",
+	"200x200"
+],[
+	"冰川 (火星)",
+	48,
+	29,
+	"duplicated image caption parameter",
+	"iWish计划下高分辨率成像科学设备显示的舌状岩屑坡特写Wikifrettedctxp22.jpg"
+],[
+	"冰血暴 (第二季)",
+	45,
+	49,
+	"duplicated image caption parameter",
+	"{{link-en"
+],[
+	"冰雪奇緣2",
+	247,
+	205,
+	"duplicated parameter",
+	"language=ja"
+],[
+	"冷战 (1979年—1985年)",
+	7,
+	47,
+	"duplicated image caption parameter",
+	"1980年的冷战格局图"
+],[
+	"冼澤正",
+	10,
+	2,
+	"duplicated category",
+	"[[Category:香港警務人員]]"
+],[
+	"冼秉熹",
+	39,
+	2,
+	"duplicated category",
+	"[[Category:拔萃男書院校友|S]]"
+],[
+	"冼靖峰",
+	78,
+	39,
+	"duplicated style attribute",
+	"style=\"width:90%\""
+],[
+	"凃壯勳",
+	82,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"凌新生",
+	60,
+	2,
+	"duplicated category",
+	"[[Category:美国物理学会会士]]"
+],[
+	"凝血因子IX濃縮物",
+	3,
+	3,
+	"duplicated parameter",
+	" INN               = \n "
+],[
+	"凡人譜",
+	740,
+	2,
+	"duplicated category",
+	"[[Category:日本樂團]]"
+],[
+	"凯文·彭金",
+	10,
+	3,
+	"duplicated parameter",
+	" 教育程度 = \n "
+],[
+	"凯特·道格拉斯",
+	81,
+	2,
+	"duplicated category",
+	"[[Category:美國奧林匹克運動會金牌得主]]"
+],[
+	"凯瑟琳·约翰逊 (曲棍球运动员)",
+	15,
+	2,
+	"duplicated category",
+	"[[Category:英国女子曲棍球运动员]]"
+],[
+	"凯瑟琳·邓翰",
+	33,
+	2,
+	"duplicated category",
+	"[[Category:非洲裔美國編舞家]]"
+],[
+	"凯茜·詹宁斯",
+	35,
+	20,
+	"duplicated style attribute",
+	"style=\"width: 94%\""
+],[
+	"凱爾·凱勒",
+	75,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"凱爾·拉林",
+	90,
+	2,
+	"duplicated category",
+	"[[Category:美國職業足球大聯盟選秀狀元]]"
+],[
+	"凱聯大廈 (新加坡)",
+	3,
+	3,
+	"duplicated parameter",
+	"native_name        = International Plaza\n "
+],[
+	"凱西·麥克基",
+	95,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"分析化学 (期刊)",
+	4,
+	3,
+	"duplicated parameter",
+	"native_title= Analytical Chemistry\n "
+],[
+	"分销",
+	3,
+	3,
+	"duplicated parameter",
+	"1=zh-tw:行銷;zh-hk:營銷;zh-cn:营销;\n "
+],[
+	"切尔克斯人",
+	6,
+	58,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"切尔西",
+	5,
+	3,
+	"duplicated parameter",
+	"\n "
+],[
+	"刑事學",
+	20,
+	2,
+	"duplicated category",
+	"[[Category:社会科学]]"
+],[
+	"刑偵日記",
+	44,
+	3,
+	"duplicated parameter",
+	"早於=\n "
+],[
+	"刑部大牢",
+	16,
+	2,
+	"duplicated category",
+	"[[Category:北京司法史]]"
+],[
+	"列夫·托爾斯泰",
+	144,
+	2,
+	"duplicated category",
+	"[[Category:俄羅斯小说家]]"
+],[
+	"列拿士地臺",
+	49,
+	28,
+	"duplicated image caption parameter",
+	"Acts Rednaxela"
+],[
+	"列昂尼德·坎托罗维奇",
+	90,
+	2,
+	"duplicated category",
+	"[[Category:苏联诺贝尔奖得主]]"
+],[
+	"列霞·烏克蘭卡",
+	121,
+	2,
+	"duplicated category",
+	"[[Category:安葬于拜科夫公墓者]]"
+],[
+	"列頓公園",
+	36,
+	2,
+	"duplicated category",
+	"[[Category:多倫多社區]]"
+],[
+	"刘伟 (1965年)",
+	5,
+	3,
+	"duplicated parameter",
+	" 职务 = \n "
+],[
+	"刘宇宁",
+	135,
+	3,
+	"duplicated align attribute",
+	"align=\"left\""
+],[
+	"刘峻诚",
+	90,
+	2,
+	"duplicated category",
+	"[[Category:國立成功大學校友]]"
+],[
+	"刘庆邦",
+	27,
+	2,
+	"duplicated category",
+	"[[Category:老舍文学奖得主]]"
+],[
+	"刘志琴",
+	19,
+	2,
+	"duplicated category",
+	"[[Category:江苏作家]]"
+],[
+	"刘恺欣",
+	76,
+	2,
+	"duplicated category",
+	"[[Category:馬來西亞女演員]]"
+],[
+	"刘正维",
+	39,
+	2,
+	"duplicated category",
+	"[[分类:中国曲艺家协会会员]]"
+],[
+	"刘海澜",
+	22,
+	2,
+	"duplicated category",
+	"[[Category:美以美会在华传教士]]"
+],[
+	"刘焕华",
+	65,
+	2,
+	"duplicated category",
+	"[[Category:亞洲運動會舉重獎牌得主]]"
+],[
+	"刘磊 (1969年)",
+	25,
+	2,
+	"duplicated category",
+	"[[Category:广东省人大代表]]"
+],[
+	"刘驭万",
+	19,
+	2,
+	"duplicated category",
+	"[[Category:中華民國駐古巴公使]]"
+],[
+	"刚果—大洋铁路",
+	60,
+	90,
+	"duplicated parameter",
+	"language=zh-cn "
+],[
+	"刚果危机",
+	224,
+	32,
+	"duplicated image caption parameter",
+	"出现在{{le"
+],[
+	"初代超人力霸王",
+	2,
+	3,
+	"duplicated parameter",
+	"1=zh-hant:Ultraman Ace;zh-hk:Ultraman Ace;zh-tw:Ultraman Ace;zh-hans:Ultraman Ac"
+],[
+	"初安民",
+	77,
+	2,
+	"duplicated category",
+	"[[分類:國立成功大學校友|C]]"
+],[
+	"初恋 (岛本理生)",
+	297,
+	2,
+	"duplicated category",
+	"[[Category:2016年日本小說]]"
+],[
+	"初等函数",
+	42,
+	29,
+	"duplicated image caption parameter",
+	"各种底数的对数: <span style=\"color:red\">红色</span>函数底数是<span style=\"color:red\">[[E (数学常数"
+],[
+	"初識與告別之間",
+	110,
+	2,
+	"duplicated category",
+	"[[Category:女同性戀相關電影]]"
+],[
+	"初音未來演唱會列表",
+	60,
+	91,
+	"duplicated parameter",
+	"language=ja"
+],[
+	"判官 (神祇)",
+	9,
+	31,
+	"duplicated image caption parameter",
+	"縮略圖"
+],[
+	"別府站 (兵庫縣)",
+	89,
+	51,
+	"duplicated group attribute",
+	"group='統'"
+],[
+	"利他主义",
+	1,
+	29,
+	"duplicated image caption parameter",
+	"Auguste_Comte(1)"
+],[
+	"利奇菲爾德縣 (康涅狄格州)",
+	2,
+	3,
+	"duplicated parameter",
+	"1=zh-cn:利奇菲尔德; zh-hk:李治菲特; zh-tw:利奇菲; zh:利奇菲爾德;\n "
+],[
+	"利奥波德·斯托科夫斯基",
+	97,
+	2,
+	"duplicated category",
+	"[[Category:西敏市音樂家]]"
+],[
+	"利安娜·王",
+	11,
+	2,
+	"duplicated category",
+	"[[Category:世界竞技体操锦标赛奖牌得主]]"
+],[
+	"利普卡韃靼人",
+	124,
+	2,
+	"duplicated category",
+	"[[Category:波兰族群]]"
+],[
+	"利沃夫装甲厂",
+	36,
+	3,
+	"duplicated parameter",
+	" area_served = <!-- or: areas_served = -->\n "
+],[
+	"利物浦",
+	235,
+	5,
+	"duplicated style attribute",
+	"style=\"margin:inherit; padding-bottom:0.25em\""
+],[
+	"利物浦交通",
+	15,
+	5,
+	"duplicated style attribute",
+	"style=\"margin:inherit; padding-bottom:0.25em\""
+],[
+	"利维亚",
+	7,
+	3,
+	"duplicated parameter",
+	" native_name        = Llivia<br>Llívia\n "
+],[
+	"别林斯高晋环形山",
+	13,
+	43,
+	"duplicated image width parameter",
+	"240px"
+],[
+	"制憲國民大會",
+	280,
+	4,
+	"duplicated colspan attribute",
+	"colspan=2"
+],[
+	"刺细胞",
+	16,
+	2,
+	"duplicated category",
+	"[[Category:動物解剖學]]"
+],[
+	"削山造城",
+	242,
+	2,
+	"duplicated category",
+	"[[Category:环境保护]]"
+],[
+	"前卫级核潜艇",
+	39,
+	36,
+	"duplicated cellspacing attribute",
+	"cellspacing=\"1\""
+],[
+	"剑与远征：启程",
+	83,
+	2,
+	"duplicated category",
+	"[[Category:Windows游戏]]"
+],[
+	"剛果人民共和國",
+	14,
+	3,
+	"duplicated parameter",
+	"year_date = 12月31日\n "
+],[
+	"剪切帶 (材料工程)",
+	12,
+	2,
+	"duplicated category",
+	"[[Category:Pages that use a deprecated format of the math tags]]"
+],[
+	"副島種臣",
+	159,
+	2,
+	"duplicated category",
+	"[[Category:东亚同文会人物]]"
+],[
+	"割闌尾計畫",
+	33,
+	121,
+	"duplicated parameter",
+	"author=王家俊"
+],[
+	"創：光速戰記",
+	277,
+	2,
+	"duplicated category",
+	"[[Category:電腦動畫電影]]"
+],[
+	"創造營2021",
+	1965,
+	49,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"劇場版 假面騎士EX-AID True·Ending",
+	225,
+	3,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"劉冠軍",
+	2,
+	23,
+	"duplicated image caption parameter",
+	"劉冠軍"
+],[
+	"劉劭威",
+	48,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"劉奕霆",
+	51,
+	537,
+	"duplicated parameter",
+	"date=2022-12-17"
+],[
+	"劉宇寧音樂作品列表",
+	876,
+	3,
+	"duplicated align attribute",
+	"align=\"left\""
+],[
+	"劉家愷",
+	61,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"劉家豪 (棒球運動員)",
+	82,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"劉廷元",
+	26,
+	2,
+	"duplicated category",
+	"[[Category:明朝左副都御史]]"
+],[
+	"劉得金",
+	178,
+	2,
+	"duplicated category",
+	"[[Category:中華民國陸軍武官]]"
+],[
+	"劉惠鳴",
+	57,
+	2,
+	"duplicated category",
+	"[[Category:香港粵劇演員|L]]"
+],[
+	"劉承旼",
+	83,
+	2,
+	"duplicated category",
+	"[[Category:國民力量黨員]]"
+],[
+	"劉明朝",
+	20,
+	3,
+	"duplicated parameter",
+	" parents = \n "
+],[
+	"劉正福",
+	119,
+	2,
+	"duplicated category",
+	"[[Category:國民力量黨員]]"
+],[
+	"劉沛穎",
+	59,
+	2,
+	"duplicated category",
+	"[[Category:國立臺北大學校友]]"
+],[
+	"劉渡舟",
+	33,
+	2,
+	"duplicated category",
+	"[[category:中國中醫師]]"
+],[
+	"劉潼",
+	22,
+	2,
+	"duplicated category",
+	"[[Category:唐朝上柱国]]"
+],[
+	"劉玉婷 (香港)",
+	255,
+	2,
+	"duplicated category",
+	"[[Category:华裔美国人]]"
+],[
+	"劉瑞祈",
+	78,
+	2,
+	"duplicated category",
+	"[[Category:香港男歌手]]"
+],[
+	"劉聰 (成化戊戌進士)",
+	45,
+	2,
+	"duplicated category",
+	"[[Category:明朝順天鄉試舉人]]"
+],[
+	"劉鏡清 (1963年)",
+	65,
+	2,
+	"duplicated category",
+	"[[Category:行政院政務委員]]"
+],[
+	"劍橋大學岡維爾與凱斯學院",
+	11,
+	74,
+	"duplicated image caption parameter",
+	"22"
+],[
+	"劍翔無人機",
+	113,
+	2,
+	"duplicated category",
+	"[[Category:臺灣國防工業]]"
+],[
+	"功能和声",
+	166,
+	2,
+	"duplicated category",
+	"[[Category:和声]]"
+],[
+	"加利·麥基昂",
+	3,
+	3,
+	"duplicated parameter",
+	""
+],[
+	"加利利海",
+	14,
+	3,
+	"duplicated parameter",
+	"basin_countries = {{ISR}}\n "
+],[
+	"加尔默罗第三会教堂",
+	12,
+	50,
+	"duplicated image caption parameter",
+	"direita"
+],[
+	"加布丽埃莱·梅尔",
+	17,
+	2,
+	"duplicated category",
+	"[[Category:世界赛艇锦标赛奖牌得主]]"
+],[
+	"加布里埃尔·斯劳特",
+	78,
+	280,
+	"duplicated name attribute",
+	"name=powell24"
+],[
+	"加布里埃尔·瓦斯康塞洛斯·费雷拉",
+	57,
+	2,
+	"duplicated category",
+	"[[Category:巴西旅外足球運動員]]"
+],[
+	"加布里埃尔·费尔南德斯谋杀案",
+	13,
+	2,
+	"duplicated category",
+	"[[Category:2010年代庭审]]"
+],[
+	"加思欄花園",
+	28,
+	33,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"加拉帕戈斯群岛",
+	26,
+	3,
+	"duplicated parameter",
+	" coordinates      = \n "
+],[
+	"加拿大女足無人機醜聞",
+	1,
+	7,
+	"duplicated parameter",
+	"date=2025/03/15"
+],[
+	"加文·威廉姆森",
+	11,
+	51,
+	"duplicated parameter",
+	"size=100%"
+],[
+	"加斯佩西-马德莱娜群岛区",
+	55,
+	40,
+	"duplicated image caption parameter",
+	"RIGHT"
+],[
+	"加斯科因河",
+	1,
+	48,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"加法原理",
+	19,
+	161,
+	"duplicated image caption parameter",
+	"A"
+],[
+	"加法尔·尼迈里",
+	39,
+	55,
+	"duplicated image caption parameter",
+	"Gaafar_Nimeiry_and_Sadiq_al-Mahdi_in_1976 "
+],[
+	"加特契纳",
+	19,
+	3,
+	"duplicated parameter",
+	"pushpin_map = \n "
+],[
+	"加納經濟",
+	433,
+	4,
+	"duplicated style attribute",
+	"style=align=\"center\""
+],],"batches":43}

@@ -1,1 +1,1201 @@
-window.data={"articles":[["Wikipedia:典范条目评选/存档/2006年",510,68,"semi-colon expected",":"],["Wikipedia:典范条目评选/存档/2007年/存档2",355,157,"} expected",";"],["Wikipedia:删除投票和请求/2006年11月16日",268,118,"colon expected","="],["Wikipedia:删除投票和请求/2006年12月22日",204,85,"colon expected","="],["Wikipedia:删除投票和请求/2006年12月23日",69,85,"colon expected","="],["Wikipedia:删除投票和请求/2006年12月25日",49,153,"semi-colon expected",""],["Wikipedia:删除投票和请求/2006年12月26日",30,88,"colon expected","="],["Wikipedia:删除投票和请求/2006年12月27日",10,189,"semi-colon expected",""],["Wikipedia:删除投票和请求/2006年3月15日",15,62,"semi-colon expected",":"],["Wikipedia:删除投票和请求/2006年6月20日",57,202,"property value expected","#"],["Wikipedia:删除投票和请求/2006年7月17日",198,94,"colon expected","="],["Wikipedia:删除投票和请求/2006年7月31日",76,90,"colon expected","="],["Wikipedia:删除投票和请求/2006年8月10日",22,81,"colon expected","="],["Wikipedia:删除投票和请求/2006年9月12日",141,129,"} expected",""],["Wikipedia:删除投票和请求/2007年1月11日",58,78,"colon expected","="],["Wikipedia:删除投票和请求/2007年1月12日",28,78,"colon expected","="],["Wikipedia:删除投票和请求/2007年1月9日",236,109,"semi-colon expected",":"],["Wikipedia:删除投票和请求/2007年4月22日",51,95,"colon expected","="],["Wikipedia:删除投票和请求/2007年4月2日",19,92,"colon expected","="],["Wikipedia:删除投票和请求/2007年5月17日",21,75,"colon expected","gold"],["Wikipedia:删除投票和请求/2007年5月25日",268,78,"colon expected","gold"],["Wikipedia:删除投票和请求/2007年5月30日",328,171,"colon expected","="],["Wikipedia:删除投票和请求/2007年6月18日",28,104,"colon expected","gold"],["Wikipedia:删除投票和请求/2007年6月1日",105,84,"colon expected","gold"],["Wikipedia:删除投票和请求/2007年6月5日",137,148,"colon expected","="],["Wikipedia:删除投票和请求/2007年6月8日",292,184,"colon expected","gold"],["Wikipedia:删除投票和请求/2007年7月27日",278,57,"semi-colon expected",":"],["Wikipedia:删除投票和请求/2008年3月8日",180,359,"colon expected",";"],["Wikipedia:删除投票和请求/2008年4月13日",40,358,"colon expected",";"],["Wikipedia:删除投票和请求/2008年4月14日",25,357,"colon expected",";"],["Wikipedia:删除投票和请求/2008年5月10日",93,388,"colon expected",";"],["Wikipedia:删除投票和请求/2008年5月12日",32,376,"colon expected",";"],["Wikipedia:删除投票和请求/2008年5月13日",129,352,"colon expected",";"],["Wikipedia:删除投票和请求/2008年5月14日",11,364,"colon expected",";"],["Wikipedia:删除投票和请求/2008年5月15日",158,362,"colon expected",";"],["Wikipedia:删除投票和请求/2008年5月16日",206,359,"colon expected",";"],["Wikipedia:删除投票和请求/2008年5月19日",23,358,"colon expected",";"],["Wikipedia:删除投票和请求/2008年5月20日",22,360,"colon expected",";"],["Wikipedia:删除投票和请求/2008年5月21日",35,365,"colon expected",";"],["Wikipedia:删除投票和请求/2008年5月22日",22,391,"colon expected",";"],["Wikipedia:删除投票和请求/2008年5月23日",127,352,"colon expected",";"],["Wikipedia:删除投票和请求/2008年5月25日",63,352,"colon expected",";"],["Wikipedia:删除投票和请求/2008年5月26日",68,358,"colon expected",";"],["Wikipedia:删除投票和请求/2008年5月28日",117,353,"colon expected",";"],["Wikipedia:删除投票和请求/2008年6月8日",377,448,"colon expected",";"],["Wikipedia:删除投票和请求/2008年7月10日",64,352,"colon expected",";"],["Wikipedia:删除投票和请求/2008年7月11日",29,358,"colon expected",";"],["Wikipedia:删除投票和请求/2008年7月15日",39,380,"colon expected",";"],["Wikipedia:删除投票和请求/2008年7月16日",93,387,"colon expected",";"],["Wikipedia:删除投票和请求/2008年7月1日",75,356,"colon expected",";"],["Wikipedia:删除投票和请求/2008年7月29日",187,355,"colon expected",";"],["Wikipedia:删除投票和请求/2008年7月2日",84,355,"colon expected",";"],["Wikipedia:删除投票和请求/2008年7月31日",75,374,"colon expected",";"],["Wikipedia:删除投票和请求/2008年7月8日",74,360,"colon expected",";"],["Wikipedia:删除投票和请求/2008年8月1日",41,357,"colon expected",";"],["Wikipedia:删除投票和请求/2008年8月2日",45,381,"colon expected",";"],["Wikipedia:删除投票和请求/2008年8月3日",18,356,"colon expected",";"],["Wikipedia:删除投票和请求/2008年8月4日",75,352,"colon expected",";"],["Wikipedia:利益衝突/佈告板/存檔/2025年",18,267,"} expected","10px"],["Wikipedia:創作翻譯工作小組",220,133,"semi-colon expected",""],["Wikipedia:动态热门/header",3,15,"colon expected","("],["Wikipedia:动态热门/年度报告/2023年",3,15,"colon expected","("],["Wikipedia:动态热门/年度报告/2024年",3,15,"colon expected","("],["Wikipedia:動員令/第一次動員令",43,86,"colon expected","="],["Wikipedia:動員令/第七次動員令",25,53,"semi-colon expected",""],["Wikipedia:動員令/第七次動員令/主持人佈告板/存檔1",13,77,"semi-colon expected",":"],["Wikipedia:動員令/第七次動員令/主持人佈告板/存檔3",13,219,"semi-colon expected",":"],["Wikipedia:動員令/第七次動員令/主持人佈告板/存檔4",20,211,"semi-colon expected",":"],["Wikipedia:動員令/第七次動員令/存檔2",15,198,"semi-colon expected",":"],["Wikipedia:動員令/第九次動員令/投票",201,144,"semi-colon expected",""],["Wikipedia:動員令/第十一次動員令/個人貢獻/Qiyue2001",3,74,"property value expected","#030D538"],["Wikipedia:動員令/第十一次動員令/新手入門",17,302,"expression expected","#F5F5F5110"],["Wikipedia:動員令/第十七次動員令",323,107,"property value expected","#"],["Wikipedia:動員令/第十二次動員令/個人貢獻/Varian",3,202,"semi-colon expected","Calibri"],["Wikipedia:動員令/第十五次動員令",10,22,"semi-colon expected",""],["Wikipedia:動員令/第十五次動員令/個人貢獻/ChenKB91",3,230,"property value expected","#"],["Wikipedia:動員令/第十五次動員令/個人貢獻/StevenK234",3,76,"colon expected","="],["Wikipedia:動員令/第十五次動員令/戰況諜報",79,94,"colon expected","="],["Wikipedia:動員令/第十八次動員令",334,107,"property value expected","#"],["Wikipedia:動員令/第十六次動員令/個人貢獻/Ericliu1912",3,71,"colon expected",";"],["Wikipedia:動員令/第十六次動員令/個人貢獻/Jared-li",3,26,"property value expected","#"],["Wikipedia:動員令/第十六次動員令/個人貢獻/Lolitacon",3,106,"semi-colon expected",""],["Wikipedia:動員令/第十六次動員令/戰況諜報",144,105,"colon expected",";"],["Wikipedia:動員令/第十次動員令/投票",40,135,"semi-colon expected",""],["Wikipedia:北京维基人列表",157,169,"semi-colon expected",""],["Wikipedia:协作计划/报名",13,62,"} expected","10px"],["Wikipedia:协作计划/报名/档案1",76,117,"property value expected","#DDDDD"],["Wikipedia:反破壞工作小組/反破壞工作小組成員申請/存檔/130",32,138,"semi-colon expected",""],["Wikipedia:反破壞工作小組/反破壞工作小組成員申請/存檔/360",23,214,"colon expected","="],["Wikipedia:反破壞工作小組/反破壞工作小組成員申請/存檔/650",38,55,"} expected","20px"],["Wikipedia:反破壞工作小組/反破壞工作小組成員申請/存檔/660",36,45,"} expected","20px"],["Wikipedia:反破壞工作小組/反破壞工作小組成員申請/存檔/680",6,69,"} expected","10px"],["Wikipedia:可靠来源/布告板",142,52,"} expected","10px"],["Wikipedia:可靠来源/布告板/存档/1",599,71,"semi-colon expected",""],["Wikipedia:可靠来源/布告板/存档/2",252,208,"semi-colon expected",""],["Wikipedia:可靠来源/布告板/存档/2020年5月",96,94,"semi-colon expected",""],["Wikipedia:可靠来源/布告板/存档/2020年6月",59,128,"semi-colon expected",""],["Wikipedia:可靠来源/布告板/存档/2023年5月",227,167,"property value expected","#"],["Wikipedia:可靠来源/布告板/存档/2023年6月",301,105,"property value expected","#"],["Wikipedia:可靠来源/布告板/存档/2023年7月",49,151,"property value expected","#"],["Wikipedia:台灣生命大百科審查專頁",6,185,"semi-colon expected",":"],["Wikipedia:合并请求/存档/2007年",157,7,"semi-colon expected","smaller"],["Wikipedia:合并请求/存档/2008年",54,209,"semi-colon expected",""],["Wikipedia:合并请求/存档/2014年",80,142,"semi-colon expected",""],["Wikipedia:合并请求/存档/2017年",250,142,"semi-colon expected",""],["Wikipedia:合并请求/存档/2018年",259,321,"semi-colon expected",":"],["Wikipedia:合并请求/存档/2020年",132,157,"property value expected","#9966CC4"],["Wikipedia:合并请求/存档/2021年",39,252,"property value expected","#Black"],["Wikipedia:合理使用",71,96,"semi-colon expected",""],["Wikipedia:同行评审/iPhone",6,139,"} expected","2px"],["Wikipedia:同行评审/Microsoft Security Essentials",5,164,"property value expected","#030D538"],["Wikipedia:同行评审/Windows XP",12,184,"semi-colon expected",":"],["Wikipedia:同行评审/中華人民共和國鐵路運輸",12,184,"semi-colon expected",":"],["Wikipedia:同行评审/列斯聯足球會與曼徹斯特聯足球會的競爭",2,201,"semi-colon expected",":"],["Wikipedia:同行评审/动物解放阵线",2,184,"semi-colon expected",""],["Wikipedia:同行评审/占士·米拿",2,207,"semi-colon expected",":"],["Wikipedia:同行评审/史迪·英格·邦尼拜",2,200,"semi-colon expected",":"],["Wikipedia:同行评审/国家格言列表",8,104,"semi-colon expected",":"],["Wikipedia:同行评审/啟蒙時代",14,173,"property value expected","#FDF5E"],["Wikipedia:同行评审/派崔克·傑斯奴保",2,200,"semi-colon expected",":"],["Wikipedia:同行评审/派崔克·貝加",2,200,"semi-colon expected",":"],["Wikipedia:同行评审/火线 (电视剧)",164,184,"semi-colon expected",":"],["Wikipedia:同行评审/積臣·杜薩爾",2,201,"semi-colon expected",":"],["Wikipedia:同行评审/行列式 (第二次)",73,185,"semi-colon expected",":"],["Wikipedia:同行评审/諾貝爾獎得主列表",2,213,"semi-colon expected",":"],["Wikipedia:同行评审/鄧肯·愛華士",2,203,"semi-colon expected",":"],["Wikipedia:同行评审/香港博物館列表",13,305,"semi-colon expected",":"],["Wikipedia:同行评审/馬菲·查維斯",2,200,"semi-colon expected",":"],["Wikipedia:圓桌會",94,234,"semi-colon expected",":"],["Wikipedia:圓桌會/圓桌會成員申請/存檔/10",6,193,"semi-colon expected",":"],["Wikipedia:圓桌會/圓桌會成員申請/存檔/20",4,193,"semi-colon expected",":"],["Wikipedia:圓桌會/圓桌會成員申請/存檔/200",14,135,"semi-colon expected",""],["Wikipedia:圓桌會/圓桌會成員申請/存檔/30",4,193,"semi-colon expected",":"],["Wikipedia:圓桌會/圓桌會成員申請/存檔/40",4,193,"semi-colon expected",":"],["Wikipedia:圓桌會/圓桌會成員申請/存檔/490",2,153,"semi-colon expected",":"],["Wikipedia:圓桌會/圓桌會成員申請/存檔/50",4,193,"semi-colon expected",":"],["Wikipedia:圓桌會/圓桌會成員申請/存檔/60",4,193,"semi-colon expected",":"],["Wikipedia:圓桌會/圓桌會成員申請/存檔/70",4,193,"semi-colon expected",":"],["Wikipedia:圓桌會/圓桌會成員申請/存檔/80",4,193,"semi-colon expected",":"],["Wikipedia:圓桌會/圓桌會成員申請/存檔/90",4,193,"semi-colon expected",":"],["Wikipedia:圓桌會/舉報成員/Evo101469",50,257,"property value expected","#2A52BE3"],["Wikipedia:坏笑话和删除的胡话/Google",43,39,"semi-colon expected","#e5ecf9"],["Wikipedia:坏笑话和删除的胡话/Template:佛教派别树状图",6,124,"property value expected",";"],["Wikipedia:大量訊息發送者/發送請求/存檔/2025年",7,25,"property value expected",";"],["Wikipedia:字词转换/修复请求/存档/2009年6月",77,118,"semi-colon expected",":"],["Wikipedia:字词转换/修复请求/存档/2018年1月",25,199,"semi-colon expected","#000000"],["Wikipedia:字词转换/修复请求/存档/2020年7月",54,17,"property value expected",";"],["Wikipedia:字词转换/修复请求/存档/2025年1月",506,134,"} expected","10px"],["Wikipedia:字词转换/地区词候选/存档/2008年11月",65,84,"colon expected",";"],["Wikipedia:字词转换/地区词候选/存档/2016年8月",17,142,"property value expected","#DDDDD"],["Wikipedia:字词转换/地区词候选/存档/2018年6月",71,371,"colon expected","="],["Wikipedia:字词转换/地区词候选/存档/2018年8月",49,247,"colon expected","="],["Wikipedia:字词转换/地区词候选/存档/2020年4月",58,598,"colon expected","="],["Wikipedia:字词转换/地区词候选/存档/2021年2月",33,175,"property value expected","#Black"],["Wikipedia:字词转换/地区词候选/存档/2021年6月",29,116,"colon expected","="],["Wikipedia:字词转换/地区词候选/存档/2021年7月",8,101,"colon expected","="],["Wikipedia:字词转换/地区词候选/存档/2021年8月",148,202,"property value expected","#Black"],["Wikipedia:存廢覆核請求/存檔/2010年",218,20,"semi-colon expected",""],["Wikipedia:存廢覆核請求/存檔/2012年10-12月",31,212,"property value expected","#80000"],["Wikipedia:存廢覆核請求/存檔/2012年7-9月",912,121,"} expected","2px"],["Wikipedia:存廢覆核請求/存檔/2013年1-3月",106,92,"} expected","2px"],["Wikipedia:存廢覆核請求/存檔/2013年10-12月",98,189,"property value expected","#FDF5E"],["Wikipedia:存廢覆核請求/存檔/2013年4-6月",267,290,"property value expected","#FDF5E"],["Wikipedia:存廢覆核請求/存檔/2013年7-9月",616,185,"property value expected","#FDF5E"],["Wikipedia:存廢覆核請求/存檔/2014年1-3月",110,197,"property value expected","#FDF5E"],["Wikipedia:存廢覆核請求/存檔/2015年4-6月",1215,105,"colon expected",";"],["Wikipedia:存廢覆核請求/存檔/2015年7-9月",442,42,"colon expected",";"],["Wikipedia:存廢覆核請求/存檔/2016年4-6月",207,68,"{ expected",";"],["Wikipedia:存廢覆核請求/存檔/2016年7-9月",440,207,"property value expected","#DDDDD"],["Wikipedia:存廢覆核請求/存檔/2017年1-3月",1790,84,"semi-colon expected",""],["Wikipedia:存廢覆核請求/存檔/2017年10-12月",1010,197,"semi-colon expected",""],["Wikipedia:存廢覆核請求/存檔/2017年7-9月",1901,1160,"colon expected","="],["Wikipedia:存廢覆核請求/存檔/2018年10月",133,200,"semi-colon expected",""],["Wikipedia:存廢覆核請求/存檔/2018年1月",256,230,"semi-colon expected",""],["Wikipedia:存廢覆核請求/存檔/2018年3月",709,296,"semi-colon expected",""],["Wikipedia:存廢覆核請求/存檔/2018年4月",42,278,"semi-colon expected",""],["Wikipedia:存廢覆核請求/存檔/2018年5月",104,359,"colon expected","="],["Wikipedia:存廢覆核請求/存檔/2018年6月",363,170,"colon expected","="],["Wikipedia:存廢覆核請求/存檔/2019年4月",210,1147,"colon expected","="],["Wikipedia:存廢覆核請求/存檔/2020年10月",406,917,"semi-colon expected",""],["Wikipedia:存廢覆核請求/存檔/2020年12月",92,89,"semi-colon expected",""],["Wikipedia:存廢覆核請求/存檔/2021年2月",249,225,"property value expected","#Black"],["Wikipedia:存廢覆核請求/存檔/2021年5月",259,114,"semi-colon expected",""],["Wikipedia:存廢覆核請求/存檔/2022年6月",280,114,"} expected","1px"],["Wikipedia:存廢覆核請求/存檔/2023年10月",69,17,"property value expected",";"],["Wikipedia:存廢覆核請求/存檔/2023年9月",174,24,"semi-colon expected",""],["Wikipedia:对管理员的意见和建议/历史档案/2006年1-6月",300,254,"colon expected","="],["Wikipedia:对管理员的意见和建议/历史档案/2007年1-6月",830,68,"property value expected","#"],["Wikipedia:对管理员的意见和建议/历史档案/2009年1-6月",628,90,"semi-colon expected",":"],["Wikipedia:对管理员的意见和建议/历史档案/2011年1-6月",61,162,"property value expected",";"],["Wikipedia:对管理员的意见和建议/历史档案/2013年1-6月",158,153,"property value expected","#FDF5E"],["Wikipedia:对管理员的意见和建议/历史档案/2013年7-12月",40,176,"property value expected","#FDF5E"],["Wikipedia:小天使工作小組",117,205,"property value expected","#FDF5E"],["Wikipedia:小天使工作小組/成員申請存檔",195,445,"colon expected",";"],["Wikipedia:已删除内容查询/存档/2018年10月",249,107,"semi-colon expected",""],["Wikipedia:已删除内容查询/存档/2018年3月",313,240,"colon expected",";"],["Wikipedia:已删除内容查询/存档/2018年8月",66,139,"property value expected","#navy"],["Wikipedia:已删除内容查询/存档/2018年9月",472,107,"semi-colon expected",""],["Wikipedia:已删除内容查询/存档/2019年11月",149,25,"colon expected",";"],["Wikipedia:已删除内容查询/存档/2020年9月",189,158,"property value expected","#Black"]],"batches":38}
+window.data={"articles":[[
+	"Wikipedia:典范条目评选/存档/2006年",
+	510,
+	68,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:典范条目评选/存档/2007年/存档2",
+	355,
+	157,
+	"} expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2006年11月16日",
+	268,
+	118,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:删除投票和请求/2006年12月22日",
+	204,
+	85,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:删除投票和请求/2006年12月23日",
+	69,
+	85,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:删除投票和请求/2006年12月25日",
+	49,
+	153,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:删除投票和请求/2006年12月26日",
+	30,
+	88,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:删除投票和请求/2006年12月27日",
+	10,
+	189,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:删除投票和请求/2006年3月15日",
+	15,
+	62,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:删除投票和请求/2006年6月20日",
+	57,
+	202,
+	"property value expected",
+	"#"
+],[
+	"Wikipedia:删除投票和请求/2006年7月17日",
+	198,
+	94,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:删除投票和请求/2006年7月31日",
+	76,
+	90,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:删除投票和请求/2006年8月10日",
+	22,
+	81,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:删除投票和请求/2006年9月12日",
+	141,
+	129,
+	"} expected",
+	""
+],[
+	"Wikipedia:删除投票和请求/2007年1月11日",
+	58,
+	78,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:删除投票和请求/2007年1月12日",
+	28,
+	78,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:删除投票和请求/2007年1月9日",
+	236,
+	109,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:删除投票和请求/2007年4月22日",
+	51,
+	95,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:删除投票和请求/2007年4月2日",
+	19,
+	92,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:删除投票和请求/2007年5月17日",
+	21,
+	75,
+	"colon expected",
+	"gold"
+],[
+	"Wikipedia:删除投票和请求/2007年5月25日",
+	268,
+	78,
+	"colon expected",
+	"gold"
+],[
+	"Wikipedia:删除投票和请求/2007年5月30日",
+	328,
+	171,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:删除投票和请求/2007年6月18日",
+	28,
+	104,
+	"colon expected",
+	"gold"
+],[
+	"Wikipedia:删除投票和请求/2007年6月1日",
+	105,
+	84,
+	"colon expected",
+	"gold"
+],[
+	"Wikipedia:删除投票和请求/2007年6月5日",
+	137,
+	148,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:删除投票和请求/2007年6月8日",
+	292,
+	184,
+	"colon expected",
+	"gold"
+],[
+	"Wikipedia:删除投票和请求/2007年7月27日",
+	278,
+	57,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:删除投票和请求/2008年3月8日",
+	180,
+	359,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年4月13日",
+	40,
+	358,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年4月14日",
+	25,
+	357,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年5月10日",
+	93,
+	388,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年5月12日",
+	32,
+	376,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年5月13日",
+	129,
+	352,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年5月14日",
+	11,
+	364,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年5月15日",
+	158,
+	362,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年5月16日",
+	206,
+	359,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年5月19日",
+	23,
+	358,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年5月20日",
+	22,
+	360,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年5月21日",
+	35,
+	365,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年5月22日",
+	22,
+	391,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年5月23日",
+	127,
+	352,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年5月25日",
+	63,
+	352,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年5月26日",
+	68,
+	358,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年5月28日",
+	117,
+	353,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年6月8日",
+	377,
+	448,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年7月10日",
+	64,
+	352,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年7月11日",
+	29,
+	358,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年7月15日",
+	39,
+	380,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年7月16日",
+	93,
+	387,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年7月1日",
+	75,
+	356,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年7月29日",
+	187,
+	355,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年7月2日",
+	84,
+	355,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年7月31日",
+	75,
+	374,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年7月8日",
+	74,
+	360,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年8月1日",
+	41,
+	357,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年8月2日",
+	45,
+	381,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年8月3日",
+	18,
+	356,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:删除投票和请求/2008年8月4日",
+	75,
+	352,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:利益衝突/佈告板/存檔/2025年",
+	18,
+	267,
+	"} expected",
+	"10px"
+],[
+	"Wikipedia:創作翻譯工作小組",
+	220,
+	133,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:动态热门/header",
+	3,
+	15,
+	"colon expected",
+	"("
+],[
+	"Wikipedia:动态热门/年度报告/2023年",
+	3,
+	15,
+	"colon expected",
+	"("
+],[
+	"Wikipedia:动态热门/年度报告/2024年",
+	3,
+	15,
+	"colon expected",
+	"("
+],[
+	"Wikipedia:動員令/第一次動員令",
+	43,
+	86,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:動員令/第七次動員令",
+	25,
+	53,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:動員令/第七次動員令/主持人佈告板/存檔1",
+	13,
+	77,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:動員令/第七次動員令/主持人佈告板/存檔3",
+	13,
+	219,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:動員令/第七次動員令/主持人佈告板/存檔4",
+	20,
+	211,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:動員令/第七次動員令/存檔2",
+	15,
+	198,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:動員令/第九次動員令/投票",
+	201,
+	144,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:動員令/第十一次動員令/個人貢獻/Qiyue2001",
+	3,
+	74,
+	"property value expected",
+	"#030D538"
+],[
+	"Wikipedia:動員令/第十一次動員令/新手入門",
+	17,
+	302,
+	"expression expected",
+	"#F5F5F5110"
+],[
+	"Wikipedia:動員令/第十七次動員令",
+	323,
+	107,
+	"property value expected",
+	"#"
+],[
+	"Wikipedia:動員令/第十二次動員令/個人貢獻/Varian",
+	3,
+	202,
+	"semi-colon expected",
+	"Calibri"
+],[
+	"Wikipedia:動員令/第十五次動員令",
+	10,
+	22,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:動員令/第十五次動員令/個人貢獻/ChenKB91",
+	3,
+	230,
+	"property value expected",
+	"#"
+],[
+	"Wikipedia:動員令/第十五次動員令/個人貢獻/StevenK234",
+	3,
+	76,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:動員令/第十五次動員令/戰況諜報",
+	79,
+	94,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:動員令/第十八次動員令",
+	334,
+	107,
+	"property value expected",
+	"#"
+],[
+	"Wikipedia:動員令/第十六次動員令/個人貢獻/Ericliu1912",
+	3,
+	71,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:動員令/第十六次動員令/個人貢獻/Jared-li",
+	3,
+	26,
+	"property value expected",
+	"#"
+],[
+	"Wikipedia:動員令/第十六次動員令/個人貢獻/Lolitacon",
+	3,
+	106,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:動員令/第十六次動員令/戰況諜報",
+	144,
+	105,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:動員令/第十次動員令/投票",
+	40,
+	135,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:北京维基人列表",
+	157,
+	169,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:协作计划/报名",
+	13,
+	62,
+	"} expected",
+	"10px"
+],[
+	"Wikipedia:协作计划/报名/档案1",
+	76,
+	117,
+	"property value expected",
+	"#DDDDD"
+],[
+	"Wikipedia:反破壞工作小組/反破壞工作小組成員申請/存檔/130",
+	32,
+	138,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:反破壞工作小組/反破壞工作小組成員申請/存檔/360",
+	23,
+	214,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:反破壞工作小組/反破壞工作小組成員申請/存檔/650",
+	38,
+	55,
+	"} expected",
+	"20px"
+],[
+	"Wikipedia:反破壞工作小組/反破壞工作小組成員申請/存檔/660",
+	36,
+	45,
+	"} expected",
+	"20px"
+],[
+	"Wikipedia:反破壞工作小組/反破壞工作小組成員申請/存檔/680",
+	6,
+	69,
+	"} expected",
+	"10px"
+],[
+	"Wikipedia:可靠来源/布告板",
+	142,
+	52,
+	"} expected",
+	"10px"
+],[
+	"Wikipedia:可靠来源/布告板/存档/1",
+	599,
+	71,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:可靠来源/布告板/存档/2",
+	252,
+	208,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:可靠来源/布告板/存档/2020年5月",
+	96,
+	94,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:可靠来源/布告板/存档/2020年6月",
+	59,
+	128,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:可靠来源/布告板/存档/2023年5月",
+	227,
+	167,
+	"property value expected",
+	"#"
+],[
+	"Wikipedia:可靠来源/布告板/存档/2023年6月",
+	301,
+	105,
+	"property value expected",
+	"#"
+],[
+	"Wikipedia:可靠来源/布告板/存档/2023年7月",
+	49,
+	151,
+	"property value expected",
+	"#"
+],[
+	"Wikipedia:台灣生命大百科審查專頁",
+	6,
+	185,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:合并请求/存档/2007年",
+	157,
+	7,
+	"semi-colon expected",
+	"smaller"
+],[
+	"Wikipedia:合并请求/存档/2008年",
+	54,
+	209,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:合并请求/存档/2014年",
+	80,
+	142,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:合并请求/存档/2017年",
+	250,
+	142,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:合并请求/存档/2018年",
+	259,
+	321,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:合并请求/存档/2020年",
+	132,
+	157,
+	"property value expected",
+	"#9966CC4"
+],[
+	"Wikipedia:合并请求/存档/2021年",
+	39,
+	252,
+	"property value expected",
+	"#Black"
+],[
+	"Wikipedia:合理使用",
+	71,
+	96,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:同行评审/iPhone",
+	6,
+	139,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:同行评审/Microsoft Security Essentials",
+	5,
+	164,
+	"property value expected",
+	"#030D538"
+],[
+	"Wikipedia:同行评审/Windows XP",
+	12,
+	184,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:同行评审/中華人民共和國鐵路運輸",
+	12,
+	184,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:同行评审/列斯聯足球會與曼徹斯特聯足球會的競爭",
+	2,
+	201,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:同行评审/动物解放阵线",
+	2,
+	184,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:同行评审/占士·米拿",
+	2,
+	207,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:同行评审/史迪·英格·邦尼拜",
+	2,
+	200,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:同行评审/国家格言列表",
+	8,
+	104,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:同行评审/啟蒙時代",
+	14,
+	173,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:同行评审/派崔克·傑斯奴保",
+	2,
+	200,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:同行评审/派崔克·貝加",
+	2,
+	200,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:同行评审/火线 (电视剧)",
+	164,
+	184,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:同行评审/積臣·杜薩爾",
+	2,
+	201,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:同行评审/行列式 (第二次)",
+	73,
+	185,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:同行评审/諾貝爾獎得主列表",
+	2,
+	213,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:同行评审/鄧肯·愛華士",
+	2,
+	203,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:同行评审/香港博物館列表",
+	13,
+	305,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:同行评审/馬菲·查維斯",
+	2,
+	200,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:圓桌會",
+	94,
+	234,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:圓桌會/圓桌會成員申請/存檔/10",
+	6,
+	193,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:圓桌會/圓桌會成員申請/存檔/20",
+	4,
+	193,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:圓桌會/圓桌會成員申請/存檔/200",
+	14,
+	135,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:圓桌會/圓桌會成員申請/存檔/30",
+	4,
+	193,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:圓桌會/圓桌會成員申請/存檔/40",
+	4,
+	193,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:圓桌會/圓桌會成員申請/存檔/490",
+	2,
+	153,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:圓桌會/圓桌會成員申請/存檔/50",
+	4,
+	193,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:圓桌會/圓桌會成員申請/存檔/60",
+	4,
+	193,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:圓桌會/圓桌會成員申請/存檔/70",
+	4,
+	193,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:圓桌會/圓桌會成員申請/存檔/80",
+	4,
+	193,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:圓桌會/圓桌會成員申請/存檔/90",
+	4,
+	193,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:圓桌會/舉報成員/Evo101469",
+	50,
+	257,
+	"property value expected",
+	"#2A52BE3"
+],[
+	"Wikipedia:坏笑话和删除的胡话/Google",
+	43,
+	39,
+	"semi-colon expected",
+	"#e5ecf9"
+],[
+	"Wikipedia:坏笑话和删除的胡话/Template:佛教派别树状图",
+	6,
+	124,
+	"property value expected",
+	";"
+],[
+	"Wikipedia:大量訊息發送者/發送請求/存檔/2025年",
+	7,
+	25,
+	"property value expected",
+	";"
+],[
+	"Wikipedia:字词转换/修复请求/存档/2009年6月",
+	77,
+	118,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:字词转换/修复请求/存档/2018年1月",
+	25,
+	199,
+	"semi-colon expected",
+	"#000000"
+],[
+	"Wikipedia:字词转换/修复请求/存档/2020年7月",
+	54,
+	17,
+	"property value expected",
+	";"
+],[
+	"Wikipedia:字词转换/修复请求/存档/2025年1月",
+	506,
+	134,
+	"} expected",
+	"10px"
+],[
+	"Wikipedia:字词转换/地区词候选/存档/2008年11月",
+	65,
+	84,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:字词转换/地区词候选/存档/2016年8月",
+	17,
+	142,
+	"property value expected",
+	"#DDDDD"
+],[
+	"Wikipedia:字词转换/地区词候选/存档/2018年6月",
+	71,
+	371,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:字词转换/地区词候选/存档/2018年8月",
+	49,
+	247,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:字词转换/地区词候选/存档/2020年4月",
+	58,
+	598,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:字词转换/地区词候选/存档/2021年2月",
+	33,
+	175,
+	"property value expected",
+	"#Black"
+],[
+	"Wikipedia:字词转换/地区词候选/存档/2021年6月",
+	29,
+	116,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:字词转换/地区词候选/存档/2021年7月",
+	8,
+	101,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:字词转换/地区词候选/存档/2021年8月",
+	148,
+	202,
+	"property value expected",
+	"#Black"
+],[
+	"Wikipedia:存廢覆核請求/存檔/2010年",
+	218,
+	20,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:存廢覆核請求/存檔/2012年10-12月",
+	31,
+	212,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:存廢覆核請求/存檔/2012年7-9月",
+	912,
+	121,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:存廢覆核請求/存檔/2013年1-3月",
+	106,
+	92,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:存廢覆核請求/存檔/2013年10-12月",
+	98,
+	189,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:存廢覆核請求/存檔/2013年4-6月",
+	267,
+	290,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:存廢覆核請求/存檔/2013年7-9月",
+	616,
+	185,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:存廢覆核請求/存檔/2014年1-3月",
+	110,
+	197,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:存廢覆核請求/存檔/2015年4-6月",
+	1215,
+	105,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:存廢覆核請求/存檔/2015年7-9月",
+	442,
+	42,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:存廢覆核請求/存檔/2016年4-6月",
+	207,
+	68,
+	"{ expected",
+	";"
+],[
+	"Wikipedia:存廢覆核請求/存檔/2016年7-9月",
+	440,
+	207,
+	"property value expected",
+	"#DDDDD"
+],[
+	"Wikipedia:存廢覆核請求/存檔/2017年1-3月",
+	1790,
+	84,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:存廢覆核請求/存檔/2017年10-12月",
+	1010,
+	197,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:存廢覆核請求/存檔/2017年7-9月",
+	1901,
+	1160,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:存廢覆核請求/存檔/2018年10月",
+	133,
+	200,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:存廢覆核請求/存檔/2018年1月",
+	256,
+	230,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:存廢覆核請求/存檔/2018年3月",
+	709,
+	296,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:存廢覆核請求/存檔/2018年4月",
+	42,
+	278,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:存廢覆核請求/存檔/2018年5月",
+	104,
+	359,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:存廢覆核請求/存檔/2018年6月",
+	363,
+	170,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:存廢覆核請求/存檔/2019年4月",
+	210,
+	1147,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:存廢覆核請求/存檔/2020年10月",
+	406,
+	917,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:存廢覆核請求/存檔/2020年12月",
+	92,
+	89,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:存廢覆核請求/存檔/2021年2月",
+	249,
+	225,
+	"property value expected",
+	"#Black"
+],[
+	"Wikipedia:存廢覆核請求/存檔/2021年5月",
+	259,
+	114,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:存廢覆核請求/存檔/2022年6月",
+	280,
+	114,
+	"} expected",
+	"1px"
+],[
+	"Wikipedia:存廢覆核請求/存檔/2023年10月",
+	69,
+	17,
+	"property value expected",
+	";"
+],[
+	"Wikipedia:存廢覆核請求/存檔/2023年9月",
+	174,
+	24,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:对管理员的意见和建议/历史档案/2006年1-6月",
+	300,
+	254,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:对管理员的意见和建议/历史档案/2007年1-6月",
+	830,
+	68,
+	"property value expected",
+	"#"
+],[
+	"Wikipedia:对管理员的意见和建议/历史档案/2009年1-6月",
+	628,
+	90,
+	"semi-colon expected",
+	":"
+],[
+	"Wikipedia:对管理员的意见和建议/历史档案/2011年1-6月",
+	61,
+	162,
+	"property value expected",
+	";"
+],[
+	"Wikipedia:对管理员的意见和建议/历史档案/2013年1-6月",
+	158,
+	153,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:对管理员的意见和建议/历史档案/2013年7-12月",
+	40,
+	176,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:小天使工作小組",
+	117,
+	205,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:小天使工作小組/成員申請存檔",
+	195,
+	445,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:已删除内容查询/存档/2018年10月",
+	249,
+	107,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:已删除内容查询/存档/2018年3月",
+	313,
+	240,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:已删除内容查询/存档/2018年8月",
+	66,
+	139,
+	"property value expected",
+	"#navy"
+],[
+	"Wikipedia:已删除内容查询/存档/2018年9月",
+	472,
+	107,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:已删除内容查询/存档/2019年11月",
+	149,
+	25,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:已删除内容查询/存档/2020年9月",
+	189,
+	158,
+	"property value expected",
+	"#Black"
+],],"batches":38}

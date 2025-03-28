@@ -1,1 +1,1201 @@
-window.data={"articles":[["威尔士国家图书馆",2,776,"internal link in an external link","[[Wikimedia UK]]"],["威廉·托马斯·斯特德",48,90,"internal link in an external link","[[Cecil Rhodes|Cecil J. Rhodes]]"],["威廉·罗素",46,88,"internal link in an external link","[[BBC]]"],["威廉·赫歇爾",100,61,"internal link in an external link","[[古登堡計劃]]"],["姬春蟬屬",50,201,"internal link in an external link","[[Yaeyama Islands]]"],["娜塔莎·坎普希",34,94,"internal link in an external link","[[International Herald-Tribune]]"],["孔琳之",28,62,"internal link in an external link","[[山東通志]]"],["季米特里奥斯·赫里斯托祖卢",35,225,"internal link in an external link","[[INSPIRE-HEP]]"],["宇宙世紀的企業列表",85,82,"internal link in an external link","[[BANDAI]]"],["宇都宮健兒",79,288,"internal link in an external link","[[朝日新聞]]"],["安迪·威爾",49,256,"internal link in an external link","[[The Martian (film)|The Martian]]"],["安迪·沃荷",271,68,"internal link in an external link","[[digital painting]]"],["安迪·科尔",117,91,"internal link in an external link","[[BBC]]"],["完全解放",222,47,"internal link in an external link","[[YouTube]]"],["宗座社会科学院",14,91,"internal link in an external link","[[Motu Proprio]]"],["定遠號戰艦",66,56,"internal link in an external link","[[北洋水師]]"],["宣傳學 (書籍)",46,115,"internal link in an external link","[[愛德華·伯內斯]]"],["宮崎智彥",35,472,"internal link in an external link","[[鹿島鹿角]]"],["宮本慎也",119,63,"internal link in an external link","[[東京養樂多燕子]]"],["寬胸癩頸龜屬",6,284,"internal link in an external link","[[Testudines]]"],["对法轮功的镇压",112,1042,"internal link in an external link","[[美聯社]]"],["对立式平衡",48,88,"internal link in an external link","[[大英百科全書第十一版|1911 Encyclopædia Britannica]]"],["对立教宗何诺二世",5,284,"internal link in an external link","[[天主教百科全书]]"],["对胡锦涛的争议",15,919,"internal link in an external link","[[新聞自由]]"],["小巴伊斯河",27,80,"internal link in an external link","[[Sandre]]"],["小野寺五典",59,272,"internal link in an external link","[[河北新報]]"],["尘暴痕迹",8,137,"internal link in an external link","[[Mars Exploration Rover]]"],["尼克·宏比",83,96,"internal link in an external link","[[:en:The Sound of Young America|The Sound of Young America]]"],["尼古拉·伊万诺维奇·基巴利契奇",82,86,"internal link in an external link","[[Nikolai Rynin]]"],["尼布楚條約",68,1130,"internal link in an external link","[[大清國籍條例]]"],["山崎遙",657,58,"internal link in an external link","[[Instagram]]"],["峯岸南",117,117,"internal link in an external link","[[森田一義時間 笑一笑又何妨！]]"],["巨暹羅鯉",31,95,"internal link in an external link","[[國家地理 (雜誌)|國家地理]]"],["巨輪",39,428,"internal link in an external link","[[陳展鵬]]"],["巴伊斯河",27,81,"internal link in an external link","[[Sandre]]"],["巴塞尔大学儿童医院",52,50,"internal link in an external link","[[Zurich]]"],["巴士迷懷疑偷駕巴士短片事件",46,183,"internal link in an external link","[[香港討論區]]"],["巴天族",23,410,"internal link in an external link","[[民族語]]"],["巴恩斯利足球俱乐部",224,56,"internal link in an external link","[[加時]]"],["巴西南美货运航空",33,62,"internal link in an external link","[[YouTube]]"],["巴黎–鲁昂赛",190,227,"internal link in an external link","[[Émile Mayade]]"],["布赖恩·沃德-珀金斯",10,108,"internal link in an external link","[[Peter Heather]]"],["布鲁西洛夫攻势",100,43,"internal link in an external link","[[4 June]]"],["希夏邦马峰",38,1648,"internal link in an external link","[[郭超人]]"],["希腊定居点",8,365,"internal link in an external link","[[Haaretz]]"],["希蒙·佩雷斯",65,626,"internal link in an external link","[[New York Times]]"],["帥到分手",69,74,"internal link in an external link","[[KKBOX]]"],["平罗德",39,65,"internal link in an external link","[[槓龜]]"],["幸福一家人",274,393,"internal link in an external link","[[赵丽颖]]"],["广告狂人",124,294,"internal link in an external link","[[Twitter]]"],["库仑-萨尔顿盆地",20,77,"internal link in an external link","[[月球轨道器5号]]"],["康寧祥",140,265,"internal link in an external link","[[費希平]]"],["康拉德·格斯纳",50,129,"internal link in an external link","[[Charles Hamilton Smith]]"],["廖柏雅",352,85,"internal link in an external link","[[YouTube]]"],["廣大興28號事件",509,113,"internal link in an external link","[[衛報]]"],["龐安竹",41,88,"internal link in an external link","[[BBC]]"],["建威军节度使",42,187,"internal link in an external link","[[欧阳修]]"],["开柳铁路",52,110,"internal link in an external link","[[开封日报]]"],["开膛街",60,70,"internal link in an external link","[[BBC]]"],["弗兰克·波西·史密斯",14,3020,"internal link in an external link","[[Ancestry.com]]"],["弗兰克·肖特",2,676,"internal link in an external link","[[Phil Hersh]]"],["弗拉基米尔·盖尔芬德",37,148,"internal link in an external link","[[德国电视一台]]"],["弗朗切斯科·达迪尼",31,185,"internal link in an external link","[[Michael Chatfield]]"],["张先",17,118,"internal link in an external link","[[四庫全書]]"],["张维迎",115,113,"internal link in an external link","[[邹恒甫]]"],["张铭山",42,142,"internal link in an external link","[[博讯]]"],["張偉康 (籃球運動員)",43,87,"internal link in an external link","[[周柏豪]]"],["張復建",36,547,"internal link in an external link","[[寇紹恩]]"],["張津 (明朝)",30,1069,"internal link in an external link","[[廣東通志]]"],["彩みちる",86,93,"internal link in an external link","[[唐璜]]"],["彭实戈",58,1671,"internal link in an external link","[[山东大学]]"],["彭愛佳",25,231,"internal link in an external link","[[林益世]]"],["彭明敏",186,108,"internal link in an external link","[[宗像隆幸]]"],["彼得里夫卡 (文尼察區)",7,121,"internal link in an external link","[[Роговий Олександр Іванович|О.І. Роговий]]"],["徕卡相机",403,93,"internal link in an external link","[[萧伯纳]]"],["復興航空222號班機空難",42,154,"internal link in an external link","[[蘋果日報]]"],["德国电影",36,158,"internal link in an external link","[[Goethe-Institut]]"],["德國釀酒公司列表",80,293,"internal link in an external link","[[Statista]]"],["德重、名古屋藝大站",39,341,"internal link in an external link","[[名鉄バス]]"],["心理学",51,1148,"internal link in an external link","[[纽约时报|New York Times]]"],["忍者龜：破影而出",144,1024,"internal link in an external link","[[重啟]]"],["意大利内战",30,500,"internal link in an external link","[[國民警衛隊]]"],["愛彼",121,47,"internal link in an external link","[[Youtube]]"],["愛情是什麼",34,410,"internal link in an external link","[[蘋果日報 (香港)|蘋果日報]]"],["愛雲·芬芝",25,617,"internal link in an external link","[[Luigi Cozzi]]"],["我爱露茜",420,158,"internal link in an external link","[[Google doodle]]"],["战地2100",28,74,"internal link in an external link","[[GPL]]"],["戴维·伍顿",26,77,"internal link in an external link","[[London Review of Books]]"],["戴维斯海峡",24,84,"internal link in an external link","[[MODIS]]"],["所羅門·萊夫謝茨",59,152,"internal link in an external link","[[Gian-Carlo Rota]]"],["打馬",10,811,"internal link in an external link","[[陶珽]]"],["托希尔山",5,308,"internal link in an external link","[[NASA]]"],["托雷河",28,80,"internal link in an external link","[[Sandre]]"],["托馬斯·祖布臣",31,75,"internal link in an external link","[[NASA]]"],["托馬斯·肯尼利",107,161,"internal link in an external link","[[30 July]]"],["拉斯坎帕纳斯天文台",62,39,"internal link in an external link","[[卡内基科学研究所]]"],["揆园史话",11,139,"internal link in an external link","[[反中国]]"],["揚·帕拉赫",20,108,"internal link in an external link","[[Radio Prague]]"],["摩托车帮会",42,937,"internal link in an external link","[[美國司法部]]"],["撒哈拉沙漠",109,143,"internal link in an external link","[[hydrology]]"],["撒哈拉沙漠馬拉松",29,155,"internal link in an external link","[[Les Guthman]]"],["收益率曲线",18,380,"internal link in an external link","[[紐約聯邦儲備銀行]]"],["啟朗苑",12,234,"internal link in an external link","[[香港房屋委員會]]"],["数学分析",104,67,"internal link in an external link","[[國立臺灣大學|台大]]"],["整型提升",1,273,"internal link in an external link","[[MSDN]]"],["文化宮 (特拉維夫)",5,512,"internal link in an external link","[[Haaretz]]"],["文錦棠",25,116,"internal link in an external link","[[大公網]]"],["斯图亚特·L·施莱伯",89,103,"internal link in an external link","[[霍华德·休斯医学研究所]]"],["斯帕尔多库斯王朝",21,200,"internal link in an external link","[[Фридман А.С]]"],["斯德哥爾摩球形都市",27,43,"internal link in an external link","[[瑞典語]]"],["斯旺西城足球俱乐部",328,56,"internal link in an external link","[[加時]]"],["斯賓塞·富勒頓·貝爾德",106,95,"internal link in an external link","[[美國國家科學院]]"],["斯里兰卡内战",33,403,"internal link in an external link","[[Tamilnet]]"],["新大嶼山巴士",91,701,"internal link in an external link","[[蘋果日報 (香港)|蘋果日報]]"],["新天地餐飲集團",9,143,"internal link in an external link","[[蘋果日報]]"],["新秀麗",31,184,"internal link in an external link","[[路透社]]"],["新西兰玉",65,127,"internal link in an external link","[[Museum of New Zealand Te Papa Tongarewa]]"],["新鴛鴦蝴蝶夢",19,457,"internal link in an external link","[[費玉清]]"],["方宗鳌",57,837,"internal link in an external link","[[九一八事变]]"],["无法触碰 (法国电影)",91,85,"internal link in an external link","[[AlloCiné]]"],["日本國王",63,107,"internal link in an external link","[[韓國]]"],["日本箏",27,171,"internal link in an external link","[[July 30]]"],["日本駐瀋陽總領事館闖館事件",17,243,"internal link in an external link","[[腾讯|腾讯新闻]]"],["日正当中 (电影)",72,104,"internal link in an external link","[[Ann Hornaday]]"],["明施慎選",37,87,"internal link in an external link","[[香港寬頻bbTV]]"],["星光少女 極光之夢",133,648,"internal link in an external link","[[星光少女 極光之夢]]"],["星光少女 群星閃耀 星光☆十強 角色列表",285,100,"internal link in an external link","[[星光樂園]]"],["星簇2号",190,54,"internal link in an external link","[[太阳神号]]"],["星际弹球之无极挑战",266,54,"internal link in an external link","[[MobyGames]]"],["春之波濤",123,138,"internal link in an external link","[[地方裁判所 (日本)|地裁]]"],["春聯",8,370,"internal link in an external link","[[台灣大百科全書]]"],["春野杏",170,42,"internal link in an external link","[[Twitter]]"],["晋察冀野战军",6,165,"internal link in an external link","[[聂荣臻|聂]]"],["普斯托維季 (米羅諾夫卡區)",6,185,"internal link in an external link","[[Голодомор в Україні 1932—1933]]"],["普里瓦特银行",32,458,"internal link in an external link","[[烏克蘭獨立新聞社]]"],["智利南美航空",221,62,"internal link in an external link","[[YouTube]]"],["智利南美货运航空",32,62,"internal link in an external link","[[YouTube]]"],["書那娜",54,107,"internal link in an external link","[[戒菸就贏]]"],["曼尕賴",9,169,"internal link in an external link","[[Tarikh-i-Rashidi]]"],["月球轨道器4号",74,62,"internal link in an external link","[[月球与行星研究所]]"],["月面步行者",125,178,"internal link in an external link","[[Simferopol]]"],["有效日期",16,47,"internal link in an external link","[[保存期限|保存期]]"],["有教無類法案",92,99,"internal link in an external link","[[21 October]]"],["有線Sports Plus",208,262,"internal link in an external link","[[有線寬頻通訊有限公司|有線寬頻]]"],["有線寬頻爭議",87,395,"internal link in an external link","[[蘋果日報]]"],["服務科學",58,33,"internal link in an external link","[[清華大學]]"],["朗伊爾城",37,163,"internal link in an external link","[[中國網]]"],["朝鲜民主主义人民共和国旅游",92,86,"internal link in an external link","[[朝鲜纪录电影制片厂]]"],["本尼·布兰科",35,44,"internal link in an external link","[[Myspace]]"],["本杰明·斯波克",25,179,"internal link in an external link","[[RealAudio]]"],["朱佛定",144,214,"internal link in an external link","[[王肇嘉]]"],["朱利亞諾·德·麥地奇 (內穆爾公爵)",33,100,"internal link in an external link","[[大都会艺术博物馆]]"],["朱利奥·拉卡",35,94,"internal link in an external link","[[Racah (crater)|Racah Crater]]"],["朱塞佩·阿米薩尼",111,160,"internal link in an external link","[[菲諾港]]"],["朱相昱",553,152,"internal link in an external link","[[NAVER]]"],["朱端",21,105,"internal link in an external link","[[盛懋]]"],["杀害尊亲属罪法定刑违宪事件",3,445,"internal link in an external link","[[昭和]]"],["李云迪",215,60,"internal link in an external link","[[德意志留聲機]]"],["李可染",26,229,"internal link in an external link","[[张氏帅府博物馆]]"],["李新 (历史学家)",29,868,"internal link in an external link","[[瞿秋白]]"],["李素 (永樂進士)",9,61,"internal link in an external link","[[廣東通志]]"],["李翰 (設計師)",80,31,"internal link in an external link","[[舉牌小人]]"],["杜倫",198,84,"internal link in an external link","[[BBC]]"],["杜葉錫恩",115,156,"internal link in an external link","[[Hong Kong Baptist University Library]]"],["杨明 (艺术家)",17,75,"internal link in an external link","[[于坚]]"],["杨海寿",170,51,"internal link in an external link","[[北京大学]]"],["杯渡路",32,116,"internal link in an external link","[[成報]]"],["杰克逊环形山",52,58,"internal link in an external link","[[月亮女神 (航天器)|辉夜号]]"],["杰夫·邓纳姆",33,834,"internal link in an external link","[[Comedy Central]]"],["杰西·阿姆斯特朗",19,60,"internal link in an external link","[[Twitter]]"],["林司聰",30,179,"internal link in an external link","[[有限公司]]"],["林天星",35,160,"internal link in an external link","[[鏗鏘集]]"],["林家聲",110,134,"internal link in an external link","[[第1屆金馬獎]]"],["林建明",45,180,"internal link in an external link","[[熟女在野]]"],["柏林學派 (電影)",1,243,"internal link in an external link","[[Cineaste (magazine)|Cineaste]]"],["柬埔寨—泰國關係",14,486,"internal link in an external link","[[United States Army Center of Military History]]"],["柬埔寨外交",11,377,"internal link in an external link","[[United States Army Center of Military History]]"],["柯清輝",45,2515,"internal link in an external link","[[電視廣播有限公司]]"],["核四公投運動",75,614,"internal link in an external link","[[林世嘉]]"],["核嬗变",50,1238,"internal link in an external link","[[Argonne National Laboratory]]"],["格斯·霍尔",51,411,"internal link in an external link","[[American National Biography]]"],["格里·亚当斯",68,51,"internal link in an external link","[[衛報]]"],["梁可耀",419,54,"internal link in an external link","[[伯樂音樂學院]]"],["梁家麟",68,116,"internal link in an external link","[[吳耀宗]]"],["梁振英",203,251,"internal link in an external link","[[李嘉誠]]"],["梁振英政府相關爭議",32,251,"internal link in an external link","[[李嘉誠]]"],["梅尔·哈格德",14,147,"internal link in an external link","[[Ben Sorensen's REAL Country]]"],["梵蒂冈先进技术望远镜",75,93,"internal link in an external link","[[斯图尔德天文台]]"],["楊金海 (1932年)",27,125,"internal link in an external link","[[鄭南榕]]"],["極限拼圖",25,510,"internal link in an external link","[[夢想拼圖]]"],["模擬城市 (1989年遊戲)",55,41,"internal link in an external link","[[OLPC]]"],["樱花的花瓣们2008",45,266,"internal link in an external link","[[互联网档案馆]]"],["橄欖油",201,276,"internal link in an external link","[[布洛芬]]"],["橫光利一",593,78,"internal link in an external link","[[青空文库]]"],["欧弗洛尼奥斯",23,150,"internal link in an external link","[[Louvre]]"],["欧洲E763公路",45,155,"internal link in an external link","[[OpenStreetMap]]"],["歌劇作曲家列表",112,120,"internal link in an external link","[[S/Z#Bibliography|Katherine Kolb]]"],["歐陽日華",15,69,"internal link in an external link","[[Kisum]]"],["歷史月刊",43,226,"internal link in an external link","[[國家圖書館 (中華民國)|國家圖書館]]"],["比亚迪秦",367,128,"internal link in an external link","[[Beijing International Automotive Exhibition]]"]],"batches":5}
+window.data={"articles":[[
+	"威尔士国家图书馆",
+	2,
+	776,
+	"internal link in an external link",
+	"[[Wikimedia UK]]"
+],[
+	"威廉·托马斯·斯特德",
+	48,
+	90,
+	"internal link in an external link",
+	"[[Cecil Rhodes|Cecil J. Rhodes]]"
+],[
+	"威廉·罗素",
+	46,
+	88,
+	"internal link in an external link",
+	"[[BBC]]"
+],[
+	"威廉·赫歇爾",
+	100,
+	61,
+	"internal link in an external link",
+	"[[古登堡計劃]]"
+],[
+	"姬春蟬屬",
+	50,
+	201,
+	"internal link in an external link",
+	"[[Yaeyama Islands]]"
+],[
+	"娜塔莎·坎普希",
+	34,
+	94,
+	"internal link in an external link",
+	"[[International Herald-Tribune]]"
+],[
+	"孔琳之",
+	28,
+	62,
+	"internal link in an external link",
+	"[[山東通志]]"
+],[
+	"季米特里奥斯·赫里斯托祖卢",
+	35,
+	225,
+	"internal link in an external link",
+	"[[INSPIRE-HEP]]"
+],[
+	"宇宙世紀的企業列表",
+	85,
+	82,
+	"internal link in an external link",
+	"[[BANDAI]]"
+],[
+	"宇都宮健兒",
+	79,
+	288,
+	"internal link in an external link",
+	"[[朝日新聞]]"
+],[
+	"安迪·威爾",
+	49,
+	256,
+	"internal link in an external link",
+	"[[The Martian (film)|The Martian]]"
+],[
+	"安迪·沃荷",
+	271,
+	68,
+	"internal link in an external link",
+	"[[digital painting]]"
+],[
+	"安迪·科尔",
+	117,
+	91,
+	"internal link in an external link",
+	"[[BBC]]"
+],[
+	"完全解放",
+	222,
+	47,
+	"internal link in an external link",
+	"[[YouTube]]"
+],[
+	"宗座社会科学院",
+	14,
+	91,
+	"internal link in an external link",
+	"[[Motu Proprio]]"
+],[
+	"定遠號戰艦",
+	66,
+	56,
+	"internal link in an external link",
+	"[[北洋水師]]"
+],[
+	"宣傳學 (書籍)",
+	46,
+	115,
+	"internal link in an external link",
+	"[[愛德華·伯內斯]]"
+],[
+	"宮崎智彥",
+	35,
+	472,
+	"internal link in an external link",
+	"[[鹿島鹿角]]"
+],[
+	"宮本慎也",
+	119,
+	63,
+	"internal link in an external link",
+	"[[東京養樂多燕子]]"
+],[
+	"寬胸癩頸龜屬",
+	6,
+	284,
+	"internal link in an external link",
+	"[[Testudines]]"
+],[
+	"对法轮功的镇压",
+	112,
+	1042,
+	"internal link in an external link",
+	"[[美聯社]]"
+],[
+	"对立式平衡",
+	48,
+	88,
+	"internal link in an external link",
+	"[[大英百科全書第十一版|1911 Encyclopædia Britannica]]"
+],[
+	"对立教宗何诺二世",
+	5,
+	284,
+	"internal link in an external link",
+	"[[天主教百科全书]]"
+],[
+	"对胡锦涛的争议",
+	15,
+	919,
+	"internal link in an external link",
+	"[[新聞自由]]"
+],[
+	"小巴伊斯河",
+	27,
+	80,
+	"internal link in an external link",
+	"[[Sandre]]"
+],[
+	"小野寺五典",
+	59,
+	272,
+	"internal link in an external link",
+	"[[河北新報]]"
+],[
+	"尘暴痕迹",
+	8,
+	137,
+	"internal link in an external link",
+	"[[Mars Exploration Rover]]"
+],[
+	"尼克·宏比",
+	83,
+	96,
+	"internal link in an external link",
+	"[[:en:The Sound of Young America|The Sound of Young America]]"
+],[
+	"尼古拉·伊万诺维奇·基巴利契奇",
+	82,
+	86,
+	"internal link in an external link",
+	"[[Nikolai Rynin]]"
+],[
+	"尼布楚條約",
+	68,
+	1130,
+	"internal link in an external link",
+	"[[大清國籍條例]]"
+],[
+	"山崎遙",
+	657,
+	58,
+	"internal link in an external link",
+	"[[Instagram]]"
+],[
+	"峯岸南",
+	117,
+	117,
+	"internal link in an external link",
+	"[[森田一義時間 笑一笑又何妨！]]"
+],[
+	"巨暹羅鯉",
+	31,
+	95,
+	"internal link in an external link",
+	"[[國家地理 (雜誌)|國家地理]]"
+],[
+	"巨輪",
+	39,
+	428,
+	"internal link in an external link",
+	"[[陳展鵬]]"
+],[
+	"巴伊斯河",
+	27,
+	81,
+	"internal link in an external link",
+	"[[Sandre]]"
+],[
+	"巴塞尔大学儿童医院",
+	52,
+	50,
+	"internal link in an external link",
+	"[[Zurich]]"
+],[
+	"巴士迷懷疑偷駕巴士短片事件",
+	46,
+	183,
+	"internal link in an external link",
+	"[[香港討論區]]"
+],[
+	"巴天族",
+	23,
+	410,
+	"internal link in an external link",
+	"[[民族語]]"
+],[
+	"巴恩斯利足球俱乐部",
+	224,
+	56,
+	"internal link in an external link",
+	"[[加時]]"
+],[
+	"巴西南美货运航空",
+	33,
+	62,
+	"internal link in an external link",
+	"[[YouTube]]"
+],[
+	"巴黎–鲁昂赛",
+	190,
+	227,
+	"internal link in an external link",
+	"[[Émile Mayade]]"
+],[
+	"布赖恩·沃德-珀金斯",
+	10,
+	108,
+	"internal link in an external link",
+	"[[Peter Heather]]"
+],[
+	"布鲁西洛夫攻势",
+	100,
+	43,
+	"internal link in an external link",
+	"[[4 June]]"
+],[
+	"希夏邦马峰",
+	38,
+	1648,
+	"internal link in an external link",
+	"[[郭超人]]"
+],[
+	"希腊定居点",
+	8,
+	365,
+	"internal link in an external link",
+	"[[Haaretz]]"
+],[
+	"希蒙·佩雷斯",
+	65,
+	626,
+	"internal link in an external link",
+	"[[New York Times]]"
+],[
+	"帥到分手",
+	69,
+	74,
+	"internal link in an external link",
+	"[[KKBOX]]"
+],[
+	"平罗德",
+	39,
+	65,
+	"internal link in an external link",
+	"[[槓龜]]"
+],[
+	"幸福一家人",
+	274,
+	393,
+	"internal link in an external link",
+	"[[赵丽颖]]"
+],[
+	"广告狂人",
+	124,
+	294,
+	"internal link in an external link",
+	"[[Twitter]]"
+],[
+	"库仑-萨尔顿盆地",
+	20,
+	77,
+	"internal link in an external link",
+	"[[月球轨道器5号]]"
+],[
+	"康寧祥",
+	140,
+	265,
+	"internal link in an external link",
+	"[[費希平]]"
+],[
+	"康拉德·格斯纳",
+	50,
+	129,
+	"internal link in an external link",
+	"[[Charles Hamilton Smith]]"
+],[
+	"廖柏雅",
+	352,
+	85,
+	"internal link in an external link",
+	"[[YouTube]]"
+],[
+	"廣大興28號事件",
+	509,
+	113,
+	"internal link in an external link",
+	"[[衛報]]"
+],[
+	"龐安竹",
+	41,
+	88,
+	"internal link in an external link",
+	"[[BBC]]"
+],[
+	"建威军节度使",
+	42,
+	187,
+	"internal link in an external link",
+	"[[欧阳修]]"
+],[
+	"开柳铁路",
+	52,
+	110,
+	"internal link in an external link",
+	"[[开封日报]]"
+],[
+	"开膛街",
+	60,
+	70,
+	"internal link in an external link",
+	"[[BBC]]"
+],[
+	"弗兰克·波西·史密斯",
+	14,
+	3020,
+	"internal link in an external link",
+	"[[Ancestry.com]]"
+],[
+	"弗兰克·肖特",
+	2,
+	676,
+	"internal link in an external link",
+	"[[Phil Hersh]]"
+],[
+	"弗拉基米尔·盖尔芬德",
+	37,
+	148,
+	"internal link in an external link",
+	"[[德国电视一台]]"
+],[
+	"弗朗切斯科·达迪尼",
+	31,
+	185,
+	"internal link in an external link",
+	"[[Michael Chatfield]]"
+],[
+	"张先",
+	17,
+	118,
+	"internal link in an external link",
+	"[[四庫全書]]"
+],[
+	"张维迎",
+	115,
+	113,
+	"internal link in an external link",
+	"[[邹恒甫]]"
+],[
+	"张铭山",
+	42,
+	142,
+	"internal link in an external link",
+	"[[博讯]]"
+],[
+	"張偉康 (籃球運動員)",
+	43,
+	87,
+	"internal link in an external link",
+	"[[周柏豪]]"
+],[
+	"張復建",
+	36,
+	547,
+	"internal link in an external link",
+	"[[寇紹恩]]"
+],[
+	"張津 (明朝)",
+	30,
+	1069,
+	"internal link in an external link",
+	"[[廣東通志]]"
+],[
+	"彩みちる",
+	86,
+	93,
+	"internal link in an external link",
+	"[[唐璜]]"
+],[
+	"彭实戈",
+	58,
+	1671,
+	"internal link in an external link",
+	"[[山东大学]]"
+],[
+	"彭愛佳",
+	25,
+	231,
+	"internal link in an external link",
+	"[[林益世]]"
+],[
+	"彭明敏",
+	186,
+	108,
+	"internal link in an external link",
+	"[[宗像隆幸]]"
+],[
+	"彼得里夫卡 (文尼察區)",
+	7,
+	121,
+	"internal link in an external link",
+	"[[Роговий Олександр Іванович|О.І. Роговий]]"
+],[
+	"徕卡相机",
+	403,
+	93,
+	"internal link in an external link",
+	"[[萧伯纳]]"
+],[
+	"復興航空222號班機空難",
+	42,
+	154,
+	"internal link in an external link",
+	"[[蘋果日報]]"
+],[
+	"德国电影",
+	36,
+	158,
+	"internal link in an external link",
+	"[[Goethe-Institut]]"
+],[
+	"德國釀酒公司列表",
+	80,
+	293,
+	"internal link in an external link",
+	"[[Statista]]"
+],[
+	"德重、名古屋藝大站",
+	39,
+	341,
+	"internal link in an external link",
+	"[[名鉄バス]]"
+],[
+	"心理学",
+	51,
+	1148,
+	"internal link in an external link",
+	"[[纽约时报|New York Times]]"
+],[
+	"忍者龜：破影而出",
+	144,
+	1024,
+	"internal link in an external link",
+	"[[重啟]]"
+],[
+	"意大利内战",
+	30,
+	500,
+	"internal link in an external link",
+	"[[國民警衛隊]]"
+],[
+	"愛彼",
+	121,
+	47,
+	"internal link in an external link",
+	"[[Youtube]]"
+],[
+	"愛情是什麼",
+	34,
+	410,
+	"internal link in an external link",
+	"[[蘋果日報 (香港)|蘋果日報]]"
+],[
+	"愛雲·芬芝",
+	25,
+	617,
+	"internal link in an external link",
+	"[[Luigi Cozzi]]"
+],[
+	"我爱露茜",
+	420,
+	158,
+	"internal link in an external link",
+	"[[Google doodle]]"
+],[
+	"战地2100",
+	28,
+	74,
+	"internal link in an external link",
+	"[[GPL]]"
+],[
+	"戴维·伍顿",
+	26,
+	77,
+	"internal link in an external link",
+	"[[London Review of Books]]"
+],[
+	"戴维斯海峡",
+	24,
+	84,
+	"internal link in an external link",
+	"[[MODIS]]"
+],[
+	"所羅門·萊夫謝茨",
+	59,
+	152,
+	"internal link in an external link",
+	"[[Gian-Carlo Rota]]"
+],[
+	"打馬",
+	10,
+	811,
+	"internal link in an external link",
+	"[[陶珽]]"
+],[
+	"托希尔山",
+	5,
+	308,
+	"internal link in an external link",
+	"[[NASA]]"
+],[
+	"托雷河",
+	28,
+	80,
+	"internal link in an external link",
+	"[[Sandre]]"
+],[
+	"托馬斯·祖布臣",
+	31,
+	75,
+	"internal link in an external link",
+	"[[NASA]]"
+],[
+	"托馬斯·肯尼利",
+	107,
+	161,
+	"internal link in an external link",
+	"[[30 July]]"
+],[
+	"拉斯坎帕纳斯天文台",
+	62,
+	39,
+	"internal link in an external link",
+	"[[卡内基科学研究所]]"
+],[
+	"揆园史话",
+	11,
+	139,
+	"internal link in an external link",
+	"[[反中国]]"
+],[
+	"揚·帕拉赫",
+	20,
+	108,
+	"internal link in an external link",
+	"[[Radio Prague]]"
+],[
+	"摩托车帮会",
+	42,
+	937,
+	"internal link in an external link",
+	"[[美國司法部]]"
+],[
+	"撒哈拉沙漠",
+	109,
+	143,
+	"internal link in an external link",
+	"[[hydrology]]"
+],[
+	"撒哈拉沙漠馬拉松",
+	29,
+	155,
+	"internal link in an external link",
+	"[[Les Guthman]]"
+],[
+	"收益率曲线",
+	18,
+	380,
+	"internal link in an external link",
+	"[[紐約聯邦儲備銀行]]"
+],[
+	"啟朗苑",
+	12,
+	234,
+	"internal link in an external link",
+	"[[香港房屋委員會]]"
+],[
+	"数学分析",
+	104,
+	67,
+	"internal link in an external link",
+	"[[國立臺灣大學|台大]]"
+],[
+	"整型提升",
+	1,
+	273,
+	"internal link in an external link",
+	"[[MSDN]]"
+],[
+	"文化宮 (特拉維夫)",
+	5,
+	512,
+	"internal link in an external link",
+	"[[Haaretz]]"
+],[
+	"文錦棠",
+	25,
+	116,
+	"internal link in an external link",
+	"[[大公網]]"
+],[
+	"斯图亚特·L·施莱伯",
+	89,
+	103,
+	"internal link in an external link",
+	"[[霍华德·休斯医学研究所]]"
+],[
+	"斯帕尔多库斯王朝",
+	21,
+	200,
+	"internal link in an external link",
+	"[[Фридман А.С]]"
+],[
+	"斯德哥爾摩球形都市",
+	27,
+	43,
+	"internal link in an external link",
+	"[[瑞典語]]"
+],[
+	"斯旺西城足球俱乐部",
+	328,
+	56,
+	"internal link in an external link",
+	"[[加時]]"
+],[
+	"斯賓塞·富勒頓·貝爾德",
+	106,
+	95,
+	"internal link in an external link",
+	"[[美國國家科學院]]"
+],[
+	"斯里兰卡内战",
+	33,
+	403,
+	"internal link in an external link",
+	"[[Tamilnet]]"
+],[
+	"新大嶼山巴士",
+	91,
+	701,
+	"internal link in an external link",
+	"[[蘋果日報 (香港)|蘋果日報]]"
+],[
+	"新天地餐飲集團",
+	9,
+	143,
+	"internal link in an external link",
+	"[[蘋果日報]]"
+],[
+	"新秀麗",
+	31,
+	184,
+	"internal link in an external link",
+	"[[路透社]]"
+],[
+	"新西兰玉",
+	65,
+	127,
+	"internal link in an external link",
+	"[[Museum of New Zealand Te Papa Tongarewa]]"
+],[
+	"新鴛鴦蝴蝶夢",
+	19,
+	457,
+	"internal link in an external link",
+	"[[費玉清]]"
+],[
+	"方宗鳌",
+	57,
+	837,
+	"internal link in an external link",
+	"[[九一八事变]]"
+],[
+	"无法触碰 (法国电影)",
+	91,
+	85,
+	"internal link in an external link",
+	"[[AlloCiné]]"
+],[
+	"日本國王",
+	63,
+	107,
+	"internal link in an external link",
+	"[[韓國]]"
+],[
+	"日本箏",
+	27,
+	171,
+	"internal link in an external link",
+	"[[July 30]]"
+],[
+	"日本駐瀋陽總領事館闖館事件",
+	17,
+	243,
+	"internal link in an external link",
+	"[[腾讯|腾讯新闻]]"
+],[
+	"日正当中 (电影)",
+	72,
+	104,
+	"internal link in an external link",
+	"[[Ann Hornaday]]"
+],[
+	"明施慎選",
+	37,
+	87,
+	"internal link in an external link",
+	"[[香港寬頻bbTV]]"
+],[
+	"星光少女 極光之夢",
+	133,
+	648,
+	"internal link in an external link",
+	"[[星光少女 極光之夢]]"
+],[
+	"星光少女 群星閃耀 星光☆十強 角色列表",
+	285,
+	100,
+	"internal link in an external link",
+	"[[星光樂園]]"
+],[
+	"星簇2号",
+	190,
+	54,
+	"internal link in an external link",
+	"[[太阳神号]]"
+],[
+	"星际弹球之无极挑战",
+	266,
+	54,
+	"internal link in an external link",
+	"[[MobyGames]]"
+],[
+	"春之波濤",
+	123,
+	138,
+	"internal link in an external link",
+	"[[地方裁判所 (日本)|地裁]]"
+],[
+	"春聯",
+	8,
+	370,
+	"internal link in an external link",
+	"[[台灣大百科全書]]"
+],[
+	"春野杏",
+	170,
+	42,
+	"internal link in an external link",
+	"[[Twitter]]"
+],[
+	"晋察冀野战军",
+	6,
+	165,
+	"internal link in an external link",
+	"[[聂荣臻|聂]]"
+],[
+	"普斯托維季 (米羅諾夫卡區)",
+	6,
+	185,
+	"internal link in an external link",
+	"[[Голодомор в Україні 1932—1933]]"
+],[
+	"普里瓦特银行",
+	32,
+	458,
+	"internal link in an external link",
+	"[[烏克蘭獨立新聞社]]"
+],[
+	"智利南美航空",
+	221,
+	62,
+	"internal link in an external link",
+	"[[YouTube]]"
+],[
+	"智利南美货运航空",
+	32,
+	62,
+	"internal link in an external link",
+	"[[YouTube]]"
+],[
+	"書那娜",
+	54,
+	107,
+	"internal link in an external link",
+	"[[戒菸就贏]]"
+],[
+	"曼尕賴",
+	9,
+	169,
+	"internal link in an external link",
+	"[[Tarikh-i-Rashidi]]"
+],[
+	"月球轨道器4号",
+	74,
+	62,
+	"internal link in an external link",
+	"[[月球与行星研究所]]"
+],[
+	"月面步行者",
+	125,
+	178,
+	"internal link in an external link",
+	"[[Simferopol]]"
+],[
+	"有效日期",
+	16,
+	47,
+	"internal link in an external link",
+	"[[保存期限|保存期]]"
+],[
+	"有教無類法案",
+	92,
+	99,
+	"internal link in an external link",
+	"[[21 October]]"
+],[
+	"有線Sports Plus",
+	208,
+	262,
+	"internal link in an external link",
+	"[[有線寬頻通訊有限公司|有線寬頻]]"
+],[
+	"有線寬頻爭議",
+	87,
+	395,
+	"internal link in an external link",
+	"[[蘋果日報]]"
+],[
+	"服務科學",
+	58,
+	33,
+	"internal link in an external link",
+	"[[清華大學]]"
+],[
+	"朗伊爾城",
+	37,
+	163,
+	"internal link in an external link",
+	"[[中國網]]"
+],[
+	"朝鲜民主主义人民共和国旅游",
+	92,
+	86,
+	"internal link in an external link",
+	"[[朝鲜纪录电影制片厂]]"
+],[
+	"本尼·布兰科",
+	35,
+	44,
+	"internal link in an external link",
+	"[[Myspace]]"
+],[
+	"本杰明·斯波克",
+	25,
+	179,
+	"internal link in an external link",
+	"[[RealAudio]]"
+],[
+	"朱佛定",
+	144,
+	214,
+	"internal link in an external link",
+	"[[王肇嘉]]"
+],[
+	"朱利亞諾·德·麥地奇 (內穆爾公爵)",
+	33,
+	100,
+	"internal link in an external link",
+	"[[大都会艺术博物馆]]"
+],[
+	"朱利奥·拉卡",
+	35,
+	94,
+	"internal link in an external link",
+	"[[Racah (crater)|Racah Crater]]"
+],[
+	"朱塞佩·阿米薩尼",
+	111,
+	160,
+	"internal link in an external link",
+	"[[菲諾港]]"
+],[
+	"朱相昱",
+	553,
+	152,
+	"internal link in an external link",
+	"[[NAVER]]"
+],[
+	"朱端",
+	21,
+	105,
+	"internal link in an external link",
+	"[[盛懋]]"
+],[
+	"杀害尊亲属罪法定刑违宪事件",
+	3,
+	445,
+	"internal link in an external link",
+	"[[昭和]]"
+],[
+	"李云迪",
+	215,
+	60,
+	"internal link in an external link",
+	"[[德意志留聲機]]"
+],[
+	"李可染",
+	26,
+	229,
+	"internal link in an external link",
+	"[[张氏帅府博物馆]]"
+],[
+	"李新 (历史学家)",
+	29,
+	868,
+	"internal link in an external link",
+	"[[瞿秋白]]"
+],[
+	"李素 (永樂進士)",
+	9,
+	61,
+	"internal link in an external link",
+	"[[廣東通志]]"
+],[
+	"李翰 (設計師)",
+	80,
+	31,
+	"internal link in an external link",
+	"[[舉牌小人]]"
+],[
+	"杜倫",
+	198,
+	84,
+	"internal link in an external link",
+	"[[BBC]]"
+],[
+	"杜葉錫恩",
+	115,
+	156,
+	"internal link in an external link",
+	"[[Hong Kong Baptist University Library]]"
+],[
+	"杨明 (艺术家)",
+	17,
+	75,
+	"internal link in an external link",
+	"[[于坚]]"
+],[
+	"杨海寿",
+	170,
+	51,
+	"internal link in an external link",
+	"[[北京大学]]"
+],[
+	"杯渡路",
+	32,
+	116,
+	"internal link in an external link",
+	"[[成報]]"
+],[
+	"杰克逊环形山",
+	52,
+	58,
+	"internal link in an external link",
+	"[[月亮女神 (航天器)|辉夜号]]"
+],[
+	"杰夫·邓纳姆",
+	33,
+	834,
+	"internal link in an external link",
+	"[[Comedy Central]]"
+],[
+	"杰西·阿姆斯特朗",
+	19,
+	60,
+	"internal link in an external link",
+	"[[Twitter]]"
+],[
+	"林司聰",
+	30,
+	179,
+	"internal link in an external link",
+	"[[有限公司]]"
+],[
+	"林天星",
+	35,
+	160,
+	"internal link in an external link",
+	"[[鏗鏘集]]"
+],[
+	"林家聲",
+	110,
+	134,
+	"internal link in an external link",
+	"[[第1屆金馬獎]]"
+],[
+	"林建明",
+	45,
+	180,
+	"internal link in an external link",
+	"[[熟女在野]]"
+],[
+	"柏林學派 (電影)",
+	1,
+	243,
+	"internal link in an external link",
+	"[[Cineaste (magazine)|Cineaste]]"
+],[
+	"柬埔寨—泰國關係",
+	14,
+	486,
+	"internal link in an external link",
+	"[[United States Army Center of Military History]]"
+],[
+	"柬埔寨外交",
+	11,
+	377,
+	"internal link in an external link",
+	"[[United States Army Center of Military History]]"
+],[
+	"柯清輝",
+	45,
+	2515,
+	"internal link in an external link",
+	"[[電視廣播有限公司]]"
+],[
+	"核四公投運動",
+	75,
+	614,
+	"internal link in an external link",
+	"[[林世嘉]]"
+],[
+	"核嬗变",
+	50,
+	1238,
+	"internal link in an external link",
+	"[[Argonne National Laboratory]]"
+],[
+	"格斯·霍尔",
+	51,
+	411,
+	"internal link in an external link",
+	"[[American National Biography]]"
+],[
+	"格里·亚当斯",
+	68,
+	51,
+	"internal link in an external link",
+	"[[衛報]]"
+],[
+	"梁可耀",
+	419,
+	54,
+	"internal link in an external link",
+	"[[伯樂音樂學院]]"
+],[
+	"梁家麟",
+	68,
+	116,
+	"internal link in an external link",
+	"[[吳耀宗]]"
+],[
+	"梁振英",
+	203,
+	251,
+	"internal link in an external link",
+	"[[李嘉誠]]"
+],[
+	"梁振英政府相關爭議",
+	32,
+	251,
+	"internal link in an external link",
+	"[[李嘉誠]]"
+],[
+	"梅尔·哈格德",
+	14,
+	147,
+	"internal link in an external link",
+	"[[Ben Sorensen's REAL Country]]"
+],[
+	"梵蒂冈先进技术望远镜",
+	75,
+	93,
+	"internal link in an external link",
+	"[[斯图尔德天文台]]"
+],[
+	"楊金海 (1932年)",
+	27,
+	125,
+	"internal link in an external link",
+	"[[鄭南榕]]"
+],[
+	"極限拼圖",
+	25,
+	510,
+	"internal link in an external link",
+	"[[夢想拼圖]]"
+],[
+	"模擬城市 (1989年遊戲)",
+	55,
+	41,
+	"internal link in an external link",
+	"[[OLPC]]"
+],[
+	"樱花的花瓣们2008",
+	45,
+	266,
+	"internal link in an external link",
+	"[[互联网档案馆]]"
+],[
+	"橄欖油",
+	201,
+	276,
+	"internal link in an external link",
+	"[[布洛芬]]"
+],[
+	"橫光利一",
+	593,
+	78,
+	"internal link in an external link",
+	"[[青空文库]]"
+],[
+	"欧弗洛尼奥斯",
+	23,
+	150,
+	"internal link in an external link",
+	"[[Louvre]]"
+],[
+	"欧洲E763公路",
+	45,
+	155,
+	"internal link in an external link",
+	"[[OpenStreetMap]]"
+],[
+	"歌劇作曲家列表",
+	112,
+	120,
+	"internal link in an external link",
+	"[[S/Z#Bibliography|Katherine Kolb]]"
+],[
+	"歐陽日華",
+	15,
+	69,
+	"internal link in an external link",
+	"[[Kisum]]"
+],[
+	"歷史月刊",
+	43,
+	226,
+	"internal link in an external link",
+	"[[國家圖書館 (中華民國)|國家圖書館]]"
+],[
+	"比亚迪秦",
+	367,
+	128,
+	"internal link in an external link",
+	"[[Beijing International Automotive Exhibition]]"
+],],"batches":5}

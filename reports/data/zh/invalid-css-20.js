@@ -1,1 +1,1201 @@
-window.data={"articles":[["中國民主社會黨",151,29,"property value expected","#"],["中國電視公司",314,51,"term expected",""],["中國青年救國團",57,52,"term expected",""],["中國青年黨",246,29,"property value expected","#"],["中堃窯業女子排球隊",10,110,"semi-colon expected",""],["中央人民政府委员会委员",35,46,"semi-colon expected",""],["中央廣播電臺",182,52,"term expected",""],["中央研究院化學研究所",9,51,"term expected",""],["中央研究院原子與分子科學研究所",8,52,"term expected",""],["中央研究院地球科學研究所",34,52,"term expected",""],["中央研究院天文及天文物理研究所",36,52,"term expected",""],["中央研究院数学研究所",51,51,"term expected",""],["中央研究院物理研究所",45,52,"term expected",""],["中央研究院臺灣史研究所",20,52,"term expected",""],["中央研究院近代史研究所",48,52,"term expected",""],["中島美雪",188,53,"semi-colon expected",":"],["中州航空",67,21,"property value expected","#green"],["中澤裕子",46,48,"property value expected","#white"],["中租企業羽球隊",72,101,"property value expected",":"],["中美洲及加勒比海运动会足球比赛",105,101,"semi-colon expected",""],["中興巴士",51,52,"term expected",""],["中華台北女子排球代表隊",308,111,"semi-colon expected",""],["中華台北女子足球代表隊",2185,18,"property value expected","%"],["中華台北男子排球代表隊",295,111,"semi-colon expected",""],["中華台北男子足球代表隊",1114,18,"property value expected","%"],["中華台北羽球代表隊",13,111,"semi-colon expected",""],["中華天主教大專同學會",56,48,"semi-colon expected",""],["中華奧林匹克委員會",82,52,"term expected",""],["中華文化總會",76,52,"term expected",""],["中華民國中央選舉委員會",74,52,"term expected",""],["中華民國中央銀行",130,51,"term expected",""],["中華民國僑務委員會",131,51,"term expected",""],["中華民國內政部部長",15,22,"property value expected",""],["中華民國原住民族委員會",129,52,"term expected",""],["中華民國國家科學及技術委員會",139,51,"term expected",""],["中華民國國家通訊傳播委員會",53,51,"term expected",""],["中華民國國軍退除役官兵輔導委員會",62,52,"term expected",""],["中華民國國道",200,23,"semi-colon expected",""],["中華民國國防部",236,27,"property value expected",""],["中華民國客家委員會",117,52,"term expected",""],["中華民國射箭協會",29,51,"term expected",""],["中華民國排球協會",31,51,"term expected",""],["中華民國文化部",118,52,"term expected",""],["中華民國棒球協會",69,52,"term expected",""],["中華民國民事訴訟",307,51,"property value expected",""],["中華民國法務部",154,23,"property value expected",""],["中華民國海洋委員會",50,51,"term expected",""],["中華民國環境部",94,52,"term expected",""],["中華民國發展史",61,53,"property value expected",";"],["中華民國矯正機關列表",399,52,"term expected",""],["中華民國空軍軍備",17,46,"colon expected",";"],["中華民國紅十字會",58,52,"term expected",""],["中華民國網球協會",30,52,"term expected",""],["中華民國總統府發言人",28,52,"term expected",""],["中華民國羽球協會",43,52,"term expected",""],["中華民國考選部",47,52,"term expected",""],["中華民國行政區劃",423,40,"colon expected","="],["中華民國足球協會",59,52,"term expected",""],["中華民國金融監督管理委員會",79,51,"term expected",""],["中華民國電影事業發展基金會",51,51,"term expected",""],["中華民國體育運動總會",395,51,"term expected",""],["中華職棒會長",8,51,"term expected",""],["中華郵政",167,51,"term expected",""],["中華電信",314,51,"term expected",""],["中華顧問工程司",40,52,"term expected",""],["中西區足球隊",90,63,"colon expected","="],["临汾尧都机场",70,76,"semi-colon expected",":"],["丹·克伦肖",48,41,"} expected",";"],["丹佛",321,57,"colon expected","="],["丹尼尔·科维亚特",523,21,"property value expected",""],["乌克兰国际航空752号班机空难",77,22,"property value expected","#red"],["乌克兰总理",233,35,"semi-colon expected",":"],["乌克兰签证政策",232,29,"} expected","\""],["乌尔善",59,100,"property value expected","%"],["尹仲敏",26,45,"property value expected",";"],["尹揚明",116,74,"semi-colon expected",""],["尹斗俊",115,35,"colon expected","85%"],["尹產賀",108,24,"semi-colon expected",""],["尹鍾信",285,22,"colon expected",";"],["尹食堂2",99,37,"property value expected","#BLACK"],["乐在旅途",93,57,"semi-colon expected",""],["乐在旅途 (第二季)",137,57,"semi-colon expected",""],["乔丹车队",1151,22,"property value expected","#"],["乔恩·莱斯特",101,22,"property value expected",""],["乘Bus的Busking",36,11,"} expected",";"],["乘法算法",249,134,"property value expected","#7070090"],["九龍城足球會",123,63,"colon expected","="],["也门国家元首列表",9,29,"property value expected",""],["也门总理",35,29,"property value expected",""],["乱彈阿翔",377,37,"semi-colon expected",""],["乾脆",141,44,"property value expected","#white"],["亂彈 (樂團)",37,18,"property value expected","#aaaaa"],["二十五，二十一",1105,37,"property value expected","#black"],["二年級之夢",5,38,"colon expected",";"],["二重唱歌謠祭",88,37,"semi-colon expected",""],["于孝恩",196,36,"colon expected",";"],["五個孩子",671,37,"property value expected","#black"],["五和站",73,19,"semi-colon expected",""],["五少女",137,34,"property value expected",""],["五月的青春",460,37,"property value expected","#black"],["五胡十六国君主列表",33,25,"semi-colon expected",":"],["五行山墙",15,42,"} expected","|"],["井朧",61,73,"semi-colon expected",""],["亚娜·季哈",120,32,"colon expected",";"],["亚洲同性结合状态",309,45,"semi-colon expected","%"],["亚美尼亚儿童慈善基金会",128,69,"semi-colon expected",""],["亚足联亚洲杯",567,22,"property value expected",""],["亞柏羽球隊",78,101,"property value expected",":"],["亞歷山大·茲韋列夫",299,25,"property value expected","#"],["亞洲區域方程式錦標賽",326,48,"semi-colon expected",""],["亞洲大學現代美術館",40,52,"term expected",""],["亞洲電視大獎得獎列表",9,16,"semi-colon expected",""],["交换的日子",86,37,"property value expected","#black"],["交换的日子2",87,37,"property value expected","#black"],["交通部中央氣象署",87,51,"term expected",""],["交通部公路局",162,52,"term expected",""],["交通部民用航空局",64,52,"term expected",""],["交通部航港局",57,51,"term expected",""],["交通部觀光署",121,51,"term expected",""],["交通部運輸研究所",50,52,"term expected",""],["交通部鐵路改建工程局",120,52,"term expected",""],["交通部鐵道局",176,51,"term expected",""],["交通部高速公路局",61,52,"term expected",""],["交通部高速鐵路工程局",73,52,"term expected",""],["亨利·夏默",2,39,"semi-colon expected",":"],["享樂團",20,18,"property value expected","#aaaaa"],["京达米士特足球俱乐部",44,81,"colon expected","="],["京那巴鲁捷豹足球俱乐部",20,24,"} expected",";"],["人啊人",118,39,"property value expected","#"],["人民医院站 (天津市)",84,10,"} expected",";"],["人類群星閃耀時 (歌曲)",102,39,"property value expected","#"],["仁寿县",56,22,"semi-colon expected",""],["仁王 (游戏)",39,58,"semi-colon expected",""],["仁王2",31,58,"semi-colon expected",""],["今天吃什麼",86,35,"property value expected","#lightblue"],["今天開始的我們～GFRIEND 1st BEST",136,37,"} expected","700px"],["介音",11,103,"colon expected","="],["他加祿語",78,48,"semi-colon expected",":"],["他就是那傢伙",422,37,"property value expected","#black"],["仙劍奇俠傳 (電視劇)",61,40,"semi-colon expected",":"],["仙台北部道路",35,28,"semi-colon expected",""],["仙客來屬",106,36,"semi-colon expected",""],["仙履奇緣 (2015年電影)",180,46,"colon expected","="],["仡央语群",88,42,"semi-colon expected",":"],["令人垂涎的遊輪",78,37,"property value expected","#black"],["以地點命名的化學元素列表",7,41,"property value expected","*"],["以科學家命名的國際單位列表",7,80,"property value expected",";"],["仰光国际机场",106,60,"colon expected","="],["任天堂3DS",460,38,"term expected",""],["任天堂明星大亂鬥 (遊戲)",52,18,"property value expected","#10dded6"],["任天堂明星大亂鬥DX",47,18,"property value expected","#10dded6"],["任天堂明星大亂鬥X",34,18,"property value expected","#10dded6"],["任家萱",191,49,"property value expected","%"],["任家萱音樂作品列表",19,10,"} expected","200px"],["任暟晴",246,38,"property value expected","#black"],["任賢齊",246,40,"semi-colon expected",""],["任達華",115,16,"semi-colon expected",""],["伊万·休特菲尔德级巡防舰",142,35,"colon expected",";"],["伊奧利亞",12,102,"semi-colon expected",""],["伊奧維2013年至2014年球季",93,81,"colon expected","="],["伊州区",72,65,"semi-colon expected",""],["伊斯兰的堡垒，亚洲的心脏",22,26,"semi-colon expected",":"],["伊斯蘭脫維善紀念中學",119,85,"property value expected","#"],["伊普斯威奇足球俱乐部",90,81,"colon expected","="],["伊東歌詞太郎",7,31,"} expected",";"],["伊琳娜·西多尔科娃",211,22,"property value expected","#"],["伊茲密爾阿德南·曼德列斯機場",85,85,"semi-colon expected",""],["伊莱·克兰",48,45,"} expected","\""],["伊辛",8,29,"property value expected","#"],["伊通满族自治县",155,37,"property value expected",";"],["伍禮騫",51,33,"property value expected","#none"],["伏林航空",37,35,"} expected",""],["伦敦地铁",153,71,"semi-colon expected",""],["伯恩利足球俱乐部",96,81,"colon expected","="],["伯恩茅斯足球俱乐部",133,81,"colon expected","="],["伯明翰城2011年至2012年球季",92,82,"property value expected","#white"],["伯明翰城2012年至2013年球季",84,82,"property value expected","#white"],["伯明翰城2013年至2014年球季",69,82,"property value expected","#white"],["伯明翰城2014年至2015年球季",88,82,"property value expected","#white"],["伯明翰足球會",73,82,"property value expected","#white"],["伯顿阿尔比恩足球俱乐部",74,81,"colon expected","="],["住在我家的男人",385,37,"property value expected","#black"],["佐伊的超凡歌单",559,14,"semi-colon expected",""],["佐匹克隆",118,103,"semi-colon expected",""],["佐渡汽船",67,84,"semi-colon expected","#"],["佐竹氏",132,46,"semi-colon expected",":"],["佐藤万璃音",247,21,"property value expected","#"],["何可欣",200,102,"semi-colon expected",""],["何基佑",101,39,"property value expected",""],["何孟遠",74,61,"semi-colon expected",""],["何啟南",296,36,"property value expected","#none"],["何晉樂 (1996年)",232,51,"term expected",""],["何珮瑜",42,165,"property value expected","%"],["何英偉",173,21,"property value expected","#none"],["余迪偉",91,22,"property value expected",";"],["佛喬航線",234,30,"colon expected","12em"],["佛罗伦萨足球俱乐部",86,80,"colon expected","="],["你喜歡布拉姆斯嗎？",513,37,"property value expected","#black"],["你太過分了",539,37,"property value expected","#black"],["你好！小姐",59,20,"semi-colon expected",""]],"batches":38}
+window.data={"articles":[[
+	"中國民主社會黨",
+	151,
+	29,
+	"property value expected",
+	"#"
+],[
+	"中國電視公司",
+	314,
+	51,
+	"term expected",
+	""
+],[
+	"中國青年救國團",
+	57,
+	52,
+	"term expected",
+	""
+],[
+	"中國青年黨",
+	246,
+	29,
+	"property value expected",
+	"#"
+],[
+	"中堃窯業女子排球隊",
+	10,
+	110,
+	"semi-colon expected",
+	""
+],[
+	"中央人民政府委员会委员",
+	35,
+	46,
+	"semi-colon expected",
+	""
+],[
+	"中央廣播電臺",
+	182,
+	52,
+	"term expected",
+	""
+],[
+	"中央研究院化學研究所",
+	9,
+	51,
+	"term expected",
+	""
+],[
+	"中央研究院原子與分子科學研究所",
+	8,
+	52,
+	"term expected",
+	""
+],[
+	"中央研究院地球科學研究所",
+	34,
+	52,
+	"term expected",
+	""
+],[
+	"中央研究院天文及天文物理研究所",
+	36,
+	52,
+	"term expected",
+	""
+],[
+	"中央研究院数学研究所",
+	51,
+	51,
+	"term expected",
+	""
+],[
+	"中央研究院物理研究所",
+	45,
+	52,
+	"term expected",
+	""
+],[
+	"中央研究院臺灣史研究所",
+	20,
+	52,
+	"term expected",
+	""
+],[
+	"中央研究院近代史研究所",
+	48,
+	52,
+	"term expected",
+	""
+],[
+	"中島美雪",
+	188,
+	53,
+	"semi-colon expected",
+	":"
+],[
+	"中州航空",
+	67,
+	21,
+	"property value expected",
+	"#green"
+],[
+	"中澤裕子",
+	46,
+	48,
+	"property value expected",
+	"#white"
+],[
+	"中租企業羽球隊",
+	72,
+	101,
+	"property value expected",
+	":"
+],[
+	"中美洲及加勒比海运动会足球比赛",
+	105,
+	101,
+	"semi-colon expected",
+	""
+],[
+	"中興巴士",
+	51,
+	52,
+	"term expected",
+	""
+],[
+	"中華台北女子排球代表隊",
+	308,
+	111,
+	"semi-colon expected",
+	""
+],[
+	"中華台北女子足球代表隊",
+	2185,
+	18,
+	"property value expected",
+	"%"
+],[
+	"中華台北男子排球代表隊",
+	295,
+	111,
+	"semi-colon expected",
+	""
+],[
+	"中華台北男子足球代表隊",
+	1114,
+	18,
+	"property value expected",
+	"%"
+],[
+	"中華台北羽球代表隊",
+	13,
+	111,
+	"semi-colon expected",
+	""
+],[
+	"中華天主教大專同學會",
+	56,
+	48,
+	"semi-colon expected",
+	""
+],[
+	"中華奧林匹克委員會",
+	82,
+	52,
+	"term expected",
+	""
+],[
+	"中華文化總會",
+	76,
+	52,
+	"term expected",
+	""
+],[
+	"中華民國中央選舉委員會",
+	74,
+	52,
+	"term expected",
+	""
+],[
+	"中華民國中央銀行",
+	130,
+	51,
+	"term expected",
+	""
+],[
+	"中華民國僑務委員會",
+	131,
+	51,
+	"term expected",
+	""
+],[
+	"中華民國內政部部長",
+	15,
+	22,
+	"property value expected",
+	""
+],[
+	"中華民國原住民族委員會",
+	129,
+	52,
+	"term expected",
+	""
+],[
+	"中華民國國家科學及技術委員會",
+	139,
+	51,
+	"term expected",
+	""
+],[
+	"中華民國國家通訊傳播委員會",
+	53,
+	51,
+	"term expected",
+	""
+],[
+	"中華民國國軍退除役官兵輔導委員會",
+	62,
+	52,
+	"term expected",
+	""
+],[
+	"中華民國國道",
+	200,
+	23,
+	"semi-colon expected",
+	""
+],[
+	"中華民國國防部",
+	236,
+	27,
+	"property value expected",
+	""
+],[
+	"中華民國客家委員會",
+	117,
+	52,
+	"term expected",
+	""
+],[
+	"中華民國射箭協會",
+	29,
+	51,
+	"term expected",
+	""
+],[
+	"中華民國排球協會",
+	31,
+	51,
+	"term expected",
+	""
+],[
+	"中華民國文化部",
+	118,
+	52,
+	"term expected",
+	""
+],[
+	"中華民國棒球協會",
+	69,
+	52,
+	"term expected",
+	""
+],[
+	"中華民國民事訴訟",
+	307,
+	51,
+	"property value expected",
+	""
+],[
+	"中華民國法務部",
+	154,
+	23,
+	"property value expected",
+	""
+],[
+	"中華民國海洋委員會",
+	50,
+	51,
+	"term expected",
+	""
+],[
+	"中華民國環境部",
+	94,
+	52,
+	"term expected",
+	""
+],[
+	"中華民國發展史",
+	61,
+	53,
+	"property value expected",
+	";"
+],[
+	"中華民國矯正機關列表",
+	399,
+	52,
+	"term expected",
+	""
+],[
+	"中華民國空軍軍備",
+	17,
+	46,
+	"colon expected",
+	";"
+],[
+	"中華民國紅十字會",
+	58,
+	52,
+	"term expected",
+	""
+],[
+	"中華民國網球協會",
+	30,
+	52,
+	"term expected",
+	""
+],[
+	"中華民國總統府發言人",
+	28,
+	52,
+	"term expected",
+	""
+],[
+	"中華民國羽球協會",
+	43,
+	52,
+	"term expected",
+	""
+],[
+	"中華民國考選部",
+	47,
+	52,
+	"term expected",
+	""
+],[
+	"中華民國行政區劃",
+	423,
+	40,
+	"colon expected",
+	"="
+],[
+	"中華民國足球協會",
+	59,
+	52,
+	"term expected",
+	""
+],[
+	"中華民國金融監督管理委員會",
+	79,
+	51,
+	"term expected",
+	""
+],[
+	"中華民國電影事業發展基金會",
+	51,
+	51,
+	"term expected",
+	""
+],[
+	"中華民國體育運動總會",
+	395,
+	51,
+	"term expected",
+	""
+],[
+	"中華職棒會長",
+	8,
+	51,
+	"term expected",
+	""
+],[
+	"中華郵政",
+	167,
+	51,
+	"term expected",
+	""
+],[
+	"中華電信",
+	314,
+	51,
+	"term expected",
+	""
+],[
+	"中華顧問工程司",
+	40,
+	52,
+	"term expected",
+	""
+],[
+	"中西區足球隊",
+	90,
+	63,
+	"colon expected",
+	"="
+],[
+	"临汾尧都机场",
+	70,
+	76,
+	"semi-colon expected",
+	":"
+],[
+	"丹·克伦肖",
+	48,
+	41,
+	"} expected",
+	";"
+],[
+	"丹佛",
+	321,
+	57,
+	"colon expected",
+	"="
+],[
+	"丹尼尔·科维亚特",
+	523,
+	21,
+	"property value expected",
+	""
+],[
+	"乌克兰国际航空752号班机空难",
+	77,
+	22,
+	"property value expected",
+	"#red"
+],[
+	"乌克兰总理",
+	233,
+	35,
+	"semi-colon expected",
+	":"
+],[
+	"乌克兰签证政策",
+	232,
+	29,
+	"} expected",
+	"\""
+],[
+	"乌尔善",
+	59,
+	100,
+	"property value expected",
+	"%"
+],[
+	"尹仲敏",
+	26,
+	45,
+	"property value expected",
+	";"
+],[
+	"尹揚明",
+	116,
+	74,
+	"semi-colon expected",
+	""
+],[
+	"尹斗俊",
+	115,
+	35,
+	"colon expected",
+	"85%"
+],[
+	"尹產賀",
+	108,
+	24,
+	"semi-colon expected",
+	""
+],[
+	"尹鍾信",
+	285,
+	22,
+	"colon expected",
+	";"
+],[
+	"尹食堂2",
+	99,
+	37,
+	"property value expected",
+	"#BLACK"
+],[
+	"乐在旅途",
+	93,
+	57,
+	"semi-colon expected",
+	""
+],[
+	"乐在旅途 (第二季)",
+	137,
+	57,
+	"semi-colon expected",
+	""
+],[
+	"乔丹车队",
+	1151,
+	22,
+	"property value expected",
+	"#"
+],[
+	"乔恩·莱斯特",
+	101,
+	22,
+	"property value expected",
+	""
+],[
+	"乘Bus的Busking",
+	36,
+	11,
+	"} expected",
+	";"
+],[
+	"乘法算法",
+	249,
+	134,
+	"property value expected",
+	"#7070090"
+],[
+	"九龍城足球會",
+	123,
+	63,
+	"colon expected",
+	"="
+],[
+	"也门国家元首列表",
+	9,
+	29,
+	"property value expected",
+	""
+],[
+	"也门总理",
+	35,
+	29,
+	"property value expected",
+	""
+],[
+	"乱彈阿翔",
+	377,
+	37,
+	"semi-colon expected",
+	""
+],[
+	"乾脆",
+	141,
+	44,
+	"property value expected",
+	"#white"
+],[
+	"亂彈 (樂團)",
+	37,
+	18,
+	"property value expected",
+	"#aaaaa"
+],[
+	"二十五，二十一",
+	1105,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"二年級之夢",
+	5,
+	38,
+	"colon expected",
+	";"
+],[
+	"二重唱歌謠祭",
+	88,
+	37,
+	"semi-colon expected",
+	""
+],[
+	"于孝恩",
+	196,
+	36,
+	"colon expected",
+	";"
+],[
+	"五個孩子",
+	671,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"五和站",
+	73,
+	19,
+	"semi-colon expected",
+	""
+],[
+	"五少女",
+	137,
+	34,
+	"property value expected",
+	""
+],[
+	"五月的青春",
+	460,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"五胡十六国君主列表",
+	33,
+	25,
+	"semi-colon expected",
+	":"
+],[
+	"五行山墙",
+	15,
+	42,
+	"} expected",
+	"|"
+],[
+	"井朧",
+	61,
+	73,
+	"semi-colon expected",
+	""
+],[
+	"亚娜·季哈",
+	120,
+	32,
+	"colon expected",
+	";"
+],[
+	"亚洲同性结合状态",
+	309,
+	45,
+	"semi-colon expected",
+	"%"
+],[
+	"亚美尼亚儿童慈善基金会",
+	128,
+	69,
+	"semi-colon expected",
+	""
+],[
+	"亚足联亚洲杯",
+	567,
+	22,
+	"property value expected",
+	""
+],[
+	"亞柏羽球隊",
+	78,
+	101,
+	"property value expected",
+	":"
+],[
+	"亞歷山大·茲韋列夫",
+	299,
+	25,
+	"property value expected",
+	"#"
+],[
+	"亞洲區域方程式錦標賽",
+	326,
+	48,
+	"semi-colon expected",
+	""
+],[
+	"亞洲大學現代美術館",
+	40,
+	52,
+	"term expected",
+	""
+],[
+	"亞洲電視大獎得獎列表",
+	9,
+	16,
+	"semi-colon expected",
+	""
+],[
+	"交换的日子",
+	86,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"交换的日子2",
+	87,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"交通部中央氣象署",
+	87,
+	51,
+	"term expected",
+	""
+],[
+	"交通部公路局",
+	162,
+	52,
+	"term expected",
+	""
+],[
+	"交通部民用航空局",
+	64,
+	52,
+	"term expected",
+	""
+],[
+	"交通部航港局",
+	57,
+	51,
+	"term expected",
+	""
+],[
+	"交通部觀光署",
+	121,
+	51,
+	"term expected",
+	""
+],[
+	"交通部運輸研究所",
+	50,
+	52,
+	"term expected",
+	""
+],[
+	"交通部鐵路改建工程局",
+	120,
+	52,
+	"term expected",
+	""
+],[
+	"交通部鐵道局",
+	176,
+	51,
+	"term expected",
+	""
+],[
+	"交通部高速公路局",
+	61,
+	52,
+	"term expected",
+	""
+],[
+	"交通部高速鐵路工程局",
+	73,
+	52,
+	"term expected",
+	""
+],[
+	"亨利·夏默",
+	2,
+	39,
+	"semi-colon expected",
+	":"
+],[
+	"享樂團",
+	20,
+	18,
+	"property value expected",
+	"#aaaaa"
+],[
+	"京达米士特足球俱乐部",
+	44,
+	81,
+	"colon expected",
+	"="
+],[
+	"京那巴鲁捷豹足球俱乐部",
+	20,
+	24,
+	"} expected",
+	";"
+],[
+	"人啊人",
+	118,
+	39,
+	"property value expected",
+	"#"
+],[
+	"人民医院站 (天津市)",
+	84,
+	10,
+	"} expected",
+	";"
+],[
+	"人類群星閃耀時 (歌曲)",
+	102,
+	39,
+	"property value expected",
+	"#"
+],[
+	"仁寿县",
+	56,
+	22,
+	"semi-colon expected",
+	""
+],[
+	"仁王 (游戏)",
+	39,
+	58,
+	"semi-colon expected",
+	""
+],[
+	"仁王2",
+	31,
+	58,
+	"semi-colon expected",
+	""
+],[
+	"今天吃什麼",
+	86,
+	35,
+	"property value expected",
+	"#lightblue"
+],[
+	"今天開始的我們～GFRIEND 1st BEST",
+	136,
+	37,
+	"} expected",
+	"700px"
+],[
+	"介音",
+	11,
+	103,
+	"colon expected",
+	"="
+],[
+	"他加祿語",
+	78,
+	48,
+	"semi-colon expected",
+	":"
+],[
+	"他就是那傢伙",
+	422,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"仙劍奇俠傳 (電視劇)",
+	61,
+	40,
+	"semi-colon expected",
+	":"
+],[
+	"仙台北部道路",
+	35,
+	28,
+	"semi-colon expected",
+	""
+],[
+	"仙客來屬",
+	106,
+	36,
+	"semi-colon expected",
+	""
+],[
+	"仙履奇緣 (2015年電影)",
+	180,
+	46,
+	"colon expected",
+	"="
+],[
+	"仡央语群",
+	88,
+	42,
+	"semi-colon expected",
+	":"
+],[
+	"令人垂涎的遊輪",
+	78,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"以地點命名的化學元素列表",
+	7,
+	41,
+	"property value expected",
+	"*"
+],[
+	"以科學家命名的國際單位列表",
+	7,
+	80,
+	"property value expected",
+	";"
+],[
+	"仰光国际机场",
+	106,
+	60,
+	"colon expected",
+	"="
+],[
+	"任天堂3DS",
+	460,
+	38,
+	"term expected",
+	""
+],[
+	"任天堂明星大亂鬥 (遊戲)",
+	52,
+	18,
+	"property value expected",
+	"#10dded6"
+],[
+	"任天堂明星大亂鬥DX",
+	47,
+	18,
+	"property value expected",
+	"#10dded6"
+],[
+	"任天堂明星大亂鬥X",
+	34,
+	18,
+	"property value expected",
+	"#10dded6"
+],[
+	"任家萱",
+	191,
+	49,
+	"property value expected",
+	"%"
+],[
+	"任家萱音樂作品列表",
+	19,
+	10,
+	"} expected",
+	"200px"
+],[
+	"任暟晴",
+	246,
+	38,
+	"property value expected",
+	"#black"
+],[
+	"任賢齊",
+	246,
+	40,
+	"semi-colon expected",
+	""
+],[
+	"任達華",
+	115,
+	16,
+	"semi-colon expected",
+	""
+],[
+	"伊万·休特菲尔德级巡防舰",
+	142,
+	35,
+	"colon expected",
+	";"
+],[
+	"伊奧利亞",
+	12,
+	102,
+	"semi-colon expected",
+	""
+],[
+	"伊奧維2013年至2014年球季",
+	93,
+	81,
+	"colon expected",
+	"="
+],[
+	"伊州区",
+	72,
+	65,
+	"semi-colon expected",
+	""
+],[
+	"伊斯兰的堡垒，亚洲的心脏",
+	22,
+	26,
+	"semi-colon expected",
+	":"
+],[
+	"伊斯蘭脫維善紀念中學",
+	119,
+	85,
+	"property value expected",
+	"#"
+],[
+	"伊普斯威奇足球俱乐部",
+	90,
+	81,
+	"colon expected",
+	"="
+],[
+	"伊東歌詞太郎",
+	7,
+	31,
+	"} expected",
+	";"
+],[
+	"伊琳娜·西多尔科娃",
+	211,
+	22,
+	"property value expected",
+	"#"
+],[
+	"伊茲密爾阿德南·曼德列斯機場",
+	85,
+	85,
+	"semi-colon expected",
+	""
+],[
+	"伊莱·克兰",
+	48,
+	45,
+	"} expected",
+	"\""
+],[
+	"伊辛",
+	8,
+	29,
+	"property value expected",
+	"#"
+],[
+	"伊通满族自治县",
+	155,
+	37,
+	"property value expected",
+	";"
+],[
+	"伍禮騫",
+	51,
+	33,
+	"property value expected",
+	"#none"
+],[
+	"伏林航空",
+	37,
+	35,
+	"} expected",
+	""
+],[
+	"伦敦地铁",
+	153,
+	71,
+	"semi-colon expected",
+	""
+],[
+	"伯恩利足球俱乐部",
+	96,
+	81,
+	"colon expected",
+	"="
+],[
+	"伯恩茅斯足球俱乐部",
+	133,
+	81,
+	"colon expected",
+	"="
+],[
+	"伯明翰城2011年至2012年球季",
+	92,
+	82,
+	"property value expected",
+	"#white"
+],[
+	"伯明翰城2012年至2013年球季",
+	84,
+	82,
+	"property value expected",
+	"#white"
+],[
+	"伯明翰城2013年至2014年球季",
+	69,
+	82,
+	"property value expected",
+	"#white"
+],[
+	"伯明翰城2014年至2015年球季",
+	88,
+	82,
+	"property value expected",
+	"#white"
+],[
+	"伯明翰足球會",
+	73,
+	82,
+	"property value expected",
+	"#white"
+],[
+	"伯顿阿尔比恩足球俱乐部",
+	74,
+	81,
+	"colon expected",
+	"="
+],[
+	"住在我家的男人",
+	385,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"佐伊的超凡歌单",
+	559,
+	14,
+	"semi-colon expected",
+	""
+],[
+	"佐匹克隆",
+	118,
+	103,
+	"semi-colon expected",
+	""
+],[
+	"佐渡汽船",
+	67,
+	84,
+	"semi-colon expected",
+	"#"
+],[
+	"佐竹氏",
+	132,
+	46,
+	"semi-colon expected",
+	":"
+],[
+	"佐藤万璃音",
+	247,
+	21,
+	"property value expected",
+	"#"
+],[
+	"何可欣",
+	200,
+	102,
+	"semi-colon expected",
+	""
+],[
+	"何基佑",
+	101,
+	39,
+	"property value expected",
+	""
+],[
+	"何孟遠",
+	74,
+	61,
+	"semi-colon expected",
+	""
+],[
+	"何啟南",
+	296,
+	36,
+	"property value expected",
+	"#none"
+],[
+	"何晉樂 (1996年)",
+	232,
+	51,
+	"term expected",
+	""
+],[
+	"何珮瑜",
+	42,
+	165,
+	"property value expected",
+	"%"
+],[
+	"何英偉",
+	173,
+	21,
+	"property value expected",
+	"#none"
+],[
+	"余迪偉",
+	91,
+	22,
+	"property value expected",
+	";"
+],[
+	"佛喬航線",
+	234,
+	30,
+	"colon expected",
+	"12em"
+],[
+	"佛罗伦萨足球俱乐部",
+	86,
+	80,
+	"colon expected",
+	"="
+],[
+	"你喜歡布拉姆斯嗎？",
+	513,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"你太過分了",
+	539,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"你好！小姐",
+	59,
+	20,
+	"semi-colon expected",
+	""
+],],"batches":38}

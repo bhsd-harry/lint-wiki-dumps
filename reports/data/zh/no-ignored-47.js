@@ -1,1 +1,1201 @@
-window.data={"articles":[["阿爾派A522",119,15,"containing invalid attribute","  style\"vertical-align:middle\""],["阿爾發城",1,23,"useless link text","|阿爾伐城"],["阿爾發村",1,23,"useless link text","|阿爾伐城"],["阿瓦尔人",69,23,"containing invalid attribute","center\""],["阿瓦尔汗国",120,23,"containing invalid attribute","center\""],["阿瓦洛斯桌山",11,1528,"containing invalid attribute","<ref "],["阿當馬·查奧爾 (1996年)",66,3,"containing invalid attribute","!colspan=\"2\""],["阿登省公路网",10,5,"containing invalid attribute","!scope=col"],["阿細",31,50,"containing invalid attribute","center\"  "],["阿纳托利·鲍里索维奇·库兹涅佐夫",27,88,"containing invalid attribute"," #f9f9f9;"],["阿罩霧庄攻防戰",69,113,"invalid conversion flag","r"],["阿耳忒弥斯计划",31,66,"containing invalid attribute"," home'"],["阿肯色州",196,43,"containing invalid attribute","; text-align:right; font-size:80%;\""],["阿良的歸白人生",59,44,"containing invalid attribute","  font-weight:bold;color:black\"  "],["阿芬的幸福修練",63,50,"containing invalid attribute","  font-weight:bold;color:ForestGreen\"  "],["阿英的成長日記",54,43,"containing invalid attribute","  font-weight:bold;color:black\"  "],["阿莉切·罗尔瓦赫尔",23,53,"containing invalid attribute","Mymovies.it''"],["阿華師",25,67,"invalid conversion flag","r"],["阿道夫·門采爾",1,22,"useless link text","|阿道夫·門采爾"],["阿部八郎",7,3,"containing invalid attribute","年度"],["阿部内阁",22,186,"containing invalid attribute"," name\"张秀章\""],["阿部和成",36,3,"containing invalid attribute","年<br>度"],["阿部壽樹",38,3,"containing invalid attribute","年度"],["阿部慎之助",77,3,"containing invalid attribute","年度"],["阿部真宏",40,3,"containing invalid attribute","年度"],["阿里亚纳阿富汗航空",157,18,"containing invalid attribute","20px\""],["陀槍師姐III",438,4,"containing invalid attribute","山"],["陈思思 (演员)",56,88,"containing invalid attribute"," #f9f9f9;"],["陈情令",116,4,"containing invalid attribute","<br>为保护江厌离、江澄、魏嬰，独自一人回到莲花坞与温氏对抗，最终战死。"],["陈浩 (配音员)",288,39,"containing invalid attribute","  或与“甄子丹”同声=\"\""],["陈澍城",808,44,"containing invalid attribute","9%\""],["降曲林寺",1,15,"useless link text","|竹寺"],["降魔的 捉妖遊戲",81,53,"containing invalid attribute"," center\""],["限制級戰警：重返極限",66,23,"containing invalid attribute","; color:snow\"  "],["陕西广电融媒体集团",251,4,"containing invalid attribute","<ref name=nrta/>"],["院長爸爸",60,46,"containing invalid attribute","  font-weight:bold;color:ForestGreen\"  "],["陪你一起長大",90,35,"containing invalid attribute","顧家偉和林芸芸的女兒"],["陪著你走 (無綫電視劇)",208,4,"containing invalid attribute","[[何天兒]]||莎莉||宋天從之好友"],["陰蒂",19,55,"containing invalid attribute","_Shrage\""],["陳亞蘭",506,69,"containing invalid attribute","left\"  "],["陳信安",139,21,"containing invalid attribute","裕隆"],["陳偉殷",244,3,"containing invalid attribute","年度"],["陳偉霆演唱會列表",6,39,"containing invalid attribute","<br />"],["陳傑奇",72,4,"containing invalid attribute"," !style=\"background:orange; color:white;font-weight:bold;text-align:center\""],["陳冠文",1,410,"containing invalid attribute","2016蔻蔻早餐''"],["陳凡騏",40,33,"containing invalid attribute","center\"  "],["陳凱詠",117,14,"containing invalid attribute","  <small>;text-align:center"],["陳卓智",2543,15,"containing invalid attribute","  valign\"center\"  "],["陳卓賢",178,14,"containing invalid attribute","  <small>;text-align:center"],["陳哲遠",34,4,"containing invalid attribute","人不彪悍枉少年 "],["陳嘉 (歌手)",98,14,"containing invalid attribute","  <small>;text-align:center"],["陳嘉慧",257,4,"containing invalid attribute"," text-align:center;\""],["陳國邦",96,38,"containing invalid attribute","男配角"],["陳夢晨",68,4,"containing invalid attribute","|rowspan=\"3\"|<center>"],["陳大豐",62,3,"containing invalid attribute","年度"],["陳奕仁",39,3,"containing invalid attribute","[https://"],["陳志濤",1,20,"useless link text","|陳友"],["陳慧玲 (企業家)",117,302,"invalid content in <references>","\n <ref name=\"r26\">[\n <ref name=\"r27\">[\n <ref name=\"r28\">[\n <ref name=\"r29\">[\n "],["陳慧琳Love Fighters演唱會2008",46,38,"containing invalid attribute","left\";\""],["陳慧琳Season 2演唱會",26,38,"containing invalid attribute","left\";\""],["陳慧琳紙醉金迷世界巡迴演唱會",26,38,"containing invalid attribute","left\";\""],["陳慧琳飛天舞會世界巡迴演唱會",39,38,"containing invalid attribute","left\";\""],["陳承祥",20,25,"containing invalid attribute"," name-“故香、茶鄉“"],["陳文強",226,15,"containing invalid attribute","  最佳編劇 "],["陳昊宇",350,3,"containing invalid attribute","〈重逢〉(共青團中央"],["陳映之",27,39,"containing invalid attribute","  =\"1\""],["陳昭煊",74,4,"containing invalid attribute"," !style=\"background:#FFF; color:white;font-weight:bold;text-align:center\""],["陳昭穎",47,3,"containing invalid attribute","年度"],["陳朝容",105,36,"containing invalid attribute","  | '''投票率''' || "],["陳楚寰",59,33,"containing invalid attribute"," 对陆恭梓倾心的女子"],["陳樂頤",136,14,"containing invalid attribute","  <small>;text-align:center"],["陳欣 (配音員)",1609,14,"containing invalid attribute","  valign\"center\"  "],["陳毅燊",183,53,"containing invalid attribute","1\""],["陳泳伽",164,44,"containing invalid attribute",";font-weight:bold;text-align:center\""],["陳淑樺",153,3,"containing invalid attribute","color:white\"  "],["陳煥昌",39,3,"containing invalid attribute","color:white\"  "],["陳苡臻",51,14,"containing invalid attribute","  <small>;text-align:center"],["陳蕾",208,14,"containing invalid attribute","  <small>;text-align:center"],["陳薔天",51,52,"containing invalid attribute","1\""],["陳銀輝",42,50,"containing invalid attribute","1\"  "],["陶傳正",415,52,"containing invalid attribute","{{hidden"],["陸軍兵工整備發展中心",23,36,"containing invalid attribute","<small>'''style=\"white-space：nowrap;\"  "],["陸軍第四總醫院",1,22,"useless link text","|臺南衛戍病院"],["陽光下的足跡",28,59,"containing invalid attribute","'''暱稱/關係/職業'''"],["陽光世代選舉",49,62,"containing invalid attribute","!width=\"50\"  "],["陽岱鋼",139,3,"containing invalid attribute","球團"],["隅田知一郎",41,3,"containing invalid attribute","年<br>度"],["隨風 隨緣",61,46,"containing invalid attribute","  font-weight:bold;color:ForestGreen\"  "],["雄平",38,3,"containing invalid attribute","年度"],["雅克·巴加内尔",42,88,"containing invalid attribute"," #f9f9f9;"],["雅典國家考古博物館",30,1,"invalid content in <gallery>"," [[File:Flying fish fragments.jpg|飛魚壁畫"],["雅特扬会计师行",1,16,"useless link text","|安永"],["雅盖隆王朝时期的波兰",270,697,"containing invalid attribute","  116-117\"=\"\""],["雍正帝",253,4,"containing invalid attribute","一"],["雖然是精神病但沒關係",893,37,"containing invalid attribute","center\""],["雙北公車車號列表",27,4,"containing invalid attribute","佳穎老師"],["雙唇鼻音",153,86,"containing invalid attribute"," {国际音标 "],["雙面維若妮卡",138,13,"containing invalid attribute"," (The "],["雙龍傳",89,4,"containing invalid attribute","允"],["離家童盟 (電視劇)",574,27,"containing invalid attribute"," Siddhartha\"  "],["難以置信 (2015紀錄片)",1,18,"useless link text","|難以置信"],["難熔金屬",41,4,"containing invalid attribute","耐火金屬主要性質的比較"],["雨果獎最佳戲劇表現獎",1416,3,"containing invalid attribute"," data-sort-value:\"Expanse: Gaugamela\"  "],["雨豆樹",41,1,"invalid content in <gallery>"," Image:Samanea saman hbfjxdh,xnhjkgRain Tree<br />[[Ranchi]], [[Jharkhand]] "],["雨過天青 (2019年大愛電視劇)",61,50,"containing invalid attribute","  font-weight:bold;color:black\"  "],["雪人 (2017年電影)",8,29,"invalid conversion flag","雪人"],["雪国列车 (电视剧)",295,3,"containing invalid attribute","[https://"],["雪歌妮·薇佛",40,88,"containing invalid attribute"," #f9f9f9;"],["雲貴總督",95,6,"containing invalid attribute","鄂善 (康熙朝)"],["雲達不萊梅體育會",136,3,"containing invalid attribute","!width=33%"],["零售商",121,107,"invalid content in <references>","\n\n == 相關書目 ==\n * 《行銷管理》，第三版，華泰文化，林建煌，台北市，2005年\n * 《行銷管理》，第三版，新陸書局，洪順慶，台北市，2005年\n"],["雷丁2009年至2010年球季",90,3,"containing invalid attribute","!width=20%"],["雷丁2010年至2011年球季",92,3,"containing invalid attribute","!width=20%"],["雷丁2011年至2012年球季",81,3,"containing invalid attribute","!width=20%"],["雷丁2012年至2013年球季",90,3,"containing invalid attribute","!width=20%"],["雷丁2013年至2014年球季",95,3,"containing invalid attribute","!width=20%"],["雷丁2014年至2015年球季",76,3,"containing invalid attribute","!width=17.5%"],["雷丁足球俱乐部",272,3,"containing invalid attribute","!width=60%"],["雷擎",27,40,"containing invalid attribute","  font-weight:bold\"   "],["雷深如",186,14,"containing invalid attribute","  <small>;text-align:center"],["雷獸 (妖怪)",61,206,"containing invalid attribute"," name~\"sanpo\""],["雷諾R35戰車",55,314,"containing invalid attribute"," =WZQ"],["雷霆掃毒",554,37,"containing invalid attribute","'''雄哥、雄少'''<br>黑幫頭目、賭場老闆、毒販<br>趙三裘之天敵<br>鄧亞炳之表弟<br>陳家碧之男友，後反目<br>元朗香港圍村"],["電動方程式",731,3,"containing invalid attribute","{{nowrap"],["電磁波譜",13,15,"containing invalid attribute","   cell<br />"],["電視導報",1,24,"useless link text","|電視指南"],["電競七年",662,29,"containing invalid attribute","84%\"  "],["電競九年",371,29,"containing invalid attribute","65%\"  "],["電競八年",71,29,"containing invalid attribute","55%\"  "],["電競六年",633,29,"containing invalid attribute","84%\"  "],["電競高校",82,4,"containing invalid attribute","腿"],["電訊足球隊",45,3,"containing invalid attribute","!width=40%"],["電車GO!Final",377,32,"attributes of a closing tag"," color"],["震積岩",8,1207,"containing invalid attribute"," Guiraud”"],["霍亨索伦勋章",1,22,"useless link text","|霍亨索倫王室勳章"],["霍奇爾·戈梅茲",39,44,"containing invalid attribute"," #f9f9f9;"],["霍尊",123,34,"containing invalid attribute","'''备注'''"],["霍恩薩爾扎",1,20,"useless link text","|伊諾羅茨瓦夫"],["霍恩薩爾札",1,20,"useless link text","|伊諾弗羅茨瓦夫"],["霍普韋爾人",1,19,"useless link text","|霍普韋爾"],["霍格華茲教職員列表",497,3,"containing invalid attribute"," {{engname"],["霍比特人角色列表",116,3,"containing invalid attribute"," Thráin "],["霍華德海灘-JFK機場車站",108,4,"containing invalid attribute","87G8R5M3+85"],["露塔·格德米納斯",39,30,"containing invalid attribute","德琪·韋德斯（Dutch Velders）"],["露琵塔·尼詠歐",60,89,"containing invalid attribute"," #f9f9f9;"],["靈光殿",3,34,"invalid conversion flag","r"],["靈異教師神眉",1240,21,"containing invalid attribute","  \"align=center\""],["青叶台站",368,8,"containing invalid attribute","千草台、YU-LAND綠、醫院前"],["青少年",179,426,"containing invalid attribute"," F3-F7”"],["青山公路－荃灣段",38,178,"containing invalid attribute","style\":\"margin-left:1em; "],["青山大紀",45,3,"containing invalid attribute","年<br>度"],["青山浩二",38,3,"containing invalid attribute","年<br>度"],["青岛中能足球俱乐部成绩纪录",344,3,"containing invalid attribute","!width=50%"],["青岛圣保罗堂",49,18,"containing invalid attribute","10'' "],["青岛海牛足球俱乐部",946,3,"containing invalid attribute","!width=50%"],["青年文學獎",4622,3,"containing invalid attribute","優異獎"],["青春有你 (第二季)",999,4,"containing invalid attribute","陸柯燃"],["青春點點點",33,51,"containing invalid attribute","  width:100%\""],["青朗公路",51,178,"containing invalid attribute","style\":\"margin-left:1em; "],["青木勝男",41,3,"containing invalid attribute","年度"],["青木宣親",116,3,"containing invalid attribute","年度"],["青柳晃洋",43,3,"containing invalid attribute","年度"],["青沙公路",87,178,"containing invalid attribute","style\":\"margin-left:1em; "],["青蒿琥酯",179,48,"containing invalid attribute","  /\n\n 由Amivas製藥生產的靜脈注射青蒿琥酯提出的申請獲得FDA優先審查（以加速藥物上市、促進藥物研發及提升公共健康）及核准的待遇，也獲得[[孤兒藥]]"],["青虫 aoi",17,40,"containing invalid attribute","  font-weight:bold\"   "],["青衣西北交匯處",29,178,"containing invalid attribute","style\":\"margin-left:1em; "],["青龍電影獎",131,3,"containing invalid attribute","{{link-ko|許長江|허장강}}《{lk"],["非公認戰隊秋葉原連者",162,51,"containing invalid attribute"," smaller;\""],["非常律師禹英禑的迴響",914,3,"containing invalid attribute"," {{ubl"],["非拉丁裔白人",24,30,"containing invalid attribute","  font-size:75%\""],["非洲裝甲集群",1,20,"useless link text","|非洲裝甲集群"],["非洲軍",1,18,"useless link text","|非洲軍团"],["非洲集團軍",1,20,"useless link text","|非洲集團軍"],["革出教门",1,14,"useless link text","|革出教门"],["靴高斯足球會",54,3,"containing invalid attribute","!width=30%"],["韋以茵",93,3,"containing invalid attribute","倚天屠龍記 (1978年電視劇)"],["韋佳德面對面",84,3,"containing invalid attribute"," 第18集 "],["韋勞",1,26,"useless link text","|茲納緬斯克 (加里寧格勒州)"],["韋斯咸2011年至2012年球季",86,3,"containing invalid attribute","!width=20%"],["韋斯咸2012年至2013年球季",86,3,"containing invalid attribute","!width=20%"],["韋斯咸2013年至2014年球季",85,3,"containing invalid attribute","!width=20%"],["韋斯咸2014年至2015年球季",89,3,"containing invalid attribute","!width=19%"],["韋斯特豪特40",105,415,"invalid content in <references>","  -->\n\n "],["韋根2013年至2014年球季",97,3,"containing invalid attribute","!width=20%"],["韋根2014年至2015年球季",85,3,"containing invalid attribute","!width=19%"],["韋馱",12,97,"attributes of a closing tag"," text"],["韓光成",100,35,"containing invalid attribute"," left;\""],["韓國國務總理列表",43,3,"containing invalid attribute","{align=\"center\"  "],["韓國國家女子籃球隊",34,3,"containing invalid attribute"," \"font-size:70%\"  "],["韓國國會議長",32,18,"containing invalid attribute"," \"black\"; "],["韓國放送大獎",41,152,"containing invalid attribute","style\":\"background-color: #B2CCFF "],["韓國第一夫人",20,18,"containing invalid attribute"," \"black\"; "],["韓庚",622,4,"containing invalid attribute","韓庚"],["韓忠羽",315,28,"containing invalid attribute","最强洗脑神曲"],["韓石圭",103,58,"containing invalid attribute"," 朝鮮世宗"],["韓雨潔",51,83,"containing invalid attribute"," 日本電視台NTV第六季單發特別版"],["韦利亚",51,1,"invalid content in <gallery>"," [[File:Velia.jpg|thumb|right|200px|Porta Rosa]]"],["韦尔莱表",31,123,"containing invalid attribute"," name-\"Cell_lists\""],["韦氏词典",130,3,"containing invalid attribute","'''f'''i"],["韩国国民签证要求",475,88,"containing invalid attribute","  \"class=\"table-yes\""]],"batches":51}
+window.data={"articles":[[
+	"阿爾派A522",
+	119,
+	15,
+	"containing invalid attribute",
+	"  style\"vertical-align:middle\""
+],[
+	"阿爾發城",
+	1,
+	23,
+	"useless link text",
+	"|阿爾伐城"
+],[
+	"阿爾發村",
+	1,
+	23,
+	"useless link text",
+	"|阿爾伐城"
+],[
+	"阿瓦尔人",
+	69,
+	23,
+	"containing invalid attribute",
+	"center\""
+],[
+	"阿瓦尔汗国",
+	120,
+	23,
+	"containing invalid attribute",
+	"center\""
+],[
+	"阿瓦洛斯桌山",
+	11,
+	1528,
+	"containing invalid attribute",
+	"<ref "
+],[
+	"阿當馬·查奧爾 (1996年)",
+	66,
+	3,
+	"containing invalid attribute",
+	"!colspan=\"2\""
+],[
+	"阿登省公路网",
+	10,
+	5,
+	"containing invalid attribute",
+	"!scope=col"
+],[
+	"阿細",
+	31,
+	50,
+	"containing invalid attribute",
+	"center\"  "
+],[
+	"阿纳托利·鲍里索维奇·库兹涅佐夫",
+	27,
+	88,
+	"containing invalid attribute",
+	" #f9f9f9;"
+],[
+	"阿罩霧庄攻防戰",
+	69,
+	113,
+	"invalid conversion flag",
+	"r"
+],[
+	"阿耳忒弥斯计划",
+	31,
+	66,
+	"containing invalid attribute",
+	" home'"
+],[
+	"阿肯色州",
+	196,
+	43,
+	"containing invalid attribute",
+	"; text-align:right; font-size:80%;\""
+],[
+	"阿良的歸白人生",
+	59,
+	44,
+	"containing invalid attribute",
+	"  font-weight:bold;color:black\"  "
+],[
+	"阿芬的幸福修練",
+	63,
+	50,
+	"containing invalid attribute",
+	"  font-weight:bold;color:ForestGreen\"  "
+],[
+	"阿英的成長日記",
+	54,
+	43,
+	"containing invalid attribute",
+	"  font-weight:bold;color:black\"  "
+],[
+	"阿莉切·罗尔瓦赫尔",
+	23,
+	53,
+	"containing invalid attribute",
+	"Mymovies.it''"
+],[
+	"阿華師",
+	25,
+	67,
+	"invalid conversion flag",
+	"r"
+],[
+	"阿道夫·門采爾",
+	1,
+	22,
+	"useless link text",
+	"|阿道夫·門采爾"
+],[
+	"阿部八郎",
+	7,
+	3,
+	"containing invalid attribute",
+	"年度"
+],[
+	"阿部内阁",
+	22,
+	186,
+	"containing invalid attribute",
+	" name\"张秀章\""
+],[
+	"阿部和成",
+	36,
+	3,
+	"containing invalid attribute",
+	"年<br>度"
+],[
+	"阿部壽樹",
+	38,
+	3,
+	"containing invalid attribute",
+	"年度"
+],[
+	"阿部慎之助",
+	77,
+	3,
+	"containing invalid attribute",
+	"年度"
+],[
+	"阿部真宏",
+	40,
+	3,
+	"containing invalid attribute",
+	"年度"
+],[
+	"阿里亚纳阿富汗航空",
+	157,
+	18,
+	"containing invalid attribute",
+	"20px\""
+],[
+	"陀槍師姐III",
+	438,
+	4,
+	"containing invalid attribute",
+	"山"
+],[
+	"陈思思 (演员)",
+	56,
+	88,
+	"containing invalid attribute",
+	" #f9f9f9;"
+],[
+	"陈情令",
+	116,
+	4,
+	"containing invalid attribute",
+	"<br>为保护江厌离、江澄、魏嬰，独自一人回到莲花坞与温氏对抗，最终战死。"
+],[
+	"陈浩 (配音员)",
+	288,
+	39,
+	"containing invalid attribute",
+	"  或与“甄子丹”同声=\"\""
+],[
+	"陈澍城",
+	808,
+	44,
+	"containing invalid attribute",
+	"9%\""
+],[
+	"降曲林寺",
+	1,
+	15,
+	"useless link text",
+	"|竹寺"
+],[
+	"降魔的 捉妖遊戲",
+	81,
+	53,
+	"containing invalid attribute",
+	" center\""
+],[
+	"限制級戰警：重返極限",
+	66,
+	23,
+	"containing invalid attribute",
+	"; color:snow\"  "
+],[
+	"陕西广电融媒体集团",
+	251,
+	4,
+	"containing invalid attribute",
+	"<ref name=nrta/>"
+],[
+	"院長爸爸",
+	60,
+	46,
+	"containing invalid attribute",
+	"  font-weight:bold;color:ForestGreen\"  "
+],[
+	"陪你一起長大",
+	90,
+	35,
+	"containing invalid attribute",
+	"顧家偉和林芸芸的女兒"
+],[
+	"陪著你走 (無綫電視劇)",
+	208,
+	4,
+	"containing invalid attribute",
+	"[[何天兒]]||莎莉||宋天從之好友"
+],[
+	"陰蒂",
+	19,
+	55,
+	"containing invalid attribute",
+	"_Shrage\""
+],[
+	"陳亞蘭",
+	506,
+	69,
+	"containing invalid attribute",
+	"left\"  "
+],[
+	"陳信安",
+	139,
+	21,
+	"containing invalid attribute",
+	"裕隆"
+],[
+	"陳偉殷",
+	244,
+	3,
+	"containing invalid attribute",
+	"年度"
+],[
+	"陳偉霆演唱會列表",
+	6,
+	39,
+	"containing invalid attribute",
+	"<br />"
+],[
+	"陳傑奇",
+	72,
+	4,
+	"containing invalid attribute",
+	" !style=\"background:orange; color:white;font-weight:bold;text-align:center\""
+],[
+	"陳冠文",
+	1,
+	410,
+	"containing invalid attribute",
+	"2016蔻蔻早餐''"
+],[
+	"陳凡騏",
+	40,
+	33,
+	"containing invalid attribute",
+	"center\"  "
+],[
+	"陳凱詠",
+	117,
+	14,
+	"containing invalid attribute",
+	"  <small>;text-align:center"
+],[
+	"陳卓智",
+	2543,
+	15,
+	"containing invalid attribute",
+	"  valign\"center\"  "
+],[
+	"陳卓賢",
+	178,
+	14,
+	"containing invalid attribute",
+	"  <small>;text-align:center"
+],[
+	"陳哲遠",
+	34,
+	4,
+	"containing invalid attribute",
+	"人不彪悍枉少年 "
+],[
+	"陳嘉 (歌手)",
+	98,
+	14,
+	"containing invalid attribute",
+	"  <small>;text-align:center"
+],[
+	"陳嘉慧",
+	257,
+	4,
+	"containing invalid attribute",
+	" text-align:center;\""
+],[
+	"陳國邦",
+	96,
+	38,
+	"containing invalid attribute",
+	"男配角"
+],[
+	"陳夢晨",
+	68,
+	4,
+	"containing invalid attribute",
+	"|rowspan=\"3\"|<center>"
+],[
+	"陳大豐",
+	62,
+	3,
+	"containing invalid attribute",
+	"年度"
+],[
+	"陳奕仁",
+	39,
+	3,
+	"containing invalid attribute",
+	"[https://"
+],[
+	"陳志濤",
+	1,
+	20,
+	"useless link text",
+	"|陳友"
+],[
+	"陳慧玲 (企業家)",
+	117,
+	302,
+	"invalid content in <references>",
+	"\n <ref name=\"r26\">[\n <ref name=\"r27\">[\n <ref name=\"r28\">[\n <ref name=\"r29\">[\n "
+],[
+	"陳慧琳Love Fighters演唱會2008",
+	46,
+	38,
+	"containing invalid attribute",
+	"left\";\""
+],[
+	"陳慧琳Season 2演唱會",
+	26,
+	38,
+	"containing invalid attribute",
+	"left\";\""
+],[
+	"陳慧琳紙醉金迷世界巡迴演唱會",
+	26,
+	38,
+	"containing invalid attribute",
+	"left\";\""
+],[
+	"陳慧琳飛天舞會世界巡迴演唱會",
+	39,
+	38,
+	"containing invalid attribute",
+	"left\";\""
+],[
+	"陳承祥",
+	20,
+	25,
+	"containing invalid attribute",
+	" name-“故香、茶鄉“"
+],[
+	"陳文強",
+	226,
+	15,
+	"containing invalid attribute",
+	"  最佳編劇 "
+],[
+	"陳昊宇",
+	350,
+	3,
+	"containing invalid attribute",
+	"〈重逢〉(共青團中央"
+],[
+	"陳映之",
+	27,
+	39,
+	"containing invalid attribute",
+	"  =\"1\""
+],[
+	"陳昭煊",
+	74,
+	4,
+	"containing invalid attribute",
+	" !style=\"background:#FFF; color:white;font-weight:bold;text-align:center\""
+],[
+	"陳昭穎",
+	47,
+	3,
+	"containing invalid attribute",
+	"年度"
+],[
+	"陳朝容",
+	105,
+	36,
+	"containing invalid attribute",
+	"  | '''投票率''' || "
+],[
+	"陳楚寰",
+	59,
+	33,
+	"containing invalid attribute",
+	" 对陆恭梓倾心的女子"
+],[
+	"陳樂頤",
+	136,
+	14,
+	"containing invalid attribute",
+	"  <small>;text-align:center"
+],[
+	"陳欣 (配音員)",
+	1609,
+	14,
+	"containing invalid attribute",
+	"  valign\"center\"  "
+],[
+	"陳毅燊",
+	183,
+	53,
+	"containing invalid attribute",
+	"1\""
+],[
+	"陳泳伽",
+	164,
+	44,
+	"containing invalid attribute",
+	";font-weight:bold;text-align:center\""
+],[
+	"陳淑樺",
+	153,
+	3,
+	"containing invalid attribute",
+	"color:white\"  "
+],[
+	"陳煥昌",
+	39,
+	3,
+	"containing invalid attribute",
+	"color:white\"  "
+],[
+	"陳苡臻",
+	51,
+	14,
+	"containing invalid attribute",
+	"  <small>;text-align:center"
+],[
+	"陳蕾",
+	208,
+	14,
+	"containing invalid attribute",
+	"  <small>;text-align:center"
+],[
+	"陳薔天",
+	51,
+	52,
+	"containing invalid attribute",
+	"1\""
+],[
+	"陳銀輝",
+	42,
+	50,
+	"containing invalid attribute",
+	"1\"  "
+],[
+	"陶傳正",
+	415,
+	52,
+	"containing invalid attribute",
+	"{{hidden"
+],[
+	"陸軍兵工整備發展中心",
+	23,
+	36,
+	"containing invalid attribute",
+	"<small>'''style=\"white-space：nowrap;\"  "
+],[
+	"陸軍第四總醫院",
+	1,
+	22,
+	"useless link text",
+	"|臺南衛戍病院"
+],[
+	"陽光下的足跡",
+	28,
+	59,
+	"containing invalid attribute",
+	"'''暱稱/關係/職業'''"
+],[
+	"陽光世代選舉",
+	49,
+	62,
+	"containing invalid attribute",
+	"!width=\"50\"  "
+],[
+	"陽岱鋼",
+	139,
+	3,
+	"containing invalid attribute",
+	"球團"
+],[
+	"隅田知一郎",
+	41,
+	3,
+	"containing invalid attribute",
+	"年<br>度"
+],[
+	"隨風 隨緣",
+	61,
+	46,
+	"containing invalid attribute",
+	"  font-weight:bold;color:ForestGreen\"  "
+],[
+	"雄平",
+	38,
+	3,
+	"containing invalid attribute",
+	"年度"
+],[
+	"雅克·巴加内尔",
+	42,
+	88,
+	"containing invalid attribute",
+	" #f9f9f9;"
+],[
+	"雅典國家考古博物館",
+	30,
+	1,
+	"invalid content in <gallery>",
+	" [[File:Flying fish fragments.jpg|飛魚壁畫"
+],[
+	"雅特扬会计师行",
+	1,
+	16,
+	"useless link text",
+	"|安永"
+],[
+	"雅盖隆王朝时期的波兰",
+	270,
+	697,
+	"containing invalid attribute",
+	"  116-117\"=\"\""
+],[
+	"雍正帝",
+	253,
+	4,
+	"containing invalid attribute",
+	"一"
+],[
+	"雖然是精神病但沒關係",
+	893,
+	37,
+	"containing invalid attribute",
+	"center\""
+],[
+	"雙北公車車號列表",
+	27,
+	4,
+	"containing invalid attribute",
+	"佳穎老師"
+],[
+	"雙唇鼻音",
+	153,
+	86,
+	"containing invalid attribute",
+	" {国际音标 "
+],[
+	"雙面維若妮卡",
+	138,
+	13,
+	"containing invalid attribute",
+	" (The "
+],[
+	"雙龍傳",
+	89,
+	4,
+	"containing invalid attribute",
+	"允"
+],[
+	"離家童盟 (電視劇)",
+	574,
+	27,
+	"containing invalid attribute",
+	" Siddhartha\"  "
+],[
+	"難以置信 (2015紀錄片)",
+	1,
+	18,
+	"useless link text",
+	"|難以置信"
+],[
+	"難熔金屬",
+	41,
+	4,
+	"containing invalid attribute",
+	"耐火金屬主要性質的比較"
+],[
+	"雨果獎最佳戲劇表現獎",
+	1416,
+	3,
+	"containing invalid attribute",
+	" data-sort-value:\"Expanse: Gaugamela\"  "
+],[
+	"雨豆樹",
+	41,
+	1,
+	"invalid content in <gallery>",
+	" Image:Samanea saman hbfjxdh,xnhjkgRain Tree<br />[[Ranchi]], [[Jharkhand]] "
+],[
+	"雨過天青 (2019年大愛電視劇)",
+	61,
+	50,
+	"containing invalid attribute",
+	"  font-weight:bold;color:black\"  "
+],[
+	"雪人 (2017年電影)",
+	8,
+	29,
+	"invalid conversion flag",
+	"雪人"
+],[
+	"雪国列车 (电视剧)",
+	295,
+	3,
+	"containing invalid attribute",
+	"[https://"
+],[
+	"雪歌妮·薇佛",
+	40,
+	88,
+	"containing invalid attribute",
+	" #f9f9f9;"
+],[
+	"雲貴總督",
+	95,
+	6,
+	"containing invalid attribute",
+	"鄂善 (康熙朝)"
+],[
+	"雲達不萊梅體育會",
+	136,
+	3,
+	"containing invalid attribute",
+	"!width=33%"
+],[
+	"零售商",
+	121,
+	107,
+	"invalid content in <references>",
+	"\n\n == 相關書目 ==\n * 《行銷管理》，第三版，華泰文化，林建煌，台北市，2005年\n * 《行銷管理》，第三版，新陸書局，洪順慶，台北市，2005年\n"
+],[
+	"雷丁2009年至2010年球季",
+	90,
+	3,
+	"containing invalid attribute",
+	"!width=20%"
+],[
+	"雷丁2010年至2011年球季",
+	92,
+	3,
+	"containing invalid attribute",
+	"!width=20%"
+],[
+	"雷丁2011年至2012年球季",
+	81,
+	3,
+	"containing invalid attribute",
+	"!width=20%"
+],[
+	"雷丁2012年至2013年球季",
+	90,
+	3,
+	"containing invalid attribute",
+	"!width=20%"
+],[
+	"雷丁2013年至2014年球季",
+	95,
+	3,
+	"containing invalid attribute",
+	"!width=20%"
+],[
+	"雷丁2014年至2015年球季",
+	76,
+	3,
+	"containing invalid attribute",
+	"!width=17.5%"
+],[
+	"雷丁足球俱乐部",
+	272,
+	3,
+	"containing invalid attribute",
+	"!width=60%"
+],[
+	"雷擎",
+	27,
+	40,
+	"containing invalid attribute",
+	"  font-weight:bold\"   "
+],[
+	"雷深如",
+	186,
+	14,
+	"containing invalid attribute",
+	"  <small>;text-align:center"
+],[
+	"雷獸 (妖怪)",
+	61,
+	206,
+	"containing invalid attribute",
+	" name~\"sanpo\""
+],[
+	"雷諾R35戰車",
+	55,
+	314,
+	"containing invalid attribute",
+	" =WZQ"
+],[
+	"雷霆掃毒",
+	554,
+	37,
+	"containing invalid attribute",
+	"'''雄哥、雄少'''<br>黑幫頭目、賭場老闆、毒販<br>趙三裘之天敵<br>鄧亞炳之表弟<br>陳家碧之男友，後反目<br>元朗香港圍村"
+],[
+	"電動方程式",
+	731,
+	3,
+	"containing invalid attribute",
+	"{{nowrap"
+],[
+	"電磁波譜",
+	13,
+	15,
+	"containing invalid attribute",
+	"   cell<br />"
+],[
+	"電視導報",
+	1,
+	24,
+	"useless link text",
+	"|電視指南"
+],[
+	"電競七年",
+	662,
+	29,
+	"containing invalid attribute",
+	"84%\"  "
+],[
+	"電競九年",
+	371,
+	29,
+	"containing invalid attribute",
+	"65%\"  "
+],[
+	"電競八年",
+	71,
+	29,
+	"containing invalid attribute",
+	"55%\"  "
+],[
+	"電競六年",
+	633,
+	29,
+	"containing invalid attribute",
+	"84%\"  "
+],[
+	"電競高校",
+	82,
+	4,
+	"containing invalid attribute",
+	"腿"
+],[
+	"電訊足球隊",
+	45,
+	3,
+	"containing invalid attribute",
+	"!width=40%"
+],[
+	"電車GO!Final",
+	377,
+	32,
+	"attributes of a closing tag",
+	" color"
+],[
+	"震積岩",
+	8,
+	1207,
+	"containing invalid attribute",
+	" Guiraud”"
+],[
+	"霍亨索伦勋章",
+	1,
+	22,
+	"useless link text",
+	"|霍亨索倫王室勳章"
+],[
+	"霍奇爾·戈梅茲",
+	39,
+	44,
+	"containing invalid attribute",
+	" #f9f9f9;"
+],[
+	"霍尊",
+	123,
+	34,
+	"containing invalid attribute",
+	"'''备注'''"
+],[
+	"霍恩薩爾扎",
+	1,
+	20,
+	"useless link text",
+	"|伊諾羅茨瓦夫"
+],[
+	"霍恩薩爾札",
+	1,
+	20,
+	"useless link text",
+	"|伊諾弗羅茨瓦夫"
+],[
+	"霍普韋爾人",
+	1,
+	19,
+	"useless link text",
+	"|霍普韋爾"
+],[
+	"霍格華茲教職員列表",
+	497,
+	3,
+	"containing invalid attribute",
+	" {{engname"
+],[
+	"霍比特人角色列表",
+	116,
+	3,
+	"containing invalid attribute",
+	" Thráin "
+],[
+	"霍華德海灘-JFK機場車站",
+	108,
+	4,
+	"containing invalid attribute",
+	"87G8R5M3+85"
+],[
+	"露塔·格德米納斯",
+	39,
+	30,
+	"containing invalid attribute",
+	"德琪·韋德斯（Dutch Velders）"
+],[
+	"露琵塔·尼詠歐",
+	60,
+	89,
+	"containing invalid attribute",
+	" #f9f9f9;"
+],[
+	"靈光殿",
+	3,
+	34,
+	"invalid conversion flag",
+	"r"
+],[
+	"靈異教師神眉",
+	1240,
+	21,
+	"containing invalid attribute",
+	"  \"align=center\""
+],[
+	"青叶台站",
+	368,
+	8,
+	"containing invalid attribute",
+	"千草台、YU-LAND綠、醫院前"
+],[
+	"青少年",
+	179,
+	426,
+	"containing invalid attribute",
+	" F3-F7”"
+],[
+	"青山公路－荃灣段",
+	38,
+	178,
+	"containing invalid attribute",
+	"style\":\"margin-left:1em; "
+],[
+	"青山大紀",
+	45,
+	3,
+	"containing invalid attribute",
+	"年<br>度"
+],[
+	"青山浩二",
+	38,
+	3,
+	"containing invalid attribute",
+	"年<br>度"
+],[
+	"青岛中能足球俱乐部成绩纪录",
+	344,
+	3,
+	"containing invalid attribute",
+	"!width=50%"
+],[
+	"青岛圣保罗堂",
+	49,
+	18,
+	"containing invalid attribute",
+	"10'' "
+],[
+	"青岛海牛足球俱乐部",
+	946,
+	3,
+	"containing invalid attribute",
+	"!width=50%"
+],[
+	"青年文學獎",
+	4622,
+	3,
+	"containing invalid attribute",
+	"優異獎"
+],[
+	"青春有你 (第二季)",
+	999,
+	4,
+	"containing invalid attribute",
+	"陸柯燃"
+],[
+	"青春點點點",
+	33,
+	51,
+	"containing invalid attribute",
+	"  width:100%\""
+],[
+	"青朗公路",
+	51,
+	178,
+	"containing invalid attribute",
+	"style\":\"margin-left:1em; "
+],[
+	"青木勝男",
+	41,
+	3,
+	"containing invalid attribute",
+	"年度"
+],[
+	"青木宣親",
+	116,
+	3,
+	"containing invalid attribute",
+	"年度"
+],[
+	"青柳晃洋",
+	43,
+	3,
+	"containing invalid attribute",
+	"年度"
+],[
+	"青沙公路",
+	87,
+	178,
+	"containing invalid attribute",
+	"style\":\"margin-left:1em; "
+],[
+	"青蒿琥酯",
+	179,
+	48,
+	"containing invalid attribute",
+	"  /\n\n 由Amivas製藥生產的靜脈注射青蒿琥酯提出的申請獲得FDA優先審查（以加速藥物上市、促進藥物研發及提升公共健康）及核准的待遇，也獲得[[孤兒藥]]"
+],[
+	"青虫 aoi",
+	17,
+	40,
+	"containing invalid attribute",
+	"  font-weight:bold\"   "
+],[
+	"青衣西北交匯處",
+	29,
+	178,
+	"containing invalid attribute",
+	"style\":\"margin-left:1em; "
+],[
+	"青龍電影獎",
+	131,
+	3,
+	"containing invalid attribute",
+	"{{link-ko|許長江|허장강}}《{lk"
+],[
+	"非公認戰隊秋葉原連者",
+	162,
+	51,
+	"containing invalid attribute",
+	" smaller;\""
+],[
+	"非常律師禹英禑的迴響",
+	914,
+	3,
+	"containing invalid attribute",
+	" {{ubl"
+],[
+	"非拉丁裔白人",
+	24,
+	30,
+	"containing invalid attribute",
+	"  font-size:75%\""
+],[
+	"非洲裝甲集群",
+	1,
+	20,
+	"useless link text",
+	"|非洲裝甲集群"
+],[
+	"非洲軍",
+	1,
+	18,
+	"useless link text",
+	"|非洲軍团"
+],[
+	"非洲集團軍",
+	1,
+	20,
+	"useless link text",
+	"|非洲集團軍"
+],[
+	"革出教门",
+	1,
+	14,
+	"useless link text",
+	"|革出教门"
+],[
+	"靴高斯足球會",
+	54,
+	3,
+	"containing invalid attribute",
+	"!width=30%"
+],[
+	"韋以茵",
+	93,
+	3,
+	"containing invalid attribute",
+	"倚天屠龍記 (1978年電視劇)"
+],[
+	"韋佳德面對面",
+	84,
+	3,
+	"containing invalid attribute",
+	" 第18集 "
+],[
+	"韋勞",
+	1,
+	26,
+	"useless link text",
+	"|茲納緬斯克 (加里寧格勒州)"
+],[
+	"韋斯咸2011年至2012年球季",
+	86,
+	3,
+	"containing invalid attribute",
+	"!width=20%"
+],[
+	"韋斯咸2012年至2013年球季",
+	86,
+	3,
+	"containing invalid attribute",
+	"!width=20%"
+],[
+	"韋斯咸2013年至2014年球季",
+	85,
+	3,
+	"containing invalid attribute",
+	"!width=20%"
+],[
+	"韋斯咸2014年至2015年球季",
+	89,
+	3,
+	"containing invalid attribute",
+	"!width=19%"
+],[
+	"韋斯特豪特40",
+	105,
+	415,
+	"invalid content in <references>",
+	"  -->\n\n "
+],[
+	"韋根2013年至2014年球季",
+	97,
+	3,
+	"containing invalid attribute",
+	"!width=20%"
+],[
+	"韋根2014年至2015年球季",
+	85,
+	3,
+	"containing invalid attribute",
+	"!width=19%"
+],[
+	"韋馱",
+	12,
+	97,
+	"attributes of a closing tag",
+	" text"
+],[
+	"韓光成",
+	100,
+	35,
+	"containing invalid attribute",
+	" left;\""
+],[
+	"韓國國務總理列表",
+	43,
+	3,
+	"containing invalid attribute",
+	"{align=\"center\"  "
+],[
+	"韓國國家女子籃球隊",
+	34,
+	3,
+	"containing invalid attribute",
+	" \"font-size:70%\"  "
+],[
+	"韓國國會議長",
+	32,
+	18,
+	"containing invalid attribute",
+	" \"black\"; "
+],[
+	"韓國放送大獎",
+	41,
+	152,
+	"containing invalid attribute",
+	"style\":\"background-color: #B2CCFF "
+],[
+	"韓國第一夫人",
+	20,
+	18,
+	"containing invalid attribute",
+	" \"black\"; "
+],[
+	"韓庚",
+	622,
+	4,
+	"containing invalid attribute",
+	"韓庚"
+],[
+	"韓忠羽",
+	315,
+	28,
+	"containing invalid attribute",
+	"最强洗脑神曲"
+],[
+	"韓石圭",
+	103,
+	58,
+	"containing invalid attribute",
+	" 朝鮮世宗"
+],[
+	"韓雨潔",
+	51,
+	83,
+	"containing invalid attribute",
+	" 日本電視台NTV第六季單發特別版"
+],[
+	"韦利亚",
+	51,
+	1,
+	"invalid content in <gallery>",
+	" [[File:Velia.jpg|thumb|right|200px|Porta Rosa]]"
+],[
+	"韦尔莱表",
+	31,
+	123,
+	"containing invalid attribute",
+	" name-\"Cell_lists\""
+],[
+	"韦氏词典",
+	130,
+	3,
+	"containing invalid attribute",
+	"'''f'''i"
+],[
+	"韩国国民签证要求",
+	475,
+	88,
+	"containing invalid attribute",
+	"  \"class=\"table-yes\""
+],],"batches":51}

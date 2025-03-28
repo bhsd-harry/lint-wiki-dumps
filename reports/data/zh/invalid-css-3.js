@@ -1,1 +1,1201 @@
-window.data={"articles":[["Draft:國立中興大學",338,93,"semi-colon expected",""],["Draft:安德里亚·基米·安东内利",564,22,"property value expected","#"],["Draft:曹薇娟",142,72,"semi-colon expected","nowrap"],["Draft:月鳞绮纪",3,68,"} expected","10px"],["Draft:鄭詩穎",5,81,"} expected","10px"],["Draft:陳慧嫻 Priscilla-ism 演唱會",18,37,"semi-colon expected",""],["Dreamcatcher",808,23,"} expected",";"],["Dumdi Dumdi",185,21,"colon expected",";"],["E-girls",107,70,"semi-colon expected",""],["EASY (LE SSERAFIM歌曲)",36,50,"colon expected","="],["EASY (LE SSERAFIM迷你專輯)",100,50,"colon expected","="],["EJ (藝人)",69,28,"semi-colon expected",":"],["EL7Z UP",195,34,"property value expected",";"],["EL7Z UP舞台表演列表",55,53,"property value expected",";"],["Energy (組合)",44,18,"property value expected","#10dded6"],["ESCAPE (迷你專輯)",522,36,"term expected",""],["EVERGLOW",440,22,"property value expected",";"],["Every Night (EXID歌曲)",79,53,"property value expected",""],["EXID",209,29,"semi-colon expected",""],["EXO FROM. EXOPLANET ＃1 - THE LOST PLANET -",342,39,"semi-colon expected",""],["EXO獲獎與提名列表",2334,61,"semi-colon expected","center"],["F.F.O",35,69,"property value expected",""],["F(x)音樂作品列表",1101,16,"semi-colon expected",""],["F2FS",211,36,"colon expected",";"],["F4方程式中国锦标赛",205,48,"semi-colon expected",""],["Face To Face (香港)",24,18,"property value expected","#aaaaa"],["Fantasy Boys",1248,107,"semi-colon expected",""],["Fantaz",23,18,"property value expected","#aaaaa"],["FAT TOM",9,15,"colon expected","="],["Fe3O4: BREAK",145,50,"colon expected","="],["Feel So Good (鄭秀文專輯)",178,22,"semi-colon expected",""],["FIESTAR",620,43,"semi-colon expected",""],["Fighting吧！天團",47,23,"property value expected",";"],["File:DWTV Ident.jpg",7,348,"colon expected",";"],["Fly High Project 2 'Rooftop'",157,21,"colon expected",";"],["Fly with Us",154,21,"colon expected",";"],["FM東京",88,36,"colon expected","="],["Focus全球新聞",141,21,"property value expected",";"],["FOLLOWMi 鄭秀文世界巡迴演唱會",49,37,"semi-colon expected",""],["Frank (白藝潾迷你專輯)",111,48,"semi-colon expected",""],["FRESH光之美少女！",646,73,"colon expected","="],["From our Memento Box",194,28,"semi-colon expected",":"],["Full Moon",167,48,"semi-colon expected",""],["Fundamental",26,18,"property value expected","#aaaaa"],["Fuying & Sam",41,18,"property value expected","#white"],["Gatas Brilhantes H.P.",107,10,"} expected",";"],["GBB",55,84,"semi-colon expected",""],["Genie:us",171,21,"colon expected",";"],["Give It To Me",128,25,"property value expected",""],["Give Me Your Heart",278,54,"colon expected","="],["Go Back夫婦",418,36,"property value expected","#black"],["God (韓國音樂團體)",545,48,"semi-colon expected",""],["Golden Child",1220,51,"semi-colon expected",""],["Good Casting",427,37,"property value expected","#black"],["Good Night Show 全民造星",451,21,"property value expected","#DCDCD"],["Grand Blue (電視節目)",34,37,"property value expected","#black"],["GRe4N BOYZ",1154,48,"semi-colon expected",":"],["GT3",13,65,"semi-colon expected",""],["H.O.T.",38,61,"colon expected","="],["H.U.B",177,36,"colon expected","%"],["H1-KEY",236,36,"colon expected","%"],["HAM (組合)",56,18,"property value expected","#10dded6"],["Handsome Tigers",103,35,"term expected",""],["HANN (Alone)",48,39,") expected","#gray"],["Hard Nut！～數學女孩的戀愛事件簿～",31,40,"semi-colon expected",":"],["Hardpack",17,64,"semi-colon expected",""],["Heart Rabbit Girls",43,83,"semi-colon expected",""],["HEART STATION",215,44,"property value expected","#white"],["HEAT (金賢重單曲)",44,54,"colon expected","="],["Help:使用手冊索引",5,112,"property value expected",""],["Help:漢志阿拉伯語國際音標",9,44,"} expected","2em"],["Help:阿薩姆語國際音標",162,22,"semi-colon expected",""],["Hey Mama!",418,55,"term expected",""],["Hey! Say! JUMP",544,41,"property value expected",";"],["HIDE & SEEK (專輯)",293,28,"semi-colon expected",":"],["Highlight音樂作品列表",28,35,"colon expected","85%"],["Holla (EXID單曲)",95,53,"property value expected",""],["Hot Pink (EXID歌曲)",99,53,"property value expected",""],["How How",91,47,"semi-colon expected",""],["HOYO-MiX",17,19,"colon expected","="],["HUR+",41,65,"semi-colon expected",""],["Hyena",575,37,"property value expected","#black"],["I Am (迷你專輯)",168,21,"colon expected",";"],["I Love You (我們結婚了原聲帶)",85,54,"colon expected","="],["I made",166,21,"colon expected",";"],["I trust",173,21,"colon expected",";"],["I-LAND",1188,31,"semi-colon expected",""],["I-WANT星勢力",28,18,"property value expected","#10dded6"],["I'll Be There",183,48,"property value expected",";"],["I'm the Trend",119,28,"semi-colon expected",":"],["ICU (女子團體)",118,36,"colon expected","%"],["Idol School",51,18,"property value expected","#10dded6"],["In Its Time",118,34,"colon expected",";"],["IN:VITE U",104,21,"colon expected",";"],["IN2IT",362,34,"colon expected","="],["Instinct of sight",26,64,"semi-colon expected",""],["INTO VIOLET",351,28,"semi-colon expected",":"],["IOS 14",361,29,"semi-colon expected",""],["IOS 15",671,42,"} expected","\""],["IOS和iPadOS设备列表",1246,21,"property value expected","#silver"],["IOS版本历史",574,50,"semi-colon expected","0"],["IPad mini",49,32,"property value expected","#silver"],["IPadOS 14",240,30,"semi-colon expected",""],["IPadOS 17",88,45,"semi-colon expected",""],["IPod touch",189,35,"property value expected","#silver"],["IPod touch (第五代)",34,21,"property value expected","#silver"],["IPod touch (第六代)",33,21,"property value expected","#silver"],["ITF世界网球巡回赛天津站",114,20,"property value expected",""],["ITF国际女子网球巡回赛奈曼站",35,20,"property value expected",""],["ITZY",61,79,"semi-colon expected",""],["IVE媒体作品列表",537,17,"colon expected","="],["IV號坦克",279,11,"} expected",";"],["IZ",372,23,"property value expected",""],["Izna",154,36,"colon expected","%"],["J-Air",44,31,"colon expected","="],["JBJ95",33,12,"} expected",";"],["JFA全日本U-12足球锦标赛",49,36,"colon expected",";"],["Joey Yung Perfect 10 Live 2009",28,37,"semi-colon expected",""],["Johnnie Walker Keep Walking StarLight 容祖兒演唱會 08",21,37,"semi-colon expected",""],["Joy (Red Velvet)",123,38,"colon expected","="],["JR九州高速船",74,84,"semi-colon expected","#"],["Justice (韓國電視劇)",290,37,"property value expected","#black"],["K ONE",30,37,"property value expected","#10dded6"],["K-Tigers Zero",31,27,"semi-colon expected",":"],["Kamatz",26,64,"semi-colon expected",":"],["KARA獲獎經歷及紀錄列表",326,57,"semi-colon expected",":"],["KARD",219,56,"semi-colon expected",""],["Karen Mok (專輯)",107,25,"semi-colon expected",""],["KATCH OUR LIFE Jer 柳應廷x MC 張天賦音樂會",40,50,"property value expected","#"],["KATCH OUR LIFE: WARNER! GO!音樂會",31,51,"property value expected","#"],["KBS昌原放送总局",185,42,"semi-colon expected",""],["Kei",53,22,"property value expected",":"],["Kelly Let's Celebrate!世界巡迴演唱會",58,37,"semi-colon expected",""],["Kick Back (威神V专辑)",125,48,"semi-colon expected",""],["KNK",248,36,"colon expected","%"],["K小姐懶人包",7,48,"term expected",""],["L.A. Boyz",43,18,"property value expected","#aaaaa"],["La La La (鄭秀文專輯)",193,22,"semi-colon expected",""],["Ladies First",127,22,"semi-colon expected",""],["Ladies' Code",239,36,"colon expected","%"],["Lapillus",177,36,"colon expected","%"],["Last Dance (Prod. GroovyRoom)",142,28,"semi-colon expected",":"],["LATATA",213,21,"colon expected",";"],["LIFE (許永生迷你專輯)",250,47,"property value expected",";"],["Light Us",163,21,"colon expected",";"],["LIGHTSUM",97,78,"semi-colon expected",""],["Linked Horizon",152,68,"colon expected",";"],["Lions in the Wild",57,92,"semi-colon expected","&"],["Lisa (泰國歌手)",488,24,"semi-colon expected",""],["Lived",141,34,"colon expected",";"],["Lolly Talk",397,41,"property value expected",""],["Lonely",215,48,"property value expected",";"],["Love Mi鄭秀文世界巡迴演唱會",60,37,"semi-colon expected",""],["Love One (女子團體)",100,36,"colon expected","%"],["LOVE or TAKE",114,21,"colon expected",";"],["Love Yourself 結 'Answer'",338,48,"semi-colon expected",""],["Love Yourself 转 'Tear'",349,48,"semi-colon expected",""],["LUCY (樂團)",34,12,"} expected",";"],["M61高速公路 (英國)",34,119,"semi-colon expected",""],["Mac mini",730,18,"semi-colon expected",""],["Mac Studio",41,35,"property value expected","#silver"],["MacBook Pro",640,36,"colon expected","="],["Mad Dog",351,37,"property value expected","#black"],["Madboii",169,34,"property value expected","#pink"],["Madmans Esprit",67,189,"property value expected",";"],["MAKING THE STAR : DSP BOYZ",35,26,"semi-colon expected",""],["Manhole：夢遊仙境的奉弼",393,37,"property value expected","#black"],["Maniac (樂隊)",17,64,"semi-colon expected",""],["Master Class",203,39,"property value expected","#"],["MDRT with Yoga Fly My Way",24,51,"property value expected","#"],["Me?",125,48,"semi-colon expected",""],["MediaWiki:Newusermessage-signatures",82,86,"property value expected","#Black"],["MediaWiki:Noarticletext-nopermission",5,38,"semi-colon expected",":"],["MediaWiki:Noarticletext-nopermission/zh",5,38,"semi-colon expected",":"],["MediaWiki:Noarticletext-nopermission/zh-cn",5,38,"semi-colon expected",":"],["MediaWiki:Noarticletext-nopermission/zh-hans",5,38,"semi-colon expected",":"],["MediaWiki:Noarticletext-nopermission/zh-hant",5,38,"semi-colon expected",":"],["MediaWiki:Noarticletext-nopermission/zh-hk",5,38,"semi-colon expected",":"],["MediaWiki:Noarticletext-nopermission/zh-mo",5,38,"semi-colon expected",":"],["MediaWiki:Noarticletext-nopermission/zh-my",5,38,"semi-colon expected",":"],["MediaWiki:Noarticletext-nopermission/zh-sg",5,38,"semi-colon expected",":"],["MediaWiki:Noarticletext-nopermission/zh-tw",5,38,"semi-colon expected",":"],["Meet Me Again (迷你專輯)",36,61,"colon expected","="],["MemeM",264,28,"semi-colon expected",":"],["MEMENTO",91,39,"property value expected","#"],["MEMORY: illusion",196,28,"semi-colon expected",":"],["Microsoft Lumia",85,30,"semi-colon expected",""],["Midnight Guest",137,21,"colon expected",";"],["Midnight Theatre",146,36,"term expected",""],["MILLI",334,29,"semi-colon expected",":"],["Mimiirose",182,36,"colon expected","%"],["Miss Back",91,29,"semi-colon expected",""],["MJ (ASTRO)",197,24,"semi-colon expected",""],["MNL48",2084,56,"semi-colon expected",""],["Module:Combination/doc",6,52,"semi-colon expected",":"],["Module:Delcat/doc",103,52,"semi-colon expected",":"],["Module:Number/doc",66,51,"semi-colon expected",":"],["Mother (韓國電視劇)",369,37,"property value expected","#black"],["Mouse (電視劇)",570,37,"property value expected","#black"],["MP魔幻力量",86,18,"property value expected","#10dded6"]],"batches":38}
+window.data={"articles":[[
+	"Draft:國立中興大學",
+	338,
+	93,
+	"semi-colon expected",
+	""
+],[
+	"Draft:安德里亚·基米·安东内利",
+	564,
+	22,
+	"property value expected",
+	"#"
+],[
+	"Draft:曹薇娟",
+	142,
+	72,
+	"semi-colon expected",
+	"nowrap"
+],[
+	"Draft:月鳞绮纪",
+	3,
+	68,
+	"} expected",
+	"10px"
+],[
+	"Draft:鄭詩穎",
+	5,
+	81,
+	"} expected",
+	"10px"
+],[
+	"Draft:陳慧嫻 Priscilla-ism 演唱會",
+	18,
+	37,
+	"semi-colon expected",
+	""
+],[
+	"Dreamcatcher",
+	808,
+	23,
+	"} expected",
+	";"
+],[
+	"Dumdi Dumdi",
+	185,
+	21,
+	"colon expected",
+	";"
+],[
+	"E-girls",
+	107,
+	70,
+	"semi-colon expected",
+	""
+],[
+	"EASY (LE SSERAFIM歌曲)",
+	36,
+	50,
+	"colon expected",
+	"="
+],[
+	"EASY (LE SSERAFIM迷你專輯)",
+	100,
+	50,
+	"colon expected",
+	"="
+],[
+	"EJ (藝人)",
+	69,
+	28,
+	"semi-colon expected",
+	":"
+],[
+	"EL7Z UP",
+	195,
+	34,
+	"property value expected",
+	";"
+],[
+	"EL7Z UP舞台表演列表",
+	55,
+	53,
+	"property value expected",
+	";"
+],[
+	"Energy (組合)",
+	44,
+	18,
+	"property value expected",
+	"#10dded6"
+],[
+	"ESCAPE (迷你專輯)",
+	522,
+	36,
+	"term expected",
+	""
+],[
+	"EVERGLOW",
+	440,
+	22,
+	"property value expected",
+	";"
+],[
+	"Every Night (EXID歌曲)",
+	79,
+	53,
+	"property value expected",
+	""
+],[
+	"EXID",
+	209,
+	29,
+	"semi-colon expected",
+	""
+],[
+	"EXO FROM. EXOPLANET ＃1 - THE LOST PLANET -",
+	342,
+	39,
+	"semi-colon expected",
+	""
+],[
+	"EXO獲獎與提名列表",
+	2334,
+	61,
+	"semi-colon expected",
+	"center"
+],[
+	"F.F.O",
+	35,
+	69,
+	"property value expected",
+	""
+],[
+	"F(x)音樂作品列表",
+	1101,
+	16,
+	"semi-colon expected",
+	""
+],[
+	"F2FS",
+	211,
+	36,
+	"colon expected",
+	";"
+],[
+	"F4方程式中国锦标赛",
+	205,
+	48,
+	"semi-colon expected",
+	""
+],[
+	"Face To Face (香港)",
+	24,
+	18,
+	"property value expected",
+	"#aaaaa"
+],[
+	"Fantasy Boys",
+	1248,
+	107,
+	"semi-colon expected",
+	""
+],[
+	"Fantaz",
+	23,
+	18,
+	"property value expected",
+	"#aaaaa"
+],[
+	"FAT TOM",
+	9,
+	15,
+	"colon expected",
+	"="
+],[
+	"Fe3O4: BREAK",
+	145,
+	50,
+	"colon expected",
+	"="
+],[
+	"Feel So Good (鄭秀文專輯)",
+	178,
+	22,
+	"semi-colon expected",
+	""
+],[
+	"FIESTAR",
+	620,
+	43,
+	"semi-colon expected",
+	""
+],[
+	"Fighting吧！天團",
+	47,
+	23,
+	"property value expected",
+	";"
+],[
+	"File:DWTV Ident.jpg",
+	7,
+	348,
+	"colon expected",
+	";"
+],[
+	"Fly High Project 2 'Rooftop'",
+	157,
+	21,
+	"colon expected",
+	";"
+],[
+	"Fly with Us",
+	154,
+	21,
+	"colon expected",
+	";"
+],[
+	"FM東京",
+	88,
+	36,
+	"colon expected",
+	"="
+],[
+	"Focus全球新聞",
+	141,
+	21,
+	"property value expected",
+	";"
+],[
+	"FOLLOWMi 鄭秀文世界巡迴演唱會",
+	49,
+	37,
+	"semi-colon expected",
+	""
+],[
+	"Frank (白藝潾迷你專輯)",
+	111,
+	48,
+	"semi-colon expected",
+	""
+],[
+	"FRESH光之美少女！",
+	646,
+	73,
+	"colon expected",
+	"="
+],[
+	"From our Memento Box",
+	194,
+	28,
+	"semi-colon expected",
+	":"
+],[
+	"Full Moon",
+	167,
+	48,
+	"semi-colon expected",
+	""
+],[
+	"Fundamental",
+	26,
+	18,
+	"property value expected",
+	"#aaaaa"
+],[
+	"Fuying & Sam",
+	41,
+	18,
+	"property value expected",
+	"#white"
+],[
+	"Gatas Brilhantes H.P.",
+	107,
+	10,
+	"} expected",
+	";"
+],[
+	"GBB",
+	55,
+	84,
+	"semi-colon expected",
+	""
+],[
+	"Genie:us",
+	171,
+	21,
+	"colon expected",
+	";"
+],[
+	"Give It To Me",
+	128,
+	25,
+	"property value expected",
+	""
+],[
+	"Give Me Your Heart",
+	278,
+	54,
+	"colon expected",
+	"="
+],[
+	"Go Back夫婦",
+	418,
+	36,
+	"property value expected",
+	"#black"
+],[
+	"God (韓國音樂團體)",
+	545,
+	48,
+	"semi-colon expected",
+	""
+],[
+	"Golden Child",
+	1220,
+	51,
+	"semi-colon expected",
+	""
+],[
+	"Good Casting",
+	427,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"Good Night Show 全民造星",
+	451,
+	21,
+	"property value expected",
+	"#DCDCD"
+],[
+	"Grand Blue (電視節目)",
+	34,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"GRe4N BOYZ",
+	1154,
+	48,
+	"semi-colon expected",
+	":"
+],[
+	"GT3",
+	13,
+	65,
+	"semi-colon expected",
+	""
+],[
+	"H.O.T.",
+	38,
+	61,
+	"colon expected",
+	"="
+],[
+	"H.U.B",
+	177,
+	36,
+	"colon expected",
+	"%"
+],[
+	"H1-KEY",
+	236,
+	36,
+	"colon expected",
+	"%"
+],[
+	"HAM (組合)",
+	56,
+	18,
+	"property value expected",
+	"#10dded6"
+],[
+	"Handsome Tigers",
+	103,
+	35,
+	"term expected",
+	""
+],[
+	"HANN (Alone)",
+	48,
+	39,
+	") expected",
+	"#gray"
+],[
+	"Hard Nut！～數學女孩的戀愛事件簿～",
+	31,
+	40,
+	"semi-colon expected",
+	":"
+],[
+	"Hardpack",
+	17,
+	64,
+	"semi-colon expected",
+	""
+],[
+	"Heart Rabbit Girls",
+	43,
+	83,
+	"semi-colon expected",
+	""
+],[
+	"HEART STATION",
+	215,
+	44,
+	"property value expected",
+	"#white"
+],[
+	"HEAT (金賢重單曲)",
+	44,
+	54,
+	"colon expected",
+	"="
+],[
+	"Help:使用手冊索引",
+	5,
+	112,
+	"property value expected",
+	""
+],[
+	"Help:漢志阿拉伯語國際音標",
+	9,
+	44,
+	"} expected",
+	"2em"
+],[
+	"Help:阿薩姆語國際音標",
+	162,
+	22,
+	"semi-colon expected",
+	""
+],[
+	"Hey Mama!",
+	418,
+	55,
+	"term expected",
+	""
+],[
+	"Hey! Say! JUMP",
+	544,
+	41,
+	"property value expected",
+	";"
+],[
+	"HIDE & SEEK (專輯)",
+	293,
+	28,
+	"semi-colon expected",
+	":"
+],[
+	"Highlight音樂作品列表",
+	28,
+	35,
+	"colon expected",
+	"85%"
+],[
+	"Holla (EXID單曲)",
+	95,
+	53,
+	"property value expected",
+	""
+],[
+	"Hot Pink (EXID歌曲)",
+	99,
+	53,
+	"property value expected",
+	""
+],[
+	"How How",
+	91,
+	47,
+	"semi-colon expected",
+	""
+],[
+	"HOYO-MiX",
+	17,
+	19,
+	"colon expected",
+	"="
+],[
+	"HUR+",
+	41,
+	65,
+	"semi-colon expected",
+	""
+],[
+	"Hyena",
+	575,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"I Am (迷你專輯)",
+	168,
+	21,
+	"colon expected",
+	";"
+],[
+	"I Love You (我們結婚了原聲帶)",
+	85,
+	54,
+	"colon expected",
+	"="
+],[
+	"I made",
+	166,
+	21,
+	"colon expected",
+	";"
+],[
+	"I trust",
+	173,
+	21,
+	"colon expected",
+	";"
+],[
+	"I-LAND",
+	1188,
+	31,
+	"semi-colon expected",
+	""
+],[
+	"I-WANT星勢力",
+	28,
+	18,
+	"property value expected",
+	"#10dded6"
+],[
+	"I'll Be There",
+	183,
+	48,
+	"property value expected",
+	";"
+],[
+	"I'm the Trend",
+	119,
+	28,
+	"semi-colon expected",
+	":"
+],[
+	"ICU (女子團體)",
+	118,
+	36,
+	"colon expected",
+	"%"
+],[
+	"Idol School",
+	51,
+	18,
+	"property value expected",
+	"#10dded6"
+],[
+	"In Its Time",
+	118,
+	34,
+	"colon expected",
+	";"
+],[
+	"IN:VITE U",
+	104,
+	21,
+	"colon expected",
+	";"
+],[
+	"IN2IT",
+	362,
+	34,
+	"colon expected",
+	"="
+],[
+	"Instinct of sight",
+	26,
+	64,
+	"semi-colon expected",
+	""
+],[
+	"INTO VIOLET",
+	351,
+	28,
+	"semi-colon expected",
+	":"
+],[
+	"IOS 14",
+	361,
+	29,
+	"semi-colon expected",
+	""
+],[
+	"IOS 15",
+	671,
+	42,
+	"} expected",
+	"\""
+],[
+	"IOS和iPadOS设备列表",
+	1246,
+	21,
+	"property value expected",
+	"#silver"
+],[
+	"IOS版本历史",
+	574,
+	50,
+	"semi-colon expected",
+	"0"
+],[
+	"IPad mini",
+	49,
+	32,
+	"property value expected",
+	"#silver"
+],[
+	"IPadOS 14",
+	240,
+	30,
+	"semi-colon expected",
+	""
+],[
+	"IPadOS 17",
+	88,
+	45,
+	"semi-colon expected",
+	""
+],[
+	"IPod touch",
+	189,
+	35,
+	"property value expected",
+	"#silver"
+],[
+	"IPod touch (第五代)",
+	34,
+	21,
+	"property value expected",
+	"#silver"
+],[
+	"IPod touch (第六代)",
+	33,
+	21,
+	"property value expected",
+	"#silver"
+],[
+	"ITF世界网球巡回赛天津站",
+	114,
+	20,
+	"property value expected",
+	""
+],[
+	"ITF国际女子网球巡回赛奈曼站",
+	35,
+	20,
+	"property value expected",
+	""
+],[
+	"ITZY",
+	61,
+	79,
+	"semi-colon expected",
+	""
+],[
+	"IVE媒体作品列表",
+	537,
+	17,
+	"colon expected",
+	"="
+],[
+	"IV號坦克",
+	279,
+	11,
+	"} expected",
+	";"
+],[
+	"IZ",
+	372,
+	23,
+	"property value expected",
+	""
+],[
+	"Izna",
+	154,
+	36,
+	"colon expected",
+	"%"
+],[
+	"J-Air",
+	44,
+	31,
+	"colon expected",
+	"="
+],[
+	"JBJ95",
+	33,
+	12,
+	"} expected",
+	";"
+],[
+	"JFA全日本U-12足球锦标赛",
+	49,
+	36,
+	"colon expected",
+	";"
+],[
+	"Joey Yung Perfect 10 Live 2009",
+	28,
+	37,
+	"semi-colon expected",
+	""
+],[
+	"Johnnie Walker Keep Walking StarLight 容祖兒演唱會 08",
+	21,
+	37,
+	"semi-colon expected",
+	""
+],[
+	"Joy (Red Velvet)",
+	123,
+	38,
+	"colon expected",
+	"="
+],[
+	"JR九州高速船",
+	74,
+	84,
+	"semi-colon expected",
+	"#"
+],[
+	"Justice (韓國電視劇)",
+	290,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"K ONE",
+	30,
+	37,
+	"property value expected",
+	"#10dded6"
+],[
+	"K-Tigers Zero",
+	31,
+	27,
+	"semi-colon expected",
+	":"
+],[
+	"Kamatz",
+	26,
+	64,
+	"semi-colon expected",
+	":"
+],[
+	"KARA獲獎經歷及紀錄列表",
+	326,
+	57,
+	"semi-colon expected",
+	":"
+],[
+	"KARD",
+	219,
+	56,
+	"semi-colon expected",
+	""
+],[
+	"Karen Mok (專輯)",
+	107,
+	25,
+	"semi-colon expected",
+	""
+],[
+	"KATCH OUR LIFE Jer 柳應廷x MC 張天賦音樂會",
+	40,
+	50,
+	"property value expected",
+	"#"
+],[
+	"KATCH OUR LIFE: WARNER! GO!音樂會",
+	31,
+	51,
+	"property value expected",
+	"#"
+],[
+	"KBS昌原放送总局",
+	185,
+	42,
+	"semi-colon expected",
+	""
+],[
+	"Kei",
+	53,
+	22,
+	"property value expected",
+	":"
+],[
+	"Kelly Let's Celebrate!世界巡迴演唱會",
+	58,
+	37,
+	"semi-colon expected",
+	""
+],[
+	"Kick Back (威神V专辑)",
+	125,
+	48,
+	"semi-colon expected",
+	""
+],[
+	"KNK",
+	248,
+	36,
+	"colon expected",
+	"%"
+],[
+	"K小姐懶人包",
+	7,
+	48,
+	"term expected",
+	""
+],[
+	"L.A. Boyz",
+	43,
+	18,
+	"property value expected",
+	"#aaaaa"
+],[
+	"La La La (鄭秀文專輯)",
+	193,
+	22,
+	"semi-colon expected",
+	""
+],[
+	"Ladies First",
+	127,
+	22,
+	"semi-colon expected",
+	""
+],[
+	"Ladies' Code",
+	239,
+	36,
+	"colon expected",
+	"%"
+],[
+	"Lapillus",
+	177,
+	36,
+	"colon expected",
+	"%"
+],[
+	"Last Dance (Prod. GroovyRoom)",
+	142,
+	28,
+	"semi-colon expected",
+	":"
+],[
+	"LATATA",
+	213,
+	21,
+	"colon expected",
+	";"
+],[
+	"LIFE (許永生迷你專輯)",
+	250,
+	47,
+	"property value expected",
+	";"
+],[
+	"Light Us",
+	163,
+	21,
+	"colon expected",
+	";"
+],[
+	"LIGHTSUM",
+	97,
+	78,
+	"semi-colon expected",
+	""
+],[
+	"Linked Horizon",
+	152,
+	68,
+	"colon expected",
+	";"
+],[
+	"Lions in the Wild",
+	57,
+	92,
+	"semi-colon expected",
+	"&"
+],[
+	"Lisa (泰國歌手)",
+	488,
+	24,
+	"semi-colon expected",
+	""
+],[
+	"Lived",
+	141,
+	34,
+	"colon expected",
+	";"
+],[
+	"Lolly Talk",
+	397,
+	41,
+	"property value expected",
+	""
+],[
+	"Lonely",
+	215,
+	48,
+	"property value expected",
+	";"
+],[
+	"Love Mi鄭秀文世界巡迴演唱會",
+	60,
+	37,
+	"semi-colon expected",
+	""
+],[
+	"Love One (女子團體)",
+	100,
+	36,
+	"colon expected",
+	"%"
+],[
+	"LOVE or TAKE",
+	114,
+	21,
+	"colon expected",
+	";"
+],[
+	"Love Yourself 結 'Answer'",
+	338,
+	48,
+	"semi-colon expected",
+	""
+],[
+	"Love Yourself 转 'Tear'",
+	349,
+	48,
+	"semi-colon expected",
+	""
+],[
+	"LUCY (樂團)",
+	34,
+	12,
+	"} expected",
+	";"
+],[
+	"M61高速公路 (英國)",
+	34,
+	119,
+	"semi-colon expected",
+	""
+],[
+	"Mac mini",
+	730,
+	18,
+	"semi-colon expected",
+	""
+],[
+	"Mac Studio",
+	41,
+	35,
+	"property value expected",
+	"#silver"
+],[
+	"MacBook Pro",
+	640,
+	36,
+	"colon expected",
+	"="
+],[
+	"Mad Dog",
+	351,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"Madboii",
+	169,
+	34,
+	"property value expected",
+	"#pink"
+],[
+	"Madmans Esprit",
+	67,
+	189,
+	"property value expected",
+	";"
+],[
+	"MAKING THE STAR : DSP BOYZ",
+	35,
+	26,
+	"semi-colon expected",
+	""
+],[
+	"Manhole：夢遊仙境的奉弼",
+	393,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"Maniac (樂隊)",
+	17,
+	64,
+	"semi-colon expected",
+	""
+],[
+	"Master Class",
+	203,
+	39,
+	"property value expected",
+	"#"
+],[
+	"MDRT with Yoga Fly My Way",
+	24,
+	51,
+	"property value expected",
+	"#"
+],[
+	"Me?",
+	125,
+	48,
+	"semi-colon expected",
+	""
+],[
+	"MediaWiki:Newusermessage-signatures",
+	82,
+	86,
+	"property value expected",
+	"#Black"
+],[
+	"MediaWiki:Noarticletext-nopermission",
+	5,
+	38,
+	"semi-colon expected",
+	":"
+],[
+	"MediaWiki:Noarticletext-nopermission/zh",
+	5,
+	38,
+	"semi-colon expected",
+	":"
+],[
+	"MediaWiki:Noarticletext-nopermission/zh-cn",
+	5,
+	38,
+	"semi-colon expected",
+	":"
+],[
+	"MediaWiki:Noarticletext-nopermission/zh-hans",
+	5,
+	38,
+	"semi-colon expected",
+	":"
+],[
+	"MediaWiki:Noarticletext-nopermission/zh-hant",
+	5,
+	38,
+	"semi-colon expected",
+	":"
+],[
+	"MediaWiki:Noarticletext-nopermission/zh-hk",
+	5,
+	38,
+	"semi-colon expected",
+	":"
+],[
+	"MediaWiki:Noarticletext-nopermission/zh-mo",
+	5,
+	38,
+	"semi-colon expected",
+	":"
+],[
+	"MediaWiki:Noarticletext-nopermission/zh-my",
+	5,
+	38,
+	"semi-colon expected",
+	":"
+],[
+	"MediaWiki:Noarticletext-nopermission/zh-sg",
+	5,
+	38,
+	"semi-colon expected",
+	":"
+],[
+	"MediaWiki:Noarticletext-nopermission/zh-tw",
+	5,
+	38,
+	"semi-colon expected",
+	":"
+],[
+	"Meet Me Again (迷你專輯)",
+	36,
+	61,
+	"colon expected",
+	"="
+],[
+	"MemeM",
+	264,
+	28,
+	"semi-colon expected",
+	":"
+],[
+	"MEMENTO",
+	91,
+	39,
+	"property value expected",
+	"#"
+],[
+	"MEMORY: illusion",
+	196,
+	28,
+	"semi-colon expected",
+	":"
+],[
+	"Microsoft Lumia",
+	85,
+	30,
+	"semi-colon expected",
+	""
+],[
+	"Midnight Guest",
+	137,
+	21,
+	"colon expected",
+	";"
+],[
+	"Midnight Theatre",
+	146,
+	36,
+	"term expected",
+	""
+],[
+	"MILLI",
+	334,
+	29,
+	"semi-colon expected",
+	":"
+],[
+	"Mimiirose",
+	182,
+	36,
+	"colon expected",
+	"%"
+],[
+	"Miss Back",
+	91,
+	29,
+	"semi-colon expected",
+	""
+],[
+	"MJ (ASTRO)",
+	197,
+	24,
+	"semi-colon expected",
+	""
+],[
+	"MNL48",
+	2084,
+	56,
+	"semi-colon expected",
+	""
+],[
+	"Module:Combination/doc",
+	6,
+	52,
+	"semi-colon expected",
+	":"
+],[
+	"Module:Delcat/doc",
+	103,
+	52,
+	"semi-colon expected",
+	":"
+],[
+	"Module:Number/doc",
+	66,
+	51,
+	"semi-colon expected",
+	":"
+],[
+	"Mother (韓國電視劇)",
+	369,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"Mouse (電視劇)",
+	570,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"MP魔幻力量",
+	86,
+	18,
+	"property value expected",
+	"#10dded6"
+],],"batches":38}

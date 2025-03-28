@@ -1,1 +1,1201 @@
-window.data={"articles":[["?te",34,40,"containing invalid attribute","  font-weight:bold\"   "],["“食”万八千里",100,79,"containing invalid attribute","width20%"],["(G)I-DLE",123,164,"containing invalid attribute"," source”"],["(G)I-DLE获奖与提名列表",222,3,"containing invalid attribute","《TOMBOY》"],["《塞尔玛》获奖名单",561,3,"containing invalid attribute"," 卫星奖最佳原创剧本"],["《蜘蛛侠：平行宇宙》获奖名单",435,3,"containing invalid attribute","《蜘蛛侠：平行宇宙》"],["《龍與雀斑公主》獲獎與提名列表",5,4710,"containing invalid attribute"," Annie”"],["「守護香港反送中」大遊行",48,41,"containing invalid attribute"," name\"mingpao0610\""],["⛈",1,15,"useless link text","|雷暴"],["🇮🇶",1,19,"useless link text","|伊拉克国旗"],["🇯🇴",1,18,"useless link text","|约旦国旗"],["🍷",1,17,"useless link text","|紅酒"],["🍾",1,15,"useless link text","|香檳"],["🎁",1,14,"useless link text","|礼物"],["🎪",1,14,"useless link text","|馬戲"],["🏙️",1,16,"useless link text","|摩天大楼"],["👄",1,14,"useless link text","|嘴"],["💴",1,15,"useless link text","|日元"],["💸",1,14,"useless link text","|消費"],["📅",1,18,"useless link text","|日历"],["📆",1,18,"useless link text","|日历"],["🔵",1,13,"useless link text","|圓"],["🖨",1,16,"useless link text","|打印機"],["009-1",78,46,"containing invalid attribute","#アニメーター・メカ作画監督"],["037型反潜护卫艇",124,27,"containing invalid attribute","  \"toccolours\"  "],["053H型导弹护卫舰",257,33,"containing invalid attribute"," 130人 "],["054型导弹护卫舰",93,36,"containing invalid attribute","温州舰\"服役  \""],["10族元素",36,4,"containing invalid attribute","10族元素特性"],["113學年度高中籃球聯賽",413,73,"containing invalid attribute"," 莊敬高職"],["1257年薩馬拉斯火山爆發",102,422,"containing invalid attribute","/，之後的冬天則漫長又寒冷<ref "],["12族元素",56,4,"containing invalid attribute","12族元素的性质"],["12道锋味",502,3,"containing invalid attribute","!rowspan=\"2\""],["13碳核磁共振",13,1,"invalid content in <gallery>"," {{clear}}"],["14U",242,15,"containing invalid attribute","  color:black\""],["1769年教宗選舉秘密會議",242,4,"containing invalid attribute","主教"],["1788年—1789年美國總統選舉",143,3,"containing invalid attribute"," style\"text-align:left\"  "],["1792年美国总统选举",120,4,"containing invalid attribute"," oiopi[poi[oi["],["1824年美国总统选举",325,3,"containing invalid attribute"," style\"text-align:left\"  "],["1826年美國",12,1,"invalid content in <gallery>"," File:John Marshall by Henry Inman, 1832.jpg：[[约翰·马歇尔]]"],["1832年美国总统选举康涅狄格州选情",52,44,"containing invalid attribute"," 3px\"  "],["1860慕尼黑體育會",542,110,"containing invalid attribute","100%\""],["1896年體育",42,3,"containing invalid attribute","!align=\"center\"  "],["1900年各国人口列表",459,10,"containing invalid attribute"," (Suertsey) "],["1900年夏季奥林匹克运动会波希米亚代表团",196,3,"containing invalid attribute","{{flagIOCathlete|[[Yvonne Prévost|Prévost]]|FRA|1900年夏季}}<br />'''L''' 1–6, 1–6 "],["1900年夏季奧林匹克運動會足球比賽",60,3,"containing invalid attribute","!align=\"center\"  "],["1902年地震列表",581,379,"containing invalid attribute"," {{flag"],["1904年夏季奥林匹克运动会古巴代表团",100,17,"containing invalid attribute"," | [[1904年夏季奥林匹克运动会田径比赛 – 男子马拉松|男子马拉松]] "],["1904年夏季奥林匹克运动会足球比赛",71,3,"containing invalid attribute","!align=\"center\"  "],["1904年體育",32,3,"containing invalid attribute","!align=\"center\"  "],["1908年夏季奥林匹克运动会射箭比赛",11,3,"containing invalid attribute"," 男子 "],["1908年夏季奥林匹克运动会足球比赛",70,3,"containing invalid attribute","!align=\"center\"  "],["1908年體育",32,3,"containing invalid attribute","!align=\"center\"  "],["1910年伦敦到曼彻斯特飞行比赛",39,256,"containing invalid attribute","/怀特利用[[火车站]]的灯光指路，在40分钟内到达了[[拉格比]]并在凌晨3:50飞越[[纳尼顿]]。虽说他的进程十分顺利，但是他的飞机携带了大量[[燃油]]"],["1912年夏季奥林匹克运动会波希米亚代表团",469,17,"containing invalid attribute"," <br>  "],["1912年體育",32,3,"containing invalid attribute","!align=\"center\"  "],["1920年夏季奥林匹克运动会爱沙尼亚代表团",80,3,"containing invalid attribute","2:32.48,6 "],["1920年體育",25,3,"containing invalid attribute","!align=\"center\"  "],["1924年夏季奥林匹克运动会卢森堡代表团",190,20,"containing invalid attribute"," <br>  "],["1924年體育",32,3,"containing invalid attribute","!align=\"center\"  "],["1928年體育",32,3,"containing invalid attribute","!align=\"center\"  "],["1932年夏季奥林匹克运动会爱沙尼亚代表团",67,3,"containing invalid attribute","{{flagIOCathlete|[[Ivar Johansson (wrestler)|Ivar Johansson]]|SWE|1932年夏季}}<br>'"],["1932年體育",31,3,"containing invalid attribute","!align=\"center\"  "],["1935年—1940年苏联军衔",356,25,"containing invalid attribute"," {{tsl"],["1936年體育",18,3,"containing invalid attribute","!align=\"center\"  "],["1946年體育",27,75,"containing invalid attribute","  border-collapse:collapse;\""],["1948年體育",31,3,"containing invalid attribute","!align=\"center\"  "],["1952年體育",31,3,"containing invalid attribute","!align=\"center\"  "],["1956年夏季奥林匹克运动会印度尼西亚代表团",132,4,"containing invalid attribute"," (Heat 4) "],["1956年歐洲足球先生",27,31,"containing invalid attribute","  align:\"center\"  "],["1956年體育",31,3,"containing invalid attribute","!align=\"center\"  "],["1960年代日本動畫列表",103,4,"containing invalid attribute","||[[大提琴手高修]]||{{lang|ja|セロひきのゴーシュ}}||学習研究社||短篇"],["1960年夏季奥林匹克运动会加纳代表团",155,3,"containing invalid attribute","{{flagIOCathlete|[[Bohumil Němeček|Němeček]]|TCH|1960年夏季}}<br>'''L''' "],["1960年夏季奥林匹克运动会印度尼西亚代表团",207,4,"containing invalid attribute"," (Heat 2) "],["1960年夏季奥林匹克运动会足球比赛",82,3,"containing invalid attribute","!align=\"center\"  "],["1960年夏季奥林匹克运动会马耳他代表团",41,29,"containing invalid attribute"," | [[Alfred Grixti]]"],["1960年體育",36,3,"containing invalid attribute","!align=\"center\"  "],["1964年冬季奥林匹克运动会韩国代表团",31,3,"containing invalid attribute"," 大回转 "],["1964年體育",37,3,"containing invalid attribute","!align=\"center\"  "],["1968年世界大賽",38,33,"containing invalid attribute","老虎體育場 (底特律)"],["1968年加拿大冠军单曲列表",114,13,"containing invalid attribute"," {{单双书名号转换"],["1968年夏季奥林匹克运动会足球比赛",39,3,"containing invalid attribute","!align=\"center\"  "],["1968年美國職棒大聯盟全明星賽",176,15,"containing invalid attribute","{{link-en"],["1968年美國職棒大聯盟球季",160,33,"containing invalid attribute","老虎體育場 (底特律)"],["1968年體育",35,3,"containing invalid attribute","!align=\"center\"  "],["1969年美國職棒大聯盟全明星賽",159,16,"containing invalid attribute","{{link-en"],["1972年夏季奥林匹克运动会斯威士兰代表团",61,17,"containing invalid attribute"," |style=\"text-align:left;\"  "],["1972年夏季奥林匹克运动会足球比赛",48,3,"containing invalid attribute","!align=\"center\"  "],["1972年美國聯盟冠軍賽",32,42,"containing invalid attribute","老虎體育場 (底特律)"],["1972年美國職棒大聯盟季後賽",65,42,"containing invalid attribute","老虎體育場 (底特律)"],["1972年體育",24,3,"containing invalid attribute","!align=\"center\"  "],["1976年夏季奥林匹克运动会泰国代表团",63,3,"containing invalid attribute","{{flagIOCathlete|[[Li Byong-Uk|Byong-Uk]]|PRK|1976年夏季}}<br />'''L''' RSC–2 "],["1976年體育",29,3,"containing invalid attribute","!align=\"center\"  "],["1977年至1978年歐洲盃賽冠軍盃",50,4,"containing invalid attribute","|align=right|[[科隆足球俱樂部|科隆]] "],["1980年夏季奥林匹克运动会贝宁代表团",163,3,"containing invalid attribute","{{flagIOCathlete|[[Anicet Sambo]]|MAD|1980年夏季}}<br />'''W''' "],["1980年夏季奥林匹克运动会足球比赛",35,3,"containing invalid attribute","!align=\"center\"  "],["1980年夏季奥林匹克运动会阿尔及利亚代表团",50,35,"containing invalid attribute"," – 男子1500米|1500米]]"],["1982年香港電影作品列表",13,22,"containing invalid attribute"," center;'' "],["1983年香港電影作品列表",14,22,"containing invalid attribute"," center;’’ "],["1984年世界大賽",38,33,"containing invalid attribute","老虎體育場 (底特律)"],["1984年冬季奥林匹克运动会韩国代表团",113,3,"containing invalid attribute"," 15公里 "],["1984年勁歌金曲第二季季選得獎名單",23,31,"containing invalid attribute","  =\"text-align: center\""],["1984年夏季奥林匹克运动会冰岛代表团",86,3,"containing invalid attribute","<s>59.58</s>  "],["1984年夏季奥林匹克运动会卢森堡代表团",39,19,"containing invalid attribute","  |Jeannette "],["1984年夏季奥林匹克运动会泰国代表团",78,3,"containing invalid attribute","{{flagIOCathlete|[[Jerry Page|Page]]|USA|1984年夏季}}<br />'''L''' 0–5 "],["1984年夏季奥林匹克运动会赞比亚代表团",137,3,"containing invalid attribute","{{flagIOCathlete|[[Salvatore Todisco]]|ITA|1984年夏季}}<br />'''L''' "],["1984年美國職棒大聯盟季後賽",102,33,"containing invalid attribute","老虎體育場 (底特律)"],["1984年香港電影作品列表",13,22,"containing invalid attribute"," center;’’ "],["1984年體育",26,3,"containing invalid attribute","!align=\"center\"  "],["1985年香港立法局選舉",190,37,"containing invalid attribute","  <--!!!請保留!!>"],["1985年香港電影作品列表",13,22,"containing invalid attribute"," center;’’ "],["1986年香港電影作品列表",13,22,"containing invalid attribute"," center;'' "],["1987年美國聯盟冠軍賽",33,33,"containing invalid attribute","老虎體育場 (底特律)"],["1987年美國職棒大聯盟季後賽",66,33,"containing invalid attribute","老虎體育場 (底特律)"],["1988年体育",27,3,"containing invalid attribute","!align=\"center\"  "],["1988年冬季奥林匹克运动会摩纳哥代表团",70,3,"containing invalid attribute"," 男子双人 "],["1988年冬季奥林匹克运动会澳大利亚代表团",102,4,"containing invalid attribute","align\"center\" "],["1988年南美自由盃",143,4,"containing invalid attribute"," {{tablapartidos|a=a|w=69%|w3=19%|t3=Local|t5=Result|w4=0px|w6=0xp|t7=Visit|nob="],["1988年夏季奥林匹克运动会卢森堡代表团",59,35,"containing invalid attribute","|[[Justin Gloden]]"],["1988年夏季奥林匹克运动会哥伦比亚代表团",261,3,"containing invalid attribute","{{flagIOCathlete|[[Aleksandar Hristov|Hristov]]|BUL|1988年夏季}}<br>'''L''' 2–3 "],["1988年夏季奥林匹克运动会摩洛哥代表团",143,11,"containing invalid attribute"," '''OR''' "],["1988年夏季奥林匹克运动会毛里塔尼亚代表团",136,3,"containing invalid attribute","{{flagIOCathlete|[[Sören Claeson]]|SWE|1988年夏季}}<br />  "],["1988年夏季奥林匹克运动会毛里求斯代表团",291,3,"containing invalid attribute","{{flagIOCathlete|[[Dan Payne|Payne]]|CAN|1988年夏季}}<br>'''L''' "],["1988年夏季奥林匹克运动会美属维尔京群岛代表团",97,17,"containing invalid attribute"," | [[Calvin Dallas]]"],["1988年夏季奥林匹克运动会苏里南代表团",229,8,"containing invalid attribute"," '''OR''' "],["1988年夏季奥林匹克运动会西萨摩亚代表团",92,3,"containing invalid attribute","轻中量级 "],["1988年度十大勁歌金曲得獎名單",188,22,"containing invalid attribute",";font-size:small\""],["1989年冰岛足球超级联赛",9,4,"containing invalid attribute","\"background:#D0F0C0;\""],["1989年勁歌金曲第二季季選得獎名單",208,3,"containing invalid attribute","{{tsl"],["1990年度十大勁歌金曲得獎名單",159,22,"containing invalid attribute",";font-size:small\""],["1990年立陶宛最高蘇維埃選舉",76,29,"containing invalid attribute","  <!–– LŽP ––>  "],["1991年上海",37,1,"invalid content in <gallery>"," File:"],["1991年度十大勁歌金曲得獎名單",237,22,"containing invalid attribute",";font-size:small\""],["1992年上海",35,1,"invalid content in <gallery>"," File:"],["1992年冬季奥林匹克运动会韩国代表团",113,3,"containing invalid attribute"," 大回转 "],["1992年夏季奥林匹克运动会卢森堡代表团",95,35,"containing invalid attribute","|[[Yves Clausse]]"],["1992年夏季奥林匹克运动会安哥拉代表团",200,3,"containing invalid attribute","Half-中量级 "],["1992年夏季奥林匹克运动会泰国代表团",113,16,"containing invalid attribute"," |Teeranun "],["1992年夏季奧林匹克運動會棒球比賽",21,3,"containing invalid attribute","!align=\"center\"  "],["1992年度十大勁歌金曲得獎名單",127,22,"containing invalid attribute",";font-size:small\""],["1992年歐洲歌唱大賽",157,3,"containing invalid attribute"," \"Olou "],["1992年體育",30,3,"containing invalid attribute","!align=\"center\"  "],["1993年上海",36,1,"invalid content in <gallery>"," File:"],["1993年度十大勁歌金曲得獎名單",193,22,"containing invalid attribute",";font-size:small\""],["1994年上海",36,1,"invalid content in <gallery>"," File:"],["1994年冬季奥林匹克运动会拉脱维亚代表团",388,3,"containing invalid attribute","3000米"],["1994年冬季奥林匹克运动会爱沙尼亚代表团",529,8,"containing invalid attribute"," Levandi<br>Ago Markvardt<br>Magnar "],["1994年度十大勁歌金曲得獎名單",194,22,"containing invalid attribute",";font-size:small\""],["1995年上海",35,1,"invalid content in <gallery>"," File:"],["1995年度十大勁歌金曲得獎名單",199,22,"containing invalid attribute",";font-size:small\""],["1995年香港市政局及區域市政局選舉",92,37,"containing invalid attribute","  <--!!!請保留!!>"],["1996年上海",34,1,"invalid content in <gallery>"," File:"],["1996年夏季奥林匹克运动会巴勒斯坦代表团",33,3,"containing invalid attribute","{{AthAbbr"],["1996年夏季奥林匹克运动会泰国代表团",516,3,"containing invalid attribute","{{flagIOCathlete|[[Conchita Martínez]]<br />[[Arantxa Sánchez Vicario]]|ESP|1996"],["1996年夏季奥林匹克运动会美属维尔京群岛代表团",37,30,"containing invalid attribute"," | [[Mitchell "],["1996年夏季奥林匹克运动会菲律宾代表团",133,3,"containing invalid attribute","{{flagIOCathlete|[[Daniel Petrov|Petrov]]|BUL|1996年夏季}}<br />'''L''' 6–19 "],["1996年夏季奥林匹克运动会阿塞拜疆代表团",53,29,"containing invalid attribute","  |style=\"text-align:left\"|[[Arif Akhundov]]"],["1996年夏季奥林匹克运动会马其顿代表团",181,3,"containing invalid attribute","{{flagIOCathlete|[[Alejandro Puerto|Puerto]]|CUB|1996年夏季}}<br>  '''W''' "],["1996年夏季奧林匹克運動會壘球比賽",5,3,"containing invalid attribute","!align=\"center\"  "],["1996年夏季奧林匹克運動會棒球比賽",21,3,"containing invalid attribute","!align=\"center\"  "],["1996年夏季奧林匹克運動會網球比賽",28,3,"containing invalid attribute","!align=\"center\"  "],["1996年度十大勁歌金曲得獎名單",207,22,"containing invalid attribute",";font-size:small\""],["1996年珠穆朗瑪峰事故",74,3,"containing invalid attribute","!width=5% "],["1996年體育",26,3,"containing invalid attribute","!align=\"center\"  "],["1997年上海",34,1,"invalid content in <gallery>"," File:"],["1998年上海",35,1,"invalid content in <gallery>"," File:"],["1998年冬季奥林匹克运动会哈萨克斯坦代表团",716,3,"containing invalid attribute","1500米"],["1998年冬季奥林匹克运动会拉脱维亚代表团",539,3,"containing invalid attribute","1000米"],["1998年英联邦运动会",618,7,"attributes of a closing tag"," align=center"],["1999年上海",35,1,"invalid content in <gallery>"," File:"],["1999年度新城勁爆頒獎禮得獎名單",85,22,"containing invalid attribute",";font-size:small\""],["1999年香港區議會選舉結果",404,41,"containing invalid attribute","54.55%"],["1THE9",336,16,"containing invalid attribute"," {{link-ko"],["2000年上海",36,1,"invalid content in <gallery>"," File:"],["2000年夏季奥林匹克运动会喀麦隆代表团",164,30,"containing invalid attribute"," | [[Françoise Mbango]]"],["2000年夏季奥林匹克运动会塞内加尔代表团",132,30,"containing invalid attribute"," | [[Kène Ndoye]]"],["2000年夏季奥林匹克运动会塞浦路斯代表团",46,17,"containing invalid attribute"," | [[2000年夏季奥林匹克运动会田径比赛 – 男子200米|200米]]"],["2000年夏季奥林匹克运动会巴基斯坦代表团",145,4,"containing invalid attribute"," '''Q''' "],["2000年夏季奥林匹克运动会帕劳代表团",137,16,"containing invalid attribute"," |width=10%|[[Valerie Pedro]] "],["2000年夏季奥林匹克运动会毛里求斯代表团",118,39,"containing invalid attribute"," Casquette]]"],["2000年夏季奥林匹克运动会汤加代表团",66,3,"containing invalid attribute","scope'row\"  "],["2000年夏季奥林匹克运动会波多黎各代表团",38,17,"containing invalid attribute"," | [[Félix "],["2000年夏季奥林匹克运动会美属维尔京群岛代表团",72,30,"containing invalid attribute"," | [[2000年夏季奥林匹克运动会田径比赛 – 女子200米|200米]] "],["2000年夏季奥林匹克运动会阿塞拜疆代表团",375,3,"containing invalid attribute","{{flagIOCathlete|[[Martin Liddle|Liddle]]|NZL|2000年夏季}}<br />'''W''' 10–0 "],["2000年夏季奥林匹克运动会阿尔及利亚代表团",195,30,"containing invalid attribute"," | '''[[Abderrahmane Hammad]]''' | "],["2000年夏季奥林匹克运动会马其顿代表团",251,3,"containing invalid attribute","{{flagIOCathlete|[[Tatsuo Kawai (wrestler)|Kawai]]|JPN|2000年夏季}}<br>  '''W''' 6–"],["2000年夏季奧林匹克運動會壘球比賽",5,3,"containing invalid attribute","!align=\"center\"  "],["2000年夏季奧林匹克運動會網球比賽",32,3,"containing invalid attribute","!align=\"center\"  "],["2000年體育",25,3,"containing invalid attribute","!align=\"center\"  "],["2001年上海",36,1,"invalid content in <gallery>"," File:"],["2001年中国中央电视台春节联欢晚会",88,11,"containing invalid attribute","《赵本山三部曲"],["2001年中華職棒總冠軍賽",43,19,"containing invalid attribute","   color:#191970; background-color:#F0F8FF;\""],["2001年澳大利亞大獎賽",195,3,"containing invalid attribute"," {{nowrap"],["2001年美國職棒大聯盟選秀",22,3,"containing invalid attribute"," !scope=\"row\"  "],["2002年上海",36,1,"invalid content in <gallery>"," File:"],["2002年中華職棒總冠軍賽",104,19,"containing invalid attribute","   color:#191970; background-color:#F0F8FF;\""],["2002年冬季奥林匹克运动会哈萨克斯坦代表团",592,3,"containing invalid attribute","1000米"],["2002年冬季奥林匹克运动会拉脱维亚代表团",511,3,"containing invalid attribute","1500米"],["2002年大英國協運動會",588,7,"attributes of a closing tag"," align=center"],["2002年日本動畫列表",13,72,"containing invalid attribute","マッドハウス"],["2002年美國職棒大聯盟選秀",22,3,"containing invalid attribute"," !scope=\"row\"  "]],"batches":51}
+window.data={"articles":[[
+	"?te",
+	34,
+	40,
+	"containing invalid attribute",
+	"  font-weight:bold\"   "
+],[
+	"“食”万八千里",
+	100,
+	79,
+	"containing invalid attribute",
+	"width20%"
+],[
+	"(G)I-DLE",
+	123,
+	164,
+	"containing invalid attribute",
+	" source”"
+],[
+	"(G)I-DLE获奖与提名列表",
+	222,
+	3,
+	"containing invalid attribute",
+	"《TOMBOY》"
+],[
+	"《塞尔玛》获奖名单",
+	561,
+	3,
+	"containing invalid attribute",
+	" 卫星奖最佳原创剧本"
+],[
+	"《蜘蛛侠：平行宇宙》获奖名单",
+	435,
+	3,
+	"containing invalid attribute",
+	"《蜘蛛侠：平行宇宙》"
+],[
+	"《龍與雀斑公主》獲獎與提名列表",
+	5,
+	4710,
+	"containing invalid attribute",
+	" Annie”"
+],[
+	"「守護香港反送中」大遊行",
+	48,
+	41,
+	"containing invalid attribute",
+	" name\"mingpao0610\""
+],[
+	"⛈",
+	1,
+	15,
+	"useless link text",
+	"|雷暴"
+],[
+	"🇮🇶",
+	1,
+	19,
+	"useless link text",
+	"|伊拉克国旗"
+],[
+	"🇯🇴",
+	1,
+	18,
+	"useless link text",
+	"|约旦国旗"
+],[
+	"🍷",
+	1,
+	17,
+	"useless link text",
+	"|紅酒"
+],[
+	"🍾",
+	1,
+	15,
+	"useless link text",
+	"|香檳"
+],[
+	"🎁",
+	1,
+	14,
+	"useless link text",
+	"|礼物"
+],[
+	"🎪",
+	1,
+	14,
+	"useless link text",
+	"|馬戲"
+],[
+	"🏙️",
+	1,
+	16,
+	"useless link text",
+	"|摩天大楼"
+],[
+	"👄",
+	1,
+	14,
+	"useless link text",
+	"|嘴"
+],[
+	"💴",
+	1,
+	15,
+	"useless link text",
+	"|日元"
+],[
+	"💸",
+	1,
+	14,
+	"useless link text",
+	"|消費"
+],[
+	"📅",
+	1,
+	18,
+	"useless link text",
+	"|日历"
+],[
+	"📆",
+	1,
+	18,
+	"useless link text",
+	"|日历"
+],[
+	"🔵",
+	1,
+	13,
+	"useless link text",
+	"|圓"
+],[
+	"🖨",
+	1,
+	16,
+	"useless link text",
+	"|打印機"
+],[
+	"009-1",
+	78,
+	46,
+	"containing invalid attribute",
+	"#アニメーター・メカ作画監督"
+],[
+	"037型反潜护卫艇",
+	124,
+	27,
+	"containing invalid attribute",
+	"  \"toccolours\"  "
+],[
+	"053H型导弹护卫舰",
+	257,
+	33,
+	"containing invalid attribute",
+	" 130人 "
+],[
+	"054型导弹护卫舰",
+	93,
+	36,
+	"containing invalid attribute",
+	"温州舰\"服役  \""
+],[
+	"10族元素",
+	36,
+	4,
+	"containing invalid attribute",
+	"10族元素特性"
+],[
+	"113學年度高中籃球聯賽",
+	413,
+	73,
+	"containing invalid attribute",
+	" 莊敬高職"
+],[
+	"1257年薩馬拉斯火山爆發",
+	102,
+	422,
+	"containing invalid attribute",
+	"/，之後的冬天則漫長又寒冷<ref "
+],[
+	"12族元素",
+	56,
+	4,
+	"containing invalid attribute",
+	"12族元素的性质"
+],[
+	"12道锋味",
+	502,
+	3,
+	"containing invalid attribute",
+	"!rowspan=\"2\""
+],[
+	"13碳核磁共振",
+	13,
+	1,
+	"invalid content in <gallery>",
+	" {{clear}}"
+],[
+	"14U",
+	242,
+	15,
+	"containing invalid attribute",
+	"  color:black\""
+],[
+	"1769年教宗選舉秘密會議",
+	242,
+	4,
+	"containing invalid attribute",
+	"主教"
+],[
+	"1788年—1789年美國總統選舉",
+	143,
+	3,
+	"containing invalid attribute",
+	" style\"text-align:left\"  "
+],[
+	"1792年美国总统选举",
+	120,
+	4,
+	"containing invalid attribute",
+	" oiopi[poi[oi["
+],[
+	"1824年美国总统选举",
+	325,
+	3,
+	"containing invalid attribute",
+	" style\"text-align:left\"  "
+],[
+	"1826年美國",
+	12,
+	1,
+	"invalid content in <gallery>",
+	" File:John Marshall by Henry Inman, 1832.jpg：[[约翰·马歇尔]]"
+],[
+	"1832年美国总统选举康涅狄格州选情",
+	52,
+	44,
+	"containing invalid attribute",
+	" 3px\"  "
+],[
+	"1860慕尼黑體育會",
+	542,
+	110,
+	"containing invalid attribute",
+	"100%\""
+],[
+	"1896年體育",
+	42,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1900年各国人口列表",
+	459,
+	10,
+	"containing invalid attribute",
+	" (Suertsey) "
+],[
+	"1900年夏季奥林匹克运动会波希米亚代表团",
+	196,
+	3,
+	"containing invalid attribute",
+	"{{flagIOCathlete|[[Yvonne Prévost|Prévost]]|FRA|1900年夏季}}<br />'''L''' 1–6, 1–6 "
+],[
+	"1900年夏季奧林匹克運動會足球比賽",
+	60,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1902年地震列表",
+	581,
+	379,
+	"containing invalid attribute",
+	" {{flag"
+],[
+	"1904年夏季奥林匹克运动会古巴代表团",
+	100,
+	17,
+	"containing invalid attribute",
+	" | [[1904年夏季奥林匹克运动会田径比赛 – 男子马拉松|男子马拉松]] "
+],[
+	"1904年夏季奥林匹克运动会足球比赛",
+	71,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1904年體育",
+	32,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1908年夏季奥林匹克运动会射箭比赛",
+	11,
+	3,
+	"containing invalid attribute",
+	" 男子 "
+],[
+	"1908年夏季奥林匹克运动会足球比赛",
+	70,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1908年體育",
+	32,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1910年伦敦到曼彻斯特飞行比赛",
+	39,
+	256,
+	"containing invalid attribute",
+	"/怀特利用[[火车站]]的灯光指路，在40分钟内到达了[[拉格比]]并在凌晨3:50飞越[[纳尼顿]]。虽说他的进程十分顺利，但是他的飞机携带了大量[[燃油]]"
+],[
+	"1912年夏季奥林匹克运动会波希米亚代表团",
+	469,
+	17,
+	"containing invalid attribute",
+	" <br>  "
+],[
+	"1912年體育",
+	32,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1920年夏季奥林匹克运动会爱沙尼亚代表团",
+	80,
+	3,
+	"containing invalid attribute",
+	"2:32.48,6 "
+],[
+	"1920年體育",
+	25,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1924年夏季奥林匹克运动会卢森堡代表团",
+	190,
+	20,
+	"containing invalid attribute",
+	" <br>  "
+],[
+	"1924年體育",
+	32,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1928年體育",
+	32,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1932年夏季奥林匹克运动会爱沙尼亚代表团",
+	67,
+	3,
+	"containing invalid attribute",
+	"{{flagIOCathlete|[[Ivar Johansson (wrestler)|Ivar Johansson]]|SWE|1932年夏季}}<br>'"
+],[
+	"1932年體育",
+	31,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1935年—1940年苏联军衔",
+	356,
+	25,
+	"containing invalid attribute",
+	" {{tsl"
+],[
+	"1936年體育",
+	18,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1946年體育",
+	27,
+	75,
+	"containing invalid attribute",
+	"  border-collapse:collapse;\""
+],[
+	"1948年體育",
+	31,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1952年體育",
+	31,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1956年夏季奥林匹克运动会印度尼西亚代表团",
+	132,
+	4,
+	"containing invalid attribute",
+	" (Heat 4) "
+],[
+	"1956年歐洲足球先生",
+	27,
+	31,
+	"containing invalid attribute",
+	"  align:\"center\"  "
+],[
+	"1956年體育",
+	31,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1960年代日本動畫列表",
+	103,
+	4,
+	"containing invalid attribute",
+	"||[[大提琴手高修]]||{{lang|ja|セロひきのゴーシュ}}||学習研究社||短篇"
+],[
+	"1960年夏季奥林匹克运动会加纳代表团",
+	155,
+	3,
+	"containing invalid attribute",
+	"{{flagIOCathlete|[[Bohumil Němeček|Němeček]]|TCH|1960年夏季}}<br>'''L''' "
+],[
+	"1960年夏季奥林匹克运动会印度尼西亚代表团",
+	207,
+	4,
+	"containing invalid attribute",
+	" (Heat 2) "
+],[
+	"1960年夏季奥林匹克运动会足球比赛",
+	82,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1960年夏季奥林匹克运动会马耳他代表团",
+	41,
+	29,
+	"containing invalid attribute",
+	" | [[Alfred Grixti]]"
+],[
+	"1960年體育",
+	36,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1964年冬季奥林匹克运动会韩国代表团",
+	31,
+	3,
+	"containing invalid attribute",
+	" 大回转 "
+],[
+	"1964年體育",
+	37,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1968年世界大賽",
+	38,
+	33,
+	"containing invalid attribute",
+	"老虎體育場 (底特律)"
+],[
+	"1968年加拿大冠军单曲列表",
+	114,
+	13,
+	"containing invalid attribute",
+	" {{单双书名号转换"
+],[
+	"1968年夏季奥林匹克运动会足球比赛",
+	39,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1968年美國職棒大聯盟全明星賽",
+	176,
+	15,
+	"containing invalid attribute",
+	"{{link-en"
+],[
+	"1968年美國職棒大聯盟球季",
+	160,
+	33,
+	"containing invalid attribute",
+	"老虎體育場 (底特律)"
+],[
+	"1968年體育",
+	35,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1969年美國職棒大聯盟全明星賽",
+	159,
+	16,
+	"containing invalid attribute",
+	"{{link-en"
+],[
+	"1972年夏季奥林匹克运动会斯威士兰代表团",
+	61,
+	17,
+	"containing invalid attribute",
+	" |style=\"text-align:left;\"  "
+],[
+	"1972年夏季奥林匹克运动会足球比赛",
+	48,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1972年美國聯盟冠軍賽",
+	32,
+	42,
+	"containing invalid attribute",
+	"老虎體育場 (底特律)"
+],[
+	"1972年美國職棒大聯盟季後賽",
+	65,
+	42,
+	"containing invalid attribute",
+	"老虎體育場 (底特律)"
+],[
+	"1972年體育",
+	24,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1976年夏季奥林匹克运动会泰国代表团",
+	63,
+	3,
+	"containing invalid attribute",
+	"{{flagIOCathlete|[[Li Byong-Uk|Byong-Uk]]|PRK|1976年夏季}}<br />'''L''' RSC–2 "
+],[
+	"1976年體育",
+	29,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1977年至1978年歐洲盃賽冠軍盃",
+	50,
+	4,
+	"containing invalid attribute",
+	"|align=right|[[科隆足球俱樂部|科隆]] "
+],[
+	"1980年夏季奥林匹克运动会贝宁代表团",
+	163,
+	3,
+	"containing invalid attribute",
+	"{{flagIOCathlete|[[Anicet Sambo]]|MAD|1980年夏季}}<br />'''W''' "
+],[
+	"1980年夏季奥林匹克运动会足球比赛",
+	35,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1980年夏季奥林匹克运动会阿尔及利亚代表团",
+	50,
+	35,
+	"containing invalid attribute",
+	" – 男子1500米|1500米]]"
+],[
+	"1982年香港電影作品列表",
+	13,
+	22,
+	"containing invalid attribute",
+	" center;'' "
+],[
+	"1983年香港電影作品列表",
+	14,
+	22,
+	"containing invalid attribute",
+	" center;’’ "
+],[
+	"1984年世界大賽",
+	38,
+	33,
+	"containing invalid attribute",
+	"老虎體育場 (底特律)"
+],[
+	"1984年冬季奥林匹克运动会韩国代表团",
+	113,
+	3,
+	"containing invalid attribute",
+	" 15公里 "
+],[
+	"1984年勁歌金曲第二季季選得獎名單",
+	23,
+	31,
+	"containing invalid attribute",
+	"  =\"text-align: center\""
+],[
+	"1984年夏季奥林匹克运动会冰岛代表团",
+	86,
+	3,
+	"containing invalid attribute",
+	"<s>59.58</s>  "
+],[
+	"1984年夏季奥林匹克运动会卢森堡代表团",
+	39,
+	19,
+	"containing invalid attribute",
+	"  |Jeannette "
+],[
+	"1984年夏季奥林匹克运动会泰国代表团",
+	78,
+	3,
+	"containing invalid attribute",
+	"{{flagIOCathlete|[[Jerry Page|Page]]|USA|1984年夏季}}<br />'''L''' 0–5 "
+],[
+	"1984年夏季奥林匹克运动会赞比亚代表团",
+	137,
+	3,
+	"containing invalid attribute",
+	"{{flagIOCathlete|[[Salvatore Todisco]]|ITA|1984年夏季}}<br />'''L''' "
+],[
+	"1984年美國職棒大聯盟季後賽",
+	102,
+	33,
+	"containing invalid attribute",
+	"老虎體育場 (底特律)"
+],[
+	"1984年香港電影作品列表",
+	13,
+	22,
+	"containing invalid attribute",
+	" center;’’ "
+],[
+	"1984年體育",
+	26,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1985年香港立法局選舉",
+	190,
+	37,
+	"containing invalid attribute",
+	"  <--!!!請保留!!>"
+],[
+	"1985年香港電影作品列表",
+	13,
+	22,
+	"containing invalid attribute",
+	" center;’’ "
+],[
+	"1986年香港電影作品列表",
+	13,
+	22,
+	"containing invalid attribute",
+	" center;'' "
+],[
+	"1987年美國聯盟冠軍賽",
+	33,
+	33,
+	"containing invalid attribute",
+	"老虎體育場 (底特律)"
+],[
+	"1987年美國職棒大聯盟季後賽",
+	66,
+	33,
+	"containing invalid attribute",
+	"老虎體育場 (底特律)"
+],[
+	"1988年体育",
+	27,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1988年冬季奥林匹克运动会摩纳哥代表团",
+	70,
+	3,
+	"containing invalid attribute",
+	" 男子双人 "
+],[
+	"1988年冬季奥林匹克运动会澳大利亚代表团",
+	102,
+	4,
+	"containing invalid attribute",
+	"align\"center\" "
+],[
+	"1988年南美自由盃",
+	143,
+	4,
+	"containing invalid attribute",
+	" {{tablapartidos|a=a|w=69%|w3=19%|t3=Local|t5=Result|w4=0px|w6=0xp|t7=Visit|nob="
+],[
+	"1988年夏季奥林匹克运动会卢森堡代表团",
+	59,
+	35,
+	"containing invalid attribute",
+	"|[[Justin Gloden]]"
+],[
+	"1988年夏季奥林匹克运动会哥伦比亚代表团",
+	261,
+	3,
+	"containing invalid attribute",
+	"{{flagIOCathlete|[[Aleksandar Hristov|Hristov]]|BUL|1988年夏季}}<br>'''L''' 2–3 "
+],[
+	"1988年夏季奥林匹克运动会摩洛哥代表团",
+	143,
+	11,
+	"containing invalid attribute",
+	" '''OR''' "
+],[
+	"1988年夏季奥林匹克运动会毛里塔尼亚代表团",
+	136,
+	3,
+	"containing invalid attribute",
+	"{{flagIOCathlete|[[Sören Claeson]]|SWE|1988年夏季}}<br />  "
+],[
+	"1988年夏季奥林匹克运动会毛里求斯代表团",
+	291,
+	3,
+	"containing invalid attribute",
+	"{{flagIOCathlete|[[Dan Payne|Payne]]|CAN|1988年夏季}}<br>'''L''' "
+],[
+	"1988年夏季奥林匹克运动会美属维尔京群岛代表团",
+	97,
+	17,
+	"containing invalid attribute",
+	" | [[Calvin Dallas]]"
+],[
+	"1988年夏季奥林匹克运动会苏里南代表团",
+	229,
+	8,
+	"containing invalid attribute",
+	" '''OR''' "
+],[
+	"1988年夏季奥林匹克运动会西萨摩亚代表团",
+	92,
+	3,
+	"containing invalid attribute",
+	"轻中量级 "
+],[
+	"1988年度十大勁歌金曲得獎名單",
+	188,
+	22,
+	"containing invalid attribute",
+	";font-size:small\""
+],[
+	"1989年冰岛足球超级联赛",
+	9,
+	4,
+	"containing invalid attribute",
+	"\"background:#D0F0C0;\""
+],[
+	"1989年勁歌金曲第二季季選得獎名單",
+	208,
+	3,
+	"containing invalid attribute",
+	"{{tsl"
+],[
+	"1990年度十大勁歌金曲得獎名單",
+	159,
+	22,
+	"containing invalid attribute",
+	";font-size:small\""
+],[
+	"1990年立陶宛最高蘇維埃選舉",
+	76,
+	29,
+	"containing invalid attribute",
+	"  <!–– LŽP ––>  "
+],[
+	"1991年上海",
+	37,
+	1,
+	"invalid content in <gallery>",
+	" File:"
+],[
+	"1991年度十大勁歌金曲得獎名單",
+	237,
+	22,
+	"containing invalid attribute",
+	";font-size:small\""
+],[
+	"1992年上海",
+	35,
+	1,
+	"invalid content in <gallery>",
+	" File:"
+],[
+	"1992年冬季奥林匹克运动会韩国代表团",
+	113,
+	3,
+	"containing invalid attribute",
+	" 大回转 "
+],[
+	"1992年夏季奥林匹克运动会卢森堡代表团",
+	95,
+	35,
+	"containing invalid attribute",
+	"|[[Yves Clausse]]"
+],[
+	"1992年夏季奥林匹克运动会安哥拉代表团",
+	200,
+	3,
+	"containing invalid attribute",
+	"Half-中量级 "
+],[
+	"1992年夏季奥林匹克运动会泰国代表团",
+	113,
+	16,
+	"containing invalid attribute",
+	" |Teeranun "
+],[
+	"1992年夏季奧林匹克運動會棒球比賽",
+	21,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1992年度十大勁歌金曲得獎名單",
+	127,
+	22,
+	"containing invalid attribute",
+	";font-size:small\""
+],[
+	"1992年歐洲歌唱大賽",
+	157,
+	3,
+	"containing invalid attribute",
+	" \"Olou "
+],[
+	"1992年體育",
+	30,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1993年上海",
+	36,
+	1,
+	"invalid content in <gallery>",
+	" File:"
+],[
+	"1993年度十大勁歌金曲得獎名單",
+	193,
+	22,
+	"containing invalid attribute",
+	";font-size:small\""
+],[
+	"1994年上海",
+	36,
+	1,
+	"invalid content in <gallery>",
+	" File:"
+],[
+	"1994年冬季奥林匹克运动会拉脱维亚代表团",
+	388,
+	3,
+	"containing invalid attribute",
+	"3000米"
+],[
+	"1994年冬季奥林匹克运动会爱沙尼亚代表团",
+	529,
+	8,
+	"containing invalid attribute",
+	" Levandi<br>Ago Markvardt<br>Magnar "
+],[
+	"1994年度十大勁歌金曲得獎名單",
+	194,
+	22,
+	"containing invalid attribute",
+	";font-size:small\""
+],[
+	"1995年上海",
+	35,
+	1,
+	"invalid content in <gallery>",
+	" File:"
+],[
+	"1995年度十大勁歌金曲得獎名單",
+	199,
+	22,
+	"containing invalid attribute",
+	";font-size:small\""
+],[
+	"1995年香港市政局及區域市政局選舉",
+	92,
+	37,
+	"containing invalid attribute",
+	"  <--!!!請保留!!>"
+],[
+	"1996年上海",
+	34,
+	1,
+	"invalid content in <gallery>",
+	" File:"
+],[
+	"1996年夏季奥林匹克运动会巴勒斯坦代表团",
+	33,
+	3,
+	"containing invalid attribute",
+	"{{AthAbbr"
+],[
+	"1996年夏季奥林匹克运动会泰国代表团",
+	516,
+	3,
+	"containing invalid attribute",
+	"{{flagIOCathlete|[[Conchita Martínez]]<br />[[Arantxa Sánchez Vicario]]|ESP|1996"
+],[
+	"1996年夏季奥林匹克运动会美属维尔京群岛代表团",
+	37,
+	30,
+	"containing invalid attribute",
+	" | [[Mitchell "
+],[
+	"1996年夏季奥林匹克运动会菲律宾代表团",
+	133,
+	3,
+	"containing invalid attribute",
+	"{{flagIOCathlete|[[Daniel Petrov|Petrov]]|BUL|1996年夏季}}<br />'''L''' 6–19 "
+],[
+	"1996年夏季奥林匹克运动会阿塞拜疆代表团",
+	53,
+	29,
+	"containing invalid attribute",
+	"  |style=\"text-align:left\"|[[Arif Akhundov]]"
+],[
+	"1996年夏季奥林匹克运动会马其顿代表团",
+	181,
+	3,
+	"containing invalid attribute",
+	"{{flagIOCathlete|[[Alejandro Puerto|Puerto]]|CUB|1996年夏季}}<br>  '''W''' "
+],[
+	"1996年夏季奧林匹克運動會壘球比賽",
+	5,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1996年夏季奧林匹克運動會棒球比賽",
+	21,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1996年夏季奧林匹克運動會網球比賽",
+	28,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1996年度十大勁歌金曲得獎名單",
+	207,
+	22,
+	"containing invalid attribute",
+	";font-size:small\""
+],[
+	"1996年珠穆朗瑪峰事故",
+	74,
+	3,
+	"containing invalid attribute",
+	"!width=5% "
+],[
+	"1996年體育",
+	26,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"1997年上海",
+	34,
+	1,
+	"invalid content in <gallery>",
+	" File:"
+],[
+	"1998年上海",
+	35,
+	1,
+	"invalid content in <gallery>",
+	" File:"
+],[
+	"1998年冬季奥林匹克运动会哈萨克斯坦代表团",
+	716,
+	3,
+	"containing invalid attribute",
+	"1500米"
+],[
+	"1998年冬季奥林匹克运动会拉脱维亚代表团",
+	539,
+	3,
+	"containing invalid attribute",
+	"1000米"
+],[
+	"1998年英联邦运动会",
+	618,
+	7,
+	"attributes of a closing tag",
+	" align=center"
+],[
+	"1999年上海",
+	35,
+	1,
+	"invalid content in <gallery>",
+	" File:"
+],[
+	"1999年度新城勁爆頒獎禮得獎名單",
+	85,
+	22,
+	"containing invalid attribute",
+	";font-size:small\""
+],[
+	"1999年香港區議會選舉結果",
+	404,
+	41,
+	"containing invalid attribute",
+	"54.55%"
+],[
+	"1THE9",
+	336,
+	16,
+	"containing invalid attribute",
+	" {{link-ko"
+],[
+	"2000年上海",
+	36,
+	1,
+	"invalid content in <gallery>",
+	" File:"
+],[
+	"2000年夏季奥林匹克运动会喀麦隆代表团",
+	164,
+	30,
+	"containing invalid attribute",
+	" | [[Françoise Mbango]]"
+],[
+	"2000年夏季奥林匹克运动会塞内加尔代表团",
+	132,
+	30,
+	"containing invalid attribute",
+	" | [[Kène Ndoye]]"
+],[
+	"2000年夏季奥林匹克运动会塞浦路斯代表团",
+	46,
+	17,
+	"containing invalid attribute",
+	" | [[2000年夏季奥林匹克运动会田径比赛 – 男子200米|200米]]"
+],[
+	"2000年夏季奥林匹克运动会巴基斯坦代表团",
+	145,
+	4,
+	"containing invalid attribute",
+	" '''Q''' "
+],[
+	"2000年夏季奥林匹克运动会帕劳代表团",
+	137,
+	16,
+	"containing invalid attribute",
+	" |width=10%|[[Valerie Pedro]] "
+],[
+	"2000年夏季奥林匹克运动会毛里求斯代表团",
+	118,
+	39,
+	"containing invalid attribute",
+	" Casquette]]"
+],[
+	"2000年夏季奥林匹克运动会汤加代表团",
+	66,
+	3,
+	"containing invalid attribute",
+	"scope'row\"  "
+],[
+	"2000年夏季奥林匹克运动会波多黎各代表团",
+	38,
+	17,
+	"containing invalid attribute",
+	" | [[Félix "
+],[
+	"2000年夏季奥林匹克运动会美属维尔京群岛代表团",
+	72,
+	30,
+	"containing invalid attribute",
+	" | [[2000年夏季奥林匹克运动会田径比赛 – 女子200米|200米]] "
+],[
+	"2000年夏季奥林匹克运动会阿塞拜疆代表团",
+	375,
+	3,
+	"containing invalid attribute",
+	"{{flagIOCathlete|[[Martin Liddle|Liddle]]|NZL|2000年夏季}}<br />'''W''' 10–0 "
+],[
+	"2000年夏季奥林匹克运动会阿尔及利亚代表团",
+	195,
+	30,
+	"containing invalid attribute",
+	" | '''[[Abderrahmane Hammad]]''' | "
+],[
+	"2000年夏季奥林匹克运动会马其顿代表团",
+	251,
+	3,
+	"containing invalid attribute",
+	"{{flagIOCathlete|[[Tatsuo Kawai (wrestler)|Kawai]]|JPN|2000年夏季}}<br>  '''W''' 6–"
+],[
+	"2000年夏季奧林匹克運動會壘球比賽",
+	5,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"2000年夏季奧林匹克運動會網球比賽",
+	32,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"2000年體育",
+	25,
+	3,
+	"containing invalid attribute",
+	"!align=\"center\"  "
+],[
+	"2001年上海",
+	36,
+	1,
+	"invalid content in <gallery>",
+	" File:"
+],[
+	"2001年中国中央电视台春节联欢晚会",
+	88,
+	11,
+	"containing invalid attribute",
+	"《赵本山三部曲"
+],[
+	"2001年中華職棒總冠軍賽",
+	43,
+	19,
+	"containing invalid attribute",
+	"   color:#191970; background-color:#F0F8FF;\""
+],[
+	"2001年澳大利亞大獎賽",
+	195,
+	3,
+	"containing invalid attribute",
+	" {{nowrap"
+],[
+	"2001年美國職棒大聯盟選秀",
+	22,
+	3,
+	"containing invalid attribute",
+	" !scope=\"row\"  "
+],[
+	"2002年上海",
+	36,
+	1,
+	"invalid content in <gallery>",
+	" File:"
+],[
+	"2002年中華職棒總冠軍賽",
+	104,
+	19,
+	"containing invalid attribute",
+	"   color:#191970; background-color:#F0F8FF;\""
+],[
+	"2002年冬季奥林匹克运动会哈萨克斯坦代表团",
+	592,
+	3,
+	"containing invalid attribute",
+	"1000米"
+],[
+	"2002年冬季奥林匹克运动会拉脱维亚代表团",
+	511,
+	3,
+	"containing invalid attribute",
+	"1500米"
+],[
+	"2002年大英國協運動會",
+	588,
+	7,
+	"attributes of a closing tag",
+	" align=center"
+],[
+	"2002年日本動畫列表",
+	13,
+	72,
+	"containing invalid attribute",
+	"マッドハウス"
+],[
+	"2002年美國職棒大聯盟選秀",
+	22,
+	3,
+	"containing invalid attribute",
+	" !scope=\"row\"  "
+],],"batches":51}

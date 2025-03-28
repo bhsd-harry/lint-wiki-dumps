@@ -1,1 +1,1201 @@
-window.data={"articles":[["Wikipedia:互助客栈/技术/存档/2011年6月",328,60,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2011年7月",82,99,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2012年10月",402,23,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2012年12月",295,84,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2012年3月",674,58,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2012年7月",301,27,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2012年9月",434,97,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2013年10月",50,213,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2013年11月",151,48,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2013年12月",185,20,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2013年1月",507,35,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2013年2月",62,44,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2013年7月",155,106,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2013年8月",131,37,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2014年1月",117,74,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2014年3月",14,29,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2014年4月",613,125,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2015年2月",4,96,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2015年3月",38,57,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2015年4月",25,23,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2016年2月",109,172,"illegal attribute name","syule"],["Wikipedia:互助客栈/技术/存档/2017年5月",191,41,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2018年5月",237,42,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2018年6月",219,84,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2018年8月",242,130,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2019年2月",384,30,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2019年9月",51,70,"illegal attribute name","datatime"],["Wikipedia:互助客栈/技术/存档/2020年11月",56,90,"illegal attribute name","datatime"],["Wikipedia:互助客栈/技术/存档/2020年3月",120,48,"illegal attribute name","datatime"],["Wikipedia:互助客栈/技术/存档/2020年7月",102,46,"illegal attribute name","datatime"],["Wikipedia:互助客栈/技术/存档/2020年8月",377,12,"illegal attribute name","datatime"],["Wikipedia:互助客栈/技术/存档/2020年9月",68,35,"illegal attribute name","datatime"],["Wikipedia:互助客栈/技术/存档/2021年11月",17,123,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2021年12月",24,76,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2021年1月",312,20,"illegal attribute name","datatime"],["Wikipedia:互助客栈/技术/存档/2021年2月",109,47,"illegal attribute name","datatime"],["Wikipedia:互助客栈/技术/存档/2021年4月",34,61,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2021年8月",184,26,"illegal attribute name","datatime"],["Wikipedia:互助客栈/技术/存档/2022年5月",314,74,"illegal attribute name","aria-disabled"],["Wikipedia:互助客栈/技术/存档/2023年12月",265,172,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2023年5月",150,154,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2023年9月",46,19,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2024年11月",242,50,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2024年1月",53,40,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2024年2月",19,41,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/技术/存档/2024年4月",79,81,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2005年6月",676,196,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2007年11月",263,178,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2007年12月",37,60,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2007年1月",425,347,"illegal attribute name","size"],["Wikipedia:互助客栈/方针/存档/2007年2月",260,594,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2007年7月",753,297,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2008年1月",169,129,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2008年4月",127,70,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2008年5月",183,280,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2009年10月",214,365,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2009年12月",216,185,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2009年3月",551,106,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2009年4月",133,56,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2009年5月",234,40,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2009年6月",437,94,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2009年7月",354,52,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2009年8月",108,127,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2010年10月",60,21,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2010年1月",84,93,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2010年2月",12,62,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2010年4月",239,95,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2010年5月",89,31,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2010年6月",100,97,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2010年7月",20,37,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2010年8月",48,159,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2010年9月",165,88,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2011年10月",219,102,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2011年4月",233,70,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2011年7月",87,346,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2011年8月",45,146,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2011年9月",35,470,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2012年10月",34,176,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2012年4月",123,138,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2013年10月",274,77,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2013年11月",158,77,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2013年1月",773,238,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2013年2月",120,139,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2013年3月",101,35,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2013年5月",389,74,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2013年8月",216,81,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2013年9月",248,79,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2014年10月",288,21,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2014年3月",195,139,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2015年12月",278,91,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2015年1月",180,206,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2015年2月",60,77,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2015年3月",289,80,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2015年4月",59,103,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2015年5月",364,103,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2017年8月",102,211,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2020年11月",68,45,"illegal attribute name","datatime"],["Wikipedia:互助客栈/方针/存档/2020年2月",200,32,"illegal attribute name","datatime"],["Wikipedia:互助客栈/方针/存档/2020年3月",68,61,"illegal attribute name","datatime"],["Wikipedia:互助客栈/方针/存档/2020年6月",1524,8,"illegal attribute name","datatime"],["Wikipedia:互助客栈/方针/存档/2020年7月",927,133,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2020年8月",293,61,"illegal attribute name","datatime"],["Wikipedia:互助客栈/方针/存档/2020年9月",55,25,"illegal attribute name","datatime"],["Wikipedia:互助客栈/方针/存档/2021年11月",157,112,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2021年2月",43,77,"illegal attribute name","datatime"],["Wikipedia:互助客栈/方针/存档/2021年5月",417,150,"illegal attribute name","datatime"],["Wikipedia:互助客栈/方针/存档/2022年1月",47,72,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2024年2月",105,261,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2024年3月",47,101,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/方针/存档/2024年8月",47,20,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2011年10月",317,600,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2011年11月",778,66,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2011年4月",282,85,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2011年6月",247,98,"illegal attribute name","vlink"],["Wikipedia:互助客栈/条目探讨/存档/2011年9月",128,186,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2012年10月",207,77,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2012年11月",510,83,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2012年3月",239,45,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2012年6月",429,108,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2012年7月",201,60,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2013年10月",29,59,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2013年11月",60,101,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2013年12月",34,24,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2013年1月",334,85,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2013年2月",284,146,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2013年4月",274,242,"illegal attribute name","font"],["Wikipedia:互助客栈/条目探讨/存档/2013年5月",163,241,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2013年6月",154,389,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2013年7月",16,158,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2013年8月",5,130,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2013年9月",60,148,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2014年11月",83,110,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2014年12月",126,23,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2014年1月",223,58,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2014年4月",20,38,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2014年5月",132,177,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2014年7月",25,221,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2014年9月",314,90,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2015年2月",37,87,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2015年3月",248,75,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2015年4月",50,60,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2016年10月",160,361,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2017年10月",69,144,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2017年11月",206,64,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2017年12月",328,81,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2017年3月",390,29,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2017年5月",39,22,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2017年7月",179,62,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2017年8月",25,125,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2018年11月",200,69,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2018年2月",239,55,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2018年3月",370,380,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2018年4月",374,75,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2018年6月",303,64,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2019年1月",215,48,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2019年3月",260,252,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2019年4月",37,170,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2019年7月",184,34,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2020年11月",105,11,"illegal attribute name","datatime"],["Wikipedia:互助客栈/条目探讨/存档/2020年12月",202,175,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2020年1月",385,57,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2020年6月",444,71,"illegal attribute name","datatime"],["Wikipedia:互助客栈/条目探讨/存档/2020年7月",600,54,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2020年8月",740,255,"illegal attribute name","datatime"],["Wikipedia:互助客栈/条目探讨/存档/2020年9月",294,38,"illegal attribute name","datatime"],["Wikipedia:互助客栈/条目探讨/存档/2021年11月",26,84,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2021年1月",216,715,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2021年7月",238,22,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2021年8月",14,22,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2022年12月",308,180,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2022年1月",205,64,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2022年8月",254,37,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2023年11月",383,215,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2023年2月",171,90,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2024年1月",28,55,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2024年3月",227,137,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2024年4月",309,24,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2024年6月",425,293,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2024年9月",263,245,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/条目探讨/存档/2025年1月",189,93,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2006年8月",514,45,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2006年9月",23,77,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2007年10月",570,108,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2007年11月",307,85,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2007年12月",91,138,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2007年5月",77,9,"illegal attribute name","height"],["Wikipedia:互助客栈/求助/存档/2007年7月",308,205,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2007年9月",1123,42,"illegal attribute name","bgcolor"],["Wikipedia:互助客栈/求助/存档/2008年1月",19,117,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2008年2月",48,108,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2008年3月",65,142,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2008年4月",293,65,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2008年5月",128,92,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2009年10月",313,97,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2009年12月",270,60,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2009年5月",157,173,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2009年6月",387,201,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2009年7月",202,80,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2009年8月",165,35,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2009年9月",363,31,"illegal attribute name","color"]],"batches":42}
+window.data={"articles":[[
+	"Wikipedia:互助客栈/技术/存档/2011年6月",
+	328,
+	60,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2011年7月",
+	82,
+	99,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2012年10月",
+	402,
+	23,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2012年12月",
+	295,
+	84,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2012年3月",
+	674,
+	58,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2012年7月",
+	301,
+	27,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2012年9月",
+	434,
+	97,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2013年10月",
+	50,
+	213,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2013年11月",
+	151,
+	48,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2013年12月",
+	185,
+	20,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2013年1月",
+	507,
+	35,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2013年2月",
+	62,
+	44,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2013年7月",
+	155,
+	106,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2013年8月",
+	131,
+	37,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2014年1月",
+	117,
+	74,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2014年3月",
+	14,
+	29,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2014年4月",
+	613,
+	125,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2015年2月",
+	4,
+	96,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2015年3月",
+	38,
+	57,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2015年4月",
+	25,
+	23,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2016年2月",
+	109,
+	172,
+	"illegal attribute name",
+	"syule"
+],[
+	"Wikipedia:互助客栈/技术/存档/2017年5月",
+	191,
+	41,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2018年5月",
+	237,
+	42,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2018年6月",
+	219,
+	84,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2018年8月",
+	242,
+	130,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2019年2月",
+	384,
+	30,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2019年9月",
+	51,
+	70,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/技术/存档/2020年11月",
+	56,
+	90,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/技术/存档/2020年3月",
+	120,
+	48,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/技术/存档/2020年7月",
+	102,
+	46,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/技术/存档/2020年8月",
+	377,
+	12,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/技术/存档/2020年9月",
+	68,
+	35,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/技术/存档/2021年11月",
+	17,
+	123,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2021年12月",
+	24,
+	76,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2021年1月",
+	312,
+	20,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/技术/存档/2021年2月",
+	109,
+	47,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/技术/存档/2021年4月",
+	34,
+	61,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2021年8月",
+	184,
+	26,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/技术/存档/2022年5月",
+	314,
+	74,
+	"illegal attribute name",
+	"aria-disabled"
+],[
+	"Wikipedia:互助客栈/技术/存档/2023年12月",
+	265,
+	172,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2023年5月",
+	150,
+	154,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2023年9月",
+	46,
+	19,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2024年11月",
+	242,
+	50,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2024年1月",
+	53,
+	40,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2024年2月",
+	19,
+	41,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/技术/存档/2024年4月",
+	79,
+	81,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2005年6月",
+	676,
+	196,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2007年11月",
+	263,
+	178,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2007年12月",
+	37,
+	60,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2007年1月",
+	425,
+	347,
+	"illegal attribute name",
+	"size"
+],[
+	"Wikipedia:互助客栈/方针/存档/2007年2月",
+	260,
+	594,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2007年7月",
+	753,
+	297,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2008年1月",
+	169,
+	129,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2008年4月",
+	127,
+	70,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2008年5月",
+	183,
+	280,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2009年10月",
+	214,
+	365,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2009年12月",
+	216,
+	185,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2009年3月",
+	551,
+	106,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2009年4月",
+	133,
+	56,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2009年5月",
+	234,
+	40,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2009年6月",
+	437,
+	94,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2009年7月",
+	354,
+	52,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2009年8月",
+	108,
+	127,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2010年10月",
+	60,
+	21,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2010年1月",
+	84,
+	93,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2010年2月",
+	12,
+	62,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2010年4月",
+	239,
+	95,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2010年5月",
+	89,
+	31,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2010年6月",
+	100,
+	97,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2010年7月",
+	20,
+	37,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2010年8月",
+	48,
+	159,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2010年9月",
+	165,
+	88,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2011年10月",
+	219,
+	102,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2011年4月",
+	233,
+	70,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2011年7月",
+	87,
+	346,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2011年8月",
+	45,
+	146,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2011年9月",
+	35,
+	470,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2012年10月",
+	34,
+	176,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2012年4月",
+	123,
+	138,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2013年10月",
+	274,
+	77,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2013年11月",
+	158,
+	77,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2013年1月",
+	773,
+	238,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2013年2月",
+	120,
+	139,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2013年3月",
+	101,
+	35,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2013年5月",
+	389,
+	74,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2013年8月",
+	216,
+	81,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2013年9月",
+	248,
+	79,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2014年10月",
+	288,
+	21,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2014年3月",
+	195,
+	139,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2015年12月",
+	278,
+	91,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2015年1月",
+	180,
+	206,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2015年2月",
+	60,
+	77,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2015年3月",
+	289,
+	80,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2015年4月",
+	59,
+	103,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2015年5月",
+	364,
+	103,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2017年8月",
+	102,
+	211,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2020年11月",
+	68,
+	45,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/方针/存档/2020年2月",
+	200,
+	32,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/方针/存档/2020年3月",
+	68,
+	61,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/方针/存档/2020年6月",
+	1524,
+	8,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/方针/存档/2020年7月",
+	927,
+	133,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2020年8月",
+	293,
+	61,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/方针/存档/2020年9月",
+	55,
+	25,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/方针/存档/2021年11月",
+	157,
+	112,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2021年2月",
+	43,
+	77,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/方针/存档/2021年5月",
+	417,
+	150,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/方针/存档/2022年1月",
+	47,
+	72,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2024年2月",
+	105,
+	261,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2024年3月",
+	47,
+	101,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/方针/存档/2024年8月",
+	47,
+	20,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2011年10月",
+	317,
+	600,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2011年11月",
+	778,
+	66,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2011年4月",
+	282,
+	85,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2011年6月",
+	247,
+	98,
+	"illegal attribute name",
+	"vlink"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2011年9月",
+	128,
+	186,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2012年10月",
+	207,
+	77,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2012年11月",
+	510,
+	83,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2012年3月",
+	239,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2012年6月",
+	429,
+	108,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2012年7月",
+	201,
+	60,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2013年10月",
+	29,
+	59,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2013年11月",
+	60,
+	101,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2013年12月",
+	34,
+	24,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2013年1月",
+	334,
+	85,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2013年2月",
+	284,
+	146,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2013年4月",
+	274,
+	242,
+	"illegal attribute name",
+	"font"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2013年5月",
+	163,
+	241,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2013年6月",
+	154,
+	389,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2013年7月",
+	16,
+	158,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2013年8月",
+	5,
+	130,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2013年9月",
+	60,
+	148,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2014年11月",
+	83,
+	110,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2014年12月",
+	126,
+	23,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2014年1月",
+	223,
+	58,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2014年4月",
+	20,
+	38,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2014年5月",
+	132,
+	177,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2014年7月",
+	25,
+	221,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2014年9月",
+	314,
+	90,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2015年2月",
+	37,
+	87,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2015年3月",
+	248,
+	75,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2015年4月",
+	50,
+	60,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2016年10月",
+	160,
+	361,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2017年10月",
+	69,
+	144,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2017年11月",
+	206,
+	64,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2017年12月",
+	328,
+	81,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2017年3月",
+	390,
+	29,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2017年5月",
+	39,
+	22,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2017年7月",
+	179,
+	62,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2017年8月",
+	25,
+	125,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2018年11月",
+	200,
+	69,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2018年2月",
+	239,
+	55,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2018年3月",
+	370,
+	380,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2018年4月",
+	374,
+	75,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2018年6月",
+	303,
+	64,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2019年1月",
+	215,
+	48,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2019年3月",
+	260,
+	252,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2019年4月",
+	37,
+	170,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2019年7月",
+	184,
+	34,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2020年11月",
+	105,
+	11,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2020年12月",
+	202,
+	175,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2020年1月",
+	385,
+	57,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2020年6月",
+	444,
+	71,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2020年7月",
+	600,
+	54,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2020年8月",
+	740,
+	255,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2020年9月",
+	294,
+	38,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2021年11月",
+	26,
+	84,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2021年1月",
+	216,
+	715,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2021年7月",
+	238,
+	22,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2021年8月",
+	14,
+	22,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2022年12月",
+	308,
+	180,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2022年1月",
+	205,
+	64,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2022年8月",
+	254,
+	37,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2023年11月",
+	383,
+	215,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2023年2月",
+	171,
+	90,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2024年1月",
+	28,
+	55,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2024年3月",
+	227,
+	137,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2024年4月",
+	309,
+	24,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2024年6月",
+	425,
+	293,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2024年9月",
+	263,
+	245,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2025年1月",
+	189,
+	93,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2006年8月",
+	514,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2006年9月",
+	23,
+	77,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2007年10月",
+	570,
+	108,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2007年11月",
+	307,
+	85,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2007年12月",
+	91,
+	138,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2007年5月",
+	77,
+	9,
+	"illegal attribute name",
+	"height"
+],[
+	"Wikipedia:互助客栈/求助/存档/2007年7月",
+	308,
+	205,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2007年9月",
+	1123,
+	42,
+	"illegal attribute name",
+	"bgcolor"
+],[
+	"Wikipedia:互助客栈/求助/存档/2008年1月",
+	19,
+	117,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2008年2月",
+	48,
+	108,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2008年3月",
+	65,
+	142,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2008年4月",
+	293,
+	65,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2008年5月",
+	128,
+	92,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2009年10月",
+	313,
+	97,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2009年12月",
+	270,
+	60,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2009年5月",
+	157,
+	173,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2009年6月",
+	387,
+	201,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2009年7月",
+	202,
+	80,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2009年8月",
+	165,
+	35,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2009年9月",
+	363,
+	31,
+	"illegal attribute name",
+	"color"
+],],"batches":42}

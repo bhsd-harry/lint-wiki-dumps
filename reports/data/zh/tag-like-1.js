@@ -1,1 +1,1201 @@
-window.data={"articles":[["ORANGE BLOOD",144,2,"lonely \"<\"","<ref"],["Paradox Interactive游戏列表",1134,335,"lonely \"<\"","</ref"],["Portal:2019冠状病毒病",109,29,"lonely \"<\"","</references"],["Portal:历史/更新时间",4,42,"lonely \"<\"","<  nowiki"],["Portal:埃及/特色条目/3",5,83,"lonely \"<\"","</ref"],["Portal:彝族与彝语支民族/基诺族简介",16,2,"lonely \"<\"","<gallery"],["Portal:彝族与彝语支民族/拉祜族简介",29,2,"lonely \"<\"","<gallery"],["Portal:彝族与彝语支民族/纳西族简介",17,2,"lonely \"<\"","<gallery"],["Portal:航空/TabsBottom",2,2,"lonely \"<\"","<br"],["Portal:西安/行政区划",26,49,"lonely \"<\"","<ref"],["Portal:身心障礙/特色人物",2,2,"lonely \"<\"","<body"],["Python",529,685,"lonely \"<\"","<  b"],["Python語法及語義",253,13,"lonely \"<\"","<  b"],["P過程",16,202,"lonely \"<\"","<  A"],["Quercus bicolor",9,2,"lonely \"<\"","</ref"],["Rosetta@home",62,1961,"lonely \"<\"","<ref"],["Running Man",1451,104,"lonely \"<\"","</ref"],["SDSS J1228+1040 b",40,89,"lonely \"<\"","<  / sup"],["Select",4,10,"lonely \"<\"","<select"],["Sexy, Free & Single",154,4,"lonely \"<\"","<ref"],["Sherlock (macOS)",25,102,"lonely \"<\"","<input"],["Simula",280,909,"lonely \"<\"","<object"],["Sirens Vocal Band",55,174,"lonely \"<\"","</ref"],["Sony Music Direct",66,126,"lonely \"<\"","</ref"],["SpaceX星港",151,751,"lonely \"<\"","</ref"],["SpaceX星艦",1258,387,"lonely \"<\"","</ref"],["SPQR",102,444,"lonely \"<\"","</ref"],["Startin'/Born To Be...",58,19,"lonely \"<\"","<video"],["String.h",53,41,"lonely \"<\"","</nowiki"],["Svelte",36,3,"lonely \"<\"","<script"],["Taki Taki",223,194,"lonely \"<\"","<nowiki"],["Theora",153,503,"lonely \"<\"","<video"],["Time Slip",226,4,"lonely \"<\"","<ref"],["UH-72 拉科塔直升機",75,1264,"lonely \"<\"","</ref"],["VP8",59,500,"lonely \"<\"","<video"],["VP9",129,123,"lonely \"<\"","<video"],["Vue.js",82,15,"lonely \"<\"","<button"],["W3C地理位置应用程序接口",27,70,"lonely \"<\"","<body"],["Wikipedia:Lua代码风格",107,2,"lonely \"<\"","</syntaxhighlight"],["Wikipedia:互助客栈/其他/存档/2005年11月",732,253,"lonely \"<\"","</math"],["Wikipedia:互助客栈/其他/存档/2005年12月",701,149,"lonely \"<\"","</nowiki"],["Wikipedia:互助客栈/其他/存档/2005年3月",602,17,"lonely \"<\"","<html"],["Wikipedia:互助客栈/其他/存档/2005年8月",355,93,"lonely \"<\"","<input"],["Wikipedia:互助客栈/其他/存档/2007年10月",361,2,"lonely \"<\"","<img"],["Wikipedia:互助客栈/其他/存档/2013年11月",3,167,"lonely \"<\"","<span"],["Wikipedia:互助客栈/其他/存档/2016年11月",110,100,"lonely \"<\"","<maplink"],["Wikipedia:互助客栈/技术/存档/2005年12月",169,9,"lonely \"<\"","<IMG"],["Wikipedia:互助客栈/技术/存档/2006年10月",27,198,"lonely \"<\"","</nowiki"],["Wikipedia:互助客栈/技术/存档/2006年11月",89,19,"lonely \"<\"","<img"],["Wikipedia:互助客栈/技术/存档/2006年2月",203,115,"lonely \"<\"","</nowiki"],["Wikipedia:互助客栈/技术/存档/2006年3月",207,12,"lonely \"<\"","<html"],["Wikipedia:互助客栈/技术/存档/2007年7月",79,21,"lonely \"<\"","<html"],["Wikipedia:互助客栈/技术/存档/2008年6月",216,38,"lonely \"<\"","</nowiki"],["Wikipedia:互助客栈/技术/存档/2008年8月",191,68,"lonely \"<\"","</nowiki"],["Wikipedia:互助客栈/技术/存档/2008年9月",188,8,"lonely \"<\"","<  categorytree"],["Wikipedia:互助客栈/技术/存档/2009年12月",140,7,"lonely \"<\"","<a"],["Wikipedia:互助客栈/技术/存档/2009年6月",271,46,"lonely \"<\"","<a"],["Wikipedia:互助客栈/技术/存档/2010年10月",158,3,"lonely \"<\"","<meta"],["Wikipedia:互助客栈/技术/存档/2010年4月",310,42,"lonely \"<\"","<a"],["Wikipedia:互助客栈/技术/存档/2010年5月",264,10,"lonely \"<\"","<imagemap"],["Wikipedia:互助客栈/技术/存档/2010年6月",50,6,"lonely \"<\"","<span"],["Wikipedia:互助客栈/技术/存档/2011年10月",183,223,"lonely \"<\"","</nowiki"],["Wikipedia:互助客栈/技术/存档/2012年11月",234,40,"lonely \"<\"","<meta"],["Wikipedia:互助客栈/技术/存档/2012年6月",82,92,"lonely \"<\"","<meta"],["Wikipedia:互助客栈/技术/存档/2012年8月",287,58,"lonely \"<\"","</ref"],["Wikipedia:互助客栈/技术/存档/2013年2月",396,19,"lonely \"<\"","<a"],["Wikipedia:互助客栈/技术/存档/2013年4月",212,99,"lonely \"<\"","<a"],["Wikipedia:互助客栈/技术/存档/2014年5月",245,241,"lonely \"<\"","<span"],["Wikipedia:互助客栈/技术/存档/2015年1月",20,99,"lonely \"<\"","</ref"],["Wikipedia:互助客栈/技术/存档/2016年3月",76,81,"lonely \"<\"","<mapframe"],["Wikipedia:互助客栈/技术/存档/2016年6月",29,10,"lonely \"<\"","<charinsert"],["Wikipedia:互助客栈/技术/存档/2016年9月",22,75,"lonely \"<\"","<maplink"],["Wikipedia:互助客栈/技术/存档/2017年3月",430,6,"lonely \"<\"","<ref"],["Wikipedia:互助客栈/技术/存档/2017年6月",212,122,"lonely \"<\"","<mapframe"],["Wikipedia:互助客栈/技术/存档/2018年10月",148,11,"lonely \"<\"","<meta"],["Wikipedia:互助客栈/技术/存档/2018年8月",372,96,"lonely \"<\"","<span"],["Wikipedia:互助客栈/技术/存档/2019年3月",57,282,"lonely \"<\"","<maplink"],["Wikipedia:互助客栈/技术/存档/2019年6月",70,2,"lonely \"<\"","<source"],["Wikipedia:互助客栈/技术/存档/2019年8月",469,12,"lonely \"<\"","<img"],["Wikipedia:互助客栈/技术/存档/2021年2月",100,60,"lonely \"<\"","<title"],["Wikipedia:互助客栈/技术/存档/2021年5月",214,28,"lonely \"<\"","<body"],["Wikipedia:互助客栈/技术/存档/2022年10月",118,17,"lonely \"<\"","<ref"],["Wikipedia:互助客栈/技术/存档/2022年5月",325,169,"lonely \"<\"","<a"],["Wikipedia:互助客栈/技术/存档/2022年7月",469,70,"lonely \"<\"","<ref"],["Wikipedia:互助客栈/技术/存档/2023年11月",236,2,"lonely \"<\"","<  div"],["Wikipedia:互助客栈/技术/存档/2023年6月",7,11,"lonely \"<\"","<  noinclude"],["Wikipedia:互助客栈/技术/存档/2023年8月",21,13,"lonely \"<\"","<  nowiki"],["Wikipedia:互助客栈/方针/存档/2003年6月",104,2,"lonely \"<\"","<a"],["Wikipedia:互助客栈/方针/存档/2004年10月",108,25,"lonely \"<\"","<body"],["Wikipedia:互助客栈/方针/存档/2005年9月",459,12,"lonely \"<\"","<a"],["Wikipedia:互助客栈/方针/存档/2008年11月",187,32,"lonely \"<\"","<span"],["Wikipedia:互助客栈/方针/存档/2015年1月",161,66,"lonely \"<\"","</nowiki"],["Wikipedia:互助客栈/方针/存档/2020年7月",611,240,"lonely \"<\"","</nowiki"],["Wikipedia:互助客栈/条目探讨/存档/2011年11月",236,44,"lonely \"<\"","<a"],["Wikipedia:互助客栈/条目探讨/存档/2012年7月",351,350,"lonely \"<\"","<a"],["Wikipedia:互助客栈/条目探讨/存档/2014年7月",371,132,"lonely \"<\"","<ref"],["Wikipedia:互助客栈/条目探讨/存档/2018年3月",1325,168,"lonely \"<\"","<  sub"],["Wikipedia:互助客栈/求助/存档/2006年7月",502,92,"lonely \"<\"","<html"],["Wikipedia:互助客栈/求助/存档/2008年11月",353,200,"lonely \"<\"","<span"],["Wikipedia:互助客栈/求助/存档/2008年8月",243,86,"lonely \"<\"","</nowiki"],["Wikipedia:互助客栈/求助/存档/2009年12月",178,7,"lonely \"<\"","<a"],["Wikipedia:互助客栈/求助/存档/2010年4月",1068,4,"lonely \"<\"",",</mat"],["Wikipedia:互助客栈/求助/存档/2013年10月",332,75,"lonely \"<\"","<ref"],["Wikipedia:互助客栈/求助/存档/2013年5月",224,31,"lonely \"<\"","</nowiki"],["Wikipedia:互助客栈/求助/存档/2014年1月",86,13,"lonely \"<\"","<style"],["Wikipedia:互助客栈/求助/存档/2014年3月",295,112,"lonely \"<\"","<img"],["Wikipedia:互助客栈/求助/存档/2014年4月",241,7,"lonely \"<\"","<a"],["Wikipedia:互助客栈/求助/存档/2016年3月",65,509,"lonely \"<\"","<style"],["Wikipedia:互助客栈/求助/存档/2016年4月",68,37,"lonely \"<\"","<input"],["Wikipedia:互助客栈/求助/存档/2016年8月",37,15,"lonely \"<\"","<ref"],["Wikipedia:互助客栈/求助/存档/2017年2月",102,36,"lonely \"<\"","</nowiki"],["Wikipedia:互助客栈/求助/存档/2017年4月",414,8,"lonely \"<\"","</ nowiki"],["Wikipedia:互助客栈/求助/存档/2017年9月",475,284,"lonely \"<\"","<a"],["Wikipedia:互助客栈/求助/存档/2018年10月",164,463,"lonely \"<\"","<span"],["Wikipedia:互助客栈/求助/存档/2018年4月",51,290,"lonely \"<\"","<a"],["Wikipedia:互助客栈/求助/存档/2018年9月",129,41,"lonely \"<\"","<ref"],["Wikipedia:互助客栈/求助/存档/2019年1月",417,47,"lonely \"<\"","<ref"],["Wikipedia:互助客栈/求助/存档/2020年3月",369,79,"lonely \"<\"","<span"],["Wikipedia:互助客栈/求助/存档/2022年7月",402,7,"lonely \"<\"","<gallery"],["Wikipedia:互助客栈/求助/存档/2023年10月",343,127,"lonely \"<\"","</nowiki"],["Wikipedia:互助客栈/求助/存档/2023年4月",298,19,"lonely \"<\"","<a"],["Wikipedia:互助客栈/求助/存档/2023年6月",121,2,"lonely \"<\"","<  ref"],["Wikipedia:互助客栈/求助/存档/2024年12月",173,18,"lonely \"<\"","<ref"],["Wikipedia:互助客栈/求助/存档/2024年7月",516,2,"lonely \"<\"","<gallery"],["Wikipedia:互助客栈/求助/存档/2024年8月",414,81,"lonely \"<\"","<references"],["Wikipedia:互助客栈/消息/存档/2009年4月",65,2,"lonely \"<\"","</a"],["Wikipedia:互助客栈/消息/存档/2019年3月",322,237,"lonely \"<\"","<maplink"],["Wikipedia:互助客栈/消息/存档/2022年5月",259,5,"lonely \"<\"","<title"],["Wikipedia:互助客栈/消息/存档/2023年10月",455,114,"lonely \"<\"","<  a"],["Wikipedia:互助客栈/消息/存档/2023年11月",539,119,"lonely \"<\"","<  a"],["Wikipedia:傀儡調查/案件/Mafalda4144/存檔",145,1240,"lonely \"<\"","<ref"],["Wikipedia:傀儡調查/案件/这个那/存檔",9,147,"lonely \"<\"","<ref"],["Wikipedia:公告欄/存檔/2016年",35,82,"lonely \"<\"","<maplink"],["Wikipedia:典范条目评选/匈帝國",16,47,"lonely \"<\"","</ref"],["Wikipedia:典范条目评选/存档/2006年",290,38,"lonely \"<\"","<  /br"],["Wikipedia:列明来源",56,255,"lonely \"<\"","</ref"],["Wikipedia:删除投票和请求/2006年5月24日",251,146,"lonely \"<\"","<  small"],["Wikipedia:删除投票和请求/2007年2月12日",226,20,"lonely \"<\"","<span"],["Wikipedia:删除投票和请求/2008年6月1日",221,15,"lonely \"<\"","<\n br"],["Wikipedia:删除纪录/档案馆/2003年12月19日前",453,80,"lonely \"<\"","<html"],["Wikipedia:删除纪录/档案馆/2003年8月9日前",232,146,"lonely \"<\"","</math"],["Wikipedia:删除纪录/档案馆/2004年4月",36,248,"lonely \"<\"","</nowiki"],["Wikipedia:删除纪录/档案馆/2004年6月",294,147,"lonely \"<\"","</nowiki"],["Wikipedia:删除纪录/档案馆/2004年8月",76,143,"lonely \"<\"","</nowiki"],["Wikipedia:參與貢獻/撰寫/条目范例",286,434,"lonely \"<\"","</ref"],["Wikipedia:反破壞工作小組/反破壞工作小組成員申請/存檔/650",70,165,"lonely \"<\"","<span"],["Wikipedia:字词转换/修复请求/存档/2022年5月",105,183,"lonely \"<\"","</nowiki"],["Wikipedia:字词转换/地区词候选/存档/2019年3月",229,54,"lonely \"<\"","<span"],["Wikipedia:存廢覆核請求/存檔/2010年",1019,2,"lonely \"<\"","<a"],["Wikipedia:孤立页面/存档",1,17,"lonely \"<\"","<a"],["Wikipedia:導師計劃/導師區/資源",9,122,"lonely \"<\"","</nowiki"],["Wikipedia:已删除内容查询/查詢/temp/47523",1,11332,"lonely \"<\"","<nowiki"],["Wikipedia:引注炸弹",19,67,"lonely \"<\"","<ref"],["Wikipedia:当前的破坏/存档/2007年",415,169,"lonely \"<\"","<font"],["Wikipedia:当前的破坏/存档/2015年8月",420,3,"lonely \"<\"","<HTML"],["Wikipedia:当前的破坏/存档/2016年7月",585,167,"lonely \"<\"","</nowiki"],["Wikipedia:当前的破坏/存档/2017年1月",248,21,"lonely \"<\"","<ref"],["Wikipedia:当前的破坏/存档/2018年6月",198,120,"lonely \"<\"","</nowiki"],["Wikipedia:当前的破坏/存档/2023年10月",1162,13,"lonely \"<\"","</ref"],["Wikipedia:当前的破坏/存档/2023年9月",601,5,"lonely \"<\"","<ref"],["Wikipedia:徵求意見/模板样式",22,57,"lonely \"<\"","<head"],["Wikipedia:投票/小作品判定条件修正案",25,168,"lonely \"<\"","</nowiki"],["Wikipedia:投票/小作品判定条件修正案/第2次",22,168,"lonely \"<\"","</nowiki"],["Wikipedia:投票/汶川大地震一周年纪念标志",22,369,"lonely \"<\"","<span"],["Wikipedia:投票/開放更多編輯權限",21,32,"lonely \"<\"","<  small"],["Wikipedia:提示/1月8日",5,102,"lonely \"<\"","</ref"],["Wikipedia:故意濫用模板/多个优点",11,221,"lonely \"<\"","<a"],["Wikipedia:新手入門/維基文本",114,57,"lonely \"<\"","</nowiki"],["Wikipedia:新手求助/存檔/2009年",656,22,"lonely \"<\"","<a"],["Wikipedia:新手求助/存檔/2010年",84,19,"lonely \"<\"","<  br"],["Wikipedia:新手求助/存檔/2011年",955,13,"lonely \"<\"","<a"],["Wikipedia:新闻动态候选/存档/2015年3月",22,745,"lonely \"<\"","</ref"],["Wikipedia:新闻动态候选/存档/2019年12月",9,27,"lonely \"<\"","<syntaxhighlight"],["Wikipedia:新闻动态候选/存档/2022年8月",718,60,"lonely \"<\"","<ref"],["Wikipedia:更改用户名/账户易手/已完成/2008年",262,34,"lonely \"<\"","<span"],["Wikipedia:机器人/申请/AngeCIbot",51,27,"lonely \"<\"","<a"],["Wikipedia:机器人/申请/Antigng-bot/17",22,44,"lonely \"<\"","</ref"],["Wikipedia:檔案存廢討論/記錄/2008/12/10",26,61,"lonely \"<\"","<font"],["Wikipedia:檔案存廢討論/記錄/2020/06/30",83,27,"lonely \"<\"","<ref"],["Wikipedia:檔案存廢討論/記錄/2020/07/31",38,110,"lonely \"<\"","<gallery"],["Wikipedia:權限申請/申請巡查權/存檔/2018年",274,118,"lonely \"<\"","</nowiki"],["Wikipedia:欢迎/參與維基/編輯",103,40,"lonely \"<\"","</nowiki"],["Wikipedia:海南维基人列表",32,17,"lonely \"<\"","<span"],["Wikipedia:準種",25,82,"lonely \"<\"","<span"],["Wikipedia:特色條目複審/徐向前/第二次",7,253,"lonely \"<\"","</ span"],["Wikipedia:理事会选举",33,10,"lonely \"<\"","<a"],["Wikipedia:用戶查核請求/存檔/2018年1月",48,252,"lonely \"<\"","<span"],["Wikipedia:申請成為管理員/Iamchenzetian",7,25,"lonely \"<\"","<span"],["Wikipedia:申请成为用户查核员/Alexander Misel",104,82,"lonely \"<\"","<ref"],["Wikipedia:申请成为管理员/CopperSulfate/第1次",8,20,"lonely \"<\"","<font"],["Wikipedia:申请成为管理员/CopperSulfate/第2次",11,27,"lonely \"<\"","<font"],["Wikipedia:申请成为管理员/Hat600/第1次",331,37,"lonely \"<\"","<link"],["Wikipedia:申请成为管理员/Kinghongkong",8,24,"lonely \"<\"","<span"],["Wikipedia:申请成为行政员/Cloudcolors",78,50,"lonely \"<\"","<span"],["Wikipedia:疯狂指数测试/2011",1098,47,"lonely \"<\"","</nowiki"],["Wikipedia:疯狂指数测试/2012",1346,47,"lonely \"<\"","</nowiki"],["Wikipedia:百度百科對維基百科的侵權/列表/一般条目",44,26,"lonely \"<\"","</math"],["Wikipedia:百度百科對維基百科的侵權/列表/新条目推荐条目",93,43,"lonely \"<\"","<span"],["Wikipedia:知识问答/存档/2008年9月",530,87,"lonely \"<\"","<  span"],["Wikipedia:知识问答/存档/2010年4月",16,3,"lonely \"<\"","<  ref"]],"batches":8}
+window.data={"articles":[[
+	"ORANGE BLOOD",
+	144,
+	2,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Paradox Interactive游戏列表",
+	1134,
+	335,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"Portal:2019冠状病毒病",
+	109,
+	29,
+	"lonely \"<\"",
+	"</references"
+],[
+	"Portal:历史/更新时间",
+	4,
+	42,
+	"lonely \"<\"",
+	"<  nowiki"
+],[
+	"Portal:埃及/特色条目/3",
+	5,
+	83,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"Portal:彝族与彝语支民族/基诺族简介",
+	16,
+	2,
+	"lonely \"<\"",
+	"<gallery"
+],[
+	"Portal:彝族与彝语支民族/拉祜族简介",
+	29,
+	2,
+	"lonely \"<\"",
+	"<gallery"
+],[
+	"Portal:彝族与彝语支民族/纳西族简介",
+	17,
+	2,
+	"lonely \"<\"",
+	"<gallery"
+],[
+	"Portal:航空/TabsBottom",
+	2,
+	2,
+	"lonely \"<\"",
+	"<br"
+],[
+	"Portal:西安/行政区划",
+	26,
+	49,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Portal:身心障礙/特色人物",
+	2,
+	2,
+	"lonely \"<\"",
+	"<body"
+],[
+	"Python",
+	529,
+	685,
+	"lonely \"<\"",
+	"<  b"
+],[
+	"Python語法及語義",
+	253,
+	13,
+	"lonely \"<\"",
+	"<  b"
+],[
+	"P過程",
+	16,
+	202,
+	"lonely \"<\"",
+	"<  A"
+],[
+	"Quercus bicolor",
+	9,
+	2,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"Rosetta@home",
+	62,
+	1961,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Running Man",
+	1451,
+	104,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"SDSS J1228+1040 b",
+	40,
+	89,
+	"lonely \"<\"",
+	"<  / sup"
+],[
+	"Select",
+	4,
+	10,
+	"lonely \"<\"",
+	"<select"
+],[
+	"Sexy, Free & Single",
+	154,
+	4,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Sherlock (macOS)",
+	25,
+	102,
+	"lonely \"<\"",
+	"<input"
+],[
+	"Simula",
+	280,
+	909,
+	"lonely \"<\"",
+	"<object"
+],[
+	"Sirens Vocal Band",
+	55,
+	174,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"Sony Music Direct",
+	66,
+	126,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"SpaceX星港",
+	151,
+	751,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"SpaceX星艦",
+	1258,
+	387,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"SPQR",
+	102,
+	444,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"Startin'/Born To Be...",
+	58,
+	19,
+	"lonely \"<\"",
+	"<video"
+],[
+	"String.h",
+	53,
+	41,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Svelte",
+	36,
+	3,
+	"lonely \"<\"",
+	"<script"
+],[
+	"Taki Taki",
+	223,
+	194,
+	"lonely \"<\"",
+	"<nowiki"
+],[
+	"Theora",
+	153,
+	503,
+	"lonely \"<\"",
+	"<video"
+],[
+	"Time Slip",
+	226,
+	4,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"UH-72 拉科塔直升機",
+	75,
+	1264,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"VP8",
+	59,
+	500,
+	"lonely \"<\"",
+	"<video"
+],[
+	"VP9",
+	129,
+	123,
+	"lonely \"<\"",
+	"<video"
+],[
+	"Vue.js",
+	82,
+	15,
+	"lonely \"<\"",
+	"<button"
+],[
+	"W3C地理位置应用程序接口",
+	27,
+	70,
+	"lonely \"<\"",
+	"<body"
+],[
+	"Wikipedia:Lua代码风格",
+	107,
+	2,
+	"lonely \"<\"",
+	"</syntaxhighlight"
+],[
+	"Wikipedia:互助客栈/其他/存档/2005年11月",
+	732,
+	253,
+	"lonely \"<\"",
+	"</math"
+],[
+	"Wikipedia:互助客栈/其他/存档/2005年12月",
+	701,
+	149,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:互助客栈/其他/存档/2005年3月",
+	602,
+	17,
+	"lonely \"<\"",
+	"<html"
+],[
+	"Wikipedia:互助客栈/其他/存档/2005年8月",
+	355,
+	93,
+	"lonely \"<\"",
+	"<input"
+],[
+	"Wikipedia:互助客栈/其他/存档/2007年10月",
+	361,
+	2,
+	"lonely \"<\"",
+	"<img"
+],[
+	"Wikipedia:互助客栈/其他/存档/2013年11月",
+	3,
+	167,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:互助客栈/其他/存档/2016年11月",
+	110,
+	100,
+	"lonely \"<\"",
+	"<maplink"
+],[
+	"Wikipedia:互助客栈/技术/存档/2005年12月",
+	169,
+	9,
+	"lonely \"<\"",
+	"<IMG"
+],[
+	"Wikipedia:互助客栈/技术/存档/2006年10月",
+	27,
+	198,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:互助客栈/技术/存档/2006年11月",
+	89,
+	19,
+	"lonely \"<\"",
+	"<img"
+],[
+	"Wikipedia:互助客栈/技术/存档/2006年2月",
+	203,
+	115,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:互助客栈/技术/存档/2006年3月",
+	207,
+	12,
+	"lonely \"<\"",
+	"<html"
+],[
+	"Wikipedia:互助客栈/技术/存档/2007年7月",
+	79,
+	21,
+	"lonely \"<\"",
+	"<html"
+],[
+	"Wikipedia:互助客栈/技术/存档/2008年6月",
+	216,
+	38,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:互助客栈/技术/存档/2008年8月",
+	191,
+	68,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:互助客栈/技术/存档/2008年9月",
+	188,
+	8,
+	"lonely \"<\"",
+	"<  categorytree"
+],[
+	"Wikipedia:互助客栈/技术/存档/2009年12月",
+	140,
+	7,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:互助客栈/技术/存档/2009年6月",
+	271,
+	46,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:互助客栈/技术/存档/2010年10月",
+	158,
+	3,
+	"lonely \"<\"",
+	"<meta"
+],[
+	"Wikipedia:互助客栈/技术/存档/2010年4月",
+	310,
+	42,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:互助客栈/技术/存档/2010年5月",
+	264,
+	10,
+	"lonely \"<\"",
+	"<imagemap"
+],[
+	"Wikipedia:互助客栈/技术/存档/2010年6月",
+	50,
+	6,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:互助客栈/技术/存档/2011年10月",
+	183,
+	223,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:互助客栈/技术/存档/2012年11月",
+	234,
+	40,
+	"lonely \"<\"",
+	"<meta"
+],[
+	"Wikipedia:互助客栈/技术/存档/2012年6月",
+	82,
+	92,
+	"lonely \"<\"",
+	"<meta"
+],[
+	"Wikipedia:互助客栈/技术/存档/2012年8月",
+	287,
+	58,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"Wikipedia:互助客栈/技术/存档/2013年2月",
+	396,
+	19,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:互助客栈/技术/存档/2013年4月",
+	212,
+	99,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:互助客栈/技术/存档/2014年5月",
+	245,
+	241,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:互助客栈/技术/存档/2015年1月",
+	20,
+	99,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"Wikipedia:互助客栈/技术/存档/2016年3月",
+	76,
+	81,
+	"lonely \"<\"",
+	"<mapframe"
+],[
+	"Wikipedia:互助客栈/技术/存档/2016年6月",
+	29,
+	10,
+	"lonely \"<\"",
+	"<charinsert"
+],[
+	"Wikipedia:互助客栈/技术/存档/2016年9月",
+	22,
+	75,
+	"lonely \"<\"",
+	"<maplink"
+],[
+	"Wikipedia:互助客栈/技术/存档/2017年3月",
+	430,
+	6,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Wikipedia:互助客栈/技术/存档/2017年6月",
+	212,
+	122,
+	"lonely \"<\"",
+	"<mapframe"
+],[
+	"Wikipedia:互助客栈/技术/存档/2018年10月",
+	148,
+	11,
+	"lonely \"<\"",
+	"<meta"
+],[
+	"Wikipedia:互助客栈/技术/存档/2018年8月",
+	372,
+	96,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:互助客栈/技术/存档/2019年3月",
+	57,
+	282,
+	"lonely \"<\"",
+	"<maplink"
+],[
+	"Wikipedia:互助客栈/技术/存档/2019年6月",
+	70,
+	2,
+	"lonely \"<\"",
+	"<source"
+],[
+	"Wikipedia:互助客栈/技术/存档/2019年8月",
+	469,
+	12,
+	"lonely \"<\"",
+	"<img"
+],[
+	"Wikipedia:互助客栈/技术/存档/2021年2月",
+	100,
+	60,
+	"lonely \"<\"",
+	"<title"
+],[
+	"Wikipedia:互助客栈/技术/存档/2021年5月",
+	214,
+	28,
+	"lonely \"<\"",
+	"<body"
+],[
+	"Wikipedia:互助客栈/技术/存档/2022年10月",
+	118,
+	17,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Wikipedia:互助客栈/技术/存档/2022年5月",
+	325,
+	169,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:互助客栈/技术/存档/2022年7月",
+	469,
+	70,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Wikipedia:互助客栈/技术/存档/2023年11月",
+	236,
+	2,
+	"lonely \"<\"",
+	"<  div"
+],[
+	"Wikipedia:互助客栈/技术/存档/2023年6月",
+	7,
+	11,
+	"lonely \"<\"",
+	"<  noinclude"
+],[
+	"Wikipedia:互助客栈/技术/存档/2023年8月",
+	21,
+	13,
+	"lonely \"<\"",
+	"<  nowiki"
+],[
+	"Wikipedia:互助客栈/方针/存档/2003年6月",
+	104,
+	2,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:互助客栈/方针/存档/2004年10月",
+	108,
+	25,
+	"lonely \"<\"",
+	"<body"
+],[
+	"Wikipedia:互助客栈/方针/存档/2005年9月",
+	459,
+	12,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:互助客栈/方针/存档/2008年11月",
+	187,
+	32,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:互助客栈/方针/存档/2015年1月",
+	161,
+	66,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:互助客栈/方针/存档/2020年7月",
+	611,
+	240,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2011年11月",
+	236,
+	44,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2012年7月",
+	351,
+	350,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2014年7月",
+	371,
+	132,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Wikipedia:互助客栈/条目探讨/存档/2018年3月",
+	1325,
+	168,
+	"lonely \"<\"",
+	"<  sub"
+],[
+	"Wikipedia:互助客栈/求助/存档/2006年7月",
+	502,
+	92,
+	"lonely \"<\"",
+	"<html"
+],[
+	"Wikipedia:互助客栈/求助/存档/2008年11月",
+	353,
+	200,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:互助客栈/求助/存档/2008年8月",
+	243,
+	86,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:互助客栈/求助/存档/2009年12月",
+	178,
+	7,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:互助客栈/求助/存档/2010年4月",
+	1068,
+	4,
+	"lonely \"<\"",
+	",</mat"
+],[
+	"Wikipedia:互助客栈/求助/存档/2013年10月",
+	332,
+	75,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Wikipedia:互助客栈/求助/存档/2013年5月",
+	224,
+	31,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:互助客栈/求助/存档/2014年1月",
+	86,
+	13,
+	"lonely \"<\"",
+	"<style"
+],[
+	"Wikipedia:互助客栈/求助/存档/2014年3月",
+	295,
+	112,
+	"lonely \"<\"",
+	"<img"
+],[
+	"Wikipedia:互助客栈/求助/存档/2014年4月",
+	241,
+	7,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:互助客栈/求助/存档/2016年3月",
+	65,
+	509,
+	"lonely \"<\"",
+	"<style"
+],[
+	"Wikipedia:互助客栈/求助/存档/2016年4月",
+	68,
+	37,
+	"lonely \"<\"",
+	"<input"
+],[
+	"Wikipedia:互助客栈/求助/存档/2016年8月",
+	37,
+	15,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Wikipedia:互助客栈/求助/存档/2017年2月",
+	102,
+	36,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:互助客栈/求助/存档/2017年4月",
+	414,
+	8,
+	"lonely \"<\"",
+	"</ nowiki"
+],[
+	"Wikipedia:互助客栈/求助/存档/2017年9月",
+	475,
+	284,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:互助客栈/求助/存档/2018年10月",
+	164,
+	463,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:互助客栈/求助/存档/2018年4月",
+	51,
+	290,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:互助客栈/求助/存档/2018年9月",
+	129,
+	41,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Wikipedia:互助客栈/求助/存档/2019年1月",
+	417,
+	47,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Wikipedia:互助客栈/求助/存档/2020年3月",
+	369,
+	79,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:互助客栈/求助/存档/2022年7月",
+	402,
+	7,
+	"lonely \"<\"",
+	"<gallery"
+],[
+	"Wikipedia:互助客栈/求助/存档/2023年10月",
+	343,
+	127,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:互助客栈/求助/存档/2023年4月",
+	298,
+	19,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:互助客栈/求助/存档/2023年6月",
+	121,
+	2,
+	"lonely \"<\"",
+	"<  ref"
+],[
+	"Wikipedia:互助客栈/求助/存档/2024年12月",
+	173,
+	18,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Wikipedia:互助客栈/求助/存档/2024年7月",
+	516,
+	2,
+	"lonely \"<\"",
+	"<gallery"
+],[
+	"Wikipedia:互助客栈/求助/存档/2024年8月",
+	414,
+	81,
+	"lonely \"<\"",
+	"<references"
+],[
+	"Wikipedia:互助客栈/消息/存档/2009年4月",
+	65,
+	2,
+	"lonely \"<\"",
+	"</a"
+],[
+	"Wikipedia:互助客栈/消息/存档/2019年3月",
+	322,
+	237,
+	"lonely \"<\"",
+	"<maplink"
+],[
+	"Wikipedia:互助客栈/消息/存档/2022年5月",
+	259,
+	5,
+	"lonely \"<\"",
+	"<title"
+],[
+	"Wikipedia:互助客栈/消息/存档/2023年10月",
+	455,
+	114,
+	"lonely \"<\"",
+	"<  a"
+],[
+	"Wikipedia:互助客栈/消息/存档/2023年11月",
+	539,
+	119,
+	"lonely \"<\"",
+	"<  a"
+],[
+	"Wikipedia:傀儡調查/案件/Mafalda4144/存檔",
+	145,
+	1240,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Wikipedia:傀儡調查/案件/这个那/存檔",
+	9,
+	147,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Wikipedia:公告欄/存檔/2016年",
+	35,
+	82,
+	"lonely \"<\"",
+	"<maplink"
+],[
+	"Wikipedia:典范条目评选/匈帝國",
+	16,
+	47,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"Wikipedia:典范条目评选/存档/2006年",
+	290,
+	38,
+	"lonely \"<\"",
+	"<  /br"
+],[
+	"Wikipedia:列明来源",
+	56,
+	255,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"Wikipedia:删除投票和请求/2006年5月24日",
+	251,
+	146,
+	"lonely \"<\"",
+	"<  small"
+],[
+	"Wikipedia:删除投票和请求/2007年2月12日",
+	226,
+	20,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:删除投票和请求/2008年6月1日",
+	221,
+	15,
+	"lonely \"<\"",
+	"<\n br"
+],[
+	"Wikipedia:删除纪录/档案馆/2003年12月19日前",
+	453,
+	80,
+	"lonely \"<\"",
+	"<html"
+],[
+	"Wikipedia:删除纪录/档案馆/2003年8月9日前",
+	232,
+	146,
+	"lonely \"<\"",
+	"</math"
+],[
+	"Wikipedia:删除纪录/档案馆/2004年4月",
+	36,
+	248,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:删除纪录/档案馆/2004年6月",
+	294,
+	147,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:删除纪录/档案馆/2004年8月",
+	76,
+	143,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:參與貢獻/撰寫/条目范例",
+	286,
+	434,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"Wikipedia:反破壞工作小組/反破壞工作小組成員申請/存檔/650",
+	70,
+	165,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:字词转换/修复请求/存档/2022年5月",
+	105,
+	183,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:字词转换/地区词候选/存档/2019年3月",
+	229,
+	54,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:存廢覆核請求/存檔/2010年",
+	1019,
+	2,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:孤立页面/存档",
+	1,
+	17,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:導師計劃/導師區/資源",
+	9,
+	122,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:已删除内容查询/查詢/temp/47523",
+	1,
+	11332,
+	"lonely \"<\"",
+	"<nowiki"
+],[
+	"Wikipedia:引注炸弹",
+	19,
+	67,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Wikipedia:当前的破坏/存档/2007年",
+	415,
+	169,
+	"lonely \"<\"",
+	"<font"
+],[
+	"Wikipedia:当前的破坏/存档/2015年8月",
+	420,
+	3,
+	"lonely \"<\"",
+	"<HTML"
+],[
+	"Wikipedia:当前的破坏/存档/2016年7月",
+	585,
+	167,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:当前的破坏/存档/2017年1月",
+	248,
+	21,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Wikipedia:当前的破坏/存档/2018年6月",
+	198,
+	120,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:当前的破坏/存档/2023年10月",
+	1162,
+	13,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"Wikipedia:当前的破坏/存档/2023年9月",
+	601,
+	5,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Wikipedia:徵求意見/模板样式",
+	22,
+	57,
+	"lonely \"<\"",
+	"<head"
+],[
+	"Wikipedia:投票/小作品判定条件修正案",
+	25,
+	168,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:投票/小作品判定条件修正案/第2次",
+	22,
+	168,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:投票/汶川大地震一周年纪念标志",
+	22,
+	369,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:投票/開放更多編輯權限",
+	21,
+	32,
+	"lonely \"<\"",
+	"<  small"
+],[
+	"Wikipedia:提示/1月8日",
+	5,
+	102,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"Wikipedia:故意濫用模板/多个优点",
+	11,
+	221,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:新手入門/維基文本",
+	114,
+	57,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:新手求助/存檔/2009年",
+	656,
+	22,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:新手求助/存檔/2010年",
+	84,
+	19,
+	"lonely \"<\"",
+	"<  br"
+],[
+	"Wikipedia:新手求助/存檔/2011年",
+	955,
+	13,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:新闻动态候选/存档/2015年3月",
+	22,
+	745,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"Wikipedia:新闻动态候选/存档/2019年12月",
+	9,
+	27,
+	"lonely \"<\"",
+	"<syntaxhighlight"
+],[
+	"Wikipedia:新闻动态候选/存档/2022年8月",
+	718,
+	60,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Wikipedia:更改用户名/账户易手/已完成/2008年",
+	262,
+	34,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:机器人/申请/AngeCIbot",
+	51,
+	27,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:机器人/申请/Antigng-bot/17",
+	22,
+	44,
+	"lonely \"<\"",
+	"</ref"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2008/12/10",
+	26,
+	61,
+	"lonely \"<\"",
+	"<font"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2020/06/30",
+	83,
+	27,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2020/07/31",
+	38,
+	110,
+	"lonely \"<\"",
+	"<gallery"
+],[
+	"Wikipedia:權限申請/申請巡查權/存檔/2018年",
+	274,
+	118,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:欢迎/參與維基/編輯",
+	103,
+	40,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:海南维基人列表",
+	32,
+	17,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:準種",
+	25,
+	82,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:特色條目複審/徐向前/第二次",
+	7,
+	253,
+	"lonely \"<\"",
+	"</ span"
+],[
+	"Wikipedia:理事会选举",
+	33,
+	10,
+	"lonely \"<\"",
+	"<a"
+],[
+	"Wikipedia:用戶查核請求/存檔/2018年1月",
+	48,
+	252,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:申請成為管理員/Iamchenzetian",
+	7,
+	25,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:申请成为用户查核员/Alexander Misel",
+	104,
+	82,
+	"lonely \"<\"",
+	"<ref"
+],[
+	"Wikipedia:申请成为管理员/CopperSulfate/第1次",
+	8,
+	20,
+	"lonely \"<\"",
+	"<font"
+],[
+	"Wikipedia:申请成为管理员/CopperSulfate/第2次",
+	11,
+	27,
+	"lonely \"<\"",
+	"<font"
+],[
+	"Wikipedia:申请成为管理员/Hat600/第1次",
+	331,
+	37,
+	"lonely \"<\"",
+	"<link"
+],[
+	"Wikipedia:申请成为管理员/Kinghongkong",
+	8,
+	24,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:申请成为行政员/Cloudcolors",
+	78,
+	50,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:疯狂指数测试/2011",
+	1098,
+	47,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:疯狂指数测试/2012",
+	1346,
+	47,
+	"lonely \"<\"",
+	"</nowiki"
+],[
+	"Wikipedia:百度百科對維基百科的侵權/列表/一般条目",
+	44,
+	26,
+	"lonely \"<\"",
+	"</math"
+],[
+	"Wikipedia:百度百科對維基百科的侵權/列表/新条目推荐条目",
+	93,
+	43,
+	"lonely \"<\"",
+	"<span"
+],[
+	"Wikipedia:知识问答/存档/2008年9月",
+	530,
+	87,
+	"lonely \"<\"",
+	"<  span"
+],[
+	"Wikipedia:知识问答/存档/2010年4月",
+	16,
+	3,
+	"lonely \"<\"",
+	"<  ref"
+],],"batches":8}

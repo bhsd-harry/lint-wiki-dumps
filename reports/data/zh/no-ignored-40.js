@@ -1,1 +1,1201 @@
-window.data={"articles":[["聖路易交通中心",1,20,"useless link text","|聖路易交通中心"],["聖鬥士星矢Ω",417,4,"containing invalid attribute","𦵑"],["聚焦2.0",51,22,"containing invalid attribute","  width:65%;\""],["聞聘",1,24,"useless link text","|聞聘"],["聯合國大會第181號決議",64,27,"containing invalid attribute"," 90%\""],["聯合國大會觀察員列表",190,3,"containing invalid attribute","2009年12月6日<br />  （A/"],["聯合報",59,52,"containing invalid attribute","width:80%; "],["聯合報系",50,53,"containing invalid attribute","width:80%;text-align: center;\""],["聯合車站 (奧馬哈)",47,4,"useless fragment","Image:Union_Station_Quote_(right).JPG#file"],["聲入人心",333,4,"useless fragment",":声入人心 (第一季)#收视率"],["聲夢傳奇2",100,4,"containing invalid attribute","|rowspan=6|[[XiX]]"],["聲夢傳奇2馬來西亞",190,22,"containing invalid attribute","  ;text-align:center\"  "],["聲林之王",3547,17,"containing invalid attribute"," 合唱 老實情歌 (#11)"],["聲林之王3",2128,49,"containing invalid attribute","; width:100%; "],["聲生不息·寶島季",50,22,"containing invalid attribute","  width:\"80%\""],["聽見幸福的聲音",57,41,"containing invalid attribute","  ;align=center "],["肖宇梁",135,41,"containing invalid attribute"," name\"=:11\""],["肖永绥",1,18,"useless link text","|萧岗"],["股票期貨",26,21,"containing invalid attribute","  |+ 股票期貨與其他商品比較表"],["肥貓大戰三小強",207,34,"containing invalid attribute","height:\"48%\" "],["肥龍過江 (2020年電影)",105,3,"containing invalid attribute","{{illm"],["肯尼亚航空",73,33,"containing invalid attribute"," white;"],["育碧利明顿",34,61,"containing invalid attribute","1\""],["胡一天",185,4,"containing invalid attribute","2019爱奇艺尖叫之夜 || 年度戏剧潜力艺人"],["胡人",154,4,"containing invalid attribute","公元388年至今"],["胡凱兒",39,42,"containing invalid attribute","  font-weight:bold\"   "],["胡子彤",383,14,"containing invalid attribute","  <small>;text-align:center"],["胡安·卡洛斯·赛斯",51,4,"containing invalid attribute"," bgcolo日r=f3e6d7"],["胡安·馬丁·德爾波特羅",196,3,"containing invalid attribute","!width=30"],["胡文煊",37,3,"containing invalid attribute","width:\"350px\""],["胡春楊",30,3,"containing invalid attribute","width:\"350px\""],["胡曰從",1,21,"useless link text","|胡正言"],["胡桃鉗與奇幻四國",72,31,"containing invalid attribute","; color:snow\"  "],["胡炳衡宅",12,162,"containing invalid attribute"," =\"古建筑地图\""],["胡燁韜",39,74,"containing invalid attribute","50%\""],["胡瑞財",1102,4,"containing invalid attribute","<ref>{{Cite web|url=https://tavis.tw/VPost?VPId=123312|title=2017「MOD微電影暨金片子創作大賽"],["胡立歐·法蘭柯",105,3,"containing invalid attribute","年度"],["胡美貽",158,33,"containing invalid attribute","{{link-yue"],["胡鬧廚房2",86,3,"containing invalid attribute","“独乐乐不如众乐乐”奖"],["胡鴻鈞",729,38,"containing invalid attribute","1''"],["能剧现行剧目列表",255,11,"containing invalid attribute","不明"],["能力成熟度模型集成",37,8,"containing invalid attribute"," 名称 "],["能美線",108,3,"containing invalid attribute","&nbsp;"],["能見篤史",45,3,"containing invalid attribute","年<br>度"],["脂肪酸代謝",28,67,"containing invalid attribute"," name\"mehta_digestion"],["脇谷亮太",48,3,"containing invalid attribute","年度"],["脊振山分屯基地",14,1,"invalid content in <gallery>"," [[file:sefuriSan_jinjya_radar.jpg|脊振山山頂的背振神社和对空雷达]]"],["脱乳清酸奶",24,155,"invalid conversion flag","粘稠度"],["脱口秀大会",356,131,"containing invalid attribute","|ref "],["腐女無意間跟Gay告白",1,31,"useless link text","|她喜歡的是BL，不是同志的我"],["腓立比收藏物",37,1,"invalid content in <gallery>"," perrow=\"5\">"],["腔骨龍屬",48,77,"containing invalid attribute"," = michaelbenton|1992"],["腸腸搞轟趴",88,31,"containing invalid attribute","; color:snow\"  "],["臘腸",33,1,"invalid content in <gallery>"," File::Jeon_coeng.JPG|攝於香港[[深水埗]][[大南街]]的膶腸"],["臨屯郡",37,22,"containing invalid attribute","  |align=center"],["自動微分",82,22,"containing invalid attribute",",border=0"],["自殺突擊隊 (電影)",72,23,"containing invalid attribute","; color:snow\"  "],["自然史博物館 (柏林)",1,20,"useless link text","|自然史博物館 (柏林)"],["自然歷史博物館 (柏林)",1,14,"useless link text","|柏林自然博物館"],["自由民主黨總裁",140,4,"containing invalid attribute","画像"],["致遠會計師事務所",1,20,"useless link text","|安永"],["致遠聯合會計師事務所",1,16,"useless link text","|安永"],["致青春 (歌曲)",35,42,"containing invalid attribute"," color:black\"  "],["臺中市動物保護防疫處",44,53,"containing invalid attribute","width:60%;text-align: center;\""],["臺中市博屋瑪國民小學",31,53,"containing invalid attribute","width:60%;text-align: center;\""],["臺中市政府勞工局",72,52,"containing invalid attribute","width:60%; "],["臺中市政府原住民族事務委員會",36,53,"containing invalid attribute","width:60%;text-align: center;\""],["臺中市政府地政局",49,52,"containing invalid attribute","width:60%; "],["臺中市政府地方稅務局",200,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺中市政府教育局",47,53,"containing invalid attribute","width:60%;text-align: center;\""],["臺中市政府文化局",56,53,"containing invalid attribute","width:60%;text-align: center;\""],["臺中市政府民政局",71,52,"containing invalid attribute","width:60%; "],["臺中市政府水利局",42,52,"containing invalid attribute","width:60%; "],["臺中市政府環境保護局",78,53,"containing invalid attribute","width:80%;text-align: center;\""],["臺中市政府經濟發展局",44,53,"containing invalid attribute","width:60%;text-align: center;\""],["臺中市政府衛生局",151,53,"containing invalid attribute","width:100%;text-align: center;\""],["臺中市政府農業局",47,52,"containing invalid attribute","width:60%; "],["臺中市第十三期市地重劃區",75,53,"attributes of a closing tag"," color"],["臺中市葳格高級中學",91,4,"containing invalid attribute","的"],["臺中清泉崗機場",266,4,"containing invalid attribute","|[[File:臺中航空站航廈全景.jpg|thumb|center|750px|臺中航空站二航廈全景]]|}"],["臺北、新北地區公車路線廢線列表",56,4,"containing invalid attribute","2007年532公車改為{{blue|'''藍29'''}}（名義上為裁撤並另立新線）"],["臺北南山廣場",73,9,"containing invalid attribute","微風南山  "],["臺北大巨蛋",145,3,"containing invalid attribute","scope\"row\""],["臺北市",845,22,"containing invalid attribute","; text-align:center;"],["臺北市中山區",1,17,"useless link text","|中山區"],["臺北市內湖區第六期市地重劃區",1,15,"useless link text","|內湖"],["臺北市懷愛館",70,52,"containing invalid attribute","width:70%; "],["臺北市政府勞動局",75,71,"containing invalid attribute","width:70%;text-align: center;\""],["臺北市政府原住民族事務委員會",42,71,"containing invalid attribute","width:70%;text-align: center;\""],["臺北市政府廉政透明委員會",41,71,"containing invalid attribute","width:70%;text-align: center;\""],["臺北市政府捷運工程局",118,71,"containing invalid attribute","width:70%;text-align: center;\""],["臺北市政府教育局",137,69,"containing invalid attribute","width:70%; "],["臺北市政府文化局",112,71,"containing invalid attribute","width:70%;text-align: center;\""],["臺北市政府社會局",49,69,"containing invalid attribute","width:70%; "],["臺北市政府秘書處",49,52,"containing invalid attribute","width:80%; "],["臺北市政府秘書處媒體事務組",32,53,"containing invalid attribute","width:80%;text-align: center;\""],["臺北市政府觀光傳播局",66,71,"containing invalid attribute","width:70%;text-align: center;\""],["臺北市政府警察局",419,6,"containing invalid attribute","汪弼"],["臺北市歷史",298,129,"containing invalid attribute"," name:\"<<台北市資料大平臺"],["臺北市直轄市定古蹟列表",1241,3,"containing invalid attribute","其他設施-石窟建築群"],["臺北市私立新民國民小學",32,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺北市私立華岡藝術學校",52,52,"containing invalid attribute","width:30%; "],["臺北市私立靜心高級中學",23,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺北市立交響樂團",49,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺北市立動物園",121,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺北市立國樂團",30,52,"containing invalid attribute","width:70%; "],["臺北市立螢橋國民中學",28,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺北市第一殯儀館",67,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺北市藝文推廣處",119,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺北捷運公司",173,22,"containing invalid attribute","  \"width:70%\""],["臺北榮民總醫院臺東分院",118,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺北流行音樂中心",149,53,"containing invalid attribute","width:75%;\""],["臺北燈節",217,4,"containing invalid attribute","|哈哈蛇"],["臺北金馬影展執行委員會",120,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺南市市民卡",44,42,"containing invalid attribute","新台幣100元，"],["臺南市政府教育局",67,71,"containing invalid attribute","width:70%;text-align: center;\""],["臺南市政府文化局",75,54,"containing invalid attribute","width:70%;text-align: center;\""],["臺南市新化區大新國民小學",46,21,"containing invalid attribute","  \"width=25%\""],["臺南市立麻豆國民中學",94,24,"containing invalid attribute","現任"],["臺南市美術館",84,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺南捷運綠線",82,56,"containing invalid attribute","  /，[[台南市政府]]考量沙崙線的興建對台南都會區帶來的大眾運輸功能仍然不足，都市核心區域仍迫切需要大眾捷運系統，相繼於2003年間提出建置[[輕軌運輸系統"],["臺南捷運藍線",84,56,"containing invalid attribute","  /與[|台南市政府]]考量[[沙崙線]]的興建對台南都會區帶來的大眾運輸功能仍然不足，都市核心區域仍迫切需要大眾捷運系統，相繼於2003年間提出建置[[輕軌"],["臺南榮譽國民之家",34,52,"containing invalid attribute","width:70%; "],["臺東縣消防局",100,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣中小企業銀行",49,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣公民投票法",1,18,"useless link text","|中華民國公民投票法"],["臺灣公路",106,3,"containing invalid attribute","{{nowrap"],["臺灣南投地方檢察署",61,52,"containing invalid attribute","width:70%; "],["臺灣南投地方法院",75,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣南部地區選舉地理",41,33,"containing invalid attribute","  style＝\"text-align:center\""],["臺灣嘉義地方法院",40,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣地形",1,20,"useless link text","|台灣地形"],["臺灣基隆地方檢察署",45,52,"containing invalid attribute","width:70%; "],["臺灣基隆地方法院",89,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣士林地方檢察署",45,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣士林地方法院",79,52,"containing invalid attribute","width:70%; "],["臺灣大道",267,63,"attributes of a closing tag"," color"],["臺灣宜蘭地方法院",61,52,"containing invalid attribute","width:70%; "],["臺灣客家語",508,58,"containing invalid attribute"," ʃin13 "],["臺灣屏東地方法院",91,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣廢除死刑推動聯盟",29,62,"containing invalid attribute"," 陳志賢”"],["臺灣彩票",78,12,"containing invalid attribute"," ;width=80px"],["臺灣彰化地方檢察署",119,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣彰化地方法院",91,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣文化資產遭破壞列表",177,3,"containing invalid attribute"," 桃園市<br>龍潭區 "],["臺灣新北地方檢察署",100,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣新北地方法院",78,52,"containing invalid attribute","width:70%; "],["臺灣新竹地方檢察署",57,52,"containing invalid attribute","width:70%; "],["臺灣新竹地方法院",101,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣日治時期發電所列表",29,60,"containing invalid attribute"," 埔里社電燈株式會社"],["臺灣桃園國際機場營運統計列表",800,74,"containing invalid attribute","  style\":\"  "],["臺灣桃園地方檢察署",45,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣桃園地方法院",96,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣橋頭地方檢察署",149,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣橋頭地方法院",54,52,"containing invalid attribute","width:70%; "],["臺灣歷史",55,21,"containing invalid attribute","  =\"1\" "],["臺灣死刑存廢問題",81,92,"containing invalid attribute"," 陳志賢”"],["臺灣民眾黨 (日治時期)",1,21,"useless link text","|臺灣民眾黨"],["臺灣水庫",256,69,"containing invalid attribute","未知"],["臺灣港務公司",122,59,"containing invalid attribute"," 50%;text-align: center;\""],["臺灣澎湖地方檢察署",427,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣澎湖地方法院",106,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣盲文",282,4,"containing invalid attribute","(見圖像)。"],["臺灣省政府新聞處",15,53,"containing invalid attribute","width:80%;text-align: center;\""],["臺灣童軍團列表",464,34,"containing invalid attribute","CG(B)"],["臺灣競爭力論壇",19,21,"containing invalid attribute","  |style=\"text-align:left\"  | "],["臺灣老街列表",11,59,"containing invalid attribute"," !width=25%"],["臺灣臺中地方檢察署",104,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣臺中地方法院",158,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣臺北地方檢察署",56,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣臺北地方法院",161,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣臺南地方檢察署",42,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣臺南地方法院",62,52,"containing invalid attribute","width:70%; "],["臺灣臺東地方法院",104,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣花蓮地方檢察署",47,52,"containing invalid attribute","width:70%; "],["臺灣花蓮地方法院",33,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣苗栗地方檢察署",84,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣苗栗地方法院",133,52,"containing invalid attribute","width:70%; "],["臺灣蝴蝶列表",838,4,"containing invalid attribute"," ;\"white-space:nowrap\""],["臺灣行政區劃",258,3,"containing invalid attribute","width:25%"],["臺灣車輛牌照",663,123,"containing invalid attribute","  style\":\"background:yellow; color:black; "],["臺灣鐵路公司",46,52,"containing invalid attribute","width:70%; "],["臺灣鐵路管理局",78,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣雙語無法黨",192,3,"containing invalid attribute"," width:60px;\""],["臺灣雲林地方法院",92,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣高等檢察署",47,52,"containing invalid attribute","width:70%; "],["臺灣高等法院",147,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣高等法院臺中分院",48,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣高等法院臺南分院",50,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣高等法院花蓮分院",32,53,"containing invalid attribute","width:70%;text-align: center;\""],["臺灣高等法院高雄分院",30,52,"containing invalid attribute","width:70%; "],["臺灣高雄地方檢察署",53,52,"containing invalid attribute","width:70%; "],["臺灣高雄地方法院",101,52,"containing invalid attribute","width:70%; "],["與座海人",36,3,"containing invalid attribute","年<br>度"],["與怪談共舞，而你在樓梯上翩翩起舞",72,4,"useless fragment","File:Japanese offertory box.jpg#file"],["與愛同行 (2019年大愛電視劇)",59,47,"containing invalid attribute","  font-weight:bold;color:DeepPink\"  "],["與田剛",48,3,"containing invalid attribute","年<br>度"],["舉世盛名",146,3,"containing invalid attribute"," {{center"],["舊長型大廈列表",411,76,"containing invalid attribute","孫福記營造"],["舌唇音",26,3,"containing invalid attribute"," text-align:center\""]],"batches":51}
+window.data={"articles":[[
+	"聖路易交通中心",
+	1,
+	20,
+	"useless link text",
+	"|聖路易交通中心"
+],[
+	"聖鬥士星矢Ω",
+	417,
+	4,
+	"containing invalid attribute",
+	"𦵑"
+],[
+	"聚焦2.0",
+	51,
+	22,
+	"containing invalid attribute",
+	"  width:65%;\""
+],[
+	"聞聘",
+	1,
+	24,
+	"useless link text",
+	"|聞聘"
+],[
+	"聯合國大會第181號決議",
+	64,
+	27,
+	"containing invalid attribute",
+	" 90%\""
+],[
+	"聯合國大會觀察員列表",
+	190,
+	3,
+	"containing invalid attribute",
+	"2009年12月6日<br />  （A/"
+],[
+	"聯合報",
+	59,
+	52,
+	"containing invalid attribute",
+	"width:80%; "
+],[
+	"聯合報系",
+	50,
+	53,
+	"containing invalid attribute",
+	"width:80%;text-align: center;\""
+],[
+	"聯合車站 (奧馬哈)",
+	47,
+	4,
+	"useless fragment",
+	"Image:Union_Station_Quote_(right).JPG#file"
+],[
+	"聲入人心",
+	333,
+	4,
+	"useless fragment",
+	":声入人心 (第一季)#收视率"
+],[
+	"聲夢傳奇2",
+	100,
+	4,
+	"containing invalid attribute",
+	"|rowspan=6|[[XiX]]"
+],[
+	"聲夢傳奇2馬來西亞",
+	190,
+	22,
+	"containing invalid attribute",
+	"  ;text-align:center\"  "
+],[
+	"聲林之王",
+	3547,
+	17,
+	"containing invalid attribute",
+	" 合唱 老實情歌 (#11)"
+],[
+	"聲林之王3",
+	2128,
+	49,
+	"containing invalid attribute",
+	"; width:100%; "
+],[
+	"聲生不息·寶島季",
+	50,
+	22,
+	"containing invalid attribute",
+	"  width:\"80%\""
+],[
+	"聽見幸福的聲音",
+	57,
+	41,
+	"containing invalid attribute",
+	"  ;align=center "
+],[
+	"肖宇梁",
+	135,
+	41,
+	"containing invalid attribute",
+	" name\"=:11\""
+],[
+	"肖永绥",
+	1,
+	18,
+	"useless link text",
+	"|萧岗"
+],[
+	"股票期貨",
+	26,
+	21,
+	"containing invalid attribute",
+	"  |+ 股票期貨與其他商品比較表"
+],[
+	"肥貓大戰三小強",
+	207,
+	34,
+	"containing invalid attribute",
+	"height:\"48%\" "
+],[
+	"肥龍過江 (2020年電影)",
+	105,
+	3,
+	"containing invalid attribute",
+	"{{illm"
+],[
+	"肯尼亚航空",
+	73,
+	33,
+	"containing invalid attribute",
+	" white;"
+],[
+	"育碧利明顿",
+	34,
+	61,
+	"containing invalid attribute",
+	"1\""
+],[
+	"胡一天",
+	185,
+	4,
+	"containing invalid attribute",
+	"2019爱奇艺尖叫之夜 || 年度戏剧潜力艺人"
+],[
+	"胡人",
+	154,
+	4,
+	"containing invalid attribute",
+	"公元388年至今"
+],[
+	"胡凱兒",
+	39,
+	42,
+	"containing invalid attribute",
+	"  font-weight:bold\"   "
+],[
+	"胡子彤",
+	383,
+	14,
+	"containing invalid attribute",
+	"  <small>;text-align:center"
+],[
+	"胡安·卡洛斯·赛斯",
+	51,
+	4,
+	"containing invalid attribute",
+	" bgcolo日r=f3e6d7"
+],[
+	"胡安·馬丁·德爾波特羅",
+	196,
+	3,
+	"containing invalid attribute",
+	"!width=30"
+],[
+	"胡文煊",
+	37,
+	3,
+	"containing invalid attribute",
+	"width:\"350px\""
+],[
+	"胡春楊",
+	30,
+	3,
+	"containing invalid attribute",
+	"width:\"350px\""
+],[
+	"胡曰從",
+	1,
+	21,
+	"useless link text",
+	"|胡正言"
+],[
+	"胡桃鉗與奇幻四國",
+	72,
+	31,
+	"containing invalid attribute",
+	"; color:snow\"  "
+],[
+	"胡炳衡宅",
+	12,
+	162,
+	"containing invalid attribute",
+	" =\"古建筑地图\""
+],[
+	"胡燁韜",
+	39,
+	74,
+	"containing invalid attribute",
+	"50%\""
+],[
+	"胡瑞財",
+	1102,
+	4,
+	"containing invalid attribute",
+	"<ref>{{Cite web|url=https://tavis.tw/VPost?VPId=123312|title=2017「MOD微電影暨金片子創作大賽"
+],[
+	"胡立歐·法蘭柯",
+	105,
+	3,
+	"containing invalid attribute",
+	"年度"
+],[
+	"胡美貽",
+	158,
+	33,
+	"containing invalid attribute",
+	"{{link-yue"
+],[
+	"胡鬧廚房2",
+	86,
+	3,
+	"containing invalid attribute",
+	"“独乐乐不如众乐乐”奖"
+],[
+	"胡鴻鈞",
+	729,
+	38,
+	"containing invalid attribute",
+	"1''"
+],[
+	"能剧现行剧目列表",
+	255,
+	11,
+	"containing invalid attribute",
+	"不明"
+],[
+	"能力成熟度模型集成",
+	37,
+	8,
+	"containing invalid attribute",
+	" 名称 "
+],[
+	"能美線",
+	108,
+	3,
+	"containing invalid attribute",
+	"&nbsp;"
+],[
+	"能見篤史",
+	45,
+	3,
+	"containing invalid attribute",
+	"年<br>度"
+],[
+	"脂肪酸代謝",
+	28,
+	67,
+	"containing invalid attribute",
+	" name\"mehta_digestion"
+],[
+	"脇谷亮太",
+	48,
+	3,
+	"containing invalid attribute",
+	"年度"
+],[
+	"脊振山分屯基地",
+	14,
+	1,
+	"invalid content in <gallery>",
+	" [[file:sefuriSan_jinjya_radar.jpg|脊振山山頂的背振神社和对空雷达]]"
+],[
+	"脱乳清酸奶",
+	24,
+	155,
+	"invalid conversion flag",
+	"粘稠度"
+],[
+	"脱口秀大会",
+	356,
+	131,
+	"containing invalid attribute",
+	"|ref "
+],[
+	"腐女無意間跟Gay告白",
+	1,
+	31,
+	"useless link text",
+	"|她喜歡的是BL，不是同志的我"
+],[
+	"腓立比收藏物",
+	37,
+	1,
+	"invalid content in <gallery>",
+	" perrow=\"5\">"
+],[
+	"腔骨龍屬",
+	48,
+	77,
+	"containing invalid attribute",
+	" = michaelbenton|1992"
+],[
+	"腸腸搞轟趴",
+	88,
+	31,
+	"containing invalid attribute",
+	"; color:snow\"  "
+],[
+	"臘腸",
+	33,
+	1,
+	"invalid content in <gallery>",
+	" File::Jeon_coeng.JPG|攝於香港[[深水埗]][[大南街]]的膶腸"
+],[
+	"臨屯郡",
+	37,
+	22,
+	"containing invalid attribute",
+	"  |align=center"
+],[
+	"自動微分",
+	82,
+	22,
+	"containing invalid attribute",
+	",border=0"
+],[
+	"自殺突擊隊 (電影)",
+	72,
+	23,
+	"containing invalid attribute",
+	"; color:snow\"  "
+],[
+	"自然史博物館 (柏林)",
+	1,
+	20,
+	"useless link text",
+	"|自然史博物館 (柏林)"
+],[
+	"自然歷史博物館 (柏林)",
+	1,
+	14,
+	"useless link text",
+	"|柏林自然博物館"
+],[
+	"自由民主黨總裁",
+	140,
+	4,
+	"containing invalid attribute",
+	"画像"
+],[
+	"致遠會計師事務所",
+	1,
+	20,
+	"useless link text",
+	"|安永"
+],[
+	"致遠聯合會計師事務所",
+	1,
+	16,
+	"useless link text",
+	"|安永"
+],[
+	"致青春 (歌曲)",
+	35,
+	42,
+	"containing invalid attribute",
+	" color:black\"  "
+],[
+	"臺中市動物保護防疫處",
+	44,
+	53,
+	"containing invalid attribute",
+	"width:60%;text-align: center;\""
+],[
+	"臺中市博屋瑪國民小學",
+	31,
+	53,
+	"containing invalid attribute",
+	"width:60%;text-align: center;\""
+],[
+	"臺中市政府勞工局",
+	72,
+	52,
+	"containing invalid attribute",
+	"width:60%; "
+],[
+	"臺中市政府原住民族事務委員會",
+	36,
+	53,
+	"containing invalid attribute",
+	"width:60%;text-align: center;\""
+],[
+	"臺中市政府地政局",
+	49,
+	52,
+	"containing invalid attribute",
+	"width:60%; "
+],[
+	"臺中市政府地方稅務局",
+	200,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺中市政府教育局",
+	47,
+	53,
+	"containing invalid attribute",
+	"width:60%;text-align: center;\""
+],[
+	"臺中市政府文化局",
+	56,
+	53,
+	"containing invalid attribute",
+	"width:60%;text-align: center;\""
+],[
+	"臺中市政府民政局",
+	71,
+	52,
+	"containing invalid attribute",
+	"width:60%; "
+],[
+	"臺中市政府水利局",
+	42,
+	52,
+	"containing invalid attribute",
+	"width:60%; "
+],[
+	"臺中市政府環境保護局",
+	78,
+	53,
+	"containing invalid attribute",
+	"width:80%;text-align: center;\""
+],[
+	"臺中市政府經濟發展局",
+	44,
+	53,
+	"containing invalid attribute",
+	"width:60%;text-align: center;\""
+],[
+	"臺中市政府衛生局",
+	151,
+	53,
+	"containing invalid attribute",
+	"width:100%;text-align: center;\""
+],[
+	"臺中市政府農業局",
+	47,
+	52,
+	"containing invalid attribute",
+	"width:60%; "
+],[
+	"臺中市第十三期市地重劃區",
+	75,
+	53,
+	"attributes of a closing tag",
+	" color"
+],[
+	"臺中市葳格高級中學",
+	91,
+	4,
+	"containing invalid attribute",
+	"的"
+],[
+	"臺中清泉崗機場",
+	266,
+	4,
+	"containing invalid attribute",
+	"|[[File:臺中航空站航廈全景.jpg|thumb|center|750px|臺中航空站二航廈全景]]|}"
+],[
+	"臺北、新北地區公車路線廢線列表",
+	56,
+	4,
+	"containing invalid attribute",
+	"2007年532公車改為{{blue|'''藍29'''}}（名義上為裁撤並另立新線）"
+],[
+	"臺北南山廣場",
+	73,
+	9,
+	"containing invalid attribute",
+	"微風南山  "
+],[
+	"臺北大巨蛋",
+	145,
+	3,
+	"containing invalid attribute",
+	"scope\"row\""
+],[
+	"臺北市",
+	845,
+	22,
+	"containing invalid attribute",
+	"; text-align:center;"
+],[
+	"臺北市中山區",
+	1,
+	17,
+	"useless link text",
+	"|中山區"
+],[
+	"臺北市內湖區第六期市地重劃區",
+	1,
+	15,
+	"useless link text",
+	"|內湖"
+],[
+	"臺北市懷愛館",
+	70,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺北市政府勞動局",
+	75,
+	71,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺北市政府原住民族事務委員會",
+	42,
+	71,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺北市政府廉政透明委員會",
+	41,
+	71,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺北市政府捷運工程局",
+	118,
+	71,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺北市政府教育局",
+	137,
+	69,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺北市政府文化局",
+	112,
+	71,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺北市政府社會局",
+	49,
+	69,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺北市政府秘書處",
+	49,
+	52,
+	"containing invalid attribute",
+	"width:80%; "
+],[
+	"臺北市政府秘書處媒體事務組",
+	32,
+	53,
+	"containing invalid attribute",
+	"width:80%;text-align: center;\""
+],[
+	"臺北市政府觀光傳播局",
+	66,
+	71,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺北市政府警察局",
+	419,
+	6,
+	"containing invalid attribute",
+	"汪弼"
+],[
+	"臺北市歷史",
+	298,
+	129,
+	"containing invalid attribute",
+	" name:\"<<台北市資料大平臺"
+],[
+	"臺北市直轄市定古蹟列表",
+	1241,
+	3,
+	"containing invalid attribute",
+	"其他設施-石窟建築群"
+],[
+	"臺北市私立新民國民小學",
+	32,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺北市私立華岡藝術學校",
+	52,
+	52,
+	"containing invalid attribute",
+	"width:30%; "
+],[
+	"臺北市私立靜心高級中學",
+	23,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺北市立交響樂團",
+	49,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺北市立動物園",
+	121,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺北市立國樂團",
+	30,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺北市立螢橋國民中學",
+	28,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺北市第一殯儀館",
+	67,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺北市藝文推廣處",
+	119,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺北捷運公司",
+	173,
+	22,
+	"containing invalid attribute",
+	"  \"width:70%\""
+],[
+	"臺北榮民總醫院臺東分院",
+	118,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺北流行音樂中心",
+	149,
+	53,
+	"containing invalid attribute",
+	"width:75%;\""
+],[
+	"臺北燈節",
+	217,
+	4,
+	"containing invalid attribute",
+	"|哈哈蛇"
+],[
+	"臺北金馬影展執行委員會",
+	120,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺南市市民卡",
+	44,
+	42,
+	"containing invalid attribute",
+	"新台幣100元，"
+],[
+	"臺南市政府教育局",
+	67,
+	71,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺南市政府文化局",
+	75,
+	54,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺南市新化區大新國民小學",
+	46,
+	21,
+	"containing invalid attribute",
+	"  \"width=25%\""
+],[
+	"臺南市立麻豆國民中學",
+	94,
+	24,
+	"containing invalid attribute",
+	"現任"
+],[
+	"臺南市美術館",
+	84,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺南捷運綠線",
+	82,
+	56,
+	"containing invalid attribute",
+	"  /，[[台南市政府]]考量沙崙線的興建對台南都會區帶來的大眾運輸功能仍然不足，都市核心區域仍迫切需要大眾捷運系統，相繼於2003年間提出建置[[輕軌運輸系統"
+],[
+	"臺南捷運藍線",
+	84,
+	56,
+	"containing invalid attribute",
+	"  /與[|台南市政府]]考量[[沙崙線]]的興建對台南都會區帶來的大眾運輸功能仍然不足，都市核心區域仍迫切需要大眾捷運系統，相繼於2003年間提出建置[[輕軌"
+],[
+	"臺南榮譽國民之家",
+	34,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺東縣消防局",
+	100,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣中小企業銀行",
+	49,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣公民投票法",
+	1,
+	18,
+	"useless link text",
+	"|中華民國公民投票法"
+],[
+	"臺灣公路",
+	106,
+	3,
+	"containing invalid attribute",
+	"{{nowrap"
+],[
+	"臺灣南投地方檢察署",
+	61,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺灣南投地方法院",
+	75,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣南部地區選舉地理",
+	41,
+	33,
+	"containing invalid attribute",
+	"  style＝\"text-align:center\""
+],[
+	"臺灣嘉義地方法院",
+	40,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣地形",
+	1,
+	20,
+	"useless link text",
+	"|台灣地形"
+],[
+	"臺灣基隆地方檢察署",
+	45,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺灣基隆地方法院",
+	89,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣士林地方檢察署",
+	45,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣士林地方法院",
+	79,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺灣大道",
+	267,
+	63,
+	"attributes of a closing tag",
+	" color"
+],[
+	"臺灣宜蘭地方法院",
+	61,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺灣客家語",
+	508,
+	58,
+	"containing invalid attribute",
+	" ʃin13 "
+],[
+	"臺灣屏東地方法院",
+	91,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣廢除死刑推動聯盟",
+	29,
+	62,
+	"containing invalid attribute",
+	" 陳志賢”"
+],[
+	"臺灣彩票",
+	78,
+	12,
+	"containing invalid attribute",
+	" ;width=80px"
+],[
+	"臺灣彰化地方檢察署",
+	119,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣彰化地方法院",
+	91,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣文化資產遭破壞列表",
+	177,
+	3,
+	"containing invalid attribute",
+	" 桃園市<br>龍潭區 "
+],[
+	"臺灣新北地方檢察署",
+	100,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣新北地方法院",
+	78,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺灣新竹地方檢察署",
+	57,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺灣新竹地方法院",
+	101,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣日治時期發電所列表",
+	29,
+	60,
+	"containing invalid attribute",
+	" 埔里社電燈株式會社"
+],[
+	"臺灣桃園國際機場營運統計列表",
+	800,
+	74,
+	"containing invalid attribute",
+	"  style\":\"  "
+],[
+	"臺灣桃園地方檢察署",
+	45,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣桃園地方法院",
+	96,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣橋頭地方檢察署",
+	149,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣橋頭地方法院",
+	54,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺灣歷史",
+	55,
+	21,
+	"containing invalid attribute",
+	"  =\"1\" "
+],[
+	"臺灣死刑存廢問題",
+	81,
+	92,
+	"containing invalid attribute",
+	" 陳志賢”"
+],[
+	"臺灣民眾黨 (日治時期)",
+	1,
+	21,
+	"useless link text",
+	"|臺灣民眾黨"
+],[
+	"臺灣水庫",
+	256,
+	69,
+	"containing invalid attribute",
+	"未知"
+],[
+	"臺灣港務公司",
+	122,
+	59,
+	"containing invalid attribute",
+	" 50%;text-align: center;\""
+],[
+	"臺灣澎湖地方檢察署",
+	427,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣澎湖地方法院",
+	106,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣盲文",
+	282,
+	4,
+	"containing invalid attribute",
+	"(見圖像)。"
+],[
+	"臺灣省政府新聞處",
+	15,
+	53,
+	"containing invalid attribute",
+	"width:80%;text-align: center;\""
+],[
+	"臺灣童軍團列表",
+	464,
+	34,
+	"containing invalid attribute",
+	"CG(B)"
+],[
+	"臺灣競爭力論壇",
+	19,
+	21,
+	"containing invalid attribute",
+	"  |style=\"text-align:left\"  | "
+],[
+	"臺灣老街列表",
+	11,
+	59,
+	"containing invalid attribute",
+	" !width=25%"
+],[
+	"臺灣臺中地方檢察署",
+	104,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣臺中地方法院",
+	158,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣臺北地方檢察署",
+	56,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣臺北地方法院",
+	161,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣臺南地方檢察署",
+	42,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣臺南地方法院",
+	62,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺灣臺東地方法院",
+	104,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣花蓮地方檢察署",
+	47,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺灣花蓮地方法院",
+	33,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣苗栗地方檢察署",
+	84,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣苗栗地方法院",
+	133,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺灣蝴蝶列表",
+	838,
+	4,
+	"containing invalid attribute",
+	" ;\"white-space:nowrap\""
+],[
+	"臺灣行政區劃",
+	258,
+	3,
+	"containing invalid attribute",
+	"width:25%"
+],[
+	"臺灣車輛牌照",
+	663,
+	123,
+	"containing invalid attribute",
+	"  style\":\"background:yellow; color:black; "
+],[
+	"臺灣鐵路公司",
+	46,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺灣鐵路管理局",
+	78,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣雙語無法黨",
+	192,
+	3,
+	"containing invalid attribute",
+	" width:60px;\""
+],[
+	"臺灣雲林地方法院",
+	92,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣高等檢察署",
+	47,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺灣高等法院",
+	147,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣高等法院臺中分院",
+	48,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣高等法院臺南分院",
+	50,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣高等法院花蓮分院",
+	32,
+	53,
+	"containing invalid attribute",
+	"width:70%;text-align: center;\""
+],[
+	"臺灣高等法院高雄分院",
+	30,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺灣高雄地方檢察署",
+	53,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"臺灣高雄地方法院",
+	101,
+	52,
+	"containing invalid attribute",
+	"width:70%; "
+],[
+	"與座海人",
+	36,
+	3,
+	"containing invalid attribute",
+	"年<br>度"
+],[
+	"與怪談共舞，而你在樓梯上翩翩起舞",
+	72,
+	4,
+	"useless fragment",
+	"File:Japanese offertory box.jpg#file"
+],[
+	"與愛同行 (2019年大愛電視劇)",
+	59,
+	47,
+	"containing invalid attribute",
+	"  font-weight:bold;color:DeepPink\"  "
+],[
+	"與田剛",
+	48,
+	3,
+	"containing invalid attribute",
+	"年<br>度"
+],[
+	"舉世盛名",
+	146,
+	3,
+	"containing invalid attribute",
+	" {{center"
+],[
+	"舊長型大廈列表",
+	411,
+	76,
+	"containing invalid attribute",
+	"孫福記營造"
+],[
+	"舌唇音",
+	26,
+	3,
+	"containing invalid attribute",
+	" text-align:center\""
+],],"batches":51}

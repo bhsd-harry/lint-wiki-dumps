@@ -1,1 +1,1201 @@
-window.data={"articles":[["OVDS",15,24,"duplicated style attribute","style=\"background:white; text-align:center\""],["PANTHEPACK",164,2,"duplicated category","[[Category:期間限定團體]]"],["Pastel Girls",75,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Penman Monteith公式",96,2,"duplicated category","[[Category:方程]]"],["Penthouse 2",885,2,"duplicated category","[[Category:電視劇續集|P]]"],["Penthouse 3",1182,2,"duplicated category","[[Category:電視劇續集|P]]"],["Pepper",44,5,"duplicated cellpadding attribute","cellpadding=\"2\""],["PFU藍貓石川河北",97,5,"duplicated style attribute","style= \"center\""],["PG螺纹",4,42,"duplicated image caption parameter","hochkant=1.5"],["PhantomJS",68,2,"duplicated category","[[Category:使用BSD许可证的软件]]"],["PICKUS",91,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Pieces of V",266,39,"duplicated style attribute","style=\"width:90%\""],["PIERCE",128,5,"duplicated style attribute","style=\"background:#FF79BC\""],["PIXY",149,5,"duplicated style attribute","style=\"background:#FF79BC\""],["PLAN B",100,5,"duplicated style attribute","style=\"background:#FF79BC\""],["PlatformIO",25,2,"duplicated category","[[Category:自由软件]]"],["PLAVE",125,5,"duplicated style attribute","style=\"background:#FF79BC\""],["PlayStation Vita TV",3,47,"duplicated image caption parameter","PlayStation Vita TV logo"],["Poppy Playtime",97,3,"duplicated parameter"," 2024  = 第三章 – Deep Sleep\n "],["Portal:中国/特色条目/6",1,35,"conflicting image horizontal-alignment parameter","none"],["Portal:中外交通史",39,27,"duplicated image caption parameter","icon"],["Portal:中華民國/維基導遊",1,21,"duplicated align attribute","align=\"center\""],["Portal:云南",29,22,"duplicated align attribute","align=\"center\""],["Portal:交通/所选图片/布局",2,31,"duplicated image caption parameter","{{#if:|{{{size}}}|400px}}"],["Portal:伊朗/Intro",6,19,"duplicated of attribute","of"],["Portal:動物/Related portals",4,52,"duplicated image caption parameter","Portal:Biology"],["Portal:南京/Featured/存档",3,20,"conflicting image horizontal-alignment parameter","none"],["Portal:南京/picture",1,24,"duplicated image caption parameter","南京城墙"],["Portal:南京/Picture",1,35,"duplicated image caption parameter","南京大学"],["Portal:南京/特色图片/存档",1,35,"duplicated image caption parameter","南京大学"],["Portal:古典音乐",63,2,"duplicated category","[[Category:主题首页]]"],["Portal:台灣基進/Wikimedia",1,21,"duplicated align attribute","align=\"center\""],["Portal:台灣獨立運動/分類",2,5,"duplicated align attribute","align = center"],["Portal:吉卜力工作室/Selected picture/Layout",1,46,"duplicated image caption parameter","{{#if:{{{size}}}|{{{size|300px}}}|300px}}"],["Portal:基隆/維基導遊",1,21,"duplicated align attribute","align=\"center\""],["Portal:宁夏",12,25,"duplicated image width parameter","2000px"],["Portal:希腊",217,22,"duplicated image border parameter","border"],["Portal:战列舰",19,5,"duplicated style attribute","style=\"width:400px; cellpadding=\""],["Portal:推想小說/特優/圖片/Layout",1,46,"duplicated image caption parameter","{{#if:{{{size}}}|{{{size|300px}}}|300px}}"],["Portal:日本鐵路/歷史上的今天/1月27日",1,45,"conflicting image horizontal-alignment parameter","none"],["Portal:日本鐵路/歷史上的今天/4月18日",1,28,"duplicated image right parameter","right"],["Portal:東南亞",72,22,"duplicated align attribute","align=\"center\""],["Portal:湖南新闻动态",177,2,"duplicated category","[[Category:湖南主页模板]]"],["Portal:澎湖/維基媒體",1,21,"duplicated align attribute","align=\"center\""],["Portal:熱帶氣旋/熱帶氣旋結構",1,43,"conflicting image horizontal-alignment parameter","none"],["Portal:病毒/News/1",1,57,"duplicated image caption parameter","width   = 240"],["Portal:社会/Intro",2,26,"duplicated image caption parameter","{{#if:{{{size}}}|{{{size|200px}}}|200px}}"],["Portal:童軍/特色圖片",1,37,"duplicated image caption parameter","float"],["Portal:美國軍事/特色条目/28",1,44,"conflicting image horizontal-alignment parameter","left"],["Portal:聯盟90／綠黨/Wikimedia",1,21,"duplicated align attribute","align=\"center\""],["Portal:臺中/維基導遊",1,21,"duplicated align attribute","align=\"center\""],["Portal:臺北/維基導遊",1,21,"duplicated align attribute","align=\"center\""],["Portal:臺灣/Wikimedia",1,21,"duplicated align attribute","align=\"center\""],["Portal:蔡英文/分類",2,5,"duplicated align attribute","align = center"],["Portal:认识论",105,2,"duplicated category","[[Category:主题首页]]"],["Portal:语言学/Intro",1,71,"duplicated image caption parameter","120px120px"],["Portal:首頁/列表",40,4,"duplicated border attribute","border"],["Portal:香港巴士總站/簡介",2,52,"conflicting image horizontal-alignment parameter","right"],["PoshGirls",183,5,"duplicated style attribute","style=\"background:#FF79BC\""],["POW (韓國組合)",104,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Present : YOU",288,23,"duplicated style attribute","style=\"font-size:small\""],["PRIMROSE",130,5,"duplicated style attribute","style=\"background:#FF79BC\""],["PRISMA (樂團)",70,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Puck",81,20,"duplicated style attribute","style=\"font-size: 90%;\""],["Q (專輯)",5,3,"duplicated parameter"," cover       =\n "],["Q2體育場",58,24,"duplicated style attribute","style=\"text-align:left; width:95%;\""],["Q6IX",123,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Qodes",82,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Queenz Eye",124,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Quibi",96,26,"duplicated name attribute","name"],["R-6直升機",100,2,"duplicated category","[[Category:塞考斯基飛行器]]"],["RabidAnce",81,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Rami",84,2,"duplicated category","[[Category:BABYMONSTER成員]]"],["RATGUILE",87,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Ratpoison",45,2,"duplicated category","[[Category:用C編程的自由軟體]]"],["RB萊比錫",712,24,"duplicated style attribute","style=\"font-size:90%;\""],["RE-CREATION (夏之管专辑)",5,3,"duplicated parameter"," cover          = \n "],["Remember Us : Youth Part 2",118,23,"duplicated style attribute","style=\"font-size:small\""],["Request Tracker",61,2,"duplicated category","[[Category:缺陷和问题跟踪软件]]"],["RESCENE",142,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Revisit張敬軒演唱會",375,2,"duplicated category","[[Category:香港音樂會]]"],["RHEA (女子組合)",98,5,"duplicated style attribute","style=\"background:#FF79BC\""],["RiBBon",128,23,"duplicated style attribute","style=\"font-size:small\""],["RoaD-B",99,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Rocking doll",104,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Rolling Quartz",108,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Rotaeno",56,2,"duplicated category","[[Category:音樂遊戲]]"],["ROUND 3 (金賢重迷你專輯)",26,3,"duplicated parameter"," misc = {{Singles\n   | Name           = \n   | Type           = ep\n   | Single 1 "],["RS-28洲际弹道导弹",8,3,"duplicated parameter"," image_size = 340\n "],["Rubia (歌曲)",150,49,"duplicated style attribute","style=\"text-align:center\""],["RuViChe",111,5,"duplicated style attribute","style=\"background:#FF79BC\""],["SammiX Dance Collection",219,2,"duplicated category","[[Category:重混專輯]]"],["Sauerbraten",46,2,"duplicated category","[[Category:自由软件]]"],["SAY MY NAME",133,5,"duplicated style attribute","style=\"background:#FF79BC\""],["SCOR SE",30,2,"duplicated category","[[Category:1970年法國建立]]"],["Secure Shell",3,3,"duplicated parameter","1=zh-cn:连接;zh-tw:連線;\n "],["SHINee",172,24,"duplicated width attribute","width=\"98%\""],["Shoot Me : Youth Part 1",112,23,"duplicated style attribute","style=\"font-size:small\""],["SIG P226半自動手槍",417,43,"duplicated image caption parameter","使用P226進行訓練的{{tsl"],["Smile 光之美少女！",9,3,"duplicated parameter","4=zh-hans:晴朗火焰;zh-tw:晴朗火焰;zh-hk:Sunny Fire\n "],["So What 樂團",24,2,"duplicated category","[[Category:台灣搖滾樂團]]"],["Someone's Alley",61,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Somewhere I Belong",8,3,"duplicated parameter"," recorded       = 2002年\n "],["SPIA",96,5,"duplicated style attribute","style=\"background:#FF79BC\""],["SPINNING TOP : BETWEEN SECURITY & INSECURITY",112,23,"duplicated style attribute","style=\"font-size:small\""],["STAND BY ME 哆啦A夢",527,2,"duplicated category","[[Category:哆啦A夢電影作品]]"],["Star(Disney+)原創節目列表",2,23,"conflicting image frame parameter","frameless"],["STARSHIP娛樂",1029,2,"duplicated category","[[Category:韓國藝人經紀公司]]"],["Steam大奖",2,3,"duplicated parameter","G1=Games\n "],["SUGAR (榮宰迷你專輯)",92,23,"duplicated style attribute","style=\"font-size:small\""],["Suica",218,33,"duplicated style attribute","style=\"width:70%;\""],["Sunday靚聲王",591,23,"duplicated style attribute","style=\"font-size: 14px;\""],["Sun电子",32,2,"duplicated category","[[Category:電子遊戲發行商]]"],["Super Junior獲獎與提名列表",1,21,"duplicated style attribute","style=\"width: 25em; text-align: left; font-size: 90%; vertical-align: middle;\""],["Super Star 我要當歌手",962,3,"duplicated style attribute","style=\"width:2%\""],["Supernova (aespa歌曲)",186,226,"duplicated parameter","accessdate=2024-06-08"],["T-64BM2主战坦克",7,3,"duplicated parameter","is_vehicle=yes\n "],["T-64主战坦克",14,3,"duplicated parameter"," variants = [[T-80主戰坦克]]\n <!-- Type selection -->"],["TAKE ME HIGHER",46,2,"duplicated category","[[Category:超人力霸王迪迦]]"],["TCM-20防空機炮塔",17,3,"duplicated parameter","production_date=1970年代\n "],["TFN",154,5,"duplicated style attribute","style=\"background:#FF79BC\""],["TH-55 歐塞奇直升機",128,2,"duplicated category","[[Category:軍用直升機]]"],["The 1975 (歌曲)",3,3,"duplicated parameter","\n "],["The Aubreys",130,2,"duplicated category","[[Category:2019年成立的音樂團體]]"],["THE BIGDIPPER",81,5,"duplicated style attribute","style=\"background:#FF79BC\""],["The Book Of Us : Entropy",135,23,"duplicated style attribute","style=\"font-size:small\""],["The Book of Us : Gravity",106,23,"duplicated style attribute","style=\"font-size:small\""],["THE BOYZ",3018,2,"duplicated category","[[Category:THE BOYZ]]"],["The Brightest Darkness",4,3,"duplicated parameter","  artist      = [[張敬軒]] \n "],["The Call",123,10,"duplicated x attribute","x"],["THE FIX",95,5,"duplicated style attribute","style=\"background:#FF79BC\""],["The One (洛杉磯)",35,4302,"duplicated parameter","language=en "],["The Wind",151,5,"duplicated style attribute","style=\"background:#FF79BC\""],["The World's On Fire",5,3,"duplicated parameter"," cover          = File:MWAM-TheWorld'sOnFire-cover.jpg\n "],["Threads",110,2,"duplicated category","[[Category:社交網路服務]]"],["TikTok相关争议",52,51,"duplicated image caption parameter","{{hanging indent"],["TIOT",131,5,"duplicated style attribute","style=\"background:#FF79BC\""],["TM-1船團",183,2,"duplicated category","[[Category:大西洋海戰]]"],["TMA",1008,2,"duplicated category","[[Category:1990年成立的公司]]"],["TMC (韓國組合)",188,5,"duplicated style attribute","style=\"background:#FF79BC\""],["TOFROM YAESU",12,3,"duplicated parameter"," coordinates    = {{coord|35|40|51|N|139|46|14|E}}\n "],["ToNick",533,39,"duplicated style attribute","style=\"width:90%\""],["TPASS行政院通勤月票",49,1469,"duplicated parameter","language=zh-tw"],["TQL體育場",57,24,"duplicated style attribute","style=\"text-align:left; width:95%;\""],["TRACER (女子組合)",74,5,"duplicated style attribute","style=\"background:#FF79BC\""],["TRAPPIST-1",222,75,"duplicated image caption parameter","Ssc2017-01g Sm"],["TRENDZ",135,5,"duplicated style attribute","style=\"background:#FF79BC\""],["TRIGGER",16,3,"duplicated parameter"," predecessor         = \n "],["TV Okey",2,131,"duplicated parameter","country={{MYS}}"],["TV9",28,3,"duplicated parameter"," 前頻道名稱       = \n "],["TVBS得獎紀錄列表",939,2,"duplicated category","[[Category:TVBS| ]]"],["Twins SPIRIT Since 2001 Live",214,4,"duplicated rowspan attribute","rowspan=\"2\""],["Ubuntu受限額外程式",41,2,"duplicated category","[[Category:Linux软件包管理相关软件]]"],["Ugly Gerry",123,2,"duplicated category","[[Category:字體]]"],["Ukka",79,24,"duplicated style attribute","style=\"text-align:center;\""],["Uni (女子樂隊)",66,5,"duplicated style attribute","style=\"background:#FF79BC\""],["UNICODE (女子團體)",98,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Universe League",13,3,"duplicated parameter"," 前作 = [[Universe Ticket]]\n "],["Unknown Mother Goose",89,2,"duplicated category","[[Category:初音未来歌曲]]"],["USB",475,5,"duplicated class attribute","class=wikitable"],["UTAU",7,37,"duplicated image caption parameter","icon"],["Valve",7,3,"duplicated parameter","1=zh-tw:維爾福;zh-cn:Valve;zh-hk:活閥\n "],["VBC-90突擊炮",22,3,"duplicated parameter","           engine_power=220 hp\n "],["VE神经毒剂",22,2,"duplicated category","[[Category:Articles with unsourced statements from February 2023]]"],["VI'ENX",94,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Viber",73,2,"duplicated category","[[Category:樂天 (1997年成立)]]"],["Vin'Selection",321,39,"duplicated style attribute","style=\"width:90%\""],["Vitamin (女子組合)",67,5,"duplicated style attribute","style=\"background:#FF79BC\""],["ViuTV電視節目列表 (2021年)",1344,2,"duplicated category","[[Category:香港電視娛樂節目列表]]"],["ViuTV電視節目列表 (2022年)",1224,2,"duplicated category","[[Category:香港電視娛樂節目列表]]"],["ViuTV電視節目列表 (2023年)",771,2,"duplicated category","[[Category:香港電視娛樂節目列表]]"],["ViV",95,5,"duplicated style attribute","style=\"background:#FF79BC\""],["ViVi (歌手)",43,5,"duplicated style attribute","style=\"background:#FF79BC\""],["VOISPER",70,5,"duplicated style attribute","style=\"background:#FF79BC\""],["VVS",84,5,"duplicated style attribute","style=\"background:#FF79BC\""],["VVUP",101,5,"duplicated style attribute","style=\"background:#FF79BC\""],["V世代",315,2,"duplicated category","[[Category:2020年代美國電視劇]]"],["W!TCHX",110,5,"duplicated style attribute","style=\"background:#FF79BC\""],["W.O.W",96,5,"duplicated style attribute","style=\"background:#FF79BC\""],["WAKER",95,5,"duplicated style attribute","style=\"background:#FF79BC\""],["WARNING (迷你專輯)",39,1329,"duplicated parameter","accessdate=2021-11-21 "],["Wave To Earth",66,5,"duplicated style attribute","style=\"background:#FF79BC\""],["We;Na",99,5,"duplicated style attribute","style=\"background:#FF79BC\""],["WEIRD文化",135,2,"duplicated category","[[Category:文化社會學]]"],["WeNU",73,5,"duplicated style attribute","style=\"background:#FF79BC\""],["WHIB",115,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Wikipedia:《求闻》/2019年/从远古传来的钟鼓声——地方志图片上传整理及远古条目撰写",28,30,"duplicated image caption parameter","centr"],["Wikipedia:《求闻》/category",28,21,"duplicated category","[[Category:《求闻》模板|⚠]]"],["Wikipedia:2021年基金會針對中文維基百科的行動/本地社群政策相關討論",333,9,"duplicated parameter","\n ==通过解任投票除权==\n {{shortcut|WP:解任}}\n 管理人員明顯濫權或其他嚴重違反維基方針者，可由社群報請元維基撤回管理人員權限。其解任程序"],["Wikipedia:AutoWikiBrowser/CheckPage/2021",24,174,"duplicated category","[[Category:已處理的維基百科編輯被保護頁面請求]]"],["Wikipedia:上传",345,54,"duplicated style attribute","style=\"display:none;\""],["Wikipedia:中文領域基礎條目/人物",1272,2,"duplicated category","[[Category:中文基礎條目| ]]"],["Wikipedia:互助客栈/其他/存档/2009年10月",260,99,"duplicated category","[[Category:含有日語的條目]]"],["Wikipedia:互助客栈/其他/存档/2011年3月",264,73,"duplicated category","[[Category:带电邮地址的页面]]"],["Wikipedia:互助客栈/其他/存档/2018年5月",475,66,"duplicated category","[[Category:含有电话号码的条目]]"],["Wikipedia:互助客栈/其他/存档/2019年8月",34,218,"duplicated category","[[Category:带电邮地址的页面]]"],["Wikipedia:互助客栈/其他/存档/2022年12月",88,32,"duplicated image width parameter","100px"],["Wikipedia:互助客栈/技术/存档/2006年2月",369,31,"duplicated image caption parameter","Right"],["Wikipedia:互助客栈/技术/存档/2009年10月",249,110,"duplicated category","[[Category:含有日語的條目]]"],["Wikipedia:互助客栈/技术/存档/2009年9月",603,366,"duplicated category","[[Category:含有英語的條目]]"]],"batches":43}
+window.data={"articles":[[
+	"OVDS",
+	15,
+	24,
+	"duplicated style attribute",
+	"style=\"background:white; text-align:center\""
+],[
+	"PANTHEPACK",
+	164,
+	2,
+	"duplicated category",
+	"[[Category:期間限定團體]]"
+],[
+	"Pastel Girls",
+	75,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Penman Monteith公式",
+	96,
+	2,
+	"duplicated category",
+	"[[Category:方程]]"
+],[
+	"Penthouse 2",
+	885,
+	2,
+	"duplicated category",
+	"[[Category:電視劇續集|P]]"
+],[
+	"Penthouse 3",
+	1182,
+	2,
+	"duplicated category",
+	"[[Category:電視劇續集|P]]"
+],[
+	"Pepper",
+	44,
+	5,
+	"duplicated cellpadding attribute",
+	"cellpadding=\"2\""
+],[
+	"PFU藍貓石川河北",
+	97,
+	5,
+	"duplicated style attribute",
+	"style= \"center\""
+],[
+	"PG螺纹",
+	4,
+	42,
+	"duplicated image caption parameter",
+	"hochkant=1.5"
+],[
+	"PhantomJS",
+	68,
+	2,
+	"duplicated category",
+	"[[Category:使用BSD许可证的软件]]"
+],[
+	"PICKUS",
+	91,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Pieces of V",
+	266,
+	39,
+	"duplicated style attribute",
+	"style=\"width:90%\""
+],[
+	"PIERCE",
+	128,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"PIXY",
+	149,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"PLAN B",
+	100,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"PlatformIO",
+	25,
+	2,
+	"duplicated category",
+	"[[Category:自由软件]]"
+],[
+	"PLAVE",
+	125,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"PlayStation Vita TV",
+	3,
+	47,
+	"duplicated image caption parameter",
+	"PlayStation Vita TV logo"
+],[
+	"Poppy Playtime",
+	97,
+	3,
+	"duplicated parameter",
+	" 2024  = 第三章 – Deep Sleep\n "
+],[
+	"Portal:中国/特色条目/6",
+	1,
+	35,
+	"conflicting image horizontal-alignment parameter",
+	"none"
+],[
+	"Portal:中外交通史",
+	39,
+	27,
+	"duplicated image caption parameter",
+	"icon"
+],[
+	"Portal:中華民國/維基導遊",
+	1,
+	21,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"Portal:云南",
+	29,
+	22,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"Portal:交通/所选图片/布局",
+	2,
+	31,
+	"duplicated image caption parameter",
+	"{{#if:|{{{size}}}|400px}}"
+],[
+	"Portal:伊朗/Intro",
+	6,
+	19,
+	"duplicated of attribute",
+	"of"
+],[
+	"Portal:動物/Related portals",
+	4,
+	52,
+	"duplicated image caption parameter",
+	"Portal:Biology"
+],[
+	"Portal:南京/Featured/存档",
+	3,
+	20,
+	"conflicting image horizontal-alignment parameter",
+	"none"
+],[
+	"Portal:南京/picture",
+	1,
+	24,
+	"duplicated image caption parameter",
+	"南京城墙"
+],[
+	"Portal:南京/Picture",
+	1,
+	35,
+	"duplicated image caption parameter",
+	"南京大学"
+],[
+	"Portal:南京/特色图片/存档",
+	1,
+	35,
+	"duplicated image caption parameter",
+	"南京大学"
+],[
+	"Portal:古典音乐",
+	63,
+	2,
+	"duplicated category",
+	"[[Category:主题首页]]"
+],[
+	"Portal:台灣基進/Wikimedia",
+	1,
+	21,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"Portal:台灣獨立運動/分類",
+	2,
+	5,
+	"duplicated align attribute",
+	"align = center"
+],[
+	"Portal:吉卜力工作室/Selected picture/Layout",
+	1,
+	46,
+	"duplicated image caption parameter",
+	"{{#if:{{{size}}}|{{{size|300px}}}|300px}}"
+],[
+	"Portal:基隆/維基導遊",
+	1,
+	21,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"Portal:宁夏",
+	12,
+	25,
+	"duplicated image width parameter",
+	"2000px"
+],[
+	"Portal:希腊",
+	217,
+	22,
+	"duplicated image border parameter",
+	"border"
+],[
+	"Portal:战列舰",
+	19,
+	5,
+	"duplicated style attribute",
+	"style=\"width:400px; cellpadding=\""
+],[
+	"Portal:推想小說/特優/圖片/Layout",
+	1,
+	46,
+	"duplicated image caption parameter",
+	"{{#if:{{{size}}}|{{{size|300px}}}|300px}}"
+],[
+	"Portal:日本鐵路/歷史上的今天/1月27日",
+	1,
+	45,
+	"conflicting image horizontal-alignment parameter",
+	"none"
+],[
+	"Portal:日本鐵路/歷史上的今天/4月18日",
+	1,
+	28,
+	"duplicated image right parameter",
+	"right"
+],[
+	"Portal:東南亞",
+	72,
+	22,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"Portal:湖南新闻动态",
+	177,
+	2,
+	"duplicated category",
+	"[[Category:湖南主页模板]]"
+],[
+	"Portal:澎湖/維基媒體",
+	1,
+	21,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"Portal:熱帶氣旋/熱帶氣旋結構",
+	1,
+	43,
+	"conflicting image horizontal-alignment parameter",
+	"none"
+],[
+	"Portal:病毒/News/1",
+	1,
+	57,
+	"duplicated image caption parameter",
+	"width   = 240"
+],[
+	"Portal:社会/Intro",
+	2,
+	26,
+	"duplicated image caption parameter",
+	"{{#if:{{{size}}}|{{{size|200px}}}|200px}}"
+],[
+	"Portal:童軍/特色圖片",
+	1,
+	37,
+	"duplicated image caption parameter",
+	"float"
+],[
+	"Portal:美國軍事/特色条目/28",
+	1,
+	44,
+	"conflicting image horizontal-alignment parameter",
+	"left"
+],[
+	"Portal:聯盟90／綠黨/Wikimedia",
+	1,
+	21,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"Portal:臺中/維基導遊",
+	1,
+	21,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"Portal:臺北/維基導遊",
+	1,
+	21,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"Portal:臺灣/Wikimedia",
+	1,
+	21,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"Portal:蔡英文/分類",
+	2,
+	5,
+	"duplicated align attribute",
+	"align = center"
+],[
+	"Portal:认识论",
+	105,
+	2,
+	"duplicated category",
+	"[[Category:主题首页]]"
+],[
+	"Portal:语言学/Intro",
+	1,
+	71,
+	"duplicated image caption parameter",
+	"120px120px"
+],[
+	"Portal:首頁/列表",
+	40,
+	4,
+	"duplicated border attribute",
+	"border"
+],[
+	"Portal:香港巴士總站/簡介",
+	2,
+	52,
+	"conflicting image horizontal-alignment parameter",
+	"right"
+],[
+	"PoshGirls",
+	183,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"POW (韓國組合)",
+	104,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Present : YOU",
+	288,
+	23,
+	"duplicated style attribute",
+	"style=\"font-size:small\""
+],[
+	"PRIMROSE",
+	130,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"PRISMA (樂團)",
+	70,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Puck",
+	81,
+	20,
+	"duplicated style attribute",
+	"style=\"font-size: 90%;\""
+],[
+	"Q (專輯)",
+	5,
+	3,
+	"duplicated parameter",
+	" cover       =\n "
+],[
+	"Q2體育場",
+	58,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align:left; width:95%;\""
+],[
+	"Q6IX",
+	123,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Qodes",
+	82,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Queenz Eye",
+	124,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Quibi",
+	96,
+	26,
+	"duplicated name attribute",
+	"name"
+],[
+	"R-6直升機",
+	100,
+	2,
+	"duplicated category",
+	"[[Category:塞考斯基飛行器]]"
+],[
+	"RabidAnce",
+	81,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Rami",
+	84,
+	2,
+	"duplicated category",
+	"[[Category:BABYMONSTER成員]]"
+],[
+	"RATGUILE",
+	87,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Ratpoison",
+	45,
+	2,
+	"duplicated category",
+	"[[Category:用C編程的自由軟體]]"
+],[
+	"RB萊比錫",
+	712,
+	24,
+	"duplicated style attribute",
+	"style=\"font-size:90%;\""
+],[
+	"RE-CREATION (夏之管专辑)",
+	5,
+	3,
+	"duplicated parameter",
+	" cover          = \n "
+],[
+	"Remember Us : Youth Part 2",
+	118,
+	23,
+	"duplicated style attribute",
+	"style=\"font-size:small\""
+],[
+	"Request Tracker",
+	61,
+	2,
+	"duplicated category",
+	"[[Category:缺陷和问题跟踪软件]]"
+],[
+	"RESCENE",
+	142,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Revisit張敬軒演唱會",
+	375,
+	2,
+	"duplicated category",
+	"[[Category:香港音樂會]]"
+],[
+	"RHEA (女子組合)",
+	98,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"RiBBon",
+	128,
+	23,
+	"duplicated style attribute",
+	"style=\"font-size:small\""
+],[
+	"RoaD-B",
+	99,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Rocking doll",
+	104,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Rolling Quartz",
+	108,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Rotaeno",
+	56,
+	2,
+	"duplicated category",
+	"[[Category:音樂遊戲]]"
+],[
+	"ROUND 3 (金賢重迷你專輯)",
+	26,
+	3,
+	"duplicated parameter",
+	" misc = {{Singles\n   | Name           = \n   | Type           = ep\n   | Single 1 "
+],[
+	"RS-28洲际弹道导弹",
+	8,
+	3,
+	"duplicated parameter",
+	" image_size = 340\n "
+],[
+	"Rubia (歌曲)",
+	150,
+	49,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"RuViChe",
+	111,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"SammiX Dance Collection",
+	219,
+	2,
+	"duplicated category",
+	"[[Category:重混專輯]]"
+],[
+	"Sauerbraten",
+	46,
+	2,
+	"duplicated category",
+	"[[Category:自由软件]]"
+],[
+	"SAY MY NAME",
+	133,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"SCOR SE",
+	30,
+	2,
+	"duplicated category",
+	"[[Category:1970年法國建立]]"
+],[
+	"Secure Shell",
+	3,
+	3,
+	"duplicated parameter",
+	"1=zh-cn:连接;zh-tw:連線;\n "
+],[
+	"SHINee",
+	172,
+	24,
+	"duplicated width attribute",
+	"width=\"98%\""
+],[
+	"Shoot Me : Youth Part 1",
+	112,
+	23,
+	"duplicated style attribute",
+	"style=\"font-size:small\""
+],[
+	"SIG P226半自動手槍",
+	417,
+	43,
+	"duplicated image caption parameter",
+	"使用P226進行訓練的{{tsl"
+],[
+	"Smile 光之美少女！",
+	9,
+	3,
+	"duplicated parameter",
+	"4=zh-hans:晴朗火焰;zh-tw:晴朗火焰;zh-hk:Sunny Fire\n "
+],[
+	"So What 樂團",
+	24,
+	2,
+	"duplicated category",
+	"[[Category:台灣搖滾樂團]]"
+],[
+	"Someone's Alley",
+	61,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Somewhere I Belong",
+	8,
+	3,
+	"duplicated parameter",
+	" recorded       = 2002年\n "
+],[
+	"SPIA",
+	96,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"SPINNING TOP : BETWEEN SECURITY & INSECURITY",
+	112,
+	23,
+	"duplicated style attribute",
+	"style=\"font-size:small\""
+],[
+	"STAND BY ME 哆啦A夢",
+	527,
+	2,
+	"duplicated category",
+	"[[Category:哆啦A夢電影作品]]"
+],[
+	"Star(Disney+)原創節目列表",
+	2,
+	23,
+	"conflicting image frame parameter",
+	"frameless"
+],[
+	"STARSHIP娛樂",
+	1029,
+	2,
+	"duplicated category",
+	"[[Category:韓國藝人經紀公司]]"
+],[
+	"Steam大奖",
+	2,
+	3,
+	"duplicated parameter",
+	"G1=Games\n "
+],[
+	"SUGAR (榮宰迷你專輯)",
+	92,
+	23,
+	"duplicated style attribute",
+	"style=\"font-size:small\""
+],[
+	"Suica",
+	218,
+	33,
+	"duplicated style attribute",
+	"style=\"width:70%;\""
+],[
+	"Sunday靚聲王",
+	591,
+	23,
+	"duplicated style attribute",
+	"style=\"font-size: 14px;\""
+],[
+	"Sun电子",
+	32,
+	2,
+	"duplicated category",
+	"[[Category:電子遊戲發行商]]"
+],[
+	"Super Junior獲獎與提名列表",
+	1,
+	21,
+	"duplicated style attribute",
+	"style=\"width: 25em; text-align: left; font-size: 90%; vertical-align: middle;\""
+],[
+	"Super Star 我要當歌手",
+	962,
+	3,
+	"duplicated style attribute",
+	"style=\"width:2%\""
+],[
+	"Supernova (aespa歌曲)",
+	186,
+	226,
+	"duplicated parameter",
+	"accessdate=2024-06-08"
+],[
+	"T-64BM2主战坦克",
+	7,
+	3,
+	"duplicated parameter",
+	"is_vehicle=yes\n "
+],[
+	"T-64主战坦克",
+	14,
+	3,
+	"duplicated parameter",
+	" variants = [[T-80主戰坦克]]\n <!-- Type selection -->"
+],[
+	"TAKE ME HIGHER",
+	46,
+	2,
+	"duplicated category",
+	"[[Category:超人力霸王迪迦]]"
+],[
+	"TCM-20防空機炮塔",
+	17,
+	3,
+	"duplicated parameter",
+	"production_date=1970年代\n "
+],[
+	"TFN",
+	154,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"TH-55 歐塞奇直升機",
+	128,
+	2,
+	"duplicated category",
+	"[[Category:軍用直升機]]"
+],[
+	"The 1975 (歌曲)",
+	3,
+	3,
+	"duplicated parameter",
+	"\n "
+],[
+	"The Aubreys",
+	130,
+	2,
+	"duplicated category",
+	"[[Category:2019年成立的音樂團體]]"
+],[
+	"THE BIGDIPPER",
+	81,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"The Book Of Us : Entropy",
+	135,
+	23,
+	"duplicated style attribute",
+	"style=\"font-size:small\""
+],[
+	"The Book of Us : Gravity",
+	106,
+	23,
+	"duplicated style attribute",
+	"style=\"font-size:small\""
+],[
+	"THE BOYZ",
+	3018,
+	2,
+	"duplicated category",
+	"[[Category:THE BOYZ]]"
+],[
+	"The Brightest Darkness",
+	4,
+	3,
+	"duplicated parameter",
+	"  artist      = [[張敬軒]] \n "
+],[
+	"The Call",
+	123,
+	10,
+	"duplicated x attribute",
+	"x"
+],[
+	"THE FIX",
+	95,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"The One (洛杉磯)",
+	35,
+	4302,
+	"duplicated parameter",
+	"language=en "
+],[
+	"The Wind",
+	151,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"The World's On Fire",
+	5,
+	3,
+	"duplicated parameter",
+	" cover          = File:MWAM-TheWorld'sOnFire-cover.jpg\n "
+],[
+	"Threads",
+	110,
+	2,
+	"duplicated category",
+	"[[Category:社交網路服務]]"
+],[
+	"TikTok相关争议",
+	52,
+	51,
+	"duplicated image caption parameter",
+	"{{hanging indent"
+],[
+	"TIOT",
+	131,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"TM-1船團",
+	183,
+	2,
+	"duplicated category",
+	"[[Category:大西洋海戰]]"
+],[
+	"TMA",
+	1008,
+	2,
+	"duplicated category",
+	"[[Category:1990年成立的公司]]"
+],[
+	"TMC (韓國組合)",
+	188,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"TOFROM YAESU",
+	12,
+	3,
+	"duplicated parameter",
+	" coordinates    = {{coord|35|40|51|N|139|46|14|E}}\n "
+],[
+	"ToNick",
+	533,
+	39,
+	"duplicated style attribute",
+	"style=\"width:90%\""
+],[
+	"TPASS行政院通勤月票",
+	49,
+	1469,
+	"duplicated parameter",
+	"language=zh-tw"
+],[
+	"TQL體育場",
+	57,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align:left; width:95%;\""
+],[
+	"TRACER (女子組合)",
+	74,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"TRAPPIST-1",
+	222,
+	75,
+	"duplicated image caption parameter",
+	"Ssc2017-01g Sm"
+],[
+	"TRENDZ",
+	135,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"TRIGGER",
+	16,
+	3,
+	"duplicated parameter",
+	" predecessor         = \n "
+],[
+	"TV Okey",
+	2,
+	131,
+	"duplicated parameter",
+	"country={{MYS}}"
+],[
+	"TV9",
+	28,
+	3,
+	"duplicated parameter",
+	" 前頻道名稱       = \n "
+],[
+	"TVBS得獎紀錄列表",
+	939,
+	2,
+	"duplicated category",
+	"[[Category:TVBS| ]]"
+],[
+	"Twins SPIRIT Since 2001 Live",
+	214,
+	4,
+	"duplicated rowspan attribute",
+	"rowspan=\"2\""
+],[
+	"Ubuntu受限額外程式",
+	41,
+	2,
+	"duplicated category",
+	"[[Category:Linux软件包管理相关软件]]"
+],[
+	"Ugly Gerry",
+	123,
+	2,
+	"duplicated category",
+	"[[Category:字體]]"
+],[
+	"Ukka",
+	79,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align:center;\""
+],[
+	"Uni (女子樂隊)",
+	66,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"UNICODE (女子團體)",
+	98,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Universe League",
+	13,
+	3,
+	"duplicated parameter",
+	" 前作 = [[Universe Ticket]]\n "
+],[
+	"Unknown Mother Goose",
+	89,
+	2,
+	"duplicated category",
+	"[[Category:初音未来歌曲]]"
+],[
+	"USB",
+	475,
+	5,
+	"duplicated class attribute",
+	"class=wikitable"
+],[
+	"UTAU",
+	7,
+	37,
+	"duplicated image caption parameter",
+	"icon"
+],[
+	"Valve",
+	7,
+	3,
+	"duplicated parameter",
+	"1=zh-tw:維爾福;zh-cn:Valve;zh-hk:活閥\n "
+],[
+	"VBC-90突擊炮",
+	22,
+	3,
+	"duplicated parameter",
+	"           engine_power=220 hp\n "
+],[
+	"VE神经毒剂",
+	22,
+	2,
+	"duplicated category",
+	"[[Category:Articles with unsourced statements from February 2023]]"
+],[
+	"VI'ENX",
+	94,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Viber",
+	73,
+	2,
+	"duplicated category",
+	"[[Category:樂天 (1997年成立)]]"
+],[
+	"Vin'Selection",
+	321,
+	39,
+	"duplicated style attribute",
+	"style=\"width:90%\""
+],[
+	"Vitamin (女子組合)",
+	67,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"ViuTV電視節目列表 (2021年)",
+	1344,
+	2,
+	"duplicated category",
+	"[[Category:香港電視娛樂節目列表]]"
+],[
+	"ViuTV電視節目列表 (2022年)",
+	1224,
+	2,
+	"duplicated category",
+	"[[Category:香港電視娛樂節目列表]]"
+],[
+	"ViuTV電視節目列表 (2023年)",
+	771,
+	2,
+	"duplicated category",
+	"[[Category:香港電視娛樂節目列表]]"
+],[
+	"ViV",
+	95,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"ViVi (歌手)",
+	43,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"VOISPER",
+	70,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"VVS",
+	84,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"VVUP",
+	101,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"V世代",
+	315,
+	2,
+	"duplicated category",
+	"[[Category:2020年代美國電視劇]]"
+],[
+	"W!TCHX",
+	110,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"W.O.W",
+	96,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"WAKER",
+	95,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"WARNING (迷你專輯)",
+	39,
+	1329,
+	"duplicated parameter",
+	"accessdate=2021-11-21 "
+],[
+	"Wave To Earth",
+	66,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"We;Na",
+	99,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"WEIRD文化",
+	135,
+	2,
+	"duplicated category",
+	"[[Category:文化社會學]]"
+],[
+	"WeNU",
+	73,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"WHIB",
+	115,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Wikipedia:《求闻》/2019年/从远古传来的钟鼓声——地方志图片上传整理及远古条目撰写",
+	28,
+	30,
+	"duplicated image caption parameter",
+	"centr"
+],[
+	"Wikipedia:《求闻》/category",
+	28,
+	21,
+	"duplicated category",
+	"[[Category:《求闻》模板|⚠]]"
+],[
+	"Wikipedia:2021年基金會針對中文維基百科的行動/本地社群政策相關討論",
+	333,
+	9,
+	"duplicated parameter",
+	"\n ==通过解任投票除权==\n {{shortcut|WP:解任}}\n 管理人員明顯濫權或其他嚴重違反維基方針者，可由社群報請元維基撤回管理人員權限。其解任程序"
+],[
+	"Wikipedia:AutoWikiBrowser/CheckPage/2021",
+	24,
+	174,
+	"duplicated category",
+	"[[Category:已處理的維基百科編輯被保護頁面請求]]"
+],[
+	"Wikipedia:上传",
+	345,
+	54,
+	"duplicated style attribute",
+	"style=\"display:none;\""
+],[
+	"Wikipedia:中文領域基礎條目/人物",
+	1272,
+	2,
+	"duplicated category",
+	"[[Category:中文基礎條目| ]]"
+],[
+	"Wikipedia:互助客栈/其他/存档/2009年10月",
+	260,
+	99,
+	"duplicated category",
+	"[[Category:含有日語的條目]]"
+],[
+	"Wikipedia:互助客栈/其他/存档/2011年3月",
+	264,
+	73,
+	"duplicated category",
+	"[[Category:带电邮地址的页面]]"
+],[
+	"Wikipedia:互助客栈/其他/存档/2018年5月",
+	475,
+	66,
+	"duplicated category",
+	"[[Category:含有电话号码的条目]]"
+],[
+	"Wikipedia:互助客栈/其他/存档/2019年8月",
+	34,
+	218,
+	"duplicated category",
+	"[[Category:带电邮地址的页面]]"
+],[
+	"Wikipedia:互助客栈/其他/存档/2022年12月",
+	88,
+	32,
+	"duplicated image width parameter",
+	"100px"
+],[
+	"Wikipedia:互助客栈/技术/存档/2006年2月",
+	369,
+	31,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"Wikipedia:互助客栈/技术/存档/2009年10月",
+	249,
+	110,
+	"duplicated category",
+	"[[Category:含有日語的條目]]"
+],[
+	"Wikipedia:互助客栈/技术/存档/2009年9月",
+	603,
+	366,
+	"duplicated category",
+	"[[Category:含有英語的條目]]"
+],],"batches":43}

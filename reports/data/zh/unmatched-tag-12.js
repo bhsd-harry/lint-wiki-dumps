@@ -1,1 +1,1201 @@
-window.data={"articles":[["Wikipedia:知识问答/存档/2014年2月",604,17,"tag that is both closing and self-closing","</br>"],["Wikipedia:知识问答/存档/2014年3月",748,183,"unmatched closing tag","</span>"],["Wikipedia:知识问答/存档/2014年4月",438,29,"tag that is both closing and self-closing","</br>"],["Wikipedia:知识问答/存档/2014年8月",714,355,"tag that is both closing and self-closing","</br>"],["Wikipedia:知识问答/存档/2015年3月",559,2,"unmatched closing tag","</div>"],["Wikipedia:知识问答/存档/2017年3月",284,232,"unmatched closing tag","</span>"],["Wikipedia:知识问答/存档/2017年4月",113,404,"unmatched closing tag","</small>"],["Wikipedia:知识问答/存档/2017年5月",19,115,"tag that is both closing and self-closing","</br>"],["Wikipedia:知识问答/存档/2017年6月",205,249,"unmatched closing tag","</span>"],["Wikipedia:知识问答/存档/2023年12月",107,251,"unmatched closing tag","</p>"],["Wikipedia:知识问答/存档/2023年3月",155,52,"tag that is both closing and self-closing","</br>"],["Wikipedia:社群首页",661,2,"unmatched closing tag","</div>"],["Wikipedia:社群首页/改版",69,2,"unmatched closing tag","</div>"],["Wikipedia:福爾摩沙－努山塔拉編輯松",117,2,"unmatched closing tag","</div>"],["Wikipedia:移動請求/2008年1到3月",32,327,"unmatched closing tag","</span>"],["Wikipedia:移動請求/2008年7到9月",26,324,"unmatched closing tag","</span>"],["Wikipedia:移動請求/2009年10到12月",188,30,"unmatched closing tag","</s>"],["Wikipedia:移動請求/2009年1到3月",428,87,"tag that is both closing and self-closing","</br>"],["Wikipedia:站外推广",23,47,"tag that is both closing and self-closing","</br>"],["Wikipedia:第一次编辑的感觉",157,139,"unmatched closing tag","</font>"],["Wikipedia:管理员布告板/不当用户名/2016年",286,175,"unmatched closing tag","</span>"],["Wikipedia:管理员布告板/不当用户名/2017年/1",27,223,"unmatched closing tag","</span>"],["Wikipedia:管理员布告板/不当用户名/2017年/2",321,226,"unmatched closing tag","</span>"],["Wikipedia:管理员布告板/不当用户名/2018年/1",5,189,"unmatched closing tag","</span>"],["Wikipedia:管理员布告板/不当用户名/2018年/2",336,232,"unmatched closing tag","</span>"],["Wikipedia:管理员布告板/不当用户名/2019年/2",299,75,"unmatched closing tag","</span>"],["Wikipedia:管理员布告板/其他不当行为/存档/2009年",122,132,"unmatched closing tag","</span>"],["Wikipedia:管理员布告板/其他不当行为/存档/2020年12月",71,224,"tag that is both closing and self-closing","</br>"],["Wikipedia:管理员布告板/其他不当行为/存档/2020年4月",346,177,"unmatched closing tag","</span>"],["Wikipedia:管理员布告板/其他不当行为/存档/2021年12月",12,80,"unmatched closing tag","</span>"],["Wikipedia:管理员布告板/其他不当行为/存档/2024年12月",731,205,"tag that is both closing and self-closing","</br>"],["Wikipedia:管理员布告板/其他不当行为/存档/2025年1月",161,27,"unmatched closing tag","</code>"],["Wikipedia:管理员布告板/其他不当行为/存档/2025年2月",89,201,"tag that is both closing and self-closing","</br>"],["Wikipedia:管理员布告板/编辑争议/存档/2018年10月",126,200,"unmatched closing tag","</span>"],["Wikipedia:管理员布告板/编辑争议/存档/2018年5月",180,113,"unmatched closing tag","</span>"],["Wikipedia:管理员布告板/编辑争议/存档/2019年4月",136,159,"unclosed tag","<sub>"],["Wikipedia:管理员布告板/编辑争议/存档/2020年11月",69,42,"tag that is both closing and self-closing","</Br>"],["Wikipedia:管理员布告板/编辑争议/存档/2020年1月",20,27,"tag that is both closing and self-closing","</br>"],["Wikipedia:管理员布告板/编辑争议/存档/2023年5月",331,282,"unmatched closing tag","</u>"],["Wikipedia:管理员布告板/编辑争议/存档/2024年8月",14,405,"tag that is both closing and self-closing","</br>"],["Wikipedia:管理員的離任/提請取消不活動管理員的權限/Vipuser",5,255,"unmatched closing tag","</div>"],["Wikipedia:管理員的離任/提請取消不活動管理員的權限/地球发动机",6,262,"unmatched closing tag","</div>"],["Wikipedia:管理員的離任/提請取消不活動管理員的權限/存檔",433,27,"unmatched closing tag","</pre>"],["Wikipedia:管理員解任投票/Ellery",28,184,"unmatched closing tag","</span>"],["Wikipedia:管理員解任投票/Shizhao/第4次",125,297,"unmatched closing tag","</div>"],["Wikipedia:管理員解任投票/Shizhao/第7次",253,153,"unmatched closing tag","</span>"],["Wikipedia:管理員解任投票/Techyan/第2次",55,184,"unmatched closing tag","</span>"],["Wikipedia:管理員解任投票/Techyan/第3次",146,325,"unmatched closing tag","</span>"],["Wikipedia:管理員解任投票/Ws227/第2次",254,204,"unmatched closing tag","</span>"],["Wikipedia:管理員解任投票/方針草案/一/是否付委及草案制定委員會組成？",7,364,"unmatched closing tag","</span>"],["Wikipedia:管理員解任投票/方針草案/一/草案提交",72,440,"unmatched closing tag","</span>"],["Wikipedia:管理員解任投票/范/第2次",165,10,"tag that is both closing and self-closing","</br>"],["Wikipedia:管理員貢獻/總編輯量/紀錄/2007年10月6日",99,26,"unmatched closing tag","</font>"],["Wikipedia:管理員貢獻/總編輯量/紀錄/2007年1月3日",85,26,"unmatched closing tag","</font>"],["Wikipedia:管理員貢獻/總編輯量/紀錄/2007年6月15日",93,26,"unmatched closing tag","</font>"],["Wikipedia:管理者常见问题解答",19,2,"unmatched closing tag","</div>"],["Wikipedia:維基媒體2030/tag",25,2,"unmatched closing tag","</div>"],["Wikipedia:維基學生會/Tab footer",3,2,"unmatched closing tag","</td>"],["Wikipedia:維基學生會/存檔/入會申請/2017年",117,239,"unmatched closing tag","</span>"],["Wikipedia:維基學生會/存檔/入會申請/2018年",8,127,"unmatched closing tag","</span>"],["Wikipedia:維基學生會/存檔/入會申請/2019年",307,436,"unmatched closing tag","</span>"],["Wikipedia:維基學生會/存檔/升職申請/2017年",62,257,"unmatched closing tag","</span>"],["Wikipedia:維基學生會/存檔/會議記錄/2017年",237,168,"unmatched closing tag","</span>"],["Wikipedia:維基學生會/存檔/會議記錄/2018年",147,195,"unmatched closing tag","</font>"],["Wikipedia:維基學生會/存檔/會議記錄/2019年",1170,118,"unmatched closing tag","</div>"],["Wikipedia:維基學生會/會訊/第三期",121,2,"unmatched closing tag","</div>"],["Wikipedia:維基學生會/條目協作",17,17,"tag that is both closing and self-closing","</br>"],["Wikipedia:維基學生會/條目協作/請求編寫區",17,17,"tag that is both closing and self-closing","</br>"],["Wikipedia:維基學生會/條目協作/貢獻提報區",17,17,"tag that is both closing and self-closing","</br>"],["Wikipedia:維基學生會/條目編輯常駐活動",165,2,"unmatched closing tag","</div>"],["Wikipedia:維基學生會/條目編輯常駐活動/個人貢獻/Streetdeck",6,88,"tag that is both closing and self-closing","</br>"],["Wikipedia:維基學生會/條目編輯常駐活動/活動須知",79,2,"unmatched closing tag","</div>"],["Wikipedia:維基學生會/舉報成員/A-Chinese-Wikipedian",4,140,"unmatched closing tag","</span>"],["Wikipedia:維基學生會/舉報成員/Wetrace",82,390,"unmatched closing tag","</font>"],["Wikipedia:維基學生會/通知/議案通知",8,57,"unmatched closing tag","</p>"],["Wikipedia:維基座標工作小組",74,83,"unmatched closing tag","</span>"],["Wikipedia:維基搗蛋者簽到",42,2,"unmatched closing tag","</span>"],["Wikipedia:維基榮譽/申請與變更",10,99,"unmatched closing tag","</u>"],["Wikipedia:維基榮譽/申請與變更/申請區/存檔/2008年10月-12月",10,160,"unmatched closing tag","</font>"],["Wikipedia:維基榮譽/申請與變更/申請區/存檔/2010年4月-6月",21,250,"unmatched closing tag","</div>"],["Wikipedia:維基榮譽/申請與變更/申請區/存檔/2012年4月-6月",46,87,"unmatched closing tag","</small>"],["Wikipedia:維基榮譽/申請與變更/申請區/存檔/2013年10月-12月",128,184,"unmatched closing tag","</sub>"],["Wikipedia:維基榮譽/申請與變更/申請區/存檔/2017年10月-12月",72,254,"unmatched closing tag","</span>"],["Wikipedia:維基榮譽/申請與變更/申請區/存檔/2017年1月-3月",63,159,"unmatched closing tag","</span>"],["Wikipedia:維基榮譽/申請與變更/申請區/存檔/2017年4月-6月",33,246,"unmatched closing tag","</small>"],["Wikipedia:維基榮譽/申請與變更/申請區/存檔/2017年7月-9月",53,244,"unmatched closing tag","</span>"],["Wikipedia:維基榮譽/申請與變更/申請區/存檔/2018年10月-12月",115,174,"unmatched closing tag","</span>"],["Wikipedia:維基榮譽/申請與變更/申請區/存檔/2019年1月-3月",79,308,"unmatched closing tag","</span>"],["Wikipedia:維基榮譽/申請與變更/申請區/存檔/2023年7月-9月",130,98,"unmatched closing tag","</strong>"],["Wikipedia:維基榮譽與獎勵/存檔/維基執行主編",36,214,"unmatched closing tag","</font>"],["Wikipedia:維基榮譽與獎勵/存檔/維基見習編輯/2005年-2009年",280,224,"unmatched closing tag","</font>"],["Wikipedia:維基榮譽與獎勵/存檔/維基見習編輯/2010年-2014年",11,277,"unmatched closing tag","</div>"],["Wikipedia:維基榮譽與獎勵/存檔/維基見習編輯/2015年-2019年",62,244,"unmatched closing tag","</span>"],["Wikipedia:維基榮譽與獎勵/申請設立榮譽及獎項/存檔",73,227,"unmatched closing tag","</font>"],["Wikipedia:維基榮譽與獎勵/申請設立榮譽及獎項/未獲通過之投票/2016年至2020年",124,170,"unmatched closing tag","</sub>"],["Wikipedia:維基獎勵/授獎提名投票/ACG特別貢獻/Jacklamf1d14",15,170,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/59cond12",15,47,"unmatched closing tag","</sub>"],["Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/A2569875",12,172,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/Alonso McLaren",17,199,"unmatched closing tag","</font>"],["Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/Clithering",11,207,"unmatched closing tag","</font>"],["Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/Jarodalien/第三次",10,253,"unmatched closing tag","</sub>"],["Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/Sinai",72,258,"unmatched closing tag","</div>"],["Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/Šolon",12,170,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/Theodore Xu",33,195,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/卡達",19,170,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/瑞丽江的河水",3,32,"tag that is both closing and self-closing","</br>"],["Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/逐風天地",23,156,"unmatched closing tag","</font>"],["Wikipedia:維基獎勵/授獎提名投票/拓荒特别贡献/Sya eki",5,282,"tag that is both closing and self-closing","</br>"],["Wikipedia:維基獎勵/授獎提名投票/政區特別貢獻/AT",16,238,"unmatched closing tag","</font>"],["Wikipedia:維基獎勵/授獎提名投票/政區特別貢獻/长夜无风",15,201,"unmatched closing tag","</font>"],["Wikipedia:維基獎勵/授獎提名投票/數學條目特別貢獻獎/唐戈",9,215,"unmatched closing tag","</sub>"],["Wikipedia:維基獎勵/授獎提名投票/更新特別貢獻/Fu ht",17,190,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/激勵特別貢獻/Outlookxp",6,2,"tag that is both closing and self-closing","</br>"],["Wikipedia:維基獎勵/授獎提名投票/科學特別貢獻/Hwoarang17",9,202,"unmatched closing tag","</font>"],["Wikipedia:維基獎勵/授獎提名投票/科學特別貢獻/Webridge",9,201,"unmatched closing tag","</font>"],["Wikipedia:維基獎勵/授獎提名投票/科學特別貢獻/凌雲",22,203,"unmatched closing tag","</font>"],["Wikipedia:維基獎勵/授獎提名投票/維基內容獎/Jarodalien",25,113,"unmatched closing tag","</small>"],["Wikipedia:維基獎勵/授獎提名投票/維基內容獎/LuHungnguong",29,23,"tag that is both closing and self-closing","</br>"],["Wikipedia:維基獎勵/授獎提名投票/維基內容獎/Puppy8800",21,203,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基內容獎/人神之间",19,197,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基內容獎/費勒姆",44,134,"unclosed tag","<del>"],["Wikipedia:維基獎勵/授獎提名投票/維基內容獎/費勒姆/大師獎",13,198,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基原創獎/Baomi",15,170,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基原創獎/Eric850130",21,186,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基原創獎/Jyxyl9",3,222,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基原創獎/Outlookxp/第3次",317,170,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基原創獎/Šolon",14,177,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基原創獎/卡達",9,195,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基原創獎/胡蘿蔔",20,173,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基技術獎/Bluedeck",16,170,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基指導獎/NigelSoft",17,224,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基推廣獎/Reke",20,155,"unmatched closing tag","</sub>"],["Wikipedia:維基獎勵/授獎提名投票/維基攝影專家/Boattoad",6,2,"tag that is both closing and self-closing","</br>"],["Wikipedia:維基獎勵/授獎提名投票/維基攝影專家獎/Zhangzhugang",26,211,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基攝影獎/ATR50",16,183,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基攝影獎/Baycrest",8,210,"unmatched closing tag","</font>"],["Wikipedia:維基獎勵/授獎提名投票/維基攝影獎/Outlookxp/第2次",17,191,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基攝影獎/Taiwania Justo",20,204,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基服務獎/和平奮鬥救地球",12,231,"unmatched closing tag","</font>"],["Wikipedia:維基獎勵/授獎提名投票/維基站務獎/Alexander Misel",14,170,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基站務獎/Cdip150",25,200,"unmatched closing tag","</font>"],["Wikipedia:維基獎勵/授獎提名投票/維基站務獎/Iokseng",12,170,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基站務獎/Manchiu",20,165,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基站務獎/Techyan",29,171,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基站務獎/Xiplus",12,192,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基編輯獎/3ATENUW1",17,175,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基編輯獎/Jacklamf1d14",12,170,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基編輯獎/Koocm",18,244,"unmatched closing tag","</font>"],["Wikipedia:維基獎勵/授獎提名投票/維基編輯獎/Outlookxp",3,294,"tag that is both closing and self-closing","</br>"],["Wikipedia:維基獎勵/授獎提名投票/維基編輯獎/Sanmosa",17,185,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基編輯獎/Wolfch",20,279,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基編輯獎/卡達",3,52,"unmatched closing tag","</font>"],["Wikipedia:維基獎勵/授獎提名投票/維基繪圖獎/A2569875",5,119,"unmatched closing tag","</sub>"],["Wikipedia:維基獎勵/授獎提名投票/維基繪圖獎/liaon98",14,279,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基翻譯獎/Chaplin",27,203,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基翻譯獎/Howard61313",12,170,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基翻譯獎/Jarodalien/大師獎/第二次",22,261,"unmatched closing tag","</sub>"],["Wikipedia:維基獎勵/授獎提名投票/維基翻譯獎/Mywood/大師獎",28,203,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基翻譯獎/WeiHsiang Wang/第2次",18,195,"unmatched closing tag","</span>"],["Wikipedia:維基獎勵/授獎提名投票/維基翻譯獎/陳子廷",10,225,"unmatched closing tag","</span>"],["Wikipedia:維基百科人/按加入時間排序",40,2,"unmatched closing tag","</div>"],["Wikipedia:維基百科人/按語言排序",378,30,"tag that is both closing and self-closing","</br>"],["Wikipedia:維基百科大歷險/回饋",18,71,"unmatched closing tag","</s>"],["Wikipedia:維基百科政策簡報",80,2,"unmatched closing tag","</div>"],["Wikipedia:維基簡訊/2014/2月/專題報告",46,281,"tag that is both closing and self-closing","</BR>"],["Wikipedia:維基簡訊/2014/4月",6,2,"unmatched closing tag","</div>"],["Wikipedia:維基讀本/Wikimania 2007讀本",172,20,"unmatched closing tag","</div>"],["Wikipedia:維基電台",128,2,"tag that is both closing and self-closing","</br>"],["Wikipedia:維基電台/參與",57,2,"unmatched closing tag","</div>"],["Wikipedia:維基電台/存檔",26,2,"unmatched closing tag","</div>"],["Wikipedia:維基風紀委員會",62,23,"unmatched closing tag","</span>"],["Wikipedia:維權聯盟",9,20,"tag that is both closing and self-closing","</br>"],["Wikipedia:維護工作小組",14,215,"unmatched closing tag","</span>"],["Wikipedia:線上訓練/新手版/基本編輯技巧",43,2,"unmatched closing tag","</div>"],["Wikipedia:線上訓練/新手版/如何求助",51,2,"unmatched closing tag","</div>"],["Wikipedia:線上訓練/新手版/標註來源",68,2,"unmatched closing tag","</div>"],["Wikipedia:線上訓練/新手版/歡迎",37,2,"unmatched closing tag","</div>"],["Wikipedia:線上訓練/新手版/討論頁",35,2,"unmatched closing tag","</div>"],["Wikipedia:線上訓練/頁中/五大支柱",11,51,"tag that is both closing and self-closing","</hr>"],["Wikipedia:繁簡體轉換請求/增加tw:哈卡里的康纳克;cn:哈卡里的康納克",16,316,"unmatched closing tag","</span>"],["Wikipedia:繁簡體轉換請求/增加tw:達賴喇嘛;hk:達賴喇嘛;cn:达赖喇嘛;sg:达赖喇嘛",15,195,"unmatched closing tag","</span>"],["Wikipedia:维基之声",26,72,"tag that is both closing and self-closing","</br>"],["Wikipedia:维基之声/2013年7月第1期",12,2,"unmatched closing tag","</div>"],["Wikipedia:维基之声/2013年8月第2期",12,72,"tag that is both closing and self-closing","</br>"],["Wikipedia:维基其他奖励",10,84,"unmatched closing tag","</font>"],["Wikipedia:维基奖励/授奖提名投票/政区特别贡献/*angys*",41,197,"unmatched closing tag","</span>"],["Wikipedia:维基奖励/授奖提名投票/政区特别贡献/Chk2011",22,205,"unmatched closing tag","</span>"],["Wikipedia:维基奖励/授奖提名投票/激勵特別貢獻/BenedictusFX",16,165,"unmatched closing tag","</span>"],["Wikipedia:维基奖励/授奖提名投票/維基原创獎/Siyuwj",16,172,"unmatched closing tag","</span>"],["Wikipedia:维基奖励/授奖提名投票/維基编辑獎/Zhangmoon618",31,167,"unmatched closing tag","</span>"],["Wikipedia:维基奖励/授奖提名投票/维基原创奖/Theodore Xu",11,165,"unmatched closing tag","</span>"],["Wikipedia:维基奖励/授奖提名投票/维基原创奖/螺钉/第3次",20,201,"unmatched closing tag","</span>"],["Wikipedia:维基奖励/授奖提名投票/维基编辑奖/Where was I last night?",17,170,"unmatched closing tag","</span>"],["Wikipedia:维基志异/交通",340,174,"unmatched closing tag","</span>"],["Wikipedia:维基志异/自然地理",33,75,"unmatched closing tag","</s>"],["Wikipedia:维基百科可以等待",26,207,"unmatched closing tag","</font>"],["Wikipedia:维基百科是百科全书",9,56,"tag that is both closing and self-closing","</br>"],["Wikipedia:维基百科极速版",117,83,"unmatched closing tag","</big>"],["Wikipedia:维基百科狂诊所",37,67,"unclosed tag","<del>"],["Wikipedia:维基简讯/2005/51",77,2,"unmatched closing tag","</pre>"]],"batches":60}
+window.data={"articles":[[
+	"Wikipedia:知识问答/存档/2014年2月",
+	604,
+	17,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:知识问答/存档/2014年3月",
+	748,
+	183,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:知识问答/存档/2014年4月",
+	438,
+	29,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:知识问答/存档/2014年8月",
+	714,
+	355,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:知识问答/存档/2015年3月",
+	559,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:知识问答/存档/2017年3月",
+	284,
+	232,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:知识问答/存档/2017年4月",
+	113,
+	404,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Wikipedia:知识问答/存档/2017年5月",
+	19,
+	115,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:知识问答/存档/2017年6月",
+	205,
+	249,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:知识问答/存档/2023年12月",
+	107,
+	251,
+	"unmatched closing tag",
+	"</p>"
+],[
+	"Wikipedia:知识问答/存档/2023年3月",
+	155,
+	52,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:社群首页",
+	661,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:社群首页/改版",
+	69,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:福爾摩沙－努山塔拉編輯松",
+	117,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:移動請求/2008年1到3月",
+	32,
+	327,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:移動請求/2008年7到9月",
+	26,
+	324,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:移動請求/2009年10到12月",
+	188,
+	30,
+	"unmatched closing tag",
+	"</s>"
+],[
+	"Wikipedia:移動請求/2009年1到3月",
+	428,
+	87,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:站外推广",
+	23,
+	47,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:第一次编辑的感觉",
+	157,
+	139,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:管理员布告板/不当用户名/2016年",
+	286,
+	175,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理员布告板/不当用户名/2017年/1",
+	27,
+	223,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理员布告板/不当用户名/2017年/2",
+	321,
+	226,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理员布告板/不当用户名/2018年/1",
+	5,
+	189,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理员布告板/不当用户名/2018年/2",
+	336,
+	232,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理员布告板/不当用户名/2019年/2",
+	299,
+	75,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理员布告板/其他不当行为/存档/2009年",
+	122,
+	132,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理员布告板/其他不当行为/存档/2020年12月",
+	71,
+	224,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:管理员布告板/其他不当行为/存档/2020年4月",
+	346,
+	177,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理员布告板/其他不当行为/存档/2021年12月",
+	12,
+	80,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理员布告板/其他不当行为/存档/2024年12月",
+	731,
+	205,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:管理员布告板/其他不当行为/存档/2025年1月",
+	161,
+	27,
+	"unmatched closing tag",
+	"</code>"
+],[
+	"Wikipedia:管理员布告板/其他不当行为/存档/2025年2月",
+	89,
+	201,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2018年10月",
+	126,
+	200,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2018年5月",
+	180,
+	113,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2019年4月",
+	136,
+	159,
+	"unclosed tag",
+	"<sub>"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2020年11月",
+	69,
+	42,
+	"tag that is both closing and self-closing",
+	"</Br>"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2020年1月",
+	20,
+	27,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2023年5月",
+	331,
+	282,
+	"unmatched closing tag",
+	"</u>"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2024年8月",
+	14,
+	405,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:管理員的離任/提請取消不活動管理員的權限/Vipuser",
+	5,
+	255,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:管理員的離任/提請取消不活動管理員的權限/地球发动机",
+	6,
+	262,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:管理員的離任/提請取消不活動管理員的權限/存檔",
+	433,
+	27,
+	"unmatched closing tag",
+	"</pre>"
+],[
+	"Wikipedia:管理員解任投票/Ellery",
+	28,
+	184,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理員解任投票/Shizhao/第4次",
+	125,
+	297,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:管理員解任投票/Shizhao/第7次",
+	253,
+	153,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理員解任投票/Techyan/第2次",
+	55,
+	184,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理員解任投票/Techyan/第3次",
+	146,
+	325,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理員解任投票/Ws227/第2次",
+	254,
+	204,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理員解任投票/方針草案/一/是否付委及草案制定委員會組成？",
+	7,
+	364,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理員解任投票/方針草案/一/草案提交",
+	72,
+	440,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:管理員解任投票/范/第2次",
+	165,
+	10,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:管理員貢獻/總編輯量/紀錄/2007年10月6日",
+	99,
+	26,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:管理員貢獻/總編輯量/紀錄/2007年1月3日",
+	85,
+	26,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:管理員貢獻/總編輯量/紀錄/2007年6月15日",
+	93,
+	26,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:管理者常见问题解答",
+	19,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:維基媒體2030/tag",
+	25,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:維基學生會/Tab footer",
+	3,
+	2,
+	"unmatched closing tag",
+	"</td>"
+],[
+	"Wikipedia:維基學生會/存檔/入會申請/2017年",
+	117,
+	239,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基學生會/存檔/入會申請/2018年",
+	8,
+	127,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基學生會/存檔/入會申請/2019年",
+	307,
+	436,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基學生會/存檔/升職申請/2017年",
+	62,
+	257,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基學生會/存檔/會議記錄/2017年",
+	237,
+	168,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基學生會/存檔/會議記錄/2018年",
+	147,
+	195,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基學生會/存檔/會議記錄/2019年",
+	1170,
+	118,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:維基學生會/會訊/第三期",
+	121,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:維基學生會/條目協作",
+	17,
+	17,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:維基學生會/條目協作/請求編寫區",
+	17,
+	17,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:維基學生會/條目協作/貢獻提報區",
+	17,
+	17,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:維基學生會/條目編輯常駐活動",
+	165,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:維基學生會/條目編輯常駐活動/個人貢獻/Streetdeck",
+	6,
+	88,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:維基學生會/條目編輯常駐活動/活動須知",
+	79,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:維基學生會/舉報成員/A-Chinese-Wikipedian",
+	4,
+	140,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基學生會/舉報成員/Wetrace",
+	82,
+	390,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基學生會/通知/議案通知",
+	8,
+	57,
+	"unmatched closing tag",
+	"</p>"
+],[
+	"Wikipedia:維基座標工作小組",
+	74,
+	83,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基搗蛋者簽到",
+	42,
+	2,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基榮譽/申請與變更",
+	10,
+	99,
+	"unmatched closing tag",
+	"</u>"
+],[
+	"Wikipedia:維基榮譽/申請與變更/申請區/存檔/2008年10月-12月",
+	10,
+	160,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基榮譽/申請與變更/申請區/存檔/2010年4月-6月",
+	21,
+	250,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:維基榮譽/申請與變更/申請區/存檔/2012年4月-6月",
+	46,
+	87,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Wikipedia:維基榮譽/申請與變更/申請區/存檔/2013年10月-12月",
+	128,
+	184,
+	"unmatched closing tag",
+	"</sub>"
+],[
+	"Wikipedia:維基榮譽/申請與變更/申請區/存檔/2017年10月-12月",
+	72,
+	254,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基榮譽/申請與變更/申請區/存檔/2017年1月-3月",
+	63,
+	159,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基榮譽/申請與變更/申請區/存檔/2017年4月-6月",
+	33,
+	246,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Wikipedia:維基榮譽/申請與變更/申請區/存檔/2017年7月-9月",
+	53,
+	244,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基榮譽/申請與變更/申請區/存檔/2018年10月-12月",
+	115,
+	174,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基榮譽/申請與變更/申請區/存檔/2019年1月-3月",
+	79,
+	308,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基榮譽/申請與變更/申請區/存檔/2023年7月-9月",
+	130,
+	98,
+	"unmatched closing tag",
+	"</strong>"
+],[
+	"Wikipedia:維基榮譽與獎勵/存檔/維基執行主編",
+	36,
+	214,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基榮譽與獎勵/存檔/維基見習編輯/2005年-2009年",
+	280,
+	224,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基榮譽與獎勵/存檔/維基見習編輯/2010年-2014年",
+	11,
+	277,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:維基榮譽與獎勵/存檔/維基見習編輯/2015年-2019年",
+	62,
+	244,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基榮譽與獎勵/申請設立榮譽及獎項/存檔",
+	73,
+	227,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基榮譽與獎勵/申請設立榮譽及獎項/未獲通過之投票/2016年至2020年",
+	124,
+	170,
+	"unmatched closing tag",
+	"</sub>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/ACG特別貢獻/Jacklamf1d14",
+	15,
+	170,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/59cond12",
+	15,
+	47,
+	"unmatched closing tag",
+	"</sub>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/A2569875",
+	12,
+	172,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/Alonso McLaren",
+	17,
+	199,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/Clithering",
+	11,
+	207,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/Jarodalien/第三次",
+	10,
+	253,
+	"unmatched closing tag",
+	"</sub>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/Sinai",
+	72,
+	258,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/Šolon",
+	12,
+	170,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/Theodore Xu",
+	33,
+	195,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/卡達",
+	19,
+	170,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/瑞丽江的河水",
+	3,
+	32,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/逐風天地",
+	23,
+	156,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/拓荒特别贡献/Sya eki",
+	5,
+	282,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/政區特別貢獻/AT",
+	16,
+	238,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/政區特別貢獻/长夜无风",
+	15,
+	201,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/數學條目特別貢獻獎/唐戈",
+	9,
+	215,
+	"unmatched closing tag",
+	"</sub>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/更新特別貢獻/Fu ht",
+	17,
+	190,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/激勵特別貢獻/Outlookxp",
+	6,
+	2,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/科學特別貢獻/Hwoarang17",
+	9,
+	202,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/科學特別貢獻/Webridge",
+	9,
+	201,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/科學特別貢獻/凌雲",
+	22,
+	203,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基內容獎/Jarodalien",
+	25,
+	113,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基內容獎/LuHungnguong",
+	29,
+	23,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基內容獎/Puppy8800",
+	21,
+	203,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基內容獎/人神之间",
+	19,
+	197,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基內容獎/費勒姆",
+	44,
+	134,
+	"unclosed tag",
+	"<del>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基內容獎/費勒姆/大師獎",
+	13,
+	198,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基原創獎/Baomi",
+	15,
+	170,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基原創獎/Eric850130",
+	21,
+	186,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基原創獎/Jyxyl9",
+	3,
+	222,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基原創獎/Outlookxp/第3次",
+	317,
+	170,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基原創獎/Šolon",
+	14,
+	177,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基原創獎/卡達",
+	9,
+	195,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基原創獎/胡蘿蔔",
+	20,
+	173,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基技術獎/Bluedeck",
+	16,
+	170,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基指導獎/NigelSoft",
+	17,
+	224,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基推廣獎/Reke",
+	20,
+	155,
+	"unmatched closing tag",
+	"</sub>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基攝影專家/Boattoad",
+	6,
+	2,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基攝影專家獎/Zhangzhugang",
+	26,
+	211,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基攝影獎/ATR50",
+	16,
+	183,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基攝影獎/Baycrest",
+	8,
+	210,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基攝影獎/Outlookxp/第2次",
+	17,
+	191,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基攝影獎/Taiwania Justo",
+	20,
+	204,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基服務獎/和平奮鬥救地球",
+	12,
+	231,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基站務獎/Alexander Misel",
+	14,
+	170,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基站務獎/Cdip150",
+	25,
+	200,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基站務獎/Iokseng",
+	12,
+	170,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基站務獎/Manchiu",
+	20,
+	165,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基站務獎/Techyan",
+	29,
+	171,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基站務獎/Xiplus",
+	12,
+	192,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基編輯獎/3ATENUW1",
+	17,
+	175,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基編輯獎/Jacklamf1d14",
+	12,
+	170,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基編輯獎/Koocm",
+	18,
+	244,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基編輯獎/Outlookxp",
+	3,
+	294,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基編輯獎/Sanmosa",
+	17,
+	185,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基編輯獎/Wolfch",
+	20,
+	279,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基編輯獎/卡達",
+	3,
+	52,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基繪圖獎/A2569875",
+	5,
+	119,
+	"unmatched closing tag",
+	"</sub>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基繪圖獎/liaon98",
+	14,
+	279,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基翻譯獎/Chaplin",
+	27,
+	203,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基翻譯獎/Howard61313",
+	12,
+	170,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基翻譯獎/Jarodalien/大師獎/第二次",
+	22,
+	261,
+	"unmatched closing tag",
+	"</sub>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基翻譯獎/Mywood/大師獎",
+	28,
+	203,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基翻譯獎/WeiHsiang Wang/第2次",
+	18,
+	195,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基翻譯獎/陳子廷",
+	10,
+	225,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維基百科人/按加入時間排序",
+	40,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:維基百科人/按語言排序",
+	378,
+	30,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:維基百科大歷險/回饋",
+	18,
+	71,
+	"unmatched closing tag",
+	"</s>"
+],[
+	"Wikipedia:維基百科政策簡報",
+	80,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:維基簡訊/2014/2月/專題報告",
+	46,
+	281,
+	"tag that is both closing and self-closing",
+	"</BR>"
+],[
+	"Wikipedia:維基簡訊/2014/4月",
+	6,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:維基讀本/Wikimania 2007讀本",
+	172,
+	20,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:維基電台",
+	128,
+	2,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:維基電台/參與",
+	57,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:維基電台/存檔",
+	26,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:維基風紀委員會",
+	62,
+	23,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:維權聯盟",
+	9,
+	20,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:維護工作小組",
+	14,
+	215,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:線上訓練/新手版/基本編輯技巧",
+	43,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:線上訓練/新手版/如何求助",
+	51,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:線上訓練/新手版/標註來源",
+	68,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:線上訓練/新手版/歡迎",
+	37,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:線上訓練/新手版/討論頁",
+	35,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:線上訓練/頁中/五大支柱",
+	11,
+	51,
+	"tag that is both closing and self-closing",
+	"</hr>"
+],[
+	"Wikipedia:繁簡體轉換請求/增加tw:哈卡里的康纳克;cn:哈卡里的康納克",
+	16,
+	316,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:繁簡體轉換請求/增加tw:達賴喇嘛;hk:達賴喇嘛;cn:达赖喇嘛;sg:达赖喇嘛",
+	15,
+	195,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:维基之声",
+	26,
+	72,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:维基之声/2013年7月第1期",
+	12,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:维基之声/2013年8月第2期",
+	12,
+	72,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:维基其他奖励",
+	10,
+	84,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:维基奖励/授奖提名投票/政区特别贡献/*angys*",
+	41,
+	197,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:维基奖励/授奖提名投票/政区特别贡献/Chk2011",
+	22,
+	205,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:维基奖励/授奖提名投票/激勵特別貢獻/BenedictusFX",
+	16,
+	165,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:维基奖励/授奖提名投票/維基原创獎/Siyuwj",
+	16,
+	172,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:维基奖励/授奖提名投票/維基编辑獎/Zhangmoon618",
+	31,
+	167,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:维基奖励/授奖提名投票/维基原创奖/Theodore Xu",
+	11,
+	165,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:维基奖励/授奖提名投票/维基原创奖/螺钉/第3次",
+	20,
+	201,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:维基奖励/授奖提名投票/维基编辑奖/Where was I last night?",
+	17,
+	170,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:维基志异/交通",
+	340,
+	174,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:维基志异/自然地理",
+	33,
+	75,
+	"unmatched closing tag",
+	"</s>"
+],[
+	"Wikipedia:维基百科可以等待",
+	26,
+	207,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Wikipedia:维基百科是百科全书",
+	9,
+	56,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:维基百科极速版",
+	117,
+	83,
+	"unmatched closing tag",
+	"</big>"
+],[
+	"Wikipedia:维基百科狂诊所",
+	37,
+	67,
+	"unclosed tag",
+	"<del>"
+],[
+	"Wikipedia:维基简讯/2005/51",
+	77,
+	2,
+	"unmatched closing tag",
+	"</pre>"
+],],"batches":60}

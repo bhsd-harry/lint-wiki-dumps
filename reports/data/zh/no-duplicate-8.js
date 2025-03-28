@@ -1,1 +1,1201 @@
-window.data={"articles":[["丰绅济伦",45,2,"duplicated category","[[Category:鑲藍旗漢軍副都統]]"],["临安城",76,2,"duplicated category","[[Category:南宋建筑]]"],["临汾尧都机场",70,32,"duplicated style attribute","style=\"  font-size: 90% width= align= margin:auto;\""],["临河站",24,611,"duplicated parameter","location=北京"],["丸森町",46,34,"duplicated style attribute","style=\"border-collapse:collapse\""],["丹·威廉森",12,2,"duplicated category","[[Category:新西兰奥运赛艇运动员]]"],["丹下梅子",41,2,"duplicated category","[[Category:身心障碍科学家]]"],["丹尼尔·巴伦博伊姆",221,2,"duplicated category","[[Category:阿根廷指挥家]]"],["丹尼尔·肖利",144,76,"duplicated image caption parameter","vínculo=File:Coat_of_arms_of_the_Buenos_Aires_Province.png"],["丹尼斯·叶夫谢耶夫",131,2,"duplicated category","[[Category:哈薩克斯坦亞洲運動會銀牌得主]]"],["丹尼斯·米娜",59,2,"duplicated category","[[Category:格拉斯哥大學校友]]"],["丹尼爾·巴禾",1,10,"duplicated parameter","\n "],["丹朱",32,2,"duplicated category","[[Category:中国人物神|D]]"],["丹格特集團",46,2,"duplicated category","[[Category:1981年成立的公司]]"],["丹麥國徽",44,20,"duplicated border attribute","border = 1"],["丹麥的亞歷山德拉",191,2,"duplicated category","[[Category:威尔士王妃]]"],["丹麦君主",92,53,"duplicated image caption parameter","rihgt"],["主教座堂广场 (比耶拉)",9,44,"duplicated image caption parameter","sinistra"],["乃乃社",5,2,"duplicated category","[[Category:桃園市歷史]]"],["乃木坂46",180,1078,"duplicated parameter","dead-url=no "],["久川绫",1152,23,"duplicated style attribute","style=\"font-size:small;\""],["久邇宮朝融王",77,25,"duplicated image caption parameter","HIH Princess Kuni Tomoko, consort"],["乌克兰国际航空752号班机空难",140,2,"duplicated category","[[Category:伊朗航空事故]]"],["乌尔姆战役",137,2,"duplicated category","[[Category:第三次反法同盟战争战役]]"],["乌第河",27,590,"duplicated parameter","publisher = Рус. геогр. о-во. Моск. центр "],["乌苯美司",39,3,"duplicated parameter"," UNII = \n "],["乌韦阿岛 (新喀里多尼亚)",8,3,"duplicated parameter"," native_name      = Île d'Ouvéa\n "],["尹仲敏",24,5,"duplicated style attribute","style=\"border: 2px solid #5686BF;  \""],["尹光",330,2,"duplicated category","[[Category:越南華裔香港人]]"],["尹在玉",40,2,"duplicated category","[[Category:國民力量黨員]]"],["尹斗鉉",32,2,"duplicated category","[[Category:國民力量黨員]]"],["尹漢洪",33,2,"duplicated category","[[Category:國民力量黨員]]"],["乐华12周年家族演唱会",18,5,"duplicated class attribute","class=\"wikitable\""],["乐华十周年家族演唱会",19,5,"duplicated class attribute","class=\"wikitable\""],["乐峰广场",4,2,"duplicated category","[[Category:海珠区建筑物]]"],["乔·克拉克",227,5,"duplicated border attribute","border=\"1\""],["乔娜陨石坑",15,21,"duplicated image width parameter","240px"],["乔希·克罗",9,2,"duplicated category","[[Category:澳大利亚男子游泳运动员]]"],["乔斯·穆雷尔",2,41,"duplicated image caption parameter","hochkant"],["乔治·埃内斯库",158,2,"duplicated category","[[Category:安葬于拉雪兹神父公墓者]]"],["乔治·希利亚德",15,2,"duplicated category","[[Category:英格蘭板球運動員]]"],["乔治·弗洛伊德之死引发的示威活动",7,3,"duplicated parameter"," 1=新冠肺炎=>zh-tw:嚴重特殊傳染性肺炎\n "],["乔治·弗雷德里克·沃茨",87,2,"duplicated category","[[Category:宗教艺术家]]"],["乔治·米考塔泽",81,2,"duplicated category","[[Category:法国男子足球运动员]]"],["乔治·赫伯特",51,2,"duplicated category","[[Category:十四行诗诗人]]"],["乔治赖特堡",46,2,"duplicated category","[[Category:维基数据存在坐标数据的页面]]"],["乔科·皮努尔博",4,3,"duplicated parameter","native_name=Joko Pinurbo\n "],["乔迪·康迪",12,2,"duplicated category","[[Category:英国男子游泳运动员]]"],["乘法原理",1,51,"duplicated image caption parameter","alt = 圖有兩列，左列上至下有A、B兩個字母，右列則有A1、A2、A3、B1、B2、B3六個組合。兩列之間有連線，A與A1、A2、A3三個分支相連，B與B1"],["乙巳之變",34,2,"duplicated category","[[Category:日本政变]]"],["乙支文德",8,33,"duplicated image caption parameter","DDH 972"],["九位抒情诗人",4,31,"duplicated image caption parameter","古希腊{{tsl"],["九十五条论纲",15,3,"duplicated parameter"," orig_lang_code = la\n "],["九州攻略",40,23,"duplicated style attribute","style=\"font-size: 100px;\""],["九州電力",210,36,"duplicated style attribute","style=\"text-align: center;  \""],["九秒九",50,230,"duplicated parameter","accessdate=2020-08-25 "],["九龍城區",145,37,"duplicated image caption parameter","[[何文田邨]]"],["九龍巴士272K線",283,2,"duplicated category","[[Category:九龍巴士路線|272K]]"],["九龍巴士60線",33,3,"duplicated parameter","備註=\n "],["九龍巴士98R線",123,2,"duplicated category","[[Category:九龍巴士路線|098D]]"],["九龍巴士98線",149,2,"duplicated category","[[Category:九龍巴士路線|098]]"],["习近平",368,46,"conflicting image horizontal-alignment parameter","right"],["乳牛",3,52,"duplicated image caption parameter","Milchkuh"],["乾淨世界",70,2,"duplicated category","[[Category:IOS软件]]"],["争取共产主义支持抵抗委员会党",9,3,"duplicated parameter"," national         = 人民团结（2022年至今）\n "],["二二九光榮事變",41,5,"duplicated style attribute","style=\"background:cornflowerblue; color:white\""],["二二八事件中的綏靖",15,1635,"duplicated parameter","publisher=《嚴家淦總統文物》"],["二十面體對稱的多面體列表",338,33,"duplicated style attribute","style=\"font-size: 90%;\""],["二宮尊德",65,2,"duplicated category","[[Category:相模國出身人物]]"],["二條城",71,2,"duplicated category","[[Category:古京都遺址（京都、宇治和大津市）]]"],["二江寺站",8,3,"duplicated parameter"," type = [[地铁车站]]\n "],["二硒化氫",49,33,"duplicated style attribute","style=\"font-size: 90%;\""],["二硫化二锡三镍",31,2,"duplicated category","[[Category:锡化合物]]"],["二階導數",56,67,"duplicated image caption parameter","alt = 正弦曲線上，某動點沿線自左至右移動。過該動點的切線也有畫出。"],["二雅路站",13,3,"duplicated parameter","coordinates = {{coord|30.63529|N|114.14710|E|display=inline,title}}\n "],["二齒豬籠草",84,95,"duplicated name attribute","name=Baueretal2012"],["二龍喉公園",39,37,"duplicated image caption parameter","Right"],["于冲汉",2,3,"duplicated parameter","1=zh-hans:于冲汉;zh-hant:于沖漢\n "],["于凱",69,2,"duplicated category","[[Category:中華人民共和國諜報行動]]"],["于斯塔德",3,3,"duplicated parameter","2=zh-hans:马尔默; zh-tw:馬爾摩; zh-hk:馬爾默;\n "],["于煥亞",100,2,"duplicated category","[[Category:九太科技籃球隊球員]]"],["云大棉",18,2,"duplicated category","[[Category:第八屆全國政協委員]]"],["云雀高飞 (沃恩·威廉斯)",62,25,"duplicated image caption parameter","中"],["云顶天宫",56,24,"duplicated style attribute","style=\"text-align:center\""],["互惠利他主義",5,47,"duplicated image caption parameter","upright=1.75<!--fmt for very small text-->"],["五代十國行政區劃",135,4,"duplicated style attribute","style=\"background:#ccccff;\""],["五十九種二十面體",34,33,"duplicated style attribute","style=\"font-size: 90%;\""],["五十二病方",27,2,"duplicated category","[[Category:中医典籍]]"],["五堵車站",56,25,"duplicated image caption parameter","LEFT"],["五环体育中心站",13,3,"duplicated parameter","coordinates = {{coord|30.63634|N|114.13140|E|display=inline,title}}\n "],["五號防空戰車",36,180,"duplicated image caption parameter","XVII Open de Plastimodelismo de Catanduva realizado no Espaço de Exposições da E"],["五車二",601,2,"duplicated category","[[Category:G型巨星]]"],["井上瑞稀",40,3,"duplicated parameter"," 網站 =\n "],["井之頭恩賜公園",13,3,"duplicated parameter"," 管理者         =\n "],["井口資仁",254,2,"duplicated category","[[Category:西東京市出身人物]]"],["井野卓",68,5,"duplicated align attribute","align=center"],["亚历克斯·帕特里奇",11,2,"duplicated category","[[Category:牛津布鲁克斯大学校友]]"],["亚历山大·瞿鲁巴",16,2,"duplicated category","[[Category:俄共布八大代表]]"],["亚历山大·米库林",47,2,"duplicated category","[[Category:鮑曼莫斯科國立技術大學校友]]"],["亚历山大·阿庚",60,2,"duplicated category","[[Category:1875年逝世]]"],["亚历山大·鲁达科夫",23,2,"duplicated category","[[Category:安葬於克里姆林宮紅場墓園者]]"],["亚历山德罗·德尔皮耶罗",97,32,"duplicated width attribute","width=90%"],["亚尼奶酪",38,2,"duplicated category","[[Category:酸乳奶酪]]"],["亚当·斯密",187,17,"duplicated parameter","ref=harv"],["亚当·欧伦施莱厄",42,2,"duplicated category","[[Category:哥本哈根大學校友]]"],["亚当·琼斯 (棒球运动员)",114,5,"duplicated align attribute","align=center"],["亚洲",149,32,"conflicting image frame parameter","thumb"],["亚洲同性结合状态",2,37,"duplicated image width parameter","325px"],["亚瑟·爱丁顿",120,2,"duplicated category","[[Category:英国和平主义者]]"],["亚罗瓦娅法",140,2,"duplicated category","[[Category:2016年俄羅斯]]"],["亚美尼亚高原",126,2,"duplicated category","[[Category:亞洲高原]]"],["亚马逊海牛",66,2,"duplicated category","[[Category:海牛目]]"],["亞丹尼·哈查瓦瑞亞",138,5,"duplicated align attribute","align=center"],["亞伯特·普荷斯",82,21,"duplicated image width parameter","280px"],["亞元",62,2,"duplicated category","[[Category:亚洲货币]]"],["亞哥花園",12,3,"duplicated parameter"," season = 全年\n "],["亞太電信",8,3,"duplicated parameter"," traded_as = \n "],["亞弗列·希治閣",6,3,"duplicated parameter","=zh-hk:房客;zh-cn:房客;zh-tw:怪房客：倫敦霧夜奇案;zh:怪房客;\n "],["亞斯里王子",30,2,"duplicated category","[[Category:丹麥王爵]]"],["亞歷山德拉·費奧多羅芙娜皇后 (普魯士的夏洛特)",50,2,"duplicated category","[[Category:霍亨索倫王朝]]"],["亞歷山德羅斯·特佐瓦斯",57,2,"duplicated category","[[Category:義大利外籍足球運動員]]"],["亞洲輝椋鳥",34,41,"duplicated image caption parameter","''A. p. panayensis'' feeding"],["亞當航空574號班機空難",29,30,"duplicated image caption parameter","width=200px"],["亞維農教廷",2,3,"duplicated parameter","G1=法国地名\n "],["亞羅號事件",38,2,"duplicated category","[[Category:1856年中國]]"],["亞美尼亞航空967號班機空難",48,2,"duplicated category","[[Category:2006年航空事故]]"],["亞莫爾·托歐斯",5,3,"duplicated parameter"," image         = 亞莫爾·托歐斯<br>Amor Towles\n "],["亞述巴尼拔圖書館",50,2,"duplicated category","[[Category:1849年考古发现]]"],["亞馬遜平原 (火星)",119,26,"duplicated image caption parameter","HiWish计划下高分辨率成像科学设备显示的亚马逊区表面。44802buttes.jpg"],["交付",72,2,"duplicated category","[[Category:物权法]]"],["交通部中央氣象署地震震度分級",226,2,"duplicated category","[[Category:交通部中央氣象署|警]]"],["亦捷科際",23,3,"duplicated parameter"," homepage           = \n "],["亨利·卡梅隆",59,2,"duplicated category","[[Category:足球中場]]"],["亨利·夏默",38,40,"duplicated image caption parameter","享利·夏默"],["亨利·羅傑斯",22,35,"duplicated image width parameter","300px"],["亨利·邁杜",4,3,"duplicated parameter"," birth_date = {{birth date and age|df=yes|1936|2|14}}\n "],["亨利一世 (英格兰)",723,2,"duplicated category","[[Category:盎格鲁诺曼人]]"],["亨茨维尔 (阿拉巴马州)",10,3,"duplicated parameter","image_map              = Madison_County_Alabama_with_Current_Huntsville_Corporat"],["京基100",33,95,"duplicated image caption parameter","Right"],["京族",9,3,"duplicated parameter"," image = \n "],["京津城际铁路",130,25,"duplicated align attribute","align=\"right\""],["京津塘高速公路",46,60,"duplicated parameter","type=E"],["京畿道 (日治時期)",404,3,"duplicated parameter"," alt1 = \n "],["京都城",924,3,"duplicated parameter","mmfm={{flag icon|CAN|1957}} Flaming Page\n "],["京都河原町站",19,3,"duplicated parameter"," 上下車人次 = 48,950<!--京都市統計書-->\n "],["人口贩卖",143,2,"duplicated category","[[Category:人口贩卖| ]]"],["人民國家力量黨",103,2,"duplicated category","[[Category:泰国政党]]"],["人民币汇率",437,5,"duplicated align attribute","align=right"],["人民广场 (长春市)",19,5,"duplicated border attribute","border=\"1\""],["人民法院 (德國)",52,70,"duplicated style attribute","style=\"width:80%\""],["人生若如初见",109,2,"duplicated category","[[Category:待播的中國電視劇集]]"],["人皮蝇",15,36,"duplicated image caption parameter","lang=en"],["人肉搜索2：失蹤搜救",153,2,"duplicated category","[[Category:螢幕寶石電影]]"],["人類的性存在",14,176,"duplicated name attribute","name=\"Nielsen\""],["人马座ρ",48,2,"duplicated category","[[Category:建 (星官)|5]]"],["人體肌肉列表",729,4,"duplicated valign attribute","valign=\"top\""],["仁天科技",26,2,"duplicated category","[[Category:信息技术公司]]"],["仇志強",72,2,"duplicated category","[[Category:广东裔马来西亚人]]"],["今年的汉字",9,5,"duplicated class attribute","class=\"wikitable\""],["今昔畫圖續百鬼",38,36,"duplicated image caption parameter","{{link-ja"],["今村雅弘",109,2,"duplicated category","[[Category:日本男性眾議院議員]]"],["今生無悔 (無綫電視劇)",123,122,"duplicated parameter","Rel5 = 情侶"],["从莞深高速公路",50,27,"duplicated parameter","state="],["仙女座",78,39,"duplicated image width parameter","400px"],["仡央语群",88,24,"duplicated style attribute","style=\"margin:auto:\""],["令人心动的offer (第三季)",457,49,"duplicated style attribute","style=\"text-align:center\""],["以色列—哈馬斯戰爭",277,47,"duplicated image caption parameter","language=zh-hant"],["以色列地犹太人及犹太教历史",176,1685,"duplicated parameter","url=https://books.google.com/books?id=XaYeSoPbrPMC&pg=PT14"],["以諾書",115,2,"duplicated category","[[Category:旧约经外书]]"],["任化邦",27,2,"duplicated category","[[Category:任姓|Z]]"],["任天堂",715,46,"duplicated image caption parameter","縮略圖"],["任天堂Switch",31,3,"duplicated parameter"," successor = [[任天堂Switch 2]]\n "],["任子威",49,32,"duplicated style attribute","style=\"font-size:95%\""],["任敏",44,5,"duplicated class attribute","class=\"wikitable\""],["任泉",265,2,"duplicated category","[[Category:黑龙江男演员]]"],["任迪簡",30,2,"duplicated category","[[Category:唐朝太子賓客]]"],["伊万·佩德罗索",33,2,"duplicated category","[[Category:1998年中美洲和加勒比运动会田径运动员]]"],["伊万·坎波",100,2,"duplicated category","[[Category:巴斯克足球運動員]]"],["伊万·巴格拉米扬",155,2,"duplicated category","[[Category:安葬於克里姆林宮紅場墓園者]]"],["伊万·秋列涅夫",38,2,"duplicated category","[[Category:安葬於新聖女公墓者]]"],["伊万尼夫卡 (别列佐夫卡区)",90,24,"duplicated style attribute","style=\"margin-left:auto;margin-right:auto\""],["伊丽莎白二世",292,47,"duplicated image caption parameter","100px]]"],["伊予市",28,40,"duplicated image caption parameter","Iyo_City_Hall_20240428_(1)"],["伊兹托克·乔普",29,2,"duplicated category","[[Category:世界赛艇锦标赛奖牌得主]]"],["伊切尔格伦吉",37,2,"duplicated category","[[Category:马哈拉施特拉邦城镇]]"],["伊利 (賓夕法尼亞州)",104,3,"duplicated parameter"," population_footnotes   = \n "],["伊利丹·怒風",8,5,"duplicated class attribute","class=\"toccolours\""],["伊利亚·格拉祖诺夫",70,2,"duplicated category","[[Category:列賓藝術學院校友]]"],["伊勢號護衛艦",95,2,"duplicated category","[[Category:2009年下水]]"],["伊卜提哈杰·穆罕默德",59,686,"duplicated parameter","title=Fencer With Headscarf Is a Cut Above the Rest"],["伊坎尼特·潘亞",93,2,"duplicated category","[[Category:泰国足球运动员]]"],["伊夫琳·科利尔",9,2,"duplicated category","[[Category:英國女子網球運動員]]"],["伊姆·烏度卡",248,2,"duplicated category","[[Category:波士顿凯尔特人教练]]"],["伊戈尔·博基",129,51,"duplicated image caption parameter","міні"],["伊戈尔·鲁坚斯基",15,3,"duplicated parameter","constituency  = {{le|奔萨选区|Penza constituency}}\n "],["伊戈爾·沃利",18,2,"duplicated category","[[Category:克羅埃西亞奧運手球運動員]]"],["伊拉克国籍法",84,2,"duplicated category","[[Category:伊拉克法律]]"],["伊拉克里·巴格拉季昂-穆赫拉涅利",67,4,"duplicated cory attribute","cory"],["伊斯哈克·马萨利耶夫",80,194,"duplicated parameter","title=К.К. Тайсаев: «Избрание И.А. Масалиева Председателем ЦК Партии Коммунистов"],["伊斯梅爾·尤蘇波夫",77,2,"duplicated category","[[Category:苏联共产党党员]]"]],"batches":43}
+window.data={"articles":[[
+	"丰绅济伦",
+	45,
+	2,
+	"duplicated category",
+	"[[Category:鑲藍旗漢軍副都統]]"
+],[
+	"临安城",
+	76,
+	2,
+	"duplicated category",
+	"[[Category:南宋建筑]]"
+],[
+	"临汾尧都机场",
+	70,
+	32,
+	"duplicated style attribute",
+	"style=\"  font-size: 90% width= align= margin:auto;\""
+],[
+	"临河站",
+	24,
+	611,
+	"duplicated parameter",
+	"location=北京"
+],[
+	"丸森町",
+	46,
+	34,
+	"duplicated style attribute",
+	"style=\"border-collapse:collapse\""
+],[
+	"丹·威廉森",
+	12,
+	2,
+	"duplicated category",
+	"[[Category:新西兰奥运赛艇运动员]]"
+],[
+	"丹下梅子",
+	41,
+	2,
+	"duplicated category",
+	"[[Category:身心障碍科学家]]"
+],[
+	"丹尼尔·巴伦博伊姆",
+	221,
+	2,
+	"duplicated category",
+	"[[Category:阿根廷指挥家]]"
+],[
+	"丹尼尔·肖利",
+	144,
+	76,
+	"duplicated image caption parameter",
+	"vínculo=File:Coat_of_arms_of_the_Buenos_Aires_Province.png"
+],[
+	"丹尼斯·叶夫谢耶夫",
+	131,
+	2,
+	"duplicated category",
+	"[[Category:哈薩克斯坦亞洲運動會銀牌得主]]"
+],[
+	"丹尼斯·米娜",
+	59,
+	2,
+	"duplicated category",
+	"[[Category:格拉斯哥大學校友]]"
+],[
+	"丹尼爾·巴禾",
+	1,
+	10,
+	"duplicated parameter",
+	"\n "
+],[
+	"丹朱",
+	32,
+	2,
+	"duplicated category",
+	"[[Category:中国人物神|D]]"
+],[
+	"丹格特集團",
+	46,
+	2,
+	"duplicated category",
+	"[[Category:1981年成立的公司]]"
+],[
+	"丹麥國徽",
+	44,
+	20,
+	"duplicated border attribute",
+	"border = 1"
+],[
+	"丹麥的亞歷山德拉",
+	191,
+	2,
+	"duplicated category",
+	"[[Category:威尔士王妃]]"
+],[
+	"丹麦君主",
+	92,
+	53,
+	"duplicated image caption parameter",
+	"rihgt"
+],[
+	"主教座堂广场 (比耶拉)",
+	9,
+	44,
+	"duplicated image caption parameter",
+	"sinistra"
+],[
+	"乃乃社",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:桃園市歷史]]"
+],[
+	"乃木坂46",
+	180,
+	1078,
+	"duplicated parameter",
+	"dead-url=no "
+],[
+	"久川绫",
+	1152,
+	23,
+	"duplicated style attribute",
+	"style=\"font-size:small;\""
+],[
+	"久邇宮朝融王",
+	77,
+	25,
+	"duplicated image caption parameter",
+	"HIH Princess Kuni Tomoko, consort"
+],[
+	"乌克兰国际航空752号班机空难",
+	140,
+	2,
+	"duplicated category",
+	"[[Category:伊朗航空事故]]"
+],[
+	"乌尔姆战役",
+	137,
+	2,
+	"duplicated category",
+	"[[Category:第三次反法同盟战争战役]]"
+],[
+	"乌第河",
+	27,
+	590,
+	"duplicated parameter",
+	"publisher = Рус. геогр. о-во. Моск. центр "
+],[
+	"乌苯美司",
+	39,
+	3,
+	"duplicated parameter",
+	" UNII = \n "
+],[
+	"乌韦阿岛 (新喀里多尼亚)",
+	8,
+	3,
+	"duplicated parameter",
+	" native_name      = Île d'Ouvéa\n "
+],[
+	"尹仲敏",
+	24,
+	5,
+	"duplicated style attribute",
+	"style=\"border: 2px solid #5686BF;  \""
+],[
+	"尹光",
+	330,
+	2,
+	"duplicated category",
+	"[[Category:越南華裔香港人]]"
+],[
+	"尹在玉",
+	40,
+	2,
+	"duplicated category",
+	"[[Category:國民力量黨員]]"
+],[
+	"尹斗鉉",
+	32,
+	2,
+	"duplicated category",
+	"[[Category:國民力量黨員]]"
+],[
+	"尹漢洪",
+	33,
+	2,
+	"duplicated category",
+	"[[Category:國民力量黨員]]"
+],[
+	"乐华12周年家族演唱会",
+	18,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"乐华十周年家族演唱会",
+	19,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"乐峰广场",
+	4,
+	2,
+	"duplicated category",
+	"[[Category:海珠区建筑物]]"
+],[
+	"乔·克拉克",
+	227,
+	5,
+	"duplicated border attribute",
+	"border=\"1\""
+],[
+	"乔娜陨石坑",
+	15,
+	21,
+	"duplicated image width parameter",
+	"240px"
+],[
+	"乔希·克罗",
+	9,
+	2,
+	"duplicated category",
+	"[[Category:澳大利亚男子游泳运动员]]"
+],[
+	"乔斯·穆雷尔",
+	2,
+	41,
+	"duplicated image caption parameter",
+	"hochkant"
+],[
+	"乔治·埃内斯库",
+	158,
+	2,
+	"duplicated category",
+	"[[Category:安葬于拉雪兹神父公墓者]]"
+],[
+	"乔治·希利亚德",
+	15,
+	2,
+	"duplicated category",
+	"[[Category:英格蘭板球運動員]]"
+],[
+	"乔治·弗洛伊德之死引发的示威活动",
+	7,
+	3,
+	"duplicated parameter",
+	" 1=新冠肺炎=>zh-tw:嚴重特殊傳染性肺炎\n "
+],[
+	"乔治·弗雷德里克·沃茨",
+	87,
+	2,
+	"duplicated category",
+	"[[Category:宗教艺术家]]"
+],[
+	"乔治·米考塔泽",
+	81,
+	2,
+	"duplicated category",
+	"[[Category:法国男子足球运动员]]"
+],[
+	"乔治·赫伯特",
+	51,
+	2,
+	"duplicated category",
+	"[[Category:十四行诗诗人]]"
+],[
+	"乔治赖特堡",
+	46,
+	2,
+	"duplicated category",
+	"[[Category:维基数据存在坐标数据的页面]]"
+],[
+	"乔科·皮努尔博",
+	4,
+	3,
+	"duplicated parameter",
+	"native_name=Joko Pinurbo\n "
+],[
+	"乔迪·康迪",
+	12,
+	2,
+	"duplicated category",
+	"[[Category:英国男子游泳运动员]]"
+],[
+	"乘法原理",
+	1,
+	51,
+	"duplicated image caption parameter",
+	"alt = 圖有兩列，左列上至下有A、B兩個字母，右列則有A1、A2、A3、B1、B2、B3六個組合。兩列之間有連線，A與A1、A2、A3三個分支相連，B與B1"
+],[
+	"乙巳之變",
+	34,
+	2,
+	"duplicated category",
+	"[[Category:日本政变]]"
+],[
+	"乙支文德",
+	8,
+	33,
+	"duplicated image caption parameter",
+	"DDH 972"
+],[
+	"九位抒情诗人",
+	4,
+	31,
+	"duplicated image caption parameter",
+	"古希腊{{tsl"
+],[
+	"九十五条论纲",
+	15,
+	3,
+	"duplicated parameter",
+	" orig_lang_code = la\n "
+],[
+	"九州攻略",
+	40,
+	23,
+	"duplicated style attribute",
+	"style=\"font-size: 100px;\""
+],[
+	"九州電力",
+	210,
+	36,
+	"duplicated style attribute",
+	"style=\"text-align: center;  \""
+],[
+	"九秒九",
+	50,
+	230,
+	"duplicated parameter",
+	"accessdate=2020-08-25 "
+],[
+	"九龍城區",
+	145,
+	37,
+	"duplicated image caption parameter",
+	"[[何文田邨]]"
+],[
+	"九龍巴士272K線",
+	283,
+	2,
+	"duplicated category",
+	"[[Category:九龍巴士路線|272K]]"
+],[
+	"九龍巴士60線",
+	33,
+	3,
+	"duplicated parameter",
+	"備註=\n "
+],[
+	"九龍巴士98R線",
+	123,
+	2,
+	"duplicated category",
+	"[[Category:九龍巴士路線|098D]]"
+],[
+	"九龍巴士98線",
+	149,
+	2,
+	"duplicated category",
+	"[[Category:九龍巴士路線|098]]"
+],[
+	"习近平",
+	368,
+	46,
+	"conflicting image horizontal-alignment parameter",
+	"right"
+],[
+	"乳牛",
+	3,
+	52,
+	"duplicated image caption parameter",
+	"Milchkuh"
+],[
+	"乾淨世界",
+	70,
+	2,
+	"duplicated category",
+	"[[Category:IOS软件]]"
+],[
+	"争取共产主义支持抵抗委员会党",
+	9,
+	3,
+	"duplicated parameter",
+	" national         = 人民团结（2022年至今）\n "
+],[
+	"二二九光榮事變",
+	41,
+	5,
+	"duplicated style attribute",
+	"style=\"background:cornflowerblue; color:white\""
+],[
+	"二二八事件中的綏靖",
+	15,
+	1635,
+	"duplicated parameter",
+	"publisher=《嚴家淦總統文物》"
+],[
+	"二十面體對稱的多面體列表",
+	338,
+	33,
+	"duplicated style attribute",
+	"style=\"font-size: 90%;\""
+],[
+	"二宮尊德",
+	65,
+	2,
+	"duplicated category",
+	"[[Category:相模國出身人物]]"
+],[
+	"二條城",
+	71,
+	2,
+	"duplicated category",
+	"[[Category:古京都遺址（京都、宇治和大津市）]]"
+],[
+	"二江寺站",
+	8,
+	3,
+	"duplicated parameter",
+	" type = [[地铁车站]]\n "
+],[
+	"二硒化氫",
+	49,
+	33,
+	"duplicated style attribute",
+	"style=\"font-size: 90%;\""
+],[
+	"二硫化二锡三镍",
+	31,
+	2,
+	"duplicated category",
+	"[[Category:锡化合物]]"
+],[
+	"二階導數",
+	56,
+	67,
+	"duplicated image caption parameter",
+	"alt = 正弦曲線上，某動點沿線自左至右移動。過該動點的切線也有畫出。"
+],[
+	"二雅路站",
+	13,
+	3,
+	"duplicated parameter",
+	"coordinates = {{coord|30.63529|N|114.14710|E|display=inline,title}}\n "
+],[
+	"二齒豬籠草",
+	84,
+	95,
+	"duplicated name attribute",
+	"name=Baueretal2012"
+],[
+	"二龍喉公園",
+	39,
+	37,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"于冲汉",
+	2,
+	3,
+	"duplicated parameter",
+	"1=zh-hans:于冲汉;zh-hant:于沖漢\n "
+],[
+	"于凱",
+	69,
+	2,
+	"duplicated category",
+	"[[Category:中華人民共和國諜報行動]]"
+],[
+	"于斯塔德",
+	3,
+	3,
+	"duplicated parameter",
+	"2=zh-hans:马尔默; zh-tw:馬爾摩; zh-hk:馬爾默;\n "
+],[
+	"于煥亞",
+	100,
+	2,
+	"duplicated category",
+	"[[Category:九太科技籃球隊球員]]"
+],[
+	"云大棉",
+	18,
+	2,
+	"duplicated category",
+	"[[Category:第八屆全國政協委員]]"
+],[
+	"云雀高飞 (沃恩·威廉斯)",
+	62,
+	25,
+	"duplicated image caption parameter",
+	"中"
+],[
+	"云顶天宫",
+	56,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"互惠利他主義",
+	5,
+	47,
+	"duplicated image caption parameter",
+	"upright=1.75<!--fmt for very small text-->"
+],[
+	"五代十國行政區劃",
+	135,
+	4,
+	"duplicated style attribute",
+	"style=\"background:#ccccff;\""
+],[
+	"五十九種二十面體",
+	34,
+	33,
+	"duplicated style attribute",
+	"style=\"font-size: 90%;\""
+],[
+	"五十二病方",
+	27,
+	2,
+	"duplicated category",
+	"[[Category:中医典籍]]"
+],[
+	"五堵車站",
+	56,
+	25,
+	"duplicated image caption parameter",
+	"LEFT"
+],[
+	"五环体育中心站",
+	13,
+	3,
+	"duplicated parameter",
+	"coordinates = {{coord|30.63634|N|114.13140|E|display=inline,title}}\n "
+],[
+	"五號防空戰車",
+	36,
+	180,
+	"duplicated image caption parameter",
+	"XVII Open de Plastimodelismo de Catanduva realizado no Espaço de Exposições da E"
+],[
+	"五車二",
+	601,
+	2,
+	"duplicated category",
+	"[[Category:G型巨星]]"
+],[
+	"井上瑞稀",
+	40,
+	3,
+	"duplicated parameter",
+	" 網站 =\n "
+],[
+	"井之頭恩賜公園",
+	13,
+	3,
+	"duplicated parameter",
+	" 管理者         =\n "
+],[
+	"井口資仁",
+	254,
+	2,
+	"duplicated category",
+	"[[Category:西東京市出身人物]]"
+],[
+	"井野卓",
+	68,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"亚历克斯·帕特里奇",
+	11,
+	2,
+	"duplicated category",
+	"[[Category:牛津布鲁克斯大学校友]]"
+],[
+	"亚历山大·瞿鲁巴",
+	16,
+	2,
+	"duplicated category",
+	"[[Category:俄共布八大代表]]"
+],[
+	"亚历山大·米库林",
+	47,
+	2,
+	"duplicated category",
+	"[[Category:鮑曼莫斯科國立技術大學校友]]"
+],[
+	"亚历山大·阿庚",
+	60,
+	2,
+	"duplicated category",
+	"[[Category:1875年逝世]]"
+],[
+	"亚历山大·鲁达科夫",
+	23,
+	2,
+	"duplicated category",
+	"[[Category:安葬於克里姆林宮紅場墓園者]]"
+],[
+	"亚历山德罗·德尔皮耶罗",
+	97,
+	32,
+	"duplicated width attribute",
+	"width=90%"
+],[
+	"亚尼奶酪",
+	38,
+	2,
+	"duplicated category",
+	"[[Category:酸乳奶酪]]"
+],[
+	"亚当·斯密",
+	187,
+	17,
+	"duplicated parameter",
+	"ref=harv"
+],[
+	"亚当·欧伦施莱厄",
+	42,
+	2,
+	"duplicated category",
+	"[[Category:哥本哈根大學校友]]"
+],[
+	"亚当·琼斯 (棒球运动员)",
+	114,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"亚洲",
+	149,
+	32,
+	"conflicting image frame parameter",
+	"thumb"
+],[
+	"亚洲同性结合状态",
+	2,
+	37,
+	"duplicated image width parameter",
+	"325px"
+],[
+	"亚瑟·爱丁顿",
+	120,
+	2,
+	"duplicated category",
+	"[[Category:英国和平主义者]]"
+],[
+	"亚罗瓦娅法",
+	140,
+	2,
+	"duplicated category",
+	"[[Category:2016年俄羅斯]]"
+],[
+	"亚美尼亚高原",
+	126,
+	2,
+	"duplicated category",
+	"[[Category:亞洲高原]]"
+],[
+	"亚马逊海牛",
+	66,
+	2,
+	"duplicated category",
+	"[[Category:海牛目]]"
+],[
+	"亞丹尼·哈查瓦瑞亞",
+	138,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"亞伯特·普荷斯",
+	82,
+	21,
+	"duplicated image width parameter",
+	"280px"
+],[
+	"亞元",
+	62,
+	2,
+	"duplicated category",
+	"[[Category:亚洲货币]]"
+],[
+	"亞哥花園",
+	12,
+	3,
+	"duplicated parameter",
+	" season = 全年\n "
+],[
+	"亞太電信",
+	8,
+	3,
+	"duplicated parameter",
+	" traded_as = \n "
+],[
+	"亞弗列·希治閣",
+	6,
+	3,
+	"duplicated parameter",
+	"=zh-hk:房客;zh-cn:房客;zh-tw:怪房客：倫敦霧夜奇案;zh:怪房客;\n "
+],[
+	"亞斯里王子",
+	30,
+	2,
+	"duplicated category",
+	"[[Category:丹麥王爵]]"
+],[
+	"亞歷山德拉·費奧多羅芙娜皇后 (普魯士的夏洛特)",
+	50,
+	2,
+	"duplicated category",
+	"[[Category:霍亨索倫王朝]]"
+],[
+	"亞歷山德羅斯·特佐瓦斯",
+	57,
+	2,
+	"duplicated category",
+	"[[Category:義大利外籍足球運動員]]"
+],[
+	"亞洲輝椋鳥",
+	34,
+	41,
+	"duplicated image caption parameter",
+	"''A. p. panayensis'' feeding"
+],[
+	"亞當航空574號班機空難",
+	29,
+	30,
+	"duplicated image caption parameter",
+	"width=200px"
+],[
+	"亞維農教廷",
+	2,
+	3,
+	"duplicated parameter",
+	"G1=法国地名\n "
+],[
+	"亞羅號事件",
+	38,
+	2,
+	"duplicated category",
+	"[[Category:1856年中國]]"
+],[
+	"亞美尼亞航空967號班機空難",
+	48,
+	2,
+	"duplicated category",
+	"[[Category:2006年航空事故]]"
+],[
+	"亞莫爾·托歐斯",
+	5,
+	3,
+	"duplicated parameter",
+	" image         = 亞莫爾·托歐斯<br>Amor Towles\n "
+],[
+	"亞述巴尼拔圖書館",
+	50,
+	2,
+	"duplicated category",
+	"[[Category:1849年考古发现]]"
+],[
+	"亞馬遜平原 (火星)",
+	119,
+	26,
+	"duplicated image caption parameter",
+	"HiWish计划下高分辨率成像科学设备显示的亚马逊区表面。44802buttes.jpg"
+],[
+	"交付",
+	72,
+	2,
+	"duplicated category",
+	"[[Category:物权法]]"
+],[
+	"交通部中央氣象署地震震度分級",
+	226,
+	2,
+	"duplicated category",
+	"[[Category:交通部中央氣象署|警]]"
+],[
+	"亦捷科際",
+	23,
+	3,
+	"duplicated parameter",
+	" homepage           = \n "
+],[
+	"亨利·卡梅隆",
+	59,
+	2,
+	"duplicated category",
+	"[[Category:足球中場]]"
+],[
+	"亨利·夏默",
+	38,
+	40,
+	"duplicated image caption parameter",
+	"享利·夏默"
+],[
+	"亨利·羅傑斯",
+	22,
+	35,
+	"duplicated image width parameter",
+	"300px"
+],[
+	"亨利·邁杜",
+	4,
+	3,
+	"duplicated parameter",
+	" birth_date = {{birth date and age|df=yes|1936|2|14}}\n "
+],[
+	"亨利一世 (英格兰)",
+	723,
+	2,
+	"duplicated category",
+	"[[Category:盎格鲁诺曼人]]"
+],[
+	"亨茨维尔 (阿拉巴马州)",
+	10,
+	3,
+	"duplicated parameter",
+	"image_map              = Madison_County_Alabama_with_Current_Huntsville_Corporat"
+],[
+	"京基100",
+	33,
+	95,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"京族",
+	9,
+	3,
+	"duplicated parameter",
+	" image = \n "
+],[
+	"京津城际铁路",
+	130,
+	25,
+	"duplicated align attribute",
+	"align=\"right\""
+],[
+	"京津塘高速公路",
+	46,
+	60,
+	"duplicated parameter",
+	"type=E"
+],[
+	"京畿道 (日治時期)",
+	404,
+	3,
+	"duplicated parameter",
+	" alt1 = \n "
+],[
+	"京都城",
+	924,
+	3,
+	"duplicated parameter",
+	"mmfm={{flag icon|CAN|1957}} Flaming Page\n "
+],[
+	"京都河原町站",
+	19,
+	3,
+	"duplicated parameter",
+	" 上下車人次 = 48,950<!--京都市統計書-->\n "
+],[
+	"人口贩卖",
+	143,
+	2,
+	"duplicated category",
+	"[[Category:人口贩卖| ]]"
+],[
+	"人民國家力量黨",
+	103,
+	2,
+	"duplicated category",
+	"[[Category:泰国政党]]"
+],[
+	"人民币汇率",
+	437,
+	5,
+	"duplicated align attribute",
+	"align=right"
+],[
+	"人民广场 (长春市)",
+	19,
+	5,
+	"duplicated border attribute",
+	"border=\"1\""
+],[
+	"人民法院 (德國)",
+	52,
+	70,
+	"duplicated style attribute",
+	"style=\"width:80%\""
+],[
+	"人生若如初见",
+	109,
+	2,
+	"duplicated category",
+	"[[Category:待播的中國電視劇集]]"
+],[
+	"人皮蝇",
+	15,
+	36,
+	"duplicated image caption parameter",
+	"lang=en"
+],[
+	"人肉搜索2：失蹤搜救",
+	153,
+	2,
+	"duplicated category",
+	"[[Category:螢幕寶石電影]]"
+],[
+	"人類的性存在",
+	14,
+	176,
+	"duplicated name attribute",
+	"name=\"Nielsen\""
+],[
+	"人马座ρ",
+	48,
+	2,
+	"duplicated category",
+	"[[Category:建 (星官)|5]]"
+],[
+	"人體肌肉列表",
+	729,
+	4,
+	"duplicated valign attribute",
+	"valign=\"top\""
+],[
+	"仁天科技",
+	26,
+	2,
+	"duplicated category",
+	"[[Category:信息技术公司]]"
+],[
+	"仇志強",
+	72,
+	2,
+	"duplicated category",
+	"[[Category:广东裔马来西亚人]]"
+],[
+	"今年的汉字",
+	9,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"今昔畫圖續百鬼",
+	38,
+	36,
+	"duplicated image caption parameter",
+	"{{link-ja"
+],[
+	"今村雅弘",
+	109,
+	2,
+	"duplicated category",
+	"[[Category:日本男性眾議院議員]]"
+],[
+	"今生無悔 (無綫電視劇)",
+	123,
+	122,
+	"duplicated parameter",
+	"Rel5 = 情侶"
+],[
+	"从莞深高速公路",
+	50,
+	27,
+	"duplicated parameter",
+	"state="
+],[
+	"仙女座",
+	78,
+	39,
+	"duplicated image width parameter",
+	"400px"
+],[
+	"仡央语群",
+	88,
+	24,
+	"duplicated style attribute",
+	"style=\"margin:auto:\""
+],[
+	"令人心动的offer (第三季)",
+	457,
+	49,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"以色列—哈馬斯戰爭",
+	277,
+	47,
+	"duplicated image caption parameter",
+	"language=zh-hant"
+],[
+	"以色列地犹太人及犹太教历史",
+	176,
+	1685,
+	"duplicated parameter",
+	"url=https://books.google.com/books?id=XaYeSoPbrPMC&pg=PT14"
+],[
+	"以諾書",
+	115,
+	2,
+	"duplicated category",
+	"[[Category:旧约经外书]]"
+],[
+	"任化邦",
+	27,
+	2,
+	"duplicated category",
+	"[[Category:任姓|Z]]"
+],[
+	"任天堂",
+	715,
+	46,
+	"duplicated image caption parameter",
+	"縮略圖"
+],[
+	"任天堂Switch",
+	31,
+	3,
+	"duplicated parameter",
+	" successor = [[任天堂Switch 2]]\n "
+],[
+	"任子威",
+	49,
+	32,
+	"duplicated style attribute",
+	"style=\"font-size:95%\""
+],[
+	"任敏",
+	44,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"任泉",
+	265,
+	2,
+	"duplicated category",
+	"[[Category:黑龙江男演员]]"
+],[
+	"任迪簡",
+	30,
+	2,
+	"duplicated category",
+	"[[Category:唐朝太子賓客]]"
+],[
+	"伊万·佩德罗索",
+	33,
+	2,
+	"duplicated category",
+	"[[Category:1998年中美洲和加勒比运动会田径运动员]]"
+],[
+	"伊万·坎波",
+	100,
+	2,
+	"duplicated category",
+	"[[Category:巴斯克足球運動員]]"
+],[
+	"伊万·巴格拉米扬",
+	155,
+	2,
+	"duplicated category",
+	"[[Category:安葬於克里姆林宮紅場墓園者]]"
+],[
+	"伊万·秋列涅夫",
+	38,
+	2,
+	"duplicated category",
+	"[[Category:安葬於新聖女公墓者]]"
+],[
+	"伊万尼夫卡 (别列佐夫卡区)",
+	90,
+	24,
+	"duplicated style attribute",
+	"style=\"margin-left:auto;margin-right:auto\""
+],[
+	"伊丽莎白二世",
+	292,
+	47,
+	"duplicated image caption parameter",
+	"100px]]"
+],[
+	"伊予市",
+	28,
+	40,
+	"duplicated image caption parameter",
+	"Iyo_City_Hall_20240428_(1)"
+],[
+	"伊兹托克·乔普",
+	29,
+	2,
+	"duplicated category",
+	"[[Category:世界赛艇锦标赛奖牌得主]]"
+],[
+	"伊切尔格伦吉",
+	37,
+	2,
+	"duplicated category",
+	"[[Category:马哈拉施特拉邦城镇]]"
+],[
+	"伊利 (賓夕法尼亞州)",
+	104,
+	3,
+	"duplicated parameter",
+	" population_footnotes   = \n "
+],[
+	"伊利丹·怒風",
+	8,
+	5,
+	"duplicated class attribute",
+	"class=\"toccolours\""
+],[
+	"伊利亚·格拉祖诺夫",
+	70,
+	2,
+	"duplicated category",
+	"[[Category:列賓藝術學院校友]]"
+],[
+	"伊勢號護衛艦",
+	95,
+	2,
+	"duplicated category",
+	"[[Category:2009年下水]]"
+],[
+	"伊卜提哈杰·穆罕默德",
+	59,
+	686,
+	"duplicated parameter",
+	"title=Fencer With Headscarf Is a Cut Above the Rest"
+],[
+	"伊坎尼特·潘亞",
+	93,
+	2,
+	"duplicated category",
+	"[[Category:泰国足球运动员]]"
+],[
+	"伊夫琳·科利尔",
+	9,
+	2,
+	"duplicated category",
+	"[[Category:英國女子網球運動員]]"
+],[
+	"伊姆·烏度卡",
+	248,
+	2,
+	"duplicated category",
+	"[[Category:波士顿凯尔特人教练]]"
+],[
+	"伊戈尔·博基",
+	129,
+	51,
+	"duplicated image caption parameter",
+	"міні"
+],[
+	"伊戈尔·鲁坚斯基",
+	15,
+	3,
+	"duplicated parameter",
+	"constituency  = {{le|奔萨选区|Penza constituency}}\n "
+],[
+	"伊戈爾·沃利",
+	18,
+	2,
+	"duplicated category",
+	"[[Category:克羅埃西亞奧運手球運動員]]"
+],[
+	"伊拉克国籍法",
+	84,
+	2,
+	"duplicated category",
+	"[[Category:伊拉克法律]]"
+],[
+	"伊拉克里·巴格拉季昂-穆赫拉涅利",
+	67,
+	4,
+	"duplicated cory attribute",
+	"cory"
+],[
+	"伊斯哈克·马萨利耶夫",
+	80,
+	194,
+	"duplicated parameter",
+	"title=К.К. Тайсаев: «Избрание И.А. Масалиева Председателем ЦК Партии Коммунистов"
+],[
+	"伊斯梅爾·尤蘇波夫",
+	77,
+	2,
+	"duplicated category",
+	"[[Category:苏联共产党党员]]"
+],],"batches":43}

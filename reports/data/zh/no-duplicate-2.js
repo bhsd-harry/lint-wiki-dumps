@@ -1,1 +1,1201 @@
-window.data={"articles":[["AKB48第49張單曲選拔總選舉",713,5,"duplicated class attribute","class=\"wikitable\""],["AKB48第53張單曲世界選拔總選舉",1059,5,"duplicated class attribute","class=\"wikitable\""],["AKB48集團",161,53,"duplicated image caption parameter","230"],["Alive 2007",97,3,"duplicated parameter"," length12 = 5:41\n "],["ALL(H)OURS",135,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Ampere",71,2,"duplicated category","[[Category:2021年單曲]]"],["Android Froyo",58,2,"duplicated category","[[Category:Android]]"],["ANEX",81,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Apple Intelligence",82,2,"duplicated category","[[Category:2024年軟體]]"],["ARTBEAT",870,5,"duplicated style attribute","style=\"background:#FF79BC\""],["ARTMS",172,5,"duplicated style attribute","style=\"background:#FF79BC\""],["ASCII Media Works",270,2,"duplicated category","[[Category:日本電子遊戲公司]]"],["Asiaboy禁藥王 & Lizi栗子",67,24,"duplicated style attribute","style=\"background:Black; Color:white\""],["ASMR MAX世界巡迴演唱會",959,2,"duplicated category","[[Category:2024年巡迴演唱會]]"],["Astell",78,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Astemo Rivale茨城",106,5,"duplicated style attribute","style= \"center\""],["ASTRO媒體作品列表",1005,24,"duplicated style attribute","style=\"background:white;\""],["AtHeart",125,5,"duplicated style attribute","style=\"background:#FF79BC\""],["ATP奖项",1117,33,"duplicated style attribute","style=\"text-align:left;\""],["ATTI",107,5,"duplicated style attribute","style=\"background:#FF79BC\""],["AWK",243,2,"duplicated category","[[Category:模式匹配编程语言]]"],["A型灯泡",5,43,"duplicated image caption parameter","Right"],["B (BamBam迷你專輯)",115,23,"duplicated style attribute","style=\"font-size:small\""],["B-OURS",82,5,"duplicated style attribute","style=\"background:#FF79BC\""],["BABYS",67,5,"duplicated style attribute","style=\"background:#FF79BC\""],["BADVILLAIN",120,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Bandcamp",60,2,"duplicated category","[[Category:音乐流媒体服务]]"],["BB彈",37,35,"duplicated image caption parameter","6mm "],["BE THERE",7,3,"duplicated parameter"," format         = 8cm [[單曲|單曲CD]]<br/>[[單曲]] (再發售)\n "],["Beautiful Night (藝聲迷你專輯)",133,2,"duplicated category","[[Category:2021年迷你專輯]]"],["Beenox",33,2,"duplicated category","[[Category:2000年開業電子遊戲公司]]"],["BGM-71拖式飛彈",191,29,"duplicated image thumbnail parameter","thumb"],["Big O!cean",88,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Black Beat",42,24,"duplicated width attribute","width=\"98%\""],["Blacklist International",16,3,"duplicated parameter"," partners = \n "],["BLACKPINK",125,1860,"duplicated parameter","language=en-US"],["BLANK2Y",131,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Blastar",78,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Blind",317,2,"duplicated category","[[Category:2022年韓國電視劇集]]"],["BlingBling",106,5,"duplicated style attribute","style=\"background:#FF79BC\""],["BLINGONE",148,5,"duplicated style attribute","style=\"background:#FF79BC\""],["BLITZERS",126,5,"duplicated style attribute","style=\"background:#FF79BC\""],["BM“堡垒”主战坦克",349,4038,"duplicated parameter","publisher=IHS Jane's 360"],["BMW 801發動機",3,35,"duplicated image caption parameter","200ppx"],["BØJEONG",73,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Borsalino",49,2,"duplicated category","[[Category:奢侈品牌]]"],["BOTOPASS",97,5,"duplicated style attribute","style=\"background:#FF79BC\""],["BOXING樂團",46,24,"duplicated style attribute","style=\"background:white; text-align:center\""],["Breath of LOVE : Last Piece",126,23,"duplicated style attribute","style=\"font-size:small\""],["BSI集團",115,2,"duplicated category","[[Category:英國標準]]"],["Bunny.T",77,5,"duplicated style attribute","style=\"background:#FF79BC\""],["BURVEY",82,5,"duplicated style attribute","style=\"background:#FF79BC\""],["BVP M-80",74,70,"duplicated image caption parameter","{{tsl"],["BXB",101,5,"duplicated style attribute","style=\"background:#FF79BC\""],["C-5甾醇去饱和酶",1,27,"conflicting image frame parameter","thumb"],["C·J·克隆",70,2,"duplicated category","[[Category:洛杉磯天使球員]]"],["C/2024 G3",25,3,"duplicated parameter"," physical_ref    = \n "],["Call My Name",107,23,"duplicated style attribute","style=\"font-size:small\""],["Candy Shop",148,5,"duplicated style attribute","style=\"background:#FF79BC\""],["Category:1645年荷兰帝国",2,2,"duplicated category","[[Category:17世纪各年荷兰帝国]]"],["Category:1944年古巴",2,2,"duplicated category","[[Category:1944年北美洲]]"],["Category:1948年中華民國總統選舉",2,2,"duplicated category","[[Category:中华民国大陆时期选举]]"],["Category:1952年美国政治",3,2,"duplicated category","[[Category:1950年代美国政治]]"],["Category:1957年美国政治",3,2,"duplicated category","[[Category:1950年代美国政治]]"],["Category:1959年美国政治",3,2,"duplicated category","[[Category:1950年代美国政治]]"],["Category:1960年代台灣獎項",5,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["Category:1970年代台灣獎項",5,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["Category:1980年代台灣獎項",5,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["Category:1980年代首次亮相的漫画角色",1,1,"duplicated category","[[分类:1980年代漫画]]"],["Category:1990年代台灣獎項",5,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["Category:1993年英国体育",1,1,"duplicated category","[[Category:1993年欧洲体育]]"],["Category:1997年電視劇集",8,2,"duplicated category","[[Category:1997年作品]]"],["Category:2000年代台灣獎項",5,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["Category:2001年书籍",4,2,"duplicated category","[[Category:各年書籍]]"],["Category:2010年代台灣獎項",5,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["Category:2010年马来西亚",15,2,"duplicated category","[[Category:2010年代馬來西亞]]"],["Category:2011年馬來西亞",15,2,"duplicated category","[[Category:2010年代馬來西亞]]"],["Category:2012年馬來西亞",15,2,"duplicated category","[[Category:2010年代馬來西亞]]"],["Category:2020年代台灣獎項",5,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["Category:20世纪各年中国政治事件",1,1,"duplicated category","[[Category:20世纪各年政治事件]]"],["Category:21世紀英格蘭",7,2,"duplicated category","[[Category:21世紀各國| England]]"],["Category:21世纪尼加拉瓜女性人物",1,1,"duplicated category","[[Category:21世纪尼加拉瓜人|+]]"],["Category:FORTRAN-1 使用者",2,2,"duplicated category","[[Category:FORTRAN 使用者|1]]"],["Category:Keroro軍曹",11,2,"duplicated category","[[Category:外星生命入侵地球題材漫畫]]"],["Category:Super Junior",3,2,"duplicated category","[[Category:韓國男子演唱團體]]"],["Category:Z-GIRLS成員",1,1,"duplicated category","[[Category:Z-GIRLS|Z]]"],["Category:上海医院",2,2,"duplicated category","[[Category:中国各省医院]]"],["Category:世田谷區背景作品",1,1,"duplicated category","[[Category:東京都各區背景作品|Setagaya]]"],["Category:东川节度使",2,2,"duplicated category","[[Category:五代十國藩鎮節度使|D]]"],["Category:东方大区",3,2,"duplicated category","[[Category:罗马帝国大区]]"],["Category:中國史學家",5,2,"duplicated category","[[Category:中国历史学]]"],["Category:中土大陸電影",2,2,"duplicated category","[[Category:彼得·杰克逊电影]]"],["Category:中央區背景作品 (東京都)",3,2,"duplicated category","[[Category:東京都各區背景作品|Chūō]]"],["Category:中山文藝獎",1,1,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["Category:中秋節",2,2,"duplicated category","[[Category:秋季節日]]"],["Category:中美洲原住民語言",2,2,"duplicated category","[[Category:中美洲語言]]"],["Category:中非共和国文化组织",4,2,"duplicated category","[[Category:中非共和國文化]]"],["Category:丹麦都会区",3,2,"duplicated category","[[Category:歐盟城市群|Denmark]]"],["Category:五代十國行政區劃導航模板",2,2,"duplicated category","[[Category:五代十國行政區劃|*]]"],["Category:五家渠市",1,1,"duplicated category","[[Category:新疆生产建设兵团城市]]"],["Category:亚拉巴马州基督徒",1,1,"duplicated category","[[Category:美国各州基督徒]]"],["Category:伊斯蘭主義",6,2,"duplicated category","[[Category:伊斯蘭政治及伊斯蘭世界研究]]"],["Category:伊朗各鄉",1,1,"duplicated category","[[Category:伊朗行政區劃]]"],["Category:俄罗斯行政区划史",1,1,"duplicated category","[[Category:各国行政区划史]]"],["Category:保加利亞地理小作品",7,2,"duplicated category","[[Category:保加利亞小作品|地]]"],["Category:保宁军节度使",1,1,"duplicated category","[[Category:五代十國藩鎮節度使]]"],["Category:假面騎士",15,2,"duplicated category","[[Category:变身英雄题材电视剧]]"],["Category:光州民主化运动",1,1,"duplicated category","[[Category:1980年衝突]]"],["Category:克羅埃西亞籃球場館",3,2,"duplicated category","[[Category:克羅埃西亞室內體育館|Basketball]]"],["Category:克赖斯特彻奇人 (多塞特郡)",2,2,"duplicated category","[[Category:依英格蘭轄區劃分的人物|Christchurch]]"],["Category:公主",7,2,"duplicated category","[[Category:女性王族]]"],["Category:共價鍵",3,2,"duplicated category","[[Category:化学键]]"],["Category:分类学模板",6,2,"duplicated category","[[Category:生物学分类信息框模板]]"],["Category:刘易斯与克拉克远征",8,2,"duplicated category","[[Category:密苏里河]]"],["Category:剧院",5,2,"duplicated category","[[Category:表演藝術場地]]"],["Category:加夫列尔·加西亚·马尔克斯",4,2,"duplicated category","[[Category:以作家命名的分类]]"],["Category:动画电影节",2,2,"duplicated category","[[Category:各类电影节]]"],["Category:動畫節目系列",1,1,"duplicated category","[[Category:系列動畫作品]]"],["Category:北京市医院",1,1,"duplicated category","[[Category:中国各省医院|B]]"],["Category:北區背景作品 (東京都)",3,2,"duplicated category","[[Category:東京都各區背景作品]]"],["Category:北安普敦郡軍事人物",1,1,"duplicated category","[[Category:英格兰军事人物|Northamptonshire]]"],["Category:十字花科",3,2,"duplicated category","[[Category:十字花目]]"],["Category:千代田區背景作品",3,2,"duplicated category","[[Category:東京都各區背景作品]]"],["Category:半澤直樹",6,2,"duplicated category","[[Category:職場題材電視劇]]"],["Category:南州鄉人",1,1,"duplicated category","[[Category:屏東縣人]]"],["Category:印度尼西亚背景电子游戏",2,2,"duplicated category","[[Category:印度尼西亚背景作品|Video games]]"],["Category:台東區背景作品",3,2,"duplicated category","[[Category:東京都各區背景作品|Taitō-ku]]"],["Category:台澎黨",1,1,"duplicated category","[[Category:獨立主義政黨|S]]"],["Category:台灣國家文藝獎",3,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["Category:各世纪各国男性",5,2,"duplicated category","[[Category:各世纪男性| ]]"],["Category:各國女子運動員",3,2,"duplicated category","[[Category:各国运动员|+]]"],["Category:各地人物小作品模板",1,1,"duplicated category","[[Category:各地人物小作品]]"],["Category:各大洲背景电视剧分集",2,1,"duplicated category","[[Category:各大洲背景作品]]"],["Category:各年巴西建立",3,2,"duplicated category","[[Category:各年南美洲建立|Brazil]]"],["Category:各职业瓦隆人",3,2,"duplicated category","[[Category:各职业比利时人| Walloon]]"],["Category:各職業加泰羅尼亞女性",2,2,"duplicated category","[[Category:各職業西班牙女性]]"],["Category:含有未校對CAS號的條目",7,2,"duplicated category","[[Category:CAS號重定向]]"],["Category:品川區背景作品",3,2,"duplicated category","[[Category:東京都各區背景作品|Shinagawa-ku]]"],["Category:响应式网页设计",4,2,"duplicated category","[[Category:网页设计]]"],["Category:唐獎",2,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["Category:喜欢收看香港凤凰卫视资讯台节目的维基人",1,1,"duplicated category","[[Category:喜欢收看香港凤凰卫视节目的维基人|香]]"],["Category:喜歡閱讀商業周刊的維基人",6,2,"duplicated category","[[Category:依阅读的报刊区分的维基人|商]]"],["Category:图木舒克市",3,2,"duplicated category","[[Category:新疆生产建设兵团城市]]"],["Category:國家磐石獎",2,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["Category:國立高雄科技大學",3,2,"duplicated category","[[Category:以台灣大專院校命名的分類]]"],["Category:土耳其行政区划史",1,1,"duplicated category","[[Category:各国行政区划史]]"],["Category:土耳其题材图书",2,2,"duplicated category","[[Category:欧洲题材图书]]"],["Category:在台灣的荷蘭人",4,2,"duplicated category","[[Category:在外國的荷蘭人]]"],["Category:在澳大利亚意外身亡者",2,2,"duplicated category","[[Category:在澳洲身亡者]]"],["Category:基督教无政府主义",5,2,"duplicated category","[[Category:基督教與政治意識形態]]"],["Category:外星生命",11,2,"duplicated category","[[Category:科學猜測]]"],["Category:多米尼克运动员",3,2,"duplicated category","[[Category:多米尼克体育|Y]]"],["Category:天津医院",2,2,"duplicated category","[[Category:中国各省医院]]"],["Category:奇奇怪界系列",4,2,"duplicated category","[[Category:1986年面世的电子游戏系列]]"],["Category:宁江军节度使",1,1,"duplicated category","[[Category:五代十國藩鎮節度使]]"],["Category:宗教信仰用戶框模板",1,1,"duplicated category","[[Category:信仰用戶框模板]]"],["Category:射水市交通",4,2,"duplicated category","[[Category:富山縣交通]]"],["Category:小巨人獎",2,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["Category:尼加拉瓜世界遺產",1,1,"duplicated category","[[Category:拉丁美洲和加勒比地区世界遗产|Nicaragua]]"],["Category:山东省非物质文化遗产",1,1,"duplicated category","[[Category:中国省级非物质文化遗产]]"],["Category:山南西道節度使",3,2,"duplicated category","[[Category:五代十國藩鎮節度使|Shannan Xidao]]"],["Category:崇禎十二年己卯科貴州鄉試舉人",1,1,"duplicated category","[[Category:崇禎十二年己卯科舉人]]"],["Category:巨濟市出身人物",1,1,"duplicated category","[[Category:慶尚南道出身人物|人]]"],["Category:巴斯克衝突",1,1,"duplicated category","[[Category:西班牙战争]]"],["Category:广东企业家",2,2,"duplicated category","[[Category:中国各省企业家]]"],["Category:廣西漢族傳統文化",2,2,"duplicated category","[[Category:漢地傳統文化]]"],["Category:德国政治丑闻",2,2,"duplicated category","[[Category:歐洲政治醜聞|Germany]]"],["Category:德里取景電影",5,2,"duplicated category","[[Category:德里文化]]"],["Category:恐龍小作品",8,2,"duplicated category","[[Category:古生物小作品|D]]"],["Category:悠遊卡",5,2,"duplicated category","[[Category:新北市交通|卡]]"],["Category:意大利政治丑闻",2,2,"duplicated category","[[Category:歐洲政治醜聞|Italy]]"],["Category:慕尼黑鐵路車站",3,2,"duplicated category","[[Category:慕尼黑建築物]]"],["Category:拜登家族",4,2,"duplicated category","[[Category:美国政治家族]]"],["Category:拳皇系列",5,2,"duplicated category","[[Category:電子遊戲系列]]"],["Category:按功能分类的模板",2,31,"duplicated category","[[Category:維基百科模板]]"],["Category:挪威各足球賽事球員",1,1,"duplicated category","[[Category:挪威足球賽事|Competition]]"],["Category:改编自玩具的电影",4,2,"duplicated category","[[Category:改编自其他作品的电影|Toys]]"],["Category:文京區背景作品",3,2,"duplicated category","[[Category:東京都各區背景作品|Bunkyō]]"],["Category:新加坡華語歌手",3,2,"duplicated category","[[Category:新加坡華語流行音樂歌手]]"],["Category:新宿區背景作品",2,2,"duplicated category","[[Category:東京都各區背景作品]]"],["Category:新視野號",5,2,"duplicated category","[[Category:新疆界計畫]]"],["Category:日俄战争",7,2,"duplicated category","[[Category:明治時代戰爭]]"],["Category:日本僧人",4,2,"duplicated category","[[Category:日本思想家]]"],["Category:日本漫畫改編真人電影",1,1,"duplicated category","[[分類:日本漫畫改編電影]]"],["Category:旭日集團",2,2,"duplicated category","[[分類:蔡志明家族]]"],["Category:明朝厂卫",4,2,"duplicated category","[[Category:中国情报机构]]"],["Category:木樨草科",1,1,"duplicated category","[[Category:十字花目]]"],["Category:未解譯的代碼及密碼",4,2,"duplicated category","[[Category:未解決的問題|代碼及密碼]]"],["Category:杉並區背景作品",5,2,"duplicated category","[[Category:東京都各區背景作品]]"],["Category:查特胡奇河",6,2,"duplicated category","[[Category:阿拉巴馬州河流]]"],["Category:欧洲联盟扩大",5,2,"duplicated category","[[Category:歐盟地理|Enlargement]]"],["Category:武定軍節度使",3,2,"duplicated category","[[Category:五代十國藩鎮節度使|Wuding]]"],["Category:武昌军节度使",2,2,"duplicated category","[[Category:五代十國藩鎮節度使|W]]"],["Category:歧視語",6,2,"duplicated category","[[Category:歧視]]"],["Category:歸正宗",6,2,"duplicated category","[[Category:基督教各家族教派]]"],["Category:江戶川區背景作品",3,2,"duplicated category","[[Category:東京都各區背景作品|Edogawa-ku]]"],["Category:江東區背景作品 (日本)",3,2,"duplicated category","[[Category:東京都各區背景作品|Kōtō-ku]]"],["Category:沿海水道",16,2,"duplicated category","[[Category:德克萨斯州运河]]"],["Category:法国监狱",6,2,"duplicated category","[[Category:法國政府建築物]]"],["Category:法国背景小说",1,1,"duplicated category","[[Category:各国背景小说|France ]]"]],"batches":43}
+window.data={"articles":[[
+	"AKB48第49張單曲選拔總選舉",
+	713,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"AKB48第53張單曲世界選拔總選舉",
+	1059,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"AKB48集團",
+	161,
+	53,
+	"duplicated image caption parameter",
+	"230"
+],[
+	"Alive 2007",
+	97,
+	3,
+	"duplicated parameter",
+	" length12 = 5:41\n "
+],[
+	"ALL(H)OURS",
+	135,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Ampere",
+	71,
+	2,
+	"duplicated category",
+	"[[Category:2021年單曲]]"
+],[
+	"Android Froyo",
+	58,
+	2,
+	"duplicated category",
+	"[[Category:Android]]"
+],[
+	"ANEX",
+	81,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Apple Intelligence",
+	82,
+	2,
+	"duplicated category",
+	"[[Category:2024年軟體]]"
+],[
+	"ARTBEAT",
+	870,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"ARTMS",
+	172,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"ASCII Media Works",
+	270,
+	2,
+	"duplicated category",
+	"[[Category:日本電子遊戲公司]]"
+],[
+	"Asiaboy禁藥王 & Lizi栗子",
+	67,
+	24,
+	"duplicated style attribute",
+	"style=\"background:Black; Color:white\""
+],[
+	"ASMR MAX世界巡迴演唱會",
+	959,
+	2,
+	"duplicated category",
+	"[[Category:2024年巡迴演唱會]]"
+],[
+	"Astell",
+	78,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Astemo Rivale茨城",
+	106,
+	5,
+	"duplicated style attribute",
+	"style= \"center\""
+],[
+	"ASTRO媒體作品列表",
+	1005,
+	24,
+	"duplicated style attribute",
+	"style=\"background:white;\""
+],[
+	"AtHeart",
+	125,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"ATP奖项",
+	1117,
+	33,
+	"duplicated style attribute",
+	"style=\"text-align:left;\""
+],[
+	"ATTI",
+	107,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"AWK",
+	243,
+	2,
+	"duplicated category",
+	"[[Category:模式匹配编程语言]]"
+],[
+	"A型灯泡",
+	5,
+	43,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"B (BamBam迷你專輯)",
+	115,
+	23,
+	"duplicated style attribute",
+	"style=\"font-size:small\""
+],[
+	"B-OURS",
+	82,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"BABYS",
+	67,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"BADVILLAIN",
+	120,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Bandcamp",
+	60,
+	2,
+	"duplicated category",
+	"[[Category:音乐流媒体服务]]"
+],[
+	"BB彈",
+	37,
+	35,
+	"duplicated image caption parameter",
+	"6mm "
+],[
+	"BE THERE",
+	7,
+	3,
+	"duplicated parameter",
+	" format         = 8cm [[單曲|單曲CD]]<br/>[[單曲]] (再發售)\n "
+],[
+	"Beautiful Night (藝聲迷你專輯)",
+	133,
+	2,
+	"duplicated category",
+	"[[Category:2021年迷你專輯]]"
+],[
+	"Beenox",
+	33,
+	2,
+	"duplicated category",
+	"[[Category:2000年開業電子遊戲公司]]"
+],[
+	"BGM-71拖式飛彈",
+	191,
+	29,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"Big O!cean",
+	88,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Black Beat",
+	42,
+	24,
+	"duplicated width attribute",
+	"width=\"98%\""
+],[
+	"Blacklist International",
+	16,
+	3,
+	"duplicated parameter",
+	" partners = \n "
+],[
+	"BLACKPINK",
+	125,
+	1860,
+	"duplicated parameter",
+	"language=en-US"
+],[
+	"BLANK2Y",
+	131,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Blastar",
+	78,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Blind",
+	317,
+	2,
+	"duplicated category",
+	"[[Category:2022年韓國電視劇集]]"
+],[
+	"BlingBling",
+	106,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"BLINGONE",
+	148,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"BLITZERS",
+	126,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"BM“堡垒”主战坦克",
+	349,
+	4038,
+	"duplicated parameter",
+	"publisher=IHS Jane's 360"
+],[
+	"BMW 801發動機",
+	3,
+	35,
+	"duplicated image caption parameter",
+	"200ppx"
+],[
+	"BØJEONG",
+	73,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Borsalino",
+	49,
+	2,
+	"duplicated category",
+	"[[Category:奢侈品牌]]"
+],[
+	"BOTOPASS",
+	97,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"BOXING樂團",
+	46,
+	24,
+	"duplicated style attribute",
+	"style=\"background:white; text-align:center\""
+],[
+	"Breath of LOVE : Last Piece",
+	126,
+	23,
+	"duplicated style attribute",
+	"style=\"font-size:small\""
+],[
+	"BSI集團",
+	115,
+	2,
+	"duplicated category",
+	"[[Category:英國標準]]"
+],[
+	"Bunny.T",
+	77,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"BURVEY",
+	82,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"BVP M-80",
+	74,
+	70,
+	"duplicated image caption parameter",
+	"{{tsl"
+],[
+	"BXB",
+	101,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"C-5甾醇去饱和酶",
+	1,
+	27,
+	"conflicting image frame parameter",
+	"thumb"
+],[
+	"C·J·克隆",
+	70,
+	2,
+	"duplicated category",
+	"[[Category:洛杉磯天使球員]]"
+],[
+	"C/2024 G3",
+	25,
+	3,
+	"duplicated parameter",
+	" physical_ref    = \n "
+],[
+	"Call My Name",
+	107,
+	23,
+	"duplicated style attribute",
+	"style=\"font-size:small\""
+],[
+	"Candy Shop",
+	148,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"Category:1645年荷兰帝国",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:17世纪各年荷兰帝国]]"
+],[
+	"Category:1944年古巴",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:1944年北美洲]]"
+],[
+	"Category:1948年中華民國總統選舉",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:中华民国大陆时期选举]]"
+],[
+	"Category:1952年美国政治",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:1950年代美国政治]]"
+],[
+	"Category:1957年美国政治",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:1950年代美国政治]]"
+],[
+	"Category:1959年美国政治",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:1950年代美国政治]]"
+],[
+	"Category:1960年代台灣獎項",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:臺灣戰後時期獎項]]"
+],[
+	"Category:1970年代台灣獎項",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:臺灣戰後時期獎項]]"
+],[
+	"Category:1980年代台灣獎項",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:臺灣戰後時期獎項]]"
+],[
+	"Category:1980年代首次亮相的漫画角色",
+	1,
+	1,
+	"duplicated category",
+	"[[分类:1980年代漫画]]"
+],[
+	"Category:1990年代台灣獎項",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:臺灣戰後時期獎項]]"
+],[
+	"Category:1993年英国体育",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:1993年欧洲体育]]"
+],[
+	"Category:1997年電視劇集",
+	8,
+	2,
+	"duplicated category",
+	"[[Category:1997年作品]]"
+],[
+	"Category:2000年代台灣獎項",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:臺灣戰後時期獎項]]"
+],[
+	"Category:2001年书籍",
+	4,
+	2,
+	"duplicated category",
+	"[[Category:各年書籍]]"
+],[
+	"Category:2010年代台灣獎項",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:臺灣戰後時期獎項]]"
+],[
+	"Category:2010年马来西亚",
+	15,
+	2,
+	"duplicated category",
+	"[[Category:2010年代馬來西亞]]"
+],[
+	"Category:2011年馬來西亞",
+	15,
+	2,
+	"duplicated category",
+	"[[Category:2010年代馬來西亞]]"
+],[
+	"Category:2012年馬來西亞",
+	15,
+	2,
+	"duplicated category",
+	"[[Category:2010年代馬來西亞]]"
+],[
+	"Category:2020年代台灣獎項",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:臺灣戰後時期獎項]]"
+],[
+	"Category:20世纪各年中国政治事件",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:20世纪各年政治事件]]"
+],[
+	"Category:21世紀英格蘭",
+	7,
+	2,
+	"duplicated category",
+	"[[Category:21世紀各國| England]]"
+],[
+	"Category:21世纪尼加拉瓜女性人物",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:21世纪尼加拉瓜人|+]]"
+],[
+	"Category:FORTRAN-1 使用者",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:FORTRAN 使用者|1]]"
+],[
+	"Category:Keroro軍曹",
+	11,
+	2,
+	"duplicated category",
+	"[[Category:外星生命入侵地球題材漫畫]]"
+],[
+	"Category:Super Junior",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:韓國男子演唱團體]]"
+],[
+	"Category:Z-GIRLS成員",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:Z-GIRLS|Z]]"
+],[
+	"Category:上海医院",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:中国各省医院]]"
+],[
+	"Category:世田谷區背景作品",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:東京都各區背景作品|Setagaya]]"
+],[
+	"Category:东川节度使",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:五代十國藩鎮節度使|D]]"
+],[
+	"Category:东方大区",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:罗马帝国大区]]"
+],[
+	"Category:中國史學家",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:中国历史学]]"
+],[
+	"Category:中土大陸電影",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:彼得·杰克逊电影]]"
+],[
+	"Category:中央區背景作品 (東京都)",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:東京都各區背景作品|Chūō]]"
+],[
+	"Category:中山文藝獎",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:臺灣戰後時期獎項]]"
+],[
+	"Category:中秋節",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:秋季節日]]"
+],[
+	"Category:中美洲原住民語言",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:中美洲語言]]"
+],[
+	"Category:中非共和国文化组织",
+	4,
+	2,
+	"duplicated category",
+	"[[Category:中非共和國文化]]"
+],[
+	"Category:丹麦都会区",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:歐盟城市群|Denmark]]"
+],[
+	"Category:五代十國行政區劃導航模板",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:五代十國行政區劃|*]]"
+],[
+	"Category:五家渠市",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:新疆生产建设兵团城市]]"
+],[
+	"Category:亚拉巴马州基督徒",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:美国各州基督徒]]"
+],[
+	"Category:伊斯蘭主義",
+	6,
+	2,
+	"duplicated category",
+	"[[Category:伊斯蘭政治及伊斯蘭世界研究]]"
+],[
+	"Category:伊朗各鄉",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:伊朗行政區劃]]"
+],[
+	"Category:俄罗斯行政区划史",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:各国行政区划史]]"
+],[
+	"Category:保加利亞地理小作品",
+	7,
+	2,
+	"duplicated category",
+	"[[Category:保加利亞小作品|地]]"
+],[
+	"Category:保宁军节度使",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:五代十國藩鎮節度使]]"
+],[
+	"Category:假面騎士",
+	15,
+	2,
+	"duplicated category",
+	"[[Category:变身英雄题材电视剧]]"
+],[
+	"Category:光州民主化运动",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:1980年衝突]]"
+],[
+	"Category:克羅埃西亞籃球場館",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:克羅埃西亞室內體育館|Basketball]]"
+],[
+	"Category:克赖斯特彻奇人 (多塞特郡)",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:依英格蘭轄區劃分的人物|Christchurch]]"
+],[
+	"Category:公主",
+	7,
+	2,
+	"duplicated category",
+	"[[Category:女性王族]]"
+],[
+	"Category:共價鍵",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:化学键]]"
+],[
+	"Category:分类学模板",
+	6,
+	2,
+	"duplicated category",
+	"[[Category:生物学分类信息框模板]]"
+],[
+	"Category:刘易斯与克拉克远征",
+	8,
+	2,
+	"duplicated category",
+	"[[Category:密苏里河]]"
+],[
+	"Category:剧院",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:表演藝術場地]]"
+],[
+	"Category:加夫列尔·加西亚·马尔克斯",
+	4,
+	2,
+	"duplicated category",
+	"[[Category:以作家命名的分类]]"
+],[
+	"Category:动画电影节",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:各类电影节]]"
+],[
+	"Category:動畫節目系列",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:系列動畫作品]]"
+],[
+	"Category:北京市医院",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:中国各省医院|B]]"
+],[
+	"Category:北區背景作品 (東京都)",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:東京都各區背景作品]]"
+],[
+	"Category:北安普敦郡軍事人物",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:英格兰军事人物|Northamptonshire]]"
+],[
+	"Category:十字花科",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:十字花目]]"
+],[
+	"Category:千代田區背景作品",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:東京都各區背景作品]]"
+],[
+	"Category:半澤直樹",
+	6,
+	2,
+	"duplicated category",
+	"[[Category:職場題材電視劇]]"
+],[
+	"Category:南州鄉人",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:屏東縣人]]"
+],[
+	"Category:印度尼西亚背景电子游戏",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:印度尼西亚背景作品|Video games]]"
+],[
+	"Category:台東區背景作品",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:東京都各區背景作品|Taitō-ku]]"
+],[
+	"Category:台澎黨",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:獨立主義政黨|S]]"
+],[
+	"Category:台灣國家文藝獎",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:臺灣戰後時期獎項]]"
+],[
+	"Category:各世纪各国男性",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:各世纪男性| ]]"
+],[
+	"Category:各國女子運動員",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:各国运动员|+]]"
+],[
+	"Category:各地人物小作品模板",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:各地人物小作品]]"
+],[
+	"Category:各大洲背景电视剧分集",
+	2,
+	1,
+	"duplicated category",
+	"[[Category:各大洲背景作品]]"
+],[
+	"Category:各年巴西建立",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:各年南美洲建立|Brazil]]"
+],[
+	"Category:各职业瓦隆人",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:各职业比利时人| Walloon]]"
+],[
+	"Category:各職業加泰羅尼亞女性",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:各職業西班牙女性]]"
+],[
+	"Category:含有未校對CAS號的條目",
+	7,
+	2,
+	"duplicated category",
+	"[[Category:CAS號重定向]]"
+],[
+	"Category:品川區背景作品",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:東京都各區背景作品|Shinagawa-ku]]"
+],[
+	"Category:响应式网页设计",
+	4,
+	2,
+	"duplicated category",
+	"[[Category:网页设计]]"
+],[
+	"Category:唐獎",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:臺灣戰後時期獎項]]"
+],[
+	"Category:喜欢收看香港凤凰卫视资讯台节目的维基人",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:喜欢收看香港凤凰卫视节目的维基人|香]]"
+],[
+	"Category:喜歡閱讀商業周刊的維基人",
+	6,
+	2,
+	"duplicated category",
+	"[[Category:依阅读的报刊区分的维基人|商]]"
+],[
+	"Category:图木舒克市",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:新疆生产建设兵团城市]]"
+],[
+	"Category:國家磐石獎",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:臺灣戰後時期獎項]]"
+],[
+	"Category:國立高雄科技大學",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:以台灣大專院校命名的分類]]"
+],[
+	"Category:土耳其行政区划史",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:各国行政区划史]]"
+],[
+	"Category:土耳其题材图书",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:欧洲题材图书]]"
+],[
+	"Category:在台灣的荷蘭人",
+	4,
+	2,
+	"duplicated category",
+	"[[Category:在外國的荷蘭人]]"
+],[
+	"Category:在澳大利亚意外身亡者",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:在澳洲身亡者]]"
+],[
+	"Category:基督教无政府主义",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:基督教與政治意識形態]]"
+],[
+	"Category:外星生命",
+	11,
+	2,
+	"duplicated category",
+	"[[Category:科學猜測]]"
+],[
+	"Category:多米尼克运动员",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:多米尼克体育|Y]]"
+],[
+	"Category:天津医院",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:中国各省医院]]"
+],[
+	"Category:奇奇怪界系列",
+	4,
+	2,
+	"duplicated category",
+	"[[Category:1986年面世的电子游戏系列]]"
+],[
+	"Category:宁江军节度使",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:五代十國藩鎮節度使]]"
+],[
+	"Category:宗教信仰用戶框模板",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:信仰用戶框模板]]"
+],[
+	"Category:射水市交通",
+	4,
+	2,
+	"duplicated category",
+	"[[Category:富山縣交通]]"
+],[
+	"Category:小巨人獎",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:臺灣戰後時期獎項]]"
+],[
+	"Category:尼加拉瓜世界遺產",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:拉丁美洲和加勒比地区世界遗产|Nicaragua]]"
+],[
+	"Category:山东省非物质文化遗产",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:中国省级非物质文化遗产]]"
+],[
+	"Category:山南西道節度使",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:五代十國藩鎮節度使|Shannan Xidao]]"
+],[
+	"Category:崇禎十二年己卯科貴州鄉試舉人",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:崇禎十二年己卯科舉人]]"
+],[
+	"Category:巨濟市出身人物",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:慶尚南道出身人物|人]]"
+],[
+	"Category:巴斯克衝突",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:西班牙战争]]"
+],[
+	"Category:广东企业家",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:中国各省企业家]]"
+],[
+	"Category:廣西漢族傳統文化",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:漢地傳統文化]]"
+],[
+	"Category:德国政治丑闻",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:歐洲政治醜聞|Germany]]"
+],[
+	"Category:德里取景電影",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:德里文化]]"
+],[
+	"Category:恐龍小作品",
+	8,
+	2,
+	"duplicated category",
+	"[[Category:古生物小作品|D]]"
+],[
+	"Category:悠遊卡",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:新北市交通|卡]]"
+],[
+	"Category:意大利政治丑闻",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:歐洲政治醜聞|Italy]]"
+],[
+	"Category:慕尼黑鐵路車站",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:慕尼黑建築物]]"
+],[
+	"Category:拜登家族",
+	4,
+	2,
+	"duplicated category",
+	"[[Category:美国政治家族]]"
+],[
+	"Category:拳皇系列",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:電子遊戲系列]]"
+],[
+	"Category:按功能分类的模板",
+	2,
+	31,
+	"duplicated category",
+	"[[Category:維基百科模板]]"
+],[
+	"Category:挪威各足球賽事球員",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:挪威足球賽事|Competition]]"
+],[
+	"Category:改编自玩具的电影",
+	4,
+	2,
+	"duplicated category",
+	"[[Category:改编自其他作品的电影|Toys]]"
+],[
+	"Category:文京區背景作品",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:東京都各區背景作品|Bunkyō]]"
+],[
+	"Category:新加坡華語歌手",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:新加坡華語流行音樂歌手]]"
+],[
+	"Category:新宿區背景作品",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:東京都各區背景作品]]"
+],[
+	"Category:新視野號",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:新疆界計畫]]"
+],[
+	"Category:日俄战争",
+	7,
+	2,
+	"duplicated category",
+	"[[Category:明治時代戰爭]]"
+],[
+	"Category:日本僧人",
+	4,
+	2,
+	"duplicated category",
+	"[[Category:日本思想家]]"
+],[
+	"Category:日本漫畫改編真人電影",
+	1,
+	1,
+	"duplicated category",
+	"[[分類:日本漫畫改編電影]]"
+],[
+	"Category:旭日集團",
+	2,
+	2,
+	"duplicated category",
+	"[[分類:蔡志明家族]]"
+],[
+	"Category:明朝厂卫",
+	4,
+	2,
+	"duplicated category",
+	"[[Category:中国情报机构]]"
+],[
+	"Category:木樨草科",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:十字花目]]"
+],[
+	"Category:未解譯的代碼及密碼",
+	4,
+	2,
+	"duplicated category",
+	"[[Category:未解決的問題|代碼及密碼]]"
+],[
+	"Category:杉並區背景作品",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:東京都各區背景作品]]"
+],[
+	"Category:查特胡奇河",
+	6,
+	2,
+	"duplicated category",
+	"[[Category:阿拉巴馬州河流]]"
+],[
+	"Category:欧洲联盟扩大",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:歐盟地理|Enlargement]]"
+],[
+	"Category:武定軍節度使",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:五代十國藩鎮節度使|Wuding]]"
+],[
+	"Category:武昌军节度使",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:五代十國藩鎮節度使|W]]"
+],[
+	"Category:歧視語",
+	6,
+	2,
+	"duplicated category",
+	"[[Category:歧視]]"
+],[
+	"Category:歸正宗",
+	6,
+	2,
+	"duplicated category",
+	"[[Category:基督教各家族教派]]"
+],[
+	"Category:江戶川區背景作品",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:東京都各區背景作品|Edogawa-ku]]"
+],[
+	"Category:江東區背景作品 (日本)",
+	3,
+	2,
+	"duplicated category",
+	"[[Category:東京都各區背景作品|Kōtō-ku]]"
+],[
+	"Category:沿海水道",
+	16,
+	2,
+	"duplicated category",
+	"[[Category:德克萨斯州运河]]"
+],[
+	"Category:法国监狱",
+	6,
+	2,
+	"duplicated category",
+	"[[Category:法國政府建築物]]"
+],[
+	"Category:法国背景小说",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:各国背景小说|France ]]"
+],],"batches":43}

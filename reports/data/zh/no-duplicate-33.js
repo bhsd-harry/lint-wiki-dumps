@@ -1,1 +1,1201 @@
-window.data={"articles":[["聯合國安全理事會第53號決議",29,2,"duplicated category","[[Category:聯合國安全理事會巴勒斯坦相關決議]]"],["聯合國安全理事會第54號決議",29,2,"duplicated category","[[Category:聯合國安全理事會巴勒斯坦相關決議]]"],["聯合國安全理事會第89號決議",36,2,"duplicated category","[[Category:聯合國安全理事會巴勒斯坦相關決議]]"],["聯合航空",91,66,"duplicated image caption parameter","United Airlines aircraft at DIA in the morning"],["肇和級防護巡洋艦",127,2,"duplicated category","[[Category:防護巡洋艦]]"],["肋骨唱片",11,31,"duplicated image caption parameter","代替文=<nowiki>秘密出版所使用的唱片制作机</nowiki>"],["肌肽",69,304,"duplicated parameter","last8=Gualano"],["肖奈德·麦金托什",57,2,"duplicated category","[[Category:2019年欧洲运动会射击运动员]]"],["肖戰",69,5,"duplicated class attribute","class=\"wikitable\""],["肝 (臟腑)",1,39,"duplicated image caption parameter","Right"],["肝醣儲積病",31,5,"duplicated class attribute","class=\"wikitable\""],["肥东站",77,127,"duplicated colspan attribute","colspan=2"],["肥城市",1347,58,"duplicated image width parameter","360px"],["肥媽",174,39,"duplicated style attribute","style=\"width:90%\""],["肯亞國家元首列表",57,3,"duplicated width attribute","width=\"200\""],["肯尼·雷伯恩",87,5,"duplicated align attribute","align=center"],["肼基",6,49,"duplicated image caption parameter","Right"],["胃促生长素",23,38,"duplicated image caption parameter","Preproghrelin 1P7X"],["胆红素",45,5,"duplicated class attribute","class=\"toccolours\""],["背包踐客",65,36,"duplicated style attribute","style=\"font-size:95%;\""],["胎生蟾屬",4,2,"duplicated category","[[Category:1875年描述的分类群|T]]"],["胜光法师",20,312,"duplicated parameter","issue=278 "],["胜利佳丽",48,2,"duplicated category","[[Category:2023年电子游戏]]"],["胡世和",280,2,"duplicated category","[[Category:亞東科技大學校友]]"],["胡亚东 (赛艇运动员)",22,2,"duplicated category","[[Category:1988年夏季奧林匹克運動會獎牌得主]]"],["胡仁偉",43,5,"duplicated align attribute","align=center"],["胡仙",24,2,"duplicated category","[[Category:香港商人]]"],["胡價 (進士)",63,2,"duplicated category","[[Category:明朝大理寺少卿]]"],["胡凱兒",38,24,"duplicated style attribute","style=\"background:white; text-align:center\""],["胡利奥·塞萨尔·拉克鲁斯",33,2,"duplicated category","[[Category:2014年中美洲和加勒比运动会运动员]]"],["胡利奥·阿亨蒂诺·罗加总统大道",2,3,"duplicated parameter","1=zh-hans:罗加; zh-cn:罗卡; zh-hant:羅卡;\n "],["胡劲军",13,3,"duplicated parameter"," 职务2    = [[上海市人民政府新闻办公室]]主任\n "],["胡卢西·阿卡尔",2,3,"duplicated parameter"," name = 胡盧西·阿卡爾\n "],["胡安·弗朗西斯科·托雷斯",90,4,"duplicated style attribute","style=\"text-align: center;\""],["胡安·曼努埃尔·德罗萨斯",176,438,"duplicated parameter","work=Historia para Todos"],["胡安·索托",52,117,"duplicated parameter","author-last=Chávez"],["胡安·裴隆",36,3,"duplicated parameter"," nationality     = {{ARG}}\n "],["胡安娜 (卡斯蒂利亚)",28,3,"duplicated parameter"," regent2 = [[查理五世 (神圣罗马帝国)|卡洛斯一世]]（1516年—1556年在位）\n "],["胡延年",14,3,"duplicated parameter","職業     = \n "],["胡志偉 (1962年)",154,2,"duplicated category","[[Category:香港曾入獄的政治人物]]"],["胡志强 (1963年)",84,2,"duplicated category","[[Category:中共榆林市委書記]]"],["胡志明市",403,490,"duplicated parameter","archive-date=2022-10-29"],["胡志明市東部客運站",15,115,"duplicated parameter","title=\"Bến xe miền đông mới chính thức đưa vào khai thác (Theo: Báo Công An)\"  "],["胡志颖",110,2,"duplicated category","[[Category:中国美术教育家]]"],["胡文煊",71,5,"duplicated class attribute","class=\"wikitable\""],["胡斯托·比利亚尔",133,2,"duplicated category","[[Category:FIFA男子世紀俱樂部]]"],["胡桐语",105,2,"duplicated category","[[Category:胡姓]]"],["胡沾恩",24,2,"duplicated category","[[Category:明朝兵部主事]]"],["胡璉·彼得",2,460,"duplicated parameter","awards=Hilal-e-Imtiaz"],["胡立歐·法蘭柯",256,2,"duplicated category","[[Category:美國職棒大聯盟一壘手]]"],["胡荷韬",110,2,"duplicated category","[[Category:中超球员]]"],["胡超 (清朝)",20,2,"duplicated category","[[Category:清朝骑都尉]]"],["胡陶庵荫庐旧址",2,3,"duplicated parameter"," 名称 = 胡陶庵荫庐旧址\n "],["胡雪楊",125,3,"duplicated width attribute","width=\"8%\""],["能源化学 (期刊)",5,3,"duplicated parameter","native_title= Journal of Energy Chemistry\n "],["脫氫抗壞血酸",59,4,"duplicated border attribute","border=\"0\""],["脱氧核糖核酸",39,5,"duplicated border attribute","border=\"0\""],["腎 (臟腑)",2,40,"duplicated image caption parameter","Right"],["腎形蟲綱",18,540,"duplicated parameter","language=zh-hant "],["腐殖质湖",20,2,"duplicated category","[[Category:水域生态学]]"],["腓特烈·奧古斯特一世 (歐登堡)",28,4,"duplicated cory attribute","cory"],["腓特烈·奧古斯特二世 (薩克森國王)",47,4,"duplicated cory attribute","cory"],["腓特烈一世 (士瓦本)",34,2,"duplicated category","[[category:士瓦本公爵|F]]"],["腓特烈三世 (神圣罗马帝国)",10,3,"duplicated parameter"," regent       = [[馬克西米利安一世 (神聖羅馬帝國)|馬克西米利安一世]]（1486-1493）\n "],["腓特烈斯贝站",5,3,"duplicated parameter"," style         = Copenhagen Metro\n "],["腓特烈施塔特",46,2,"duplicated category","[[Category:石勒苏益格-荷尔斯泰因州市镇]]"],["腸粉",3,34,"duplicated image caption parameter","200"],["腹",35,42,"duplicated image caption parameter","RIGHT"],["腹菊石",43,2,"duplicated category","[[分類:1884年描述的分类群|F]]"],["腾冲“1·30”特大持枪杀人案",86,2,"duplicated category","[[Category:中华人民共和国云南省故意杀人命案]]"],["腾讯微视",9,2,"duplicated category","[[Category:视频分享网站]]"],["腿龍科",27,2,"duplicated category","[[Category:甲龙亚目|T]]"],["臟腑",52,40,"duplicated image caption parameter","Right"],["臧新宇",49,2,"duplicated category","[[Category:日語歌手]]"],["臨江戰役",5,38,"conflicting image horizontal-alignment parameter","center"],["自在天王",20,4,"duplicated style attribute","style= border=\"1\""],["自我复制",52,53,"duplicated image thumbnail parameter","thumb"],["自然對數",246,37,"duplicated image caption parameter"," ''z'' = "],["自然災害死亡人數排序列表",1338,45,"duplicated image caption parameter","地图描述 = 印度洋海啸的电脑模拟示意图"],["自然罪惡",10,50,"duplicated image caption parameter","[[古斯塔夫·多雷|古斯塔夫多雷]]，[[圣经]]：“烏斯地有一個人名叫[[约伯|約伯]]。那人完全、正直，敬畏神，遠離惡事。”（[[約伯記]]1：1-22）\n"],["自然醫學",324,604,"duplicated parameter","date=2021-00-15 "],["自由丘站 (东京都)",427,2,"duplicated category","[[Category:1927年日本建立]]"],["自由之子",22,41,"duplicated image caption parameter","{{small"],["自由城圍城戰 (1744年)",30,2,"duplicated category","[[Category:法國戰役]]"],["自由廣場一號 (費城)",23,2,"duplicated category","[[Category:威斯汀酒店]]"],["臺中市文化資產",384,4,"duplicated align attribute","align=\"unsortable\""],["臺中縣",221,5,"duplicated style attribute","style=\"width:350px\""],["臺北市政府體育局",144,2,"duplicated category","[[Category:臺北市政府|A]]"],["臺北市私立恕德家事商業職業學校",5,55,"duplicated image caption parameter","恕德家商大門"],["臺北市第一選舉區 (1989–2004年立法委員)",609,2,"duplicated category","[[Category:北投區政治]]"],["臺北文創",25,179,"duplicated image thumbnail parameter","thumb"],["臺北歷史年表",209,2,"duplicated category","[[Category:台北市歷史|+]]"],["臺北燈節",42,5,"duplicated class attribute","class=\"wikitable\""],["臺南市",380,5,"duplicated style attribute","style=\"width:350px\""],["臺南市歸仁區紅瓦厝國民小學",41,23,"duplicated style attribute","style=\"font-size:small;\""],["臺南捷運綠線",82,32,"duplicated name attribute","name=\"高鐵局局長信箱第105142號回覆\""],["臺南捷運藍線",84,32,"duplicated name attribute","name=\"高鐵局局長信箱第105142號回覆\""],["臺南臺地",38,2,"duplicated category","[[Category:台灣台地]]"],["臺灣機車",8,41,"duplicated image thumbnail parameter","thumb"],["臺灣海峽兩岸關係史",227,28,"duplicated image caption parameter","Right"],["臺灣臺南地方檢察署",6,3,"duplicated parameter","部門標誌尺寸   = 200px\n "],["臺灣與巴西關係史",51,2,"duplicated category","[[Category:臺灣—巴西關係| ]]"],["臺灣與日本關係史",41,2,"duplicated category","[[Category:台灣—日本關係| ]]"],["臺灣與瑞典關係史",41,2,"duplicated category","[[Category:臺灣—瑞典關係| ]]"],["臺灣與荷蘭關係史",91,2,"duplicated category","[[Category:台灣—荷蘭關係| ]]"],["臺灣與菲律賓關係史",115,2,"duplicated category","[[Category:臺灣—菲律賓關係| ]]"],["臺灣與西班牙關係史",80,2,"duplicated category","[[Category:台灣—西班牙關係| ]]"],["臺灣行政區人口列表",699,5,"duplicated style attribute","style=\"width:500px\""],["臺灣跨性別權益",1,26,"duplicated parameter","reason="],["臺灣開放國會",13,99,"duplicated parameter","language=zh-hant"],["臺灣閩南語髒話",1,16,"duplicated parameter","block=B"],["臺灣高雄地方檢察署",6,3,"duplicated parameter","部門標誌尺寸   = 200px\n "],["與神同行 (電影)",226,2,"duplicated category","[[Category:神話題材電影]]"],["與神同行：最終審判",297,2,"duplicated category","[[Category:神話題材電影]]"],["與雪女同行吃蟹",337,2,"duplicated category","[[Category:自殺題材作品]]"],["舊帕德嫩神廟",29,2,"duplicated category","[[Category:雅典衛城]]"],["舊武昌宮遺蹟",9,3,"duplicated parameter","level=[[中華民國文化資產史蹟類|史蹟]]\n "],["舊竹升級再造項目",30,2,"duplicated category","[[Category:循環再造]]"],["舍贝勒陨击坑",21,30,"duplicated image caption parameter","放大的前一幅照片中的滑坡。Wikischaeberlechannels.jpg"],["舍里夫·尤諾斯",51,2,"duplicated category","[[Category:卡塔爾奧林匹克運動會銅牌得主]]"],["舒城东站",13,3,"duplicated parameter"," route_map = \n "],["舒更葡糖",15,4,"duplicated border attribute","border=\"0\""],["舒爾·奧祖",94,2,"duplicated category","[[Category:英格蘭足球聯賽球員]]"],["舒適症候群",259,2,"duplicated category","[[Category:香港女子演唱團體]]"],["舞動奇跡第一季",27,38,"duplicated style attribute","style=\"margin: 0 0 1em 1em; border:1px solid #cccccc; empty-cells:show;border-co"],["舞動奇跡第二季",27,38,"duplicated style attribute","style=\"margin: 0 0 1em 1em; border:1px solid #cccccc; empty-cells:show;border-co"],["航海世纪",67,2,"duplicated category","[[Category:大型多人在线角色扮演游戏]]"],["航空母舰",226,130,"duplicated image caption parameter","''George Washington'' [[Carrier Strike Group]] formation sails in the Atlantic O"],["航空煤油",7,5,"duplicated class attribute","class=\"wikitable\""],["航空科学博物馆",36,2,"duplicated category","[[Category:1989年建立的博物馆]]"],["良乡大学城北站",7,3,"duplicated parameter","type = [[地铁车站]]\n "],["艾伦·玛丽·阿鲁达",147,2,"duplicated category","[[Category:美國機械工程師]]"],["艾克斯门",6,3,"duplicated parameter","coordinates = {{coord|43|18|06.45|N|05|22|29.15|E|region:FR_type:landmark|displa"],["艾克索·奧赫揚",7,3,"duplicated parameter"," birth_name = \n "],["艾哈迈德·卡德罗夫",30,2,"duplicated category","[[Category:车臣人]]"],["艾哈迈德·曼苏尔",93,2,"duplicated category","[[Category:1603年逝世]]"],["艾哈迈德讷格尔",52,2,"duplicated category","[[Category:马哈拉施特拉邦城镇|A]]"],["艾哈邁德然·葉西莫夫",10,3,"duplicated parameter","office          = {{le|哈薩克國務部部長|State Secretary of Kazakhstan}}\n "],["艾娲",12,2,"duplicated category","[[Category:Track listings with input errors]]"],["艾尔撒马尔自治市",1,10,"duplicated parameter","\n "],["艾希科爾發電廠",40,32,"duplicated width attribute","width=45%"],["艾弗連·納瓦羅",81,5,"duplicated align attribute","align=center"],["艾朗·曉士",51,2,"duplicated category","[[Category:英超球員]]"],["艾殊利·高爾",133,2,"duplicated category","[[Category:英格蘭足球聯賽球員]]"],["艾爾西迪斯·艾斯科巴",119,5,"duplicated align attribute","align=center"],["艾特爾·腓特烈三世",4,2,"duplicated category","[[Category:霍亨索倫伯爵]]"],["艾玛·沃森",85,3986,"duplicated parameter","accessdate=13 April 2016 "],["艾玛·纳瓦罗",6,3,"duplicated parameter",""],["艾瑞斯·梅鐸",112,2,"duplicated category","[[Category:奇西克人]]"],["艾瑞爾·米蘭達",106,5,"duplicated align attribute","align=center"],["艾瑪·湯普遜",355,2,"duplicated category","[[Category:哈利·波特演员]]"],["艾雲·祖高域",84,2,"duplicated category","[[Category:查查克運動員]]"],["节毛蕨属",3,3,"duplicated parameter"," taxon = Lastreopsis \n "],["芈月传",147,23,"duplicated style attribute","style=\"width:95%\""],["芒果醬",167,2,"duplicated category","[[Category:2017年成立的音樂團體|M]]"],["芜湖北站",56,127,"duplicated colspan attribute","colspan=2"],["芜湖南站",70,127,"duplicated colspan attribute","colspan=2"],["芜湖站",113,127,"duplicated colspan attribute","colspan=2"],["芝加哥七人案",58,2,"duplicated category","[[Category:1968年法律]]"],["芝加哥浩室",34,2,"duplicated category","[[Category:20世紀音樂類型]]"],["芝加哥烈焰",382,33,"duplicated style attribute","style=\"width:40%;\""],["芝加哥馬拉松",250,45,"duplicated image caption parameter","2008芝加哥马拉松起点Columbus Drive (Chicago)"],["芝浦",106,53,"duplicated image thumbnail parameter","thumb"],["芝诺比娅",9,3,"duplicated parameter"," reign           = 267年—272年（帕尔米拉的攝政王太后）<br>270年—272年（埃及的女王，帕尔米拉入侵埃及以后）<br>272年（"],["芝麻街",132,3,"duplicated count attribute","Count"],["芦台街道",71,2,"duplicated category","[[Category:天津乡镇|宁河县/镇]]"],["芬兰市镇",54,2,"duplicated category","[[Category:芬兰行政区划]]"],["芬兰航空",121,17,"duplicated style attribute","style=\"width:400px;\""],["芬恩·伍法德",437,2,"duplicated category","[[Category:童星出身的加拿大演員]]"],["芬蘭次區",146,2,"duplicated category","[[Category:芬兰行政区划]]"],["芭芭拉·卡素爾",107,167,"duplicated name attribute","name=perkins/<ref"],["芮釗",74,2,"duplicated category","[[Category:明朝陝西左布政使]]"],["花博园站",24,3,"duplicated parameter"," opened = 2023年6月28日\n "],["花姓",70,2,"duplicated category","[[Category:漢姓|H花]]"],["花木兰 (1998年电影)",251,2,"duplicated category","[[Category:花木蘭系列]]"],["花木蘭：電影原聲帶",299,2,"duplicated category","[[分類:迪士尼動畫原聲帶]]"],["花東快速公路",22,4027,"duplicated parameter","date= "],["花樣爺爺",865,3,"duplicated parameter","4節目名稱 = -{花よりおじいさん}-<br>（2013.11.29 - 2013.12.27）\n "],["花狭口蛙",38,2,"duplicated category","[[Category:印度兩棲動物]]"],["花落花開 (台視)",142,2,"duplicated category","[[Category:台灣小說改編電視劇]]"],["花蓮縣玉里鎮春日國民小學",66,2,"duplicated category","[[Category:1940年台灣建立]]"],["芳蘭美術會",24,2,"duplicated category","[[Category:台灣藝術組織]]"],["苍南县",8,3,"duplicated parameter"," map_caption = \n "],["苍狼与白鹿 成吉思汗",22,2,"duplicated category","[[Category:红白机游戏]]"],["苏-30战斗机",69,45,"duplicated image caption parameter","umb"],["苏-7战斗轰炸机",164,42,"duplicated image width parameter","400px"],["苏丹阿布·峇卡",157,2,"duplicated category","[[Category:聖米迦勒及聖喬治勳章爵級大十字勳章持有人|A]]"],["苏军驻蒙古部队",110,76,"duplicated image caption parameter","在[[北京军区]]和[[沈阳军区]]当面的"],["苏州丝绸博物馆",4,161,"duplicated parameter","title=China"],["苏州市",369,3,"duplicated parameter","year precipitation days =\n "],["苏巴斯·钱德拉·鲍斯",88,2,"duplicated category","[[Category:印度獨立運動人物]]"],["苏帕蓬·尤多坎扎纳",3,20,"duplicated parameter","\n {{Expand language|1=th| page1 =ศุภพงษ์ อุดมแก้วกาญจนา| 2=en| page2 =Suppapong "],["苏慧廉",40,2,"duplicated category","[[Category:牛津大学教师]]"],["苏格兰开局",4,27,"duplicated parameter","=\n "],["苏格兰开局古典变著",7,27,"duplicated parameter","=\n "],["苏维埃社会主义自治共和国",174,56,"duplicated image border parameter","border"],["苏联",329,5,"duplicated style attribute","style=\"{{Table center}}\""],["苏联航空志愿队",292,2,"duplicated category","[[Category:駐中華民國蘇軍| ]]"],["苏醒 (歌手)",588,5,"duplicated class attribute","class=\"wikitable\""],["苏里高",52,3,"duplicated parameter"," blank_name_sec1         = 政府网站\n "]],"batches":43}
+window.data={"articles":[[
+	"聯合國安全理事會第53號決議",
+	29,
+	2,
+	"duplicated category",
+	"[[Category:聯合國安全理事會巴勒斯坦相關決議]]"
+],[
+	"聯合國安全理事會第54號決議",
+	29,
+	2,
+	"duplicated category",
+	"[[Category:聯合國安全理事會巴勒斯坦相關決議]]"
+],[
+	"聯合國安全理事會第89號決議",
+	36,
+	2,
+	"duplicated category",
+	"[[Category:聯合國安全理事會巴勒斯坦相關決議]]"
+],[
+	"聯合航空",
+	91,
+	66,
+	"duplicated image caption parameter",
+	"United Airlines aircraft at DIA in the morning"
+],[
+	"肇和級防護巡洋艦",
+	127,
+	2,
+	"duplicated category",
+	"[[Category:防護巡洋艦]]"
+],[
+	"肋骨唱片",
+	11,
+	31,
+	"duplicated image caption parameter",
+	"代替文=<nowiki>秘密出版所使用的唱片制作机</nowiki>"
+],[
+	"肌肽",
+	69,
+	304,
+	"duplicated parameter",
+	"last8=Gualano"
+],[
+	"肖奈德·麦金托什",
+	57,
+	2,
+	"duplicated category",
+	"[[Category:2019年欧洲运动会射击运动员]]"
+],[
+	"肖戰",
+	69,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"肝 (臟腑)",
+	1,
+	39,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"肝醣儲積病",
+	31,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"肥东站",
+	77,
+	127,
+	"duplicated colspan attribute",
+	"colspan=2"
+],[
+	"肥城市",
+	1347,
+	58,
+	"duplicated image width parameter",
+	"360px"
+],[
+	"肥媽",
+	174,
+	39,
+	"duplicated style attribute",
+	"style=\"width:90%\""
+],[
+	"肯亞國家元首列表",
+	57,
+	3,
+	"duplicated width attribute",
+	"width=\"200\""
+],[
+	"肯尼·雷伯恩",
+	87,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"肼基",
+	6,
+	49,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"胃促生长素",
+	23,
+	38,
+	"duplicated image caption parameter",
+	"Preproghrelin 1P7X"
+],[
+	"胆红素",
+	45,
+	5,
+	"duplicated class attribute",
+	"class=\"toccolours\""
+],[
+	"背包踐客",
+	65,
+	36,
+	"duplicated style attribute",
+	"style=\"font-size:95%;\""
+],[
+	"胎生蟾屬",
+	4,
+	2,
+	"duplicated category",
+	"[[Category:1875年描述的分类群|T]]"
+],[
+	"胜光法师",
+	20,
+	312,
+	"duplicated parameter",
+	"issue=278 "
+],[
+	"胜利佳丽",
+	48,
+	2,
+	"duplicated category",
+	"[[Category:2023年电子游戏]]"
+],[
+	"胡世和",
+	280,
+	2,
+	"duplicated category",
+	"[[Category:亞東科技大學校友]]"
+],[
+	"胡亚东 (赛艇运动员)",
+	22,
+	2,
+	"duplicated category",
+	"[[Category:1988年夏季奧林匹克運動會獎牌得主]]"
+],[
+	"胡仁偉",
+	43,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"胡仙",
+	24,
+	2,
+	"duplicated category",
+	"[[Category:香港商人]]"
+],[
+	"胡價 (進士)",
+	63,
+	2,
+	"duplicated category",
+	"[[Category:明朝大理寺少卿]]"
+],[
+	"胡凱兒",
+	38,
+	24,
+	"duplicated style attribute",
+	"style=\"background:white; text-align:center\""
+],[
+	"胡利奥·塞萨尔·拉克鲁斯",
+	33,
+	2,
+	"duplicated category",
+	"[[Category:2014年中美洲和加勒比运动会运动员]]"
+],[
+	"胡利奥·阿亨蒂诺·罗加总统大道",
+	2,
+	3,
+	"duplicated parameter",
+	"1=zh-hans:罗加; zh-cn:罗卡; zh-hant:羅卡;\n "
+],[
+	"胡劲军",
+	13,
+	3,
+	"duplicated parameter",
+	" 职务2    = [[上海市人民政府新闻办公室]]主任\n "
+],[
+	"胡卢西·阿卡尔",
+	2,
+	3,
+	"duplicated parameter",
+	" name = 胡盧西·阿卡爾\n "
+],[
+	"胡安·弗朗西斯科·托雷斯",
+	90,
+	4,
+	"duplicated style attribute",
+	"style=\"text-align: center;\""
+],[
+	"胡安·曼努埃尔·德罗萨斯",
+	176,
+	438,
+	"duplicated parameter",
+	"work=Historia para Todos"
+],[
+	"胡安·索托",
+	52,
+	117,
+	"duplicated parameter",
+	"author-last=Chávez"
+],[
+	"胡安·裴隆",
+	36,
+	3,
+	"duplicated parameter",
+	" nationality     = {{ARG}}\n "
+],[
+	"胡安娜 (卡斯蒂利亚)",
+	28,
+	3,
+	"duplicated parameter",
+	" regent2 = [[查理五世 (神圣罗马帝国)|卡洛斯一世]]（1516年—1556年在位）\n "
+],[
+	"胡延年",
+	14,
+	3,
+	"duplicated parameter",
+	"職業     = \n "
+],[
+	"胡志偉 (1962年)",
+	154,
+	2,
+	"duplicated category",
+	"[[Category:香港曾入獄的政治人物]]"
+],[
+	"胡志强 (1963年)",
+	84,
+	2,
+	"duplicated category",
+	"[[Category:中共榆林市委書記]]"
+],[
+	"胡志明市",
+	403,
+	490,
+	"duplicated parameter",
+	"archive-date=2022-10-29"
+],[
+	"胡志明市東部客運站",
+	15,
+	115,
+	"duplicated parameter",
+	"title=\"Bến xe miền đông mới chính thức đưa vào khai thác (Theo: Báo Công An)\"  "
+],[
+	"胡志颖",
+	110,
+	2,
+	"duplicated category",
+	"[[Category:中国美术教育家]]"
+],[
+	"胡文煊",
+	71,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"胡斯托·比利亚尔",
+	133,
+	2,
+	"duplicated category",
+	"[[Category:FIFA男子世紀俱樂部]]"
+],[
+	"胡桐语",
+	105,
+	2,
+	"duplicated category",
+	"[[Category:胡姓]]"
+],[
+	"胡沾恩",
+	24,
+	2,
+	"duplicated category",
+	"[[Category:明朝兵部主事]]"
+],[
+	"胡璉·彼得",
+	2,
+	460,
+	"duplicated parameter",
+	"awards=Hilal-e-Imtiaz"
+],[
+	"胡立歐·法蘭柯",
+	256,
+	2,
+	"duplicated category",
+	"[[Category:美國職棒大聯盟一壘手]]"
+],[
+	"胡荷韬",
+	110,
+	2,
+	"duplicated category",
+	"[[Category:中超球员]]"
+],[
+	"胡超 (清朝)",
+	20,
+	2,
+	"duplicated category",
+	"[[Category:清朝骑都尉]]"
+],[
+	"胡陶庵荫庐旧址",
+	2,
+	3,
+	"duplicated parameter",
+	" 名称 = 胡陶庵荫庐旧址\n "
+],[
+	"胡雪楊",
+	125,
+	3,
+	"duplicated width attribute",
+	"width=\"8%\""
+],[
+	"能源化学 (期刊)",
+	5,
+	3,
+	"duplicated parameter",
+	"native_title= Journal of Energy Chemistry\n "
+],[
+	"脫氫抗壞血酸",
+	59,
+	4,
+	"duplicated border attribute",
+	"border=\"0\""
+],[
+	"脱氧核糖核酸",
+	39,
+	5,
+	"duplicated border attribute",
+	"border=\"0\""
+],[
+	"腎 (臟腑)",
+	2,
+	40,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"腎形蟲綱",
+	18,
+	540,
+	"duplicated parameter",
+	"language=zh-hant "
+],[
+	"腐殖质湖",
+	20,
+	2,
+	"duplicated category",
+	"[[Category:水域生态学]]"
+],[
+	"腓特烈·奧古斯特一世 (歐登堡)",
+	28,
+	4,
+	"duplicated cory attribute",
+	"cory"
+],[
+	"腓特烈·奧古斯特二世 (薩克森國王)",
+	47,
+	4,
+	"duplicated cory attribute",
+	"cory"
+],[
+	"腓特烈一世 (士瓦本)",
+	34,
+	2,
+	"duplicated category",
+	"[[category:士瓦本公爵|F]]"
+],[
+	"腓特烈三世 (神圣罗马帝国)",
+	10,
+	3,
+	"duplicated parameter",
+	" regent       = [[馬克西米利安一世 (神聖羅馬帝國)|馬克西米利安一世]]（1486-1493）\n "
+],[
+	"腓特烈斯贝站",
+	5,
+	3,
+	"duplicated parameter",
+	" style         = Copenhagen Metro\n "
+],[
+	"腓特烈施塔特",
+	46,
+	2,
+	"duplicated category",
+	"[[Category:石勒苏益格-荷尔斯泰因州市镇]]"
+],[
+	"腸粉",
+	3,
+	34,
+	"duplicated image caption parameter",
+	"200"
+],[
+	"腹",
+	35,
+	42,
+	"duplicated image caption parameter",
+	"RIGHT"
+],[
+	"腹菊石",
+	43,
+	2,
+	"duplicated category",
+	"[[分類:1884年描述的分类群|F]]"
+],[
+	"腾冲“1·30”特大持枪杀人案",
+	86,
+	2,
+	"duplicated category",
+	"[[Category:中华人民共和国云南省故意杀人命案]]"
+],[
+	"腾讯微视",
+	9,
+	2,
+	"duplicated category",
+	"[[Category:视频分享网站]]"
+],[
+	"腿龍科",
+	27,
+	2,
+	"duplicated category",
+	"[[Category:甲龙亚目|T]]"
+],[
+	"臟腑",
+	52,
+	40,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"臧新宇",
+	49,
+	2,
+	"duplicated category",
+	"[[Category:日語歌手]]"
+],[
+	"臨江戰役",
+	5,
+	38,
+	"conflicting image horizontal-alignment parameter",
+	"center"
+],[
+	"自在天王",
+	20,
+	4,
+	"duplicated style attribute",
+	"style= border=\"1\""
+],[
+	"自我复制",
+	52,
+	53,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"自然對數",
+	246,
+	37,
+	"duplicated image caption parameter",
+	" ''z'' = "
+],[
+	"自然災害死亡人數排序列表",
+	1338,
+	45,
+	"duplicated image caption parameter",
+	"地图描述 = 印度洋海啸的电脑模拟示意图"
+],[
+	"自然罪惡",
+	10,
+	50,
+	"duplicated image caption parameter",
+	"[[古斯塔夫·多雷|古斯塔夫多雷]]，[[圣经]]：“烏斯地有一個人名叫[[约伯|約伯]]。那人完全、正直，敬畏神，遠離惡事。”（[[約伯記]]1：1-22）\n"
+],[
+	"自然醫學",
+	324,
+	604,
+	"duplicated parameter",
+	"date=2021-00-15 "
+],[
+	"自由丘站 (东京都)",
+	427,
+	2,
+	"duplicated category",
+	"[[Category:1927年日本建立]]"
+],[
+	"自由之子",
+	22,
+	41,
+	"duplicated image caption parameter",
+	"{{small"
+],[
+	"自由城圍城戰 (1744年)",
+	30,
+	2,
+	"duplicated category",
+	"[[Category:法國戰役]]"
+],[
+	"自由廣場一號 (費城)",
+	23,
+	2,
+	"duplicated category",
+	"[[Category:威斯汀酒店]]"
+],[
+	"臺中市文化資產",
+	384,
+	4,
+	"duplicated align attribute",
+	"align=\"unsortable\""
+],[
+	"臺中縣",
+	221,
+	5,
+	"duplicated style attribute",
+	"style=\"width:350px\""
+],[
+	"臺北市政府體育局",
+	144,
+	2,
+	"duplicated category",
+	"[[Category:臺北市政府|A]]"
+],[
+	"臺北市私立恕德家事商業職業學校",
+	5,
+	55,
+	"duplicated image caption parameter",
+	"恕德家商大門"
+],[
+	"臺北市第一選舉區 (1989–2004年立法委員)",
+	609,
+	2,
+	"duplicated category",
+	"[[Category:北投區政治]]"
+],[
+	"臺北文創",
+	25,
+	179,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"臺北歷史年表",
+	209,
+	2,
+	"duplicated category",
+	"[[Category:台北市歷史|+]]"
+],[
+	"臺北燈節",
+	42,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"臺南市",
+	380,
+	5,
+	"duplicated style attribute",
+	"style=\"width:350px\""
+],[
+	"臺南市歸仁區紅瓦厝國民小學",
+	41,
+	23,
+	"duplicated style attribute",
+	"style=\"font-size:small;\""
+],[
+	"臺南捷運綠線",
+	82,
+	32,
+	"duplicated name attribute",
+	"name=\"高鐵局局長信箱第105142號回覆\""
+],[
+	"臺南捷運藍線",
+	84,
+	32,
+	"duplicated name attribute",
+	"name=\"高鐵局局長信箱第105142號回覆\""
+],[
+	"臺南臺地",
+	38,
+	2,
+	"duplicated category",
+	"[[Category:台灣台地]]"
+],[
+	"臺灣機車",
+	8,
+	41,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"臺灣海峽兩岸關係史",
+	227,
+	28,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"臺灣臺南地方檢察署",
+	6,
+	3,
+	"duplicated parameter",
+	"部門標誌尺寸   = 200px\n "
+],[
+	"臺灣與巴西關係史",
+	51,
+	2,
+	"duplicated category",
+	"[[Category:臺灣—巴西關係| ]]"
+],[
+	"臺灣與日本關係史",
+	41,
+	2,
+	"duplicated category",
+	"[[Category:台灣—日本關係| ]]"
+],[
+	"臺灣與瑞典關係史",
+	41,
+	2,
+	"duplicated category",
+	"[[Category:臺灣—瑞典關係| ]]"
+],[
+	"臺灣與荷蘭關係史",
+	91,
+	2,
+	"duplicated category",
+	"[[Category:台灣—荷蘭關係| ]]"
+],[
+	"臺灣與菲律賓關係史",
+	115,
+	2,
+	"duplicated category",
+	"[[Category:臺灣—菲律賓關係| ]]"
+],[
+	"臺灣與西班牙關係史",
+	80,
+	2,
+	"duplicated category",
+	"[[Category:台灣—西班牙關係| ]]"
+],[
+	"臺灣行政區人口列表",
+	699,
+	5,
+	"duplicated style attribute",
+	"style=\"width:500px\""
+],[
+	"臺灣跨性別權益",
+	1,
+	26,
+	"duplicated parameter",
+	"reason="
+],[
+	"臺灣開放國會",
+	13,
+	99,
+	"duplicated parameter",
+	"language=zh-hant"
+],[
+	"臺灣閩南語髒話",
+	1,
+	16,
+	"duplicated parameter",
+	"block=B"
+],[
+	"臺灣高雄地方檢察署",
+	6,
+	3,
+	"duplicated parameter",
+	"部門標誌尺寸   = 200px\n "
+],[
+	"與神同行 (電影)",
+	226,
+	2,
+	"duplicated category",
+	"[[Category:神話題材電影]]"
+],[
+	"與神同行：最終審判",
+	297,
+	2,
+	"duplicated category",
+	"[[Category:神話題材電影]]"
+],[
+	"與雪女同行吃蟹",
+	337,
+	2,
+	"duplicated category",
+	"[[Category:自殺題材作品]]"
+],[
+	"舊帕德嫩神廟",
+	29,
+	2,
+	"duplicated category",
+	"[[Category:雅典衛城]]"
+],[
+	"舊武昌宮遺蹟",
+	9,
+	3,
+	"duplicated parameter",
+	"level=[[中華民國文化資產史蹟類|史蹟]]\n "
+],[
+	"舊竹升級再造項目",
+	30,
+	2,
+	"duplicated category",
+	"[[Category:循環再造]]"
+],[
+	"舍贝勒陨击坑",
+	21,
+	30,
+	"duplicated image caption parameter",
+	"放大的前一幅照片中的滑坡。Wikischaeberlechannels.jpg"
+],[
+	"舍里夫·尤諾斯",
+	51,
+	2,
+	"duplicated category",
+	"[[Category:卡塔爾奧林匹克運動會銅牌得主]]"
+],[
+	"舒城东站",
+	13,
+	3,
+	"duplicated parameter",
+	" route_map = \n "
+],[
+	"舒更葡糖",
+	15,
+	4,
+	"duplicated border attribute",
+	"border=\"0\""
+],[
+	"舒爾·奧祖",
+	94,
+	2,
+	"duplicated category",
+	"[[Category:英格蘭足球聯賽球員]]"
+],[
+	"舒適症候群",
+	259,
+	2,
+	"duplicated category",
+	"[[Category:香港女子演唱團體]]"
+],[
+	"舞動奇跡第一季",
+	27,
+	38,
+	"duplicated style attribute",
+	"style=\"margin: 0 0 1em 1em; border:1px solid #cccccc; empty-cells:show;border-co"
+],[
+	"舞動奇跡第二季",
+	27,
+	38,
+	"duplicated style attribute",
+	"style=\"margin: 0 0 1em 1em; border:1px solid #cccccc; empty-cells:show;border-co"
+],[
+	"航海世纪",
+	67,
+	2,
+	"duplicated category",
+	"[[Category:大型多人在线角色扮演游戏]]"
+],[
+	"航空母舰",
+	226,
+	130,
+	"duplicated image caption parameter",
+	"''George Washington'' [[Carrier Strike Group]] formation sails in the Atlantic O"
+],[
+	"航空煤油",
+	7,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"航空科学博物馆",
+	36,
+	2,
+	"duplicated category",
+	"[[Category:1989年建立的博物馆]]"
+],[
+	"良乡大学城北站",
+	7,
+	3,
+	"duplicated parameter",
+	"type = [[地铁车站]]\n "
+],[
+	"艾伦·玛丽·阿鲁达",
+	147,
+	2,
+	"duplicated category",
+	"[[Category:美國機械工程師]]"
+],[
+	"艾克斯门",
+	6,
+	3,
+	"duplicated parameter",
+	"coordinates = {{coord|43|18|06.45|N|05|22|29.15|E|region:FR_type:landmark|displa"
+],[
+	"艾克索·奧赫揚",
+	7,
+	3,
+	"duplicated parameter",
+	" birth_name = \n "
+],[
+	"艾哈迈德·卡德罗夫",
+	30,
+	2,
+	"duplicated category",
+	"[[Category:车臣人]]"
+],[
+	"艾哈迈德·曼苏尔",
+	93,
+	2,
+	"duplicated category",
+	"[[Category:1603年逝世]]"
+],[
+	"艾哈迈德讷格尔",
+	52,
+	2,
+	"duplicated category",
+	"[[Category:马哈拉施特拉邦城镇|A]]"
+],[
+	"艾哈邁德然·葉西莫夫",
+	10,
+	3,
+	"duplicated parameter",
+	"office          = {{le|哈薩克國務部部長|State Secretary of Kazakhstan}}\n "
+],[
+	"艾娲",
+	12,
+	2,
+	"duplicated category",
+	"[[Category:Track listings with input errors]]"
+],[
+	"艾尔撒马尔自治市",
+	1,
+	10,
+	"duplicated parameter",
+	"\n "
+],[
+	"艾希科爾發電廠",
+	40,
+	32,
+	"duplicated width attribute",
+	"width=45%"
+],[
+	"艾弗連·納瓦羅",
+	81,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"艾朗·曉士",
+	51,
+	2,
+	"duplicated category",
+	"[[Category:英超球員]]"
+],[
+	"艾殊利·高爾",
+	133,
+	2,
+	"duplicated category",
+	"[[Category:英格蘭足球聯賽球員]]"
+],[
+	"艾爾西迪斯·艾斯科巴",
+	119,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"艾特爾·腓特烈三世",
+	4,
+	2,
+	"duplicated category",
+	"[[Category:霍亨索倫伯爵]]"
+],[
+	"艾玛·沃森",
+	85,
+	3986,
+	"duplicated parameter",
+	"accessdate=13 April 2016 "
+],[
+	"艾玛·纳瓦罗",
+	6,
+	3,
+	"duplicated parameter",
+	""
+],[
+	"艾瑞斯·梅鐸",
+	112,
+	2,
+	"duplicated category",
+	"[[Category:奇西克人]]"
+],[
+	"艾瑞爾·米蘭達",
+	106,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"艾瑪·湯普遜",
+	355,
+	2,
+	"duplicated category",
+	"[[Category:哈利·波特演员]]"
+],[
+	"艾雲·祖高域",
+	84,
+	2,
+	"duplicated category",
+	"[[Category:查查克運動員]]"
+],[
+	"节毛蕨属",
+	3,
+	3,
+	"duplicated parameter",
+	" taxon = Lastreopsis \n "
+],[
+	"芈月传",
+	147,
+	23,
+	"duplicated style attribute",
+	"style=\"width:95%\""
+],[
+	"芒果醬",
+	167,
+	2,
+	"duplicated category",
+	"[[Category:2017年成立的音樂團體|M]]"
+],[
+	"芜湖北站",
+	56,
+	127,
+	"duplicated colspan attribute",
+	"colspan=2"
+],[
+	"芜湖南站",
+	70,
+	127,
+	"duplicated colspan attribute",
+	"colspan=2"
+],[
+	"芜湖站",
+	113,
+	127,
+	"duplicated colspan attribute",
+	"colspan=2"
+],[
+	"芝加哥七人案",
+	58,
+	2,
+	"duplicated category",
+	"[[Category:1968年法律]]"
+],[
+	"芝加哥浩室",
+	34,
+	2,
+	"duplicated category",
+	"[[Category:20世紀音樂類型]]"
+],[
+	"芝加哥烈焰",
+	382,
+	33,
+	"duplicated style attribute",
+	"style=\"width:40%;\""
+],[
+	"芝加哥馬拉松",
+	250,
+	45,
+	"duplicated image caption parameter",
+	"2008芝加哥马拉松起点Columbus Drive (Chicago)"
+],[
+	"芝浦",
+	106,
+	53,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"芝诺比娅",
+	9,
+	3,
+	"duplicated parameter",
+	" reign           = 267年—272年（帕尔米拉的攝政王太后）<br>270年—272年（埃及的女王，帕尔米拉入侵埃及以后）<br>272年（"
+],[
+	"芝麻街",
+	132,
+	3,
+	"duplicated count attribute",
+	"Count"
+],[
+	"芦台街道",
+	71,
+	2,
+	"duplicated category",
+	"[[Category:天津乡镇|宁河县/镇]]"
+],[
+	"芬兰市镇",
+	54,
+	2,
+	"duplicated category",
+	"[[Category:芬兰行政区划]]"
+],[
+	"芬兰航空",
+	121,
+	17,
+	"duplicated style attribute",
+	"style=\"width:400px;\""
+],[
+	"芬恩·伍法德",
+	437,
+	2,
+	"duplicated category",
+	"[[Category:童星出身的加拿大演員]]"
+],[
+	"芬蘭次區",
+	146,
+	2,
+	"duplicated category",
+	"[[Category:芬兰行政区划]]"
+],[
+	"芭芭拉·卡素爾",
+	107,
+	167,
+	"duplicated name attribute",
+	"name=perkins/<ref"
+],[
+	"芮釗",
+	74,
+	2,
+	"duplicated category",
+	"[[Category:明朝陝西左布政使]]"
+],[
+	"花博园站",
+	24,
+	3,
+	"duplicated parameter",
+	" opened = 2023年6月28日\n "
+],[
+	"花姓",
+	70,
+	2,
+	"duplicated category",
+	"[[Category:漢姓|H花]]"
+],[
+	"花木兰 (1998年电影)",
+	251,
+	2,
+	"duplicated category",
+	"[[Category:花木蘭系列]]"
+],[
+	"花木蘭：電影原聲帶",
+	299,
+	2,
+	"duplicated category",
+	"[[分類:迪士尼動畫原聲帶]]"
+],[
+	"花東快速公路",
+	22,
+	4027,
+	"duplicated parameter",
+	"date= "
+],[
+	"花樣爺爺",
+	865,
+	3,
+	"duplicated parameter",
+	"4節目名稱 = -{花よりおじいさん}-<br>（2013.11.29 - 2013.12.27）\n "
+],[
+	"花狭口蛙",
+	38,
+	2,
+	"duplicated category",
+	"[[Category:印度兩棲動物]]"
+],[
+	"花落花開 (台視)",
+	142,
+	2,
+	"duplicated category",
+	"[[Category:台灣小說改編電視劇]]"
+],[
+	"花蓮縣玉里鎮春日國民小學",
+	66,
+	2,
+	"duplicated category",
+	"[[Category:1940年台灣建立]]"
+],[
+	"芳蘭美術會",
+	24,
+	2,
+	"duplicated category",
+	"[[Category:台灣藝術組織]]"
+],[
+	"苍南县",
+	8,
+	3,
+	"duplicated parameter",
+	" map_caption = \n "
+],[
+	"苍狼与白鹿 成吉思汗",
+	22,
+	2,
+	"duplicated category",
+	"[[Category:红白机游戏]]"
+],[
+	"苏-30战斗机",
+	69,
+	45,
+	"duplicated image caption parameter",
+	"umb"
+],[
+	"苏-7战斗轰炸机",
+	164,
+	42,
+	"duplicated image width parameter",
+	"400px"
+],[
+	"苏丹阿布·峇卡",
+	157,
+	2,
+	"duplicated category",
+	"[[Category:聖米迦勒及聖喬治勳章爵級大十字勳章持有人|A]]"
+],[
+	"苏军驻蒙古部队",
+	110,
+	76,
+	"duplicated image caption parameter",
+	"在[[北京军区]]和[[沈阳军区]]当面的"
+],[
+	"苏州丝绸博物馆",
+	4,
+	161,
+	"duplicated parameter",
+	"title=China"
+],[
+	"苏州市",
+	369,
+	3,
+	"duplicated parameter",
+	"year precipitation days =\n "
+],[
+	"苏巴斯·钱德拉·鲍斯",
+	88,
+	2,
+	"duplicated category",
+	"[[Category:印度獨立運動人物]]"
+],[
+	"苏帕蓬·尤多坎扎纳",
+	3,
+	20,
+	"duplicated parameter",
+	"\n {{Expand language|1=th| page1 =ศุภพงษ์ อุดมแก้วกาญจนา| 2=en| page2 =Suppapong "
+],[
+	"苏慧廉",
+	40,
+	2,
+	"duplicated category",
+	"[[Category:牛津大学教师]]"
+],[
+	"苏格兰开局",
+	4,
+	27,
+	"duplicated parameter",
+	"=\n "
+],[
+	"苏格兰开局古典变著",
+	7,
+	27,
+	"duplicated parameter",
+	"=\n "
+],[
+	"苏维埃社会主义自治共和国",
+	174,
+	56,
+	"duplicated image border parameter",
+	"border"
+],[
+	"苏联",
+	329,
+	5,
+	"duplicated style attribute",
+	"style=\"{{Table center}}\""
+],[
+	"苏联航空志愿队",
+	292,
+	2,
+	"duplicated category",
+	"[[Category:駐中華民國蘇軍| ]]"
+],[
+	"苏醒 (歌手)",
+	588,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"苏里高",
+	52,
+	3,
+	"duplicated parameter",
+	" blank_name_sec1         = 政府网站\n "
+],],"batches":43}

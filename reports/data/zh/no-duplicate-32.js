@@ -1,1 +1,1201 @@
-window.data={"articles":[["纳撒尼尔·特卡奇",13,2,"duplicated category","[[Category:华威大学教师]]"],["纳瓦尔 (韦斯卡省)",37,3,"duplicated parameter"," population_footnotes    = \n "],["纳米化学",2,74,"duplicated image caption parameter","R. V. Lapshin, Feature-oriented scanning (FOS), Fig. 1"],["纳米小人",84,66,"duplicated image caption parameter","Center"],["纳米比亚海軍",8,3,"duplicated parameter"," size = 1,200\n "],["纳粹猎手",27,2,"duplicated category","[[Category:納粹獵人]]"],["纳诺塔利克",20,63,"duplicated image width parameter","22px"],["纳迪娜·奥布里",120,2,"duplicated category","[[Category:在世人物]]"],["纸月亮",5,3,"duplicated parameter","zh-hk:大老千與小鬼頭;zh-sg:大老千与小鬼头;zh-cn:纸月亮;zh-tw:紙月亮;\n "],["纽伦堡机场",53,18,"duplicated align attribute","align=\"center\""],["纽埃国徽",39,2,"duplicated category","[[Category:国徽]]"],["纽约中国电影节",9,4,"duplicated style attribute","style=\"background: gold;\""],["线性公园",14,42,"duplicated image caption parameter","[[德国]]{[[柏林]]的{tsl"],["线性脊状网",70,28,"duplicated image caption parameter","这些笔直的特征可能表明未来定居者在此会找到有价值的矿床，比例尺为500米。它们可能是线性山脊的一部分，因此与撞击坑有关。 Image:Ridgecomplex2"],["细谐鱼",19,2,"duplicated category","[[Category:细谐鱼属|细谐鱼]]"],["终结者电影系列",178,97,"duplicated 5px attribute","5px"],["绍兴轨道交通2号线",15,3,"duplicated parameter","operator       = 绍兴市轨道交通集团有限公司运营分公司\n "],["绝不放手",5,3,"duplicated parameter","zh-tw:千萬別放手;zh-sg:绝不放手;\n "],["绝代双骄 (2020年电视剧)",482,2,"duplicated category","[[Category:2020年中國電視劇集]]"],["绰克托 (费莫氏)",42,2,"duplicated category","[[Category:清朝兵部左侍郎|署]]"],["维也纳大学",140,30,"duplicated image caption parameter","mini"],["维也纳大学档案馆",1,50,"duplicated image caption parameter","mini"],["维也纳开局",7,27,"duplicated parameter","=\n "],["维亚切斯拉夫·尼科诺夫",16,2,"duplicated category","[[Category:俄羅斯政治學家]]"],["维亚切斯拉夫·祖多夫",8,3,"duplicated parameter"," nationality = \n "],["维克托·伊沙耶夫",48,2,"duplicated category","[[Category:俄羅斯科學院院士]]"],["维克托·弗拉季斯拉沃维奇·祖巴列夫",16,3,"duplicated parameter","constituency   = {{le|季夫诺戈斯克选区|Divnogorsk constituency}}\n "],["维克托·魏斯科普夫",46,2,"duplicated category","[[Category:马克斯·普朗克奖章获得者]]"],["维克托大道",7,34,"duplicated image caption parameter","vignette"],["维吾尔族常见人名列表",498,2,"duplicated category","[[Category:人名表]]"],["维基媒体基金会",140,44,"duplicated image caption parameter","Tymkiv,_Nataliia_November_2018"],["维奥拉·戴维斯",2070,2,"duplicated category","[[Category:21世纪美国女演员]]"],["维斯理学院",16,3,"duplicated parameter"," endowment = {{increase}}28.5亿[[美元]](2022年)\n  "],["维普斯语",284,2,"duplicated category","[[Category:引文格式1维护：未识别语文类型|-(krl)]]"],["维纳斯瓦兰",26,3,"duplicated parameter"," monarch2            = [[苏丹端姑阿都哈林|端姑阿都哈林]]<sup>[[陛下]]</sup><br>[[苏丹莫哈末五世|端姑莫哈末五世"],["绽放的笑容",47,49,"duplicated style attribute","style=\"text-align:center\""],["绿带彩蚴吸虫",16,80,"duplicated image caption parameter","成熟的囊蚴準備轉移至鳥類宿主；注意其厚實的外殼。 File:Heckert plate1 fig8.png"],["绿翅金刚鹦鹉",225,2,"duplicated category","[[Category:玻利維亞鳥類|A]]"],["绿菌科",22,2,"duplicated category","[[Category:绿菌科|*]]"],["缅族",249,29,"conflicting image frame parameter","thumb"],["缅甸警察部队",128,109,"duplicated 12px attribute","12px"],["缘起 (歌曲)",141,49,"duplicated style attribute","style=\"text-align:center\""],["网球双凤",28,2,"duplicated category","[[Category:體育題材電視劇]]"],["罗一舟",1068,33,"duplicated width attribute","width=99%"],["罗伊·威廉斯 (田径运动员)",11,2,"duplicated category","[[Category:新西兰男子田径运动员]]"],["罗伯特·威廉·费雪",56,2,"duplicated category","[[Category:2000年代失踪案]]"],["罗伯特·席安",35,46,"duplicated image caption parameter","Right"],["罗伯特·格里菲斯",9,2,"duplicated category","[[Category:巴斯大学校友]]"],["罗伯特·汉森",131,2,"duplicated category","[[Category:20世紀美國罪犯]]"],["罗伯特·赖斯本·威尔逊",69,2,"duplicated category","[[Category:古根海姆学者]]"],["罗卡-圣卡夏诺",47,2,"duplicated category","[[Category:弗利-切塞納省市鎮|R]]"],["罗尔夫·约翰松 (1944年)",37,2,"duplicated category","[[Category:残疾人奥林匹克运动会轮椅篮球奖牌得主]]"],["罗布·威廉斯",11,2,"duplicated category","[[Category:英国男子赛艇运动员]]"],["罗慕路斯与雷穆斯",74,74,"duplicated image caption parameter","Remus and the Cattle Thieves (attributed to one or more of the Carraccis)"],["罗斯·特恩布尔",77,2,"duplicated category","[[Category:英超球員]]"],["罗曼·鲁坚科",9,2,"duplicated category","[[Category:蘇聯共產黨中央委員會委員]]"],["罗杰斯多项式",34,2,"duplicated category","[[Category:正交多项式]]"],["罗氏诊断",19,40,"duplicated image caption parameter","central"],["罗汉寺 (重庆市)",77,22,"duplicated image caption parameter","巴縣羅漢寺吳皋過灘舟夜重慶三詩碑"],["罗秀话",102,5,"duplicated class attribute","class=\"wikitable\""],["罗素大学集团",9,3,"duplicated parameter","4=zh-hk:諾定咸;zh-tw:諾丁漢;zh-cn:诺丁汉;\n "],["罗纳德·约翰·约翰斯顿",32,2,"duplicated category","[[Category:艾塞克斯大學相關人物]]"],["罗老宇宙中心",82,2,"duplicated category","[[Category:發射場]]"],["罗远芳",21,2,"duplicated category","[[Category:第十二届全国人大代表]]"],["罗阿尔·阿蒙森",49,37,"duplicated image caption parameter","RIGHT"],["罗马大学",128,53,"duplicated image caption parameter","下"],["罗马天主教基辅圣尼各老主教座堂",5,3,"duplicated parameter","location = 基辅红军街\n "],["罗马尼亚铁路",118,14,"duplicated style attribute","style=\"border: 1px solid #999; background-color:#FFFFFF; text-align:left;\""],["罗马帝国的衰落",105,5,"duplicated class attribute","class=\"wikitable\""],["罩甲",17,2,"duplicated category","[[分類:盔甲]]"],["羅仕德",33,3,"duplicated parameter"," successor3 = [[費理敘]]\n "],["羅伊·懷特",75,2,"duplicated category","[[Category:美國職棒大聯盟外野手]]"],["羅伊斯-格拉親王國",63,2,"duplicated category","[[Category:德国历史上的亲王国]]"],["羅伯·柯德曼斯",81,5,"duplicated align attribute","align=center"],["羅克斯群島",53,2,"duplicated category","[[Category:加勒比海群岛]]"],["羅卿瑗",99,2,"duplicated category","[[Category:國民力量黨員]]"],["羅嘉仁",197,5,"duplicated align attribute","align=center"],["羅國華 (1992年)",85,5,"duplicated align attribute","align=center"],["羅宏正",269,2,"duplicated category","[[Category:SpeXial]]"],["羅尼·羅德里奎茲",97,5,"duplicated align attribute","align=center"],["羅展鵬",26,2,"duplicated category","[[Category:臺灣藝術家|L]]"],["羅德尼·羅伯特·波特",2,40,"duplicated image caption parameter","220ox"],["羅德島州市鎮列表",116,25,"duplicated style attribute","style=\"text-align:center;\""],["羅拔·佐治·莊臣",108,2,"duplicated category","[[Category:明尼苏达州军人]]"],["羅拔·活·莊臣三世",143,2,"duplicated category","[[Category:美國慈善家]]"],["羅拔·路易·莊臣",118,2,"duplicated category","[[Category:美國億萬富豪]]"],["羅斯福遊戲",332,23,"duplicated style attribute","style=\"font-size:small\""],["羅曼·別爾德尼科夫",75,2,"duplicated category","[[Category:俄羅斯俄烏戰爭人物]]"],["羅汝楫",63,2,"duplicated category","[[Category:歙縣人|L]]"],["羅華韋",84,5,"duplicated align attribute","align=center"],["羅西亞航空",25,79,"duplicated image thumbnail parameter","thumb"],["羅貝爾·吉斯卡爾",45,36,"duplicated image thumbnail parameter","thumb"],["羅賓·威廉斯",596,2,"duplicated category","[[Category:金球獎終身成就獎獲得者]]"],["羅賽爾國際賽道",52,21,"duplicated style attribute","style=\"font-size:90%\""],["羅馬市電車和公共汽車公司",11,3,"duplicated parameter"," aum = <!-- Only used with financial services companies -->\n "],["羅馬鞋",17,2,"duplicated category","[[Category:鞋]]"],["羅鼎城",6,3,"duplicated parameter"," order          = \n "],["美元硬币",234,5,"duplicated class attribute","class=\"wikitable\""],["美味就是這樣",78,732,"duplicated parameter","url=https://www.gazeta.ru/social/photo/vkusno_i_tochka.shtml"],["美国",78,3,"duplicated parameter","leader_name4 = [[約翰·羅伯茨]]\n "],["美国公务员委员会",23,29,"duplicated by attribute","by"],["美国最高法院大法官列表",1161,6,"duplicated style attribute","style=\"height: 110px;\""],["美国参与的政权更迭 (冷战之前)",131,37,"conflicting image frame parameter"," 无框 "],["美国参议院军事委员会",95,2,"duplicated category","[[Category:美国参议院委员会|M]]"],["美国各州人类发展指数列表",285,2,"duplicated category","[[Category:美国经济列表]]"],["美国太空气象预报中心",6,3,"duplicated parameter","jurisdiction={{USA}}\n "],["美国宪法第十七修正案",201,2,"duplicated category","[[Category:1912年美國法律]]"],["美国州份",63,3,"duplicated parameter"," subdivision        = \n "],["美国总统选举亚利桑那州选情",57,4,"duplicated scope attribute","scope=\"col\""],["美国总统选举华盛顿哥伦比亚特区选情",53,4,"duplicated scope attribute","scope=\"col\""],["美国总统选举夏威夷州选情",53,4,"duplicated scope attribute","scope=\"col\""],["美国总统选举康涅狄格州选情",239,4,"duplicated scope attribute","scope=\"colgroup\""],["美国总统选举怀俄明州选情",63,4,"duplicated scope attribute","scope=\"col\""],["美国总统选举犹他州选情",61,4,"duplicated scope attribute","scope=\"col\""],["美国总统选举阿拉斯加州选情",51,4,"duplicated scope attribute","scope=\"col\""],["美国无线电视网列表",5,43,"duplicated image width parameter","250px"],["美国机车公司",73,35,"duplicated image caption parameter","Right"],["美国法典",10,3,"duplicated parameter"," orig_lang_code =\n "],["美国特勤局",11,5,"duplicated parameter"," formed          =  {{start date and age|1865|7|5|paren=yes}}\n   "],["美国的犯罪问题",145,5,"duplicated class attribute","class=\"wikitable\""],["美国陆军第10山地师",16,76,"duplicated image border parameter","border"],["美国陆军职业列表",85,46,"duplicated image caption parameter","USA - Army Infantry Insignia"],["美國國家男子足球隊",79,48,"duplicated image caption parameter","Right"],["美國國民警衛隊",64,52,"conflicting image horizontal-alignment parameter","right"],["美國大使",9,39,"duplicated name attribute","name=\"StateDept1\""],["美國恐怖故事：啟示錄",444,2,"duplicated category","[[Category:美國劇情電視劇]]"],["美國特工 (漫畫)",80,2,"duplicated category","[[Category:漫威漫畫電視角色]]"],["美國獨立戰爭",134,103,"conflicting image frame parameter","thumb"],["美國第六集團軍",53,30,"duplicated parameter","first1=Harry "],["美國總統選舉新墨西哥州選情",64,4,"duplicated scope attribute","scope=\"col\""],["美國總統選舉阿肯色州選情",204,4,"duplicated scope attribute","scope=\"col\""],["美國職棒球場全壘打距離列表",6,33,"duplicated style attribute","style=\"text-align:center\""],["美國足球冠軍聯賽",693,2,"duplicated category","[[Category:美國職業足球聯賽]]"],["美國陸軍第82空降師",10,3,"duplicated parameter","motto=「'''ALL THE WAY!'''」\n "],["美國隊長2：酷寒戰士",543,2,"duplicated category","[[Category:2010年代英語片]]"],["美女食神",60,24,"duplicated style attribute","style=\"width:95%;\""],["美妙宠物 光之美少女",112,336,"duplicated parameter","language=ja"],["美属萨摩亚足球代表队",12,3,"duplicated parameter"," FIFA Rank          = [[國際足協世界排名|192]]（2020年4月） \n "],["美式懸罪",1126,2,"duplicated category","[[Category:强奸题材作品]]"],["美拍",13,2,"duplicated category","[[Category:视频分享网站]]"],["美洲",7,57,"duplicated image width parameter","300px"],["美洲胡瓜魚",19,2,"duplicated category","[[Category: 1814年描述的鱼类|M]]"],["美洲西班牙语",66,2,"duplicated category","[[Category:西班牙语方言]]"],["美猴王 (電影)",170,2,"duplicated category","[[Category:香港喜劇動作片]]"],["美田邨",31,602,"duplicated parameter","work=香港房屋委員會建築小組委員會"],["美盈苑",58,26,"duplicated image caption parameter","12Dec2015MeiYing"],["美空真瑠",5,3,"duplicated parameter"," 職業 = 舞台演員\n "],["美空雲雀",166,2,"duplicated category","[[Category:神奈川縣歌手]]"],["美萨耐帕达",35,2,"duplicated category","[[Category:伊拉克人]]"],["美食獵人TORIKO",1357,23,"duplicated style attribute","style=\"font-size:small\""],["美麗境界 (專輯)",305,4,"duplicated align attribute","align=\"center\""],["羡慕的話就輸了",177,2,"duplicated category","[[Category:韓國綜藝節目|R]]"],["群創光電",95,2,"duplicated category","[[Category:显示科技公司]]"],["群力国家城市湿地公园",66,2,"duplicated category","[[Category:哈尔滨公园]]"],["群馬Green Wings",117,5,"duplicated style attribute","style= \"center\""],["義勇警察",14,50,"duplicated image caption parameter","Taiwanese Auxiliary Police Car"],["義大利最高電影票房收入列表",961,64,"duplicated name attribute","name=<ref"],["義大利衣索比亞戰爭 (1887—1889)",36,2,"duplicated category","[[Category:意大利戰爭]]"],["義大客運",50,895,"duplicated parameter","language=zh-tw"],["義虎堂",23,387,"duplicated name attribute","name=\"吳敏菁1\""],["羽田機場第1、第2航站樓站",257,2,"duplicated category","[[Category:日本機場聯絡鐵路車站]]"],["翁克堯",63,5,"duplicated align attribute","align=center"],["翁崑德",17,2,"duplicated category","[[Category:嘉義市人]]"],["翁弗勒尔",210,5,"duplicated class attribute","class=\"wikitable\""],["翁曉玲",107,172,"duplicated parameter","accessdate=2025-03-02 "],["翼腭窝",34,5,"duplicated class attribute","class=\"wikitable\""],["翼龙列表",151,552,"duplicated parameter","archive-url=https://archive.today/20130107012637/http://www.mnhn.fr/museum/foffi"],["翻盖",2,2,"duplicated category","[[Category:使用多个图像且自动缩放的页面]]"],["耀年",28,2,"duplicated category","[[Category:鑲黃旗蒙古副都統]]"],["耀榮文化",35,4,"duplicated width attribute","width=\"200\""],["老友记",467,2,"duplicated category","[[Category:美国电视情景喜剧]]"],["老山战役",193,40,"duplicated image caption parameter","老山作战纪念馆 - 2023-07-20"],["老挝国歌",4,3,"duplicated parameter","transcription = Pheng Xat Lao\n "],["老约翰·施特劳斯",125,2,"duplicated category","[[Category:葬于维也纳中央公墓]]"],["老道明大學",30,51,"duplicated image caption parameter","seal"],["耕文路站",12,3,"duplicated parameter","code = GWL\n "],["耶戶",4,30,"duplicated image caption parameter","<br style=\"clear:both;\">"],["耶日·塞巴斯蒂安·卢博米尔斯基",2,20,"duplicated style attribute","style=\"background:#efefef;\""],["耶稣有关小孩的教导",7,2,"duplicated category","[[Category:含有希臘語的條目]]"],["耿伯軒",67,5,"duplicated align attribute","align=center"],["耿晓峰",11,3,"duplicated parameter"," currentclub = {{flagicon|CHN}}[[武汉三镇足球俱乐部]]\n "],["职教城东站",22,3,"duplicated parameter"," code = \n "],["职教城站",30,3,"duplicated parameter"," opened = 2019年12月26日\n "],["联合国人权理事会",31,77,"duplicated image caption parameter"," 人权与文明联盟厅是位于瑞士日内瓦万国宫的联合国人权事务高级专员办事处"],["联合国安全理事会第1718号决议",104,2,"duplicated category","[[Category:聯合國安全理事會制裁制度]]"],["联盟、进步和民主",42,2,"duplicated category","[[Category:社会自由主义政党]]"],["联觉",137,30,"duplicated image caption parameter","Booba and Kiki shapes"],["联邦和平中央委员会",25,3,"duplicated parameter"," website = \n "],["聖克拉拉縣",317,5,"duplicated class attribute","class=\"wikitable\""],["聖克魯斯群島戰役",45,37,"duplicated image caption parameter","Left"],["聖公媽廟",34,21,"conflicting image frame parameter","thumb"],["聖彼得堡 (佛羅里達州)",200,3,"duplicated parameter"," population_note    = \n "],["聖若翰節",5,37,"duplicated image caption parameter","Right"],["聖菲利佩",1,64,"duplicated image caption parameter","r250px"],["聖詹姆斯堂區 (牙買加)",31,2,"duplicated category","[[Category:牙买加圣詹姆斯堂区| ]]"],["聖蹟寺",1,51,"duplicated image thumbnail parameter","thumb"],["聖顯者",2,67,"duplicated image caption parameter","miniatura"],["聚对苯二甲酸乙二酯",68,41,"duplicated image caption parameter","Border"],["聚集体",3,3,"duplicated parameter","native_title= 聚集体\n "],["聯合國安全理事會第1874號決議",45,2,"duplicated category","[[Category:聯合國安全理事會制裁制度]]"]],"batches":43}
+window.data={"articles":[[
+	"纳撒尼尔·特卡奇",
+	13,
+	2,
+	"duplicated category",
+	"[[Category:华威大学教师]]"
+],[
+	"纳瓦尔 (韦斯卡省)",
+	37,
+	3,
+	"duplicated parameter",
+	" population_footnotes    = \n "
+],[
+	"纳米化学",
+	2,
+	74,
+	"duplicated image caption parameter",
+	"R. V. Lapshin, Feature-oriented scanning (FOS), Fig. 1"
+],[
+	"纳米小人",
+	84,
+	66,
+	"duplicated image caption parameter",
+	"Center"
+],[
+	"纳米比亚海軍",
+	8,
+	3,
+	"duplicated parameter",
+	" size = 1,200\n "
+],[
+	"纳粹猎手",
+	27,
+	2,
+	"duplicated category",
+	"[[Category:納粹獵人]]"
+],[
+	"纳诺塔利克",
+	20,
+	63,
+	"duplicated image width parameter",
+	"22px"
+],[
+	"纳迪娜·奥布里",
+	120,
+	2,
+	"duplicated category",
+	"[[Category:在世人物]]"
+],[
+	"纸月亮",
+	5,
+	3,
+	"duplicated parameter",
+	"zh-hk:大老千與小鬼頭;zh-sg:大老千与小鬼头;zh-cn:纸月亮;zh-tw:紙月亮;\n "
+],[
+	"纽伦堡机场",
+	53,
+	18,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"纽埃国徽",
+	39,
+	2,
+	"duplicated category",
+	"[[Category:国徽]]"
+],[
+	"纽约中国电影节",
+	9,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"线性公园",
+	14,
+	42,
+	"duplicated image caption parameter",
+	"[[德国]]{[[柏林]]的{tsl"
+],[
+	"线性脊状网",
+	70,
+	28,
+	"duplicated image caption parameter",
+	"这些笔直的特征可能表明未来定居者在此会找到有价值的矿床，比例尺为500米。它们可能是线性山脊的一部分，因此与撞击坑有关。 Image:Ridgecomplex2"
+],[
+	"细谐鱼",
+	19,
+	2,
+	"duplicated category",
+	"[[Category:细谐鱼属|细谐鱼]]"
+],[
+	"终结者电影系列",
+	178,
+	97,
+	"duplicated 5px attribute",
+	"5px"
+],[
+	"绍兴轨道交通2号线",
+	15,
+	3,
+	"duplicated parameter",
+	"operator       = 绍兴市轨道交通集团有限公司运营分公司\n "
+],[
+	"绝不放手",
+	5,
+	3,
+	"duplicated parameter",
+	"zh-tw:千萬別放手;zh-sg:绝不放手;\n "
+],[
+	"绝代双骄 (2020年电视剧)",
+	482,
+	2,
+	"duplicated category",
+	"[[Category:2020年中國電視劇集]]"
+],[
+	"绰克托 (费莫氏)",
+	42,
+	2,
+	"duplicated category",
+	"[[Category:清朝兵部左侍郎|署]]"
+],[
+	"维也纳大学",
+	140,
+	30,
+	"duplicated image caption parameter",
+	"mini"
+],[
+	"维也纳大学档案馆",
+	1,
+	50,
+	"duplicated image caption parameter",
+	"mini"
+],[
+	"维也纳开局",
+	7,
+	27,
+	"duplicated parameter",
+	"=\n "
+],[
+	"维亚切斯拉夫·尼科诺夫",
+	16,
+	2,
+	"duplicated category",
+	"[[Category:俄羅斯政治學家]]"
+],[
+	"维亚切斯拉夫·祖多夫",
+	8,
+	3,
+	"duplicated parameter",
+	" nationality = \n "
+],[
+	"维克托·伊沙耶夫",
+	48,
+	2,
+	"duplicated category",
+	"[[Category:俄羅斯科學院院士]]"
+],[
+	"维克托·弗拉季斯拉沃维奇·祖巴列夫",
+	16,
+	3,
+	"duplicated parameter",
+	"constituency   = {{le|季夫诺戈斯克选区|Divnogorsk constituency}}\n "
+],[
+	"维克托·魏斯科普夫",
+	46,
+	2,
+	"duplicated category",
+	"[[Category:马克斯·普朗克奖章获得者]]"
+],[
+	"维克托大道",
+	7,
+	34,
+	"duplicated image caption parameter",
+	"vignette"
+],[
+	"维吾尔族常见人名列表",
+	498,
+	2,
+	"duplicated category",
+	"[[Category:人名表]]"
+],[
+	"维基媒体基金会",
+	140,
+	44,
+	"duplicated image caption parameter",
+	"Tymkiv,_Nataliia_November_2018"
+],[
+	"维奥拉·戴维斯",
+	2070,
+	2,
+	"duplicated category",
+	"[[Category:21世纪美国女演员]]"
+],[
+	"维斯理学院",
+	16,
+	3,
+	"duplicated parameter",
+	" endowment = {{increase}}28.5亿[[美元]](2022年)\n  "
+],[
+	"维普斯语",
+	284,
+	2,
+	"duplicated category",
+	"[[Category:引文格式1维护：未识别语文类型|-(krl)]]"
+],[
+	"维纳斯瓦兰",
+	26,
+	3,
+	"duplicated parameter",
+	" monarch2            = [[苏丹端姑阿都哈林|端姑阿都哈林]]<sup>[[陛下]]</sup><br>[[苏丹莫哈末五世|端姑莫哈末五世"
+],[
+	"绽放的笑容",
+	47,
+	49,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"绿带彩蚴吸虫",
+	16,
+	80,
+	"duplicated image caption parameter",
+	"成熟的囊蚴準備轉移至鳥類宿主；注意其厚實的外殼。 File:Heckert plate1 fig8.png"
+],[
+	"绿翅金刚鹦鹉",
+	225,
+	2,
+	"duplicated category",
+	"[[Category:玻利維亞鳥類|A]]"
+],[
+	"绿菌科",
+	22,
+	2,
+	"duplicated category",
+	"[[Category:绿菌科|*]]"
+],[
+	"缅族",
+	249,
+	29,
+	"conflicting image frame parameter",
+	"thumb"
+],[
+	"缅甸警察部队",
+	128,
+	109,
+	"duplicated 12px attribute",
+	"12px"
+],[
+	"缘起 (歌曲)",
+	141,
+	49,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"网球双凤",
+	28,
+	2,
+	"duplicated category",
+	"[[Category:體育題材電視劇]]"
+],[
+	"罗一舟",
+	1068,
+	33,
+	"duplicated width attribute",
+	"width=99%"
+],[
+	"罗伊·威廉斯 (田径运动员)",
+	11,
+	2,
+	"duplicated category",
+	"[[Category:新西兰男子田径运动员]]"
+],[
+	"罗伯特·威廉·费雪",
+	56,
+	2,
+	"duplicated category",
+	"[[Category:2000年代失踪案]]"
+],[
+	"罗伯特·席安",
+	35,
+	46,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"罗伯特·格里菲斯",
+	9,
+	2,
+	"duplicated category",
+	"[[Category:巴斯大学校友]]"
+],[
+	"罗伯特·汉森",
+	131,
+	2,
+	"duplicated category",
+	"[[Category:20世紀美國罪犯]]"
+],[
+	"罗伯特·赖斯本·威尔逊",
+	69,
+	2,
+	"duplicated category",
+	"[[Category:古根海姆学者]]"
+],[
+	"罗卡-圣卡夏诺",
+	47,
+	2,
+	"duplicated category",
+	"[[Category:弗利-切塞納省市鎮|R]]"
+],[
+	"罗尔夫·约翰松 (1944年)",
+	37,
+	2,
+	"duplicated category",
+	"[[Category:残疾人奥林匹克运动会轮椅篮球奖牌得主]]"
+],[
+	"罗布·威廉斯",
+	11,
+	2,
+	"duplicated category",
+	"[[Category:英国男子赛艇运动员]]"
+],[
+	"罗慕路斯与雷穆斯",
+	74,
+	74,
+	"duplicated image caption parameter",
+	"Remus and the Cattle Thieves (attributed to one or more of the Carraccis)"
+],[
+	"罗斯·特恩布尔",
+	77,
+	2,
+	"duplicated category",
+	"[[Category:英超球員]]"
+],[
+	"罗曼·鲁坚科",
+	9,
+	2,
+	"duplicated category",
+	"[[Category:蘇聯共產黨中央委員會委員]]"
+],[
+	"罗杰斯多项式",
+	34,
+	2,
+	"duplicated category",
+	"[[Category:正交多项式]]"
+],[
+	"罗氏诊断",
+	19,
+	40,
+	"duplicated image caption parameter",
+	"central"
+],[
+	"罗汉寺 (重庆市)",
+	77,
+	22,
+	"duplicated image caption parameter",
+	"巴縣羅漢寺吳皋過灘舟夜重慶三詩碑"
+],[
+	"罗秀话",
+	102,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"罗素大学集团",
+	9,
+	3,
+	"duplicated parameter",
+	"4=zh-hk:諾定咸;zh-tw:諾丁漢;zh-cn:诺丁汉;\n "
+],[
+	"罗纳德·约翰·约翰斯顿",
+	32,
+	2,
+	"duplicated category",
+	"[[Category:艾塞克斯大學相關人物]]"
+],[
+	"罗老宇宙中心",
+	82,
+	2,
+	"duplicated category",
+	"[[Category:發射場]]"
+],[
+	"罗远芳",
+	21,
+	2,
+	"duplicated category",
+	"[[Category:第十二届全国人大代表]]"
+],[
+	"罗阿尔·阿蒙森",
+	49,
+	37,
+	"duplicated image caption parameter",
+	"RIGHT"
+],[
+	"罗马大学",
+	128,
+	53,
+	"duplicated image caption parameter",
+	"下"
+],[
+	"罗马天主教基辅圣尼各老主教座堂",
+	5,
+	3,
+	"duplicated parameter",
+	"location = 基辅红军街\n "
+],[
+	"罗马尼亚铁路",
+	118,
+	14,
+	"duplicated style attribute",
+	"style=\"border: 1px solid #999; background-color:#FFFFFF; text-align:left;\""
+],[
+	"罗马帝国的衰落",
+	105,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"罩甲",
+	17,
+	2,
+	"duplicated category",
+	"[[分類:盔甲]]"
+],[
+	"羅仕德",
+	33,
+	3,
+	"duplicated parameter",
+	" successor3 = [[費理敘]]\n "
+],[
+	"羅伊·懷特",
+	75,
+	2,
+	"duplicated category",
+	"[[Category:美國職棒大聯盟外野手]]"
+],[
+	"羅伊斯-格拉親王國",
+	63,
+	2,
+	"duplicated category",
+	"[[Category:德国历史上的亲王国]]"
+],[
+	"羅伯·柯德曼斯",
+	81,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"羅克斯群島",
+	53,
+	2,
+	"duplicated category",
+	"[[Category:加勒比海群岛]]"
+],[
+	"羅卿瑗",
+	99,
+	2,
+	"duplicated category",
+	"[[Category:國民力量黨員]]"
+],[
+	"羅嘉仁",
+	197,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"羅國華 (1992年)",
+	85,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"羅宏正",
+	269,
+	2,
+	"duplicated category",
+	"[[Category:SpeXial]]"
+],[
+	"羅尼·羅德里奎茲",
+	97,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"羅展鵬",
+	26,
+	2,
+	"duplicated category",
+	"[[Category:臺灣藝術家|L]]"
+],[
+	"羅德尼·羅伯特·波特",
+	2,
+	40,
+	"duplicated image caption parameter",
+	"220ox"
+],[
+	"羅德島州市鎮列表",
+	116,
+	25,
+	"duplicated style attribute",
+	"style=\"text-align:center;\""
+],[
+	"羅拔·佐治·莊臣",
+	108,
+	2,
+	"duplicated category",
+	"[[Category:明尼苏达州军人]]"
+],[
+	"羅拔·活·莊臣三世",
+	143,
+	2,
+	"duplicated category",
+	"[[Category:美國慈善家]]"
+],[
+	"羅拔·路易·莊臣",
+	118,
+	2,
+	"duplicated category",
+	"[[Category:美國億萬富豪]]"
+],[
+	"羅斯福遊戲",
+	332,
+	23,
+	"duplicated style attribute",
+	"style=\"font-size:small\""
+],[
+	"羅曼·別爾德尼科夫",
+	75,
+	2,
+	"duplicated category",
+	"[[Category:俄羅斯俄烏戰爭人物]]"
+],[
+	"羅汝楫",
+	63,
+	2,
+	"duplicated category",
+	"[[Category:歙縣人|L]]"
+],[
+	"羅華韋",
+	84,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"羅西亞航空",
+	25,
+	79,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"羅貝爾·吉斯卡爾",
+	45,
+	36,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"羅賓·威廉斯",
+	596,
+	2,
+	"duplicated category",
+	"[[Category:金球獎終身成就獎獲得者]]"
+],[
+	"羅賽爾國際賽道",
+	52,
+	21,
+	"duplicated style attribute",
+	"style=\"font-size:90%\""
+],[
+	"羅馬市電車和公共汽車公司",
+	11,
+	3,
+	"duplicated parameter",
+	" aum = <!-- Only used with financial services companies -->\n "
+],[
+	"羅馬鞋",
+	17,
+	2,
+	"duplicated category",
+	"[[Category:鞋]]"
+],[
+	"羅鼎城",
+	6,
+	3,
+	"duplicated parameter",
+	" order          = \n "
+],[
+	"美元硬币",
+	234,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"美味就是這樣",
+	78,
+	732,
+	"duplicated parameter",
+	"url=https://www.gazeta.ru/social/photo/vkusno_i_tochka.shtml"
+],[
+	"美国",
+	78,
+	3,
+	"duplicated parameter",
+	"leader_name4 = [[約翰·羅伯茨]]\n "
+],[
+	"美国公务员委员会",
+	23,
+	29,
+	"duplicated by attribute",
+	"by"
+],[
+	"美国最高法院大法官列表",
+	1161,
+	6,
+	"duplicated style attribute",
+	"style=\"height: 110px;\""
+],[
+	"美国参与的政权更迭 (冷战之前)",
+	131,
+	37,
+	"conflicting image frame parameter",
+	" 无框 "
+],[
+	"美国参议院军事委员会",
+	95,
+	2,
+	"duplicated category",
+	"[[Category:美国参议院委员会|M]]"
+],[
+	"美国各州人类发展指数列表",
+	285,
+	2,
+	"duplicated category",
+	"[[Category:美国经济列表]]"
+],[
+	"美国太空气象预报中心",
+	6,
+	3,
+	"duplicated parameter",
+	"jurisdiction={{USA}}\n "
+],[
+	"美国宪法第十七修正案",
+	201,
+	2,
+	"duplicated category",
+	"[[Category:1912年美國法律]]"
+],[
+	"美国州份",
+	63,
+	3,
+	"duplicated parameter",
+	" subdivision        = \n "
+],[
+	"美国总统选举亚利桑那州选情",
+	57,
+	4,
+	"duplicated scope attribute",
+	"scope=\"col\""
+],[
+	"美国总统选举华盛顿哥伦比亚特区选情",
+	53,
+	4,
+	"duplicated scope attribute",
+	"scope=\"col\""
+],[
+	"美国总统选举夏威夷州选情",
+	53,
+	4,
+	"duplicated scope attribute",
+	"scope=\"col\""
+],[
+	"美国总统选举康涅狄格州选情",
+	239,
+	4,
+	"duplicated scope attribute",
+	"scope=\"colgroup\""
+],[
+	"美国总统选举怀俄明州选情",
+	63,
+	4,
+	"duplicated scope attribute",
+	"scope=\"col\""
+],[
+	"美国总统选举犹他州选情",
+	61,
+	4,
+	"duplicated scope attribute",
+	"scope=\"col\""
+],[
+	"美国总统选举阿拉斯加州选情",
+	51,
+	4,
+	"duplicated scope attribute",
+	"scope=\"col\""
+],[
+	"美国无线电视网列表",
+	5,
+	43,
+	"duplicated image width parameter",
+	"250px"
+],[
+	"美国机车公司",
+	73,
+	35,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"美国法典",
+	10,
+	3,
+	"duplicated parameter",
+	" orig_lang_code =\n "
+],[
+	"美国特勤局",
+	11,
+	5,
+	"duplicated parameter",
+	" formed          =  {{start date and age|1865|7|5|paren=yes}}\n   "
+],[
+	"美国的犯罪问题",
+	145,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"美国陆军第10山地师",
+	16,
+	76,
+	"duplicated image border parameter",
+	"border"
+],[
+	"美国陆军职业列表",
+	85,
+	46,
+	"duplicated image caption parameter",
+	"USA - Army Infantry Insignia"
+],[
+	"美國國家男子足球隊",
+	79,
+	48,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"美國國民警衛隊",
+	64,
+	52,
+	"conflicting image horizontal-alignment parameter",
+	"right"
+],[
+	"美國大使",
+	9,
+	39,
+	"duplicated name attribute",
+	"name=\"StateDept1\""
+],[
+	"美國恐怖故事：啟示錄",
+	444,
+	2,
+	"duplicated category",
+	"[[Category:美國劇情電視劇]]"
+],[
+	"美國特工 (漫畫)",
+	80,
+	2,
+	"duplicated category",
+	"[[Category:漫威漫畫電視角色]]"
+],[
+	"美國獨立戰爭",
+	134,
+	103,
+	"conflicting image frame parameter",
+	"thumb"
+],[
+	"美國第六集團軍",
+	53,
+	30,
+	"duplicated parameter",
+	"first1=Harry "
+],[
+	"美國總統選舉新墨西哥州選情",
+	64,
+	4,
+	"duplicated scope attribute",
+	"scope=\"col\""
+],[
+	"美國總統選舉阿肯色州選情",
+	204,
+	4,
+	"duplicated scope attribute",
+	"scope=\"col\""
+],[
+	"美國職棒球場全壘打距離列表",
+	6,
+	33,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"美國足球冠軍聯賽",
+	693,
+	2,
+	"duplicated category",
+	"[[Category:美國職業足球聯賽]]"
+],[
+	"美國陸軍第82空降師",
+	10,
+	3,
+	"duplicated parameter",
+	"motto=「'''ALL THE WAY!'''」\n "
+],[
+	"美國隊長2：酷寒戰士",
+	543,
+	2,
+	"duplicated category",
+	"[[Category:2010年代英語片]]"
+],[
+	"美女食神",
+	60,
+	24,
+	"duplicated style attribute",
+	"style=\"width:95%;\""
+],[
+	"美妙宠物 光之美少女",
+	112,
+	336,
+	"duplicated parameter",
+	"language=ja"
+],[
+	"美属萨摩亚足球代表队",
+	12,
+	3,
+	"duplicated parameter",
+	" FIFA Rank          = [[國際足協世界排名|192]]（2020年4月） \n "
+],[
+	"美式懸罪",
+	1126,
+	2,
+	"duplicated category",
+	"[[Category:强奸题材作品]]"
+],[
+	"美拍",
+	13,
+	2,
+	"duplicated category",
+	"[[Category:视频分享网站]]"
+],[
+	"美洲",
+	7,
+	57,
+	"duplicated image width parameter",
+	"300px"
+],[
+	"美洲胡瓜魚",
+	19,
+	2,
+	"duplicated category",
+	"[[Category: 1814年描述的鱼类|M]]"
+],[
+	"美洲西班牙语",
+	66,
+	2,
+	"duplicated category",
+	"[[Category:西班牙语方言]]"
+],[
+	"美猴王 (電影)",
+	170,
+	2,
+	"duplicated category",
+	"[[Category:香港喜劇動作片]]"
+],[
+	"美田邨",
+	31,
+	602,
+	"duplicated parameter",
+	"work=香港房屋委員會建築小組委員會"
+],[
+	"美盈苑",
+	58,
+	26,
+	"duplicated image caption parameter",
+	"12Dec2015MeiYing"
+],[
+	"美空真瑠",
+	5,
+	3,
+	"duplicated parameter",
+	" 職業 = 舞台演員\n "
+],[
+	"美空雲雀",
+	166,
+	2,
+	"duplicated category",
+	"[[Category:神奈川縣歌手]]"
+],[
+	"美萨耐帕达",
+	35,
+	2,
+	"duplicated category",
+	"[[Category:伊拉克人]]"
+],[
+	"美食獵人TORIKO",
+	1357,
+	23,
+	"duplicated style attribute",
+	"style=\"font-size:small\""
+],[
+	"美麗境界 (專輯)",
+	305,
+	4,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"羡慕的話就輸了",
+	177,
+	2,
+	"duplicated category",
+	"[[Category:韓國綜藝節目|R]]"
+],[
+	"群創光電",
+	95,
+	2,
+	"duplicated category",
+	"[[Category:显示科技公司]]"
+],[
+	"群力国家城市湿地公园",
+	66,
+	2,
+	"duplicated category",
+	"[[Category:哈尔滨公园]]"
+],[
+	"群馬Green Wings",
+	117,
+	5,
+	"duplicated style attribute",
+	"style= \"center\""
+],[
+	"義勇警察",
+	14,
+	50,
+	"duplicated image caption parameter",
+	"Taiwanese Auxiliary Police Car"
+],[
+	"義大利最高電影票房收入列表",
+	961,
+	64,
+	"duplicated name attribute",
+	"name=<ref"
+],[
+	"義大利衣索比亞戰爭 (1887—1889)",
+	36,
+	2,
+	"duplicated category",
+	"[[Category:意大利戰爭]]"
+],[
+	"義大客運",
+	50,
+	895,
+	"duplicated parameter",
+	"language=zh-tw"
+],[
+	"義虎堂",
+	23,
+	387,
+	"duplicated name attribute",
+	"name=\"吳敏菁1\""
+],[
+	"羽田機場第1、第2航站樓站",
+	257,
+	2,
+	"duplicated category",
+	"[[Category:日本機場聯絡鐵路車站]]"
+],[
+	"翁克堯",
+	63,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"翁崑德",
+	17,
+	2,
+	"duplicated category",
+	"[[Category:嘉義市人]]"
+],[
+	"翁弗勒尔",
+	210,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"翁曉玲",
+	107,
+	172,
+	"duplicated parameter",
+	"accessdate=2025-03-02 "
+],[
+	"翼腭窝",
+	34,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"翼龙列表",
+	151,
+	552,
+	"duplicated parameter",
+	"archive-url=https://archive.today/20130107012637/http://www.mnhn.fr/museum/foffi"
+],[
+	"翻盖",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:使用多个图像且自动缩放的页面]]"
+],[
+	"耀年",
+	28,
+	2,
+	"duplicated category",
+	"[[Category:鑲黃旗蒙古副都統]]"
+],[
+	"耀榮文化",
+	35,
+	4,
+	"duplicated width attribute",
+	"width=\"200\""
+],[
+	"老友记",
+	467,
+	2,
+	"duplicated category",
+	"[[Category:美国电视情景喜剧]]"
+],[
+	"老山战役",
+	193,
+	40,
+	"duplicated image caption parameter",
+	"老山作战纪念馆 - 2023-07-20"
+],[
+	"老挝国歌",
+	4,
+	3,
+	"duplicated parameter",
+	"transcription = Pheng Xat Lao\n "
+],[
+	"老约翰·施特劳斯",
+	125,
+	2,
+	"duplicated category",
+	"[[Category:葬于维也纳中央公墓]]"
+],[
+	"老道明大學",
+	30,
+	51,
+	"duplicated image caption parameter",
+	"seal"
+],[
+	"耕文路站",
+	12,
+	3,
+	"duplicated parameter",
+	"code = GWL\n "
+],[
+	"耶戶",
+	4,
+	30,
+	"duplicated image caption parameter",
+	"<br style=\"clear:both;\">"
+],[
+	"耶日·塞巴斯蒂安·卢博米尔斯基",
+	2,
+	20,
+	"duplicated style attribute",
+	"style=\"background:#efefef;\""
+],[
+	"耶稣有关小孩的教导",
+	7,
+	2,
+	"duplicated category",
+	"[[Category:含有希臘語的條目]]"
+],[
+	"耿伯軒",
+	67,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"耿晓峰",
+	11,
+	3,
+	"duplicated parameter",
+	" currentclub = {{flagicon|CHN}}[[武汉三镇足球俱乐部]]\n "
+],[
+	"职教城东站",
+	22,
+	3,
+	"duplicated parameter",
+	" code = \n "
+],[
+	"职教城站",
+	30,
+	3,
+	"duplicated parameter",
+	" opened = 2019年12月26日\n "
+],[
+	"联合国人权理事会",
+	31,
+	77,
+	"duplicated image caption parameter",
+	" 人权与文明联盟厅是位于瑞士日内瓦万国宫的联合国人权事务高级专员办事处"
+],[
+	"联合国安全理事会第1718号决议",
+	104,
+	2,
+	"duplicated category",
+	"[[Category:聯合國安全理事會制裁制度]]"
+],[
+	"联盟、进步和民主",
+	42,
+	2,
+	"duplicated category",
+	"[[Category:社会自由主义政党]]"
+],[
+	"联觉",
+	137,
+	30,
+	"duplicated image caption parameter",
+	"Booba and Kiki shapes"
+],[
+	"联邦和平中央委员会",
+	25,
+	3,
+	"duplicated parameter",
+	" website = \n "
+],[
+	"聖克拉拉縣",
+	317,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"聖克魯斯群島戰役",
+	45,
+	37,
+	"duplicated image caption parameter",
+	"Left"
+],[
+	"聖公媽廟",
+	34,
+	21,
+	"conflicting image frame parameter",
+	"thumb"
+],[
+	"聖彼得堡 (佛羅里達州)",
+	200,
+	3,
+	"duplicated parameter",
+	" population_note    = \n "
+],[
+	"聖若翰節",
+	5,
+	37,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"聖菲利佩",
+	1,
+	64,
+	"duplicated image caption parameter",
+	"r250px"
+],[
+	"聖詹姆斯堂區 (牙買加)",
+	31,
+	2,
+	"duplicated category",
+	"[[Category:牙买加圣詹姆斯堂区| ]]"
+],[
+	"聖蹟寺",
+	1,
+	51,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"聖顯者",
+	2,
+	67,
+	"duplicated image caption parameter",
+	"miniatura"
+],[
+	"聚对苯二甲酸乙二酯",
+	68,
+	41,
+	"duplicated image caption parameter",
+	"Border"
+],[
+	"聚集体",
+	3,
+	3,
+	"duplicated parameter",
+	"native_title= 聚集体\n "
+],[
+	"聯合國安全理事會第1874號決議",
+	45,
+	2,
+	"duplicated category",
+	"[[Category:聯合國安全理事會制裁制度]]"
+],],"batches":43}

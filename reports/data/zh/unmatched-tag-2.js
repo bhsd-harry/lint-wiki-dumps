@@ -1,1 +1,1201 @@
-window.data={"articles":[["2019年中国足球超级联赛",110,160,"unmatched closing tag","</small>"],["2019年北印度洋氣旋季",280,182,"unmatched closing tag","</div>"],["2019年印度大選",628,73,"unmatched closing tag","</span>"],["2019年印度尼西亞立法選舉",273,2,"unmatched closing tag","</small>"],["2019年印度尼西亞總統選舉",348,301,"unmatched closing tag","</small>"],["2019年台灣企業甲級足球聯賽",16,133,"unclosed tag","<small>"],["2019年太平洋颱風季",157,2,"unmatched closing tag","</div>"],["2019年彰化縣第一選舉區立法委員缺額補選",142,36,"unmatched closing tag","</small>"],["2019年日本職業足球聯賽",193,825,"unmatched closing tag","</small>"],["2019年東亞青年運動會",133,47,"unclosed tag","<del>"],["2019年東南亞運動會體操男子鞍馬比賽",21,63,"unmatched closing tag","</small>"],["2019年歐洲運動會沙灘足球比賽",82,54,"unmatched closing tag","</abbr>"],["2019年澳門甲組足球聯賽",29,335,"unmatched closing tag","</div>"],["2019年美國國家棒球名人堂票選",37,117,"unclosed tag","<center>"],["2019年美洲金盃",195,166,"unmatched closing tag","</small>"],["2019年至2020年NBA賽季交易列表",20,136,"unclosed tag","<small>"],["2019年臺南市第二選舉區立法委員缺額補選",217,36,"unmatched closing tag","</small>"],["2020年中国足球超级联赛",110,160,"unmatched closing tag","</small>"],["2020年亞足聯五人制足球錦標賽",117,2,"unmatched closing tag","</center>"],["2020年冬季青年奧林匹克運動會",36,2,"unmatched closing tag","</div>"],["2020年北印度洋氣旋季",256,182,"unmatched closing tag","</div>"],["2020年夏季奧林匹克運動會女子排球比賽參賽資格",1032,2,"unclosed tag","<small>"],["2020年大韩民国国会选举",1689,74,"unmatched closing tag","</span>"],["2020年度香港五台頒獎禮主要獲獎歌曲列表",184,28,"unmatched closing tag","</small>"],["2020年度香港小姐競選",196,2,"unmatched closing tag","</small>"],["2020年洛杉磯道奇隊球季",21,56,"unmatched closing tag","</small>"],["2020年至2021年英格蘭足球冠軍聯賽",85,2,"unmatched closing tag","</div>"],["2020年至2021年费城76人赛季",17,57,"unmatched closing tag","</small>"],["2020年至2021年达拉斯独行侠赛季",19,56,"unmatched closing tag","</small>"],["2020年英格兰足总杯决赛",43,10,"unmatched closing tag","</small>"],["2020年高雄市市長補選",799,37,"unmatched closing tag","</small>"],["2020年高雄市市長韓國瑜罷免案",1104,37,"unmatched closing tag","</small>"],["2021—2022年南太平洋熱帶氣旋季",45,66,"unmatched closing tag","</small>"],["2021—2022年西安市2019冠状病毒病聚集性疫情",65,2,"unmatched closing tag","</center>"],["2021年世界羽毛球錦標賽女子單打項目",45,2,"unmatched closing tag","</ol>"],["2021年世界羽毛球錦標賽女子雙打項目",45,2,"unmatched closing tag","</ol>"],["2021年世界羽毛球錦標賽混合雙打項目",45,2,"unmatched closing tag","</ol>"],["2021年世界羽毛球錦標賽男子單打項目",46,2,"unmatched closing tag","</ol>"],["2021年世界羽毛球錦標賽男子雙打項目",47,2,"unmatched closing tag","</ol>"],["2021年中国足球超级联赛",110,142,"unmatched closing tag","</small>"],["2021年中國國民黨主席選舉",142,2,"unmatched closing tag","</div>"],["2021年圣保罗大奖赛",961,78,"unclosed tag","<small>"],["2021年太平洋颱風季",156,2,"unmatched closing tag","</div>"],["2021年度香港小姐競選",284,2,"unmatched closing tag","</small>"],["2021年維多利亞州地震",52,1678,"unmatched closing tag","</span>"],["2021年至2022年世界電動方程式錦標賽",1111,52,"unmatched closing tag","</span>"],["2021年至2022年傑志體育會賽季",985,64,"unmatched closing tag","</span>"],["2021年至2022年费城76人赛季",18,59,"unmatched closing tag","</small>"],["2021年至2022年达拉斯独行侠赛季",20,58,"unmatched closing tag","</small>"],["2021年防止外来干预（对应措施）法令",6,104,"unclosed tag","<small>"],["2021年墨西哥城大奖赛",782,77,"unclosed tag","<small>"],["2022年1月北京市2019冠状病毒病聚集性疫情",781,2,"unmatched closing tag","</center>"],["2022年1月深圳市2019冠状病毒病聚集性疫情",179,2,"unmatched closing tag","</center>"],["2022年2月葫芦岛市2019冠状病毒病聚集性疫情",31,317,"unmatched closing tag","</div>"],["2022年3月杭州四季青服装市场2019冠状病毒病聚集性疫情",136,2,"unmatched closing tag","</div>"],["2022年3月苏州市2019冠状病毒病聚集性疫情",86,2,"unmatched closing tag","</div>"],["2022年6—7月澳門2019冠狀病毒病聚集性疫情相關交通安排",51,106,"unmatched closing tag","</span>"],["2022年6月泗县2019冠状病毒病聚集性疫情",220,2,"unmatched closing tag","</div>"],["2022年7月上海市2019冠状病毒病聚集性疫情",37,2,"unmatched closing tag","</center>"],["2022年7月西安市2019冠状病毒病聚集性疫情",130,2,"unmatched closing tag","</div>"],["2022年K聯賽1",147,33,"unclosed tag","<small>"],["2022年K聯賽2",97,85,"unclosed tag","<small>"],["2022年WTA年终总决赛",248,47,"unmatched closing tag","</small>"],["2022年世界女子排球錦標賽",145,96,"unmatched closing tag","</sup>"],["2022年世界男子排球錦標賽入圍資格",865,13,"unclosed tag","<small>"],["2022年世界羽毛球錦標賽參賽資格",1325,60,"unclosed tag","<s>"],["2022年世界羽毛球錦標賽女子單打項目",46,2,"unmatched closing tag","</ol>"],["2022年世界羽毛球錦標賽女子雙打項目",46,2,"unmatched closing tag","</ol>"],["2022年世界羽毛球錦標賽混合雙打項目",45,2,"unmatched closing tag","</ol>"],["2022年世界羽毛球錦標賽男子單打項目",45,2,"unmatched closing tag","</ol>"],["2022年世界羽毛球錦標賽男子雙打項目",45,2,"unmatched closing tag","</ol>"],["2022年世界跆拳道锦标赛",26,2,"unmatched closing tag","</center>"],["2022年中国足球超级联赛",125,161,"unmatched closing tag","</small>"],["2022年亞洲運動會游泳女子200公尺自由式比賽",138,22,"unmatched closing tag","</small>"],["2022年佛羅里達州聯邦眾議員選舉",48,43,"unmatched closing tag","</small>"],["2022年冬季残疾人奥林匹克运动会越野滑雪比赛",57,70,"unclosed tag","<small>"],["2022年冬季残疾人奥林匹克运动会高山滑雪男子大回转比赛",40,107,"unclosed tag","<small>"],["2022年冬季残疾人奥林匹克运动会高山滑雪男子滑降比赛",26,108,"unclosed tag","<small>"],["2022年冬季残疾人奥林匹克运动会高山滑雪男子超级大回转比赛",39,102,"unclosed tag","<small>"],["2022年台灣企業甲級足球聯賽",16,138,"unclosed tag","<small>"],["2022年大西洋颶風季",71,64,"unmatched closing tag","</small>"],["2022年太平洋颶風季",98,66,"unmatched closing tag","</small>"],["2022年度香港小姐競選",174,2,"unmatched closing tag","</small>"],["2022年日本職業足球聯賽",38,102,"unmatched closing tag","</small>"],["2022年歐洲女排冠軍聯賽",326,4,"unmatched closing tag","</div>"],["2022年比利·简·金杯",34,2,"unmatched closing tag","</small>"],["2022年至2023年泰國甲組足球聯賽",14,206,"unmatched closing tag","</small>"],["2022年至2023年费城76人赛季",18,63,"unmatched closing tag","</small>"],["2022年至今的俄乌和平谈判",172,569,"unmatched closing tag","</blockquote>"],["2023年K聯賽1",153,33,"unclosed tag","<small>"],["2023年世界羽毛球錦標賽參賽資格",2487,18,"unclosed tag","<S>"],["2023年世界跆拳道锦标赛",26,2,"unmatched closing tag","</center>"],["2023年世界青年女子排球錦標賽",153,9,"unmatched closing tag","</div>"],["2023年中国足球超级联赛",124,187,"unmatched closing tag","</small>"],["2023年中央广播电视总台春节联欢晚会",120,121,"unclosed tag","<s>"],["2023年度香港各大電子傳媒機構冠軍歌曲列表",65,12,"unmatched closing tag","</small>"],["2023年度香港小姐競選",263,2,"unmatched closing tag","</small>"],["2023年无畏契约全球冠军赛",8,396,"unclosed tag","<small>"],["2023年時代力量黨主席選舉",51,24,"unmatched closing tag","</span>"],["2023年東亞青年運動會",312,88,"unclosed tag","<del>"],["2023年至2024年土耳其女子排球超級联赛",113,2,"unmatched closing tag","</div>"],["2023年至2024年费城76人赛季",18,59,"unmatched closing tag","</small>"],["2024年世界羽聯世界巡迴賽",107,2,"unmatched closing tag","</small>"],["2024年中国足球超级联赛",109,205,"unmatched closing tag","</small>"],["2024年佛羅里達州聯邦眾議員選舉",45,43,"unmatched closing tag","</small>"],["2024年基隆市市長謝國樑罷免案",549,37,"unmatched closing tag","</small>"],["2024年夏季奥林匹克运动会乌干达代表团",39,2,"unmatched closing tag","</small>"],["2024年夏季奥林匹克运动会危地马拉代表团",44,2,"unmatched closing tag","</small>"],["2024年夏季奥林匹克运动会瑞士代表团",84,34,"unmatched closing tag","</small>"],["2024年夏季奧林匹克運動會女子78公斤以上級柔道比賽",94,130,"unclosed tag","<s>"],["2024年夏季奧林匹克運動會女子輕量級拳擊比賽",106,114,"unmatched closing tag","</s>"],["2024年夏季奧林匹克運動會游泳比賽",242,2,"unmatched closing tag","</small>"],["2024年夏季奧林匹克運動會男子100公斤以上級柔道比賽",94,112,"unclosed tag","<s>"],["2024年夏季奧林匹克運動會男子66公斤級柔道比賽",77,172,"unclosed tag","<s>"],["2024年夏季奧林匹克運動會男子73公斤級柔道比賽",113,137,"unclosed tag","<s>"],["2024年夏季奧林匹克運動會男子81公斤級柔道比賽",213,157,"unclosed tag","<s>"],["2024年夏季奧林匹克運動會男子89公斤級舉重比賽",98,36,"unmatched closing tag","</s>"],["2024年奥地利议会选举",320,79,"unclosed tag","<small>"],["2024年度香港小姐競選",222,2,"unmatched closing tag","</small>"],["2024年日本眾議院議員總選舉",817,54,"unclosed tag","<small>"],["2024年歐洲議會選舉 (荷蘭)",393,90,"unmatched closing tag","</span>"],["2024年至2025年亞足聯冠軍精英聯賽淘汰賽階段",427,27,"tag that is both closing and self-closing","</br>"],["2024年臺灣",494,37,"unmatched closing tag","</bdi>"],["2025年世界女子排球錦標賽入圍資格",679,13,"unclosed tag","<small>"],["2025年世界男子排球錦標賽入圍資格",734,13,"unclosed tag","<small>"],["2025年世界羽聯世界巡迴賽",68,2,"unmatched closing tag","</small>"],["2025年中国足球超级联赛",345,176,"unmatched closing tag","</small>"],["2025年亞洲室內暨武藝運動會",34,50,"unmatched closing tag","</del>"],["2025年太平洋颱風季",215,2,"unmatched closing tag","</center>"],["2025年格陵蘭大選",282,100,"unmatched closing tag","</span>"],["2025年科索沃议会选举",166,25,"tag that is both closing and self-closing","</br>"],["2025年葡萄牙立法選舉",32,26,"tag that is both closing and self-closing","</br>"],["20世紀少男少女",606,138,"unclosed tag","<small>"],["270省道 (广东省)",25,2,"unmatched closing tag","</table>"],["272省道 (广东省)",37,2,"unmatched closing tag","</table>"],["2AM",886,2,"unmatched closing tag","</div>"],["2nd fragment of fripSide",22,93,"unmatched closing tag","</div>"],["319国道",105,2,"unmatched closing tag","</center>"],["321国道",110,2,"unmatched closing tag","</center>"],["343蕩婦宣言",12,2,"unmatched closing tag","</blockquote>"],["34街-哈德遜調車場車站",130,2,"unmatched closing tag","</span>"],["34街-賓州車站 (IND第八大道線)",76,380,"unclosed tag","<small>"],["364省道 (广东省)",23,2,"unmatched closing tag","</table>"],["365省道 (广东省)",31,2,"unmatched closing tag","</table>"],["3D生物列印",2,1039,"unmatched closing tag","</span>"],["3rd reflection of fripSide",21,96,"unmatched closing tag","</div>"],["400系列公路",425,140,"unmatched closing tag","</center>"],["40年代上海歌坛七大歌星",30,2,"unmatched closing tag","</table>"],["49街车站 (BMT百老汇线)",73,140,"unmatched closing tag","</small>"],["50元人民币",63,2,"unmatched closing tag","</div>"],["5歐元紙幣",49,45,"unmatched closing tag","</center>"],["62街／新烏德勒支大道車站",42,57,"unmatched closing tag","</span>"],["639国道",41,2,"unmatched closing tag","</center>"],["72街車站 (第二大道線)",67,64,"unmatched closing tag","</span>"],["7频道HD剧集作品列表",65,2,"unmatched closing tag","</center>"],["8吋55倍徑艦炮",161,246,"unmatched closing tag","</center>"],["A'N'D",371,103,"unclosed tag","<center>"],["A2K",317,44,"unmatched closing tag","</small>"],["AAA (團體)",825,2,"unmatched closing tag","</div>"],["Adobe Photoshop",276,39,"unmatched closing tag","</small>"],["ADS兩棲突擊步槍",98,2,"unmatched closing tag","</div>"],["AECOM",17,111,"unmatched closing tag","</small>"],["Again (YUI單曲)",14,418,"unmatched closing tag","</small>"],["Aice5",86,40,"unmatched closing tag","</sup>"],["AK-102突击步枪",13,2,"unmatched closing tag","</div>"],["AKB48 光榮時刻",3,96,"unmatched closing tag","</small>"],["AKB48 永遠在一起",6,85,"unmatched closing tag","</small>"],["AKB48 笑淚交織",7,97,"unmatched closing tag","</small>"],["AKB48 重溫時間 最佳曲目100 2013",172,101,"unmatched closing tag","</div>"],["AKB48相关作品",234,96,"unclosed tag","<center>"],["AKB48第19張單曲選拔猜拳大會",237,2,"unmatched closing tag","</table>"],["AKB48第37張單曲選拔總選舉",233,88,"unmatched closing tag","</small>"],["AKBINGO!",611,15,"unmatched closing tag","</small>"],["Akdal MKA 1919半自動霰彈槍",63,2,"unmatched closing tag","</div>"],["ALGOL 60",161,109,"unmatched closing tag","</span>"],["ALICE (韓國組合)",622,54,"unmatched closing tag","</small>"],["Alright, Still",19,94,"unclosed tag","<small>"],["Amiibo",133,28,"unmatched closing tag","</small>"],["AMP公司",19,42,"unmatched closing tag","</small>"],["And & End",179,33,"unmatched closing tag","</small>"],["Andante (韓國電視劇)",338,19,"unmatched closing tag","</font>"],["Anna hisbbuR",334,13,"unmatched closing tag","</div>"],["Another Day (游戏)",17,182,"unmatched closing tag","</del>"],["Answer",15,26,"unmatched closing tag","</small>"],["APAN Star Awards",2317,2,"unmatched closing tag","</div>"],["ARASHI No.1～嵐呼喚暴風雨～",12,43,"unmatched closing tag","</li>"],["Archive.today",24,4,"unmatched closing tag","</sup>"],["ASMR MAX世界巡迴演唱會",178,3,"unmatched closing tag","</small>"],["AT-9吉普教練機",2,38,"unmatched closing tag","</small>"],["ATI Radeon 8000",42,89,"unmatched closing tag","</font>"],["A无穷代数",19,290,"unmatched closing tag","</center>"],["B'z Loud-Gym",368,2,"unmatched closing tag","</div>"],["Baby Steps ~網球優等生~",621,38,"unmatched closing tag","</small>"],["BABYMETAL",358,4,"unclosed tag","<small>"],["BABYMETAL (專輯)",144,13,"unclosed tag","<center>"],["Bad Girl佬",6323,133,"unmatched closing tag","</span>"],["BAND JA NAIMON!",36,48,"unmatched closing tag","</small>"],["BanG Dream!音樂作品",303,17,"unclosed tag","<small>"],["BBC iPlayer",17,51,"unmatched closing tag","</rb>"],["BFR左輪手槍",97,2,"unmatched closing tag","</div>"]],"batches":60}
+window.data={"articles":[[
+	"2019年中国足球超级联赛",
+	110,
+	160,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2019年北印度洋氣旋季",
+	280,
+	182,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"2019年印度大選",
+	628,
+	73,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"2019年印度尼西亞立法選舉",
+	273,
+	2,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2019年印度尼西亞總統選舉",
+	348,
+	301,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2019年台灣企業甲級足球聯賽",
+	16,
+	133,
+	"unclosed tag",
+	"<small>"
+],[
+	"2019年太平洋颱風季",
+	157,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"2019年彰化縣第一選舉區立法委員缺額補選",
+	142,
+	36,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2019年日本職業足球聯賽",
+	193,
+	825,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2019年東亞青年運動會",
+	133,
+	47,
+	"unclosed tag",
+	"<del>"
+],[
+	"2019年東南亞運動會體操男子鞍馬比賽",
+	21,
+	63,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2019年歐洲運動會沙灘足球比賽",
+	82,
+	54,
+	"unmatched closing tag",
+	"</abbr>"
+],[
+	"2019年澳門甲組足球聯賽",
+	29,
+	335,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"2019年美國國家棒球名人堂票選",
+	37,
+	117,
+	"unclosed tag",
+	"<center>"
+],[
+	"2019年美洲金盃",
+	195,
+	166,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2019年至2020年NBA賽季交易列表",
+	20,
+	136,
+	"unclosed tag",
+	"<small>"
+],[
+	"2019年臺南市第二選舉區立法委員缺額補選",
+	217,
+	36,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2020年中国足球超级联赛",
+	110,
+	160,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2020年亞足聯五人制足球錦標賽",
+	117,
+	2,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"2020年冬季青年奧林匹克運動會",
+	36,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"2020年北印度洋氣旋季",
+	256,
+	182,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"2020年夏季奧林匹克運動會女子排球比賽參賽資格",
+	1032,
+	2,
+	"unclosed tag",
+	"<small>"
+],[
+	"2020年大韩民国国会选举",
+	1689,
+	74,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"2020年度香港五台頒獎禮主要獲獎歌曲列表",
+	184,
+	28,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2020年度香港小姐競選",
+	196,
+	2,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2020年洛杉磯道奇隊球季",
+	21,
+	56,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2020年至2021年英格蘭足球冠軍聯賽",
+	85,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"2020年至2021年费城76人赛季",
+	17,
+	57,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2020年至2021年达拉斯独行侠赛季",
+	19,
+	56,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2020年英格兰足总杯决赛",
+	43,
+	10,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2020年高雄市市長補選",
+	799,
+	37,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2020年高雄市市長韓國瑜罷免案",
+	1104,
+	37,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2021—2022年南太平洋熱帶氣旋季",
+	45,
+	66,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2021—2022年西安市2019冠状病毒病聚集性疫情",
+	65,
+	2,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"2021年世界羽毛球錦標賽女子單打項目",
+	45,
+	2,
+	"unmatched closing tag",
+	"</ol>"
+],[
+	"2021年世界羽毛球錦標賽女子雙打項目",
+	45,
+	2,
+	"unmatched closing tag",
+	"</ol>"
+],[
+	"2021年世界羽毛球錦標賽混合雙打項目",
+	45,
+	2,
+	"unmatched closing tag",
+	"</ol>"
+],[
+	"2021年世界羽毛球錦標賽男子單打項目",
+	46,
+	2,
+	"unmatched closing tag",
+	"</ol>"
+],[
+	"2021年世界羽毛球錦標賽男子雙打項目",
+	47,
+	2,
+	"unmatched closing tag",
+	"</ol>"
+],[
+	"2021年中国足球超级联赛",
+	110,
+	142,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2021年中國國民黨主席選舉",
+	142,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"2021年圣保罗大奖赛",
+	961,
+	78,
+	"unclosed tag",
+	"<small>"
+],[
+	"2021年太平洋颱風季",
+	156,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"2021年度香港小姐競選",
+	284,
+	2,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2021年維多利亞州地震",
+	52,
+	1678,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"2021年至2022年世界電動方程式錦標賽",
+	1111,
+	52,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"2021年至2022年傑志體育會賽季",
+	985,
+	64,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"2021年至2022年费城76人赛季",
+	18,
+	59,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2021年至2022年达拉斯独行侠赛季",
+	20,
+	58,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2021年防止外来干预（对应措施）法令",
+	6,
+	104,
+	"unclosed tag",
+	"<small>"
+],[
+	"2021年墨西哥城大奖赛",
+	782,
+	77,
+	"unclosed tag",
+	"<small>"
+],[
+	"2022年1月北京市2019冠状病毒病聚集性疫情",
+	781,
+	2,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"2022年1月深圳市2019冠状病毒病聚集性疫情",
+	179,
+	2,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"2022年2月葫芦岛市2019冠状病毒病聚集性疫情",
+	31,
+	317,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"2022年3月杭州四季青服装市场2019冠状病毒病聚集性疫情",
+	136,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"2022年3月苏州市2019冠状病毒病聚集性疫情",
+	86,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"2022年6—7月澳門2019冠狀病毒病聚集性疫情相關交通安排",
+	51,
+	106,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"2022年6月泗县2019冠状病毒病聚集性疫情",
+	220,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"2022年7月上海市2019冠状病毒病聚集性疫情",
+	37,
+	2,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"2022年7月西安市2019冠状病毒病聚集性疫情",
+	130,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"2022年K聯賽1",
+	147,
+	33,
+	"unclosed tag",
+	"<small>"
+],[
+	"2022年K聯賽2",
+	97,
+	85,
+	"unclosed tag",
+	"<small>"
+],[
+	"2022年WTA年终总决赛",
+	248,
+	47,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2022年世界女子排球錦標賽",
+	145,
+	96,
+	"unmatched closing tag",
+	"</sup>"
+],[
+	"2022年世界男子排球錦標賽入圍資格",
+	865,
+	13,
+	"unclosed tag",
+	"<small>"
+],[
+	"2022年世界羽毛球錦標賽參賽資格",
+	1325,
+	60,
+	"unclosed tag",
+	"<s>"
+],[
+	"2022年世界羽毛球錦標賽女子單打項目",
+	46,
+	2,
+	"unmatched closing tag",
+	"</ol>"
+],[
+	"2022年世界羽毛球錦標賽女子雙打項目",
+	46,
+	2,
+	"unmatched closing tag",
+	"</ol>"
+],[
+	"2022年世界羽毛球錦標賽混合雙打項目",
+	45,
+	2,
+	"unmatched closing tag",
+	"</ol>"
+],[
+	"2022年世界羽毛球錦標賽男子單打項目",
+	45,
+	2,
+	"unmatched closing tag",
+	"</ol>"
+],[
+	"2022年世界羽毛球錦標賽男子雙打項目",
+	45,
+	2,
+	"unmatched closing tag",
+	"</ol>"
+],[
+	"2022年世界跆拳道锦标赛",
+	26,
+	2,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"2022年中国足球超级联赛",
+	125,
+	161,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2022年亞洲運動會游泳女子200公尺自由式比賽",
+	138,
+	22,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2022年佛羅里達州聯邦眾議員選舉",
+	48,
+	43,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2022年冬季残疾人奥林匹克运动会越野滑雪比赛",
+	57,
+	70,
+	"unclosed tag",
+	"<small>"
+],[
+	"2022年冬季残疾人奥林匹克运动会高山滑雪男子大回转比赛",
+	40,
+	107,
+	"unclosed tag",
+	"<small>"
+],[
+	"2022年冬季残疾人奥林匹克运动会高山滑雪男子滑降比赛",
+	26,
+	108,
+	"unclosed tag",
+	"<small>"
+],[
+	"2022年冬季残疾人奥林匹克运动会高山滑雪男子超级大回转比赛",
+	39,
+	102,
+	"unclosed tag",
+	"<small>"
+],[
+	"2022年台灣企業甲級足球聯賽",
+	16,
+	138,
+	"unclosed tag",
+	"<small>"
+],[
+	"2022年大西洋颶風季",
+	71,
+	64,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2022年太平洋颶風季",
+	98,
+	66,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2022年度香港小姐競選",
+	174,
+	2,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2022年日本職業足球聯賽",
+	38,
+	102,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2022年歐洲女排冠軍聯賽",
+	326,
+	4,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"2022年比利·简·金杯",
+	34,
+	2,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2022年至2023年泰國甲組足球聯賽",
+	14,
+	206,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2022年至2023年费城76人赛季",
+	18,
+	63,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2022年至今的俄乌和平谈判",
+	172,
+	569,
+	"unmatched closing tag",
+	"</blockquote>"
+],[
+	"2023年K聯賽1",
+	153,
+	33,
+	"unclosed tag",
+	"<small>"
+],[
+	"2023年世界羽毛球錦標賽參賽資格",
+	2487,
+	18,
+	"unclosed tag",
+	"<S>"
+],[
+	"2023年世界跆拳道锦标赛",
+	26,
+	2,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"2023年世界青年女子排球錦標賽",
+	153,
+	9,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"2023年中国足球超级联赛",
+	124,
+	187,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2023年中央广播电视总台春节联欢晚会",
+	120,
+	121,
+	"unclosed tag",
+	"<s>"
+],[
+	"2023年度香港各大電子傳媒機構冠軍歌曲列表",
+	65,
+	12,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2023年度香港小姐競選",
+	263,
+	2,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2023年无畏契约全球冠军赛",
+	8,
+	396,
+	"unclosed tag",
+	"<small>"
+],[
+	"2023年時代力量黨主席選舉",
+	51,
+	24,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"2023年東亞青年運動會",
+	312,
+	88,
+	"unclosed tag",
+	"<del>"
+],[
+	"2023年至2024年土耳其女子排球超級联赛",
+	113,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"2023年至2024年费城76人赛季",
+	18,
+	59,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2024年世界羽聯世界巡迴賽",
+	107,
+	2,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2024年中国足球超级联赛",
+	109,
+	205,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2024年佛羅里達州聯邦眾議員選舉",
+	45,
+	43,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2024年基隆市市長謝國樑罷免案",
+	549,
+	37,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2024年夏季奥林匹克运动会乌干达代表团",
+	39,
+	2,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2024年夏季奥林匹克运动会危地马拉代表团",
+	44,
+	2,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2024年夏季奥林匹克运动会瑞士代表团",
+	84,
+	34,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2024年夏季奧林匹克運動會女子78公斤以上級柔道比賽",
+	94,
+	130,
+	"unclosed tag",
+	"<s>"
+],[
+	"2024年夏季奧林匹克運動會女子輕量級拳擊比賽",
+	106,
+	114,
+	"unmatched closing tag",
+	"</s>"
+],[
+	"2024年夏季奧林匹克運動會游泳比賽",
+	242,
+	2,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2024年夏季奧林匹克運動會男子100公斤以上級柔道比賽",
+	94,
+	112,
+	"unclosed tag",
+	"<s>"
+],[
+	"2024年夏季奧林匹克運動會男子66公斤級柔道比賽",
+	77,
+	172,
+	"unclosed tag",
+	"<s>"
+],[
+	"2024年夏季奧林匹克運動會男子73公斤級柔道比賽",
+	113,
+	137,
+	"unclosed tag",
+	"<s>"
+],[
+	"2024年夏季奧林匹克運動會男子81公斤級柔道比賽",
+	213,
+	157,
+	"unclosed tag",
+	"<s>"
+],[
+	"2024年夏季奧林匹克運動會男子89公斤級舉重比賽",
+	98,
+	36,
+	"unmatched closing tag",
+	"</s>"
+],[
+	"2024年奥地利议会选举",
+	320,
+	79,
+	"unclosed tag",
+	"<small>"
+],[
+	"2024年度香港小姐競選",
+	222,
+	2,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2024年日本眾議院議員總選舉",
+	817,
+	54,
+	"unclosed tag",
+	"<small>"
+],[
+	"2024年歐洲議會選舉 (荷蘭)",
+	393,
+	90,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"2024年至2025年亞足聯冠軍精英聯賽淘汰賽階段",
+	427,
+	27,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"2024年臺灣",
+	494,
+	37,
+	"unmatched closing tag",
+	"</bdi>"
+],[
+	"2025年世界女子排球錦標賽入圍資格",
+	679,
+	13,
+	"unclosed tag",
+	"<small>"
+],[
+	"2025年世界男子排球錦標賽入圍資格",
+	734,
+	13,
+	"unclosed tag",
+	"<small>"
+],[
+	"2025年世界羽聯世界巡迴賽",
+	68,
+	2,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2025年中国足球超级联赛",
+	345,
+	176,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"2025年亞洲室內暨武藝運動會",
+	34,
+	50,
+	"unmatched closing tag",
+	"</del>"
+],[
+	"2025年太平洋颱風季",
+	215,
+	2,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"2025年格陵蘭大選",
+	282,
+	100,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"2025年科索沃议会选举",
+	166,
+	25,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"2025年葡萄牙立法選舉",
+	32,
+	26,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"20世紀少男少女",
+	606,
+	138,
+	"unclosed tag",
+	"<small>"
+],[
+	"270省道 (广东省)",
+	25,
+	2,
+	"unmatched closing tag",
+	"</table>"
+],[
+	"272省道 (广东省)",
+	37,
+	2,
+	"unmatched closing tag",
+	"</table>"
+],[
+	"2AM",
+	886,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"2nd fragment of fripSide",
+	22,
+	93,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"319国道",
+	105,
+	2,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"321国道",
+	110,
+	2,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"343蕩婦宣言",
+	12,
+	2,
+	"unmatched closing tag",
+	"</blockquote>"
+],[
+	"34街-哈德遜調車場車站",
+	130,
+	2,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"34街-賓州車站 (IND第八大道線)",
+	76,
+	380,
+	"unclosed tag",
+	"<small>"
+],[
+	"364省道 (广东省)",
+	23,
+	2,
+	"unmatched closing tag",
+	"</table>"
+],[
+	"365省道 (广东省)",
+	31,
+	2,
+	"unmatched closing tag",
+	"</table>"
+],[
+	"3D生物列印",
+	2,
+	1039,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"3rd reflection of fripSide",
+	21,
+	96,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"400系列公路",
+	425,
+	140,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"40年代上海歌坛七大歌星",
+	30,
+	2,
+	"unmatched closing tag",
+	"</table>"
+],[
+	"49街车站 (BMT百老汇线)",
+	73,
+	140,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"50元人民币",
+	63,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"5歐元紙幣",
+	49,
+	45,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"62街／新烏德勒支大道車站",
+	42,
+	57,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"639国道",
+	41,
+	2,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"72街車站 (第二大道線)",
+	67,
+	64,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"7频道HD剧集作品列表",
+	65,
+	2,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"8吋55倍徑艦炮",
+	161,
+	246,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"A'N'D",
+	371,
+	103,
+	"unclosed tag",
+	"<center>"
+],[
+	"A2K",
+	317,
+	44,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"AAA (團體)",
+	825,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Adobe Photoshop",
+	276,
+	39,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"ADS兩棲突擊步槍",
+	98,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"AECOM",
+	17,
+	111,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Again (YUI單曲)",
+	14,
+	418,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Aice5",
+	86,
+	40,
+	"unmatched closing tag",
+	"</sup>"
+],[
+	"AK-102突击步枪",
+	13,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"AKB48 光榮時刻",
+	3,
+	96,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"AKB48 永遠在一起",
+	6,
+	85,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"AKB48 笑淚交織",
+	7,
+	97,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"AKB48 重溫時間 最佳曲目100 2013",
+	172,
+	101,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"AKB48相关作品",
+	234,
+	96,
+	"unclosed tag",
+	"<center>"
+],[
+	"AKB48第19張單曲選拔猜拳大會",
+	237,
+	2,
+	"unmatched closing tag",
+	"</table>"
+],[
+	"AKB48第37張單曲選拔總選舉",
+	233,
+	88,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"AKBINGO!",
+	611,
+	15,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Akdal MKA 1919半自動霰彈槍",
+	63,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"ALGOL 60",
+	161,
+	109,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"ALICE (韓國組合)",
+	622,
+	54,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Alright, Still",
+	19,
+	94,
+	"unclosed tag",
+	"<small>"
+],[
+	"Amiibo",
+	133,
+	28,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"AMP公司",
+	19,
+	42,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"And & End",
+	179,
+	33,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Andante (韓國電視劇)",
+	338,
+	19,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Anna hisbbuR",
+	334,
+	13,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Another Day (游戏)",
+	17,
+	182,
+	"unmatched closing tag",
+	"</del>"
+],[
+	"Answer",
+	15,
+	26,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"APAN Star Awards",
+	2317,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"ARASHI No.1～嵐呼喚暴風雨～",
+	12,
+	43,
+	"unmatched closing tag",
+	"</li>"
+],[
+	"Archive.today",
+	24,
+	4,
+	"unmatched closing tag",
+	"</sup>"
+],[
+	"ASMR MAX世界巡迴演唱會",
+	178,
+	3,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"AT-9吉普教練機",
+	2,
+	38,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"ATI Radeon 8000",
+	42,
+	89,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"A无穷代数",
+	19,
+	290,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"B'z Loud-Gym",
+	368,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Baby Steps ~網球優等生~",
+	621,
+	38,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"BABYMETAL",
+	358,
+	4,
+	"unclosed tag",
+	"<small>"
+],[
+	"BABYMETAL (專輯)",
+	144,
+	13,
+	"unclosed tag",
+	"<center>"
+],[
+	"Bad Girl佬",
+	6323,
+	133,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"BAND JA NAIMON!",
+	36,
+	48,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"BanG Dream!音樂作品",
+	303,
+	17,
+	"unclosed tag",
+	"<small>"
+],[
+	"BBC iPlayer",
+	17,
+	51,
+	"unmatched closing tag",
+	"</rb>"
+],[
+	"BFR左輪手槍",
+	97,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],],"batches":60}

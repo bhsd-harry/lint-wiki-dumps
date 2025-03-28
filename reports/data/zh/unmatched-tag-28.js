@@ -1,1 +1,1201 @@
-window.data={"articles":[["Wikipedia:頁面存廢討論/記錄/2024/04/14",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/04/17",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/04/18",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/04/19",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/04/20",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/04/21",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/04/28",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/04/30",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/03",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/08",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/10",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/11",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/12",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/14",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/15",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/16",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/17",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/20",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/22",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/23",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/24",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/25",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/26",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/27",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/30",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/05/31",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/01",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/02",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/04",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/05",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/06",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/07",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/08",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/09",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/10",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/12",387,3,"tag that is both closing and self-closing","</br>"],["Wikipedia:頁面存廢討論/記錄/2024/06/13",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/16",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/17",361,53,"unmatched closing tag","</sub>"],["Wikipedia:頁面存廢討論/記錄/2024/06/21",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/22",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/23",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/25",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/27",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/28",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/29",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/06/30",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/07/01",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/07/06",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/07/07",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/07/08",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/07/10",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/07/12",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/07/13",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/07/15",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/07/16",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/07/19",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/07/22",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/07/24",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/07/25",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/07/26",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/07/28",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/07/29",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/08/01",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/08/02",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/08/03",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/08/04",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/08/05",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/08/06",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/08/10",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/08/14",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/08/15",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/08/18",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/08/19",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/08/20",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/08/21",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/08/22",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/08/23",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/08/24",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/01",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/02",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/03",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/07",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/09",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/10",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/13",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/14",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/17",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/18",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/19",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/20",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/21",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/22",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/23",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/25",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/26",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/27",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/09/29",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/10/03",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/10/07",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/10/09",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/10/10",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/10/11",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/10/13",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/10/14",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/10/15",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/10/16",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/10/18",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/10/20",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/10/21",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/10/23",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/10/25",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/10/26",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/10/29",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/10/30",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/01",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/02",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/06",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/07",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/10",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/11",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/13",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/15",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/16",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/17",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/18",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/19",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/22",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/24",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/25",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/26",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/27",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/28",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/29",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/11/30",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/12/01",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/12/03",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/12/07",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/12/08",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/12/10",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/12/11",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/12/13",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/12/19",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/12/21",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/12/23",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/12/24",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/12/25",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/12/26",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/12/27",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/12/28",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/12/29",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2024/12/31",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/01/01",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/01/02",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/01/03",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/01/08",13,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/01/10",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/01/12",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/01/14",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/01/19",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/01/22",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/01/23",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/01/24",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/01/26",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/01/28",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/01/30",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/01/31",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/02/01",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/02/02",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/02/03",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/02/04",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/02/05",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/02/07",158,35,"tag that is both closing and self-closing","</br>"],["Wikipedia:頁面存廢討論/記錄/2025/02/09",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/02/14",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/03/07",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/03/10",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/03/13",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/03/14",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/03/16",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/03/17",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/03/19",14,92,"unmatched closing tag","</span>"],["Wikipedia:頁面存廢討論/記錄/2025/03/21",14,92,"unmatched closing tag","</span>"],["Wikipedia:首頁/temp06",16,2,"unmatched closing tag","</div>"],["Wikipedia:首頁/temp08",53,2,"unmatched closing tag","</div>"],["Wikipedia:首頁/temp2",10,2,"unmatched closing tag","</div>"],["Wikipedia:首页/temp07",17,2,"unmatched closing tag","</div>"],["Wikipedia:首页/纯文本",59,2,"unmatched closing tag","</div>"],["Wikipedia:香港維基人佈告板/維基香港內容獎/2016年10月",7,339,"unmatched closing tag","</span>"],["Wikipedia:香港維基人佈告板/維基香港圖像獎/2008年3月",332,100,"unclosed tag","<del>"],["Wikipedia:香港維基人佈告板/維基香港圖像獎/2015年10月",7,271,"unmatched closing tag","</span>"],["Wikipedia:香港維基人佈告板/維基香港圖像獎/2015年11月",9,338,"unmatched closing tag","</span>"],["Wikipedia:香港維基人佈告板/維基香港圖像獎/2015年12月",7,271,"unmatched closing tag","</span>"],["Wikipedia:香港維基人佈告板/維基香港圖像獎/2015年8月",9,338,"unmatched closing tag","</span>"],["Wikipedia:香港維基人佈告板/維基香港圖像獎/2015年9月",7,271,"unmatched closing tag","</span>"],["Wikipedia:香港維基人佈告板/維基香港圖像獎/2016年10月",7,271,"unmatched closing tag","</span>"],["Wikipedia:香港維基人佈告板/維基香港圖像獎/2016年11月",9,338,"unmatched closing tag","</span>"],["Wikipedia:香港維基人佈告板/維基香港圖像獎/2016年12月",7,271,"unmatched closing tag","</span>"],["Wikipedia:香港維基人佈告板/維基香港圖像獎/2016年1月",9,338,"unmatched closing tag","</span>"],["Wikipedia:香港維基人佈告板/維基香港圖像獎/2016年2月",17,295,"unmatched closing tag","</span>"]],"batches":60}
+window.data={"articles":[[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/14",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/17",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/18",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/19",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/20",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/21",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/28",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/04/30",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/03",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/08",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/10",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/11",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/12",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/14",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/15",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/16",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/17",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/20",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/22",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/23",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/24",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/25",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/26",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/27",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/30",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/05/31",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/01",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/02",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/04",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/05",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/06",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/07",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/08",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/09",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/10",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/12",
+	387,
+	3,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/13",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/16",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/17",
+	361,
+	53,
+	"unmatched closing tag",
+	"</sub>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/21",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/22",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/23",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/25",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/27",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/28",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/29",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/06/30",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/01",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/06",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/07",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/08",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/10",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/12",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/13",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/15",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/16",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/19",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/22",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/24",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/25",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/26",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/28",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/07/29",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/01",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/02",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/03",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/04",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/05",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/06",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/10",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/14",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/15",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/18",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/19",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/20",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/21",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/22",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/23",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/08/24",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/01",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/02",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/03",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/07",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/09",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/10",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/13",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/14",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/17",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/18",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/19",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/20",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/21",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/22",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/23",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/25",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/26",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/27",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/09/29",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/03",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/07",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/09",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/10",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/11",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/13",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/14",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/15",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/16",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/18",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/20",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/21",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/23",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/25",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/26",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/29",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/10/30",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/01",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/02",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/06",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/07",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/10",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/11",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/13",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/15",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/16",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/17",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/18",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/19",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/22",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/24",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/25",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/26",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/27",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/28",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/29",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/11/30",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/12/01",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/12/03",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/12/07",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/12/08",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/12/10",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/12/11",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/12/13",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/12/19",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/12/21",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/12/23",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/12/24",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/12/25",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/12/26",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/12/27",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/12/28",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/12/29",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2024/12/31",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/01/01",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/01/02",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/01/03",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/01/08",
+	13,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/01/10",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/01/12",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/01/14",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/01/19",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/01/22",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/01/23",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/01/24",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/01/26",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/01/28",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/01/30",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/01/31",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/02/01",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/02/02",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/02/03",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/02/04",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/02/05",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/02/07",
+	158,
+	35,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/02/09",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/02/14",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/03/07",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/03/10",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/03/13",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/03/14",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/03/16",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/03/17",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/03/19",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2025/03/21",
+	14,
+	92,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:首頁/temp06",
+	16,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:首頁/temp08",
+	53,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:首頁/temp2",
+	10,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:首页/temp07",
+	17,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:首页/纯文本",
+	59,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:香港維基人佈告板/維基香港內容獎/2016年10月",
+	7,
+	339,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:香港維基人佈告板/維基香港圖像獎/2008年3月",
+	332,
+	100,
+	"unclosed tag",
+	"<del>"
+],[
+	"Wikipedia:香港維基人佈告板/維基香港圖像獎/2015年10月",
+	7,
+	271,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:香港維基人佈告板/維基香港圖像獎/2015年11月",
+	9,
+	338,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:香港維基人佈告板/維基香港圖像獎/2015年12月",
+	7,
+	271,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:香港維基人佈告板/維基香港圖像獎/2015年8月",
+	9,
+	338,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:香港維基人佈告板/維基香港圖像獎/2015年9月",
+	7,
+	271,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:香港維基人佈告板/維基香港圖像獎/2016年10月",
+	7,
+	271,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:香港維基人佈告板/維基香港圖像獎/2016年11月",
+	9,
+	338,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:香港維基人佈告板/維基香港圖像獎/2016年12月",
+	7,
+	271,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:香港維基人佈告板/維基香港圖像獎/2016年1月",
+	9,
+	338,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:香港維基人佈告板/維基香港圖像獎/2016年2月",
+	17,
+	295,
+	"unmatched closing tag",
+	"</span>"
+],],"batches":60}

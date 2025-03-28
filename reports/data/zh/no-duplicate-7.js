@@ -1,1 +1,1201 @@
-window.data={"articles":[["三寶 (繙譯進士)",73,2,"duplicated category","[[分類:清朝浙江巡撫]]"],["三年困难时期",37,841,"duplicated parameter","year=2015年 "],["三星Galaxy Z Flip 6",18,3,"duplicated parameter"," series = [[三星Galaxy Z系列]]\n "],["三星Galaxy Z Fold 6",18,3,"duplicated parameter"," series = [[三星Galaxy Z系列]]\n "],["三時代系統",3,77,"duplicated image caption parameter","{{{link-en|纳里耳赫贝耳|Nahal Hever}}峡谷{link-en"],["三條站 (新潟縣)",67,39,"duplicated image caption parameter","站前（{Translink"],["三氯化镱",70,62,"duplicated style attribute","style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt"],["三河县 (河北省)",109,92,"duplicated parameter","chapter=\n "],["三浦和義事件",39,3,"duplicated parameter"," victims = \n "],["三清三元宮貝殼廟",8,3,"duplicated parameter","religious_affiliation=[[台灣民間信仰]]\n "],["三發地產",106,2,"duplicated category","[[Category:三發地產集團]]"],["三維點群",64,37,"duplicated image caption parameter","alt = 粉紫色的球面，燈光斜照，產生陰影。"],["三苯基环三硼氧烷",31,163,"duplicated parameter","volume=39  "],["三菱ASX",30,3,"duplicated parameter"," successor      = \n "],["三角洲州",28,3,"duplicated parameter"," government_footnotes     = \n "],["三豐百貨店倒塌事故",205,2,"duplicated category","[[Category:首尔特别市事件]]"],["三郎太",66,2,"duplicated category","[[Category:神奈川縣出身人物]]"],["三里庵站",33,3,"duplicated parameter"," passengers = \n "],["三麗鷗彩虹樂園",13,2,"duplicated category","[[Category:三麗鷗]]"],["上勾拳",8,38,"duplicated image caption parameter","大拇指"],["上塞尔达涅",10,3,"duplicated parameter","other_name =\n "],["上岸站",9,3,"duplicated parameter","type = [[地铁车站]]\n "],["上帝之人",110,2,"duplicated category","[[Category:虛構惡魔]]"],["上帝創造女人",6,3,"duplicated parameter","zh-hans:芭铎;zh-hk:芭鐸;zh-tw:芭杜;\n "],["上水官立中學",44,72,"duplicated parameter","title=http://www.twtsaa.org.hk/Docs/Magazine/Schoolmagazine/50anniversary.pdf"],["上汽大众",4,3,"duplicated parameter","<!-- T=zh-cn:上汽大众; zh-tw:上汽福斯; zh-hk:上汽大眾;zh-sg:上汽福士; -->\n "],["上海交通大学附属中学",167,2,"duplicated category","[[Category:杨浦区教育]]"],["上海体育大学",143,2,"duplicated category","[[Category:杨浦区教育]]"],["上海市控江中学",46,2,"duplicated category","[[Category:杨浦区教育]]"],["上海市杨浦区平凉路第四小学",23,2,"duplicated category","[[Category:杨浦区教育]]"],["上海市杨浦区杨浦小学",12,2,"duplicated category","[[Category:杨浦区教育]]"],["上海市杨浦高级中学",63,2,"duplicated category","[[Category:杨浦区教育]]"],["上海市铁岭中学",7,2,"duplicated category","[[Category:杨浦区教育]]"],["上海杨浦足球学校",27,2,"duplicated category","[[Category:杨浦区教育]]"],["上海松江沃爾瑪超市持刀襲擊事件",38,266,"duplicated parameter","language=zh-tw"],["上海环球金融中心",10,3,"duplicated parameter","image = 20090426 5223 Shanghai SWFC.jpg\n "],["上海电力大学",99,2,"duplicated category","[[Category:杨浦区教育]]"],["上海财经大学附属中学",28,2,"duplicated category","[[Category:杨浦区教育]]"],["上海轨道交通11号线",391,31,"duplicated rowspan attribute","rowspan=\"3\""],["上海轨道交通9号线",440,4,"duplicated align attribute","align=\"center\""],["上海體育場",76,5,"duplicated class attribute","class=\"wikitable\""],["上甘岭战役",93,50,"duplicated image caption parameter","Right"],["上窰村",7,38,"duplicated image caption parameter","Right"],["上野石之助",17,3,"duplicated parameter","relations=\n "],["上閤屋",6,3,"duplicated parameter","foundation = [[台灣]]（{{Start date|1993||}}）\n "],["下妻物語",160,2,"duplicated category","[[Category:2000年代喜劇劇情片]]"],["下巴整形手術",2,137,"duplicated parameter","HCPCSlevel2="],["下村博文",105,2,"duplicated category","[[Category:日本男性眾議院議員]]"],["下村定",119,2,"duplicated category","[[Category:日本參議院議員 (1959年—1965年)]]"],["下環街社會服務綜合大樓",88,4,"duplicated valign attribute","valign=\"top\""],["不信任及彈劾香港特別行政區行政長官",232,2,"duplicated category","[[Category:香港立法會]]"],["不列颠裔美国人",74,37,"duplicated style attribute","style=\"font-size: 95%\""],["不来梅机场",93,18,"duplicated align attribute","align=\"center\""],["不浪·尤幹",76,2,"duplicated category","[[Category:台灣原住民歌手]]"],["不确定性原理",380,153,"duplicated name attribute","name=\"Robertson1929\""],["不良少年與白手杖女孩",316,2,"duplicated category","[[Category:個人網站連載漫畫作品]]"],["世嘉",11,3,"duplicated parameter"," 3 = zh-cn:理查德·斯图尔特;;zh-hk:理察·史超域;zh-tw:理察·史都華;\n "],["世嘉土星游戏列表",4509,11,"duplicated cup attribute","Cup"],["世子",15,29,"duplicated style attribute","style=\"font-size:90%\""],["世孫",5,29,"duplicated style attribute","style=\"font-size:90%\""],["世界即时新闻",50,2,"duplicated category","[[Category:美國電視新聞節目]]"],["世界射箭錦標賽",36,24,"duplicated style attribute","style=\"text-align:center; width:100%;\""],["世界小姐",21,28,"duplicated image width parameter","150px"],["世界彈翻床錦標賽",10,24,"duplicated border attribute","border=\"2\""],["世界末日 (2022年電影)",79,2,"duplicated category","[[Category:1980年代背景電影]]"],["世界經濟論壇",24,33,"duplicated image thumbnail parameter","thumb"],["世界轮椅冰壶锦标赛",39,33,"duplicated style attribute","style=\"text-align:center\""],["世界韻律體操錦標賽",10,24,"duplicated border attribute","border=\"2\""],["世界點滑鼠大賽",111,5,"duplicated class attribute","class=\"wikitable\""],["世紀之戰",270,2,"duplicated category","[[Category:粵語電視劇]]"],["丘昌榮",126,5,"duplicated align attribute","align=center"],["丘福",65,2,"duplicated category","[[Category:鳳陽人]]"],["丙子铺站",29,3,"duplicated parameter"," status = 运营中\n "],["丙矽烷",51,33,"duplicated style attribute","style=\"font-size: 90%;\""],["业余无线电历史",65,2,"duplicated category","[[Category:業餘無線電]]"],["东亚",386,51,"duplicated image caption parameter","Pandas eating bamboo"],["东京大学",430,49,"duplicated image caption parameter","[[Syukuro Manabe]], Physics, 2021"],["东北最高行政委员会",75,2,"duplicated category","[[Category:东北日占时期]]"],["东北抗战",22,745,"duplicated image border parameter","border"],["东北航空",41,2,"duplicated category","[[Category:中國已結業航空公司]]"],["东南大学",627,4,"duplicated colspan attribute","colspan=\"4\""],["东台吉乃尔湖",14,3,"duplicated parameter","海拔高度 = 2681 m\n "],["东大阪大学短期大学部",28,32,"duplicated name attribute","name=\"全国短期大学高等専门学校一覧2011\""],["东方绿舟站",6,3,"duplicated parameter","type = [[上海地铁]]车站\n "],["东碇岛",14,3,"duplicated parameter"," map_caption      = \n "],["东辽河",2,26,"duplicated image width parameter","300px"],["东部绿曼巴蛇",99,2,"duplicated category","[[Category:曼巴蛇屬]]"],["东钱湖站",20,3,"duplicated parameter"," colour = \n "],["严重过敏反应",86,1159,"duplicated name attribute","name=His10世界过敏组织当前所使用的名称为“非免疫性全身性过敏反应”<ref"],["丽江路站",20,3,"duplicated parameter"," colour = \n "],["丽蝇属",134,2,"duplicated category","[[Category: 麗蠅|L]]"],["中俄关系史",11,3,"duplicated style attribute","style=\"width:40px;\""],["中信鯨開幕戰先發投手列表",8,5,"duplicated class attribute","class=\"wikitable\""],["中元節",38,4,"duplicated align attribute","align=center"],["中元節與盂蘭盆節",161,4,"duplicated align attribute","align=center"],["中八木站",72,43,"duplicated group attribute","group='統'"],["中医学",132,40,"duplicated image caption parameter","Right"],["中半山",6,48,"duplicated image caption parameter","Garden_Road_near_Magazine_Gap_Road"],["中华人民共和国国民经济和社会发展第十二个五年规划纲要",22,31,"duplicated image caption parameter","Dalian 515 BYD K7"],["中华人民共和国宪法",147,516,"duplicated name attribute","name=\"七五宪法甲\""],["中华人民共和国民用机动车号牌",288,55,"duplicated image caption parameter","懸掛著"],["中华人民共和国煤炭工业部",99,2,"duplicated category","[[Category:中华人民共和国煤炭工业部]]"],["中华人民共和国第十四届冬季运动会",610,2,"duplicated category","[[Category:2024年中国体育]]"],["中华人民共和国经济",227,5,"duplicated class attribute","class=\"wikitable\""],["中华人民共和国经济区",8,16,"duplicated style attribute","style=\"text-align:center;\""],["中华人民共和国行政区划代码",16,5,"duplicated style attribute","style=\"{{Table center}}\""],["中华人民共和国通信",14,57,"duplicated style attribute","style=\"margin: auto;\""],["中华人民共和国铁道部",51,34,"duplicated image caption parameter","北京站 新建北京車站紀念画刊"],["中华巨盾蛞蝓",18,2,"duplicated category","[[Category: 1882年描述的动物|B]]"],["中卫山羊",26,2,"duplicated category","[[Category:山羊属]]"],["中台灣元宵燈會",31,5,"duplicated class attribute","class=\"wikitable\""],["中国（山东）自由贸易试验区",12,2,"duplicated category","[[Category:中华人民共和国海关特殊监管区域]]"],["中国人民解放军海军军医大学",199,2,"duplicated category","[[Category:杨浦区教育]]"],["中国人民解放军海军岸防兵",70,2,"duplicated category","[[Category:中华人民共和国边海防]]"],["中国人民解放军海军陆战队",51,44,"duplicated image left parameter","left"],["中国人民财产保险",47,2,"duplicated category","[[Category:中国保险公司]]"],["中国共产党中央委员会调查部",10,3,"duplicated parameter","接替者=[[中华人民共和国国家安全部]]\n "],["中国共产党中央委员会金融工作委员会",10,3,"duplicated parameter","职位3 = 副书记\n "],["中国共产党中央特别行动科",262,2,"duplicated category","[[Category:中华民国大陆时期情报机构]]"],["中国共产党第七届中央委员会",107,2,"duplicated category","[[Category:中国共产党第七届中央委员会]]"],["中国医生",337,2,"duplicated category","[[Category:2021年中国电影作品]]"],["中国反犹太主义",6,885,"duplicated parameter","language=en "],["中国古代军事史",21,37,"duplicated image caption parameter","RIGHT"],["中国国家男子排球队",135,5,"duplicated style attribute","style=\"background-color: #FFFFFF border=\""],["中国国际广播电台 (中华民国)",55,174,"duplicated parameter","title=重庆市地方志编纂委员会"],["中国在建机场工程列表",4,33,"duplicated style attribute","style=\"text-align:center;\""],["中国好声音 (The Voice of China)",428,4,"duplicated style attribute","style=\"width:23%;\""],["中国好歌曲 (第一季)",1111,33,"duplicated style attribute","style=\"text-align: center;\""],["中国有滋味",172,39,"duplicated style attribute","style=\"text-align:center;font-size:90%\""],["中国民族主义",204,2,"duplicated category","[[Category:中国民族主义|* ]]"],["中国湖海军航空武器站",180,2,"duplicated category","[[Category:美國海軍航空站]]"],["中国男子篮球职业联赛总决赛",6,32,"duplicated width attribute","width=100%"],["中国科学院武汉病毒研究所",200,2,"duplicated category","[[Category:中国科学院武汉病毒研究所| ]]"],["中国计算机科学大事年表",5,5,"duplicated border attribute","border=\"0\""],["中国铁路25A型客车",38,25,"duplicated align attribute","align=\"right\""],["中国驻日本大使馆",29,237,"duplicated parameter","work=[[人民网]]"],["中國—波蘭關係",57,128,"duplicated parameter","title=Financial crisis may hamper expected increase in Poland-China trade - Peop"],["中國—泰國關係",99,52,"duplicated image thumbnail parameter","thumb"],["中國—葡語國家經貿合作論壇（澳門）第六屆部長級會議",90,2,"duplicated category","[[Category:2024年中国外交事件]]"],["中國信託金融園區",71,2,"duplicated category","[[Category:2014年完工建築物|N]]"],["中國最強音",222,4,"duplicated scope attribute","scope=\"col\""],["中國國民黨中央執行委員會特務委員會特工總部",101,2,"duplicated category","[[Category:中华民国大陆时期情报机构|伪]]"],["中國國民黨中央執行委員會調查統計局",91,2,"duplicated category","[[Category:中华民国大陆时期情报机构]]"],["中國太平洋保險",71,2,"duplicated category","[[Category:中国保险公司]]"],["中國文藝獎章",1248,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["中國新相親",29,2,"duplicated category","[[Category:中国大陆真人秀节目]]"],["中國目錄學",10,21,"duplicated image thumbnail parameter","thumb"],["中國電力 (日本)",164,36,"duplicated style attribute","style=\"text-align: center;  \""],["中國鳥腳龍屬",13,35,"duplicated image caption parameter","縮略圖"],["中壢轉接道",52,56,"duplicated image caption parameter","機場"],["中央奧克拉荷馬大學",27,3,"duplicated parameter","校长            =\n "],["中央本線",157,16,"duplicated style attribute","style=\"width:1em;\""],["中央氣象署地震測報中心",127,2,"duplicated category","[[Category:交通部中央氣象署|測]]"],["中央氣象署氣象預報中心",148,2,"duplicated category","[[Category:交通部中央氣象署|測]]"],["中央氣象署颱風警報",105,2,"duplicated category","[[Category:交通部中央氣象署|警]]"],["中央研究院人文及社會科學學術性專書獎",343,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["中山大學附屬第五醫院",40,43,"duplicated image caption parameter","Sun Yat-sen University no.5 Hospital.jpg"],["中山太平堂",42,2,"duplicated category","[[Category:中山市]]"],["中山泰秀",60,2,"duplicated category","[[Category:日本男性眾議院議員]]"],["中島輝士",112,5,"duplicated align attribute","align=center"],["中島飛機",5,45,"duplicated image thumbnail parameter","thumb"],["中心 (几何)",12,40,"duplicated image width parameter","200px"],["中文的韩文转写",11,21,"duplicated style attribute","style=\"text-align:center;\""],["中日关系史",7,3,"duplicated style attribute","style=\"width:40px;\""],["中日韓統一表意文字擴展區G",64,2,"duplicated category","[[Category:中日韩汉字]]"],["中村國雄",41,414,"duplicated parameter","date=1997-07-10"],["中村由利佳",5,38,"duplicated image caption parameter","YURIKA_NAKAMURA_P2"],["中村麗乃",23,288,"duplicated parameter","dead-url=no"],["中根千枝",15,2,"duplicated category","[[Category:文化勳章獲得者 (日本)]]"],["中橫快速公路",6,142,"duplicated parameter","work=張文城"],["中正路 (高雄市)",18,18,"duplicated image thumbnail parameter","thumb"],["中级-1型滑翔机",11,53,"duplicated image caption parameter","芬兰航空博物馆中的"],["中美建交谈判",12,53,"duplicated image thumbnail parameter","thumb"],["中華人民共和國—梵蒂岡關係",96,355,"duplicated parameter","date=[[人民日报]]"],["中華人民共和國澳門特別行政區護照",112,33,"duplicated image thumbnail parameter","thumb"],["中華人民共和國第十一屆全運會自行車比賽—男子場地凱林賽",24,24,"duplicated style attribute","style=\"font-size:95%\""],["中華人民共和國鐵路運輸",657,25,"duplicated align attribute","align=\"right\""],["中華人民共和國香港特別行政區簽證身份書",25,472,"duplicated image thumbnail parameter","thumb"],["中華民國—土耳其關係",7,3,"duplicated parameter","5=zh-hant:伊士麥; zh-hans:伊兹密尔; zh-tw:伊茲密爾;\n "],["中華民國交通部",25,26,"duplicated parameter","label17=[[卡那卡那富語]]："],["中華民國公告疆域行政區劃",258,39,"conflicting image frame parameter","thumb"],["中華民國空軍",155,174,"duplicated image thumbnail parameter","thumb"],["中華民國簽證政策",14,54,"duplicated image caption parameter","中華民國簽證政策"],["中華民國總統府秘書長",404,3,"duplicated align attribute","align=\"center\""],["中華民國陸軍突擊幹部訓練班",52,157,"duplicated parameter","date=2016-05-31 "],["中華職棒中繼點紀錄",4,5,"duplicated class attribute","class=\"wikitable\""],["中華職棒二壘安打紀錄",4,5,"duplicated class attribute","class=\"wikitable\""],["中華職棒全壘打演進表",5,5,"duplicated class attribute","class=\"wikitable\""],["中華職棒得分紀錄",8,5,"duplicated class attribute","class=\"wikitable\""],["中華電信",63,391,"duplicated parameter","work=中央社"],["中華電信MOD",246,600,"duplicated parameter","language=zh-tw"],["中路區",1,4,"duplicated style attribute","style=\"width:400px\""],["中路乡 (丹巴县)",22,2,"duplicated category","[[Category:四川省已撤销的乡镇]]"],["中车株洲电力机车",48,25,"duplicated align attribute","align=\"right\""],["中车资阳机车",45,43,"duplicated image thumbnail parameter","thumb"],["中部山岳國立公園",268,60,"duplicated style attribute","style=\"border:1px solid #e7dcc3\""],["中部電力",67,36,"duplicated style attribute","style=\"text-align: center;  \""],["中野區",733,48,"duplicated image caption parameter","North Exit of Nakano Station"],["中間淳太",93,2,"duplicated category","[[Category:傑尼斯事務所所屬藝人]]"],["丰田威兰达",159,2,"duplicated category","[[Category:运动型多用途车]]"]],"batches":43}
+window.data={"articles":[[
+	"三寶 (繙譯進士)",
+	73,
+	2,
+	"duplicated category",
+	"[[分類:清朝浙江巡撫]]"
+],[
+	"三年困难时期",
+	37,
+	841,
+	"duplicated parameter",
+	"year=2015年 "
+],[
+	"三星Galaxy Z Flip 6",
+	18,
+	3,
+	"duplicated parameter",
+	" series = [[三星Galaxy Z系列]]\n "
+],[
+	"三星Galaxy Z Fold 6",
+	18,
+	3,
+	"duplicated parameter",
+	" series = [[三星Galaxy Z系列]]\n "
+],[
+	"三時代系統",
+	3,
+	77,
+	"duplicated image caption parameter",
+	"{{{link-en|纳里耳赫贝耳|Nahal Hever}}峡谷{link-en"
+],[
+	"三條站 (新潟縣)",
+	67,
+	39,
+	"duplicated image caption parameter",
+	"站前（{Translink"
+],[
+	"三氯化镱",
+	70,
+	62,
+	"duplicated style attribute",
+	"style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt"
+],[
+	"三河县 (河北省)",
+	109,
+	92,
+	"duplicated parameter",
+	"chapter=\n "
+],[
+	"三浦和義事件",
+	39,
+	3,
+	"duplicated parameter",
+	" victims = \n "
+],[
+	"三清三元宮貝殼廟",
+	8,
+	3,
+	"duplicated parameter",
+	"religious_affiliation=[[台灣民間信仰]]\n "
+],[
+	"三發地產",
+	106,
+	2,
+	"duplicated category",
+	"[[Category:三發地產集團]]"
+],[
+	"三維點群",
+	64,
+	37,
+	"duplicated image caption parameter",
+	"alt = 粉紫色的球面，燈光斜照，產生陰影。"
+],[
+	"三苯基环三硼氧烷",
+	31,
+	163,
+	"duplicated parameter",
+	"volume=39  "
+],[
+	"三菱ASX",
+	30,
+	3,
+	"duplicated parameter",
+	" successor      = \n "
+],[
+	"三角洲州",
+	28,
+	3,
+	"duplicated parameter",
+	" government_footnotes     = \n "
+],[
+	"三豐百貨店倒塌事故",
+	205,
+	2,
+	"duplicated category",
+	"[[Category:首尔特别市事件]]"
+],[
+	"三郎太",
+	66,
+	2,
+	"duplicated category",
+	"[[Category:神奈川縣出身人物]]"
+],[
+	"三里庵站",
+	33,
+	3,
+	"duplicated parameter",
+	" passengers = \n "
+],[
+	"三麗鷗彩虹樂園",
+	13,
+	2,
+	"duplicated category",
+	"[[Category:三麗鷗]]"
+],[
+	"上勾拳",
+	8,
+	38,
+	"duplicated image caption parameter",
+	"大拇指"
+],[
+	"上塞尔达涅",
+	10,
+	3,
+	"duplicated parameter",
+	"other_name =\n "
+],[
+	"上岸站",
+	9,
+	3,
+	"duplicated parameter",
+	"type = [[地铁车站]]\n "
+],[
+	"上帝之人",
+	110,
+	2,
+	"duplicated category",
+	"[[Category:虛構惡魔]]"
+],[
+	"上帝創造女人",
+	6,
+	3,
+	"duplicated parameter",
+	"zh-hans:芭铎;zh-hk:芭鐸;zh-tw:芭杜;\n "
+],[
+	"上水官立中學",
+	44,
+	72,
+	"duplicated parameter",
+	"title=http://www.twtsaa.org.hk/Docs/Magazine/Schoolmagazine/50anniversary.pdf"
+],[
+	"上汽大众",
+	4,
+	3,
+	"duplicated parameter",
+	"<!-- T=zh-cn:上汽大众; zh-tw:上汽福斯; zh-hk:上汽大眾;zh-sg:上汽福士; -->\n "
+],[
+	"上海交通大学附属中学",
+	167,
+	2,
+	"duplicated category",
+	"[[Category:杨浦区教育]]"
+],[
+	"上海体育大学",
+	143,
+	2,
+	"duplicated category",
+	"[[Category:杨浦区教育]]"
+],[
+	"上海市控江中学",
+	46,
+	2,
+	"duplicated category",
+	"[[Category:杨浦区教育]]"
+],[
+	"上海市杨浦区平凉路第四小学",
+	23,
+	2,
+	"duplicated category",
+	"[[Category:杨浦区教育]]"
+],[
+	"上海市杨浦区杨浦小学",
+	12,
+	2,
+	"duplicated category",
+	"[[Category:杨浦区教育]]"
+],[
+	"上海市杨浦高级中学",
+	63,
+	2,
+	"duplicated category",
+	"[[Category:杨浦区教育]]"
+],[
+	"上海市铁岭中学",
+	7,
+	2,
+	"duplicated category",
+	"[[Category:杨浦区教育]]"
+],[
+	"上海杨浦足球学校",
+	27,
+	2,
+	"duplicated category",
+	"[[Category:杨浦区教育]]"
+],[
+	"上海松江沃爾瑪超市持刀襲擊事件",
+	38,
+	266,
+	"duplicated parameter",
+	"language=zh-tw"
+],[
+	"上海环球金融中心",
+	10,
+	3,
+	"duplicated parameter",
+	"image = 20090426 5223 Shanghai SWFC.jpg\n "
+],[
+	"上海电力大学",
+	99,
+	2,
+	"duplicated category",
+	"[[Category:杨浦区教育]]"
+],[
+	"上海财经大学附属中学",
+	28,
+	2,
+	"duplicated category",
+	"[[Category:杨浦区教育]]"
+],[
+	"上海轨道交通11号线",
+	391,
+	31,
+	"duplicated rowspan attribute",
+	"rowspan=\"3\""
+],[
+	"上海轨道交通9号线",
+	440,
+	4,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"上海體育場",
+	76,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"上甘岭战役",
+	93,
+	50,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"上窰村",
+	7,
+	38,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"上野石之助",
+	17,
+	3,
+	"duplicated parameter",
+	"relations=\n "
+],[
+	"上閤屋",
+	6,
+	3,
+	"duplicated parameter",
+	"foundation = [[台灣]]（{{Start date|1993||}}）\n "
+],[
+	"下妻物語",
+	160,
+	2,
+	"duplicated category",
+	"[[Category:2000年代喜劇劇情片]]"
+],[
+	"下巴整形手術",
+	2,
+	137,
+	"duplicated parameter",
+	"HCPCSlevel2="
+],[
+	"下村博文",
+	105,
+	2,
+	"duplicated category",
+	"[[Category:日本男性眾議院議員]]"
+],[
+	"下村定",
+	119,
+	2,
+	"duplicated category",
+	"[[Category:日本參議院議員 (1959年—1965年)]]"
+],[
+	"下環街社會服務綜合大樓",
+	88,
+	4,
+	"duplicated valign attribute",
+	"valign=\"top\""
+],[
+	"不信任及彈劾香港特別行政區行政長官",
+	232,
+	2,
+	"duplicated category",
+	"[[Category:香港立法會]]"
+],[
+	"不列颠裔美国人",
+	74,
+	37,
+	"duplicated style attribute",
+	"style=\"font-size: 95%\""
+],[
+	"不来梅机场",
+	93,
+	18,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"不浪·尤幹",
+	76,
+	2,
+	"duplicated category",
+	"[[Category:台灣原住民歌手]]"
+],[
+	"不确定性原理",
+	380,
+	153,
+	"duplicated name attribute",
+	"name=\"Robertson1929\""
+],[
+	"不良少年與白手杖女孩",
+	316,
+	2,
+	"duplicated category",
+	"[[Category:個人網站連載漫畫作品]]"
+],[
+	"世嘉",
+	11,
+	3,
+	"duplicated parameter",
+	" 3 = zh-cn:理查德·斯图尔特;;zh-hk:理察·史超域;zh-tw:理察·史都華;\n "
+],[
+	"世嘉土星游戏列表",
+	4509,
+	11,
+	"duplicated cup attribute",
+	"Cup"
+],[
+	"世子",
+	15,
+	29,
+	"duplicated style attribute",
+	"style=\"font-size:90%\""
+],[
+	"世孫",
+	5,
+	29,
+	"duplicated style attribute",
+	"style=\"font-size:90%\""
+],[
+	"世界即时新闻",
+	50,
+	2,
+	"duplicated category",
+	"[[Category:美國電視新聞節目]]"
+],[
+	"世界射箭錦標賽",
+	36,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align:center; width:100%;\""
+],[
+	"世界小姐",
+	21,
+	28,
+	"duplicated image width parameter",
+	"150px"
+],[
+	"世界彈翻床錦標賽",
+	10,
+	24,
+	"duplicated border attribute",
+	"border=\"2\""
+],[
+	"世界末日 (2022年電影)",
+	79,
+	2,
+	"duplicated category",
+	"[[Category:1980年代背景電影]]"
+],[
+	"世界經濟論壇",
+	24,
+	33,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"世界轮椅冰壶锦标赛",
+	39,
+	33,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"世界韻律體操錦標賽",
+	10,
+	24,
+	"duplicated border attribute",
+	"border=\"2\""
+],[
+	"世界點滑鼠大賽",
+	111,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"世紀之戰",
+	270,
+	2,
+	"duplicated category",
+	"[[Category:粵語電視劇]]"
+],[
+	"丘昌榮",
+	126,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"丘福",
+	65,
+	2,
+	"duplicated category",
+	"[[Category:鳳陽人]]"
+],[
+	"丙子铺站",
+	29,
+	3,
+	"duplicated parameter",
+	" status = 运营中\n "
+],[
+	"丙矽烷",
+	51,
+	33,
+	"duplicated style attribute",
+	"style=\"font-size: 90%;\""
+],[
+	"业余无线电历史",
+	65,
+	2,
+	"duplicated category",
+	"[[Category:業餘無線電]]"
+],[
+	"东亚",
+	386,
+	51,
+	"duplicated image caption parameter",
+	"Pandas eating bamboo"
+],[
+	"东京大学",
+	430,
+	49,
+	"duplicated image caption parameter",
+	"[[Syukuro Manabe]], Physics, 2021"
+],[
+	"东北最高行政委员会",
+	75,
+	2,
+	"duplicated category",
+	"[[Category:东北日占时期]]"
+],[
+	"东北抗战",
+	22,
+	745,
+	"duplicated image border parameter",
+	"border"
+],[
+	"东北航空",
+	41,
+	2,
+	"duplicated category",
+	"[[Category:中國已結業航空公司]]"
+],[
+	"东南大学",
+	627,
+	4,
+	"duplicated colspan attribute",
+	"colspan=\"4\""
+],[
+	"东台吉乃尔湖",
+	14,
+	3,
+	"duplicated parameter",
+	"海拔高度 = 2681 m\n "
+],[
+	"东大阪大学短期大学部",
+	28,
+	32,
+	"duplicated name attribute",
+	"name=\"全国短期大学高等専门学校一覧2011\""
+],[
+	"东方绿舟站",
+	6,
+	3,
+	"duplicated parameter",
+	"type = [[上海地铁]]车站\n "
+],[
+	"东碇岛",
+	14,
+	3,
+	"duplicated parameter",
+	" map_caption      = \n "
+],[
+	"东辽河",
+	2,
+	26,
+	"duplicated image width parameter",
+	"300px"
+],[
+	"东部绿曼巴蛇",
+	99,
+	2,
+	"duplicated category",
+	"[[Category:曼巴蛇屬]]"
+],[
+	"东钱湖站",
+	20,
+	3,
+	"duplicated parameter",
+	" colour = \n "
+],[
+	"严重过敏反应",
+	86,
+	1159,
+	"duplicated name attribute",
+	"name=His10世界过敏组织当前所使用的名称为“非免疫性全身性过敏反应”<ref"
+],[
+	"丽江路站",
+	20,
+	3,
+	"duplicated parameter",
+	" colour = \n "
+],[
+	"丽蝇属",
+	134,
+	2,
+	"duplicated category",
+	"[[Category: 麗蠅|L]]"
+],[
+	"中俄关系史",
+	11,
+	3,
+	"duplicated style attribute",
+	"style=\"width:40px;\""
+],[
+	"中信鯨開幕戰先發投手列表",
+	8,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"中元節",
+	38,
+	4,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"中元節與盂蘭盆節",
+	161,
+	4,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"中八木站",
+	72,
+	43,
+	"duplicated group attribute",
+	"group='統'"
+],[
+	"中医学",
+	132,
+	40,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"中半山",
+	6,
+	48,
+	"duplicated image caption parameter",
+	"Garden_Road_near_Magazine_Gap_Road"
+],[
+	"中华人民共和国国民经济和社会发展第十二个五年规划纲要",
+	22,
+	31,
+	"duplicated image caption parameter",
+	"Dalian 515 BYD K7"
+],[
+	"中华人民共和国宪法",
+	147,
+	516,
+	"duplicated name attribute",
+	"name=\"七五宪法甲\""
+],[
+	"中华人民共和国民用机动车号牌",
+	288,
+	55,
+	"duplicated image caption parameter",
+	"懸掛著"
+],[
+	"中华人民共和国煤炭工业部",
+	99,
+	2,
+	"duplicated category",
+	"[[Category:中华人民共和国煤炭工业部]]"
+],[
+	"中华人民共和国第十四届冬季运动会",
+	610,
+	2,
+	"duplicated category",
+	"[[Category:2024年中国体育]]"
+],[
+	"中华人民共和国经济",
+	227,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"中华人民共和国经济区",
+	8,
+	16,
+	"duplicated style attribute",
+	"style=\"text-align:center;\""
+],[
+	"中华人民共和国行政区划代码",
+	16,
+	5,
+	"duplicated style attribute",
+	"style=\"{{Table center}}\""
+],[
+	"中华人民共和国通信",
+	14,
+	57,
+	"duplicated style attribute",
+	"style=\"margin: auto;\""
+],[
+	"中华人民共和国铁道部",
+	51,
+	34,
+	"duplicated image caption parameter",
+	"北京站 新建北京車站紀念画刊"
+],[
+	"中华巨盾蛞蝓",
+	18,
+	2,
+	"duplicated category",
+	"[[Category: 1882年描述的动物|B]]"
+],[
+	"中卫山羊",
+	26,
+	2,
+	"duplicated category",
+	"[[Category:山羊属]]"
+],[
+	"中台灣元宵燈會",
+	31,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"中国（山东）自由贸易试验区",
+	12,
+	2,
+	"duplicated category",
+	"[[Category:中华人民共和国海关特殊监管区域]]"
+],[
+	"中国人民解放军海军军医大学",
+	199,
+	2,
+	"duplicated category",
+	"[[Category:杨浦区教育]]"
+],[
+	"中国人民解放军海军岸防兵",
+	70,
+	2,
+	"duplicated category",
+	"[[Category:中华人民共和国边海防]]"
+],[
+	"中国人民解放军海军陆战队",
+	51,
+	44,
+	"duplicated image left parameter",
+	"left"
+],[
+	"中国人民财产保险",
+	47,
+	2,
+	"duplicated category",
+	"[[Category:中国保险公司]]"
+],[
+	"中国共产党中央委员会调查部",
+	10,
+	3,
+	"duplicated parameter",
+	"接替者=[[中华人民共和国国家安全部]]\n "
+],[
+	"中国共产党中央委员会金融工作委员会",
+	10,
+	3,
+	"duplicated parameter",
+	"职位3 = 副书记\n "
+],[
+	"中国共产党中央特别行动科",
+	262,
+	2,
+	"duplicated category",
+	"[[Category:中华民国大陆时期情报机构]]"
+],[
+	"中国共产党第七届中央委员会",
+	107,
+	2,
+	"duplicated category",
+	"[[Category:中国共产党第七届中央委员会]]"
+],[
+	"中国医生",
+	337,
+	2,
+	"duplicated category",
+	"[[Category:2021年中国电影作品]]"
+],[
+	"中国反犹太主义",
+	6,
+	885,
+	"duplicated parameter",
+	"language=en "
+],[
+	"中国古代军事史",
+	21,
+	37,
+	"duplicated image caption parameter",
+	"RIGHT"
+],[
+	"中国国家男子排球队",
+	135,
+	5,
+	"duplicated style attribute",
+	"style=\"background-color: #FFFFFF border=\""
+],[
+	"中国国际广播电台 (中华民国)",
+	55,
+	174,
+	"duplicated parameter",
+	"title=重庆市地方志编纂委员会"
+],[
+	"中国在建机场工程列表",
+	4,
+	33,
+	"duplicated style attribute",
+	"style=\"text-align:center;\""
+],[
+	"中国好声音 (The Voice of China)",
+	428,
+	4,
+	"duplicated style attribute",
+	"style=\"width:23%;\""
+],[
+	"中国好歌曲 (第一季)",
+	1111,
+	33,
+	"duplicated style attribute",
+	"style=\"text-align: center;\""
+],[
+	"中国有滋味",
+	172,
+	39,
+	"duplicated style attribute",
+	"style=\"text-align:center;font-size:90%\""
+],[
+	"中国民族主义",
+	204,
+	2,
+	"duplicated category",
+	"[[Category:中国民族主义|* ]]"
+],[
+	"中国湖海军航空武器站",
+	180,
+	2,
+	"duplicated category",
+	"[[Category:美國海軍航空站]]"
+],[
+	"中国男子篮球职业联赛总决赛",
+	6,
+	32,
+	"duplicated width attribute",
+	"width=100%"
+],[
+	"中国科学院武汉病毒研究所",
+	200,
+	2,
+	"duplicated category",
+	"[[Category:中国科学院武汉病毒研究所| ]]"
+],[
+	"中国计算机科学大事年表",
+	5,
+	5,
+	"duplicated border attribute",
+	"border=\"0\""
+],[
+	"中国铁路25A型客车",
+	38,
+	25,
+	"duplicated align attribute",
+	"align=\"right\""
+],[
+	"中国驻日本大使馆",
+	29,
+	237,
+	"duplicated parameter",
+	"work=[[人民网]]"
+],[
+	"中國—波蘭關係",
+	57,
+	128,
+	"duplicated parameter",
+	"title=Financial crisis may hamper expected increase in Poland-China trade - Peop"
+],[
+	"中國—泰國關係",
+	99,
+	52,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"中國—葡語國家經貿合作論壇（澳門）第六屆部長級會議",
+	90,
+	2,
+	"duplicated category",
+	"[[Category:2024年中国外交事件]]"
+],[
+	"中國信託金融園區",
+	71,
+	2,
+	"duplicated category",
+	"[[Category:2014年完工建築物|N]]"
+],[
+	"中國最強音",
+	222,
+	4,
+	"duplicated scope attribute",
+	"scope=\"col\""
+],[
+	"中國國民黨中央執行委員會特務委員會特工總部",
+	101,
+	2,
+	"duplicated category",
+	"[[Category:中华民国大陆时期情报机构|伪]]"
+],[
+	"中國國民黨中央執行委員會調查統計局",
+	91,
+	2,
+	"duplicated category",
+	"[[Category:中华民国大陆时期情报机构]]"
+],[
+	"中國太平洋保險",
+	71,
+	2,
+	"duplicated category",
+	"[[Category:中国保险公司]]"
+],[
+	"中國文藝獎章",
+	1248,
+	2,
+	"duplicated category",
+	"[[Category:臺灣戰後時期獎項]]"
+],[
+	"中國新相親",
+	29,
+	2,
+	"duplicated category",
+	"[[Category:中国大陆真人秀节目]]"
+],[
+	"中國目錄學",
+	10,
+	21,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"中國電力 (日本)",
+	164,
+	36,
+	"duplicated style attribute",
+	"style=\"text-align: center;  \""
+],[
+	"中國鳥腳龍屬",
+	13,
+	35,
+	"duplicated image caption parameter",
+	"縮略圖"
+],[
+	"中壢轉接道",
+	52,
+	56,
+	"duplicated image caption parameter",
+	"機場"
+],[
+	"中央奧克拉荷馬大學",
+	27,
+	3,
+	"duplicated parameter",
+	"校长            =\n "
+],[
+	"中央本線",
+	157,
+	16,
+	"duplicated style attribute",
+	"style=\"width:1em;\""
+],[
+	"中央氣象署地震測報中心",
+	127,
+	2,
+	"duplicated category",
+	"[[Category:交通部中央氣象署|測]]"
+],[
+	"中央氣象署氣象預報中心",
+	148,
+	2,
+	"duplicated category",
+	"[[Category:交通部中央氣象署|測]]"
+],[
+	"中央氣象署颱風警報",
+	105,
+	2,
+	"duplicated category",
+	"[[Category:交通部中央氣象署|警]]"
+],[
+	"中央研究院人文及社會科學學術性專書獎",
+	343,
+	2,
+	"duplicated category",
+	"[[Category:臺灣戰後時期獎項]]"
+],[
+	"中山大學附屬第五醫院",
+	40,
+	43,
+	"duplicated image caption parameter",
+	"Sun Yat-sen University no.5 Hospital.jpg"
+],[
+	"中山太平堂",
+	42,
+	2,
+	"duplicated category",
+	"[[Category:中山市]]"
+],[
+	"中山泰秀",
+	60,
+	2,
+	"duplicated category",
+	"[[Category:日本男性眾議院議員]]"
+],[
+	"中島輝士",
+	112,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"中島飛機",
+	5,
+	45,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"中心 (几何)",
+	12,
+	40,
+	"duplicated image width parameter",
+	"200px"
+],[
+	"中文的韩文转写",
+	11,
+	21,
+	"duplicated style attribute",
+	"style=\"text-align:center;\""
+],[
+	"中日关系史",
+	7,
+	3,
+	"duplicated style attribute",
+	"style=\"width:40px;\""
+],[
+	"中日韓統一表意文字擴展區G",
+	64,
+	2,
+	"duplicated category",
+	"[[Category:中日韩汉字]]"
+],[
+	"中村國雄",
+	41,
+	414,
+	"duplicated parameter",
+	"date=1997-07-10"
+],[
+	"中村由利佳",
+	5,
+	38,
+	"duplicated image caption parameter",
+	"YURIKA_NAKAMURA_P2"
+],[
+	"中村麗乃",
+	23,
+	288,
+	"duplicated parameter",
+	"dead-url=no"
+],[
+	"中根千枝",
+	15,
+	2,
+	"duplicated category",
+	"[[Category:文化勳章獲得者 (日本)]]"
+],[
+	"中橫快速公路",
+	6,
+	142,
+	"duplicated parameter",
+	"work=張文城"
+],[
+	"中正路 (高雄市)",
+	18,
+	18,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"中级-1型滑翔机",
+	11,
+	53,
+	"duplicated image caption parameter",
+	"芬兰航空博物馆中的"
+],[
+	"中美建交谈判",
+	12,
+	53,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"中華人民共和國—梵蒂岡關係",
+	96,
+	355,
+	"duplicated parameter",
+	"date=[[人民日报]]"
+],[
+	"中華人民共和國澳門特別行政區護照",
+	112,
+	33,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"中華人民共和國第十一屆全運會自行車比賽—男子場地凱林賽",
+	24,
+	24,
+	"duplicated style attribute",
+	"style=\"font-size:95%\""
+],[
+	"中華人民共和國鐵路運輸",
+	657,
+	25,
+	"duplicated align attribute",
+	"align=\"right\""
+],[
+	"中華人民共和國香港特別行政區簽證身份書",
+	25,
+	472,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"中華民國—土耳其關係",
+	7,
+	3,
+	"duplicated parameter",
+	"5=zh-hant:伊士麥; zh-hans:伊兹密尔; zh-tw:伊茲密爾;\n "
+],[
+	"中華民國交通部",
+	25,
+	26,
+	"duplicated parameter",
+	"label17=[[卡那卡那富語]]："
+],[
+	"中華民國公告疆域行政區劃",
+	258,
+	39,
+	"conflicting image frame parameter",
+	"thumb"
+],[
+	"中華民國空軍",
+	155,
+	174,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"中華民國簽證政策",
+	14,
+	54,
+	"duplicated image caption parameter",
+	"中華民國簽證政策"
+],[
+	"中華民國總統府秘書長",
+	404,
+	3,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"中華民國陸軍突擊幹部訓練班",
+	52,
+	157,
+	"duplicated parameter",
+	"date=2016-05-31 "
+],[
+	"中華職棒中繼點紀錄",
+	4,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"中華職棒二壘安打紀錄",
+	4,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"中華職棒全壘打演進表",
+	5,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"中華職棒得分紀錄",
+	8,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"中華電信",
+	63,
+	391,
+	"duplicated parameter",
+	"work=中央社"
+],[
+	"中華電信MOD",
+	246,
+	600,
+	"duplicated parameter",
+	"language=zh-tw"
+],[
+	"中路區",
+	1,
+	4,
+	"duplicated style attribute",
+	"style=\"width:400px\""
+],[
+	"中路乡 (丹巴县)",
+	22,
+	2,
+	"duplicated category",
+	"[[Category:四川省已撤销的乡镇]]"
+],[
+	"中车株洲电力机车",
+	48,
+	25,
+	"duplicated align attribute",
+	"align=\"right\""
+],[
+	"中车资阳机车",
+	45,
+	43,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"中部山岳國立公園",
+	268,
+	60,
+	"duplicated style attribute",
+	"style=\"border:1px solid #e7dcc3\""
+],[
+	"中部電力",
+	67,
+	36,
+	"duplicated style attribute",
+	"style=\"text-align: center;  \""
+],[
+	"中野區",
+	733,
+	48,
+	"duplicated image caption parameter",
+	"North Exit of Nakano Station"
+],[
+	"中間淳太",
+	93,
+	2,
+	"duplicated category",
+	"[[Category:傑尼斯事務所所屬藝人]]"
+],[
+	"丰田威兰达",
+	159,
+	2,
+	"duplicated category",
+	"[[Category:运动型多用途车]]"
+],],"batches":43}

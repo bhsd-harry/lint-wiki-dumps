@@ -1,1 +1,7 @@
-window.data={"articles":[["921大地動",150,68,"invalid image parameter","thumb"]],"batches":1}
+window.data={"articles":[[
+	"921大地動",
+	150,
+	68,
+	"invalid image parameter",
+	"thumb"
+],],"batches":1}

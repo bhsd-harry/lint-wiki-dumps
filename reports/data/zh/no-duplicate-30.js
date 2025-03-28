@@ -1,1 +1,1201 @@
-window.data={"articles":[["穩定子 (黑白棋)",2,26,"duplicated parameter","=\n "],["空中监狱",9,3,"duplicated parameter","T=zh-cn:空中监狱; zh-hk:驚天動地; zh-tw:空中監獄;\n "],["突圍棋",7,18,"duplicated parameter","=\n "],["窦桥湾站",21,3,"duplicated parameter"," code = \n "],["竇榮定",40,2,"duplicated category","[[Category:北周县公]]"],["立山 (日本)",127,74,"duplicated image width parameter","110px"],["立山 (清朝官员)",29,2,"duplicated category","[[Category:清朝戶部侍郎]]"],["立陶宛總統",33,264,"duplicated parameter","access-date=2015-07-31 "],["站塘站",6,3,"duplicated parameter"," type = [[合肥轨道交通]]车站\n "],["童仲彥",155,409,"duplicated parameter","author=呂欣憓"],["童婚",7,73,"duplicated image caption parameter","{{largethumb}}"],["竹林車站",61,2,"duplicated category","[[Category:1924年啟用的鐵路車站]]"],["竹西站",6,3,"duplicated parameter"," type = [[合肥轨道交通]]车站\n "],["竹香齋象戲譜",1,19,"duplicated parameter","=\n "],["竹鼠屬",15,39,"duplicated image caption parameter","Right"],["笕桥老街站",12,3,"duplicated parameter","code = \n "],["符號域",7,2,"duplicated category","[[Category:符號學]]"],["第10届中国电影华表奖",9,4,"duplicated style attribute","style=\"background: #F08080;\""],["第10届中国电影金鸡奖",37,4,"duplicated style attribute","style=\"background: gold;\""],["第10届俄亥俄中部影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第10届凤凰城影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第10届华盛顿影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第10届圣路易斯影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第10届旧金山影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第10届爱荷华影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第10届犹他影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第10届纽约在线影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第11届中国电影华表奖",9,4,"duplicated style attribute","style=\"background: #F08080;\""],["第11届中国电影金鸡奖",37,4,"duplicated style attribute","style=\"background: gold;\""],["第11届佛罗里达影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第11届俄亥俄中部影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第11届凤凰城影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第11届华盛顿影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第11届拉斯维加斯影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第11届旧金山影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第11届爱荷华影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第11届犹他影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第11届纽约在线影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第12届中国电影华表奖",26,4,"duplicated style attribute","style=\"background: #F08080;\""],["第12届中国电影金鸡奖",37,4,"duplicated style attribute","style=\"background: gold;\""],["第12届佛罗里达影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第12届俄亥俄中部影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第12届凤凰城影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第12届华盛顿影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第12届圣地亚哥影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第12届拉斯维加斯影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第12届旧金山影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第12届犹他影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第12届纽约在线影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第13届中国电影华表奖",29,4,"duplicated style attribute","style=\"background: #F08080;\""],["第13届中国电影金鸡奖",37,4,"duplicated style attribute","style=\"background: gold;\""],["第13届佛罗里达影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第13届凤凰城影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第13届圣地亚哥影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第13届拉斯维加斯影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第13届纽约在线影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第14屆新加坡金曲獎",7,4,"duplicated style attribute","style=\"background:#EEDD82;\""],["第14届中国电影华表奖",28,4,"duplicated style attribute","style=\"background: #F08080;\""],["第14届中国电影金鸡奖",37,4,"duplicated style attribute","style=\"background: gold;\""],["第14届佛罗里达影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第14届凤凰城影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第14届圣地亚哥影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第14届拉斯维加斯影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第15屆新加坡金曲獎",7,4,"duplicated style attribute","style=\"background:#EEDD82;\""],["第15届中国电影华表奖",20,4,"duplicated style attribute","style=\"background: #F08080;\""],["第15届中国电影金鸡奖",37,4,"duplicated style attribute","style=\"background: gold;\""],["第15届佛罗里达影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第15届圣地亚哥影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第15届拉斯维加斯影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第16區站",23,3,"duplicated parameter"," hall = 架空大堂\n "],["第16屆新加坡金曲獎",9,4,"duplicated style attribute","style=\"background:#EEDD82;\""],["第16屆桃園縣議員列表",3,51,"duplicated style attribute","style=\"width: 100%; height:200px\""],["第16届中国电影金鸡奖",37,4,"duplicated style attribute","style=\"background: gold;\""],["第16届佛罗里达影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第16届圣地亚哥影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第16届拉斯维加斯影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第17屆新加坡金曲獎",13,4,"duplicated style attribute","style=\"background:#EEDD82;\""],["第17屆桃園縣議員列表",478,51,"duplicated style attribute","style=\"width: 100%; height:200px\""],["第17届中国电影金鸡奖",37,4,"duplicated style attribute","style=\"background: gold;\""],["第17届佛罗里达影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第17届圣地亚哥影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第17届拉斯维加斯影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第17届芝加哥影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第18届佛罗里达影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第18届圣地亚哥影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第19届中国电影金鸡奖",54,4,"duplicated style attribute","style=\"background: gold;\""],["第1号弦乐四重奏 (斯美塔那)",3,36,"duplicated image caption parameter","页数=附上斯美塔那亲笔签名的乐谱最后一"],["第1届中国电影华表奖",8,4,"duplicated style attribute","style=\"background: #F08080;\""],["第1届丹佛影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第1届印第安纳电影记者协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第1届圣路易斯影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第1届旧金山影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第1届波士顿在线影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第1届洛杉矶影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第20届中国电影金鸡奖",54,4,"duplicated style attribute","style=\"background: gold;\""],["第20届芝加哥影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第21届中国电影金鸡奖",54,4,"duplicated style attribute","style=\"background: gold;\""],["第21届波士顿影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第21届芝加哥影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第22届中国电影金鸡奖",54,4,"duplicated style attribute","style=\"background: gold;\""],["第22届芝加哥影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第23届中国电影金鸡奖",54,4,"duplicated style attribute","style=\"background: gold;\""],["第23届芝加哥影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第24届芝加哥影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第25届芝加哥影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第26届芝加哥影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第27届波士顿影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第28届波士顿影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第29届波士顿影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第2届中国电影华表奖",8,4,"duplicated style attribute","style=\"background: #F08080;\""],["第2届丹佛影评人协会奖",7,4,"duplicated style attribute","style=\"background: gold;\""],["第2届印第安纳电影记者协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第2届圣路易斯影评人协会奖",11,4,"duplicated style attribute","style=\"background: gold;\""],["第2届波士顿在线影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第2届洛杉矶影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第2届海南岛国际电影节",6,4,"duplicated style attribute","style=\"background: gold;\""],["第30届波士顿影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第31届波士顿影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第32届波士顿影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第32届洛杉矶影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第33届波士顿影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第33届洛杉矶影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第34届波士顿影评人协会奖",7,4,"duplicated style attribute","style=\"background: gold;\""],["第34届洛杉矶影评人协会奖",18,4,"duplicated style attribute","style=\"background: gold;\""],["第35届洛杉矶影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第36屆日本電影學院獎",35,4,"duplicated style attribute","style=\"background:#EEDD82;\""],["第36届洛杉矶影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第37屆日本電影學院獎",32,4,"duplicated style attribute","style=\"background:#EEDD82;\""],["第37届洛杉矶影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第38届洛杉矶影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第39屆凱薩獎",26,4,"duplicated style attribute","style=\"background:#EEDD82;\""],["第39届洛杉矶影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第3届中国电影华表奖",8,4,"duplicated style attribute","style=\"background: #F08080;\""],["第3届印第安纳电影记者协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第3届圣路易斯影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第3戰鬥機聯隊 (納粹德國)",4,3,"duplicated parameter","unit_name=''Jagdgeschwader'' 3\n "],["第3空軍野戰師 (德國國防軍)",23,3,"duplicated parameter","native_name=3. Luftwaffen-Feld-Division\n "],["第40屆凱薩獎",29,4,"duplicated style attribute","style=\"background:#EEDD82;\""],["第42屆凱薩獎",24,4,"duplicated style attribute","style=\"background:#EEDD82;\""],["第4届中国电影华表奖",8,4,"duplicated style attribute","style=\"background: #F08080;\""],["第4届中国电影金鸡奖",37,4,"duplicated style attribute","style=\"background: gold;\""],["第4届华盛顿影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第4届印第安纳电影记者协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第4届圣路易斯影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第4届旧金山影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第4届爱荷华影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第51戰鬥機聯隊 (納粹德國)",21,3,"duplicated parameter","nickname=\n "],["第54戰鬥機聯隊 (納粹德國)",26,3,"duplicated parameter","identification_symbol=\n "],["第56屆廣播金鐘獎",475,2,"duplicated category","[[Category:金鐘獎頒獎典禮]]"],["第57屆廣播金鐘獎",448,2,"duplicated category","[[Category:金鐘獎頒獎典禮]]"],["第58屆廣播金鐘獎",457,2,"duplicated category","[[Category:金鐘獎頒獎典禮]]"],["第59屆廣播金鐘獎",495,2,"duplicated category","[[Category:2024年台灣獎項]]"],["第5届中国电影华表奖",8,4,"duplicated style attribute","style=\"background: #F08080;\""],["第5届中国电影金鸡奖",37,4,"duplicated style attribute","style=\"background: gold;\""],["第5届丹佛影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第5届佛罗里达影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第5届俄亥俄中部影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第5届华盛顿影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第5届圣路易斯影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第5届旧金山影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第5届爱荷华影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第5届犹他影评人协会奖",7,4,"duplicated style attribute","style=\"background: gold;\""],["第63屆柏林電影節",3,3,"duplicated parameter"," 1=zh-hans:电影节; zh-hant:影展;\n "],["第63届托尼奖颁奖典礼",25,4,"duplicated style attribute","style=\"background:#C0C0C0;\""],["第64屆黃金時段艾美獎",346,24,"duplicated style attribute","style=“"],["第64届托尼奖颁奖典礼",26,4,"duplicated style attribute","style=\"background:#C0C0C0;\""],["第653重裝甲獵兵營",15,3,"duplicated parameter"," role                          = \n "],["第65屆黃金時段艾美獎",284,24,"duplicated style attribute","style=“"],["第65届托尼奖颁奖典礼",12,4,"duplicated style attribute","style=\"background:#C0C0C0;\""],["第66届托尼奖颁奖典礼",24,4,"duplicated style attribute","style=\"background:#C0C0C0;\""],["第6届中国电影华表奖",8,4,"duplicated style attribute","style=\"background: #F08080;\""],["第6届中国电影金鸡奖",37,4,"duplicated style attribute","style=\"background: gold;\""],["第6届俄亥俄中部影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第6届华盛顿影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第6届圣路易斯影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第6届旧金山影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第6届爱荷华影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第6届纽约在线影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第7届中国电影华表奖",8,4,"duplicated style attribute","style=\"background: #F08080;\""],["第7届中国电影金鸡奖",69,4,"duplicated style attribute","style=\"background: gold;\""],["第7届俄亥俄中部影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第7届华盛顿影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第7届圣路易斯影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第7届旧金山影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第7届爱荷华影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第7届纽约在线影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第8届中国电影华表奖",8,4,"duplicated style attribute","style=\"background: #F08080;\""],["第8届中国电影金鸡奖",37,4,"duplicated style attribute","style=\"background: gold;\""],["第8届俄亥俄中部影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第8届凤凰城影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第8届华盛顿影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第8届圣路易斯影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第8届旧金山影评人协会奖",10,4,"duplicated style attribute","style=\"background: gold;\""],["第8届爱荷华影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第8届纽约在线影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""],["第92屆奧斯卡最佳國際影片角逐名單",4,59,"duplicated image caption parameter","[[Bong Joon-ho]]"],["第92屆奧斯卡金像獎",52,59,"duplicated image caption parameter","[[Bong Joon-ho]]"],["第9届中国电影华表奖",15,4,"duplicated style attribute","style=\"background: #F08080;\""],["第9届中国电影金鸡奖",70,4,"duplicated style attribute","style=\"background: gold;\""],["第9届俄亥俄中部影评人协会奖",6,4,"duplicated style attribute","style=\"background: gold;\""]],"batches":43}
+window.data={"articles":[[
+	"穩定子 (黑白棋)",
+	2,
+	26,
+	"duplicated parameter",
+	"=\n "
+],[
+	"空中监狱",
+	9,
+	3,
+	"duplicated parameter",
+	"T=zh-cn:空中监狱; zh-hk:驚天動地; zh-tw:空中監獄;\n "
+],[
+	"突圍棋",
+	7,
+	18,
+	"duplicated parameter",
+	"=\n "
+],[
+	"窦桥湾站",
+	21,
+	3,
+	"duplicated parameter",
+	" code = \n "
+],[
+	"竇榮定",
+	40,
+	2,
+	"duplicated category",
+	"[[Category:北周县公]]"
+],[
+	"立山 (日本)",
+	127,
+	74,
+	"duplicated image width parameter",
+	"110px"
+],[
+	"立山 (清朝官员)",
+	29,
+	2,
+	"duplicated category",
+	"[[Category:清朝戶部侍郎]]"
+],[
+	"立陶宛總統",
+	33,
+	264,
+	"duplicated parameter",
+	"access-date=2015-07-31 "
+],[
+	"站塘站",
+	6,
+	3,
+	"duplicated parameter",
+	" type = [[合肥轨道交通]]车站\n "
+],[
+	"童仲彥",
+	155,
+	409,
+	"duplicated parameter",
+	"author=呂欣憓"
+],[
+	"童婚",
+	7,
+	73,
+	"duplicated image caption parameter",
+	"{{largethumb}}"
+],[
+	"竹林車站",
+	61,
+	2,
+	"duplicated category",
+	"[[Category:1924年啟用的鐵路車站]]"
+],[
+	"竹西站",
+	6,
+	3,
+	"duplicated parameter",
+	" type = [[合肥轨道交通]]车站\n "
+],[
+	"竹香齋象戲譜",
+	1,
+	19,
+	"duplicated parameter",
+	"=\n "
+],[
+	"竹鼠屬",
+	15,
+	39,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"笕桥老街站",
+	12,
+	3,
+	"duplicated parameter",
+	"code = \n "
+],[
+	"符號域",
+	7,
+	2,
+	"duplicated category",
+	"[[Category:符號學]]"
+],[
+	"第10届中国电影华表奖",
+	9,
+	4,
+	"duplicated style attribute",
+	"style=\"background: #F08080;\""
+],[
+	"第10届中国电影金鸡奖",
+	37,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第10届俄亥俄中部影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第10届凤凰城影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第10届华盛顿影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第10届圣路易斯影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第10届旧金山影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第10届爱荷华影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第10届犹他影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第10届纽约在线影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第11届中国电影华表奖",
+	9,
+	4,
+	"duplicated style attribute",
+	"style=\"background: #F08080;\""
+],[
+	"第11届中国电影金鸡奖",
+	37,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第11届佛罗里达影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第11届俄亥俄中部影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第11届凤凰城影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第11届华盛顿影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第11届拉斯维加斯影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第11届旧金山影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第11届爱荷华影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第11届犹他影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第11届纽约在线影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第12届中国电影华表奖",
+	26,
+	4,
+	"duplicated style attribute",
+	"style=\"background: #F08080;\""
+],[
+	"第12届中国电影金鸡奖",
+	37,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第12届佛罗里达影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第12届俄亥俄中部影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第12届凤凰城影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第12届华盛顿影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第12届圣地亚哥影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第12届拉斯维加斯影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第12届旧金山影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第12届犹他影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第12届纽约在线影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第13届中国电影华表奖",
+	29,
+	4,
+	"duplicated style attribute",
+	"style=\"background: #F08080;\""
+],[
+	"第13届中国电影金鸡奖",
+	37,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第13届佛罗里达影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第13届凤凰城影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第13届圣地亚哥影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第13届拉斯维加斯影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第13届纽约在线影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第14屆新加坡金曲獎",
+	7,
+	4,
+	"duplicated style attribute",
+	"style=\"background:#EEDD82;\""
+],[
+	"第14届中国电影华表奖",
+	28,
+	4,
+	"duplicated style attribute",
+	"style=\"background: #F08080;\""
+],[
+	"第14届中国电影金鸡奖",
+	37,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第14届佛罗里达影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第14届凤凰城影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第14届圣地亚哥影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第14届拉斯维加斯影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第15屆新加坡金曲獎",
+	7,
+	4,
+	"duplicated style attribute",
+	"style=\"background:#EEDD82;\""
+],[
+	"第15届中国电影华表奖",
+	20,
+	4,
+	"duplicated style attribute",
+	"style=\"background: #F08080;\""
+],[
+	"第15届中国电影金鸡奖",
+	37,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第15届佛罗里达影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第15届圣地亚哥影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第15届拉斯维加斯影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第16區站",
+	23,
+	3,
+	"duplicated parameter",
+	" hall = 架空大堂\n "
+],[
+	"第16屆新加坡金曲獎",
+	9,
+	4,
+	"duplicated style attribute",
+	"style=\"background:#EEDD82;\""
+],[
+	"第16屆桃園縣議員列表",
+	3,
+	51,
+	"duplicated style attribute",
+	"style=\"width: 100%; height:200px\""
+],[
+	"第16届中国电影金鸡奖",
+	37,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第16届佛罗里达影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第16届圣地亚哥影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第16届拉斯维加斯影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第17屆新加坡金曲獎",
+	13,
+	4,
+	"duplicated style attribute",
+	"style=\"background:#EEDD82;\""
+],[
+	"第17屆桃園縣議員列表",
+	478,
+	51,
+	"duplicated style attribute",
+	"style=\"width: 100%; height:200px\""
+],[
+	"第17届中国电影金鸡奖",
+	37,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第17届佛罗里达影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第17届圣地亚哥影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第17届拉斯维加斯影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第17届芝加哥影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第18届佛罗里达影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第18届圣地亚哥影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第19届中国电影金鸡奖",
+	54,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第1号弦乐四重奏 (斯美塔那)",
+	3,
+	36,
+	"duplicated image caption parameter",
+	"页数=附上斯美塔那亲笔签名的乐谱最后一"
+],[
+	"第1届中国电影华表奖",
+	8,
+	4,
+	"duplicated style attribute",
+	"style=\"background: #F08080;\""
+],[
+	"第1届丹佛影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第1届印第安纳电影记者协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第1届圣路易斯影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第1届旧金山影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第1届波士顿在线影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第1届洛杉矶影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第20届中国电影金鸡奖",
+	54,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第20届芝加哥影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第21届中国电影金鸡奖",
+	54,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第21届波士顿影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第21届芝加哥影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第22届中国电影金鸡奖",
+	54,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第22届芝加哥影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第23届中国电影金鸡奖",
+	54,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第23届芝加哥影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第24届芝加哥影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第25届芝加哥影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第26届芝加哥影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第27届波士顿影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第28届波士顿影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第29届波士顿影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第2届中国电影华表奖",
+	8,
+	4,
+	"duplicated style attribute",
+	"style=\"background: #F08080;\""
+],[
+	"第2届丹佛影评人协会奖",
+	7,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第2届印第安纳电影记者协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第2届圣路易斯影评人协会奖",
+	11,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第2届波士顿在线影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第2届洛杉矶影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第2届海南岛国际电影节",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第30届波士顿影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第31届波士顿影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第32届波士顿影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第32届洛杉矶影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第33届波士顿影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第33届洛杉矶影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第34届波士顿影评人协会奖",
+	7,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第34届洛杉矶影评人协会奖",
+	18,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第35届洛杉矶影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第36屆日本電影學院獎",
+	35,
+	4,
+	"duplicated style attribute",
+	"style=\"background:#EEDD82;\""
+],[
+	"第36届洛杉矶影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第37屆日本電影學院獎",
+	32,
+	4,
+	"duplicated style attribute",
+	"style=\"background:#EEDD82;\""
+],[
+	"第37届洛杉矶影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第38届洛杉矶影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第39屆凱薩獎",
+	26,
+	4,
+	"duplicated style attribute",
+	"style=\"background:#EEDD82;\""
+],[
+	"第39届洛杉矶影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第3届中国电影华表奖",
+	8,
+	4,
+	"duplicated style attribute",
+	"style=\"background: #F08080;\""
+],[
+	"第3届印第安纳电影记者协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第3届圣路易斯影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第3戰鬥機聯隊 (納粹德國)",
+	4,
+	3,
+	"duplicated parameter",
+	"unit_name=''Jagdgeschwader'' 3\n "
+],[
+	"第3空軍野戰師 (德國國防軍)",
+	23,
+	3,
+	"duplicated parameter",
+	"native_name=3. Luftwaffen-Feld-Division\n "
+],[
+	"第40屆凱薩獎",
+	29,
+	4,
+	"duplicated style attribute",
+	"style=\"background:#EEDD82;\""
+],[
+	"第42屆凱薩獎",
+	24,
+	4,
+	"duplicated style attribute",
+	"style=\"background:#EEDD82;\""
+],[
+	"第4届中国电影华表奖",
+	8,
+	4,
+	"duplicated style attribute",
+	"style=\"background: #F08080;\""
+],[
+	"第4届中国电影金鸡奖",
+	37,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第4届华盛顿影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第4届印第安纳电影记者协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第4届圣路易斯影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第4届旧金山影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第4届爱荷华影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第51戰鬥機聯隊 (納粹德國)",
+	21,
+	3,
+	"duplicated parameter",
+	"nickname=\n "
+],[
+	"第54戰鬥機聯隊 (納粹德國)",
+	26,
+	3,
+	"duplicated parameter",
+	"identification_symbol=\n "
+],[
+	"第56屆廣播金鐘獎",
+	475,
+	2,
+	"duplicated category",
+	"[[Category:金鐘獎頒獎典禮]]"
+],[
+	"第57屆廣播金鐘獎",
+	448,
+	2,
+	"duplicated category",
+	"[[Category:金鐘獎頒獎典禮]]"
+],[
+	"第58屆廣播金鐘獎",
+	457,
+	2,
+	"duplicated category",
+	"[[Category:金鐘獎頒獎典禮]]"
+],[
+	"第59屆廣播金鐘獎",
+	495,
+	2,
+	"duplicated category",
+	"[[Category:2024年台灣獎項]]"
+],[
+	"第5届中国电影华表奖",
+	8,
+	4,
+	"duplicated style attribute",
+	"style=\"background: #F08080;\""
+],[
+	"第5届中国电影金鸡奖",
+	37,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第5届丹佛影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第5届佛罗里达影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第5届俄亥俄中部影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第5届华盛顿影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第5届圣路易斯影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第5届旧金山影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第5届爱荷华影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第5届犹他影评人协会奖",
+	7,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第63屆柏林電影節",
+	3,
+	3,
+	"duplicated parameter",
+	" 1=zh-hans:电影节; zh-hant:影展;\n "
+],[
+	"第63届托尼奖颁奖典礼",
+	25,
+	4,
+	"duplicated style attribute",
+	"style=\"background:#C0C0C0;\""
+],[
+	"第64屆黃金時段艾美獎",
+	346,
+	24,
+	"duplicated style attribute",
+	"style=“"
+],[
+	"第64届托尼奖颁奖典礼",
+	26,
+	4,
+	"duplicated style attribute",
+	"style=\"background:#C0C0C0;\""
+],[
+	"第653重裝甲獵兵營",
+	15,
+	3,
+	"duplicated parameter",
+	" role                          = \n "
+],[
+	"第65屆黃金時段艾美獎",
+	284,
+	24,
+	"duplicated style attribute",
+	"style=“"
+],[
+	"第65届托尼奖颁奖典礼",
+	12,
+	4,
+	"duplicated style attribute",
+	"style=\"background:#C0C0C0;\""
+],[
+	"第66届托尼奖颁奖典礼",
+	24,
+	4,
+	"duplicated style attribute",
+	"style=\"background:#C0C0C0;\""
+],[
+	"第6届中国电影华表奖",
+	8,
+	4,
+	"duplicated style attribute",
+	"style=\"background: #F08080;\""
+],[
+	"第6届中国电影金鸡奖",
+	37,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第6届俄亥俄中部影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第6届华盛顿影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第6届圣路易斯影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第6届旧金山影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第6届爱荷华影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第6届纽约在线影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第7届中国电影华表奖",
+	8,
+	4,
+	"duplicated style attribute",
+	"style=\"background: #F08080;\""
+],[
+	"第7届中国电影金鸡奖",
+	69,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第7届俄亥俄中部影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第7届华盛顿影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第7届圣路易斯影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第7届旧金山影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第7届爱荷华影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第7届纽约在线影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第8届中国电影华表奖",
+	8,
+	4,
+	"duplicated style attribute",
+	"style=\"background: #F08080;\""
+],[
+	"第8届中国电影金鸡奖",
+	37,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第8届俄亥俄中部影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第8届凤凰城影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第8届华盛顿影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第8届圣路易斯影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第8届旧金山影评人协会奖",
+	10,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第8届爱荷华影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第8届纽约在线影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第92屆奧斯卡最佳國際影片角逐名單",
+	4,
+	59,
+	"duplicated image caption parameter",
+	"[[Bong Joon-ho]]"
+],[
+	"第92屆奧斯卡金像獎",
+	52,
+	59,
+	"duplicated image caption parameter",
+	"[[Bong Joon-ho]]"
+],[
+	"第9届中国电影华表奖",
+	15,
+	4,
+	"duplicated style attribute",
+	"style=\"background: #F08080;\""
+],[
+	"第9届中国电影金鸡奖",
+	70,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],[
+	"第9届俄亥俄中部影评人协会奖",
+	6,
+	4,
+	"duplicated style attribute",
+	"style=\"background: gold;\""
+],],"batches":43}

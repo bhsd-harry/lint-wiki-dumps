@@ -1,1 +1,1201 @@
-window.data={"articles":[["Wikipedia:頁面存廢討論/記錄/2012/05/11",210,151,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2012/06/25",280,146,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2012/07/03",181,135,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2012/07/09",116,142,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2012/07/14",344,132,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2012/07/15",43,150,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2012/07/20",91,133,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2012/07/24",116,133,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2012/08/04",251,133,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2012/08/05",953,137,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2012/08/07",116,138,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2012/08/13",137,171,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2012/08/18",250,151,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2012/08/27",380,41,"} expected","2px"],["Wikipedia:頁面存廢討論/記錄/2012/08/30",277,161,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2012/08/31",262,49,"} expected","2px"],["Wikipedia:頁面存廢討論/記錄/2012/09/03",27,47,"} expected","2px"],["Wikipedia:頁面存廢討論/記錄/2012/09/04",29,169,"} expected","2px"],["Wikipedia:頁面存廢討論/記錄/2012/09/06",189,47,"} expected","2px"],["Wikipedia:頁面存廢討論/記錄/2012/09/07",228,47,"} expected","2px"],["Wikipedia:頁面存廢討論/記錄/2012/09/08",242,47,"} expected","2px"],["Wikipedia:頁面存廢討論/記錄/2012/09/13",82,168,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2012/09/17",188,47,"} expected","2px"],["Wikipedia:頁面存廢討論/記錄/2012/09/19",44,47,"} expected","2px"],["Wikipedia:頁面存廢討論/記錄/2012/09/20",277,49,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/09/24",220,47,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/09/25",140,45,"} expected","2px"],["Wikipedia:頁面存廢討論/記錄/2012/09/26",211,47,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/09/27",249,47,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/09/28",177,47,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/09/30",233,49,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/10/01",27,45,"} expected","2px"],["Wikipedia:頁面存廢討論/記錄/2012/10/02",736,47,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/10/03",255,47,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/10/04",249,47,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/10/05",302,47,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/10/06",405,45,"} expected","2px"],["Wikipedia:頁面存廢討論/記錄/2012/10/07",27,47,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/10/09",277,47,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/10/13",144,47,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/10/14",245,47,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/10/15",253,47,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/10/16",309,47,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/10/18",155,86,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/10/21",153,47,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/10/25",397,52,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/11/05",469,48,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/11/06",236,108,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/11/07",109,105,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/11/08",215,119,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/11/09",186,108,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/11/23",134,108,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2012/11/28",335,136,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2012/12/10",344,209,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2012/12/14",60,206,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2012/12/16",302,206,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2012/12/18",126,218,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2012/12/25",180,207,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/01/02",271,206,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/01/06",132,268,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/01/08",478,227,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/01/09",218,94,"} expected","2px"],["Wikipedia:頁面存廢討論/記錄/2013/01/11",60,41,"} expected","2px"],["Wikipedia:頁面存廢討論/記錄/2013/01/12",179,206,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/01/14",204,206,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/01/23",310,86,"} expected","2px"],["Wikipedia:頁面存廢討論/記錄/2013/02/03",317,136,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2013/02/04",305,153,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2013/02/07",408,144,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2013/02/11",144,136,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2013/02/13",456,136,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2013/02/17",257,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/02/18",393,188,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/02/24",164,45,"} expected","2px"],["Wikipedia:頁面存廢討論/記錄/2013/02/25",188,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/02/28",314,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/03/01",275,123,"property value expected","#030D538"],["Wikipedia:頁面存廢討論/記錄/2013/03/06",409,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/03/13",27,45,"} expected","2px"],["Wikipedia:頁面存廢討論/記錄/2013/03/16",363,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/03/18",82,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/03/19",361,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/03/21",162,172,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/03/23",305,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/03/26",28,161,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/03/30",92,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/04/04",301,166,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/04/05",240,182,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/04/08",208,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/04/11",304,172,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/04/14",82,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/04/15",54,175,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/04/18",61,193,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/04/21",84,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/04/22",300,168,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/04/23",300,190,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/04/25",426,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/04/27",95,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/04/29",299,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/05/03",35,171,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/05/05",36,108,"property value expected","#80000"],["Wikipedia:頁面存廢討論/記錄/2013/05/06",71,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/05/08",162,141,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2013/05/09",366,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/05/10",147,171,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/05/11",135,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/05/12",77,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/05/13",120,185,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/05/14",167,165,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2013/05/16",134,81,"property value expected","#Aqua"],["Wikipedia:頁面存廢討論/記錄/2013/05/18",47,127,"semi-colon expected",""],["Wikipedia:頁面存廢討論/記錄/2013/05/19",221,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/05/21",473,173,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/05/26",169,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/05/28",292,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/05/29",431,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/05/31",121,173,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/06/01",72,169,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/06/02",69,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/06/04",26,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/06/05",157,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/06/08",243,178,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/06/09",135,166,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/06/10",42,169,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/06/11",49,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/06/13",116,166,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/06/14",107,170,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/06/15",28,172,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/06/16",45,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/06/17",292,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/06/21",172,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/06/23",188,166,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/06/26",353,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/06/30",411,186,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/03",114,166,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/04",175,179,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/05",99,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/06",96,166,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/07",199,171,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/08",114,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/09",94,202,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/10",191,164,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/11",65,188,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/12",163,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/15",79,166,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/16",107,194,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/20",230,170,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/25",333,164,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/26",129,179,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/27",45,166,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/28",202,189,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/30",169,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/07/31",32,175,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/01",312,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/02",55,174,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/03",92,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/04",212,165,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/05",85,173,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/06",132,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/08",117,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/09",83,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/10",95,168,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/11",197,200,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/13",97,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/14",116,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/15",34,185,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/16",35,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/17",110,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/18",525,173,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/19",156,175,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/20",62,168,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/22",138,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/23",219,185,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/25",26,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/26",136,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/27",46,168,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/28",207,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/29",157,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/30",462,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/08/31",86,179,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/09/01",291,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/09/03",82,211,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/09/04",433,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/09/05",343,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/09/08",37,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/09/11",48,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/09/14",36,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/09/15",64,277,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/09/16",212,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/09/17",145,166,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/09/20",135,176,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/09/24",50,178,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/09/25",168,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/09/26",175,177,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/09/30",114,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/10/02",128,184,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/10/03",93,169,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/10/04",188,167,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/10/05",78,163,"property value expected","#FDF5E"],["Wikipedia:頁面存廢討論/記錄/2013/10/07",263,171,"property value expected","#FDF5E"]],"batches":38}
+window.data={"articles":[[
+	"Wikipedia:頁面存廢討論/記錄/2012/05/11",
+	210,
+	151,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/06/25",
+	280,
+	146,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/07/03",
+	181,
+	135,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/07/09",
+	116,
+	142,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/07/14",
+	344,
+	132,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/07/15",
+	43,
+	150,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/07/20",
+	91,
+	133,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/07/24",
+	116,
+	133,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/08/04",
+	251,
+	133,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/08/05",
+	953,
+	137,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/08/07",
+	116,
+	138,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/08/13",
+	137,
+	171,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/08/18",
+	250,
+	151,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/08/27",
+	380,
+	41,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/08/30",
+	277,
+	161,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/08/31",
+	262,
+	49,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/09/03",
+	27,
+	47,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/09/04",
+	29,
+	169,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/09/06",
+	189,
+	47,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/09/07",
+	228,
+	47,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/09/08",
+	242,
+	47,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/09/13",
+	82,
+	168,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/09/17",
+	188,
+	47,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/09/19",
+	44,
+	47,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/09/20",
+	277,
+	49,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/09/24",
+	220,
+	47,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/09/25",
+	140,
+	45,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/09/26",
+	211,
+	47,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/09/27",
+	249,
+	47,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/09/28",
+	177,
+	47,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/09/30",
+	233,
+	49,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/10/01",
+	27,
+	45,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/10/02",
+	736,
+	47,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/10/03",
+	255,
+	47,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/10/04",
+	249,
+	47,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/10/05",
+	302,
+	47,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/10/06",
+	405,
+	45,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/10/07",
+	27,
+	47,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/10/09",
+	277,
+	47,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/10/13",
+	144,
+	47,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/10/14",
+	245,
+	47,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/10/15",
+	253,
+	47,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/10/16",
+	309,
+	47,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/10/18",
+	155,
+	86,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/10/21",
+	153,
+	47,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/10/25",
+	397,
+	52,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/11/05",
+	469,
+	48,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/11/06",
+	236,
+	108,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/11/07",
+	109,
+	105,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/11/08",
+	215,
+	119,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/11/09",
+	186,
+	108,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/11/23",
+	134,
+	108,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/11/28",
+	335,
+	136,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/12/10",
+	344,
+	209,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/12/14",
+	60,
+	206,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/12/16",
+	302,
+	206,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/12/18",
+	126,
+	218,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2012/12/25",
+	180,
+	207,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/01/02",
+	271,
+	206,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/01/06",
+	132,
+	268,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/01/08",
+	478,
+	227,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/01/09",
+	218,
+	94,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/01/11",
+	60,
+	41,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/01/12",
+	179,
+	206,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/01/14",
+	204,
+	206,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/01/23",
+	310,
+	86,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/02/03",
+	317,
+	136,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/02/04",
+	305,
+	153,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/02/07",
+	408,
+	144,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/02/11",
+	144,
+	136,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/02/13",
+	456,
+	136,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/02/17",
+	257,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/02/18",
+	393,
+	188,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/02/24",
+	164,
+	45,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/02/25",
+	188,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/02/28",
+	314,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/03/01",
+	275,
+	123,
+	"property value expected",
+	"#030D538"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/03/06",
+	409,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/03/13",
+	27,
+	45,
+	"} expected",
+	"2px"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/03/16",
+	363,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/03/18",
+	82,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/03/19",
+	361,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/03/21",
+	162,
+	172,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/03/23",
+	305,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/03/26",
+	28,
+	161,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/03/30",
+	92,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/04/04",
+	301,
+	166,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/04/05",
+	240,
+	182,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/04/08",
+	208,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/04/11",
+	304,
+	172,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/04/14",
+	82,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/04/15",
+	54,
+	175,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/04/18",
+	61,
+	193,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/04/21",
+	84,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/04/22",
+	300,
+	168,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/04/23",
+	300,
+	190,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/04/25",
+	426,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/04/27",
+	95,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/04/29",
+	299,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/03",
+	35,
+	171,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/05",
+	36,
+	108,
+	"property value expected",
+	"#80000"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/06",
+	71,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/08",
+	162,
+	141,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/09",
+	366,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/10",
+	147,
+	171,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/11",
+	135,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/12",
+	77,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/13",
+	120,
+	185,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/14",
+	167,
+	165,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/16",
+	134,
+	81,
+	"property value expected",
+	"#Aqua"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/18",
+	47,
+	127,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/19",
+	221,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/21",
+	473,
+	173,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/26",
+	169,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/28",
+	292,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/29",
+	431,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/05/31",
+	121,
+	173,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/06/01",
+	72,
+	169,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/06/02",
+	69,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/06/04",
+	26,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/06/05",
+	157,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/06/08",
+	243,
+	178,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/06/09",
+	135,
+	166,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/06/10",
+	42,
+	169,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/06/11",
+	49,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/06/13",
+	116,
+	166,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/06/14",
+	107,
+	170,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/06/15",
+	28,
+	172,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/06/16",
+	45,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/06/17",
+	292,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/06/21",
+	172,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/06/23",
+	188,
+	166,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/06/26",
+	353,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/06/30",
+	411,
+	186,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/03",
+	114,
+	166,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/04",
+	175,
+	179,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/05",
+	99,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/06",
+	96,
+	166,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/07",
+	199,
+	171,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/08",
+	114,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/09",
+	94,
+	202,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/10",
+	191,
+	164,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/11",
+	65,
+	188,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/12",
+	163,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/15",
+	79,
+	166,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/16",
+	107,
+	194,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/20",
+	230,
+	170,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/25",
+	333,
+	164,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/26",
+	129,
+	179,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/27",
+	45,
+	166,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/28",
+	202,
+	189,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/30",
+	169,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/07/31",
+	32,
+	175,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/01",
+	312,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/02",
+	55,
+	174,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/03",
+	92,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/04",
+	212,
+	165,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/05",
+	85,
+	173,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/06",
+	132,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/08",
+	117,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/09",
+	83,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/10",
+	95,
+	168,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/11",
+	197,
+	200,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/13",
+	97,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/14",
+	116,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/15",
+	34,
+	185,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/16",
+	35,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/17",
+	110,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/18",
+	525,
+	173,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/19",
+	156,
+	175,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/20",
+	62,
+	168,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/22",
+	138,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/23",
+	219,
+	185,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/25",
+	26,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/26",
+	136,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/27",
+	46,
+	168,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/28",
+	207,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/29",
+	157,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/30",
+	462,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/31",
+	86,
+	179,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/09/01",
+	291,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/09/03",
+	82,
+	211,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/09/04",
+	433,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/09/05",
+	343,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/09/08",
+	37,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/09/11",
+	48,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/09/14",
+	36,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/09/15",
+	64,
+	277,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/09/16",
+	212,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/09/17",
+	145,
+	166,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/09/20",
+	135,
+	176,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/09/24",
+	50,
+	178,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/09/25",
+	168,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/09/26",
+	175,
+	177,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/09/30",
+	114,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/10/02",
+	128,
+	184,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/10/03",
+	93,
+	169,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/10/04",
+	188,
+	167,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/10/05",
+	78,
+	163,
+	"property value expected",
+	"#FDF5E"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/10/07",
+	263,
+	171,
+	"property value expected",
+	"#FDF5E"
+],],"batches":38}

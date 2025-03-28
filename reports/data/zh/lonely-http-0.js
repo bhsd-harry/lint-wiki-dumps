@@ -1,1 +1,1201 @@
-window.data={"articles":[[".ci",17,30,"lonely \"https://\"","https://"],[".edu",27,58,"lonely \"RFC\"","RFC"],[".example",19,48,"lonely \"RFC\"","RFC"],[".gov",25,58,"lonely \"RFC\"","RFC"],[".localhost",3,145,"lonely \"RFC\"","RFC"],[".ms",30,167,"lonely \"http://\"","http://"],[".test",11,36,"lonely \"RFC\"","RFC"],["1/2王子",368,14,"lonely \"ISBN\"","ISBN"],["10亿人在挨饿",7,135,"lonely \"http://\"","http://"],["14K",69,228,"lonely \"ISBN\"","ISBN"],["16S 核糖体RNA",175,80,"lonely \"http://\"","http://"],["1867年改革法令",31,24,"lonely \"ISBN\"","ISBN"],["1895年台海登船臨檢事件",33,78,"lonely \"ISBN\"","ISBN"],["1918年流感大流行",72,233,"lonely \"https://\"","https://"],["1945年奧地利議會選舉",69,126,"lonely \"ISBN\"","ISBN"],["1948年援華法案",39,893,"lonely \"ISBN\"","ISBN"],["1950年阿薩姆—西藏地震",49,1873,"lonely \"ISBN\"","ISBN"],["1978年8月教宗選舉秘密會議",105,46,"lonely \"ISBN\"","ISBN"],["1981年臺灣",56,88,"lonely \"http://\"","http://"],["1988年黄石公园大火",147,108,"lonely \"ISBN\"","Isbn"],["1991年乌兹别克斯坦总统选举",29,223,"lonely \"ISBN\"","ISBN"],["1991年乌兹别克斯坦独立公投",14,180,"lonely \"ISBN\"","ISBN"],["1995年乌兹别克斯坦总统任期公投",3,243,"lonely \"ISBN\"","ISBN"],["1996年中華民國總統選舉",507,72,"lonely \"ISBN\"","ISBN"],["2,3-二磷酸甘油酸",122,118,"lonely \"ISBN\"","ISBN"],["2000年乌兹别克斯坦总统选举",31,136,"lonely \"ISBN\"","ISBN"],["2009年H1N1流感大流行中国大陆情况",192,35,"lonely \"http://\"","http://"],["2010年日本動畫列表",338,72,"lonely \"http://\"","http://"],["2010年日本成人遊戲列表",1091,64,"lonely \"http://\"","http://"],["2012年大西洋颶風季",91,117,"lonely \"http://\"","http://"],["2012年奥罗拉枪击事件",211,163,"lonely \"http://\"","http://"],["2012年韓國劇集列表",7422,5,"lonely \"https://\"","https://"],["2012年香港特別行政區行政長官選舉",346,4,"lonely \"https://\"","https://"],["2013年5月中國大陸",113,193,"lonely \"http://\"","http://"],["2014年亚洲运动会",194,57,"lonely \"http://\"","http://"],["2014年克里米亞歸屬公投",63,348,"lonely \"https://\"","https://"],["2014年建三江事件",25,157,"lonely \"https://\"","https://"],["2014年歐洲議會選舉",900,26,"lonely \"http://\"","http://"],["2014年湖南军训教官与师生冲突事件",30,145,"lonely \"https://\"","https://"],["2014高雄電影節",30,81,"lonely \"http://\"","http://"],["2019年波哥大警察學院襲擊",17,1942,"lonely \"https://\"","https://"],["2020年智利憲法公投",38,606,"lonely \"https://\"","https://"],["2020年香港立法會選舉",576,4,"lonely \"https://\"","https://"],["2021年至2022年德国足球乙级联赛",525,461,"lonely \"https://\"","https://"],["2021年西洋棋世界冠軍賽",218,273,"lonely \"RFC\"","Rfc"],["2022年5月臺灣",21,826,"lonely \"https://\"","https://"],["2022年至2023年西班牙足球甲級聯賽",7124,125,"lonely \"https://\"","https://"],["2022年臺灣",110,827,"lonely \"https://\"","https://"],["2023年肯塔基州州長選舉",42,159,"lonely \"https://\"","https://"],["2024年GCS春季職業聯賽",26,240,"lonely \"https://\"","https://"],["2024年美國職棒大聯盟球季",106,70,"lonely \"https://\"","https://"],["2024年賓夕法尼亞州聯邦參議員選舉",84,140,"lonely \"https:/\"","https:/"],["2024年阿拉斯加州聯邦眾議員選舉",535,165,"lonely \"https:/\"","https:/"],["2S3「相思」自走砲",25,97,"lonely \"http://\"","http://"],["39大道車站 (BMT阿斯托利亞線)",57,233,"lonely \"https://\"","https://"],["425上訪事件",65,904,"lonely \"ISBN\"","isbn"],["5,5'-偶氮四唑钠",24,151,"lonely \"ISBN\"","ISBN"],["53式輕機槍",81,23,"lonely \"ISBN\"","ISBN"],["7.63×25毫米毛瑟彈",70,23,"lonely \"ISBN\"","ISBN"],["7.7×58mm有坂子彈",67,16,"lonely \"ISBN\"","ISBN"],["7.92×33mm Kurz",95,16,"lonely \"ISBN\"","ISBN"],["7頻道",256,63,"lonely \"ISBN\"","ISBN"],["8男",10,47,"lonely \"ISBN\"","isbn"],["941型核潜艇",180,17,"lonely \"ISBN\"","ISBN"],["A-12侦察机",65,135,"lonely \"ISBN\"","ISBN"],["A-37蜻蜓式攻擊機",59,33,"lonely \"ISBN\"","ISBN"],["Active Directory",210,48,"lonely \"RFC\"","RFC"],["AGM-62 鼓眼魚",38,656,"lonely \"https://\"","https://"],["AJAX",116,16,"lonely \"ISBN\"","ISBN"],["ALL OUT!!",295,4,"lonely \"ISBN\"","ISBN"],["Amero",192,181,"lonely \"http://\"","http://"],["Amis",88,49,"lonely \"ISBN\"","ISBN"],["AMR 33輕型坦克",49,78,"lonely \"ISBN\"","ISBN"],["AMR 35輕型坦克",75,469,"lonely \"ISBN\"","ISBN"],["AMX-13轻型坦克",44,495,"lonely \"http://\"","http://"],["AT&T公司",46,71,"lonely \"http://\"","http://"],["ATBO",161,69,"lonely \"https://\"","https://"],["AV女優 (電影)",37,2,"lonely \"ISBN\"","ISBN"],["B-25米切尔型轰炸机",156,33,"lonely \"ISBN\"","ISBN"],["B-47轟炸機",156,129,"lonely \"ISBN\"","ISBN"],["B-57轰炸机",150,541,"lonely \"ISBN\"","ISBN"],["BABYMETAL",20,600,"lonely \"ISBN\"","ISBN"],["Base64",185,15,"lonely \"RFC\"","RFC"],["BEAT WIN",320,9,"lonely \"http://\"","http://"],["Bf 109戰鬥機",1849,27,"lonely \"ISBN\"","ISBN"],["BIGFLO",503,9,"lonely \"http://\"","http://"],["BLOOD ALONE",222,4,"lonely \"ISBN\"","ISBN"],["BMP",411,108,"lonely \"ISBN\"","ISBN"],["BR.20轟炸機",55,37,"lonely \"ISBN\"","ISBN"],["Buc-ee's",21,23,"lonely \"http:/\"","http:/"],["B介子",36,5,"lonely \"http://\"","http://"],["Category:日本維基人",46,65,"lonely \"http://\"","http://"],["CH-46海骑士直升机",49,75,"lonely \"ISBN\"","ISBN"],["CHANGE123",166,15,"lonely \"ISBN\"","ISBN"],["Chmod",189,32,"lonely \"ISBN\"","ISBN"],["Chown",29,32,"lonely \"ISBN\"","ISBN"],["Cmidi",13,99,"lonely \"https://\"","https://"],["CNAME记录",43,8,"lonely \"RFC\"","RFC"],["CNP-600",2,90,"lonely \"ISBN\"","ISBN"],["Cookie",19,142,"lonely \"RFC\"","RFC"],["CR.42戰鬥機",49,35,"lonely \"ISBN\"","ISBN"],["CRASH!",284,17,"lonely \"ISBN\"","ISBN"],["CWC模式",3,152,"lonely \"http:/\"","http:/"],["DAY6",177,166,"lonely \"https://\"","https://"],["Deflate",9,179,"lonely \"RFC\"","RFC"],["Delicious",37,52,"lonely \"http://\"","http://"],["DICT",1,259,"lonely \"RFC\"","RFC"],["DNS记录类型列表",70,561,"lonely \"RFC\"","RFC"],["DNS轮循",13,581,"lonely \"RFC\"","rfc"],["Do-X飛艇",72,35,"lonely \"ISBN\"","ISBN"],["DP輕機槍",163,23,"lonely \"ISBN\"","ISBN"],["Draft:三條國小",13,69,"lonely \"https://\"","https://"],["Draft:五明智学教育",117,34,"lonely \"ISBN\"","ISBN"],["Draft:俄亥俄州立大學虐待醜聞",24,21,"lonely \"https://\"","https://"],["Draft:宅女小紅",25,28,"lonely \"ISBN\"","ISBN"],["Draft:彰化縣溪州鄉三條國民小學",11,69,"lonely \"https://\"","https://"],["Draft:收刻頡",5,21,"lonely \"https://\"","https://"],["Draft:林信華 (政治人物)",53,30,"lonely \"ISBN\"","ISBN"],["Draft:楊子佛教禮儀",23,518,"lonely \"ISBN\"","ISBN"],["Draft:电子游戏与暴力",48,1391,"lonely \"http://\"","http://"],["Dream Girls",184,50,"lonely \"ISBN\"","ISBN"],["DVD-RAM",23,5,"lonely \"http://\"","http://"],["Eternity Girls",56,42,"lonely \"ISBN\"","ISBN"],["Example.com",4,98,"lonely \"RFC\"","RFC"],["F-104星式戰鬥機",391,460,"lonely \"http://\"","http://"],["F135渦輪扇發動機",26,54,"lonely \"http://\"","http://"],["F2Y海標式噴射水上戰鬥機",49,35,"lonely \"ISBN\"","ISBN"],["F8F熊貓戰鬥機",89,34,"lonely \"ISBN\"","ISBN"],["FAIRY TAIL",729,7,"lonely \"ISBN\"","ISBN"],["Fedora Linux",535,38,"lonely \"https://\"","https://"],["FIGHT.K教會",162,50,"lonely \"ISBN\"","ISBN"],["File:1992年2月26日 张友渔的遗照.jpg",17,25,"lonely \"https://\"","https://"],["File:200px-Linguabadge-general-445.gif",5,13,"lonely \"http://\"","http://"],["File:A Perfect World.jpg",5,16,"lonely \"http://\"","http://"],["File:A Time 4 You.JPG",4,19,"lonely \"http://\"","http://"],["File:AjinMOVIEPOSTER.jpg",12,25,"lonely \"http://\"","http://"],["File:AliceMadnessReturns.jpg",10,36,"lonely \"http://\"","http://"],["File:Alison Parker and Adam Ward.jpg",4,42,"lonely \"http://\"","http://"],["File:All About Women.jpg",6,11,"lonely \"http://\"","http://"],["File:An account of Nepenthes in New Guinea.jpg",5,15,"lonely \"http://\"","http://"],["File:An example of How-old.net.jpg",6,15,"lonely \"http://\"","http://"],["File:Andy World Club.jpg",21,24,"lonely \"http://\"","http://"],["File:Atlas of creation.jpg",6,94,"lonely \"http://\"","http://"],["File:Beautiful Autumn Village, Michuri 2 Post.jpg",6,14,"lonely \"https://\"","https://"],["File:BeginAgain Korea封面.jpg",6,18,"lonely \"http://\"","http://"],["File:BeginAgain Korea海報.jpg",6,18,"lonely \"http://\"","http://"],["File:BeginAgain2.jpg",6,18,"lonely \"http://\"","http://"],["File:BeginAgain3海報.jpg",6,18,"lonely \"http://\"","http://"],["File:Blur MagicWhip 2015.jpg",4,26,"lonely \"http://\"","http://"],["File:Bookcover-Generation-X.jpg",9,4,"lonely \"ISBN\"","ISBN"],["File:Bosei movie.jpg",6,17,"lonely \"https://\"","https://"],["File:Brianna Ghey.jpg",10,60,"lonely \"https://\"","https://"],["File:Catch Me If You Can 2002 movie.jpg",2,10,"lonely \"http://\"","http://"],["File:CCTV Global Biz Report.png",4,15,"lonely \"http://\"","http://"],["File:Changle No.1 Middle School badge.jpg",5,18,"lonely \"http://\"","http://"],["File:Chengdong Middle School badge.jpg",4,31,"lonely \"http://\"","http://"],["File:Chenglong, LI.jpeg",14,39,"lonely \"https://\"","https://"],["File:Chia-Tai High School logo.gif",4,22,"lonely \"http://\"","http://"],["File:China Cultural Heritage Logo.jpg",7,22,"lonely \"https://\"","https://"],["File:China tobacco.gif",7,19,"lonely \"http://\"","http://"],["File:Chinese Paladin Online 2.0 LOGO.jpg",4,24,"lonely \"http://\"","http://"],["File:Cinderella4.jpg",3,17,"lonely \"http://\"","http://"],["File:Clash of Steel Coverart.png",5,13,"lonely \"http://\"","http://"],["File:Classroom Crisis promotional image.jpg",6,22,"lonely \"http://\"","http://"],["File:Coin Dozer Screenshot.png",2,17,"lonely \"http://\"","http://"],["File:ColdstoneCreamery.png",20,16,"lonely \"http://\"","http://"],["File:Cool Kids Poster 2.jpg",6,14,"lonely \"http://\"","http://"],["File:Dear Adult cover.jpg",4,34,"lonely \"https://\"","https://"],["File:DengoFinal.jpg",3,18,"lonely \"http://\"","http://"],["File:DetectiveConanmovie18.png",5,13,"lonely \"http://\"","http://"],["File:Dragon Quest Monsters - Joker Coverart.png",5,13,"lonely \"http://\"","http://"],["File:Dramaturgy cover.jpg",4,64,"lonely \"https://\"","https://"],["File:Elgin City FC Badge.png",4,40,"lonely \"https://\"","https://"],["File:ESC2006logo.png",4,14,"lonely \"http://\"","http://"],["File:Eurovision Song Contest 2009 logo.png",5,20,"lonely \"http://\"","http://"],["File:Flag of Elgaland Vargaland.jpg",10,6,"lonely \"http://\"","http://"],["File:Fuzhou pingdong middle school badge.png",4,20,"lonely \"http://\"","http://"],["File:Gilead Sciences Logo.svg",7,25,"lonely \"http://\"","http://"],["File:GJ-logo.png",1,12,"lonely \"http://\"","http://"],["File:GlobalEnvironmentFacility.jpg",4,16,"lonely \"http://\"","http://"],["File:Globalvoices-logo-horizontal.png",5,13,"lonely \"http://\"","http://"],["File:Gregory Hines.jpg",5,56,"lonely \"http://\"","http://"],["File:Grimmjow 01.jpg",5,23,"lonely \"http://\"","http://"],["File:Guaiwu.JPG",10,12,"lonely \"http://\"","http://"],["File:Guiyang Bank.png",5,18,"lonely \"http://\"","http://"],["File:GuyaneFlag.png",10,6,"lonely \"http://\"","http://"],["File:Happy Together4.jpg",7,14,"lonely \"http://\"","http://"],["File:Hemingwaya sarissa.jpg",4,32,"lonely \"https://\"","https://"],["File:Hero mbc.jpg",7,26,"lonely \"http://\"","http://"],["File:Heshan middle school badge.png",5,20,"lonely \"http://\"","http://"],["File:Hunan Yiyang Zhenyan High School Logo-From Official Cite-Jan 2020.jpg",3,63,"lonely \"http://\"","http://"],["File:I LOVED YESTERDAY.jpg",3,4,"lonely \"http://\"","http://"],["File:International Catholic Conference of Scouting.png",13,27,"lonely \"http://\"","http://"],["File:Jianou No.1 middle school badge.png",4,18,"lonely \"http://\"","http://"],["File:JLYUAN.PNG",10,9,"lonely \"http://\"","http://"],["File:Kagura Nana.jpg",11,18,"lonely \"https://\"","https://"],["File:Kelly-tires-logo.png",7,16,"lonely \"http://\"","http://"],["File:Kinslaying.jpg",32,39,"lonely \"http://\"","http://"],["File:Lin Yutang Dictionary.jpg",15,5,"lonely \"https://\"","https://"],["File:Logo of Guilin Zhongshan Middle School.svg",15,33,"lonely \"http://\"","http://"]],"batches":24}
+window.data={"articles":[[
+	".ci",
+	17,
+	30,
+	"lonely \"https://\"",
+	"https://"
+],[
+	".edu",
+	27,
+	58,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	".example",
+	19,
+	48,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	".gov",
+	25,
+	58,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	".localhost",
+	3,
+	145,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	".ms",
+	30,
+	167,
+	"lonely \"http://\"",
+	"http://"
+],[
+	".test",
+	11,
+	36,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"1/2王子",
+	368,
+	14,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"10亿人在挨饿",
+	7,
+	135,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"14K",
+	69,
+	228,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"16S 核糖体RNA",
+	175,
+	80,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"1867年改革法令",
+	31,
+	24,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"1895年台海登船臨檢事件",
+	33,
+	78,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"1918年流感大流行",
+	72,
+	233,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"1945年奧地利議會選舉",
+	69,
+	126,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"1948年援華法案",
+	39,
+	893,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"1950年阿薩姆—西藏地震",
+	49,
+	1873,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"1978年8月教宗選舉秘密會議",
+	105,
+	46,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"1981年臺灣",
+	56,
+	88,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"1988年黄石公园大火",
+	147,
+	108,
+	"lonely \"ISBN\"",
+	"Isbn"
+],[
+	"1991年乌兹别克斯坦总统选举",
+	29,
+	223,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"1991年乌兹别克斯坦独立公投",
+	14,
+	180,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"1995年乌兹别克斯坦总统任期公投",
+	3,
+	243,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"1996年中華民國總統選舉",
+	507,
+	72,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"2,3-二磷酸甘油酸",
+	122,
+	118,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"2000年乌兹别克斯坦总统选举",
+	31,
+	136,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"2009年H1N1流感大流行中国大陆情况",
+	192,
+	35,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"2010年日本動畫列表",
+	338,
+	72,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"2010年日本成人遊戲列表",
+	1091,
+	64,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"2012年大西洋颶風季",
+	91,
+	117,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"2012年奥罗拉枪击事件",
+	211,
+	163,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"2012年韓國劇集列表",
+	7422,
+	5,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"2012年香港特別行政區行政長官選舉",
+	346,
+	4,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"2013年5月中國大陸",
+	113,
+	193,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"2014年亚洲运动会",
+	194,
+	57,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"2014年克里米亞歸屬公投",
+	63,
+	348,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"2014年建三江事件",
+	25,
+	157,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"2014年歐洲議會選舉",
+	900,
+	26,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"2014年湖南军训教官与师生冲突事件",
+	30,
+	145,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"2014高雄電影節",
+	30,
+	81,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"2019年波哥大警察學院襲擊",
+	17,
+	1942,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"2020年智利憲法公投",
+	38,
+	606,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"2020年香港立法會選舉",
+	576,
+	4,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"2021年至2022年德国足球乙级联赛",
+	525,
+	461,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"2021年西洋棋世界冠軍賽",
+	218,
+	273,
+	"lonely \"RFC\"",
+	"Rfc"
+],[
+	"2022年5月臺灣",
+	21,
+	826,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"2022年至2023年西班牙足球甲級聯賽",
+	7124,
+	125,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"2022年臺灣",
+	110,
+	827,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"2023年肯塔基州州長選舉",
+	42,
+	159,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"2024年GCS春季職業聯賽",
+	26,
+	240,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"2024年美國職棒大聯盟球季",
+	106,
+	70,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"2024年賓夕法尼亞州聯邦參議員選舉",
+	84,
+	140,
+	"lonely \"https:/\"",
+	"https:/"
+],[
+	"2024年阿拉斯加州聯邦眾議員選舉",
+	535,
+	165,
+	"lonely \"https:/\"",
+	"https:/"
+],[
+	"2S3「相思」自走砲",
+	25,
+	97,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"39大道車站 (BMT阿斯托利亞線)",
+	57,
+	233,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"425上訪事件",
+	65,
+	904,
+	"lonely \"ISBN\"",
+	"isbn"
+],[
+	"5,5'-偶氮四唑钠",
+	24,
+	151,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"53式輕機槍",
+	81,
+	23,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"7.63×25毫米毛瑟彈",
+	70,
+	23,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"7.7×58mm有坂子彈",
+	67,
+	16,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"7.92×33mm Kurz",
+	95,
+	16,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"7頻道",
+	256,
+	63,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"8男",
+	10,
+	47,
+	"lonely \"ISBN\"",
+	"isbn"
+],[
+	"941型核潜艇",
+	180,
+	17,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"A-12侦察机",
+	65,
+	135,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"A-37蜻蜓式攻擊機",
+	59,
+	33,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Active Directory",
+	210,
+	48,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"AGM-62 鼓眼魚",
+	38,
+	656,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"AJAX",
+	116,
+	16,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"ALL OUT!!",
+	295,
+	4,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Amero",
+	192,
+	181,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Amis",
+	88,
+	49,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"AMR 33輕型坦克",
+	49,
+	78,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"AMR 35輕型坦克",
+	75,
+	469,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"AMX-13轻型坦克",
+	44,
+	495,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"AT&T公司",
+	46,
+	71,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"ATBO",
+	161,
+	69,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"AV女優 (電影)",
+	37,
+	2,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"B-25米切尔型轰炸机",
+	156,
+	33,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"B-47轟炸機",
+	156,
+	129,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"B-57轰炸机",
+	150,
+	541,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"BABYMETAL",
+	20,
+	600,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Base64",
+	185,
+	15,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"BEAT WIN",
+	320,
+	9,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Bf 109戰鬥機",
+	1849,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"BIGFLO",
+	503,
+	9,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"BLOOD ALONE",
+	222,
+	4,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"BMP",
+	411,
+	108,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"BR.20轟炸機",
+	55,
+	37,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Buc-ee's",
+	21,
+	23,
+	"lonely \"http:/\"",
+	"http:/"
+],[
+	"B介子",
+	36,
+	5,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Category:日本維基人",
+	46,
+	65,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"CH-46海骑士直升机",
+	49,
+	75,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"CHANGE123",
+	166,
+	15,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Chmod",
+	189,
+	32,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Chown",
+	29,
+	32,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Cmidi",
+	13,
+	99,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"CNAME记录",
+	43,
+	8,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"CNP-600",
+	2,
+	90,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Cookie",
+	19,
+	142,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"CR.42戰鬥機",
+	49,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"CRASH!",
+	284,
+	17,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"CWC模式",
+	3,
+	152,
+	"lonely \"http:/\"",
+	"http:/"
+],[
+	"DAY6",
+	177,
+	166,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Deflate",
+	9,
+	179,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"Delicious",
+	37,
+	52,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"DICT",
+	1,
+	259,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"DNS记录类型列表",
+	70,
+	561,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"DNS轮循",
+	13,
+	581,
+	"lonely \"RFC\"",
+	"rfc"
+],[
+	"Do-X飛艇",
+	72,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"DP輕機槍",
+	163,
+	23,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Draft:三條國小",
+	13,
+	69,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Draft:五明智学教育",
+	117,
+	34,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Draft:俄亥俄州立大學虐待醜聞",
+	24,
+	21,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Draft:宅女小紅",
+	25,
+	28,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Draft:彰化縣溪州鄉三條國民小學",
+	11,
+	69,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Draft:收刻頡",
+	5,
+	21,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Draft:林信華 (政治人物)",
+	53,
+	30,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Draft:楊子佛教禮儀",
+	23,
+	518,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Draft:电子游戏与暴力",
+	48,
+	1391,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Dream Girls",
+	184,
+	50,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"DVD-RAM",
+	23,
+	5,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Eternity Girls",
+	56,
+	42,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Example.com",
+	4,
+	98,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"F-104星式戰鬥機",
+	391,
+	460,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"F135渦輪扇發動機",
+	26,
+	54,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"F2Y海標式噴射水上戰鬥機",
+	49,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"F8F熊貓戰鬥機",
+	89,
+	34,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"FAIRY TAIL",
+	729,
+	7,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Fedora Linux",
+	535,
+	38,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"FIGHT.K教會",
+	162,
+	50,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"File:1992年2月26日 张友渔的遗照.jpg",
+	17,
+	25,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"File:200px-Linguabadge-general-445.gif",
+	5,
+	13,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:A Perfect World.jpg",
+	5,
+	16,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:A Time 4 You.JPG",
+	4,
+	19,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:AjinMOVIEPOSTER.jpg",
+	12,
+	25,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:AliceMadnessReturns.jpg",
+	10,
+	36,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Alison Parker and Adam Ward.jpg",
+	4,
+	42,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:All About Women.jpg",
+	6,
+	11,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:An account of Nepenthes in New Guinea.jpg",
+	5,
+	15,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:An example of How-old.net.jpg",
+	6,
+	15,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Andy World Club.jpg",
+	21,
+	24,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Atlas of creation.jpg",
+	6,
+	94,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Beautiful Autumn Village, Michuri 2 Post.jpg",
+	6,
+	14,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"File:BeginAgain Korea封面.jpg",
+	6,
+	18,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:BeginAgain Korea海報.jpg",
+	6,
+	18,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:BeginAgain2.jpg",
+	6,
+	18,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:BeginAgain3海報.jpg",
+	6,
+	18,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Blur MagicWhip 2015.jpg",
+	4,
+	26,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Bookcover-Generation-X.jpg",
+	9,
+	4,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"File:Bosei movie.jpg",
+	6,
+	17,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"File:Brianna Ghey.jpg",
+	10,
+	60,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"File:Catch Me If You Can 2002 movie.jpg",
+	2,
+	10,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:CCTV Global Biz Report.png",
+	4,
+	15,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Changle No.1 Middle School badge.jpg",
+	5,
+	18,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Chengdong Middle School badge.jpg",
+	4,
+	31,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Chenglong, LI.jpeg",
+	14,
+	39,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"File:Chia-Tai High School logo.gif",
+	4,
+	22,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:China Cultural Heritage Logo.jpg",
+	7,
+	22,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"File:China tobacco.gif",
+	7,
+	19,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Chinese Paladin Online 2.0 LOGO.jpg",
+	4,
+	24,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Cinderella4.jpg",
+	3,
+	17,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Clash of Steel Coverart.png",
+	5,
+	13,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Classroom Crisis promotional image.jpg",
+	6,
+	22,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Coin Dozer Screenshot.png",
+	2,
+	17,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:ColdstoneCreamery.png",
+	20,
+	16,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Cool Kids Poster 2.jpg",
+	6,
+	14,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Dear Adult cover.jpg",
+	4,
+	34,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"File:DengoFinal.jpg",
+	3,
+	18,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:DetectiveConanmovie18.png",
+	5,
+	13,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Dragon Quest Monsters - Joker Coverart.png",
+	5,
+	13,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Dramaturgy cover.jpg",
+	4,
+	64,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"File:Elgin City FC Badge.png",
+	4,
+	40,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"File:ESC2006logo.png",
+	4,
+	14,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Eurovision Song Contest 2009 logo.png",
+	5,
+	20,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Flag of Elgaland Vargaland.jpg",
+	10,
+	6,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Fuzhou pingdong middle school badge.png",
+	4,
+	20,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Gilead Sciences Logo.svg",
+	7,
+	25,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:GJ-logo.png",
+	1,
+	12,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:GlobalEnvironmentFacility.jpg",
+	4,
+	16,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Globalvoices-logo-horizontal.png",
+	5,
+	13,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Gregory Hines.jpg",
+	5,
+	56,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Grimmjow 01.jpg",
+	5,
+	23,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Guaiwu.JPG",
+	10,
+	12,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Guiyang Bank.png",
+	5,
+	18,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:GuyaneFlag.png",
+	10,
+	6,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Happy Together4.jpg",
+	7,
+	14,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Hemingwaya sarissa.jpg",
+	4,
+	32,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"File:Hero mbc.jpg",
+	7,
+	26,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Heshan middle school badge.png",
+	5,
+	20,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Hunan Yiyang Zhenyan High School Logo-From Official Cite-Jan 2020.jpg",
+	3,
+	63,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:I LOVED YESTERDAY.jpg",
+	3,
+	4,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:International Catholic Conference of Scouting.png",
+	13,
+	27,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Jianou No.1 middle school badge.png",
+	4,
+	18,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:JLYUAN.PNG",
+	10,
+	9,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Kagura Nana.jpg",
+	11,
+	18,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"File:Kelly-tires-logo.png",
+	7,
+	16,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Kinslaying.jpg",
+	32,
+	39,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"File:Lin Yutang Dictionary.jpg",
+	15,
+	5,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"File:Logo of Guilin Zhongshan Middle School.svg",
+	15,
+	33,
+	"lonely \"http://\"",
+	"http://"
+],],"batches":24}

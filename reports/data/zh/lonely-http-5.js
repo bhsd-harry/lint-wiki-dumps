@@ -1,1 +1,1201 @@
-window.data={"articles":[["Wikipedia:当前的破坏/存档/2017年12月",889,50,"lonely \"http://\"","http://"],["Wikipedia:当前的破坏/存档/2017年1月",904,16,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2018年3月",322,14,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2018年7月",1307,143,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2018年8月",1078,8,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2019年12月",39,13,"lonely \"https://\"","Https://"],["Wikipedia:当前的破坏/存档/2019年1月",1758,22,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2019年2月",1263,11,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2019年3月",320,19,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2019年5月",374,18,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2019年6月",1138,230,"lonely \"http://\"","http://"],["Wikipedia:当前的破坏/存档/2019年9月",87,9,"lonely \"http://\"","http://"],["Wikipedia:当前的破坏/存档/2020年10月",1637,30,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2020年1月",337,137,"lonely \"ISBN\"","ISBN"],["Wikipedia:当前的破坏/存档/2020年6月",1175,7,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2020年7月",1880,9,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2021年3月",738,53,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2022年10月",72,153,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2022年12月",764,37,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2022年5月",1709,15,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2022年6月",499,11,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2022年7月",6,6,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2022年8月",427,624,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2023年10月",1146,25,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2023年11月",551,51,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2023年12月",301,16,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2023年7月",868,157,"lonely \"ISBN\"","ISBN"],["Wikipedia:当前的破坏/存档/2024年11月",798,8,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2024年1月",1517,8,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2024年3月",469,86,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2024年6月",716,10,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2024年8月",444,31,"lonely \"https://\"","https://"],["Wikipedia:当前的破坏/存档/2025年1月",160,11,"lonely \"https://\"","https://"],["Wikipedia:投票/開放IP創建條目權限",432,13,"lonely \"https://\"","https://"],["Wikipedia:持续出没的破坏者/User:Qqqyyy",64,172,"lonely \"ISBN\"","ISBN"],["Wikipedia:新手上路/2007年7-12月",386,18,"lonely \"http://\"","http://"],["Wikipedia:新手求助/存檔/2009年",33,3,"lonely \"http://\"","http://"],["Wikipedia:新手求助/存檔/2010年",178,100,"lonely \"http://\"","http://"],["Wikipedia:新手求助/存檔/2011年",493,5,"lonely \"http://\"","http://"],["Wikipedia:新手求助/存檔/2012年",508,32,"lonely \"https://\"","https://"],["Wikipedia:新手求助/存檔/2013年",108,58,"lonely \"http://\"","http://"],["Wikipedia:新手求助/存檔/2014年",159,3,"lonely \"http://\"","http://"],["Wikipedia:新条目推荐/2010年2月",114,14,"lonely \"RFC\"","RFC"],["Wikipedia:新条目推荐/增补指引",25,38,"lonely \"http://\"","http://"],["Wikipedia:新闻动态候选/存档/2021年5月",147,154,"lonely \"https://\"","https://"],["Wikipedia:更改用户名/未完成/2008年",119,86,"lonely \"http://\"","http://"],["Wikipedia:更改用户名/账户易手/已完成/2010年",325,18,"lonely \"http://\"","http://"],["Wikipedia:更改用户名/账户易手/已完成/2012年",122,104,"lonely \"http://\"","http://"],["Wikipedia:机器人/作业请求/存档1",232,140,"lonely \"http://\"","http://"],["Wikipedia:机器人/作业请求/存档3",188,125,"lonely \"http://\"","http://"],["Wikipedia:机器人/作业请求/存档6",300,6,"lonely \"https://\"","https://"],["Wikipedia:机器人/申请/Antigng-bot/8",41,86,"lonely \"http:/\"","http:/"],["Wikipedia:机器人/申请/Zestbot/5",57,3,"lonely \"ISBN\"","ISBN"],["Wikipedia:格式手册/计算机",216,65,"lonely \"http://\"","http://"],["Wikipedia:格式手册/链接",177,32,"lonely \"https://\"","https://"],["Wikipedia:檔案存廢討論/記錄/2008/11/07",26,17,"lonely \"http://\"","http://"],["Wikipedia:檔案存廢討論/記錄/2010/04/30",25,21,"lonely \"http://\"","http://"],["Wikipedia:檔案存廢討論/記錄/2010/05/27",24,81,"lonely \"http://\"","http://"],["Wikipedia:檔案存廢討論/記錄/2010/07/31",28,4,"lonely \"http://\"","http://"],["Wikipedia:檔案存廢討論/記錄/2010/08/20",33,26,"lonely \"http://\"","http://"],["Wikipedia:檔案存廢討論/記錄/2010/12/20",60,18,"lonely \"http://\"","http://"],["Wikipedia:檔案存廢討論/記錄/2011/02/13",26,22,"lonely \"http://\"","http://"],["Wikipedia:檔案存廢討論/記錄/2012/02/29",24,21,"lonely \"http://\"","http://"],["Wikipedia:檔案存廢討論/記錄/2012/09/21",20,13,"lonely \"http://\"","http://"],["Wikipedia:檔案存廢討論/記錄/2013/12/04",23,52,"lonely \"http://\"","http://"],["Wikipedia:檔案存廢討論/記錄/2014/02/08",31,23,"lonely \"http://\"","http://"],["Wikipedia:檔案存廢討論/記錄/2014/09/08",48,37,"lonely \"http://\"","http://"],["Wikipedia:檔案存廢討論/記錄/2015/01/20",28,16,"lonely \"https://\"","https://"],["Wikipedia:檔案存廢討論/記錄/2015/11/22",26,27,"lonely \"http://\"","http://"],["Wikipedia:檔案存廢討論/記錄/2016/06/09",27,19,"lonely \"http://\"","http://"],["Wikipedia:檔案存廢討論/記錄/2017/09/30",26,13,"lonely \"https://\"","https://"],["Wikipedia:檔案存廢討論/記錄/2019/02/19",59,14,"lonely \"https://\"","https://"],["Wikipedia:檔案存廢討論/記錄/2019/08/14",43,65,"lonely \"http://\"","http://"],["Wikipedia:檔案存廢討論/記錄/2022/08/01",31,50,"lonely \"https://\"","https://"],["Wikipedia:檔案著作權標誌",53,95,"lonely \"http://\"","http://"],["Wikipedia:權限申請/申請IP封禁豁免權/存檔/2011年",16,8,"lonely \"https://\"","https://"],["Wikipedia:權限申請/申請巡查權/存檔/2014年",184,63,"lonely \"http://\"","http://"],["Wikipedia:江苏维基人列表",116,110,"lonely \"http://\"","http://"],["Wikipedia:澳門維基人藏書目錄",121,4,"lonely \"ISBN\"","ISBN"],["Wikipedia:特色條目候選/西夏",39,26,"lonely \"ISBN\"","ISBN"],["Wikipedia:特色條目複審/台灣歷史",4,81,"lonely \"http://\"","http://"],["Wikipedia:特色條目複審/台灣歷史/第二次",5,77,"lonely \"http://\"","http://"],["Wikipedia:特色條目複審/未獲通過之投票/2007年",343,29,"lonely \"ISBN\"","ISBN"],["Wikipedia:用戶查核請求/存檔/2014年11月",113,15,"lonely \"http://\"","http://"],["Wikipedia:用戶查核請求/存檔/2016年10月",165,33,"lonely \"https://\"","https://"],["Wikipedia:用戶查核請求/存檔/2017年12月",140,84,"lonely \"http://\"","http://"],["Wikipedia:用戶查核請求/存檔/2018年3月",622,74,"lonely \"https://\"","https://"],["Wikipedia:用戶體驗反饋/字體",142,60,"lonely \"https://\"","https://"],["Wikipedia:用戶體驗反饋/存檔/2010年7月",49,23,"lonely \"http://\"","http://"],["Wikipedia:申请成为用户查核员/Alexander Misel",365,31,"lonely \"https://\"","https://"],["Wikipedia:申请成为界面管理员/AnYiLin",103,5,"lonely \"https://\"","https://"],["Wikipedia:申请成为管理员/Symplectopedia/第1次",72,57,"lonely \"http://\"","http://"],["Wikipedia:申请成为管理员/WhitePhosphorus",96,88,"lonely \"http://\"","http://"],["Wikipedia:申请解除权限/存档/2016年",54,64,"lonely \"https://\"","https://"],["Wikipedia:申请解除权限/存档/2021年",669,43,"lonely \"https://\"","https://"],["Wikipedia:知识问答/存档/2007年10月",9,4,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2007年2月",402,17,"lonely \"ISBN\"","ISBN"],["Wikipedia:知识问答/存档/2007年5月",310,24,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2007年8月",53,40,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2008年10月",621,4,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2008年12月",132,30,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2008年1月",378,17,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2008年4月",135,9,"lonely \"https://\"","https://"],["Wikipedia:知识问答/存档/2008年7月",297,37,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2008年9月",468,5,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2009年10月",579,72,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2009年1月",712,190,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2009年2月",101,13,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2010年11月",442,10,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2010年12月",393,19,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2010年1月",537,17,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2010年2月",278,8,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2010年3月",348,150,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2010年6月",134,45,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2010年7月",416,10,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2011年1月",42,130,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2011年3月",540,29,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2011年4月",612,20,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2011年9月",50,70,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2012年3月",1393,4,"lonely \"https://\"","https://"],["Wikipedia:知识问答/存档/2012年6月",207,88,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2012年8月",303,5,"lonely \"https://\"","https://"],["Wikipedia:知识问答/存档/2012年9月",790,8,"lonely \"https://\"","https://"],["Wikipedia:知识问答/存档/2013年12月",61,68,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2013年1月",363,70,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2013年2月",684,4,"lonely \"https://\"","https://"],["Wikipedia:知识问答/存档/2013年4月",491,9,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2013年9月",175,22,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2014年3月",116,56,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2014年6月",108,39,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2014年8月",7,26,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2015年12月",224,16,"lonely \"https://\"","https://"],["Wikipedia:知识问答/存档/2015年1月",420,20,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2015年5月",24,44,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2016年5月",180,11,"lonely \"https://\"","https://"],["Wikipedia:知识问答/存档/2016年7月",110,19,"lonely \"http://\"","http://"],["Wikipedia:知识问答/存档/2016年8月",181,113,"lonely \"https://\"","https://"],["Wikipedia:知识问答/存档/2016年9月",198,7,"lonely \"https://\"","https://"],["Wikipedia:知识问答/存档/2017年3月",265,36,"lonely \"ISBN\"","ISBN"],["Wikipedia:知识问答/存档/2024年10月",133,66,"lonely \"https://\"","https://"],["Wikipedia:知识问答/存档/2024年6月",6,6,"lonely \"https://\"","https://"],["Wikipedia:移動請求/2008年10到12月",314,142,"lonely \"http://\"","http://"],["Wikipedia:移動請求/2010年10到12月",136,134,"lonely \"http://\"","http://"],["Wikipedia:移動請求/2011年1到3月",262,74,"lonely \"http://\"","http://"],["Wikipedia:第一次编辑的感觉/存档/2006至2010年",60,4,"lonely \"http://\"","http://"],["Wikipedia:第一次编辑的感觉/存檔/2004至2010年",171,4,"lonely \"http://\"","http://"],["Wikipedia:管理员布告板/不当用户名/2012年",128,41,"lonely \"http://\"","http://"],["Wikipedia:管理员布告板/不当用户名/2016年",224,113,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/不当用户名/2017年/1",77,62,"lonely \"http://\"","http://"],["Wikipedia:管理员布告板/不当用户名/2019年/2",78,83,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/不当用户名/2020年/1",48,51,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/不当用户名/2023年/1",130,74,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/不当用户名/2024年/2",132,43,"lonely \"http://\"","http://"],["Wikipedia:管理员布告板/其他不当行为/存档/2010年",59,150,"lonely \"http://\"","http://"],["Wikipedia:管理员布告板/其他不当行为/存档/2013年",255,32,"lonely \"http://\"","http://"],["Wikipedia:管理员布告板/其他不当行为/存档/2020年12月",96,19,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/其他不当行为/存档/2021年6月",244,209,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/其他不当行为/存档/2021年8月",520,21,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/其他不当行为/存档/2023年4月",41,22,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/其他不当行为/存档/2024年1月",215,20,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/其他不当行为/存档/2024年6月",631,43,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/其他不当行为/存档/2024年7月",738,46,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/编辑争议/存档/2019年2月",21,11,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/编辑争议/存档/2020年4月",79,90,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/编辑争议/存档/2021年3月",33,53,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/编辑争议/存档/2022年3月",108,40,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/编辑争议/存档/2023年11月",15,294,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/编辑争议/存档/2023年3月",31,61,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/编辑争议/存档/2023年4月",326,44,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/编辑争议/存档/2023年7月",95,168,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/编辑争议/存档/2023年9月",17,4,"lonely \"ISBN\"","ISBN"],["Wikipedia:管理员布告板/编辑争议/存档/2024年11月",72,82,"lonely \"https://\"","https://"],["Wikipedia:管理员布告板/编辑争议/存档/2024年5月",267,75,"lonely \"https://\"","https://"],["Wikipedia:管理員解任投票/Techyan/第2次",592,174,"lonely \"https://\"","https://"],["Wikipedia:維基榮譽/申請與變更/申請區/存檔/2012年10月-12月",134,36,"lonely \"http://\"","http://"],["Wikipedia:維基獎勵/授獎提名投票/維基攝影專家/Solomon203",20,11,"lonely \"https://\"","https://"],["Wikipedia:維基百科也申遺",4,25,"lonely \"http://\"","http://"],["Wikipedia:維基百科十周年/新聞/十周年介紹",29,99,"lonely \"http://\"","http://"],["Wikipedia:維基百科十周年/新聞/正式新聞稿",47,15,"lonely \"http://\"","http://"],["Wikipedia:維基百科十周年/維基之最",131,7,"lonely \"http://\"","http://"],["Wikipedia:維基百科十周年/關於維基百科",57,136,"lonely \"http://\"","http://"],["Wikipedia:繁简体转换请求/2006年5月",115,128,"lonely \"http://\"","http://"],["Wikipedia:繁简体转换请求/2012年3月",43,36,"lonely \"http://\"","http://"],["Wikipedia:繁简体转换请求/增加cn:仙童半导体公司;tw:美國快捷半導體公司;hk:美國快捷半導體公司",10,63,"lonely \"http://\"","http://"],["Wikipedia:繁简体转换请求/移除cn:计算机科学;tw:電腦科學;hk:電腦科學",8,37,"lonely \"http://\"","http://"],["Wikipedia:繁簡體轉換請求/增加tw:快捷半導體公司;hk:快捷半導公司;cn:仙童半导体公司;sg:仙童半导体公司",16,32,"lonely \"http://\"","http://"],["Wikipedia:维基百科图书馆/寻求资源/存档2",111,92,"lonely \"ISBN\"","ISBN"],["Wikipedia:维基百科图书馆/寻求资源/存档3",230,42,"lonely \"ISBN\"","ISBN"],["Wikipedia:维基百科图书馆/寻求资源/存档4",41,21,"lonely \"https://\"","https://"],["Wikipedia:维基简讯/2011/29/外界关注",15,21,"lonely \"http://\"","http://"],["Wikipedia:维基简讯/2011/30/外界关注",11,194,"lonely \"http://\"","http://"],["Wikipedia:维基简讯/2011/31/外界关注",3,18,"lonely \"http://\"","http://"],["Wikipedia:维基简讯/2011/33/维基新闻",9,72,"lonely \"http://\"","http://"],["Wikipedia:维基简讯/2011/35/技术报告",3,140,"lonely \"http://\"","http://"],["Wikipedia:维基简讯/2011/46",13,15,"lonely \"http://\"","http://"],["Wikipedia:维基简讯/2011年动员令号外",21,16,"lonely \"http://\"","http://"],["Wikipedia:翻譯請求/非條目/十周年給傳媒通告",25,104,"lonely \"http://\"","http://"],["Wikipedia:聚会/上海/2012年夏季聚会",26,11,"lonely \"http://\"","http://"],["Wikipedia:聚會/臺灣維基人聚會/2012年臺灣維基人春聚",170,38,"lonely \"http://\"","http://"],["Wikipedia:致其他百科用户/抖音百科",36,134,"lonely \"https:/\"","https:/"]],"batches":24}
+window.data={"articles":[[
+	"Wikipedia:当前的破坏/存档/2017年12月",
+	889,
+	50,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:当前的破坏/存档/2017年1月",
+	904,
+	16,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2018年3月",
+	322,
+	14,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2018年7月",
+	1307,
+	143,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2018年8月",
+	1078,
+	8,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2019年12月",
+	39,
+	13,
+	"lonely \"https://\"",
+	"Https://"
+],[
+	"Wikipedia:当前的破坏/存档/2019年1月",
+	1758,
+	22,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2019年2月",
+	1263,
+	11,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2019年3月",
+	320,
+	19,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2019年5月",
+	374,
+	18,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2019年6月",
+	1138,
+	230,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:当前的破坏/存档/2019年9月",
+	87,
+	9,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:当前的破坏/存档/2020年10月",
+	1637,
+	30,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2020年1月",
+	337,
+	137,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Wikipedia:当前的破坏/存档/2020年6月",
+	1175,
+	7,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2020年7月",
+	1880,
+	9,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2021年3月",
+	738,
+	53,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2022年10月",
+	72,
+	153,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2022年12月",
+	764,
+	37,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2022年5月",
+	1709,
+	15,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2022年6月",
+	499,
+	11,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2022年7月",
+	6,
+	6,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2022年8月",
+	427,
+	624,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2023年10月",
+	1146,
+	25,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2023年11月",
+	551,
+	51,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2023年12月",
+	301,
+	16,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2023年7月",
+	868,
+	157,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Wikipedia:当前的破坏/存档/2024年11月",
+	798,
+	8,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2024年1月",
+	1517,
+	8,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2024年3月",
+	469,
+	86,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2024年6月",
+	716,
+	10,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2024年8月",
+	444,
+	31,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:当前的破坏/存档/2025年1月",
+	160,
+	11,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:投票/開放IP創建條目權限",
+	432,
+	13,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:持续出没的破坏者/User:Qqqyyy",
+	64,
+	172,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Wikipedia:新手上路/2007年7-12月",
+	386,
+	18,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:新手求助/存檔/2009年",
+	33,
+	3,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:新手求助/存檔/2010年",
+	178,
+	100,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:新手求助/存檔/2011年",
+	493,
+	5,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:新手求助/存檔/2012年",
+	508,
+	32,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:新手求助/存檔/2013年",
+	108,
+	58,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:新手求助/存檔/2014年",
+	159,
+	3,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:新条目推荐/2010年2月",
+	114,
+	14,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"Wikipedia:新条目推荐/增补指引",
+	25,
+	38,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:新闻动态候选/存档/2021年5月",
+	147,
+	154,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:更改用户名/未完成/2008年",
+	119,
+	86,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:更改用户名/账户易手/已完成/2010年",
+	325,
+	18,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:更改用户名/账户易手/已完成/2012年",
+	122,
+	104,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:机器人/作业请求/存档1",
+	232,
+	140,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:机器人/作业请求/存档3",
+	188,
+	125,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:机器人/作业请求/存档6",
+	300,
+	6,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:机器人/申请/Antigng-bot/8",
+	41,
+	86,
+	"lonely \"http:/\"",
+	"http:/"
+],[
+	"Wikipedia:机器人/申请/Zestbot/5",
+	57,
+	3,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Wikipedia:格式手册/计算机",
+	216,
+	65,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:格式手册/链接",
+	177,
+	32,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2008/11/07",
+	26,
+	17,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2010/04/30",
+	25,
+	21,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2010/05/27",
+	24,
+	81,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2010/07/31",
+	28,
+	4,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2010/08/20",
+	33,
+	26,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2010/12/20",
+	60,
+	18,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2011/02/13",
+	26,
+	22,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2012/02/29",
+	24,
+	21,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2012/09/21",
+	20,
+	13,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2013/12/04",
+	23,
+	52,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2014/02/08",
+	31,
+	23,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2014/09/08",
+	48,
+	37,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2015/01/20",
+	28,
+	16,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2015/11/22",
+	26,
+	27,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2016/06/09",
+	27,
+	19,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2017/09/30",
+	26,
+	13,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2019/02/19",
+	59,
+	14,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2019/08/14",
+	43,
+	65,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2022/08/01",
+	31,
+	50,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:檔案著作權標誌",
+	53,
+	95,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:權限申請/申請IP封禁豁免權/存檔/2011年",
+	16,
+	8,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:權限申請/申請巡查權/存檔/2014年",
+	184,
+	63,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:江苏维基人列表",
+	116,
+	110,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:澳門維基人藏書目錄",
+	121,
+	4,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Wikipedia:特色條目候選/西夏",
+	39,
+	26,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Wikipedia:特色條目複審/台灣歷史",
+	4,
+	81,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:特色條目複審/台灣歷史/第二次",
+	5,
+	77,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:特色條目複審/未獲通過之投票/2007年",
+	343,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Wikipedia:用戶查核請求/存檔/2014年11月",
+	113,
+	15,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:用戶查核請求/存檔/2016年10月",
+	165,
+	33,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:用戶查核請求/存檔/2017年12月",
+	140,
+	84,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:用戶查核請求/存檔/2018年3月",
+	622,
+	74,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:用戶體驗反饋/字體",
+	142,
+	60,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:用戶體驗反饋/存檔/2010年7月",
+	49,
+	23,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:申请成为用户查核员/Alexander Misel",
+	365,
+	31,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:申请成为界面管理员/AnYiLin",
+	103,
+	5,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:申请成为管理员/Symplectopedia/第1次",
+	72,
+	57,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:申请成为管理员/WhitePhosphorus",
+	96,
+	88,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:申请解除权限/存档/2016年",
+	54,
+	64,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:申请解除权限/存档/2021年",
+	669,
+	43,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:知识问答/存档/2007年10月",
+	9,
+	4,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2007年2月",
+	402,
+	17,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Wikipedia:知识问答/存档/2007年5月",
+	310,
+	24,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2007年8月",
+	53,
+	40,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2008年10月",
+	621,
+	4,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2008年12月",
+	132,
+	30,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2008年1月",
+	378,
+	17,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2008年4月",
+	135,
+	9,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:知识问答/存档/2008年7月",
+	297,
+	37,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2008年9月",
+	468,
+	5,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2009年10月",
+	579,
+	72,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2009年1月",
+	712,
+	190,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2009年2月",
+	101,
+	13,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2010年11月",
+	442,
+	10,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2010年12月",
+	393,
+	19,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2010年1月",
+	537,
+	17,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2010年2月",
+	278,
+	8,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2010年3月",
+	348,
+	150,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2010年6月",
+	134,
+	45,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2010年7月",
+	416,
+	10,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2011年1月",
+	42,
+	130,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2011年3月",
+	540,
+	29,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2011年4月",
+	612,
+	20,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2011年9月",
+	50,
+	70,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2012年3月",
+	1393,
+	4,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:知识问答/存档/2012年6月",
+	207,
+	88,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2012年8月",
+	303,
+	5,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:知识问答/存档/2012年9月",
+	790,
+	8,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:知识问答/存档/2013年12月",
+	61,
+	68,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2013年1月",
+	363,
+	70,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2013年2月",
+	684,
+	4,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:知识问答/存档/2013年4月",
+	491,
+	9,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2013年9月",
+	175,
+	22,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2014年3月",
+	116,
+	56,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2014年6月",
+	108,
+	39,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2014年8月",
+	7,
+	26,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2015年12月",
+	224,
+	16,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:知识问答/存档/2015年1月",
+	420,
+	20,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2015年5月",
+	24,
+	44,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2016年5月",
+	180,
+	11,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:知识问答/存档/2016年7月",
+	110,
+	19,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:知识问答/存档/2016年8月",
+	181,
+	113,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:知识问答/存档/2016年9月",
+	198,
+	7,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:知识问答/存档/2017年3月",
+	265,
+	36,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Wikipedia:知识问答/存档/2024年10月",
+	133,
+	66,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:知识问答/存档/2024年6月",
+	6,
+	6,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:移動請求/2008年10到12月",
+	314,
+	142,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:移動請求/2010年10到12月",
+	136,
+	134,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:移動請求/2011年1到3月",
+	262,
+	74,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:第一次编辑的感觉/存档/2006至2010年",
+	60,
+	4,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:第一次编辑的感觉/存檔/2004至2010年",
+	171,
+	4,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:管理员布告板/不当用户名/2012年",
+	128,
+	41,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:管理员布告板/不当用户名/2016年",
+	224,
+	113,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/不当用户名/2017年/1",
+	77,
+	62,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:管理员布告板/不当用户名/2019年/2",
+	78,
+	83,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/不当用户名/2020年/1",
+	48,
+	51,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/不当用户名/2023年/1",
+	130,
+	74,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/不当用户名/2024年/2",
+	132,
+	43,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:管理员布告板/其他不当行为/存档/2010年",
+	59,
+	150,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:管理员布告板/其他不当行为/存档/2013年",
+	255,
+	32,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:管理员布告板/其他不当行为/存档/2020年12月",
+	96,
+	19,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/其他不当行为/存档/2021年6月",
+	244,
+	209,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/其他不当行为/存档/2021年8月",
+	520,
+	21,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/其他不当行为/存档/2023年4月",
+	41,
+	22,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/其他不当行为/存档/2024年1月",
+	215,
+	20,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/其他不当行为/存档/2024年6月",
+	631,
+	43,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/其他不当行为/存档/2024年7月",
+	738,
+	46,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2019年2月",
+	21,
+	11,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2020年4月",
+	79,
+	90,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2021年3月",
+	33,
+	53,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2022年3月",
+	108,
+	40,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2023年11月",
+	15,
+	294,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2023年3月",
+	31,
+	61,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2023年4月",
+	326,
+	44,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2023年7月",
+	95,
+	168,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2023年9月",
+	17,
+	4,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2024年11月",
+	72,
+	82,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理员布告板/编辑争议/存档/2024年5月",
+	267,
+	75,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:管理員解任投票/Techyan/第2次",
+	592,
+	174,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:維基榮譽/申請與變更/申請區/存檔/2012年10月-12月",
+	134,
+	36,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/維基攝影專家/Solomon203",
+	20,
+	11,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:維基百科也申遺",
+	4,
+	25,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:維基百科十周年/新聞/十周年介紹",
+	29,
+	99,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:維基百科十周年/新聞/正式新聞稿",
+	47,
+	15,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:維基百科十周年/維基之最",
+	131,
+	7,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:維基百科十周年/關於維基百科",
+	57,
+	136,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:繁简体转换请求/2006年5月",
+	115,
+	128,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:繁简体转换请求/2012年3月",
+	43,
+	36,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:繁简体转换请求/增加cn:仙童半导体公司;tw:美國快捷半導體公司;hk:美國快捷半導體公司",
+	10,
+	63,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:繁简体转换请求/移除cn:计算机科学;tw:電腦科學;hk:電腦科學",
+	8,
+	37,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:繁簡體轉換請求/增加tw:快捷半導體公司;hk:快捷半導公司;cn:仙童半导体公司;sg:仙童半导体公司",
+	16,
+	32,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:维基百科图书馆/寻求资源/存档2",
+	111,
+	92,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Wikipedia:维基百科图书馆/寻求资源/存档3",
+	230,
+	42,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"Wikipedia:维基百科图书馆/寻求资源/存档4",
+	41,
+	21,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"Wikipedia:维基简讯/2011/29/外界关注",
+	15,
+	21,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:维基简讯/2011/30/外界关注",
+	11,
+	194,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:维基简讯/2011/31/外界关注",
+	3,
+	18,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:维基简讯/2011/33/维基新闻",
+	9,
+	72,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:维基简讯/2011/35/技术报告",
+	3,
+	140,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:维基简讯/2011/46",
+	13,
+	15,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:维基简讯/2011年动员令号外",
+	21,
+	16,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:翻譯請求/非條目/十周年給傳媒通告",
+	25,
+	104,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:聚会/上海/2012年夏季聚会",
+	26,
+	11,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:聚會/臺灣維基人聚會/2012年臺灣維基人春聚",
+	170,
+	38,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"Wikipedia:致其他百科用户/抖音百科",
+	36,
+	134,
+	"lonely \"https:/\"",
+	"https:/"
+],],"batches":24}

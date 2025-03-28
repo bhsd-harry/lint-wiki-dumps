@@ -1,1 +1,1201 @@
-window.data={"articles":[["Wikipedia:互助客栈/求助/存档/2010年10月",141,313,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2010年11月",137,41,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2010年1月",121,43,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2010年2月",573,53,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2010年3月",35,144,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2010年4月",138,31,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2010年6月",153,143,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2010年7月",328,49,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2010年8月",40,44,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2011年12月",274,61,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2011年3月",131,22,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2011年6月",268,71,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2011年7月",81,83,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2011年9月",214,23,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2012年3月",476,81,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2012年6月",584,30,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2012年7月",64,175,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2013年10月",295,104,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2013年3月",26,205,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2013年4月",176,105,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2013年5月",438,63,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2013年6月",83,85,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2013年7月",85,54,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2013年8月",52,78,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2013年9月",31,102,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2014年10月",4,78,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2014年1月",124,129,"illegal attribute name","font"],["Wikipedia:互助客栈/求助/存档/2014年3月",6,143,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2014年4月",229,74,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2014年8月",399,147,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2015年10月",340,97,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2015年12月",166,58,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2015年1月",58,51,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2015年2月",7,46,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2015年3月",246,61,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2015年4月",12,61,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2015年5月",167,100,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2015年6月",13,34,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2016年1月",209,80,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2016年2月",168,35,"illegal attribute name","data-mw"],["Wikipedia:互助客栈/求助/存档/2016年3月",48,76,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2016年5月",27,147,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2017年12月",319,159,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2018年11月",22,86,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2018年5月",202,194,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2018年7月",72,42,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2019年10月",142,79,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2019年1月",94,5,"illegal attribute name","width"],["Wikipedia:互助客栈/求助/存档/2019年2月",249,123,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2020年10月",246,78,"illegal attribute name","table"],["Wikipedia:互助客栈/求助/存档/2020年2月",325,187,"illegal attribute name","datatime"],["Wikipedia:互助客栈/求助/存档/2020年4月",415,260,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2020年7月",181,74,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2020年8月",17,297,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2021年8月",124,44,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2021年9月",91,62,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2022年12月",13,49,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2022年8月",274,147,"illegal attribute name","New"],["Wikipedia:互助客栈/求助/存档/2022年9月",120,99,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2023年4月",293,135,"illegal attribute name","aria-disabled"],["Wikipedia:互助客栈/求助/存档/2023年9月",362,273,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2024年4月",430,221,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/求助/存档/2024年8月",549,465,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2006年10月",103,87,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2006年11月",34,46,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2007年3月",94,115,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2008年1月",17,53,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2009年10月",66,60,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2009年6月",24,51,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2009年8月",49,110,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2009年9月",64,68,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2010年11月",71,4,"illegal attribute name","valign"],["Wikipedia:互助客栈/消息/存档/2010年3月",126,61,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2010年6月",107,106,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2011年2月",24,50,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2013年11月",42,65,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2013年12月",180,149,"illegal attribute name","aria-disabled"],["Wikipedia:互助客栈/消息/存档/2013年2月",111,118,"illegal attribute name","font"],["Wikipedia:互助客栈/消息/存档/2013年4月",206,23,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2013年5月",76,62,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2013年6月",71,263,"illegal attribute name","font"],["Wikipedia:互助客栈/消息/存档/2013年7月",174,108,"illegal attribute name","font"],["Wikipedia:互助客栈/消息/存档/2014年2月",9,142,"illegal attribute name","aria-disabled"],["Wikipedia:互助客栈/消息/存档/2014年3月",93,142,"illegal attribute name","aria-disabled"],["Wikipedia:互助客栈/消息/存档/2015年3月",40,206,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2016年2月",35,445,"illegal attribute name","syule"],["Wikipedia:互助客栈/消息/存档/2017年10月",15,32,"illegal attribute name","direction:"],["Wikipedia:互助客栈/消息/存档/2019年4月",338,188,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2019年8月",477,40,"illegal attribute name","xml:lang"],["Wikipedia:互助客栈/消息/存档/2020年9月",46,44,"illegal attribute name","datatime"],["Wikipedia:互助客栈/消息/存档/2021年5月",498,33,"illegal attribute name","xml:lang"],["Wikipedia:人事任免投票資格/過往討論",19,80,"illegal attribute name","xml:lang"],["Wikipedia:侵权拯救工作小组/日志报告/200709",2,50,"illegal attribute name","xml:lang"],["Wikipedia:侵权拯救工作小组/日志报告/200710",122,49,"illegal attribute name","xml:lang"],["Wikipedia:侵权拯救工作小组/日志报告/200711",19,47,"illegal attribute name","xml:lang"],["Wikipedia:侵权拯救工作小组/日志报告/200801",97,47,"illegal attribute name","xml:lang"],["Wikipedia:侵权拯救工作小组/日志报告/200803",40,47,"illegal attribute name","xml:lang"],["Wikipedia:侵权拯救工作小组/日志报告/200804",114,50,"illegal attribute name","xml:lang"],["Wikipedia:侵权拯救工作小组/日志报告/200910",573,28,"illegal attribute name","xml:lang"],["Wikipedia:保留派維基人社團",7,51,"illegal attribute name","height"],["Wikipedia:保留派維基人社團/0",8,51,"illegal attribute name","height"],["Wikipedia:保留派維基人社團/2",7,51,"illegal attribute name","height"],["Wikipedia:保留派維基人社團/工作成果",7,51,"illegal attribute name","height"],["Wikipedia:修订版本删除请求/header",15,35,"illegal attribute name","align"],["Wikipedia:修订版本删除请求/存档/2012年12月",101,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2012年7月",132,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2013年10月",30,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2013年11月",23,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2013年12月",70,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2013年1月",41,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2013年2月",13,46,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2013年3月",78,46,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2013年5月",312,81,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2013年6月",338,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2013年7月",65,46,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2013年8月",11,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2013年9月",71,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2014年1月",447,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2014年2月",34,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2014年3月",232,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2014年4月",104,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2014年5月",145,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2014年8月",251,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2014年9月",1153,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2015年10月",172,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2015年11月",92,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2015年12月",21,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2015年1月",101,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2015年2月",13,98,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2015年3月",550,89,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2015年7月",108,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2016年12月",211,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2016年1月",102,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2016年2月",82,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2016年3月",29,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2016年4月",47,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2016年5月",39,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2016年6月",38,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2016年7月",40,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2016年8月",11,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2016年9月",32,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2017年10月",177,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2017年12月",180,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2017年1月",93,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2017年2月",31,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2017年3月",74,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2017年4月",62,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2017年5月",238,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2017年6月",41,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2017年7月",11,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2017年8月",31,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2017年9月",124,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2018年3月",303,45,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2018年6月",295,33,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2019年5月",1034,116,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2020年10月",483,89,"illegal attribute name","datatime"],["Wikipedia:修订版本删除请求/存档/2020年1月",717,10,"illegal attribute name","datatime"],["Wikipedia:修订版本删除请求/存档/2020年2月",524,47,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2020年7月",121,47,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2020年8月",219,47,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2021年5月",840,29,"illegal attribute name","xml:lang"],["Wikipedia:修订版本删除请求/存档/2024年5月",57,127,"illegal attribute name","xml:lang"],["Wikipedia:傀儡調查/header",5,6,"illegal attribute name","clean"],["Wikipedia:傀儡調查/案件/Cq521/存檔",48,135,"illegal attribute name","xml:lang"],["Wikipedia:傀儡調查/案件/Diraged3/存檔",147,181,"illegal attribute name","xml:lang"],["Wikipedia:傀儡調查/案件/Jasonc9710/存檔",15,381,"illegal attribute name","xml:lang"],["Wikipedia:傀儡調查/案件/Levelaunt/存檔/1",378,103,"illegal attribute name","xml:lang"],["Wikipedia:傀儡調查/案件/Mikedogge/存檔",12,100,"illegal attribute name","xml:lang"],["Wikipedia:傀儡調查/案件/PaintWoodSt/存檔",8,313,"illegal attribute name","xml:lang"],["Wikipedia:傀儡調查/案件/PÑēüḾôňïę1357/存檔",17,166,"illegal attribute name","xml:lang"],["Wikipedia:傀儡調查/案件/REDO/存檔/RFCU",13,97,"illegal attribute name","xml:lang"],["Wikipedia:傀儡調查/案件/Sika890827/存檔",12,164,"illegal attribute name","xml:lang"],["Wikipedia:傀儡調查/案件/Wetrace/存檔",55,200,"illegal attribute name","xml:lang"],["Wikipedia:傀儡調查/案件/四条河原町/存檔",19,133,"illegal attribute name","xml:lang"],["Wikipedia:傀儡調查/案件/影武者/存檔/RFCU",80,66,"illegal attribute name","xml:lang"],["Wikipedia:傀儡調查/案件/游魂/存檔/HAM",8,37,"illegal attribute name","datatime"],["Wikipedia:傀儡調查/案件/潔西卡情緒/存檔",8,49,"illegal attribute name","color"],["Wikipedia:傀儡調查/案件/離心力青蛙/存檔",394,102,"illegal attribute name","xml:lang"],["Wikipedia:傳媒中心",6,51,"illegal attribute name","height"],["Wikipedia:優良條目重審/存檔",322,58,"illegal attribute name","xml:lang"],["Wikipedia:元維基用戶查核請求/存檔/2020年2月",302,37,"illegal attribute name","datatime"],["Wikipedia:关于改革字体、地区词转换功能的调查",499,82,"illegal attribute name","xml:lang"],["Wikipedia:典範使用者頁面評選/存檔/2019年",408,18,"illegal attribute name","datatime"],["Wikipedia:典範使用者頁面評選/存檔/2020年",222,25,"illegal attribute name","datatime"],["Wikipedia:典範使用者頁面評選/存檔/2021年",6,22,"illegal attribute name","datatime"],["Wikipedia:典范条目评选/1896年夏季奥林匹克运动会",17,53,"illegal attribute name","xml:lang"],["Wikipedia:典范条目评选/2002年热带风暴爱德华",19,222,"illegal attribute name",":Nice"],["Wikipedia:典范条目评选/Mk VII德翠克轻型坦克",64,255,"illegal attribute name",":Nice"],["Wikipedia:典范条目评选/VVVVVV",6,224,"illegal attribute name",":Nice"],["Wikipedia:典范条目评选/三国",9,64,"illegal attribute name","xml:lang"],["Wikipedia:典范条目评选/人类自愿灭绝运动",14,210,"illegal attribute name",":Nice"],["Wikipedia:典范条目评选/保罗·麦卡特尼",18,226,"illegal attribute name",":Nice"],["Wikipedia:典范条目评选/假发",24,55,"illegal attribute name","xml:lang"],["Wikipedia:典范条目评选/光呼吸",16,225,"illegal attribute name",":Nice"],["Wikipedia:典范条目评选/冬季服務車輛",12,98,"illegal attribute name","xml:lang"],["Wikipedia:典范条目评选/台湾",38,132,"illegal attribute name","xml:lang"],["Wikipedia:典范条目评选/台湾日治时期",19,220,"illegal attribute name",":Nice"],["Wikipedia:典范条目评选/存档/2006年",106,47,"illegal attribute name","xml:lang"],["Wikipedia:典范条目评选/存档/2007年/存档1",164,62,"illegal attribute name","family"],["Wikipedia:典范条目评选/存档/2007年/存档2",21,46,"illegal attribute name","xml:lang"]],"batches":42}
+window.data={"articles":[[
+	"Wikipedia:互助客栈/求助/存档/2010年10月",
+	141,
+	313,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2010年11月",
+	137,
+	41,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2010年1月",
+	121,
+	43,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2010年2月",
+	573,
+	53,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2010年3月",
+	35,
+	144,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2010年4月",
+	138,
+	31,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2010年6月",
+	153,
+	143,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2010年7月",
+	328,
+	49,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2010年8月",
+	40,
+	44,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2011年12月",
+	274,
+	61,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2011年3月",
+	131,
+	22,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2011年6月",
+	268,
+	71,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2011年7月",
+	81,
+	83,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2011年9月",
+	214,
+	23,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2012年3月",
+	476,
+	81,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2012年6月",
+	584,
+	30,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2012年7月",
+	64,
+	175,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2013年10月",
+	295,
+	104,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2013年3月",
+	26,
+	205,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2013年4月",
+	176,
+	105,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2013年5月",
+	438,
+	63,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2013年6月",
+	83,
+	85,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2013年7月",
+	85,
+	54,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2013年8月",
+	52,
+	78,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2013年9月",
+	31,
+	102,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2014年10月",
+	4,
+	78,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2014年1月",
+	124,
+	129,
+	"illegal attribute name",
+	"font"
+],[
+	"Wikipedia:互助客栈/求助/存档/2014年3月",
+	6,
+	143,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2014年4月",
+	229,
+	74,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2014年8月",
+	399,
+	147,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2015年10月",
+	340,
+	97,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2015年12月",
+	166,
+	58,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2015年1月",
+	58,
+	51,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2015年2月",
+	7,
+	46,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2015年3月",
+	246,
+	61,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2015年4月",
+	12,
+	61,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2015年5月",
+	167,
+	100,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2015年6月",
+	13,
+	34,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2016年1月",
+	209,
+	80,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2016年2月",
+	168,
+	35,
+	"illegal attribute name",
+	"data-mw"
+],[
+	"Wikipedia:互助客栈/求助/存档/2016年3月",
+	48,
+	76,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2016年5月",
+	27,
+	147,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2017年12月",
+	319,
+	159,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2018年11月",
+	22,
+	86,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2018年5月",
+	202,
+	194,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2018年7月",
+	72,
+	42,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2019年10月",
+	142,
+	79,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2019年1月",
+	94,
+	5,
+	"illegal attribute name",
+	"width"
+],[
+	"Wikipedia:互助客栈/求助/存档/2019年2月",
+	249,
+	123,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2020年10月",
+	246,
+	78,
+	"illegal attribute name",
+	"table"
+],[
+	"Wikipedia:互助客栈/求助/存档/2020年2月",
+	325,
+	187,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/求助/存档/2020年4月",
+	415,
+	260,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2020年7月",
+	181,
+	74,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2020年8月",
+	17,
+	297,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2021年8月",
+	124,
+	44,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2021年9月",
+	91,
+	62,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2022年12月",
+	13,
+	49,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2022年8月",
+	274,
+	147,
+	"illegal attribute name",
+	"New"
+],[
+	"Wikipedia:互助客栈/求助/存档/2022年9月",
+	120,
+	99,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2023年4月",
+	293,
+	135,
+	"illegal attribute name",
+	"aria-disabled"
+],[
+	"Wikipedia:互助客栈/求助/存档/2023年9月",
+	362,
+	273,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2024年4月",
+	430,
+	221,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/求助/存档/2024年8月",
+	549,
+	465,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2006年10月",
+	103,
+	87,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2006年11月",
+	34,
+	46,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2007年3月",
+	94,
+	115,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2008年1月",
+	17,
+	53,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2009年10月",
+	66,
+	60,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2009年6月",
+	24,
+	51,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2009年8月",
+	49,
+	110,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2009年9月",
+	64,
+	68,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2010年11月",
+	71,
+	4,
+	"illegal attribute name",
+	"valign"
+],[
+	"Wikipedia:互助客栈/消息/存档/2010年3月",
+	126,
+	61,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2010年6月",
+	107,
+	106,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2011年2月",
+	24,
+	50,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2013年11月",
+	42,
+	65,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2013年12月",
+	180,
+	149,
+	"illegal attribute name",
+	"aria-disabled"
+],[
+	"Wikipedia:互助客栈/消息/存档/2013年2月",
+	111,
+	118,
+	"illegal attribute name",
+	"font"
+],[
+	"Wikipedia:互助客栈/消息/存档/2013年4月",
+	206,
+	23,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2013年5月",
+	76,
+	62,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2013年6月",
+	71,
+	263,
+	"illegal attribute name",
+	"font"
+],[
+	"Wikipedia:互助客栈/消息/存档/2013年7月",
+	174,
+	108,
+	"illegal attribute name",
+	"font"
+],[
+	"Wikipedia:互助客栈/消息/存档/2014年2月",
+	9,
+	142,
+	"illegal attribute name",
+	"aria-disabled"
+],[
+	"Wikipedia:互助客栈/消息/存档/2014年3月",
+	93,
+	142,
+	"illegal attribute name",
+	"aria-disabled"
+],[
+	"Wikipedia:互助客栈/消息/存档/2015年3月",
+	40,
+	206,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2016年2月",
+	35,
+	445,
+	"illegal attribute name",
+	"syule"
+],[
+	"Wikipedia:互助客栈/消息/存档/2017年10月",
+	15,
+	32,
+	"illegal attribute name",
+	"direction:"
+],[
+	"Wikipedia:互助客栈/消息/存档/2019年4月",
+	338,
+	188,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2019年8月",
+	477,
+	40,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:互助客栈/消息/存档/2020年9月",
+	46,
+	44,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:互助客栈/消息/存档/2021年5月",
+	498,
+	33,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:人事任免投票資格/過往討論",
+	19,
+	80,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:侵权拯救工作小组/日志报告/200709",
+	2,
+	50,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:侵权拯救工作小组/日志报告/200710",
+	122,
+	49,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:侵权拯救工作小组/日志报告/200711",
+	19,
+	47,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:侵权拯救工作小组/日志报告/200801",
+	97,
+	47,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:侵权拯救工作小组/日志报告/200803",
+	40,
+	47,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:侵权拯救工作小组/日志报告/200804",
+	114,
+	50,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:侵权拯救工作小组/日志报告/200910",
+	573,
+	28,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:保留派維基人社團",
+	7,
+	51,
+	"illegal attribute name",
+	"height"
+],[
+	"Wikipedia:保留派維基人社團/0",
+	8,
+	51,
+	"illegal attribute name",
+	"height"
+],[
+	"Wikipedia:保留派維基人社團/2",
+	7,
+	51,
+	"illegal attribute name",
+	"height"
+],[
+	"Wikipedia:保留派維基人社團/工作成果",
+	7,
+	51,
+	"illegal attribute name",
+	"height"
+],[
+	"Wikipedia:修订版本删除请求/header",
+	15,
+	35,
+	"illegal attribute name",
+	"align"
+],[
+	"Wikipedia:修订版本删除请求/存档/2012年12月",
+	101,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2012年7月",
+	132,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2013年10月",
+	30,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2013年11月",
+	23,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2013年12月",
+	70,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2013年1月",
+	41,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2013年2月",
+	13,
+	46,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2013年3月",
+	78,
+	46,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2013年5月",
+	312,
+	81,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2013年6月",
+	338,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2013年7月",
+	65,
+	46,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2013年8月",
+	11,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2013年9月",
+	71,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2014年1月",
+	447,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2014年2月",
+	34,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2014年3月",
+	232,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2014年4月",
+	104,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2014年5月",
+	145,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2014年8月",
+	251,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2014年9月",
+	1153,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2015年10月",
+	172,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2015年11月",
+	92,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2015年12月",
+	21,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2015年1月",
+	101,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2015年2月",
+	13,
+	98,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2015年3月",
+	550,
+	89,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2015年7月",
+	108,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2016年12月",
+	211,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2016年1月",
+	102,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2016年2月",
+	82,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2016年3月",
+	29,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2016年4月",
+	47,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2016年5月",
+	39,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2016年6月",
+	38,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2016年7月",
+	40,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2016年8月",
+	11,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2016年9月",
+	32,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2017年10月",
+	177,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2017年12月",
+	180,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2017年1月",
+	93,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2017年2月",
+	31,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2017年3月",
+	74,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2017年4月",
+	62,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2017年5月",
+	238,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2017年6月",
+	41,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2017年7月",
+	11,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2017年8月",
+	31,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2017年9月",
+	124,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2018年3月",
+	303,
+	45,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2018年6月",
+	295,
+	33,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2019年5月",
+	1034,
+	116,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2020年10月",
+	483,
+	89,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:修订版本删除请求/存档/2020年1月",
+	717,
+	10,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:修订版本删除请求/存档/2020年2月",
+	524,
+	47,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2020年7月",
+	121,
+	47,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2020年8月",
+	219,
+	47,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2021年5月",
+	840,
+	29,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:修订版本删除请求/存档/2024年5月",
+	57,
+	127,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:傀儡調查/header",
+	5,
+	6,
+	"illegal attribute name",
+	"clean"
+],[
+	"Wikipedia:傀儡調查/案件/Cq521/存檔",
+	48,
+	135,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:傀儡調查/案件/Diraged3/存檔",
+	147,
+	181,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:傀儡調查/案件/Jasonc9710/存檔",
+	15,
+	381,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:傀儡調查/案件/Levelaunt/存檔/1",
+	378,
+	103,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:傀儡調查/案件/Mikedogge/存檔",
+	12,
+	100,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:傀儡調查/案件/PaintWoodSt/存檔",
+	8,
+	313,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:傀儡調查/案件/PÑēüḾôňïę1357/存檔",
+	17,
+	166,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:傀儡調查/案件/REDO/存檔/RFCU",
+	13,
+	97,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:傀儡調查/案件/Sika890827/存檔",
+	12,
+	164,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:傀儡調查/案件/Wetrace/存檔",
+	55,
+	200,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:傀儡調查/案件/四条河原町/存檔",
+	19,
+	133,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:傀儡調查/案件/影武者/存檔/RFCU",
+	80,
+	66,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:傀儡調查/案件/游魂/存檔/HAM",
+	8,
+	37,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:傀儡調查/案件/潔西卡情緒/存檔",
+	8,
+	49,
+	"illegal attribute name",
+	"color"
+],[
+	"Wikipedia:傀儡調查/案件/離心力青蛙/存檔",
+	394,
+	102,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:傳媒中心",
+	6,
+	51,
+	"illegal attribute name",
+	"height"
+],[
+	"Wikipedia:優良條目重審/存檔",
+	322,
+	58,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:元維基用戶查核請求/存檔/2020年2月",
+	302,
+	37,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:关于改革字体、地区词转换功能的调查",
+	499,
+	82,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:典範使用者頁面評選/存檔/2019年",
+	408,
+	18,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:典範使用者頁面評選/存檔/2020年",
+	222,
+	25,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:典範使用者頁面評選/存檔/2021年",
+	6,
+	22,
+	"illegal attribute name",
+	"datatime"
+],[
+	"Wikipedia:典范条目评选/1896年夏季奥林匹克运动会",
+	17,
+	53,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:典范条目评选/2002年热带风暴爱德华",
+	19,
+	222,
+	"illegal attribute name",
+	":Nice"
+],[
+	"Wikipedia:典范条目评选/Mk VII德翠克轻型坦克",
+	64,
+	255,
+	"illegal attribute name",
+	":Nice"
+],[
+	"Wikipedia:典范条目评选/VVVVVV",
+	6,
+	224,
+	"illegal attribute name",
+	":Nice"
+],[
+	"Wikipedia:典范条目评选/三国",
+	9,
+	64,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:典范条目评选/人类自愿灭绝运动",
+	14,
+	210,
+	"illegal attribute name",
+	":Nice"
+],[
+	"Wikipedia:典范条目评选/保罗·麦卡特尼",
+	18,
+	226,
+	"illegal attribute name",
+	":Nice"
+],[
+	"Wikipedia:典范条目评选/假发",
+	24,
+	55,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:典范条目评选/光呼吸",
+	16,
+	225,
+	"illegal attribute name",
+	":Nice"
+],[
+	"Wikipedia:典范条目评选/冬季服務車輛",
+	12,
+	98,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:典范条目评选/台湾",
+	38,
+	132,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:典范条目评选/台湾日治时期",
+	19,
+	220,
+	"illegal attribute name",
+	":Nice"
+],[
+	"Wikipedia:典范条目评选/存档/2006年",
+	106,
+	47,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:典范条目评选/存档/2007年/存档1",
+	164,
+	62,
+	"illegal attribute name",
+	"family"
+],[
+	"Wikipedia:典范条目评选/存档/2007年/存档2",
+	21,
+	46,
+	"illegal attribute name",
+	"xml:lang"
+],],"batches":42}

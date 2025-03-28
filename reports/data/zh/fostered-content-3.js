@@ -1,1 +1,1201 @@
-window.data={"articles":[["和歌山大学经济短期大学部",43,1,"content to be moved out from the table"," * 经营学科"],["和泉短期大学",44,1,"content to be moved out from the table"," * 儿童福利学科"],["和洋女子大学短期大学部",57,1,"content to be moved out from the table"," * 服饰生活学科\n * 日本文学科\n * 英语文化学科\n * 食物营养学科"],["哈迪斯 (公司)",51,1,"content to be moved out from the table"," 哈迪斯除在[[美國]]開業外於全球也有開業，以[[中東]]國家為主："],["員林車站",375,1,"content to be moved out from the table","\n ==停靠狀態==\n {{main|v:員林車站#停靠狀態{{!}}維基學院:員林車站#停靠狀態}}\n\n ==利用狀況==\n 根據{{TRA ridershi"],["哥伦比亚国旗",29,1,"content to be moved out from the table"," [[File:Flag of Colombia.svg|left|thumb|160px|[[File:FIAV 111010.svg|23px]] [[国旗"],["哥打白沙罗站",55,1,"content to be moved out from the table"," <br>"],["哪吒降妖记",102,1,"content to be moved out from the table","\n ==故事大綱==\n 哪吒见天下大旱，不忍众生遭劫，前往水族兴师问罪，误杀东海龙王三太子敖丙，东海龙王于是前往陈塘关兴师问罪，哪咤由于不愿牵累父母，于是割肉还"],["唐人街探案 (網絡劇)",145,1,"content to be moved out from the table"," 靈童戰隊"],["唐振剛",238,1,"content to be moved out from the table","\n ==MV演出=="],["唐朝狀元列表",1183,1,"content to be moved out from the table"," <noinclude>\n [[Category:唐朝人列表]]\n [[Category:中国状元列表]]\n [[Category:唐朝狀元| ]]\n </no"],["唐綺陽",168,1,"content to be moved out from the table"," ===電視節目=== "],["唐翠萍",111,1,"content to be moved out from the table","\n\n == 參考資料 ==\n * [https://hkfeature.com/membersonly/《it狗》三個主創愛的設定-在最壞的世界選擇善/ 《it"],["唯晶科技",126,1,"content to be moved out from the table"," <div style=\"-moz-column-count:2; column-count:2;\">"],["喬許·祖克曼",23,1,"content to be moved out from the table"," === 電影和電視劇 ==="],["嘉悦大学短期大学部",58,1,"content to be moved out from the table"," * [[商业|商务]]交流学科<ref group=\"注\"  name=\"商务交流学科\"/>"],["嘉義機場",124,1,"content to be moved out from the table"," 國內航線由[[立榮航空]]營運澎湖及金門共2條航線，主要以ATR72-600機型執飛。"],["四号街站",83,1,"content to be moved out from the table"," ;三号街纺织厂（站位位于三号街，开发大路南侧，C出入口西南约500米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|167|"],["四国大学短期大学部",70,1,"content to be moved out from the table"," * [[人|人类]]健康科\n ** 食物营养专攻\n ** 护理福利专攻<ref group=\"注\"  name=\"护理福利专攻\"/>\n * [[商业|商务]]"],["四国学院短期大学",44,1,"content to be moved out from the table"," * 英语科"],["四天王寺大学短期大学部",51,1,"content to be moved out from the table"," * 生活驾驶学科<ref group=\"注\"  name=\"生活驾驶学科\"/>\n ** 生活设计专攻<ref group=\"注\"  name=\"生活设计专攻\""],["四日市大学短期大学部",59,1,"content to be moved out from the table"," * 幼儿教育学科"],["四条畷学园短期大学",48,1,"content to be moved out from the table"," * 保育学科\n * 生活设计学科<ref group=\"注\"  name=\"生活设计学科\"/>"],["园田学园女子大学短期大学部",62,1,"content to be moved out from the table"," * 生活文化学科\n * 幼儿教育学科"],["围场满族蒙古族自治县各级文物保护单位列表",51,1,"content to be moved out from the table"," *[[北梁遗址]]\n *[[小锥子山古城址]]\n *[[海苏湾遗址]]\n *[[新营子村北梁遗址]]\n *[[潘家店岩画]]"],["国士馆短期大学",45,1,"content to be moved out from the table"," * 日文科"],["国学院大学北海道短期大学部",56,1,"content to be moved out from the table"," * 日本文学科\n * 总合教养学科\n * 幼儿·儿童教育学科"],["国学院大学栃木短期大学",53,1,"content to be moved out from the table"," * 日本文化学科\n * 人类教育学科"],["国际学院埼玉短期大学",51,1,"content to be moved out from the table"," * 健康[[营养学|营养]]学科\n ** [[营养师]]专攻\n ** [[厨师]]专攻<ref group=\"注\"  name=\"厨师专攻\"/>\n * 幼儿保"],["国际短期大学",48,1,"content to be moved out from the table"," * 国际传播学科"],["图书馆短期大学",44,1,"content to be moved out from the table"," * 图书馆学科\n * 文献信息学科"],["國立中興大學文學院",172,1,"content to be moved out from the table","\n == 出版物 ==\n *[https://web.archive.org/web/20160204065457/http://www.cla.nchu.ed"],["國立暨南國際大學",424,1,"content to be moved out from the table"," *[[梁實秋]]外文系教授、系主任。<ref>{{cite web|url=https://www.sohu.com/a/395158620_656818|t"],["國立臺北科技大學附屬桃園農工高級中等學校",117,1,"content to be moved out from the table"," -----"],["國立臺灣師範大學",628,1,"content to be moved out from the table"," * 2022年，[[QS世界大學排名]]調查，全球第334名。\n * 2023年，[[QS世界大學排名]]調查，全球第332名。\n * 2024年，[[QS世"],["國防安全研究院",133,1,"content to be moved out from the table","\n == 戰略諮詢委員 ==\n *[[林鎮夷]]（[[中華民國海軍|海軍]][[一級上將]]；[[海軍官校]]58年班；[[中華民國參謀總長|參謀總長]]、[["],["土佐女子短期大学",44,1,"content to be moved out from the table"," * 英语科\n * 秘书科"],["圣和学园短期大学",51,1,"content to be moved out from the table"," * 阅历开发总合学科<ref group=\"注\"  name=\"阅历开发总合学科\"/>\n * 保育福利学科\n ** 保育专攻\n ** 护理福利专攻<ref g"],["圣和短期大学",47,1,"content to be moved out from the table"," * 保育科"],["圣园学园短期大学",42,1,"content to be moved out from the table"," * 保育科"],["圣塞西莉亚女子短期大学",48,1,"content to be moved out from the table"," * 幼儿教育学科"],["圣德大学短期大学部",99,1,"content to be moved out from the table"," * 保育科\n ** 第一部\n ** [[夜校|第二部]]\n ** 函授教育课程<ref group=\"注\"  name=\"函授教育课程\"/>\n * 总合文化学"],["圣德营养短期大学",49,1,"content to be moved out from the table"," * 食物营养学科\n ** 食物营养专攻\n ** 食品科学专攻"],["圣心耳舒拉学园短期大学",55,1,"content to be moved out from the table"," * 食物荣养学科\n * 幼儿教育学科"],["圣母女子短期大学",44,1,"content to be moved out from the table"," * 护理科"],["圣母清心女子短期大学",44,1,"content to be moved out from the table"," * 英文科 "],["圣母被昇天学院女子短期大学",47,1,"content to be moved out from the table"," * [[英语]]科\n * 心理学科"],["圣泉大学短期大学部",48,1,"content to be moved out from the table"," * 信息群体学科"],["圣路加短期大学",43,1,"content to be moved out from the table"," * 护理科"],["圣隶克里斯多福大学护理短期大学部",49,1,"content to be moved out from the table"," * 护理学科"],["圣马利亚学院短期大学",45,1,"content to be moved out from the table"," * [[护理学|护理]]学科"],["在玹",278,1,"content to be moved out from the table"," ===個人單曲==="],["在韩国出道的泰国艺人列表",34,1,"content to be moved out from the table","\n == 活动中成员 =="],["城建学院站",92,1,"content to be moved out from the table"," ;全运路火石桥大街（站位位于全运路，A出口向北约400米，全运路火石桥大街路口西侧）\n {{沈阳公交线路列表|width=100%|format=|128|1"],["城西短期大学",56,1,"content to be moved out from the table"," * [[商业|商务]]总合学科<ref group=\"注\"  name=\"商务总合学科\">日语:{{lang|ja|ビジネス総合学科}}</ref>"],["基尔",94,1,"content to be moved out from the table"," * {{FRA}}[[布雷斯特]]\n * {{GBR}}[[考文垂]]\n * {{FIN}}[[芬兰]][[瓦萨]]\n * {{POL}}[[波兰]][[格丁"],["埼玉医科大学短期大学",47,1,"content to be moved out from the table"," * 护理学科"],["埼玉县立大学短期大学部",56,1,"content to be moved out from the table"," * 第一[[护理学|护理]]学科\n * 第二[[护理学|护理]]学科<ref group=\"注\"  name=\"第二护理学科招生\"/>\n * [[醫檢師|卫生"],["埼玉大学经济短期大学部",45,1,"content to be moved out from the table"," * [[经济学|经济]]学科　\n ** [[经济学|经济]]专攻\n ** [[工商管理|经营]]专攻"],["埼玉女子短期大学",48,1,"content to be moved out from the table"," * 商学科\n * 国际交流学科<ref group=\"注\"  name=\"国际交流学科\"/>"],["埼玉短期大学",49,1,"content to be moved out from the table"," * 日本文化传播学科<ref group=\"注\"  name=\"日本文化传播学科\"/>\n * 国际传播学科<ref group=\"注\"  name=\"国际传播"],["埼玉纯真短期大学",48,1,"content to be moved out from the table"," * 儿童学科"],["堺女子短期大学",56,1,"content to be moved out from the table"," * 美容生活文化学科"],["塔湾街站",79,1,"content to be moved out from the table"," ;中海寰宇天下西（站位位于塔湾街两侧，D出入口出站向南约250米，交通岗南侧）\n {{沈阳公交线路列表|width=100%|format=|205|233|"],["墙外 (迈克尔·杰克逊专辑)",288,1,"content to be moved out from the table","\n [[Category:麥可·傑克森音樂專輯]]\n [[Category:1979年音樂專輯]]\n [[Category:史诗唱片音乐专辑]]"],["士曼丹站",55,1,"content to be moved out from the table"," <br>"],["壹號皇庭V",678,1,"content to be moved out from the table"," 指控楊是策劃殺害余與江的主腦，幸好余與江無事"],["夏朝冠",14,1,"content to be moved out from the table"," <gallery>\n File:皇朝礼器图式.卷04至07.冠服.总十八卷.清.允禄.蒋溥等纂修.清乾隆时期武英殿刊本-1-250-5 (5119342749"],["多摩美术短期大学",45,1,"content to be moved out from the table"," * [[绘画]][[科系|科]]\n * 造型[[设计|图案]][[科系|科]]\n * [[雕塑]]科"],["夢想沙龍娛樂文化",38,1,"content to be moved out from the table"," | width=\"200\"  | 傅又宣 ([[傅珮嘉]]) || width=\"200\"  | [[盛君]] || width=\"200\"  | [[蔚雨芯"],["大仁科技大學",170,1,"content to be moved out from the table","\n ==學校聲譽==\n *2017年7月，遠見雜誌公布2017年台灣最佳大學排行榜，大仁科技大學是非醫學技職類大學排名全國科大排名第16名，全國私立科大排名第7"],["大分县立艺术文化短期大学",61,1,"content to be moved out from the table"," * 美术科\n ** 美术专攻\n ** 设计专攻\n ** <del>生活艺术专攻</del><ref group=\"注\"  name=\"生活艺术专攻招生\"/>\n"],["大分女子短期大学",46,1,"content to be moved out from the table"," * 保育[[科系|科]]\n ** 第一部\n ** 第三部"],["大分短期大学",42,1,"content to be moved out from the table"," * 园艺科"],["大和大学白凤短期大学部",54,1,"content to be moved out from the table"," * 总合人类学科\n ** 国际人类学专攻\n ** 儿童教育专攻\n ** 护理学专攻\n ** 复健医学专攻"],["大垣女子短期大学",56,1,"content to be moved out from the table"," * 幼儿教育科\n ** 第一部\n ** 第三部<ref group=\"注\"  name=\"幼儿教育科第三部\"/>\n * [[设计]][[美术]]科<ref g"],["大妻女子大学短期大学部",67,1,"content to be moved out from the table"," * 家政科\n ** <del>第一部</del>\n *** 家政专攻\n *** 食物营养专攻\n *** 生活总合[[商业|商务]]专攻<ref group=\""],["大山脚奕南园日新国民型华文中学",78,1,"content to be moved out from the table"," == 参见 ==\n {{Portal box|马来西亚|教育}}\n *[[马来西亚中学列表]]\n *[[国民型华文中学]]\n\n == 参考资料 ==\n {{r"],["大手前短期大学",54,1,"content to be moved out from the table"," * 生活设计总合学科<ref group=\"注\"  name=\"生活设计总合学科\"/>\n * <del>秘书科</del><ref group=\"注\"  na"],["大月短期大学",43,1,"content to be moved out from the table"," * 经济科"],["大谷大学短期大学部",56,1,"content to be moved out from the table"," * [[佛教]]科\n * 幼儿教育保育科"],["大通湖街站",94,1,"content to be moved out from the table"," ;大通湖街地铁站（站位位于大通湖街，B出入口外终到，D出入口旁始发）\n {{沈阳公交线路列表|width=100%|format=|end=yes|V135}"],["大阪产业大学短期大学部",62,1,"content to be moved out from the table"," * [[汽车|自动车]][[工学]]科<ref group=\"注\"  name=\"自动车工学科\"/>"],["大阪信爱学院短期大学",52,1,"content to be moved out from the table"," * 初等教育学科\n * 护理学科"],["大阪健康福祉短期大学",47,1,"content to be moved out from the table","\n * 护理福利学科<ref group=\"注\"  name=\"护理福利学科\">日语:{{lang|ja|介護福祉学科}}</ref>\n ** 第一部\n ** "],["大阪千代田短期大学",45,1,"content to be moved out from the table"," * 幼儿教育科\n * 总合传播学科"],["大阪国际大学短期大学部",60,1,"content to be moved out from the table"," * 生活设计总合学科<ref group=\"注\"  name=\"生活设计总合学科\"/>\n * 幼儿保育学科"],["大阪城南女子短期大学",51,1,"content to be moved out from the table"," * 现代生活学科\n * 总合保育学科\n * [[人类]]福利学科"],["大阪基督教短期大学",58,1,"content to be moved out from the table","\n * 幼儿教育学科\n * 国际教养学科"],["大阪夕阳丘学园短期大学",55,1,"content to be moved out from the table"," * [[职业]]创造学科<ref group=\"注\"  name=\"职业创造学科\"/>\n * 食物营养学科"],["大阪外国语大学短期大学部",49,1,"content to be moved out from the table"," * [[英语]]科[[夜校|第二部]]\n * [[西班牙语]]科[[夜校|第二部]]\n * [[汉语]]科[[夜校|第二部]]\n * [[德语]]科[[夜校|"],["大阪大学医疗技术短期大学部",47,1,"content to be moved out from the table"," * 护理学科<ref name=\"短期大学护理学科的历史\"/> \n * 诊疗[[醫事放射師|放射线]]技术学科<ref name=\"短期大学放射线技术学科的历"],["大阪大學醫學部附屬醫院",78,1,"content to be moved out from the table"," === 藥劑部 ===\n === 看護部 ===\n === 醫療技術部 ===\n === 未來醫療開發部 ===\n 未來醫療中心、臨床研究中心、資料中心、國際"],["大阪大谷大学短期大学部",55,1,"content to be moved out from the table"," * 生活创造学科"],["大阪女子短期大学",56,1,"content to be moved out from the table"," * 生活科学科\n ** 生活演出专攻<ref group=\"注\"  name=\"生活演出专攻\"/>\n ** [[食物]][[营养学|营养]]专攻\n * 幼儿教"],["大阪女学院短期大学",42,1,"content to be moved out from the table"," * 英语科"],["大阪学院大学短期大学部",56,1,"content to be moved out from the table"," * 经营实际业务科<ref group=\"注\"  name=\"经营实际业务科\"/>"],["大阪工业大学短期大学部",53,1,"content to be moved out from the table"," * 建筑学科\n * [[土木工程|土木工学]]科\n * [[电|电气]]工学科\n * 机械工学科[[夜校|第二部]]"],["大阪市立大学护理短期大学部",42,1,"content to be moved out from the table"," * 护理学科"],["大阪府立大学农业短期大学部",47,1,"content to be moved out from the table"," * 农业科\n * 农产制造化学科"],["大阪府立大学工业短期大学部",57,1,"content to be moved out from the table"," * 机械科[[夜校|第二部]]\n * [[电|电气]]科[[夜校|第二部]]\n * 熔接科[[夜校|第二部]]"],["大阪府立护理大学医疗技术短期大学部",50,1,"content to be moved out from the table"," * 第二护理学科"],["大阪成蹊短期大学",74,1,"content to be moved out from the table"," * 总合生活学科\n * 国际交流学科<ref group=\"注\"  name=\"国际交流学科\"/>\n * 学前教育学科\n * [[旅游|观光旅游]]学科\n *"],["大阪明净女子短期大学",43,1,"content to be moved out from the table"," * 英语科\n * 文艺科"],["大阪樟荫女子大学短期大学部",47,1,"content to be moved out from the table"," * 职业设计学科<ref group=\"注\"  name=\"职业设计学科\"/>"],["大阪电气通信大学短期大学部",48,1,"content to be moved out from the table"," * 电子信息学科"],["大阪短期大学",45,1,"content to be moved out from the table"," * 经营信息学科\n ** 经营信息专攻\n ** [[商业|商务]]专攻"],["大阪社会事业短期大学",49,1,"content to be moved out from the table"," * 社会事业学科\n ** 社会事业专攻 \n ** 保育专攻 \n * 产业福祉学科 "],["大阪艺术大学短期大学部",88,1,"content to be moved out from the table"," * 英美文化学科\n * 保育学科\n ** 第一部\n ** 函授教育课程\n * 设计美术学科\n ** 第一部\n ** 函授教育课程\n * 媒体·艺术学科<ref"],["大阪薰英女子短期大学",53,1,"content to be moved out from the table"," * 健康营养学科\n * 儿童教育学科"],["大阪青山大学短期大学部",57,1,"content to be moved out from the table"," * 幼儿教育・保育科\n * [[烹饪]]・[[糖果糕点|制果]]学科<ref group=\"注\"  name=\"烹饪・制果学科\"/>"],["大阪音乐大学短期大学部",51,1,"content to be moved out from the table"," * 音乐科"],["天使女子短期大学",47,1,"content to be moved out from the table"," * 卫生护理学科\n * 食物营养学科"],["天官賜福 (小說)",152,1,"content to be moved out from the table"," :第一季"],["天成街站",92,1,"content to be moved out from the table"," ;奥体中心北门（站位位于天赐街，C出入口向西约300米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|浑雷}}"],["天母",117,1,"content to be moved out from the table","\n ==天母商圈==\n [[File:Dayeh-Takashimaya.jpg|缩略图|天母老字號的百貨公司──[[大葉高島屋]]]]\n [[File:新光三"],["天理大学女子短期大学部",54,1,"content to be moved out from the table"," * 生活科\n * 保育科"],["太原街站",122,1,"content to be moved out from the table"," ;沈阳古玩城/南京街北二马路（站位设于南京北街，B出入口向北约180米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|115"],["太和街道 (大理市)",56,1,"content to be moved out from the table","\n == 大理市文物保护单位<ref>{{Cite book|title=大理市文化志|last=大理市文化丛书编辑委员会 编|publisher=云南民族出版"],["奈良佐保短期大学",54,1,"content to be moved out from the table"," * 生活未来科\n * 地区儿童学科  "],["奈良县立医科大学护理短期大学部",43,1,"content to be moved out from the table"," * 护理学科"],["奈良县立短期大学",43,1,"content to be moved out from the table"," * 商经学科"],["奈良学园大学奈良文化女子短期大学部",76,1,"content to be moved out from the table"," * 幼儿教育学科"],["奈良艺术短期大学",46,1,"content to be moved out from the table"," * 美术科"],["奥体中心站 (沈阳市)",123,1,"content to be moved out from the table"," ;奥体中心地铁站（浑南四路站位，A出入口对面，花园城购物中心南门）\n {{沈阳公交线路列表|width=100%|format=|end=yes|388|V1"],["奥地利",345,1,"content to be moved out from the table"," === 飲食 ===\n {{main|奧地利飲食}}\n === 传统节日 ==="],["奥斯卡最佳原创剧本奖",37,1,"content to be moved out from the table"," [[1940年电影|1940年]]（[[第13届奥斯卡金像奖|第13届]]）\n *'''《{{link-en|江湖异人传|The Great McGinty}"],["奥斯汀马刺",115,1,"content to be moved out from the table"," * [[奥斯丁·达耶]]\n * [[南多·德科洛]]\n * [[丹尼·格林]]\n * [[科里·约瑟夫]]\n * [[马库斯·费泽尔]]\n * [[杰拉德·格"],["奥特马·希茨费尔德",149,1,"content to be moved out from the table"," *<sup>a</sup>他在第三轮资格赛赢得两场比赛.\n *<sup>b</sup>接手时，拜仁在德国杯中已经被淘汰出局."],["奧斯卡最佳改編劇本獎",51,1,"content to be moved out from the table"," '''[[1927/1928]] （[[第1屆奧斯卡金像獎|第1屆]]）'''{{NoteTag|該年度獎項名稱為「'''最佳寫作，改編'''」(Best W"],["女子圣学院短期大学",47,1,"content to be moved out from the table"," * 英文科\n * 日文科\n * <del>儿童教育学科</del><ref group=\"注\"  name=\"儿童教育学科招生\"/>\n ** <del>初等教"],["女子美术大学短期大学部",64,1,"content to be moved out from the table"," * 造型学科"],["女子营养大学短期大学部",54,1,"content to be moved out from the table"," * [[食物]][[营养学|营养]]学科\n ** 第一部\n ** <del>[[夜校|第二部]]</del><ref group=\"注\"  name=\"第二部"],["委內瑞拉公民簽證要求",350,1,"content to be moved out from the table"," [https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/MO/VI/IS/ID"],["姚政",94,1,"content to be moved out from the table"," *2007年 [[快乐男声2007]]\n *2022年 [[快乐再出发]]\n *2023年 [[快乐再出发]]2\n *2023年 [[來活了兄弟]]\n *20"],["姚焯菲",387,1,"content to be moved out from the table"," *[[張馳豪]]、[[潘靜文]]、[[冼靖峰]]、[[詹天文]]、姚焯菲、[[何晉樂]]、[[黃奕斌]] - 拼圖（詞；與張馳豪、潘靜文、冼靖峰、詹天文、何晉"],["姜成勳",328,1,"content to be moved out from the table"," ;2015年－現今"],["姬路学院女子短期大学",45,1,"content to be moved out from the table"," * 儿童教育科\n * 英语沟通科"],["姬路日之本短期大学",49,1,"content to be moved out from the table"," * 幼儿教育科"],["姬路短期大学",57,1,"content to be moved out from the table"," * 生活环境学科\n * 食物营养学科\n * 幼儿教育学科\n * 经营情报学科"],["媽，親一下！",235,1,"content to be moved out from the table"," *企劃：蔡菁怡、林韋葶（[[林予晞]]）\n *商務整合：黃瀞儀、張喜寧\n *藝人統籌：劉珈妍\n *藝人管理：洪源聰\n *公關宣傳：傅明雅、張馨文、蘇鈺婷、陳怡"],["孙燕姿 (专辑)",149,1,"content to be moved out from the table","\n *[[中華音樂人交流協會]]2000年十大優良單曲〈天黑黑〉\n * [http://www.books.com.tw/activity/2008/12/20"],["孝明天皇",114,1,"content to be moved out from the table"," </table>\n\n == 靈廟・陵墓 ==\n 陵墓仿造以前古代[[佛教]]石塔，葬在江戶時代歷任天皇之幕所[[月輪陵]]所在的[[京都府]][[京都市]]["],["孝琳",1085,1,"content to be moved out from the table"," == 獲獎與提名列表==\n\n === 大型頒獎典禮獎項 ==="],["孟澔",118,1,"content to be moved out from the table"," 好"],["孤山口站",28,1,"content to be moved out from the table"," 最新日期:2013年7月25日的'''孤山口'''火車站的時刻列表"],["学习院女子短期大学",51,1,"content to be moved out from the table"," * 人文学科\n ** 日文学专攻\n ** 英语专攻\n *** 一类<ref group=\"注\"  name=\"英语专攻一类\"/>\n *** 二类<ref gr"],["宁波商帮",4,1,"content to be moved out from the table"," [[File:Yu Qiaqing.jpg|thumb|130px|[[虞洽卿]]]]\n [[File:Zhu Baosan.jpg|thumb|130px|"],["宇部工业短期大学",44,1,"content to be moved out from the table"," * [[机械工程|机械]]科\n * [[電機工程學|电机]]科"],["宇部边境大学短期大学部",78,1,"content to be moved out from the table"," * 保育学科\n * 食物营养学科"],["宇都宫文星短期大学",45,1,"content to be moved out from the table"," * 地区总合文化学科"],["宇都宫短期大学",51,1,"content to be moved out from the table"," * 音乐科\n * [[人|人间]]福利学科\n ** [[社会福利]]专攻\n ** 护理福利专攻\n ** <del>幼儿福利专攻</del><ref group"],["安城学园大学短期大学部",43,1,"content to be moved out from the table"," * 幼儿教育科"],["安堂機器人",74,1,"content to be moved out from the table"," *註冊號： 012-0620-19836-1014-052-13\n *所屬：  SQUADRON ARX II。\n *作業系統： 湯川系統，阿修羅系統。\n *"],["安妮 (藝人)",99,1,"content to be moved out from the table","\n ==主持作品==\n ===電視節目==="],["安娜斯塔西亞·波塔波娃",97,1,"content to be moved out from the table","\n == 參考資料 ==\n {{Reflist}}\n\n == 外部連結 ==\n *{{WTA|325601}}\n *{{ITF Profile|id=80038"],["安崎",132,1,"content to be moved out from the table","\n === 單曲 ==="],["安田女子短期大学",49,1,"content to be moved out from the table"," * 保育科"],["安英美",45,1,"content to be moved out from the table"," |1999年||KBS|| 傻瓜俱樂部2  ||"],["安茱莉亚·提奥多亚",257,1,"content to be moved out from the table","\n\n {{DEFAULTSORT:Andrea}}\n [[Category:保加利亞女歌手]]\n [[Category:流行音乐歌手]]\n [[Category"],["宝仙学园短期大学",49,1,"content to be moved out from the table"," * 保育学科"],["宝冢造型艺术大学短期大学部",50,1,"content to be moved out from the table"," * 设计美术科"],["实践女子大学短期大学部",54,1,"content to be moved out from the table"," * 日语沟通学科<ref group=\"注\"  name=\"日语沟通学科\"/>\n * 英语沟通学科<ref group=\"注\"  name=\"英语沟通学科\"/"],["室兰工业大学短期大学部",43,1,"content to be moved out from the table"," * 机械科[[夜校|第二部]]\n * [[电|电气]]科[[夜校|第二部]]"],["宫城县农业短期大学",48,1,"content to be moved out from the table"," * [[农业]]科\n * [[畜牧业|畜产]]科\n * 农业土木科\n * 园艺科"],["宫城学院女子短期大学",51,1,"content to be moved out from the table"," * 家政科\n ** 家政专攻\n ** 食物营养专攻\n * 保育科\n * <del>教养科</del><ref group=\"注\"  name=\"教养科招生\"/"],["宫城诚真短期大学",45,1,"content to be moved out from the table"," * 保育科"],["宫崎学园短期大学",46,1,"content to be moved out from the table"," * 现代[[商业|商务]]科\n * 保育科\n * 初等教育科\n * 音乐科"],["家用電源列表",48,1,"content to be moved out from the table"," [[Image:A plug.jpg|thumb|100px|A (NEMA 1-15美式2接腳)]]"],["宸頤",129,1,"content to be moved out from the table"," <ref>{{cite web|title=范少勳師妹出席釜山影展　映後神回應逗樂觀眾|url=https://www.ctwant.com/article/"],["富士菲尼克斯短期大学",48,1,"content to be moved out from the table"," * 日本语日本文学科<ref group=\"注\"  name=\"日本语日本文学科招生\"/>\n * 英语英美文学科"],["富士见丘女子短期大学",49,1,"content to be moved out from the table"," * 文科\n ** 日文专攻\n ** 英文专攻\n * 家政科\n ** 家政专攻\n ** 食物营养专攻"],["富山县立大学短期大学部",66,1,"content to be moved out from the table"," * 环境系统工学科"],["富山大学经营短期大学部",45,1,"content to be moved out from the table"," * [[工商管理学|经营]]学科[[夜校|第二部]]\n ** [[管理学|经营管理]]专攻\n ** 经营・法律专攻"],["富山短期大学",58,1,"content to be moved out from the table"," * 食物营养学科\n * 保育学科\n * [[管理信息系统|管理信息]]学科\n * 福利学科"],["富山福祉短期大学",47,1,"content to be moved out from the table"," * 社会福利学科\n ** 社会福利专攻\n ** 护理福利专攻\n * 护理学科\n * 幼儿教育学科"],["富山輕軌TLR0600型電車",48,1,"content to be moved out from the table"," + "],["寻雾启示",23,1,"content to be moved out from the table"," 全碟詞曲：許嵩"],["將軍澳市中心",118,1,"content to be moved out from the table"," ;[[港鐵]]\n *{{港鐵路線標誌|TKL}}：[[坑口站 (香港)|坑口站]]B2出口、[[將軍澳站]]\n *{{港鐵路線標誌|KTL}}、{{港鐵路線標"],["將軍澳運動場",131,1,"content to be moved out from the table"," *1條至少長300米的環形跑道和1條長120米的直線跑道\n *田賽<ref>即[[跳遠]]、[[三級跳]]、[[撐竿跳]]、[[跳高]]、[[推鉛球]]、[["],["小松短期大学",46,1,"content to be moved out from the table"," * 地区创造学科<ref group=\"注\"  name=\"地区创造学科\"/>　"],["小楼又东风",98,1,"content to be moved out from the table","\n == 收視率 =="],["小樽商科大学短期大学部",43,1,"content to be moved out from the table"," * 商业学科"],["小樽短期大学",48,1,"content to be moved out from the table"," * 英语・经营实际业务科"],["小田原短期大学",45,1,"content to be moved out from the table"," * 食物营养学科\n * 保育学科\n ** 第一部\n ** 函授教育课程"],["尚义县各级文物保护单位列表",40,1,"content to be moved out from the table"," *[[新庙村北遗址]]"],["尚絅大學短期大學部",49,1,"content to be moved out from the table"," * 总合生活学科\n * 食物营养学科\n * 幼儿教育学科"],["尚絅学院大学女子短期大学部",61,1,"content to be moved out from the table"," * 保育科"],["尚美学园短期大学",49,1,"content to be moved out from the table"," * [[音乐]]学科\n ** 器乐专攻\n ** [[声乐]]专攻\n ** [[音乐创作|作曲]]专攻\n * 音乐信息学科\n * 音乐[[商业|商务]]学科\n "],["就实短期大学",49,1,"content to be moved out from the table"," * 生活实践科学科\n * 幼儿教育学科"],["屏東縣各級學校列表",5,1,"content to be moved out from the table"," <!--{|border=\"1\"  algin=left-->\n ===綜合大學==="],["屠潔",75,1,"content to be moved out from the table"," ===廣播節目==="],["山东泰山足球俱乐部",1187,1,"content to be moved out from the table","\n == 赞助商 =="],["山口大学医疗技术短期大学部",45,1,"content to be moved out from the table"," * 护理学科\n * [[醫檢師|卫生技术]]学科"],["山口大学工业短期大学部",51,1,"content to be moved out from the table"," * [[机械工程]]学科[[夜学|第二部]]\n * 工业化学科[[夜学|第二部]]\n * [[電機工程學|电机工程学科]][[夜学|第二部]]\n * [[土木"],["山口女子短期大学",50,1,"content to be moved out from the table"," * 日文科\n * 保育科\n * 家政科\n ** [[服装]]专攻<ref group=\"注\"  name=\"服装专攻\"/>\n ** 食物专攻"],["山口短期大学",51,1,"content to be moved out from the table"," * <del>[[通信工程|通信工程学科]]</del><ref group=\"注\"  name=\"通信工程学科\"/><ref group=\"注\"  name"],["山口艺术短期大学",55,1,"content to be moved out from the table"," * 艺术表现学科\n * 保育学科"],["山城区各级文物保护单位列表",18,1,"content to be moved out from the table"," *[[石林会议旧址]]（4-6）\n *[[李家大院]]（5-112）"],["山崎动物护理短期大学",51,1,"content to be moved out from the table"," * 动物护理学科<ref group=\"注\"  name=\"动物护理学科\">日语:{{lang|ja|動物看護学科}}</ref>"]],"batches":9}
+window.data={"articles":[[
+	"和歌山大学经济短期大学部",
+	43,
+	1,
+	"content to be moved out from the table",
+	" * 经营学科"
+],[
+	"和泉短期大学",
+	44,
+	1,
+	"content to be moved out from the table",
+	" * 儿童福利学科"
+],[
+	"和洋女子大学短期大学部",
+	57,
+	1,
+	"content to be moved out from the table",
+	" * 服饰生活学科\n * 日本文学科\n * 英语文化学科\n * 食物营养学科"
+],[
+	"哈迪斯 (公司)",
+	51,
+	1,
+	"content to be moved out from the table",
+	" 哈迪斯除在[[美國]]開業外於全球也有開業，以[[中東]]國家為主："
+],[
+	"員林車站",
+	375,
+	1,
+	"content to be moved out from the table",
+	"\n ==停靠狀態==\n {{main|v:員林車站#停靠狀態{{!}}維基學院:員林車站#停靠狀態}}\n\n ==利用狀況==\n 根據{{TRA ridershi"
+],[
+	"哥伦比亚国旗",
+	29,
+	1,
+	"content to be moved out from the table",
+	" [[File:Flag of Colombia.svg|left|thumb|160px|[[File:FIAV 111010.svg|23px]] [[国旗"
+],[
+	"哥打白沙罗站",
+	55,
+	1,
+	"content to be moved out from the table",
+	" <br>"
+],[
+	"哪吒降妖记",
+	102,
+	1,
+	"content to be moved out from the table",
+	"\n ==故事大綱==\n 哪吒见天下大旱，不忍众生遭劫，前往水族兴师问罪，误杀东海龙王三太子敖丙，东海龙王于是前往陈塘关兴师问罪，哪咤由于不愿牵累父母，于是割肉还"
+],[
+	"唐人街探案 (網絡劇)",
+	145,
+	1,
+	"content to be moved out from the table",
+	" 靈童戰隊"
+],[
+	"唐振剛",
+	238,
+	1,
+	"content to be moved out from the table",
+	"\n ==MV演出=="
+],[
+	"唐朝狀元列表",
+	1183,
+	1,
+	"content to be moved out from the table",
+	" <noinclude>\n [[Category:唐朝人列表]]\n [[Category:中国状元列表]]\n [[Category:唐朝狀元| ]]\n </no"
+],[
+	"唐綺陽",
+	168,
+	1,
+	"content to be moved out from the table",
+	" ===電視節目=== "
+],[
+	"唐翠萍",
+	111,
+	1,
+	"content to be moved out from the table",
+	"\n\n == 參考資料 ==\n * [https://hkfeature.com/membersonly/《it狗》三個主創愛的設定-在最壞的世界選擇善/ 《it"
+],[
+	"唯晶科技",
+	126,
+	1,
+	"content to be moved out from the table",
+	" <div style=\"-moz-column-count:2; column-count:2;\">"
+],[
+	"喬許·祖克曼",
+	23,
+	1,
+	"content to be moved out from the table",
+	" === 電影和電視劇 ==="
+],[
+	"嘉悦大学短期大学部",
+	58,
+	1,
+	"content to be moved out from the table",
+	" * [[商业|商务]]交流学科<ref group=\"注\"  name=\"商务交流学科\"/>"
+],[
+	"嘉義機場",
+	124,
+	1,
+	"content to be moved out from the table",
+	" 國內航線由[[立榮航空]]營運澎湖及金門共2條航線，主要以ATR72-600機型執飛。"
+],[
+	"四号街站",
+	83,
+	1,
+	"content to be moved out from the table",
+	" ;三号街纺织厂（站位位于三号街，开发大路南侧，C出入口西南约500米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|167|"
+],[
+	"四国大学短期大学部",
+	70,
+	1,
+	"content to be moved out from the table",
+	" * [[人|人类]]健康科\n ** 食物营养专攻\n ** 护理福利专攻<ref group=\"注\"  name=\"护理福利专攻\"/>\n * [[商业|商务]]"
+],[
+	"四国学院短期大学",
+	44,
+	1,
+	"content to be moved out from the table",
+	" * 英语科"
+],[
+	"四天王寺大学短期大学部",
+	51,
+	1,
+	"content to be moved out from the table",
+	" * 生活驾驶学科<ref group=\"注\"  name=\"生活驾驶学科\"/>\n ** 生活设计专攻<ref group=\"注\"  name=\"生活设计专攻\""
+],[
+	"四日市大学短期大学部",
+	59,
+	1,
+	"content to be moved out from the table",
+	" * 幼儿教育学科"
+],[
+	"四条畷学园短期大学",
+	48,
+	1,
+	"content to be moved out from the table",
+	" * 保育学科\n * 生活设计学科<ref group=\"注\"  name=\"生活设计学科\"/>"
+],[
+	"园田学园女子大学短期大学部",
+	62,
+	1,
+	"content to be moved out from the table",
+	" * 生活文化学科\n * 幼儿教育学科"
+],[
+	"围场满族蒙古族自治县各级文物保护单位列表",
+	51,
+	1,
+	"content to be moved out from the table",
+	" *[[北梁遗址]]\n *[[小锥子山古城址]]\n *[[海苏湾遗址]]\n *[[新营子村北梁遗址]]\n *[[潘家店岩画]]"
+],[
+	"国士馆短期大学",
+	45,
+	1,
+	"content to be moved out from the table",
+	" * 日文科"
+],[
+	"国学院大学北海道短期大学部",
+	56,
+	1,
+	"content to be moved out from the table",
+	" * 日本文学科\n * 总合教养学科\n * 幼儿·儿童教育学科"
+],[
+	"国学院大学栃木短期大学",
+	53,
+	1,
+	"content to be moved out from the table",
+	" * 日本文化学科\n * 人类教育学科"
+],[
+	"国际学院埼玉短期大学",
+	51,
+	1,
+	"content to be moved out from the table",
+	" * 健康[[营养学|营养]]学科\n ** [[营养师]]专攻\n ** [[厨师]]专攻<ref group=\"注\"  name=\"厨师专攻\"/>\n * 幼儿保"
+],[
+	"国际短期大学",
+	48,
+	1,
+	"content to be moved out from the table",
+	" * 国际传播学科"
+],[
+	"图书馆短期大学",
+	44,
+	1,
+	"content to be moved out from the table",
+	" * 图书馆学科\n * 文献信息学科"
+],[
+	"國立中興大學文學院",
+	172,
+	1,
+	"content to be moved out from the table",
+	"\n == 出版物 ==\n *[https://web.archive.org/web/20160204065457/http://www.cla.nchu.ed"
+],[
+	"國立暨南國際大學",
+	424,
+	1,
+	"content to be moved out from the table",
+	" *[[梁實秋]]外文系教授、系主任。<ref>{{cite web|url=https://www.sohu.com/a/395158620_656818|t"
+],[
+	"國立臺北科技大學附屬桃園農工高級中等學校",
+	117,
+	1,
+	"content to be moved out from the table",
+	" -----"
+],[
+	"國立臺灣師範大學",
+	628,
+	1,
+	"content to be moved out from the table",
+	" * 2022年，[[QS世界大學排名]]調查，全球第334名。\n * 2023年，[[QS世界大學排名]]調查，全球第332名。\n * 2024年，[[QS世"
+],[
+	"國防安全研究院",
+	133,
+	1,
+	"content to be moved out from the table",
+	"\n == 戰略諮詢委員 ==\n *[[林鎮夷]]（[[中華民國海軍|海軍]][[一級上將]]；[[海軍官校]]58年班；[[中華民國參謀總長|參謀總長]]、[["
+],[
+	"土佐女子短期大学",
+	44,
+	1,
+	"content to be moved out from the table",
+	" * 英语科\n * 秘书科"
+],[
+	"圣和学园短期大学",
+	51,
+	1,
+	"content to be moved out from the table",
+	" * 阅历开发总合学科<ref group=\"注\"  name=\"阅历开发总合学科\"/>\n * 保育福利学科\n ** 保育专攻\n ** 护理福利专攻<ref g"
+],[
+	"圣和短期大学",
+	47,
+	1,
+	"content to be moved out from the table",
+	" * 保育科"
+],[
+	"圣园学园短期大学",
+	42,
+	1,
+	"content to be moved out from the table",
+	" * 保育科"
+],[
+	"圣塞西莉亚女子短期大学",
+	48,
+	1,
+	"content to be moved out from the table",
+	" * 幼儿教育学科"
+],[
+	"圣德大学短期大学部",
+	99,
+	1,
+	"content to be moved out from the table",
+	" * 保育科\n ** 第一部\n ** [[夜校|第二部]]\n ** 函授教育课程<ref group=\"注\"  name=\"函授教育课程\"/>\n * 总合文化学"
+],[
+	"圣德营养短期大学",
+	49,
+	1,
+	"content to be moved out from the table",
+	" * 食物营养学科\n ** 食物营养专攻\n ** 食品科学专攻"
+],[
+	"圣心耳舒拉学园短期大学",
+	55,
+	1,
+	"content to be moved out from the table",
+	" * 食物荣养学科\n * 幼儿教育学科"
+],[
+	"圣母女子短期大学",
+	44,
+	1,
+	"content to be moved out from the table",
+	" * 护理科"
+],[
+	"圣母清心女子短期大学",
+	44,
+	1,
+	"content to be moved out from the table",
+	" * 英文科 "
+],[
+	"圣母被昇天学院女子短期大学",
+	47,
+	1,
+	"content to be moved out from the table",
+	" * [[英语]]科\n * 心理学科"
+],[
+	"圣泉大学短期大学部",
+	48,
+	1,
+	"content to be moved out from the table",
+	" * 信息群体学科"
+],[
+	"圣路加短期大学",
+	43,
+	1,
+	"content to be moved out from the table",
+	" * 护理科"
+],[
+	"圣隶克里斯多福大学护理短期大学部",
+	49,
+	1,
+	"content to be moved out from the table",
+	" * 护理学科"
+],[
+	"圣马利亚学院短期大学",
+	45,
+	1,
+	"content to be moved out from the table",
+	" * [[护理学|护理]]学科"
+],[
+	"在玹",
+	278,
+	1,
+	"content to be moved out from the table",
+	" ===個人單曲==="
+],[
+	"在韩国出道的泰国艺人列表",
+	34,
+	1,
+	"content to be moved out from the table",
+	"\n == 活动中成员 =="
+],[
+	"城建学院站",
+	92,
+	1,
+	"content to be moved out from the table",
+	" ;全运路火石桥大街（站位位于全运路，A出口向北约400米，全运路火石桥大街路口西侧）\n {{沈阳公交线路列表|width=100%|format=|128|1"
+],[
+	"城西短期大学",
+	56,
+	1,
+	"content to be moved out from the table",
+	" * [[商业|商务]]总合学科<ref group=\"注\"  name=\"商务总合学科\">日语:{{lang|ja|ビジネス総合学科}}</ref>"
+],[
+	"基尔",
+	94,
+	1,
+	"content to be moved out from the table",
+	" * {{FRA}}[[布雷斯特]]\n * {{GBR}}[[考文垂]]\n * {{FIN}}[[芬兰]][[瓦萨]]\n * {{POL}}[[波兰]][[格丁"
+],[
+	"埼玉医科大学短期大学",
+	47,
+	1,
+	"content to be moved out from the table",
+	" * 护理学科"
+],[
+	"埼玉县立大学短期大学部",
+	56,
+	1,
+	"content to be moved out from the table",
+	" * 第一[[护理学|护理]]学科\n * 第二[[护理学|护理]]学科<ref group=\"注\"  name=\"第二护理学科招生\"/>\n * [[醫檢師|卫生"
+],[
+	"埼玉大学经济短期大学部",
+	45,
+	1,
+	"content to be moved out from the table",
+	" * [[经济学|经济]]学科　\n ** [[经济学|经济]]专攻\n ** [[工商管理|经营]]专攻"
+],[
+	"埼玉女子短期大学",
+	48,
+	1,
+	"content to be moved out from the table",
+	" * 商学科\n * 国际交流学科<ref group=\"注\"  name=\"国际交流学科\"/>"
+],[
+	"埼玉短期大学",
+	49,
+	1,
+	"content to be moved out from the table",
+	" * 日本文化传播学科<ref group=\"注\"  name=\"日本文化传播学科\"/>\n * 国际传播学科<ref group=\"注\"  name=\"国际传播"
+],[
+	"埼玉纯真短期大学",
+	48,
+	1,
+	"content to be moved out from the table",
+	" * 儿童学科"
+],[
+	"堺女子短期大学",
+	56,
+	1,
+	"content to be moved out from the table",
+	" * 美容生活文化学科"
+],[
+	"塔湾街站",
+	79,
+	1,
+	"content to be moved out from the table",
+	" ;中海寰宇天下西（站位位于塔湾街两侧，D出入口出站向南约250米，交通岗南侧）\n {{沈阳公交线路列表|width=100%|format=|205|233|"
+],[
+	"墙外 (迈克尔·杰克逊专辑)",
+	288,
+	1,
+	"content to be moved out from the table",
+	"\n [[Category:麥可·傑克森音樂專輯]]\n [[Category:1979年音樂專輯]]\n [[Category:史诗唱片音乐专辑]]"
+],[
+	"士曼丹站",
+	55,
+	1,
+	"content to be moved out from the table",
+	" <br>"
+],[
+	"壹號皇庭V",
+	678,
+	1,
+	"content to be moved out from the table",
+	" 指控楊是策劃殺害余與江的主腦，幸好余與江無事"
+],[
+	"夏朝冠",
+	14,
+	1,
+	"content to be moved out from the table",
+	" <gallery>\n File:皇朝礼器图式.卷04至07.冠服.总十八卷.清.允禄.蒋溥等纂修.清乾隆时期武英殿刊本-1-250-5 (5119342749"
+],[
+	"多摩美术短期大学",
+	45,
+	1,
+	"content to be moved out from the table",
+	" * [[绘画]][[科系|科]]\n * 造型[[设计|图案]][[科系|科]]\n * [[雕塑]]科"
+],[
+	"夢想沙龍娛樂文化",
+	38,
+	1,
+	"content to be moved out from the table",
+	" | width=\"200\"  | 傅又宣 ([[傅珮嘉]]) || width=\"200\"  | [[盛君]] || width=\"200\"  | [[蔚雨芯"
+],[
+	"大仁科技大學",
+	170,
+	1,
+	"content to be moved out from the table",
+	"\n ==學校聲譽==\n *2017年7月，遠見雜誌公布2017年台灣最佳大學排行榜，大仁科技大學是非醫學技職類大學排名全國科大排名第16名，全國私立科大排名第7"
+],[
+	"大分县立艺术文化短期大学",
+	61,
+	1,
+	"content to be moved out from the table",
+	" * 美术科\n ** 美术专攻\n ** 设计专攻\n ** <del>生活艺术专攻</del><ref group=\"注\"  name=\"生活艺术专攻招生\"/>\n"
+],[
+	"大分女子短期大学",
+	46,
+	1,
+	"content to be moved out from the table",
+	" * 保育[[科系|科]]\n ** 第一部\n ** 第三部"
+],[
+	"大分短期大学",
+	42,
+	1,
+	"content to be moved out from the table",
+	" * 园艺科"
+],[
+	"大和大学白凤短期大学部",
+	54,
+	1,
+	"content to be moved out from the table",
+	" * 总合人类学科\n ** 国际人类学专攻\n ** 儿童教育专攻\n ** 护理学专攻\n ** 复健医学专攻"
+],[
+	"大垣女子短期大学",
+	56,
+	1,
+	"content to be moved out from the table",
+	" * 幼儿教育科\n ** 第一部\n ** 第三部<ref group=\"注\"  name=\"幼儿教育科第三部\"/>\n * [[设计]][[美术]]科<ref g"
+],[
+	"大妻女子大学短期大学部",
+	67,
+	1,
+	"content to be moved out from the table",
+	" * 家政科\n ** <del>第一部</del>\n *** 家政专攻\n *** 食物营养专攻\n *** 生活总合[[商业|商务]]专攻<ref group=\""
+],[
+	"大山脚奕南园日新国民型华文中学",
+	78,
+	1,
+	"content to be moved out from the table",
+	" == 参见 ==\n {{Portal box|马来西亚|教育}}\n *[[马来西亚中学列表]]\n *[[国民型华文中学]]\n\n == 参考资料 ==\n {{r"
+],[
+	"大手前短期大学",
+	54,
+	1,
+	"content to be moved out from the table",
+	" * 生活设计总合学科<ref group=\"注\"  name=\"生活设计总合学科\"/>\n * <del>秘书科</del><ref group=\"注\"  na"
+],[
+	"大月短期大学",
+	43,
+	1,
+	"content to be moved out from the table",
+	" * 经济科"
+],[
+	"大谷大学短期大学部",
+	56,
+	1,
+	"content to be moved out from the table",
+	" * [[佛教]]科\n * 幼儿教育保育科"
+],[
+	"大通湖街站",
+	94,
+	1,
+	"content to be moved out from the table",
+	" ;大通湖街地铁站（站位位于大通湖街，B出入口外终到，D出入口旁始发）\n {{沈阳公交线路列表|width=100%|format=|end=yes|V135}"
+],[
+	"大阪产业大学短期大学部",
+	62,
+	1,
+	"content to be moved out from the table",
+	" * [[汽车|自动车]][[工学]]科<ref group=\"注\"  name=\"自动车工学科\"/>"
+],[
+	"大阪信爱学院短期大学",
+	52,
+	1,
+	"content to be moved out from the table",
+	" * 初等教育学科\n * 护理学科"
+],[
+	"大阪健康福祉短期大学",
+	47,
+	1,
+	"content to be moved out from the table",
+	"\n * 护理福利学科<ref group=\"注\"  name=\"护理福利学科\">日语:{{lang|ja|介護福祉学科}}</ref>\n ** 第一部\n ** "
+],[
+	"大阪千代田短期大学",
+	45,
+	1,
+	"content to be moved out from the table",
+	" * 幼儿教育科\n * 总合传播学科"
+],[
+	"大阪国际大学短期大学部",
+	60,
+	1,
+	"content to be moved out from the table",
+	" * 生活设计总合学科<ref group=\"注\"  name=\"生活设计总合学科\"/>\n * 幼儿保育学科"
+],[
+	"大阪城南女子短期大学",
+	51,
+	1,
+	"content to be moved out from the table",
+	" * 现代生活学科\n * 总合保育学科\n * [[人类]]福利学科"
+],[
+	"大阪基督教短期大学",
+	58,
+	1,
+	"content to be moved out from the table",
+	"\n * 幼儿教育学科\n * 国际教养学科"
+],[
+	"大阪夕阳丘学园短期大学",
+	55,
+	1,
+	"content to be moved out from the table",
+	" * [[职业]]创造学科<ref group=\"注\"  name=\"职业创造学科\"/>\n * 食物营养学科"
+],[
+	"大阪外国语大学短期大学部",
+	49,
+	1,
+	"content to be moved out from the table",
+	" * [[英语]]科[[夜校|第二部]]\n * [[西班牙语]]科[[夜校|第二部]]\n * [[汉语]]科[[夜校|第二部]]\n * [[德语]]科[[夜校|"
+],[
+	"大阪大学医疗技术短期大学部",
+	47,
+	1,
+	"content to be moved out from the table",
+	" * 护理学科<ref name=\"短期大学护理学科的历史\"/> \n * 诊疗[[醫事放射師|放射线]]技术学科<ref name=\"短期大学放射线技术学科的历"
+],[
+	"大阪大學醫學部附屬醫院",
+	78,
+	1,
+	"content to be moved out from the table",
+	" === 藥劑部 ===\n === 看護部 ===\n === 醫療技術部 ===\n === 未來醫療開發部 ===\n 未來醫療中心、臨床研究中心、資料中心、國際"
+],[
+	"大阪大谷大学短期大学部",
+	55,
+	1,
+	"content to be moved out from the table",
+	" * 生活创造学科"
+],[
+	"大阪女子短期大学",
+	56,
+	1,
+	"content to be moved out from the table",
+	" * 生活科学科\n ** 生活演出专攻<ref group=\"注\"  name=\"生活演出专攻\"/>\n ** [[食物]][[营养学|营养]]专攻\n * 幼儿教"
+],[
+	"大阪女学院短期大学",
+	42,
+	1,
+	"content to be moved out from the table",
+	" * 英语科"
+],[
+	"大阪学院大学短期大学部",
+	56,
+	1,
+	"content to be moved out from the table",
+	" * 经营实际业务科<ref group=\"注\"  name=\"经营实际业务科\"/>"
+],[
+	"大阪工业大学短期大学部",
+	53,
+	1,
+	"content to be moved out from the table",
+	" * 建筑学科\n * [[土木工程|土木工学]]科\n * [[电|电气]]工学科\n * 机械工学科[[夜校|第二部]]"
+],[
+	"大阪市立大学护理短期大学部",
+	42,
+	1,
+	"content to be moved out from the table",
+	" * 护理学科"
+],[
+	"大阪府立大学农业短期大学部",
+	47,
+	1,
+	"content to be moved out from the table",
+	" * 农业科\n * 农产制造化学科"
+],[
+	"大阪府立大学工业短期大学部",
+	57,
+	1,
+	"content to be moved out from the table",
+	" * 机械科[[夜校|第二部]]\n * [[电|电气]]科[[夜校|第二部]]\n * 熔接科[[夜校|第二部]]"
+],[
+	"大阪府立护理大学医疗技术短期大学部",
+	50,
+	1,
+	"content to be moved out from the table",
+	" * 第二护理学科"
+],[
+	"大阪成蹊短期大学",
+	74,
+	1,
+	"content to be moved out from the table",
+	" * 总合生活学科\n * 国际交流学科<ref group=\"注\"  name=\"国际交流学科\"/>\n * 学前教育学科\n * [[旅游|观光旅游]]学科\n *"
+],[
+	"大阪明净女子短期大学",
+	43,
+	1,
+	"content to be moved out from the table",
+	" * 英语科\n * 文艺科"
+],[
+	"大阪樟荫女子大学短期大学部",
+	47,
+	1,
+	"content to be moved out from the table",
+	" * 职业设计学科<ref group=\"注\"  name=\"职业设计学科\"/>"
+],[
+	"大阪电气通信大学短期大学部",
+	48,
+	1,
+	"content to be moved out from the table",
+	" * 电子信息学科"
+],[
+	"大阪短期大学",
+	45,
+	1,
+	"content to be moved out from the table",
+	" * 经营信息学科\n ** 经营信息专攻\n ** [[商业|商务]]专攻"
+],[
+	"大阪社会事业短期大学",
+	49,
+	1,
+	"content to be moved out from the table",
+	" * 社会事业学科\n ** 社会事业专攻 \n ** 保育专攻 \n * 产业福祉学科 "
+],[
+	"大阪艺术大学短期大学部",
+	88,
+	1,
+	"content to be moved out from the table",
+	" * 英美文化学科\n * 保育学科\n ** 第一部\n ** 函授教育课程\n * 设计美术学科\n ** 第一部\n ** 函授教育课程\n * 媒体·艺术学科<ref"
+],[
+	"大阪薰英女子短期大学",
+	53,
+	1,
+	"content to be moved out from the table",
+	" * 健康营养学科\n * 儿童教育学科"
+],[
+	"大阪青山大学短期大学部",
+	57,
+	1,
+	"content to be moved out from the table",
+	" * 幼儿教育・保育科\n * [[烹饪]]・[[糖果糕点|制果]]学科<ref group=\"注\"  name=\"烹饪・制果学科\"/>"
+],[
+	"大阪音乐大学短期大学部",
+	51,
+	1,
+	"content to be moved out from the table",
+	" * 音乐科"
+],[
+	"天使女子短期大学",
+	47,
+	1,
+	"content to be moved out from the table",
+	" * 卫生护理学科\n * 食物营养学科"
+],[
+	"天官賜福 (小說)",
+	152,
+	1,
+	"content to be moved out from the table",
+	" :第一季"
+],[
+	"天成街站",
+	92,
+	1,
+	"content to be moved out from the table",
+	" ;奥体中心北门（站位位于天赐街，C出入口向西约300米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|浑雷}}"
+],[
+	"天母",
+	117,
+	1,
+	"content to be moved out from the table",
+	"\n ==天母商圈==\n [[File:Dayeh-Takashimaya.jpg|缩略图|天母老字號的百貨公司──[[大葉高島屋]]]]\n [[File:新光三"
+],[
+	"天理大学女子短期大学部",
+	54,
+	1,
+	"content to be moved out from the table",
+	" * 生活科\n * 保育科"
+],[
+	"太原街站",
+	122,
+	1,
+	"content to be moved out from the table",
+	" ;沈阳古玩城/南京街北二马路（站位设于南京北街，B出入口向北约180米）\n {{沈阳公交线路列表|width=100%|format=|end=yes|115"
+],[
+	"太和街道 (大理市)",
+	56,
+	1,
+	"content to be moved out from the table",
+	"\n == 大理市文物保护单位<ref>{{Cite book|title=大理市文化志|last=大理市文化丛书编辑委员会 编|publisher=云南民族出版"
+],[
+	"奈良佐保短期大学",
+	54,
+	1,
+	"content to be moved out from the table",
+	" * 生活未来科\n * 地区儿童学科  "
+],[
+	"奈良县立医科大学护理短期大学部",
+	43,
+	1,
+	"content to be moved out from the table",
+	" * 护理学科"
+],[
+	"奈良县立短期大学",
+	43,
+	1,
+	"content to be moved out from the table",
+	" * 商经学科"
+],[
+	"奈良学园大学奈良文化女子短期大学部",
+	76,
+	1,
+	"content to be moved out from the table",
+	" * 幼儿教育学科"
+],[
+	"奈良艺术短期大学",
+	46,
+	1,
+	"content to be moved out from the table",
+	" * 美术科"
+],[
+	"奥体中心站 (沈阳市)",
+	123,
+	1,
+	"content to be moved out from the table",
+	" ;奥体中心地铁站（浑南四路站位，A出入口对面，花园城购物中心南门）\n {{沈阳公交线路列表|width=100%|format=|end=yes|388|V1"
+],[
+	"奥地利",
+	345,
+	1,
+	"content to be moved out from the table",
+	" === 飲食 ===\n {{main|奧地利飲食}}\n === 传统节日 ==="
+],[
+	"奥斯卡最佳原创剧本奖",
+	37,
+	1,
+	"content to be moved out from the table",
+	" [[1940年电影|1940年]]（[[第13届奥斯卡金像奖|第13届]]）\n *'''《{{link-en|江湖异人传|The Great McGinty}"
+],[
+	"奥斯汀马刺",
+	115,
+	1,
+	"content to be moved out from the table",
+	" * [[奥斯丁·达耶]]\n * [[南多·德科洛]]\n * [[丹尼·格林]]\n * [[科里·约瑟夫]]\n * [[马库斯·费泽尔]]\n * [[杰拉德·格"
+],[
+	"奥特马·希茨费尔德",
+	149,
+	1,
+	"content to be moved out from the table",
+	" *<sup>a</sup>他在第三轮资格赛赢得两场比赛.\n *<sup>b</sup>接手时，拜仁在德国杯中已经被淘汰出局."
+],[
+	"奧斯卡最佳改編劇本獎",
+	51,
+	1,
+	"content to be moved out from the table",
+	" '''[[1927/1928]] （[[第1屆奧斯卡金像獎|第1屆]]）'''{{NoteTag|該年度獎項名稱為「'''最佳寫作，改編'''」(Best W"
+],[
+	"女子圣学院短期大学",
+	47,
+	1,
+	"content to be moved out from the table",
+	" * 英文科\n * 日文科\n * <del>儿童教育学科</del><ref group=\"注\"  name=\"儿童教育学科招生\"/>\n ** <del>初等教"
+],[
+	"女子美术大学短期大学部",
+	64,
+	1,
+	"content to be moved out from the table",
+	" * 造型学科"
+],[
+	"女子营养大学短期大学部",
+	54,
+	1,
+	"content to be moved out from the table",
+	" * [[食物]][[营养学|营养]]学科\n ** 第一部\n ** <del>[[夜校|第二部]]</del><ref group=\"注\"  name=\"第二部"
+],[
+	"委內瑞拉公民簽證要求",
+	350,
+	1,
+	"content to be moved out from the table",
+	" [https://www.timaticweb.com/cgi-bin/tim_client.cgi?ExpertMode=TIDFT/MO/VI/IS/ID"
+],[
+	"姚政",
+	94,
+	1,
+	"content to be moved out from the table",
+	" *2007年 [[快乐男声2007]]\n *2022年 [[快乐再出发]]\n *2023年 [[快乐再出发]]2\n *2023年 [[來活了兄弟]]\n *20"
+],[
+	"姚焯菲",
+	387,
+	1,
+	"content to be moved out from the table",
+	" *[[張馳豪]]、[[潘靜文]]、[[冼靖峰]]、[[詹天文]]、姚焯菲、[[何晉樂]]、[[黃奕斌]] - 拼圖（詞；與張馳豪、潘靜文、冼靖峰、詹天文、何晉"
+],[
+	"姜成勳",
+	328,
+	1,
+	"content to be moved out from the table",
+	" ;2015年－現今"
+],[
+	"姬路学院女子短期大学",
+	45,
+	1,
+	"content to be moved out from the table",
+	" * 儿童教育科\n * 英语沟通科"
+],[
+	"姬路日之本短期大学",
+	49,
+	1,
+	"content to be moved out from the table",
+	" * 幼儿教育科"
+],[
+	"姬路短期大学",
+	57,
+	1,
+	"content to be moved out from the table",
+	" * 生活环境学科\n * 食物营养学科\n * 幼儿教育学科\n * 经营情报学科"
+],[
+	"媽，親一下！",
+	235,
+	1,
+	"content to be moved out from the table",
+	" *企劃：蔡菁怡、林韋葶（[[林予晞]]）\n *商務整合：黃瀞儀、張喜寧\n *藝人統籌：劉珈妍\n *藝人管理：洪源聰\n *公關宣傳：傅明雅、張馨文、蘇鈺婷、陳怡"
+],[
+	"孙燕姿 (专辑)",
+	149,
+	1,
+	"content to be moved out from the table",
+	"\n *[[中華音樂人交流協會]]2000年十大優良單曲〈天黑黑〉\n * [http://www.books.com.tw/activity/2008/12/20"
+],[
+	"孝明天皇",
+	114,
+	1,
+	"content to be moved out from the table",
+	" </table>\n\n == 靈廟・陵墓 ==\n 陵墓仿造以前古代[[佛教]]石塔，葬在江戶時代歷任天皇之幕所[[月輪陵]]所在的[[京都府]][[京都市]]["
+],[
+	"孝琳",
+	1085,
+	1,
+	"content to be moved out from the table",
+	" == 獲獎與提名列表==\n\n === 大型頒獎典禮獎項 ==="
+],[
+	"孟澔",
+	118,
+	1,
+	"content to be moved out from the table",
+	" 好"
+],[
+	"孤山口站",
+	28,
+	1,
+	"content to be moved out from the table",
+	" 最新日期:2013年7月25日的'''孤山口'''火車站的時刻列表"
+],[
+	"学习院女子短期大学",
+	51,
+	1,
+	"content to be moved out from the table",
+	" * 人文学科\n ** 日文学专攻\n ** 英语专攻\n *** 一类<ref group=\"注\"  name=\"英语专攻一类\"/>\n *** 二类<ref gr"
+],[
+	"宁波商帮",
+	4,
+	1,
+	"content to be moved out from the table",
+	" [[File:Yu Qiaqing.jpg|thumb|130px|[[虞洽卿]]]]\n [[File:Zhu Baosan.jpg|thumb|130px|"
+],[
+	"宇部工业短期大学",
+	44,
+	1,
+	"content to be moved out from the table",
+	" * [[机械工程|机械]]科\n * [[電機工程學|电机]]科"
+],[
+	"宇部边境大学短期大学部",
+	78,
+	1,
+	"content to be moved out from the table",
+	" * 保育学科\n * 食物营养学科"
+],[
+	"宇都宫文星短期大学",
+	45,
+	1,
+	"content to be moved out from the table",
+	" * 地区总合文化学科"
+],[
+	"宇都宫短期大学",
+	51,
+	1,
+	"content to be moved out from the table",
+	" * 音乐科\n * [[人|人间]]福利学科\n ** [[社会福利]]专攻\n ** 护理福利专攻\n ** <del>幼儿福利专攻</del><ref group"
+],[
+	"安城学园大学短期大学部",
+	43,
+	1,
+	"content to be moved out from the table",
+	" * 幼儿教育科"
+],[
+	"安堂機器人",
+	74,
+	1,
+	"content to be moved out from the table",
+	" *註冊號： 012-0620-19836-1014-052-13\n *所屬：  SQUADRON ARX II。\n *作業系統： 湯川系統，阿修羅系統。\n *"
+],[
+	"安妮 (藝人)",
+	99,
+	1,
+	"content to be moved out from the table",
+	"\n ==主持作品==\n ===電視節目==="
+],[
+	"安娜斯塔西亞·波塔波娃",
+	97,
+	1,
+	"content to be moved out from the table",
+	"\n == 參考資料 ==\n {{Reflist}}\n\n == 外部連結 ==\n *{{WTA|325601}}\n *{{ITF Profile|id=80038"
+],[
+	"安崎",
+	132,
+	1,
+	"content to be moved out from the table",
+	"\n === 單曲 ==="
+],[
+	"安田女子短期大学",
+	49,
+	1,
+	"content to be moved out from the table",
+	" * 保育科"
+],[
+	"安英美",
+	45,
+	1,
+	"content to be moved out from the table",
+	" |1999年||KBS|| 傻瓜俱樂部2  ||"
+],[
+	"安茱莉亚·提奥多亚",
+	257,
+	1,
+	"content to be moved out from the table",
+	"\n\n {{DEFAULTSORT:Andrea}}\n [[Category:保加利亞女歌手]]\n [[Category:流行音乐歌手]]\n [[Category"
+],[
+	"宝仙学园短期大学",
+	49,
+	1,
+	"content to be moved out from the table",
+	" * 保育学科"
+],[
+	"宝冢造型艺术大学短期大学部",
+	50,
+	1,
+	"content to be moved out from the table",
+	" * 设计美术科"
+],[
+	"实践女子大学短期大学部",
+	54,
+	1,
+	"content to be moved out from the table",
+	" * 日语沟通学科<ref group=\"注\"  name=\"日语沟通学科\"/>\n * 英语沟通学科<ref group=\"注\"  name=\"英语沟通学科\"/"
+],[
+	"室兰工业大学短期大学部",
+	43,
+	1,
+	"content to be moved out from the table",
+	" * 机械科[[夜校|第二部]]\n * [[电|电气]]科[[夜校|第二部]]"
+],[
+	"宫城县农业短期大学",
+	48,
+	1,
+	"content to be moved out from the table",
+	" * [[农业]]科\n * [[畜牧业|畜产]]科\n * 农业土木科\n * 园艺科"
+],[
+	"宫城学院女子短期大学",
+	51,
+	1,
+	"content to be moved out from the table",
+	" * 家政科\n ** 家政专攻\n ** 食物营养专攻\n * 保育科\n * <del>教养科</del><ref group=\"注\"  name=\"教养科招生\"/"
+],[
+	"宫城诚真短期大学",
+	45,
+	1,
+	"content to be moved out from the table",
+	" * 保育科"
+],[
+	"宫崎学园短期大学",
+	46,
+	1,
+	"content to be moved out from the table",
+	" * 现代[[商业|商务]]科\n * 保育科\n * 初等教育科\n * 音乐科"
+],[
+	"家用電源列表",
+	48,
+	1,
+	"content to be moved out from the table",
+	" [[Image:A plug.jpg|thumb|100px|A (NEMA 1-15美式2接腳)]]"
+],[
+	"宸頤",
+	129,
+	1,
+	"content to be moved out from the table",
+	" <ref>{{cite web|title=范少勳師妹出席釜山影展　映後神回應逗樂觀眾|url=https://www.ctwant.com/article/"
+],[
+	"富士菲尼克斯短期大学",
+	48,
+	1,
+	"content to be moved out from the table",
+	" * 日本语日本文学科<ref group=\"注\"  name=\"日本语日本文学科招生\"/>\n * 英语英美文学科"
+],[
+	"富士见丘女子短期大学",
+	49,
+	1,
+	"content to be moved out from the table",
+	" * 文科\n ** 日文专攻\n ** 英文专攻\n * 家政科\n ** 家政专攻\n ** 食物营养专攻"
+],[
+	"富山县立大学短期大学部",
+	66,
+	1,
+	"content to be moved out from the table",
+	" * 环境系统工学科"
+],[
+	"富山大学经营短期大学部",
+	45,
+	1,
+	"content to be moved out from the table",
+	" * [[工商管理学|经营]]学科[[夜校|第二部]]\n ** [[管理学|经营管理]]专攻\n ** 经营・法律专攻"
+],[
+	"富山短期大学",
+	58,
+	1,
+	"content to be moved out from the table",
+	" * 食物营养学科\n * 保育学科\n * [[管理信息系统|管理信息]]学科\n * 福利学科"
+],[
+	"富山福祉短期大学",
+	47,
+	1,
+	"content to be moved out from the table",
+	" * 社会福利学科\n ** 社会福利专攻\n ** 护理福利专攻\n * 护理学科\n * 幼儿教育学科"
+],[
+	"富山輕軌TLR0600型電車",
+	48,
+	1,
+	"content to be moved out from the table",
+	" + "
+],[
+	"寻雾启示",
+	23,
+	1,
+	"content to be moved out from the table",
+	" 全碟詞曲：許嵩"
+],[
+	"將軍澳市中心",
+	118,
+	1,
+	"content to be moved out from the table",
+	" ;[[港鐵]]\n *{{港鐵路線標誌|TKL}}：[[坑口站 (香港)|坑口站]]B2出口、[[將軍澳站]]\n *{{港鐵路線標誌|KTL}}、{{港鐵路線標"
+],[
+	"將軍澳運動場",
+	131,
+	1,
+	"content to be moved out from the table",
+	" *1條至少長300米的環形跑道和1條長120米的直線跑道\n *田賽<ref>即[[跳遠]]、[[三級跳]]、[[撐竿跳]]、[[跳高]]、[[推鉛球]]、[["
+],[
+	"小松短期大学",
+	46,
+	1,
+	"content to be moved out from the table",
+	" * 地区创造学科<ref group=\"注\"  name=\"地区创造学科\"/>　"
+],[
+	"小楼又东风",
+	98,
+	1,
+	"content to be moved out from the table",
+	"\n == 收視率 =="
+],[
+	"小樽商科大学短期大学部",
+	43,
+	1,
+	"content to be moved out from the table",
+	" * 商业学科"
+],[
+	"小樽短期大学",
+	48,
+	1,
+	"content to be moved out from the table",
+	" * 英语・经营实际业务科"
+],[
+	"小田原短期大学",
+	45,
+	1,
+	"content to be moved out from the table",
+	" * 食物营养学科\n * 保育学科\n ** 第一部\n ** 函授教育课程"
+],[
+	"尚义县各级文物保护单位列表",
+	40,
+	1,
+	"content to be moved out from the table",
+	" *[[新庙村北遗址]]"
+],[
+	"尚絅大學短期大學部",
+	49,
+	1,
+	"content to be moved out from the table",
+	" * 总合生活学科\n * 食物营养学科\n * 幼儿教育学科"
+],[
+	"尚絅学院大学女子短期大学部",
+	61,
+	1,
+	"content to be moved out from the table",
+	" * 保育科"
+],[
+	"尚美学园短期大学",
+	49,
+	1,
+	"content to be moved out from the table",
+	" * [[音乐]]学科\n ** 器乐专攻\n ** [[声乐]]专攻\n ** [[音乐创作|作曲]]专攻\n * 音乐信息学科\n * 音乐[[商业|商务]]学科\n "
+],[
+	"就实短期大学",
+	49,
+	1,
+	"content to be moved out from the table",
+	" * 生活实践科学科\n * 幼儿教育学科"
+],[
+	"屏東縣各級學校列表",
+	5,
+	1,
+	"content to be moved out from the table",
+	" <!--{|border=\"1\"  algin=left-->\n ===綜合大學==="
+],[
+	"屠潔",
+	75,
+	1,
+	"content to be moved out from the table",
+	" ===廣播節目==="
+],[
+	"山东泰山足球俱乐部",
+	1187,
+	1,
+	"content to be moved out from the table",
+	"\n == 赞助商 =="
+],[
+	"山口大学医疗技术短期大学部",
+	45,
+	1,
+	"content to be moved out from the table",
+	" * 护理学科\n * [[醫檢師|卫生技术]]学科"
+],[
+	"山口大学工业短期大学部",
+	51,
+	1,
+	"content to be moved out from the table",
+	" * [[机械工程]]学科[[夜学|第二部]]\n * 工业化学科[[夜学|第二部]]\n * [[電機工程學|电机工程学科]][[夜学|第二部]]\n * [[土木"
+],[
+	"山口女子短期大学",
+	50,
+	1,
+	"content to be moved out from the table",
+	" * 日文科\n * 保育科\n * 家政科\n ** [[服装]]专攻<ref group=\"注\"  name=\"服装专攻\"/>\n ** 食物专攻"
+],[
+	"山口短期大学",
+	51,
+	1,
+	"content to be moved out from the table",
+	" * <del>[[通信工程|通信工程学科]]</del><ref group=\"注\"  name=\"通信工程学科\"/><ref group=\"注\"  name"
+],[
+	"山口艺术短期大学",
+	55,
+	1,
+	"content to be moved out from the table",
+	" * 艺术表现学科\n * 保育学科"
+],[
+	"山城区各级文物保护单位列表",
+	18,
+	1,
+	"content to be moved out from the table",
+	" *[[石林会议旧址]]（4-6）\n *[[李家大院]]（5-112）"
+],[
+	"山崎动物护理短期大学",
+	51,
+	1,
+	"content to be moved out from the table",
+	" * 动物护理学科<ref group=\"注\"  name=\"动物护理学科\">日语:{{lang|ja|動物看護学科}}</ref>"
+],],"batches":9}

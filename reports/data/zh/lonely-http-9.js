@@ -1,1 +1,1201 @@
-window.data={"articles":[["于少保萃忠全傳",10,218,"lonely \"ISBN\"","ISBN"],["于楓 (歌手)",72,358,"lonely \"https://\"","https://"],["云润",6,185,"lonely \"ISBN\"","ISBN"],["互联网低比特率编解码器",53,9,"lonely \"RFC\"","RFC"],["互联网媒体类型",56,222,"lonely \"RFC\"","RFC"],["互联网控制消息协议",326,72,"lonely \"RFC\"","RFC"],["互联网标准",5,111,"lonely \"RFC\"","RFC"],["五囝仙偷走的祕密",115,3,"lonely \"ISBN\"","ISBN"],["五禽戏",68,117,"lonely \"ISBN\"","ISBN"],["亚伦·斯沃茨",130,364,"lonely \"RFC\"","RFC"],["亚历山大·伊凡诺维奇·库普林",74,21,"lonely \"ISBN\"","ISBN"],["亚历山大·米勒兰",40,80,"lonely \"ISBN\"","ISBN"],["亚太互联网络信息中心",38,93,"lonely \"RFC\"","RFC"],["亚斯里语支",268,45,"lonely \"http://\"","http://"],["亚洲LGBT权益",43,360,"lonely \"http://\"","http://"],["亞伯特·費雪",44,35,"lonely \"ISBN\"","ISBN"],["亞利馬太的約瑟",20,60,"lonely \"http://\"","http://"],["亞細亞的孤兒",47,115,"lonely \"ISBN\"","ISBN"],["亞蔬—世界蔬菜中心",34,78,"lonely \"http://\"","http://"],["亞速 (城市)",92,477,"lonely \"https://\"","https://"],["交趾刺史部",66,40,"lonely \"ISBN\"","ISBN"],["交際花",157,39,"lonely \"ISBN\"","ISBN"],["产业政策",14,204,"lonely \"http://\"","http://"],["产褥热",106,568,"lonely \"ISBN\"","ISBN"],["产鬼",1,170,"lonely \"ISBN\"","ISBN"],["亨利·法约尔",3,208,"lonely \"ISBN\"","ISBN"],["亨利·米勒",24,588,"lonely \"http://\"","http://"],["人民冲锋队",25,159,"lonely \"ISBN\"","ISBN"],["人猿星球 (小说)",54,5,"lonely \"ISBN\"","ISBN"],["人獸形玉器",27,136,"lonely \"http://\"","http://"],["人类学",35,212,"lonely \"ISBN\"","ISBN"],["人类阴茎尺寸",246,108,"lonely \"https://\"","https://"],["人間道",25,782,"lonely \"https://\"","https://"],["人類線粒體DNA單倍體群",15,383,"lonely \"http://\"","http://"],["仁和 (日本)",43,30,"lonely \"ISBN\"","ISBN"],["仁壽 (日本)",40,29,"lonely \"ISBN\"","ISBN"],["仁安 (日本)",39,29,"lonely \"ISBN\"","ISBN"],["仁平 (日本)",39,29,"lonely \"ISBN\"","ISBN"],["仁治",35,29,"lonely \"ISBN\"","ISBN"],["仁科芳雄",46,46,"lonely \"ISBN\"","ISBN"],["仁记洋行天津分行大楼",35,30,"lonely \"ISBN\"","ISBN"],["付喪神",12,71,"lonely \"ISBN\"","isbn"],["仙劍奇俠傳五",23,60,"lonely \"http://\"","http://"],["代数拓扑",77,80,"lonely \"ISBN\"","ISBN"],["代理",20,472,"lonely \"ISBN\"","ISBN"],["令狐安",44,86,"lonely \"http://\"","http://"],["以仁王舉兵",46,72,"lonely \"ISBN\"","ISBN"],["以太网",144,242,"lonely \"ISBN\"","ISBN"],["以鸟类为载体的网际协议",48,65,"lonely \"RFC\"","RFC"],["仪表着陆系统",98,294,"lonely \"http:/\"","http:/"],["任播",23,93,"lonely \"RFC\"","RFC"],["任詠華",46,33,"lonely \"http://\"","http://"],["伊丕灰蝶屬",29,86,"lonely \"ISBN\"","ISBN"],["伊利亚·基瓦",50,815,"lonely \"https://\"","https://"],["伊吾保卫战",47,394,"lonely \"ISBN\"","ISBN"],["伊宁事变",40,577,"lonely \"ISBN\"","isbn"],["伊戈",70,218,"lonely \"ISBN\"","ISBN"],["伊拉克复兴党政权",41,189,"lonely \"https://\"","https://"],["伊曲康唑",75,586,"lonely \"http://\"","http://"],["伊東由佳里",30,12,"lonely \"http://\"","http://"],["伊格尔·古琴科",27,78,"lonely \"ISBN\"","ISBN"],["伊王野女王狂熱的愛情",115,99,"lonely \"ISBN\"","ISBN"],["伊能靜",1035,25,"lonely \"ISBN\"","ISBN"],["伊萨克·卡索邦",23,111,"lonely \"ISBN\"","Isbn"],["伊達市 (北海道)",37,103,"lonely \"http://\"","http://"],["伍拉·賴國際機場",39,911,"lonely \"http://\"","http://"],["伍朝樞",38,139,"lonely \"ISBN\"","ISBN"],["伍汉霖",41,120,"lonely \"ISBN\"","ISBN"],["伍精华",51,24,"lonely \"ISBN\"","ISBN"],["伐爾得斯",14,84,"lonely \"ISBN\"","ISBN"],["伙食灶别",40,105,"lonely \"ISBN\"","ISBN"],["会审公廨",190,136,"lonely \"ISBN\"","ISBN"],["传输控制协议",100,2,"lonely \"RFC\"","RFC"],["伯利恆",160,124,"lonely \"ISBN\"","ISBN"],["伯力審判",226,49,"lonely \"ISBN\"","ISBN"],["伯帝镇",222,58,"lonely \"http://\"","http://"],["伯特兰·罗素",108,242,"lonely \"ISBN\"","ISBN"],["伶话",21,42,"lonely \"ISBN\"","ISBN"],["住左邊住右邊",330,4,"lonely \"ISBN\"","ISBN"],["佐世保中央車站",68,82,"lonely \"ISBN\"","ISBN"],["佐佐車站",82,82,"lonely \"ISBN\"","ISBN"],["何敬堯",50,41,"lonely \"ISBN\"","ISBN"],["何韻詩",2263,236,"lonely \"ISBN\"","ISBN"],["余切丛",31,97,"lonely \"ISBN\"","ISBN"],["余秋雨",114,911,"lonely \"ISBN\"","ISBN"],["余英時",105,28,"lonely \"ISBN\"","ISBN"],["佛",2,1010,"lonely \"http://\"","http://"],["佛光山佛陀紀念館",322,50,"lonely \"ISBN\"","ISBN"],["佛山市",63,36,"lonely \"https://\"","https://"],["佛朗哥·魯基尼",70,357,"lonely \"ISBN\"","ISBN"],["佤語",262,46,"lonely \"http://\"","http://"],["佩德罗·贝鲁格特",22,91,"lonely \"ISBN\"","ISBN"],["佩拉博物馆",25,98,"lonely \"ISBN\"","ISBN"],["侏儒 (北歐神話)",43,329,"lonely \"ISBN\"","ISBN"],["侏儒蟒屬",8,317,"lonely \"ISBN\"","ISBN"],["依麗莎白·顧姬",49,22,"lonely \"ISBN\"","ISBN"],["侯佩岑",301,92,"lonely \"ISBN\"","ISBN"],["侯文詠",169,26,"lonely \"ISBN\"","ISBN"],["俄亥俄大学",20,81,"lonely \"https://\"","https://"],["俄罗斯历史",8,550,"lonely \"ISBN\"","ISBN"],["俄羅斯教育",296,887,"lonely \"http:/\"","http:/"],["俄羅斯經濟",57,1348,"lonely \"https://\"","https://"],["俄羅斯聯邦併吞克里米亞",71,300,"lonely \"https://\"","https://"],["俄造M1902式762野砲",109,41,"lonely \"ISBN\"","ISBN"],["俄造M1909式762山炮",21,38,"lonely \"ISBN\"","ISBN"],["俗字",22,101,"lonely \"https://\"","https://"],["保元",42,29,"lonely \"ISBN\"","ISBN"],["保元之亂",75,72,"lonely \"ISBN\"","ISBN"],["保守百科",99,233,"lonely \"http://\"","http://"],["保安 (日本)",54,29,"lonely \"ISBN\"","ISBN"],["保延",53,29,"lonely \"ISBN\"","ISBN"],["保科洋",37,37,"lonely \"ISBN\"","ISBN"],["保羅懷爾德天文台",5,21,"lonely \"https://\"","https://"],["俠女",31,145,"lonely \"ISBN\"","ISBN"],["信息管理",32,13,"lonely \"RFC\"","RFC"],["修邊機 (木工)",9,50,"lonely \"ISBN\"","ISBN"],["個別化教育計畫",22,28,"lonely \"http://\"","http://"],["倚天中文系統",129,13,"lonely \"ISBN\"","ISBN"],["倪文一",5,21,"lonely \"ISBN\"","ISBN"],["倪暄",180,73,"lonely \"ISBN\"","ISBN"],["倪震",62,30,"lonely \"ISBN\"","ISBN"],["假面的告白",122,44,"lonely \"ISBN\"","ISBN"],["偉大的模仿者",17,26,"lonely \"http://\"","http://"],["健园大桥",12,141,"lonely \"https://\"","https://"],["傅作义",210,478,"lonely \"ISBN\"","ISBN"],["傅冠傑",102,27,"lonely \"https://\"","https://"],["傅斯年",117,227,"lonely \"ISBN\"","ISBN"],["傑夫·鄧肯",46,275,"lonely \"http://\"","http://"],["傑米·瓦迪",177,964,"lonely \"http:/\"","http:/"],["傑米揚斯克包圍戰",22,106,"lonely \"http://\"","http://"],["傳導性失語症",17,252,"lonely \"http://\"","http://"],["傳新澳門協會",8,38,"lonely \"https://\"","https://"],["傳輸層安全性協定",90,83,"lonely \"RFC\"","RFC"],["僧伽罗",24,128,"lonely \"ISBN\"","ISBN"],["僧伽羅文",136,100,"lonely \"http://\"","http://"],["儿茶酚-O-甲基转移酶",30,25,"lonely \"http://\"","http://"],["元中",44,29,"lonely \"ISBN\"","ISBN"],["元久",48,29,"lonely \"ISBN\"","ISBN"],["元亨 (日本)",37,29,"lonely \"ISBN\"","ISBN"],["元仁",42,29,"lonely \"ISBN\"","ISBN"],["元保宮",107,77,"lonely \"ISBN\"","isbn"],["元弘",42,29,"lonely \"ISBN\"","ISBN"],["元德 (日本)",50,29,"lonely \"ISBN\"","ISBN"],["元慶",44,29,"lonely \"ISBN\"","ISBN"],["元應",36,29,"lonely \"ISBN\"","ISBN"],["元朗公路",41,194,"lonely \"https://\"","https://"],["元朗墟",100,26,"lonely \"ISBN\"","ISBN"],["元永",48,29,"lonely \"ISBN\"","ISBN"],["先父遗传",34,1056,"lonely \"http://\"","http://"],["先秦行政区划",489,35,"lonely \"ISBN\"","ISBN"],["先驅者鍍金鋁板",102,79,"lonely \"http://\"","http://"],["光圈",24,61,"lonely \"ISBN\"","ISBN"],["光學望遠鏡列表",44,8,"lonely \"https://\"","https://"],["光物理學",40,118,"lonely \"ISBN\"","ISBN"],["光環 (光象)",116,269,"lonely \"ISBN\"","ISBN"],["光纤通道的因特网协议",3,339,"lonely \"RFC\"","RFC"],["克年语",29,46,"lonely \"http://\"","http://"],["克拉古耶瓦茨",32,214,"lonely \"ISBN\"","ISBN"],["克木克人",60,46,"lonely \"http://\"","http://"],["克木语支",136,45,"lonely \"http://\"","http://"],["克特林·博雷斯库",14,213,"lonely \"ISBN\"","ISBN"],["克蔑语",44,46,"lonely \"http://\"","http://"],["克里斯·休斯",12,15,"lonely \"http://\"","http://"],["克魯伯 75mm 野砲",106,42,"lonely \"ISBN\"","ISBN"],["兗州刺史部",64,29,"lonely \"ISBN\"","ISBN"],["兜率天",6,131,"lonely \"http://\"","http://"],["入口效应",14,158,"lonely \"ISBN\"","ISBN"],["內史 (秦漢行政區)",94,33,"lonely \"ISBN\"","ISBN"],["內灣村 (新竹縣)",28,122,"lonely \"ISBN\"","ISBN"],["內部書",37,30,"lonely \"ISBN\"","ISBN"],["全漢志傳",1,206,"lonely \"ISBN\"","ISBN"],["全知讀者視角",562,18,"lonely \"ISBN\"","ISBN"],["全職高手",125,42,"lonely \"ISBN\"","ISBN"],["全臺詩",20,631,"lonely \"https://\"","https://"],["全軍破敵：羅馬II",16,264,"lonely \"http:/\"","http:/"],["全面性教育",28,669,"lonely \"https://\"","https://"],["八一宣言",68,139,"lonely \"ISBN\"","isbn"],["八一式馬步槍",18,23,"lonely \"ISBN\"","ISBN"],["八九式中戰車",84,66,"lonely \"ISBN\"","ISBN"],["八仙得道传",2,51,"lonely \"ISBN\"","ISBN"],["八十九心",61,47,"lonely \"ISBN\"","ISBN"],["八路军",54,662,"lonely \"ISBN\"","ISBN"],["八路军豫北办事处旧址",3,135,"lonely \"ISBN\"","ISBN"],["公主戀人",321,62,"lonely \"ISBN\"","ISBN"],["公平貿易",161,25,"lonely \"http://\"","http://"],["公明黨",78,53,"lonely \"http://\"","http://"],["公钥密码学标准",27,78,"lonely \"RFC\"","RFC"],["六味地黄丸",24,59,"lonely \"ISBN\"","ISBN"],["六四事件三十二週年",50,95,"lonely \"https:/\"","https:/"],["六堆鑼鼓聲",51,62,"lonely \"http://\"","http://"],["六沟垅站",34,204,"lonely \"https://\"","https://"],["六甲話",20,142,"lonely \"ISBN\"","ISBN"],["共产主义",38,607,"lonely \"ISBN\"","ISBN"],["共生市场理论",48,57,"lonely \"ISBN\"","ISBN"],["共识主动性",44,372,"lonely \"http://\"","http://"],["兵頭功海",119,220,"lonely \"ISBN\"","ISBN"],["其他落後階層",6,231,"lonely \"ISBN\"","ISBN"],["养心殿",180,28,"lonely \"ISBN\"","ISBN"],["冀州刺史部",74,29,"lonely \"ISBN\"","ISBN"],["再會吧！青春小鳥",14,21,"lonely \"ISBN\"","ISBN"]],"batches":24}
+window.data={"articles":[[
+	"于少保萃忠全傳",
+	10,
+	218,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"于楓 (歌手)",
+	72,
+	358,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"云润",
+	6,
+	185,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"互联网低比特率编解码器",
+	53,
+	9,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"互联网媒体类型",
+	56,
+	222,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"互联网控制消息协议",
+	326,
+	72,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"互联网标准",
+	5,
+	111,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"五囝仙偷走的祕密",
+	115,
+	3,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"五禽戏",
+	68,
+	117,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"亚伦·斯沃茨",
+	130,
+	364,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"亚历山大·伊凡诺维奇·库普林",
+	74,
+	21,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"亚历山大·米勒兰",
+	40,
+	80,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"亚太互联网络信息中心",
+	38,
+	93,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"亚斯里语支",
+	268,
+	45,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"亚洲LGBT权益",
+	43,
+	360,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"亞伯特·費雪",
+	44,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"亞利馬太的約瑟",
+	20,
+	60,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"亞細亞的孤兒",
+	47,
+	115,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"亞蔬—世界蔬菜中心",
+	34,
+	78,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"亞速 (城市)",
+	92,
+	477,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"交趾刺史部",
+	66,
+	40,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"交際花",
+	157,
+	39,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"产业政策",
+	14,
+	204,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"产褥热",
+	106,
+	568,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"产鬼",
+	1,
+	170,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"亨利·法约尔",
+	3,
+	208,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"亨利·米勒",
+	24,
+	588,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"人民冲锋队",
+	25,
+	159,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"人猿星球 (小说)",
+	54,
+	5,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"人獸形玉器",
+	27,
+	136,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"人类学",
+	35,
+	212,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"人类阴茎尺寸",
+	246,
+	108,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"人間道",
+	25,
+	782,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"人類線粒體DNA單倍體群",
+	15,
+	383,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"仁和 (日本)",
+	43,
+	30,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"仁壽 (日本)",
+	40,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"仁安 (日本)",
+	39,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"仁平 (日本)",
+	39,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"仁治",
+	35,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"仁科芳雄",
+	46,
+	46,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"仁记洋行天津分行大楼",
+	35,
+	30,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"付喪神",
+	12,
+	71,
+	"lonely \"ISBN\"",
+	"isbn"
+],[
+	"仙劍奇俠傳五",
+	23,
+	60,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"代数拓扑",
+	77,
+	80,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"代理",
+	20,
+	472,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"令狐安",
+	44,
+	86,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"以仁王舉兵",
+	46,
+	72,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"以太网",
+	144,
+	242,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"以鸟类为载体的网际协议",
+	48,
+	65,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"仪表着陆系统",
+	98,
+	294,
+	"lonely \"http:/\"",
+	"http:/"
+],[
+	"任播",
+	23,
+	93,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"任詠華",
+	46,
+	33,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"伊丕灰蝶屬",
+	29,
+	86,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"伊利亚·基瓦",
+	50,
+	815,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"伊吾保卫战",
+	47,
+	394,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"伊宁事变",
+	40,
+	577,
+	"lonely \"ISBN\"",
+	"isbn"
+],[
+	"伊戈",
+	70,
+	218,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"伊拉克复兴党政权",
+	41,
+	189,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"伊曲康唑",
+	75,
+	586,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"伊東由佳里",
+	30,
+	12,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"伊格尔·古琴科",
+	27,
+	78,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"伊王野女王狂熱的愛情",
+	115,
+	99,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"伊能靜",
+	1035,
+	25,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"伊萨克·卡索邦",
+	23,
+	111,
+	"lonely \"ISBN\"",
+	"Isbn"
+],[
+	"伊達市 (北海道)",
+	37,
+	103,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"伍拉·賴國際機場",
+	39,
+	911,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"伍朝樞",
+	38,
+	139,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"伍汉霖",
+	41,
+	120,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"伍精华",
+	51,
+	24,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"伐爾得斯",
+	14,
+	84,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"伙食灶别",
+	40,
+	105,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"会审公廨",
+	190,
+	136,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"传输控制协议",
+	100,
+	2,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"伯利恆",
+	160,
+	124,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"伯力審判",
+	226,
+	49,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"伯帝镇",
+	222,
+	58,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"伯特兰·罗素",
+	108,
+	242,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"伶话",
+	21,
+	42,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"住左邊住右邊",
+	330,
+	4,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"佐世保中央車站",
+	68,
+	82,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"佐佐車站",
+	82,
+	82,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"何敬堯",
+	50,
+	41,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"何韻詩",
+	2263,
+	236,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"余切丛",
+	31,
+	97,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"余秋雨",
+	114,
+	911,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"余英時",
+	105,
+	28,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"佛",
+	2,
+	1010,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"佛光山佛陀紀念館",
+	322,
+	50,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"佛山市",
+	63,
+	36,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"佛朗哥·魯基尼",
+	70,
+	357,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"佤語",
+	262,
+	46,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"佩德罗·贝鲁格特",
+	22,
+	91,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"佩拉博物馆",
+	25,
+	98,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"侏儒 (北歐神話)",
+	43,
+	329,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"侏儒蟒屬",
+	8,
+	317,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"依麗莎白·顧姬",
+	49,
+	22,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"侯佩岑",
+	301,
+	92,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"侯文詠",
+	169,
+	26,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"俄亥俄大学",
+	20,
+	81,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"俄罗斯历史",
+	8,
+	550,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"俄羅斯教育",
+	296,
+	887,
+	"lonely \"http:/\"",
+	"http:/"
+],[
+	"俄羅斯經濟",
+	57,
+	1348,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"俄羅斯聯邦併吞克里米亞",
+	71,
+	300,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"俄造M1902式762野砲",
+	109,
+	41,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"俄造M1909式762山炮",
+	21,
+	38,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"俗字",
+	22,
+	101,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"保元",
+	42,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"保元之亂",
+	75,
+	72,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"保守百科",
+	99,
+	233,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"保安 (日本)",
+	54,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"保延",
+	53,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"保科洋",
+	37,
+	37,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"保羅懷爾德天文台",
+	5,
+	21,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"俠女",
+	31,
+	145,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"信息管理",
+	32,
+	13,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"修邊機 (木工)",
+	9,
+	50,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"個別化教育計畫",
+	22,
+	28,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"倚天中文系統",
+	129,
+	13,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"倪文一",
+	5,
+	21,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"倪暄",
+	180,
+	73,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"倪震",
+	62,
+	30,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"假面的告白",
+	122,
+	44,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"偉大的模仿者",
+	17,
+	26,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"健园大桥",
+	12,
+	141,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"傅作义",
+	210,
+	478,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"傅冠傑",
+	102,
+	27,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"傅斯年",
+	117,
+	227,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"傑夫·鄧肯",
+	46,
+	275,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"傑米·瓦迪",
+	177,
+	964,
+	"lonely \"http:/\"",
+	"http:/"
+],[
+	"傑米揚斯克包圍戰",
+	22,
+	106,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"傳導性失語症",
+	17,
+	252,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"傳新澳門協會",
+	8,
+	38,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"傳輸層安全性協定",
+	90,
+	83,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"僧伽罗",
+	24,
+	128,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"僧伽羅文",
+	136,
+	100,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"儿茶酚-O-甲基转移酶",
+	30,
+	25,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"元中",
+	44,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"元久",
+	48,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"元亨 (日本)",
+	37,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"元仁",
+	42,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"元保宮",
+	107,
+	77,
+	"lonely \"ISBN\"",
+	"isbn"
+],[
+	"元弘",
+	42,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"元德 (日本)",
+	50,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"元慶",
+	44,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"元應",
+	36,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"元朗公路",
+	41,
+	194,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"元朗墟",
+	100,
+	26,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"元永",
+	48,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"先父遗传",
+	34,
+	1056,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"先秦行政区划",
+	489,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"先驅者鍍金鋁板",
+	102,
+	79,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"光圈",
+	24,
+	61,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"光學望遠鏡列表",
+	44,
+	8,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"光物理學",
+	40,
+	118,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"光環 (光象)",
+	116,
+	269,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"光纤通道的因特网协议",
+	3,
+	339,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"克年语",
+	29,
+	46,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"克拉古耶瓦茨",
+	32,
+	214,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"克木克人",
+	60,
+	46,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"克木语支",
+	136,
+	45,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"克特林·博雷斯库",
+	14,
+	213,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"克蔑语",
+	44,
+	46,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"克里斯·休斯",
+	12,
+	15,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"克魯伯 75mm 野砲",
+	106,
+	42,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"兗州刺史部",
+	64,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"兜率天",
+	6,
+	131,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"入口效应",
+	14,
+	158,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"內史 (秦漢行政區)",
+	94,
+	33,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"內灣村 (新竹縣)",
+	28,
+	122,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"內部書",
+	37,
+	30,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"全漢志傳",
+	1,
+	206,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"全知讀者視角",
+	562,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"全職高手",
+	125,
+	42,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"全臺詩",
+	20,
+	631,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"全軍破敵：羅馬II",
+	16,
+	264,
+	"lonely \"http:/\"",
+	"http:/"
+],[
+	"全面性教育",
+	28,
+	669,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"八一宣言",
+	68,
+	139,
+	"lonely \"ISBN\"",
+	"isbn"
+],[
+	"八一式馬步槍",
+	18,
+	23,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"八九式中戰車",
+	84,
+	66,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"八仙得道传",
+	2,
+	51,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"八十九心",
+	61,
+	47,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"八路军",
+	54,
+	662,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"八路军豫北办事处旧址",
+	3,
+	135,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"公主戀人",
+	321,
+	62,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"公平貿易",
+	161,
+	25,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"公明黨",
+	78,
+	53,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"公钥密码学标准",
+	27,
+	78,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"六味地黄丸",
+	24,
+	59,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"六四事件三十二週年",
+	50,
+	95,
+	"lonely \"https:/\"",
+	"https:/"
+],[
+	"六堆鑼鼓聲",
+	51,
+	62,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"六沟垅站",
+	34,
+	204,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"六甲話",
+	20,
+	142,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"共产主义",
+	38,
+	607,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"共生市场理论",
+	48,
+	57,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"共识主动性",
+	44,
+	372,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"兵頭功海",
+	119,
+	220,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"其他落後階層",
+	6,
+	231,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"养心殿",
+	180,
+	28,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"冀州刺史部",
+	74,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"再會吧！青春小鳥",
+	14,
+	21,
+	"lonely \"ISBN\"",
+	"ISBN"
+],],"batches":24}

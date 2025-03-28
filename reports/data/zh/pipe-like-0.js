@@ -1,1 +1,307 @@
-window.data={"articles":[["2011年东南亚运动会田径比赛",106,63,"additional \"|\" in a table cell"," ||7.86 m"],["2015年东南亚运动会保龄球比赛",52,17,"additional \"|\" in a table cell","||5852"],["2018年冬季奥林匹克运动会闭幕式入场旗手",147,406,"additional \"|\" in a table cell","  ||"],["2019年度国家科学技术进步奖获奖项目列表",150,41,"additional \"|\" in a table cell","山东美琳达再生能源开发有限公司 || 陕西省"],["2022年11月廣東省珠海市及澳門特別行政區之間2019冠狀病毒病聚集性疫情",566,37,"additional \"|\" in a table cell"," \n * 新增：香洲區梅華街道心華路168號銀廈廣場14棟、梅華街道創業社區創業路23號鴻運花園3棟2單元、前山街道造貝社區光榮街1號 \n * 取消：斗門區井岸"],["ChouCho",79,47,"additional \"|\" in a table cell"," LACM-34919（初回限定盤）\n LACM-4919\n （通常盤） || 电视动画「"],["Erlang",416,171,"additional \"|\" in a table cell","。格式為：\n * [ 變數(表達式中的元素) || 變數(表達式中的元素) <- 表達式 , 防衛式 ]\n : 若無防衛條件，列表解析中不寫防衛式。"],["Help:小測/英文版",593,70,"additional \"|\" in a table cell","||"],["Wikipedia:互助客栈/技术/存档/2013年11月",1151,27,"additional \"|\" in a table cell"," || "],["XMLlite",38,47,"additional \"|\" in a table cell","\n CreateXmlWriterOutputWithEncodingName || Encoding class"],["世界语语音",85,34,"additional \"|\" in a table cell","\n\n 字母||"],["中型机械工业部",162,75,"additional \"|\" in a table cell"," 石墨堆、钚的后处理、核材料机加工（1966年改称车里雅宾斯克-65）；后改生产锂和氚，试验快堆混合氧化物燃料芯块和元件\n 　 БН-800混合氧化物燃料组件 "],["二叠字",136,117,"additional \"|\" in a table cell"," 亦有人認為此字為\n 一「日」〔rì／ㄖˋ〕一「曰」〔yuē／ㄩㄝ〕。 ||"],["以色列空军",366,30,"additional \"|\" in a table cell","|| 7"],["優雅的朋友們",115,43,"additional \"|\" in a table cell","29歲，高爾夫講師，受養父影響而成為一名高爾夫球選手，有著艱困的成長歷程，因為一次交通意外與靜海認識，也因為他的出現開始影響了宮哲與靜海的婚姻與生活，開始讓宮哲"],["光緒十五年己丑科進士貢士列表",476,3,"additional \"|\" in a table cell","\n 3甲095名||第名||"],["光緒十八年壬辰科貢士進士列表",458,3,"additional \"|\" in a table cell","\n 3甲086名||第名||"],["劍橋站",196,18,"additional \"|\" in a table cell","註: 簡納德和杜林厄姆由不同的列車服務，即停靠簡納德的列車不停杜林厄姆，反之亦然 || 755型列車"],["国家重点保护野生动物名录",30,32,"additional \"|\" in a table cell","||\n "],["国家重点保护野生植物名录",13,41,"additional \"|\" in a table cell","||\n "],["多啦A夢神奇法寶列表",3596,114,"additional \"|\" in a table cell","的方向。||"],["大秦帝国之崛起",250,31,"additional \"|\" in a table cell","聯合韓、魏等國伐秦，就是函谷關之戰。相信蘇秦，立為齊相，攻打函谷關。簽訂秦齊互不干涉盟約，秦不干涉齊攻宋，齊也不干涉秦取魏安邑。最終，齊滅宋。五國合力滅齊，只有"],["宋运成",83,13,"additional \"|\" in a table cell","》\n 滇西1944 || 向大洋\n 韓世貴"],["山形健",227,3,"additional \"|\" in a table cell","\n 友人達に僕の妻が目の前で ||柳田やよい||03/19||momj00026"],["广州市各级文物保护单位列表",2066,159,"additional \"|\" in a table cell","\n （现广东省民政厅大院） ||  || 现存大门口的4条门柱和部分围墙。 \n"],["張芸京",142,14,"additional \"|\" in a table cell","〈Makes Me Wonder〉\n 筆醬樂團〈用點愛〉||44.5分/44.7分/44.5分"],["我們結婚了 (世界版)",169,13,"additional \"|\" in a table cell","||週六 19:00||"],["我的寶貝四千金",135,9,"additional \"|\" in a table cell","||孫亦星同學\n 6歲，孫亦星之同學，獨生女，小星星最好的朋友\n"],["搖滾臺中",871,98,"additional \"|\" in a table cell","楊大正（滅火器 Fire EX.主唱）\n 吳志寧（929 主唱、2016 搖滾台中共同策展人）\n 陳低低（Legacy Taichung 總監）||誠品園道店"],["新巴82M線",112,3,"additional \"|\" in a table cell","繁忙時間\n 13\n 正常時間12||柴灣站\n (地鐵站)"],["李敏鎬",1544,526,"additional \"|\" in a table cell","||1"],["樊城区各级文物保护单位列表",58,23,"additional \"|\" in a table cell","\n *山陕会馆\n *黄州会馆\n *小江西会馆\n *中州会馆||古建筑 ||清 "],["正午陽光",65,48,"additional \"|\" in a table cell","\n 唐尧|| 阿耐《大江东去》"],["泰国剧集作品列表 (2010年代)",1776,61,"additional \"|\" in a table cell","（Chokun）||||宅基地字幕组||"],["约恩·安德森",163,43,"additional \"|\" in a table cell","||"],["罗伯特·巴乔",156,40,"additional \"|\" in a table cell","488||221||88||39||61||32||637||292\n "],["羊毛與千葉花",37,90,"additional \"|\" in a table cell","  || 冬之歌為東日本大地震周年紀念廣告主題曲。"],["臂神经丛",81,37,"additional \"|\" in a table cell"," 神經纖維匯入正中神經\n 除了尺側屈橈肌以外的所有前臂屈肌、深側屈指肌、第一和第二蚓狀肌、魚際肌。  || 大拇指、食指、中指，及無名指外側掌側面，及這些手指的"],["荒川爆笑團",518,52,"additional \"|\" in a table cell","\n 62 謊言||"],["華氏式別",85,16,"additional \"|\" in a table cell","（美国） || 六轮式\n 波旁式"],["詹皮耶罗·文图拉",283,17,"additional \"|\" in a table cell"," ||11||4||+7"],["誠品書店",623,20,"additional \"|\" in a table cell","）||"],["誰是大歌神",69,42,"additional \"|\" in a table cell","合唱：沒離開過 || "],["谜 (音乐团体)",120,39,"additional \"|\" in a table cell"," || Released on 1998-04-10."],["趙少康",302,38,"additional \"|\" in a table cell","\n 農業工程學報||"],["邁克·D·安吉洛",335,18,"additional \"|\" in a table cell"," \n *Bounce\n *Your Little Matter (Ruang Lek Khong Ther)\n *Busy Dancing (Mai Waang"],["邓宁",156,12,"additional \"|\" in a table cell"," 《把乐带\n 回帶回家2013把禾家2013》  || 可乐 ||"],["镇魂 (网络剧)",106,131,"additional \"|\" in a table cell","\n 喜歡沙雅，給她做了一個能夠投影星空的戒指💍。||"],["阿信 (電視劇)",112,164,"additional \"|\" in a table cell","龍三岳父，曾因金錢問題反對二人成婚\n 由於貧窮，致常酗酒，脾氣暴燥，時常呼喝和奴役妻兒，但心中仍然會為在外的女兒擔心\n 臨終前被莊治嫌棄，逐出新房子\n 於阿信婚"],["霹靂布袋戲",681,21,"additional \"|\" in a table cell","由大霹靂正版授權、唯晶數位娛樂研發耗時2年、斥資數千萬開發營運的全球首款霹靂競技手遊《霹靂無雙》\n 以實時操作為首要目標，開發團隊引入「幀同步」系統技術，打造完"],["马来西亚联邦1号公路",391,219,"additional \"|\" in a table cell","Johor Bahru ||T-junctions"]],"batches":1}
+window.data={"articles":[[
+	"2011年东南亚运动会田径比赛",
+	106,
+	63,
+	"additional \"|\" in a table cell",
+	" ||7.86 m"
+],[
+	"2015年东南亚运动会保龄球比赛",
+	52,
+	17,
+	"additional \"|\" in a table cell",
+	"||5852"
+],[
+	"2018年冬季奥林匹克运动会闭幕式入场旗手",
+	147,
+	406,
+	"additional \"|\" in a table cell",
+	"  ||"
+],[
+	"2019年度国家科学技术进步奖获奖项目列表",
+	150,
+	41,
+	"additional \"|\" in a table cell",
+	"山东美琳达再生能源开发有限公司 || 陕西省"
+],[
+	"2022年11月廣東省珠海市及澳門特別行政區之間2019冠狀病毒病聚集性疫情",
+	566,
+	37,
+	"additional \"|\" in a table cell",
+	" \n * 新增：香洲區梅華街道心華路168號銀廈廣場14棟、梅華街道創業社區創業路23號鴻運花園3棟2單元、前山街道造貝社區光榮街1號 \n * 取消：斗門區井岸"
+],[
+	"ChouCho",
+	79,
+	47,
+	"additional \"|\" in a table cell",
+	" LACM-34919（初回限定盤）\n LACM-4919\n （通常盤） || 电视动画「"
+],[
+	"Erlang",
+	416,
+	171,
+	"additional \"|\" in a table cell",
+	"。格式為：\n * [ 變數(表達式中的元素) || 變數(表達式中的元素) <- 表達式 , 防衛式 ]\n : 若無防衛條件，列表解析中不寫防衛式。"
+],[
+	"Help:小測/英文版",
+	593,
+	70,
+	"additional \"|\" in a table cell",
+	"||"
+],[
+	"Wikipedia:互助客栈/技术/存档/2013年11月",
+	1151,
+	27,
+	"additional \"|\" in a table cell",
+	" || "
+],[
+	"XMLlite",
+	38,
+	47,
+	"additional \"|\" in a table cell",
+	"\n CreateXmlWriterOutputWithEncodingName || Encoding class"
+],[
+	"世界语语音",
+	85,
+	34,
+	"additional \"|\" in a table cell",
+	"\n\n 字母||"
+],[
+	"中型机械工业部",
+	162,
+	75,
+	"additional \"|\" in a table cell",
+	" 石墨堆、钚的后处理、核材料机加工（1966年改称车里雅宾斯克-65）；后改生产锂和氚，试验快堆混合氧化物燃料芯块和元件\n 　 БН-800混合氧化物燃料组件 "
+],[
+	"二叠字",
+	136,
+	117,
+	"additional \"|\" in a table cell",
+	" 亦有人認為此字為\n 一「日」〔rì／ㄖˋ〕一「曰」〔yuē／ㄩㄝ〕。 ||"
+],[
+	"以色列空军",
+	366,
+	30,
+	"additional \"|\" in a table cell",
+	"|| 7"
+],[
+	"優雅的朋友們",
+	115,
+	43,
+	"additional \"|\" in a table cell",
+	"29歲，高爾夫講師，受養父影響而成為一名高爾夫球選手，有著艱困的成長歷程，因為一次交通意外與靜海認識，也因為他的出現開始影響了宮哲與靜海的婚姻與生活，開始讓宮哲"
+],[
+	"光緒十五年己丑科進士貢士列表",
+	476,
+	3,
+	"additional \"|\" in a table cell",
+	"\n 3甲095名||第名||"
+],[
+	"光緒十八年壬辰科貢士進士列表",
+	458,
+	3,
+	"additional \"|\" in a table cell",
+	"\n 3甲086名||第名||"
+],[
+	"劍橋站",
+	196,
+	18,
+	"additional \"|\" in a table cell",
+	"註: 簡納德和杜林厄姆由不同的列車服務，即停靠簡納德的列車不停杜林厄姆，反之亦然 || 755型列車"
+],[
+	"国家重点保护野生动物名录",
+	30,
+	32,
+	"additional \"|\" in a table cell",
+	"||\n "
+],[
+	"国家重点保护野生植物名录",
+	13,
+	41,
+	"additional \"|\" in a table cell",
+	"||\n "
+],[
+	"多啦A夢神奇法寶列表",
+	3596,
+	114,
+	"additional \"|\" in a table cell",
+	"的方向。||"
+],[
+	"大秦帝国之崛起",
+	250,
+	31,
+	"additional \"|\" in a table cell",
+	"聯合韓、魏等國伐秦，就是函谷關之戰。相信蘇秦，立為齊相，攻打函谷關。簽訂秦齊互不干涉盟約，秦不干涉齊攻宋，齊也不干涉秦取魏安邑。最終，齊滅宋。五國合力滅齊，只有"
+],[
+	"宋运成",
+	83,
+	13,
+	"additional \"|\" in a table cell",
+	"》\n 滇西1944 || 向大洋\n 韓世貴"
+],[
+	"山形健",
+	227,
+	3,
+	"additional \"|\" in a table cell",
+	"\n 友人達に僕の妻が目の前で ||柳田やよい||03/19||momj00026"
+],[
+	"广州市各级文物保护单位列表",
+	2066,
+	159,
+	"additional \"|\" in a table cell",
+	"\n （现广东省民政厅大院） ||  || 现存大门口的4条门柱和部分围墙。 \n"
+],[
+	"張芸京",
+	142,
+	14,
+	"additional \"|\" in a table cell",
+	"〈Makes Me Wonder〉\n 筆醬樂團〈用點愛〉||44.5分/44.7分/44.5分"
+],[
+	"我們結婚了 (世界版)",
+	169,
+	13,
+	"additional \"|\" in a table cell",
+	"||週六 19:00||"
+],[
+	"我的寶貝四千金",
+	135,
+	9,
+	"additional \"|\" in a table cell",
+	"||孫亦星同學\n 6歲，孫亦星之同學，獨生女，小星星最好的朋友\n"
+],[
+	"搖滾臺中",
+	871,
+	98,
+	"additional \"|\" in a table cell",
+	"楊大正（滅火器 Fire EX.主唱）\n 吳志寧（929 主唱、2016 搖滾台中共同策展人）\n 陳低低（Legacy Taichung 總監）||誠品園道店"
+],[
+	"新巴82M線",
+	112,
+	3,
+	"additional \"|\" in a table cell",
+	"繁忙時間\n 13\n 正常時間12||柴灣站\n (地鐵站)"
+],[
+	"李敏鎬",
+	1544,
+	526,
+	"additional \"|\" in a table cell",
+	"||1"
+],[
+	"樊城区各级文物保护单位列表",
+	58,
+	23,
+	"additional \"|\" in a table cell",
+	"\n *山陕会馆\n *黄州会馆\n *小江西会馆\n *中州会馆||古建筑 ||清 "
+],[
+	"正午陽光",
+	65,
+	48,
+	"additional \"|\" in a table cell",
+	"\n 唐尧|| 阿耐《大江东去》"
+],[
+	"泰国剧集作品列表 (2010年代)",
+	1776,
+	61,
+	"additional \"|\" in a table cell",
+	"（Chokun）||||宅基地字幕组||"
+],[
+	"约恩·安德森",
+	163,
+	43,
+	"additional \"|\" in a table cell",
+	"||"
+],[
+	"罗伯特·巴乔",
+	156,
+	40,
+	"additional \"|\" in a table cell",
+	"488||221||88||39||61||32||637||292\n "
+],[
+	"羊毛與千葉花",
+	37,
+	90,
+	"additional \"|\" in a table cell",
+	"  || 冬之歌為東日本大地震周年紀念廣告主題曲。"
+],[
+	"臂神经丛",
+	81,
+	37,
+	"additional \"|\" in a table cell",
+	" 神經纖維匯入正中神經\n 除了尺側屈橈肌以外的所有前臂屈肌、深側屈指肌、第一和第二蚓狀肌、魚際肌。  || 大拇指、食指、中指，及無名指外側掌側面，及這些手指的"
+],[
+	"荒川爆笑團",
+	518,
+	52,
+	"additional \"|\" in a table cell",
+	"\n 62 謊言||"
+],[
+	"華氏式別",
+	85,
+	16,
+	"additional \"|\" in a table cell",
+	"（美国） || 六轮式\n 波旁式"
+],[
+	"詹皮耶罗·文图拉",
+	283,
+	17,
+	"additional \"|\" in a table cell",
+	" ||11||4||+7"
+],[
+	"誠品書店",
+	623,
+	20,
+	"additional \"|\" in a table cell",
+	"）||"
+],[
+	"誰是大歌神",
+	69,
+	42,
+	"additional \"|\" in a table cell",
+	"合唱：沒離開過 || "
+],[
+	"谜 (音乐团体)",
+	120,
+	39,
+	"additional \"|\" in a table cell",
+	" || Released on 1998-04-10."
+],[
+	"趙少康",
+	302,
+	38,
+	"additional \"|\" in a table cell",
+	"\n 農業工程學報||"
+],[
+	"邁克·D·安吉洛",
+	335,
+	18,
+	"additional \"|\" in a table cell",
+	" \n *Bounce\n *Your Little Matter (Ruang Lek Khong Ther)\n *Busy Dancing (Mai Waang"
+],[
+	"邓宁",
+	156,
+	12,
+	"additional \"|\" in a table cell",
+	" 《把乐带\n 回帶回家2013把禾家2013》  || 可乐 ||"
+],[
+	"镇魂 (网络剧)",
+	106,
+	131,
+	"additional \"|\" in a table cell",
+	"\n 喜歡沙雅，給她做了一個能夠投影星空的戒指💍。||"
+],[
+	"阿信 (電視劇)",
+	112,
+	164,
+	"additional \"|\" in a table cell",
+	"龍三岳父，曾因金錢問題反對二人成婚\n 由於貧窮，致常酗酒，脾氣暴燥，時常呼喝和奴役妻兒，但心中仍然會為在外的女兒擔心\n 臨終前被莊治嫌棄，逐出新房子\n 於阿信婚"
+],[
+	"霹靂布袋戲",
+	681,
+	21,
+	"additional \"|\" in a table cell",
+	"由大霹靂正版授權、唯晶數位娛樂研發耗時2年、斥資數千萬開發營運的全球首款霹靂競技手遊《霹靂無雙》\n 以實時操作為首要目標，開發團隊引入「幀同步」系統技術，打造完"
+],[
+	"马来西亚联邦1号公路",
+	391,
+	219,
+	"additional \"|\" in a table cell",
+	"Johor Bahru ||T-junctions"
+],],"batches":1}

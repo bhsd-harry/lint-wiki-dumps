@@ -1,1 +1,1201 @@
-window.data={"articles":[["夜劇",50,2,"duplicated category","[[Category:NHK電視劇]]"],["夜宵磨",40,23,"duplicated style attribute","style=\"width:60%; font-size: 14px;\""],["夜市王",88,18,"duplicated style attribute","style=\"width:50px\""],["夢夢貓",839,3,"duplicated parameter","7電視台={{flagicon|HK}} [[翡翠台]]\n "],["夢工廠悸動恐慌",7,3,"duplicated parameter"," \n "],["夢想資助計畫",335,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"],["大主教 (仙靈棋)",10,18,"duplicated parameter","=\n "],["大久保麻梨子",205,2,"duplicated category","[[Category:台灣電視主持人]]"],["大事件",150,2,"duplicated category","[[Category:香港警匪片]]"],["大众帕萨特",125,72,"duplicated image caption parameter","B6"],["大其力縣",8,3,"duplicated parameter","pushpin_map = Myanmar\n "],["大分县立艺术文化短期大学",15,212,"duplicated name attribute","name=\"<ref group=\""],["大創百貨",309,2,"duplicated category","[[Category:1977年成立的公司]]"],["大勳位菊花章",12,3,"duplicated style attribute","style=\"font-size:larger;\""],["大区 (法国)",400,2,"duplicated category","[[Category:法國行政區劃|大區]]"],["大华三路站",6,3,"duplicated parameter","type = [[上海地铁]]车站\n "],["大卫·比利亚",101,39,"duplicated image caption parameter","Left"],["大卫·西曼",90,32,"duplicated width attribute","width=85%"],["大厂回族自治县",45,157,"duplicated parameter","chapter=\n "],["大双心河",76,2,"duplicated category","[[Category:密歇根州背景作品]]"],["大口屯站",20,2,"duplicated category","[[Category:宝坻区铁路车站]]"],["大台中數位有線電視",13,3,"duplicated parameter"," key_people = \n "],["大叻市",139,36,"duplicated image right parameter","right"],["大名城墙",37,2,"duplicated category","[[Category:大名县建筑物]]"],["大哥德堡",41,3,"duplicated align attribute","align=left"],["大埔墟 (選區)",246,5,"duplicated parameter","政黨   = 獨立\n   "],["大堡礁",102,2,"duplicated category","[[Category:澳大利亚世界遗产]]"],["大塚站 (廣島縣)",78,4,"duplicated style attribute","style=\"background-color:#808080; color: #ffffff\""],["大士茶亭站",11,3,"duplicated parameter","code = \n "],["大多倫多地區",88,24,"duplicated style attribute","style=\"line-height: 0.9em; border:1px #000000;\""],["大大將棋",19,5,"duplicated border attribute","border=1"],["大安之役",145,2,"duplicated category","[[Category:大安區 (臺中市)]]"],["大安溪鐵橋",183,2,"duplicated category","[[Category:臺灣鐵路文化資產|苗]]"],["大宮站 (京都府)",18,3,"duplicated parameter","上下車人次 = 31,003\n "],["大家真風騷",284,2,"duplicated category","[[Category:香港數碼廣播節目]]"],["大富車站",40,5,"duplicated border attribute","border=0"],["大山郁夫",60,2,"duplicated category","[[Category:日本參議院議員 (1950年—1956年)]]"],["大島崚",50,336,"duplicated parameter","language=ja"],["大峽谷鐵路",99,32,"duplicated image caption parameter","Right"],["大斜定式",4,7,"duplicated parameter","=\n      A B C D E F G H J K L M N O P Q R S T\n  19 "],["大時代 (香港電視劇)",821,2,"duplicated category","[[Category:粵語電視劇]]"],["大智门火车站",48,22,"duplicated image thumbnail parameter","thumb"],["大村市",26,81,"duplicated image caption parameter","centert"],["大林蒲遷村事件",21,3,"duplicated parameter"," budget                   =\n "],["大椎龍科",102,2,"duplicated category","[[Category:原蜥腳下目|M]]"],["大樹林區",2,5,"duplicated style attribute","style=\"width:400px\""],["大欖隧道轉車站",243,2,"duplicated category","[[Category:轉乘計劃資訊模板]]"],["大武崙砲臺",96,2,"duplicated category","[[Category:基隆市旅遊景點]]"],["大氣繞射",52,2,"duplicated category","[[Category:大气|Category:Atmosphere]]"],["大江大河2",73,49,"duplicated style attribute","style=\"text-align:center\""],["大決戰!超奧特8兄弟",398,2,"duplicated category","[[Category:超人力霸王迪迦]]"],["大洋江站",20,3,"duplicated parameter"," colour = \n "],["大洋疣鱗魨",15,47,"duplicated image caption parameter","=An ocean triggerfish, ''Canthidermis sufflamen'', on display at the New England"],["大淵MUTA",48,24,"duplicated style attribute","style=\"background:white; text-align:center\""],["大湖法雲禪寺",26,180,"duplicated name attribute","name=\"林洛瀅\""],["大溪地航空 (1996年)",168,85,"duplicated image caption parameter","大溪地航空 "],["大濠公園",13,3,"duplicated parameter","管理者 = 福岡縣\n "],["大灣區航空",96,31,"duplicated image caption parameter","B-KJD_(20_Sep_2023)"],["大爵爷和Kham Duang姑娘",31,3,"duplicated parameter"," company              = Mom &  Us\n "],["大王軟口魚",15,2,"duplicated category","[[Category:1843年描述的鱼类|H]]"],["大玩特玩 (游戏节目)",28,23,"duplicated style attribute","style=\"min-width:480px; text-align:center\""],["大理石教堂站",32,3,"duplicated parameter"," services = \n "],["大硫黄山",15,532,"duplicated parameter","title = http://www.peakbagger.com/peak.aspx?pid=17660 "],["大秀一場",3,3,"duplicated parameter"," image             = \n "],["大舞獅—關聖宮",41,2,"duplicated category","[[Category:2010年代動作片]]"],["大苞凤仙花",14,2,"duplicated category","[[Category:越南植物|D]]"],["大藍子魚",5,3,"duplicated parameter"," status = LC\n "],["大衛·庫比亞克",59,5,"duplicated align attribute","align=center"],["大衛·普萊斯",82,5,"duplicated class attribute","class=\"wikitable\""],["大西洋奴隸貿易",81,46,"duplicated image caption parameter","Right"],["大蹄蝠",47,2,"duplicated category","[[Category:1835年描述的动物|D]]"],["大连神明高等女学校",29,2,"duplicated category","[[Category:关东州学校]]"],["大逃殺",107,566,"duplicated parameter","language=ja"],["大阪吃惊仰天",223,5,"duplicated style attribute","style= align=\"center\""],["大陵五型變星",23,2,"duplicated category","[[Category:变星]]"],["大隈講堂",28,2,"duplicated category","[[Category:大隈重信]]"],["大雄的上鏈都市歷險記",62,24,"duplicated style attribute","style=\"font-size:small;\""],["大雄的創世日記",56,24,"duplicated style attribute","style=\"font-size:small;\""],["大雄的南海大冒險",69,24,"duplicated style attribute","style=\"font-size:small;\""],["大雄的地球交響樂",13,3,"duplicated parameter","10=zh-tw:妙希卡;zh-hk:繆思卡;zh-hant:繆思卡;zh-cn:穆希卡\n "],["大雄的太陽王傳說",54,24,"duplicated style attribute","style=\"font-size:small;\""],["大雄與機器人王國",57,24,"duplicated style attribute","style=\"font-size:small;\""],["大雄與翼之勇者",80,24,"duplicated style attribute","style=\"font-size:small;\""],["大雄與銀河高速列車",59,24,"duplicated style attribute","style=\"font-size:small;\""],["大雄與風之使者",50,24,"duplicated style attribute","style=\"font-size:small;\""],["大韓帝國中樞院選舉",56,54,"duplicated image caption parameter","upright="],["大韓重石足球會",12,393,"duplicated parameter","url=http://www.sportsseoul.com/news2/soccer/general/2008/0916/200809161010203000"],["大顺封爵列表",73,2,"duplicated category","[[Category:明末民变政权]]"],["大马士革",3,3,"duplicated parameter","G2-Military\n "],["大魯閣實業",98,2,"duplicated category","[[Category:臺灣證券交易所上市公司|1]]"],["大龍屬",21,41,"duplicated image width parameter","150px"],["天上聖母媽祖",32,5,"duplicated style attribute","style=\"background:cornflowerblue; color:white\""],["天下衛視",139,4,"duplicated style attribute","style=\"background:#FF4D00; color:white\""],["天主教耶路撒冷宗主教區",27,46,"duplicated image caption parameter","LEFt"],["天主教蒲圻教区",10,3,"duplicated parameter","metropolitan     = [[崔慶琪]]主教\n "],["天之云地之雾",17,3,"duplicated parameter"," num_episodes  = 24集\n "],["天使心 (北條司)",978,2,"duplicated category","[[Category:殺手主角題材漫畫]]"],["天使心 (美國電影)",89,2,"duplicated category","[[Category:敘事者不可靠的作品]]"],["天使球場",96,2,"duplicated category","[[Category:洛杉磯天使體育場]]"],["天使與怨靈 (2018年電視劇)",194,2,"duplicated category","[[Category:泰國取景電視劇]]"],["天六地五",15,2,"duplicated category","[[Category:中医]]"],["天卫四",79,77,"duplicated name attribute","name=\"Herschel 1787\""],["天字第一號 (1964年電影)",38,2,"duplicated category","[[分類:1930年代背景電影]]"],["天津地鐵2號線列車",80,50,"duplicated 0 attribute","0"],["天津地铁10号线",110,50,"duplicated 0 attribute","0"],["天津地铁11号线",111,50,"duplicated 0 attribute","0"],["天津地铁13号线",80,50,"duplicated 0 attribute","0"],["天津地铁4号线",143,50,"duplicated 0 attribute","0"],["天津地铁6号线",187,50,"duplicated 0 attribute","0"],["天津地铁7号线",89,50,"duplicated 0 attribute","0"],["天津地铁8号线",174,50,"duplicated 0 attribute","0"],["天津市肿瘤医院",5,3,"duplicated parameter"," org/group = <!-- 在此填寫管理或營運此醫院的機構或團體名稱。 -->\n "],["天津泰达足球俱乐部2011赛季",110,5,"duplicated style attribute","style=\"width:95%;\""],["天津泰达足球俱乐部2012赛季",162,5,"duplicated style attribute","style=\"width:95%;\""],["天炉座",157,2,"duplicated category","[[Category:天爐座| ]]"],["天瑞巴士總站",24,27,"duplicated image caption parameter","135pzpx"],["天生要完美",70,23,"duplicated style attribute","style=\"width:70%\""],["天竺路 (南京)",1,24,"duplicated image caption parameter","381.989x381.989像素"],["天蠶變 (電視劇)",184,2,"duplicated category","[[Category:粵語電視劇]]"],["天道 (台灣電視劇)",6,3,"duplicated parameter"," color = #c3d6e0\n "],["天馬航空",93,36,"duplicated image caption parameter","天馬航空"],["太原大学",16,3,"duplicated parameter","campus=       \n "],["太原市中心医院",2,2,"duplicated category","[[Category:山西医科大学附属医院]]"],["太原市少年宫",7,3,"duplicated parameter","坐标 =\n "],["太原車站 (臺灣)",163,60,"duplicated image caption parameter","舊太原車站"],["太和江站",34,3,"duplicated parameter","line6=東海線"],["太平洋共同体",123,2,"duplicated category","[[Category:區域主義 (國際關係)]]"],["太平洋挑戰者聯賽",15,3,"duplicated parameter","folded=\n "],["太平洋鐵木",77,2,"duplicated category","[[Category:1891年描述的植物]]"],["太平洋雙鋸魚",2,3,"duplicated parameter"," image = Mohéli-Poisson clown.jpg\n "],["太極",109,5,"duplicated border attribute","BORDER"],["太極圖",49,5,"duplicated border attribute","BORDER"],["太永浩",130,2,"duplicated category","[[Category:國民力量黨員]]"],["太空堡壘卡拉狄加：血與鉻",7,3,"duplicated parameter","zh-cn:太空堡垒卡拉狄加：血与铬;zh-hk:太空堡壘卡拉狄加：血與鉻;zh-sg:星际大争霸前传;zh-tw:星際大爭霸前傳;\n "],["太阳射线",29,2,"duplicated category","[[Category:大规模杀伤性武器]]"],["太阳星辰 (电视剧)",177,2,"duplicated category","[[Category:粵語電視劇]]"],["太阳系",539,34,"duplicated image caption parameter","假設的{{nowrap "],["太阳系的形成与演化",167,34,"duplicated of attribute","of"],["太陽動力學天文台",121,2,"duplicated category","[[Category:太阳探测卫星]]"],["太陽週期",25,45,"duplicated image caption parameter","F2\n "],["太魯閣之美",24,2,"duplicated category","[[Category:中華民國重要古物]]"],["夫碩順",106,5,"duplicated style attribute","style=\"background:#FF79BC\""],["失貞的新娘",83,608,"duplicated parameter","dead-url=no"],["头条新闻 (电视网)",154,2,"duplicated category","[[Category:英语电视频道]]"],["夾將棋",14,139,"duplicated style attribute","style=\"width:20px\""],["夾王棋",3,23,"duplicated parameter","=\n "],["奇偶性 (黑白棋)",5,26,"duplicated parameter","=\n "],["奇幻貓頭鷹小屋角色列表",475,3,"duplicated parameter"," species = 女巫\n "],["奇怪電波圓環",13,119,"duplicated image caption parameter","rght"],["奇瓦瓦州行政区划",500,25,"duplicated style attribute","style=\"text-align:center;\""],["奇納：靈魂之橋",91,1080,"duplicated name attribute","name=\"VGC Review\""],["奈及利亞世界遺產列表",3,27,"duplicated parameter","width=400 "],["奈及利亞憲法",54,2,"duplicated category","[[Category:各國憲法]]"],["奈非那韦",100,2,"duplicated category","[[Category:CYP3A4抑制剂]]"],["奉天海关大楼旧址",9,3,"duplicated parameter"," 时代 = 清末民初\n "],["奉节县",169,24,"duplicated style attribute","style=\"text-align:center\""],["奔驰专利电机车1号",15,2,"duplicated category","[[Category:各車廠首輛車款]]"],["奎澤石頭",13,76,"duplicated parameter","title=奎澤石頭記"],["奕格",65,2,"duplicated category","[[Category:正紅旗漢軍都統]]"],["奚仲四",138,2,"duplicated category","[[Category:G型主序星]]"],["奥亚波克河",87,2,"duplicated category","[[Category:法屬圭亞那河流]]"],["奥伊尔多夫",74,38,"duplicated image caption parameter","hochkant=0.9"],["奥伯恩基兴",51,2,"duplicated category","[[Category:下萨克森州市镇]]"],["奥体中心站 (宁波市)",21,3,"duplicated parameter"," colour = \n "],["奥克萨娜·普希金娜",11,3,"duplicated parameter"," successor1 = [[丹尼斯·迈达诺夫]]\n "],["奥列格·维克托罗维奇·莫罗佐夫",9,3,"duplicated parameter"," office              = [[第7届俄罗斯国家杜马|第7届]]和[[第8届俄罗斯国家杜马]]议员\n "],["奥利弗·库克",11,2,"duplicated category","[[Category:英国男子赛艇运动员]]"],["奥夫雷贡",7,2,"duplicated category","[[Category:西班牙語姓氏|Obregón]]"],["奥孙州",7,3,"duplicated parameter"," flag_size          = 130px\n "],["奥尔森灭绝事件",72,1089,"duplicated parameter","pages=1027-1034"],["奥尔维拉",47,8,"duplicated border attribute","border=\"2\""],["奥尔莫克湾",3,23,"duplicated image width parameter","250px"],["奥川久美子",86,2,"duplicated category","[[Category:日本女配音員]]"],["奥巴 (称谓)",23,2,"duplicated category","[[Category:约鲁巴文化]]"],["奥德赛",14,3,"duplicated parameter"," original_title      = Οδύσσεια\n "],["奥斯卡·彼得森",125,2,"duplicated category","[[Category:加拿大同伴勳章授勳者]]"],["奥斯曼·登贝莱",230,2,"duplicated category","[[Category:德甲球員]]"],["奥斯曼帝国",74,3,"duplicated parameter","s21 = 埃及苏丹国\n "],["奥斯曼沙比安",37,3,"duplicated parameter"," gender           = 男性\n "],["奥特亚罗瓦",1,64,"conflicting image horizontal-alignment parameter","right"],["奥萨苏纳竞技俱乐部",30,3,"duplicated parameter"," pattern_so1 = _osasuna2425h\n "],["奥马尔·理查兹",125,2,"duplicated category","[[Category:英格蘭足球聯賽球員]]"],["奧克西塔尼大區",364,33,"duplicated image caption parameter","droite"],["奧克馬爾吉縣",36,56,"conflicting image horizontal-alignment parameter","left"],["奧內爾基·賈西亞",76,5,"duplicated align attribute","align=center"],["奧利佛·培瑞茲",77,2,"duplicated category","[[Category:亞利桑那響尾蛇球員]]"],["奧利維爾·羅耶",64,2,"duplicated category","[[Category:法甲球員]]"],["奧地利的艾蕾諾爾 (1498-1558)",3,3,"duplicated parameter","1=zh:埃莉諾; zh-tw:艾莉諾;\n "],["奧托·李林塔爾",85,4,"duplicated category","[[分类:航空先驱]]"],["奧托五世 (巴伐利亞)",1,42,"duplicated image caption parameter","hochkant"],["奧斯卡金像獎入圍及提名特殊記錄列表",841,2,"duplicated category","[[Category:奧斯卡金像獎名單]]"],["奧斯瓦爾多·馬丁內斯",91,3,"duplicated align attribute","align=center"],["奧斯陸王宮",33,2,"duplicated category","[[Category:挪威王室居所]]"],["奧爾加·陶斯基-托德",24,27,"duplicated name attribute","name"],["奧羅拉的天使",122,2,"duplicated category","[[Category:特莱维萨小說連續劇]]"],["奧蘭多·梅特卡夫·坡",62,2,"duplicated category","[[Category:北军将领]]"],["奧貫智策",31,7,"duplicated parameter","=\n      A B C D E F G H J K L M N O P Q R S T\n  19 "],["奪魂鋸3D",15,3,"duplicated parameter","zh-cn:电锯惊魂2; zh-sg:夺魂锯2; zh-tw:奪魂鋸2; zh-hk:恐懼鬥室2 死亡困局; zh-hk:恐懼鬥室2;\n "],["奪魂鋸系列",13,3,"duplicated parameter","zh-cn:电锯惊魂2; zh-sg:夺魂锯2; zh-tw:奪魂鋸2; zh-hk:恐懼鬥室2 死亡困局; zh-hk:恐懼鬥室2;\n "],["女兒獎",20,2,"duplicated category","[[Category:臺灣戰後時期獎項]]"]],"batches":43}
+window.data={"articles":[[
+	"夜劇",
+	50,
+	2,
+	"duplicated category",
+	"[[Category:NHK電視劇]]"
+],[
+	"夜宵磨",
+	40,
+	23,
+	"duplicated style attribute",
+	"style=\"width:60%; font-size: 14px;\""
+],[
+	"夜市王",
+	88,
+	18,
+	"duplicated style attribute",
+	"style=\"width:50px\""
+],[
+	"夢夢貓",
+	839,
+	3,
+	"duplicated parameter",
+	"7電視台={{flagicon|HK}} [[翡翠台]]\n "
+],[
+	"夢工廠悸動恐慌",
+	7,
+	3,
+	"duplicated parameter",
+	" \n "
+],[
+	"夢想資助計畫",
+	335,
+	2,
+	"duplicated category",
+	"[[Category:臺灣戰後時期獎項]]"
+],[
+	"大主教 (仙靈棋)",
+	10,
+	18,
+	"duplicated parameter",
+	"=\n "
+],[
+	"大久保麻梨子",
+	205,
+	2,
+	"duplicated category",
+	"[[Category:台灣電視主持人]]"
+],[
+	"大事件",
+	150,
+	2,
+	"duplicated category",
+	"[[Category:香港警匪片]]"
+],[
+	"大众帕萨特",
+	125,
+	72,
+	"duplicated image caption parameter",
+	"B6"
+],[
+	"大其力縣",
+	8,
+	3,
+	"duplicated parameter",
+	"pushpin_map = Myanmar\n "
+],[
+	"大分县立艺术文化短期大学",
+	15,
+	212,
+	"duplicated name attribute",
+	"name=\"<ref group=\""
+],[
+	"大創百貨",
+	309,
+	2,
+	"duplicated category",
+	"[[Category:1977年成立的公司]]"
+],[
+	"大勳位菊花章",
+	12,
+	3,
+	"duplicated style attribute",
+	"style=\"font-size:larger;\""
+],[
+	"大区 (法国)",
+	400,
+	2,
+	"duplicated category",
+	"[[Category:法國行政區劃|大區]]"
+],[
+	"大华三路站",
+	6,
+	3,
+	"duplicated parameter",
+	"type = [[上海地铁]]车站\n "
+],[
+	"大卫·比利亚",
+	101,
+	39,
+	"duplicated image caption parameter",
+	"Left"
+],[
+	"大卫·西曼",
+	90,
+	32,
+	"duplicated width attribute",
+	"width=85%"
+],[
+	"大厂回族自治县",
+	45,
+	157,
+	"duplicated parameter",
+	"chapter=\n "
+],[
+	"大双心河",
+	76,
+	2,
+	"duplicated category",
+	"[[Category:密歇根州背景作品]]"
+],[
+	"大口屯站",
+	20,
+	2,
+	"duplicated category",
+	"[[Category:宝坻区铁路车站]]"
+],[
+	"大台中數位有線電視",
+	13,
+	3,
+	"duplicated parameter",
+	" key_people = \n "
+],[
+	"大叻市",
+	139,
+	36,
+	"duplicated image right parameter",
+	"right"
+],[
+	"大名城墙",
+	37,
+	2,
+	"duplicated category",
+	"[[Category:大名县建筑物]]"
+],[
+	"大哥德堡",
+	41,
+	3,
+	"duplicated align attribute",
+	"align=left"
+],[
+	"大埔墟 (選區)",
+	246,
+	5,
+	"duplicated parameter",
+	"政黨   = 獨立\n   "
+],[
+	"大堡礁",
+	102,
+	2,
+	"duplicated category",
+	"[[Category:澳大利亚世界遗产]]"
+],[
+	"大塚站 (廣島縣)",
+	78,
+	4,
+	"duplicated style attribute",
+	"style=\"background-color:#808080; color: #ffffff\""
+],[
+	"大士茶亭站",
+	11,
+	3,
+	"duplicated parameter",
+	"code = \n "
+],[
+	"大多倫多地區",
+	88,
+	24,
+	"duplicated style attribute",
+	"style=\"line-height: 0.9em; border:1px #000000;\""
+],[
+	"大大將棋",
+	19,
+	5,
+	"duplicated border attribute",
+	"border=1"
+],[
+	"大安之役",
+	145,
+	2,
+	"duplicated category",
+	"[[Category:大安區 (臺中市)]]"
+],[
+	"大安溪鐵橋",
+	183,
+	2,
+	"duplicated category",
+	"[[Category:臺灣鐵路文化資產|苗]]"
+],[
+	"大宮站 (京都府)",
+	18,
+	3,
+	"duplicated parameter",
+	"上下車人次 = 31,003\n "
+],[
+	"大家真風騷",
+	284,
+	2,
+	"duplicated category",
+	"[[Category:香港數碼廣播節目]]"
+],[
+	"大富車站",
+	40,
+	5,
+	"duplicated border attribute",
+	"border=0"
+],[
+	"大山郁夫",
+	60,
+	2,
+	"duplicated category",
+	"[[Category:日本參議院議員 (1950年—1956年)]]"
+],[
+	"大島崚",
+	50,
+	336,
+	"duplicated parameter",
+	"language=ja"
+],[
+	"大峽谷鐵路",
+	99,
+	32,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"大斜定式",
+	4,
+	7,
+	"duplicated parameter",
+	"=\n      A B C D E F G H J K L M N O P Q R S T\n  19 "
+],[
+	"大時代 (香港電視劇)",
+	821,
+	2,
+	"duplicated category",
+	"[[Category:粵語電視劇]]"
+],[
+	"大智门火车站",
+	48,
+	22,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"大村市",
+	26,
+	81,
+	"duplicated image caption parameter",
+	"centert"
+],[
+	"大林蒲遷村事件",
+	21,
+	3,
+	"duplicated parameter",
+	" budget                   =\n "
+],[
+	"大椎龍科",
+	102,
+	2,
+	"duplicated category",
+	"[[Category:原蜥腳下目|M]]"
+],[
+	"大樹林區",
+	2,
+	5,
+	"duplicated style attribute",
+	"style=\"width:400px\""
+],[
+	"大欖隧道轉車站",
+	243,
+	2,
+	"duplicated category",
+	"[[Category:轉乘計劃資訊模板]]"
+],[
+	"大武崙砲臺",
+	96,
+	2,
+	"duplicated category",
+	"[[Category:基隆市旅遊景點]]"
+],[
+	"大氣繞射",
+	52,
+	2,
+	"duplicated category",
+	"[[Category:大气|Category:Atmosphere]]"
+],[
+	"大江大河2",
+	73,
+	49,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"大決戰!超奧特8兄弟",
+	398,
+	2,
+	"duplicated category",
+	"[[Category:超人力霸王迪迦]]"
+],[
+	"大洋江站",
+	20,
+	3,
+	"duplicated parameter",
+	" colour = \n "
+],[
+	"大洋疣鱗魨",
+	15,
+	47,
+	"duplicated image caption parameter",
+	"=An ocean triggerfish, ''Canthidermis sufflamen'', on display at the New England"
+],[
+	"大淵MUTA",
+	48,
+	24,
+	"duplicated style attribute",
+	"style=\"background:white; text-align:center\""
+],[
+	"大湖法雲禪寺",
+	26,
+	180,
+	"duplicated name attribute",
+	"name=\"林洛瀅\""
+],[
+	"大溪地航空 (1996年)",
+	168,
+	85,
+	"duplicated image caption parameter",
+	"大溪地航空 "
+],[
+	"大濠公園",
+	13,
+	3,
+	"duplicated parameter",
+	"管理者 = 福岡縣\n "
+],[
+	"大灣區航空",
+	96,
+	31,
+	"duplicated image caption parameter",
+	"B-KJD_(20_Sep_2023)"
+],[
+	"大爵爷和Kham Duang姑娘",
+	31,
+	3,
+	"duplicated parameter",
+	" company              = Mom &  Us\n "
+],[
+	"大王軟口魚",
+	15,
+	2,
+	"duplicated category",
+	"[[Category:1843年描述的鱼类|H]]"
+],[
+	"大玩特玩 (游戏节目)",
+	28,
+	23,
+	"duplicated style attribute",
+	"style=\"min-width:480px; text-align:center\""
+],[
+	"大理石教堂站",
+	32,
+	3,
+	"duplicated parameter",
+	" services = \n "
+],[
+	"大硫黄山",
+	15,
+	532,
+	"duplicated parameter",
+	"title = http://www.peakbagger.com/peak.aspx?pid=17660 "
+],[
+	"大秀一場",
+	3,
+	3,
+	"duplicated parameter",
+	" image             = \n "
+],[
+	"大舞獅—關聖宮",
+	41,
+	2,
+	"duplicated category",
+	"[[Category:2010年代動作片]]"
+],[
+	"大苞凤仙花",
+	14,
+	2,
+	"duplicated category",
+	"[[Category:越南植物|D]]"
+],[
+	"大藍子魚",
+	5,
+	3,
+	"duplicated parameter",
+	" status = LC\n "
+],[
+	"大衛·庫比亞克",
+	59,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"大衛·普萊斯",
+	82,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"大西洋奴隸貿易",
+	81,
+	46,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"大蹄蝠",
+	47,
+	2,
+	"duplicated category",
+	"[[Category:1835年描述的动物|D]]"
+],[
+	"大连神明高等女学校",
+	29,
+	2,
+	"duplicated category",
+	"[[Category:关东州学校]]"
+],[
+	"大逃殺",
+	107,
+	566,
+	"duplicated parameter",
+	"language=ja"
+],[
+	"大阪吃惊仰天",
+	223,
+	5,
+	"duplicated style attribute",
+	"style= align=\"center\""
+],[
+	"大陵五型變星",
+	23,
+	2,
+	"duplicated category",
+	"[[Category:变星]]"
+],[
+	"大隈講堂",
+	28,
+	2,
+	"duplicated category",
+	"[[Category:大隈重信]]"
+],[
+	"大雄的上鏈都市歷險記",
+	62,
+	24,
+	"duplicated style attribute",
+	"style=\"font-size:small;\""
+],[
+	"大雄的創世日記",
+	56,
+	24,
+	"duplicated style attribute",
+	"style=\"font-size:small;\""
+],[
+	"大雄的南海大冒險",
+	69,
+	24,
+	"duplicated style attribute",
+	"style=\"font-size:small;\""
+],[
+	"大雄的地球交響樂",
+	13,
+	3,
+	"duplicated parameter",
+	"10=zh-tw:妙希卡;zh-hk:繆思卡;zh-hant:繆思卡;zh-cn:穆希卡\n "
+],[
+	"大雄的太陽王傳說",
+	54,
+	24,
+	"duplicated style attribute",
+	"style=\"font-size:small;\""
+],[
+	"大雄與機器人王國",
+	57,
+	24,
+	"duplicated style attribute",
+	"style=\"font-size:small;\""
+],[
+	"大雄與翼之勇者",
+	80,
+	24,
+	"duplicated style attribute",
+	"style=\"font-size:small;\""
+],[
+	"大雄與銀河高速列車",
+	59,
+	24,
+	"duplicated style attribute",
+	"style=\"font-size:small;\""
+],[
+	"大雄與風之使者",
+	50,
+	24,
+	"duplicated style attribute",
+	"style=\"font-size:small;\""
+],[
+	"大韓帝國中樞院選舉",
+	56,
+	54,
+	"duplicated image caption parameter",
+	"upright="
+],[
+	"大韓重石足球會",
+	12,
+	393,
+	"duplicated parameter",
+	"url=http://www.sportsseoul.com/news2/soccer/general/2008/0916/200809161010203000"
+],[
+	"大顺封爵列表",
+	73,
+	2,
+	"duplicated category",
+	"[[Category:明末民变政权]]"
+],[
+	"大马士革",
+	3,
+	3,
+	"duplicated parameter",
+	"G2-Military\n "
+],[
+	"大魯閣實業",
+	98,
+	2,
+	"duplicated category",
+	"[[Category:臺灣證券交易所上市公司|1]]"
+],[
+	"大龍屬",
+	21,
+	41,
+	"duplicated image width parameter",
+	"150px"
+],[
+	"天上聖母媽祖",
+	32,
+	5,
+	"duplicated style attribute",
+	"style=\"background:cornflowerblue; color:white\""
+],[
+	"天下衛視",
+	139,
+	4,
+	"duplicated style attribute",
+	"style=\"background:#FF4D00; color:white\""
+],[
+	"天主教耶路撒冷宗主教區",
+	27,
+	46,
+	"duplicated image caption parameter",
+	"LEFt"
+],[
+	"天主教蒲圻教区",
+	10,
+	3,
+	"duplicated parameter",
+	"metropolitan     = [[崔慶琪]]主教\n "
+],[
+	"天之云地之雾",
+	17,
+	3,
+	"duplicated parameter",
+	" num_episodes  = 24集\n "
+],[
+	"天使心 (北條司)",
+	978,
+	2,
+	"duplicated category",
+	"[[Category:殺手主角題材漫畫]]"
+],[
+	"天使心 (美國電影)",
+	89,
+	2,
+	"duplicated category",
+	"[[Category:敘事者不可靠的作品]]"
+],[
+	"天使球場",
+	96,
+	2,
+	"duplicated category",
+	"[[Category:洛杉磯天使體育場]]"
+],[
+	"天使與怨靈 (2018年電視劇)",
+	194,
+	2,
+	"duplicated category",
+	"[[Category:泰國取景電視劇]]"
+],[
+	"天六地五",
+	15,
+	2,
+	"duplicated category",
+	"[[Category:中医]]"
+],[
+	"天卫四",
+	79,
+	77,
+	"duplicated name attribute",
+	"name=\"Herschel 1787\""
+],[
+	"天字第一號 (1964年電影)",
+	38,
+	2,
+	"duplicated category",
+	"[[分類:1930年代背景電影]]"
+],[
+	"天津地鐵2號線列車",
+	80,
+	50,
+	"duplicated 0 attribute",
+	"0"
+],[
+	"天津地铁10号线",
+	110,
+	50,
+	"duplicated 0 attribute",
+	"0"
+],[
+	"天津地铁11号线",
+	111,
+	50,
+	"duplicated 0 attribute",
+	"0"
+],[
+	"天津地铁13号线",
+	80,
+	50,
+	"duplicated 0 attribute",
+	"0"
+],[
+	"天津地铁4号线",
+	143,
+	50,
+	"duplicated 0 attribute",
+	"0"
+],[
+	"天津地铁6号线",
+	187,
+	50,
+	"duplicated 0 attribute",
+	"0"
+],[
+	"天津地铁7号线",
+	89,
+	50,
+	"duplicated 0 attribute",
+	"0"
+],[
+	"天津地铁8号线",
+	174,
+	50,
+	"duplicated 0 attribute",
+	"0"
+],[
+	"天津市肿瘤医院",
+	5,
+	3,
+	"duplicated parameter",
+	" org/group = <!-- 在此填寫管理或營運此醫院的機構或團體名稱。 -->\n "
+],[
+	"天津泰达足球俱乐部2011赛季",
+	110,
+	5,
+	"duplicated style attribute",
+	"style=\"width:95%;\""
+],[
+	"天津泰达足球俱乐部2012赛季",
+	162,
+	5,
+	"duplicated style attribute",
+	"style=\"width:95%;\""
+],[
+	"天炉座",
+	157,
+	2,
+	"duplicated category",
+	"[[Category:天爐座| ]]"
+],[
+	"天瑞巴士總站",
+	24,
+	27,
+	"duplicated image caption parameter",
+	"135pzpx"
+],[
+	"天生要完美",
+	70,
+	23,
+	"duplicated style attribute",
+	"style=\"width:70%\""
+],[
+	"天竺路 (南京)",
+	1,
+	24,
+	"duplicated image caption parameter",
+	"381.989x381.989像素"
+],[
+	"天蠶變 (電視劇)",
+	184,
+	2,
+	"duplicated category",
+	"[[Category:粵語電視劇]]"
+],[
+	"天道 (台灣電視劇)",
+	6,
+	3,
+	"duplicated parameter",
+	" color = #c3d6e0\n "
+],[
+	"天馬航空",
+	93,
+	36,
+	"duplicated image caption parameter",
+	"天馬航空"
+],[
+	"太原大学",
+	16,
+	3,
+	"duplicated parameter",
+	"campus=       \n "
+],[
+	"太原市中心医院",
+	2,
+	2,
+	"duplicated category",
+	"[[Category:山西医科大学附属医院]]"
+],[
+	"太原市少年宫",
+	7,
+	3,
+	"duplicated parameter",
+	"坐标 =\n "
+],[
+	"太原車站 (臺灣)",
+	163,
+	60,
+	"duplicated image caption parameter",
+	"舊太原車站"
+],[
+	"太和江站",
+	34,
+	3,
+	"duplicated parameter",
+	"line6=東海線"
+],[
+	"太平洋共同体",
+	123,
+	2,
+	"duplicated category",
+	"[[Category:區域主義 (國際關係)]]"
+],[
+	"太平洋挑戰者聯賽",
+	15,
+	3,
+	"duplicated parameter",
+	"folded=\n "
+],[
+	"太平洋鐵木",
+	77,
+	2,
+	"duplicated category",
+	"[[Category:1891年描述的植物]]"
+],[
+	"太平洋雙鋸魚",
+	2,
+	3,
+	"duplicated parameter",
+	" image = Mohéli-Poisson clown.jpg\n "
+],[
+	"太極",
+	109,
+	5,
+	"duplicated border attribute",
+	"BORDER"
+],[
+	"太極圖",
+	49,
+	5,
+	"duplicated border attribute",
+	"BORDER"
+],[
+	"太永浩",
+	130,
+	2,
+	"duplicated category",
+	"[[Category:國民力量黨員]]"
+],[
+	"太空堡壘卡拉狄加：血與鉻",
+	7,
+	3,
+	"duplicated parameter",
+	"zh-cn:太空堡垒卡拉狄加：血与铬;zh-hk:太空堡壘卡拉狄加：血與鉻;zh-sg:星际大争霸前传;zh-tw:星際大爭霸前傳;\n "
+],[
+	"太阳射线",
+	29,
+	2,
+	"duplicated category",
+	"[[Category:大规模杀伤性武器]]"
+],[
+	"太阳星辰 (电视剧)",
+	177,
+	2,
+	"duplicated category",
+	"[[Category:粵語電視劇]]"
+],[
+	"太阳系",
+	539,
+	34,
+	"duplicated image caption parameter",
+	"假設的{{nowrap "
+],[
+	"太阳系的形成与演化",
+	167,
+	34,
+	"duplicated of attribute",
+	"of"
+],[
+	"太陽動力學天文台",
+	121,
+	2,
+	"duplicated category",
+	"[[Category:太阳探测卫星]]"
+],[
+	"太陽週期",
+	25,
+	45,
+	"duplicated image caption parameter",
+	"F2\n "
+],[
+	"太魯閣之美",
+	24,
+	2,
+	"duplicated category",
+	"[[Category:中華民國重要古物]]"
+],[
+	"夫碩順",
+	106,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"失貞的新娘",
+	83,
+	608,
+	"duplicated parameter",
+	"dead-url=no"
+],[
+	"头条新闻 (电视网)",
+	154,
+	2,
+	"duplicated category",
+	"[[Category:英语电视频道]]"
+],[
+	"夾將棋",
+	14,
+	139,
+	"duplicated style attribute",
+	"style=\"width:20px\""
+],[
+	"夾王棋",
+	3,
+	23,
+	"duplicated parameter",
+	"=\n "
+],[
+	"奇偶性 (黑白棋)",
+	5,
+	26,
+	"duplicated parameter",
+	"=\n "
+],[
+	"奇幻貓頭鷹小屋角色列表",
+	475,
+	3,
+	"duplicated parameter",
+	" species = 女巫\n "
+],[
+	"奇怪電波圓環",
+	13,
+	119,
+	"duplicated image caption parameter",
+	"rght"
+],[
+	"奇瓦瓦州行政区划",
+	500,
+	25,
+	"duplicated style attribute",
+	"style=\"text-align:center;\""
+],[
+	"奇納：靈魂之橋",
+	91,
+	1080,
+	"duplicated name attribute",
+	"name=\"VGC Review\""
+],[
+	"奈及利亞世界遺產列表",
+	3,
+	27,
+	"duplicated parameter",
+	"width=400 "
+],[
+	"奈及利亞憲法",
+	54,
+	2,
+	"duplicated category",
+	"[[Category:各國憲法]]"
+],[
+	"奈非那韦",
+	100,
+	2,
+	"duplicated category",
+	"[[Category:CYP3A4抑制剂]]"
+],[
+	"奉天海关大楼旧址",
+	9,
+	3,
+	"duplicated parameter",
+	" 时代 = 清末民初\n "
+],[
+	"奉节县",
+	169,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"奔驰专利电机车1号",
+	15,
+	2,
+	"duplicated category",
+	"[[Category:各車廠首輛車款]]"
+],[
+	"奎澤石頭",
+	13,
+	76,
+	"duplicated parameter",
+	"title=奎澤石頭記"
+],[
+	"奕格",
+	65,
+	2,
+	"duplicated category",
+	"[[Category:正紅旗漢軍都統]]"
+],[
+	"奚仲四",
+	138,
+	2,
+	"duplicated category",
+	"[[Category:G型主序星]]"
+],[
+	"奥亚波克河",
+	87,
+	2,
+	"duplicated category",
+	"[[Category:法屬圭亞那河流]]"
+],[
+	"奥伊尔多夫",
+	74,
+	38,
+	"duplicated image caption parameter",
+	"hochkant=0.9"
+],[
+	"奥伯恩基兴",
+	51,
+	2,
+	"duplicated category",
+	"[[Category:下萨克森州市镇]]"
+],[
+	"奥体中心站 (宁波市)",
+	21,
+	3,
+	"duplicated parameter",
+	" colour = \n "
+],[
+	"奥克萨娜·普希金娜",
+	11,
+	3,
+	"duplicated parameter",
+	" successor1 = [[丹尼斯·迈达诺夫]]\n "
+],[
+	"奥列格·维克托罗维奇·莫罗佐夫",
+	9,
+	3,
+	"duplicated parameter",
+	" office              = [[第7届俄罗斯国家杜马|第7届]]和[[第8届俄罗斯国家杜马]]议员\n "
+],[
+	"奥利弗·库克",
+	11,
+	2,
+	"duplicated category",
+	"[[Category:英国男子赛艇运动员]]"
+],[
+	"奥夫雷贡",
+	7,
+	2,
+	"duplicated category",
+	"[[Category:西班牙語姓氏|Obregón]]"
+],[
+	"奥孙州",
+	7,
+	3,
+	"duplicated parameter",
+	" flag_size          = 130px\n "
+],[
+	"奥尔森灭绝事件",
+	72,
+	1089,
+	"duplicated parameter",
+	"pages=1027-1034"
+],[
+	"奥尔维拉",
+	47,
+	8,
+	"duplicated border attribute",
+	"border=\"2\""
+],[
+	"奥尔莫克湾",
+	3,
+	23,
+	"duplicated image width parameter",
+	"250px"
+],[
+	"奥川久美子",
+	86,
+	2,
+	"duplicated category",
+	"[[Category:日本女配音員]]"
+],[
+	"奥巴 (称谓)",
+	23,
+	2,
+	"duplicated category",
+	"[[Category:约鲁巴文化]]"
+],[
+	"奥德赛",
+	14,
+	3,
+	"duplicated parameter",
+	" original_title      = Οδύσσεια\n "
+],[
+	"奥斯卡·彼得森",
+	125,
+	2,
+	"duplicated category",
+	"[[Category:加拿大同伴勳章授勳者]]"
+],[
+	"奥斯曼·登贝莱",
+	230,
+	2,
+	"duplicated category",
+	"[[Category:德甲球員]]"
+],[
+	"奥斯曼帝国",
+	74,
+	3,
+	"duplicated parameter",
+	"s21 = 埃及苏丹国\n "
+],[
+	"奥斯曼沙比安",
+	37,
+	3,
+	"duplicated parameter",
+	" gender           = 男性\n "
+],[
+	"奥特亚罗瓦",
+	1,
+	64,
+	"conflicting image horizontal-alignment parameter",
+	"right"
+],[
+	"奥萨苏纳竞技俱乐部",
+	30,
+	3,
+	"duplicated parameter",
+	" pattern_so1 = _osasuna2425h\n "
+],[
+	"奥马尔·理查兹",
+	125,
+	2,
+	"duplicated category",
+	"[[Category:英格蘭足球聯賽球員]]"
+],[
+	"奧克西塔尼大區",
+	364,
+	33,
+	"duplicated image caption parameter",
+	"droite"
+],[
+	"奧克馬爾吉縣",
+	36,
+	56,
+	"conflicting image horizontal-alignment parameter",
+	"left"
+],[
+	"奧內爾基·賈西亞",
+	76,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"奧利佛·培瑞茲",
+	77,
+	2,
+	"duplicated category",
+	"[[Category:亞利桑那響尾蛇球員]]"
+],[
+	"奧利維爾·羅耶",
+	64,
+	2,
+	"duplicated category",
+	"[[Category:法甲球員]]"
+],[
+	"奧地利的艾蕾諾爾 (1498-1558)",
+	3,
+	3,
+	"duplicated parameter",
+	"1=zh:埃莉諾; zh-tw:艾莉諾;\n "
+],[
+	"奧托·李林塔爾",
+	85,
+	4,
+	"duplicated category",
+	"[[分类:航空先驱]]"
+],[
+	"奧托五世 (巴伐利亞)",
+	1,
+	42,
+	"duplicated image caption parameter",
+	"hochkant"
+],[
+	"奧斯卡金像獎入圍及提名特殊記錄列表",
+	841,
+	2,
+	"duplicated category",
+	"[[Category:奧斯卡金像獎名單]]"
+],[
+	"奧斯瓦爾多·馬丁內斯",
+	91,
+	3,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"奧斯陸王宮",
+	33,
+	2,
+	"duplicated category",
+	"[[Category:挪威王室居所]]"
+],[
+	"奧爾加·陶斯基-托德",
+	24,
+	27,
+	"duplicated name attribute",
+	"name"
+],[
+	"奧羅拉的天使",
+	122,
+	2,
+	"duplicated category",
+	"[[Category:特莱维萨小說連續劇]]"
+],[
+	"奧蘭多·梅特卡夫·坡",
+	62,
+	2,
+	"duplicated category",
+	"[[Category:北军将领]]"
+],[
+	"奧貫智策",
+	31,
+	7,
+	"duplicated parameter",
+	"=\n      A B C D E F G H J K L M N O P Q R S T\n  19 "
+],[
+	"奪魂鋸3D",
+	15,
+	3,
+	"duplicated parameter",
+	"zh-cn:电锯惊魂2; zh-sg:夺魂锯2; zh-tw:奪魂鋸2; zh-hk:恐懼鬥室2 死亡困局; zh-hk:恐懼鬥室2;\n "
+],[
+	"奪魂鋸系列",
+	13,
+	3,
+	"duplicated parameter",
+	"zh-cn:电锯惊魂2; zh-sg:夺魂锯2; zh-tw:奪魂鋸2; zh-hk:恐懼鬥室2 死亡困局; zh-hk:恐懼鬥室2;\n "
+],[
+	"女兒獎",
+	20,
+	2,
+	"duplicated category",
+	"[[Category:臺灣戰後時期獎項]]"
+],],"batches":43}

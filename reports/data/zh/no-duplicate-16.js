@@ -1,1 +1,1201 @@
-window.data={"articles":[["女力報到—小資女上班記",306,46,"duplicated style attribute","style=\"text-align:center;\""],["女惡魔人",65,583,"duplicated parameter","language=ja"],["女法醫JD",197,3,"duplicated parameter","電視台={{HKG}} [[無綫電視]][[翡翠台]]\n "],["女王十字教堂 (格拉斯哥)",32,35,"duplicated image caption parameter","Image:Queens Cross Church07i.jpg"],["女真",1,10,"duplicated parameter","\n "],["女神異聞錄4 通宵熱舞",54,2,"duplicated category","[[Category:2015年电子游戏]]"],["奶油城磚",43,2,"duplicated category","[[Category:磚]]"],["好好愛我",461,2,"duplicated category","[[Category:伊利亚·萨尔曼扎德创作的歌曲]]"],["好小男孩",104,2,"duplicated category","[[Category:温哥华取景电影]]"],["好樣科技",38,2,"duplicated category","[[Category:台灣電子公司]]"],["如此而已",559,2,"duplicated category","[[Category:克里斯·马丁创作的歌曲]]"],["妊姓",30,2,"duplicated category","[[Category:中國上古姓氏|R妊]]"],["妒鼠屬",24,2,"duplicated category","[[Category:鼠亚科|D]]"],["妖怪旅館營業中",204,377,"duplicated parameter","dead-url=no"],["妖怪旅館營業中角色列表",18,295,"duplicated parameter","dead-url=no"],["妮科莱塔-安库察·博德纳尔",15,2,"duplicated category","[[Category:2020年夏季奧林匹克運動會獎牌得主]]"],["妳和其餘的一切",18,3,"duplicated parameter"," language = 韩语\n "],["妹选拔☆总选举",217,2,"duplicated category","[[Category:多重结局电子游戏]]"],["始創先鋒",565,3,"duplicated parameter","mmfm={{flag icon|CAN|1957}} [[北地舞人]]\n "],["委內瑞拉聯合航空",136,64,"duplicated image caption parameter","roght"],["姚剧",17,2,"duplicated category","[[Category:戏曲剧种]]"],["姚桐斌",55,2,"duplicated category","[[Category:伯明罕大學校友]]"],["姜习",19,2,"duplicated category","[[Category:第七屆全國政協委員]]"],["姜保国",45,2,"duplicated category","[[Category:丹东人]]"],["姜吉宇",138,2,"duplicated category","[[Category:韓國電視男演員]]"],["姜大植",34,2,"duplicated category","[[Category:國民力量黨員]]"],["姜子牙 (电影)",108,49,"duplicated style attribute","style=\"text-align:center\""],["姜旻局",32,2,"duplicated category","[[Category:國民力量黨員]]"],["姜濤",338,39,"duplicated style attribute","style=\"width:90%\""],["姜起潤",37,2,"duplicated category","[[Category:國民力量黨員]]"],["威利博士",30,34,"conflicting image frame parameter","thumb"],["威利转写",10,36,"duplicated cellpadding attribute","cellpadding=\"8\""],["威寶公司",35,49,"duplicated image caption parameter","链接=https://zh.wikipedia.org/wiki/File:Verbatim 16x DVD-R spindle 20050708.png"],["威尔士浦",1,10,"duplicated parameter","\n "],["威廉·C·杨",67,2,"duplicated category","[[Category:美国教育家]]"],["威廉·C·罗伯茨",62,2,"duplicated category","[[Category:美国教育家]]"],["威廉·丹皮尔",34,2,"duplicated category","[[Category:英格蘭海員]]"],["威廉·伦肖",16,2,"duplicated category","[[Category:英國男子網球運動員]]"],["威廉·克理",3,20,"duplicated image caption parameter","Thumb"],["威廉·劳德",37,2,"duplicated category","[[Category:處決於倫敦塔者]]"],["威廉·史提",36,3,"duplicated parameter"," manageryears9 = 2022–2024\n "],["威廉·巴克斯戴爾",24,2,"duplicated category","[[Category:美国民兵将领]]"],["威廉·弗莱德金",4,3,"duplicated parameter","1=zh-tw:威廉·佛雷金;zh-hk:威廉·佛烈堅;zh-my:威廉·费烈金;zh-cn:威廉·弗莱德金;zh:威廉·弗莱德金;\n "],["威廉·怀特洛",107,2,"duplicated category","[[Category:第43届英国下议院议员]]"],["威廉·托马斯·桑德勒",476,17,"duplicated the attribute","the"],["威廉·詹宁斯·布莱恩",101,2,"duplicated category","[[Category:1908年美国总统选举候选人]]"],["威廉·赫茲利特",24,2,"duplicated category","[[Category:英格蘭散文家]]"],["威廉·门格尔贝格",33,38,"duplicated image caption parameter","{{largethumb}}"],["威廉·霍尔·梅西",252,18,"duplicated door attribute","Door"],["威廉·麦克米伦",20,2,"duplicated category","[[Category:奧林匹克運動會射擊獎牌得主]]"],["威廉一世 (黑森选侯)",47,4,"duplicated cory attribute","cory"],["威廉王子 (電視劇)",159,23,"duplicated style attribute","style=\"width:80%\""],["威斯康星大學奧克萊爾分校",6,3,"duplicated parameter","motto = The Power of AND\n "],["威林·罗萨里奥",92,5,"duplicated align attribute","align=center"],["威根竞技足球俱乐部",333,49,"duplicated parameter","language=en "],["威爾·史密斯掌摑克里斯·洛克事件",77,2,"duplicated category","[[Category:美國電視爭議事件]]"],["威靈臣·迪蘇沙",43,3,"duplicated parameter"," years7 = 2024\n "],["姬振",67,5,"duplicated style attribute","style=\"background:#FF79BC\""],["姬絲汀娜·莉芝",53,5,"duplicated style attribute","style=\"text-align:center;\""],["姬絲甸·冼佳亞國際比賽入球列表",1567,33,"duplicated style attribute","style=\"text-align:center\""],["姬金线鱼",19,2,"duplicated category","[[Category:金线鱼属|姬金线鱼]]"],["姬鸚哥魚",2,3,"duplicated parameter"," image = Dark-capped Parrotfish.jpg\n "],["娛樂3兄弟",35,23,"duplicated style attribute","style=\"width:80%; font-size: 14px;\""],["娜奥米·朗",111,2,"duplicated category","[[Category:第55届英国下议院议员]]"],["娜琳迪帕·莎功翁昂派",147,2,"duplicated category","[[Category:泰國電視女演員]]"],["婆羅多舞",23,71,"duplicated image caption parameter","upright=1.2<!--fmt for low img-->"],["嫦娥五号",14,3,"duplicated parameter"," programme = [[中国探月工程]]\n "],["孔庚",53,2,"duplicated category","[[Category:入祀國民革命忠烈祠者]]"],["孔徑掩模干涉術",1,50,"duplicated image caption parameter","a)顯示了在重新成像的孔徑平面中使用孔徑掩模的簡單實驗。b) 和c) 顯示了由{{link-en|彼得·塔希爾 (天文學家)|Peter Tuthill (as"],["孔德貴",36,37,"duplicated image caption parameter","28opx"],["孔戣",43,2,"duplicated category","[[Category:唐朝吏部侍郎]]"],["孔裸天竺鯛",2,3,"duplicated parameter"," image = Gymnapogon africanus.jpg\n "],["孔雀王朝",183,24,"duplicated style attribute","style=\"margin:0 auto;\""],["字母表效應",46,2,"duplicated category","[[Category:通訊理論]]"],["孙士敦",35,2,"duplicated category","[[Category:芬兰社会民主党党员]]"],["孙大午",39,2,"duplicated category","[[Category:中華人民共和國企業家]]"],["孙寒冰",21,2,"duplicated category","[[Category:南汇人]]"],["孙玉玺",37,2,"duplicated category","[[Category:中华人民共和国驻意大利大使]]"],["孙雪玲",19,3,"duplicated parameter"," alma_mater = \n "],["孟加拉文",259,5,"duplicated class attribute","class=\"nounderlines\""],["孟加拉语",13,3,"duplicated parameter"," date = 2025\n "],["孟楠 (萬曆進士)",30,2,"duplicated category","[[Category:南京工部郎中]]"],["孟買邦",1,39,"duplicated image caption parameter","widthpx"],["季莫菲·萨普罗诺夫",23,2,"duplicated category","[[Category:被处决的革命家]]"],["季諾",72,84,"duplicated image caption parameter","Encuentro_con_Quino,_en_el_Salón_del_Libro_de_París_2014_(13333800253)"],["孫吳",110,4,"duplicated class attribute","class=\"wikitable\""],["孫德禎",24,2,"duplicated category","[[Category:北京人]]"],["孫慧舟",55,5,"duplicated style attribute","style=\"background:#FF79BC\""],["孫效智",252,2,"duplicated category","[[Category:國立臺灣大學教授]]"],["孫若瑜",11,3,"duplicated parameter","配偶=\n "],["孫觀漢",57,2,"duplicated category","[[Category:浙江大學校友]]"],["學甲小麥產業文化節",9,2,"duplicated category","[[Category:台灣文化節]]"],["宁乡话",29,70,"duplicated align attribute","align=\"center\""],["宁德历任行政首长列表",1584,70,"duplicated style attribute","style=\"margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; borde"],["宁德站",108,3,"duplicated style attribute","style=\"border-top:solid 1px gray;\""],["宁远站",14,5,"duplicated border attribute","border=1"],["宅男的人间冒险",56,25,"duplicated category","[[分类:Windows游戏]]"],["宇宙少女",475,50,"duplicated image caption parameter","略縮圖"],["宇文俭",32,2,"duplicated category","[[Category:北周军事人物]]"],["宇文纯",22,2,"duplicated category","[[Category:南北朝太傅]]"],["守護者系列",621,619,"duplicated parameter","language=ja "],["安东-京特尔 (奥尔登堡)",44,4,"duplicated cory attribute","cory"],["安东·韦伯恩",66,2,"duplicated category","[[Category:在奥地利意外身亡者]]"],["安东尼·蒂格",46,2,"duplicated category","[[Category:韓國翻譯家]]"],["安东尼·韦恩",73,42,"duplicated image caption parameter","ritht"],["安东尼亚堡垒",16,2,"duplicated category","[[Category:CS1 French-language sources (fr)]]"],["安东尼奥·塔亚尼",33,3,"duplicated parameter","office3         = {{tsl|en|European Commissioner for Industry and Entrepreneursh"],["安东尼奥·帕帕诺",58,2,"duplicated category","[[Category:下級勳位爵士]]"],["安住淳",103,2,"duplicated category","[[Category:日本男性眾議院議員]]"],["安俊豪",49,43,"duplicated image caption parameter","Right"],["安倍口罩",87,24,"duplicated style attribute","style=\"width:125%\""],["安努舒卡·莎瑪",48,71,"duplicated image caption parameter","Right"],["安化楼",103,3,"duplicated parameter"," embedded            = \n "],["安华内阁",64,3,"duplicated parameter","boxwidth     = 222\n "],["安卡拉",456,47,"duplicated image caption parameter","安卡拉"],["安地卡及巴布達簽證政策",5,71,"duplicated image caption parameter","安地卡及巴布達簽證政策"],["安妮·艾伯斯",71,2,"duplicated category","[[Category:纺织艺术家]]"],["安娜·巴甫洛娃",34,41,"duplicated image caption parameter","{{le|尼可拉·萊加特|Nikolai Legat}}和{le"],["安娜·芭麗瑤",32,20,"duplicated parameter","id=movie"],["安孔條約",1,28,"duplicated image caption parameter","500px,px"],["安定亞",251,2,"duplicated category","[[Category:李姓|L李]]"],["安尼魯·康特",47,266,"duplicated name attribute","name=Wright2004/<ref"],["安德拉斯·西蒙",8,2,"duplicated category","[[Category:匈牙利男子足球运动员]]"],["安德烈·別洛烏索夫",73,187,"duplicated parameter","language=zh"],["安德烈·多里亚级直升机巡洋舰",82,141,"duplicated name attribute","name=\"j1\""],["安德烈·斯捷潘诺维奇·舍甫琴科",26,2,"duplicated category","[[Category:蘇聯共產黨黨員]]"],["安德烈·蘇霍維茨基",123,2,"duplicated category","[[Category:勇氣勳章獲得者]]"],["安德烈亚斯·哈耶克",25,2,"duplicated category","[[Category:世界赛艇锦标赛奖牌得主]]"],["安德肖",103,210,"duplicated parameter","language=en"],["安德魯·米切爾",73,3,"duplicated parameter","successor7       = [[韋力生]]\n "],["安徽省蚌埠第一中学",48,24,"duplicated style attribute","style=\"text-align:center\""],["安打",21,5,"duplicated class attribute","class=\"wikitable\""],["安提瓜和巴布達國家足球隊",52,24,"duplicated style attribute","style=\"text-align: center;\""],["安斯加尔·韦斯林",22,2,"duplicated category","[[Category:世界赛艇锦标赛奖牌得主]]"],["安東·大衛·傑夫薩",2,3,"duplicated parameter","1=zh-cn:密室逃生2; zh-hk:密室逃殺：倖存者遊戲; zh-tw:密弒遊戲2：勝者危亡;\n "],["安東尼·倫登",90,2,"duplicated category","[[Category:德克薩斯州棒球運動員]]"],["安東尼·阿爾巴尼斯",23,3,"duplicated parameter"," deputy1 = [[理查德·马尔斯]]\n "],["安東尼奧·科斯塔",3,3,"duplicated parameter"," 1 = zh-cn:塞巴斯蒂安; zh-hant:施巴士坦;\n "],["安森號戰艦",27,61,"conflicting image horizontal-alignment parameter","left"],["安樂戰場",123,2,"duplicated category","[[Category:香港動作片]]"],["安浩永",27,2,"duplicated category","[[Category:全北大學校友]]"],["安炳吉",32,2,"duplicated category","[[Category:國民力量黨員]]"],["安珀·路德",225,2,"duplicated category","[[Category:马里波恩人]]"],["安第斯共同体",45,312,"duplicated parameter","archivedate=https://web.archive.org/web/20020616143720/http://www.comunidadandin"],["安迪·馬提",84,5,"duplicated align attribute","align=center"],["安達斯·連迪加特",98,2,"duplicated category","[[Category:丹麦男子足球运动员]]"],["安麦角",76,2,"duplicated category","[[Category:抗焦虑药]]"],["宋威",24,2,"duplicated category","[[Category:平盧節度使]]"],["宋家豪",94,5,"duplicated align attribute","align=center"],["宋平",191,2,"duplicated category","[[Category:甘肃省革命委员会主任]]"],["宋柏緯",195,24,"duplicated style attribute","style=\"background:white; text-align:center\""],["宋歌人",124,2,"duplicated category","[[Category:韓國電視主持人]]"],["宋玉生公園",24,44,"duplicated image caption parameter","Right"],["宋錫俊",34,2,"duplicated category","[[Category:國民力量黨員]]"],["宋雨琦",561,3,"duplicated colspan attribute","colspan=\"6\""],["完全解放",232,2,"duplicated category","[[Category:马克斯·马丁制作的歌曲]]"],["完美的结婚公式",706,2,"duplicated category","[[Category:Now寬頻電視外購劇集]]"],["完颜思烈",10,2,"duplicated category","[[Category:完颜氏|S]]"],["宗主教",97,46,"duplicated image caption parameter","200xp"],["官山河站",20,3,"duplicated parameter"," colour = \n "],["官方语言",4,38,"conflicting image horizontal-alignment parameter","right"],["宛如阿修羅",283,2,"duplicated category","[[Category:NHK週六電視劇]]"],["宜昌市",1035,24,"duplicated style attribute","style=\"text-align:center\""],["宜昌市第二中学",44,2,"duplicated category","[[Category:宜昌中等学校]]"],["宜蘭縣",277,5,"duplicated style attribute","style=\"width:300px\""],["宝丰站 (昆明市)",7,3,"duplicated parameter","type = [[地铁车站]]\n "],["实相寺昭雄",76,24,"duplicated style attribute","style=\"width: 100%\""],["宣城站",80,127,"duplicated colspan attribute","colspan=2"],["宣慈皇后 (後周)",47,2,"duplicated category","[[Category:后周皇后]]"],["宣銅烈",152,5,"duplicated align attribute","align=center"],["室内设计",14,49,"duplicated image caption parameter","200pc"],["宫原优",10,2,"duplicated category","[[Category:亞洲角力錦標賽獎牌得主]]"],["宮原眼科",5,3,"duplicated parameter","1=zh:颱風海鷗; zh-hans:台风海鸥; zh-tw:中度颱風卡玫基; zh-hk:颱風海鷗\n "],["宮腰光寬",98,2,"duplicated category","[[Category:日本男性眾議院議員]]"],["家产制",50,2,"duplicated category","[[Category:政治學術語]]"],["家八哥",171,35,"duplicated image caption parameter","Perching among the foliage of a [[Ceiba pentandra"],["宸頤",165,2,"duplicated category","[[Category:台灣電視女演員|L廖]]"],["容祖兒",105,1220,"duplicated parameter","accessdate=2020-08-25 "],["容祖兒獎項列表",515,225,"duplicated parameter","accessdate=2020-08-25 "],["宽叶羽衣甘蓝",1,178,"duplicated sans attribute","Sans"],["宿龙桥站",22,3,"duplicated parameter"," connections = \n "],["寄存器重命名",10,5,"duplicated class attribute","class=\"wikitable\""],["密歇根五虎",1,41,"duplicated image caption parameter","Right"],["密点胡椒鲷",14,2,"duplicated category","[[Category:胡椒鲷属|M]]"],["密爾沃基河",149,2,"duplicated category","[[Category:威斯康辛州河流]]"],["密特羅德Prime 3 墮落",38,2,"duplicated category","[[Category:前傳電子遊戲]]"],["密西根大学",1035,2,"duplicated category","[[Category:密歇根大學| ]]"],["密鳃鱼",2,3,"duplicated parameter"," image = HemiglyphPlagiometorangkucing.jpg\n "],["富僧德",22,2,"duplicated category","[[Category:西安將軍|署]]"],["富兰克林·埃哲顿",5,2,"duplicated category","[[Category:Articles using Template Infobox person Wikidata]]"],["富兰克林·德拉诺·罗斯福大桥",7,40,"duplicated image caption parameter","Vorschaubild"],["富士X-T4",39,3,"duplicated parameter","viewfinder=內置人眼感應器的電子觀景窗\n "],["富森·迪亞比迪",82,2,"duplicated category","[[Category:英超球員]]"],["富民路 (高雄市)",67,2,"duplicated category","[[Category:高雄市街道]]"],["富田林市",25,63,"duplicated image caption parameter","Center"],["富羅雷",59,2,"duplicated category","[[Category:萨莱诺省市镇|F]]"],["富蘭克林大道車站 (福爾頓街)",51,77,"duplicated valign attribute","valign=top"],["寐猎龙属",38,7,"duplicated parameter","2={{clade\n      |1={{clade\n       |1=[[曲鼻龙]] ''Sinusonasus'' [[File:Sinusonasus."],["察南自治政府",117,2,"duplicated category","[[Category:察南自治政府| ]]"],["寧芙花園",26,2,"duplicated category","[[Category:意大利園林]]"]],"batches":43}
+window.data={"articles":[[
+	"女力報到—小資女上班記",
+	306,
+	46,
+	"duplicated style attribute",
+	"style=\"text-align:center;\""
+],[
+	"女惡魔人",
+	65,
+	583,
+	"duplicated parameter",
+	"language=ja"
+],[
+	"女法醫JD",
+	197,
+	3,
+	"duplicated parameter",
+	"電視台={{HKG}} [[無綫電視]][[翡翠台]]\n "
+],[
+	"女王十字教堂 (格拉斯哥)",
+	32,
+	35,
+	"duplicated image caption parameter",
+	"Image:Queens Cross Church07i.jpg"
+],[
+	"女真",
+	1,
+	10,
+	"duplicated parameter",
+	"\n "
+],[
+	"女神異聞錄4 通宵熱舞",
+	54,
+	2,
+	"duplicated category",
+	"[[Category:2015年电子游戏]]"
+],[
+	"奶油城磚",
+	43,
+	2,
+	"duplicated category",
+	"[[Category:磚]]"
+],[
+	"好好愛我",
+	461,
+	2,
+	"duplicated category",
+	"[[Category:伊利亚·萨尔曼扎德创作的歌曲]]"
+],[
+	"好小男孩",
+	104,
+	2,
+	"duplicated category",
+	"[[Category:温哥华取景电影]]"
+],[
+	"好樣科技",
+	38,
+	2,
+	"duplicated category",
+	"[[Category:台灣電子公司]]"
+],[
+	"如此而已",
+	559,
+	2,
+	"duplicated category",
+	"[[Category:克里斯·马丁创作的歌曲]]"
+],[
+	"妊姓",
+	30,
+	2,
+	"duplicated category",
+	"[[Category:中國上古姓氏|R妊]]"
+],[
+	"妒鼠屬",
+	24,
+	2,
+	"duplicated category",
+	"[[Category:鼠亚科|D]]"
+],[
+	"妖怪旅館營業中",
+	204,
+	377,
+	"duplicated parameter",
+	"dead-url=no"
+],[
+	"妖怪旅館營業中角色列表",
+	18,
+	295,
+	"duplicated parameter",
+	"dead-url=no"
+],[
+	"妮科莱塔-安库察·博德纳尔",
+	15,
+	2,
+	"duplicated category",
+	"[[Category:2020年夏季奧林匹克運動會獎牌得主]]"
+],[
+	"妳和其餘的一切",
+	18,
+	3,
+	"duplicated parameter",
+	" language = 韩语\n "
+],[
+	"妹选拔☆总选举",
+	217,
+	2,
+	"duplicated category",
+	"[[Category:多重结局电子游戏]]"
+],[
+	"始創先鋒",
+	565,
+	3,
+	"duplicated parameter",
+	"mmfm={{flag icon|CAN|1957}} [[北地舞人]]\n "
+],[
+	"委內瑞拉聯合航空",
+	136,
+	64,
+	"duplicated image caption parameter",
+	"roght"
+],[
+	"姚剧",
+	17,
+	2,
+	"duplicated category",
+	"[[Category:戏曲剧种]]"
+],[
+	"姚桐斌",
+	55,
+	2,
+	"duplicated category",
+	"[[Category:伯明罕大學校友]]"
+],[
+	"姜习",
+	19,
+	2,
+	"duplicated category",
+	"[[Category:第七屆全國政協委員]]"
+],[
+	"姜保国",
+	45,
+	2,
+	"duplicated category",
+	"[[Category:丹东人]]"
+],[
+	"姜吉宇",
+	138,
+	2,
+	"duplicated category",
+	"[[Category:韓國電視男演員]]"
+],[
+	"姜大植",
+	34,
+	2,
+	"duplicated category",
+	"[[Category:國民力量黨員]]"
+],[
+	"姜子牙 (电影)",
+	108,
+	49,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"姜旻局",
+	32,
+	2,
+	"duplicated category",
+	"[[Category:國民力量黨員]]"
+],[
+	"姜濤",
+	338,
+	39,
+	"duplicated style attribute",
+	"style=\"width:90%\""
+],[
+	"姜起潤",
+	37,
+	2,
+	"duplicated category",
+	"[[Category:國民力量黨員]]"
+],[
+	"威利博士",
+	30,
+	34,
+	"conflicting image frame parameter",
+	"thumb"
+],[
+	"威利转写",
+	10,
+	36,
+	"duplicated cellpadding attribute",
+	"cellpadding=\"8\""
+],[
+	"威寶公司",
+	35,
+	49,
+	"duplicated image caption parameter",
+	"链接=https://zh.wikipedia.org/wiki/File:Verbatim 16x DVD-R spindle 20050708.png"
+],[
+	"威尔士浦",
+	1,
+	10,
+	"duplicated parameter",
+	"\n "
+],[
+	"威廉·C·杨",
+	67,
+	2,
+	"duplicated category",
+	"[[Category:美国教育家]]"
+],[
+	"威廉·C·罗伯茨",
+	62,
+	2,
+	"duplicated category",
+	"[[Category:美国教育家]]"
+],[
+	"威廉·丹皮尔",
+	34,
+	2,
+	"duplicated category",
+	"[[Category:英格蘭海員]]"
+],[
+	"威廉·伦肖",
+	16,
+	2,
+	"duplicated category",
+	"[[Category:英國男子網球運動員]]"
+],[
+	"威廉·克理",
+	3,
+	20,
+	"duplicated image caption parameter",
+	"Thumb"
+],[
+	"威廉·劳德",
+	37,
+	2,
+	"duplicated category",
+	"[[Category:處決於倫敦塔者]]"
+],[
+	"威廉·史提",
+	36,
+	3,
+	"duplicated parameter",
+	" manageryears9 = 2022–2024\n "
+],[
+	"威廉·巴克斯戴爾",
+	24,
+	2,
+	"duplicated category",
+	"[[Category:美国民兵将领]]"
+],[
+	"威廉·弗莱德金",
+	4,
+	3,
+	"duplicated parameter",
+	"1=zh-tw:威廉·佛雷金;zh-hk:威廉·佛烈堅;zh-my:威廉·费烈金;zh-cn:威廉·弗莱德金;zh:威廉·弗莱德金;\n "
+],[
+	"威廉·怀特洛",
+	107,
+	2,
+	"duplicated category",
+	"[[Category:第43届英国下议院议员]]"
+],[
+	"威廉·托马斯·桑德勒",
+	476,
+	17,
+	"duplicated the attribute",
+	"the"
+],[
+	"威廉·詹宁斯·布莱恩",
+	101,
+	2,
+	"duplicated category",
+	"[[Category:1908年美国总统选举候选人]]"
+],[
+	"威廉·赫茲利特",
+	24,
+	2,
+	"duplicated category",
+	"[[Category:英格蘭散文家]]"
+],[
+	"威廉·门格尔贝格",
+	33,
+	38,
+	"duplicated image caption parameter",
+	"{{largethumb}}"
+],[
+	"威廉·霍尔·梅西",
+	252,
+	18,
+	"duplicated door attribute",
+	"Door"
+],[
+	"威廉·麦克米伦",
+	20,
+	2,
+	"duplicated category",
+	"[[Category:奧林匹克運動會射擊獎牌得主]]"
+],[
+	"威廉一世 (黑森选侯)",
+	47,
+	4,
+	"duplicated cory attribute",
+	"cory"
+],[
+	"威廉王子 (電視劇)",
+	159,
+	23,
+	"duplicated style attribute",
+	"style=\"width:80%\""
+],[
+	"威斯康星大學奧克萊爾分校",
+	6,
+	3,
+	"duplicated parameter",
+	"motto = The Power of AND\n "
+],[
+	"威林·罗萨里奥",
+	92,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"威根竞技足球俱乐部",
+	333,
+	49,
+	"duplicated parameter",
+	"language=en "
+],[
+	"威爾·史密斯掌摑克里斯·洛克事件",
+	77,
+	2,
+	"duplicated category",
+	"[[Category:美國電視爭議事件]]"
+],[
+	"威靈臣·迪蘇沙",
+	43,
+	3,
+	"duplicated parameter",
+	" years7 = 2024\n "
+],[
+	"姬振",
+	67,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"姬絲汀娜·莉芝",
+	53,
+	5,
+	"duplicated style attribute",
+	"style=\"text-align:center;\""
+],[
+	"姬絲甸·冼佳亞國際比賽入球列表",
+	1567,
+	33,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"姬金线鱼",
+	19,
+	2,
+	"duplicated category",
+	"[[Category:金线鱼属|姬金线鱼]]"
+],[
+	"姬鸚哥魚",
+	2,
+	3,
+	"duplicated parameter",
+	" image = Dark-capped Parrotfish.jpg\n "
+],[
+	"娛樂3兄弟",
+	35,
+	23,
+	"duplicated style attribute",
+	"style=\"width:80%; font-size: 14px;\""
+],[
+	"娜奥米·朗",
+	111,
+	2,
+	"duplicated category",
+	"[[Category:第55届英国下议院议员]]"
+],[
+	"娜琳迪帕·莎功翁昂派",
+	147,
+	2,
+	"duplicated category",
+	"[[Category:泰國電視女演員]]"
+],[
+	"婆羅多舞",
+	23,
+	71,
+	"duplicated image caption parameter",
+	"upright=1.2<!--fmt for low img-->"
+],[
+	"嫦娥五号",
+	14,
+	3,
+	"duplicated parameter",
+	" programme = [[中国探月工程]]\n "
+],[
+	"孔庚",
+	53,
+	2,
+	"duplicated category",
+	"[[Category:入祀國民革命忠烈祠者]]"
+],[
+	"孔徑掩模干涉術",
+	1,
+	50,
+	"duplicated image caption parameter",
+	"a)顯示了在重新成像的孔徑平面中使用孔徑掩模的簡單實驗。b) 和c) 顯示了由{{link-en|彼得·塔希爾 (天文學家)|Peter Tuthill (as"
+],[
+	"孔德貴",
+	36,
+	37,
+	"duplicated image caption parameter",
+	"28opx"
+],[
+	"孔戣",
+	43,
+	2,
+	"duplicated category",
+	"[[Category:唐朝吏部侍郎]]"
+],[
+	"孔裸天竺鯛",
+	2,
+	3,
+	"duplicated parameter",
+	" image = Gymnapogon africanus.jpg\n "
+],[
+	"孔雀王朝",
+	183,
+	24,
+	"duplicated style attribute",
+	"style=\"margin:0 auto;\""
+],[
+	"字母表效應",
+	46,
+	2,
+	"duplicated category",
+	"[[Category:通訊理論]]"
+],[
+	"孙士敦",
+	35,
+	2,
+	"duplicated category",
+	"[[Category:芬兰社会民主党党员]]"
+],[
+	"孙大午",
+	39,
+	2,
+	"duplicated category",
+	"[[Category:中華人民共和國企業家]]"
+],[
+	"孙寒冰",
+	21,
+	2,
+	"duplicated category",
+	"[[Category:南汇人]]"
+],[
+	"孙玉玺",
+	37,
+	2,
+	"duplicated category",
+	"[[Category:中华人民共和国驻意大利大使]]"
+],[
+	"孙雪玲",
+	19,
+	3,
+	"duplicated parameter",
+	" alma_mater = \n "
+],[
+	"孟加拉文",
+	259,
+	5,
+	"duplicated class attribute",
+	"class=\"nounderlines\""
+],[
+	"孟加拉语",
+	13,
+	3,
+	"duplicated parameter",
+	" date = 2025\n "
+],[
+	"孟楠 (萬曆進士)",
+	30,
+	2,
+	"duplicated category",
+	"[[Category:南京工部郎中]]"
+],[
+	"孟買邦",
+	1,
+	39,
+	"duplicated image caption parameter",
+	"widthpx"
+],[
+	"季莫菲·萨普罗诺夫",
+	23,
+	2,
+	"duplicated category",
+	"[[Category:被处决的革命家]]"
+],[
+	"季諾",
+	72,
+	84,
+	"duplicated image caption parameter",
+	"Encuentro_con_Quino,_en_el_Salón_del_Libro_de_París_2014_(13333800253)"
+],[
+	"孫吳",
+	110,
+	4,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"孫德禎",
+	24,
+	2,
+	"duplicated category",
+	"[[Category:北京人]]"
+],[
+	"孫慧舟",
+	55,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"孫效智",
+	252,
+	2,
+	"duplicated category",
+	"[[Category:國立臺灣大學教授]]"
+],[
+	"孫若瑜",
+	11,
+	3,
+	"duplicated parameter",
+	"配偶=\n "
+],[
+	"孫觀漢",
+	57,
+	2,
+	"duplicated category",
+	"[[Category:浙江大學校友]]"
+],[
+	"學甲小麥產業文化節",
+	9,
+	2,
+	"duplicated category",
+	"[[Category:台灣文化節]]"
+],[
+	"宁乡话",
+	29,
+	70,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"宁德历任行政首长列表",
+	1584,
+	70,
+	"duplicated style attribute",
+	"style=\"margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; borde"
+],[
+	"宁德站",
+	108,
+	3,
+	"duplicated style attribute",
+	"style=\"border-top:solid 1px gray;\""
+],[
+	"宁远站",
+	14,
+	5,
+	"duplicated border attribute",
+	"border=1"
+],[
+	"宅男的人间冒险",
+	56,
+	25,
+	"duplicated category",
+	"[[分类:Windows游戏]]"
+],[
+	"宇宙少女",
+	475,
+	50,
+	"duplicated image caption parameter",
+	"略縮圖"
+],[
+	"宇文俭",
+	32,
+	2,
+	"duplicated category",
+	"[[Category:北周军事人物]]"
+],[
+	"宇文纯",
+	22,
+	2,
+	"duplicated category",
+	"[[Category:南北朝太傅]]"
+],[
+	"守護者系列",
+	621,
+	619,
+	"duplicated parameter",
+	"language=ja "
+],[
+	"安东-京特尔 (奥尔登堡)",
+	44,
+	4,
+	"duplicated cory attribute",
+	"cory"
+],[
+	"安东·韦伯恩",
+	66,
+	2,
+	"duplicated category",
+	"[[Category:在奥地利意外身亡者]]"
+],[
+	"安东尼·蒂格",
+	46,
+	2,
+	"duplicated category",
+	"[[Category:韓國翻譯家]]"
+],[
+	"安东尼·韦恩",
+	73,
+	42,
+	"duplicated image caption parameter",
+	"ritht"
+],[
+	"安东尼亚堡垒",
+	16,
+	2,
+	"duplicated category",
+	"[[Category:CS1 French-language sources (fr)]]"
+],[
+	"安东尼奥·塔亚尼",
+	33,
+	3,
+	"duplicated parameter",
+	"office3         = {{tsl|en|European Commissioner for Industry and Entrepreneursh"
+],[
+	"安东尼奥·帕帕诺",
+	58,
+	2,
+	"duplicated category",
+	"[[Category:下級勳位爵士]]"
+],[
+	"安住淳",
+	103,
+	2,
+	"duplicated category",
+	"[[Category:日本男性眾議院議員]]"
+],[
+	"安俊豪",
+	49,
+	43,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"安倍口罩",
+	87,
+	24,
+	"duplicated style attribute",
+	"style=\"width:125%\""
+],[
+	"安努舒卡·莎瑪",
+	48,
+	71,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"安化楼",
+	103,
+	3,
+	"duplicated parameter",
+	" embedded            = \n "
+],[
+	"安华内阁",
+	64,
+	3,
+	"duplicated parameter",
+	"boxwidth     = 222\n "
+],[
+	"安卡拉",
+	456,
+	47,
+	"duplicated image caption parameter",
+	"安卡拉"
+],[
+	"安地卡及巴布達簽證政策",
+	5,
+	71,
+	"duplicated image caption parameter",
+	"安地卡及巴布達簽證政策"
+],[
+	"安妮·艾伯斯",
+	71,
+	2,
+	"duplicated category",
+	"[[Category:纺织艺术家]]"
+],[
+	"安娜·巴甫洛娃",
+	34,
+	41,
+	"duplicated image caption parameter",
+	"{{le|尼可拉·萊加特|Nikolai Legat}}和{le"
+],[
+	"安娜·芭麗瑤",
+	32,
+	20,
+	"duplicated parameter",
+	"id=movie"
+],[
+	"安孔條約",
+	1,
+	28,
+	"duplicated image caption parameter",
+	"500px,px"
+],[
+	"安定亞",
+	251,
+	2,
+	"duplicated category",
+	"[[Category:李姓|L李]]"
+],[
+	"安尼魯·康特",
+	47,
+	266,
+	"duplicated name attribute",
+	"name=Wright2004/<ref"
+],[
+	"安德拉斯·西蒙",
+	8,
+	2,
+	"duplicated category",
+	"[[Category:匈牙利男子足球运动员]]"
+],[
+	"安德烈·別洛烏索夫",
+	73,
+	187,
+	"duplicated parameter",
+	"language=zh"
+],[
+	"安德烈·多里亚级直升机巡洋舰",
+	82,
+	141,
+	"duplicated name attribute",
+	"name=\"j1\""
+],[
+	"安德烈·斯捷潘诺维奇·舍甫琴科",
+	26,
+	2,
+	"duplicated category",
+	"[[Category:蘇聯共產黨黨員]]"
+],[
+	"安德烈·蘇霍維茨基",
+	123,
+	2,
+	"duplicated category",
+	"[[Category:勇氣勳章獲得者]]"
+],[
+	"安德烈亚斯·哈耶克",
+	25,
+	2,
+	"duplicated category",
+	"[[Category:世界赛艇锦标赛奖牌得主]]"
+],[
+	"安德肖",
+	103,
+	210,
+	"duplicated parameter",
+	"language=en"
+],[
+	"安德魯·米切爾",
+	73,
+	3,
+	"duplicated parameter",
+	"successor7       = [[韋力生]]\n "
+],[
+	"安徽省蚌埠第一中学",
+	48,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"安打",
+	21,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"安提瓜和巴布達國家足球隊",
+	52,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align: center;\""
+],[
+	"安斯加尔·韦斯林",
+	22,
+	2,
+	"duplicated category",
+	"[[Category:世界赛艇锦标赛奖牌得主]]"
+],[
+	"安東·大衛·傑夫薩",
+	2,
+	3,
+	"duplicated parameter",
+	"1=zh-cn:密室逃生2; zh-hk:密室逃殺：倖存者遊戲; zh-tw:密弒遊戲2：勝者危亡;\n "
+],[
+	"安東尼·倫登",
+	90,
+	2,
+	"duplicated category",
+	"[[Category:德克薩斯州棒球運動員]]"
+],[
+	"安東尼·阿爾巴尼斯",
+	23,
+	3,
+	"duplicated parameter",
+	" deputy1 = [[理查德·马尔斯]]\n "
+],[
+	"安東尼奧·科斯塔",
+	3,
+	3,
+	"duplicated parameter",
+	" 1 = zh-cn:塞巴斯蒂安; zh-hant:施巴士坦;\n "
+],[
+	"安森號戰艦",
+	27,
+	61,
+	"conflicting image horizontal-alignment parameter",
+	"left"
+],[
+	"安樂戰場",
+	123,
+	2,
+	"duplicated category",
+	"[[Category:香港動作片]]"
+],[
+	"安浩永",
+	27,
+	2,
+	"duplicated category",
+	"[[Category:全北大學校友]]"
+],[
+	"安炳吉",
+	32,
+	2,
+	"duplicated category",
+	"[[Category:國民力量黨員]]"
+],[
+	"安珀·路德",
+	225,
+	2,
+	"duplicated category",
+	"[[Category:马里波恩人]]"
+],[
+	"安第斯共同体",
+	45,
+	312,
+	"duplicated parameter",
+	"archivedate=https://web.archive.org/web/20020616143720/http://www.comunidadandin"
+],[
+	"安迪·馬提",
+	84,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"安達斯·連迪加特",
+	98,
+	2,
+	"duplicated category",
+	"[[Category:丹麦男子足球运动员]]"
+],[
+	"安麦角",
+	76,
+	2,
+	"duplicated category",
+	"[[Category:抗焦虑药]]"
+],[
+	"宋威",
+	24,
+	2,
+	"duplicated category",
+	"[[Category:平盧節度使]]"
+],[
+	"宋家豪",
+	94,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"宋平",
+	191,
+	2,
+	"duplicated category",
+	"[[Category:甘肃省革命委员会主任]]"
+],[
+	"宋柏緯",
+	195,
+	24,
+	"duplicated style attribute",
+	"style=\"background:white; text-align:center\""
+],[
+	"宋歌人",
+	124,
+	2,
+	"duplicated category",
+	"[[Category:韓國電視主持人]]"
+],[
+	"宋玉生公園",
+	24,
+	44,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"宋錫俊",
+	34,
+	2,
+	"duplicated category",
+	"[[Category:國民力量黨員]]"
+],[
+	"宋雨琦",
+	561,
+	3,
+	"duplicated colspan attribute",
+	"colspan=\"6\""
+],[
+	"完全解放",
+	232,
+	2,
+	"duplicated category",
+	"[[Category:马克斯·马丁制作的歌曲]]"
+],[
+	"完美的结婚公式",
+	706,
+	2,
+	"duplicated category",
+	"[[Category:Now寬頻電視外購劇集]]"
+],[
+	"完颜思烈",
+	10,
+	2,
+	"duplicated category",
+	"[[Category:完颜氏|S]]"
+],[
+	"宗主教",
+	97,
+	46,
+	"duplicated image caption parameter",
+	"200xp"
+],[
+	"官山河站",
+	20,
+	3,
+	"duplicated parameter",
+	" colour = \n "
+],[
+	"官方语言",
+	4,
+	38,
+	"conflicting image horizontal-alignment parameter",
+	"right"
+],[
+	"宛如阿修羅",
+	283,
+	2,
+	"duplicated category",
+	"[[Category:NHK週六電視劇]]"
+],[
+	"宜昌市",
+	1035,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"宜昌市第二中学",
+	44,
+	2,
+	"duplicated category",
+	"[[Category:宜昌中等学校]]"
+],[
+	"宜蘭縣",
+	277,
+	5,
+	"duplicated style attribute",
+	"style=\"width:300px\""
+],[
+	"宝丰站 (昆明市)",
+	7,
+	3,
+	"duplicated parameter",
+	"type = [[地铁车站]]\n "
+],[
+	"实相寺昭雄",
+	76,
+	24,
+	"duplicated style attribute",
+	"style=\"width: 100%\""
+],[
+	"宣城站",
+	80,
+	127,
+	"duplicated colspan attribute",
+	"colspan=2"
+],[
+	"宣慈皇后 (後周)",
+	47,
+	2,
+	"duplicated category",
+	"[[Category:后周皇后]]"
+],[
+	"宣銅烈",
+	152,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"室内设计",
+	14,
+	49,
+	"duplicated image caption parameter",
+	"200pc"
+],[
+	"宫原优",
+	10,
+	2,
+	"duplicated category",
+	"[[Category:亞洲角力錦標賽獎牌得主]]"
+],[
+	"宮原眼科",
+	5,
+	3,
+	"duplicated parameter",
+	"1=zh:颱風海鷗; zh-hans:台风海鸥; zh-tw:中度颱風卡玫基; zh-hk:颱風海鷗\n "
+],[
+	"宮腰光寬",
+	98,
+	2,
+	"duplicated category",
+	"[[Category:日本男性眾議院議員]]"
+],[
+	"家产制",
+	50,
+	2,
+	"duplicated category",
+	"[[Category:政治學術語]]"
+],[
+	"家八哥",
+	171,
+	35,
+	"duplicated image caption parameter",
+	"Perching among the foliage of a [[Ceiba pentandra"
+],[
+	"宸頤",
+	165,
+	2,
+	"duplicated category",
+	"[[Category:台灣電視女演員|L廖]]"
+],[
+	"容祖兒",
+	105,
+	1220,
+	"duplicated parameter",
+	"accessdate=2020-08-25 "
+],[
+	"容祖兒獎項列表",
+	515,
+	225,
+	"duplicated parameter",
+	"accessdate=2020-08-25 "
+],[
+	"宽叶羽衣甘蓝",
+	1,
+	178,
+	"duplicated sans attribute",
+	"Sans"
+],[
+	"宿龙桥站",
+	22,
+	3,
+	"duplicated parameter",
+	" connections = \n "
+],[
+	"寄存器重命名",
+	10,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"密歇根五虎",
+	1,
+	41,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"密点胡椒鲷",
+	14,
+	2,
+	"duplicated category",
+	"[[Category:胡椒鲷属|M]]"
+],[
+	"密爾沃基河",
+	149,
+	2,
+	"duplicated category",
+	"[[Category:威斯康辛州河流]]"
+],[
+	"密特羅德Prime 3 墮落",
+	38,
+	2,
+	"duplicated category",
+	"[[Category:前傳電子遊戲]]"
+],[
+	"密西根大学",
+	1035,
+	2,
+	"duplicated category",
+	"[[Category:密歇根大學| ]]"
+],[
+	"密鳃鱼",
+	2,
+	3,
+	"duplicated parameter",
+	" image = HemiglyphPlagiometorangkucing.jpg\n "
+],[
+	"富僧德",
+	22,
+	2,
+	"duplicated category",
+	"[[Category:西安將軍|署]]"
+],[
+	"富兰克林·埃哲顿",
+	5,
+	2,
+	"duplicated category",
+	"[[Category:Articles using Template Infobox person Wikidata]]"
+],[
+	"富兰克林·德拉诺·罗斯福大桥",
+	7,
+	40,
+	"duplicated image caption parameter",
+	"Vorschaubild"
+],[
+	"富士X-T4",
+	39,
+	3,
+	"duplicated parameter",
+	"viewfinder=內置人眼感應器的電子觀景窗\n "
+],[
+	"富森·迪亞比迪",
+	82,
+	2,
+	"duplicated category",
+	"[[Category:英超球員]]"
+],[
+	"富民路 (高雄市)",
+	67,
+	2,
+	"duplicated category",
+	"[[Category:高雄市街道]]"
+],[
+	"富田林市",
+	25,
+	63,
+	"duplicated image caption parameter",
+	"Center"
+],[
+	"富羅雷",
+	59,
+	2,
+	"duplicated category",
+	"[[Category:萨莱诺省市镇|F]]"
+],[
+	"富蘭克林大道車站 (福爾頓街)",
+	51,
+	77,
+	"duplicated valign attribute",
+	"valign=top"
+],[
+	"寐猎龙属",
+	38,
+	7,
+	"duplicated parameter",
+	"2={{clade\n      |1={{clade\n       |1=[[曲鼻龙]] ''Sinusonasus'' [[File:Sinusonasus."
+],[
+	"察南自治政府",
+	117,
+	2,
+	"duplicated category",
+	"[[Category:察南自治政府| ]]"
+],[
+	"寧芙花園",
+	26,
+	2,
+	"duplicated category",
+	"[[Category:意大利園林]]"
+],],"batches":43}

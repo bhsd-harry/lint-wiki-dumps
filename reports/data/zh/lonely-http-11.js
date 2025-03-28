@@ -1,1 +1,1201 @@
-window.data={"articles":[["吳明修",72,30,"lonely \"ISBN\"","ISBN"],["吳明敏",74,40,"lonely \"ISBN\"","ISBN"],["吳業坤",775,73,"lonely \"ISBN\"","ISBN"],["吳武典",79,20,"lonely \"ISBN\"","ISBN"],["吳洛纓",101,38,"lonely \"ISBN\"","ISBN"],["吳焜裕",81,49,"lonely \"https://\"","https://"],["吳鈞堯",31,19,"lonely \"ISBN\"","ISBN"],["吳靄儀",204,3,"lonely \"ISBN\"","ISBN"],["吴哥窟",78,164,"lonely \"ISBN\"","ISBN"],["吴广义",7,250,"lonely \"ISBN\"","ISBN"],["吴志强",78,41,"lonely \"ISBN\"","ISBN"],["吴消元法",131,45,"lonely \"ISBN\"","ISBN"],["呂姵霖",14,467,"lonely \"http://\"","http://"],["呂忠翰",49,61,"lonely \"ISBN\"","ISBN"],["呂欣潔",102,157,"lonely \"ISBN\"","ISBN"],["周國忠",20,87,"lonely \"https://\"","https://"],["周天和",43,47,"lonely \"ISBN\"","ISBN"],["周婉窈",33,144,"lonely \"ISBN\"","ISBN"],["周定邦",156,45,"lonely \"ISBN\"","ISBN"],["周宣王對周邊各族之戰",1,51,"lonely \"ISBN\"","ISBN"],["周恩来",142,404,"lonely \"ISBN\"","isbn"],["周慕姿",45,32,"lonely \"ISBN\"","ISBN"],["周扬 (政治人物)",71,26,"lonely \"ISBN\"","ISBN"],["周晋镳",31,50,"lonely \"ISBN\"","ISBN"],["周梓盈",353,52,"lonely \"ISBN\"","ISBN"],["周永元",8,17,"lonely \"ISBN\"","ISBN"],["周祝瑛",38,17,"lonely \"https://\"","https://"],["周維新 (嘉慶進士)",6,42,"lonely \"ISBN\"","ISBN"],["周达观",60,147,"lonely \"ISBN\"","ISBN"],["呼喊派",239,285,"lonely \"https://\"","https://"],["和字頭派系",85,214,"lonely \"ISBN\"","ISBN"],["和安樂",35,202,"lonely \"ISBN\"","ISBN"],["和銅",43,29,"lonely \"ISBN\"","ISBN"],["和静县",42,391,"lonely \"ISBN\"","ISBN"],["哈利·波特与死亡圣器",207,138,"lonely \"ISBN\"","ISBN"],["哈基姆·马斯图尔",78,109,"lonely \"https://\"","https://"],["哈密國",84,53,"lonely \"ISBN\"","ISBN"],["哈爾瓦酥糖",11,149,"lonely \"ISBN\"","ISBN"],["哈索·普拉特納",28,70,"lonely \"ISBN\"","ISBN"],["員貝嶼",81,68,"lonely \"ISBN\"","ISBN"],["哥窑",15,33,"lonely \"ISBN\"","ISBN"],["哲學、政治學及經濟學",162,69,"lonely \"http://\"","http://"],["唐代长安方言考",16,33,"lonely \"ISBN\"","ISBN"],["唐太宗",309,341,"lonely \"ISBN\"","ISBN"],["唐捐",34,11,"lonely \"http://\"","http://"],["唐津線",275,82,"lonely \"ISBN\"","ISBN"],["唐皋",49,278,"lonely \"ISBN\"","ISBN"],["唱歌給你聽",351,42,"lonely \"https://\"","https://"],["商品貨幣",4,47,"lonely \"ISBN\"","ISBN"],["商羊",3,53,"lonely \"ISBN\"","ISBN"],["商道",122,18,"lonely \"ISBN\"","ISBN"],["善述書室",11,26,"lonely \"ISBN\"","ISBN"],["喪屍",29,637,"lonely \"ISBN\"","isbn"],["喬凡尼·斯基亞帕雷利",63,217,"lonely \"http://\"","http://"],["喬恩·波斯特爾",22,78,"lonely \"RFC\"","RFC"],["喬治·布勞羅克",14,397,"lonely \"https://\"","https://"],["單膛室手槍",6,169,"lonely \"ISBN\"","ISBN"],["嗡嗡包",199,61,"lonely \"https://\"","https://"],["嗣圣",87,56,"lonely \"ISBN\"","ISBN"],["嗣永桃子",54,18,"lonely \"ISBN\"","ISBN"],["嘉保",48,29,"lonely \"ISBN\"","ISBN"],["嘉元",36,29,"lonely \"ISBN\"","ISBN"],["嘉應 (日本)",41,29,"lonely \"ISBN\"","ISBN"],["嘉承",40,29,"lonely \"ISBN\"","ISBN"],["嘉曆",39,29,"lonely \"ISBN\"","ISBN"],["嘉海語支",37,45,"lonely \"http://\"","http://"],["嘉祥 (日本)",36,29,"lonely \"ISBN\"","ISBN"],["嘉祿",45,29,"lonely \"ISBN\"","ISBN"],["嘉禎",36,29,"lonely \"ISBN\"","ISBN"],["嘉義市各級學校列表",90,63,"lonely \"http://\"","http://"],["嘸蝦米輸入法",477,49,"lonely \"ISBN\"","ISBN"],["噶当派",10,167,"lonely \"ISBN\"","ISBN"],["嚴勵行",1678,20,"lonely \"ISBN\"","ISBN"],["嚴重特殊傳染性肺炎中央流行疫情指揮中心",178,88,"lonely \"ISBN\"","ISBN"],["四·一九运动",45,77,"lonely \"http://\"","http://"],["四人集团",15,41,"lonely \"ISBN\"","ISBN"],["四元玉鉴",64,95,"lonely \"ISBN\"","ISBN"],["四和弦之歌",36,31,"lonely \"http://\"","http://"],["四大公司 (三合會)",10,130,"lonely \"ISBN\"","ISBN"],["四川各市州地区生产总值列表",491,103,"lonely \"ISBN\"","ISBN"],["四川大学",232,107,"lonely \"http://\"","http://"],["四级铵盐",31,54,"lonely \"ISBN\"","ISBN"],["四郎探母",2,235,"lonely \"ISBN\"","ISBN"],["回声协议",1,27,"lonely \"RFC\"","RFC"],["回族",88,410,"lonely \"https://\"","https://"],["因特网组管理协议",90,6,"lonely \"RFC\"","RFC"],["国投新疆罗布泊钾盐",29,132,"lonely \"http://\"","http://"],["国民革命军第二十六军",33,721,"lonely \"ISBN\"","ISBN"],["国民革命军第五十一军",71,299,"lonely \"ISBN\"","ISBN"],["国民革命军第八十七军",2,74,"lonely \"ISBN\"","ISBN"],["国民革命军第八十五军",7,96,"lonely \"ISBN\"","ISBN"],["国闻周报",13,212,"lonely \"ISBN\"","ISBN"],["国闻通讯社",8,392,"lonely \"ISBN\"","ISBN"],["国际反战反法西斯同盟",40,167,"lonely \"ISBN\"","ISBN"],["图们铁路分局",86,30,"lonely \"ISBN\"","ISBN"],["图坦卡蒙",152,598,"lonely \"ISBN\"","ISBN"],["圆周率近似值",139,598,"lonely \"ISBN\"","ISBN"],["圆常数",12,122,"lonely \"http://\"","http://"],["國家安全警備總署",96,154,"lonely \"ISBN\"","ISBN"],["國家衛生指揮中心中央流行疫情指揮中心",113,88,"lonely \"ISBN\"","ISBN"],["國會開幕大典",24,119,"lonely \"https://\"","https://"],["國民革命軍第七十四軍",50,185,"lonely \"ISBN\"","ISBN"],["國民革命軍陸軍第六十一軍",10,276,"lonely \"ISBN\"","ISBN"],["國王的裁縫師",121,18,"lonely \"ISBN\"","ISBN"],["國立東華大學理工學院",65,301,"lonely \"http://\"","http://"],["國立臺北科技大學附屬桃園農工高級中等學校",39,6,"lonely \"http://\"","http://"],["國立陽明交通大學鐵道研究會",6,70,"lonely \"ISBN\"","ISBN"],["國語 (書)",56,31,"lonely \"ISBN\"","ISBN"],["國際NICONICO電影節",12,523,"lonely \"http://\"","http://"],["園藝療法",24,34,"lonely \"ISBN\"","ISBN"],["圓仔",67,114,"lonely \"ISBN\"","ISBN"],["圖-2轟炸機",57,25,"lonely \"ISBN\"","ISBN"],["圖-4轟炸機",188,32,"lonely \"ISBN\"","ISBN"],["圖論傅立葉轉換",62,103,"lonely \"http://\"","http://"],["土丹耶喜",21,38,"lonely \"ISBN\"","ISBN"],["土岐麻子",605,41,"lonely \"ISBN\"","ISBN"],["土耳其—美国关系",107,150,"lonely \"ISBN\"","ISBN"],["土耳其入侵塞浦路斯",7,2250,"lonely \"ISBN\"","ISBN"],["圣女贞德教堂 (鲁昂)",13,150,"lonely \"ISBN\"","isbn"],["圣弗拉基米尔教堂 (玛丽亚温泉市)",25,123,"lonely \"http://\"","http://"],["圣犹士坦堂 (巴黎)",8,141,"lonely \"ISBN\"","ISBN"],["圣莫里斯和拉匝禄教堂",48,137,"lonely \"ISBN\"","ISBN"],["在台緬甸華人",47,57,"lonely \"https://\"","https://"],["在线证书状态协议",60,5,"lonely \"RFC\"","rfc"],["地层尖灭",2,155,"lonely \"ISBN\"","isbn"],["地球之眼卫星公司",59,71,"lonely \"http://\"","http://"],["坍塌搜救專隊",120,201,"lonely \"https://\"","https://"],["坐",18,128,"lonely \"ISBN\"","ISBN"],["坡印亭定理",33,398,"lonely \"ISBN\"","ISBN"],["城巴10線",235,18,"lonely \"ISBN\"","ISBN"],["城巴11線",365,18,"lonely \"ISBN\"","ISBN"],["城巴12M線",122,18,"lonely \"ISBN\"","ISBN"],["城巴12線",234,18,"lonely \"ISBN\"","ISBN"],["城巴13線",150,18,"lonely \"ISBN\"","ISBN"],["城巴14線",285,18,"lonely \"ISBN\"","ISBN"],["城巴15B線",155,18,"lonely \"ISBN\"","ISBN"],["城巴15C線",98,18,"lonely \"ISBN\"","ISBN"],["城巴15線",358,18,"lonely \"ISBN\"","ISBN"],["城巴18P線",158,18,"lonely \"ISBN\"","ISBN"],["城巴18X線",222,18,"lonely \"ISBN\"","ISBN"],["城巴18線",39,292,"lonely \"ISBN\"","ISBN"],["城巴1號線",290,18,"lonely \"ISBN\"","ISBN"],["城巴23B線",162,18,"lonely \"ISBN\"","ISBN"],["城巴23線",348,18,"lonely \"ISBN\"","ISBN"],["城巴25A線",235,18,"lonely \"ISBN\"","ISBN"],["城巴25線",227,18,"lonely \"ISBN\"","ISBN"],["城巴260線",226,18,"lonely \"ISBN\"","ISBN"],["城巴27線",172,18,"lonely \"ISBN\"","ISBN"],["城巴2A線",270,18,"lonely \"ISBN\"","ISBN"],["城巴2X線",228,24,"lonely \"ISBN\"","ISBN"],["城巴2號線",221,18,"lonely \"ISBN\"","ISBN"],["城巴30X線",156,18,"lonely \"ISBN\"","ISBN"],["城巴37A、37B線",377,18,"lonely \"ISBN\"","ISBN"],["城巴38線",179,18,"lonely \"ISBN\"","ISBN"],["城巴40M線",186,18,"lonely \"ISBN\"","ISBN"],["城巴40P線",161,18,"lonely \"ISBN\"","ISBN"],["城巴40線",205,18,"lonely \"ISBN\"","ISBN"],["城巴41A線",347,18,"lonely \"ISBN\"","ISBN"],["城巴42線",247,18,"lonely \"ISBN\"","ISBN"],["城巴43M線",253,18,"lonely \"ISBN\"","ISBN"],["城巴47P線",134,18,"lonely \"ISBN\"","ISBN"],["城巴48線",230,18,"lonely \"ISBN\"","ISBN"],["城巴4號線",419,18,"lonely \"ISBN\"","ISBN"],["城巴592線",207,18,"lonely \"ISBN\"","ISBN"],["城巴595線",185,18,"lonely \"ISBN\"","ISBN"],["城巴5X線",164,18,"lonely \"ISBN\"","ISBN"],["城巴629線",36,232,"lonely \"ISBN\"","ISBN"],["城巴63線",197,18,"lonely \"ISBN\"","ISBN"],["城巴65線",169,18,"lonely \"ISBN\"","ISBN"],["城巴66線",180,18,"lonely \"ISBN\"","ISBN"],["城巴6A線",148,18,"lonely \"ISBN\"","ISBN"],["城巴6X線",331,18,"lonely \"ISBN\"","ISBN"],["城巴6號線",352,18,"lonely \"ISBN\"","ISBN"],["城巴70線",290,18,"lonely \"ISBN\"","ISBN"],["城巴71線",254,18,"lonely \"ISBN\"","ISBN"],["城巴720線",234,18,"lonely \"ISBN\"","ISBN"],["城巴722線",244,18,"lonely \"ISBN\"","ISBN"],["城巴72A線",129,18,"lonely \"ISBN\"","ISBN"],["城巴72線",379,18,"lonely \"ISBN\"","ISBN"],["城巴73線",347,18,"lonely \"ISBN\"","ISBN"],["城巴75線",123,18,"lonely \"ISBN\"","ISBN"],["城巴76線",222,18,"lonely \"ISBN\"","ISBN"],["城巴77線",438,18,"lonely \"ISBN\"","ISBN"],["城巴780線",239,18,"lonely \"ISBN\"","ISBN"],["城巴788線",181,18,"lonely \"ISBN\"","ISBN"],["城巴789線",188,18,"lonely \"ISBN\"","ISBN"],["城巴78線",173,18,"lonely \"ISBN\"","ISBN"],["城巴81線",429,18,"lonely \"ISBN\"","ISBN"],["城巴82S線",124,18,"lonely \"ISBN\"","ISBN"],["城巴82X線",151,18,"lonely \"ISBN\"","ISBN"],["城巴82線",253,18,"lonely \"ISBN\"","ISBN"],["城巴85A線",127,18,"lonely \"ISBN\"","ISBN"],["城巴8P線",238,25,"lonely \"ISBN\"","ISBN"],["城巴8X線",565,23,"lonely \"ISBN\"","ISBN"],["城巴8號線",209,26,"lonely \"ISBN\"","ISBN"],["城巴90B線",191,18,"lonely \"ISBN\"","ISBN"],["城巴90C線",114,18,"lonely \"ISBN\"","ISBN"],["城巴90線",178,18,"lonely \"ISBN\"","ISBN"],["城巴91A線",90,18,"lonely \"ISBN\"","ISBN"],["城巴91線",221,18,"lonely \"ISBN\"","ISBN"]],"batches":24}
+window.data={"articles":[[
+	"吳明修",
+	72,
+	30,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"吳明敏",
+	74,
+	40,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"吳業坤",
+	775,
+	73,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"吳武典",
+	79,
+	20,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"吳洛纓",
+	101,
+	38,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"吳焜裕",
+	81,
+	49,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"吳鈞堯",
+	31,
+	19,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"吳靄儀",
+	204,
+	3,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"吴哥窟",
+	78,
+	164,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"吴广义",
+	7,
+	250,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"吴志强",
+	78,
+	41,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"吴消元法",
+	131,
+	45,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"呂姵霖",
+	14,
+	467,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"呂忠翰",
+	49,
+	61,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"呂欣潔",
+	102,
+	157,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"周國忠",
+	20,
+	87,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"周天和",
+	43,
+	47,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"周婉窈",
+	33,
+	144,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"周定邦",
+	156,
+	45,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"周宣王對周邊各族之戰",
+	1,
+	51,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"周恩来",
+	142,
+	404,
+	"lonely \"ISBN\"",
+	"isbn"
+],[
+	"周慕姿",
+	45,
+	32,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"周扬 (政治人物)",
+	71,
+	26,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"周晋镳",
+	31,
+	50,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"周梓盈",
+	353,
+	52,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"周永元",
+	8,
+	17,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"周祝瑛",
+	38,
+	17,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"周維新 (嘉慶進士)",
+	6,
+	42,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"周达观",
+	60,
+	147,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"呼喊派",
+	239,
+	285,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"和字頭派系",
+	85,
+	214,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"和安樂",
+	35,
+	202,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"和銅",
+	43,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"和静县",
+	42,
+	391,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"哈利·波特与死亡圣器",
+	207,
+	138,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"哈基姆·马斯图尔",
+	78,
+	109,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"哈密國",
+	84,
+	53,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"哈爾瓦酥糖",
+	11,
+	149,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"哈索·普拉特納",
+	28,
+	70,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"員貝嶼",
+	81,
+	68,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"哥窑",
+	15,
+	33,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"哲學、政治學及經濟學",
+	162,
+	69,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"唐代长安方言考",
+	16,
+	33,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"唐太宗",
+	309,
+	341,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"唐捐",
+	34,
+	11,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"唐津線",
+	275,
+	82,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"唐皋",
+	49,
+	278,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"唱歌給你聽",
+	351,
+	42,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"商品貨幣",
+	4,
+	47,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"商羊",
+	3,
+	53,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"商道",
+	122,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"善述書室",
+	11,
+	26,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"喪屍",
+	29,
+	637,
+	"lonely \"ISBN\"",
+	"isbn"
+],[
+	"喬凡尼·斯基亞帕雷利",
+	63,
+	217,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"喬恩·波斯特爾",
+	22,
+	78,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"喬治·布勞羅克",
+	14,
+	397,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"單膛室手槍",
+	6,
+	169,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"嗡嗡包",
+	199,
+	61,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"嗣圣",
+	87,
+	56,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"嗣永桃子",
+	54,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"嘉保",
+	48,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"嘉元",
+	36,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"嘉應 (日本)",
+	41,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"嘉承",
+	40,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"嘉曆",
+	39,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"嘉海語支",
+	37,
+	45,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"嘉祥 (日本)",
+	36,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"嘉祿",
+	45,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"嘉禎",
+	36,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"嘉義市各級學校列表",
+	90,
+	63,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"嘸蝦米輸入法",
+	477,
+	49,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"噶当派",
+	10,
+	167,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"嚴勵行",
+	1678,
+	20,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"嚴重特殊傳染性肺炎中央流行疫情指揮中心",
+	178,
+	88,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"四·一九运动",
+	45,
+	77,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"四人集团",
+	15,
+	41,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"四元玉鉴",
+	64,
+	95,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"四和弦之歌",
+	36,
+	31,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"四大公司 (三合會)",
+	10,
+	130,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"四川各市州地区生产总值列表",
+	491,
+	103,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"四川大学",
+	232,
+	107,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"四级铵盐",
+	31,
+	54,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"四郎探母",
+	2,
+	235,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"回声协议",
+	1,
+	27,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"回族",
+	88,
+	410,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"因特网组管理协议",
+	90,
+	6,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"国投新疆罗布泊钾盐",
+	29,
+	132,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"国民革命军第二十六军",
+	33,
+	721,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"国民革命军第五十一军",
+	71,
+	299,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"国民革命军第八十七军",
+	2,
+	74,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"国民革命军第八十五军",
+	7,
+	96,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"国闻周报",
+	13,
+	212,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"国闻通讯社",
+	8,
+	392,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"国际反战反法西斯同盟",
+	40,
+	167,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"图们铁路分局",
+	86,
+	30,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"图坦卡蒙",
+	152,
+	598,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"圆周率近似值",
+	139,
+	598,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"圆常数",
+	12,
+	122,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"國家安全警備總署",
+	96,
+	154,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"國家衛生指揮中心中央流行疫情指揮中心",
+	113,
+	88,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"國會開幕大典",
+	24,
+	119,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"國民革命軍第七十四軍",
+	50,
+	185,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"國民革命軍陸軍第六十一軍",
+	10,
+	276,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"國王的裁縫師",
+	121,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"國立東華大學理工學院",
+	65,
+	301,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"國立臺北科技大學附屬桃園農工高級中等學校",
+	39,
+	6,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"國立陽明交通大學鐵道研究會",
+	6,
+	70,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"國語 (書)",
+	56,
+	31,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"國際NICONICO電影節",
+	12,
+	523,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"園藝療法",
+	24,
+	34,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"圓仔",
+	67,
+	114,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"圖-2轟炸機",
+	57,
+	25,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"圖-4轟炸機",
+	188,
+	32,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"圖論傅立葉轉換",
+	62,
+	103,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"土丹耶喜",
+	21,
+	38,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"土岐麻子",
+	605,
+	41,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"土耳其—美国关系",
+	107,
+	150,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"土耳其入侵塞浦路斯",
+	7,
+	2250,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"圣女贞德教堂 (鲁昂)",
+	13,
+	150,
+	"lonely \"ISBN\"",
+	"isbn"
+],[
+	"圣弗拉基米尔教堂 (玛丽亚温泉市)",
+	25,
+	123,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"圣犹士坦堂 (巴黎)",
+	8,
+	141,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"圣莫里斯和拉匝禄教堂",
+	48,
+	137,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"在台緬甸華人",
+	47,
+	57,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"在线证书状态协议",
+	60,
+	5,
+	"lonely \"RFC\"",
+	"rfc"
+],[
+	"地层尖灭",
+	2,
+	155,
+	"lonely \"ISBN\"",
+	"isbn"
+],[
+	"地球之眼卫星公司",
+	59,
+	71,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"坍塌搜救專隊",
+	120,
+	201,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"坐",
+	18,
+	128,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"坡印亭定理",
+	33,
+	398,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴10線",
+	235,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴11線",
+	365,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴12M線",
+	122,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴12線",
+	234,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴13線",
+	150,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴14線",
+	285,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴15B線",
+	155,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴15C線",
+	98,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴15線",
+	358,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴18P線",
+	158,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴18X線",
+	222,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴18線",
+	39,
+	292,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴1號線",
+	290,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴23B線",
+	162,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴23線",
+	348,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴25A線",
+	235,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴25線",
+	227,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴260線",
+	226,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴27線",
+	172,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴2A線",
+	270,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴2X線",
+	228,
+	24,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴2號線",
+	221,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴30X線",
+	156,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴37A、37B線",
+	377,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴38線",
+	179,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴40M線",
+	186,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴40P線",
+	161,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴40線",
+	205,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴41A線",
+	347,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴42線",
+	247,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴43M線",
+	253,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴47P線",
+	134,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴48線",
+	230,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴4號線",
+	419,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴592線",
+	207,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴595線",
+	185,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴5X線",
+	164,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴629線",
+	36,
+	232,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴63線",
+	197,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴65線",
+	169,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴66線",
+	180,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴6A線",
+	148,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴6X線",
+	331,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴6號線",
+	352,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴70線",
+	290,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴71線",
+	254,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴720線",
+	234,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴722線",
+	244,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴72A線",
+	129,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴72線",
+	379,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴73線",
+	347,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴75線",
+	123,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴76線",
+	222,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴77線",
+	438,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴780線",
+	239,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴788線",
+	181,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴789線",
+	188,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴78線",
+	173,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴81線",
+	429,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴82S線",
+	124,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴82X線",
+	151,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴82線",
+	253,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴85A線",
+	127,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴8P線",
+	238,
+	25,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴8X線",
+	565,
+	23,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴8號線",
+	209,
+	26,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴90B線",
+	191,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴90C線",
+	114,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴90線",
+	178,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴91A線",
+	90,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"城巴91線",
+	221,
+	18,
+	"lonely \"ISBN\"",
+	"ISBN"
+],],"batches":24}

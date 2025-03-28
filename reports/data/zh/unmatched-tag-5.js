@@ -1,1 +1,1201 @@
-window.data={"articles":[["Portal:巴哈伊信仰/精选经文",13,2,"tag that is both closing and self-closing","</br>"],["Portal:希腊",2,2,"unmatched closing tag","</div>"],["Portal:广东",46,2,"unmatched closing tag","</div>"],["Portal:广州",9,2,"unmatched closing tag","</div>"],["Portal:广州/简介",9,3,"unmatched closing tag","</tr>"],["Portal:廣島",52,2,"unmatched closing tag","</div>"],["Portal:彝族与彝语支民族",4,2,"unmatched closing tag","</div>"],["Portal:彝族与彝语支民族/其他彝语支人群",1,123,"tag that is both closing and self-closing","</br>"],["Portal:彝族与彝语支民族/彝语支民族自治地方",1,13,"tag that is both closing and self-closing","</br>"],["Portal:彝族与彝语支民族/怒族简介",11,109,"tag that is both closing and self-closing","</br>"],["Portal:怪物彈珠",40,2,"unmatched closing tag","</div>"],["Portal:惊悚",10,2,"unmatched closing tag","</div>"],["Portal:戏剧",9,2,"unmatched closing tag","</div>"],["Portal:战国",83,2,"unmatched closing tag","</div>"],["Portal:戰車",14,2,"unmatched closing tag","</div>"],["Portal:推想小說/Body/box",13,2,"unmatched closing tag","</div>"],["Portal:政治",8,117,"tag that is both closing and self-closing","</br>"],["Portal:政治/政治學家",5,2,"unmatched closing tag","</div>"],["Portal:政治/政治學家/存檔",7,2,"unmatched closing tag","</div>"],["Portal:政治/政治意識形態",5,2,"unmatched closing tag","</div>"],["Portal:政治/政治意識形態/存檔",6,336,"unmatched closing tag","</div>"],["Portal:政治/特色條目",5,2,"unmatched closing tag","</div>"],["Portal:政治/特色條目/存檔",7,2,"unmatched closing tag","</div>"],["Portal:数学",36,2,"unmatched closing tag","</div>"],["Portal:文化",11,8,"unmatched closing tag","</div>"],["Portal:新加坡",5,60,"unmatched closing tag","</h2>"],["Portal:新加坡/精选图片/格式",9,3,"unmatched closing tag","</div>"],["Portal:新加坡/观赏全景/格式",13,3,"unmatched closing tag","</div>"],["Portal:无政府主义",45,2,"unmatched closing tag","</div>"],["Portal:日本",71,2,"unmatched closing tag","</div>"],["Portal:日食",65,2,"unmatched closing tag","</div>"],["Portal:日食/圖片/1999/8/11",14,2,"unmatched closing tag","</div>"],["Portal:日食/圖片/2005/10/3",15,2,"unmatched closing tag","</div>"],["Portal:日食/圖片/2006/3/29",14,2,"unmatched closing tag","</div>"],["Portal:日食/圖片/2006/9/22",7,2,"unmatched closing tag","</div>"],["Portal:日食/圖片/2008/8/1",14,2,"unmatched closing tag","</div>"],["Portal:日食/圖片/2009/7/22",33,2,"unmatched closing tag","</div>"],["Portal:日食/圖片/2010/1/15",14,2,"unmatched closing tag","</div>"],["Portal:日食/圖片/2010/7/11",9,2,"unmatched closing tag","</div>"],["Portal:日食/圖片/2011/1/4",14,2,"unmatched closing tag","</div>"],["Portal:星际迷航/Selected picture",8,36,"tag that is both closing and self-closing","</br>"],["Portal:時代力量",7,59,"tag that is both closing and self-closing","</br>"],["Portal:有機化學/你能做的任務",6,2,"unmatched closing tag","</li>"],["Portal:有機化學/簡介",8,2,"unmatched closing tag","</span>"],["Portal:棒球",10,2,"unmatched closing tag","</div>"],["Portal:棒球/欢迎参与",2,14,"tag that is both closing and self-closing","</br>"],["Portal:歐洲/box-footer",1,159,"unmatched closing tag","</div>"],["Portal:武汉",29,2,"unmatched closing tag","</div>"],["Portal:比利时",10,151,"unmatched closing tag","</span>"],["Portal:民主進步黨",7,73,"tag that is both closing and self-closing","</br>"],["Portal:汉朝",108,2,"unmatched closing tag","</div>"],["Portal:河北",10,47,"tag that is both closing and self-closing","</br>"],["Portal:河南",11,2,"unmatched closing tag","</div>"],["Portal:法国",80,2,"unmatched closing tag","</div>"],["Portal:法輪功/其他",5,2,"unmatched closing tag","</div>"],["Portal:浙江",4,77,"tag that is both closing and self-closing","</br>"],["Portal:海军/sisterwiki",5,28,"tag that is both closing and self-closing","</br>"],["Portal:海南",82,2,"unmatched closing tag","</div>"],["Portal:消防/簡介",3,2,"unmatched closing tag","</table>"],["Portal:湖南",28,2,"unmatched closing tag","</div>"],["Portal:漢字文化圈",5,2,"unmatched closing tag","</div>"],["Portal:漢字文化圈/主要左",9,2,"unmatched closing tag","</center>"],["Portal:澳門/新聞動態",7,2,"unmatched closing tag","</div>"],["Portal:澳門/簡介",11,4,"unmatched closing tag","</tr>"],["Portal:火星/Box-footer",1,1,"unmatched closing tag","</div>"],["Portal:災害",53,2,"unmatched closing tag","</div>"],["Portal:瑞典",5,22,"tag that is both closing and self-closing","</br>"],["Portal:生物学/bodybox-footer",5,2,"unmatched closing tag","</td>"],["Portal:生物学/footbox-footer",1,8,"unmatched closing tag","</td>"],["Portal:生物学/headbox-footer",5,18,"unmatched closing tag","</td>"],["Portal:生物技術/簡介",11,103,"unmatched closing tag","</div>"],["Portal:电子音乐",70,2,"unmatched closing tag","</div>"],["Portal:电子音乐/相关主题",34,2,"unmatched closing tag","</div>"],["Portal:电影/其他維基計畫",3,27,"tag that is both closing and self-closing","</br>"],["Portal:真菌/你能做的任務",15,2,"unmatched closing tag","</li>"],["Portal:真菌/歡迎",4,158,"tag that is both closing and self-closing","</br>"],["Portal:真菌/用戶框",1,25,"tag that is both closing and self-closing","</br>"],["Portal:真菌/真菌",2,390,"tag that is both closing and self-closing","</br>"],["Portal:社會運動",47,2,"unmatched closing tag","</div>"],["Portal:福州",4,67,"unmatched closing tag","</big>"],["Portal:福州/简介",8,3,"unmatched closing tag","</tr>"],["Portal:科學/box-footer",1,157,"unmatched closing tag","</div>"],["Portal:科學/科學新聞",2,61,"tag that is both closing and self-closing","</BR>"],["Portal:第一次世界大戰",14,2,"unmatched closing tag","</div>"],["Portal:第二次世界大戰",6,47,"tag that is both closing and self-closing","</br>"],["Portal:索尼",5,26,"unmatched closing tag","</font>"],["Portal:红楼梦",20,2,"unmatched closing tag","</div>"],["Portal:美国总统",9,65,"tag that is both closing and self-closing","</br>"],["Portal:美國",10,58,"tag that is both closing and self-closing","</br>"],["Portal:美國新聞動態/Sidebar",34,2,"unmatched closing tag","</small>"],["Portal:義大利",9,2,"unmatched closing tag","</div>"],["Portal:联合国",42,2,"unmatched closing tag","</div>"],["Portal:聯盟90／綠黨/簡介",3,111,"tag that is both closing and self-closing","</br>"],["Portal:自由軟體/特色條目",33,2,"unmatched closing tag","</div>"],["Portal:臺中",25,2,"unmatched closing tag","</div>"],["Portal:臺南",9,127,"unmatched closing tag","</center>"],["Portal:臺南/box-footer",1,1,"unmatched closing tag","</div>"],["Portal:航天",56,93,"unmatched closing tag","</h5>"],["Portal:航空/簡介",3,2,"unmatched closing tag","</table>"],["Portal:芬兰/box-footer",1,166,"unmatched closing tag","</div>"],["Portal:苏州",7,94,"tag that is both closing and self-closing","</br>"],["Portal:苏州/欢迎参与",1,92,"unmatched closing tag","</small>"],["Portal:苗栗/box-footer",1,1,"unmatched closing tag","</div>"],["Portal:英國新聞動態/Sidebar",39,2,"unmatched closing tag","</small>"],["Portal:荷兰",64,8,"unmatched closing tag","</div>"],["Portal:蔡英文",42,2,"unmatched closing tag","</div>"],["Portal:蔡英文/人物傳記",38,2,"unmatched closing tag","</div>"],["Portal:蔡英文/你知道嗎？",38,2,"unmatched closing tag","</div>"],["Portal:蔡英文/分類",4,2,"unmatched closing tag","</center>"],["Portal:蔡英文/特選條目",38,2,"unmatched closing tag","</div>"],["Portal:蔡英文/精選圖片",56,2,"unmatched closing tag","</div>"],["Portal:蔡英文/重要談話",64,2,"unmatched closing tag","</div>"],["Portal:西安/box-footer",3,2,"unmatched closing tag","</div>"],["Portal:詩歌/box-footer",1,165,"unmatched closing tag","</div>"],["Portal:警察與執法/簡介",2,2,"unmatched closing tag","</table>"],["Portal:语言",47,2,"unmatched closing tag","</div>"],["Portal:语言/Articles",49,2,"unclosed tag","<small>"],["Portal:跨性别/主要话题",7,126,"unmatched closing tag","</small>"],["Portal:軍事",12,2,"unmatched closing tag","</div>"],["Portal:软件测试/Selected picture",1,69,"tag that is both closing and self-closing","</br>"],["Portal:道教",52,2,"unmatched closing tag","</div>"],["Portal:道教/主要话题",1,13,"unmatched closing tag","</font>"],["Portal:金庸",8,2,"unmatched closing tag","</div>"],["Portal:金門",76,40,"unmatched closing tag","</div>"],["Portal:钱币学",37,26,"unmatched closing tag","</div>"],["Portal:铁路/简介",2,3,"unmatched closing tag","</tr>"],["Portal:阿富汗",175,2,"unmatched closing tag","</div>"],["Portal:阿拉伯世界/精选传记",11,25,"tag that is both closing and self-closing","</br>"],["Portal:阿拉伯世界/精選條目",11,25,"tag that is both closing and self-closing","</br>"],["Portal:電視/box-footer",3,2,"unmatched closing tag","</div>"],["Portal:電視/維基計劃",3,31,"tag that is both closing and self-closing","</br>"],["Portal:音乐",92,2,"unmatched closing tag","</div>"],["Portal:香港/典範條目/存檔",91,66,"unmatched closing tag","</div>"],["Portal:香港/新聞動態",3,2,"unmatched closing tag","</div>"],["Portal:香港新聞動態",13,228,"unmatched closing tag","</p>"],["Portal:马来西亚",12,63,"unmatched closing tag","</h2>"],["Portal:马来西亚/观赏全景/格式",13,3,"unmatched closing tag","</div>"],["Portal:高雄/box-footer",1,1,"unmatched closing tag","</div>"],["Portal:高雄/box-footer-2",1,1,"unmatched closing tag","</div>"],["Portal:鳥取",52,2,"unmatched closing tag","</div>"],["PP-19野牛冲锋枪",361,2,"unmatched closing tag","</div>"],["PQ-17船团",82,15,"unmatched closing tag","</cite>"],["PunkBuster",79,18,"unmatched closing tag","</s>"],["R3hab",360,455,"unmatched closing tag","</span>"],["RADWIMPS",1987,6,"unmatched closing tag","</FONT>"],["Raw 1000",37,99,"unmatched closing tag","</small>"],["RAYVE",14,273,"unmatched closing tag","</small>"],["RE:I AM EP",26,11,"unmatched closing tag","</small>"],["Red Velvet",8,161,"unmatched closing tag","</small>"],["Red Velvet音樂作品列表",130,13,"unclosed tag","<small>"],["Remembering Leslie",366,1385,"unmatched closing tag","</small>"],["ReoNa",153,18,"unclosed tag","<center>"],["RIM-162导弹",19,365,"unmatched closing tag","</small>"],["Rockstar San Diego",87,46,"tag that is both closing and self-closing","</br>"],["ROOKiEZ is PUNK'D",29,34,"unmatched closing tag","</small>"],["Ropponpon☆幻想",17,26,"unmatched closing tag","</small>"],["RPG-2",25,36,"tag that is both closing and self-closing","</br/>"],["RPG-29",17,2,"unmatched closing tag","</div>"],["RSh-12.7左轮手枪",44,2,"unmatched closing tag","</div>"],["Running Man",956,46,"unmatched closing tag","</span>"],["Running Man節目列表",1817,64,"unmatched closing tag","</span>"],["S.H.E",105,770,"unmatched closing tag","</small>"],["S1 (成人影片製造商)",141,4,"unmatched closing tag","</div>"],["SACEM",11,44,"unclosed tag","<del>"],["Same Difference",39,16,"unmatched closing tag","</small>"],["SAMPA表",610,20,"unmatched closing tag","</s>"],["SCANDAL (日本音樂團體)",406,8,"unmatched closing tag","</div>"],["Secret Boutique",402,37,"unmatched closing tag","</small>"],["SGS",9,17,"unmatched closing tag","</small>"],["Show Window：女王之家",52,15,"unmatched closing tag","</small>"],["Showgirl: The Homecoming Tour",38,63,"unmatched closing tag","</small>"],["SIG P227半自動手槍",74,2,"unmatched closing tag","</div>"],["SIG SG 516突擊步槍",131,2,"unmatched closing tag","</div>"],["Single (專輯)",174,2,"unmatched closing tag","</div>"],["SKYLE",78,2,"unmatched closing tag","</center>"],["Sleep Talking",135,143,"unmatched closing tag","</small>"],["Slot 2",5,28,"unmatched closing tag","</ul>"],["SmackDown LIVE",23,397,"unclosed tag","<small>"],["SMILE-UP.",37,12,"unclosed tag","<small>"],["SM娛樂",851,10,"unclosed tag","<sup>"],["SNH48 Group第五屆總決選",346,2,"unmatched closing tag","</div>"],["SNH48 Group第四屆總決選",567,2,"unmatched closing tag","</div>"],["SNH48發行作品列表",69,336,"unmatched closing tag","</sub>"],["SNK",23,83,"unmatched closing tag","</small>"],["Sony Xperia 1 II",87,53,"unmatched closing tag","</font>"],["Sony Xperia PRO-I",82,53,"unmatched closing tag","</font>"],["Sony Xperia XZ1",21,54,"unmatched closing tag","</font>"],["Sony Xperia XZs",62,54,"unmatched closing tag","</font>"],["Sound Horizon",495,2,"unmatched closing tag","</div>"],["Special \"ONE\"",14,131,"unmatched closing tag","</small>"],["Sphere (聲優團體)",613,2,"unmatched closing tag","</span>"],["Sphere LIVE 2010 sphere ON LOVE, ON 日本武道館",17,9,"unmatched closing tag","</small>"],["SPRING HOLIDAY/別嘴減價♪",17,27,"unmatched closing tag","</small>"],["SS501",18,518,"unclosed tag","<small>"],["StarRingChild EP",18,495,"unmatched closing tag","</small>"],["Sunday好戲王",142,21,"unmatched closing tag","</small>"],["Sunday扮嘢王",95,37,"unmatched closing tag","</span>"],["SUNMI THE 1ST WORLD TOUR WARNING",90,34,"unclosed tag","<sub>"],["SUPER BEAVER",496,25,"unmatched closing tag","</div>"],["Super Junior-K.R.Y.",382,51,"unmatched closing tag","</small>"]],"batches":60}
+window.data={"articles":[[
+	"Portal:巴哈伊信仰/精选经文",
+	13,
+	2,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:希腊",
+	2,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:广东",
+	46,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:广州",
+	9,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:广州/简介",
+	9,
+	3,
+	"unmatched closing tag",
+	"</tr>"
+],[
+	"Portal:廣島",
+	52,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:彝族与彝语支民族",
+	4,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:彝族与彝语支民族/其他彝语支人群",
+	1,
+	123,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:彝族与彝语支民族/彝语支民族自治地方",
+	1,
+	13,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:彝族与彝语支民族/怒族简介",
+	11,
+	109,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:怪物彈珠",
+	40,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:惊悚",
+	10,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:戏剧",
+	9,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:战国",
+	83,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:戰車",
+	14,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:推想小說/Body/box",
+	13,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:政治",
+	8,
+	117,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:政治/政治學家",
+	5,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:政治/政治學家/存檔",
+	7,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:政治/政治意識形態",
+	5,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:政治/政治意識形態/存檔",
+	6,
+	336,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:政治/特色條目",
+	5,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:政治/特色條目/存檔",
+	7,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:数学",
+	36,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:文化",
+	11,
+	8,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:新加坡",
+	5,
+	60,
+	"unmatched closing tag",
+	"</h2>"
+],[
+	"Portal:新加坡/精选图片/格式",
+	9,
+	3,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:新加坡/观赏全景/格式",
+	13,
+	3,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:无政府主义",
+	45,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:日本",
+	71,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:日食",
+	65,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:日食/圖片/1999/8/11",
+	14,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:日食/圖片/2005/10/3",
+	15,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:日食/圖片/2006/3/29",
+	14,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:日食/圖片/2006/9/22",
+	7,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:日食/圖片/2008/8/1",
+	14,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:日食/圖片/2009/7/22",
+	33,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:日食/圖片/2010/1/15",
+	14,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:日食/圖片/2010/7/11",
+	9,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:日食/圖片/2011/1/4",
+	14,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:星际迷航/Selected picture",
+	8,
+	36,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:時代力量",
+	7,
+	59,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:有機化學/你能做的任務",
+	6,
+	2,
+	"unmatched closing tag",
+	"</li>"
+],[
+	"Portal:有機化學/簡介",
+	8,
+	2,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Portal:棒球",
+	10,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:棒球/欢迎参与",
+	2,
+	14,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:歐洲/box-footer",
+	1,
+	159,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:武汉",
+	29,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:比利时",
+	10,
+	151,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Portal:民主進步黨",
+	7,
+	73,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:汉朝",
+	108,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:河北",
+	10,
+	47,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:河南",
+	11,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:法国",
+	80,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:法輪功/其他",
+	5,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:浙江",
+	4,
+	77,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:海军/sisterwiki",
+	5,
+	28,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:海南",
+	82,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:消防/簡介",
+	3,
+	2,
+	"unmatched closing tag",
+	"</table>"
+],[
+	"Portal:湖南",
+	28,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:漢字文化圈",
+	5,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:漢字文化圈/主要左",
+	9,
+	2,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"Portal:澳門/新聞動態",
+	7,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:澳門/簡介",
+	11,
+	4,
+	"unmatched closing tag",
+	"</tr>"
+],[
+	"Portal:火星/Box-footer",
+	1,
+	1,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:災害",
+	53,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:瑞典",
+	5,
+	22,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:生物学/bodybox-footer",
+	5,
+	2,
+	"unmatched closing tag",
+	"</td>"
+],[
+	"Portal:生物学/footbox-footer",
+	1,
+	8,
+	"unmatched closing tag",
+	"</td>"
+],[
+	"Portal:生物学/headbox-footer",
+	5,
+	18,
+	"unmatched closing tag",
+	"</td>"
+],[
+	"Portal:生物技術/簡介",
+	11,
+	103,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:电子音乐",
+	70,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:电子音乐/相关主题",
+	34,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:电影/其他維基計畫",
+	3,
+	27,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:真菌/你能做的任務",
+	15,
+	2,
+	"unmatched closing tag",
+	"</li>"
+],[
+	"Portal:真菌/歡迎",
+	4,
+	158,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:真菌/用戶框",
+	1,
+	25,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:真菌/真菌",
+	2,
+	390,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:社會運動",
+	47,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:福州",
+	4,
+	67,
+	"unmatched closing tag",
+	"</big>"
+],[
+	"Portal:福州/简介",
+	8,
+	3,
+	"unmatched closing tag",
+	"</tr>"
+],[
+	"Portal:科學/box-footer",
+	1,
+	157,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:科學/科學新聞",
+	2,
+	61,
+	"tag that is both closing and self-closing",
+	"</BR>"
+],[
+	"Portal:第一次世界大戰",
+	14,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:第二次世界大戰",
+	6,
+	47,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:索尼",
+	5,
+	26,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Portal:红楼梦",
+	20,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:美国总统",
+	9,
+	65,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:美國",
+	10,
+	58,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:美國新聞動態/Sidebar",
+	34,
+	2,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Portal:義大利",
+	9,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:联合国",
+	42,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:聯盟90／綠黨/簡介",
+	3,
+	111,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:自由軟體/特色條目",
+	33,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:臺中",
+	25,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:臺南",
+	9,
+	127,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"Portal:臺南/box-footer",
+	1,
+	1,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:航天",
+	56,
+	93,
+	"unmatched closing tag",
+	"</h5>"
+],[
+	"Portal:航空/簡介",
+	3,
+	2,
+	"unmatched closing tag",
+	"</table>"
+],[
+	"Portal:芬兰/box-footer",
+	1,
+	166,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:苏州",
+	7,
+	94,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:苏州/欢迎参与",
+	1,
+	92,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Portal:苗栗/box-footer",
+	1,
+	1,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:英國新聞動態/Sidebar",
+	39,
+	2,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Portal:荷兰",
+	64,
+	8,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:蔡英文",
+	42,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:蔡英文/人物傳記",
+	38,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:蔡英文/你知道嗎？",
+	38,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:蔡英文/分類",
+	4,
+	2,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"Portal:蔡英文/特選條目",
+	38,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:蔡英文/精選圖片",
+	56,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:蔡英文/重要談話",
+	64,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:西安/box-footer",
+	3,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:詩歌/box-footer",
+	1,
+	165,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:警察與執法/簡介",
+	2,
+	2,
+	"unmatched closing tag",
+	"</table>"
+],[
+	"Portal:语言",
+	47,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:语言/Articles",
+	49,
+	2,
+	"unclosed tag",
+	"<small>"
+],[
+	"Portal:跨性别/主要话题",
+	7,
+	126,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Portal:軍事",
+	12,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:软件测试/Selected picture",
+	1,
+	69,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:道教",
+	52,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:道教/主要话题",
+	1,
+	13,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Portal:金庸",
+	8,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:金門",
+	76,
+	40,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:钱币学",
+	37,
+	26,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:铁路/简介",
+	2,
+	3,
+	"unmatched closing tag",
+	"</tr>"
+],[
+	"Portal:阿富汗",
+	175,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:阿拉伯世界/精选传记",
+	11,
+	25,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:阿拉伯世界/精選條目",
+	11,
+	25,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:電視/box-footer",
+	3,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:電視/維基計劃",
+	3,
+	31,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Portal:音乐",
+	92,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:香港/典範條目/存檔",
+	91,
+	66,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:香港/新聞動態",
+	3,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:香港新聞動態",
+	13,
+	228,
+	"unmatched closing tag",
+	"</p>"
+],[
+	"Portal:马来西亚",
+	12,
+	63,
+	"unmatched closing tag",
+	"</h2>"
+],[
+	"Portal:马来西亚/观赏全景/格式",
+	13,
+	3,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:高雄/box-footer",
+	1,
+	1,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:高雄/box-footer-2",
+	1,
+	1,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:鳥取",
+	52,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"PP-19野牛冲锋枪",
+	361,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"PQ-17船团",
+	82,
+	15,
+	"unmatched closing tag",
+	"</cite>"
+],[
+	"PunkBuster",
+	79,
+	18,
+	"unmatched closing tag",
+	"</s>"
+],[
+	"R3hab",
+	360,
+	455,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"RADWIMPS",
+	1987,
+	6,
+	"unmatched closing tag",
+	"</FONT>"
+],[
+	"Raw 1000",
+	37,
+	99,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"RAYVE",
+	14,
+	273,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"RE:I AM EP",
+	26,
+	11,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Red Velvet",
+	8,
+	161,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Red Velvet音樂作品列表",
+	130,
+	13,
+	"unclosed tag",
+	"<small>"
+],[
+	"Remembering Leslie",
+	366,
+	1385,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"ReoNa",
+	153,
+	18,
+	"unclosed tag",
+	"<center>"
+],[
+	"RIM-162导弹",
+	19,
+	365,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Rockstar San Diego",
+	87,
+	46,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"ROOKiEZ is PUNK'D",
+	29,
+	34,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Ropponpon☆幻想",
+	17,
+	26,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"RPG-2",
+	25,
+	36,
+	"tag that is both closing and self-closing",
+	"</br/>"
+],[
+	"RPG-29",
+	17,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"RSh-12.7左轮手枪",
+	44,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Running Man",
+	956,
+	46,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Running Man節目列表",
+	1817,
+	64,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"S.H.E",
+	105,
+	770,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"S1 (成人影片製造商)",
+	141,
+	4,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"SACEM",
+	11,
+	44,
+	"unclosed tag",
+	"<del>"
+],[
+	"Same Difference",
+	39,
+	16,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"SAMPA表",
+	610,
+	20,
+	"unmatched closing tag",
+	"</s>"
+],[
+	"SCANDAL (日本音樂團體)",
+	406,
+	8,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Secret Boutique",
+	402,
+	37,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"SGS",
+	9,
+	17,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Show Window：女王之家",
+	52,
+	15,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Showgirl: The Homecoming Tour",
+	38,
+	63,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"SIG P227半自動手槍",
+	74,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"SIG SG 516突擊步槍",
+	131,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Single (專輯)",
+	174,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"SKYLE",
+	78,
+	2,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"Sleep Talking",
+	135,
+	143,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Slot 2",
+	5,
+	28,
+	"unmatched closing tag",
+	"</ul>"
+],[
+	"SmackDown LIVE",
+	23,
+	397,
+	"unclosed tag",
+	"<small>"
+],[
+	"SMILE-UP.",
+	37,
+	12,
+	"unclosed tag",
+	"<small>"
+],[
+	"SM娛樂",
+	851,
+	10,
+	"unclosed tag",
+	"<sup>"
+],[
+	"SNH48 Group第五屆總決選",
+	346,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"SNH48 Group第四屆總決選",
+	567,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"SNH48發行作品列表",
+	69,
+	336,
+	"unmatched closing tag",
+	"</sub>"
+],[
+	"SNK",
+	23,
+	83,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Sony Xperia 1 II",
+	87,
+	53,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Sony Xperia PRO-I",
+	82,
+	53,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Sony Xperia XZ1",
+	21,
+	54,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Sony Xperia XZs",
+	62,
+	54,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"Sound Horizon",
+	495,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Special \"ONE\"",
+	14,
+	131,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Sphere (聲優團體)",
+	613,
+	2,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Sphere LIVE 2010 sphere ON LOVE, ON 日本武道館",
+	17,
+	9,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"SPRING HOLIDAY/別嘴減價♪",
+	17,
+	27,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"SS501",
+	18,
+	518,
+	"unclosed tag",
+	"<small>"
+],[
+	"StarRingChild EP",
+	18,
+	495,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Sunday好戲王",
+	142,
+	21,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Sunday扮嘢王",
+	95,
+	37,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"SUNMI THE 1ST WORLD TOUR WARNING",
+	90,
+	34,
+	"unclosed tag",
+	"<sub>"
+],[
+	"SUPER BEAVER",
+	496,
+	25,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Super Junior-K.R.Y.",
+	382,
+	51,
+	"unmatched closing tag",
+	"</small>"
+],],"batches":60}

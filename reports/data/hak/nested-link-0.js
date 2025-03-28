@@ -1,1 +1,7 @@
-window.data={"articles":[["Minangkabau-ngî",28,180,"internal link in an external link","[[Balai Pustaka]]"]],"batches":1}
+window.data={"articles":[[
+	"Minangkabau-ngî",
+	28,
+	180,
+	"internal link in an external link",
+	"[[Balai Pustaka]]"
+],],"batches":1}

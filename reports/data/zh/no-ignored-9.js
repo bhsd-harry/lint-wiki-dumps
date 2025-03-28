@@ -1,1 +1,1201 @@
-window.data={"articles":[["Wikipedia:化學首頁",1,22,"useless link text","|Wikipedia:主题/化学"],["Wikipedia:參考文獻小組",45,233,"containing invalid attribute"," you\""],["Wikipedia:双周提示/2012年11月10日",35,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:反破壞工作小組/反破壞工作小組成員申請/存檔/250",26,223,"containing invalid attribute"," you\""],["Wikipedia:可靠来源/布告板/header",42,5,"useless fragment","Wikipedia:可靠来源/布告板评级指引#來源評級"],["Wikipedia:圓桌會",76,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:圓桌會/圓桌會成員申請/存檔/300",20,225,"containing invalid attribute"," you\""],["Wikipedia:坏笑话和删除的胡话/Google",1,84,"containing invalid attribute","  margin-bottom:7em; margin-top:8em; "],["Wikipedia:基礎條目/質量比較",5,4,"containing invalid attribute","中文"],["Wikipedia:外語譯音表/尼泊爾語",14,3,"containing invalid attribute"," -/अ"],["Wikipedia:外語譯音表/泰語",55,41,"containing invalid attribute"," 賓 "],["Wikipedia:大頭相簿",147,1,"invalid content in <gallery>"," [["],["Wikipedia:字詞轉換處理/公共轉換組",15,1,"invalid parameter of <inputbox>"," type=fulltext"],["Wikipedia:字词转换/地区词候选",10,1,"invalid parameter of <inputbox>"," type=fulltext"],["Wikipedia:存廢覆核請求/存檔/2014年7-9月",873,1,"invalid content in <gallery>"," [[File:《呐喊》（奇石）-正面.JPG|thumb|《呐喊》为天然玛瑙奇石。此石石身整体为白色，上面草花花纹正好形成了人的双眼和嘴巴，两侧内陷部位如人张"],["Wikipedia:广州维基人列表",43,142,"attributes of a closing tag"," color"],["Wikipedia:建立條目精靈/主題",12,1,"invalid parameter of <inputbox>"," type=search"],["Wikipedia:建立條目精靈/模板",9,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:建立條目精靈/用户页",15,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:当前的破坏/存档/2016年12月",275,44,"containing invalid attribute","金 木 水 火 土\"一}}\""],["Wikipedia:当前的破坏/存档/2019年6月",280,94,"containing invalid attribute"," | Христос Воскресе"],["Wikipedia:当前的破坏/存档/2019年8月",698,222,"containing invalid attribute"," | Христос Воскресе"],["Wikipedia:当前的破坏/存档/2023年12月",1287,82,"containing invalid attribute"," ETARRA\"&#125;&#125;\"  "],["Wikipedia:当前的破坏/存档/2023年8月",1447,98,"containing invalid attribute"," devil\"  "],["Wikipedia:当前的破坏/存档/2023年9月",51,85,"containing invalid attribute"," Pak-Yin&#125;&#125;\"  "],["Wikipedia:当前的破坏/存档/2024年6月",1812,76,"containing invalid attribute","t\"&#125;&#125;\"  "],["Wikipedia:徵求意見/模板样式",4,1,"invalid parameter of <inputbox>"," type=comment"],["Wikipedia:徵求意見/深色模式",4,1,"invalid parameter of <inputbox>"," type=comment"],["Wikipedia:愚人節/2022/vp/template",15,1,"invalid parameter of <inputbox>"," type=comment"],["Wikipedia:投票",15,1,"invalid parameter of <inputbox>"," break=no"],["Wikipedia:投票/修改存廢討論模版的文字表述/第一次",78,40,"containing invalid attribute"," #AAAAAA; background-color:white;\""],["Wikipedia:投票/新条目一问多荐的相关问题",11,20,"invalid conversion flag","[[User:Cdip150|街燈電箱150號]] <small>[[User talk:Cdip150|開箱維修]]"],["Wikipedia:投票/更新Wikipedia:保护方针的图示",13,41,"containing invalid attribute"," #AAAAAA; background-color:white;\""],["Wikipedia:抗議SOPA行動/討論區",256,46,"invalid conversion flag","Wilson Mess "],["Wikipedia:拯救典范、优良条目工作小组",84,226,"containing invalid attribute"," you\""],["Wikipedia:持续出没的破坏者/header",18,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:收錄標準/佈告板/header",33,4,"containing invalid attribute","|colspan=\"3\"|'''Additional notes:'''"],["Wikipedia:数学首页",1,22,"useless link text","|Wikipedia:主题/数学"],["Wikipedia:數學首頁",1,22,"useless link text","|Wikipedia:主题/数学"],["Wikipedia:文字編輯工作小組",196,220,"containing invalid attribute"," you\""],["Wikipedia:新手上路/2011年",597,1,"invalid content in <gallery>"," F[[File:ile:Example.jpg|标题1"],["Wikipedia:新手上路/header",45,1,"invalid parameter of <inputbox>"," type=commenttitle"],["Wikipedia:新月協會",55,222,"containing invalid attribute"," you\""],["Wikipedia:新条目推荐",7,1,"invalid parameter of <inputbox>"," bgcolor="],["Wikipedia:新条目推荐/供稿/2019年10月24日",6,48,"invalid conversion flag","r"],["Wikipedia:新条目推荐/存档/2019年10月",51,48,"invalid conversion flag","r"],["Wikipedia:新闻动态候选/存档/2017年3月",38,98,"attributes of a closing tag"," style"],["Wikipedia:新闻动态候选/存档/2020年8月",733,62,"attributes of a closing tag"," color=\"red\""],["Wikipedia:更改用户名/已完成/2012年",624,5,"invalid conversion flag","Wilson Mess "],["Wikipedia:更改用户名/未完成/2014年",25,223,"containing invalid attribute"," you\""],["Wikipedia:有償編輯/論述",15,97,"containing invalid attribute"," name'\"UP\""],["Wikipedia:机器人/申请/机械人申请指引",20,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:条目向导/新建草稿",6,1,"invalid parameter of <inputbox>"," type = create"],["Wikipedia:条目向导/新建重定向",6,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:条目质量提升计划/票选主题",13,1,"invalid parameter of <inputbox>","  type=create"],["Wikipedia:條目創建請求/step 2",12,1,"invalid parameter of <inputbox>"," type=search"],["Wikipedia:條目質量提升工作小組",25,234,"containing invalid attribute"," you\""],["Wikipedia:條目質量提升計劃/歷史提升計畫",31,223,"containing invalid attribute"," you\""],["Wikipedia:條目質量提升計劃/科技提升計畫/第一期",703,4,"containing invalid attribute","-style=\"padding:5em;padding-top:1em;background:#FA8072;\""],["Wikipedia:條目質量提升計劃/計畫發起",43,1,"invalid parameter of <inputbox>","  type=create"],["Wikipedia:模板消息",24,1,"invalid parameter of <inputbox>"," type=fulltext"],["Wikipedia:檔案存廢討論",31,1,"invalid parameter of <inputbox>"," type=fulltext"],["Wikipedia:檔案存廢討論/記錄/2010/05/29",34,226,"containing invalid attribute","color:#87004F\""],["Wikipedia:每週記事",12,1,"invalid parameter of <inputbox>"," type=fulltext"],["Wikipedia:特色图片",87,1,"invalid content in <gallery>"," File:Wizarding_World_of_Harry_Potter_Castle.jpg<br />作者：[[:en:User:Rstoplabe14|"],["Wikipedia:特色图片/2004年12月",22,1,"invalid content in <gallery>"," </: left\"/>"],["Wikipedia:特色圖片評選",27,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:特色圖片評選/存檔/2020年9月",6,4,"useless fragment","Wikipedia:特色圖片評選/PHZ-89自行火箭炮#PHZ-89自行火箭炮"],["Wikipedia:特色圖片評選/存檔/2024年10月",3,4,"useless fragment","Wikipedia:特色圖片評選/西安云巴丈八四路—付村区间的两节列车#西安云巴丈八四路—付村区间的两节列车"],["Wikipedia:特色圖片評選/評選程序",17,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:特色条目评选/尊严",6,241,"containing invalid attribute"," you\""],["Wikipedia:特色条目评选/帕特·尼克松",32,253,"containing invalid attribute"," you\""],["Wikipedia:特色条目评选/强烈热带风暴法茜 (2007年)",18,236,"containing invalid attribute"," you\""],["Wikipedia:特色条目评选/明成祖",17,245,"containing invalid attribute"," you\""],["Wikipedia:特色条目评选/普罗米修斯 (电影)",20,262,"containing invalid attribute"," you\""],["Wikipedia:特色条目评选/洛阳市",7,244,"containing invalid attribute"," you\""],["Wikipedia:特色条目评选/白氏树蛙/第四次",19,239,"containing invalid attribute"," you\""],["Wikipedia:特色条目评选/高雄市历史",16,235,"containing invalid attribute"," you\""],["Wikipedia:特色條目評選/神戶市",33,238,"containing invalid attribute"," you\""],["Wikipedia:用戶查核請求/存檔/2016年12月",50,333,"containing invalid attribute","金 木 水 火 土\"一（新段落）\""],["Wikipedia:用戶查核請求/存檔/2017年5月",700,67,"containing invalid attribute","長期全保護\"」2017年4月30日 (日) "],["Wikipedia:用戶框",56,1,"invalid parameter of <inputbox>"," type=fulltext"],["Wikipedia:用戶框/生辰、星座與生肖",11,3,"containing invalid attribute","{{Delcat"],["Wikipedia:用戶頁",409,1,"invalid parameter of <inputbox>"," type=fulltext"],["Wikipedia:用戶體驗反饋",29,1,"invalid parameter of <inputbox>"," type=commenttitle"],["Wikipedia:用戶體驗反饋/字體",25,1,"invalid parameter of <inputbox>"," type=commenttitle"],["Wikipedia:申请成为管理人员",102,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:申请成为管理人员/2023年草案",99,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:申请成为管理人员/更新草案2018",93,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:申请成为管理员/AT/第4次",312,196,"containing invalid attribute","  sl;-0p[;['''''''''''''''''''''''''''''''''''''''''''''/"],["Wikipedia:申请成为管理员/JuneAugust/第2次",4,37,"containing invalid attribute","#E3E3E3\"  "],["Wikipedia:申请成为管理员/Sanmosa",369,95,"attributes of a closing tag"," color=\"red\""],["Wikipedia:申请成为管理员/瑞丽江的河水",163,186,"containing invalid attribute"," | Христос Воскресе"],["Wikipedia:知识问答/存档/2009年3月",903,7,"attributes of a closing tag"," style"],["Wikipedia:知识问答/存档/2013年10月",585,1,"invalid content in <gallery>"," [[File:維基.bmp|缩略图|頁面中性質攔]]"],["Wikipedia:知识问答/存档/2013年6月",275,5,"invalid conversion flag","{subst:4~"],["Wikipedia:知识问答/存档/2014年1月",220,220,"containing invalid attribute"," you\""],["Wikipedia:社群首頁/貢獻個人力量",27,1,"invalid parameter of <inputbox>"," buttonlabel=-{zh:决定好开新條目;zh-hans:决定好开新條目;zh-hant:決定好開新條目;}-"],["Wikipedia:社群首页",613,1,"invalid parameter of <inputbox>"," buttonlabel=-{zh:决定好开新條目;zh-hans:决定好开新條目;zh-hant:決定好開新條目;}-"],["Wikipedia:移動覆核",5,1,"invalid parameter of <inputbox>"," type=fulltext"],["Wikipedia:管理员布告板/其他不当行为/存档/2020年3月",288,99,"containing invalid attribute","\n 回到上一步\n 捲動至編輯方塊\n =\"background:blue;box-shadow:2px 2px 2px purple;color:lightblu"],["Wikipedia:管理員解任投票",22,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:管理員解任投票/Mys 721tx/第2次",5,37,"containing invalid attribute","#E3E3E3\"  "],["Wikipedia:管理員解任投票/Shizhao/第4次",391,316,"containing invalid attribute","color:#87004F\""],["Wikipedia:管理員解任投票/Shizhao/第7次",3,37,"containing invalid attribute","#E3E3E3\"  "],["Wikipedia:管理員解任投票/Ws227/第2次",2,37,"containing invalid attribute","#E3E3E3\"  "],["Wikipedia:管理員解任投票/乌拉跨氪",2,37,"containing invalid attribute","#E3E3E3\"  "],["Wikipedia:維基學生會/會議室",173,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:維基學生會/條目編輯常駐活動",15,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:維基學生會/條目編輯常駐活動/個人貢獻",27,1,"invalid parameter of <inputbox>"," type=fulltext"],["Wikipedia:維基學生會/條目編輯常駐活動/活動現況",12,1,"invalid parameter of <inputbox>"," type=comment"],["Wikipedia:維基榮譽/申請與變更/申請區/存檔/2013年10月-12月",200,220,"containing invalid attribute"," you\""],["Wikipedia:維基榮譽/申請與變更/申請區/存檔/2014年1月-3月",9,220,"containing invalid attribute"," you\""],["Wikipedia:維基榮譽與獎勵/申請設立榮譽及獎項/存檔",458,229,"containing invalid attribute","color:#87004F\""],["Wikipedia:維基獎勵/授獎提名投票/header",19,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/Huandy618",42,208,"attributes of a closing tag"," color=\"red\""],["Wikipedia:維基百科人/按加入時間排序",685,4,"containing invalid attribute","2011年||8月8日||1039270||[[User:Jeong zeno|Jeong zeno]] ([[User "],["Wikipedia:維基百科大歷險/歷史",189,43,"containing invalid attribute",".83x"],["Wikipedia:維基簡訊/2014/1月/技術報告",33,18,"invalid conversion flag","光标"],["Wikipedia:網絡服務條目命名常規/用戶討論",2,4,"containing invalid attribute","-style=\"padding:2em;padding-top:2em;background:gold;\""],["Wikipedia:線上訓練/頁中/線上訓練完成",5,1,"invalid parameter of <inputbox>"," type=commenttitle"],["Wikipedia:繁简体转换请求/2004年",36,108,"containing invalid attribute","  \"#009933\""],["Wikipedia:繁简体转换请求/2005年",621,8,"invalid conversion flag","cn:阿联酋=>tw:大公國}====\n 阿拉伯联合酋长国（臺譯：阿拉伯聯合大公國）簡稱方式不同，亦一併要求之。這個只需要單向轉換即可，「大公國」雖是「阿拉伯聯"],["Wikipedia:繁简体转换请求/错误:丑時出生的人→醜時出生的人",28,4,"invalid conversion flag","t"],["Wikipedia:维基百科图书馆/寻求资源/header",21,1,"invalid parameter of <inputbox>"," type=comment"],["Wikipedia:翻译请求",24,1,"invalid parameter of <inputbox>"," type=comment"],["Wikipedia:聚会/中国女权编辑聚会",65,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:聚会/台灣維基人臺北定期聚會/聚會紀錄",1,32,"containing invalid attribute","clear:right; float:right; "],["Wikipedia:聚會/2006香港冬聚/聚會通知",2,4,"containing invalid attribute","-style=\"padding:1em;padding-top:1em;background:#FFB3B3;\""],["Wikipedia:聚會/2007香港春聚/聚會通知",2,4,"containing invalid attribute","-style=\"padding:5em;padding-top:1em;background:#FA8072;\""],["Wikipedia:聚會/2008香港春聚/邀請討論",2,4,"containing invalid attribute","-style=\"padding:1em;padding-top:1em;background:#000000;\""],["Wikipedia:聚會/Wiki協作聚/如何協作",31,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:聚會/Wiki協作聚/記錄",1,32,"containing invalid attribute","clear:right; float:right; "],["Wikipedia:聚會/Wiki協作聚/記錄/2013年8月",12,34,"containing invalid attribute","  |-align=\"center\""],["Wikipedia:聚會/Wiki協作聚/記錄/2014年9月",40,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:聚會/Wiki協作聚/記錄/2015年1月",34,1,"invalid parameter of <inputbox>"," type=create"],["Wikipedia:聚會/臺北/2014年維基漫步",46,34,"containing invalid attribute","  |-align=\"center\""],["Wikipedia:聚會/臺灣/2011年春季聚會/活動資訊",6,4,"containing invalid attribute","-style=\"padding:1em;padding-top:1em;background:#000000;\""],["Wikipedia:聚會/臺灣/2011年秋季聚會",157,13,"invalid content in <gallery>","<gallery>"],["Wikipedia:聚會/臺灣維基人新竹聚會/紀錄",1,32,"containing invalid attribute","clear:right; float:right; "],["Wikipedia:聚會/臺灣維基人聚會/2011年臺灣維基人冬聚",35,34,"containing invalid attribute","  |-align=\"center\""],["Wikipedia:聚會/臺灣維基人聚會/2011年臺灣維基人夏聚",28,34,"containing invalid attribute","  |-align=\"center\""],["Wikipedia:聚會/臺灣維基人聚會/2012年臺灣維基人冬聚",10,34,"containing invalid attribute","  |-align=\"center\""],["Wikipedia:聚會/臺灣維基人聚會/2012年臺灣維基人夏聚",19,34,"containing invalid attribute","  |-align=\"center\""],["Wikipedia:聚會/臺灣維基人聚會/2012年臺灣維基人春聚",185,13,"invalid content in <gallery>","<gallery>"],["Wikipedia:聚會/臺灣維基人聚會/2012年臺灣維基人秋聚",16,34,"containing invalid attribute","  |-align=\"center\""],["Wikipedia:聚會/臺灣維基人聚會/2013年臺灣維基人夏聚",43,34,"containing invalid attribute","  |-align=\"center\""],["Wikipedia:聚會/香港維基人聚會/2008年香港第二次春聚/通知",3,4,"containing invalid attribute","-style=\"padding:1em;padding-top:1em;background:#FFB3B3;\""],["Wikipedia:聚會/香港維基人聚會/邀請",2,4,"containing invalid attribute","-style=\"padding:1em;padding-top:1em;background:#FFB3B3;\""],["Wikipedia:臺灣教育專案/政大世界民族誌學習作業/克欽獨立組織",74,131,"containing invalid attribute","顧長永''"],["Wikipedia:臺灣教育專案/政大世界民族誌學習作業/吉里巴斯人",44,16,"containing invalid attribute"," Factbook”"],["Wikipedia:論述",58,1,"invalid parameter of <inputbox>"," type=fulltext"],["Wikipedia:计划命名空间",108,1,"invalid parameter of <inputbox>"," type=fulltext"],["Wikipedia:请求保护页面/保护存档/2014年4月",338,250,"containing invalid attribute","color:#87004F\""],["Wikipedia:頁面存廢和諧討論",29,1,"invalid parameter of <inputbox>"," type=fulltext"],["Wikipedia:頁面存廢討論",26,1,"invalid parameter of <inputbox>"," type=fulltext"],["Wikipedia:頁面存廢討論/記錄/2010/12/06",141,145,"containing invalid attribute"," styl--''爱管闲事的''[[User:Inspector|Inspector]]※[[User talk:Inspector|留言]] 2010年12月"],["Wikipedia:頁面存廢討論/記錄/2011/06/16",123,1,"invalid parameter of <inputbox>"," type=commenttitle"],["Wikipedia:頁面存廢討論/記錄/2013/03/25",199,52,"attributes of a closing tag"," color"],["Wikipedia:頁面存廢討論/記錄/2013/04/25",277,139,"containing invalid attribute"," style\"color: #ff00ff;\""],["Wikipedia:頁面存廢討論/記錄/2013/08/13",180,200,"attributes of a closing tag"," color"],["Wikipedia:頁面存廢討論/記錄/2013/09/16",249,183,"attributes of a closing tag"," color"],["Wikipedia:頁面存廢討論/記錄/2013/11/06",215,128,"containing invalid attribute"," *style=\"color: #ff00ff;\""],["Wikipedia:頁面存廢討論/記錄/2013/12/26",41,219,"containing invalid attribute"," you\""],["Wikipedia:頁面存廢討論/記錄/2013/12/29",29,273,"containing invalid attribute"," you\""],["Wikipedia:頁面存廢討論/記錄/2014/01/13",255,228,"containing invalid attribute"," you\""],["Wikipedia:頁面存廢討論/記錄/2014/01/16",281,265,"containing invalid attribute"," you\""],["Wikipedia:頁面存廢討論/記錄/2016/09/22",257,129,"containing invalid attribute"," 10px;color:#fff\"  "],["Wikipedia:頁面存廢討論/記錄/2017/07/07",213,243,"attributes of a closing tag"," color=\"#FED55D\""],["Wikipedia:頁面存廢討論/記錄/2017/07/15",156,364,"attributes of a closing tag"," color"],["Wikipedia:頁面存廢討論/記錄/2019/08/16",338,99,"containing invalid attribute"," | Христос Воскресе"],["Wikipedia:頁面存廢討論/記錄/2021/03/13",72,74,"containing invalid attribute"," Sans\""],["Wikipedia:首页/纯文本",11,1,"invalid parameter of <inputbox>"," type=search"],["Wikipedia:香港維基人佈告板/維基香港創作獎",245,86,"containing invalid attribute","fcfccf\"; empty-cells:show; border-collapse:collapse;\"  "],["Wikipedia:香港維基人佈告板/維基香港創作獎/2007年2月",270,86,"containing invalid attribute","fcfccf\"; empty-cells:show; border-collapse:collapse;\"  "],["Wikipedia:香港維基人佈告板/維基香港圖像獎/2007年4月",160,86,"containing invalid attribute","fffccf\"; empty-cells:show; border-collapse:collapse;\"  "],["Wikipedia:香港維基人佈告板/維基香港圖像獎/2007年5月",207,86,"containing invalid attribute","fcfccf\"; empty-cells:show; border-collapse:collapse;\"  "],["WikiProject:乌克兰/地名/А–Є",649,4,"containing invalid attribute","| 布里亞基夫卡 || [[布里亞基夫卡 (切爾沃諾阿爾米西克區)]]<br>[[布里亞基夫卡 (大布爾盧克區)]]<br>[[布里亞基夫卡 (扎列希基區)]]"],["WikiProject:分子與細胞生物學/Participants",6,4,"containing invalid attribute","|style=\"color:#000\""],["WikiProject:化学物质",55,154,"attributes of a closing tag"," style=\"color:#00FFFF;\""],["WikiProject:化學",11,87,"containing invalid attribute","  height:30px;\"  "],["WikiProject:巴哈伊信仰/全部编写计划",7,28,"containing invalid attribute"," #6699FF;\""],["WikiProject:生物",128,4,"containing invalid attribute","{{anastronomer} "],["WikiProject:电子游戏/必需条目/item",5,109,"containing invalid attribute","{{#switch:{{{3|}}} | 特色=A1 | 特色列表=A2 | 甲=B | 优良=C | 乙=D | 丙=E | 初=F | 小作品=G | 列表"],["WikiProject:神經科學",16,87,"containing invalid attribute","  height:30px;\"  "],["WikiProject:科幻/協作計劃/提交申請",3,1,"invalid parameter of <inputbox>"," type        = commenttitle"],["WikiProject:粒子",108,12,"containing invalid attribute"," (* 某年某月某日 "],["WikiProject:臺灣1000",31,1,"invalid parameter of <inputbox>"," type=create"],["WikiProject:蝴蝶",76,1,"invalid parameter of <inputbox>"," type=create"],["WikiProject:足球/模板",132,3,"containing invalid attribute","!width=15%"],["WikiProject:足球/足球俱樂部編寫格式",41,3,"containing invalid attribute","!width=15%"],["WikiProject:软件/成员",112,196,"containing invalid attribute"," s--[[User:Angelia2041|Angelia2041]] ([[User talk:Angelia2041|留言]]) 2010年11月15日 "],["WikiProject:钱币学",71,1,"invalid parameter of <inputbox>"," type=fulltext"],["Wiki软件比较",482,3,"containing invalid attribute"," {{yes}}, "],["Windows Live",304,3,"containing invalid attribute","[http://"],["Wish You Hell",268,4,"containing invalid attribute","font-weight:bold\"  "],["Witternheim",1,19,"useless link text","|维特奈姆"],["WOOAH",186,4,"containing invalid attribute","</ref>"],["Wooyeon",135,30,"containing invalid attribute","text-align:center\"  "],["WordPress",295,3,"containing invalid attribute"," 預設使用新的區塊編輯器{{cite "]],"batches":51}
+window.data={"articles":[[
+	"Wikipedia:化學首頁",
+	1,
+	22,
+	"useless link text",
+	"|Wikipedia:主题/化学"
+],[
+	"Wikipedia:參考文獻小組",
+	45,
+	233,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:双周提示/2012年11月10日",
+	35,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:反破壞工作小組/反破壞工作小組成員申請/存檔/250",
+	26,
+	223,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:可靠来源/布告板/header",
+	42,
+	5,
+	"useless fragment",
+	"Wikipedia:可靠来源/布告板评级指引#來源評級"
+],[
+	"Wikipedia:圓桌會",
+	76,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:圓桌會/圓桌會成員申請/存檔/300",
+	20,
+	225,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:坏笑话和删除的胡话/Google",
+	1,
+	84,
+	"containing invalid attribute",
+	"  margin-bottom:7em; margin-top:8em; "
+],[
+	"Wikipedia:基礎條目/質量比較",
+	5,
+	4,
+	"containing invalid attribute",
+	"中文"
+],[
+	"Wikipedia:外語譯音表/尼泊爾語",
+	14,
+	3,
+	"containing invalid attribute",
+	" -/अ"
+],[
+	"Wikipedia:外語譯音表/泰語",
+	55,
+	41,
+	"containing invalid attribute",
+	" 賓 "
+],[
+	"Wikipedia:大頭相簿",
+	147,
+	1,
+	"invalid content in <gallery>",
+	" [["
+],[
+	"Wikipedia:字詞轉換處理/公共轉換組",
+	15,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=fulltext"
+],[
+	"Wikipedia:字词转换/地区词候选",
+	10,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=fulltext"
+],[
+	"Wikipedia:存廢覆核請求/存檔/2014年7-9月",
+	873,
+	1,
+	"invalid content in <gallery>",
+	" [[File:《呐喊》（奇石）-正面.JPG|thumb|《呐喊》为天然玛瑙奇石。此石石身整体为白色，上面草花花纹正好形成了人的双眼和嘴巴，两侧内陷部位如人张"
+],[
+	"Wikipedia:广州维基人列表",
+	43,
+	142,
+	"attributes of a closing tag",
+	" color"
+],[
+	"Wikipedia:建立條目精靈/主題",
+	12,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=search"
+],[
+	"Wikipedia:建立條目精靈/模板",
+	9,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:建立條目精靈/用户页",
+	15,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:当前的破坏/存档/2016年12月",
+	275,
+	44,
+	"containing invalid attribute",
+	"金 木 水 火 土\"一}}\""
+],[
+	"Wikipedia:当前的破坏/存档/2019年6月",
+	280,
+	94,
+	"containing invalid attribute",
+	" | Христос Воскресе"
+],[
+	"Wikipedia:当前的破坏/存档/2019年8月",
+	698,
+	222,
+	"containing invalid attribute",
+	" | Христос Воскресе"
+],[
+	"Wikipedia:当前的破坏/存档/2023年12月",
+	1287,
+	82,
+	"containing invalid attribute",
+	" ETARRA\"&#125;&#125;\"  "
+],[
+	"Wikipedia:当前的破坏/存档/2023年8月",
+	1447,
+	98,
+	"containing invalid attribute",
+	" devil\"  "
+],[
+	"Wikipedia:当前的破坏/存档/2023年9月",
+	51,
+	85,
+	"containing invalid attribute",
+	" Pak-Yin&#125;&#125;\"  "
+],[
+	"Wikipedia:当前的破坏/存档/2024年6月",
+	1812,
+	76,
+	"containing invalid attribute",
+	"t\"&#125;&#125;\"  "
+],[
+	"Wikipedia:徵求意見/模板样式",
+	4,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=comment"
+],[
+	"Wikipedia:徵求意見/深色模式",
+	4,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=comment"
+],[
+	"Wikipedia:愚人節/2022/vp/template",
+	15,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=comment"
+],[
+	"Wikipedia:投票",
+	15,
+	1,
+	"invalid parameter of <inputbox>",
+	" break=no"
+],[
+	"Wikipedia:投票/修改存廢討論模版的文字表述/第一次",
+	78,
+	40,
+	"containing invalid attribute",
+	" #AAAAAA; background-color:white;\""
+],[
+	"Wikipedia:投票/新条目一问多荐的相关问题",
+	11,
+	20,
+	"invalid conversion flag",
+	"[[User:Cdip150|街燈電箱150號]] <small>[[User talk:Cdip150|開箱維修]]"
+],[
+	"Wikipedia:投票/更新Wikipedia:保护方针的图示",
+	13,
+	41,
+	"containing invalid attribute",
+	" #AAAAAA; background-color:white;\""
+],[
+	"Wikipedia:抗議SOPA行動/討論區",
+	256,
+	46,
+	"invalid conversion flag",
+	"Wilson Mess "
+],[
+	"Wikipedia:拯救典范、优良条目工作小组",
+	84,
+	226,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:持续出没的破坏者/header",
+	18,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:收錄標準/佈告板/header",
+	33,
+	4,
+	"containing invalid attribute",
+	"|colspan=\"3\"|'''Additional notes:'''"
+],[
+	"Wikipedia:数学首页",
+	1,
+	22,
+	"useless link text",
+	"|Wikipedia:主题/数学"
+],[
+	"Wikipedia:數學首頁",
+	1,
+	22,
+	"useless link text",
+	"|Wikipedia:主题/数学"
+],[
+	"Wikipedia:文字編輯工作小組",
+	196,
+	220,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:新手上路/2011年",
+	597,
+	1,
+	"invalid content in <gallery>",
+	" F[[File:ile:Example.jpg|标题1"
+],[
+	"Wikipedia:新手上路/header",
+	45,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=commenttitle"
+],[
+	"Wikipedia:新月協會",
+	55,
+	222,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:新条目推荐",
+	7,
+	1,
+	"invalid parameter of <inputbox>",
+	" bgcolor="
+],[
+	"Wikipedia:新条目推荐/供稿/2019年10月24日",
+	6,
+	48,
+	"invalid conversion flag",
+	"r"
+],[
+	"Wikipedia:新条目推荐/存档/2019年10月",
+	51,
+	48,
+	"invalid conversion flag",
+	"r"
+],[
+	"Wikipedia:新闻动态候选/存档/2017年3月",
+	38,
+	98,
+	"attributes of a closing tag",
+	" style"
+],[
+	"Wikipedia:新闻动态候选/存档/2020年8月",
+	733,
+	62,
+	"attributes of a closing tag",
+	" color=\"red\""
+],[
+	"Wikipedia:更改用户名/已完成/2012年",
+	624,
+	5,
+	"invalid conversion flag",
+	"Wilson Mess "
+],[
+	"Wikipedia:更改用户名/未完成/2014年",
+	25,
+	223,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:有償編輯/論述",
+	15,
+	97,
+	"containing invalid attribute",
+	" name'\"UP\""
+],[
+	"Wikipedia:机器人/申请/机械人申请指引",
+	20,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:条目向导/新建草稿",
+	6,
+	1,
+	"invalid parameter of <inputbox>",
+	" type = create"
+],[
+	"Wikipedia:条目向导/新建重定向",
+	6,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:条目质量提升计划/票选主题",
+	13,
+	1,
+	"invalid parameter of <inputbox>",
+	"  type=create"
+],[
+	"Wikipedia:條目創建請求/step 2",
+	12,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=search"
+],[
+	"Wikipedia:條目質量提升工作小組",
+	25,
+	234,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:條目質量提升計劃/歷史提升計畫",
+	31,
+	223,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:條目質量提升計劃/科技提升計畫/第一期",
+	703,
+	4,
+	"containing invalid attribute",
+	"-style=\"padding:5em;padding-top:1em;background:#FA8072;\""
+],[
+	"Wikipedia:條目質量提升計劃/計畫發起",
+	43,
+	1,
+	"invalid parameter of <inputbox>",
+	"  type=create"
+],[
+	"Wikipedia:模板消息",
+	24,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=fulltext"
+],[
+	"Wikipedia:檔案存廢討論",
+	31,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=fulltext"
+],[
+	"Wikipedia:檔案存廢討論/記錄/2010/05/29",
+	34,
+	226,
+	"containing invalid attribute",
+	"color:#87004F\""
+],[
+	"Wikipedia:每週記事",
+	12,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=fulltext"
+],[
+	"Wikipedia:特色图片",
+	87,
+	1,
+	"invalid content in <gallery>",
+	" File:Wizarding_World_of_Harry_Potter_Castle.jpg<br />作者：[[:en:User:Rstoplabe14|"
+],[
+	"Wikipedia:特色图片/2004年12月",
+	22,
+	1,
+	"invalid content in <gallery>",
+	" </: left\"/>"
+],[
+	"Wikipedia:特色圖片評選",
+	27,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:特色圖片評選/存檔/2020年9月",
+	6,
+	4,
+	"useless fragment",
+	"Wikipedia:特色圖片評選/PHZ-89自行火箭炮#PHZ-89自行火箭炮"
+],[
+	"Wikipedia:特色圖片評選/存檔/2024年10月",
+	3,
+	4,
+	"useless fragment",
+	"Wikipedia:特色圖片評選/西安云巴丈八四路—付村区间的两节列车#西安云巴丈八四路—付村区间的两节列车"
+],[
+	"Wikipedia:特色圖片評選/評選程序",
+	17,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:特色条目评选/尊严",
+	6,
+	241,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:特色条目评选/帕特·尼克松",
+	32,
+	253,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:特色条目评选/强烈热带风暴法茜 (2007年)",
+	18,
+	236,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:特色条目评选/明成祖",
+	17,
+	245,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:特色条目评选/普罗米修斯 (电影)",
+	20,
+	262,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:特色条目评选/洛阳市",
+	7,
+	244,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:特色条目评选/白氏树蛙/第四次",
+	19,
+	239,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:特色条目评选/高雄市历史",
+	16,
+	235,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:特色條目評選/神戶市",
+	33,
+	238,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:用戶查核請求/存檔/2016年12月",
+	50,
+	333,
+	"containing invalid attribute",
+	"金 木 水 火 土\"一（新段落）\""
+],[
+	"Wikipedia:用戶查核請求/存檔/2017年5月",
+	700,
+	67,
+	"containing invalid attribute",
+	"長期全保護\"」2017年4月30日 (日) "
+],[
+	"Wikipedia:用戶框",
+	56,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=fulltext"
+],[
+	"Wikipedia:用戶框/生辰、星座與生肖",
+	11,
+	3,
+	"containing invalid attribute",
+	"{{Delcat"
+],[
+	"Wikipedia:用戶頁",
+	409,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=fulltext"
+],[
+	"Wikipedia:用戶體驗反饋",
+	29,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=commenttitle"
+],[
+	"Wikipedia:用戶體驗反饋/字體",
+	25,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=commenttitle"
+],[
+	"Wikipedia:申请成为管理人员",
+	102,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:申请成为管理人员/2023年草案",
+	99,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:申请成为管理人员/更新草案2018",
+	93,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:申请成为管理员/AT/第4次",
+	312,
+	196,
+	"containing invalid attribute",
+	"  sl;-0p[;['''''''''''''''''''''''''''''''''''''''''''''/"
+],[
+	"Wikipedia:申请成为管理员/JuneAugust/第2次",
+	4,
+	37,
+	"containing invalid attribute",
+	"#E3E3E3\"  "
+],[
+	"Wikipedia:申请成为管理员/Sanmosa",
+	369,
+	95,
+	"attributes of a closing tag",
+	" color=\"red\""
+],[
+	"Wikipedia:申请成为管理员/瑞丽江的河水",
+	163,
+	186,
+	"containing invalid attribute",
+	" | Христос Воскресе"
+],[
+	"Wikipedia:知识问答/存档/2009年3月",
+	903,
+	7,
+	"attributes of a closing tag",
+	" style"
+],[
+	"Wikipedia:知识问答/存档/2013年10月",
+	585,
+	1,
+	"invalid content in <gallery>",
+	" [[File:維基.bmp|缩略图|頁面中性質攔]]"
+],[
+	"Wikipedia:知识问答/存档/2013年6月",
+	275,
+	5,
+	"invalid conversion flag",
+	"{subst:4~"
+],[
+	"Wikipedia:知识问答/存档/2014年1月",
+	220,
+	220,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:社群首頁/貢獻個人力量",
+	27,
+	1,
+	"invalid parameter of <inputbox>",
+	" buttonlabel=-{zh:决定好开新條目;zh-hans:决定好开新條目;zh-hant:決定好開新條目;}-"
+],[
+	"Wikipedia:社群首页",
+	613,
+	1,
+	"invalid parameter of <inputbox>",
+	" buttonlabel=-{zh:决定好开新條目;zh-hans:决定好开新條目;zh-hant:決定好開新條目;}-"
+],[
+	"Wikipedia:移動覆核",
+	5,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=fulltext"
+],[
+	"Wikipedia:管理员布告板/其他不当行为/存档/2020年3月",
+	288,
+	99,
+	"containing invalid attribute",
+	"\n 回到上一步\n 捲動至編輯方塊\n =\"background:blue;box-shadow:2px 2px 2px purple;color:lightblu"
+],[
+	"Wikipedia:管理員解任投票",
+	22,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:管理員解任投票/Mys 721tx/第2次",
+	5,
+	37,
+	"containing invalid attribute",
+	"#E3E3E3\"  "
+],[
+	"Wikipedia:管理員解任投票/Shizhao/第4次",
+	391,
+	316,
+	"containing invalid attribute",
+	"color:#87004F\""
+],[
+	"Wikipedia:管理員解任投票/Shizhao/第7次",
+	3,
+	37,
+	"containing invalid attribute",
+	"#E3E3E3\"  "
+],[
+	"Wikipedia:管理員解任投票/Ws227/第2次",
+	2,
+	37,
+	"containing invalid attribute",
+	"#E3E3E3\"  "
+],[
+	"Wikipedia:管理員解任投票/乌拉跨氪",
+	2,
+	37,
+	"containing invalid attribute",
+	"#E3E3E3\"  "
+],[
+	"Wikipedia:維基學生會/會議室",
+	173,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:維基學生會/條目編輯常駐活動",
+	15,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:維基學生會/條目編輯常駐活動/個人貢獻",
+	27,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=fulltext"
+],[
+	"Wikipedia:維基學生會/條目編輯常駐活動/活動現況",
+	12,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=comment"
+],[
+	"Wikipedia:維基榮譽/申請與變更/申請區/存檔/2013年10月-12月",
+	200,
+	220,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:維基榮譽/申請與變更/申請區/存檔/2014年1月-3月",
+	9,
+	220,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:維基榮譽與獎勵/申請設立榮譽及獎項/存檔",
+	458,
+	229,
+	"containing invalid attribute",
+	"color:#87004F\""
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/header",
+	19,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:維基獎勵/授獎提名投票/拓荒特別貢獻/Huandy618",
+	42,
+	208,
+	"attributes of a closing tag",
+	" color=\"red\""
+],[
+	"Wikipedia:維基百科人/按加入時間排序",
+	685,
+	4,
+	"containing invalid attribute",
+	"2011年||8月8日||1039270||[[User:Jeong zeno|Jeong zeno]] ([[User "
+],[
+	"Wikipedia:維基百科大歷險/歷史",
+	189,
+	43,
+	"containing invalid attribute",
+	".83x"
+],[
+	"Wikipedia:維基簡訊/2014/1月/技術報告",
+	33,
+	18,
+	"invalid conversion flag",
+	"光标"
+],[
+	"Wikipedia:網絡服務條目命名常規/用戶討論",
+	2,
+	4,
+	"containing invalid attribute",
+	"-style=\"padding:2em;padding-top:2em;background:gold;\""
+],[
+	"Wikipedia:線上訓練/頁中/線上訓練完成",
+	5,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=commenttitle"
+],[
+	"Wikipedia:繁简体转换请求/2004年",
+	36,
+	108,
+	"containing invalid attribute",
+	"  \"#009933\""
+],[
+	"Wikipedia:繁简体转换请求/2005年",
+	621,
+	8,
+	"invalid conversion flag",
+	"cn:阿联酋=>tw:大公國}====\n 阿拉伯联合酋长国（臺譯：阿拉伯聯合大公國）簡稱方式不同，亦一併要求之。這個只需要單向轉換即可，「大公國」雖是「阿拉伯聯"
+],[
+	"Wikipedia:繁简体转换请求/错误:丑時出生的人→醜時出生的人",
+	28,
+	4,
+	"invalid conversion flag",
+	"t"
+],[
+	"Wikipedia:维基百科图书馆/寻求资源/header",
+	21,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=comment"
+],[
+	"Wikipedia:翻译请求",
+	24,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=comment"
+],[
+	"Wikipedia:聚会/中国女权编辑聚会",
+	65,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:聚会/台灣維基人臺北定期聚會/聚會紀錄",
+	1,
+	32,
+	"containing invalid attribute",
+	"clear:right; float:right; "
+],[
+	"Wikipedia:聚會/2006香港冬聚/聚會通知",
+	2,
+	4,
+	"containing invalid attribute",
+	"-style=\"padding:1em;padding-top:1em;background:#FFB3B3;\""
+],[
+	"Wikipedia:聚會/2007香港春聚/聚會通知",
+	2,
+	4,
+	"containing invalid attribute",
+	"-style=\"padding:5em;padding-top:1em;background:#FA8072;\""
+],[
+	"Wikipedia:聚會/2008香港春聚/邀請討論",
+	2,
+	4,
+	"containing invalid attribute",
+	"-style=\"padding:1em;padding-top:1em;background:#000000;\""
+],[
+	"Wikipedia:聚會/Wiki協作聚/如何協作",
+	31,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:聚會/Wiki協作聚/記錄",
+	1,
+	32,
+	"containing invalid attribute",
+	"clear:right; float:right; "
+],[
+	"Wikipedia:聚會/Wiki協作聚/記錄/2013年8月",
+	12,
+	34,
+	"containing invalid attribute",
+	"  |-align=\"center\""
+],[
+	"Wikipedia:聚會/Wiki協作聚/記錄/2014年9月",
+	40,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:聚會/Wiki協作聚/記錄/2015年1月",
+	34,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"Wikipedia:聚會/臺北/2014年維基漫步",
+	46,
+	34,
+	"containing invalid attribute",
+	"  |-align=\"center\""
+],[
+	"Wikipedia:聚會/臺灣/2011年春季聚會/活動資訊",
+	6,
+	4,
+	"containing invalid attribute",
+	"-style=\"padding:1em;padding-top:1em;background:#000000;\""
+],[
+	"Wikipedia:聚會/臺灣/2011年秋季聚會",
+	157,
+	13,
+	"invalid content in <gallery>",
+	"<gallery>"
+],[
+	"Wikipedia:聚會/臺灣維基人新竹聚會/紀錄",
+	1,
+	32,
+	"containing invalid attribute",
+	"clear:right; float:right; "
+],[
+	"Wikipedia:聚會/臺灣維基人聚會/2011年臺灣維基人冬聚",
+	35,
+	34,
+	"containing invalid attribute",
+	"  |-align=\"center\""
+],[
+	"Wikipedia:聚會/臺灣維基人聚會/2011年臺灣維基人夏聚",
+	28,
+	34,
+	"containing invalid attribute",
+	"  |-align=\"center\""
+],[
+	"Wikipedia:聚會/臺灣維基人聚會/2012年臺灣維基人冬聚",
+	10,
+	34,
+	"containing invalid attribute",
+	"  |-align=\"center\""
+],[
+	"Wikipedia:聚會/臺灣維基人聚會/2012年臺灣維基人夏聚",
+	19,
+	34,
+	"containing invalid attribute",
+	"  |-align=\"center\""
+],[
+	"Wikipedia:聚會/臺灣維基人聚會/2012年臺灣維基人春聚",
+	185,
+	13,
+	"invalid content in <gallery>",
+	"<gallery>"
+],[
+	"Wikipedia:聚會/臺灣維基人聚會/2012年臺灣維基人秋聚",
+	16,
+	34,
+	"containing invalid attribute",
+	"  |-align=\"center\""
+],[
+	"Wikipedia:聚會/臺灣維基人聚會/2013年臺灣維基人夏聚",
+	43,
+	34,
+	"containing invalid attribute",
+	"  |-align=\"center\""
+],[
+	"Wikipedia:聚會/香港維基人聚會/2008年香港第二次春聚/通知",
+	3,
+	4,
+	"containing invalid attribute",
+	"-style=\"padding:1em;padding-top:1em;background:#FFB3B3;\""
+],[
+	"Wikipedia:聚會/香港維基人聚會/邀請",
+	2,
+	4,
+	"containing invalid attribute",
+	"-style=\"padding:1em;padding-top:1em;background:#FFB3B3;\""
+],[
+	"Wikipedia:臺灣教育專案/政大世界民族誌學習作業/克欽獨立組織",
+	74,
+	131,
+	"containing invalid attribute",
+	"顧長永''"
+],[
+	"Wikipedia:臺灣教育專案/政大世界民族誌學習作業/吉里巴斯人",
+	44,
+	16,
+	"containing invalid attribute",
+	" Factbook”"
+],[
+	"Wikipedia:論述",
+	58,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=fulltext"
+],[
+	"Wikipedia:计划命名空间",
+	108,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=fulltext"
+],[
+	"Wikipedia:请求保护页面/保护存档/2014年4月",
+	338,
+	250,
+	"containing invalid attribute",
+	"color:#87004F\""
+],[
+	"Wikipedia:頁面存廢和諧討論",
+	29,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=fulltext"
+],[
+	"Wikipedia:頁面存廢討論",
+	26,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=fulltext"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2010/12/06",
+	141,
+	145,
+	"containing invalid attribute",
+	" styl--''爱管闲事的''[[User:Inspector|Inspector]]※[[User talk:Inspector|留言]] 2010年12月"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2011/06/16",
+	123,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=commenttitle"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/03/25",
+	199,
+	52,
+	"attributes of a closing tag",
+	" color"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/04/25",
+	277,
+	139,
+	"containing invalid attribute",
+	" style\"color: #ff00ff;\""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/08/13",
+	180,
+	200,
+	"attributes of a closing tag",
+	" color"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/09/16",
+	249,
+	183,
+	"attributes of a closing tag",
+	" color"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/11/06",
+	215,
+	128,
+	"containing invalid attribute",
+	" *style=\"color: #ff00ff;\""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/12/26",
+	41,
+	219,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2013/12/29",
+	29,
+	273,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2014/01/13",
+	255,
+	228,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2014/01/16",
+	281,
+	265,
+	"containing invalid attribute",
+	" you\""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2016/09/22",
+	257,
+	129,
+	"containing invalid attribute",
+	" 10px;color:#fff\"  "
+],[
+	"Wikipedia:頁面存廢討論/記錄/2017/07/07",
+	213,
+	243,
+	"attributes of a closing tag",
+	" color=\"#FED55D\""
+],[
+	"Wikipedia:頁面存廢討論/記錄/2017/07/15",
+	156,
+	364,
+	"attributes of a closing tag",
+	" color"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2019/08/16",
+	338,
+	99,
+	"containing invalid attribute",
+	" | Христос Воскресе"
+],[
+	"Wikipedia:頁面存廢討論/記錄/2021/03/13",
+	72,
+	74,
+	"containing invalid attribute",
+	" Sans\""
+],[
+	"Wikipedia:首页/纯文本",
+	11,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=search"
+],[
+	"Wikipedia:香港維基人佈告板/維基香港創作獎",
+	245,
+	86,
+	"containing invalid attribute",
+	"fcfccf\"; empty-cells:show; border-collapse:collapse;\"  "
+],[
+	"Wikipedia:香港維基人佈告板/維基香港創作獎/2007年2月",
+	270,
+	86,
+	"containing invalid attribute",
+	"fcfccf\"; empty-cells:show; border-collapse:collapse;\"  "
+],[
+	"Wikipedia:香港維基人佈告板/維基香港圖像獎/2007年4月",
+	160,
+	86,
+	"containing invalid attribute",
+	"fffccf\"; empty-cells:show; border-collapse:collapse;\"  "
+],[
+	"Wikipedia:香港維基人佈告板/維基香港圖像獎/2007年5月",
+	207,
+	86,
+	"containing invalid attribute",
+	"fcfccf\"; empty-cells:show; border-collapse:collapse;\"  "
+],[
+	"WikiProject:乌克兰/地名/А–Є",
+	649,
+	4,
+	"containing invalid attribute",
+	"| 布里亞基夫卡 || [[布里亞基夫卡 (切爾沃諾阿爾米西克區)]]<br>[[布里亞基夫卡 (大布爾盧克區)]]<br>[[布里亞基夫卡 (扎列希基區)]]"
+],[
+	"WikiProject:分子與細胞生物學/Participants",
+	6,
+	4,
+	"containing invalid attribute",
+	"|style=\"color:#000\""
+],[
+	"WikiProject:化学物质",
+	55,
+	154,
+	"attributes of a closing tag",
+	" style=\"color:#00FFFF;\""
+],[
+	"WikiProject:化學",
+	11,
+	87,
+	"containing invalid attribute",
+	"  height:30px;\"  "
+],[
+	"WikiProject:巴哈伊信仰/全部编写计划",
+	7,
+	28,
+	"containing invalid attribute",
+	" #6699FF;\""
+],[
+	"WikiProject:生物",
+	128,
+	4,
+	"containing invalid attribute",
+	"{{anastronomer} "
+],[
+	"WikiProject:电子游戏/必需条目/item",
+	5,
+	109,
+	"containing invalid attribute",
+	"{{#switch:{{{3|}}} | 特色=A1 | 特色列表=A2 | 甲=B | 优良=C | 乙=D | 丙=E | 初=F | 小作品=G | 列表"
+],[
+	"WikiProject:神經科學",
+	16,
+	87,
+	"containing invalid attribute",
+	"  height:30px;\"  "
+],[
+	"WikiProject:科幻/協作計劃/提交申請",
+	3,
+	1,
+	"invalid parameter of <inputbox>",
+	" type        = commenttitle"
+],[
+	"WikiProject:粒子",
+	108,
+	12,
+	"containing invalid attribute",
+	" (* 某年某月某日 "
+],[
+	"WikiProject:臺灣1000",
+	31,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"WikiProject:蝴蝶",
+	76,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"WikiProject:足球/模板",
+	132,
+	3,
+	"containing invalid attribute",
+	"!width=15%"
+],[
+	"WikiProject:足球/足球俱樂部編寫格式",
+	41,
+	3,
+	"containing invalid attribute",
+	"!width=15%"
+],[
+	"WikiProject:软件/成员",
+	112,
+	196,
+	"containing invalid attribute",
+	" s--[[User:Angelia2041|Angelia2041]] ([[User talk:Angelia2041|留言]]) 2010年11月15日 "
+],[
+	"WikiProject:钱币学",
+	71,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=fulltext"
+],[
+	"Wiki软件比较",
+	482,
+	3,
+	"containing invalid attribute",
+	" {{yes}}, "
+],[
+	"Windows Live",
+	304,
+	3,
+	"containing invalid attribute",
+	"[http://"
+],[
+	"Wish You Hell",
+	268,
+	4,
+	"containing invalid attribute",
+	"font-weight:bold\"  "
+],[
+	"Witternheim",
+	1,
+	19,
+	"useless link text",
+	"|维特奈姆"
+],[
+	"WOOAH",
+	186,
+	4,
+	"containing invalid attribute",
+	"</ref>"
+],[
+	"Wooyeon",
+	135,
+	30,
+	"containing invalid attribute",
+	"text-align:center\"  "
+],[
+	"WordPress",
+	295,
+	3,
+	"containing invalid attribute",
+	" 預設使用新的區塊編輯器{{cite "
+],],"batches":51}

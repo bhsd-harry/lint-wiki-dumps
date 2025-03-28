@@ -1,1 +1,1201 @@
-window.data={"articles":[["新会区",19,3,"duplicated parameter","subdivision_type1 = 省\n "],["新加坡摩天大樓列表",1264,51,"duplicated parameter"," language = en "],["新加坡英語字彙",421,13,"duplicated with attribute","with"],["新加坡鞭刑",114,693,"duplicated name attribute","name=\"Branding the Bad Hats for Life\""],["新加坡馬來語",17,3,"duplicated parameter","iso3=zsm\n "],["新北市公共自行車租賃系統",11,3,"duplicated parameter"," vehicles = \n "],["新北市立圖書館",818,2,"duplicated category","[[Category:新北市圖書館]]"],["新北市立圖書館板橋江子翠分館",106,2,"duplicated category","[[Category:板橋區 (台灣)]]"],["新北市立樟樹國際實創高級中等學校",96,2,"duplicated category","[[Category:1998年台灣建立|J]]"],["新十字型大廈",529,233,"duplicated parameter","work=香港房屋委員會建築小組委員會"],["新南威爾士州",165,90,"duplicated image caption parameter","thumb}"],["新喀里多尼亞",177,24,"duplicated style attribute","style=\"font-size: 90%;\""],["新四十二章",871,3,"duplicated parameter","電視台={{MYS}} [[Astro AOD]]、[[翡翠台 (東南亞)|翡翠台]]\n "],["新地区",35,3,"duplicated parameter"," population_as_of = 2021年6月\n "],["新垣隆",110,2,"duplicated category","[[Category:日本電影音樂作曲家]]"],["新城A區至澳門半島第三連接橋",62,2,"duplicated category","[[Category:澳門行車天橋|A]]"],["新大丈夫",57,5,"duplicated class attribute","class=\"wikitable\""],["新大嶼山巴士A35線",372,2,"duplicated category","[[Category:新大嶼山巴士路線|A35]]"],["新奥斯纳布吕克报",4,3,"duplicated parameter"," type               = \n "],["新宫站 (北京市)",25,3,"duplicated parameter"," colour = \n "],["新寶院線",28,2,"duplicated category","[[category:香港電影院線]]"],["新小基隆",10,3,"duplicated parameter"," bp         = Sīn Siǒgēláng／Siǒgēláng Sīnzn̄g\n "],["新年·奇迹号",16,3,"duplicated parameter"," runtime        =\n "],["新晃侗族自治县",242,29,"duplicated image caption parameter","thunb"],["新村路站",6,3,"duplicated parameter"," type = [[上海地铁]]车站\n "],["新格拉纳达联合省",149,2,"duplicated category","[[Category:哥伦比亚历史]]"],["新死亡游戏",20,3,"duplicated parameter"," gross              = \n "],["新海大道站",30,3,"duplicated parameter"," opened = 2019年12月26日\n "],["新界",21,94,"duplicated image caption parameter","Right"],["新界區專線小巴34線",117,2,"duplicated category","[[Category:已取消小巴路線|034]]"],["新界區專線小巴59K線",334,2,"duplicated category","[[Category:新界區小巴路線|059K]]"],["新疆生产建设兵团第四师六十三团",21,2,"duplicated category","[[Category:团镇合一]]"],["新竹客運",47,232,"duplicated parameter","archive-date=2024-03-09 "],["新竹市孔廟",42,146,"duplicated name attribute","name=\"李青霖、范榮達\""],["新竹市立棒球場",39,612,"duplicated parameter","author=謝靜雯"],["新竹市立馬偕兒童醫院",89,2,"duplicated category","[[Category:新竹市醫院]]"],["新竹神社",183,2,"duplicated category","[[Category:北區 (新竹市)]]"],["新紮師妹",82,2,"duplicated category","[[分类:香港警匪片]]"],["新絲路文旅",25,2,"duplicated category","[[category:香港電子公司]]"],["新義安",58,136,"duplicated parameter","title=《清幫與洪門大傳》 黑方拘捕新義安龍頭"],["新彪遵",8,3,"duplicated parameter","settlement_type = [[緬甸城市列表|镇]]\n "],["新西伯利亚",260,2,"duplicated category","[[Category:俄罗斯联邦主体行政中心]]"],["新西兰",82,40,"conflicting image horizontal-alignment parameter","right"],["新西蘭交響樂團",5,82,"duplicated name attribute","name"],["新警察故事",307,2,"duplicated category","[[Category:香港警匪片]]"],["新香坊北站",51,2,"duplicated category","[[Category:中国铁路哈尔滨局集团车站]]"],["斷層",77,72,"duplicated image caption parameter","299.965x299.965px"],["方亮 (播音员)",52,2,"duplicated category","[[Category:本溪人]]"],["方克偉",83,5,"duplicated align attribute","align=center"],["方利旭",37,2,"duplicated category","[[Category:普宁人]]"],["方志友",377,2,"duplicated category","[[Category:金馬獎最佳女配角得主]]"],["方志敏",20,3,"duplicated parameter","allegiance =\n "],["方恩格",51,2,"duplicated category","[[Category:猶太裔美國人]]"],["方成 (漫画家)",63,2,"duplicated category","[[Category:中華人民共和國人瑞]]"],["方承郁",25,2,"duplicated category","[[Category:南京兵部主事]]"],["方濟·沙勿略",63,68,"duplicated image caption parameter","rihgt"],["方玄宗",51,5,"duplicated align attribute","align=center"],["方言学",96,2,"duplicated category","[[Category:语言学]]"],["施塔恩贝格",52,2,"duplicated category","[[Category:巴伐利亚州市镇|S]]"],["施宣宇",50,3,"duplicated parameter"," 首次個人展覽=《調和波長》 台北敦煌藝術中心 \n "],["旅行者1号",4,3,"duplicated parameter","zh-cn:质量; zh-tw:質量; zh-hk:質量;\n "],["旋風直升機",118,2,"duplicated category","[[Category:軍用直升機]]"],["旌額理",16,2,"duplicated category","[[Category:鑲黃旗滿洲副都統]]"],["旗幟行動",37,2,"duplicated category","[[Category:1969年英國]]"],["无依之地获奖与提名列表",345,4,"duplicated align attribute","align=\"center\""],["无名烈士墓 (莫斯科)",10,3,"duplicated parameter","complete = {{Start date and age|1966|df=yes}}\n "],["无损检测",33,117,"duplicated image caption parameter","609.974x609.974px"],["无间道 (网络剧)",144,23,"duplicated style attribute","style=\"width:50%\""],["无限法则",66,2,"duplicated category","[[Category:大逃杀游戏]]"],["日內瓦第一公約",942,2,"duplicated category","[[Category:墨西哥條約]]"],["日冕",346,2,"duplicated category","[[Category:太空電漿]]"],["日劇學院賞最佳女配角",2472,2,"duplicated category","[[Category:日劇學院賞]]"],["日常幻想指南",22,3,"duplicated parameter"," 票房         = \n "],["日式叉燒",1,26,"duplicated image caption parameter","Cha-syu"],["日托米尔装甲厂",33,3,"duplicated parameter"," area_served = <!-- or: areas_served = -->\n "],["日本—苏联关系",102,2,"duplicated category","[[Category:日本—蘇聯關係| ]]"],["日本人的心理结构",12,2,"duplicated category","[[Category:心理学书籍]]"],["日本原子力發電",75,36,"duplicated style attribute","style=\"text-align: center;  \""],["日本回聲",88,2,"duplicated category","[[Category:日本学]]"],["日本国政府",230,70,"duplicated image caption parameter","rihgt"],["日本國寶住宅列表",16,33,"duplicated style attribute","style=\"background:#ffffff;\""],["日本國鐵185系電力動車組",99,50,"duplicated image caption parameter","Seat of JR 185-200.JPG"],["日本圍棋女流頭銜戰得主列表",158,5,"duplicated align attribute","align=\"center\""],["日本圍棋頭銜戰得主列表",15,5,"duplicated align attribute","align=\"center\""],["日本城市軌道交通系統",17,311,"duplicated parameter","archive-date=2024-07-10"],["日本女子職業足球聯賽",14,3,"duplicated parameter"," first                = 2021-22年\n "],["日本平鮋",16,2,"duplicated category","[[Category: 1843年描述的鱼类|R]]"],["日本廣播電台列表",311,2,"duplicated category","[[Category:日本电台| ]]"],["日本笔会",1,89,"duplicated image caption parameter","200pm"],["日本職業足球聯賽參賽球隊列表",232,24,"duplicated style attribute","style=\"text-align:left align=\""],["日本航空",832,52,"duplicated image caption parameter","[空中巴士A300"],["日本航空快運",83,42,"duplicated image caption parameter","[[波音737"],["日本貨物鐵道",1018,33,"duplicated image caption parameter","Right"],["日本足球聯賽 (1999年以後)",86,2,"duplicated category","[[Category:日本足球聯賽| ]]"],["日本車站編號",653,34,"duplicated style attribute","style=\"margin-left:0;\""],["日本車輛號牌",577,49,"duplicated style attribute","style=\"margin:auto\""],["日本電影學院獎最佳影片獎",2052,33,"duplicated style attribute","style=\"text-align:center\""],["日比谷公園",13,3,"duplicated parameter","管理者 = 東京都\n "],["日產Murano",8,51,"conflicting image horizontal-alignment parameter","none"],["日立Sirio",12,41,"duplicated image caption parameter","Tramvia firenze sirio"],["日職聯U22選拔隊",131,122,"duplicated parameter","publisher=日本プロサッカーリーグ"],["日語之法語借詞",10,29,"duplicated image width parameter","180px"],["旧居留地",15,71,"duplicated image thumbnail parameter","thumb"],["旧庄窝西站",14,5,"duplicated border attribute","border=1"],["旧金山国际机场旅客捷运系统",37,82,"duplicated image caption parameter","Right"],["时空",62,39,"duplicated image caption parameter","宽度100px"],["昆大高速公路",76,20,"duplicated parameter","state=l"],["昇菘集團",31,2,"duplicated category","[[Category:新加坡超级市场]]"],["昌黎豆卢氏世系图",17,282,"duplicated parameter","Yn=[[豆卢英]]"],["明亮 (清朝)",251,2,"duplicated category","[[Category:烏魯木齊都統]]"],["明学昌",13,3,"duplicated parameter"," constituency1 = [[老街 (果敢)|老街]]第一选区\n\n "],["明星的戀人",57,5,"duplicated style attribute","style=\"background:cornflowerblue; color:white\""],["明朝藩王列表 (瀋王系)",168,2,"duplicated category","[[Category:明朝諸王列表模板]]"],["明治三陸地震",45,5,"duplicated class attribute","class=\"wikitable collapsible\""],["易炼红",164,2,"duplicated category","[[Category:江西省人大常委会主任]]"],["昔加末县",378,33,"duplicated style attribute","style=\"white-space:nowrap\""],["星之海",18,2,"duplicated category","[[Category:電子角色扮演遊戲]]"],["星光少女",883,2,"duplicated category","[[Category:偶像題材電子遊戲]]"],["星廚駕到",963,20,"duplicated style attribute","style=\"font-size:14px\""],["星空下的恋人",57,78,"duplicated image caption parameter","align=right"],["星系",701,81,"duplicated image caption parameter","align=right"],["星野貴紀",225,5,"duplicated border attribute","border=\"2\""],["星际物质",9,31,"duplicated image caption parameter","medium"],["星際大爭霸Online",51,2,"duplicated category","[[Category:大型多人在线角色扮演游戏]]"],["星際異攻隊 聖誕特別篇",435,2,"duplicated category","[[Category:美國劇情電視劇]]"],["映畫倫理機構",102,2,"duplicated category","[[Category:中央區組織 (東京都)]]"],["春之祭",56,65,"duplicated image caption parameter","链接=https://en.wikipedia.org/wiki/File:Russian Ballet in Paris - New York Times 1"],["春哥",52,2,"duplicated category","[[Category:互联网用语|Chun]]"],["春暉兩代家庭關係研究",98,2,"duplicated category","[[Category:美國研究]]"],["昼与夜",90,2,"duplicated category","[[Category:1991年單曲]]"],["時代劇",12,30,"duplicated image caption parameter","{{largethumb}}"],["時報鷹開幕戰先發投手列表",4,5,"duplicated class attribute","class=\"wikitable\""],["晋城市",512,2,"duplicated category","[[Category:国家卫生城市]]"],["晋阳饭店",7,3,"duplicated parameter","坐标 =\n "],["晏柔中",32,33,"duplicated style attribute","style=\"font-size:90%\""],["晨曦體育會",200,3,"duplicated align attribute","align=center"],["普利策奖",43,33,"duplicated image caption parameter","rihgt"],["普悠瑪號列車出軌事故",67,47,"duplicated image caption parameter","Right"],["普惠JT9D",2,3,"duplicated parameter","1=zh-hans:涵道比; zh-hant:旁通比;\n "],["普拉主教座堂",2,107,"duplicated image thumbnail parameter","thumb"],["普爾娜·雅格娜森",161,2,"duplicated category","[[Category:印度电影女演员]]"],["普罗佩提乌斯",71,437,"duplicated parameter","date=1936 "],["普莱费尔陨石坑",9,24,"duplicated image width parameter","420px"],["普诺大区",126,23,"duplicated border attribute","border=\"1\""],["普赛克室",10,50,"duplicated image caption parameter","sinistra"],["普雷斯堡和约",15,39,"duplicated image caption parameter","{{clear|left}}"],["普魯士王國",140,472,"duplicated parameter","isbn = 0945466226 "],["普魯士的卡爾",31,2,"duplicated category","[[Category:霍亨索倫王朝]]"],["普魯士的阿爾布雷希特 (1837年)",37,2,"duplicated category","[[Category:霍亨索倫王朝]]"],["普魯士藍 (醫用)",4,3,"duplicated parameter"," INN               = \n "],["普鲁士多特蒙德二队",47,2,"duplicated category","[[Category:德國足球俱樂部]]"],["普鲁士的亚历山德里娜 (1803年)",27,2,"duplicated category","[[Category:霍亨索倫王朝]]"],["景雲街遊樂場",47,57,"duplicated image width parameter","275px"],["智利社會主義共和國",106,2,"duplicated category","[[分類:前社會主義國家]]"],["暗区突围",115,2,"duplicated category","[[Category:免费游玩游戏]]"],["暗坡条纹",99,33,"duplicated image caption parameter","'''E.''' [[火星轨道器相机]]看到的[[吕科斯沟脊地]]区吻合型（网结状）斜坡条纹，其形态类似于流体流动产生的特征。图像区域约为3公里（1.9英里）。"],["暗夜狼人 (特輯)",395,2,"duplicated category","[[Category:美國劇情電視劇]]"],["暗戰2",120,2,"duplicated category","[[Category:香港警匪片]]"],["暗灰細鰩",7,3,"duplicated parameter"," synonyms = \n "],["暗警",50,2,"duplicated category","[[Category:TNT电视节目]]"],["暗黑獵殺者",37,3,"duplicated parameter"," 開始 = {{start date|2024|3|24}}\n "],["暮蟬悲鳴時",660,2,"duplicated category","[[Category:敘事者不可靠的作品]]"],["暴雪娛樂",198,2,"duplicated category","[[Category:暴雪娛樂| ]]"],["曲淵站",93,2,"duplicated category","[[category:稚內市鐵路車站]]"],["書坊街",7,25,"duplicated image thumbnail parameter","缩略图"],["曹興誠",112,172,"duplicated parameter","accessdate=2025-03-02 "],["曹薇娟",455,3,"duplicated colspan attribute","colspan=\"6\""],["曹隘站",20,3,"duplicated parameter"," colour = \n "],["曼努埃尔·平托·达科斯塔",3,3,"duplicated parameter","1=zh-hans:曼努埃尔·平托·达科斯塔;zh-hant:曼努爾·賓多·達科斯塔;\n "],["曼尼里乌斯陨石坑",128,2,"duplicated category","[[Category:月球环形山]]"],["曼弗雷德·艾根",30,58,"duplicated image caption parameter","{{largethumb}}"],["曼聯足球俱樂部球員列表",18,49,"duplicated style attribute","style=\"text-align:center\""],["曼諾·瑞亞斯",5,3,"duplicated parameter","2=zh-cn:里奥斯;zh-tw:瑞亞斯;\n "],["曼谷大众运输机构",3,50,"duplicated image caption parameter","rght"],["曾仁和",134,2,"duplicated category","[[Category:美國職棒大聯盟台灣球員]]"],["曾仲鸣",40,37,"duplicated image caption parameter","替代文字"],["曾保羅",49,5,"duplicated align attribute","align=center"],["曾健成",68,22,"duplicated image width parameter","250px"],["曾增球",46,2,"duplicated category","[[Category:臺北富邦勇士球員]]"],["曾大屋",2,41,"duplicated image width parameter","200px"],["曾孟承",85,5,"duplicated align attribute","align=center"],["曾展望",137,2,"duplicated category","[[Category:無綫電視男藝員]]"],["曾志朗",7,3,"duplicated parameter"," premierroc = [[吳敦義]]\n "],["曾攀",20,2,"duplicated category","[[Category:中国共产党党员]]"],["曾智偵",109,5,"duplicated align attribute","align=center"],["曾琬羚",126,2,"duplicated category","[[Category:曾姓]]"],["曾琮萱",62,5,"duplicated align attribute","align=center"],["曾翊誠",82,5,"duplicated align attribute","align=center"],["曾豪駒",97,5,"duplicated align attribute","align=center"],["曾锦堂",53,2,"duplicated category","[[Category:台灣左翼統一運動參與者]]"],["替代性DNS根",101,2,"duplicated category","[[Category:域名解析服务]]"],["會展站",200,1653,"duplicated parameter","url= https://www.hk01.com/sns/article/770286 "],["會稽區",1,4,"duplicated style attribute","style=\"width:400px\""],["會計師",97,2,"duplicated category","[[Category:會計師]]"],["月亭公园",13,2,"duplicated category","[[Category:使用创建条目精灵建立的页面]]"],["月光集市",27,33,"duplicated image width parameter","100px"],["月光騎士 (電視劇)",745,2,"duplicated category","[[Category:美國劇情電視劇]]"],["月曜夜未央",195,24,"duplicated style attribute","style=\"text-align:left;\""],["月球",212,67,"duplicated image caption parameter","thumbtime=0:02"],["月球10号",2,20,"duplicated style attribute","style=\"background:#efefef;\""]],"batches":43}
+window.data={"articles":[[
+	"新会区",
+	19,
+	3,
+	"duplicated parameter",
+	"subdivision_type1 = 省\n "
+],[
+	"新加坡摩天大樓列表",
+	1264,
+	51,
+	"duplicated parameter",
+	" language = en "
+],[
+	"新加坡英語字彙",
+	421,
+	13,
+	"duplicated with attribute",
+	"with"
+],[
+	"新加坡鞭刑",
+	114,
+	693,
+	"duplicated name attribute",
+	"name=\"Branding the Bad Hats for Life\""
+],[
+	"新加坡馬來語",
+	17,
+	3,
+	"duplicated parameter",
+	"iso3=zsm\n "
+],[
+	"新北市公共自行車租賃系統",
+	11,
+	3,
+	"duplicated parameter",
+	" vehicles = \n "
+],[
+	"新北市立圖書館",
+	818,
+	2,
+	"duplicated category",
+	"[[Category:新北市圖書館]]"
+],[
+	"新北市立圖書館板橋江子翠分館",
+	106,
+	2,
+	"duplicated category",
+	"[[Category:板橋區 (台灣)]]"
+],[
+	"新北市立樟樹國際實創高級中等學校",
+	96,
+	2,
+	"duplicated category",
+	"[[Category:1998年台灣建立|J]]"
+],[
+	"新十字型大廈",
+	529,
+	233,
+	"duplicated parameter",
+	"work=香港房屋委員會建築小組委員會"
+],[
+	"新南威爾士州",
+	165,
+	90,
+	"duplicated image caption parameter",
+	"thumb}"
+],[
+	"新喀里多尼亞",
+	177,
+	24,
+	"duplicated style attribute",
+	"style=\"font-size: 90%;\""
+],[
+	"新四十二章",
+	871,
+	3,
+	"duplicated parameter",
+	"電視台={{MYS}} [[Astro AOD]]、[[翡翠台 (東南亞)|翡翠台]]\n "
+],[
+	"新地区",
+	35,
+	3,
+	"duplicated parameter",
+	" population_as_of = 2021年6月\n "
+],[
+	"新垣隆",
+	110,
+	2,
+	"duplicated category",
+	"[[Category:日本電影音樂作曲家]]"
+],[
+	"新城A區至澳門半島第三連接橋",
+	62,
+	2,
+	"duplicated category",
+	"[[Category:澳門行車天橋|A]]"
+],[
+	"新大丈夫",
+	57,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"新大嶼山巴士A35線",
+	372,
+	2,
+	"duplicated category",
+	"[[Category:新大嶼山巴士路線|A35]]"
+],[
+	"新奥斯纳布吕克报",
+	4,
+	3,
+	"duplicated parameter",
+	" type               = \n "
+],[
+	"新宫站 (北京市)",
+	25,
+	3,
+	"duplicated parameter",
+	" colour = \n "
+],[
+	"新寶院線",
+	28,
+	2,
+	"duplicated category",
+	"[[category:香港電影院線]]"
+],[
+	"新小基隆",
+	10,
+	3,
+	"duplicated parameter",
+	" bp         = Sīn Siǒgēláng／Siǒgēláng Sīnzn̄g\n "
+],[
+	"新年·奇迹号",
+	16,
+	3,
+	"duplicated parameter",
+	" runtime        =\n "
+],[
+	"新晃侗族自治县",
+	242,
+	29,
+	"duplicated image caption parameter",
+	"thunb"
+],[
+	"新村路站",
+	6,
+	3,
+	"duplicated parameter",
+	" type = [[上海地铁]]车站\n "
+],[
+	"新格拉纳达联合省",
+	149,
+	2,
+	"duplicated category",
+	"[[Category:哥伦比亚历史]]"
+],[
+	"新死亡游戏",
+	20,
+	3,
+	"duplicated parameter",
+	" gross              = \n "
+],[
+	"新海大道站",
+	30,
+	3,
+	"duplicated parameter",
+	" opened = 2019年12月26日\n "
+],[
+	"新界",
+	21,
+	94,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"新界區專線小巴34線",
+	117,
+	2,
+	"duplicated category",
+	"[[Category:已取消小巴路線|034]]"
+],[
+	"新界區專線小巴59K線",
+	334,
+	2,
+	"duplicated category",
+	"[[Category:新界區小巴路線|059K]]"
+],[
+	"新疆生产建设兵团第四师六十三团",
+	21,
+	2,
+	"duplicated category",
+	"[[Category:团镇合一]]"
+],[
+	"新竹客運",
+	47,
+	232,
+	"duplicated parameter",
+	"archive-date=2024-03-09 "
+],[
+	"新竹市孔廟",
+	42,
+	146,
+	"duplicated name attribute",
+	"name=\"李青霖、范榮達\""
+],[
+	"新竹市立棒球場",
+	39,
+	612,
+	"duplicated parameter",
+	"author=謝靜雯"
+],[
+	"新竹市立馬偕兒童醫院",
+	89,
+	2,
+	"duplicated category",
+	"[[Category:新竹市醫院]]"
+],[
+	"新竹神社",
+	183,
+	2,
+	"duplicated category",
+	"[[Category:北區 (新竹市)]]"
+],[
+	"新紮師妹",
+	82,
+	2,
+	"duplicated category",
+	"[[分类:香港警匪片]]"
+],[
+	"新絲路文旅",
+	25,
+	2,
+	"duplicated category",
+	"[[category:香港電子公司]]"
+],[
+	"新義安",
+	58,
+	136,
+	"duplicated parameter",
+	"title=《清幫與洪門大傳》 黑方拘捕新義安龍頭"
+],[
+	"新彪遵",
+	8,
+	3,
+	"duplicated parameter",
+	"settlement_type = [[緬甸城市列表|镇]]\n "
+],[
+	"新西伯利亚",
+	260,
+	2,
+	"duplicated category",
+	"[[Category:俄罗斯联邦主体行政中心]]"
+],[
+	"新西兰",
+	82,
+	40,
+	"conflicting image horizontal-alignment parameter",
+	"right"
+],[
+	"新西蘭交響樂團",
+	5,
+	82,
+	"duplicated name attribute",
+	"name"
+],[
+	"新警察故事",
+	307,
+	2,
+	"duplicated category",
+	"[[Category:香港警匪片]]"
+],[
+	"新香坊北站",
+	51,
+	2,
+	"duplicated category",
+	"[[Category:中国铁路哈尔滨局集团车站]]"
+],[
+	"斷層",
+	77,
+	72,
+	"duplicated image caption parameter",
+	"299.965x299.965px"
+],[
+	"方亮 (播音员)",
+	52,
+	2,
+	"duplicated category",
+	"[[Category:本溪人]]"
+],[
+	"方克偉",
+	83,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"方利旭",
+	37,
+	2,
+	"duplicated category",
+	"[[Category:普宁人]]"
+],[
+	"方志友",
+	377,
+	2,
+	"duplicated category",
+	"[[Category:金馬獎最佳女配角得主]]"
+],[
+	"方志敏",
+	20,
+	3,
+	"duplicated parameter",
+	"allegiance =\n "
+],[
+	"方恩格",
+	51,
+	2,
+	"duplicated category",
+	"[[Category:猶太裔美國人]]"
+],[
+	"方成 (漫画家)",
+	63,
+	2,
+	"duplicated category",
+	"[[Category:中華人民共和國人瑞]]"
+],[
+	"方承郁",
+	25,
+	2,
+	"duplicated category",
+	"[[Category:南京兵部主事]]"
+],[
+	"方濟·沙勿略",
+	63,
+	68,
+	"duplicated image caption parameter",
+	"rihgt"
+],[
+	"方玄宗",
+	51,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"方言学",
+	96,
+	2,
+	"duplicated category",
+	"[[Category:语言学]]"
+],[
+	"施塔恩贝格",
+	52,
+	2,
+	"duplicated category",
+	"[[Category:巴伐利亚州市镇|S]]"
+],[
+	"施宣宇",
+	50,
+	3,
+	"duplicated parameter",
+	" 首次個人展覽=《調和波長》 台北敦煌藝術中心 \n "
+],[
+	"旅行者1号",
+	4,
+	3,
+	"duplicated parameter",
+	"zh-cn:质量; zh-tw:質量; zh-hk:質量;\n "
+],[
+	"旋風直升機",
+	118,
+	2,
+	"duplicated category",
+	"[[Category:軍用直升機]]"
+],[
+	"旌額理",
+	16,
+	2,
+	"duplicated category",
+	"[[Category:鑲黃旗滿洲副都統]]"
+],[
+	"旗幟行動",
+	37,
+	2,
+	"duplicated category",
+	"[[Category:1969年英國]]"
+],[
+	"无依之地获奖与提名列表",
+	345,
+	4,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"无名烈士墓 (莫斯科)",
+	10,
+	3,
+	"duplicated parameter",
+	"complete = {{Start date and age|1966|df=yes}}\n "
+],[
+	"无损检测",
+	33,
+	117,
+	"duplicated image caption parameter",
+	"609.974x609.974px"
+],[
+	"无间道 (网络剧)",
+	144,
+	23,
+	"duplicated style attribute",
+	"style=\"width:50%\""
+],[
+	"无限法则",
+	66,
+	2,
+	"duplicated category",
+	"[[Category:大逃杀游戏]]"
+],[
+	"日內瓦第一公約",
+	942,
+	2,
+	"duplicated category",
+	"[[Category:墨西哥條約]]"
+],[
+	"日冕",
+	346,
+	2,
+	"duplicated category",
+	"[[Category:太空電漿]]"
+],[
+	"日劇學院賞最佳女配角",
+	2472,
+	2,
+	"duplicated category",
+	"[[Category:日劇學院賞]]"
+],[
+	"日常幻想指南",
+	22,
+	3,
+	"duplicated parameter",
+	" 票房         = \n "
+],[
+	"日式叉燒",
+	1,
+	26,
+	"duplicated image caption parameter",
+	"Cha-syu"
+],[
+	"日托米尔装甲厂",
+	33,
+	3,
+	"duplicated parameter",
+	" area_served = <!-- or: areas_served = -->\n "
+],[
+	"日本—苏联关系",
+	102,
+	2,
+	"duplicated category",
+	"[[Category:日本—蘇聯關係| ]]"
+],[
+	"日本人的心理结构",
+	12,
+	2,
+	"duplicated category",
+	"[[Category:心理学书籍]]"
+],[
+	"日本原子力發電",
+	75,
+	36,
+	"duplicated style attribute",
+	"style=\"text-align: center;  \""
+],[
+	"日本回聲",
+	88,
+	2,
+	"duplicated category",
+	"[[Category:日本学]]"
+],[
+	"日本国政府",
+	230,
+	70,
+	"duplicated image caption parameter",
+	"rihgt"
+],[
+	"日本國寶住宅列表",
+	16,
+	33,
+	"duplicated style attribute",
+	"style=\"background:#ffffff;\""
+],[
+	"日本國鐵185系電力動車組",
+	99,
+	50,
+	"duplicated image caption parameter",
+	"Seat of JR 185-200.JPG"
+],[
+	"日本圍棋女流頭銜戰得主列表",
+	158,
+	5,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"日本圍棋頭銜戰得主列表",
+	15,
+	5,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"日本城市軌道交通系統",
+	17,
+	311,
+	"duplicated parameter",
+	"archive-date=2024-07-10"
+],[
+	"日本女子職業足球聯賽",
+	14,
+	3,
+	"duplicated parameter",
+	" first                = 2021-22年\n "
+],[
+	"日本平鮋",
+	16,
+	2,
+	"duplicated category",
+	"[[Category: 1843年描述的鱼类|R]]"
+],[
+	"日本廣播電台列表",
+	311,
+	2,
+	"duplicated category",
+	"[[Category:日本电台| ]]"
+],[
+	"日本笔会",
+	1,
+	89,
+	"duplicated image caption parameter",
+	"200pm"
+],[
+	"日本職業足球聯賽參賽球隊列表",
+	232,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align:left align=\""
+],[
+	"日本航空",
+	832,
+	52,
+	"duplicated image caption parameter",
+	"[空中巴士A300"
+],[
+	"日本航空快運",
+	83,
+	42,
+	"duplicated image caption parameter",
+	"[[波音737"
+],[
+	"日本貨物鐵道",
+	1018,
+	33,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"日本足球聯賽 (1999年以後)",
+	86,
+	2,
+	"duplicated category",
+	"[[Category:日本足球聯賽| ]]"
+],[
+	"日本車站編號",
+	653,
+	34,
+	"duplicated style attribute",
+	"style=\"margin-left:0;\""
+],[
+	"日本車輛號牌",
+	577,
+	49,
+	"duplicated style attribute",
+	"style=\"margin:auto\""
+],[
+	"日本電影學院獎最佳影片獎",
+	2052,
+	33,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"日比谷公園",
+	13,
+	3,
+	"duplicated parameter",
+	"管理者 = 東京都\n "
+],[
+	"日產Murano",
+	8,
+	51,
+	"conflicting image horizontal-alignment parameter",
+	"none"
+],[
+	"日立Sirio",
+	12,
+	41,
+	"duplicated image caption parameter",
+	"Tramvia firenze sirio"
+],[
+	"日職聯U22選拔隊",
+	131,
+	122,
+	"duplicated parameter",
+	"publisher=日本プロサッカーリーグ"
+],[
+	"日語之法語借詞",
+	10,
+	29,
+	"duplicated image width parameter",
+	"180px"
+],[
+	"旧居留地",
+	15,
+	71,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"旧庄窝西站",
+	14,
+	5,
+	"duplicated border attribute",
+	"border=1"
+],[
+	"旧金山国际机场旅客捷运系统",
+	37,
+	82,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"时空",
+	62,
+	39,
+	"duplicated image caption parameter",
+	"宽度100px"
+],[
+	"昆大高速公路",
+	76,
+	20,
+	"duplicated parameter",
+	"state=l"
+],[
+	"昇菘集團",
+	31,
+	2,
+	"duplicated category",
+	"[[Category:新加坡超级市场]]"
+],[
+	"昌黎豆卢氏世系图",
+	17,
+	282,
+	"duplicated parameter",
+	"Yn=[[豆卢英]]"
+],[
+	"明亮 (清朝)",
+	251,
+	2,
+	"duplicated category",
+	"[[Category:烏魯木齊都統]]"
+],[
+	"明学昌",
+	13,
+	3,
+	"duplicated parameter",
+	" constituency1 = [[老街 (果敢)|老街]]第一选区\n\n "
+],[
+	"明星的戀人",
+	57,
+	5,
+	"duplicated style attribute",
+	"style=\"background:cornflowerblue; color:white\""
+],[
+	"明朝藩王列表 (瀋王系)",
+	168,
+	2,
+	"duplicated category",
+	"[[Category:明朝諸王列表模板]]"
+],[
+	"明治三陸地震",
+	45,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable collapsible\""
+],[
+	"易炼红",
+	164,
+	2,
+	"duplicated category",
+	"[[Category:江西省人大常委会主任]]"
+],[
+	"昔加末县",
+	378,
+	33,
+	"duplicated style attribute",
+	"style=\"white-space:nowrap\""
+],[
+	"星之海",
+	18,
+	2,
+	"duplicated category",
+	"[[Category:電子角色扮演遊戲]]"
+],[
+	"星光少女",
+	883,
+	2,
+	"duplicated category",
+	"[[Category:偶像題材電子遊戲]]"
+],[
+	"星廚駕到",
+	963,
+	20,
+	"duplicated style attribute",
+	"style=\"font-size:14px\""
+],[
+	"星空下的恋人",
+	57,
+	78,
+	"duplicated image caption parameter",
+	"align=right"
+],[
+	"星系",
+	701,
+	81,
+	"duplicated image caption parameter",
+	"align=right"
+],[
+	"星野貴紀",
+	225,
+	5,
+	"duplicated border attribute",
+	"border=\"2\""
+],[
+	"星际物质",
+	9,
+	31,
+	"duplicated image caption parameter",
+	"medium"
+],[
+	"星際大爭霸Online",
+	51,
+	2,
+	"duplicated category",
+	"[[Category:大型多人在线角色扮演游戏]]"
+],[
+	"星際異攻隊 聖誕特別篇",
+	435,
+	2,
+	"duplicated category",
+	"[[Category:美國劇情電視劇]]"
+],[
+	"映畫倫理機構",
+	102,
+	2,
+	"duplicated category",
+	"[[Category:中央區組織 (東京都)]]"
+],[
+	"春之祭",
+	56,
+	65,
+	"duplicated image caption parameter",
+	"链接=https://en.wikipedia.org/wiki/File:Russian Ballet in Paris - New York Times 1"
+],[
+	"春哥",
+	52,
+	2,
+	"duplicated category",
+	"[[Category:互联网用语|Chun]]"
+],[
+	"春暉兩代家庭關係研究",
+	98,
+	2,
+	"duplicated category",
+	"[[Category:美國研究]]"
+],[
+	"昼与夜",
+	90,
+	2,
+	"duplicated category",
+	"[[Category:1991年單曲]]"
+],[
+	"時代劇",
+	12,
+	30,
+	"duplicated image caption parameter",
+	"{{largethumb}}"
+],[
+	"時報鷹開幕戰先發投手列表",
+	4,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"晋城市",
+	512,
+	2,
+	"duplicated category",
+	"[[Category:国家卫生城市]]"
+],[
+	"晋阳饭店",
+	7,
+	3,
+	"duplicated parameter",
+	"坐标 =\n "
+],[
+	"晏柔中",
+	32,
+	33,
+	"duplicated style attribute",
+	"style=\"font-size:90%\""
+],[
+	"晨曦體育會",
+	200,
+	3,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"普利策奖",
+	43,
+	33,
+	"duplicated image caption parameter",
+	"rihgt"
+],[
+	"普悠瑪號列車出軌事故",
+	67,
+	47,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"普惠JT9D",
+	2,
+	3,
+	"duplicated parameter",
+	"1=zh-hans:涵道比; zh-hant:旁通比;\n "
+],[
+	"普拉主教座堂",
+	2,
+	107,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"普爾娜·雅格娜森",
+	161,
+	2,
+	"duplicated category",
+	"[[Category:印度电影女演员]]"
+],[
+	"普罗佩提乌斯",
+	71,
+	437,
+	"duplicated parameter",
+	"date=1936 "
+],[
+	"普莱费尔陨石坑",
+	9,
+	24,
+	"duplicated image width parameter",
+	"420px"
+],[
+	"普诺大区",
+	126,
+	23,
+	"duplicated border attribute",
+	"border=\"1\""
+],[
+	"普赛克室",
+	10,
+	50,
+	"duplicated image caption parameter",
+	"sinistra"
+],[
+	"普雷斯堡和约",
+	15,
+	39,
+	"duplicated image caption parameter",
+	"{{clear|left}}"
+],[
+	"普魯士王國",
+	140,
+	472,
+	"duplicated parameter",
+	"isbn = 0945466226 "
+],[
+	"普魯士的卡爾",
+	31,
+	2,
+	"duplicated category",
+	"[[Category:霍亨索倫王朝]]"
+],[
+	"普魯士的阿爾布雷希特 (1837年)",
+	37,
+	2,
+	"duplicated category",
+	"[[Category:霍亨索倫王朝]]"
+],[
+	"普魯士藍 (醫用)",
+	4,
+	3,
+	"duplicated parameter",
+	" INN               = \n "
+],[
+	"普鲁士多特蒙德二队",
+	47,
+	2,
+	"duplicated category",
+	"[[Category:德國足球俱樂部]]"
+],[
+	"普鲁士的亚历山德里娜 (1803年)",
+	27,
+	2,
+	"duplicated category",
+	"[[Category:霍亨索倫王朝]]"
+],[
+	"景雲街遊樂場",
+	47,
+	57,
+	"duplicated image width parameter",
+	"275px"
+],[
+	"智利社會主義共和國",
+	106,
+	2,
+	"duplicated category",
+	"[[分類:前社會主義國家]]"
+],[
+	"暗区突围",
+	115,
+	2,
+	"duplicated category",
+	"[[Category:免费游玩游戏]]"
+],[
+	"暗坡条纹",
+	99,
+	33,
+	"duplicated image caption parameter",
+	"'''E.''' [[火星轨道器相机]]看到的[[吕科斯沟脊地]]区吻合型（网结状）斜坡条纹，其形态类似于流体流动产生的特征。图像区域约为3公里（1.9英里）。"
+],[
+	"暗夜狼人 (特輯)",
+	395,
+	2,
+	"duplicated category",
+	"[[Category:美國劇情電視劇]]"
+],[
+	"暗戰2",
+	120,
+	2,
+	"duplicated category",
+	"[[Category:香港警匪片]]"
+],[
+	"暗灰細鰩",
+	7,
+	3,
+	"duplicated parameter",
+	" synonyms = \n "
+],[
+	"暗警",
+	50,
+	2,
+	"duplicated category",
+	"[[Category:TNT电视节目]]"
+],[
+	"暗黑獵殺者",
+	37,
+	3,
+	"duplicated parameter",
+	" 開始 = {{start date|2024|3|24}}\n "
+],[
+	"暮蟬悲鳴時",
+	660,
+	2,
+	"duplicated category",
+	"[[Category:敘事者不可靠的作品]]"
+],[
+	"暴雪娛樂",
+	198,
+	2,
+	"duplicated category",
+	"[[Category:暴雪娛樂| ]]"
+],[
+	"曲淵站",
+	93,
+	2,
+	"duplicated category",
+	"[[category:稚內市鐵路車站]]"
+],[
+	"書坊街",
+	7,
+	25,
+	"duplicated image thumbnail parameter",
+	"缩略图"
+],[
+	"曹興誠",
+	112,
+	172,
+	"duplicated parameter",
+	"accessdate=2025-03-02 "
+],[
+	"曹薇娟",
+	455,
+	3,
+	"duplicated colspan attribute",
+	"colspan=\"6\""
+],[
+	"曹隘站",
+	20,
+	3,
+	"duplicated parameter",
+	" colour = \n "
+],[
+	"曼努埃尔·平托·达科斯塔",
+	3,
+	3,
+	"duplicated parameter",
+	"1=zh-hans:曼努埃尔·平托·达科斯塔;zh-hant:曼努爾·賓多·達科斯塔;\n "
+],[
+	"曼尼里乌斯陨石坑",
+	128,
+	2,
+	"duplicated category",
+	"[[Category:月球环形山]]"
+],[
+	"曼弗雷德·艾根",
+	30,
+	58,
+	"duplicated image caption parameter",
+	"{{largethumb}}"
+],[
+	"曼聯足球俱樂部球員列表",
+	18,
+	49,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"曼諾·瑞亞斯",
+	5,
+	3,
+	"duplicated parameter",
+	"2=zh-cn:里奥斯;zh-tw:瑞亞斯;\n "
+],[
+	"曼谷大众运输机构",
+	3,
+	50,
+	"duplicated image caption parameter",
+	"rght"
+],[
+	"曾仁和",
+	134,
+	2,
+	"duplicated category",
+	"[[Category:美國職棒大聯盟台灣球員]]"
+],[
+	"曾仲鸣",
+	40,
+	37,
+	"duplicated image caption parameter",
+	"替代文字"
+],[
+	"曾保羅",
+	49,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"曾健成",
+	68,
+	22,
+	"duplicated image width parameter",
+	"250px"
+],[
+	"曾增球",
+	46,
+	2,
+	"duplicated category",
+	"[[Category:臺北富邦勇士球員]]"
+],[
+	"曾大屋",
+	2,
+	41,
+	"duplicated image width parameter",
+	"200px"
+],[
+	"曾孟承",
+	85,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"曾展望",
+	137,
+	2,
+	"duplicated category",
+	"[[Category:無綫電視男藝員]]"
+],[
+	"曾志朗",
+	7,
+	3,
+	"duplicated parameter",
+	" premierroc = [[吳敦義]]\n "
+],[
+	"曾攀",
+	20,
+	2,
+	"duplicated category",
+	"[[Category:中国共产党党员]]"
+],[
+	"曾智偵",
+	109,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"曾琬羚",
+	126,
+	2,
+	"duplicated category",
+	"[[Category:曾姓]]"
+],[
+	"曾琮萱",
+	62,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"曾翊誠",
+	82,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"曾豪駒",
+	97,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"曾锦堂",
+	53,
+	2,
+	"duplicated category",
+	"[[Category:台灣左翼統一運動參與者]]"
+],[
+	"替代性DNS根",
+	101,
+	2,
+	"duplicated category",
+	"[[Category:域名解析服务]]"
+],[
+	"會展站",
+	200,
+	1653,
+	"duplicated parameter",
+	"url= https://www.hk01.com/sns/article/770286 "
+],[
+	"會稽區",
+	1,
+	4,
+	"duplicated style attribute",
+	"style=\"width:400px\""
+],[
+	"會計師",
+	97,
+	2,
+	"duplicated category",
+	"[[Category:會計師]]"
+],[
+	"月亭公园",
+	13,
+	2,
+	"duplicated category",
+	"[[Category:使用创建条目精灵建立的页面]]"
+],[
+	"月光集市",
+	27,
+	33,
+	"duplicated image width parameter",
+	"100px"
+],[
+	"月光騎士 (電視劇)",
+	745,
+	2,
+	"duplicated category",
+	"[[Category:美國劇情電視劇]]"
+],[
+	"月曜夜未央",
+	195,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align:left;\""
+],[
+	"月球",
+	212,
+	67,
+	"duplicated image caption parameter",
+	"thumbtime=0:02"
+],[
+	"月球10号",
+	2,
+	20,
+	"duplicated style attribute",
+	"style=\"background:#efefef;\""
+],],"batches":43}

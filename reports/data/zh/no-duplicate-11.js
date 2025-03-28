@@ -1,1 +1,1201 @@
-window.data={"articles":[["加賀藩",57,26,"duplicated style attribute","style=\"align: left; margin: 0px\""],["动物森友会 口袋露营广场",58,221,"duplicated parameter","date=2017-11-21 "],["动视暴雪",152,2,"duplicated category","[[Category:電子遊戲發行商]]"],["努诺·门德斯",134,2,"duplicated category","[[Category:2020年欧洲足球锦标赛球员]]"],["劳伦·詹姆斯",249,2,"duplicated category","[[Category:大倫敦足球運動員]]"],["劳伦斯·多尔蒂",17,2,"duplicated category","[[Category:英國男子網球運動員]]"],["劳工骑士团",179,2,"duplicated category","[[Category:美国反华情绪]]"],["劳德代尔堡",302,71,"duplicated parameter","publisher=https://fliff.com/"],["劳斯莱斯库里南",12,3,"duplicated parameter"," doors = [[自杀式车门]]\n "],["勃生堂镇区",46,24,"duplicated border attribute","border=\"1\""],["勇敢级巡防舰",116,2,"duplicated category","[[category:巡防舰]]"],["勇者斗恶龙 (游戏)",151,2632,"duplicated name attribute","name=\"1UP-flops\""],["勇者斗恶龙X",58,2,"duplicated category","[[Category:Nintendo Network遊戲]]"],["勒·西弗",94,2,"duplicated category","[[Category:虛構謀殺犯]]"],["勒伊加达勒体育中心",70,2,"duplicated category","[[Category:室內田徑場]]"],["動作喜劇",22,2,"duplicated category","[[Category:各類型喜劇]]"],["動作格鬥 (遊戲)",54,2,"duplicated category","[[Category:Amiga遊戲]]"],["動力火車",1,1,"duplicated category","[[Category:台灣原住民歌手]]"],["動態摺紙",1,33,"duplicated image caption parameter","right200px"],["動畫歌曲",87,2,"duplicated category","[[Category:動畫歌曲]]"],["勤劳村站",30,3,"duplicated parameter"," opened = 2019年12月26日\n "],["勵德邨",18,103,"duplicated image caption parameter","HK_CWB_銅鑼灣_Causeway_Bay_大坑道_Tai_Hang_Road_buildings_勵德邨_Lai_Tak_Chuen_January_20"],["包豪斯",214,2,"duplicated category","[[Category:德國現代主義建築| ]]"],["包霖",49,2,"duplicated category","[[Category:美國聖職者]]"],["匈奴",130,26,"duplicated style attribute","style=\"align: left; margin: 0px\""],["匈牙利裔美国人",7,3,"duplicated parameter"," image =\n "],["化妆品成分列表",3605,5,"duplicated style attribute","style=\"background: #bfb\""],["北二十里泡",13,3,"duplicated parameter","海拔高度 = 143.11m\n "],["北京国安足球俱乐部",109,24,"duplicated style attribute","style=\"text-align: center\""],["北京国安足球俱乐部2015赛季",724,5,"duplicated bgcolor attribute","bgcolor=#7CFC00|-"],["北京地铁11号线",87,36,"duplicated style attribute","style=\"margin: 1em auto 1em auto\""],["北京地铁平谷线",144,36,"duplicated style attribute","style=\"margin: 1em auto 1em auto\""],["北京橙丰足球俱乐部",504,24,"duplicated style attribute","style=\"text-align: center\""],["北京站",117,34,"duplicated image caption parameter","北京站 新建北京車站紀念画刊"],["北京金融法院",94,2,"duplicated category","[[Category:北京市各人民法院]]"],["北塞浦路斯总理列表",107,2,"duplicated category","[[Category:北賽普勒斯總理]]"],["北大西洋公约",15,46,"duplicated parameter"," title = 32\n "],["北大西洋公约组织",498,99,"duplicated ex attribute","Ex"],["北宁体育大学",17,3,"duplicated parameter","campus=       \n "],["北川知克",50,2,"duplicated category","[[Category:日本男性眾議院議員]]"],["北平特科",19,2,"duplicated category","[[Category:中华民国大陆时期情报机构]]"],["北投行天宮",9,3,"duplicated parameter"," struct = [[歇山式]]\n "],["北村拓己",98,2,"duplicated category","[[Category:東京養樂多燕子球員]]"],["北村玲",41,2,"duplicated category","[[Category:卡普空人物]]"],["北极星",22,36,"duplicated image caption parameter","Beijing_sundial_Ri_Gui"],["北欧理事会文学奖",7,5,"duplicated class attribute","class=\"wikitable\""],["北歐電網",2,39,"duplicated image caption parameter","link=//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/European electricity gr"],["北海事件",33,2,"duplicated category","[[Category:中华民国大陆时期反日情绪]]"],["北海道電力",273,36,"duplicated style attribute","style=\"text-align: center;  \""],["北白川宮成久王",169,2,"duplicated category","[[Category:陆军士官学校校友 (日本)]]"],["北纬4度线",98,4,"duplicated scope attribute","scope=\"row\""],["北美洲",78,5,"duplicated class attribute","class=\"sortable wikitable\""],["北美白橡",37,130,"duplicated image caption parameter","縮略圖"],["北英格蘭",138,2,"duplicated category","[[Category:文化圈]]"],["北陸自動車道",47,52,"duplicated image width parameter","210px"],["北陸電力",75,36,"duplicated style attribute","style=\"text-align: center;  \""],["北雁湖站",6,3,"duplicated parameter"," type = [[合肥轨道交通]]车站\n "],["匯立銀行",60,2,"duplicated category","[[Category:香港銀行]]"],["匹茲堡大學",200,33,"duplicated image caption parameter","buttom"],["區議會（第二）功能界別",345,112,"duplicated image thumbnail parameter","thumb"],["區間平均速率執法",12,45,"duplicated image caption parameter","tight"],["十七年命運週期",119,3,"duplicated parameter","DirectedBy = \n "],["十和田湖",193,2,"duplicated category","[[Category:日本國指定鳥獸保護區]]"],["十四點和平原則",6,50,"duplicated image thumbnail parameter","thumb"],["十大刺客",27,5,"duplicated class attribute","class=\"wikitable\""],["十大奇案",27,5,"duplicated class attribute","class=\"wikitable\""],["十字架",103,2,"duplicated category","[[Category:酷刑]]"],["十年三月三十日",63,2,"duplicated category","[[Category:2019年中国网络剧]]"],["十月初五的月光 (2000年電視劇)",344,24,"duplicated style attribute","style=\"width:95%;\""],["十月初五的月光 (電影)",163,24,"duplicated style attribute","style=\"width:95%;\""],["十社大明神",25,2,"duplicated category","[[Category:日本名數10]]"],["千葉東金道路",45,3,"duplicated colspan attribute","colspan=\"2\""],["千謊百愛",214,3,"duplicated parameter","電視台= "],["半公開的秘密",123,39,"duplicated style attribute","style=\"width:90%\""],["半冰凍",559,3,"duplicated parameter","fmf={{flag icon|USA}} Balck Ball\n "],["半澤直樹",1514,2,"duplicated category","[[Category:報復題材電視劇]]"],["半線鸚竺鯛",5,3,"duplicated parameter"," status_system = IUCN3.1\n "],["华东地区",2,30,"duplicated image caption parameter","250ox"],["华中科技大学协和深圳医院",34,2,"duplicated category","[[Category:深圳三级甲等医院]]"],["华姓",80,2,"duplicated category","[[Category:漢姓|H華]]"],["华尔街日报",129,2,"duplicated category","[[Category:美國全國性報紙]]"],["华强南站",28,3,"duplicated parameter"," structure = 地下车站\n "],["卓佳佳",14,623,"duplicated parameter","url=https://www.hk01.com/article/929177 "],["卓在勳",25,3,"duplicated parameter"," 經紀公司 = Pan Entertainment\n "],["卓家村",20,27,"duplicated image caption parameter","250x"],["卓榮泰內閣",48,4,"duplicated style attribute","style=\"text-align:center;\""],["卓秉恬",45,2,"duplicated category","[[Category:清朝殿試讀卷官]]"],["单斑石鲈",21,2,"duplicated category","[[Category:石鱸科|unimaculatus]]"],["南下 (电视剧)",13,3,"duplicated parameter"," num_episodes  = 40集\n "],["南京定淮门长江隧道",16,3,"duplicated parameter","operator     = \n "],["南京条约",165,2,"duplicated category","[[Category:1842年條約]]"],["南京红山森林动物园",43,15,"duplicated image caption parameter","サムネイル"],["南京铁路轮渡",36,3,"duplicated parameter","data19=南北两岸接轨线路由津浦、京沪两路局承办。\n "],["南北鐵路",167,2,"duplicated category","[[Category:守德市鐵路]]"],["南區足球會",613,3,"duplicated align attribute","align=center"],["南华基金",31,2,"duplicated category","[[Category:中国基金公司]]"],["南大門市場",24,43,"duplicated image caption parameter","18opx"],["南天寺",7,38,"duplicated image caption parameter","Right"],["南山大學",48,20,"duplicated image caption parameter","Nanzan"],["南岗站 (合肥轨道交通)",32,3,"duplicated parameter"," status = {{合肥轨道交通线路名|2|short}}：运营中\n "],["南島語系人稱代詞",1374,24,"duplicated style attribute","style=\"margin:auto:\""],["南希·约翰逊",16,2,"duplicated category","[[Category:奧林匹克運動會射擊獎牌得主]]"],["南平市站",16,211,"duplicated parameter","work=南铁南平车务段"],["南房總市",213,23,"duplicated image caption parameter","黒滝"],["南斯拉夫社會主義聯邦共和國國徽",9,3,"duplicated parameter"," lesser           = Coat of arms of Democratic Federal Yugoslavia.svg\n "],["南方证券",46,2,"duplicated category","[[Category:中国证券公司]]"],["南昌火车站 (地铁)",14,3,"duplicated parameter","operator = [[南昌地铁|南昌轨道交通集团有限公司运营分公司]]\n "],["南极自治市",6,3,"duplicated parameter"," settlement_type = {{le|智利市镇列表|Communes of Chile|自治市}}\n "],["南楼",9,3,"duplicated parameter","坐标 = {{WikidataCoord|display=it}}\n "],["南汉二陵博物馆",80,2,"duplicated category","[[Category:廣州大學城]]"],["南洋廳",174,3,"duplicated parameter"," alt1 = \n "],["南港C3停車場",4,24,"duplicated style attribute","style=font-size:100%"],["南港輪胎",95,2,"duplicated category","[[Category:臺灣證券交易所上市公司|N南]]"],["南港铁路",138,2,"duplicated category","[[Category:天津市铁路线]]"],["南湖 (蒙自)",63,49,"duplicated image caption parameter","Nanhu Park, Mengzi (20230405091153)"],["南湖红船",39,3,"duplicated parameter"," Ship notes =\n "],["南漖站",13,3,"duplicated parameter"," code = \n "],["南潤壽",37,3,"duplicated parameter","hangul = 남윤수\n "],["南特站",337,32,"duplicated style attribute","style=\"background:#D3D3D3\""],["南美洲都會區人口列表",3,5,"duplicated class attribute","class=\"sortable wikitable\""],["南美球會盃",125,13,"duplicated rowspan attribute","rowspan=2"],["南舊金山站 (加州列車)",26,35,"duplicated parameter","system1=Caltrain\n "],["南華夢飛翔",194,2,"duplicated category","[[Category:足球電視劇]]"],["南记食家",15,38,"duplicated image caption parameter","Nam Kee Nieuwmarkt aan de Geldersekade in Amsterdam"],["南迴公路",40,1509,"duplicated parameter","date=2020-09-28"],["南通西站",80,73,"duplicated colspan attribute","colspan=2"],["南通轨道交通",8,3,"duplicated parameter","began_operation={{Start date and age|2022|11|10}}\n "],["南關里東考古遺址",25,2,"duplicated category","[[Category:台湾新石器时代遗址]]"],["南门站 (无锡地铁)",43,13,"duplicated parameter"," 标1 = 出入口 "],["南阪奈道路",9,3,"duplicated parameter","established = \n "],["南阳市",592,5,"duplicated style attribute","style=\"{{Table center}}\""],["南阿拉伯字母",160,2,"duplicated category","[[Category:從右到左書寫的文字]]"],["南靖县",152,24,"duplicated style attribute","style=\"text-align: center;\""],["南非公民簽證要求",3,68,"duplicated image center parameter","center"],["南非空軍",23,3,"duplicated parameter","battles=\n "],["南龙铁路",67,68,"duplicated image thumbnail parameter","thumb"],["博啓圖",56,2,"duplicated category","[[Category:正黃旗蒙古都統]]"],["博尔曼环形山",13,36,"duplicated image width parameter","240px"],["博斯环形山",14,34,"duplicated image width parameter","240px"],["博蒙宫",13,72,"duplicated image caption parameter","vignette"],["博览中心站 (杭州市)",84,29,"conflicting image frame parameter","缩略图"],["博赫丹·赫梅利尼茨基紀念碑",1,35,"duplicated parameter","en"],["博迪蘇 (民國參議員)",24,2,"duplicated category","[[Category:鑲藍旗滿洲都統|署]]"],["占美·卡特之死及國葬",16,3,"duplicated parameter"," blank1_label =\n "],["卡亚拉米大奖赛赛道",150,2,"duplicated category","[[Category:一級方程式賽道]]"],["卡利·艾域士",641,2,"duplicated category","[[Category:倫敦男演員]]"],["卡利塔航空",94,24,"duplicated style attribute","style=\"margin-left:auto; margin-right:auto;\""],["卡利麥羅",342,16,"duplicated name attribute","name=\"Cast\""],["卡哈林干",48,23,"duplicated image caption parameter","al=Panaturan 1992"],["卡塔尔航空",10,3,"duplicated parameter","logo=[[File:Qatar Airways Airbus A350-1000.jpg | thumb | right]]\n "],["卡塔尔行政区划",1,10,"duplicated parameter","\n "],["卡塔琳·卡拉迪",32,41,"duplicated image upright parameter","upright=0.8"],["卡塔琳娜·伊萬諾夫斯卡",61,2,"duplicated category","[[Category:斯科普里女演員]]"],["卡姆 (人物)",19,2,"duplicated category","[[Category:中国大陆脱口秀演员]]"],["卡尔·奥古斯特 (萨克森-魏玛-艾森纳赫)",103,4,"duplicated cory attribute","cory"],["卡尔·弗里德里希 (巴登)",52,4,"duplicated cory attribute","cory"],["卡尔·弗雷德里克",17,2,"duplicated category","[[Category:奧林匹克運動會射擊獎牌得主]]"],["卡尔·爱德华 (萨克森-科堡-哥达公爵)",7,3,"duplicated parameter","1=zh:佐治;zh-hans:乔治;zh-hk:佐治;zh-sg:乔治;zh-tw:喬治;zh-cn:乔治\n "],["卡尔·莱昂哈德·莱因霍尔德",26,2,"duplicated category","[[Category:光照派成员]]"],["卡尔弗特城 (肯塔基州)",6,3,"duplicated parameter","image_skyline = \n "],["卡尔斯鲁厄理工学院",155,57,"duplicated style attribute","style=\"border:1px solid gray; class=\""],["卡尔曼滤波",240,40,"duplicated image caption parameter","463-239"],["卡尔梅克自治州",7,2,"duplicated category","[[Category:卡尔梅克共和国历史]]"],["卡尔达肖夫指数",123,2,"duplicated category","[[Category:標度|K]]"],["卡巴纳环形山",13,39,"duplicated image width parameter","240px"],["卡拉·温格",14,2,"duplicated category","[[Category:泛美运动会田径奖牌得主]]"],["卡拉卡尔帕克人",7,3,"duplicated parameter","俄羅斯\n "],["卡拉巴尔",1,26,"duplicated image caption parameter","250PX"],["卡拉漢內閣",8,39,"duplicated style attribute","style=\"margin:3px; border:3px solid #000000;\""],["卡斯伯特",71,2,"duplicated category","[[Category:林迪斯法恩主教]]"],["卡斯坦·查爾斯·沙巴西亞",96,5,"duplicated align attribute","align=center"],["卡斯特尔古列尔莫",50,2,"duplicated category","[[Category:罗维戈省市镇]]"],["卡斯特尔普拉尼奥",50,2,"duplicated category","[[Category:安科纳省市镇]]"],["卡斯特尔马萨",50,2,"duplicated category","[[Category:罗维戈省市镇]]"],["卡曼 K-225",84,2,"duplicated category","[[Category:美國軍用直升機]]"],["卡洛 (两西西里)",52,4,"duplicated cory attribute","cory"],["卡洛斯·佩列格里尼",48,78,"duplicated image caption parameter","RIGHT"],["卡洛斯·奥肯多",16,2,"duplicated category","[[Category:2014年中美洲和加勒比运动会自行车运动员]]"],["卡洛斯·岡薩雷茲",80,2,"duplicated category","[[Category:未来之星明星球员]]"],["卡济耶森林矿",4,65,"duplicated image caption parameter","Right"],["卡爾 (巴登大公)",45,4,"duplicated cory attribute","cory"],["卡爾·帕梅朗斯",42,2,"duplicated category","[[Category:20世紀美國數學家]]"],["卡瑟姆若马尔特·托卡耶夫",40,3,"duplicated parameter","signature     = Tokayev signature.svg\n "],["卡米地喜劇俱樂部",114,2,"duplicated category","[[Category:台灣單口喜劇]]"],["卡罗·巴齐",122,2,"duplicated category","[[Category:義大利藝術家]]"],["卡罗琳·哈维",12,2,"duplicated category","[[Category:美國奧運冰球運動員]]"],["卡苏伊楚普",27,65,"duplicated image width parameter","22px"],["卡萝尔·肯尼迪",19,2,"duplicated category","[[Category:奧林匹克運動會花式滑冰獎牌得主]]"],["卡蒂雅·洛涵",1,32,"duplicated image thumbnail parameter","thumb"],["卡蓋拉區",17,3,"duplicated parameter","subdivision_type=Country\n "],["卡薩涅橋",39,2,"duplicated category","[[Category:法国铁路桥]]"],["卡西江吉特",21,65,"duplicated image width parameter","22px"],["卡辛加日",8,3,"duplicated parameter","longtype      = 全國性公共節日\n "],["卡达莱奖",33,31,"duplicated image caption parameter","lidhje="],["卡通河",14,112,"duplicated parameter","author = Молчанова О. Т. "],["卡里姆·马西莫夫",35,3,"duplicated parameter"," term_start4 = 2007年1月10日\n "],["卢克·约翰逊",26,3,"duplicated parameter","FrenchOpenDoublesresult           = 2R ([[2024年法国网球公开赛男子双打比赛|2024]])\n "],["卢卡斯·加扎尔",61,2,"duplicated category","[[Category:中超球员]]"],["卢卡斯·格拉贝尔",146,9,"duplicated it attribute","It"],["卢嘉锡",149,2,"duplicated category","[[Category:厦门人]]"]],"batches":43}
+window.data={"articles":[[
+	"加賀藩",
+	57,
+	26,
+	"duplicated style attribute",
+	"style=\"align: left; margin: 0px\""
+],[
+	"动物森友会 口袋露营广场",
+	58,
+	221,
+	"duplicated parameter",
+	"date=2017-11-21 "
+],[
+	"动视暴雪",
+	152,
+	2,
+	"duplicated category",
+	"[[Category:電子遊戲發行商]]"
+],[
+	"努诺·门德斯",
+	134,
+	2,
+	"duplicated category",
+	"[[Category:2020年欧洲足球锦标赛球员]]"
+],[
+	"劳伦·詹姆斯",
+	249,
+	2,
+	"duplicated category",
+	"[[Category:大倫敦足球運動員]]"
+],[
+	"劳伦斯·多尔蒂",
+	17,
+	2,
+	"duplicated category",
+	"[[Category:英國男子網球運動員]]"
+],[
+	"劳工骑士团",
+	179,
+	2,
+	"duplicated category",
+	"[[Category:美国反华情绪]]"
+],[
+	"劳德代尔堡",
+	302,
+	71,
+	"duplicated parameter",
+	"publisher=https://fliff.com/"
+],[
+	"劳斯莱斯库里南",
+	12,
+	3,
+	"duplicated parameter",
+	" doors = [[自杀式车门]]\n "
+],[
+	"勃生堂镇区",
+	46,
+	24,
+	"duplicated border attribute",
+	"border=\"1\""
+],[
+	"勇敢级巡防舰",
+	116,
+	2,
+	"duplicated category",
+	"[[category:巡防舰]]"
+],[
+	"勇者斗恶龙 (游戏)",
+	151,
+	2632,
+	"duplicated name attribute",
+	"name=\"1UP-flops\""
+],[
+	"勇者斗恶龙X",
+	58,
+	2,
+	"duplicated category",
+	"[[Category:Nintendo Network遊戲]]"
+],[
+	"勒·西弗",
+	94,
+	2,
+	"duplicated category",
+	"[[Category:虛構謀殺犯]]"
+],[
+	"勒伊加达勒体育中心",
+	70,
+	2,
+	"duplicated category",
+	"[[Category:室內田徑場]]"
+],[
+	"動作喜劇",
+	22,
+	2,
+	"duplicated category",
+	"[[Category:各類型喜劇]]"
+],[
+	"動作格鬥 (遊戲)",
+	54,
+	2,
+	"duplicated category",
+	"[[Category:Amiga遊戲]]"
+],[
+	"動力火車",
+	1,
+	1,
+	"duplicated category",
+	"[[Category:台灣原住民歌手]]"
+],[
+	"動態摺紙",
+	1,
+	33,
+	"duplicated image caption parameter",
+	"right200px"
+],[
+	"動畫歌曲",
+	87,
+	2,
+	"duplicated category",
+	"[[Category:動畫歌曲]]"
+],[
+	"勤劳村站",
+	30,
+	3,
+	"duplicated parameter",
+	" opened = 2019年12月26日\n "
+],[
+	"勵德邨",
+	18,
+	103,
+	"duplicated image caption parameter",
+	"HK_CWB_銅鑼灣_Causeway_Bay_大坑道_Tai_Hang_Road_buildings_勵德邨_Lai_Tak_Chuen_January_20"
+],[
+	"包豪斯",
+	214,
+	2,
+	"duplicated category",
+	"[[Category:德國現代主義建築| ]]"
+],[
+	"包霖",
+	49,
+	2,
+	"duplicated category",
+	"[[Category:美國聖職者]]"
+],[
+	"匈奴",
+	130,
+	26,
+	"duplicated style attribute",
+	"style=\"align: left; margin: 0px\""
+],[
+	"匈牙利裔美国人",
+	7,
+	3,
+	"duplicated parameter",
+	" image =\n "
+],[
+	"化妆品成分列表",
+	3605,
+	5,
+	"duplicated style attribute",
+	"style=\"background: #bfb\""
+],[
+	"北二十里泡",
+	13,
+	3,
+	"duplicated parameter",
+	"海拔高度 = 143.11m\n "
+],[
+	"北京国安足球俱乐部",
+	109,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align: center\""
+],[
+	"北京国安足球俱乐部2015赛季",
+	724,
+	5,
+	"duplicated bgcolor attribute",
+	"bgcolor=#7CFC00|-"
+],[
+	"北京地铁11号线",
+	87,
+	36,
+	"duplicated style attribute",
+	"style=\"margin: 1em auto 1em auto\""
+],[
+	"北京地铁平谷线",
+	144,
+	36,
+	"duplicated style attribute",
+	"style=\"margin: 1em auto 1em auto\""
+],[
+	"北京橙丰足球俱乐部",
+	504,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align: center\""
+],[
+	"北京站",
+	117,
+	34,
+	"duplicated image caption parameter",
+	"北京站 新建北京車站紀念画刊"
+],[
+	"北京金融法院",
+	94,
+	2,
+	"duplicated category",
+	"[[Category:北京市各人民法院]]"
+],[
+	"北塞浦路斯总理列表",
+	107,
+	2,
+	"duplicated category",
+	"[[Category:北賽普勒斯總理]]"
+],[
+	"北大西洋公约",
+	15,
+	46,
+	"duplicated parameter",
+	" title = 32\n "
+],[
+	"北大西洋公约组织",
+	498,
+	99,
+	"duplicated ex attribute",
+	"Ex"
+],[
+	"北宁体育大学",
+	17,
+	3,
+	"duplicated parameter",
+	"campus=       \n "
+],[
+	"北川知克",
+	50,
+	2,
+	"duplicated category",
+	"[[Category:日本男性眾議院議員]]"
+],[
+	"北平特科",
+	19,
+	2,
+	"duplicated category",
+	"[[Category:中华民国大陆时期情报机构]]"
+],[
+	"北投行天宮",
+	9,
+	3,
+	"duplicated parameter",
+	" struct = [[歇山式]]\n "
+],[
+	"北村拓己",
+	98,
+	2,
+	"duplicated category",
+	"[[Category:東京養樂多燕子球員]]"
+],[
+	"北村玲",
+	41,
+	2,
+	"duplicated category",
+	"[[Category:卡普空人物]]"
+],[
+	"北极星",
+	22,
+	36,
+	"duplicated image caption parameter",
+	"Beijing_sundial_Ri_Gui"
+],[
+	"北欧理事会文学奖",
+	7,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"北歐電網",
+	2,
+	39,
+	"duplicated image caption parameter",
+	"link=//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/European electricity gr"
+],[
+	"北海事件",
+	33,
+	2,
+	"duplicated category",
+	"[[Category:中华民国大陆时期反日情绪]]"
+],[
+	"北海道電力",
+	273,
+	36,
+	"duplicated style attribute",
+	"style=\"text-align: center;  \""
+],[
+	"北白川宮成久王",
+	169,
+	2,
+	"duplicated category",
+	"[[Category:陆军士官学校校友 (日本)]]"
+],[
+	"北纬4度线",
+	98,
+	4,
+	"duplicated scope attribute",
+	"scope=\"row\""
+],[
+	"北美洲",
+	78,
+	5,
+	"duplicated class attribute",
+	"class=\"sortable wikitable\""
+],[
+	"北美白橡",
+	37,
+	130,
+	"duplicated image caption parameter",
+	"縮略圖"
+],[
+	"北英格蘭",
+	138,
+	2,
+	"duplicated category",
+	"[[Category:文化圈]]"
+],[
+	"北陸自動車道",
+	47,
+	52,
+	"duplicated image width parameter",
+	"210px"
+],[
+	"北陸電力",
+	75,
+	36,
+	"duplicated style attribute",
+	"style=\"text-align: center;  \""
+],[
+	"北雁湖站",
+	6,
+	3,
+	"duplicated parameter",
+	" type = [[合肥轨道交通]]车站\n "
+],[
+	"匯立銀行",
+	60,
+	2,
+	"duplicated category",
+	"[[Category:香港銀行]]"
+],[
+	"匹茲堡大學",
+	200,
+	33,
+	"duplicated image caption parameter",
+	"buttom"
+],[
+	"區議會（第二）功能界別",
+	345,
+	112,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"區間平均速率執法",
+	12,
+	45,
+	"duplicated image caption parameter",
+	"tight"
+],[
+	"十七年命運週期",
+	119,
+	3,
+	"duplicated parameter",
+	"DirectedBy = \n "
+],[
+	"十和田湖",
+	193,
+	2,
+	"duplicated category",
+	"[[Category:日本國指定鳥獸保護區]]"
+],[
+	"十四點和平原則",
+	6,
+	50,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"十大刺客",
+	27,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"十大奇案",
+	27,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"十字架",
+	103,
+	2,
+	"duplicated category",
+	"[[Category:酷刑]]"
+],[
+	"十年三月三十日",
+	63,
+	2,
+	"duplicated category",
+	"[[Category:2019年中国网络剧]]"
+],[
+	"十月初五的月光 (2000年電視劇)",
+	344,
+	24,
+	"duplicated style attribute",
+	"style=\"width:95%;\""
+],[
+	"十月初五的月光 (電影)",
+	163,
+	24,
+	"duplicated style attribute",
+	"style=\"width:95%;\""
+],[
+	"十社大明神",
+	25,
+	2,
+	"duplicated category",
+	"[[Category:日本名數10]]"
+],[
+	"千葉東金道路",
+	45,
+	3,
+	"duplicated colspan attribute",
+	"colspan=\"2\""
+],[
+	"千謊百愛",
+	214,
+	3,
+	"duplicated parameter",
+	"電視台= "
+],[
+	"半公開的秘密",
+	123,
+	39,
+	"duplicated style attribute",
+	"style=\"width:90%\""
+],[
+	"半冰凍",
+	559,
+	3,
+	"duplicated parameter",
+	"fmf={{flag icon|USA}} Balck Ball\n "
+],[
+	"半澤直樹",
+	1514,
+	2,
+	"duplicated category",
+	"[[Category:報復題材電視劇]]"
+],[
+	"半線鸚竺鯛",
+	5,
+	3,
+	"duplicated parameter",
+	" status_system = IUCN3.1\n "
+],[
+	"华东地区",
+	2,
+	30,
+	"duplicated image caption parameter",
+	"250ox"
+],[
+	"华中科技大学协和深圳医院",
+	34,
+	2,
+	"duplicated category",
+	"[[Category:深圳三级甲等医院]]"
+],[
+	"华姓",
+	80,
+	2,
+	"duplicated category",
+	"[[Category:漢姓|H華]]"
+],[
+	"华尔街日报",
+	129,
+	2,
+	"duplicated category",
+	"[[Category:美國全國性報紙]]"
+],[
+	"华强南站",
+	28,
+	3,
+	"duplicated parameter",
+	" structure = 地下车站\n "
+],[
+	"卓佳佳",
+	14,
+	623,
+	"duplicated parameter",
+	"url=https://www.hk01.com/article/929177 "
+],[
+	"卓在勳",
+	25,
+	3,
+	"duplicated parameter",
+	" 經紀公司 = Pan Entertainment\n "
+],[
+	"卓家村",
+	20,
+	27,
+	"duplicated image caption parameter",
+	"250x"
+],[
+	"卓榮泰內閣",
+	48,
+	4,
+	"duplicated style attribute",
+	"style=\"text-align:center;\""
+],[
+	"卓秉恬",
+	45,
+	2,
+	"duplicated category",
+	"[[Category:清朝殿試讀卷官]]"
+],[
+	"单斑石鲈",
+	21,
+	2,
+	"duplicated category",
+	"[[Category:石鱸科|unimaculatus]]"
+],[
+	"南下 (电视剧)",
+	13,
+	3,
+	"duplicated parameter",
+	" num_episodes  = 40集\n "
+],[
+	"南京定淮门长江隧道",
+	16,
+	3,
+	"duplicated parameter",
+	"operator     = \n "
+],[
+	"南京条约",
+	165,
+	2,
+	"duplicated category",
+	"[[Category:1842年條約]]"
+],[
+	"南京红山森林动物园",
+	43,
+	15,
+	"duplicated image caption parameter",
+	"サムネイル"
+],[
+	"南京铁路轮渡",
+	36,
+	3,
+	"duplicated parameter",
+	"data19=南北两岸接轨线路由津浦、京沪两路局承办。\n "
+],[
+	"南北鐵路",
+	167,
+	2,
+	"duplicated category",
+	"[[Category:守德市鐵路]]"
+],[
+	"南區足球會",
+	613,
+	3,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"南华基金",
+	31,
+	2,
+	"duplicated category",
+	"[[Category:中国基金公司]]"
+],[
+	"南大門市場",
+	24,
+	43,
+	"duplicated image caption parameter",
+	"18opx"
+],[
+	"南天寺",
+	7,
+	38,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"南山大學",
+	48,
+	20,
+	"duplicated image caption parameter",
+	"Nanzan"
+],[
+	"南岗站 (合肥轨道交通)",
+	32,
+	3,
+	"duplicated parameter",
+	" status = {{合肥轨道交通线路名|2|short}}：运营中\n "
+],[
+	"南島語系人稱代詞",
+	1374,
+	24,
+	"duplicated style attribute",
+	"style=\"margin:auto:\""
+],[
+	"南希·约翰逊",
+	16,
+	2,
+	"duplicated category",
+	"[[Category:奧林匹克運動會射擊獎牌得主]]"
+],[
+	"南平市站",
+	16,
+	211,
+	"duplicated parameter",
+	"work=南铁南平车务段"
+],[
+	"南房總市",
+	213,
+	23,
+	"duplicated image caption parameter",
+	"黒滝"
+],[
+	"南斯拉夫社會主義聯邦共和國國徽",
+	9,
+	3,
+	"duplicated parameter",
+	" lesser           = Coat of arms of Democratic Federal Yugoslavia.svg\n "
+],[
+	"南方证券",
+	46,
+	2,
+	"duplicated category",
+	"[[Category:中国证券公司]]"
+],[
+	"南昌火车站 (地铁)",
+	14,
+	3,
+	"duplicated parameter",
+	"operator = [[南昌地铁|南昌轨道交通集团有限公司运营分公司]]\n "
+],[
+	"南极自治市",
+	6,
+	3,
+	"duplicated parameter",
+	" settlement_type = {{le|智利市镇列表|Communes of Chile|自治市}}\n "
+],[
+	"南楼",
+	9,
+	3,
+	"duplicated parameter",
+	"坐标 = {{WikidataCoord|display=it}}\n "
+],[
+	"南汉二陵博物馆",
+	80,
+	2,
+	"duplicated category",
+	"[[Category:廣州大學城]]"
+],[
+	"南洋廳",
+	174,
+	3,
+	"duplicated parameter",
+	" alt1 = \n "
+],[
+	"南港C3停車場",
+	4,
+	24,
+	"duplicated style attribute",
+	"style=font-size:100%"
+],[
+	"南港輪胎",
+	95,
+	2,
+	"duplicated category",
+	"[[Category:臺灣證券交易所上市公司|N南]]"
+],[
+	"南港铁路",
+	138,
+	2,
+	"duplicated category",
+	"[[Category:天津市铁路线]]"
+],[
+	"南湖 (蒙自)",
+	63,
+	49,
+	"duplicated image caption parameter",
+	"Nanhu Park, Mengzi (20230405091153)"
+],[
+	"南湖红船",
+	39,
+	3,
+	"duplicated parameter",
+	" Ship notes =\n "
+],[
+	"南漖站",
+	13,
+	3,
+	"duplicated parameter",
+	" code = \n "
+],[
+	"南潤壽",
+	37,
+	3,
+	"duplicated parameter",
+	"hangul = 남윤수\n "
+],[
+	"南特站",
+	337,
+	32,
+	"duplicated style attribute",
+	"style=\"background:#D3D3D3\""
+],[
+	"南美洲都會區人口列表",
+	3,
+	5,
+	"duplicated class attribute",
+	"class=\"sortable wikitable\""
+],[
+	"南美球會盃",
+	125,
+	13,
+	"duplicated rowspan attribute",
+	"rowspan=2"
+],[
+	"南舊金山站 (加州列車)",
+	26,
+	35,
+	"duplicated parameter",
+	"system1=Caltrain\n "
+],[
+	"南華夢飛翔",
+	194,
+	2,
+	"duplicated category",
+	"[[Category:足球電視劇]]"
+],[
+	"南记食家",
+	15,
+	38,
+	"duplicated image caption parameter",
+	"Nam Kee Nieuwmarkt aan de Geldersekade in Amsterdam"
+],[
+	"南迴公路",
+	40,
+	1509,
+	"duplicated parameter",
+	"date=2020-09-28"
+],[
+	"南通西站",
+	80,
+	73,
+	"duplicated colspan attribute",
+	"colspan=2"
+],[
+	"南通轨道交通",
+	8,
+	3,
+	"duplicated parameter",
+	"began_operation={{Start date and age|2022|11|10}}\n "
+],[
+	"南關里東考古遺址",
+	25,
+	2,
+	"duplicated category",
+	"[[Category:台湾新石器时代遗址]]"
+],[
+	"南门站 (无锡地铁)",
+	43,
+	13,
+	"duplicated parameter",
+	" 标1 = 出入口 "
+],[
+	"南阪奈道路",
+	9,
+	3,
+	"duplicated parameter",
+	"established = \n "
+],[
+	"南阳市",
+	592,
+	5,
+	"duplicated style attribute",
+	"style=\"{{Table center}}\""
+],[
+	"南阿拉伯字母",
+	160,
+	2,
+	"duplicated category",
+	"[[Category:從右到左書寫的文字]]"
+],[
+	"南靖县",
+	152,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align: center;\""
+],[
+	"南非公民簽證要求",
+	3,
+	68,
+	"duplicated image center parameter",
+	"center"
+],[
+	"南非空軍",
+	23,
+	3,
+	"duplicated parameter",
+	"battles=\n "
+],[
+	"南龙铁路",
+	67,
+	68,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"博啓圖",
+	56,
+	2,
+	"duplicated category",
+	"[[Category:正黃旗蒙古都統]]"
+],[
+	"博尔曼环形山",
+	13,
+	36,
+	"duplicated image width parameter",
+	"240px"
+],[
+	"博斯环形山",
+	14,
+	34,
+	"duplicated image width parameter",
+	"240px"
+],[
+	"博蒙宫",
+	13,
+	72,
+	"duplicated image caption parameter",
+	"vignette"
+],[
+	"博览中心站 (杭州市)",
+	84,
+	29,
+	"conflicting image frame parameter",
+	"缩略图"
+],[
+	"博赫丹·赫梅利尼茨基紀念碑",
+	1,
+	35,
+	"duplicated parameter",
+	"en"
+],[
+	"博迪蘇 (民國參議員)",
+	24,
+	2,
+	"duplicated category",
+	"[[Category:鑲藍旗滿洲都統|署]]"
+],[
+	"占美·卡特之死及國葬",
+	16,
+	3,
+	"duplicated parameter",
+	" blank1_label =\n "
+],[
+	"卡亚拉米大奖赛赛道",
+	150,
+	2,
+	"duplicated category",
+	"[[Category:一級方程式賽道]]"
+],[
+	"卡利·艾域士",
+	641,
+	2,
+	"duplicated category",
+	"[[Category:倫敦男演員]]"
+],[
+	"卡利塔航空",
+	94,
+	24,
+	"duplicated style attribute",
+	"style=\"margin-left:auto; margin-right:auto;\""
+],[
+	"卡利麥羅",
+	342,
+	16,
+	"duplicated name attribute",
+	"name=\"Cast\""
+],[
+	"卡哈林干",
+	48,
+	23,
+	"duplicated image caption parameter",
+	"al=Panaturan 1992"
+],[
+	"卡塔尔航空",
+	10,
+	3,
+	"duplicated parameter",
+	"logo=[[File:Qatar Airways Airbus A350-1000.jpg | thumb | right]]\n "
+],[
+	"卡塔尔行政区划",
+	1,
+	10,
+	"duplicated parameter",
+	"\n "
+],[
+	"卡塔琳·卡拉迪",
+	32,
+	41,
+	"duplicated image upright parameter",
+	"upright=0.8"
+],[
+	"卡塔琳娜·伊萬諾夫斯卡",
+	61,
+	2,
+	"duplicated category",
+	"[[Category:斯科普里女演員]]"
+],[
+	"卡姆 (人物)",
+	19,
+	2,
+	"duplicated category",
+	"[[Category:中国大陆脱口秀演员]]"
+],[
+	"卡尔·奥古斯特 (萨克森-魏玛-艾森纳赫)",
+	103,
+	4,
+	"duplicated cory attribute",
+	"cory"
+],[
+	"卡尔·弗里德里希 (巴登)",
+	52,
+	4,
+	"duplicated cory attribute",
+	"cory"
+],[
+	"卡尔·弗雷德里克",
+	17,
+	2,
+	"duplicated category",
+	"[[Category:奧林匹克運動會射擊獎牌得主]]"
+],[
+	"卡尔·爱德华 (萨克森-科堡-哥达公爵)",
+	7,
+	3,
+	"duplicated parameter",
+	"1=zh:佐治;zh-hans:乔治;zh-hk:佐治;zh-sg:乔治;zh-tw:喬治;zh-cn:乔治\n "
+],[
+	"卡尔·莱昂哈德·莱因霍尔德",
+	26,
+	2,
+	"duplicated category",
+	"[[Category:光照派成员]]"
+],[
+	"卡尔弗特城 (肯塔基州)",
+	6,
+	3,
+	"duplicated parameter",
+	"image_skyline = \n "
+],[
+	"卡尔斯鲁厄理工学院",
+	155,
+	57,
+	"duplicated style attribute",
+	"style=\"border:1px solid gray; class=\""
+],[
+	"卡尔曼滤波",
+	240,
+	40,
+	"duplicated image caption parameter",
+	"463-239"
+],[
+	"卡尔梅克自治州",
+	7,
+	2,
+	"duplicated category",
+	"[[Category:卡尔梅克共和国历史]]"
+],[
+	"卡尔达肖夫指数",
+	123,
+	2,
+	"duplicated category",
+	"[[Category:標度|K]]"
+],[
+	"卡巴纳环形山",
+	13,
+	39,
+	"duplicated image width parameter",
+	"240px"
+],[
+	"卡拉·温格",
+	14,
+	2,
+	"duplicated category",
+	"[[Category:泛美运动会田径奖牌得主]]"
+],[
+	"卡拉卡尔帕克人",
+	7,
+	3,
+	"duplicated parameter",
+	"俄羅斯\n "
+],[
+	"卡拉巴尔",
+	1,
+	26,
+	"duplicated image caption parameter",
+	"250PX"
+],[
+	"卡拉漢內閣",
+	8,
+	39,
+	"duplicated style attribute",
+	"style=\"margin:3px; border:3px solid #000000;\""
+],[
+	"卡斯伯特",
+	71,
+	2,
+	"duplicated category",
+	"[[Category:林迪斯法恩主教]]"
+],[
+	"卡斯坦·查爾斯·沙巴西亞",
+	96,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"卡斯特尔古列尔莫",
+	50,
+	2,
+	"duplicated category",
+	"[[Category:罗维戈省市镇]]"
+],[
+	"卡斯特尔普拉尼奥",
+	50,
+	2,
+	"duplicated category",
+	"[[Category:安科纳省市镇]]"
+],[
+	"卡斯特尔马萨",
+	50,
+	2,
+	"duplicated category",
+	"[[Category:罗维戈省市镇]]"
+],[
+	"卡曼 K-225",
+	84,
+	2,
+	"duplicated category",
+	"[[Category:美國軍用直升機]]"
+],[
+	"卡洛 (两西西里)",
+	52,
+	4,
+	"duplicated cory attribute",
+	"cory"
+],[
+	"卡洛斯·佩列格里尼",
+	48,
+	78,
+	"duplicated image caption parameter",
+	"RIGHT"
+],[
+	"卡洛斯·奥肯多",
+	16,
+	2,
+	"duplicated category",
+	"[[Category:2014年中美洲和加勒比运动会自行车运动员]]"
+],[
+	"卡洛斯·岡薩雷茲",
+	80,
+	2,
+	"duplicated category",
+	"[[Category:未来之星明星球员]]"
+],[
+	"卡济耶森林矿",
+	4,
+	65,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"卡爾 (巴登大公)",
+	45,
+	4,
+	"duplicated cory attribute",
+	"cory"
+],[
+	"卡爾·帕梅朗斯",
+	42,
+	2,
+	"duplicated category",
+	"[[Category:20世紀美國數學家]]"
+],[
+	"卡瑟姆若马尔特·托卡耶夫",
+	40,
+	3,
+	"duplicated parameter",
+	"signature     = Tokayev signature.svg\n "
+],[
+	"卡米地喜劇俱樂部",
+	114,
+	2,
+	"duplicated category",
+	"[[Category:台灣單口喜劇]]"
+],[
+	"卡罗·巴齐",
+	122,
+	2,
+	"duplicated category",
+	"[[Category:義大利藝術家]]"
+],[
+	"卡罗琳·哈维",
+	12,
+	2,
+	"duplicated category",
+	"[[Category:美國奧運冰球運動員]]"
+],[
+	"卡苏伊楚普",
+	27,
+	65,
+	"duplicated image width parameter",
+	"22px"
+],[
+	"卡萝尔·肯尼迪",
+	19,
+	2,
+	"duplicated category",
+	"[[Category:奧林匹克運動會花式滑冰獎牌得主]]"
+],[
+	"卡蒂雅·洛涵",
+	1,
+	32,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"卡蓋拉區",
+	17,
+	3,
+	"duplicated parameter",
+	"subdivision_type=Country\n "
+],[
+	"卡薩涅橋",
+	39,
+	2,
+	"duplicated category",
+	"[[Category:法国铁路桥]]"
+],[
+	"卡西江吉特",
+	21,
+	65,
+	"duplicated image width parameter",
+	"22px"
+],[
+	"卡辛加日",
+	8,
+	3,
+	"duplicated parameter",
+	"longtype      = 全國性公共節日\n "
+],[
+	"卡达莱奖",
+	33,
+	31,
+	"duplicated image caption parameter",
+	"lidhje="
+],[
+	"卡通河",
+	14,
+	112,
+	"duplicated parameter",
+	"author = Молчанова О. Т. "
+],[
+	"卡里姆·马西莫夫",
+	35,
+	3,
+	"duplicated parameter",
+	" term_start4 = 2007年1月10日\n "
+],[
+	"卢克·约翰逊",
+	26,
+	3,
+	"duplicated parameter",
+	"FrenchOpenDoublesresult           = 2R ([[2024年法国网球公开赛男子双打比赛|2024]])\n "
+],[
+	"卢卡斯·加扎尔",
+	61,
+	2,
+	"duplicated category",
+	"[[Category:中超球员]]"
+],[
+	"卢卡斯·格拉贝尔",
+	146,
+	9,
+	"duplicated it attribute",
+	"It"
+],[
+	"卢嘉锡",
+	149,
+	2,
+	"duplicated category",
+	"[[Category:厦门人]]"
+],],"batches":43}

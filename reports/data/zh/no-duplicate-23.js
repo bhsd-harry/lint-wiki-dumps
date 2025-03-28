@@ -1,1 +1,1201 @@
-window.data={"articles":[["杨美盈",57,3,"duplicated parameter"," relations        =\n "],["极度恐慌",193,2,"duplicated category","[[Category:Lithtech引擎游戏]]"],["极速前进28",214,2,"duplicated category","[[Category:2016年播出的电视剧季度]]"],["杭州SKP",23,166,"duplicated parameter","date=2023-11-13 "],["杭州地铁5号线",47,26,"conflicting image frame parameter","缩略图"],["杭州奥林匹克体育中心",40,2,"duplicated category","[[Category:杭州奥体博览城]]"],["杰佛瑞·马帝",62,5,"duplicated align attribute","align=center"],["杰克·克拉克-索尔特",101,2,"duplicated category","[[Category:英格蘭足球聯賽球員]]"],["杰克·克罗普",13,2,"duplicated category","[[Category:奧林匹克運動會帆船獎牌得主]]"],["杰兰特·托马斯",75,2,"duplicated category","[[Category:OBE勳銜]]"],["杰娜·赫福德",15,2,"duplicated category","[[Category:加拿大女子冰球运动员]]"],["杰拉多·帕拉",107,5,"duplicated align attribute","align=center"],["杰米·琳恩·科基什",16,2,"duplicated category","[[Category:奧林匹克運動會射擊獎牌得主]]"],["杰逊王子战群妖",6,3,"duplicated parameter"," cn_name            = \n "],["東亞書法",136,24,"duplicated image caption parameter","Xumitabei1"],["東京攻略 (無綫電視節目)",31,23,"duplicated style attribute","style=\"width:70%; font-size: 14px;\""],["東京都北區赤羽",103,2,"duplicated category","[[Category:北區背景作品 (東京都)]]"],["東京電力",121,36,"duplicated style attribute","style=\"text-align: center;  \""],["東京馬拉松",200,2,"duplicated category","[[Category:東京都體育競賽]]"],["東北大學醫院",26,72,"duplicated image width parameter","300px"],["東北電力",76,36,"duplicated style attribute","style=\"text-align: center;  \""],["東尼·米契爾 (1992年)",124,2,"duplicated category","[[Category:在委内瑞拉的美国人]]"],["東帝汶旗幟列表",46,2,"duplicated category","[[Category:旗幟列表| ]]"],["東干斯坦",30,2,"duplicated category","[[Category:1934年建立的國家或政權]]"],["東方威尼斯",74,345,"duplicated parameter","language=en "],["東方快車謀殺案",104,53,"duplicated style attribute","style=\"margin:0 0; background-color: #FFFFFF\""],["東正教",37,3,"duplicated parameter","members = \n "],["東涌站 (東涌綫)",214,2,"duplicated category","[[Category:東涌綫車站]]"],["東湖公園 (江門市)",40,39,"duplicated image caption parameter","Thumb"],["東突厥斯坦共和國",7,3,"duplicated parameter","flag_type              = [[東突厥斯坦共和國國旗|国旗]]\n "],["杵狀指",99,16,"duplicated image caption parameter","Clubbing1.JPG"],["松下和干",17,2,"duplicated category","[[Category:1994年亚洲运动会射箭运动员]]"],["松型驱逐舰",219,95,"duplicated name attribute","name=\"Ippan-p5\""],["松山傑",46,5,"duplicated align attribute","align=center"],["松山站 (愛媛縣)",221,2,"duplicated category","[[Category:伊予鐵道轉乘車站|JR-Matsuyama-Ekimae]]"],["松平定知",47,2,"duplicated category","[[Category:日本電視主持人]]"],["松本剛明",79,2,"duplicated category","[[Category:日本男性眾議院議員]]"],["松本洋平",63,2,"duplicated category","[[Category:日本男性眾議院議員]]"],["松樹尾社區中心",99,4,"duplicated valign attribute","valign=\"top\""],["松溎",28,2,"duplicated category","[[Category:清朝刑部左侍郎]]"],["松野博一",110,2,"duplicated category","[[Category:日本男性眾議院議員]]"],["松雅湖（南）站",48,38,"duplicated parameter"," 往3 = 湘潭北站 "],["松鲷",34,2,"duplicated category","[[Category:松鲷属|松鲷]]"],["板樟堂前地",6,3,"duplicated parameter","image = File:St Dominic's Church.jpg\n "],["板橋線",17,3,"duplicated parameter","system_length=7.1公里\n "],["构造实体几何",30,42,"duplicated image caption parameter","在[[光线追踪]]场景下使用构造实体几何"],["林尹樂",73,2,"duplicated category","[[Category:林姓|欣]]"],["林俊義",3,3,"duplicated parameter"," image = \n "],["林信華 (籃球教練)",37,2,"duplicated category","[[Category:臺北富邦勇士球員]]"],["林偉 (棒球運動員)",58,5,"duplicated align attribute","align=center"],["林克謙",79,5,"duplicated align attribute","align=center"],["林冠綸",139,2,"duplicated category","[[Category:九太科技籃球隊球員]]"],["林凱威",78,5,"duplicated align attribute","align=center"],["林千又",15,3,"duplicated parameter","配偶 = [[國語]] \n "],["林㙱",18,2,"duplicated category","[[Category:明朝吏部郎中]]"],["林奮強",13,563,"duplicated name attribute","name=ref"],["林娜榮",416,12,"duplicated www.youtube.com attribute","www.youtube.com"],["林子崴 (1995年)",135,3,"duplicated align attribute","align=center"],["林子平 (台灣)",15,3,"duplicated parameter"," 出生地點 =\n "],["林子昱",65,5,"duplicated align attribute","align=center"],["林孫煜豪",224,2,"duplicated category","[[Category:臺灣電視男演員|T]]"],["林學冠",39,2,"duplicated category","[[Category:林姓]]"],["林宗男 (棒球運動員)",100,5,"duplicated align attribute","align=center"],["林宗緯",45,5,"duplicated align attribute","align=center"],["林宜華",16,2,"duplicated category","[[Category:臺灣鎮總兵]]"],["林家瑋",61,5,"duplicated align attribute","align=center"],["林崑岡",74,2,"duplicated category","[[Category:林姓|Kun昆]]"],["林彥峰",72,5,"duplicated align attribute","align=center"],["林彥甫",7,3,"duplicated parameter"," term_end1 = \n "],["林志美",938,39,"duplicated style attribute","style=\"width:90%\""],["林振賢",107,5,"duplicated align attribute","align=center"],["林政億",73,5,"duplicated align attribute","align=center"],["林敬倫",134,2,"duplicated category","[[Category:全明星運動會]]"],["林敬民",71,5,"duplicated align attribute","align=center"],["林旺億",57,5,"duplicated align attribute","align=center"],["林昌勇",180,2,"duplicated category","[[Category:起亞虎球員]]"],["林明达 (1947年10月)",24,2,"duplicated category","[[Category:贵州省总工会主席]]"],["林昱珉",62,5,"duplicated class attribute","class=\"wikitable\""],["林智樂",55,42,"duplicated image caption parameter","night"],["林暉盛",56,5,"duplicated align attribute","align=center"],["林暐恆",37,24,"duplicated style attribute","style=\"width:60%\""],["林書緯",166,2,"duplicated category","[[Category:臺北富邦勇士球員]]"],["林村河",10,15,"duplicated image width parameter","120px"],["林柏昇",410,2,"duplicated category","[[Category:臺灣網路節目主持人|K林]]"],["林權助 (臺灣)",27,2,"duplicated category","[[Category:中華民國攝影師]]"],["林欣彤",1123,39,"duplicated style attribute","style=\"width:90%\""],["林毅夫",245,2,"duplicated category","[[Category:國立政治大學校友]]"],["林治平",37,26,"duplicated parameter","url=https://shop.campus.org.tw/ProductDetails.aspx?productID=000544894"],["林潔瑜",10,3,"duplicated parameter"," 國籍 = \n "],["林澄枝",65,2,"duplicated category","[[Category:中國國民黨副主席| ]]"],["林濁水",29,3,"duplicated parameter"," educate = \n "],["林煒傑",14,3,"duplicated parameter"," 網站 = https://www.instagram.com/weijielinnn/\n "],["林瑞堃",16,2,"duplicated category","[[Category:九太科技籃球隊球員]]"],["林瑩蓉",68,198,"duplicated parameter","author=陳郁仁"],["林秋錦",33,2,"duplicated category","[[Category:台灣音樂教育家]]"],["林美丰",21,3,"duplicated parameter"," party = [[Australian Labor Party (Victorian Branch)|Labor Party]]\n "],["林義傑",8,116,"duplicated parameter","author=楊佩琪"],["林羿豪",119,5,"duplicated align attribute","align=center"],["林耕仁",135,2,"duplicated category","[[Category:中國國民黨黨員]]"],["林聖凱",47,5,"duplicated align attribute","align=center"],["林聖榮",43,5,"duplicated align attribute","align=center"],["林肯 (2012年電影)",178,2,"duplicated category","[[Category:斯蒂芬·斯皮尔伯格电影]]"],["林芳婧 (啦啦隊)",44,2,"duplicated category","[[Category:中州科技大學校友]]"],["林英傑 (棒球運動員)",159,5,"duplicated align attribute","align=center"],["林莎",184,2,"duplicated category","[[Category:台灣女性模特兒]]"],["林語堂故居",181,2,"duplicated category","[[Category:林語堂]]"],["林辰Buchi",57,2,"duplicated category","[[Category:臺灣網路紅人|L]]"],["林重謨",17,3,"duplicated parameter"," educate             = \n "],["林鋅杰",50,5,"duplicated align attribute","align=center"],["林鴝",74,2,"duplicated category","[[Category: 1855年描述的分类群|L]]"],["林鶴軒",305,2,"duplicated category","[[Category:國立臺灣藝術大學校友|L林]]"],["枪栓",13,21,"duplicated image thumbnail parameter","thumb"],["枭雄 (电影)",6,3,"duplicated parameter","T=zh-tw:黑市大亨;zh-hk:私酒梟雄;zh-cn:枭雄 (电影);\n "],["柏乐志民主联盟",20,3,"duplicated parameter"," dissolved         =  \n "],["柏倉努",393,2,"duplicated category","[[Category:日本音效指導]]"],["柏南車站",1,10,"duplicated parameter","\n "],["柏孟塞和老薩瑟克 (英國國會選區)",4,3,"duplicated parameter","1 = zh-hans:和; zh-hk:及; zh-tw:及;\n "],["柏林",596,23,"duplicated style attribute","style=\"width:80%\""],["柏林-滕珀尔霍夫机场",147,75,"duplicated image caption parameter","portrait"],["柏林东站",66,95,"duplicated image caption parameter","panorama"],["柏林城市记忆",15,3,"duplicated parameter"," coordinates        = {{coord|52|30|33|N|13|23|19.60|E|display=inline,title}}\n "],["柏森 (作家)",61,2,"duplicated category","[[Category:1999年出生]]"],["染病 (最後生還者)",52,59,"duplicated image thumbnail parameter","thumb"],["染色体构象捕获",12,44,"duplicated image caption parameter","Image on center"],["柔性政變",5,147,"duplicated name attribute","name"],["柜中美人",111,2,"duplicated category","[[Category:2018年中国网络剧]]"],["查克·塞哥維亞",95,5,"duplicated align attribute","align=center"],["查嘎达索寺",14,3,"duplicated parameter","coordinates = \n "],["查尔斯·威金",9,2,"duplicated category","[[Category:英国男子赛艇运动员]]"],["查尔斯三世和卡米拉王后加冕礼嘉宾名单",214,508,"duplicated parameter","accessdate=2023-03-30 "],["查德·艾倫 (演員)",43,2,"duplicated category","[[Category:美國LGBT藝人]]"],["查比卡89足球會",130,2,"duplicated category","[[Category:科索沃足球會]]"],["查爾斯·愛德華茲",31,2,"duplicated category","[[Category:英格蘭電影男演員]]"],["查爾斯·蘭姆",31,2,"duplicated category","[[Category:伦敦作家]]"],["查爾斯·賈西亞",176,2,"duplicated category","[[Category:臺北富邦勇士球員]]"],["查理·普斯",50,107,"duplicated image upright parameter","upright"],["查理曼林荫道",14,562,"duplicated name attribute","name=\"Rues\""],["柯克·道格拉斯",579,2,"duplicated category","[[Category:美國人瑞]]"],["柯庆施",130,2,"duplicated category","[[Category:上海市人民委员会市长]]"],["柯承發",26,769,"duplicated parameter"," author ="],["柯旻豪",53,2,"duplicated category","[[Category:九太科技籃球隊球員]]"],["柯爾特M1903袖珍擊錘內置式半自動手槍",128,140,"duplicated image caption parameter","1903partswiki mod"],["柳宏霖",59,2,"duplicated category","[[Category:台灣兒童歌手]]"],["柳德米拉·卢赞",50,2,"duplicated category","[[Category:2019年欧洲运动会皮划艇运动员]]"],["柳性傑",38,2,"duplicated category","[[Category:國民力量黨員]]"],["柳應廷",295,39,"duplicated style attribute","style=\"width:100%\""],["柳星恩",110,3,"duplicated width attribute","width=\"230px\""],["柳树多管火箭炮",30,3,"duplicated parameter"," engine_power=\n "],["柳莺属",99,2,"duplicated category","[[Category:柳莺科|*]]"],["柳西站",20,3,"duplicated parameter"," colour = \n "],["栗园庄站",9,3,"duplicated parameter","type = [[地铁车站]]\n "],["栗林公園",13,3,"duplicated parameter"," 管理者         = 香川县政府\n "],["栗树龙属",69,3,"duplicated parameter","2=[[利奥尼拉龙]] ''Leonerasaurus''\n "],["校花前傳之很純很曖昧",121,23,"duplicated style attribute","style=\"width:80%\""],["校花的貼身高手",358,23,"duplicated style attribute","style=\"width:80%\""],["核動力",165,167,"duplicated image caption parameter","三艘美国战舰，（从上到下）核动力巡洋舰{{link-en"],["核殼層模型",63,33,"duplicated style attribute","style=\"font-size: 90%;\""],["根伯什·久洛",23,2,"duplicated category","[[Category:匈牙利王国人物]]"],["根本京里",12,3,"duplicated parameter","暱稱= \n "],["根结线虫",12,2,"duplicated category","[[Category: 根结线虫属| ]]"],["格伦·福特",158,2,"duplicated category","[[Category:金球奖音乐及喜剧类电影最佳男主角]]"],["格伦县",58,5,"duplicated class attribute","class=\"wikitable\""],["格兰尼达",16,35,"duplicated image right parameter","right"],["格列布·克尔日扎诺夫斯基",13,2,"duplicated category","[[Category:俄羅斯經濟學家]]"],["格吕克斯堡",70,2,"duplicated category","[[Category:石勒苏益格-荷尔斯泰因州市镇|G]]"],["格奥尔吉亚角",16,284,"duplicated parameter","url = "],["格奥尔基·乔治乌-德治",82,2,"duplicated category","[[Category:多夫塔纳监狱囚犯]]"],["格奥尔格·多纳图斯 (黑森-达姆施塔特)",61,4,"duplicated cory attribute","cory"],["格奧爾格·弗蘭茨·霍夫曼",37,2,"duplicated category","[[Category:蕨类植物学家]]"],["格林納達國家足球隊",53,24,"duplicated style attribute","style=\"text-align: center;\""],["格林納達駐外機構列表",1,55,"duplicated image width parameter","500px"],["格洛丽亚·马卡帕加尔-阿罗约",19,3,"duplicated parameter","order        = 25\n "],["格洛斯特公爵亨利王子",151,2,"duplicated category","[[Category:澳大利亞總督]]"],["格洛斯特公爵理查王子",145,38,"duplicated border attribute","border=\"1\""],["格溫·利斯特",53,2,"duplicated category","[[Category:開普敦大學校友]]"],["格紋日",23,2,"duplicated category","[[Category:美國節日]]"],["格莱内尔格",14,63,"duplicated image caption parameter","2012年9月19日，[[好奇号|“好奇号”]]看到的“格莱内尔格区”—三种地形相融合。Image:PIA16237-MarsCuriosityRover-Bu"],["格迪翁·泽拉莱姆",4,3,"duplicated parameter","G3=德甲\n "],["格陵兰足球代表队",15,3,"duplicated parameter","pattern_la1 =_grl2022h\n "],["格鲁妮娅·苏哈列娃",63,2,"duplicated category","[[Category:CS1 Russian-language sources (ru)]]"],["桂志芸",6,25,"duplicated image width parameter","210px"],["桃園市立中壢家事商業高級中等學校",6,45,"duplicated image caption parameter","180PX"],["桃園市立大溪木藝生態博物館",53,37,"conflicting image frame parameter","无框"],["桃園市第四選舉區 (立法委員)",276,4,"duplicated align attribute","align=\"center\""],["桃園文昌宮",28,185,"duplicated name attribute","name=\"邱傑1\""],["桃源街站",11,3,"duplicated parameter","code = \n "],["桃面愛情鳥",63,2,"duplicated category","[[Category:情侶鸚鵡|T]]"],["桌面大戰",209,3,"duplicated parameter"," color3       = #2b4d49\n "],["桐城东站",14,3,"duplicated parameter"," route_map = \n "],["桐城南站",14,3,"duplicated parameter"," route_map = \n "],["桐城張氏世系圖",37,518,"duplicated parameter","zy2=[[浙江按察使]]<br>[[張曾誼]]<br>監生(捐納知縣)"],["桑尼·法蘭傑斯",3,3,"duplicated parameter","1=zh-cn:桑尼·弗兰泽斯; zh-hk:桑尼·法蘭傑斯; zh-tw:桑尼·法蘭傑斯;\n "],["桑德兰足球俱乐部",22,43,"duplicated parameter"," pattern_la1 = _left\n "],["桑德斯—特朗普选民",25,2,"duplicated category","[[Category:2020年美國總統選舉|*]]"],["桑德罗·巴扎泽",43,2,"duplicated category","[[Category:欧洲运动会击剑奖牌得主]]"],["桑給巴爾",98,44,"duplicated image caption parameter","桑給巴爾"],["桑耶寺",15,3,"duplicated parameter","coordinates = {{WikidataCoord|display=it}}\n "],["桑茂森",46,2,"duplicated category","[[Category:臺北富邦勇士球員]]"],["桑迪·葛雷諾",94,5,"duplicated align attribute","align=center"],["桔梗湯",3,35,"duplicated style attribute","style=\"margin: 0 0 1em 1em\""]],"batches":43}
+window.data={"articles":[[
+	"杨美盈",
+	57,
+	3,
+	"duplicated parameter",
+	" relations        =\n "
+],[
+	"极度恐慌",
+	193,
+	2,
+	"duplicated category",
+	"[[Category:Lithtech引擎游戏]]"
+],[
+	"极速前进28",
+	214,
+	2,
+	"duplicated category",
+	"[[Category:2016年播出的电视剧季度]]"
+],[
+	"杭州SKP",
+	23,
+	166,
+	"duplicated parameter",
+	"date=2023-11-13 "
+],[
+	"杭州地铁5号线",
+	47,
+	26,
+	"conflicting image frame parameter",
+	"缩略图"
+],[
+	"杭州奥林匹克体育中心",
+	40,
+	2,
+	"duplicated category",
+	"[[Category:杭州奥体博览城]]"
+],[
+	"杰佛瑞·马帝",
+	62,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"杰克·克拉克-索尔特",
+	101,
+	2,
+	"duplicated category",
+	"[[Category:英格蘭足球聯賽球員]]"
+],[
+	"杰克·克罗普",
+	13,
+	2,
+	"duplicated category",
+	"[[Category:奧林匹克運動會帆船獎牌得主]]"
+],[
+	"杰兰特·托马斯",
+	75,
+	2,
+	"duplicated category",
+	"[[Category:OBE勳銜]]"
+],[
+	"杰娜·赫福德",
+	15,
+	2,
+	"duplicated category",
+	"[[Category:加拿大女子冰球运动员]]"
+],[
+	"杰拉多·帕拉",
+	107,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"杰米·琳恩·科基什",
+	16,
+	2,
+	"duplicated category",
+	"[[Category:奧林匹克運動會射擊獎牌得主]]"
+],[
+	"杰逊王子战群妖",
+	6,
+	3,
+	"duplicated parameter",
+	" cn_name            = \n "
+],[
+	"東亞書法",
+	136,
+	24,
+	"duplicated image caption parameter",
+	"Xumitabei1"
+],[
+	"東京攻略 (無綫電視節目)",
+	31,
+	23,
+	"duplicated style attribute",
+	"style=\"width:70%; font-size: 14px;\""
+],[
+	"東京都北區赤羽",
+	103,
+	2,
+	"duplicated category",
+	"[[Category:北區背景作品 (東京都)]]"
+],[
+	"東京電力",
+	121,
+	36,
+	"duplicated style attribute",
+	"style=\"text-align: center;  \""
+],[
+	"東京馬拉松",
+	200,
+	2,
+	"duplicated category",
+	"[[Category:東京都體育競賽]]"
+],[
+	"東北大學醫院",
+	26,
+	72,
+	"duplicated image width parameter",
+	"300px"
+],[
+	"東北電力",
+	76,
+	36,
+	"duplicated style attribute",
+	"style=\"text-align: center;  \""
+],[
+	"東尼·米契爾 (1992年)",
+	124,
+	2,
+	"duplicated category",
+	"[[Category:在委内瑞拉的美国人]]"
+],[
+	"東帝汶旗幟列表",
+	46,
+	2,
+	"duplicated category",
+	"[[Category:旗幟列表| ]]"
+],[
+	"東干斯坦",
+	30,
+	2,
+	"duplicated category",
+	"[[Category:1934年建立的國家或政權]]"
+],[
+	"東方威尼斯",
+	74,
+	345,
+	"duplicated parameter",
+	"language=en "
+],[
+	"東方快車謀殺案",
+	104,
+	53,
+	"duplicated style attribute",
+	"style=\"margin:0 0; background-color: #FFFFFF\""
+],[
+	"東正教",
+	37,
+	3,
+	"duplicated parameter",
+	"members = \n "
+],[
+	"東涌站 (東涌綫)",
+	214,
+	2,
+	"duplicated category",
+	"[[Category:東涌綫車站]]"
+],[
+	"東湖公園 (江門市)",
+	40,
+	39,
+	"duplicated image caption parameter",
+	"Thumb"
+],[
+	"東突厥斯坦共和國",
+	7,
+	3,
+	"duplicated parameter",
+	"flag_type              = [[東突厥斯坦共和國國旗|国旗]]\n "
+],[
+	"杵狀指",
+	99,
+	16,
+	"duplicated image caption parameter",
+	"Clubbing1.JPG"
+],[
+	"松下和干",
+	17,
+	2,
+	"duplicated category",
+	"[[Category:1994年亚洲运动会射箭运动员]]"
+],[
+	"松型驱逐舰",
+	219,
+	95,
+	"duplicated name attribute",
+	"name=\"Ippan-p5\""
+],[
+	"松山傑",
+	46,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"松山站 (愛媛縣)",
+	221,
+	2,
+	"duplicated category",
+	"[[Category:伊予鐵道轉乘車站|JR-Matsuyama-Ekimae]]"
+],[
+	"松平定知",
+	47,
+	2,
+	"duplicated category",
+	"[[Category:日本電視主持人]]"
+],[
+	"松本剛明",
+	79,
+	2,
+	"duplicated category",
+	"[[Category:日本男性眾議院議員]]"
+],[
+	"松本洋平",
+	63,
+	2,
+	"duplicated category",
+	"[[Category:日本男性眾議院議員]]"
+],[
+	"松樹尾社區中心",
+	99,
+	4,
+	"duplicated valign attribute",
+	"valign=\"top\""
+],[
+	"松溎",
+	28,
+	2,
+	"duplicated category",
+	"[[Category:清朝刑部左侍郎]]"
+],[
+	"松野博一",
+	110,
+	2,
+	"duplicated category",
+	"[[Category:日本男性眾議院議員]]"
+],[
+	"松雅湖（南）站",
+	48,
+	38,
+	"duplicated parameter",
+	" 往3 = 湘潭北站 "
+],[
+	"松鲷",
+	34,
+	2,
+	"duplicated category",
+	"[[Category:松鲷属|松鲷]]"
+],[
+	"板樟堂前地",
+	6,
+	3,
+	"duplicated parameter",
+	"image = File:St Dominic's Church.jpg\n "
+],[
+	"板橋線",
+	17,
+	3,
+	"duplicated parameter",
+	"system_length=7.1公里\n "
+],[
+	"构造实体几何",
+	30,
+	42,
+	"duplicated image caption parameter",
+	"在[[光线追踪]]场景下使用构造实体几何"
+],[
+	"林尹樂",
+	73,
+	2,
+	"duplicated category",
+	"[[Category:林姓|欣]]"
+],[
+	"林俊義",
+	3,
+	3,
+	"duplicated parameter",
+	" image = \n "
+],[
+	"林信華 (籃球教練)",
+	37,
+	2,
+	"duplicated category",
+	"[[Category:臺北富邦勇士球員]]"
+],[
+	"林偉 (棒球運動員)",
+	58,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林克謙",
+	79,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林冠綸",
+	139,
+	2,
+	"duplicated category",
+	"[[Category:九太科技籃球隊球員]]"
+],[
+	"林凱威",
+	78,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林千又",
+	15,
+	3,
+	"duplicated parameter",
+	"配偶 = [[國語]] \n "
+],[
+	"林㙱",
+	18,
+	2,
+	"duplicated category",
+	"[[Category:明朝吏部郎中]]"
+],[
+	"林奮強",
+	13,
+	563,
+	"duplicated name attribute",
+	"name=ref"
+],[
+	"林娜榮",
+	416,
+	12,
+	"duplicated www.youtube.com attribute",
+	"www.youtube.com"
+],[
+	"林子崴 (1995年)",
+	135,
+	3,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林子平 (台灣)",
+	15,
+	3,
+	"duplicated parameter",
+	" 出生地點 =\n "
+],[
+	"林子昱",
+	65,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林孫煜豪",
+	224,
+	2,
+	"duplicated category",
+	"[[Category:臺灣電視男演員|T]]"
+],[
+	"林學冠",
+	39,
+	2,
+	"duplicated category",
+	"[[Category:林姓]]"
+],[
+	"林宗男 (棒球運動員)",
+	100,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林宗緯",
+	45,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林宜華",
+	16,
+	2,
+	"duplicated category",
+	"[[Category:臺灣鎮總兵]]"
+],[
+	"林家瑋",
+	61,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林崑岡",
+	74,
+	2,
+	"duplicated category",
+	"[[Category:林姓|Kun昆]]"
+],[
+	"林彥峰",
+	72,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林彥甫",
+	7,
+	3,
+	"duplicated parameter",
+	" term_end1 = \n "
+],[
+	"林志美",
+	938,
+	39,
+	"duplicated style attribute",
+	"style=\"width:90%\""
+],[
+	"林振賢",
+	107,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林政億",
+	73,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林敬倫",
+	134,
+	2,
+	"duplicated category",
+	"[[Category:全明星運動會]]"
+],[
+	"林敬民",
+	71,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林旺億",
+	57,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林昌勇",
+	180,
+	2,
+	"duplicated category",
+	"[[Category:起亞虎球員]]"
+],[
+	"林明达 (1947年10月)",
+	24,
+	2,
+	"duplicated category",
+	"[[Category:贵州省总工会主席]]"
+],[
+	"林昱珉",
+	62,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"林智樂",
+	55,
+	42,
+	"duplicated image caption parameter",
+	"night"
+],[
+	"林暉盛",
+	56,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林暐恆",
+	37,
+	24,
+	"duplicated style attribute",
+	"style=\"width:60%\""
+],[
+	"林書緯",
+	166,
+	2,
+	"duplicated category",
+	"[[Category:臺北富邦勇士球員]]"
+],[
+	"林村河",
+	10,
+	15,
+	"duplicated image width parameter",
+	"120px"
+],[
+	"林柏昇",
+	410,
+	2,
+	"duplicated category",
+	"[[Category:臺灣網路節目主持人|K林]]"
+],[
+	"林權助 (臺灣)",
+	27,
+	2,
+	"duplicated category",
+	"[[Category:中華民國攝影師]]"
+],[
+	"林欣彤",
+	1123,
+	39,
+	"duplicated style attribute",
+	"style=\"width:90%\""
+],[
+	"林毅夫",
+	245,
+	2,
+	"duplicated category",
+	"[[Category:國立政治大學校友]]"
+],[
+	"林治平",
+	37,
+	26,
+	"duplicated parameter",
+	"url=https://shop.campus.org.tw/ProductDetails.aspx?productID=000544894"
+],[
+	"林潔瑜",
+	10,
+	3,
+	"duplicated parameter",
+	" 國籍 = \n "
+],[
+	"林澄枝",
+	65,
+	2,
+	"duplicated category",
+	"[[Category:中國國民黨副主席| ]]"
+],[
+	"林濁水",
+	29,
+	3,
+	"duplicated parameter",
+	" educate = \n "
+],[
+	"林煒傑",
+	14,
+	3,
+	"duplicated parameter",
+	" 網站 = https://www.instagram.com/weijielinnn/\n "
+],[
+	"林瑞堃",
+	16,
+	2,
+	"duplicated category",
+	"[[Category:九太科技籃球隊球員]]"
+],[
+	"林瑩蓉",
+	68,
+	198,
+	"duplicated parameter",
+	"author=陳郁仁"
+],[
+	"林秋錦",
+	33,
+	2,
+	"duplicated category",
+	"[[Category:台灣音樂教育家]]"
+],[
+	"林美丰",
+	21,
+	3,
+	"duplicated parameter",
+	" party = [[Australian Labor Party (Victorian Branch)|Labor Party]]\n "
+],[
+	"林義傑",
+	8,
+	116,
+	"duplicated parameter",
+	"author=楊佩琪"
+],[
+	"林羿豪",
+	119,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林耕仁",
+	135,
+	2,
+	"duplicated category",
+	"[[Category:中國國民黨黨員]]"
+],[
+	"林聖凱",
+	47,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林聖榮",
+	43,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林肯 (2012年電影)",
+	178,
+	2,
+	"duplicated category",
+	"[[Category:斯蒂芬·斯皮尔伯格电影]]"
+],[
+	"林芳婧 (啦啦隊)",
+	44,
+	2,
+	"duplicated category",
+	"[[Category:中州科技大學校友]]"
+],[
+	"林英傑 (棒球運動員)",
+	159,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林莎",
+	184,
+	2,
+	"duplicated category",
+	"[[Category:台灣女性模特兒]]"
+],[
+	"林語堂故居",
+	181,
+	2,
+	"duplicated category",
+	"[[Category:林語堂]]"
+],[
+	"林辰Buchi",
+	57,
+	2,
+	"duplicated category",
+	"[[Category:臺灣網路紅人|L]]"
+],[
+	"林重謨",
+	17,
+	3,
+	"duplicated parameter",
+	" educate             = \n "
+],[
+	"林鋅杰",
+	50,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"林鴝",
+	74,
+	2,
+	"duplicated category",
+	"[[Category: 1855年描述的分类群|L]]"
+],[
+	"林鶴軒",
+	305,
+	2,
+	"duplicated category",
+	"[[Category:國立臺灣藝術大學校友|L林]]"
+],[
+	"枪栓",
+	13,
+	21,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"枭雄 (电影)",
+	6,
+	3,
+	"duplicated parameter",
+	"T=zh-tw:黑市大亨;zh-hk:私酒梟雄;zh-cn:枭雄 (电影);\n "
+],[
+	"柏乐志民主联盟",
+	20,
+	3,
+	"duplicated parameter",
+	" dissolved         =  \n "
+],[
+	"柏倉努",
+	393,
+	2,
+	"duplicated category",
+	"[[Category:日本音效指導]]"
+],[
+	"柏南車站",
+	1,
+	10,
+	"duplicated parameter",
+	"\n "
+],[
+	"柏孟塞和老薩瑟克 (英國國會選區)",
+	4,
+	3,
+	"duplicated parameter",
+	"1 = zh-hans:和; zh-hk:及; zh-tw:及;\n "
+],[
+	"柏林",
+	596,
+	23,
+	"duplicated style attribute",
+	"style=\"width:80%\""
+],[
+	"柏林-滕珀尔霍夫机场",
+	147,
+	75,
+	"duplicated image caption parameter",
+	"portrait"
+],[
+	"柏林东站",
+	66,
+	95,
+	"duplicated image caption parameter",
+	"panorama"
+],[
+	"柏林城市记忆",
+	15,
+	3,
+	"duplicated parameter",
+	" coordinates        = {{coord|52|30|33|N|13|23|19.60|E|display=inline,title}}\n "
+],[
+	"柏森 (作家)",
+	61,
+	2,
+	"duplicated category",
+	"[[Category:1999年出生]]"
+],[
+	"染病 (最後生還者)",
+	52,
+	59,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"染色体构象捕获",
+	12,
+	44,
+	"duplicated image caption parameter",
+	"Image on center"
+],[
+	"柔性政變",
+	5,
+	147,
+	"duplicated name attribute",
+	"name"
+],[
+	"柜中美人",
+	111,
+	2,
+	"duplicated category",
+	"[[Category:2018年中国网络剧]]"
+],[
+	"查克·塞哥維亞",
+	95,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"查嘎达索寺",
+	14,
+	3,
+	"duplicated parameter",
+	"coordinates = \n "
+],[
+	"查尔斯·威金",
+	9,
+	2,
+	"duplicated category",
+	"[[Category:英国男子赛艇运动员]]"
+],[
+	"查尔斯三世和卡米拉王后加冕礼嘉宾名单",
+	214,
+	508,
+	"duplicated parameter",
+	"accessdate=2023-03-30 "
+],[
+	"查德·艾倫 (演員)",
+	43,
+	2,
+	"duplicated category",
+	"[[Category:美國LGBT藝人]]"
+],[
+	"查比卡89足球會",
+	130,
+	2,
+	"duplicated category",
+	"[[Category:科索沃足球會]]"
+],[
+	"查爾斯·愛德華茲",
+	31,
+	2,
+	"duplicated category",
+	"[[Category:英格蘭電影男演員]]"
+],[
+	"查爾斯·蘭姆",
+	31,
+	2,
+	"duplicated category",
+	"[[Category:伦敦作家]]"
+],[
+	"查爾斯·賈西亞",
+	176,
+	2,
+	"duplicated category",
+	"[[Category:臺北富邦勇士球員]]"
+],[
+	"查理·普斯",
+	50,
+	107,
+	"duplicated image upright parameter",
+	"upright"
+],[
+	"查理曼林荫道",
+	14,
+	562,
+	"duplicated name attribute",
+	"name=\"Rues\""
+],[
+	"柯克·道格拉斯",
+	579,
+	2,
+	"duplicated category",
+	"[[Category:美國人瑞]]"
+],[
+	"柯庆施",
+	130,
+	2,
+	"duplicated category",
+	"[[Category:上海市人民委员会市长]]"
+],[
+	"柯承發",
+	26,
+	769,
+	"duplicated parameter",
+	" author ="
+],[
+	"柯旻豪",
+	53,
+	2,
+	"duplicated category",
+	"[[Category:九太科技籃球隊球員]]"
+],[
+	"柯爾特M1903袖珍擊錘內置式半自動手槍",
+	128,
+	140,
+	"duplicated image caption parameter",
+	"1903partswiki mod"
+],[
+	"柳宏霖",
+	59,
+	2,
+	"duplicated category",
+	"[[Category:台灣兒童歌手]]"
+],[
+	"柳德米拉·卢赞",
+	50,
+	2,
+	"duplicated category",
+	"[[Category:2019年欧洲运动会皮划艇运动员]]"
+],[
+	"柳性傑",
+	38,
+	2,
+	"duplicated category",
+	"[[Category:國民力量黨員]]"
+],[
+	"柳應廷",
+	295,
+	39,
+	"duplicated style attribute",
+	"style=\"width:100%\""
+],[
+	"柳星恩",
+	110,
+	3,
+	"duplicated width attribute",
+	"width=\"230px\""
+],[
+	"柳树多管火箭炮",
+	30,
+	3,
+	"duplicated parameter",
+	" engine_power=\n "
+],[
+	"柳莺属",
+	99,
+	2,
+	"duplicated category",
+	"[[Category:柳莺科|*]]"
+],[
+	"柳西站",
+	20,
+	3,
+	"duplicated parameter",
+	" colour = \n "
+],[
+	"栗园庄站",
+	9,
+	3,
+	"duplicated parameter",
+	"type = [[地铁车站]]\n "
+],[
+	"栗林公園",
+	13,
+	3,
+	"duplicated parameter",
+	" 管理者         = 香川县政府\n "
+],[
+	"栗树龙属",
+	69,
+	3,
+	"duplicated parameter",
+	"2=[[利奥尼拉龙]] ''Leonerasaurus''\n "
+],[
+	"校花前傳之很純很曖昧",
+	121,
+	23,
+	"duplicated style attribute",
+	"style=\"width:80%\""
+],[
+	"校花的貼身高手",
+	358,
+	23,
+	"duplicated style attribute",
+	"style=\"width:80%\""
+],[
+	"核動力",
+	165,
+	167,
+	"duplicated image caption parameter",
+	"三艘美国战舰，（从上到下）核动力巡洋舰{{link-en"
+],[
+	"核殼層模型",
+	63,
+	33,
+	"duplicated style attribute",
+	"style=\"font-size: 90%;\""
+],[
+	"根伯什·久洛",
+	23,
+	2,
+	"duplicated category",
+	"[[Category:匈牙利王国人物]]"
+],[
+	"根本京里",
+	12,
+	3,
+	"duplicated parameter",
+	"暱稱= \n "
+],[
+	"根结线虫",
+	12,
+	2,
+	"duplicated category",
+	"[[Category: 根结线虫属| ]]"
+],[
+	"格伦·福特",
+	158,
+	2,
+	"duplicated category",
+	"[[Category:金球奖音乐及喜剧类电影最佳男主角]]"
+],[
+	"格伦县",
+	58,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"格兰尼达",
+	16,
+	35,
+	"duplicated image right parameter",
+	"right"
+],[
+	"格列布·克尔日扎诺夫斯基",
+	13,
+	2,
+	"duplicated category",
+	"[[Category:俄羅斯經濟學家]]"
+],[
+	"格吕克斯堡",
+	70,
+	2,
+	"duplicated category",
+	"[[Category:石勒苏益格-荷尔斯泰因州市镇|G]]"
+],[
+	"格奥尔吉亚角",
+	16,
+	284,
+	"duplicated parameter",
+	"url = "
+],[
+	"格奥尔基·乔治乌-德治",
+	82,
+	2,
+	"duplicated category",
+	"[[Category:多夫塔纳监狱囚犯]]"
+],[
+	"格奥尔格·多纳图斯 (黑森-达姆施塔特)",
+	61,
+	4,
+	"duplicated cory attribute",
+	"cory"
+],[
+	"格奧爾格·弗蘭茨·霍夫曼",
+	37,
+	2,
+	"duplicated category",
+	"[[Category:蕨类植物学家]]"
+],[
+	"格林納達國家足球隊",
+	53,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align: center;\""
+],[
+	"格林納達駐外機構列表",
+	1,
+	55,
+	"duplicated image width parameter",
+	"500px"
+],[
+	"格洛丽亚·马卡帕加尔-阿罗约",
+	19,
+	3,
+	"duplicated parameter",
+	"order        = 25\n "
+],[
+	"格洛斯特公爵亨利王子",
+	151,
+	2,
+	"duplicated category",
+	"[[Category:澳大利亞總督]]"
+],[
+	"格洛斯特公爵理查王子",
+	145,
+	38,
+	"duplicated border attribute",
+	"border=\"1\""
+],[
+	"格溫·利斯特",
+	53,
+	2,
+	"duplicated category",
+	"[[Category:開普敦大學校友]]"
+],[
+	"格紋日",
+	23,
+	2,
+	"duplicated category",
+	"[[Category:美國節日]]"
+],[
+	"格莱内尔格",
+	14,
+	63,
+	"duplicated image caption parameter",
+	"2012年9月19日，[[好奇号|“好奇号”]]看到的“格莱内尔格区”—三种地形相融合。Image:PIA16237-MarsCuriosityRover-Bu"
+],[
+	"格迪翁·泽拉莱姆",
+	4,
+	3,
+	"duplicated parameter",
+	"G3=德甲\n "
+],[
+	"格陵兰足球代表队",
+	15,
+	3,
+	"duplicated parameter",
+	"pattern_la1 =_grl2022h\n "
+],[
+	"格鲁妮娅·苏哈列娃",
+	63,
+	2,
+	"duplicated category",
+	"[[Category:CS1 Russian-language sources (ru)]]"
+],[
+	"桂志芸",
+	6,
+	25,
+	"duplicated image width parameter",
+	"210px"
+],[
+	"桃園市立中壢家事商業高級中等學校",
+	6,
+	45,
+	"duplicated image caption parameter",
+	"180PX"
+],[
+	"桃園市立大溪木藝生態博物館",
+	53,
+	37,
+	"conflicting image frame parameter",
+	"无框"
+],[
+	"桃園市第四選舉區 (立法委員)",
+	276,
+	4,
+	"duplicated align attribute",
+	"align=\"center\""
+],[
+	"桃園文昌宮",
+	28,
+	185,
+	"duplicated name attribute",
+	"name=\"邱傑1\""
+],[
+	"桃源街站",
+	11,
+	3,
+	"duplicated parameter",
+	"code = \n "
+],[
+	"桃面愛情鳥",
+	63,
+	2,
+	"duplicated category",
+	"[[Category:情侶鸚鵡|T]]"
+],[
+	"桌面大戰",
+	209,
+	3,
+	"duplicated parameter",
+	" color3       = #2b4d49\n "
+],[
+	"桐城东站",
+	14,
+	3,
+	"duplicated parameter",
+	" route_map = \n "
+],[
+	"桐城南站",
+	14,
+	3,
+	"duplicated parameter",
+	" route_map = \n "
+],[
+	"桐城張氏世系圖",
+	37,
+	518,
+	"duplicated parameter",
+	"zy2=[[浙江按察使]]<br>[[張曾誼]]<br>監生(捐納知縣)"
+],[
+	"桑尼·法蘭傑斯",
+	3,
+	3,
+	"duplicated parameter",
+	"1=zh-cn:桑尼·弗兰泽斯; zh-hk:桑尼·法蘭傑斯; zh-tw:桑尼·法蘭傑斯;\n "
+],[
+	"桑德兰足球俱乐部",
+	22,
+	43,
+	"duplicated parameter",
+	" pattern_la1 = _left\n "
+],[
+	"桑德斯—特朗普选民",
+	25,
+	2,
+	"duplicated category",
+	"[[Category:2020年美國總統選舉|*]]"
+],[
+	"桑德罗·巴扎泽",
+	43,
+	2,
+	"duplicated category",
+	"[[Category:欧洲运动会击剑奖牌得主]]"
+],[
+	"桑給巴爾",
+	98,
+	44,
+	"duplicated image caption parameter",
+	"桑給巴爾"
+],[
+	"桑耶寺",
+	15,
+	3,
+	"duplicated parameter",
+	"coordinates = {{WikidataCoord|display=it}}\n "
+],[
+	"桑茂森",
+	46,
+	2,
+	"duplicated category",
+	"[[Category:臺北富邦勇士球員]]"
+],[
+	"桑迪·葛雷諾",
+	94,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"桔梗湯",
+	3,
+	35,
+	"duplicated style attribute",
+	"style=\"margin: 0 0 1em 1em\""
+],],"batches":43}

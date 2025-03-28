@@ -1,1 +1,1201 @@
-window.data={"articles":[["食藥同源",190,2,"duplicated category","[[Category:中医|S]]"],["飢餓遊戲 (電視節目)",36,24,"duplicated style attribute","style=\"text-align:center\""],["餘甘子",34,131,"duplicated image caption parameter","新叶"],["饒姓",23,33,"duplicated image caption parameter","Right"],["饗賓餐旅",128,662,"duplicated parameter","archive-date=2023-07-24"],["饮水鸟",111,2,"duplicated category","[[Category:热力学]]"],["饲料鱼",245,2,"duplicated category","[[Category:魚類學]]"],["饶吉祥",3,3,"duplicated parameter","caption = \n "],["馆市教堂",11,57,"duplicated image caption parameter","nhỏ"],["首爾有軌電車",31,27,"duplicated image thumbnail parameter","thumb"],["首相 (仙靈棋)",10,18,"duplicated parameter","=\n "],["首都圈電鐵西海線",310,2,"duplicated category","[[Category:富川市交通]]"],["首都地区环线高速公路",65,20,"duplicated parameter","state="],["香川郡",30,42,"duplicated image width parameter","250px"],["香檳液泡",26,2,"duplicated category","[[Category:眼科手術]]"],["香港—加拿大關係",37,2,"duplicated category","[[Category:香港—加拿大關係| ]]"],["香港47人案",21,3,"duplicated parameter","transcripts        = \n "],["香港不屈：不能被磨滅的城市",34,550,"duplicated parameter","date="],["香港公共屋邨列表",528,60,"duplicated image width parameter","300px"],["香港口述影像協會",26,2,"duplicated category","[[Category:視覺障礙]]"],["香港同志影展",25,232,"duplicated parameter","dead-url=no "],["香港商業電台",782,2,"duplicated category","[[Category:1959年香港建立]]"],["香港國際主題樂園有限公司",10,3,"duplicated parameter"," key_people = [[安明智]]<br/>[[劉永基]]\n "],["香港墮馬身亡者列表",5,260,"duplicated parameter","url= "],["香港大學",567,60,"duplicated parameter"," ARWU_W_ENG_year = 2024\n "],["香港專業教育學院",64,20,"duplicated image caption parameter","[[File:HK_IVE_KwaiChung.JPG"],["香港島專線小巴22線",335,2,"duplicated category","[[Category:香港島小巴路線|022]]"],["香港工程科學院",21,3,"duplicated parameter","region_served = \n "],["香港快運航空",58,57,"duplicated image caption parameter","Boeing_737-84P,_Hong_Kong_Express_JP6917811"],["香港態度",182,46,"duplicated style attribute","style=\"white-space:nowrap\""],["香港海洋公園水上樂園",35,5,"duplicated border attribute","border=\"1\""],["香港測量師學會",27,195,"duplicated parameter","title=Founding president of the HKIS Kan Fook-yee played a key role in helping H"],["香港航空",63,103,"duplicated image caption parameter","Hong_Kong_Airlines_A330-223_(B-LND)_taking_off_from_Shanghai_Pudong_Internationa"],["香港警察車輛",181,71,"duplicated image caption parameter","rught"],["香港足球代表隊在各項大型賽事及外圍賽紀錄",6,33,"duplicated style attribute","style=\"text-align: center;\""],["香港輕鐵701綫",60,2,"duplicated category","[[Category:香港輕鐵路綫|7]]"],["香港輕鐵車站列表",10,62,"duplicated image caption parameter","http://vignette2.wikia.nocookie.net/hk-rail/images/e/ea/LR_Network_Map_KX.png/re"],["香港郵政總局",57,111,"conflicting image horizontal-alignment parameter","右"],["香港酷熱天氣警告",25,219,"duplicated parameter","archive-url=https://web.archive.org/web/20201029054530/http://www.weather.gov.hk"],["香港開埠初期歷史",155,45,"duplicated image caption parameter","200"],["香港陪審團制度",105,2,"duplicated category","[[Category:陪審團]]"],["香港黃金交易所",5,26,"duplicated image caption parameter","496kbpx"],["香美市",31,52,"duplicated image caption parameter","香美市位置圖"],["馬伊科卡赫河",3,26,"duplicated image thumbnail parameter","thumb"],["馬來西亞各州王位繼承",6,65,"duplicated image caption parameter","Right"],["馬來西亞國家足球隊",181,16,"duplicated style attribute","style=\"background: #013A5E; color: #FFFFFF; width=\""],["馬來西亞特殊車輛號牌",14,34,"duplicated style attribute","style=\"margin:auto\""],["馬來西亞車輛號牌",13,34,"duplicated style attribute","style=\"margin:auto\""],["馬修·古德",6,3,"duplicated parameter","2=zh-tw:古迪; zh-hk:高迪; zh-cn:古迪;\n "],["馬克·羅伯茨",15,3,"duplicated parameter"," currentclub = [[伯明翰足球會|伯明翰]]\n "],["馬克西米連·馮·巴登",98,4,"duplicated cory attribute","cory"],["馬內維奇區",1,37,"duplicated image thumbnail parameter","thumb"],["馬其頓地區",77,39,"duplicated image width parameter","300px"],["馬卓安內閣",10,39,"duplicated style attribute","style=\"margin:3px; border:3px solid #000000;\""],["馬坑邨",117,27,"duplicated image caption parameter","2"],["馬太",53,41,"duplicated image caption parameter","[[卡拉瓦乔]]创作的油画《圣马太蒙召》（{{lang"],["馬庫斯·埃利澤·布洛赫",47,2,"duplicated category","[[Category:德國男性作家]]"],["馬庫斯·基恩",145,2,"duplicated category","[[Category:在義大利的美國人]]"],["馬廷強",18,2,"duplicated category","[[Category:馬姓|T廷]]"],["馬德拉鰩",2,3,"duplicated parameter"," image = \n "],["馬戛爾尼使團",86,488,"duplicated parameter","newspaper=中國檔案報"],["馬拉簡拿運動場",53,36,"duplicated image caption parameter","250"],["馬治薇",3,3,"duplicated parameter"," othername = Christina Yang\n "],["馬泰奧·貝雷蒂尼",29,3,"duplicated parameter","doublesrecord = {{tennis record|won=23|lost=23}}\n "],["馬爾巴赫",67,2,"duplicated category","[[Category:巴登-符腾堡州市镇]]"],["馬爾科·卡利久里",44,2,"duplicated category","[[Category:1984年出生]]"],["馬爾賈",1117,2,"duplicated category","[[分類:什葉派神學]]"],["馬田·域漢",58,202,"duplicated parameter","date=2008年1月"],["馬萬祺",11,3,"duplicated parameter"," spouse = \n "],["馬科恩-賴肖爾表記法",36,25,"duplicated style attribute","style=\"text-align:center\""],["馬羅蒂里群島",9,3,"duplicated parameter"," image_name       = Marotiri-map.jpg\n "],["馬群超",24,3,"duplicated parameter"," term_end3 = 2022年7月31日\n "],["馬翊航",38,2,"duplicated category","[[Category:臺灣男性詩人]]"],["馬自達RX-7",47,3,"duplicated parameter","fuel_capacity = \n "],["馬自達RX-8",20,3,"duplicated parameter"," fuel_capacity = 60 L\n "],["馬英九",409,1356,"duplicated parameter","date=2024-12-18 "],["馬蒂亞·扎卡尼",40,3,"duplicated parameter"," years6 = 2021–2022\n "],["馬蘭比吉河",9,3,"duplicated parameter"," name_other         = \n "],["馬里奧·桑切斯",71,143,"duplicated parameter","date=2025-03-05 "],["馬里武裝部隊",10,3,"duplicated parameter"," native_name        = {{lang|fr|Forces Armées Maliennes}}\n "],["馬鞍山聖若瑟小學",59,14,"duplicated name attribute","name=教育手冊1993"],["馬頭圍",2,51,"duplicated image width parameter","300px"],["馬魯卿",45,2,"duplicated category","[[Category:明朝云南按察司佥事]]"],["馮敬恩",117,2,"duplicated category","[[Category:香港持不同政見者]]"],["馮曦妤",487,2,"duplicated category","[[Category:香港創作歌手]]"],["駐台北烏蘭巴托貿易經濟代表處",5,3,"duplicated parameter"," image             = Taipei World Trade Center International Trade Building 2009"],["駐巴勒斯坦外交機構列表",9,2,"duplicated category","[[Category:巴勒斯坦外交]]"],["駱以軍",340,2,"duplicated category","[[Category:20世紀臺灣小說家]]"],["駱水源",25,2,"duplicated category","[[Category:台灣銀行家]]"],["驅逐查戈斯人",8,84,"duplicated image caption parameter","英國1966年的外交電報：不幸的是，要走的除了雀鳥之外，還有一小撮「[[泰山 (角色)|泰山]]」或「[[魯賓遜漂流記|星期五]]」{{notetag"],["驚奇少女 (電視劇)",452,2,"duplicated category","[[Category:美國劇情電視劇]]"],["驚聲尖叫系列",79,97,"duplicated 5px attribute","5px"],["马中骐",39,3,"duplicated parameter"," alma_mater = \n "],["马修·德赖克",15,2,"duplicated category","[[Category:奧林匹克運動會射擊獎牌得主]]"],["马修·惠特克",24,3,"duplicated parameter","predecessor1 = [[杰夫·塞申斯]]\n "],["马克·威尔什",363,2,"duplicated category","[[Category:美国空军参谋长]]"],["马克·库班",63,2,"duplicated category","[[Category:美國億萬富豪]]"],["马克·阿里",17,2,"duplicated category","[[Category:奧林匹克運動會射擊獎牌得主]]"],["马克伯国",59,24,"duplicated image thumbnail parameter","thumb"],["马克思发生器",10,28,"duplicated image caption parameter","Marx Generator.svg"],["马华灵",70,2,"duplicated category","[[Category:马姓|H]]"],["马可·米歇艾格纳",14,3,"duplicated parameter"," Occupation          = [[小提琴家]]\n "],["马塞洛·索尔曼",135,2,"duplicated category","[[Category:网球大满贯青少年组男子双打冠军]]"],["马太福音第3章",21,43,"duplicated image caption parameter","Right"],["马太福音第4章",9,51,"duplicated image caption parameter","275px</ref>"],["马娅·戈伊科维奇",31,2,"duplicated category","[[Category:塞尔维亚副总理]]"],["马孔多",1,10,"duplicated parameter","\n "],["马寅初",64,1104,"duplicated parameter","date=Dec 1981"],["马尔代夫行政区划",4,3,"duplicated parameter","1=zh-hans:马尔代夫行政区划;zh-hant:馬爾代夫行政區劃;zh-hk:馬爾代夫行政區劃;zh-sg:马尔代夫行政区划;zh-tw:馬爾地夫行政區劃"],["马尔姆帕肯站",37,3,"duplicated parameter"," services = \n "],["马建国 (1943年)",43,2,"duplicated category","[[Category:昌吉回族自治州州长]]"],["马德雷德迪奥斯大区",123,23,"duplicated border attribute","border=\"1\""],["马来西亚第三电视",18,3,"duplicated parameter"," 播放地區         = [[馬來西亞]]\n "],["马来西亚紫色羽毛球联赛",7,3,"duplicated parameter"," current_season = \n "],["马来西亚联邦19号公路",57,3,"duplicated style attribute","style=\"width:600px\""],["马来西亚联邦2号公路",86,3,"duplicated style attribute","style=\"width:600px\""],["马来西亚联邦3号公路",56,3,"duplicated style attribute","style=\"width:600px\""],["马来语群",111,24,"duplicated style attribute","style=\"margin:auto:\""],["马格努斯效应",4,3,"duplicated parameter","G1=Physics"],["马格西·博格斯",2,3,"duplicated parameter","G1=NBA\n "],["马泰 (美籍演员)",127,2,"duplicated category","[[Category:克萊門森大學校友]]"],["马特乌斯·帕托",85,2,"duplicated category","[[Category:中超球员]]"],["马特奥·阿莱曼",31,2,"duplicated category","[[Category:塞維利亞人]]"],["马礼逊",50,40,"duplicated image caption parameter","Right"],["马科斯·罗伯托·西尔维拉·雷斯",4,3,"duplicated parameter",""],["马萨伦巴达",50,2,"duplicated category","[[Category:拉韦纳省市镇|M]]"],["马西纳帝国",23,137,"duplicated parameter"," publisher=Nouvelles Editions Africaines "],["马蹄莲",25,59,"duplicated image caption parameter","臺灣[[竹子湖]]的"],["马里亚诺·拉霍伊",133,102,"conflicting image horizontal-alignment parameter","right"],["马里奥·巴尔迪",148,2,"duplicated category","[[Category:義大利藝術家]]"],["马里奥·贝里诺",46,2,"duplicated category","[[Category:義大利藝術家]]"],["驮畜",4,32,"duplicated image caption parameter","upright=1.3<!--size for lead image-->"],["骄阳伴我",159,2,"duplicated category","[[Category:2023年中國電視劇集]]"],["骆驼桥站",20,3,"duplicated parameter"," colour = \n "],["骑河站",6,3,"duplicated parameter","colour = {{colorbox|#a9863c|border=none}} 米黄色\n "],["體操世界盃",14,24,"duplicated border attribute","border=\"2\""],["高亭宇",37,102,"duplicated image caption parameter","upleft"],["高分子",174,4,"duplicated border attribute","border=\"0\""],["高加索的俘虏",62,2,"duplicated category","[[Category:俄罗斯小说]]"],["高厚良",63,2,"duplicated category","[[Category:中国人民解放军开国少将]]"],["高句麗語",16,33,"duplicated image caption parameter","{{fr"],["高堡奇人 (电视剧)",460,2,"duplicated category","[[Category:间谍题材电视剧]]"],["高壓電",17,17,"duplicated style attribute","style=\"border-collapse: collapse;\""],["高天原",6,129,"duplicated parameter"," language = ja"],["高孝儀",79,5,"duplicated align attribute","align=center"],["高尚全",41,2,"duplicated category","[[Category:中华人民共和国国家经济体制改革委员会副主任]]"],["高干 (北魏)",20,2,"duplicated category","[[Category:北魏长史]]"],["高年級姐妹會",102,2,"duplicated category","[[Category:洛杉磯背景電影]]"],["高建三",97,5,"duplicated align attribute","align=center"],["高建智",22,3,"duplicated parameter"," educate             = \n "],["高志綱",177,5,"duplicated align attribute","align=center"],["高恩 (Laysha)",40,5,"duplicated style attribute","style=\"background:#FF79BC\""],["高承睿",12,3,"duplicated parameter"," club = [[合作金庫]]\n "],["高政華",86,5,"duplicated align attribute","align=center"],["高敏靜",43,5,"duplicated align attribute","align=center"],["高曼容",99,2,"duplicated category","[[Category:慕獅女孩成員]]"],["高木守道",120,5,"duplicated align attribute","align=center"],["高棉族",2,3,"duplicated parameter"," image =\n "],["高爾宣",42,24,"duplicated style attribute","style=\"background:Black; Color:white\""],["高田壽典",89,2,"duplicated category","[[Category:杜希達聯球員]]"],["高级辅助驾驶系统",28,2,"duplicated category","[[Category:汽車安全科技]]"],["高脂血症",41,5,"duplicated class attribute","class=\"wikitable\""],["高脚柜炸弹",135,59,"duplicated image caption parameter","盟國空襲對{{tsl"],["高芳婷",33,2,"duplicated category","[[Category:香港記者]]"],["高華柱",206,2,"duplicated category","[[Category:空難倖存者]]"],["高鐵延伸屏東",26,14,"duplicated name attribute","name=\"郭芷瑄 2019\""],["高雄市",450,5,"duplicated style attribute","style=\"width:350px\""],["高雄市 (州轄市)",179,97,"duplicated image caption parameter","臺灣高雄州廳夜色與燈籠 Special Night in front of the Takao Prefecture building of TAIWAN in"],["高雄市公車紅70路",28,277,"duplicated parameter","language=zh-tw "],["高雄市大寮區山頂國民小學",28,3,"duplicated parameter"," free_label = 校地面積\n "],["高雄市政府原住民事務委員會",62,2,"duplicated category","[[Category:高雄市政府]]"],["高雄市文化資產",1455,12,"duplicated nchdb.boch.gov.tw attribute","nchdb.boch.gov.tw"],["高雄市歷史",112,48,"duplicated image caption parameter","RIGHT"],["高雄縣",223,5,"duplicated style attribute","style=\"width:350px\""],["高體鰟鮍",34,2,"duplicated category","[[Category:鰟鮍属|ocellatus]]"],["鬼冢承次陨石坑",14,40,"duplicated image width parameter","240px"],["鬼影 (電影)",3,3,"duplicated parameter","zh-hant:鬼影;zh-sg:冤魂;zh-cn:鬼影;\n "],["鬼滅之刃 柱訓練篇",983,2,"duplicated category","[[Category:改編自漫畫的動畫]]"],["鬼滅之刃 遊郭篇",982,2,"duplicated category","[[Category:改编自漫画的动画]]"],["鬼面蛛科",4,2,"duplicated category","[[Category: 1850年描述的分类群|G]]"],["魁北克省",101,27,"duplicated image caption parameter","魁北克地形地图"],["魅力克利夫蘭 (第一季)",37,24,"duplicated style attribute","style=\"font-size: 100%;\""],["魅力克利夫蘭 (第二季)",54,24,"duplicated style attribute","style=\"font-size: 100%;\""],["魏恩贝根",8,3,"duplicated parameter"," image_caption           = \n "],["魏維",57,2,"duplicated category","[[Category:臺北富邦勇士球員]]"],["魏郡王氏世系图",32,82,"duplicated parameter","Sh=功明公<br>[[王寿]]"],["魔卓",72,2,"duplicated category","[[Category:虛構獨裁者]]"],["魔女18號",29,5,"duplicated style attribute","style=\"background:cornflowerblue; color:white\""],["魔女與野獸",41,3,"duplicated parameter","代理發行= \n "],["魔比斯 (電影)",125,469,"duplicated name attribute","name=\"LetoEspinosa2\""],["魔法師的學徒 (2010年電影)",69,3,"duplicated parameter"," cover       = \n "],["魔法師西蒙",164,2,"duplicated category","[[Category:英國開發電子遊戲]]"],["魔法戰隊魔法連者",10,3,"duplicated parameter"," 語言 = \n "],["魔法灰姑娘 (2004年电影)",11,3,"duplicated parameter"," tw_name = \n "],["魔法黑森林",360,2,"duplicated category","[[Category:改编自音乐剧的电影]]"],["魔鬪學園101",70,46,"duplicated style attribute","style=\"float:center; margin:10px\""],["魔鬼琴聲帕格尼尼",4,3,"duplicated parameter"," zh-cn:尼科罗·帕格尼尼; zh-hk:尼古羅·巴格尼尼; zh-tw:尼科羅·帕格尼尼;\n "],["魔魅大陆的邪咒",236,2,"duplicated category","[[Category:動作冒險遊戲]]"],["魯傑羅一世 (西西里)",31,57,"duplicated image caption parameter","left200px"],["魯斯蘭·扎哈羅夫",35,32,"duplicated style attribute","style=\"font-size:90%\""]],"batches":43}
+window.data={"articles":[[
+	"食藥同源",
+	190,
+	2,
+	"duplicated category",
+	"[[Category:中医|S]]"
+],[
+	"飢餓遊戲 (電視節目)",
+	36,
+	24,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"餘甘子",
+	34,
+	131,
+	"duplicated image caption parameter",
+	"新叶"
+],[
+	"饒姓",
+	23,
+	33,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"饗賓餐旅",
+	128,
+	662,
+	"duplicated parameter",
+	"archive-date=2023-07-24"
+],[
+	"饮水鸟",
+	111,
+	2,
+	"duplicated category",
+	"[[Category:热力学]]"
+],[
+	"饲料鱼",
+	245,
+	2,
+	"duplicated category",
+	"[[Category:魚類學]]"
+],[
+	"饶吉祥",
+	3,
+	3,
+	"duplicated parameter",
+	"caption = \n "
+],[
+	"馆市教堂",
+	11,
+	57,
+	"duplicated image caption parameter",
+	"nhỏ"
+],[
+	"首爾有軌電車",
+	31,
+	27,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"首相 (仙靈棋)",
+	10,
+	18,
+	"duplicated parameter",
+	"=\n "
+],[
+	"首都圈電鐵西海線",
+	310,
+	2,
+	"duplicated category",
+	"[[Category:富川市交通]]"
+],[
+	"首都地区环线高速公路",
+	65,
+	20,
+	"duplicated parameter",
+	"state="
+],[
+	"香川郡",
+	30,
+	42,
+	"duplicated image width parameter",
+	"250px"
+],[
+	"香檳液泡",
+	26,
+	2,
+	"duplicated category",
+	"[[Category:眼科手術]]"
+],[
+	"香港—加拿大關係",
+	37,
+	2,
+	"duplicated category",
+	"[[Category:香港—加拿大關係| ]]"
+],[
+	"香港47人案",
+	21,
+	3,
+	"duplicated parameter",
+	"transcripts        = \n "
+],[
+	"香港不屈：不能被磨滅的城市",
+	34,
+	550,
+	"duplicated parameter",
+	"date="
+],[
+	"香港公共屋邨列表",
+	528,
+	60,
+	"duplicated image width parameter",
+	"300px"
+],[
+	"香港口述影像協會",
+	26,
+	2,
+	"duplicated category",
+	"[[Category:視覺障礙]]"
+],[
+	"香港同志影展",
+	25,
+	232,
+	"duplicated parameter",
+	"dead-url=no "
+],[
+	"香港商業電台",
+	782,
+	2,
+	"duplicated category",
+	"[[Category:1959年香港建立]]"
+],[
+	"香港國際主題樂園有限公司",
+	10,
+	3,
+	"duplicated parameter",
+	" key_people = [[安明智]]<br/>[[劉永基]]\n "
+],[
+	"香港墮馬身亡者列表",
+	5,
+	260,
+	"duplicated parameter",
+	"url= "
+],[
+	"香港大學",
+	567,
+	60,
+	"duplicated parameter",
+	" ARWU_W_ENG_year = 2024\n "
+],[
+	"香港專業教育學院",
+	64,
+	20,
+	"duplicated image caption parameter",
+	"[[File:HK_IVE_KwaiChung.JPG"
+],[
+	"香港島專線小巴22線",
+	335,
+	2,
+	"duplicated category",
+	"[[Category:香港島小巴路線|022]]"
+],[
+	"香港工程科學院",
+	21,
+	3,
+	"duplicated parameter",
+	"region_served = \n "
+],[
+	"香港快運航空",
+	58,
+	57,
+	"duplicated image caption parameter",
+	"Boeing_737-84P,_Hong_Kong_Express_JP6917811"
+],[
+	"香港態度",
+	182,
+	46,
+	"duplicated style attribute",
+	"style=\"white-space:nowrap\""
+],[
+	"香港海洋公園水上樂園",
+	35,
+	5,
+	"duplicated border attribute",
+	"border=\"1\""
+],[
+	"香港測量師學會",
+	27,
+	195,
+	"duplicated parameter",
+	"title=Founding president of the HKIS Kan Fook-yee played a key role in helping H"
+],[
+	"香港航空",
+	63,
+	103,
+	"duplicated image caption parameter",
+	"Hong_Kong_Airlines_A330-223_(B-LND)_taking_off_from_Shanghai_Pudong_Internationa"
+],[
+	"香港警察車輛",
+	181,
+	71,
+	"duplicated image caption parameter",
+	"rught"
+],[
+	"香港足球代表隊在各項大型賽事及外圍賽紀錄",
+	6,
+	33,
+	"duplicated style attribute",
+	"style=\"text-align: center;\""
+],[
+	"香港輕鐵701綫",
+	60,
+	2,
+	"duplicated category",
+	"[[Category:香港輕鐵路綫|7]]"
+],[
+	"香港輕鐵車站列表",
+	10,
+	62,
+	"duplicated image caption parameter",
+	"http://vignette2.wikia.nocookie.net/hk-rail/images/e/ea/LR_Network_Map_KX.png/re"
+],[
+	"香港郵政總局",
+	57,
+	111,
+	"conflicting image horizontal-alignment parameter",
+	"右"
+],[
+	"香港酷熱天氣警告",
+	25,
+	219,
+	"duplicated parameter",
+	"archive-url=https://web.archive.org/web/20201029054530/http://www.weather.gov.hk"
+],[
+	"香港開埠初期歷史",
+	155,
+	45,
+	"duplicated image caption parameter",
+	"200"
+],[
+	"香港陪審團制度",
+	105,
+	2,
+	"duplicated category",
+	"[[Category:陪審團]]"
+],[
+	"香港黃金交易所",
+	5,
+	26,
+	"duplicated image caption parameter",
+	"496kbpx"
+],[
+	"香美市",
+	31,
+	52,
+	"duplicated image caption parameter",
+	"香美市位置圖"
+],[
+	"馬伊科卡赫河",
+	3,
+	26,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"馬來西亞各州王位繼承",
+	6,
+	65,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"馬來西亞國家足球隊",
+	181,
+	16,
+	"duplicated style attribute",
+	"style=\"background: #013A5E; color: #FFFFFF; width=\""
+],[
+	"馬來西亞特殊車輛號牌",
+	14,
+	34,
+	"duplicated style attribute",
+	"style=\"margin:auto\""
+],[
+	"馬來西亞車輛號牌",
+	13,
+	34,
+	"duplicated style attribute",
+	"style=\"margin:auto\""
+],[
+	"馬修·古德",
+	6,
+	3,
+	"duplicated parameter",
+	"2=zh-tw:古迪; zh-hk:高迪; zh-cn:古迪;\n "
+],[
+	"馬克·羅伯茨",
+	15,
+	3,
+	"duplicated parameter",
+	" currentclub = [[伯明翰足球會|伯明翰]]\n "
+],[
+	"馬克西米連·馮·巴登",
+	98,
+	4,
+	"duplicated cory attribute",
+	"cory"
+],[
+	"馬內維奇區",
+	1,
+	37,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"馬其頓地區",
+	77,
+	39,
+	"duplicated image width parameter",
+	"300px"
+],[
+	"馬卓安內閣",
+	10,
+	39,
+	"duplicated style attribute",
+	"style=\"margin:3px; border:3px solid #000000;\""
+],[
+	"馬坑邨",
+	117,
+	27,
+	"duplicated image caption parameter",
+	"2"
+],[
+	"馬太",
+	53,
+	41,
+	"duplicated image caption parameter",
+	"[[卡拉瓦乔]]创作的油画《圣马太蒙召》（{{lang"
+],[
+	"馬庫斯·埃利澤·布洛赫",
+	47,
+	2,
+	"duplicated category",
+	"[[Category:德國男性作家]]"
+],[
+	"馬庫斯·基恩",
+	145,
+	2,
+	"duplicated category",
+	"[[Category:在義大利的美國人]]"
+],[
+	"馬廷強",
+	18,
+	2,
+	"duplicated category",
+	"[[Category:馬姓|T廷]]"
+],[
+	"馬德拉鰩",
+	2,
+	3,
+	"duplicated parameter",
+	" image = \n "
+],[
+	"馬戛爾尼使團",
+	86,
+	488,
+	"duplicated parameter",
+	"newspaper=中國檔案報"
+],[
+	"馬拉簡拿運動場",
+	53,
+	36,
+	"duplicated image caption parameter",
+	"250"
+],[
+	"馬治薇",
+	3,
+	3,
+	"duplicated parameter",
+	" othername = Christina Yang\n "
+],[
+	"馬泰奧·貝雷蒂尼",
+	29,
+	3,
+	"duplicated parameter",
+	"doublesrecord = {{tennis record|won=23|lost=23}}\n "
+],[
+	"馬爾巴赫",
+	67,
+	2,
+	"duplicated category",
+	"[[Category:巴登-符腾堡州市镇]]"
+],[
+	"馬爾科·卡利久里",
+	44,
+	2,
+	"duplicated category",
+	"[[Category:1984年出生]]"
+],[
+	"馬爾賈",
+	1117,
+	2,
+	"duplicated category",
+	"[[分類:什葉派神學]]"
+],[
+	"馬田·域漢",
+	58,
+	202,
+	"duplicated parameter",
+	"date=2008年1月"
+],[
+	"馬萬祺",
+	11,
+	3,
+	"duplicated parameter",
+	" spouse = \n "
+],[
+	"馬科恩-賴肖爾表記法",
+	36,
+	25,
+	"duplicated style attribute",
+	"style=\"text-align:center\""
+],[
+	"馬羅蒂里群島",
+	9,
+	3,
+	"duplicated parameter",
+	" image_name       = Marotiri-map.jpg\n "
+],[
+	"馬群超",
+	24,
+	3,
+	"duplicated parameter",
+	" term_end3 = 2022年7月31日\n "
+],[
+	"馬翊航",
+	38,
+	2,
+	"duplicated category",
+	"[[Category:臺灣男性詩人]]"
+],[
+	"馬自達RX-7",
+	47,
+	3,
+	"duplicated parameter",
+	"fuel_capacity = \n "
+],[
+	"馬自達RX-8",
+	20,
+	3,
+	"duplicated parameter",
+	" fuel_capacity = 60 L\n "
+],[
+	"馬英九",
+	409,
+	1356,
+	"duplicated parameter",
+	"date=2024-12-18 "
+],[
+	"馬蒂亞·扎卡尼",
+	40,
+	3,
+	"duplicated parameter",
+	" years6 = 2021–2022\n "
+],[
+	"馬蘭比吉河",
+	9,
+	3,
+	"duplicated parameter",
+	" name_other         = \n "
+],[
+	"馬里奧·桑切斯",
+	71,
+	143,
+	"duplicated parameter",
+	"date=2025-03-05 "
+],[
+	"馬里武裝部隊",
+	10,
+	3,
+	"duplicated parameter",
+	" native_name        = {{lang|fr|Forces Armées Maliennes}}\n "
+],[
+	"馬鞍山聖若瑟小學",
+	59,
+	14,
+	"duplicated name attribute",
+	"name=教育手冊1993"
+],[
+	"馬頭圍",
+	2,
+	51,
+	"duplicated image width parameter",
+	"300px"
+],[
+	"馬魯卿",
+	45,
+	2,
+	"duplicated category",
+	"[[Category:明朝云南按察司佥事]]"
+],[
+	"馮敬恩",
+	117,
+	2,
+	"duplicated category",
+	"[[Category:香港持不同政見者]]"
+],[
+	"馮曦妤",
+	487,
+	2,
+	"duplicated category",
+	"[[Category:香港創作歌手]]"
+],[
+	"駐台北烏蘭巴托貿易經濟代表處",
+	5,
+	3,
+	"duplicated parameter",
+	" image             = Taipei World Trade Center International Trade Building 2009"
+],[
+	"駐巴勒斯坦外交機構列表",
+	9,
+	2,
+	"duplicated category",
+	"[[Category:巴勒斯坦外交]]"
+],[
+	"駱以軍",
+	340,
+	2,
+	"duplicated category",
+	"[[Category:20世紀臺灣小說家]]"
+],[
+	"駱水源",
+	25,
+	2,
+	"duplicated category",
+	"[[Category:台灣銀行家]]"
+],[
+	"驅逐查戈斯人",
+	8,
+	84,
+	"duplicated image caption parameter",
+	"英國1966年的外交電報：不幸的是，要走的除了雀鳥之外，還有一小撮「[[泰山 (角色)|泰山]]」或「[[魯賓遜漂流記|星期五]]」{{notetag"
+],[
+	"驚奇少女 (電視劇)",
+	452,
+	2,
+	"duplicated category",
+	"[[Category:美國劇情電視劇]]"
+],[
+	"驚聲尖叫系列",
+	79,
+	97,
+	"duplicated 5px attribute",
+	"5px"
+],[
+	"马中骐",
+	39,
+	3,
+	"duplicated parameter",
+	" alma_mater = \n "
+],[
+	"马修·德赖克",
+	15,
+	2,
+	"duplicated category",
+	"[[Category:奧林匹克運動會射擊獎牌得主]]"
+],[
+	"马修·惠特克",
+	24,
+	3,
+	"duplicated parameter",
+	"predecessor1 = [[杰夫·塞申斯]]\n "
+],[
+	"马克·威尔什",
+	363,
+	2,
+	"duplicated category",
+	"[[Category:美国空军参谋长]]"
+],[
+	"马克·库班",
+	63,
+	2,
+	"duplicated category",
+	"[[Category:美國億萬富豪]]"
+],[
+	"马克·阿里",
+	17,
+	2,
+	"duplicated category",
+	"[[Category:奧林匹克運動會射擊獎牌得主]]"
+],[
+	"马克伯国",
+	59,
+	24,
+	"duplicated image thumbnail parameter",
+	"thumb"
+],[
+	"马克思发生器",
+	10,
+	28,
+	"duplicated image caption parameter",
+	"Marx Generator.svg"
+],[
+	"马华灵",
+	70,
+	2,
+	"duplicated category",
+	"[[Category:马姓|H]]"
+],[
+	"马可·米歇艾格纳",
+	14,
+	3,
+	"duplicated parameter",
+	" Occupation          = [[小提琴家]]\n "
+],[
+	"马塞洛·索尔曼",
+	135,
+	2,
+	"duplicated category",
+	"[[Category:网球大满贯青少年组男子双打冠军]]"
+],[
+	"马太福音第3章",
+	21,
+	43,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"马太福音第4章",
+	9,
+	51,
+	"duplicated image caption parameter",
+	"275px</ref>"
+],[
+	"马娅·戈伊科维奇",
+	31,
+	2,
+	"duplicated category",
+	"[[Category:塞尔维亚副总理]]"
+],[
+	"马孔多",
+	1,
+	10,
+	"duplicated parameter",
+	"\n "
+],[
+	"马寅初",
+	64,
+	1104,
+	"duplicated parameter",
+	"date=Dec 1981"
+],[
+	"马尔代夫行政区划",
+	4,
+	3,
+	"duplicated parameter",
+	"1=zh-hans:马尔代夫行政区划;zh-hant:馬爾代夫行政區劃;zh-hk:馬爾代夫行政區劃;zh-sg:马尔代夫行政区划;zh-tw:馬爾地夫行政區劃"
+],[
+	"马尔姆帕肯站",
+	37,
+	3,
+	"duplicated parameter",
+	" services = \n "
+],[
+	"马建国 (1943年)",
+	43,
+	2,
+	"duplicated category",
+	"[[Category:昌吉回族自治州州长]]"
+],[
+	"马德雷德迪奥斯大区",
+	123,
+	23,
+	"duplicated border attribute",
+	"border=\"1\""
+],[
+	"马来西亚第三电视",
+	18,
+	3,
+	"duplicated parameter",
+	" 播放地區         = [[馬來西亞]]\n "
+],[
+	"马来西亚紫色羽毛球联赛",
+	7,
+	3,
+	"duplicated parameter",
+	" current_season = \n "
+],[
+	"马来西亚联邦19号公路",
+	57,
+	3,
+	"duplicated style attribute",
+	"style=\"width:600px\""
+],[
+	"马来西亚联邦2号公路",
+	86,
+	3,
+	"duplicated style attribute",
+	"style=\"width:600px\""
+],[
+	"马来西亚联邦3号公路",
+	56,
+	3,
+	"duplicated style attribute",
+	"style=\"width:600px\""
+],[
+	"马来语群",
+	111,
+	24,
+	"duplicated style attribute",
+	"style=\"margin:auto:\""
+],[
+	"马格努斯效应",
+	4,
+	3,
+	"duplicated parameter",
+	"G1=Physics"
+],[
+	"马格西·博格斯",
+	2,
+	3,
+	"duplicated parameter",
+	"G1=NBA\n "
+],[
+	"马泰 (美籍演员)",
+	127,
+	2,
+	"duplicated category",
+	"[[Category:克萊門森大學校友]]"
+],[
+	"马特乌斯·帕托",
+	85,
+	2,
+	"duplicated category",
+	"[[Category:中超球员]]"
+],[
+	"马特奥·阿莱曼",
+	31,
+	2,
+	"duplicated category",
+	"[[Category:塞維利亞人]]"
+],[
+	"马礼逊",
+	50,
+	40,
+	"duplicated image caption parameter",
+	"Right"
+],[
+	"马科斯·罗伯托·西尔维拉·雷斯",
+	4,
+	3,
+	"duplicated parameter",
+	""
+],[
+	"马萨伦巴达",
+	50,
+	2,
+	"duplicated category",
+	"[[Category:拉韦纳省市镇|M]]"
+],[
+	"马西纳帝国",
+	23,
+	137,
+	"duplicated parameter",
+	" publisher=Nouvelles Editions Africaines "
+],[
+	"马蹄莲",
+	25,
+	59,
+	"duplicated image caption parameter",
+	"臺灣[[竹子湖]]的"
+],[
+	"马里亚诺·拉霍伊",
+	133,
+	102,
+	"conflicting image horizontal-alignment parameter",
+	"right"
+],[
+	"马里奥·巴尔迪",
+	148,
+	2,
+	"duplicated category",
+	"[[Category:義大利藝術家]]"
+],[
+	"马里奥·贝里诺",
+	46,
+	2,
+	"duplicated category",
+	"[[Category:義大利藝術家]]"
+],[
+	"驮畜",
+	4,
+	32,
+	"duplicated image caption parameter",
+	"upright=1.3<!--size for lead image-->"
+],[
+	"骄阳伴我",
+	159,
+	2,
+	"duplicated category",
+	"[[Category:2023年中國電視劇集]]"
+],[
+	"骆驼桥站",
+	20,
+	3,
+	"duplicated parameter",
+	" colour = \n "
+],[
+	"骑河站",
+	6,
+	3,
+	"duplicated parameter",
+	"colour = {{colorbox|#a9863c|border=none}} 米黄色\n "
+],[
+	"體操世界盃",
+	14,
+	24,
+	"duplicated border attribute",
+	"border=\"2\""
+],[
+	"高亭宇",
+	37,
+	102,
+	"duplicated image caption parameter",
+	"upleft"
+],[
+	"高分子",
+	174,
+	4,
+	"duplicated border attribute",
+	"border=\"0\""
+],[
+	"高加索的俘虏",
+	62,
+	2,
+	"duplicated category",
+	"[[Category:俄罗斯小说]]"
+],[
+	"高厚良",
+	63,
+	2,
+	"duplicated category",
+	"[[Category:中国人民解放军开国少将]]"
+],[
+	"高句麗語",
+	16,
+	33,
+	"duplicated image caption parameter",
+	"{{fr"
+],[
+	"高堡奇人 (电视剧)",
+	460,
+	2,
+	"duplicated category",
+	"[[Category:间谍题材电视剧]]"
+],[
+	"高壓電",
+	17,
+	17,
+	"duplicated style attribute",
+	"style=\"border-collapse: collapse;\""
+],[
+	"高天原",
+	6,
+	129,
+	"duplicated parameter",
+	" language = ja"
+],[
+	"高孝儀",
+	79,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"高尚全",
+	41,
+	2,
+	"duplicated category",
+	"[[Category:中华人民共和国国家经济体制改革委员会副主任]]"
+],[
+	"高干 (北魏)",
+	20,
+	2,
+	"duplicated category",
+	"[[Category:北魏长史]]"
+],[
+	"高年級姐妹會",
+	102,
+	2,
+	"duplicated category",
+	"[[Category:洛杉磯背景電影]]"
+],[
+	"高建三",
+	97,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"高建智",
+	22,
+	3,
+	"duplicated parameter",
+	" educate             = \n "
+],[
+	"高志綱",
+	177,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"高恩 (Laysha)",
+	40,
+	5,
+	"duplicated style attribute",
+	"style=\"background:#FF79BC\""
+],[
+	"高承睿",
+	12,
+	3,
+	"duplicated parameter",
+	" club = [[合作金庫]]\n "
+],[
+	"高政華",
+	86,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"高敏靜",
+	43,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"高曼容",
+	99,
+	2,
+	"duplicated category",
+	"[[Category:慕獅女孩成員]]"
+],[
+	"高木守道",
+	120,
+	5,
+	"duplicated align attribute",
+	"align=center"
+],[
+	"高棉族",
+	2,
+	3,
+	"duplicated parameter",
+	" image =\n "
+],[
+	"高爾宣",
+	42,
+	24,
+	"duplicated style attribute",
+	"style=\"background:Black; Color:white\""
+],[
+	"高田壽典",
+	89,
+	2,
+	"duplicated category",
+	"[[Category:杜希達聯球員]]"
+],[
+	"高级辅助驾驶系统",
+	28,
+	2,
+	"duplicated category",
+	"[[Category:汽車安全科技]]"
+],[
+	"高脂血症",
+	41,
+	5,
+	"duplicated class attribute",
+	"class=\"wikitable\""
+],[
+	"高脚柜炸弹",
+	135,
+	59,
+	"duplicated image caption parameter",
+	"盟國空襲對{{tsl"
+],[
+	"高芳婷",
+	33,
+	2,
+	"duplicated category",
+	"[[Category:香港記者]]"
+],[
+	"高華柱",
+	206,
+	2,
+	"duplicated category",
+	"[[Category:空難倖存者]]"
+],[
+	"高鐵延伸屏東",
+	26,
+	14,
+	"duplicated name attribute",
+	"name=\"郭芷瑄 2019\""
+],[
+	"高雄市",
+	450,
+	5,
+	"duplicated style attribute",
+	"style=\"width:350px\""
+],[
+	"高雄市 (州轄市)",
+	179,
+	97,
+	"duplicated image caption parameter",
+	"臺灣高雄州廳夜色與燈籠 Special Night in front of the Takao Prefecture building of TAIWAN in"
+],[
+	"高雄市公車紅70路",
+	28,
+	277,
+	"duplicated parameter",
+	"language=zh-tw "
+],[
+	"高雄市大寮區山頂國民小學",
+	28,
+	3,
+	"duplicated parameter",
+	" free_label = 校地面積\n "
+],[
+	"高雄市政府原住民事務委員會",
+	62,
+	2,
+	"duplicated category",
+	"[[Category:高雄市政府]]"
+],[
+	"高雄市文化資產",
+	1455,
+	12,
+	"duplicated nchdb.boch.gov.tw attribute",
+	"nchdb.boch.gov.tw"
+],[
+	"高雄市歷史",
+	112,
+	48,
+	"duplicated image caption parameter",
+	"RIGHT"
+],[
+	"高雄縣",
+	223,
+	5,
+	"duplicated style attribute",
+	"style=\"width:350px\""
+],[
+	"高體鰟鮍",
+	34,
+	2,
+	"duplicated category",
+	"[[Category:鰟鮍属|ocellatus]]"
+],[
+	"鬼冢承次陨石坑",
+	14,
+	40,
+	"duplicated image width parameter",
+	"240px"
+],[
+	"鬼影 (電影)",
+	3,
+	3,
+	"duplicated parameter",
+	"zh-hant:鬼影;zh-sg:冤魂;zh-cn:鬼影;\n "
+],[
+	"鬼滅之刃 柱訓練篇",
+	983,
+	2,
+	"duplicated category",
+	"[[Category:改編自漫畫的動畫]]"
+],[
+	"鬼滅之刃 遊郭篇",
+	982,
+	2,
+	"duplicated category",
+	"[[Category:改编自漫画的动画]]"
+],[
+	"鬼面蛛科",
+	4,
+	2,
+	"duplicated category",
+	"[[Category: 1850年描述的分类群|G]]"
+],[
+	"魁北克省",
+	101,
+	27,
+	"duplicated image caption parameter",
+	"魁北克地形地图"
+],[
+	"魅力克利夫蘭 (第一季)",
+	37,
+	24,
+	"duplicated style attribute",
+	"style=\"font-size: 100%;\""
+],[
+	"魅力克利夫蘭 (第二季)",
+	54,
+	24,
+	"duplicated style attribute",
+	"style=\"font-size: 100%;\""
+],[
+	"魏恩贝根",
+	8,
+	3,
+	"duplicated parameter",
+	" image_caption           = \n "
+],[
+	"魏維",
+	57,
+	2,
+	"duplicated category",
+	"[[Category:臺北富邦勇士球員]]"
+],[
+	"魏郡王氏世系图",
+	32,
+	82,
+	"duplicated parameter",
+	"Sh=功明公<br>[[王寿]]"
+],[
+	"魔卓",
+	72,
+	2,
+	"duplicated category",
+	"[[Category:虛構獨裁者]]"
+],[
+	"魔女18號",
+	29,
+	5,
+	"duplicated style attribute",
+	"style=\"background:cornflowerblue; color:white\""
+],[
+	"魔女與野獸",
+	41,
+	3,
+	"duplicated parameter",
+	"代理發行= \n "
+],[
+	"魔比斯 (電影)",
+	125,
+	469,
+	"duplicated name attribute",
+	"name=\"LetoEspinosa2\""
+],[
+	"魔法師的學徒 (2010年電影)",
+	69,
+	3,
+	"duplicated parameter",
+	" cover       = \n "
+],[
+	"魔法師西蒙",
+	164,
+	2,
+	"duplicated category",
+	"[[Category:英國開發電子遊戲]]"
+],[
+	"魔法戰隊魔法連者",
+	10,
+	3,
+	"duplicated parameter",
+	" 語言 = \n "
+],[
+	"魔法灰姑娘 (2004年电影)",
+	11,
+	3,
+	"duplicated parameter",
+	" tw_name = \n "
+],[
+	"魔法黑森林",
+	360,
+	2,
+	"duplicated category",
+	"[[Category:改编自音乐剧的电影]]"
+],[
+	"魔鬪學園101",
+	70,
+	46,
+	"duplicated style attribute",
+	"style=\"float:center; margin:10px\""
+],[
+	"魔鬼琴聲帕格尼尼",
+	4,
+	3,
+	"duplicated parameter",
+	" zh-cn:尼科罗·帕格尼尼; zh-hk:尼古羅·巴格尼尼; zh-tw:尼科羅·帕格尼尼;\n "
+],[
+	"魔魅大陆的邪咒",
+	236,
+	2,
+	"duplicated category",
+	"[[Category:動作冒險遊戲]]"
+],[
+	"魯傑羅一世 (西西里)",
+	31,
+	57,
+	"duplicated image caption parameter",
+	"left200px"
+],[
+	"魯斯蘭·扎哈羅夫",
+	35,
+	32,
+	"duplicated style attribute",
+	"style=\"font-size:90%\""
+],],"batches":43}

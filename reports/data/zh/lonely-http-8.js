@@ -1,1 +1,1201 @@
-window.data={"articles":[["中华人民共和国旅游业",97,192,"lonely \"ISBN\"","ISBN"],["中华人民共和国法律服务业",4,240,"lonely \"http://\"","http://"],["中华全国总工会文工团",3,213,"lonely \"ISBN\"","ISBN"],["中华民国国民签证要求",528,66,"lonely \"https://\"","https://"],["中华民族",260,51,"lonely \"ISBN\"","ISBN"],["中华苏维埃共和国国家银行",26,252,"lonely \"ISBN\"","ISBN"],["中口村",37,42,"lonely \"ISBN\"","ISBN"],["中和華新街商圈",69,57,"lonely \"https://\"","https://"],["中国人民志愿军",711,36,"lonely \"ISBN\"","ISBN"],["中国人民解放军上海市军事管制委员会",55,173,"lonely \"ISBN\"","ISBN"],["中国人民解放军第六十九军",1,88,"lonely \"ISBN\"","ISBN"],["中国人民解放军第六十二军",2,91,"lonely \"ISBN\"","ISBN"],["中国公民签证要求",295,469,"lonely \"http://\"","http://"],["中国农业科学院甘薯研究所",1,143,"lonely \"ISBN\"","ISBN"],["中国农工银行天津分行大楼",7,30,"lonely \"ISBN\"","ISBN"],["中国历代宪法",404,152,"lonely \"ISBN\"","ISBN"],["中国台湾",28,485,"lonely \"http://\"","http://"],["中国工农红军第二十军",12,55,"lonely \"http://\"","http://"],["中国年号列表",4299,155,"lonely \"ISBN\"","ISBN"],["中国朝贡国列表",30,88,"lonely \"ISBN\"","ISBN"],["中国植物志",434,52,"lonely \"ISBN\"","ISBN"],["中国诗史",5,33,"lonely \"ISBN\"","ISBN"],["中国运载火箭发射列表 (2020年代)",1192,80,"lonely \"http://\"","http://"],["中国驻吉布提大使列表",200,35,"lonely \"http://\"","http://"],["中國土地兼併史",39,115,"lonely \"ISBN\"","ISBN"],["中國妖怪列表",416,36,"lonely \"ISBN\"","ISBN"],["中國學生運動史",39,2183,"lonely \"ISBN\"","ISBN"],["中國後宮制度",49,114,"lonely \"ISBN\"","ISBN"],["中國文化史",258,47,"lonely \"ISBN\"","ISBN"],["中國考古學史",16,22,"lonely \"ISBN\"","ISBN"],["中國航空發動機集團",102,55,"lonely \"https://\"","https://"],["中央军人监狱",19,216,"lonely \"ISBN\"","ISBN"],["中央合作事业管理局",1,110,"lonely \"ISBN\"","ISBN"],["中央财经委员会",277,37,"lonely \"ISBN\"","ISBN"],["中央财经委员会办公室",80,39,"lonely \"ISBN\"","ISBN"],["中央银行天津分行大楼",34,30,"lonely \"ISBN\"","ISBN"],["中島美嘉",893,10,"lonely \"http://\"","http://"],["中庄村 (彰化縣)",29,162,"lonely \"ISBN\"","ISBN"],["中式算盤",30,109,"lonely \"ISBN\"","ISBN"],["中文维基百科",78,122,"lonely \"ISBN\"","ISBN"],["中村由利佳",256,389,"lonely \"https://\"","https://"],["中華人民共和國國籍法",142,144,"lonely \"https://\"","https://"],["中華人民共和國治藏歷史",58,158,"lonely \"ISBN\"","isbn"],["中華民國—寮國關係",36,188,"lonely \"ISBN\"","ISBN"],["中華民國國樂",17,387,"lonely \"http://\"","http://"],["中華民國憲法",275,123,"lonely \"ISBN\"","ISBN"],["中華民國空軍F-104",162,228,"lonely \"http://\"","http://"],["中華民國鐵道文化協會",62,14,"lonely \"ISBN\"","ISBN"],["中華民國陸軍步兵第二五七旅",45,83,"lonely \"https://\"","https://"],["中華民國陸軍神龍小組",65,204,"lonely \"ISBN\"","ISBN"],["中间系统到中间系统",4,360,"lonely \"RFC\"","RFC"],["临朝称制",102,25,"lonely \"ISBN\"","ISBN"],["临浮战役",14,568,"lonely \"ISBN\"","ISBN"],["义和团运动",411,1011,"lonely \"http://\"","http://"],["丹·奎尔",68,243,"lonely \"RFC\"","RFC"],["丹巴·恰格达尔扎布",15,163,"lonely \"ISBN\"","ISBN"],["主丛",46,97,"lonely \"ISBN\"","ISBN"],["主题备用名称",5,46,"lonely \"https://\"","https://"],["久壽",41,29,"lonely \"ISBN\"","ISBN"],["久安",44,29,"lonely \"ISBN\"","ISBN"],["久松真一",24,407,"lonely \"ISBN\"","ISBN"],["久能千明",96,4,"lonely \"http://\"","http://"],["乌尔金",23,43,"lonely \"ISBN\"","ISBN"],["乌班图",104,9,"lonely \"http://\"","http://"],["乌语",58,46,"lonely \"http://\"","http://"],["乌龙院大长篇",141,7,"lonely \"ISBN\"","isbn"],["乌龙院角色列表",26,16,"lonely \"ISBN\"","isbn"],["尹亮景",31,99,"lonely \"ISBN\"","ISBN"],["尹太珍",64,136,"lonely \"ISBN\"","ISBN"],["乔治·华盛顿",359,103,"lonely \"ISBN\"","ISBN"],["九七式重轟炸機",98,37,"lonely \"ISBN\"","ISBN"],["九二共識",186,85,"lonely \"https://\"","https://"],["九二香港會談",68,772,"lonely \"https://\"","https://"],["九井諒子",34,104,"lonely \"ISBN\"","ISBN"],["九份",131,41,"lonely \"ISBN\"","ISBN"],["九四式輕裝甲車",70,64,"lonely \"ISBN\"","ISBN"],["九型人格",126,54,"lonely \"ISBN\"","ISBN"],["九族 (族制)",15,28,"lonely \"ISBN\"","ISBN"],["九棋铁路",64,59,"lonely \"ISBN\"","ISBN"],["九江铁路",81,59,"lonely \"ISBN\"","ISBN"],["九鐵巴士659線",66,35,"lonely \"ISBN\"","ISBN"],["九龍巴士13D線",335,38,"lonely \"ISBN\"","ISBN"],["九龍巴士14H線",8,76,"lonely \"ISBN\"","ISBN"],["九龍巴士14線",242,15,"lonely \"ISBN\"","ISBN"],["九龍巴士16M線",10,71,"lonely \"ISBN\"","ISBN"],["九龍巴士215X線",603,30,"lonely \"ISBN\"","ISBN"],["九龍巴士234A、234B線",375,35,"lonely \"ISBN\"","ISBN"],["九龍巴士237A線",88,27,"lonely \"ISBN\"","ISBN"],["九龍巴士242X線",100,27,"lonely \"ISBN\"","ISBN"],["九龍巴士243M線",271,35,"lonely \"ISBN\"","ISBN"],["九龍巴士249X線",86,61,"lonely \"ISBN\"","ISBN"],["九龍巴士252B線",87,35,"lonely \"ISBN\"","ISBN"],["九龍巴士258D線",758,35,"lonely \"ISBN\"","ISBN"],["九龍巴士259B線",172,35,"lonely \"ISBN\"","ISBN"],["九龍巴士259D線",508,35,"lonely \"ISBN\"","ISBN"],["九龍巴士259E線",100,35,"lonely \"ISBN\"","ISBN"],["九龍巴士259R線",173,35,"lonely \"ISBN\"","ISBN"],["九龍巴士260B線",86,35,"lonely \"ISBN\"","ISBN"],["九龍巴士260C線",107,35,"lonely \"ISBN\"","ISBN"],["九龍巴士260R線",181,35,"lonely \"ISBN\"","ISBN"],["九龍巴士260X線",294,35,"lonely \"ISBN\"","ISBN"],["九龍巴士261B線",202,35,"lonely \"ISBN\"","ISBN"],["九龍巴士263R線",49,36,"lonely \"ISBN\"","ISBN"],["九龍巴士265B線",242,27,"lonely \"ISBN\"","ISBN"],["九龍巴士265M線",342,27,"lonely \"ISBN\"","ISBN"],["九龍巴士265S線",56,62,"lonely \"ISBN\"","ISBN"],["九龍巴士267X線",79,64,"lonely \"ISBN\"","ISBN"],["九龍巴士268B線",222,27,"lonely \"ISBN\"","ISBN"],["九龍巴士269B線",271,27,"lonely \"ISBN\"","ISBN"],["九龍巴士269D線",352,27,"lonely \"ISBN\"","ISBN"],["九龍巴士269M線",360,27,"lonely \"ISBN\"","ISBN"],["九龍巴士269R線",49,103,"lonely \"ISBN\"","ISBN"],["九龍巴士270線",182,27,"lonely \"ISBN\"","ISBN"],["九龍巴士272K線",274,27,"lonely \"ISBN\"","ISBN"],["九龍巴士272P線",130,27,"lonely \"ISBN\"","ISBN"],["九龍巴士273A線",255,27,"lonely \"ISBN\"","ISBN"],["九龍巴士273B線",117,27,"lonely \"ISBN\"","ISBN"],["九龍巴士273D線",181,27,"lonely \"ISBN\"","ISBN"],["九龍巴士273線",220,27,"lonely \"ISBN\"","ISBN"],["九龍巴士276A線",274,27,"lonely \"ISBN\"","ISBN"],["九龍巴士276B線",233,27,"lonely \"ISBN\"","ISBN"],["九龍巴士276線",491,27,"lonely \"ISBN\"","ISBN"],["九龍巴士277X線",545,27,"lonely \"ISBN\"","ISBN"],["九龍巴士278K線",163,27,"lonely \"ISBN\"","ISBN"],["九龍巴士279X線",485,27,"lonely \"ISBN\"","ISBN"],["九龍巴士281A線",349,27,"lonely \"ISBN\"","ISBN"],["九龍巴士2E線",8,55,"lonely \"ISBN\"","ISBN"],["九龍巴士30X線",215,27,"lonely \"ISBN\"","ISBN"],["九龍巴士31B線",192,27,"lonely \"ISBN\"","ISBN"],["九龍巴士31線",31,251,"lonely \"ISBN\"","ISBN"],["九龍巴士32P線",68,35,"lonely \"ISBN\"","ISBN"],["九龍巴士32S線",68,35,"lonely \"ISBN\"","ISBN"],["九龍巴士33A線",89,160,"lonely \"ISBN\"","ISBN"],["九龍巴士35A線",354,27,"lonely \"ISBN\"","ISBN"],["九龍巴士37線",283,27,"lonely \"ISBN\"","ISBN"],["九龍巴士41A線",190,27,"lonely \"ISBN\"","ISBN"],["九龍巴士41R線",43,92,"lonely \"ISBN\"","ISBN"],["九龍巴士43B線",177,27,"lonely \"ISBN\"","ISBN"],["九龍巴士47X線",400,27,"lonely \"ISBN\"","ISBN"],["九龍巴士49X線",404,36,"lonely \"ISBN\"","ISBN"],["九龍巴士51線",293,27,"lonely \"ISBN\"","ISBN"],["九龍巴士57M線",214,35,"lonely \"ISBN\"","ISBN"],["九龍巴士58M線",462,35,"lonely \"ISBN\"","ISBN"],["九龍巴士59A線",183,35,"lonely \"ISBN\"","ISBN"],["九龍巴士59X線",381,35,"lonely \"ISBN\"","ISBN"],["九龍巴士5D線",251,317,"lonely \"ISBN\"","ISBN"],["九龍巴士5號線",7,85,"lonely \"ISBN\"","ISBN"],["九龍巴士60X線",276,35,"lonely \"ISBN\"","ISBN"],["九龍巴士61X線",250,35,"lonely \"ISBN\"","ISBN"],["九龍巴士64K線",812,35,"lonely \"ISBN\"","ISBN"],["九龍巴士66M線",130,79,"lonely \"ISBN\"","ISBN"],["九龍巴士68M線",237,27,"lonely \"ISBN\"","ISBN"],["九龍巴士68X線",564,27,"lonely \"ISBN\"","ISBN"],["九龍巴士69M線",334,35,"lonely \"ISBN\"","ISBN"],["九龍巴士70S線",112,27,"lonely \"ISBN\"","ISBN"],["九龍巴士73A線",287,27,"lonely \"ISBN\"","ISBN"],["九龍巴士74S線",117,27,"lonely \"ISBN\"","ISBN"],["九龍巴士80X線",228,27,"lonely \"ISBN\"","ISBN"],["九龍巴士81C線",468,27,"lonely \"ISBN\"","ISBN"],["九龍巴士81K線",224,35,"lonely \"ISBN\"","ISBN"],["九龍巴士82X線",205,27,"lonely \"ISBN\"","ISBN"],["九龍巴士83K線",368,35,"lonely \"ISBN\"","ISBN"],["九龍巴士83X線",245,35,"lonely \"ISBN\"","ISBN"],["九龍巴士84M線",158,27,"lonely \"ISBN\"","ISBN"],["九龍巴士868線",71,35,"lonely \"ISBN\"","ISBN"],["九龍巴士86A線",258,27,"lonely \"ISBN\"","ISBN"],["九龍巴士86C線",176,27,"lonely \"ISBN\"","ISBN"],["九龍巴士86K線",228,27,"lonely \"ISBN\"","ISBN"],["九龍巴士86線",216,27,"lonely \"ISBN\"","ISBN"],["九龍巴士872線",120,35,"lonely \"ISBN\"","ISBN"],["九龍巴士87K線",332,28,"lonely \"ISBN\"","ISBN"],["九龍巴士87線",156,27,"lonely \"ISBN\"","ISBN"],["九龍巴士885線",82,27,"lonely \"ISBN\"","ISBN"],["九龍巴士886線",77,27,"lonely \"ISBN\"","ISBN"],["九龍巴士887線",74,27,"lonely \"ISBN\"","ISBN"],["九龍巴士888線",55,27,"lonely \"ISBN\"","ISBN"],["九龍巴士889線",102,35,"lonely \"ISBN\"","ISBN"],["九龍巴士88K線",197,27,"lonely \"ISBN\"","ISBN"],["九龍巴士88線",217,61,"lonely \"ISBN\"","ISBN"],["九龍巴士893線",88,27,"lonely \"ISBN\"","ISBN"],["九龍巴士89D線",591,27,"lonely \"ISBN\"","ISBN"],["九龍巴士N237線",158,27,"lonely \"ISBN\"","ISBN"],["九龍巴士N260線",353,35,"lonely \"ISBN\"","ISBN"],["九龍巴士N269線",235,27,"lonely \"ISBN\"","ISBN"],["九龍巴士N271線",259,27,"lonely \"ISBN\"","ISBN"],["九龍巴士N281線",253,27,"lonely \"ISBN\"","ISBN"],["九龍巴士N43線",99,35,"lonely \"ISBN\"","ISBN"],["九龍巴士N48線",102,35,"lonely \"ISBN\"","ISBN"],["九龍巴士N60線",83,35,"lonely \"ISBN\"","ISBN"],["九龍巴士N68線",120,27,"lonely \"ISBN\"","ISBN"],["九龍巴士N85線",103,27,"lonely \"ISBN\"","ISBN"],["九龍巴士N86線",99,27,"lonely \"ISBN\"","ISBN"],["九龍船塢紀念學校",38,277,"lonely \"ISBN\"","ISBN"],["乾元 (日本)",47,29,"lonely \"ISBN\"","ISBN"],["二七式擲彈筒",30,23,"lonely \"ISBN\"","ISBN"],["二七部隊",191,52,"lonely \"ISBN\"","ISBN"],["二乙基二硫代氨基甲酸钠",69,398,"lonely \"PMID\"","PMID"],["二次篩選法",248,258,"lonely \"https:/\"","Https:/"],["于品海",34,88,"lonely \"http://\"","http://"],["于大鯤",7,42,"lonely \"ISBN\"","ISBN"]],"batches":24}
+window.data={"articles":[[
+	"中华人民共和国旅游业",
+	97,
+	192,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中华人民共和国法律服务业",
+	4,
+	240,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"中华全国总工会文工团",
+	3,
+	213,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中华民国国民签证要求",
+	528,
+	66,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"中华民族",
+	260,
+	51,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中华苏维埃共和国国家银行",
+	26,
+	252,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中口村",
+	37,
+	42,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中和華新街商圈",
+	69,
+	57,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"中国人民志愿军",
+	711,
+	36,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中国人民解放军上海市军事管制委员会",
+	55,
+	173,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中国人民解放军第六十九军",
+	1,
+	88,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中国人民解放军第六十二军",
+	2,
+	91,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中国公民签证要求",
+	295,
+	469,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"中国农业科学院甘薯研究所",
+	1,
+	143,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中国农工银行天津分行大楼",
+	7,
+	30,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中国历代宪法",
+	404,
+	152,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中国台湾",
+	28,
+	485,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"中国工农红军第二十军",
+	12,
+	55,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"中国年号列表",
+	4299,
+	155,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中国朝贡国列表",
+	30,
+	88,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中国植物志",
+	434,
+	52,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中国诗史",
+	5,
+	33,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中国运载火箭发射列表 (2020年代)",
+	1192,
+	80,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"中国驻吉布提大使列表",
+	200,
+	35,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"中國土地兼併史",
+	39,
+	115,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中國妖怪列表",
+	416,
+	36,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中國學生運動史",
+	39,
+	2183,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中國後宮制度",
+	49,
+	114,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中國文化史",
+	258,
+	47,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中國考古學史",
+	16,
+	22,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中國航空發動機集團",
+	102,
+	55,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"中央军人监狱",
+	19,
+	216,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中央合作事业管理局",
+	1,
+	110,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中央财经委员会",
+	277,
+	37,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中央财经委员会办公室",
+	80,
+	39,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中央银行天津分行大楼",
+	34,
+	30,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中島美嘉",
+	893,
+	10,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"中庄村 (彰化縣)",
+	29,
+	162,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中式算盤",
+	30,
+	109,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中文维基百科",
+	78,
+	122,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中村由利佳",
+	256,
+	389,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"中華人民共和國國籍法",
+	142,
+	144,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"中華人民共和國治藏歷史",
+	58,
+	158,
+	"lonely \"ISBN\"",
+	"isbn"
+],[
+	"中華民國—寮國關係",
+	36,
+	188,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中華民國國樂",
+	17,
+	387,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"中華民國憲法",
+	275,
+	123,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中華民國空軍F-104",
+	162,
+	228,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"中華民國鐵道文化協會",
+	62,
+	14,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中華民國陸軍步兵第二五七旅",
+	45,
+	83,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"中華民國陸軍神龍小組",
+	65,
+	204,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"中间系统到中间系统",
+	4,
+	360,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"临朝称制",
+	102,
+	25,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"临浮战役",
+	14,
+	568,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"义和团运动",
+	411,
+	1011,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"丹·奎尔",
+	68,
+	243,
+	"lonely \"RFC\"",
+	"RFC"
+],[
+	"丹巴·恰格达尔扎布",
+	15,
+	163,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"主丛",
+	46,
+	97,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"主题备用名称",
+	5,
+	46,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"久壽",
+	41,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"久安",
+	44,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"久松真一",
+	24,
+	407,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"久能千明",
+	96,
+	4,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"乌尔金",
+	23,
+	43,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"乌班图",
+	104,
+	9,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"乌语",
+	58,
+	46,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"乌龙院大长篇",
+	141,
+	7,
+	"lonely \"ISBN\"",
+	"isbn"
+],[
+	"乌龙院角色列表",
+	26,
+	16,
+	"lonely \"ISBN\"",
+	"isbn"
+],[
+	"尹亮景",
+	31,
+	99,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"尹太珍",
+	64,
+	136,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"乔治·华盛顿",
+	359,
+	103,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九七式重轟炸機",
+	98,
+	37,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九二共識",
+	186,
+	85,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"九二香港會談",
+	68,
+	772,
+	"lonely \"https://\"",
+	"https://"
+],[
+	"九井諒子",
+	34,
+	104,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九份",
+	131,
+	41,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九四式輕裝甲車",
+	70,
+	64,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九型人格",
+	126,
+	54,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九族 (族制)",
+	15,
+	28,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九棋铁路",
+	64,
+	59,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九江铁路",
+	81,
+	59,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九鐵巴士659線",
+	66,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士13D線",
+	335,
+	38,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士14H線",
+	8,
+	76,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士14線",
+	242,
+	15,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士16M線",
+	10,
+	71,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士215X線",
+	603,
+	30,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士234A、234B線",
+	375,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士237A線",
+	88,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士242X線",
+	100,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士243M線",
+	271,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士249X線",
+	86,
+	61,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士252B線",
+	87,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士258D線",
+	758,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士259B線",
+	172,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士259D線",
+	508,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士259E線",
+	100,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士259R線",
+	173,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士260B線",
+	86,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士260C線",
+	107,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士260R線",
+	181,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士260X線",
+	294,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士261B線",
+	202,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士263R線",
+	49,
+	36,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士265B線",
+	242,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士265M線",
+	342,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士265S線",
+	56,
+	62,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士267X線",
+	79,
+	64,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士268B線",
+	222,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士269B線",
+	271,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士269D線",
+	352,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士269M線",
+	360,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士269R線",
+	49,
+	103,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士270線",
+	182,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士272K線",
+	274,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士272P線",
+	130,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士273A線",
+	255,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士273B線",
+	117,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士273D線",
+	181,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士273線",
+	220,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士276A線",
+	274,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士276B線",
+	233,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士276線",
+	491,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士277X線",
+	545,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士278K線",
+	163,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士279X線",
+	485,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士281A線",
+	349,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士2E線",
+	8,
+	55,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士30X線",
+	215,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士31B線",
+	192,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士31線",
+	31,
+	251,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士32P線",
+	68,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士32S線",
+	68,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士33A線",
+	89,
+	160,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士35A線",
+	354,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士37線",
+	283,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士41A線",
+	190,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士41R線",
+	43,
+	92,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士43B線",
+	177,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士47X線",
+	400,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士49X線",
+	404,
+	36,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士51線",
+	293,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士57M線",
+	214,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士58M線",
+	462,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士59A線",
+	183,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士59X線",
+	381,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士5D線",
+	251,
+	317,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士5號線",
+	7,
+	85,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士60X線",
+	276,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士61X線",
+	250,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士64K線",
+	812,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士66M線",
+	130,
+	79,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士68M線",
+	237,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士68X線",
+	564,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士69M線",
+	334,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士70S線",
+	112,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士73A線",
+	287,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士74S線",
+	117,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士80X線",
+	228,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士81C線",
+	468,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士81K線",
+	224,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士82X線",
+	205,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士83K線",
+	368,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士83X線",
+	245,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士84M線",
+	158,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士868線",
+	71,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士86A線",
+	258,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士86C線",
+	176,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士86K線",
+	228,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士86線",
+	216,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士872線",
+	120,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士87K線",
+	332,
+	28,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士87線",
+	156,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士885線",
+	82,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士886線",
+	77,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士887線",
+	74,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士888線",
+	55,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士889線",
+	102,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士88K線",
+	197,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士88線",
+	217,
+	61,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士893線",
+	88,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士89D線",
+	591,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士N237線",
+	158,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士N260線",
+	353,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士N269線",
+	235,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士N271線",
+	259,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士N281線",
+	253,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士N43線",
+	99,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士N48線",
+	102,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士N60線",
+	83,
+	35,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士N68線",
+	120,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士N85線",
+	103,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍巴士N86線",
+	99,
+	27,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"九龍船塢紀念學校",
+	38,
+	277,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"乾元 (日本)",
+	47,
+	29,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"二七式擲彈筒",
+	30,
+	23,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"二七部隊",
+	191,
+	52,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"二乙基二硫代氨基甲酸钠",
+	69,
+	398,
+	"lonely \"PMID\"",
+	"PMID"
+],[
+	"二次篩選法",
+	248,
+	258,
+	"lonely \"https:/\"",
+	"Https:/"
+],[
+	"于品海",
+	34,
+	88,
+	"lonely \"http://\"",
+	"http://"
+],[
+	"于大鯤",
+	7,
+	42,
+	"lonely \"ISBN\"",
+	"ISBN"
+],],"batches":24}
