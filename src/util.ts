@@ -1,5 +1,10 @@
 import fs from 'fs';
 import path from 'path';
+import {performance as perf} from 'perf_hooks';
+import chalk from 'chalk';
+import bz2 from 'unbzip2-stream';
+import XmlStream from 'xml-stream';
+import Parser from 'wikilint';
 import type {LintError as LintErrorBase} from 'wikilint';
 
 declare interface Fix extends LintErrorBase.Fix {
@@ -11,44 +16,102 @@ export interface LintError extends Omit<LintErrorBase, 'severity'> {
 	sugggestions?: Fix[];
 }
 
-export const MAX = 100;
-
-const files = new Map<string, string | undefined>(),
+export const MAX = 100,
 	resultDir = path.join(__dirname, 'results');
 
-const getFile = (site: string): string | undefined => {
-	if (files.has(site)) {
-		return files.get(site)!;
+const ignore = new Set(['no-arg', 'url-encoding', 'h1', 'var-anchor']);
+
+export const init = (): void => {
+	if (!fs.existsSync(resultDir)) {
+		fs.mkdirSync(resultDir);
 	}
-	const filePath = path.join(resultDir, `${site}.json`);
-	if (!fs.existsSync(filePath)) {
-		files.set(site, undefined);
-		return undefined;
-	}
-	const file = fs.readFileSync(filePath, 'utf8');
-	files.set(site, file);
-	return file;
 };
 
-export const getTimestamp = (site: string): string | undefined => {
-	const file = getFile(site);
-	if (!file) {
-		return undefined;
-	}
-	const i = file.indexOf('"#timestamp": "') + 15;
-	return file.slice(i, file.indexOf('"', i));
+export const getXmlStream = (file: string): XmlStream => {
+	const stream = new XmlStream(fs.createReadStream(file).pipe(bz2()));
+	stream.preserve('text', true);
+	return stream;
 };
 
-export const getErrors = (site: string, page: string): LintError[] | undefined => {
-	const file = getFile(site);
-	if (!file) {
-		return undefined;
+export class Processor {
+	#failed = 0;
+	#worst: {title: string, duration: number} | undefined;
+	#results: fs.WriteStream;
+	comma = '';
+
+	/** @param site site nickname */
+	constructor(site: string, results: fs.WriteStream) {
+		Parser.config = `${site}wiki`;
+		this.#results = results;
 	}
-	const str = JSON.stringify(page),
-		i = file.indexOf(`${str}: [`);
-	if (i === -1) {
-		return undefined;
+
+	/**
+	 * Stop the processing and log the results.
+	 * @param timer timer name
+	 * @param msg message to log
+	 */
+	stop(timer: string, msg: string): void {
+		console.log();
+		console.timeEnd(timer);
+		console.log(chalk.green(msg));
+		if (this.#failed) {
+			console.error(chalk.red(`${this.#failed} pages failed to parse`));
+		}
+		if (this.#worst) {
+			console.info(
+				chalk.yellow(
+					`Worst page: ${this.#worst.title} (${this.#worst.duration.toFixed(3)} ms)`,
+				),
+			);
+		}
 	}
-	const j = i + str.length + 2;
-	return JSON.parse(file.slice(j, file.indexOf('\n]', j) + 2));
-};
+
+	/**
+	 * Write a new entry to the results file.
+	 * @param title page title
+	 * @param errors lint errors
+	 */
+	newEntry(title: string, errors: LintError[]): void {
+		this.#results.write(
+			`${this.comma}\n${JSON.stringify(title)}: ${JSON.stringify(errors, null, '\t')}`,
+		);
+		this.comma ||= ',';
+	}
+
+	/**
+	 * Parse a page and lint it.
+	 * @param $text page text
+	 * @param ns page namespace
+	 * @param title page title
+	 */
+	lint($text: string, ns: string, title: string): void {
+		try {
+			const start = perf.now(),
+				errors = Parser.parse($text, ns === '828').lint()
+					.filter(({severity, rule}) => severity === 'error' && !ignore.has(rule)),
+				duration = perf.now() - start;
+			if (errors.length > 0) {
+				this.newEntry(
+					title,
+					errors.map(({severity, suggestions, fix, ...e}) => ({
+						...e,
+						...suggestions && {
+							suggestions: suggestions.map(action => ({
+								...action,
+								original: $text.slice(...action.range),
+							})),
+						},
+						...fix && {fix: {...fix, original: $text.slice(...fix.range)}},
+						excerpt: $text.slice(e.startIndex, e.endIndex).slice(0, MAX),
+					})),
+				);
+			}
+			if (!this.#worst || duration > this.#worst.duration) {
+				this.#worst = {title, duration};
+			}
+		} catch (e) {
+			console.error(chalk.red(`Error parsing ${title}`), e);
+			this.#failed++;
+		}
+	}
+}

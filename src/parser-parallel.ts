@@ -2,25 +2,15 @@ import cluster from 'cluster';
 import fs from 'fs';
 import path from 'path';
 import os from 'os';
-import {performance as perf} from 'perf_hooks';
 import chalk from 'chalk';
-import bz2 from 'unbzip2-stream';
-import XmlStream from 'xml-stream';
-import Parser from 'wikilint';
 import {refreshStdout} from '@bhsd/common';
-import {MAX} from './util';
-import type {LintError} from './util';
+import {Processor, init, resultDir, getXmlStream} from './util';
 
 const [,, site, dir] = process.argv,
-	target = `${site}wiki`,
-	resultDir = path.join(__dirname, 'results');
-
-Parser.config = target;
+	target = `${site}wiki`;
 
 if (cluster.isPrimary) {
-	if (!fs.existsSync(resultDir)) {
-		fs.mkdirSync(resultDir);
-	}
+	init();
 	const dumpDir = dir!.replace(/^~/u, os.homedir()),
 		files = fs.readdirSync(dumpDir)
 			.filter(file => file.startsWith(target.replaceAll('-', '_')))
@@ -56,77 +46,27 @@ if (cluster.isPrimary) {
 	}
 } else {
 	process.on('message', ([[file], j]: [[string, number], number]) => {
-		const stream = new XmlStream(fs.createReadStream(file).pipe(bz2())),
+		const stream = getXmlStream(file),
 			results = fs.createWriteStream(path.join(resultDir, `${site}-${j}.json`)),
-			ignore = new Set(['no-arg', 'url-encoding', 'h1', 'var-anchor']);
-		let i = 0,
-			failed = 0,
-			comma = '',
-			worst: {title: string, duration: number} | undefined;
+			processor = new Processor(site!, results);
+		let i = 0;
 
-		stream.preserve('text', true);
 		results.write('{');
 		results.on('close', () => {
 			process.send!(i);
 		});
 
 		const stop = (): void => {
-			console.log();
-			console.timeEnd(`parse ${file}`);
-			console.log(chalk.green(`Parsed ${i} pages from ${file}`));
-			if (failed) {
-				console.error(chalk.red(`${failed} pages failed to parse`));
-			}
-			if (worst) {
-				console.info(
-					chalk.yellow(
-						`Worst page: ${worst.title} (${worst.duration.toFixed(3)} ms)`,
-					),
-				);
-			}
+			processor.stop(`parse ${file}`, `Parsed ${i} pages from ${file}`);
 			results.write('\n}');
 			results.end();
-		};
-
-		const newEntry = (title: string, errors: LintError[]): void => {
-			results.write(
-				`${comma}\n${JSON.stringify(title)}: ${JSON.stringify(errors, null, '\t')}`,
-			);
-			comma ||= ',';
 		};
 
 		console.time(`parse ${file}`);
 		stream.on('endElement: page', ({title, ns, revision: {model, text: {$text}}}) => {
 			if (model === 'wikitext' && $text && ns !== '10') {
 				refreshStdout(`${i++} ${title}`);
-				try {
-					const start = perf.now(),
-						errors = Parser.parse($text, ns === '828').lint()
-							.filter(({severity, rule}) => severity === 'error' && !ignore.has(rule)),
-						duration = perf.now() - start;
-					if (errors.length > 0) {
-						newEntry(
-							title,
-							errors.map(({severity, suggestions, fix, ...e}) => ({
-								...e,
-								...suggestions && {
-									suggestions: suggestions.map(action => ({
-										...action,
-										original: $text.slice(...action.range),
-									})),
-								},
-								...fix && {fix: {...fix, original: $text.slice(...fix.range)}},
-								excerpt: $text.slice(e.startIndex, e.endIndex).slice(0, MAX),
-							})),
-						);
-					}
-					if (!worst || duration > worst.duration) {
-						worst = {title, duration};
-					}
-				} catch (e) {
-					console.error(chalk.red(`Error parsing ${title}`), e);
-					failed++;
-				}
+				processor.lint($text, ns, title);
 			}
 		});
 		stream.on('end', stop);
