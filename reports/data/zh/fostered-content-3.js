@@ -1198,4 +1198,4 @@ window.data={"articles":[[
 	1,
 	"content to be moved out from the table",
 	" * 动物护理学科<ref group=\"注\"  name=\"动物护理学科\">日语:{{lang|ja|動物看護学科}}</ref>"
-],],"batches":9}
+],],batches:9,timestamp:"2025-03-20"}

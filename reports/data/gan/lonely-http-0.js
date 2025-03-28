@@ -1,1 +1,13 @@
-window.data={"articles":[["南昌貢院",50,28,"lonely \"ISBN\"","ISBN"],["江西嗰民居",108,25,"lonely \"ISBN\"","ISBN"]],"batches":1}
+window.data={"articles":[[
+	"南昌貢院",
+	50,
+	28,
+	"lonely \"ISBN\"",
+	"ISBN"
+],[
+	"江西嗰民居",
+	108,
+	25,
+	"lonely \"ISBN\"",
+	"ISBN"
+],],batches:1,timestamp:"2025-03-20"}

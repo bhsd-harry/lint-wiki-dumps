@@ -1,1 +1,103 @@
-window.data={"articles":[["MediaWiki:Autoblockedtext",2,54,"containing invalid attribute"," #000; width:100%; margin:auto;\""],["Wikipedia:Help for Non-Gan Speakers/Header",6,1,"invalid parameter of <inputbox>"," bgcolor=transparent"],["Wikipedia:申請做管理員",4,1,"invalid parameter of <inputbox>"," type=create"],["孔斯科沃拉",11,3,"containing invalid attribute"," 人口"],["封面",93,1,"invalid parameter of <inputbox>"," type=search"],["庫魯夫市",11,3,"containing invalid attribute"," 人口"],["我是歌手 (第一季)",7,50,"containing invalid attribute","width:7%\""],["我是歌手 (第三季)",7,50,"containing invalid attribute","width:7%\""],["我是歌手 (第二季)",7,50,"containing invalid attribute","width:7%\""],["我是歌手 (第五季)",7,50,"containing invalid attribute","width:7%\""],["我是歌手 (第八季)",7,50,"containing invalid attribute","width:7%\""],["我是歌手 (第四季)",7,50,"containing invalid attribute","width:8%\""],["扁頭風",104,3,"containing invalid attribute","印度安達曼-尼科巴群島"],["植物",18,1,"invalid content in <gallery>"," [...]"],["濟酋余化盧",11,3,"containing invalid attribute"," 人口"],["贛州",21,3,"containing invalid attribute"," 中國行政區劃"],["韓國嗰國寶",52,10,"containing invalid attribute","石窟庵"]],"batches":1}
+window.data={"articles":[[
+	"MediaWiki:Autoblockedtext",
+	2,
+	54,
+	"containing invalid attribute",
+	" #000; width:100%; margin:auto;\""
+],[
+	"Wikipedia:Help for Non-Gan Speakers/Header",
+	6,
+	1,
+	"invalid parameter of <inputbox>",
+	" bgcolor=transparent"
+],[
+	"Wikipedia:申請做管理員",
+	4,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=create"
+],[
+	"孔斯科沃拉",
+	11,
+	3,
+	"containing invalid attribute",
+	" 人口"
+],[
+	"封面",
+	93,
+	1,
+	"invalid parameter of <inputbox>",
+	" type=search"
+],[
+	"庫魯夫市",
+	11,
+	3,
+	"containing invalid attribute",
+	" 人口"
+],[
+	"我是歌手 (第一季)",
+	7,
+	50,
+	"containing invalid attribute",
+	"width:7%\""
+],[
+	"我是歌手 (第三季)",
+	7,
+	50,
+	"containing invalid attribute",
+	"width:7%\""
+],[
+	"我是歌手 (第二季)",
+	7,
+	50,
+	"containing invalid attribute",
+	"width:7%\""
+],[
+	"我是歌手 (第五季)",
+	7,
+	50,
+	"containing invalid attribute",
+	"width:7%\""
+],[
+	"我是歌手 (第八季)",
+	7,
+	50,
+	"containing invalid attribute",
+	"width:7%\""
+],[
+	"我是歌手 (第四季)",
+	7,
+	50,
+	"containing invalid attribute",
+	"width:8%\""
+],[
+	"扁頭風",
+	104,
+	3,
+	"containing invalid attribute",
+	"印度安達曼-尼科巴群島"
+],[
+	"植物",
+	18,
+	1,
+	"invalid content in <gallery>",
+	" [...]"
+],[
+	"濟酋余化盧",
+	11,
+	3,
+	"containing invalid attribute",
+	" 人口"
+],[
+	"贛州",
+	21,
+	3,
+	"containing invalid attribute",
+	" 中國行政區劃"
+],[
+	"韓國嗰國寶",
+	52,
+	10,
+	"containing invalid attribute",
+	"石窟庵"
+],],batches:1,timestamp:"2025-03-20"}

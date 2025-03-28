@@ -27,13 +27,15 @@ const getXmlStream = (file) => {
 exports.getXmlStream = getXmlStream;
 class Processor {
     #failed = 0;
+    #comma = '';
     #worst;
     #results;
-    comma = '';
+    #latest;
     /** @param site site nickname */
-    constructor(site, results) {
+    constructor(site, results, latest) {
         wikilint_1.default.config = `${site}wiki`;
         this.#results = results;
+        this.#latest = latest;
     }
     /**
      * Stop the processing and log the results.
@@ -50,6 +52,8 @@ class Processor {
         if (this.#worst) {
             console.info(chalk_1.default.yellow(`Worst page: ${this.#worst.title} (${this.#worst.duration.toFixed(3)} ms)`));
         }
+        this.#results.write(`${this.#comma}\n"#timestamp": ${JSON.stringify(this.#latest)}\n}`);
+        this.#results.end();
     }
     /**
      * Write a new entry to the results file.
@@ -57,16 +61,20 @@ class Processor {
      * @param errors lint errors
      */
     newEntry(title, errors) {
-        this.#results.write(`${this.comma}\n${JSON.stringify(title)}: ${JSON.stringify(errors, null, '\t')}`);
-        this.comma ||= ',';
+        this.#results.write(`${this.#comma}\n${JSON.stringify(title)}: ${JSON.stringify(errors, null, '\t')}`);
+        this.#comma ||= ',';
     }
     /**
      * Parse a page and lint it.
      * @param $text page text
      * @param ns page namespace
      * @param title page title
+     * @param date page revision date
      */
-    lint($text, ns, title) {
+    lint($text, ns, title, date) {
+        if (!this.#latest || date > this.#latest) {
+            this.#latest = date;
+        }
         try {
             const start = perf_hooks_1.performance.now(), errors = wikilint_1.default.parse($text, ns === '828').lint()
                 .filter(({ severity, rule }) => severity === 'error' && !ignore.has(rule)), duration = perf_hooks_1.performance.now() - start;

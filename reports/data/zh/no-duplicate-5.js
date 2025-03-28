@@ -1198,4 +1198,4 @@ window.data={"articles":[[
 	366,
 	"duplicated category",
 	"[[Category:含有英語的條目]]"
-],],"batches":43}
+],],batches:43,timestamp:"2025-03-20"}

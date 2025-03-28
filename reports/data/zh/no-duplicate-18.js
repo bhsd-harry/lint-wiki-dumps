@@ -1198,4 +1198,4 @@ window.data={"articles":[[
 	2,
 	"duplicated category",
 	"[[Category:國民力量黨員]]"
-],],"batches":43}
+],],batches:43,timestamp:"2025-03-20"}

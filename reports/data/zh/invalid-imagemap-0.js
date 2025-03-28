@@ -4,4 +4,4 @@ window.data={"articles":[[
 	1,
 	"invalid link in <imagemap>",
 	" rect 393 230 481 409 {{tsl|en|Material implication|¬A or B}}"
-],],"batches":1}
+],],batches:1,timestamp:"2025-03-20"}

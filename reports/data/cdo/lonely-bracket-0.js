@@ -1,1 +1,67 @@
-window.data={"articles":[["Bēng-nàng siáng",114,3,"lonely \"{\"","{{"],["Bō̤-dâi Huòng-dá̤",2,80,"lonely \"}\"","}"],["Dṳ̆ng-guók Ìng-mìng Dâi-hŏk",20,23,"lonely \"}\"","}"],["Ĕu-iòng Siŭ",3,86,"lonely \"{\"","{"],["Hiŏng Êu",11,48,"lonely \"}\"","}"],["Wikipedia:Tiăng-dŏng/Archive 1",618,263,"lonely \"[\"","["],["Wikipedia:專題/有聲維基百科",89,88,"lonely \"{\"","{{"],["Wikipedia:頁面存廢討論",75,75,"lonely \"}\"","}}"],["幫助:Giĕ-huâng kóng-cié",3,45,"lonely \"{\"","{{"],["幫助:編寫",154,128,"lonely \"[\"","[["],["模組:Template wrapper/doc",15,368,"lonely \"}\"","}}"]],"batches":1}
+window.data={"articles":[[
+	"Bēng-nàng siáng",
+	114,
+	3,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Bō̤-dâi Huòng-dá̤",
+	2,
+	80,
+	"lonely \"}\"",
+	"}"
+],[
+	"Dṳ̆ng-guók Ìng-mìng Dâi-hŏk",
+	20,
+	23,
+	"lonely \"}\"",
+	"}"
+],[
+	"Ĕu-iòng Siŭ",
+	3,
+	86,
+	"lonely \"{\"",
+	"{"
+],[
+	"Hiŏng Êu",
+	11,
+	48,
+	"lonely \"}\"",
+	"}"
+],[
+	"Wikipedia:Tiăng-dŏng/Archive 1",
+	618,
+	263,
+	"lonely \"[\"",
+	"["
+],[
+	"Wikipedia:專題/有聲維基百科",
+	89,
+	88,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Wikipedia:頁面存廢討論",
+	75,
+	75,
+	"lonely \"}\"",
+	"}}"
+],[
+	"幫助:Giĕ-huâng kóng-cié",
+	3,
+	45,
+	"lonely \"{\"",
+	"{{"
+],[
+	"幫助:編寫",
+	154,
+	128,
+	"lonely \"[\"",
+	"[["
+],[
+	"模組:Template wrapper/doc",
+	15,
+	368,
+	"lonely \"}\"",
+	"}}"
+],],batches:1,timestamp:"2025-03-18"}

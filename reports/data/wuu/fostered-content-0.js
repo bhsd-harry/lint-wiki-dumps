@@ -1,1 +1,7 @@
-window.data={"articles":[["沙地言話",54,1,"content to be moved out from the table"," </table>\n\n *“二”有辰光读“两”，勒搭“百”搭配个辰光常用“两”，比如：222 “两百廿二”，即[liaŋ-pɑʔ-ɲie-ɲi]\n * 序数词只"]],"batches":1}
+window.data={"articles":[[
+	"沙地言話",
+	54,
+	1,
+	"content to be moved out from the table",
+	" </table>\n\n *“二”有辰光读“两”，勒搭“百”搭配个辰光常用“两”，比如：222 “两百廿二”，即[liaŋ-pɑʔ-ɲie-ɲi]\n * 序数词只"
+],],batches:1,timestamp:"2025-03-20"}

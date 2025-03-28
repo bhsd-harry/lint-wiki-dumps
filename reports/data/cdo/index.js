@@ -1,1 +1,1 @@
-window.data=[["illegal-attr",7],["invalid-css",6],["lonely-apos",3],["lonely-bracket",11],["lonely-http",2],["no-duplicate",37],["no-ignored",6],["tag-like",1],["unmatched-tag",17]]
+window.data=[["illegal-attr",7],["invalid-css",6],["lonely-apos",3],["lonely-bracket",11],["lonely-http",2],["no-duplicate",37],["no-ignored",6],["tag-like",1],["unmatched-tag",17],"2025-03-18"]

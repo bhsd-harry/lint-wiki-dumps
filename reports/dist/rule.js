@@ -1,7 +1,6 @@
 "use strict";
 (() => {
     const search = new URLSearchParams(location.search), lang = search.get('lang'), rule = search.get('rule'), batch = Math.floor(Number(search.get('start') || 0) / 200), endStr = String((batch + 1) * 200), nav = document.getElementById('nav'), prev = document.getElementById('prev'), next = document.getElementById('next'), start = document.getElementById('start'), end = document.getElementById('end'), title = document.querySelector('title'), h2 = document.querySelector('h2'), wiki = document.getElementById('wiki'), table = document.querySelector('table'), tbody = document.querySelector('tbody'), script = document.createElement('script');
-    h2.textContent = h2.textContent.replace('Wikipedia', `${lang}.wikipedia.org: ${rule}`);
     title.textContent = title.textContent.replace('Wikipedia', `${lang}.wikipedia.org`);
     wiki.textContent = `${lang}wiki`;
     wiki.href += `?lang=${lang}`;
@@ -18,6 +17,7 @@
     next.href = `${location.pathname}?${search}`;
     script.src = `./data/${lang}/${rule}-${batch}.js`;
     script.addEventListener('load', () => {
+        h2.textContent = `${h2.textContent.replace('Wikipedia', `${lang}.wikipedia.org: ${rule}`)} (${data.timestamp})`;
         if (data.batches === batch + 1) {
             next.removeAttribute('href');
             end.textContent = String(batch * 200 + data.articles.length);

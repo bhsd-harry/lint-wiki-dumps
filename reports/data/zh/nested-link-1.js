@@ -1198,4 +1198,4 @@ window.data={"articles":[[
 	194,
 	"internal link in an external link",
 	"[[M’int明潮]]"
-],],"batches":5}
+],],batches:5,timestamp:"2025-03-20"}

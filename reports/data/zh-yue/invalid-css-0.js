@@ -1,1 +1,1105 @@
-window.data={"articles":[["(G)I-DLE",71,55,"colon expected","="],["2010年太平洋颱風季",5,36,"semi-colon expected",""],["2012年太平洋颱風季",7,36,"semi-colon expected",""],["2013年太平洋颱風季",26,36,"semi-colon expected",""],["2014年太平洋颱風季",37,36,"semi-colon expected",""],["2015年太平洋颱風季",33,36,"semi-colon expected",""],["2016年太平洋颱風季",27,36,"semi-colon expected",""],["2017年太平洋颱風季",9,36,"semi-colon expected",""],["2018年太平洋颱風季",36,36,"semi-colon expected",""],["2019年太平洋颱風季",39,36,"semi-colon expected",""],["2022年中華民國直轄市長同縣市長選舉",68,50,"semi-colon expected","#"],["90分鐘狂熱倒數",54,61,"semi-colon expected",""],["AC米蘭",350,31,"colon expected",";"],["Andre Lindal",26,21,"semi-colon expected",":"],["As One",58,37,"semi-colon expected",":"],["BTOB",189,74,"semi-colon expected",""],["Ftisland",44,18,"property value expected","#"],["Google Chrome",329,47,"property value expected",";"],["Grothendieck-Teichmüller 羣",22,24,"colon expected",";"],["IOS",23,47,"colon expected",";"],["IPhone",134,21,"property value expected","#silver"],["Lolly Talk",263,41,"property value expected",""],["MediaWiki:Newarticletext",72,78,"semi-colon expected",""],["PANDORA (Kara迷你專輯)",196,36,"term expected",""],["Portal:香港/開頭",1,62,"colon expected",";"],["Šiprage",31,35,"} expected","''"],["SPIRAL",75,22,"property value expected",";"],["T-ara",126,18,"property value expected","#aaaaa"],["Wikipedia:公平使用",54,96,"semi-colon expected",""],["Wikipedia:城市論壇 (技術)/歸檔/2017年12月",448,157,"} expected",";"],["Wikipedia:城市論壇 (技術)/歸檔/2021年6月",714,76,"property value expected","#fffff"],["Wikipedia:城市論壇 (技術)/歸檔/2025年3月",2,58,"} expected","30px"],["Wikipedia:城市論壇 (政策)",32,92,"} expected","30px"],["Wikipedia:城市論壇 (政策)/歸檔/2025年3月",2,58,"} expected","30px"],["Wikipedia:城市論壇 (諗法實驗室)",21,65,"} expected","30px"],["Wikipedia:城市論壇 (雜項)",27,84,"} expected","30px"],["Wikipedia:城市論壇 (雜項)/歸檔/2025年3月",2,58,"} expected","30px"],["Wikipedia:楔位文章",74,34,"colon expected",";"],["Wikipedia:用戶權限",78,35,"property value expected",""],["Wikipedia:申請做管理員/Cedric tsan cantonais",76,65,"semi-colon expected","#"],["Wikipedia:管理員留言板",72,83,"} expected","30px"],["Windows 10嘅版本歷史一覽",98,32,"} expected","|"],["Windows嘅版本一覽",82,32,"} expected","|"],["一人之境",57,37,"property value expected","#"],["上水站 (香港)",42,24,"semi-colon expected","solid"],["世界語",244,40,"semi-colon expected",""],["中國大陸綜藝節目一覽",903,125,"property value expected","#gold"],["中國大陸維基人用戶組",124,190,"property value expected","#fffff"],["事件相關電位",72,116,"} expected","1em"],["五十音",3,59,"property value expected","="],["五華",2,173,"semi-colon expected","collapse"],["些路迪足球會",5,82,"property value expected","#white"],["伍禮騫",40,33,"property value expected","#none"],["修杰楷",38,22,"property value expected",";"],["倫敦地下鐵",34,71,"semi-colon expected",""],["分工",8,116,"} expected","1em"],["加拿大國家籃球聯賽",91,22,"property value expected",""],["北美足球聯賽",11,22,"property value expected",""],["區歌一覽",923,11,"} expected","245px"],["南沙客運港站",41,102,"colon expected",";"],["吳啟洋",36,56,"semi-colon expected",":"],["呂爵安",64,56,"semi-colon expected",":"],["和平區 (臺灣)",4,66,"semi-colon expected",""],["國民中學",303,103,"semi-colon expected",""],["國立故宮博物院",168,51,"term expected",""],["坑尾村站",30,16,"colon expected","1px"],["培士頓足球會",90,81,"colon expected","="],["基於購買力平價嘅本地生產總值經濟體排名一覽",41,189,"colon expected","="],["塘坊村站",36,16,"colon expected","1px"],["外遊警示制度",25,125,"} expected","\""],["夢想程式",57,23,"} expected",";"],["大埔墟站",47,71,"property value expected",""],["大甲區",4,66,"semi-colon expected",""],["天水圍站 (輕鐵)",40,16,"colon expected","1px"],["天瑞站",28,16,"colon expected","1px"],["天耀站",28,16,"colon expected","1px"],["太和站 (香港)",61,74,"property value expected",""],["姜濤",400,49,"semi-colon expected",":"],["安曼",202,33,"} expected","\""],["容祖兒李克勤演唱會",37,37,"semi-colon expected",""],["寵物小精靈一覽",10,47,"property value expected",""],["屏山站",34,16,"colon expected","1px"],["廣珠城際軌道交通",48,37,"semi-colon expected",""],["延遲折扣",5,116,"} expected","1em"],["弱相互作用",82,17,"colon expected",";"],["張子丰",35,21,"property value expected",";"],["張惠妹音樂作品一覽",1370,37,"property value expected","#black"],["張本智和",100,59,"semi-colon expected","small"],["徐㴓喬",30,53,"semi-colon expected",":"],["微觀經濟學",48,116,"} expected","1em"],["怡和行",18,32,"semi-colon expected",""],["愛爾蘭蓋爾文",70,57,"semi-colon expected",""],["我係乜乜乜",11,38,"} expected","15%"],["我是歌手 (第一季)",461,159,"semi-colon expected",""],["我是歌手 (第三季)",477,151,"semi-colon expected",""],["我是歌手 (第二季)",464,151,"semi-colon expected",""],["我是歌手 (第四季)",505,151,"semi-colon expected",""],["戴祖儀",343,121,"property value expected","#pink"],["擴展元素周期表",43,29,"semi-colon expected",""],["數學符號",12,7,"semi-colon expected","150%"],["文凱婷",173,35,"semi-colon expected",""],["新垣結衣",30,38,"semi-colon expected",""],["新特蘭足球會",55,81,"colon expected","="],["施匡翹",61,22,"property value expected","#F920AA7"],["日本參議院議員通常選舉",53,145,"semi-colon expected",""],["旺角站",58,68,"semi-colon expected",""],["晶圓代工模式",621,41,"colon expected","="],["曾志豪",65,51,"} expected",";"],["朴敘俊",8,38,"property value expected","#black"],["李偉健",221,21,"property value expected","#none"],["李斯特城足球會",183,81,"colon expected","="],["林君蓮",89,51,"term expected",""],["林家謙",615,32,"term expected",""],["林沚羿",191,50,"property value expected","#black"],["柯佳嬿",92,17,"property value expected","%"],["梁彥宗",93,86,"property value expected","#none"],["梁諾妍",47,53,"semi-colon expected",":"],["樂湖站",28,16,"colon expected","1px"],["機會成本",13,116,"} expected","1em"],["歌手·當打之年",1190,149,"semi-colon expected",""],["歌手2017",578,151,"semi-colon expected",""],["歌手2019",801,151,"semi-colon expected",""],["歌手2024",1192,206,"semi-colon expected",""],["歐羅銀仔",17,11,"} expected","5%"],["歐羅銀紙",14,11,"} expected","5%"],["歐鎮灝",57,56,"semi-colon expected",":"],["法證先鋒",49,16,"property value expected","%"],["泥圍站",32,16,"colon expected","1px"],["注意力",144,116,"} expected","1em"],["洛達咸足球會",101,81,"colon expected","="],["洪水橋站",33,16,"colon expected","1px"],["澳門傳道地區",26,60,"semi-colon expected",""],["獻給你的進行曲",5,77,"semi-colon expected",""],["相對優勢",10,116,"} expected","1em"],["真愛樂章",41,10,"} expected","10"],["神經細胞",122,116,"} expected","1em"],["秋收起義 (電視劇)",58,55,"term expected",""],["第12屆贊比亞總統選舉",115,28,"property value expected",""],["第27屆不萊梅州議會選舉",145,20,"semi-colon expected",""],["第2屆日本參議院議員通常選舉",499,46,"semi-colon expected",":"],["第38屆日本眾議院議員總選舉",351,201,"property value expected","#"],["第39屆日本眾議院議員總選舉",331,201,"property value expected","#"],["米禾爾足球會",102,81,"colon expected","="],["經濟學",129,116,"} expected","1em"],["羅密歐與朱麗葉 (芭蕾舞劇)",9,50,"colon expected","="],["耶穌嘅比喻",4,68,"semi-colon expected",""],["耶穌嘅神蹟",5,59,"semi-colon expected",""],["聖母頌",2,136,"semi-colon expected",""],["臺灣清治時期",23,41,"colon expected","="],["葉振弘",52,56,"semi-colon expected",":"],["藍地站",32,16,"colon expected","1px"],["藏區",5,103,"semi-colon expected",""],["蘇笠汶",28,102,"property value expected","%"],["角色",45,116,"} expected","1em"],["詹天文",300,23,"property value expected","#5BAD92；"],["諾域治城足球會",55,81,"colon expected","="],["謝霆鋒攞獎同提名一覽",175,37,"property value expected","#black"],["賓福特足球會",127,81,"colon expected","="],["賴羅比",47,28,"semi-colon expected",""],["超人佳亞",37,20,"semi-colon expected",""],["超人帝拿",31,20,"semi-colon expected",""],["趙小婷",224,38,"property value expected","#black"],["這群人TGOP",89,36,"semi-colon expected",""],["通貨緊縮",85,40,"semi-colon expected",""],["遊戲開發者選擇獎年度遊戲",23,43,"colon expected",";"],["遙測",5,116,"} expected","1em"],["邱士縉",36,56,"semi-colon expected",":"],["錫周三",100,81,"colon expected","="],["鍾屋村站",36,16,"colon expected","1px"],["鍾晴",44,21,"property value expected","#none"],["阪和線",57,38,"property value expected","#cfc期"],["阮嘉敏",140,33,"property value expected","#none"],["陳靖允",150,93,"property value expected","#f9"],["雷丁足球會",112,81,"colon expected","="],["音節文字",31,59,"property value expected","="],["香港大主教",62,60,"semi-colon expected",""],["香港足球代表隊",367,18,"property value expected","%"],["高雲地利城足球會",129,81,"colon expected","="],["魚尾獅盃",14,58,"property value expected",";"],["鵝掌坦站",3,34,"semi-colon expected",""],["黃健怡 (香港)",53,51,"term expected",""],["黃心穎",60,75,"semi-colon expected",""],["黃淑蔓",97,37,"property value expected","#"],["點擊次數最多嘅YouTube中文音樂短片一覽",11,120,"colon expected","="]],"batches":1}
+window.data={"articles":[[
+	"(G)I-DLE",
+	71,
+	55,
+	"colon expected",
+	"="
+],[
+	"2010年太平洋颱風季",
+	5,
+	36,
+	"semi-colon expected",
+	""
+],[
+	"2012年太平洋颱風季",
+	7,
+	36,
+	"semi-colon expected",
+	""
+],[
+	"2013年太平洋颱風季",
+	26,
+	36,
+	"semi-colon expected",
+	""
+],[
+	"2014年太平洋颱風季",
+	37,
+	36,
+	"semi-colon expected",
+	""
+],[
+	"2015年太平洋颱風季",
+	33,
+	36,
+	"semi-colon expected",
+	""
+],[
+	"2016年太平洋颱風季",
+	27,
+	36,
+	"semi-colon expected",
+	""
+],[
+	"2017年太平洋颱風季",
+	9,
+	36,
+	"semi-colon expected",
+	""
+],[
+	"2018年太平洋颱風季",
+	36,
+	36,
+	"semi-colon expected",
+	""
+],[
+	"2019年太平洋颱風季",
+	39,
+	36,
+	"semi-colon expected",
+	""
+],[
+	"2022年中華民國直轄市長同縣市長選舉",
+	68,
+	50,
+	"semi-colon expected",
+	"#"
+],[
+	"90分鐘狂熱倒數",
+	54,
+	61,
+	"semi-colon expected",
+	""
+],[
+	"AC米蘭",
+	350,
+	31,
+	"colon expected",
+	";"
+],[
+	"Andre Lindal",
+	26,
+	21,
+	"semi-colon expected",
+	":"
+],[
+	"As One",
+	58,
+	37,
+	"semi-colon expected",
+	":"
+],[
+	"BTOB",
+	189,
+	74,
+	"semi-colon expected",
+	""
+],[
+	"Ftisland",
+	44,
+	18,
+	"property value expected",
+	"#"
+],[
+	"Google Chrome",
+	329,
+	47,
+	"property value expected",
+	";"
+],[
+	"Grothendieck-Teichmüller 羣",
+	22,
+	24,
+	"colon expected",
+	";"
+],[
+	"IOS",
+	23,
+	47,
+	"colon expected",
+	";"
+],[
+	"IPhone",
+	134,
+	21,
+	"property value expected",
+	"#silver"
+],[
+	"Lolly Talk",
+	263,
+	41,
+	"property value expected",
+	""
+],[
+	"MediaWiki:Newarticletext",
+	72,
+	78,
+	"semi-colon expected",
+	""
+],[
+	"PANDORA (Kara迷你專輯)",
+	196,
+	36,
+	"term expected",
+	""
+],[
+	"Portal:香港/開頭",
+	1,
+	62,
+	"colon expected",
+	";"
+],[
+	"Šiprage",
+	31,
+	35,
+	"} expected",
+	"''"
+],[
+	"SPIRAL",
+	75,
+	22,
+	"property value expected",
+	";"
+],[
+	"T-ara",
+	126,
+	18,
+	"property value expected",
+	"#aaaaa"
+],[
+	"Wikipedia:公平使用",
+	54,
+	96,
+	"semi-colon expected",
+	""
+],[
+	"Wikipedia:城市論壇 (技術)/歸檔/2017年12月",
+	448,
+	157,
+	"} expected",
+	";"
+],[
+	"Wikipedia:城市論壇 (技術)/歸檔/2021年6月",
+	714,
+	76,
+	"property value expected",
+	"#fffff"
+],[
+	"Wikipedia:城市論壇 (技術)/歸檔/2025年3月",
+	2,
+	58,
+	"} expected",
+	"30px"
+],[
+	"Wikipedia:城市論壇 (政策)",
+	32,
+	92,
+	"} expected",
+	"30px"
+],[
+	"Wikipedia:城市論壇 (政策)/歸檔/2025年3月",
+	2,
+	58,
+	"} expected",
+	"30px"
+],[
+	"Wikipedia:城市論壇 (諗法實驗室)",
+	21,
+	65,
+	"} expected",
+	"30px"
+],[
+	"Wikipedia:城市論壇 (雜項)",
+	27,
+	84,
+	"} expected",
+	"30px"
+],[
+	"Wikipedia:城市論壇 (雜項)/歸檔/2025年3月",
+	2,
+	58,
+	"} expected",
+	"30px"
+],[
+	"Wikipedia:楔位文章",
+	74,
+	34,
+	"colon expected",
+	";"
+],[
+	"Wikipedia:用戶權限",
+	78,
+	35,
+	"property value expected",
+	""
+],[
+	"Wikipedia:申請做管理員/Cedric tsan cantonais",
+	76,
+	65,
+	"semi-colon expected",
+	"#"
+],[
+	"Wikipedia:管理員留言板",
+	72,
+	83,
+	"} expected",
+	"30px"
+],[
+	"Windows 10嘅版本歷史一覽",
+	98,
+	32,
+	"} expected",
+	"|"
+],[
+	"Windows嘅版本一覽",
+	82,
+	32,
+	"} expected",
+	"|"
+],[
+	"一人之境",
+	57,
+	37,
+	"property value expected",
+	"#"
+],[
+	"上水站 (香港)",
+	42,
+	24,
+	"semi-colon expected",
+	"solid"
+],[
+	"世界語",
+	244,
+	40,
+	"semi-colon expected",
+	""
+],[
+	"中國大陸綜藝節目一覽",
+	903,
+	125,
+	"property value expected",
+	"#gold"
+],[
+	"中國大陸維基人用戶組",
+	124,
+	190,
+	"property value expected",
+	"#fffff"
+],[
+	"事件相關電位",
+	72,
+	116,
+	"} expected",
+	"1em"
+],[
+	"五十音",
+	3,
+	59,
+	"property value expected",
+	"="
+],[
+	"五華",
+	2,
+	173,
+	"semi-colon expected",
+	"collapse"
+],[
+	"些路迪足球會",
+	5,
+	82,
+	"property value expected",
+	"#white"
+],[
+	"伍禮騫",
+	40,
+	33,
+	"property value expected",
+	"#none"
+],[
+	"修杰楷",
+	38,
+	22,
+	"property value expected",
+	";"
+],[
+	"倫敦地下鐵",
+	34,
+	71,
+	"semi-colon expected",
+	""
+],[
+	"分工",
+	8,
+	116,
+	"} expected",
+	"1em"
+],[
+	"加拿大國家籃球聯賽",
+	91,
+	22,
+	"property value expected",
+	""
+],[
+	"北美足球聯賽",
+	11,
+	22,
+	"property value expected",
+	""
+],[
+	"區歌一覽",
+	923,
+	11,
+	"} expected",
+	"245px"
+],[
+	"南沙客運港站",
+	41,
+	102,
+	"colon expected",
+	";"
+],[
+	"吳啟洋",
+	36,
+	56,
+	"semi-colon expected",
+	":"
+],[
+	"呂爵安",
+	64,
+	56,
+	"semi-colon expected",
+	":"
+],[
+	"和平區 (臺灣)",
+	4,
+	66,
+	"semi-colon expected",
+	""
+],[
+	"國民中學",
+	303,
+	103,
+	"semi-colon expected",
+	""
+],[
+	"國立故宮博物院",
+	168,
+	51,
+	"term expected",
+	""
+],[
+	"坑尾村站",
+	30,
+	16,
+	"colon expected",
+	"1px"
+],[
+	"培士頓足球會",
+	90,
+	81,
+	"colon expected",
+	"="
+],[
+	"基於購買力平價嘅本地生產總值經濟體排名一覽",
+	41,
+	189,
+	"colon expected",
+	"="
+],[
+	"塘坊村站",
+	36,
+	16,
+	"colon expected",
+	"1px"
+],[
+	"外遊警示制度",
+	25,
+	125,
+	"} expected",
+	"\""
+],[
+	"夢想程式",
+	57,
+	23,
+	"} expected",
+	";"
+],[
+	"大埔墟站",
+	47,
+	71,
+	"property value expected",
+	""
+],[
+	"大甲區",
+	4,
+	66,
+	"semi-colon expected",
+	""
+],[
+	"天水圍站 (輕鐵)",
+	40,
+	16,
+	"colon expected",
+	"1px"
+],[
+	"天瑞站",
+	28,
+	16,
+	"colon expected",
+	"1px"
+],[
+	"天耀站",
+	28,
+	16,
+	"colon expected",
+	"1px"
+],[
+	"太和站 (香港)",
+	61,
+	74,
+	"property value expected",
+	""
+],[
+	"姜濤",
+	400,
+	49,
+	"semi-colon expected",
+	":"
+],[
+	"安曼",
+	202,
+	33,
+	"} expected",
+	"\""
+],[
+	"容祖兒李克勤演唱會",
+	37,
+	37,
+	"semi-colon expected",
+	""
+],[
+	"寵物小精靈一覽",
+	10,
+	47,
+	"property value expected",
+	""
+],[
+	"屏山站",
+	34,
+	16,
+	"colon expected",
+	"1px"
+],[
+	"廣珠城際軌道交通",
+	48,
+	37,
+	"semi-colon expected",
+	""
+],[
+	"延遲折扣",
+	5,
+	116,
+	"} expected",
+	"1em"
+],[
+	"弱相互作用",
+	82,
+	17,
+	"colon expected",
+	";"
+],[
+	"張子丰",
+	35,
+	21,
+	"property value expected",
+	";"
+],[
+	"張惠妹音樂作品一覽",
+	1370,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"張本智和",
+	100,
+	59,
+	"semi-colon expected",
+	"small"
+],[
+	"徐㴓喬",
+	30,
+	53,
+	"semi-colon expected",
+	":"
+],[
+	"微觀經濟學",
+	48,
+	116,
+	"} expected",
+	"1em"
+],[
+	"怡和行",
+	18,
+	32,
+	"semi-colon expected",
+	""
+],[
+	"愛爾蘭蓋爾文",
+	70,
+	57,
+	"semi-colon expected",
+	""
+],[
+	"我係乜乜乜",
+	11,
+	38,
+	"} expected",
+	"15%"
+],[
+	"我是歌手 (第一季)",
+	461,
+	159,
+	"semi-colon expected",
+	""
+],[
+	"我是歌手 (第三季)",
+	477,
+	151,
+	"semi-colon expected",
+	""
+],[
+	"我是歌手 (第二季)",
+	464,
+	151,
+	"semi-colon expected",
+	""
+],[
+	"我是歌手 (第四季)",
+	505,
+	151,
+	"semi-colon expected",
+	""
+],[
+	"戴祖儀",
+	343,
+	121,
+	"property value expected",
+	"#pink"
+],[
+	"擴展元素周期表",
+	43,
+	29,
+	"semi-colon expected",
+	""
+],[
+	"數學符號",
+	12,
+	7,
+	"semi-colon expected",
+	"150%"
+],[
+	"文凱婷",
+	173,
+	35,
+	"semi-colon expected",
+	""
+],[
+	"新垣結衣",
+	30,
+	38,
+	"semi-colon expected",
+	""
+],[
+	"新特蘭足球會",
+	55,
+	81,
+	"colon expected",
+	"="
+],[
+	"施匡翹",
+	61,
+	22,
+	"property value expected",
+	"#F920AA7"
+],[
+	"日本參議院議員通常選舉",
+	53,
+	145,
+	"semi-colon expected",
+	""
+],[
+	"旺角站",
+	58,
+	68,
+	"semi-colon expected",
+	""
+],[
+	"晶圓代工模式",
+	621,
+	41,
+	"colon expected",
+	"="
+],[
+	"曾志豪",
+	65,
+	51,
+	"} expected",
+	";"
+],[
+	"朴敘俊",
+	8,
+	38,
+	"property value expected",
+	"#black"
+],[
+	"李偉健",
+	221,
+	21,
+	"property value expected",
+	"#none"
+],[
+	"李斯特城足球會",
+	183,
+	81,
+	"colon expected",
+	"="
+],[
+	"林君蓮",
+	89,
+	51,
+	"term expected",
+	""
+],[
+	"林家謙",
+	615,
+	32,
+	"term expected",
+	""
+],[
+	"林沚羿",
+	191,
+	50,
+	"property value expected",
+	"#black"
+],[
+	"柯佳嬿",
+	92,
+	17,
+	"property value expected",
+	"%"
+],[
+	"梁彥宗",
+	93,
+	86,
+	"property value expected",
+	"#none"
+],[
+	"梁諾妍",
+	47,
+	53,
+	"semi-colon expected",
+	":"
+],[
+	"樂湖站",
+	28,
+	16,
+	"colon expected",
+	"1px"
+],[
+	"機會成本",
+	13,
+	116,
+	"} expected",
+	"1em"
+],[
+	"歌手·當打之年",
+	1190,
+	149,
+	"semi-colon expected",
+	""
+],[
+	"歌手2017",
+	578,
+	151,
+	"semi-colon expected",
+	""
+],[
+	"歌手2019",
+	801,
+	151,
+	"semi-colon expected",
+	""
+],[
+	"歌手2024",
+	1192,
+	206,
+	"semi-colon expected",
+	""
+],[
+	"歐羅銀仔",
+	17,
+	11,
+	"} expected",
+	"5%"
+],[
+	"歐羅銀紙",
+	14,
+	11,
+	"} expected",
+	"5%"
+],[
+	"歐鎮灝",
+	57,
+	56,
+	"semi-colon expected",
+	":"
+],[
+	"法證先鋒",
+	49,
+	16,
+	"property value expected",
+	"%"
+],[
+	"泥圍站",
+	32,
+	16,
+	"colon expected",
+	"1px"
+],[
+	"注意力",
+	144,
+	116,
+	"} expected",
+	"1em"
+],[
+	"洛達咸足球會",
+	101,
+	81,
+	"colon expected",
+	"="
+],[
+	"洪水橋站",
+	33,
+	16,
+	"colon expected",
+	"1px"
+],[
+	"澳門傳道地區",
+	26,
+	60,
+	"semi-colon expected",
+	""
+],[
+	"獻給你的進行曲",
+	5,
+	77,
+	"semi-colon expected",
+	""
+],[
+	"相對優勢",
+	10,
+	116,
+	"} expected",
+	"1em"
+],[
+	"真愛樂章",
+	41,
+	10,
+	"} expected",
+	"10"
+],[
+	"神經細胞",
+	122,
+	116,
+	"} expected",
+	"1em"
+],[
+	"秋收起義 (電視劇)",
+	58,
+	55,
+	"term expected",
+	""
+],[
+	"第12屆贊比亞總統選舉",
+	115,
+	28,
+	"property value expected",
+	""
+],[
+	"第27屆不萊梅州議會選舉",
+	145,
+	20,
+	"semi-colon expected",
+	""
+],[
+	"第2屆日本參議院議員通常選舉",
+	499,
+	46,
+	"semi-colon expected",
+	":"
+],[
+	"第38屆日本眾議院議員總選舉",
+	351,
+	201,
+	"property value expected",
+	"#"
+],[
+	"第39屆日本眾議院議員總選舉",
+	331,
+	201,
+	"property value expected",
+	"#"
+],[
+	"米禾爾足球會",
+	102,
+	81,
+	"colon expected",
+	"="
+],[
+	"經濟學",
+	129,
+	116,
+	"} expected",
+	"1em"
+],[
+	"羅密歐與朱麗葉 (芭蕾舞劇)",
+	9,
+	50,
+	"colon expected",
+	"="
+],[
+	"耶穌嘅比喻",
+	4,
+	68,
+	"semi-colon expected",
+	""
+],[
+	"耶穌嘅神蹟",
+	5,
+	59,
+	"semi-colon expected",
+	""
+],[
+	"聖母頌",
+	2,
+	136,
+	"semi-colon expected",
+	""
+],[
+	"臺灣清治時期",
+	23,
+	41,
+	"colon expected",
+	"="
+],[
+	"葉振弘",
+	52,
+	56,
+	"semi-colon expected",
+	":"
+],[
+	"藍地站",
+	32,
+	16,
+	"colon expected",
+	"1px"
+],[
+	"藏區",
+	5,
+	103,
+	"semi-colon expected",
+	""
+],[
+	"蘇笠汶",
+	28,
+	102,
+	"property value expected",
+	"%"
+],[
+	"角色",
+	45,
+	116,
+	"} expected",
+	"1em"
+],[
+	"詹天文",
+	300,
+	23,
+	"property value expected",
+	"#5BAD92；"
+],[
+	"諾域治城足球會",
+	55,
+	81,
+	"colon expected",
+	"="
+],[
+	"謝霆鋒攞獎同提名一覽",
+	175,
+	37,
+	"property value expected",
+	"#black"
+],[
+	"賓福特足球會",
+	127,
+	81,
+	"colon expected",
+	"="
+],[
+	"賴羅比",
+	47,
+	28,
+	"semi-colon expected",
+	""
+],[
+	"超人佳亞",
+	37,
+	20,
+	"semi-colon expected",
+	""
+],[
+	"超人帝拿",
+	31,
+	20,
+	"semi-colon expected",
+	""
+],[
+	"趙小婷",
+	224,
+	38,
+	"property value expected",
+	"#black"
+],[
+	"這群人TGOP",
+	89,
+	36,
+	"semi-colon expected",
+	""
+],[
+	"通貨緊縮",
+	85,
+	40,
+	"semi-colon expected",
+	""
+],[
+	"遊戲開發者選擇獎年度遊戲",
+	23,
+	43,
+	"colon expected",
+	";"
+],[
+	"遙測",
+	5,
+	116,
+	"} expected",
+	"1em"
+],[
+	"邱士縉",
+	36,
+	56,
+	"semi-colon expected",
+	":"
+],[
+	"錫周三",
+	100,
+	81,
+	"colon expected",
+	"="
+],[
+	"鍾屋村站",
+	36,
+	16,
+	"colon expected",
+	"1px"
+],[
+	"鍾晴",
+	44,
+	21,
+	"property value expected",
+	"#none"
+],[
+	"阪和線",
+	57,
+	38,
+	"property value expected",
+	"#cfc期"
+],[
+	"阮嘉敏",
+	140,
+	33,
+	"property value expected",
+	"#none"
+],[
+	"陳靖允",
+	150,
+	93,
+	"property value expected",
+	"#f9"
+],[
+	"雷丁足球會",
+	112,
+	81,
+	"colon expected",
+	"="
+],[
+	"音節文字",
+	31,
+	59,
+	"property value expected",
+	"="
+],[
+	"香港大主教",
+	62,
+	60,
+	"semi-colon expected",
+	""
+],[
+	"香港足球代表隊",
+	367,
+	18,
+	"property value expected",
+	"%"
+],[
+	"高雲地利城足球會",
+	129,
+	81,
+	"colon expected",
+	"="
+],[
+	"魚尾獅盃",
+	14,
+	58,
+	"property value expected",
+	";"
+],[
+	"鵝掌坦站",
+	3,
+	34,
+	"semi-colon expected",
+	""
+],[
+	"黃健怡 (香港)",
+	53,
+	51,
+	"term expected",
+	""
+],[
+	"黃心穎",
+	60,
+	75,
+	"semi-colon expected",
+	""
+],[
+	"黃淑蔓",
+	97,
+	37,
+	"property value expected",
+	"#"
+],[
+	"點擊次數最多嘅YouTube中文音樂短片一覽",
+	11,
+	120,
+	"colon expected",
+	"="
+],],batches:1,timestamp:"2025-03-20"}

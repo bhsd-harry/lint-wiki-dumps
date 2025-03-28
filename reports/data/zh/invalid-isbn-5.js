@@ -334,4 +334,4 @@ window.data={"articles":[[
 	36,
 	"invalid ISBN",
 	"ISBN 4-8470-4077-1"
-],],"batches":6}
+],],batches:6,timestamp:"2025-03-20"}

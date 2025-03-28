@@ -100,4 +100,4 @@ window.data={"articles":[[
 	1,
 	"content to be moved out from the table",
 	" style=\"background:#F08080;color:black\""
-],],"batches":1}
+],],batches:1,timestamp:"2025-03-20"}

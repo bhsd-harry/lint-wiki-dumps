@@ -1198,4 +1198,4 @@ window.data={"articles":[[
 	4,
 	"duplicated style attribute",
 	"style=\"background: gold;\""
-],],"batches":43}
+],],batches:43,timestamp:"2025-03-20"}

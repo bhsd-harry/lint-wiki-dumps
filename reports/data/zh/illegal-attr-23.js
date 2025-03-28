@@ -1198,4 +1198,4 @@ window.data={"articles":[[
 	32,
 	"illegal attribute name",
 	"Corcelles"
-],],"batches":42}
+],],batches:42,timestamp:"2025-03-20"}

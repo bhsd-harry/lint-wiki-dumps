@@ -808,4 +808,4 @@ window.data={"articles":[[
 	25,
 	"extension tag in HTML tag attributes",
 	"<ref name=\"Yakubovich p. 101.\">Yakubovich 2008, p. 101.</ref>"
-],],"batches":1}
+],],batches:1,timestamp:"2025-03-20"}

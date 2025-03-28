@@ -88,4 +88,4 @@ window.data={"articles":[[
 	48,
 	"invalid image parameter",
 	"right"
-],],"batches":1}
+],],batches:1,timestamp:"2025-03-20"}

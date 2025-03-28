@@ -1,1 +1,235 @@
-window.data={"articles":[["2016年3月9號日食",65,41,"illegal attribute name","align"],["Dreamcast游戏列表",2725,15,"illegal attribute name","Greatest"],["Wikipedia:CC-BY-SA-3.0协议文本",25,18,"illegal attribute name","xml:lang"],["Wikipedia:Guestbook for non-Wuu-speakers",6,14,"illegal attribute name","xml:lang"],["三角函数",34,22,"illegal attribute name","text-align"],["上海南站",20,4,"illegal attribute name","table"],["东京铁塔",28,6,"illegal attribute name","cellpadding"],["兵希站",8,4,"illegal attribute name","table"],["加拿大行政区划",24,4,"illegal attribute name","colpos"],["北斗七星",5,27,"illegal attribute name","border"],["吴江区",62,3,"illegal attribute name","avlign"],["地質學",31,4,"illegal attribute name","nowrap"],["地质年代",145,38,"illegal attribute name","NOWRAP"],["塞内加尔行政区划",5,57,"illegal attribute name","text-align:left"],["士普拉格",18,71,"illegal attribute name","0.5em"],["外滩",19,5,"illegal attribute name","font-size"],["外蒙古",21,6,"illegal attribute name","align"],["大韩民国",204,5,"illegal attribute name","font"],["市民中心站（无锡地铁）",6,4,"illegal attribute name","table"],["布隆迪历史",16,5,"illegal attribute name","Ethnic"],["常州北站",18,4,"illegal attribute name","table"],["平安神宫",14,13,"illegal attribute name","nowrap"],["开罗",17,4,"illegal attribute name","avlign"],["挪威",13,57,"illegal attribute name","solid"],["无线电频谱",6,18,"illegal attribute name","border"],["歇浦路站",8,4,"illegal attribute name","table"],["氢",4,16,"illegal attribute name","cellspacing"],["海嘯",127,16,"illegal attribute name","nowrap"],["海地克里奥耳语",27,4,"illegal attribute name","caption"],["琅琴表",8,23,"illegal attribute name","bordercolor"],["空港新城江宁站",7,4,"illegal attribute name","table"],["臺灣省道",58,38,"illegal attribute name","border"],["荃湾线",50,38,"illegal attribute name","padding"],["蒙古高原",11,6,"illegal attribute name","align"],["迈皋桥站",5,4,"illegal attribute name","table"],["铌",4,16,"illegal attribute name","cellspacing"],["锡",4,16,"illegal attribute name","cellspacing"],["陳日君",4,141,"illegal attribute name","rel"],["高棉文",5,100,"illegal attribute name","bordercolor"]],"batches":1}
+window.data={"articles":[[
+	"2016年3月9號日食",
+	65,
+	41,
+	"illegal attribute name",
+	"align"
+],[
+	"Dreamcast游戏列表",
+	2725,
+	15,
+	"illegal attribute name",
+	"Greatest"
+],[
+	"Wikipedia:CC-BY-SA-3.0协议文本",
+	25,
+	18,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"Wikipedia:Guestbook for non-Wuu-speakers",
+	6,
+	14,
+	"illegal attribute name",
+	"xml:lang"
+],[
+	"三角函数",
+	34,
+	22,
+	"illegal attribute name",
+	"text-align"
+],[
+	"上海南站",
+	20,
+	4,
+	"illegal attribute name",
+	"table"
+],[
+	"东京铁塔",
+	28,
+	6,
+	"illegal attribute name",
+	"cellpadding"
+],[
+	"兵希站",
+	8,
+	4,
+	"illegal attribute name",
+	"table"
+],[
+	"加拿大行政区划",
+	24,
+	4,
+	"illegal attribute name",
+	"colpos"
+],[
+	"北斗七星",
+	5,
+	27,
+	"illegal attribute name",
+	"border"
+],[
+	"吴江区",
+	62,
+	3,
+	"illegal attribute name",
+	"avlign"
+],[
+	"地質學",
+	31,
+	4,
+	"illegal attribute name",
+	"nowrap"
+],[
+	"地质年代",
+	145,
+	38,
+	"illegal attribute name",
+	"NOWRAP"
+],[
+	"塞内加尔行政区划",
+	5,
+	57,
+	"illegal attribute name",
+	"text-align:left"
+],[
+	"士普拉格",
+	18,
+	71,
+	"illegal attribute name",
+	"0.5em"
+],[
+	"外滩",
+	19,
+	5,
+	"illegal attribute name",
+	"font-size"
+],[
+	"外蒙古",
+	21,
+	6,
+	"illegal attribute name",
+	"align"
+],[
+	"大韩民国",
+	204,
+	5,
+	"illegal attribute name",
+	"font"
+],[
+	"市民中心站（无锡地铁）",
+	6,
+	4,
+	"illegal attribute name",
+	"table"
+],[
+	"布隆迪历史",
+	16,
+	5,
+	"illegal attribute name",
+	"Ethnic"
+],[
+	"常州北站",
+	18,
+	4,
+	"illegal attribute name",
+	"table"
+],[
+	"平安神宫",
+	14,
+	13,
+	"illegal attribute name",
+	"nowrap"
+],[
+	"开罗",
+	17,
+	4,
+	"illegal attribute name",
+	"avlign"
+],[
+	"挪威",
+	13,
+	57,
+	"illegal attribute name",
+	"solid"
+],[
+	"无线电频谱",
+	6,
+	18,
+	"illegal attribute name",
+	"border"
+],[
+	"歇浦路站",
+	8,
+	4,
+	"illegal attribute name",
+	"table"
+],[
+	"氢",
+	4,
+	16,
+	"illegal attribute name",
+	"cellspacing"
+],[
+	"海嘯",
+	127,
+	16,
+	"illegal attribute name",
+	"nowrap"
+],[
+	"海地克里奥耳语",
+	27,
+	4,
+	"illegal attribute name",
+	"caption"
+],[
+	"琅琴表",
+	8,
+	23,
+	"illegal attribute name",
+	"bordercolor"
+],[
+	"空港新城江宁站",
+	7,
+	4,
+	"illegal attribute name",
+	"table"
+],[
+	"臺灣省道",
+	58,
+	38,
+	"illegal attribute name",
+	"border"
+],[
+	"荃湾线",
+	50,
+	38,
+	"illegal attribute name",
+	"padding"
+],[
+	"蒙古高原",
+	11,
+	6,
+	"illegal attribute name",
+	"align"
+],[
+	"迈皋桥站",
+	5,
+	4,
+	"illegal attribute name",
+	"table"
+],[
+	"铌",
+	4,
+	16,
+	"illegal attribute name",
+	"cellspacing"
+],[
+	"锡",
+	4,
+	16,
+	"illegal attribute name",
+	"cellspacing"
+],[
+	"陳日君",
+	4,
+	141,
+	"illegal attribute name",
+	"rel"
+],[
+	"高棉文",
+	5,
+	100,
+	"illegal attribute name",
+	"bordercolor"
+],],batches:1,timestamp:"2025-03-20"}

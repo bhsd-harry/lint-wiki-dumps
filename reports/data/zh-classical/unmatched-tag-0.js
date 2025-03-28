@@ -1,1 +1,391 @@
-window.data={"articles":[["MediaWiki:Longpagewarning",1,41,"unclosed tag","<strong>"],["世界語",137,2,"unmatched closing tag","</div>"],["中子",6,24,"unmatched closing tag","</div>"],["仁川廣域市",5,61,"unmatched closing tag","</td>"],["候",271,5,"unmatched closing tag","</SPAN>"],["凱撒",63,41,"unmatched closing tag","</small>"],["函數術語",18,30,"unmatched closing tag","</sup>"],["加拿大",11,29,"tag that is both closing and self-closing","</br>"],["原子",3,277,"tag that is both closing and self-closing","</br>"],["四柱清冊",4,18,"tag that is both closing and self-closing","</br>"],["大華系統交流道",35,503,"unmatched closing tag","</span>"],["大韓民國大統領",29,62,"unmatched closing tag","</small>"],["太鼓達人",5,50,"tag that is both closing and self-closing","</br>"],["奧匈帝國",3,50,"tag that is both closing and self-closing","</br>"],["官話",271,18,"tag that is both closing and self-closing","</br>"],["小行星",6,27,"unmatched closing tag","</div>"],["征夷大將軍",110,11,"tag that is both closing and self-closing","</br>"],["數理物理",4,23,"unmatched closing tag","</div>"],["日本年號",215,2,"unmatched closing tag","</table>"],["易經",15,23,"tag that is both closing and self-closing","</br>"],["晶體",29,2,"unmatched closing tag","</div>"],["李登輝",10,38,"tag that is both closing and self-closing","</br>"],["杭州市",14,39,"tag that is both closing and self-closing","</br>"],["海王星外天體",38,5,"tag that is both closing and self-closing","</br>"],["無錫市",8,25,"tag that is both closing and self-closing","</br>"],["熱力學第二定律",24,25,"tag that is both closing and self-closing","</br>"],["石投子之歌",5,52,"unmatched closing tag","</rt>"],["神聖羅馬皇帝腓特烈一世",29,2,"unmatched closing tag","</blockquote>"],["萬國首都全覽",577,37,"unmatched closing tag","</font>"],["節氣",288,5,"unmatched closing tag","</SPAN>"],["維基大典:卷首",38,33,"unmatched closing tag","</div>"],["維基大典:會館/存檔/卷首議",41,98,"tag that is both closing and self-closing","</br>"],["維基大典:會館/存檔/壬辰年",463,39,"tag that is both closing and self-closing","</br>"],["維基大典:會館/存檔/庚寅年",15,32,"tag that is both closing and self-closing","</br>"],["維基大典:會館/存檔/戊戌年",246,68,"tag that is both closing and self-closing","</br>"],["維基大典:會館/存檔/甲午年",358,2,"tag that is both closing and self-closing","</br>"],["維基大典:會館/存檔/甲辰年",96,8,"unmatched closing tag","</div>"],["維基大典:會館/存檔/辛卯年",125,26,"tag that is both closing and self-closing","</br>"],["維基大典:會館/存檔/通言錄",4,48,"tag that is both closing and self-closing","</br>"],["維基大典:每日圖繪/存檔",10,14,"unclosed tag","<small>"],["維基大典:每日圖繪/存檔/公曆",10,15,"unclosed tag","<small>"],["維基大典:萬文志",15,44,"unmatched closing tag","</p>"],["葛利斯五八一丙",6,2,"unmatched closing tag","</div>"],["蝦夷赤狐",1,175,"unmatched closing tag","</span>"],["西方國際語",6,2,"unmatched closing tag","</div>"],["言談生成預訓變狀器",5,89,"unmatched closing tag","</span>"],["足利義政",3,10,"tag that is both closing and self-closing","</br>"],["遼嗣元帝",1,36,"tag that is both closing and self-closing","</br>"],["鄭毓秀",10,110,"unmatched closing tag","</span>"],["釔",20,23,"unmatched closing tag","</div>"],["釜山廣域市",6,61,"unmatched closing tag","</td>"],["鉍",12,23,"unmatched closing tag","</div>"],["鉑",7,24,"unmatched closing tag","</div>"],["鉛",19,20,"unmatched closing tag","</div>"],["鍀",17,26,"unmatched closing tag","</div>"],["鎇",10,25,"unmatched closing tag","</div>"],["鎢",9,24,"unmatched closing tag","</div>"],["鐦",9,27,"unmatched closing tag","</div>"],["門:Box-footer",1,166,"unmatched closing tag","</div>"],["門:化學",181,26,"unmatched closing tag","</div>"],["陳省身",16,23,"unmatched closing tag","</div>"],["電子",6,26,"unmatched closing tag","</div>"],["餘弦定理",20,8,"unmatched closing tag","</font>"],["饗宴者孔明",4,89,"unmatched closing tag","</span>"],["馬雅",7,21,"unmatched closing tag","</div>"]],"batches":1}
+window.data={"articles":[[
+	"MediaWiki:Longpagewarning",
+	1,
+	41,
+	"unclosed tag",
+	"<strong>"
+],[
+	"世界語",
+	137,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"中子",
+	6,
+	24,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"仁川廣域市",
+	5,
+	61,
+	"unmatched closing tag",
+	"</td>"
+],[
+	"候",
+	271,
+	5,
+	"unmatched closing tag",
+	"</SPAN>"
+],[
+	"凱撒",
+	63,
+	41,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"函數術語",
+	18,
+	30,
+	"unmatched closing tag",
+	"</sup>"
+],[
+	"加拿大",
+	11,
+	29,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"原子",
+	3,
+	277,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"四柱清冊",
+	4,
+	18,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"大華系統交流道",
+	35,
+	503,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"大韓民國大統領",
+	29,
+	62,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"太鼓達人",
+	5,
+	50,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"奧匈帝國",
+	3,
+	50,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"官話",
+	271,
+	18,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"小行星",
+	6,
+	27,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"征夷大將軍",
+	110,
+	11,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"數理物理",
+	4,
+	23,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"日本年號",
+	215,
+	2,
+	"unmatched closing tag",
+	"</table>"
+],[
+	"易經",
+	15,
+	23,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"晶體",
+	29,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"李登輝",
+	10,
+	38,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"杭州市",
+	14,
+	39,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"海王星外天體",
+	38,
+	5,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"無錫市",
+	8,
+	25,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"熱力學第二定律",
+	24,
+	25,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"石投子之歌",
+	5,
+	52,
+	"unmatched closing tag",
+	"</rt>"
+],[
+	"神聖羅馬皇帝腓特烈一世",
+	29,
+	2,
+	"unmatched closing tag",
+	"</blockquote>"
+],[
+	"萬國首都全覽",
+	577,
+	37,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"節氣",
+	288,
+	5,
+	"unmatched closing tag",
+	"</SPAN>"
+],[
+	"維基大典:卷首",
+	38,
+	33,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"維基大典:會館/存檔/卷首議",
+	41,
+	98,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"維基大典:會館/存檔/壬辰年",
+	463,
+	39,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"維基大典:會館/存檔/庚寅年",
+	15,
+	32,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"維基大典:會館/存檔/戊戌年",
+	246,
+	68,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"維基大典:會館/存檔/甲午年",
+	358,
+	2,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"維基大典:會館/存檔/甲辰年",
+	96,
+	8,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"維基大典:會館/存檔/辛卯年",
+	125,
+	26,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"維基大典:會館/存檔/通言錄",
+	4,
+	48,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"維基大典:每日圖繪/存檔",
+	10,
+	14,
+	"unclosed tag",
+	"<small>"
+],[
+	"維基大典:每日圖繪/存檔/公曆",
+	10,
+	15,
+	"unclosed tag",
+	"<small>"
+],[
+	"維基大典:萬文志",
+	15,
+	44,
+	"unmatched closing tag",
+	"</p>"
+],[
+	"葛利斯五八一丙",
+	6,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"蝦夷赤狐",
+	1,
+	175,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"西方國際語",
+	6,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"言談生成預訓變狀器",
+	5,
+	89,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"足利義政",
+	3,
+	10,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"遼嗣元帝",
+	1,
+	36,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"鄭毓秀",
+	10,
+	110,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"釔",
+	20,
+	23,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"釜山廣域市",
+	6,
+	61,
+	"unmatched closing tag",
+	"</td>"
+],[
+	"鉍",
+	12,
+	23,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"鉑",
+	7,
+	24,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"鉛",
+	19,
+	20,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"鍀",
+	17,
+	26,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"鎇",
+	10,
+	25,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"鎢",
+	9,
+	24,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"鐦",
+	9,
+	27,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"門:Box-footer",
+	1,
+	166,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"門:化學",
+	181,
+	26,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"陳省身",
+	16,
+	23,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"電子",
+	6,
+	26,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"餘弦定理",
+	20,
+	8,
+	"unmatched closing tag",
+	"</font>"
+],[
+	"饗宴者孔明",
+	4,
+	89,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"馬雅",
+	7,
+	21,
+	"unmatched closing tag",
+	"</div>"
+],],batches:1,timestamp:"2025-03-20"}

@@ -1198,4 +1198,4 @@ window.data={"articles":[[
 	78,
 	"invalid ISBN",
 	"ISBN 978-986-01-0174-1"
-],],"batches":6}
+],],batches:6,timestamp:"2025-03-20"}

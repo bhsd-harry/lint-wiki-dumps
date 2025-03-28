@@ -1,1 +1,1201 @@
-window.data={"articles":[["₭",36,836,"lonely \"]\"","]"],["1693 nî",18,74,"lonely \"]\"","]"],["1748 nî",18,135,"lonely \"]\"","]]"],["1930 nî tiān-sī",2,134,"lonely \"]\"","]]"],["1980 nî",142,95,"lonely \"]\"","]]"],["1992 nî im-ga̍k",14,35,"lonely \"}\"","}}"],["2004 nî 9 goe̍h",34,570,"lonely \"[\"","["],["34",1,1,"lonely \"[\"","[["],["Abu Hanifa",10,306,"lonely \"[\"","["],["ACG",9,546,"lonely \"[\"","["],["Almond (Wisconsin)",5,38,"lonely \"[\"","[["],["Alqueidão (Figueira da Foz)",17,20,"lonely \"[\"","[["],["Alvados",17,20,"lonely \"[\"","[["],["Amparo (São Paulo)",16,20,"lonely \"[\"","[["],["Andô Sadayosi",30,20,"lonely \"[\"","[[["],["Anha",17,20,"lonely \"[\"","[["],["Antônio Prado",16,20,"lonely \"[\"","[["],["Arginin",1,40,"lonely \"{\"","{{"],["Asyut Séng",20,2,"lonely \"}\"","}}"],["Bân-lâm Ōe Pheng-im Hong-àn",292,49,"lonely \"}\"","}}"],["Barehsar",1,1,"lonely \"{\"","{{"],["Basin (Masovia Séng)",11,28,"lonely \"[\"","[[["],["Behshahr",1,1,"lonely \"{\"","{{"],["Beluzhino-Koldairov",16,1024,"lonely \"[\"","[["],["Bí-kok kok chiu ê chhiok-hō lia̍t-toaⁿ",32,184,"lonely \"]\"","]]"],["Bí-kok kok-hōe hoat-àn",13,987,"lonely \"}\"","}}"],["Boán-chiu-kok Hông-tè",1,546,"lonely \"[\"","[["],["Boise",58,2,"lonely \"[\"","[["],["Calhandriz",17,20,"lonely \"[\"","[["],["Campanha",16,20,"lonely \"[\"","[["],["Carambeí",16,20,"lonely \"[\"","[["],["Carlinda",16,20,"lonely \"[\"","[["],["Chhùi-khiuⁿ oē-seng",22,338,"lonely \"]\"","]]"],["Chì-chèng sin-chèng",13,66,"lonely \"}\"","}}"],["Chile Hái-kun",65,185,"lonely \"}\"","}}"],["Chiok-gán ê Syana",48,139,"lonely \"[\"","[["],["Chlewo (Łódź Séng)",11,81,"lonely \"]\"","]]"],["Comic Pek-ha̍p Ki",53,68,"lonely \"}\"","}}"],["Dalachów",11,96,"lonely \"]\"","]]"],["Dar Sufeh",39,58,"lonely \"]\"","]]"],["Dogonbadan",15,50,"lonely \"]\"","]]]]"],["Domrud-e Olya",22,16,"lonely \"[\"","["],["Dorcheh Piaz",14,60,"lonely \"]\"","]]]]"],["Dragon Ball",16,45,"lonely \"{\"","{"],["Edna Bay (Alaska)",17,124,"lonely \"]\"","]]"],["Eek (Alaska)",17,74,"lonely \"]\"","]]"],["Egegik (Alaska)",17,90,"lonely \"]\"","]]"],["Eielson AFB (Alaska)",17,94,"lonely \"]\"","]]"],["Ekwok (Alaska)",17,82,"lonely \"]\"","]]"],["Elfin Cove (Alaska)",17,104,"lonely \"]\"","]]"],["Elim (Alaska)",17,70,"lonely \"]\"","]]"],["Emmonak (Alaska)",17,86,"lonely \"]\"","]]"],["Esfarayen",15,46,"lonely \"]\"","]]]]"],["Eslavi",21,2,"lonely \"}\"","}}"],["Ester (Alaska)",17,94,"lonely \"]\"","]]"],["Estonia ê koān",2,13,"lonely \"]\"","]"],["Excursion Inlet (Alaska)",17,66,"lonely \"]\"","]]"],["False Pass (Alaska)",17,82,"lonely \"]\"","]]"],["Fardis",14,66,"lonely \"]\"","]]]]"],["Farm Loop (Alaska)",17,88,"lonely \"]\"","]]"],["Ferry (Alaska)",17,66,"lonely \"]\"","]]"],["Filband",14,42,"lonely \"]\"","]]]]"],["Fishhook (Alaska)",17,88,"lonely \"]\"","]]"],["Fort Greely (Alaska)",17,100,"lonely \"]\"","]]"],["Fox (Alaska)",17,94,"lonely \"]\"","]]"],["Fox River (Alaska)",17,84,"lonely \"]\"","]]"],["Fritz Creek (Alaska)",17,84,"lonely \"]\"","]]"],["Funny River (Alaska)",17,84,"lonely \"]\"","]]"],["Gafanha da Boa Hora",17,20,"lonely \"[\"","[["],["Ga̍k Tong-hôa",47,1117,"lonely \"]\"","]"],["Gakona (Alaska)",17,90,"lonely \"]\"","]]"],["Gambell (Alaska)",17,70,"lonely \"]\"","]]"],["Game Creek (Alaska)",17,104,"lonely \"]\"","]]"],["Garbatka-Letnisko",11,132,"lonely \"]\"","]]"],["Gateway (Alaska)",17,88,"lonely \"]\"","]]"],["Gerash",1,1,"lonely \"{\"","{{"],["Gierlachy",1,1,"lonely \"{\"","{{"],["Glacier View (Alaska)",17,88,"lonely \"]\"","]]"],["Glennallen (Alaska)",17,90,"lonely \"]\"","]]"],["Golovin (Alaska)",17,70,"lonely \"]\"","]]"],["Gongogi",16,20,"lonely \"[\"","[["],["Goodnews Bay (Alaska)",17,74,"lonely \"]\"","]]"],["Google Gemini",30,476,"lonely \"]\"","]"],["Góry Lasochowskie",1,1,"lonely \"{\"","{{"],["Grabowszczyzna",1,1,"lonely \"{\"","{{"],["Gradek",1,1,"lonely \"{\"","{{"],["Gudband",27,3,"lonely \"[\"","[["],["Gulkana (Alaska)",17,90,"lonely \"]\"","]]"],["Gustavus (Alaska)",17,104,"lonely \"]\"","]]"],["Haines (Alaska)",17,66,"lonely \"]\"","]]"],["Halibut Cove (Alaska)",17,84,"lonely \"]\"","]]"],["Holendry Bytońskie",1,1,"lonely \"{\"","{{"],["Hūi-lâi Hì-kio̍k-tâi",4,78,"lonely \"]\"","]"],["Hūi-lâi Ji̍t-pún-tâi",4,78,"lonely \"]\"","]"],["Hūi-lâi Tiān-iáⁿ-tâi",4,78,"lonely \"]\"","]"],["Hûn-phû-chhī",29,2,"lonely \"}\"","}}"],["Iak-130",30,117,"lonely \"{\"","{{"],["Igarapé-Miri",16,20,"lonely \"[\"","[["],["Illinois chiu lu̍t-su kong-hōe",21,109,"lonely \"]\"","]"],["Iûⁿ Chhì-chhiong",2,19,"lonely \"[\"","[["],["Janicka",1,1,"lonely \"{\"","{{"],["Jaroty (Stawiguda Kong-siā)",1,1,"lonely \"{\"","{{"],["Jōe-ian bû-jîn-ki",45,92,"lonely \"}\"","}}"],["Kài-siū-kong-hn̂g",52,35,"lonely \"{\"","{{"],["Kamienny Krzyż",1,1,"lonely \"{\"","{{"],["Karak (Hamadan)",27,3,"lonely \"[\"","[["],["Ké-gê",31,161,"lonely \"{\"","{{"],["Kh-59 ovod",70,91,"lonely \"{\"","{{"],["Kià-seⁿ-á",7,25,"lonely \"]\"","]"],["Kideksha",15,192,"lonely \"[\"","[["],["Kin chiu-khan",48,113,"lonely \"}\"","}}"],["Kin-chio",31,323,"lonely \"[\"","[["],["Koan Kiān (chông-cheng chìn-sū)",4,142,"lonely \"}\"","}"],["Koeh Soat-hû",22,52,"lonely \"]\"","]"],["Kolonia Chalińska",1,1,"lonely \"{\"","{{"],["Kolonia Serocka",1,1,"lonely \"{\"","{{"],["Koprusza",1,1,"lonely \"{\"","{{"],["Krasnoye Ekho",16,203,"lonely \"[\"","[["],["Kuroda Haruhiko",12,111,"lonely \"}\"","}"],["Kusheh-ye Olya (Lâm Khorasan)",1,11,"lonely \"[\"","[["],["Lanckorona",28,96,"lonely \"[\"","[["],["Lêng-tek-chhī",320,96,"lonely \"[\"","[["],["Lîm Hàu-thêng",35,124,"lonely \"}\"","}}"],["Liông-sîn Kiat-sî",41,30,"lonely \"{\"","{"],["Lô-má hông-tè lia̍t-toaⁿ",182,88,"lonely \"[\"","[["],["Lōa Hông-sêng",93,123,"lonely \"]\"","]]"],["Loureiro (Oliveira de Azeméis)",17,20,"lonely \"[\"","[["],["Lubczyna (Łódź Séng)",9,28,"lonely \"[\"","[[["],["Lūi-pia̍t:Adamantina Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Afonso Cláudio Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Aglomeração Urbana de São Luís Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Agreste de Itabaiana Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Agreste de Lagarto Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Agreste Potiguar Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Aimorés Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Alagoinhas Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Alegre Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Alfenas Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Almeirim Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Almenara Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Alta Floresta Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Altamira Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Alto Araguaia Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Alto Capibaribe Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Alto Guaporé Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Alto Mearim e Grajaú Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Alto Médio Canindé Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Alto Médio Gurgueia Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Alto Pantanal Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Alto Paraguai Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Alto Parnaíba Piauiense Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Alto Solimões Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Alto Taquari Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Alto Teles Pires Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Alvorada d'Oeste Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Amapá Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Amparo Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Anápolis Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Andradina Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Andrelândia Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Angicos Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Anicuns Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Apucarana Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Aquidauana Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Aracaju Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Araçatuba Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Araçuaí Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Aragarças Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Araguaína Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Arapiraca Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Araranguá Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Araraquara Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Arari Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Araripina Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Araxá Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Arinos Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Aripuanã Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Ariquemes Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Assaí Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Assis Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Astorga Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Auriflama Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Avaré Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Bacia de São João Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Baía da Ilha Grande Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Baixa Verde Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Baixada Maranhense Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Baixo Cotinguiba Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Baixo Curu Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Baixo Jaguaribe Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Baixo Pantanal Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Baixo Parnaíba Maranhense Sió-khu",1,1,"lonely \"{\"","{{"],["Lūi-pia̍t:Chheng-kok kèng-chhat",1,9,"lonely \"}\"","}}"],["Lūi-pia̍t:Hàn-jī-im bô-khak-tēng ê bûn",1,62,"lonely \"{\"","{{"],["Lūi-pia̍t:Hoat-tiān",2,34,"lonely \"]\"","]"],["Lūi-pia̍t:I-chheh",2,2,"lonely \"[\"","[["],["Lūi-pia̍t:Koh kok ê teng-thah",1,24,"lonely \"]\"","]"],["Lūi-pia̍t:Kok chham-sò͘ lūi-pia̍t",3,32,"lonely \"]\"","]]"],["Lūi-pia̍t:Lio̍k-poâⁿ-chúi-chhī",1,1,"lonely \"[\"","[[["],["Lūi-pia̍t:Magallanes tē-khu ê chúi-e̍k",2,2,"lonely \"[\"","[["]],"batches":2}
+window.data={"articles":[[
+	"₭",
+	36,
+	836,
+	"lonely \"]\"",
+	"]"
+],[
+	"1693 nî",
+	18,
+	74,
+	"lonely \"]\"",
+	"]"
+],[
+	"1748 nî",
+	18,
+	135,
+	"lonely \"]\"",
+	"]]"
+],[
+	"1930 nî tiān-sī",
+	2,
+	134,
+	"lonely \"]\"",
+	"]]"
+],[
+	"1980 nî",
+	142,
+	95,
+	"lonely \"]\"",
+	"]]"
+],[
+	"1992 nî im-ga̍k",
+	14,
+	35,
+	"lonely \"}\"",
+	"}}"
+],[
+	"2004 nî 9 goe̍h",
+	34,
+	570,
+	"lonely \"[\"",
+	"["
+],[
+	"34",
+	1,
+	1,
+	"lonely \"[\"",
+	"[["
+],[
+	"Abu Hanifa",
+	10,
+	306,
+	"lonely \"[\"",
+	"["
+],[
+	"ACG",
+	9,
+	546,
+	"lonely \"[\"",
+	"["
+],[
+	"Almond (Wisconsin)",
+	5,
+	38,
+	"lonely \"[\"",
+	"[["
+],[
+	"Alqueidão (Figueira da Foz)",
+	17,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Alvados",
+	17,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Amparo (São Paulo)",
+	16,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Andô Sadayosi",
+	30,
+	20,
+	"lonely \"[\"",
+	"[[["
+],[
+	"Anha",
+	17,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Antônio Prado",
+	16,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Arginin",
+	1,
+	40,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Asyut Séng",
+	20,
+	2,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Bân-lâm Ōe Pheng-im Hong-àn",
+	292,
+	49,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Barehsar",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Basin (Masovia Séng)",
+	11,
+	28,
+	"lonely \"[\"",
+	"[[["
+],[
+	"Behshahr",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Beluzhino-Koldairov",
+	16,
+	1024,
+	"lonely \"[\"",
+	"[["
+],[
+	"Bí-kok kok chiu ê chhiok-hō lia̍t-toaⁿ",
+	32,
+	184,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Bí-kok kok-hōe hoat-àn",
+	13,
+	987,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Boán-chiu-kok Hông-tè",
+	1,
+	546,
+	"lonely \"[\"",
+	"[["
+],[
+	"Boise",
+	58,
+	2,
+	"lonely \"[\"",
+	"[["
+],[
+	"Calhandriz",
+	17,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Campanha",
+	16,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Carambeí",
+	16,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Carlinda",
+	16,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Chhùi-khiuⁿ oē-seng",
+	22,
+	338,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Chì-chèng sin-chèng",
+	13,
+	66,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Chile Hái-kun",
+	65,
+	185,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Chiok-gán ê Syana",
+	48,
+	139,
+	"lonely \"[\"",
+	"[["
+],[
+	"Chlewo (Łódź Séng)",
+	11,
+	81,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Comic Pek-ha̍p Ki",
+	53,
+	68,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Dalachów",
+	11,
+	96,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Dar Sufeh",
+	39,
+	58,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Dogonbadan",
+	15,
+	50,
+	"lonely \"]\"",
+	"]]]]"
+],[
+	"Domrud-e Olya",
+	22,
+	16,
+	"lonely \"[\"",
+	"["
+],[
+	"Dorcheh Piaz",
+	14,
+	60,
+	"lonely \"]\"",
+	"]]]]"
+],[
+	"Dragon Ball",
+	16,
+	45,
+	"lonely \"{\"",
+	"{"
+],[
+	"Edna Bay (Alaska)",
+	17,
+	124,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Eek (Alaska)",
+	17,
+	74,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Egegik (Alaska)",
+	17,
+	90,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Eielson AFB (Alaska)",
+	17,
+	94,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Ekwok (Alaska)",
+	17,
+	82,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Elfin Cove (Alaska)",
+	17,
+	104,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Elim (Alaska)",
+	17,
+	70,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Emmonak (Alaska)",
+	17,
+	86,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Esfarayen",
+	15,
+	46,
+	"lonely \"]\"",
+	"]]]]"
+],[
+	"Eslavi",
+	21,
+	2,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Ester (Alaska)",
+	17,
+	94,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Estonia ê koān",
+	2,
+	13,
+	"lonely \"]\"",
+	"]"
+],[
+	"Excursion Inlet (Alaska)",
+	17,
+	66,
+	"lonely \"]\"",
+	"]]"
+],[
+	"False Pass (Alaska)",
+	17,
+	82,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Fardis",
+	14,
+	66,
+	"lonely \"]\"",
+	"]]]]"
+],[
+	"Farm Loop (Alaska)",
+	17,
+	88,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Ferry (Alaska)",
+	17,
+	66,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Filband",
+	14,
+	42,
+	"lonely \"]\"",
+	"]]]]"
+],[
+	"Fishhook (Alaska)",
+	17,
+	88,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Fort Greely (Alaska)",
+	17,
+	100,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Fox (Alaska)",
+	17,
+	94,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Fox River (Alaska)",
+	17,
+	84,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Fritz Creek (Alaska)",
+	17,
+	84,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Funny River (Alaska)",
+	17,
+	84,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Gafanha da Boa Hora",
+	17,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Ga̍k Tong-hôa",
+	47,
+	1117,
+	"lonely \"]\"",
+	"]"
+],[
+	"Gakona (Alaska)",
+	17,
+	90,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Gambell (Alaska)",
+	17,
+	70,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Game Creek (Alaska)",
+	17,
+	104,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Garbatka-Letnisko",
+	11,
+	132,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Gateway (Alaska)",
+	17,
+	88,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Gerash",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Gierlachy",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Glacier View (Alaska)",
+	17,
+	88,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Glennallen (Alaska)",
+	17,
+	90,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Golovin (Alaska)",
+	17,
+	70,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Gongogi",
+	16,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Goodnews Bay (Alaska)",
+	17,
+	74,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Google Gemini",
+	30,
+	476,
+	"lonely \"]\"",
+	"]"
+],[
+	"Góry Lasochowskie",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Grabowszczyzna",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Gradek",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Gudband",
+	27,
+	3,
+	"lonely \"[\"",
+	"[["
+],[
+	"Gulkana (Alaska)",
+	17,
+	90,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Gustavus (Alaska)",
+	17,
+	104,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Haines (Alaska)",
+	17,
+	66,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Halibut Cove (Alaska)",
+	17,
+	84,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Holendry Bytońskie",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Hūi-lâi Hì-kio̍k-tâi",
+	4,
+	78,
+	"lonely \"]\"",
+	"]"
+],[
+	"Hūi-lâi Ji̍t-pún-tâi",
+	4,
+	78,
+	"lonely \"]\"",
+	"]"
+],[
+	"Hūi-lâi Tiān-iáⁿ-tâi",
+	4,
+	78,
+	"lonely \"]\"",
+	"]"
+],[
+	"Hûn-phû-chhī",
+	29,
+	2,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Iak-130",
+	30,
+	117,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Igarapé-Miri",
+	16,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Illinois chiu lu̍t-su kong-hōe",
+	21,
+	109,
+	"lonely \"]\"",
+	"]"
+],[
+	"Iûⁿ Chhì-chhiong",
+	2,
+	19,
+	"lonely \"[\"",
+	"[["
+],[
+	"Janicka",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Jaroty (Stawiguda Kong-siā)",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Jōe-ian bû-jîn-ki",
+	45,
+	92,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Kài-siū-kong-hn̂g",
+	52,
+	35,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Kamienny Krzyż",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Karak (Hamadan)",
+	27,
+	3,
+	"lonely \"[\"",
+	"[["
+],[
+	"Ké-gê",
+	31,
+	161,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Kh-59 ovod",
+	70,
+	91,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Kià-seⁿ-á",
+	7,
+	25,
+	"lonely \"]\"",
+	"]"
+],[
+	"Kideksha",
+	15,
+	192,
+	"lonely \"[\"",
+	"[["
+],[
+	"Kin chiu-khan",
+	48,
+	113,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Kin-chio",
+	31,
+	323,
+	"lonely \"[\"",
+	"[["
+],[
+	"Koan Kiān (chông-cheng chìn-sū)",
+	4,
+	142,
+	"lonely \"}\"",
+	"}"
+],[
+	"Koeh Soat-hû",
+	22,
+	52,
+	"lonely \"]\"",
+	"]"
+],[
+	"Kolonia Chalińska",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Kolonia Serocka",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Koprusza",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Krasnoye Ekho",
+	16,
+	203,
+	"lonely \"[\"",
+	"[["
+],[
+	"Kuroda Haruhiko",
+	12,
+	111,
+	"lonely \"}\"",
+	"}"
+],[
+	"Kusheh-ye Olya (Lâm Khorasan)",
+	1,
+	11,
+	"lonely \"[\"",
+	"[["
+],[
+	"Lanckorona",
+	28,
+	96,
+	"lonely \"[\"",
+	"[["
+],[
+	"Lêng-tek-chhī",
+	320,
+	96,
+	"lonely \"[\"",
+	"[["
+],[
+	"Lîm Hàu-thêng",
+	35,
+	124,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Liông-sîn Kiat-sî",
+	41,
+	30,
+	"lonely \"{\"",
+	"{"
+],[
+	"Lô-má hông-tè lia̍t-toaⁿ",
+	182,
+	88,
+	"lonely \"[\"",
+	"[["
+],[
+	"Lōa Hông-sêng",
+	93,
+	123,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Loureiro (Oliveira de Azeméis)",
+	17,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Lubczyna (Łódź Séng)",
+	9,
+	28,
+	"lonely \"[\"",
+	"[[["
+],[
+	"Lūi-pia̍t:Adamantina Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Afonso Cláudio Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Aglomeração Urbana de São Luís Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Agreste de Itabaiana Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Agreste de Lagarto Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Agreste Potiguar Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Aimorés Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Alagoinhas Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Alegre Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Alfenas Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Almeirim Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Almenara Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Alta Floresta Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Altamira Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Alto Araguaia Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Alto Capibaribe Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Alto Guaporé Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Alto Mearim e Grajaú Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Alto Médio Canindé Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Alto Médio Gurgueia Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Alto Pantanal Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Alto Paraguai Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Alto Parnaíba Piauiense Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Alto Solimões Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Alto Taquari Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Alto Teles Pires Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Alvorada d'Oeste Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Amapá Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Amparo Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Anápolis Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Andradina Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Andrelândia Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Angicos Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Anicuns Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Apucarana Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Aquidauana Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Aracaju Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Araçatuba Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Araçuaí Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Aragarças Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Araguaína Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Arapiraca Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Araranguá Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Araraquara Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Arari Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Araripina Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Araxá Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Arinos Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Aripuanã Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Ariquemes Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Assaí Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Assis Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Astorga Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Auriflama Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Avaré Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Bacia de São João Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Baía da Ilha Grande Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Baixa Verde Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Baixada Maranhense Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Baixo Cotinguiba Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Baixo Curu Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Baixo Jaguaribe Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Baixo Pantanal Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Baixo Parnaíba Maranhense Sió-khu",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Chheng-kok kèng-chhat",
+	1,
+	9,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Lūi-pia̍t:Hàn-jī-im bô-khak-tēng ê bûn",
+	1,
+	62,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Lūi-pia̍t:Hoat-tiān",
+	2,
+	34,
+	"lonely \"]\"",
+	"]"
+],[
+	"Lūi-pia̍t:I-chheh",
+	2,
+	2,
+	"lonely \"[\"",
+	"[["
+],[
+	"Lūi-pia̍t:Koh kok ê teng-thah",
+	1,
+	24,
+	"lonely \"]\"",
+	"]"
+],[
+	"Lūi-pia̍t:Kok chham-sò͘ lūi-pia̍t",
+	3,
+	32,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Lūi-pia̍t:Lio̍k-poâⁿ-chúi-chhī",
+	1,
+	1,
+	"lonely \"[\"",
+	"[[["
+],[
+	"Lūi-pia̍t:Magallanes tē-khu ê chúi-e̍k",
+	2,
+	2,
+	"lonely \"[\"",
+	"[["
+],],batches:2,timestamp:"2025-03-20"}

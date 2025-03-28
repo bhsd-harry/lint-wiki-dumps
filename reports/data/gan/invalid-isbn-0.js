@@ -1,1 +1,13 @@
-window.data={"articles":[["宋應星",150,25,"invalid ISBN","ISBN 750116203X"],["星星過洲",3,91,"invalid ISBN","ISBN 9-7872-1004-1"]],"batches":1}
+window.data={"articles":[[
+	"宋應星",
+	150,
+	25,
+	"invalid ISBN",
+	"ISBN 750116203X"
+],[
+	"星星過洲",
+	3,
+	91,
+	"invalid ISBN",
+	"ISBN 9-7872-1004-1"
+],],batches:1,timestamp:"2025-03-20"}

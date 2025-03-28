@@ -1198,4 +1198,4 @@ window.data={"articles":[[
 	3,
 	"duplicated parameter",
 	" 管理者           = [[環境省]]\n "
-],],"batches":43}
+],],batches:43,timestamp:"2025-03-20"}

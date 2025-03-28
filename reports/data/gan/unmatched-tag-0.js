@@ -1,1 +1,343 @@
-window.data={"articles":[["AFI嗰世紀百大名言",21,22,"tag that is both closing and self-closing","</br>"],["MediaWiki:Edittools",86,74,"unmatched closing tag","</span>"],["Portal:化學",52,2,"unmatched closing tag","</div>"],["Portal:歐洲",56,2,"unmatched closing tag","</div>"],["Wikipedia:全靚文章/存檔",11,75,"tag that is both closing and self-closing","</br>"],["Wikipedia:廳下/存檔1",274,26,"tag that is both closing and self-closing","</br>"],["Wikipedia:廳下/消息/存档一",6066,2,"unmatched closing tag","</div>"],["Wikipedia:新出嗰事",88,2,"unmatched closing tag","</div>"],["Wikipedia:許年今日",20,831,"unmatched closing tag","</small>"],["三界",8,19,"tag that is both closing and self-closing","</br>"],["上高話",17,13,"tag that is both closing and self-closing","</br>"],["倫敦",42,28,"tag that is both closing and self-closing","</br>"],["元素週期表",197,2,"unmatched closing tag","</center>"],["光明寺",3,40,"tag that is both closing and self-closing","</br>"],["劉同升",21,27,"tag that is both closing and self-closing","</br>"],["南昌話與《廣韻》嗰對應關係",12,47,"tag that is both closing and self-closing","</br>"],["叭呔語",1,62,"tag that is both closing and self-closing","</br>"],["大報恩寺",13,47,"tag that is both closing and self-closing","</br>"],["大法寺",3,48,"tag that is both closing and self-closing","</br>"],["安樂寺",3,67,"tag that is both closing and self-closing","</br>"],["宋和慶",12,2,"tag that is both closing and self-closing","</br>"],["宋士元",6,206,"tag that is both closing and self-closing","</br>"],["宋應昇",47,321,"tag that is both closing and self-closing","</br>"],["宋應星",59,83,"tag that is both closing and self-closing","</br>"],["宋承慶",16,2,"tag that is both closing and self-closing","</br>"],["室生寺",3,50,"tag that is both closing and self-closing","</br>"],["封面",45,2,"unmatched closing tag","</div>"],["工業革命",39,111,"tag that is both closing and self-closing","</br>"],["幫助:坐備",3,39,"tag that is both closing and self-closing","</br>"],["思憐詩",16,27,"tag that is both closing and self-closing","</br>"],["慧遠",13,24,"tag that is both closing and self-closing","</br>"],["撲克",21,6,"tag that is both closing and self-closing","</br>"],["日本史時代區分表",6,10,"unmatched closing tag","</td>"],["明王院",3,70,"tag that is both closing and self-closing","</br>"],["朱常汭",5,17,"tag that is both closing and self-closing","</br>"],["正福寺",3,31,"tag that is both closing and self-closing","</br>"],["江西嗰全國重點文物保護單位一覽",901,2,"unmatched closing tag","</center>"],["沙門不敬王者論",5,42,"tag that is both closing and self-closing","</br>"],["涂紹煃",47,43,"tag that is both closing and self-closing","</br>"],["瑞巖寺",3,88,"tag that is both closing and self-closing","</br>"],["瑞龍寺",3,56,"tag that is both closing and self-closing","</br>"],["百丈山",3,27,"tag that is both closing and self-closing","</br>"],["萬時華",8,27,"tag that is both closing and self-closing","</br>"],["美利堅合眾國憲法嗰第三條",12,694,"tag that is both closing and self-closing","</br>"],["美利堅合眾國憲法嗰第六條",4,200,"tag that is both closing and self-closing","</br>"],["美利堅合眾國憲法嗰第四條",14,123,"tag that is both closing and self-closing","</br>"],["自由意志",3,66,"tag that is both closing and self-closing","</br>"],["莫扎特",1117,8,"unmatched closing tag","</div>"],["裡海",9,129,"unmatched closing tag","</i>"],["西本願寺",3,55,"tag that is both closing and self-closing","</br>"],["議會 (江西)",62,41,"tag that is both closing and self-closing","</br>"],["過零丁洋",6,10,"tag that is both closing and self-closing","</br>"],["金剛輪寺",3,48,"tag that is both closing and self-closing","</br>"],["鐵柱仙蹤",3,15,"tag that is both closing and self-closing","</br>"],["阿拉伯字母",17,99,"unclosed tag","<font>"],["阿歷山德·麥琨",14,85,"tag that is both closing and self-closing","</br>"],["高山寺",3,54,"tag that is both closing and self-closing","</br>"]],"batches":1}
+window.data={"articles":[[
+	"AFI嗰世紀百大名言",
+	21,
+	22,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"MediaWiki:Edittools",
+	86,
+	74,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Portal:化學",
+	52,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Portal:歐洲",
+	56,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:全靚文章/存檔",
+	11,
+	75,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:廳下/存檔1",
+	274,
+	26,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:廳下/消息/存档一",
+	6066,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:新出嗰事",
+	88,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"Wikipedia:許年今日",
+	20,
+	831,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"三界",
+	8,
+	19,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"上高話",
+	17,
+	13,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"倫敦",
+	42,
+	28,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"元素週期表",
+	197,
+	2,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"光明寺",
+	3,
+	40,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"劉同升",
+	21,
+	27,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"南昌話與《廣韻》嗰對應關係",
+	12,
+	47,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"叭呔語",
+	1,
+	62,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"大報恩寺",
+	13,
+	47,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"大法寺",
+	3,
+	48,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"安樂寺",
+	3,
+	67,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"宋和慶",
+	12,
+	2,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"宋士元",
+	6,
+	206,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"宋應昇",
+	47,
+	321,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"宋應星",
+	59,
+	83,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"宋承慶",
+	16,
+	2,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"室生寺",
+	3,
+	50,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"封面",
+	45,
+	2,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"工業革命",
+	39,
+	111,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"幫助:坐備",
+	3,
+	39,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"思憐詩",
+	16,
+	27,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"慧遠",
+	13,
+	24,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"撲克",
+	21,
+	6,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"日本史時代區分表",
+	6,
+	10,
+	"unmatched closing tag",
+	"</td>"
+],[
+	"明王院",
+	3,
+	70,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"朱常汭",
+	5,
+	17,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"正福寺",
+	3,
+	31,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"江西嗰全國重點文物保護單位一覽",
+	901,
+	2,
+	"unmatched closing tag",
+	"</center>"
+],[
+	"沙門不敬王者論",
+	5,
+	42,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"涂紹煃",
+	47,
+	43,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"瑞巖寺",
+	3,
+	88,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"瑞龍寺",
+	3,
+	56,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"百丈山",
+	3,
+	27,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"萬時華",
+	8,
+	27,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"美利堅合眾國憲法嗰第三條",
+	12,
+	694,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"美利堅合眾國憲法嗰第六條",
+	4,
+	200,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"美利堅合眾國憲法嗰第四條",
+	14,
+	123,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"自由意志",
+	3,
+	66,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"莫扎特",
+	1117,
+	8,
+	"unmatched closing tag",
+	"</div>"
+],[
+	"裡海",
+	9,
+	129,
+	"unmatched closing tag",
+	"</i>"
+],[
+	"西本願寺",
+	3,
+	55,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"議會 (江西)",
+	62,
+	41,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"過零丁洋",
+	6,
+	10,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"金剛輪寺",
+	3,
+	48,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"鐵柱仙蹤",
+	3,
+	15,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"阿拉伯字母",
+	17,
+	99,
+	"unclosed tag",
+	"<font>"
+],[
+	"阿歷山德·麥琨",
+	14,
+	85,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"高山寺",
+	3,
+	54,
+	"tag that is both closing and self-closing",
+	"</br>"
+],],batches:1,timestamp:"2025-03-20"}

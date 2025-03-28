@@ -4,4 +4,4 @@ window.data={"articles":[[
 	1,
 	"content to be moved out from the table",
 	" [[File:2009-07-20 wpy 07.JPG|right|150px]]\n Yá-têu mióng-ya̍p he [http://www.et"
-],],"batches":1}
+],],batches:1,timestamp:"2025-03-20"}

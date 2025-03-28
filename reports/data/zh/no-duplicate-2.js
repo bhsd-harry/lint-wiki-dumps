@@ -1198,4 +1198,4 @@ window.data={"articles":[[
 	1,
 	"duplicated category",
 	"[[Category:各国背景小说|France ]]"
-],],"batches":43}
+],],batches:43,timestamp:"2025-03-20"}

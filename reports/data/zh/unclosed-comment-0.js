@@ -94,4 +94,4 @@ window.data={"articles":[[
 	284,
 	"unclosed HTML comment",
 	"<!--「でじこ!?」と驚いているシーンが存在するので、やはりその前のシーンで「でじこ」呼びしているのは矛盾している--〉。"
-],],"batches":1}
+],],batches:1,timestamp:"2025-03-20"}

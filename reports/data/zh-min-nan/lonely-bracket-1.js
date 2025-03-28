@@ -1,1 +1,679 @@
-window.data={"articles":[["Lūi-pia̍t:Rengel (Tuban)",1,1,"lonely \"[\"","[["],["Lūi-pia̍t:Siàm-thàu hù-chō͘",5,2,"lonely \"[\"","[["],["Lūi-pia̍t:Siōng-hái-chhī ê phok-bu̍t-koán",6,43,"lonely \"]\"","]]"],["Lūi-pia̍t:Thoân-soat ê sū-bu̍t",1,27,"lonely \"]\"","]"],["Lūi-pia̍t:Zaza-gú",3,28,"lonely \"]\"","]]"],["Łumbie",1,1,"lonely \"{\"","{{"],["Luxor Sîn-biō",23,26,"lonely \"[\"","[[["],["Mazraeh-ye Gholam Reza Fuladiyan",1,1,"lonely \"{\"","{{"],["MediaWiki:Gadget-HotCat",1,139,"lonely \"]\"","]"],["Mendiga",17,20,"lonely \"[\"","[["],["Młodzawy Małe",1,1,"lonely \"{\"","{{"],["Monte da Pedra",17,20,"lonely \"[\"","[["],["NBC",1,282,"lonely \"]\"","]"],["NetBeans",55,57,"lonely \"}\"","}}"],["North Carolina",61,21,"lonely \"[\"","[["],["Obdzekt 279",66,57,"lonely \"}\"","}}"],["Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail",17,20,"lonely \"[\"","[["],["Olmos",17,20,"lonely \"[\"","[["],["Ong Eng-kau",6,910,"lonely \"{\"","{"],["Opatówek",11,99,"lonely \"]\"","]]"],["Ostrężnik",11,56,"lonely \"]\"","]]]]"],["Pang-chān:Lūi-pia̍t",3,213,"lonely \"[\"","[["],["Pang-chān:Tâi-oân-ōe",75,26,"lonely \"]\"","]"],["Pang-chān:中華人民共和國",134,268,"lonely \"]\"","]]"],["Pang-chān:台灣的越南人",4,181,"lonely \"]\"","]"],["Pang-chān:新北市",231,10,"lonely \"]\"","]]"],["Pang-chān:林佳緯",39,60,"lonely \"}\"","}}"],["Pang-chān:林孝程",36,58,"lonely \"}\"","}}"],["Pang-chān:淡水信義線",26,26,"lonely \"]\"","]]"],["Pang-chān:福州話",70,45,"lonely \"]\"","]"],["Pang-chān:臺中洲際野球場",21,226,"lonely \"{\"","{{"],["Pêng-súi ūn",1,406,"lonely \"}\"","}"],["Petreliai",1,1,"lonely \"{\"","{{"],["Pinheiro (Castro Daire)",17,20,"lonely \"[\"","[["],["Pobiednik Mały",9,100,"lonely \"]\"","]]"],["Pobiednik Wielki",9,100,"lonely \"]\"","]]"],["Podgorica",40,42,"lonely \"]\"","]]"],["Portal:Le̍k-sú/Intro",1,759,"lonely \"]\"","]]"],["Portal:Tē-lí/Selected anniversaries/10 goe̍h",2,51,"lonely \"]\"","]"],["Ramjerd",1,1,"lonely \"{\"","{{"],["Ramsar (Mazandaran)",1,1,"lonely \"{\"","{{"],["Rembrandt van Rijn",123,75,"lonely \"]\"","]]"],["Rengel (Tuban)",1,1,"lonely \"{\"","{{"],["Rudniki (Opole Séng)",11,96,"lonely \"]\"","]]"],["Rytovo",16,193,"lonely \"[\"","[["],["Safiabad (Pak Khorasan)",15,50,"lonely \"]\"","]]]]"],["Sái",17,4,"lonely \"[\"","["],["Salvador (Chamusca)",17,20,"lonely \"[\"","[["],["Sanandaj",1,1,"lonely \"{\"","{{"],["Santo Aleixo da Restauração",17,20,"lonely \"[\"","[["],["Seixas (Caminha)",17,20,"lonely \"[\"","[["],["Semideiro",17,20,"lonely \"[\"","[["],["Sertã (freguesia)",17,20,"lonely \"[\"","[["],["Shiroky (Amur Chiu)",18,177,"lonely \"[\"","[["],["Sildenafil",5,19,"lonely \"{\"","{"],["Sin tâi-bûn",120,49,"lonely \"}\"","}}"],["Sò͘-ha̍k",51,405,"lonely \"]\"","]]"],["Sochy (Warmia-Masuria Séng)",11,84,"lonely \"]\"","]]"],["Spring Lake (Indiana)",22,2,"lonely \"}\"","}}"],["Starye Bobovichi",16,211,"lonely \"[\"","[["],["Stirniškiai (Kupiškis)",1,1,"lonely \"{\"","{{"],["Tâi-gú thong-iōng pheng-im",118,49,"lonely \"}\"","}}"],["Tâi-oân Hàn-jîn",1,447,"lonely \"{\"","{"],["Tâi-oân jîn-thé seng-bu̍t chu-liāu-khò͘",45,203,"lonely \"}\"","}"],["Tâi-oân Séng-tō",105,59,"lonely \"[\"","[["],["Tāi-sūn (Tāi-se)",53,25,"lonely \"]\"","]]"],["Tâi-tiong Chia̍t-ūn Le̍k-sòaⁿ",19,91,"lonely \"[\"","[["],["Tâi-tiong Chiu-chè Iá-kiû-tiûⁿ",21,188,"lonely \"{\"","{{"],["Tân Bûn-kia̍t",39,29,"lonely \"]\"","]]"],["Tân Sîn-ui",34,37,"lonely \"]\"","]]"],["Tân Ūn-bûn (iá-kiû)",87,149,"lonely \"]\"","]]"],["Tē-1 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng",25,146,"lonely \"{\"","{"],["Tē-2 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng",25,146,"lonely \"{\"","{"],["Tē-3 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng",25,146,"lonely \"{\"","{"],["Tē-4 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng",25,146,"lonely \"{\"","{"],["Tē-5 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng",25,146,"lonely \"{\"","{"],["Tē-6 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng",25,146,"lonely \"{\"","{"],["Tē-7 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng",25,146,"lonely \"{\"","{"],["Tē-8 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng",25,146,"lonely \"{\"","{"],["Thalassodromeus",94,110,"lonely \"]\"","]"],["The Rolling Stones",43,184,"lonely \"}\"","}}"],["Thong-iōng türk jī-bió",467,12,"lonely \"]\"","]]"],["Tiong-hôa It-hoan!",12,31,"lonely \"{\"","{"],["Tocha (Cantanhede)",17,20,"lonely \"[\"","[["],["Trzemeśnia",28,97,"lonely \"[\"","[["],["U̱",55,194,"lonely \"]\"","]"],["Ú (tiān-sī pîn-tō)",60,103,"lonely \"[\"","["],["Ust'-Nyukzha",15,173,"lonely \"[\"","[["],["Užliedžiai Tiúⁿ-ló-khu",11,28,"lonely \"[\"","[["],["Vercurago",30,2,"lonely \"{\"","{{"],["Victoria Koblenko",1,1,"lonely \"[\"","[["],["Wikipedia:All system messages",183,92,"lonely \"]\"","]]"],["Wikipedia:Chhiū-á-kha",1023,176,"lonely \"{\"","{{"],["Wikipedia:Chhiū-á-kha/Chhng-khò͘ 1",54,1255,"lonely \"[\"","["],["Wikipedia:Chhiū-á-kha/Chhng-khò͘ 6",630,263,"lonely \"[\"","["],["Wikipedia:Deletion log",7,148,"lonely \"]\"","]]"],["Wikipedia:MediaWiki",15,184,"lonely \"[\"","["],["Wikipedia:Só͘-ū ê Wikipedia pán-pún lóng èng-kai ū ê bûn-chiuⁿ",286,16,"lonely \"[\"","[["],["Wikipedia:Upload log",6,152,"lonely \"}\"","}}"],["Wikipedia:漢字兮用字規範",4,157,"lonely \"{\"","{{"],["Wola Popowa",31,3,"lonely \"[\"","[["],["Yahari Ore no Seishun Love Comedy wa Matigatteiru.",16,49,"lonely \"{\"","{"],["Z̦",33,178,"lonely \"}\"","}}"],["Zasady (Podlaskie Séng)",11,66,"lonely \"]\"","]]"],["Żbiki-Kierzki",11,96,"lonely \"]\"","]]"],["Zibad",39,58,"lonely \"]\"","]]"],["Zibad Hiong",32,58,"lonely \"]\"","]]"],["Ж",4,2,"lonely \"{\"","{{"],["Ӄ",31,447,"lonely \"}\"","}"],["多核",1,26,"lonely \"]\"","]"],["模組:Jct/doc",5,46,"lonely \"}\"","}}"],["模組:WikidataIB/doc",375,248,"lonely \"[\"","[["],["湖",1,21,"lonely \"]\"","]"]],"batches":2}
+window.data={"articles":[[
+	"Lūi-pia̍t:Rengel (Tuban)",
+	1,
+	1,
+	"lonely \"[\"",
+	"[["
+],[
+	"Lūi-pia̍t:Siàm-thàu hù-chō͘",
+	5,
+	2,
+	"lonely \"[\"",
+	"[["
+],[
+	"Lūi-pia̍t:Siōng-hái-chhī ê phok-bu̍t-koán",
+	6,
+	43,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Lūi-pia̍t:Thoân-soat ê sū-bu̍t",
+	1,
+	27,
+	"lonely \"]\"",
+	"]"
+],[
+	"Lūi-pia̍t:Zaza-gú",
+	3,
+	28,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Łumbie",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Luxor Sîn-biō",
+	23,
+	26,
+	"lonely \"[\"",
+	"[[["
+],[
+	"Mazraeh-ye Gholam Reza Fuladiyan",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"MediaWiki:Gadget-HotCat",
+	1,
+	139,
+	"lonely \"]\"",
+	"]"
+],[
+	"Mendiga",
+	17,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Młodzawy Małe",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Monte da Pedra",
+	17,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"NBC",
+	1,
+	282,
+	"lonely \"]\"",
+	"]"
+],[
+	"NetBeans",
+	55,
+	57,
+	"lonely \"}\"",
+	"}}"
+],[
+	"North Carolina",
+	61,
+	21,
+	"lonely \"[\"",
+	"[["
+],[
+	"Obdzekt 279",
+	66,
+	57,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail",
+	17,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Olmos",
+	17,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Ong Eng-kau",
+	6,
+	910,
+	"lonely \"{\"",
+	"{"
+],[
+	"Opatówek",
+	11,
+	99,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Ostrężnik",
+	11,
+	56,
+	"lonely \"]\"",
+	"]]]]"
+],[
+	"Pang-chān:Lūi-pia̍t",
+	3,
+	213,
+	"lonely \"[\"",
+	"[["
+],[
+	"Pang-chān:Tâi-oân-ōe",
+	75,
+	26,
+	"lonely \"]\"",
+	"]"
+],[
+	"Pang-chān:中華人民共和國",
+	134,
+	268,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Pang-chān:台灣的越南人",
+	4,
+	181,
+	"lonely \"]\"",
+	"]"
+],[
+	"Pang-chān:新北市",
+	231,
+	10,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Pang-chān:林佳緯",
+	39,
+	60,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Pang-chān:林孝程",
+	36,
+	58,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Pang-chān:淡水信義線",
+	26,
+	26,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Pang-chān:福州話",
+	70,
+	45,
+	"lonely \"]\"",
+	"]"
+],[
+	"Pang-chān:臺中洲際野球場",
+	21,
+	226,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Pêng-súi ūn",
+	1,
+	406,
+	"lonely \"}\"",
+	"}"
+],[
+	"Petreliai",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Pinheiro (Castro Daire)",
+	17,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Pobiednik Mały",
+	9,
+	100,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Pobiednik Wielki",
+	9,
+	100,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Podgorica",
+	40,
+	42,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Portal:Le̍k-sú/Intro",
+	1,
+	759,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Portal:Tē-lí/Selected anniversaries/10 goe̍h",
+	2,
+	51,
+	"lonely \"]\"",
+	"]"
+],[
+	"Ramjerd",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Ramsar (Mazandaran)",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Rembrandt van Rijn",
+	123,
+	75,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Rengel (Tuban)",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Rudniki (Opole Séng)",
+	11,
+	96,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Rytovo",
+	16,
+	193,
+	"lonely \"[\"",
+	"[["
+],[
+	"Safiabad (Pak Khorasan)",
+	15,
+	50,
+	"lonely \"]\"",
+	"]]]]"
+],[
+	"Sái",
+	17,
+	4,
+	"lonely \"[\"",
+	"["
+],[
+	"Salvador (Chamusca)",
+	17,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Sanandaj",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Santo Aleixo da Restauração",
+	17,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Seixas (Caminha)",
+	17,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Semideiro",
+	17,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Sertã (freguesia)",
+	17,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Shiroky (Amur Chiu)",
+	18,
+	177,
+	"lonely \"[\"",
+	"[["
+],[
+	"Sildenafil",
+	5,
+	19,
+	"lonely \"{\"",
+	"{"
+],[
+	"Sin tâi-bûn",
+	120,
+	49,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Sò͘-ha̍k",
+	51,
+	405,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Sochy (Warmia-Masuria Séng)",
+	11,
+	84,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Spring Lake (Indiana)",
+	22,
+	2,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Starye Bobovichi",
+	16,
+	211,
+	"lonely \"[\"",
+	"[["
+],[
+	"Stirniškiai (Kupiškis)",
+	1,
+	1,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Tâi-gú thong-iōng pheng-im",
+	118,
+	49,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Tâi-oân Hàn-jîn",
+	1,
+	447,
+	"lonely \"{\"",
+	"{"
+],[
+	"Tâi-oân jîn-thé seng-bu̍t chu-liāu-khò͘",
+	45,
+	203,
+	"lonely \"}\"",
+	"}"
+],[
+	"Tâi-oân Séng-tō",
+	105,
+	59,
+	"lonely \"[\"",
+	"[["
+],[
+	"Tāi-sūn (Tāi-se)",
+	53,
+	25,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Tâi-tiong Chia̍t-ūn Le̍k-sòaⁿ",
+	19,
+	91,
+	"lonely \"[\"",
+	"[["
+],[
+	"Tâi-tiong Chiu-chè Iá-kiû-tiûⁿ",
+	21,
+	188,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Tân Bûn-kia̍t",
+	39,
+	29,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Tân Sîn-ui",
+	34,
+	37,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Tân Ūn-bûn (iá-kiû)",
+	87,
+	149,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Tē-1 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng",
+	25,
+	146,
+	"lonely \"{\"",
+	"{"
+],[
+	"Tē-2 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng",
+	25,
+	146,
+	"lonely \"{\"",
+	"{"
+],[
+	"Tē-3 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng",
+	25,
+	146,
+	"lonely \"{\"",
+	"{"
+],[
+	"Tē-4 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng",
+	25,
+	146,
+	"lonely \"{\"",
+	"{"
+],[
+	"Tē-5 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng",
+	25,
+	146,
+	"lonely \"{\"",
+	"{"
+],[
+	"Tē-6 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng",
+	25,
+	146,
+	"lonely \"{\"",
+	"{"
+],[
+	"Tē-7 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng",
+	25,
+	146,
+	"lonely \"{\"",
+	"{"
+],[
+	"Tē-8 Hôe N̂g-kim-sî-tōaⁿ Emmy Chióng",
+	25,
+	146,
+	"lonely \"{\"",
+	"{"
+],[
+	"Thalassodromeus",
+	94,
+	110,
+	"lonely \"]\"",
+	"]"
+],[
+	"The Rolling Stones",
+	43,
+	184,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Thong-iōng türk jī-bió",
+	467,
+	12,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Tiong-hôa It-hoan!",
+	12,
+	31,
+	"lonely \"{\"",
+	"{"
+],[
+	"Tocha (Cantanhede)",
+	17,
+	20,
+	"lonely \"[\"",
+	"[["
+],[
+	"Trzemeśnia",
+	28,
+	97,
+	"lonely \"[\"",
+	"[["
+],[
+	"U̱",
+	55,
+	194,
+	"lonely \"]\"",
+	"]"
+],[
+	"Ú (tiān-sī pîn-tō)",
+	60,
+	103,
+	"lonely \"[\"",
+	"["
+],[
+	"Ust'-Nyukzha",
+	15,
+	173,
+	"lonely \"[\"",
+	"[["
+],[
+	"Užliedžiai Tiúⁿ-ló-khu",
+	11,
+	28,
+	"lonely \"[\"",
+	"[["
+],[
+	"Vercurago",
+	30,
+	2,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Victoria Koblenko",
+	1,
+	1,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wikipedia:All system messages",
+	183,
+	92,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Wikipedia:Chhiū-á-kha",
+	1023,
+	176,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Wikipedia:Chhiū-á-kha/Chhng-khò͘ 1",
+	54,
+	1255,
+	"lonely \"[\"",
+	"["
+],[
+	"Wikipedia:Chhiū-á-kha/Chhng-khò͘ 6",
+	630,
+	263,
+	"lonely \"[\"",
+	"["
+],[
+	"Wikipedia:Deletion log",
+	7,
+	148,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Wikipedia:MediaWiki",
+	15,
+	184,
+	"lonely \"[\"",
+	"["
+],[
+	"Wikipedia:Só͘-ū ê Wikipedia pán-pún lóng èng-kai ū ê bûn-chiuⁿ",
+	286,
+	16,
+	"lonely \"[\"",
+	"[["
+],[
+	"Wikipedia:Upload log",
+	6,
+	152,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Wikipedia:漢字兮用字規範",
+	4,
+	157,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Wola Popowa",
+	31,
+	3,
+	"lonely \"[\"",
+	"[["
+],[
+	"Yahari Ore no Seishun Love Comedy wa Matigatteiru.",
+	16,
+	49,
+	"lonely \"{\"",
+	"{"
+],[
+	"Z̦",
+	33,
+	178,
+	"lonely \"}\"",
+	"}}"
+],[
+	"Zasady (Podlaskie Séng)",
+	11,
+	66,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Żbiki-Kierzki",
+	11,
+	96,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Zibad",
+	39,
+	58,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Zibad Hiong",
+	32,
+	58,
+	"lonely \"]\"",
+	"]]"
+],[
+	"Ж",
+	4,
+	2,
+	"lonely \"{\"",
+	"{{"
+],[
+	"Ӄ",
+	31,
+	447,
+	"lonely \"}\"",
+	"}"
+],[
+	"多核",
+	1,
+	26,
+	"lonely \"]\"",
+	"]"
+],[
+	"模組:Jct/doc",
+	5,
+	46,
+	"lonely \"}\"",
+	"}}"
+],[
+	"模組:WikidataIB/doc",
+	375,
+	248,
+	"lonely \"[\"",
+	"[["
+],[
+	"湖",
+	1,
+	21,
+	"lonely \"]\"",
+	"]"
+],],batches:2,timestamp:"2025-03-20"}

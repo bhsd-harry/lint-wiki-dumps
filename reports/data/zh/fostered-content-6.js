@@ -1198,4 +1198,4 @@ window.data={"articles":[[
 	1,
 	"content to be moved out from the table",
 	" [[File:臺北駐日代表處及其辦事處轄區圖.png|600px|無框|center]]"
-],],"batches":9}
+],],batches:9,timestamp:"2025-03-20"}

@@ -1,1 +1,37 @@
-window.data={"articles":[["Báik-guá",5,49,"containing invalid attribute","  st#le=\"text-align:center;\""],["Bēng-nàng siáng",114,3,"containing invalid attribute","{{large"],["Câung-kṳ̆",6,104,"containing invalid attribute","1\"  "],["Šiprage",8,82,"containing invalid attribute"," #999; 100%"],["八卦",5,49,"containing invalid attribute","  st#le=\"text-align:center;\""],["士普拉格",7,82,"containing invalid attribute"," #999; 100%"]],"batches":1}
+window.data={"articles":[[
+	"Báik-guá",
+	5,
+	49,
+	"containing invalid attribute",
+	"  st#le=\"text-align:center;\""
+],[
+	"Bēng-nàng siáng",
+	114,
+	3,
+	"containing invalid attribute",
+	"{{large"
+],[
+	"Câung-kṳ̆",
+	6,
+	104,
+	"containing invalid attribute",
+	"1\"  "
+],[
+	"Šiprage",
+	8,
+	82,
+	"containing invalid attribute",
+	" #999; 100%"
+],[
+	"八卦",
+	5,
+	49,
+	"containing invalid attribute",
+	"  st#le=\"text-align:center;\""
+],[
+	"士普拉格",
+	7,
+	82,
+	"containing invalid attribute",
+	" #999; 100%"
+],],batches:1,timestamp:"2025-03-18"}

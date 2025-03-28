@@ -10,4 +10,4 @@ window.data={"articles":[[
 	2,
 	"unclosed HTML comment",
 	"<!--<nowiki>**</nowiki>Misogyny**\n\n Misogyny is the manifestation of deep-seated"
-],],"batches":1}
+],],batches:1,timestamp:"2025-03-20"}

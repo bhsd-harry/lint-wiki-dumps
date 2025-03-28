@@ -1,1 +1,55 @@
-window.data={"articles":[["2008年欧洲足球冠军赛资格赛A组",5,2,"unclosed table","{|"],["2008年欧洲足球冠军赛资格赛B组",5,2,"unclosed table","{|"],["2008年欧洲足球冠军赛资格赛C组",5,2,"unclosed table","{|"],["2008年欧洲足球冠军赛资格赛D组",5,2,"unclosed table","{|"],["2008年欧洲足球冠军赛资格赛E组",5,2,"unclosed table","{|"],["2008年欧洲足球冠军赛资格赛F组",5,2,"unclosed table","{|"],["2008年欧洲足球冠军赛资格赛G组",5,2,"unclosed table","{|"],["大韩民国",63,2,"unclosed table","{|"],["沙地言話",5,2,"unclosed table","{|"]],"batches":1}
+window.data={"articles":[[
+	"2008年欧洲足球冠军赛资格赛A组",
+	5,
+	2,
+	"unclosed table",
+	"{|"
+],[
+	"2008年欧洲足球冠军赛资格赛B组",
+	5,
+	2,
+	"unclosed table",
+	"{|"
+],[
+	"2008年欧洲足球冠军赛资格赛C组",
+	5,
+	2,
+	"unclosed table",
+	"{|"
+],[
+	"2008年欧洲足球冠军赛资格赛D组",
+	5,
+	2,
+	"unclosed table",
+	"{|"
+],[
+	"2008年欧洲足球冠军赛资格赛E组",
+	5,
+	2,
+	"unclosed table",
+	"{|"
+],[
+	"2008年欧洲足球冠军赛资格赛F组",
+	5,
+	2,
+	"unclosed table",
+	"{|"
+],[
+	"2008年欧洲足球冠军赛资格赛G组",
+	5,
+	2,
+	"unclosed table",
+	"{|"
+],[
+	"大韩民国",
+	63,
+	2,
+	"unclosed table",
+	"{|"
+],[
+	"沙地言話",
+	5,
+	2,
+	"unclosed table",
+	"{|"
+],],batches:1,timestamp:"2025-03-20"}

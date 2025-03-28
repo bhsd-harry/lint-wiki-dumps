@@ -1,1 +1,19 @@
-window.data={"articles":[["Hui-tôaⁿ",26,69,"internal link in an external link","[[Center for Strategic and International Studies]]"],["Io̍h-phín",5,922,"internal link in an external link","[[Medicine|medicinal]]"],["Lûi-tân tsiong",18,58,"internal link in an external link","[[Ayah]]"]],"batches":1}
+window.data={"articles":[[
+	"Hui-tôaⁿ",
+	26,
+	69,
+	"internal link in an external link",
+	"[[Center for Strategic and International Studies]]"
+],[
+	"Io̍h-phín",
+	5,
+	922,
+	"internal link in an external link",
+	"[[Medicine|medicinal]]"
+],[
+	"Lûi-tân tsiong",
+	18,
+	58,
+	"internal link in an external link",
+	"[[Ayah]]"
+],],batches:1,timestamp:"2025-03-20"}

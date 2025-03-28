@@ -28,8 +28,8 @@ const getErrors = (page) => {
     return JSON.parse(data.slice(j, data.indexOf('\n]', j) + 2));
 };
 (0, util_1.init)();
-const stream = (0, util_1.getXmlStream)(file.replace(/^~/u, os_1.default.homedir())), time = getTimestamp(), last = time && new Date(time), results = fs_1.default.createWriteStream(path_1.default.join(util_1.resultDir, `${site}.json`), { flags: restart ? 'a' : 'w' }), processor = new util_1.Processor(site, results);
-let i = 0, latest = last, stopping = false, restarted = !restart;
+const stream = (0, util_1.getXmlStream)(file.replace(/^~/u, os_1.default.homedir())), time = getTimestamp(), last = time && new Date(time), results = fs_1.default.createWriteStream(path_1.default.join(util_1.resultDir, `${site}.json`), { flags: restart ? 'a' : 'w' }), processor = new util_1.Processor(site, results, last);
+let i = 0, stopping = false, restarted = !restart;
 if (!restart) {
     results.write('{');
 }
@@ -39,8 +39,6 @@ results.on('close', () => {
 const stop = () => {
     stopping = true;
     processor.stop('parse', `Parsed ${i} pages`);
-    results.write(`${processor.comma}\n"#timestamp": ${JSON.stringify(latest)}\n}`);
-    results.end();
 };
 console.time('parse');
 stream.on('endElement: page', ({ title, ns, revision: { model, timestamp, text: { $text } } }) => {
@@ -59,8 +57,7 @@ stream.on('endElement: page', ({ title, ns, revision: { model, timestamp, text: 
             }
         }
         else {
-            latest = !latest || date > latest ? date : latest;
-            processor.lint($text, ns, title);
+            processor.lint($text, ns, title, date);
         }
     }
     else if (title === restart) {

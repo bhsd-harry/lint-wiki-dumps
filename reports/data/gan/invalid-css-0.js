@@ -1,1 +1,79 @@
-window.data={"articles":[["Wikipedia:五大支柱",2,77,"colon expected","="],["Wikipedia:廳下/2021年",217,76,"property value expected","#fffff"],["Wikipedia:廳下/消息/存档一",7262,70,"property value expected","#fffff"],["Wikipedia:機器人/申請/存檔",149,140,"semi-colon expected",""],["封面",87,77,"semi-colon expected","#C26DEFE"],["我是歌手 (第一季)",7,49,"semi-colon expected",""],["我是歌手 (第三季)",7,49,"semi-colon expected",""],["我是歌手 (第二季)",7,49,"semi-colon expected",""],["我是歌手 (第五季)",7,49,"semi-colon expected",""],["我是歌手 (第八季)",7,49,"semi-colon expected",""],["我是歌手 (第四季)",7,49,"semi-colon expected",""],["臺灣府",5,41,"colon expected","="],["西班牙語",111,35,"semi-colon expected",":"]],"batches":1}
+window.data={"articles":[[
+	"Wikipedia:五大支柱",
+	2,
+	77,
+	"colon expected",
+	"="
+],[
+	"Wikipedia:廳下/2021年",
+	217,
+	76,
+	"property value expected",
+	"#fffff"
+],[
+	"Wikipedia:廳下/消息/存档一",
+	7262,
+	70,
+	"property value expected",
+	"#fffff"
+],[
+	"Wikipedia:機器人/申請/存檔",
+	149,
+	140,
+	"semi-colon expected",
+	""
+],[
+	"封面",
+	87,
+	77,
+	"semi-colon expected",
+	"#C26DEFE"
+],[
+	"我是歌手 (第一季)",
+	7,
+	49,
+	"semi-colon expected",
+	""
+],[
+	"我是歌手 (第三季)",
+	7,
+	49,
+	"semi-colon expected",
+	""
+],[
+	"我是歌手 (第二季)",
+	7,
+	49,
+	"semi-colon expected",
+	""
+],[
+	"我是歌手 (第五季)",
+	7,
+	49,
+	"semi-colon expected",
+	""
+],[
+	"我是歌手 (第八季)",
+	7,
+	49,
+	"semi-colon expected",
+	""
+],[
+	"我是歌手 (第四季)",
+	7,
+	49,
+	"semi-colon expected",
+	""
+],[
+	"臺灣府",
+	5,
+	41,
+	"colon expected",
+	"="
+],[
+	"西班牙語",
+	111,
+	35,
+	"semi-colon expected",
+	":"
+],],batches:1,timestamp:"2025-03-20"}

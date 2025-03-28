@@ -1198,4 +1198,4 @@ window.data={"articles":[[
 	2,
 	"duplicated category",
 	"[[Category:被指控危害人类罪人物]]"
-],],"batches":43}
+],],batches:43,timestamp:"2025-03-20"}

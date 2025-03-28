@@ -610,4 +610,4 @@ window.data={"articles":[[
 	1,
 	"content to be moved out from the table",
 	"\n * [[佛教]]科<ref group=\"注\"  name=\"佛教科\">招生到2002年。停办于2007年</ref>\n * [[社会福利]][[学科]]\n"
-],],"batches":9}
+],],batches:9,timestamp:"2025-03-20"}

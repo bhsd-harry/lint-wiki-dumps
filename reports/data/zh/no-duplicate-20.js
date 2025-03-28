@@ -1198,4 +1198,4 @@ window.data={"articles":[[
 	2,
 	"duplicated category",
 	"[[Category:巴伐利亚州市镇]]"
-],],"batches":43}
+],],batches:43,timestamp:"2025-03-20"}

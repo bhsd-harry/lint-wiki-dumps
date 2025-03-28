@@ -1,1 +1,1 @@
-window.data=[["fostered-content",1],["illegal-attr",18],["invalid-css",5],["invalid-gallery",1],["lonely-apos",6],["lonely-bracket",35],["nested-link",1],["no-duplicate",34],["no-ignored",12],["tag-like",6],["unclosed-table",3],["unescaped",1],["unmatched-tag",87]]
+window.data=[["fostered-content",1],["illegal-attr",18],["invalid-css",5],["invalid-gallery",1],["lonely-apos",6],["lonely-bracket",35],["nested-link",1],["no-duplicate",34],["no-ignored",12],["tag-like",6],["unclosed-table",3],["unescaped",1],["unmatched-tag",87],"2025-03-20"]

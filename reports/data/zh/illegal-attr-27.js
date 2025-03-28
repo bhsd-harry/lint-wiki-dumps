@@ -1198,4 +1198,4 @@ window.data={"articles":[[
 	76,
 	"illegal attribute name",
 	"105.23"
-],],"batches":42}
+],],batches:42,timestamp:"2025-03-20"}

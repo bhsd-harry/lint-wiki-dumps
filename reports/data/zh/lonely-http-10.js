@@ -1198,4 +1198,4 @@ window.data={"articles":[[
 	266,
 	"lonely \"ISBN\"",
 	"ISBN"
-],],"batches":24}
+],],batches:24,timestamp:"2025-03-20"}

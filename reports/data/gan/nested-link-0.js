@@ -1,1 +1,13 @@
-window.data={"articles":[["努眉",9,100,"internal link in an external link","[[Shahram Shiva]]"],["波利具成土",3,233,"internal link in an external link","[[印度尼西亞]]"]],"batches":1}
+window.data={"articles":[[
+	"努眉",
+	9,
+	100,
+	"internal link in an external link",
+	"[[Shahram Shiva]]"
+],[
+	"波利具成土",
+	3,
+	233,
+	"internal link in an external link",
+	"[[印度尼西亞]]"
+],],batches:1,timestamp:"2025-03-20"}

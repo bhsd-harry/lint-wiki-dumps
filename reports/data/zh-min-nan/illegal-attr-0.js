@@ -1,1 +1,265 @@
-window.data={"articles":[["2015-nî Sè-kài Iá-kiû 12-kiông Pí-sài",39,13,"illegal attribute name","and"],["2019-nî Sè-kài Iá-kiû 12-kiông Pí-sài",45,13,"illegal attribute name","and"],["2024-nî Sè-kài Iá-kiû 12-kiông Pí-sài",45,13,"illegal attribute name","and"],["A-la-pek jī-bó",209,3,"illegal attribute name","IPA"],["Amuro Namie",365,3,"illegal attribute name","1align"],["Bí-kok koh chiu kap léng-thó͘ ê koân-tō͘ lia̍t-toaⁿ",4,32,"illegal attribute name","font"],["Canada ê séng kap léng-thó͘",20,4,"illegal attribute name","colpos"],["Chìn (ông-tiâu)",6,11,"illegal attribute name","width"],["Chóng-phò͘-sai (tiān-iáⁿ)",47,150,"illegal attribute name","contenteditable"],["Disney tōng-ōe tiān-iáⁿ lia̍t-pió",3,59,"illegal attribute name","of"],["Ē-mn̂g-ōe gú-im hē-thóng",37,37,"illegal attribute name","height"],["Esperanto",12,52,"illegal attribute name","bordercolor"],["Giljegiljaw Kungkuan",81,54,"illegal attribute name","1"],["Göttingen",23,17,"illegal attribute name","historic"],["Ko-lê-jī",140,38,"illegal attribute name","nowrap"],["Kok-chè Thài-khong-chām",2,16,"illegal attribute name","cellspacing"],["Kok-ka bêng-gī GDP lia̍t-toaⁿ",41,59,"illegal attribute name","colspan"],["Kok-ka GDP (PPP) lia̍t-toaⁿ",44,78,"illegal attribute name","colspan"],["Kok-ka kap i-lāi-tē jîn-kháu lia̍t-toaⁿ",75,658,"illegal attribute name","monthly"],["Kok-ka Kho-ha̍k kip Ki-su̍t Úi-oân-hōe",64,63,"illegal attribute name","text-align:"],["Lâm-sì-kak Chām",13,4,"illegal attribute name","table"],["Liân-hoe",17,37,"illegal attribute name","valign"],["Lugo Séng",5,5,"illegal attribute name","tablabonita"],["Michael Jackson",1416,4,"illegal attribute name","Michael"],["Ô͘ Kim-liông",134,69,"illegal attribute name","span"],["Onomiti Hukuyama Chū-tōng-chhia-tō",2,22,"illegal attribute name","border-style:"],["Pang-chān:2015年世界野球12強比賽",40,13,"illegal attribute name","and"],["Pang-chān:2019年世界野球12強比賽",46,13,"illegal attribute name","and"],["Pang-chān:2024年世界野球12強比賽",46,13,"illegal attribute name","and"],["Pang-chān:Giljegiljaw Kungkuan",82,43,"illegal attribute name","1"],["Pang-chān:國家GDP（PPP）列單",44,78,"illegal attribute name","colspan"],["Pang-chān:國家佮依賴地人口列單",75,654,"illegal attribute name","monthly"],["Pang-chān:胡金龍",135,69,"illegal attribute name","span"],["Pang-chān:西藏",8,108,"illegal attribute name","cellpadding"],["Pang-chān:電腦",35,4,"illegal attribute name","Colossus"],["Peptide",1,316,"illegal attribute name","by"],["Se-chōng",8,108,"illegal attribute name","cellpadding"],["Šiprage",44,71,"illegal attribute name","0.5em"],["Siú-to͘ lia̍t-toaⁿ (Àn-chiàu kok-ka pâi-lia̍t)",4,30,"illegal attribute name","border"],["Skandinavia",12,5,"illegal attribute name","width"],["Tâi-oân Séng-tō",7,38,"illegal attribute name","border"],["Thài-ló͘-koh-hō lia̍t-chhia pāi-bé sū-kò͘",160,17,"illegal attribute name","style:text-"],["Tiān-náu",34,4,"illegal attribute name","Colossus"],["Tó-sū Thiⁿ Kng",12,3,"illegal attribute name","nowrap"]],"batches":1}
+window.data={"articles":[[
+	"2015-nî Sè-kài Iá-kiû 12-kiông Pí-sài",
+	39,
+	13,
+	"illegal attribute name",
+	"and"
+],[
+	"2019-nî Sè-kài Iá-kiû 12-kiông Pí-sài",
+	45,
+	13,
+	"illegal attribute name",
+	"and"
+],[
+	"2024-nî Sè-kài Iá-kiû 12-kiông Pí-sài",
+	45,
+	13,
+	"illegal attribute name",
+	"and"
+],[
+	"A-la-pek jī-bó",
+	209,
+	3,
+	"illegal attribute name",
+	"IPA"
+],[
+	"Amuro Namie",
+	365,
+	3,
+	"illegal attribute name",
+	"1align"
+],[
+	"Bí-kok koh chiu kap léng-thó͘ ê koân-tō͘ lia̍t-toaⁿ",
+	4,
+	32,
+	"illegal attribute name",
+	"font"
+],[
+	"Canada ê séng kap léng-thó͘",
+	20,
+	4,
+	"illegal attribute name",
+	"colpos"
+],[
+	"Chìn (ông-tiâu)",
+	6,
+	11,
+	"illegal attribute name",
+	"width"
+],[
+	"Chóng-phò͘-sai (tiān-iáⁿ)",
+	47,
+	150,
+	"illegal attribute name",
+	"contenteditable"
+],[
+	"Disney tōng-ōe tiān-iáⁿ lia̍t-pió",
+	3,
+	59,
+	"illegal attribute name",
+	"of"
+],[
+	"Ē-mn̂g-ōe gú-im hē-thóng",
+	37,
+	37,
+	"illegal attribute name",
+	"height"
+],[
+	"Esperanto",
+	12,
+	52,
+	"illegal attribute name",
+	"bordercolor"
+],[
+	"Giljegiljaw Kungkuan",
+	81,
+	54,
+	"illegal attribute name",
+	"1"
+],[
+	"Göttingen",
+	23,
+	17,
+	"illegal attribute name",
+	"historic"
+],[
+	"Ko-lê-jī",
+	140,
+	38,
+	"illegal attribute name",
+	"nowrap"
+],[
+	"Kok-chè Thài-khong-chām",
+	2,
+	16,
+	"illegal attribute name",
+	"cellspacing"
+],[
+	"Kok-ka bêng-gī GDP lia̍t-toaⁿ",
+	41,
+	59,
+	"illegal attribute name",
+	"colspan"
+],[
+	"Kok-ka GDP (PPP) lia̍t-toaⁿ",
+	44,
+	78,
+	"illegal attribute name",
+	"colspan"
+],[
+	"Kok-ka kap i-lāi-tē jîn-kháu lia̍t-toaⁿ",
+	75,
+	658,
+	"illegal attribute name",
+	"monthly"
+],[
+	"Kok-ka Kho-ha̍k kip Ki-su̍t Úi-oân-hōe",
+	64,
+	63,
+	"illegal attribute name",
+	"text-align:"
+],[
+	"Lâm-sì-kak Chām",
+	13,
+	4,
+	"illegal attribute name",
+	"table"
+],[
+	"Liân-hoe",
+	17,
+	37,
+	"illegal attribute name",
+	"valign"
+],[
+	"Lugo Séng",
+	5,
+	5,
+	"illegal attribute name",
+	"tablabonita"
+],[
+	"Michael Jackson",
+	1416,
+	4,
+	"illegal attribute name",
+	"Michael"
+],[
+	"Ô͘ Kim-liông",
+	134,
+	69,
+	"illegal attribute name",
+	"span"
+],[
+	"Onomiti Hukuyama Chū-tōng-chhia-tō",
+	2,
+	22,
+	"illegal attribute name",
+	"border-style:"
+],[
+	"Pang-chān:2015年世界野球12強比賽",
+	40,
+	13,
+	"illegal attribute name",
+	"and"
+],[
+	"Pang-chān:2019年世界野球12強比賽",
+	46,
+	13,
+	"illegal attribute name",
+	"and"
+],[
+	"Pang-chān:2024年世界野球12強比賽",
+	46,
+	13,
+	"illegal attribute name",
+	"and"
+],[
+	"Pang-chān:Giljegiljaw Kungkuan",
+	82,
+	43,
+	"illegal attribute name",
+	"1"
+],[
+	"Pang-chān:國家GDP（PPP）列單",
+	44,
+	78,
+	"illegal attribute name",
+	"colspan"
+],[
+	"Pang-chān:國家佮依賴地人口列單",
+	75,
+	654,
+	"illegal attribute name",
+	"monthly"
+],[
+	"Pang-chān:胡金龍",
+	135,
+	69,
+	"illegal attribute name",
+	"span"
+],[
+	"Pang-chān:西藏",
+	8,
+	108,
+	"illegal attribute name",
+	"cellpadding"
+],[
+	"Pang-chān:電腦",
+	35,
+	4,
+	"illegal attribute name",
+	"Colossus"
+],[
+	"Peptide",
+	1,
+	316,
+	"illegal attribute name",
+	"by"
+],[
+	"Se-chōng",
+	8,
+	108,
+	"illegal attribute name",
+	"cellpadding"
+],[
+	"Šiprage",
+	44,
+	71,
+	"illegal attribute name",
+	"0.5em"
+],[
+	"Siú-to͘ lia̍t-toaⁿ (Àn-chiàu kok-ka pâi-lia̍t)",
+	4,
+	30,
+	"illegal attribute name",
+	"border"
+],[
+	"Skandinavia",
+	12,
+	5,
+	"illegal attribute name",
+	"width"
+],[
+	"Tâi-oân Séng-tō",
+	7,
+	38,
+	"illegal attribute name",
+	"border"
+],[
+	"Thài-ló͘-koh-hō lia̍t-chhia pāi-bé sū-kò͘",
+	160,
+	17,
+	"illegal attribute name",
+	"style:text-"
+],[
+	"Tiān-náu",
+	34,
+	4,
+	"illegal attribute name",
+	"Colossus"
+],[
+	"Tó-sū Thiⁿ Kng",
+	12,
+	3,
+	"illegal attribute name",
+	"nowrap"
+],],batches:1,timestamp:"2025-03-20"}

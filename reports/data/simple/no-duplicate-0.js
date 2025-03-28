@@ -1198,4 +1198,4 @@ window.data={"articles":[[
 	3,
 	"duplicated parameter",
 	" era              = {{circa|600 BC to 525 AD}}\n "
-],],"batches":2}
+],],batches:2,timestamp:"2025-03-20"}

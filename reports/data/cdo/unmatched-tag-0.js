@@ -1,1 +1,103 @@
-window.data={"articles":[["Ā (nguòng-só)",77,37,"unmatched closing tag","</sup>"],["Abraham Lincoln",17,45,"tag that is both closing and self-closing","</br>"],["Hĭ-lé-nà̤ cê-mō̤",13,26,"unmatched closing tag","</tr>"],["John F. Kennedy",16,45,"tag that is both closing and self-closing","</br>"],["Lâu-hū",22,27,"unclosed tag","<small>"],["MediaWiki:Sp-contributions-footer",7,916,"unmatched closing tag","</td>"],["Mī-guók",13,78,"unmatched closing tag","</small>"],["Radon",69,36,"unmatched closing tag","</sup>"],["Sì",4,1374,"unmatched closing tag","</span>"],["Wikipedia:Dŏng-nièng gĭng-dáng",27,1603,"unmatched closing tag","</small>"],["Wikipedia:Tiăng-dŏng/Archive 1",212,32,"tag that is both closing and self-closing","</br>"],["Wikipedia:Unicode擴展漢字",75,133,"tag that is both closing and self-closing","</br>"],["Wikipedia:當年今旦",27,853,"unmatched closing tag","</small>"],["國際標準書號",474,22,"tag that is both closing and self-closing","</br>"],["希利尼字母",13,20,"unmatched closing tag","</tr>"],["幫助:Ciŏng-iông tĕ̤k",41,8,"unclosed tag","<center>"],["福州市",70,2,"tag that is both closing and self-closing","</br>"]],"batches":1}
+window.data={"articles":[[
+	"Ā (nguòng-só)",
+	77,
+	37,
+	"unmatched closing tag",
+	"</sup>"
+],[
+	"Abraham Lincoln",
+	17,
+	45,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Hĭ-lé-nà̤ cê-mō̤",
+	13,
+	26,
+	"unmatched closing tag",
+	"</tr>"
+],[
+	"John F. Kennedy",
+	16,
+	45,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Lâu-hū",
+	22,
+	27,
+	"unclosed tag",
+	"<small>"
+],[
+	"MediaWiki:Sp-contributions-footer",
+	7,
+	916,
+	"unmatched closing tag",
+	"</td>"
+],[
+	"Mī-guók",
+	13,
+	78,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Radon",
+	69,
+	36,
+	"unmatched closing tag",
+	"</sup>"
+],[
+	"Sì",
+	4,
+	1374,
+	"unmatched closing tag",
+	"</span>"
+],[
+	"Wikipedia:Dŏng-nièng gĭng-dáng",
+	27,
+	1603,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"Wikipedia:Tiăng-dŏng/Archive 1",
+	212,
+	32,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:Unicode擴展漢字",
+	75,
+	133,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"Wikipedia:當年今旦",
+	27,
+	853,
+	"unmatched closing tag",
+	"</small>"
+],[
+	"國際標準書號",
+	474,
+	22,
+	"tag that is both closing and self-closing",
+	"</br>"
+],[
+	"希利尼字母",
+	13,
+	20,
+	"unmatched closing tag",
+	"</tr>"
+],[
+	"幫助:Ciŏng-iông tĕ̤k",
+	41,
+	8,
+	"unclosed tag",
+	"<center>"
+],[
+	"福州市",
+	70,
+	2,
+	"tag that is both closing and self-closing",
+	"</br>"
+],],batches:1,timestamp:"2025-03-18"}

@@ -1198,4 +1198,4 @@ window.data={"articles":[[
 	1,
 	"content to be moved out from the table",
 	" * 柔道整骨学科<ref group=\"注\"  name=\"柔道整骨学科\">日语:{{lang|ja|柔道整復学科}}</ref>"
-],],"batches":9}
+],],batches:9,timestamp:"2025-03-20"}

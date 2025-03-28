@@ -1,1 +1,13 @@
-window.data={"articles":[["Lūi-pia̍t:Rengel (Tuban)",1,17,"unclosed HTML comment","<!-- Koān ê hiong]]"],["Rengel (Tuban)",28,9,"unclosed HTML comment","<!-- Koān}}\n\n [[Lūi-pia̍t:Rengel (Tuban)| ]]\n [[Lūi-pia̍t:Tang Jawa ê hiong]]\n ["]],"batches":1}
+window.data={"articles":[[
+	"Lūi-pia̍t:Rengel (Tuban)",
+	1,
+	17,
+	"unclosed HTML comment",
+	"<!-- Koān ê hiong]]"
+],[
+	"Rengel (Tuban)",
+	28,
+	9,
+	"unclosed HTML comment",
+	"<!-- Koān}}\n\n [[Lūi-pia̍t:Rengel (Tuban)| ]]\n [[Lūi-pia̍t:Tang Jawa ê hiong]]\n ["
+],],batches:1,timestamp:"2025-03-20"}

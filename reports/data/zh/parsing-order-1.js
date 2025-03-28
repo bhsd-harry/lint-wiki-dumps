@@ -1198,4 +1198,4 @@ window.data={"articles":[[
 	3,
 	"extension tag in HTML tag attributes",
 	"<ref>{{Cite web|title=陸2青年赴俄戰場助陣！同袍拍片曝被送前線當砲灰 「僅存活一天」|url=https://tw.news.yahoo."
-],],"batches":10}
+],],batches:10,timestamp:"2025-03-20"}
