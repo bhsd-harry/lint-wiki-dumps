@@ -39,6 +39,7 @@ const resultDir = path.join(__dirname, 'results'),
 	wiki: Partial<Record<string, number>> = {},
 	siteDir = path.join(dataDir, lang!),
 	articlesDir = path.join(siteDir, 'pages');
+let latest: Date | undefined;
 mkdir(siteDir, true);
 mkdir(articlesDir);
 for (const file of dir) {
@@ -56,7 +57,9 @@ for (const file of dir) {
 	if (lang !== site) {
 		continue;
 	}
-	const data = fs.readFileSync(fileDir, 'utf8');
+	const data = fs.readFileSync(fileDir, 'utf8'),
+		date = new Date(data.substr(data.indexOf('\n"#timestamp": "') + 16, 10));
+	latest = !latest || date > latest ? date : latest;
 	for (const mt of data.matchAll(/^(".+"): \[$/gmu)) {
 		const page: string = JSON.parse(mt[1]!),
 			hash = createHash('sha256').update(page).digest('hex')
@@ -101,6 +104,7 @@ for (const file of dir) {
 		writeJS(info, path.join(site, 'pages', hash));
 	}
 }
+const timestamp = latest!.toISOString().slice(0, 10);
 
 // rule
 for (const [rule, [str, pages]] of ruleRecords) {
@@ -116,9 +120,9 @@ for (const [rule, [str, pages]] of ruleRecords) {
 			const index = str.indexOf(`[\n\t${JSON.stringify(page)}`);
 			stream.write(str.slice(index, str.indexOf('\n]', index) + 3));
 		}
-		stream.write(`],"batches":${batches}}`);
+		stream.write(`],batches:${batches},timestamp:"${timestamp}"}`);
 		stream.end();
 	}
 }
 writeJS([...summary].sort(compare), 'index');
-writeJS(Object.entries(wiki).sort(([a], [b]) => a.localeCompare(b)), path.join(lang!, 'index'));
+writeJS([...Object.entries(wiki).sort(([a], [b]) => a.localeCompare(b)), timestamp], path.join(lang!, 'index'));

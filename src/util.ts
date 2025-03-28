@@ -35,14 +35,16 @@ export const getXmlStream = (file: string): XmlStream => {
 
 export class Processor {
 	#failed = 0;
+	#comma = '';
 	#worst: {title: string, duration: number} | undefined;
-	#results: fs.WriteStream;
-	comma = '';
+	#results;
+	#latest;
 
 	/** @param site site nickname */
-	constructor(site: string, results: fs.WriteStream) {
+	constructor(site: string, results: fs.WriteStream, latest?: Date) {
 		Parser.config = `${site}wiki`;
 		this.#results = results;
+		this.#latest = latest;
 	}
 
 	/**
@@ -64,6 +66,8 @@ export class Processor {
 				),
 			);
 		}
+		this.#results.write(`${this.#comma}\n"#timestamp": ${JSON.stringify(this.#latest)}\n}`);
+		this.#results.end();
 	}
 
 	/**
@@ -73,9 +77,9 @@ export class Processor {
 	 */
 	newEntry(title: string, errors: LintError[]): void {
 		this.#results.write(
-			`${this.comma}\n${JSON.stringify(title)}: ${JSON.stringify(errors, null, '\t')}`,
+			`${this.#comma}\n${JSON.stringify(title)}: ${JSON.stringify(errors, null, '\t')}`,
 		);
-		this.comma ||= ',';
+		this.#comma ||= ',';
 	}
 
 	/**
@@ -83,8 +87,12 @@ export class Processor {
 	 * @param $text page text
 	 * @param ns page namespace
 	 * @param title page title
+	 * @param date page revision date
 	 */
-	lint($text: string, ns: string, title: string): void {
+	lint($text: string, ns: string, title: string, date: Date): void {
+		if (!this.#latest || date > this.#latest) {
+			this.#latest = date;
+		}
 		try {
 			const start = perf.now(),
 				errors = Parser.parse($text, ns === '828').lint()

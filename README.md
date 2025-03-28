@@ -31,7 +31,7 @@ npx lint-wiki-dumps zh-yue ~/Downloads/dumps
 or execute the Bash script `scan.sh` (single thread) or `scan-parallel.sh` (multi-core cluster) directly:
 
 ```sh
-bash scan.sh <language> <path to download>
+bash scan.sh <language> <path to download directory>
 # For example:
 bash scan.sh zh-yue ~/Downloads/dumps
 ```

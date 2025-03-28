@@ -30,6 +30,7 @@ const initJS = (file) => {
 };
 const compare = (a, b) => a.localeCompare(b);
 const resultDir = path_1.default.join(__dirname, 'results'), dir = fs_1.default.readdirSync(resultDir), summary = new Set(), ruleRecords = new Map(), wiki = {}, siteDir = path_1.default.join(dataDir, lang), articlesDir = path_1.default.join(siteDir, 'pages');
+let latest;
 mkdir(siteDir, true);
 mkdir(articlesDir);
 for (const file of dir) {
@@ -46,7 +47,8 @@ for (const file of dir) {
     if (lang !== site) {
         continue;
     }
-    const data = fs_1.default.readFileSync(fileDir, 'utf8');
+    const data = fs_1.default.readFileSync(fileDir, 'utf8'), date = new Date(data.substr(data.indexOf('\n"#timestamp": "') + 16, 10));
+    latest = !latest || date > latest ? date : latest;
     for (const mt of data.matchAll(/^(".+"): \[$/gmu)) {
         const page = JSON.parse(mt[1]), hash = (0, crypto_1.createHash)('sha256').update(page).digest('hex')
             .slice(0, 8), errors = JSON.parse(data.slice(mt.index + mt[0].length - 1, data.indexOf('\n]', mt.index) + 2)), rules = new Set(), info = [];
@@ -77,6 +79,7 @@ for (const file of dir) {
         writeJS(info, path_1.default.join(site, 'pages', hash));
     }
 }
+const timestamp = latest.toISOString().slice(0, 10);
 // rule
 for (const [rule, [str, pages]] of ruleRecords) {
     const batches = Math.ceil(pages.length / 200);
@@ -91,9 +94,9 @@ for (const [rule, [str, pages]] of ruleRecords) {
             const index = str.indexOf(`[\n\t${JSON.stringify(page)}`);
             stream.write(str.slice(index, str.indexOf('\n]', index) + 3));
         }
-        stream.write(`],"batches":${batches}}`);
+        stream.write(`],batches:${batches},timestamp:"${timestamp}"}`);
         stream.end();
     }
 }
 writeJS([...summary].sort(compare), 'index');
-writeJS(Object.entries(wiki).sort(([a], [b]) => a.localeCompare(b)), path_1.default.join(lang, 'index'));
+writeJS([...Object.entries(wiki).sort(([a], [b]) => a.localeCompare(b)), timestamp], path_1.default.join(lang, 'index'));

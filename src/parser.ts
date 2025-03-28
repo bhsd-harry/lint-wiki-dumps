@@ -36,9 +36,8 @@ const stream = getXmlStream(file!.replace(/^~/u, os.homedir())),
 	time = getTimestamp(),
 	last = time && new Date(time),
 	results = fs.createWriteStream(path.join(resultDir, `${site}.json`), {flags: restart ? 'a' : 'w'}),
-	processor = new Processor(site!, results);
+	processor = new Processor(site!, results, last as Date | undefined);
 let i = 0,
-	latest = last,
 	stopping = false,
 	restarted = !restart;
 
@@ -52,8 +51,6 @@ results.on('close', () => {
 const stop = (): void => {
 	stopping = true;
 	processor.stop('parse', `Parsed ${i} pages`);
-	results.write(`${processor.comma}\n"#timestamp": ${JSON.stringify(latest)}\n}`);
-	results.end();
 };
 
 console.time('parse');
@@ -71,8 +68,7 @@ stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$
 				processor.newEntry(title, previous);
 			}
 		} else {
-			latest = !latest || date > latest ? date : latest;
-			processor.lint($text, ns, title);
+			processor.lint($text, ns, title, date);
 		}
 	} else if (title === restart) {
 		restarted = true;

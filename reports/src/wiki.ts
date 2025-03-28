@@ -4,11 +4,13 @@
 		title = document.querySelector('title')!,
 		h2 = document.querySelector('h2')!,
 		tbody = document.querySelector('tbody')!;
-	h2.textContent = h2.textContent!.replace('Wikipedia', `${lang}.wikipedia.org`);
 	title.textContent = title.textContent!.replace('Wikipedia', `${lang}.wikipedia.org`);
 	script.src = `./data/${lang}/index.js`;
 	script.addEventListener('load', () => {
-		for (const [rule, count] of data as unknown as [string, number][]) {
+		h2.textContent = `${
+			h2.textContent!.replace('Wikipedia', `${lang}.wikipedia.org`)
+		} (${(data as unknown as string[]).slice(-1)[0]})`;
+		for (const [rule, count] of (data as unknown as [string, number][]).slice(0, -1)) {
 			const tr = document.createElement('tr'),
 				description = document.createElement('td'),
 				pages = document.createElement('td'),

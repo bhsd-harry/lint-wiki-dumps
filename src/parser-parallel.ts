@@ -58,15 +58,13 @@ if (cluster.isPrimary) {
 
 		const stop = (): void => {
 			processor.stop(`parse ${file}`, `Parsed ${i} pages from ${file}`);
-			results.write('\n}');
-			results.end();
 		};
 
 		console.time(`parse ${file}`);
-		stream.on('endElement: page', ({title, ns, revision: {model, text: {$text}}}) => {
+		stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$text}}}) => {
 			if (model === 'wikitext' && $text && ns !== '10') {
 				refreshStdout(`${i++} ${title}`);
-				processor.lint($text, ns, title);
+				processor.lint($text, ns, title, new Date(timestamp));
 			}
 		});
 		stream.on('end', stop);
