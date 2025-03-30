@@ -1,7 +1,7 @@
 #!/usr/local/bin/bash
 if (( $# < 2 ))
 then
-	echo 'Usage: npx lint-wiki-dumps <language> <path to download>'
+	echo 'Usage: npx lint-wiki-dumps <language> <path to download> [path to HTML output]'
 	echo 'Example: npx lint-wiki-dumps zh-yue ~/Downloads/dumps'
 	exit 1
 fi
@@ -15,9 +15,9 @@ files=$( \
 if (( ${#files} < 2 ))
 then
 	echo 'Switching to single-threaded mode'
-	bash scan.sh "$1" "$2"
+	bash scan.sh "$1" "$2" "$3"
 else
 	curl --output-dir "$2" --remote-name-all $files
 	npx getParserConfig "$site" "https://$1.wikipedia.org/w/"
-	node parser-parallel.js "$1" "$2" && node report.js "$1"
+	node parser-parallel.js "$1" "$2" && node report.js "$1" "$3"
 fi

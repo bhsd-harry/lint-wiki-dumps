@@ -23,7 +23,7 @@ npm i vscode-css-languageservice
 ## Usage
 
 ```sh
-npx lint-wiki-dumps <language> <path to download directory>
+npx lint-wiki-dumps <language> <path to download> [path to HTML output]
 # For example:
 npx lint-wiki-dumps zh-yue ~/Downloads/dumps
 ```
@@ -31,7 +31,7 @@ npx lint-wiki-dumps zh-yue ~/Downloads/dumps
 or execute the Bash script `scan.sh` (single thread) or `scan-parallel.sh` (multi-core cluster) directly:
 
 ```sh
-bash scan.sh <language> <path to download directory>
+bash scan.sh <language> <path to download> [path to HTML output]
 # For example:
 bash scan.sh zh-yue ~/Downloads/dumps
 ```
@@ -49,11 +49,11 @@ node parser.js zh-yue ~/Downloads/dumps/zh-yuewiki-lastest-pages-articles.xml.bz
 To generate HTML reports, you can use the following command:
 
 ```sh
-node report.js <language>
+node report.js <language> [path to HTML output]
 # For example:
 node report.js zh-yue
 ```
 
 ## Report
 
-The tool will generate reports in two formats: JSON and HTML. The JSON report will be saved in the `results` folder, while the HTML report will be available at `reports/index.html`.
+The tool will generate reports in two formats: JSON and HTML. The JSON report will be saved in the `results` folder, while the HTML report will be available at `reports/index.html` or the specified path.

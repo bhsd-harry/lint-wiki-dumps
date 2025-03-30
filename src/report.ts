@@ -5,7 +5,10 @@ import chalk from 'chalk';
 import {MAX} from './util';
 import type {LintError} from './util';
 
-const [,, lang] = process.argv;
+const {argv} = process,
+	[,, lang] = argv,
+	defaultOurDir = path.join(__dirname, 'reports');
+let [,,, outDir] = argv;
 
 const mkdir = (dir: string, empty?: boolean): void => {
 	if (fs.existsSync(dir)) {
@@ -17,7 +20,15 @@ const mkdir = (dir: string, empty?: boolean): void => {
 	fs.mkdirSync(dir);
 };
 
-const dataDir = path.join(__dirname, 'reports', 'data');
+if (outDir) {
+	mkdir(outDir);
+	// eslint-disable-next-line n/no-unsupported-features/node-builtins
+	fs.cpSync(defaultOurDir, outDir, {recursive: true, force: true});
+} else {
+	outDir = defaultOurDir;
+}
+
+const dataDir = path.join(outDir, 'data');
 mkdir(dataDir);
 
 const writeJS = (data: unknown[], file: string): void => {

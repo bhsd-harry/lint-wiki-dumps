@@ -1,7 +1,7 @@
 #!/usr/local/bin/bash
 if (( $# < 2 ))
 then
-	echo 'Usage: npx lint-wiki-dumps <language> <path to download>'
+	echo 'Usage: npx lint-wiki-dumps <language> <path to download> [path to HTML output]'
 	echo 'Example: npx lint-wiki-dumps zh-yue ~/Downloads/dumps'
 	exit 1
 fi
@@ -13,4 +13,4 @@ then
 	curl --output-dir "$2" -O "https://dumps.wikimedia.org/$target/latest/$file"
 	npx getParserConfig "$site" "https://$1.wikipedia.org/w/"
 fi
-node parser.js "$1" "$2/$file" "$3" "$4" && node report.js "$1"
+node parser.js "$1" "$2/$file" "$4" "$5" && node report.js "$1" "$3"

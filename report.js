@@ -8,7 +8,8 @@ const path_1 = __importDefault(require("path"));
 const crypto_1 = require("crypto");
 const chalk_1 = __importDefault(require("chalk"));
 const util_1 = require("./util");
-const [, , lang] = process.argv;
+const { argv } = process, [, , lang] = argv, defaultOurDir = path_1.default.join(__dirname, 'reports');
+let [, , , outDir] = argv;
 const mkdir = (dir, empty) => {
     if (fs_1.default.existsSync(dir)) {
         if (!empty) {
@@ -18,7 +19,15 @@ const mkdir = (dir, empty) => {
     }
     fs_1.default.mkdirSync(dir);
 };
-const dataDir = path_1.default.join(__dirname, 'reports', 'data');
+if (outDir) {
+    mkdir(outDir);
+    // eslint-disable-next-line n/no-unsupported-features/node-builtins
+    fs_1.default.cpSync(defaultOurDir, outDir, { recursive: true, force: true });
+}
+else {
+    outDir = defaultOurDir;
+}
+const dataDir = path_1.default.join(outDir, 'data');
 mkdir(dataDir);
 const writeJS = (data, file) => {
     fs_1.default.writeFileSync(path_1.default.join(dataDir, `${file}.js`), `window.data=${JSON.stringify(data)}`);
