@@ -32,8 +32,7 @@ const getErrors = (page: string): LintError[] | undefined => {
 };
 
 init();
-const stream = getXmlStream(file!.replace(/^~/u, os.homedir())),
-	time = getTimestamp(),
+const time = getTimestamp(),
 	last = time && new Date(time),
 	results = fs.createWriteStream(path.join(resultDir, `${site}.json`), {flags: restart ? 'a' : 'w'}),
 	processor = new Processor(site!, results, last as Date | undefined);
@@ -54,6 +53,7 @@ const stop = (): void => {
 };
 
 console.time('parse');
+const stream = getXmlStream(file!.replace(/^~/u, os.homedir()));
 stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$text}}}) => {
 	if (i === n) {
 		if (!stopping) {

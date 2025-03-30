@@ -16,6 +16,8 @@ declare module 'xml-stream' {
 		constructor(stream: NodeJS.ReadableStream);
 		preserve(tag: string, preserve: boolean): void;
 		// eslint-disable-next-line @typescript-eslint/no-explicit-any
-		on(event: string, listener: (page: Page) => void): void;
+		on<T extends string>(event: T, listener: T extends 'end' ? () => void : (page: Page) => void): void;
+		pause(): void;
+		resume(): void;
 	}
 }

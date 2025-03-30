@@ -7,6 +7,7 @@ exports.Processor = exports.getXmlStream = exports.init = exports.resultDir = ex
 const fs_1 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
 const perf_hooks_1 = require("perf_hooks");
+const cluster_1 = __importDefault(require("cluster"));
 const chalk_1 = __importDefault(require("chalk"));
 const unbzip2_stream_1 = __importDefault(require("unbzip2-stream"));
 const xml_stream_1 = __importDefault(require("xml-stream"));
@@ -70,6 +71,7 @@ class Processor {
      * @param ns page namespace
      * @param title page title
      * @param date page revision date
+     * @throws `RangeError` maximum heap size exceeded
      */
     lint($text, ns, title, date) {
         if (!this.#latest || date > this.#latest) {
@@ -96,9 +98,20 @@ class Processor {
             }
         }
         catch (e) {
-            console.error(chalk_1.default.red(`Error parsing ${title}`), e);
-            this.#failed++;
+            if (cluster_1.default.isWorker && e instanceof RangeError && e.message === 'Maximum heap size exceeded') {
+                throw e;
+            }
+            this.error(e, title);
         }
+    }
+    /**
+     * Log an error message.
+     * @param e error object
+     * @param title page title
+     */
+    error(e, title) {
+        console.error(chalk_1.default.red(`Error parsing ${title}`), e);
+        this.#failed++;
     }
 }
 exports.Processor = Processor;

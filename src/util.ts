@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import {performance as perf} from 'perf_hooks';
+import cluster from 'cluster';
 import chalk from 'chalk';
 import bz2 from 'unbzip2-stream';
 import XmlStream from 'xml-stream';
@@ -88,6 +89,7 @@ export class Processor {
 	 * @param ns page namespace
 	 * @param title page title
 	 * @param date page revision date
+	 * @throws `RangeError` maximum heap size exceeded
 	 */
 	lint($text: string, ns: string, title: string, date: Date): void {
 		if (!this.#latest || date > this.#latest) {
@@ -118,8 +120,20 @@ export class Processor {
 				this.#worst = {title, duration};
 			}
 		} catch (e) {
-			console.error(chalk.red(`Error parsing ${title}`), e);
-			this.#failed++;
+			if (cluster.isWorker && e instanceof RangeError && e.message === 'Maximum heap size exceeded') {
+				throw e;
+			}
+			this.error(e, title);
 		}
+	}
+
+	/**
+	 * Log an error message.
+	 * @param e error object
+	 * @param title page title
+	 */
+	error(e: unknown, title: string): void {
+		console.error(chalk.red(`Error parsing ${title}`), e);
+		this.#failed++;
 	}
 }

@@ -28,7 +28,7 @@ const getErrors = (page) => {
     return JSON.parse(data.slice(j, data.indexOf('\n]', j) + 2));
 };
 (0, util_1.init)();
-const stream = (0, util_1.getXmlStream)(file.replace(/^~/u, os_1.default.homedir())), time = getTimestamp(), last = time && new Date(time), results = fs_1.default.createWriteStream(path_1.default.join(util_1.resultDir, `${site}.json`), { flags: restart ? 'a' : 'w' }), processor = new util_1.Processor(site, results, last);
+const time = getTimestamp(), last = time && new Date(time), results = fs_1.default.createWriteStream(path_1.default.join(util_1.resultDir, `${site}.json`), { flags: restart ? 'a' : 'w' }), processor = new util_1.Processor(site, results, last);
 let i = 0, stopping = false, restarted = !restart;
 if (!restart) {
     results.write('{');
@@ -41,6 +41,7 @@ const stop = () => {
     processor.stop('parse', `Parsed ${i} pages`);
 };
 console.time('parse');
+const stream = (0, util_1.getXmlStream)(file.replace(/^~/u, os_1.default.homedir()));
 stream.on('endElement: page', ({ title, ns, revision: { model, timestamp, text: { $text } } }) => {
     if (i === n) {
         if (!stopping) {

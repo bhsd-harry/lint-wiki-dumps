@@ -14,7 +14,8 @@ const [, , site, dir] = process.argv, target = `${site}wiki`;
 if (cluster_1.default.isPrimary) {
     (0, util_1.init)();
     const dumpDir = dir.replace(/^~/u, os_1.default.homedir()), files = fs_1.default.readdirSync(dumpDir)
-        .filter(file => file.startsWith(target.replaceAll('-', '_')))
+        .filter(file => file.endsWith('.xml.bz2')
+        && file.startsWith(target.replaceAll('-', '_')))
         .map(file => {
         const filePath = path_1.default.join(dumpDir, file);
         return [filePath, fs_1.default.statSync(filePath).size];
@@ -47,7 +48,7 @@ if (cluster_1.default.isPrimary) {
 }
 else {
     process.on('message', ([[file], j]) => {
-        const stream = (0, util_1.getXmlStream)(file), results = fs_1.default.createWriteStream(path_1.default.join(util_1.resultDir, `${site}-${j}.json`)), processor = new util_1.Processor(site, results);
+        const results = fs_1.default.createWriteStream(path_1.default.join(util_1.resultDir, `${site}-${j}.json`)), processor = new util_1.Processor(site, results);
         let i = 0;
         results.write('{');
         results.on('close', () => {
@@ -56,11 +57,34 @@ else {
         const stop = () => {
             processor.stop(`parse ${file}`, `Parsed ${i} pages from ${file}`);
         };
+        const lint = ($text, ns, title, date, retry = 0) => {
+            try {
+                processor.lint($text, ns, title, date);
+            }
+            catch (e) {
+                if (e instanceof RangeError && e.message === 'Maximum heap size exceeded') {
+                    if (retry > 5) {
+                        processor.error(e, title);
+                    }
+                    else {
+                        stream.pause();
+                        setTimeout(() => {
+                            lint($text, ns, title, date, retry + 1);
+                            stream.resume();
+                        }, 1e4);
+                    }
+                }
+                else {
+                    throw e;
+                }
+            }
+        };
         console.time(`parse ${file}`);
+        const stream = (0, util_1.getXmlStream)(file);
         stream.on('endElement: page', ({ title, ns, revision: { model, timestamp, text: { $text } } }) => {
             if (model === 'wikitext' && $text && ns !== '10') {
                 (0, common_1.refreshStdout)(`${i++} ${title}`);
-                processor.lint($text, ns, title, new Date(timestamp));
+                lint($text, ns, title, new Date(timestamp));
             }
         });
         stream.on('end', stop);
