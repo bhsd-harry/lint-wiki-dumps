@@ -12,11 +12,8 @@ const [,, site, dir] = process.argv,
 if (cluster.isPrimary) {
 	init();
 	const dumpDir = dir!.replace(/^~/u, os.homedir()),
-		files = fs.readdirSync(dumpDir)
-			.filter(
-				file => file.endsWith('.xml.bz2')
-					&& file.startsWith(target.replaceAll('-', '_')),
-			)
+		prefix = target.replaceAll('-', '_'),
+		files = fs.readdirSync(dumpDir).filter(file => file.endsWith('.bz2') && file.startsWith(prefix))
 			.map(file => {
 				const filePath = path.join(dumpDir, file);
 				return [filePath, fs.statSync(filePath).size] as const;

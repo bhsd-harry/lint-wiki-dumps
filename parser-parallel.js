@@ -13,9 +13,7 @@ const util_1 = require("./util");
 const [, , site, dir] = process.argv, target = `${site}wiki`;
 if (cluster_1.default.isPrimary) {
     (0, util_1.init)();
-    const dumpDir = dir.replace(/^~/u, os_1.default.homedir()), files = fs_1.default.readdirSync(dumpDir)
-        .filter(file => file.endsWith('.xml.bz2')
-        && file.startsWith(target.replaceAll('-', '_')))
+    const dumpDir = dir.replace(/^~/u, os_1.default.homedir()), prefix = target.replaceAll('-', '_'), files = fs_1.default.readdirSync(dumpDir).filter(file => file.endsWith('.bz2') && file.startsWith(prefix))
         .map(file => {
         const filePath = path_1.default.join(dumpDir, file);
         return [filePath, fs_1.default.statSync(filePath).size];
