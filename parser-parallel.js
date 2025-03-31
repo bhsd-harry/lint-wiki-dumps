@@ -22,7 +22,7 @@ if (cluster_1.default.isPrimary) {
     // eslint-disable-next-line n/no-unsupported-features/node-builtins
     workers = new Array(Math.min(os_1.default.availableParallelism(), files.length)).fill(undefined)
         .map(() => cluster_1.default.fork());
-    let i = 0, j = 0, n = 0;
+    let i = 0, n = 0;
     console.time('parse');
     for (; i < workers.length; i++) {
         const worker = workers[i];
@@ -34,15 +34,13 @@ if (cluster_1.default.isPrimary) {
             }
             else {
                 worker.disconnect();
-                j++;
-                if (j === workers.length) {
-                    console.timeEnd('parse');
-                    console.log(chalk_1.default.green(`Parsed ${n} pages in total`));
-                    process.exit(); // eslint-disable-line n/no-process-exit
-                }
             }
         }).send([files[i], i]);
     }
+    process.on('exit', () => {
+        console.timeEnd('parse');
+        console.log(chalk_1.default.green(`Parsed ${n} pages in total`));
+    });
 }
 else {
     process.on('message', ([[file], j]) => {
@@ -65,7 +63,10 @@ else {
                         processor.error(e, title);
                     }
                     else {
-                        stream.pause();
+                        try {
+                            stream.pause();
+                        }
+                        catch { }
                         setTimeout(() => {
                             lint($text, ns, title, date, retry + 1);
                             stream.resume();
