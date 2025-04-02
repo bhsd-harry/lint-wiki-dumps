@@ -56,25 +56,26 @@ if (cluster.isPrimary) {
 			processor.stop(`parse ${file}`, `Parsed ${i} pages from ${file}`);
 		};
 
-		const lint = ($text: string, ns: string, title: string, date: Date, retry = 0): void => {
+		const lint = ($text: string, ns: string, title: string, date: Date, retry = 0): boolean => {
 			try {
 				processor.lint($text, ns, title, date);
+				return true;
 			} catch (e) {
 				if (e instanceof RangeError && e.message === 'Maximum heap size exceeded') {
-					if (retry > 5) {
+					if (retry === 0) {
+						stream.pause();
+					} else if (retry > 5) {
 						processor.error(e, title);
-					} else {
-						try {
-							stream.pause();
-						} catch {}
-						setTimeout(() => {
-							lint($text, ns, title, date, retry + 1);
-							stream.resume();
-						}, 1e4);
+						return true;
 					}
-				} else {
-					throw e;
+					setTimeout(() => {
+						if (lint($text, ns, title, date, retry + 1)) {
+							stream.resume();
+						}
+					}, 1e4);
+					return false;
 				}
+				throw e;
 			}
 		};
 

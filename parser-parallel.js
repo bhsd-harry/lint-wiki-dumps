@@ -56,26 +56,25 @@ else {
         const lint = ($text, ns, title, date, retry = 0) => {
             try {
                 processor.lint($text, ns, title, date);
+                return true;
             }
             catch (e) {
                 if (e instanceof RangeError && e.message === 'Maximum heap size exceeded') {
-                    if (retry > 5) {
+                    if (retry === 0) {
+                        stream.pause();
+                    }
+                    else if (retry > 5) {
                         processor.error(e, title);
+                        return true;
                     }
-                    else {
-                        try {
-                            stream.pause();
-                        }
-                        catch { }
-                        setTimeout(() => {
-                            lint($text, ns, title, date, retry + 1);
+                    setTimeout(() => {
+                        if (lint($text, ns, title, date, retry + 1)) {
                             stream.resume();
-                        }, 1e4);
-                    }
+                        }
+                    }, 1e4);
+                    return false;
                 }
-                else {
-                    throw e;
-                }
+                throw e;
             }
         };
         console.time(`parse ${file}`);
