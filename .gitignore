@@ -1,3 +1,5 @@
 /.vscode/
 /results/
+/reports/dist/
 .eslintcache
+*.js
