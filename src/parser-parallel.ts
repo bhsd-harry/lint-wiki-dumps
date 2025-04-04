@@ -4,7 +4,7 @@ import path from 'path';
 import os from 'os';
 import chalk from 'chalk';
 import {refreshStdout} from '@bhsd/common';
-import {init, resultDir, getXmlStream} from './util';
+import {init, resultDir, getXmlStream, getTimestamp} from './util';
 import {Processor} from './processor';
 
 const [,, site, dir] = process.argv,
@@ -12,6 +12,16 @@ const [,, site, dir] = process.argv,
 
 if (cluster.isPrimary) {
 	init();
+	const tempFiles: string[] = [];
+	for (const file of fs.readdirSync(resultDir)) {
+		if (file.startsWith(`${target}-p`) && file.endsWith('.json')) {
+			const oldName = path.join(resultDir, file),
+				newName = path.join(resultDir, `temp${file.slice(target.length)}`);
+			console.log(chalk.green(`Reading ${oldName}`));
+			tempFiles.push(newName);
+			fs.renameSync(oldName, newName);
+		}
+	}
 	const dumpDir = dir!.replace(/^~/u, os.homedir()),
 		prefix = `${target}wiki`,
 		files = fs.readdirSync(dumpDir).filter(file => file.endsWith('.bz2') && file.startsWith(prefix))
@@ -31,7 +41,7 @@ if (cluster.isPrimary) {
 		worker.on('message', count => { // eslint-disable-line @typescript-eslint/no-loop-func
 			n += count;
 			if (i < files.length) {
-				worker.send([files[i], i]);
+				worker.send(files[i]![0]);
 				i++;
 			} else {
 				worker.disconnect();
@@ -41,8 +51,23 @@ if (cluster.isPrimary) {
 	process.on('exit', () => {
 		console.timeEnd('parse');
 		console.log(chalk.green(`Parsed ${n} pages in total`));
+		for (const file of tempFiles) {
+			fs.unlinkSync(file);
+		}
 	});
 } else {
+	const getStartEnd = (f: string): [number, number] => {
+		const p2 = f.lastIndexOf('p');
+		return [Number(f.slice(6, p2)), Number(f.slice(p2 + 1, -5))];
+	};
+	const tempFiles = fs.readdirSync(resultDir)
+			.filter(file => file.startsWith('temp-p') && file.endsWith('.json')),
+		ranges = tempFiles.map(getStartEnd),
+		max = Math.max(...ranges.map(([, end]) => end));
+	let start: number | undefined,
+		end: number | undefined,
+		last: Date | false | undefined,
+		data: string | undefined;
 	process.on('message', (file: string) => {
 		const results = fs.createWriteStream(
 				path.join(resultDir, `${target}${file.slice(file.lastIndexOf('-'), -4)}.json`),
@@ -61,7 +86,7 @@ if (cluster.isPrimary) {
 
 		const lint = ($text: string, ns: string, title: string, date: Date, retry = 0): boolean => {
 			try {
-				processor.lint($text, ns, title, date);
+				processor.lint($text, ns, title, date, last, data!);
 				return true;
 			} catch (e) {
 				if (e instanceof RangeError && e.message === 'Maximum heap size exceeded') {
@@ -84,11 +109,24 @@ if (cluster.isPrimary) {
 
 		console.time(`parse ${file}`);
 		const stream = getXmlStream(file);
-		stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$text}}}) => {
+		stream.on('endElement: page', ({title, ns, id, revision: {model, timestamp, text: {$text}}}) => {
 			if (model === 'wikitext' && $text && ns === '0') {
 				refreshStdout(`${i++} ${title}`);
-				const date = new Date(timestamp);
-				lint($text, ns, title, date);
+				const pageid = Number(id);
+				if (start === undefined || end === undefined || pageid < start || pageid > end) {
+					const cur = pageid <= max && ranges.findIndex(([a, b]) => a <= pageid && b >= pageid);
+					if (cur === false || cur === -1) {
+						start = undefined;
+						end = undefined;
+						last = undefined;
+					} else {
+						[start, end] = ranges[cur]!;
+						data = fs.readFileSync(path.join(resultDir, tempFiles[cur]!), 'utf8');
+						const time = getTimestamp(data);
+						last = (time && new Date(time)) as Date | false;
+					}
+				}
+				lint($text, ns, title, new Date(timestamp));
 			}
 		});
 		stream.on('end', stop);

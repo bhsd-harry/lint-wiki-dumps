@@ -1,6 +1,7 @@
 declare interface Page {
 	title: string;
 	ns: string;
+	id: string;
 	revision: {
 		model: string;
 		timestamp: string;

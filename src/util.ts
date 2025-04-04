@@ -36,12 +36,12 @@ export const getTimestamp = (data: string | false): string | undefined => {
 	return data.slice(i, data.indexOf('"', i));
 };
 
-export const getErrors = (data: string, page: string): LintError[] | undefined => {
+export const getErrors = (data: string, page: string): string | undefined => {
 	const str = JSON.stringify(page),
 		i = data.indexOf(`${str}: [`);
 	if (i === -1) {
 		return undefined;
 	}
 	const j = i + str.length + 2;
-	return JSON.parse(data.slice(j, data.indexOf('\n]', j) + 2));
+	return data.slice(j, data.indexOf('\n]', j) + 2);
 };

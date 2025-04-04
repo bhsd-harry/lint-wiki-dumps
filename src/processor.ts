@@ -2,7 +2,7 @@ import {performance as perf} from 'perf_hooks';
 import cluster from 'cluster';
 import chalk from 'chalk';
 import Parser from 'wikilint';
-import {MAX} from './util';
+import {MAX, getErrors} from './util';
 import type {WriteStream} from 'fs';
 import type {LintError} from './util';
 
@@ -50,9 +50,11 @@ export class Processor {
 	 * @param title page title
 	 * @param errors lint errors
 	 */
-	newEntry(title: string, errors: LintError[]): void {
+	newEntry(title: string, errors: LintError[] | string): void {
 		this.#results.write(
-			`${this.#comma}\n${JSON.stringify(title)}: ${JSON.stringify(errors, null, '\t')}`,
+			`${this.#comma}\n${JSON.stringify(title)}: ${
+				typeof errors === 'string' ? errors : JSON.stringify(errors, null, '\t')
+			}`,
 		);
 		this.#comma ||= ',';
 	}
@@ -63,41 +65,50 @@ export class Processor {
 	 * @param ns page namespace
 	 * @param title page title
 	 * @param date page revision date
+	 * @param last last revision date
+	 * @param data previous results
 	 * @throws `RangeError` maximum heap size exceeded
 	 */
-	lint($text: string, ns: string, title: string, date: Date): void {
+	lint($text: string, ns: string, title: string, date: Date, last: Date | false | undefined, data: string): void {
 		if (!this.#latest || date > this.#latest) {
 			this.#latest = date;
 		}
-		try {
-			const start = perf.now(),
-				errors = Parser.parse($text, ns === '828').lint()
-					.filter(({severity, rule}) => severity === 'error' && !ignore.has(rule)),
-				duration = perf.now() - start;
-			if (errors.length > 0) {
-				this.newEntry(
-					title,
-					errors.map(({severity, suggestions, fix, ...e}) => ({
-						...e,
-						...suggestions && {
-							suggestions: suggestions.map(action => ({
-								...action,
-								original: $text.slice(...action.range),
-							})),
-						},
-						...fix && {fix: {...fix, original: $text.slice(...fix.range)}},
-						excerpt: $text.slice(e.startIndex, e.endIndex).slice(0, MAX),
-					})),
-				);
+		if (last && date <= last) {
+			const previous = getErrors(data, title);
+			if (previous) {
+				this.newEntry(title, previous);
 			}
-			if (!this.#worst || duration > this.#worst.duration) {
-				this.#worst = {title, duration};
+		} else {
+			try {
+				const start = perf.now(),
+					errors = Parser.parse($text, ns === '828').lint()
+						.filter(({severity, rule}) => severity === 'error' && !ignore.has(rule)),
+					duration = perf.now() - start;
+				if (errors.length > 0) {
+					this.newEntry(
+						title,
+						errors.map(({severity, suggestions, fix, ...e}) => ({
+							...e,
+							...suggestions && {
+								suggestions: suggestions.map(action => ({
+									...action,
+									original: $text.slice(...action.range),
+								})),
+							},
+							...fix && {fix: {...fix, original: $text.slice(...fix.range)}},
+							excerpt: $text.slice(e.startIndex, e.endIndex).slice(0, MAX),
+						})),
+					);
+				}
+				if (!this.#worst || duration > this.#worst.duration) {
+					this.#worst = {title, duration};
+				}
+			} catch (e) {
+				if (cluster.isWorker && e instanceof RangeError && e.message === 'Maximum heap size exceeded') {
+					throw e;
+				}
+				this.error(e, title);
 			}
-		} catch (e) {
-			if (cluster.isWorker && e instanceof RangeError && e.message === 'Maximum heap size exceeded') {
-				throw e;
-			}
-			this.error(e, title);
 		}
 	}
 

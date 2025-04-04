@@ -3,7 +3,7 @@ import path from 'path';
 import os from 'os';
 import chalk from 'chalk';
 import {refreshStdout} from '@bhsd/common';
-import {init, resultDir, getXmlStream, getTimestamp, getErrors} from './util';
+import {init, resultDir, getXmlStream, getTimestamp} from './util';
 import {Processor} from './processor';
 
 const n = Number(process.argv[4]) || Infinity,
@@ -17,9 +17,9 @@ if (data) {
 
 init();
 const time = getTimestamp(data),
-	last = time && new Date(time),
+	last = (time && new Date(time)) as Date | undefined,
 	results = fs.createWriteStream(filePath, {flags: restart ? 'a' : 'w'}),
-	processor = new Processor(site!, results, last as Date | undefined);
+	processor = new Processor(site!, results, last);
 let i = 0,
 	stopping = false,
 	restarted = !restart;
@@ -45,15 +45,7 @@ stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$
 		}
 	} else if (restarted && model === 'wikitext' && $text && ns === '0') {
 		refreshStdout(`${i++} ${title}`);
-		const date = new Date(timestamp);
-		if (last && date <= last) {
-			const previous = getErrors(data as string, title);
-			if (previous) {
-				processor.newEntry(title, previous);
-			}
-		} else {
-			processor.lint($text, ns, title, date);
-		}
+		processor.lint($text, ns, title, new Date(timestamp), last, data as string);
 	} else if (title === restart) {
 		restarted = true;
 	}
