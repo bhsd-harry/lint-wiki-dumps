@@ -2,8 +2,8 @@ import fs from 'fs';
 import path from 'path';
 import {createHash} from 'crypto';
 import chalk from 'chalk';
-import {MAX} from './processor';
-import type {LintError} from './processor';
+import {MAX, resultDir} from './util';
+import type {LintError} from './util';
 
 const {argv} = process,
 	[,, lang] = argv,
@@ -43,8 +43,7 @@ const initJS = (file: string): fs.WriteStream => {
 
 const compare = (a: string, b: string): number => a.localeCompare(b);
 
-const resultDir = path.join(__dirname, 'results'),
-	dir = fs.readdirSync(resultDir),
+const dir = fs.readdirSync(resultDir),
 	summary = new Set<string>(),
 	ruleRecords = new Map<string, [string, string[]]>(),
 	wiki: Partial<Record<string, number>> = {},
@@ -63,7 +62,8 @@ for (const file of dir) {
 		continue;
 	}
 	const k = file.search(/-\d+\.json$/u),
-		site = k === -1 ? file.slice(0, -5) : file.slice(0, k);
+		site = (k === -1 ? file.slice(0, -5) : file.slice(0, k))
+			.replaceAll('_', '-');
 	summary.add(site);
 	if (lang !== site) {
 		continue;

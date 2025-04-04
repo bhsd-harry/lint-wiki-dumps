@@ -1,40 +1,24 @@
 import fs from 'fs';
 import path from 'path';
 import os from 'os';
+import chalk from 'chalk';
 import {refreshStdout} from '@bhsd/common';
-import {Processor, init, resultDir, getXmlStream} from './processor';
-import type {LintError} from './processor';
+import {init, resultDir, getXmlStream, getTimestamp, getErrors} from './util';
+import {Processor} from './processor';
 
 const n = Number(process.argv[4]) || Infinity,
 	[,, site, file,, restart] = process.argv,
-	filePath = path.join(resultDir, `${site}.json`),
+	target = site!.replaceAll('-', '_'),
+	filePath = path.join(resultDir, `${target}.json`),
 	data = fs.existsSync(filePath) && fs.readFileSync(filePath, 'utf8');
-
-const getTimestamp = (): string | undefined => {
-	if (!data) {
-		return undefined;
-	}
-	const i = data.indexOf('"#timestamp": "') + 15;
-	return data.slice(i, data.indexOf('"', i));
-};
-
-const getErrors = (page: string): LintError[] | undefined => {
-	if (!data) {
-		return undefined;
-	}
-	const str = JSON.stringify(page),
-		i = data.indexOf(`${str}: [`);
-	if (i === -1) {
-		return undefined;
-	}
-	const j = i + str.length + 2;
-	return JSON.parse(data.slice(j, data.indexOf('\n]', j) + 2));
-};
+if (data) {
+	console.log(chalk.green(`Reading ${filePath}`));
+}
 
 init();
-const time = getTimestamp(),
+const time = getTimestamp(data),
 	last = time && new Date(time),
-	results = fs.createWriteStream(path.join(resultDir, `${site}.json`), {flags: restart ? 'a' : 'w'}),
+	results = fs.createWriteStream(filePath, {flags: restart ? 'a' : 'w'}),
 	processor = new Processor(site!, results, last as Date | undefined);
 let i = 0,
 	stopping = false,
@@ -63,7 +47,7 @@ stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$
 		refreshStdout(`${i++} ${title}`);
 		const date = new Date(timestamp);
 		if (last && date <= last) {
-			const previous = getErrors(title);
+			const previous = getErrors(data as string, title);
 			if (previous) {
 				processor.newEntry(title, previous);
 			}

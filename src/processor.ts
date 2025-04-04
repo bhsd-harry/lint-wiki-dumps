@@ -1,38 +1,12 @@
-import fs from 'fs';
-import path from 'path';
 import {performance as perf} from 'perf_hooks';
 import cluster from 'cluster';
 import chalk from 'chalk';
-import bz2 from 'unbzip2-stream';
-import XmlStream from 'xml-stream';
 import Parser from 'wikilint';
-import type {LintError as LintErrorBase} from 'wikilint';
-
-declare interface Fix extends LintErrorBase.Fix {
-	original: string;
-}
-export interface LintError extends Omit<LintErrorBase, 'severity'> {
-	excerpt: string;
-	fix?: Fix;
-	sugggestions?: Fix[];
-}
-
-export const MAX = 100,
-	resultDir = path.join(__dirname, 'results');
+import {MAX} from './util';
+import type {WriteStream} from 'fs';
+import type {LintError} from './util';
 
 const ignore = new Set(['no-arg', 'url-encoding', 'h1', 'var-anchor']);
-
-export const init = (): void => {
-	if (!fs.existsSync(resultDir)) {
-		fs.mkdirSync(resultDir);
-	}
-};
-
-export const getXmlStream = (file: string): XmlStream => {
-	const stream = new XmlStream(fs.createReadStream(file).pipe(bz2()));
-	stream.preserve('text', true);
-	return stream;
-};
 
 export class Processor {
 	#failed = 0;
@@ -42,7 +16,7 @@ export class Processor {
 	#latest;
 
 	/** @param site site nickname */
-	constructor(site: string, results: fs.WriteStream, latest?: Date) {
+	constructor(site: string, results: WriteStream, latest?: Date) {
 		Parser.config = `${site}wiki`;
 		this.#results = results;
 		this.#latest = latest;

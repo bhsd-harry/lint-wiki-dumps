@@ -4,15 +4,16 @@ import path from 'path';
 import os from 'os';
 import chalk from 'chalk';
 import {refreshStdout} from '@bhsd/common';
-import {Processor, init, resultDir, getXmlStream} from './processor';
+import {init, resultDir, getXmlStream} from './util';
+import {Processor} from './processor';
 
 const [,, site, dir] = process.argv,
-	target = `${site}wiki`;
+	target = site!.replaceAll('-', '_');
 
 if (cluster.isPrimary) {
 	init();
 	const dumpDir = dir!.replace(/^~/u, os.homedir()),
-		prefix = target.replaceAll('-', '_'),
+		prefix = `${target}wiki`,
 		files = fs.readdirSync(dumpDir).filter(file => file.endsWith('.bz2') && file.startsWith(prefix))
 			.map(file => {
 				const filePath = path.join(dumpDir, file);
@@ -35,15 +36,17 @@ if (cluster.isPrimary) {
 			} else {
 				worker.disconnect();
 			}
-		}).send([files[i], i]);
+		}).send(files[i]![0]);
 	}
 	process.on('exit', () => {
 		console.timeEnd('parse');
 		console.log(chalk.green(`Parsed ${n} pages in total`));
 	});
 } else {
-	process.on('message', ([[file], j]: [[string, number], number]) => {
-		const results = fs.createWriteStream(path.join(resultDir, `${site}-${j}.json`)),
+	process.on('message', (file: string) => {
+		const results = fs.createWriteStream(
+				path.join(resultDir, `${target}${file.slice(file.lastIndexOf('-'), -4)}.json`),
+			),
 			processor = new Processor(site!, results);
 		let i = 0;
 
@@ -84,7 +87,8 @@ if (cluster.isPrimary) {
 		stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$text}}}) => {
 			if (model === 'wikitext' && $text && ns === '0') {
 				refreshStdout(`${i++} ${title}`);
-				lint($text, ns, title, new Date(timestamp));
+				const date = new Date(timestamp);
+				lint($text, ns, title, date);
 			}
 		});
 		stream.on('end', stop);
