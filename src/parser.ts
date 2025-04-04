@@ -2,8 +2,8 @@ import fs from 'fs';
 import path from 'path';
 import os from 'os';
 import {refreshStdout} from '@bhsd/common';
-import {Processor, init, resultDir, getXmlStream} from './util';
-import type {LintError} from './util';
+import {Processor, init, resultDir, getXmlStream} from './processor';
+import type {LintError} from './processor';
 
 const n = Number(process.argv[4]) || Infinity,
 	[,, site, file,, restart] = process.argv,
@@ -59,7 +59,7 @@ stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$
 		if (!stopping) {
 			stop();
 		}
-	} else if (restarted && model === 'wikitext' && $text && ns !== '10') {
+	} else if (restarted && model === 'wikitext' && $text && ns === '0') {
 		refreshStdout(`${i++} ${title}`);
 		const date = new Date(timestamp);
 		if (last && date <= last) {

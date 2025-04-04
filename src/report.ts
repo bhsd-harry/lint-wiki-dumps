@@ -2,8 +2,8 @@ import fs from 'fs';
 import path from 'path';
 import {createHash} from 'crypto';
 import chalk from 'chalk';
-import {MAX} from './util';
-import type {LintError} from './util';
+import {MAX} from './processor';
+import type {LintError} from './processor';
 
 const {argv} = process,
 	[,, lang] = argv,

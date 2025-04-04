@@ -4,7 +4,7 @@ import path from 'path';
 import os from 'os';
 import chalk from 'chalk';
 import {refreshStdout} from '@bhsd/common';
-import {Processor, init, resultDir, getXmlStream} from './util';
+import {Processor, init, resultDir, getXmlStream} from './processor';
 
 const [,, site, dir] = process.argv,
 	target = `${site}wiki`;
@@ -82,7 +82,7 @@ if (cluster.isPrimary) {
 		console.time(`parse ${file}`);
 		const stream = getXmlStream(file);
 		stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$text}}}) => {
-			if (model === 'wikitext' && $text && ns !== '10') {
+			if (model === 'wikitext' && $text && ns === '0') {
 				refreshStdout(`${i++} ${title}`);
 				lint($text, ns, title, new Date(timestamp));
 			}
