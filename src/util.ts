@@ -7,7 +7,10 @@ import type {LintError as LintErrorBase} from 'wikilint';
 declare interface Fix extends LintErrorBase.Fix {
 	original: string;
 }
-export interface LintError extends Omit<LintErrorBase, 'severity'> {
+export interface LintError extends Omit<
+	LintErrorBase,
+	'severity' | 'code' | 'startIndex' | 'endLine' | 'endCol' | 'endIndex'
+> {
 	excerpt: string;
 	fix?: Fix;
 	sugggestions?: Fix[];

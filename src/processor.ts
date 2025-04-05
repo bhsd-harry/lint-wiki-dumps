@@ -87,8 +87,28 @@ export class Processor {
 				if (errors.length > 0) {
 					this.newEntry(
 						title,
-						errors.map(({severity, suggestions, fix, ...e}) => ({
+						errors.map(({
+							severity,
+							suggestions,
+							fix,
+
+							/* DISABLED */
+
+							code,
+							startIndex,
+							endLine,
+							endCol,
+							endIndex,
+
+							/* DISABLED END */
+
+							...e
+						}) => ({
 							...e,
+
+							// eslint-disable-next-line @stylistic/multiline-comment-style
+							/* DISABLED
+
 							...suggestions && {
 								suggestions: suggestions.map(action => ({
 									...action,
@@ -96,7 +116,10 @@ export class Processor {
 								})),
 							},
 							...fix && {fix: {...fix, original: $text.slice(...fix.range)}},
-							excerpt: $text.slice(e.startIndex, e.endIndex).slice(0, MAX),
+
+							*/
+
+							excerpt: $text.slice(startIndex, endIndex).slice(0, MAX),
 						})),
 					);
 				}
