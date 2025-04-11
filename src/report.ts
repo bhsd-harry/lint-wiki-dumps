@@ -61,7 +61,7 @@ for (const file of dir) {
 		console.error(chalk.red(`Failed to read ${file}`));
 		continue;
 	}
-	const k = file.search(/-\d+\.json$/u),
+	const k = file.search(/-(?:p\d+){2}\.json$/u),
 		site = (k === -1 ? file.slice(0, -5) : file.slice(0, k))
 			.replaceAll('_', '-');
 	summary.add(site);
