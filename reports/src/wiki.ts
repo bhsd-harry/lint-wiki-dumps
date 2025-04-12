@@ -1,27 +1,16 @@
-(() => {
-	const lang = new URLSearchParams(location.search).get('lang'),
-		script = document.createElement('script'),
-		title = document.querySelector('title')!,
-		h2 = document.querySelector('h2')!,
-		tbody = document.querySelector('tbody')!;
-	title.textContent = title.textContent!.replace('Wikipedia', `${lang}.wikipedia.org`);
-	script.src = `./data/${lang}/index.js`;
-	script.addEventListener('load', () => {
-		h2.textContent = `${
-			h2.textContent!.replace('Wikipedia', `${lang}.wikipedia.org`)
-		} (${(data as unknown as string[]).slice(-1)[0]})`;
-		for (const [rule, count] of (data as unknown as [string, number][]).slice(0, -1)) {
-			const tr = document.createElement('tr'),
-				description = document.createElement('td'),
-				pages = document.createElement('td'),
-				a = document.createElement('a');
-			a.textContent = rule;
-			a.href = `./rule.html?lang=${lang}&rule=${rule}`;
-			description.append(a);
-			pages.textContent = String(count);
-			tr.append(description, pages);
-			tbody.append(tr);
-		}
-	});
-	document.head.append(script);
-})();
+import {load, update, addLink, createTd, insertRow} from './common';
+
+declare const data: [...[string, number][], string];
+
+const lang = new URLSearchParams(location.search).get('lang'),
+	h2 = update('h2', `${lang}wiki`);
+update('title', `${lang}wiki`);
+load(`./data/${lang}/index.js`, () => {
+	h2.textContent += ` (${data[data.length - 1] as string})`;
+	for (const [rule, count] of data.slice(0, -1) as [string, number][]) {
+		insertRow(
+			addLink('td', rule, `./rule.html?lang=${lang}&rule=${rule}`),
+			createTd(String(count)),
+		);
+	}
+});

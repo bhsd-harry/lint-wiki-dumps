@@ -29,7 +29,7 @@
 	"scripts": {
 		"start": "node server.js",
 		"prepublishOnly": "npm run build",
-		"build": "tsc && mv dist/* . && tsc --project reports/tsconfig.json",
+		"build": "tsc && mv dist/* . && esbuild reports/src/*.ts --charset=utf8 --bundle --minify --target=es2019 --sourcemap --outdir=reports/dist",
 		"lint": "tsc --noEmit && tsc --project reports/tsconfig.json --noEmit && eslint --cache ."
 	},
 	"dependencies": {

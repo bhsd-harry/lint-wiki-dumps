@@ -29,6 +29,7 @@ article {
 	display: block;
 	width: 100%;
 	padding: 1rem 2rem 2rem;
+	overflow-x: auto;
 }
 h2 {
 	font-size: 1.3em;

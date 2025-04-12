@@ -1,80 +1,37 @@
+import {load, getHost, update, addLink, insertRow, getErrorInfo, updateLink} from './common';
+
 declare const data: {
 	articles: [string, number, number, string, string][];
 	batches: number;
 	timestamp: string;
-}
+};
 
-(() => {
-	const search = new URLSearchParams(location.search),
-		lang = search.get('lang'),
-		rule = search.get('rule'),
-		batch = Math.floor(Number(search.get('start') || 0) / 200),
-		endStr = String((batch + 1) * 200),
-		nav = document.getElementById('nav')!,
-		prev = document.getElementById('prev') as HTMLAnchorElement,
-		next = document.getElementById('next') as HTMLAnchorElement,
-		start = document.getElementById('start')!,
-		end = document.getElementById('end')!,
-		title = document.querySelector('title')!,
-		h2 = document.querySelector('h2')!,
-		wiki = document.getElementById('wiki') as HTMLAnchorElement,
-		table = document.querySelector('table')!,
-		tbody = document.querySelector('tbody')!,
-		script = document.createElement('script');
-	title.textContent = title.textContent!.replace('Wikipedia', `${lang}.wikipedia.org`);
-	wiki.textContent = `${lang}wiki`;
-	wiki.href += `?lang=${lang}`;
-	if (batch === 0) {
-		prev.removeAttribute('href');
-	} else {
-		start.textContent = String(batch * 200 + 1);
-		end.textContent = endStr;
-		search.set('start', String((batch - 1) * 200));
-		prev.href = `${location.pathname}?${search}`;
-	}
+const search = new URLSearchParams(location.search),
+	lang = search.get('lang'),
+	rule = search.get('rule'),
+	batch = Math.floor(Number(search.get('start') || 0) / 200),
+	host = getHost(lang!),
+	h2 = update('h2', `${lang}wiki: ${rule}`);
+update('title', `${lang}wiki`);
+updateLink('wiki', s => `${s}?lang=${lang}`, `${lang}wiki`);
+search.set('start', String((batch - 1) * 200));
+updateLink('prev', batch !== 0 && `${location.pathname}?${search}`);
+document.getElementById('start')!.textContent = String(batch * 200 + 1);
+load(`./data/${lang}/${rule}-${batch}.js`, () => {
+	const endStr = String(batch * 200 + data.articles.length);
+	h2.textContent += ` (${data.timestamp})`;
+	document.getElementById('end')!.textContent = endStr;
 	search.set('start', endStr);
-	next.href = `${location.pathname}?${search}`;
-	script.src = `./data/${lang}/${rule}-${batch}.js`;
-	script.addEventListener('load', () => {
-		h2.textContent = `${
-			h2.textContent!.replace('Wikipedia', `${lang}.wikipedia.org: ${rule}`)
-		} (${data.timestamp})`;
-		if (data.batches === batch + 1) {
-			next.removeAttribute('href');
-			end.textContent = String(batch * 200 + data.articles.length);
-		}
-		for (const [page, startLine, startCol, message, excerpt] of data.articles) {
-			const tr = document.createElement('tr'),
-				article = document.createElement('td'),
-				edit = document.createElement('td'),
-				line = document.createElement('td'),
-				column = document.createElement('td'),
-				detail = document.createElement('td'),
-				notice = document.createElement('td'),
-				more = document.createElement('td'),
-				articleLink = document.createElement('a'),
-				editLink = document.createElement('a'),
-				moreLink = document.createElement('a');
-			articleLink.textContent = page;
-			articleLink.href = `https://${lang}.wikipedia.org/wiki/${encodeURIComponent(page)}?redirect=no`;
-			article.className = 'excerpt';
-			article.append(articleLink);
-			editLink.textContent = 'edit';
-			editLink.href = `https://${lang}.wikipedia.org/wiki/${encodeURIComponent(page)}?action=edit`;
-			edit.append(editLink);
-			line.textContent = String(startLine);
-			column.textContent = String(startCol);
-			detail.textContent = message;
-			detail.className = 'excerpt';
-			notice.textContent = excerpt;
-			notice.className = 'excerpt mono';
-			moreLink.textContent = 'more';
-			moreLink.href = `./article.html?lang=${lang}&page=${encodeURIComponent(page)}`;
-			more.append(moreLink);
-			tr.append(article, edit, line, column, detail, notice, more);
-			tbody.append(tr);
-		}
-		table.after(nav.cloneNode(true));
-	});
-	document.head.append(script);
-})();
+	updateLink('next', data.batches !== batch + 1 && `${location.pathname}?${search}`);
+	document.querySelector('table')!
+		.after(document.getElementById('nav')!.cloneNode(true));
+	for (const [page, startLine, startCol, message, excerpt] of data.articles) {
+		const title = encodeURIComponent(page);
+		insertRow(
+			addLink('td', page, `https://${host}/wiki/${title}?redirect=no`, 'excerpt'),
+			addLink('td', 'edit', `https://${host}/wiki/${title}?action=edit`),
+			...getErrorInfo(startLine, startCol, message, excerpt),
+			addLink('td', 'more', `./article.html?lang=${lang}&page=${title}`),
+		);
+	}
+});
