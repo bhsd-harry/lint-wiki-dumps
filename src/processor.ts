@@ -1,4 +1,3 @@
-import {performance as perf} from 'perf_hooks';
 import cluster from 'cluster';
 import chalk from 'chalk';
 import Parser from 'wikilint';
@@ -11,7 +10,6 @@ const ignore = new Set(['no-arg', 'url-encoding', 'h1', 'var-anchor']);
 export class Processor {
 	#failed = 0;
 	#comma = '';
-	#worst: {title: string, duration: number} | undefined;
 	#results;
 	#latest;
 
@@ -33,13 +31,6 @@ export class Processor {
 		console.log(chalk.green(msg));
 		if (this.#failed) {
 			console.error(chalk.red(`${this.#failed} pages failed to parse`));
-		}
-		if (this.#worst) {
-			console.info(
-				chalk.yellow(
-					`Worst page: ${this.#worst.title} (${this.#worst.duration.toFixed(3)} ms)`,
-				),
-			);
 		}
 		this.#results.write(`${this.#comma}\n"#timestamp": ${JSON.stringify(this.#latest)}\n}`);
 		this.#results.end();
@@ -80,10 +71,8 @@ export class Processor {
 			}
 		} else {
 			try {
-				const start = perf.now(),
-					errors = Parser.parse($text, ns === '828').lint()
-						.filter(({severity, rule}) => severity === 'error' && !ignore.has(rule)),
-					duration = perf.now() - start;
+				const errors = Parser.parse($text, ns === '828').lint()
+					.filter(({severity, rule}) => severity === 'error' && !ignore.has(rule));
 				if (errors.length > 0) {
 					this.newEntry(
 						title,
@@ -122,9 +111,6 @@ export class Processor {
 							excerpt: $text.slice(startIndex, endIndex).slice(0, MAX),
 						})),
 					);
-				}
-				if (!this.#worst || duration > this.#worst.duration) {
-					this.#worst = {title, duration};
 				}
 			} catch (e) {
 				if (cluster.isWorker && e instanceof RangeError && e.message === 'Maximum heap size exceeded') {
