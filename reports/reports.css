@@ -66,6 +66,7 @@ th {
 }
 .mono {
 	font-family: monospace;
+	white-space: pre;
 }
 
 @media screen and (max-width: 720px) {

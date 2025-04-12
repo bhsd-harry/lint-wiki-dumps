@@ -8,7 +8,7 @@ fi
 site="${1}wiki" # example: zh-yuewiki
 target="${1//-/_}wiki" # example: zh_yuewiki
 file="$target-latest-pages-articles.xml.bz2"
-if (( $# < 3 ))
+if (( $# < 4 ))
 then
 	curl --output-dir "$2" -O "https://dumps.wikimedia.org/$target/latest/$file"
 	npx getParserConfig "$site" "https://$1.wikipedia.org/w/"
