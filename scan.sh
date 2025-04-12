@@ -10,4 +10,4 @@ target="${1//-/_}wiki" # example: zh_yuewiki
 file="$target-latest-pages-articles.xml.bz2"
 curl --output-dir "$2" -O "https://dumps.wikimedia.org/$target/latest/$file"
 npx getParserConfig "$site" "https://$1.wikipedia.org/w/"
-node parser.js "$1" "$2/$file" && node report.js "$1" "$3"
+node parser.js "$1" "$2/$file" "$4" && node report.js "$1" "$3"

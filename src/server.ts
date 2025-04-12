@@ -25,7 +25,7 @@ createServer(({url}, res) => {
 		res.writeHead(200, {
 			'content-type': contentType,
 			'x-content-type-options': 'nosniff',
-			'cache-control': `max-age=${60 * 60 * 24 * 15}, public`,
+			'cache-control': `max-age=${60 * 60 * 24}, public`,
 		});
 		res.end(fs.readFileSync(file), 'utf8');
 	} else {

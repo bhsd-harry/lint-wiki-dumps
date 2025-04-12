@@ -6,7 +6,7 @@ import {refreshStdout} from '@bhsd/common';
 import {init, resultDir, getXmlStream, getTimestamp} from './util';
 import {Processor} from './processor';
 
-const [,, site, file] = process.argv,
+const [,, site, file, refresh] = process.argv,
 	filePath = path.join(resultDir, `${site!.replaceAll('-', '_')}.json`),
 	data = fs.existsSync(filePath) && fs.readFileSync(filePath, 'utf8');
 if (data) {
@@ -17,7 +17,7 @@ init();
 const time = getTimestamp(data),
 	last = (time && new Date(time)) as Date | undefined,
 	results = fs.createWriteStream(filePath),
-	processor = new Processor(site!, results, last);
+	processor = new Processor(site!, results, refresh, last);
 let i = 0;
 
 results.write('{');
@@ -34,5 +34,5 @@ stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$
 	}
 });
 stream.on('end', () => {
-	processor.stop('parse', `Parsed ${i} pages`);
+	processor.stop('parse', `${i} pages`);
 });

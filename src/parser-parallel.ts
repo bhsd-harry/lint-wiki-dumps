@@ -7,7 +7,7 @@ import {refreshStdout} from '@bhsd/common';
 import {init, resultDir, getXmlStream, getTimestamp} from './util';
 import {Processor} from './processor';
 
-const [,, site, dir] = process.argv,
+const [,, site, dir, refresh] = process.argv,
 	target = site!.replaceAll('-', '_');
 
 if (cluster.isPrimary) {
@@ -34,12 +34,15 @@ if (cluster.isPrimary) {
 		workers = new Array(Math.min(os.availableParallelism(), files.length)).fill(undefined)
 			.map(() => cluster.fork());
 	let i = 0,
-		n = 0;
+		n = 0,
+		m = 0;
 	console.time('parse');
 	for (; i < workers.length; i++) {
 		const worker = workers[i]!;
-		worker.on('message', count => { // eslint-disable-line @typescript-eslint/no-loop-func
+		// eslint-disable-next-line @typescript-eslint/no-loop-func
+		worker.on('message', ([count, total]: [number, number]) => {
 			n += count;
+			m += total;
 			if (i < files.length) {
 				worker.send(files[i]![0]);
 				i++;
@@ -50,7 +53,7 @@ if (cluster.isPrimary) {
 	}
 	process.on('exit', () => {
 		console.timeEnd('parse');
-		console.log(chalk.green(`Parsed ${n} pages in total`));
+		console.log(chalk.green(`Parsed ${n} / ${m} pages in total`));
 		for (const file of tempFiles) {
 			fs.unlinkSync(file);
 		}
@@ -72,16 +75,16 @@ if (cluster.isPrimary) {
 		const results = fs.createWriteStream(
 				path.join(resultDir, `${target}${file.slice(file.lastIndexOf('-'), -4)}.json`),
 			),
-			processor = new Processor(site!, results);
+			processor = new Processor(site!, results, refresh);
 		let i = 0;
 
 		results.write('{');
 		results.on('close', () => {
-			process.send!(i);
+			process.send!([processor.parsed, i]);
 		});
 
 		const stop = (): void => {
-			processor.stop(`parse ${file}`, `Parsed ${i} pages from ${file}`);
+			processor.stop(`parse ${file}`, `${i} pages from ${file}`);
 		};
 
 		const lint = ($text: string, ns: string, title: string, date: Date, retry = 0): boolean => {

@@ -19,5 +19,5 @@ then
 else
 	curl --output-dir "$2" --remote-name-all $files
 	npx getParserConfig "$site" "https://$1.wikipedia.org/w/"
-	node parser-parallel.js "$1" "$2" && node report.js "$1" "$3"
+	node parser-parallel.js "$1" "$2" "$4" && node report.js "$1" "$3"
 fi

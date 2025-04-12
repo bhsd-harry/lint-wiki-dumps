@@ -8,27 +8,30 @@ import type {LintError} from './util';
 const ignore = new Set(['no-arg', 'url-encoding', 'h1', 'var-anchor']);
 
 export class Processor {
+	parsed = 0;
 	#failed = 0;
 	#comma = '';
 	#results;
+	#refresh;
 	#latest;
 
 	/** @param site site nickname */
-	constructor(site: string, results: WriteStream, latest?: Date) {
+	constructor(site: string, results: WriteStream, refresh?: string, latest?: Date) {
 		Parser.config = `${site}wiki`;
 		this.#results = results;
+		this.#refresh = Boolean(refresh);
 		this.#latest = latest;
 	}
 
 	/**
 	 * Stop the processing and log the results.
 	 * @param timer timer name
-	 * @param msg message to log
+	 * @param msg additional message to log
 	 */
-	stop(timer: string, msg: string): void {
+	stop(timer: string, msg = ''): void {
 		console.log();
 		console.timeEnd(timer);
-		console.log(chalk.green(msg));
+		console.log(chalk.green(`Parsed ${this.parsed} / ${msg}`));
 		if (this.#failed) {
 			console.error(chalk.red(`${this.#failed} pages failed to parse`));
 		}
@@ -66,58 +69,61 @@ export class Processor {
 		}
 		if (last && date <= last) {
 			const previous = getErrors(data, title);
-			if (previous) {
+			if (!previous) {
+				return;
+			} else if (!this.#refresh) {
 				this.newEntry(title, previous);
+				return;
 			}
-		} else {
-			try {
-				const errors = Parser.parse($text, ns === '828').lint()
-					.filter(({severity, rule}) => severity === 'error' && !ignore.has(rule));
-				if (errors.length > 0) {
-					this.newEntry(
-						title,
-						errors.map(({
-							severity,
-							suggestions,
-							fix,
+		}
+		try {
+			const errors = Parser.parse($text, ns === '828').lint()
+				.filter(({severity, rule}) => severity === 'error' && !ignore.has(rule));
+			this.parsed++;
+			if (errors.length > 0) {
+				this.newEntry(
+					title,
+					errors.map(({
+						severity,
+						suggestions,
+						fix,
 
-							/* DISABLED */
+						/* DISABLED */
 
-							code,
-							startIndex,
-							endLine,
-							endCol,
-							endIndex,
+						code,
+						startIndex,
+						endLine,
+						endCol,
+						endIndex,
 
-							/* DISABLED END */
+						/* DISABLED END */
 
-							...e
-						}) => ({
-							...e,
+						...e
+					}) => ({
+						...e,
 
-							// eslint-disable-next-line @stylistic/multiline-comment-style
-							/* DISABLED
+						// eslint-disable-next-line @stylistic/multiline-comment-style
+						/* DISABLED
 
-							...suggestions && {
-								suggestions: suggestions.map(action => ({
-									...action,
-									original: $text.slice(...action.range),
-								})),
-							},
-							...fix && {fix: {...fix, original: $text.slice(...fix.range)}},
+						...suggestions && {
+							suggestions: suggestions.map(action => ({
+								...action,
+								original: $text.slice(...action.range),
+							})),
+						},
+						...fix && {fix: {...fix, original: $text.slice(...fix.range)}},
 
-							*/
+						*/
 
-							excerpt: $text.slice(startIndex, endIndex).slice(0, MAX),
-						})),
-					);
-				}
-			} catch (e) {
-				if (cluster.isWorker && e instanceof RangeError && e.message === 'Maximum heap size exceeded') {
-					throw e;
-				}
-				this.error(e, title);
+						excerpt: $text.slice(startIndex, endIndex).slice(0, MAX),
+					})),
+				);
 			}
+		} catch (e) {
+			if (cluster.isWorker && e instanceof RangeError && e.message === 'Maximum heap size exceeded') {
+				throw e;
+			}
+			this.error(e, title);
 		}
 	}
 
