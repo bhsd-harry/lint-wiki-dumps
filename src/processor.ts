@@ -63,7 +63,7 @@ export class Processor {
 	 * @param data previous results
 	 * @throws `RangeError` maximum heap size exceeded
 	 */
-	lint($text: string, ns: string, title: string, date: Date, last: Date | false | undefined, data: string): void {
+	lint($text: string, ns: string, title: string, date: Date, last: Date | undefined, data: string): void {
 		if (!this.#latest || date > this.#latest) {
 			this.#latest = date;
 		}

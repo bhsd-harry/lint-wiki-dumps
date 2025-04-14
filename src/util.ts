@@ -1,5 +1,7 @@
 import fs from 'fs';
 import path from 'path';
+import os from 'os';
+import chalk from 'chalk';
 import bz2 from 'unbzip2-stream';
 import XmlStream from 'xml-stream';
 import type {LintError as LintErrorBase} from 'wikilint';
@@ -19,10 +21,19 @@ export interface LintError extends Omit<
 export const MAX = 100,
 	resultDir = path.join(__dirname, 'results');
 
+export const getTempPath = (file: string): string => path.join(__dirname, 'temp', file);
+
 export const init = (): void => {
 	if (!fs.existsSync(resultDir)) {
 		fs.mkdirSync(resultDir);
 	}
+};
+
+export const getWriteStream = (file: string, callback: () => void): fs.WriteStream => {
+	const stream = fs.createWriteStream(file);
+	stream.write('{');
+	stream.on('close', callback);
+	return stream;
 };
 
 export const getXmlStream = (file: string): XmlStream => {
@@ -31,12 +42,12 @@ export const getXmlStream = (file: string): XmlStream => {
 	return stream;
 };
 
-export const getTimestamp = (data: string | false): string | undefined => {
+export const getTimestamp = (data: string | false): Date | undefined => {
 	if (!data) {
 		return undefined;
 	}
 	const i = data.indexOf('"#timestamp": "') + 15;
-	return data.slice(i, data.indexOf('"', i));
+	return new Date(data.slice(i, data.indexOf('"', i)));
 };
 
 export const getErrors = (data: string, page: string): string | undefined => {
@@ -48,3 +59,14 @@ export const getErrors = (data: string, page: string): string | undefined => {
 	const j = i + str.length + 2;
 	return data.slice(j, data.indexOf('\n]', j) + 2);
 };
+
+export const isArticle = ($text: string, ns: string, model: string): boolean =>
+	ns === '0' && model === 'wikitext' && Boolean($text);
+
+export const replaceTilde = (str: string): string => str.replace(/^~/u, os.homedir());
+
+export const reading = (file: string): void => {
+	console.log(chalk.green(`Reading ${file}`));
+};
+
+export const normalize = (str: string): string => str.replaceAll('-', '_');

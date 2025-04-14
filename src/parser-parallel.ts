@@ -4,11 +4,22 @@ import path from 'path';
 import os from 'os';
 import chalk from 'chalk';
 import {refreshStdout} from '@bhsd/common';
-import {init, resultDir, getXmlStream, getTimestamp} from './util';
+import {
+	init,
+	resultDir,
+	getTempPath,
+	getWriteStream,
+	getXmlStream,
+	getTimestamp,
+	isArticle,
+	replaceTilde,
+	reading,
+	normalize,
+} from './util';
 import {Processor} from './processor';
 
 const [,, site, dir, refresh] = process.argv,
-	target = site!.replaceAll('-', '_');
+	target = normalize(site!);
 
 if (cluster.isPrimary) {
 	init();
@@ -17,12 +28,12 @@ if (cluster.isPrimary) {
 		if (file.startsWith(`${target}-p`) && file.endsWith('.json')) {
 			const oldName = path.join(resultDir, file),
 				newName = path.join(resultDir, `temp${file.slice(target.length)}`);
-			console.log(chalk.green(`Reading ${oldName}`));
+			reading(oldName);
 			tempFiles.push(newName);
 			fs.renameSync(oldName, newName);
 		}
 	}
-	const dumpDir = dir!.replace(/^~/u, os.homedir()),
+	const dumpDir = replaceTilde(dir!),
 		prefix = `${target}wiki`,
 		files = fs.readdirSync(dumpDir).filter(file => file.endsWith('.bz2') && file.startsWith(prefix))
 			.map(file => {
@@ -69,19 +80,17 @@ if (cluster.isPrimary) {
 		max = Math.max(...ranges.map(([, end]) => end));
 	let start: number | undefined,
 		end: number | undefined,
-		last: Date | false | undefined,
+		last: Date | undefined,
 		data: string | undefined;
 	process.on('message', (file: string) => {
-		const results = fs.createWriteStream(
-				path.join(resultDir, `${target}${file.slice(file.lastIndexOf('-'), -4)}.json`),
-			),
+		const filename = `${target}${file.slice(file.lastIndexOf('-'), -4)}.json`,
+			tempPath = getTempPath(filename),
+			results = getWriteStream(tempPath, () => {
+				fs.renameSync(tempPath, path.join(resultDir, filename));
+				process.send!([processor.parsed, i]);
+			}),
 			processor = new Processor(site!, results, refresh);
 		let i = 0;
-
-		results.write('{');
-		results.on('close', () => {
-			process.send!([processor.parsed, i]);
-		});
 
 		const stop = (): void => {
 			processor.stop(`parse ${file}`, `${i} pages from ${file}`);
@@ -113,7 +122,7 @@ if (cluster.isPrimary) {
 		console.time(`parse ${file}`);
 		const stream = getXmlStream(file);
 		stream.on('endElement: page', ({title, ns, id, revision: {model, timestamp, text: {$text}}}) => {
-			if (model === 'wikitext' && $text && ns === '0') {
+			if (isArticle($text, ns, model)) {
 				refreshStdout(`${i++} ${title}`);
 				const pageid = Number(id);
 				if (start === undefined || end === undefined || pageid < start || pageid > end) {
@@ -125,8 +134,7 @@ if (cluster.isPrimary) {
 					} else {
 						[start, end] = ranges[cur]!;
 						data = fs.readFileSync(path.join(resultDir, tempFiles[cur]!), 'utf8');
-						const time = getTimestamp(data);
-						last = (time && new Date(time)) as Date | false;
+						last = getTimestamp(data);
 					}
 				}
 				lint($text, ns, title, new Date(timestamp));
