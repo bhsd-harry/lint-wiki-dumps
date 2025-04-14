@@ -13,14 +13,15 @@
 	"license": "GPL-3.0",
 	"author": "Bhsd",
 	"files": [
-		"scan.sh",
+		"*.sh",
+		"!bump.sh",
 		"*.js",
 		"reports/*.html",
 		"reports/dist/",
 		"reports/*.css"
 	],
 	"bin": {
-		"lint-wiki-dumps": "scan-parallel.sh"
+		"lint-wiki-dumps": "scan.sh"
 	},
 	"repository": {
 		"type": "git",

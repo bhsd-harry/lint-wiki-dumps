@@ -20,12 +20,16 @@ export interface LintError extends Omit<
 
 export const MAX = 100,
 	resultDir = path.join(__dirname, 'results');
+const tempDir = path.join(__dirname, 'temp');
 
-export const getTempPath = (file: string): string => path.join(__dirname, 'temp', file);
+export const getTempPath = (file: string): string => path.join(tempDir, file);
 
 export const init = (): void => {
 	if (!fs.existsSync(resultDir)) {
 		fs.mkdirSync(resultDir);
+	}
+	if (!fs.existsSync(tempDir)) {
+		fs.mkdirSync(tempDir);
 	}
 };
 
