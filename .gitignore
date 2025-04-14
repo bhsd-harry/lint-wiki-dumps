@@ -1,4 +1,5 @@
 /.vscode/
+/temp/
 /results/
 /reports/dist/
 .eslintcache
