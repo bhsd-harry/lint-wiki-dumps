@@ -41,7 +41,12 @@ export const getWriteStream = (file: string, callback: () => void): fs.WriteStre
 };
 
 export const getXmlStream = (file: string): XmlStream => {
-	const stream = new XmlStream(fs.createReadStream(file).pipe(bz2()));
+	const readable = fs.createReadStream(file).pipe(bz2()),
+		stream = new XmlStream(readable);
+	readable.on('error', e => {
+		console.error(chalk.red(`Error unzipping ${file}`));
+		throw e;
+	});
 	stream.preserve('text', true);
 	return stream;
 };

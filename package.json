@@ -34,10 +34,10 @@
 		"lint": "tsc --noEmit && tsc --project reports/tsconfig.json --noEmit && eslint --cache ."
 	},
 	"dependencies": {
-		"@bhsd/common": "^0.9.2",
+		"@bhsd/common": "^0.9.3",
 		"chalk": "^4.1.2",
 		"unbzip2-stream": "^1.4.3",
-		"wikilint": "^2.19.0",
+		"wikilint": "^2.20.0",
 		"xml-stream": "^0.4.5"
 	},
 	"optionalDependencies": {
