@@ -5,7 +5,7 @@ import {MAX, getErrors} from './util';
 import type {WriteStream} from 'fs';
 import type {LintError} from './util';
 
-const ignore = new Set(['no-arg', 'url-encoding', 'h1', 'var-anchor']);
+const ignore = new Set(['h1', 'no-arg', 'unclosed-table', 'unmatched-tag', 'url-encoding', 'var-anchor', 'void-ext']);
 
 export class Processor {
 	parsed = 0;
