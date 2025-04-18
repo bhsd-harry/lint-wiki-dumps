@@ -1,11 +1,9 @@
 import cluster from 'cluster';
 import chalk from 'chalk';
 import Parser from 'wikilint';
-import {MAX, getErrors} from './util';
+import {getErrors, lint} from './util';
 import type {WriteStream} from 'fs';
 import type {LintError} from './util';
-
-const ignore = new Set(['h1', 'no-arg', 'unclosed-table', 'unmatched-tag', 'url-encoding', 'var-anchor', 'void-ext']);
 
 export class Processor {
 	parsed = 0;
@@ -77,47 +75,10 @@ export class Processor {
 			}
 		}
 		try {
-			const errors = Parser.parse($text, ns === '828').lint()
-				.filter(({severity, rule}) => severity === 'error' && !ignore.has(rule));
+			const errors = lint($text, ns);
 			this.parsed++;
 			if (errors.length > 0) {
-				this.newEntry(
-					title,
-					errors.map(({
-						severity,
-						suggestions,
-						fix,
-
-						/* DISABLED */
-
-						code,
-						startIndex,
-						endLine,
-						endCol,
-						endIndex,
-
-						/* DISABLED END */
-
-						...e
-					}) => ({
-						...e,
-
-						// eslint-disable-next-line @stylistic/multiline-comment-style
-						/* DISABLED
-
-						...suggestions && {
-							suggestions: suggestions.map(action => ({
-								...action,
-								original: $text.slice(...action.range),
-							})),
-						},
-						...fix && {fix: {...fix, original: $text.slice(...fix.range)}},
-
-						*/
-
-						excerpt: $text.slice(startIndex, endIndex).slice(0, MAX),
-					})),
-				);
+				this.newEntry(title, errors);
 			}
 		} catch (e) {
 			if (cluster.isWorker && e instanceof RangeError && e.message === 'Maximum heap size exceeded') {

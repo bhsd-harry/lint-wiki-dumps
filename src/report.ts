@@ -1,8 +1,7 @@
 import fs from 'fs';
 import path from 'path';
-import {createHash} from 'crypto';
 import chalk from 'chalk';
-import {MAX, resultDir} from './util';
+import {MAX, resultDir, getHash, write} from './util';
 import type {LintError} from './util';
 
 const {argv} = process,
@@ -32,12 +31,12 @@ const dataDir = path.join(outDir, 'data');
 mkdir(dataDir);
 
 const writeJS = (data: unknown[], file: string): void => {
-	fs.writeFileSync(path.join(dataDir, `${file}.js`), `window.data=${JSON.stringify(data)}`);
+	write(path.join(dataDir, `${file}.js`), data);
 };
 
 const initJS = (file: string): fs.WriteStream => {
 	const stream = fs.createWriteStream(`${file}.js`);
-	stream.write('window.data={"articles":[');
+	stream.write('globalThis.data={"articles":[');
 	return stream;
 };
 
@@ -73,8 +72,6 @@ for (const file of dir) {
 	latest = !latest || date > latest ? date : latest;
 	for (const mt of data.matchAll(/^(".+"): \[$/gmu)) {
 		const page: string = JSON.parse(mt[1]!),
-			hash = createHash('sha256').update(page).digest('hex')
-				.slice(0, 8),
 			errors: LintError[] = JSON.parse(
 				data.slice(mt.index + mt[0].length - 1, data.indexOf('\n]', mt.index) + 2),
 			),
@@ -112,7 +109,7 @@ for (const file of dir) {
 				)},`;
 			}
 		}
-		writeJS(info, path.join(site, 'pages', hash));
+		writeJS(info, getHash(site, page));
 	}
 }
 const timestamp = latest!.toISOString().slice(0, 10);

@@ -13,8 +13,6 @@ export const load = (src: string, callback: () => void): void => {
 	document.head.append(script);
 };
 
-export const getHost = (lang: string): string => lang === 'mediawiki' ? 'www.mediawiki.org' : `${lang}.wikipedia.org`;
-
 export const update = (tag: string, replace: string): Element => {
 	const ele = document.querySelector(tag)!;
 	ele.textContent = ele.textContent!.replace('Wikipedia', replace);

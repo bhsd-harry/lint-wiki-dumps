@@ -1,4 +1,4 @@
-import {load, getHost, update, addLink, insertRow, getErrorInfo, updateLink} from './common';
+import {load, update, addLink, insertRow, getErrorInfo, updateLink} from './common';
 
 declare const data: {
 	articles: [string, number, number, string, string][];
@@ -10,7 +10,6 @@ const search = new URLSearchParams(location.search),
 	lang = search.get('lang'),
 	rule = search.get('rule'),
 	batch = Math.floor(Number(search.get('start') || 0) / 200),
-	host = getHost(lang!),
 	h2 = update('h2', `${lang}wiki: ${rule}`);
 update('title', `${lang}wiki`);
 updateLink('wiki', s => `${s}?lang=${lang}`, `${lang}wiki`);
@@ -28,10 +27,8 @@ load(`./data/${lang}/${rule}-${batch}.js`, () => {
 	for (const [page, startLine, startCol, message, excerpt] of data.articles) {
 		const title = encodeURIComponent(page);
 		insertRow(
-			addLink('td', page, `https://${host}/wiki/${title}?redirect=no`, 'excerpt'),
-			addLink('td', 'edit', `https://${host}/wiki/${title}?action=edit`),
+			addLink('td', page, `./article.html?lang=${lang}&page=${title}`, 'excerpt'),
 			...getErrorInfo(startLine, startCol, message, excerpt),
-			addLink('td', 'more', `./article.html?lang=${lang}&page=${title}`),
 		);
 	}
 });
