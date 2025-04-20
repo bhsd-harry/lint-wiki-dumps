@@ -1,6 +1,7 @@
 import {createServer} from 'http';
 import path from 'path';
 import fs from 'fs';
+import Parser from 'wikilint';
 import {getHash, lint, write} from './util';
 
 declare interface APIResponse {
@@ -48,7 +49,15 @@ createServer(({url}, res) => {
 					if (code === 200) {
 						const {source, content_model: contentModel, latest: {timestamp}} = await response.json();
 						if (contentModel === 'wikitext') {
-							const errors = lint(source as string),
+							Parser.config = `${lang}wiki`;
+							const errors = lint(source as string)
+									.map(({rule, startLine, startCol, message, excerpt}) => [
+										rule,
+										startLine + 1,
+										startCol + 1,
+										message,
+										excerpt,
+									] as const),
 								hash = `${getHash(lang, title)}.js`,
 								filepath = path.join('reports', 'data', hash);
 							console.log(`Remaining errors in ${hash}: ${errors.length}`);
