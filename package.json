@@ -1,6 +1,6 @@
 {
 	"name": "lint-wiki-dumps",
-	"version": "0.3.0",
+	"version": "0.3.1",
 	"description": "Lint Wikipedia dumps",
 	"keywords": [
 		"lint",
@@ -37,11 +37,11 @@
 		"@bhsd/common": "^0.9.3",
 		"chalk": "^4.1.2",
 		"unbzip2-stream": "^1.4.3",
-		"wikilint": "^2.20.0",
+		"wikilint": "^2.20.1",
 		"xml-stream": "^0.4.5"
 	},
 	"optionalDependencies": {
-		"vscode-css-languageservice": "^6.3.2"
+		"vscode-css-languageservice": "^6.3.4"
 	},
 	"devDependencies": {
 		"@stylistic/eslint-plugin": "^3.1.0",
