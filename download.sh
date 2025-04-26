@@ -10,7 +10,7 @@ if (( ${#filtered} < 2 ))
 then
 	file="$path/$1-latest-pages-articles.xml.bz2"
 	curl --output-dir "$2" -O "$file"
-	exit 1
+	exit 20
 else
 	curl --output-dir "$2" --remote-name-all $filtered
 fi
