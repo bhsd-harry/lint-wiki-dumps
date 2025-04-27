@@ -13,9 +13,9 @@ declare interface Page {
 
 declare module 'xml-stream' {
 	export default class XmlStream {
+		_preserveAll: boolean; // eslint-disable-line no-underscore-dangle
 		/** @class */
 		constructor(stream: NodeJS.ReadableStream);
-		preserve(tag: string, preserve: boolean): void;
 		// eslint-disable-next-line @typescript-eslint/no-explicit-any
 		on<T extends string>(event: T, listener: T extends 'end' ? () => void : (page: Page) => void): void;
 		pause(): void;
