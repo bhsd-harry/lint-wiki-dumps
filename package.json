@@ -31,13 +31,15 @@
 		"start": "node server.js",
 		"prepublishOnly": "npm run build",
 		"build": "tsc && mv dist/* . && esbuild reports/src/*.ts --charset=utf8 --bundle --minify --target=es2019 --sourcemap --outdir=reports/dist && rm reports/dist/common.js*",
-		"lint": "tsc --noEmit && tsc --project reports/tsconfig.json --noEmit && eslint --cache ."
+		"lint:ts": "tsc --noEmit && tsc --project reports/tsconfig.json --noEmit && eslint --cache .",
+		"lint:css": "stylelint **/*.css",
+		"lint": "npm run lint:ts && npm run lint:css"
 	},
 	"dependencies": {
-		"@bhsd/common": "^0.9.3",
+		"@bhsd/common": "^0.13.1",
 		"chalk": "^4.1.2",
 		"unbzip2-stream": "^1.4.3",
-		"wikilint": "^2.20.1",
+		"wikilint": "^2.21.2",
 		"xml-stream": "^0.4.5"
 	},
 	"optionalDependencies": {
@@ -46,7 +48,6 @@
 	"devDependencies": {
 		"@stylistic/eslint-plugin": "^3.1.0",
 		"@stylistic/stylelint-plugin": "^3.1.2",
-		"@types/mocha": "^10.0.10",
 		"@types/node": "^22.13.1",
 		"@types/unbzip2-stream": "^1.4.3",
 		"@typescript-eslint/eslint-plugin": "^8.29.0",
@@ -57,14 +58,11 @@
 		"eslint-plugin-eslint-comments": "^3.2.0",
 		"eslint-plugin-jsdoc": "^50.6.3",
 		"eslint-plugin-json-es": "^1.6.0",
-		"eslint-plugin-markdown": "4.0.1",
 		"eslint-plugin-n": "^17.15.1",
 		"eslint-plugin-promise": "^7.2.1",
 		"eslint-plugin-regexp": "^2.7.0",
 		"eslint-plugin-unicorn": "^56.0.1",
-		"http-server": "^14.1.1",
-		"mocha": "^11.1.0",
-		"stylelint": "^16.14.1",
+		"stylelint": "^16.20.0",
 		"typescript": "^5.8.2"
 	},
 	"engines": {

@@ -23,7 +23,18 @@ export interface LintError extends Omit<
 export const MAX = 100,
 	resultDir = path.join(__dirname, 'results');
 const tempDir = path.join(__dirname, 'temp'),
-	ignore = new Set(['h1', 'no-arg', 'unclosed-table', 'unmatched-tag', 'url-encoding', 'var-anchor', 'void-ext']);
+	ignore = new Set<LintErrorBase.Rule>([
+		'fostered-content',
+		'h1',
+		'lonely-apos',
+		'pipe-like',
+		'unclosed-comment',
+		'unclosed-table',
+		'unmatched-tag',
+		'url-encoding',
+		'var-anchor',
+		'void-ext',
+	]);
 
 export const lint = ($text: string, ns?: string): LintError[] => Parser.parse($text, ns === '828').lint()
 	.filter(({severity, rule}) => severity === 'error' && !ignore.has(rule))
