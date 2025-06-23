@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import {refreshStdout} from '@bhsd/common';
+import {refreshStdout} from '@bhsd/nodejs';
 import {
 	init,
 	resultDir,

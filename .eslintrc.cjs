@@ -1,11 +1,12 @@
 'use strict';
 
-const config = require('@bhsd/common/eslintrc.node.cjs');
+const config = require('@bhsd/code-standard/eslintrc.node.cjs');
 
 module.exports = {
 	...config,
 	ignorePatterns: [
 		'/*.js',
 		'results/*.json',
+		'build/',
 	],
 };

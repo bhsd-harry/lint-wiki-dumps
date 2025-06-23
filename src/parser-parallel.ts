@@ -3,7 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import os from 'os';
 import chalk from 'chalk';
-import {refreshStdout} from '@bhsd/common';
+import {refreshStdout} from '@bhsd/nodejs';
 import {
 	init,
 	resultDir,
