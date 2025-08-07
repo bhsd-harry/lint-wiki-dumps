@@ -3,12 +3,14 @@ import path from 'path';
 import fs from 'fs';
 import Parser from 'wikilint';
 import {getHash, lint, write} from './util';
+import lintConfig from './wikilintrc';
 
 declare interface APIResponse {
 	status: 'success' | 'error';
 	timestamp?: string;
 }
 
+Parser.lintConfig = lintConfig as typeof Parser.lintConfig;
 const port = parseInt(process.env['PORT'] || '8000'),
 	headers = {
 		'content-type': 'application/json',
@@ -38,7 +40,7 @@ createServer(({url}, res) => {
 							}/w/rest.php/v1/page/${page}`,
 							{
 								headers: {
-									'Api-User-Agent':
+									'User-Agent':
 										'tools.lint-wiki-dumps (https://github.com/bhsd-harry/lint-wiki-dumps)',
 								},
 							},

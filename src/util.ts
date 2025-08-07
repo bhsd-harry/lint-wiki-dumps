@@ -6,7 +6,8 @@ import chalk from 'chalk';
 import bz2 from 'unbzip2-stream';
 import XmlStream from 'xml-stream';
 import Parser from 'wikilint';
-import type {LintError as LintErrorBase} from 'wikilint';
+import lintConfig from './wikilintrc';
+import type {LintError as LintErrorBase, LintConfig} from 'wikilint';
 
 declare interface Fix extends LintErrorBase.Fix {
 	original: string;
@@ -20,31 +21,21 @@ export interface LintError extends Omit<
 	sugggestions?: Fix[];
 }
 
+Parser.lintConfig = lintConfig as LintConfig;
+
 export const MAX = 100,
 	resultDir = path.join(__dirname, 'results');
-const tempDir = path.join(__dirname, 'temp'),
-	ignore = new Set<LintErrorBase.Rule>([
-		'fostered-content',
-		'h1',
-		'lonely-apos',
-		'pipe-like',
-		'unclosed-comment',
-		'unclosed-table',
-		'unmatched-tag',
-		'url-encoding',
-		'var-anchor',
-		'void-ext',
-	]);
+const tempDir = path.join(__dirname, 'temp');
 
 export const lint = ($text: string, ns?: string): LintError[] => Parser.parse($text, ns === '828').lint()
-	.filter(({severity, rule}) => severity === 'error' && !ignore.has(rule))
+	.filter(({severity}) => severity === 'error')
 	.map(({
 		severity,
-		suggestions,
-		fix,
 
 		/* DISABLED */
 
+		suggestions,
+		fix,
 		code,
 		startIndex,
 		endLine,
@@ -56,20 +47,6 @@ export const lint = ($text: string, ns?: string): LintError[] => Parser.parse($t
 		...e
 	}) => ({
 		...e,
-
-		// eslint-disable-next-line @stylistic/multiline-comment-style
-		/* DISABLED
-
-		...suggestions && {
-			suggestions: suggestions.map(action => ({
-				...action,
-				original: $text.slice(...action.range),
-			})),
-		},
-		...fix && {fix: {...fix, original: $text.slice(...fix.range)}},
-
-		*/
-
 		excerpt: $text.slice(startIndex, endIndex).slice(0, MAX),
 	}));
 

@@ -37,17 +37,17 @@
 		"lint": "npm run lint:ts && npm run lint:css"
 	},
 	"dependencies": {
-		"@bhsd/nodejs": "^0.0.0",
+		"@bhsd/nodejs": "^0.0.1",
 		"chalk": "^4.1.2",
 		"unbzip2-stream": "^1.4.3",
-		"wikilint": "^2.23.0",
+		"wikilint": "^2.25.0",
 		"xml-stream": "^0.4.5"
 	},
 	"optionalDependencies": {
 		"vscode-css-languageservice": "^6.3.7"
 	},
 	"devDependencies": {
-		"@bhsd/code-standard": "^1.0.0",
+		"@bhsd/code-standard": "^1.0.1",
 		"@stylistic/eslint-plugin": "^3.1.0",
 		"@stylistic/stylelint-plugin": "^4.0.0",
 		"@types/node": "^24.0.10",
@@ -64,7 +64,8 @@
 		"eslint-plugin-promise": "^7.2.1",
 		"eslint-plugin-regexp": "^2.9.0",
 		"eslint-plugin-unicorn": "^56.0.1",
-		"stylelint": "^16.23.0",
+		"stylelint": "^16.23.1",
+		"stylelint-config-recommended": "^17.0.0",
 		"typescript": "^5.8.2"
 	},
 	"engines": {

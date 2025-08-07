@@ -5,14 +5,13 @@ then
 	echo 'Example: npx lint-wiki-dumps zh-yue ~/Downloads/dumps'
 	exit 1
 fi
-target="${1//-/_}wiki" # example: zh_yuewiki
 npx getParserConfig "${1}wiki" "https://$1.wikipedia.org/w/"
-bash download.sh "$target" "$2"
+bash download.sh "$1" "$2"
 res="$?"
 if (( res == 20 ))
 then
 	echo 'Switching to single-threaded mode'
-	node parser.js "$1" "$2/$target-latest-pages-articles.xml.bz2" "$4"
+	node parser.js "$1" "$2/${1//-/_}wiki-latest-pages-articles.xml.bz2" "$4"
 elif (( res == 0 ))
 then
 	node parser-parallel.js "$1" "$2" "$4"

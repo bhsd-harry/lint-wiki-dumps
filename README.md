@@ -14,7 +14,7 @@ To run this tool, you need to have [curl](https://curl.se/) installed on your sy
 npm i lint-wiki-dumps
 ```
 
-You can also install its optional dependency [vscode-css-languageservice](https://npmjs.com/package/vscode-css-languageservice) to lint inline CSS in Wikitext:
+You can also install its optional dependency [vscode-css-languageservice](https://www.npmjs.com/package/vscode-css-languageservice) to lint inline CSS in Wikitext:
 
 ```sh
 npm i vscode-css-languageservice
@@ -43,7 +43,7 @@ If you have already downloaded the dump, you can scan the dump directly and gene
 ```sh
 node parser.js <language> <path to dump>
 # For example:
-node parser.js zh-yue ~/Downloads/dumps/zh-yuewiki-lastest-pages-articles.xml.bz2
+node parser.js zh-yue ~/Downloads/dumps/zh-yuewiki-latest-pages-articles.xml.bz2
 ```
 
 To generate HTML reports, you can use the following command:

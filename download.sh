@@ -1,14 +1,15 @@
 #!/usr/local/bin/bash
-path="https://dumps.wikimedia.org/$1/latest/"
+target="${1//-/_}wiki" # example: zh_yuewiki
+path="https://dumps.wikimedia.org/$target/latest/"
 files=$( \
 	curl -s "$path" \
-	| grep -o "href=\"$1-latest-pages-articles[0-9].*\.bz2\">" \
+	| grep -o "href=\"$target-latest-pages-articles[0-9].*\.bz2\">" \
 	| gsed "s|href=\"|$path|;s|\">||" \
 )
 filtered=$(node filter.js $files)
 if (( ${#filtered} < 2 ))
 then
-	file="$path/$1-latest-pages-articles.xml.bz2"
+	file="$path/$target-latest-pages-articles.xml.bz2"
 	curl --progress-bar --output-dir "$2" -O "$file"
 	exit 20
 else
