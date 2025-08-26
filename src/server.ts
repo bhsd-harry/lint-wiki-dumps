@@ -3,21 +3,29 @@ import path from 'path';
 import fs from 'fs';
 import Parser from 'wikilint';
 import {getHash, lint, write} from './util';
-import lintConfig from './wikilintrc';
 
 declare interface APIResponse {
 	status: 'success' | 'error';
 	timestamp?: string;
 }
+declare const data: [string, number, number, string, string][];
 
-Parser.lintConfig = lintConfig as typeof Parser.lintConfig;
 const port = parseInt(process.env['PORT'] || '8000'),
 	headers = {
 		'content-type': 'application/json',
 		'x-content-type-options': 'nosniff',
 		'cache-control': 'max-age=5',
+	},
+	cacheControl = `max-age=${60 * 60 * 24}, public`,
+	jsonHeaders = {
+		...headers,
+		'cache-control': cacheControl,
 	};
 let busy = false;
+
+const getTitle = (page: string): string => decodeURIComponent(page).replaceAll('_', ' '),
+	getJS = (lang: string, title: string): string => `${getHash(lang, title)}.js`,
+	getFilePath = (hash: string): string => path.join('reports', 'data', hash);
 
 createServer(({url}, res) => {
 	if (!url || url === '/') {
@@ -35,9 +43,7 @@ createServer(({url}, res) => {
 				busy = true;
 				try {
 					const response = await fetch(
-							`https://${
-								lang === 'mediawiki' ? 'www.mediawiki.org' : `${lang}.wikipedia.org`
-							}/w/rest.php/v1/page/${page}`,
+							`https://${lang}.wikipedia.org/w/rest.php/v1/page/${page}`,
 							{
 								headers: {
 									'User-Agent':
@@ -45,7 +51,7 @@ createServer(({url}, res) => {
 								},
 							},
 						),
-						title = decodeURIComponent(page).replaceAll('_', ' ');
+						title = getTitle(page);
 					code = response.status;
 					console.log(`Purging ${lang}wiki: ${title}; status: ${code}`);
 					if (code === 200) {
@@ -60,8 +66,8 @@ createServer(({url}, res) => {
 										message,
 										excerpt,
 									] as const),
-								hash = `${getHash(lang, title)}.js`,
-								filepath = path.join('reports', 'data', hash);
+								hash = getJS(lang, title),
+								filepath = getFilePath(hash);
 							console.log(`Remaining errors in ${hash}: ${errors.length}`);
 							write(filepath, errors);
 							obj.status = 'success';
@@ -78,6 +84,30 @@ createServer(({url}, res) => {
 			res.writeHead(code, headers);
 			res.end(JSON.stringify(obj), 'utf8');
 		})();
+	} else if (file.startsWith('reports/api/')) {
+		const [,, lang, page] = file.split('/');
+		if (lang && page) {
+			const title = getTitle(page),
+				filePath = getFilePath(getJS(lang, title)),
+				json = {language: lang, title};
+			res.writeHead(200, jsonHeaders);
+			if (fs.existsSync(filePath)) {
+				// eslint-disable-next-line @typescript-eslint/no-require-imports
+				require(path.resolve('.', filePath));
+				res.end(
+					JSON.stringify({
+						...json,
+						errors: data.map(([rule, line, col, msg]) => ({rule, line, col, msg})),
+					}),
+					'utf8',
+				);
+			} else {
+				res.end(JSON.stringify({...json, errors: []}), 'utf8');
+			}
+		} else {
+			res.writeHead(400, jsonHeaders);
+			res.end(JSON.stringify({error: `Missing ${lang ? 'page name' : 'language code'}`}), 'utf8');
+		}
 	} else {
 		let contentType: string;
 		switch (path.extname(file)) {
@@ -94,7 +124,7 @@ createServer(({url}, res) => {
 			res.writeHead(200, {
 				'content-type': contentType,
 				'x-content-type-options': 'nosniff',
-				'cache-control': `max-age=${60 * 60 * 24}, public`,
+				'cache-control': cacheControl,
 			});
 			res.end(fs.readFileSync(file), 'utf8');
 		} else {
