@@ -5,7 +5,11 @@ then
 	echo 'Example: npx lint-wiki-dumps zh-yue ~/Downloads/dumps'
 	exit 1
 fi
-npx getParserConfig "${1}wiki" "https://$1.wikipedia.org/w/"
+if ! [ -f "config/${1}wiki.json" ]
+then
+	echo "Fetching parser configuration for ${1}wiki"
+	npx getParserConfig "${1}wiki" "https://$1.wikipedia.org/w/"
+fi
 bash download.sh "$1" "$2"
 res="$?"
 if (( res == 20 ))

@@ -22,6 +22,7 @@ export interface LintError extends Omit<
 }
 
 Parser.lintConfig = lintConfig as LintConfig;
+Parser.configPaths.push(path.join(__dirname, 'config'));
 
 export const MAX = 100,
 	resultDir = path.join(__dirname, 'results');
