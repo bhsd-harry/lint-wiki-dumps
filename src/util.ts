@@ -1,55 +1,12 @@
 import fs from 'fs';
 import path from 'path';
 import os from 'os';
-import {createHash} from 'crypto';
 import chalk from 'chalk';
 import bz2 from 'unbzip2-stream';
 import XmlStream from 'xml-stream';
-import Parser from 'wikilint';
-import lintConfig from './wikilintrc';
-import type {LintError as LintErrorBase, LintConfig} from 'wikilint';
 
-declare interface Fix extends LintErrorBase.Fix {
-	original: string;
-}
-export interface LintError extends Omit<
-	LintErrorBase,
-	'severity' | 'code' | 'startIndex' | 'endLine' | 'endCol' | 'endIndex'
-> {
-	excerpt: string;
-	fix?: Fix;
-	sugggestions?: Fix[];
-}
-
-Parser.lintConfig = lintConfig as LintConfig;
-Parser.configPaths.push(path.join(__dirname, 'config'));
-
-export const MAX = 100,
-	resultDir = path.join(__dirname, 'results');
+export const resultDir = path.join(__dirname, 'results');
 const tempDir = path.join(__dirname, 'temp');
-
-export const lint = ($text: string, ns?: string): LintError[] => Parser.parse($text, ns === '828').lint()
-	.filter(({severity}) => severity === 'error')
-	.map(({
-		severity,
-
-		/* DISABLED */
-
-		suggestions,
-		fix,
-		code,
-		startIndex,
-		endLine,
-		endCol,
-		endIndex,
-
-		/* DISABLED END */
-
-		...e
-	}) => ({
-		...e,
-		excerpt: $text.slice(startIndex, endIndex).slice(0, MAX),
-	}));
 
 export const getTempPath = (file: string): string => path.join(tempDir, file);
 
@@ -108,12 +65,3 @@ export const reading = (file: string): void => {
 };
 
 export const normalize = (str: string): string => str.replaceAll('-', '_');
-
-export const getHash = (lang: string, page: string): string => {
-	const hash = createHash('sha256').update(page).digest('hex').slice(0, 8);
-	return path.join(lang, 'pages', hash);
-};
-
-export const write = (file: string, data: unknown[]): void => {
-	fs.writeFileSync(file, `globalThis.data=${JSON.stringify(data)}`);
-};

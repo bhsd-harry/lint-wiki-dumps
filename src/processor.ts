@@ -1,9 +1,10 @@
 import cluster from 'cluster';
 import chalk from 'chalk';
 import Parser from 'wikilint';
-import {getErrors, lint} from './util';
+import {getErrors} from './util';
+import {lint} from './common';
 import type {WriteStream} from 'fs';
-import type {LintError} from './util';
+import type {LintError} from './common';
 
 export class Processor {
 	parsed = 0;

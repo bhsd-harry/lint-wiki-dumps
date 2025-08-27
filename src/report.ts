@@ -1,8 +1,9 @@
 import fs from 'fs';
 import path from 'path';
 import chalk from 'chalk';
-import {MAX, resultDir, getHash, write} from './util';
-import type {LintError} from './util';
+import {resultDir} from './util';
+import {MAX, getHash, write} from './common';
+import type {LintError} from './common';
 
 const {argv} = process,
 	[,, lang] = argv,

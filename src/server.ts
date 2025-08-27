@@ -2,7 +2,7 @@ import {createServer} from 'http';
 import path from 'path';
 import fs from 'fs';
 import Parser from 'wikilint';
-import {getHash, lint, write} from './util';
+import {getHash, lint, write} from './common';
 
 declare interface APIResponse {
 	status: 'success' | 'error';
