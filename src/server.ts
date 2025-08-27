@@ -23,7 +23,11 @@ const port = parseInt(process.env['PORT'] || '8000'),
 	};
 let busy = false;
 
-const getTitle = (page: string): string => decodeURIComponent(page).replaceAll('_', ' '),
+const getPage = (file: string): [string | undefined, string] => {
+		const [,, lang, ...parts] = file.split('/');
+		return [lang, parts.join('/')];
+	},
+	getTitle = (page: string): string => decodeURIComponent(page).replaceAll('_', ' '),
 	getJS = (lang: string, title: string): string => `${getHash(lang, title)}.js`,
 	getFilePath = (hash: string): string => path.join('reports', 'data', hash);
 
@@ -33,7 +37,7 @@ createServer(({url}, res) => {
 	}
 	const file = new URL(path.join('reports', url), 'http://localhost').pathname.slice(1);
 	if (file.startsWith('reports/purge/')) {
-		const [,, lang, page] = file.split('/');
+		const [lang, page] = getPage(file);
 		(async () => {
 			const obj: APIResponse = {status: 'error'};
 			let code = 400;
@@ -85,7 +89,7 @@ createServer(({url}, res) => {
 			res.end(JSON.stringify(obj), 'utf8');
 		})();
 	} else if (file.startsWith('reports/api/')) {
-		const [,, lang, page] = file.split('/');
+		const [lang, page] = getPage(file);
 		if (lang && page) {
 			const title = getTitle(page),
 				filePath = getFilePath(getJS(lang, title)),
