@@ -68,6 +68,43 @@ th {
 	font-family: monospace;
 	white-space: pre;
 }
+#api {
+	margin-top: 2rem;
+}
+.block {
+	background: rgb(97, 175, 254, .1);
+	border: 1px solid #61affe;
+	border-radius: 4px;
+	box-shadow: 0 0 3px rgb(0, 0, 0, .19);
+	padding: 5px;
+	margin: 0 0 15px;
+}
+.method {
+	display: inline-block;
+	background-color: #61affe;
+	border-radius: 3px;
+	color: #fff;
+	font-family: sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	min-width: 80px;
+	padding: 6px 0;
+	text-align: center;
+	text-shadow: 0 1px 0 rgb(0, 0, 0, .1);
+}
+.path {
+	color: #3b4151;
+	font-family: monospace;
+	font-size: 16px;
+	font-weight: bold;
+	padding: 0 10px;
+}
+.desc {
+	display: inline-block;
+	color: #3b4151;
+	font-family: sans-serif;
+	font-size: 13px;
+}
 
 @media screen and (max-width: 720px) {
 	main {

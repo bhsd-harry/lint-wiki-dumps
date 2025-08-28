@@ -13,6 +13,24 @@
 			<article>
 				<h2>Please choose the language edition.</h2>
 				<div id="container"></div>
+				<div id="api">
+					<h2>API endpoints</h2>
+					<div class="block">
+						<span class="method">GET</span>
+						<span class="path">/api/available</span>
+						<span class="desc">List all available language editions.</span>
+					</div>
+					<div class="block">
+						<span class="method">GET</span>
+						<span class="path">/api/{language}/{title}</span>
+						<span class="desc">List all diagnostics for a given page title in the specified language edition.</span>
+					</div>
+					<div class="block">
+						<span class="method">POST</span>
+						<span class="path">/purge/{language}/{title}</span>
+						<span class="desc">Re-generate the diagnostics for a given page title in the specified language edition.</span>
+					</div>
+				</div>
 			</article>
 		</main>
 	</body>
