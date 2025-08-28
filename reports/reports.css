@@ -44,9 +44,11 @@ h2 {
 #container > div {
 	margin: .1em 0;
 }
+#table {
+	overflow-x: auto;
+}
 table {
 	margin: 1em auto;
-	background-color: #f8f9fa;
 	color: #202122;
 	border: 1px solid #a2a9b1;
 	border-collapse: collapse;
@@ -58,6 +60,14 @@ th, td {
 th {
 	background-color: #eaecf0;
 	text-align: center;
+}
+td {
+	background-color: #f8f9fa;
+}
+th:first-child, td:first-child {
+	position: sticky;
+	left: 0;
+	z-index: 1;
 }
 .excerpt {
 	overflow: hidden;
