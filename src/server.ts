@@ -3,11 +3,27 @@ import path from 'path';
 import fs from 'fs';
 import Parser from 'wikilint';
 import {getHash, lint, write} from './common';
+import type {ServerResponse} from 'http';
 
-declare interface APIResponse {
-	status: 'success' | 'error';
-	timestamp?: string;
-}
+declare type APIResponse = {
+	status: 'error';
+	reason?: string;
+	language: string | undefined;
+	title: string;
+} | {
+	status: 'success';
+	language: string;
+	title: string;
+	timestamp: string;
+} | {
+	status: 'success';
+	language: string;
+	title: string;
+	errors: {rule: string, line: number, col: number, msg: string}[];
+} | {
+	status: 'success';
+	languages: string[];
+};
 declare const data: [string, number, number, string, string][];
 
 const port = parseInt(process.env['PORT'] || '8000'),
@@ -29,39 +45,46 @@ const getPage = (file: string): [string | undefined, string] => {
 	},
 	getTitle = (page: string): string => decodeURIComponent(page).replaceAll('_', ' '),
 	getJS = (lang: string, title: string): string => `${getHash(lang, title)}.js`,
-	getFilePath = (hash: string): string => path.join('reports', 'data', hash);
+	getFilePath = (hash: string): string => path.join('reports', 'data', hash),
+	end = (res: ServerResponse, json: APIResponse): void => {
+		res.end(JSON.stringify(json), 'utf8');
+	};
 
-createServer(({url}, res) => {
+createServer(({url, method}, res) => {
 	if (!url || url === '/') {
 		url = 'index.html'; // eslint-disable-line no-param-reassign
 	}
 	const file = new URL(path.join('reports', url), 'http://localhost').pathname.slice(1);
 	if (file.startsWith('reports/purge/')) {
-		const [lang, page] = getPage(file);
+		const [language, page] = getPage(file);
 		(async () => {
-			const obj: APIResponse = {status: 'error'};
-			let code = 400;
+			const title = getTitle(page);
+			let json: APIResponse = {language, title, status: 'error'},
+				code = 400;
 			if (busy) {
 				code = 503;
-			} else if (lang && page) {
+				json.reason = 'Server busy, try again later';
+			} else if (method !== 'POST') {
+				code = 405;
+				json.reason = 'Only POST requests are allowed';
+			} else if (language && page) {
 				busy = true;
 				try {
 					const response = await fetch(
-							`https://${lang}.wikipedia.org/w/rest.php/v1/page/${page}`,
-							{
-								headers: {
-									'User-Agent':
-										'tools.lint-wiki-dumps (https://github.com/bhsd-harry/lint-wiki-dumps)',
-								},
+						`https://${language}.wikipedia.org/w/rest.php/v1/page/${page}`,
+						{
+							headers: {
+								'User-Agent':
+									'tools.lint-wiki-dumps (https://github.com/bhsd-harry/lint-wiki-dumps)',
 							},
-						),
-						title = getTitle(page);
+						},
+					);
 					code = response.status;
-					console.log(`Purging ${lang}wiki: ${title}; status: ${code}`);
+					console.log(`Purging ${language}wiki: ${title}; status: ${code}`);
 					if (code === 200) {
 						const {source, content_model: contentModel, latest: {timestamp}} = await response.json();
 						if (contentModel === 'wikitext') {
-							Parser.config = `${lang}wiki`;
+							Parser.config = `${language}wiki`;
 							const errors = lint(source as string)
 									.map(({rule, startLine, startCol, message, excerpt}) => [
 										rule,
@@ -70,48 +93,57 @@ createServer(({url}, res) => {
 										message,
 										excerpt,
 									] as const),
-								hash = getJS(lang, title),
+								hash = getJS(language, title),
 								filepath = getFilePath(hash);
 							console.log(`Remaining errors in ${hash}: ${errors.length}`);
 							write(filepath, errors);
-							obj.status = 'success';
-							obj.timestamp = timestamp;
+							json = {language, title, status: 'success', timestamp};
 						} else {
 							code = 400;
+							json.reason = `Unhandled content model: ${contentModel}`;
 						}
 					}
 				} catch {
 					code = 500;
+					json = {language, title, status: 'error', reason: 'Internal server error'};
 				}
 				busy = false; // eslint-disable-line require-atomic-updates
 			}
-			res.writeHead(code, headers);
-			res.end(JSON.stringify(obj), 'utf8');
+			res.writeHead(code, {...headers, allow: 'POST'});
+			end(res, json);
 		})();
 	} else if (file.startsWith('reports/api/')) {
-		const [lang, page] = getPage(file);
-		if (lang && page) {
-			const title = getTitle(page),
-				filePath = getFilePath(getJS(lang, title)),
-				json = {language: lang, title};
+		const [language, page] = getPage(file);
+		if (language === 'available') {
+			const languages = fs.readdirSync(path.join('reports', 'data'), {withFileTypes: true})
+					.filter(dir => dir.isDirectory() && !dir.name.startsWith('.'))
+					.map(({name}) => name),
+				json: APIResponse = {status: 'success', languages};
 			res.writeHead(200, jsonHeaders);
-			if (fs.existsSync(filePath)) {
-				// eslint-disable-next-line @typescript-eslint/no-require-imports
-				require(path.resolve('.', filePath));
-				res.end(
-					JSON.stringify({
-						...json,
-						errors: data.map(([rule, line, col, msg]) => ({rule, line, col, msg})),
-					}),
-					'utf8',
-				);
+			end(res, json);
+			return;
+		}
+		const title = getTitle(page);
+		let json: APIResponse = {language, title, status: 'error'},
+			code = 400;
+		if (language && page) {
+			if (fs.existsSync(path.join('reports', 'data', language))) {
+				const filePath = getFilePath(getJS(language, title));
+				code = 200;
+				json = {language, title, status: 'success', errors: []};
+				if (fs.existsSync(filePath)) {
+					// eslint-disable-next-line @typescript-eslint/no-require-imports
+					require(path.resolve('.', filePath));
+					json.errors = data.map(([rule, line, col, msg]) => ({rule, line, col, msg}));
+				}
 			} else {
-				res.end(JSON.stringify({...json, errors: []}), 'utf8');
+				json.reason = 'Unscanned language edition';
 			}
 		} else {
-			res.writeHead(400, jsonHeaders);
-			res.end(JSON.stringify({error: `Missing ${lang ? 'page name' : 'language code'}`}), 'utf8');
+			json.reason = `Missing ${language ? 'page name' : 'language code'}`;
 		}
+		res.writeHead(code, jsonHeaders);
+		end(res, json);
 	} else {
 		let contentType: string;
 		switch (path.extname(file)) {

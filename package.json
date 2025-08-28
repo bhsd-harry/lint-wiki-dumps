@@ -16,6 +16,7 @@
 		"*.sh",
 		"!bump.sh",
 		"*.js",
+		"!server.js",
 		"config/",
 		"reports/*.html",
 		"reports/dist/",
