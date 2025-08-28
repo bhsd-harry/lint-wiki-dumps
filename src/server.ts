@@ -68,46 +68,50 @@ createServer(({url, method}, res) => {
 				code = 405;
 				json.reason = 'Only POST requests are allowed';
 			} else if (language && page) {
-				busy = true;
-				try {
-					const response = await fetch(
-						`https://${language}.wikipedia.org/w/rest.php/v1/page/${page}`,
-						{
-							headers: {
-								'User-Agent':
-									'tools.lint-wiki-dumps (https://github.com/bhsd-harry/lint-wiki-dumps)',
+				if (fs.existsSync(path.join('reports', 'data', language))) {
+					busy = true;
+					try {
+						const response = await fetch(
+							`https://${language}.wikipedia.org/w/rest.php/v1/page/${page}`,
+							{
+								headers: {
+									'User-Agent':
+										'tools.lint-wiki-dumps (https://github.com/bhsd-harry/lint-wiki-dumps)',
+								},
 							},
-						},
-					);
-					code = response.status;
-					console.log(`Purging ${language}wiki: ${title}; status: ${code}`);
-					if (code === 200) {
-						const {source, content_model: contentModel, latest: {timestamp}} = await response.json();
-						if (contentModel === 'wikitext') {
-							Parser.config = `${language}wiki`;
-							const errors = lint(source as string)
-									.map(({rule, startLine, startCol, message, excerpt}) => [
-										rule,
-										startLine + 1,
-										startCol + 1,
-										message,
-										excerpt,
-									] as const),
-								hash = getJS(language, title),
-								filepath = getFilePath(hash);
-							console.log(`Remaining errors in ${hash}: ${errors.length}`);
-							write(filepath, errors);
-							json = {language, title, status: 'success', timestamp};
-						} else {
-							code = 400;
-							json.reason = `Unhandled content model: ${contentModel}`;
+						);
+						code = response.status;
+						console.log(`Purging ${language}wiki: ${title}; status: ${code}`);
+						if (code === 200) {
+							const {source, content_model: contentModel, latest: {timestamp}} = await response.json();
+							if (contentModel === 'wikitext') {
+								Parser.config = `${language}wiki`;
+								const errors = lint(source as string)
+										.map(({rule, startLine, startCol, message, excerpt}) => [
+											rule,
+											startLine + 1,
+											startCol + 1,
+											message,
+											excerpt,
+										] as const),
+									hash = getJS(language, title),
+									filepath = getFilePath(hash);
+								console.log(`Remaining errors in ${hash}: ${errors.length}`);
+								write(filepath, errors);
+								json = {language, title, status: 'success', timestamp};
+							} else {
+								code = 400;
+								json.reason = `Unhandled content model: ${contentModel}`;
+							}
 						}
+					} catch {
+						code = 500;
+						json = {language, title, status: 'error', reason: 'Internal server error'};
 					}
-				} catch {
-					code = 500;
-					json = {language, title, status: 'error', reason: 'Internal server error'};
+					busy = false; // eslint-disable-line require-atomic-updates
+				} else {
+					json.reason = 'Unscanned language edition';
 				}
-				busy = false; // eslint-disable-line require-atomic-updates
 			}
 			res.writeHead(code, {...headers, allow: 'POST'});
 			end(res, json);
