@@ -112,6 +112,8 @@ createServer(({url, method}, res) => {
 				} else {
 					json.reason = 'Unscanned language edition';
 				}
+			} else {
+				json.reason = `Missing ${language ? 'page name' : 'language code'}`;
 			}
 			res.writeHead(code, {...headers, allow: 'POST'});
 			end(res, json);

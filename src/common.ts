@@ -3,7 +3,7 @@ import path from 'path';
 import {createHash} from 'crypto';
 import Parser from 'wikilint';
 import lintConfig from './wikilintrc';
-import type {LintError as LintErrorBase, LintConfig} from 'wikilint';
+import type {LintError as LintErrorBase} from 'wikilint';
 
 declare interface Fix extends LintErrorBase.Fix {
 	original: string;
@@ -17,7 +17,7 @@ export interface LintError extends Omit<
 	sugggestions?: Fix[];
 }
 
-Parser.lintConfig = lintConfig as LintConfig;
+Parser.lintConfig = lintConfig;
 Parser.configPaths.push(path.join(__dirname, 'config'));
 
 export const MAX = 100;
