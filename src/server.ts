@@ -2,7 +2,7 @@ import {createServer} from 'http';
 import path from 'path';
 import fs from 'fs';
 import Parser from 'wikilint';
-import {getHash, lint, write} from './common';
+import {getHash, lint, write, getTimestamp} from './common';
 import type {ServerResponse} from 'http';
 
 declare type APIResponse = {
@@ -20,11 +20,12 @@ declare type APIResponse = {
 	language: string;
 	title: string;
 	errors: {rule: string, line: number, col: number, msg: string}[];
+	timestamp?: string;
 } | {
 	status: 'success';
 	languages: string[];
 };
-declare const data: [string, number, number, string, string][];
+declare const data: [string, number, number, string, string][] & {timestamp?: string};
 
 const port = parseInt(process.env['PORT'] || '8000'),
 	headers = {
@@ -71,15 +72,16 @@ createServer(({url, method}, res) => {
 				if (fs.existsSync(path.join('reports', 'data', language))) {
 					busy = true;
 					try {
-						const response = await fetch(
-							`https://${language}.wikipedia.org/w/rest.php/v1/page/${page}`,
-							{
-								headers: {
-									'User-Agent':
-										'tools.lint-wiki-dumps (https://github.com/bhsd-harry/lint-wiki-dumps)',
+						const curtimestamp = getTimestamp(new Date()),
+							response = await fetch(
+								`https://${language}.wikipedia.org/w/rest.php/v1/page/${page}`,
+								{
+									headers: {
+										'User-Agent':
+											'tools.lint-wiki-dumps (https://github.com/bhsd-harry/lint-wiki-dumps)',
+									},
 								},
-							},
-						);
+							);
 						code = response.status;
 						console.log(`Purging ${language}wiki: ${title}; status: ${code}`);
 						if (code === 200) {
@@ -97,7 +99,7 @@ createServer(({url, method}, res) => {
 									hash = getJS(language, title),
 									filepath = getFilePath(hash);
 								console.log(`Remaining errors in ${hash}: ${errors.length}`);
-								write(filepath, errors);
+								write(filepath, errors, curtimestamp);
 								json = {language, title, status: 'success', timestamp};
 							} else {
 								code = 400;
@@ -141,6 +143,9 @@ createServer(({url, method}, res) => {
 					// eslint-disable-next-line @typescript-eslint/no-require-imports
 					require(path.resolve('.', filePath));
 					json.errors = data.map(([rule, line, col, msg]) => ({rule, line, col, msg}));
+					if (data.timestamp) {
+						json.timestamp = data.timestamp;
+					}
 				}
 			} else {
 				json.reason = 'Unscanned language edition';

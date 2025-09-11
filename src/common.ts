@@ -50,6 +50,11 @@ export const getHash = (lang: string, page: string): string => {
 	return path.join(lang, 'pages', hash);
 };
 
-export const write = (file: string, data: unknown[]): void => {
-	fs.writeFileSync(file, `globalThis.data=${JSON.stringify(data)}`);
+export const write = (file: string, data: unknown[], timestamp = ''): void => {
+	fs.writeFileSync(
+		file,
+		`globalThis.data=${JSON.stringify(data)}${timestamp && `;data.timestamp="${timestamp}"`}`,
+	);
 };
+
+export const getTimestamp = (date: Date): string => date.toISOString().slice(0, 10);

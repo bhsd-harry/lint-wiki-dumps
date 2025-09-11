@@ -2,7 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import chalk from 'chalk';
 import {resultDir} from './util';
-import {MAX, getHash, write} from './common';
+import {MAX, getHash, write, getTimestamp} from './common';
 import type {LintError} from './common';
 
 const {argv} = process,
@@ -31,8 +31,8 @@ if (outDir) {
 const dataDir = path.join(outDir, 'data');
 mkdir(dataDir);
 
-const writeJS = (data: unknown[], file: string): void => {
-	write(path.join(dataDir, `${file}.js`), data);
+const writeJS = (data: unknown[], file: string, timestamp?: string): void => {
+	write(path.join(dataDir, `${file}.js`), data, timestamp);
 };
 
 const initJS = (file: string): fs.WriteStream => {
@@ -110,10 +110,10 @@ for (const file of dir) {
 				)},`;
 			}
 		}
-		writeJS(info, getHash(site, page));
+		writeJS(info, getHash(site, page), getTimestamp(latest));
 	}
 }
-const timestamp = latest!.toISOString().slice(0, 10);
+const timestamp = getTimestamp(latest!);
 
 // rule
 for (const [rule, [str, pages]] of ruleRecords) {
@@ -134,4 +134,4 @@ for (const [rule, [str, pages]] of ruleRecords) {
 	}
 }
 writeJS([...summary].sort(compare), 'index');
-writeJS([...Object.entries(wiki).sort(([a], [b]) => a.localeCompare(b)), timestamp], path.join(lang!, 'index'));
+writeJS(Object.entries(wiki).sort(([a], [b]) => a.localeCompare(b)), path.join(lang!, 'index'), timestamp);

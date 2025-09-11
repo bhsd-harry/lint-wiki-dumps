@@ -1,6 +1,6 @@
 import {load, update, updateLink, addLink, insertRow, getErrorInfo} from './common';
 
-declare const data: [string, number, number, string, string][];
+declare const data: [string, number, number, string, string][] & {timestamp?: string};
 
 (async () => {
 	const search = new URLSearchParams(location.search),
@@ -35,6 +35,9 @@ declare const data: [string, number, number, string, string][];
 		})();
 	});
 	load(`./data/${lang}/pages/${hash}.js${time ? `?timestamp=${time}` : ''}`, () => {
+		if (data.timestamp) {
+			document.querySelector('time')!.textContent = `(${data.timestamp})`;
+		}
 		if (data.length === 0) {
 			purge.style.display = 'none';
 		} else {
