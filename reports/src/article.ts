@@ -22,9 +22,12 @@ declare const data: [string, number, number, string, string][] & {timestamp?: st
 	purge.addEventListener('click', () => {
 		purge.style.pointerEvents = 'none';
 		(async () => {
-			const response = await fetch(`./purge/${lang}/${
-				encodeURIComponent(page.replace(/ /gu, '_'))
-			}`);
+			const response = await fetch(
+				`./purge/${lang}/${
+					encodeURIComponent(page.replace(/ /gu, '_'))
+				}`,
+				{method: 'POST'},
+			);
 			if (response.ok) {
 				const {timestamp} = await response.json();
 				search.set('timestamp', timestamp as string);
