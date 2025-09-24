@@ -2,6 +2,9 @@
 /temp/
 /results/
 /reports/dist/
+/reports/data/
 /build
+/node_modules/
+/package-lock.json
 .eslintcache
 *.js

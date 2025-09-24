@@ -14,6 +14,7 @@ export default {
 				parameter: 0,
 			},
 		],
+		'invalid-url': 2,
 		'lonely-apos': 0,
 		'lonely-bracket': [
 			0,

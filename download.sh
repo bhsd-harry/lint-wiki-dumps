@@ -10,8 +10,15 @@ filtered=$(node filter.js $files)
 if (( ${#filtered} < 2 ))
 then
 	file="$path/$target-latest-pages-articles.xml.bz2"
-	curl --progress-bar --output-dir "$2" -O "$file"
-	exit 20
+	curl -C - -f --progress-bar --output-dir "$2" -O "$file" && exit 20
 else
-	curl --progress-bar --output-dir "$2" --remote-name-all $filtered
+	for file in $filtered
+	do
+		curl -C - -f --progress-bar --output-dir "$2" -O "$file"
+		res="$?"
+		if (( res != 0 ))
+		then
+			exit $res
+		fi
+	done
 fi
