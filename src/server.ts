@@ -88,7 +88,7 @@ createServer(({url, method}, res) => {
 							const {source, content_model: contentModel, latest: {timestamp}} = await response.json();
 							if (contentModel === 'wikitext') {
 								Parser.config = `${language}wiki`;
-								const errors = lint(source as string)
+								const errors = lint(source as string, title)
 										.map(({rule, startLine, startCol, message, excerpt}) => [
 											rule,
 											startLine + 1,

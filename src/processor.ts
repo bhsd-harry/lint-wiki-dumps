@@ -76,7 +76,7 @@ export class Processor {
 			}
 		}
 		try {
-			const errors = lint($text, ns);
+			const errors = lint($text, title, ns);
 			this.parsed++;
 			if (errors.length > 0) {
 				this.newEntry(title, errors);
