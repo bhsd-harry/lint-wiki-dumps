@@ -6,7 +6,7 @@ import chalk from 'chalk';
 import {refreshStdout} from '@bhsd/nodejs';
 import {
 	init,
-	resultDir,
+	getResultDir,
 	getTempPath,
 	getWriteStream,
 	getXmlStream,
@@ -18,11 +18,12 @@ import {
 } from './util';
 import {Processor} from './processor';
 
-const [,, site, dir, refresh] = process.argv,
+const [,, site, dir, temp, refresh] = process.argv,
+	resultDir = getResultDir(temp),
 	target = normalize(site!);
 
 if (cluster.isPrimary) {
-	init();
+	init(resultDir);
 	const tempFiles: string[] = [];
 	for (const file of fs.readdirSync(resultDir)) {
 		if (file.startsWith(`${target}-p`) && file.endsWith('.json')) {

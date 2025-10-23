@@ -5,19 +5,29 @@ import chalk from 'chalk';
 import bz2 from 'unbzip2-stream';
 import XmlStream from 'xml-stream';
 
-export const resultDir = path.join(__dirname, 'results');
-const tempDir = path.join(__dirname, 'temp');
+const defaultResultDir = path.join(__dirname, 'results'),
+	tempDir = path.join(__dirname, 'temp');
 
 export const getTempPath = (file: string): string => path.join(tempDir, file);
 
-export const init = (): void => {
-	if (!fs.existsSync(resultDir)) {
-		fs.mkdirSync(resultDir);
+export const mkdir = (dir: string, empty?: boolean): void => {
+	if (fs.existsSync(dir)) {
+		if (!empty) {
+			return;
+		}
+		fs.rmSync(dir, {recursive: true});
 	}
-	if (!fs.existsSync(tempDir)) {
-		fs.mkdirSync(tempDir);
+	fs.mkdirSync(dir);
+};
+
+export const init = (dir?: string): void => {
+	mkdir(tempDir);
+	if (dir) {
+		mkdir(dir);
 	}
 };
+
+export const getResultDir = (dir?: string): string => dir ? replaceTilde(dir) : defaultResultDir;
 
 export const getWriteStream = (file: string, callback: () => void): fs.WriteStream => {
 	const stream = fs.createWriteStream(file);

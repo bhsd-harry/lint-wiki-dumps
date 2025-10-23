@@ -3,7 +3,7 @@ import path from 'path';
 import {refreshStdout} from '@bhsd/nodejs';
 import {
 	init,
-	resultDir,
+	getResultDir,
 	getTempPath,
 	getWriteStream,
 	getXmlStream,
@@ -15,7 +15,8 @@ import {
 } from './util';
 import {Processor} from './processor';
 
-const [,, site, file, refresh] = process.argv,
+const [,, site, file, temp, refresh] = process.argv,
+	resultDir = getResultDir(temp),
 	filename = `${normalize(site!)}.json`,
 	filePath = path.join(resultDir, filename),
 	tempPath = getTempPath(filename),
@@ -24,7 +25,7 @@ if (data) {
 	reading(filePath);
 }
 
-init();
+init(resultDir);
 const last = getTimestamp(data),
 	results = getWriteStream(tempPath, () => {
 		fs.renameSync(tempPath, filePath);

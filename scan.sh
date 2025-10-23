@@ -15,10 +15,10 @@ res="$?"
 if (( res == 20 ))
 then
 	echo 'Switching to single-threaded mode'
-	node parser.js "$1" "$2/${1//-/_}wiki-latest-pages-articles.xml.bz2" "$4"
+	node parser.js "$1" "$2/${1//-/_}wiki-latest-pages-articles.xml.bz2" "$4" "$5"
 elif (( res == 0 ))
 then
-	node parser-parallel.js "$1" "$2" "$4"
+	node parser-parallel.js "$1" "$2" "$4" "$5"
 else
 	echo "Exit $res: Failed to download the file(s)"
 	exit 1
@@ -26,5 +26,5 @@ fi
 if (( $? == 0))
 then
 	echo 'Starting report generation'
-	node report.js "$1" "$3"
+	node report.js "$1" "$3" "$4"
 fi

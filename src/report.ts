@@ -1,24 +1,15 @@
 import fs from 'fs';
 import path from 'path';
 import chalk from 'chalk';
-import {resultDir} from './util';
+import {mkdir, getResultDir} from './util';
 import {MAX, getHash, write, getTimestamp} from './common';
 import type {LintError} from './common';
 
 const {argv} = process,
-	[,, lang] = argv,
+	[,, lang,, temp] = argv,
+	resultDir = getResultDir(temp),
 	defaultOurDir = path.join(__dirname, 'reports');
 let [,,, outDir] = argv;
-
-const mkdir = (dir: string, empty?: boolean): void => {
-	if (fs.existsSync(dir)) {
-		if (!empty) {
-			return;
-		}
-		fs.rmSync(dir, {recursive: true});
-	}
-	fs.mkdirSync(dir);
-};
 
 if (outDir) {
 	mkdir(outDir);
