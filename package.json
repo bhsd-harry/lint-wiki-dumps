@@ -42,7 +42,7 @@
 		"@bhsd/nodejs": "^0.0.1",
 		"chalk": "^4.1.2",
 		"unbzip2-stream": "^1.4.3",
-		"wikilint": "^2.29.0",
+		"wikilint": "^2.29.1",
 		"xml-stream": "^0.4.5"
 	},
 	"optionalDependencies": {
@@ -72,6 +72,6 @@
 		"typescript": "^5.8.2"
 	},
 	"engines": {
-		"node": "^22.18.0"
+		"node": ">=20.19.2 <23"
 	}
 }
