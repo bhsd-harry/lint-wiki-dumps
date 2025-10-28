@@ -1,6 +1,6 @@
 {
 	"name": "lint-wiki-dumps",
-	"version": "0.6.0",
+	"version": "0.7.0",
 	"description": "Lint Wikipedia dumps",
 	"keywords": [
 		"lint",
