@@ -15,7 +15,7 @@ export const load = (src: string, callback: () => void): void => {
 
 export const update = (tag: string, replace: string): Element => {
 	const ele = document.querySelector(tag)!;
-	ele.textContent = ele.textContent!.replace('Wikipedia', replace);
+	ele.textContent = ele.textContent.replace('Wikipedia', replace);
 	return ele;
 };
 

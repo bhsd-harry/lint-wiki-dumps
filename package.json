@@ -42,34 +42,34 @@
 		"@bhsd/nodejs": "^0.0.1",
 		"chalk": "^4.1.2",
 		"unbzip2-stream": "^1.4.3",
-		"wikilint": "^2.29.1",
+		"wikilint": "^2.29.2",
 		"xml-stream": "^0.4.5"
 	},
 	"optionalDependencies": {
-		"vscode-css-languageservice": "^6.3.7"
+		"vscode-css-languageservice": "^6.3.8"
 	},
 	"devDependencies": {
 		"@bhsd/code-standard": "^1.2.0",
 		"@stylistic/eslint-plugin": "^3.1.0",
 		"@stylistic/stylelint-plugin": "^4.0.0",
-		"@types/node": "^24.0.10",
+		"@types/node": "^24.9.2",
 		"@types/unbzip2-stream": "^1.4.3",
-		"@typescript-eslint/eslint-plugin": "^8.35.1",
-		"@typescript-eslint/parser": "^8.35.1",
-		"esbuild": "^0.25.10",
+		"@typescript-eslint/eslint-plugin": "^8.46.2",
+		"@typescript-eslint/parser": "^8.46.2",
+		"esbuild": "^0.25.11",
 		"eslint": "^8.57.1",
 		"eslint-plugin-es-x": "^8.7.0",
 		"eslint-plugin-eslint-comments": "^3.2.0",
-		"eslint-plugin-jsdoc": "^54.1.1",
+		"eslint-plugin-jsdoc": "^61.1.11",
 		"eslint-plugin-json-es": "^1.6.0",
-		"eslint-plugin-n": "^17.20.0",
+		"eslint-plugin-n": "^17.23.1",
 		"eslint-plugin-promise": "^7.2.1",
-		"eslint-plugin-regexp": "^2.9.0",
+		"eslint-plugin-regexp": "^2.10.0",
 		"eslint-plugin-unicorn": "^56.0.1",
 		"stylelint": "^16.25.0",
 		"stylelint-config-recommended": "^17.0.0",
-		"stylelint-plugin-use-baseline": "^1.0.0",
-		"typescript": "^5.8.2"
+		"stylelint-plugin-use-baseline": "^1.0.3",
+		"typescript": "^5.9.3"
 	},
 	"engines": {
 		"node": ">=20.19.2 <23"
