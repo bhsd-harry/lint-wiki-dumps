@@ -42,7 +42,6 @@ if (cluster.isPrimary) {
 				return [filePath, fs.statSync(filePath).size] as const;
 			})
 			.sort(([, a], [, b]) => b - a),
-		// eslint-disable-next-line n/no-unsupported-features/node-builtins
 		workers = new Array(Math.min(os.availableParallelism(), files.length)).fill(undefined)
 			.map(() => cluster.fork());
 	let i = 0,

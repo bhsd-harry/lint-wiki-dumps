@@ -16,7 +16,6 @@ declare module 'xml-stream' {
 		_preserveAll: boolean; // eslint-disable-line no-underscore-dangle
 		/** @class */
 		constructor(stream: NodeJS.ReadableStream);
-		// eslint-disable-next-line @typescript-eslint/no-explicit-any
 		on<T extends string>(event: T, listener: T extends 'end' ? () => void : (page: Page) => void): void;
 		pause(): void;
 		resume(): void;
