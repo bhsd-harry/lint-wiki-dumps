@@ -10,4 +10,22 @@ export default extend(
 			'reports/',
 		],
 	},
+	{
+		rules: {
+			'no-underscore-dangle': [
+				2,
+				{
+					allow: [
+						'_',
+						'_preserveAll',
+					],
+					enforceInMethodNames: true,
+					enforceInClassFields: true,
+					allowInArrayDestructuring: false,
+					allowInObjectDestructuring: false,
+					allowFunctionParams: false,
+				},
+			],
+		},
+	},
 );

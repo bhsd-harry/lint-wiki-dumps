@@ -43,7 +43,7 @@ export const getXmlStream = (file: string): XmlStream => {
 		console.error(chalk.red(`Error unzipping ${file}`));
 		throw e;
 	});
-	stream._preserveAll = true; // eslint-disable-line no-underscore-dangle
+	stream._preserveAll = true;
 	return stream;
 };
 

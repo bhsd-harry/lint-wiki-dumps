@@ -17,6 +17,7 @@ import {
 	normalize,
 } from './util';
 import {Processor} from './processor';
+import type {Worker as NodeWorker} from 'cluster';
 
 const [,, site, dir, temp, refresh] = process.argv,
 	resultDir = getResultDir(temp),
@@ -47,20 +48,20 @@ if (cluster.isPrimary) {
 	let i = 0,
 		n = 0,
 		m = 0;
+	const getListener = (worker: NodeWorker) => ([count, total]: [number, number]): void => {
+		n += count;
+		m += total;
+		if (i < files.length) {
+			worker.send(files[i]![0]);
+			i++;
+		} else {
+			worker.disconnect();
+		}
+	};
 	console.time('parse');
 	for (; i < workers.length; i++) {
 		const worker = workers[i]!;
-		// eslint-disable-next-line @typescript-eslint/no-loop-func
-		worker.on('message', ([count, total]: [number, number]) => {
-			n += count;
-			m += total;
-			if (i < files.length) {
-				worker.send(files[i]![0]);
-				i++;
-			} else {
-				worker.disconnect();
-			}
-		}).send(files[i]![0]);
+		worker.on('message', getListener(worker)).send(files[i]![0]);
 	}
 	process.on('exit', () => {
 		console.timeEnd('parse');

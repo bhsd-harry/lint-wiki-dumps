@@ -4,6 +4,7 @@ export default {
 	fix: false,
 	computeEditInfo: false,
 	rules: {
+		'arg-in-ext': 2,
 		'bold-header': 0,
 		'format-leakage': 0,
 		'fostered-content': 0,

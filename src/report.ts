@@ -13,7 +13,6 @@ let [,,, outDir] = argv;
 
 if (outDir) {
 	mkdir(outDir);
-	// eslint-disable-next-line n/no-unsupported-features/node-builtins
 	fs.cpSync(defaultOurDir, outDir, {recursive: true, force: true});
 } else {
 	outDir = defaultOurDir;
