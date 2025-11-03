@@ -156,7 +156,7 @@ createServer(({url, method}, res) => {
 		res.writeHead(code, jsonHeaders);
 		end(res, json);
 	} else {
-		let contentType: string;
+		let contentType: string | undefined;
 		switch (path.extname(file)) {
 			case '.js':
 				contentType = 'text/javascript';
@@ -164,10 +164,11 @@ createServer(({url, method}, res) => {
 			case '.css':
 				contentType = 'text/css';
 				break;
-			default:
+			case '.html':
 				contentType = 'text/html';
+				// no default
 		}
-		if (fs.existsSync(file)) {
+		if (contentType && fs.existsSync(file)) {
 			res.writeHead(200, {
 				'content-type': contentType,
 				'x-content-type-options': 'nosniff',
