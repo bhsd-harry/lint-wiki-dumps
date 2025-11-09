@@ -124,7 +124,7 @@ if (cluster.isPrimary) {
 		const stream = getXmlStream(file);
 		stream.on('endElement: page', ({title, ns, id, revision: {model, timestamp, text: {$text}}}) => {
 			if (isArticle($text, ns, model)) {
-				refreshStdout(`${i++} ${title}`);
+				refreshStdout(`${++i} ${title}`);
 				const pageid = Number(id);
 				if (start === undefined || end === undefined || pageid < start || pageid > end) {
 					const cur = pageid <= max && ranges.findIndex(([a, b]) => a <= pageid && b >= pageid);

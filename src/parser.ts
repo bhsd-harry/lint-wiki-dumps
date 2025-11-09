@@ -38,7 +38,7 @@ console.time('parse');
 const stream = getXmlStream(replaceTilde(file!));
 stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$text}}}) => {
 	if (isArticle($text, ns, model)) {
-		refreshStdout(`${i++} ${title}`);
+		refreshStdout(`${++i} ${title}`);
 		processor.lint($text, ns, title, new Date(timestamp), last, data as string);
 	}
 });

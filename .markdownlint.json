@@ -1,0 +1,6 @@
+{
+	"line-length": false,
+	"first-line-h1": {
+		"allow_preamble": true
+	}
+}

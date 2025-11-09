@@ -6,6 +6,5 @@
 /build
 /node_modules/
 /package-lock.json
-/.markdownlint.json
 .eslintcache
 *.js
