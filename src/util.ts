@@ -37,6 +37,7 @@ export const getWriteStream = (file: string, callback: () => void): fs.WriteStre
 };
 
 export const getXmlStream = (file: string): XmlStream => {
+	console.log(chalk.green(`Unzipping and reading ${file}`));
 	const readable = fs.createReadStream(file).pipe(bz2()),
 		stream = new XmlStream(readable);
 	readable.on('error', e => {
@@ -75,3 +76,11 @@ export const reading = (file: string): void => {
 };
 
 export const normalize = (str: string): string => str.replaceAll('-', '_');
+
+export const filter = (files: string[]): string[] => files.map(file => [
+	file,
+	.../\.xml-p(\d+)p(\d+)\.bz2$/u.exec(file)!.slice(1).map(Number),
+] as [string, number, number])
+	.sort(([, a1, a2], [, b1, b2]) => a1 - b1 || a2 - b2)
+	.filter(([, a], i, arr) => a !== arr[i + 1]?.[1])
+	.map(([file]) => file);

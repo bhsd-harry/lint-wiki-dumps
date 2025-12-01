@@ -15,6 +15,7 @@ import {
 	replaceTilde,
 	reading,
 	normalize,
+	filter,
 } from './util';
 import {Processor} from './processor';
 import type {Worker as NodeWorker} from 'cluster';
@@ -36,8 +37,8 @@ if (cluster.isPrimary) {
 		}
 	}
 	const dumpDir = replaceTilde(dir!),
-		prefix = `${target}wiki`,
-		files = fs.readdirSync(dumpDir).filter(file => file.endsWith('.bz2') && file.startsWith(prefix))
+		pattern = new RegExp(String.raw`^${target}wiki-latest-pages-articles\d.+\.bz2$`, 'u'),
+		files = filter(fs.readdirSync(dumpDir).filter(file => pattern.test(file)))
 			.map(file => {
 				const filePath = path.join(dumpDir, file);
 				return [filePath, fs.statSync(filePath).size] as const;
