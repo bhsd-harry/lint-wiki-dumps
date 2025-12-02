@@ -15,6 +15,7 @@
 	"files": [
 		"*.sh",
 		"!bump.sh",
+		"!scan-toolforge.sh",
 		"*.js",
 		"!server.js",
 		"config/",
