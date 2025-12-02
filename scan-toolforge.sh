@@ -13,7 +13,7 @@ fi
 target="${1//-/_}wiki" # example: zh_yuewiki
 path="/public/dumps/public/$target/latest/"
 res=$(ls "$path/$target"-latest-pages-articles[0-9].*\.bz2 2>/dev/null)
-if [[ $res ]]
+if [[ $res ]] && (( $(node -e 'console.log(os.availableParallelism())') > 1 ))
 then
 	node parser-parallel.js "$1" "$path"
 else
