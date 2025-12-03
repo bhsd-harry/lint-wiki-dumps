@@ -30,7 +30,7 @@ if (cluster.isPrimary) {
 	for (const file of fs.readdirSync(resultDir)) {
 		if (file.startsWith(`${target}-p`) && file.endsWith('.json')) {
 			const oldName = path.join(resultDir, file),
-				newName = path.join(resultDir, `temp-${site}${file.slice(target.length)}`);
+				newName = path.join(resultDir, `temp${file.slice(target.length)}`);
 			reading(oldName);
 			tempFiles.push(newName);
 			fs.renameSync(oldName, newName);
@@ -77,7 +77,7 @@ if (cluster.isPrimary) {
 		return [Number(f.slice(6, p2)), Number(f.slice(p2 + 1, -5))];
 	};
 	const tempFiles = fs.readdirSync(resultDir)
-			.filter(file => file.startsWith(`temp-${site}-p`) && file.endsWith('.json')),
+			.filter(file => file.startsWith('temp-p') && file.endsWith('.json')),
 		ranges = tempFiles.map(getStartEnd),
 		max = Math.max(...ranges.map(([, end]) => end));
 	let start: number | undefined,

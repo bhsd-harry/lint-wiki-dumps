@@ -22,8 +22,7 @@ Parser.configPaths.push(path.join(__dirname, 'config'));
 
 export const MAX = 100;
 
-export const lint = ($text: string, page: string, ns?: string): LintError[] => Parser.parse($text, page, ns === '828')
-	.lint()
+export const lint = ($text: string, page: string, ns?: string): LintError[] => Parser.lint($text, page, ns === '828')
 	.filter(({severity}) => severity === 'error')
 	.map(({
 		severity,

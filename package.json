@@ -45,7 +45,7 @@
 		"@bhsd/nodejs": "^0.1.0",
 		"chalk": "^4.1.2",
 		"unbzip2-stream": "^1.4.3",
-		"wikilint": "^2.31.0",
+		"wikilint": "^2.32.0",
 		"xml-stream": "^0.4.5"
 	},
 	"optionalDependencies": {

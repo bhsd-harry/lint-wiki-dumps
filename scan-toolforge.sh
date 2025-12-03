@@ -12,14 +12,7 @@ then
 fi
 target="${1//-/_}wiki" # example: zh_yuewiki
 path="/public/dumps/public/$target/latest"
-res=$(ls "$path/$target"-latest-pages-articles[0-9].*\.bz2 2>/dev/null)
-if [[ $res ]]
-then
-	node parser-parallel.js "$1" "$path"
-else
-	echo 'Switching to single-threaded mode'
-	node parser.js "$1" "$path/$target-latest-pages-articles.xml.bz2"
-fi
+node parser.js "$1" "$path/$target-latest-pages-articles.xml.bz2"
 if (( $? == 0))
 then
 	echo 'Starting report generation'
