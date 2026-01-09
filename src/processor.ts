@@ -1,5 +1,5 @@
 import cluster from 'cluster';
-import chalk from 'chalk';
+import {styleText} from 'util';
 import Parser from 'wikilint';
 import {getErrors} from './util';
 import {lint} from './common';
@@ -30,9 +30,9 @@ export class Processor {
 	stop(timer: string, msg = ''): void {
 		console.log();
 		console.timeEnd(timer);
-		console.log(chalk.green(`Parsed ${this.parsed} / ${msg}`));
+		console.log(styleText('green', `Parsed ${this.parsed} / ${msg}`));
 		if (this.#failed) {
-			console.error(chalk.red(`${this.#failed} pages failed to parse`));
+			console.error(styleText('red', `${this.#failed} pages failed to parse`));
 		}
 		this.#results.write(`${this.#comma}\n"#timestamp": ${JSON.stringify(this.#latest)}\n}`);
 		this.#results.end();
@@ -95,7 +95,7 @@ export class Processor {
 	 * @param title page title
 	 */
 	error(e: unknown, title: string): void {
-		console.error(chalk.red(`Error parsing ${title}`), e);
+		console.error(styleText('red', `Error parsing ${title}`), e);
 		this.#failed++;
 	}
 }

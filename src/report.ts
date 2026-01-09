@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import chalk from 'chalk';
+import {styleText} from 'util';
 import {mkdir, getResultDir} from './util';
 import {MAX, getHash, write, getTimestamp} from './common';
 import type {LintError} from './common';
@@ -48,7 +48,7 @@ for (const file of dir) {
 	}
 	const fileDir = path.join(resultDir, file);
 	if (!fs.existsSync(fileDir)) {
-		console.error(chalk.red(`Failed to read ${file}`));
+		console.error(styleText('red', `Failed to read ${file}`));
 		continue;
 	}
 	const k = file.search(/-(?:p\d+){2}\.json$/u),

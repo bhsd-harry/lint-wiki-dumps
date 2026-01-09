@@ -2,7 +2,7 @@ const armorLink = (a: HTMLAnchorElement, href: string): void => {
 	a.href = href;
 	if (href.startsWith('https://')) {
 		a.target = '_blank';
-		a.rel = 'noopener';
+		a.rel = 'noreferrer';
 	}
 };
 

@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import os from 'os';
-import chalk from 'chalk';
+import {styleText} from 'util';
 import bz2 from 'unbzip2-stream';
 import XmlStream from 'xml-stream';
 
@@ -37,11 +37,11 @@ export const getWriteStream = (file: string, callback: () => void): fs.WriteStre
 };
 
 export const getXmlStream = (file: string): XmlStream => {
-	console.log(chalk.green(`Unzipping and reading ${file}`));
+	console.log(styleText('green', `Unzipping and reading ${file}`));
 	const readable = fs.createReadStream(file).pipe(bz2()),
 		stream = new XmlStream(readable);
 	readable.on('error', e => {
-		console.error(chalk.red(`Error unzipping ${file}`));
+		console.error(styleText('red', `Error unzipping ${file}`));
 		throw e;
 	});
 	stream._preserveAll = true;
@@ -72,7 +72,7 @@ export const isArticle = ($text: string, ns: string, model: string): boolean =>
 export const replaceTilde = (str: string): string => str.replace(/^~/u, os.homedir());
 
 export const reading = (file: string): void => {
-	console.log(chalk.green(`Reading ${file}`));
+	console.log(styleText('green', `Reading ${file}`));
 };
 
 export const normalize = (str: string): string => str.replaceAll('-', '_');

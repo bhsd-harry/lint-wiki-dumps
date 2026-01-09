@@ -2,7 +2,7 @@ import cluster from 'cluster';
 import fs from 'fs';
 import path from 'path';
 import os from 'os';
-import chalk from 'chalk';
+import {styleText} from 'util';
 import {refreshStdout} from '@bhsd/nodejs';
 import {
 	init,
@@ -66,7 +66,7 @@ if (cluster.isPrimary) {
 	}
 	process.on('exit', () => {
 		console.timeEnd('parse');
-		console.log(chalk.green(`Parsed ${n} / ${m} pages in total`));
+		console.log(styleText('green', `Parsed ${n} / ${m} pages in total`));
 		for (const file of tempFiles) {
 			fs.unlinkSync(file);
 		}
