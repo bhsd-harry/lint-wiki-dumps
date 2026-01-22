@@ -105,6 +105,12 @@ createServer(({url, method}, res) => {
 								code = 400;
 								json.reason = `Unhandled content model: ${contentModel}`;
 							}
+						} else if (code === 404) {
+							const hash = getJS(language, title),
+								filepath = getFilePath(hash);
+							console.log(`Page has been deleted: ${hash}`);
+							write(filepath, [], curtimestamp);
+							json = {language, title, status: 'success', timestamp: curtimestamp};
 						}
 					} catch {
 						code = 500;
