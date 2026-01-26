@@ -110,6 +110,7 @@ createServer(({url, method}, res) => {
 								filepath = getFilePath(hash);
 							console.log(`Page has been deleted: ${hash}`);
 							write(filepath, [], curtimestamp);
+							code = 200;
 							json = {language, title, status: 'success', timestamp: curtimestamp};
 						}
 					} catch {
