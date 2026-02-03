@@ -20,7 +20,7 @@
 		"!server.js",
 		"config/",
 		"reports/*.html",
-		"reports/dist/",
+		"reports/dist/*.js",
 		"reports/*.css"
 	],
 	"bin": {
@@ -34,7 +34,7 @@
 		"start": "node server.js",
 		"prepublishOnly": "npm run build",
 		"bundle": "esbuild reports/src/*.ts --charset=utf8 --bundle --format=esm --outdir=build && rm build/common.js",
-		"build": "tsc && mv dist/* . && npm run bundle && esbuild build/*.js --charset=utf8 --minify --target=es2019 --format=iife --sourcemap --outdir=reports/dist",
+		"build": "tsc && mv dist/* . && npm run bundle && esbuild reports/src/*.ts --charset=utf8 --bundle --minify --target=es2019 --format=iife --sourcemap --outdir=reports/dist && rm reports/dist/common.js*",
 		"lint:ts": "tsc --noEmit && tsc --project reports/tsconfig.json --noEmit && eslint --cache . && eslint --no-config-lookup -c eslint.reports.mjs reports/",
 		"lint:css": "stylelint **/*.css",
 		"lint:md": "markdownlint-cli2 '**/*.md'",
@@ -69,12 +69,12 @@
 		"eslint-plugin-regexp": "^3.0.0",
 		"eslint-plugin-unicorn": "^62.0.0",
 		"markdownlint-cli2": "^0.20.0",
-		"stylelint": "^17.1.0",
+		"stylelint": "^17.1.1",
 		"stylelint-config-recommended": "^18.0.0",
 		"stylelint-plugin-use-baseline": "^1.2.1",
 		"typescript": "^5.9.3"
 	},
 	"engines": {
-		"node": "^20.19.2 || ^22.13.0"
+		"node": "^20.19.0 || ^22.13.0"
 	}
 }

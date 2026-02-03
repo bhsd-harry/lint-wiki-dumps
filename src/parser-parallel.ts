@@ -48,9 +48,11 @@ if (cluster.isPrimary) {
 			.map(() => cluster.fork());
 	let i = 0,
 		n = 0,
+		f = 0,
 		m = 0;
-	const getListener = (worker: NodeWorker) => ([count, total]: [number, number]): void => {
+	const getListener = (worker: NodeWorker) => ([count, failed, total]: [number, number, number]): void => {
 		n += count;
+		f += failed;
 		m += total;
 		if (i < files.length) {
 			worker.send(files[i]![0]);
@@ -67,6 +69,9 @@ if (cluster.isPrimary) {
 	process.on('exit', () => {
 		console.timeEnd('parse');
 		console.log(styleText('green', `Parsed ${n} / ${m} pages in total`));
+		if (f) {
+			console.error(styleText('red', `${f} pages in total failed to parse`));
+		}
 		for (const file of tempFiles) {
 			fs.unlinkSync(file);
 		}
@@ -89,7 +94,7 @@ if (cluster.isPrimary) {
 			tempPath = getTempPath(filename),
 			results = getWriteStream(tempPath, () => {
 				fs.renameSync(tempPath, path.join(resultDir, filename));
-				process.send!([processor.parsed, i]);
+				process.send!([processor.parsed, processor.failed, i]);
 			}),
 			processor = new Processor(site!, results, refresh);
 		let i = 0;

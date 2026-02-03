@@ -8,7 +8,7 @@ import type {LintError} from './common';
 
 export class Processor {
 	parsed = 0;
-	#failed = 0;
+	failed = 0;
 	#comma = '';
 	#results;
 	#refresh;
@@ -31,8 +31,8 @@ export class Processor {
 		console.log();
 		console.timeEnd(timer);
 		console.log(styleText('green', `Parsed ${this.parsed} / ${msg}`));
-		if (this.#failed) {
-			console.error(styleText('red', `${this.#failed} pages failed to parse`));
+		if (this.failed) {
+			console.error(styleText('red', `${this.failed} pages failed to parse`));
 		}
 		this.#results.write(`${this.#comma}\n"#timestamp": ${JSON.stringify(this.#latest)}\n}`);
 		this.#results.end();
@@ -96,6 +96,6 @@ export class Processor {
 	 */
 	error(e: unknown, title: string): void {
 		console.error(styleText('red', `Error parsing ${title}`), e);
-		this.#failed++;
+		this.failed++;
 	}
 }
