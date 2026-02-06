@@ -263,6 +263,7 @@
 		"interwikilink",
 		"interlanguagelink",
 		"contentmodel",
+		"isbn",
 		"int",
 		"special",
 		"speciale",
@@ -384,6 +385,7 @@
 		"contentmodel",
 		"dir",
 		"language",
+		"isbn",
 		"numberofwikis",
 		"noexternallanglinks",
 		"wbreponame"
@@ -548,6 +550,7 @@
 			"#interwikilink": "interwikilink",
 			"#interlanguagelink": "interlanguagelink",
 			"#contentmodel": "contentmodel",
+			"#isbn": "isbn",
 			"MOSTRATITOLO": "displaytitle",
 			"DISPLAYTITLE": "displaytitle",
 			"#timef": "timef",

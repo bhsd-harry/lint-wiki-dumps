@@ -342,6 +342,7 @@
 		"interwikilink",
 		"interlanguagelink",
 		"contentmodel",
+		"isbn",
 		"int",
 		"special",
 		"speciale",
@@ -463,6 +464,7 @@
 		"contentmodel",
 		"dir",
 		"language",
+		"isbn",
 		"numberofwikis",
 		"noexternallanglinks",
 		"wbreponame"
@@ -749,6 +751,7 @@
 			"#interwikilink": "interwikilink",
 			"#interlanguagelink": "interlanguagelink",
 			"#contentmodel": "contentmodel",
+			"#isbn": "isbn",
 			"顯示標題": "displaytitle",
 			"显示标题": "displaytitle",
 			"DISPLAYTITLE": "displaytitle",

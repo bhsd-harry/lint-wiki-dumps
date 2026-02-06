@@ -4,6 +4,7 @@ import os from 'os';
 import {styleText} from 'util';
 import bz2 from 'unbzip2-stream';
 import XmlStream from 'xml-stream';
+import type {LintError} from './common';
 
 const defaultResultDir = path.join(__dirname, 'results'),
 	tempDir = path.join(__dirname, 'temp');
@@ -84,3 +85,20 @@ export const filter = (files: string[]): string[] => files.map(file => [
 	.sort(([, a1, a2], [, b1, b2]) => a1 - b1 || a2 - b2)
 	.filter(([, a], i, arr) => a !== arr[i + 1]?.[1])
 	.map(([file]) => file);
+
+export const handleResults = async (
+	fileDir: string,
+	each: (page: string, errors: LintError[], date: Date) => void | Promise<void>,
+	before?: (date: Date) => void,
+): Promise<void> => {
+	const data = fs.readFileSync(fileDir, 'utf8'),
+		date = new Date(data.substr(data.indexOf('\n"#timestamp": "') + 16, 10));
+	before?.(date);
+	for (const mt of data.matchAll(/^(".+"): \[$/gmu)) {
+		const page: string = JSON.parse(mt[1]!),
+			errors: LintError[] = JSON.parse(
+				data.slice(mt.index + mt[0].length - 1, data.indexOf('\n]', mt.index) + 2),
+			);
+		await each(page, errors, date);
+	}
+};
