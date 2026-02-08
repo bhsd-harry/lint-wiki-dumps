@@ -2,7 +2,7 @@ import config, {browser} from '@bhsd/code-standard';
 
 export default [
 	{
-		ignores: ['reports/data/**/*.js'],
+		ignores: ['data/**/*.js'],
 	},
 	...config,
 	browser,

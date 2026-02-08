@@ -7,7 +7,6 @@ export default extend(
 		ignores: [
 			'*.js',
 			'results/*.json',
-			'reports/',
 		],
 	},
 	{

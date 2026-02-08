@@ -3,7 +3,14 @@ if (( $# < 2 ))
 then
 	echo 'Usage: npx lint-wiki-dumps <language> <path to download> [path to HTML output]'
 	echo 'Example: npx lint-wiki-dumps zh-yue ~/Downloads/dumps'
+	echo 'Usage: npx lint-wiki-dumps --migrate <language>'
+	echo 'Example: npx lint-wiki-dumps --migrate zh-yue'
 	exit 1
+fi
+if [[ "$1" == '--migrate' ]]
+then
+	node migrate.js "${@:2}"
+	exit $?
 fi
 if ! [ -f "config/${1}wiki.json" ]
 then
