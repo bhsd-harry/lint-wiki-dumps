@@ -1,0 +1,78 @@
+import {styleText} from 'util';
+import cluster from 'cluster';
+import Parser from 'wikilint';
+import {refreshStdout} from '@bhsd/nodejs';
+import {lint} from './common';
+import type {LintError, LintErrorDB} from './common';
+
+export abstract class ProcessorBase {
+	total = 0;
+	parsed = 0;
+	failed = 0;
+	latest: Date | undefined;
+
+	/** @param site site nickname */
+	constructor(site: string) {
+		Parser.config = `${site}wiki`;
+	}
+
+	abstract newEntry(title: string, errors: LintError[] | LintErrorDB[] | string, date?: Date): void | Promise<void>;
+
+	/**
+	 * Stop the processing and log the results.
+	 * @param timer timer name
+	 * @param msg additional message to log
+	 */
+	stop(timer: string, msg = ''): void {
+		console.log();
+		console.timeEnd(timer);
+		console.log(styleText('green', `Parsed ${this.parsed} / ${this.total} pages${msg}`));
+		if (this.failed) {
+			console.error(styleText('red', `${this.failed} pages failed to parse`));
+		}
+	}
+
+	/**
+	 * Log an error message.
+	 * @param e error object
+	 * @param title page title
+	 */
+	error(e: unknown, title: string): void {
+		console.error(styleText('red', `Error parsing ${title}`), e);
+		this.failed++;
+	}
+
+	/**
+	 * Prepare for linting a page.
+	 * @param title page title
+	 * @param date page revision date
+	 */
+	lintStart(title: string, date: Date): void {
+		refreshStdout(`${++this.total} ${title}`);
+		if (!this.latest || date > this.latest) {
+			this.latest = date;
+		}
+	}
+
+	/**
+	 * Parse a page and lint it.
+	 * @param $text page text
+	 * @param ns page namespace
+	 * @param title page title
+	 * @throws `RangeError` maximum heap size exceeded
+	 */
+	async doLint($text: string, ns: string, title: string): Promise<void> {
+		try {
+			const errors = lint($text, title, ns);
+			this.parsed++;
+			if (errors.length > 0) {
+				await this.newEntry(title, errors);
+			}
+		} catch (e) {
+			if (cluster.isWorker && e instanceof RangeError && e.message === 'Maximum heap size exceeded') {
+				throw e;
+			}
+			this.error(e, title);
+		}
+	}
+}

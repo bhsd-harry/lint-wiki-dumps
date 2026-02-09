@@ -1,25 +1,19 @@
-import cluster from 'cluster';
-import {styleText} from 'util';
-import Parser from 'wikilint';
 import {getErrors} from './util';
-import {lint} from './common';
+import {ProcessorBase} from './processor-common';
 import type {WriteStream} from 'fs';
 import type {LintError} from './common';
 
-export class Processor {
-	parsed = 0;
-	failed = 0;
+export class Processor extends ProcessorBase {
 	#comma = '';
 	#results;
 	#refresh;
-	#latest;
 
 	/** @param site site nickname */
 	constructor(site: string, results: WriteStream, refresh?: string, latest?: Date) {
-		Parser.config = `${site}wiki`;
+		super(site);
 		this.#results = results;
 		this.#refresh = Boolean(refresh);
-		this.#latest = latest;
+		this.latest = latest;
 	}
 
 	/**
@@ -27,14 +21,9 @@ export class Processor {
 	 * @param timer timer name
 	 * @param msg additional message to log
 	 */
-	stop(timer: string, msg = ''): void {
-		console.log();
-		console.timeEnd(timer);
-		console.log(styleText('green', `Parsed ${this.parsed} / ${msg}`));
-		if (this.failed) {
-			console.error(styleText('red', `${this.failed} pages failed to parse`));
-		}
-		this.#results.write(`${this.#comma}\n"#timestamp": ${JSON.stringify(this.#latest)}\n}`);
+	override stop(timer: string, msg = ''): void {
+		super.stop(timer, msg);
+		this.#results.write(`${this.#comma}\n"#timestamp": ${JSON.stringify(this.latest)}\n}`);
 		this.#results.end();
 	}
 
@@ -60,12 +49,9 @@ export class Processor {
 	 * @param date page revision date
 	 * @param last last revision date
 	 * @param data previous results
-	 * @throws `RangeError` maximum heap size exceeded
 	 */
 	lint($text: string, ns: string, title: string, date: Date, last: Date | undefined, data: string): void {
-		if (!this.#latest || date > this.#latest) {
-			this.#latest = date;
-		}
+		this.lintStart(title, date);
 		if (last && date <= last) {
 			const previous = getErrors(data, title);
 			if (!previous) {
@@ -75,27 +61,6 @@ export class Processor {
 				return;
 			}
 		}
-		try {
-			const errors = lint($text, title, ns);
-			this.parsed++;
-			if (errors.length > 0) {
-				this.newEntry(title, errors);
-			}
-		} catch (e) {
-			if (cluster.isWorker && e instanceof RangeError && e.message === 'Maximum heap size exceeded') {
-				throw e;
-			}
-			this.error(e, title);
-		}
-	}
-
-	/**
-	 * Log an error message.
-	 * @param e error object
-	 * @param title page title
-	 */
-	error(e: unknown, title: string): void {
-		console.error(styleText('red', `Error parsing ${title}`), e);
-		this.failed++;
+		void this.doLint($text, ns, title);
 	}
 }

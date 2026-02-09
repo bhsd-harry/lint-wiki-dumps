@@ -3,14 +3,13 @@ import fs from 'fs';
 import path from 'path';
 import os from 'os';
 import {styleText} from 'util';
-import {refreshStdout} from '@bhsd/nodejs';
 import {
 	init,
 	getResultDir,
 	getTempPath,
 	getWriteStream,
 	getXmlStream,
-	getTimestamp,
+	getDate,
 	isArticle,
 	replaceTilde,
 	reading,
@@ -94,13 +93,12 @@ if (cluster.isPrimary) {
 			tempPath = getTempPath(filename),
 			results = getWriteStream(tempPath, () => {
 				fs.renameSync(tempPath, path.join(resultDir, filename));
-				process.send!([processor.parsed, processor.failed, i]);
+				process.send!([processor.parsed, processor.failed, processor.total]);
 			}),
 			processor = new Processor(site!, results, refresh);
-		let i = 0;
 
 		const stop = (): void => {
-			processor.stop(`parse ${file}`, `${i} pages from ${file}`);
+			processor.stop(`parse ${file}`, ` from ${file}`);
 		};
 
 		const lint = ($text: string, ns: string, title: string, date: Date, retry = 0): boolean => {
@@ -130,7 +128,6 @@ if (cluster.isPrimary) {
 		const stream = getXmlStream(file);
 		stream.on('endElement: page', ({title, ns, id, revision: {model, timestamp, text: {$text}}}) => {
 			if (isArticle($text, ns, model)) {
-				refreshStdout(`${++i} ${title}`);
 				const pageid = Number(id);
 				if (start === undefined || end === undefined || pageid < start || pageid > end) {
 					const cur = pageid <= max && ranges.findIndex(([a, b]) => a <= pageid && b >= pageid);
@@ -141,7 +138,7 @@ if (cluster.isPrimary) {
 					} else {
 						[start, end] = ranges[cur]!;
 						data = fs.readFileSync(path.join(resultDir, tempFiles[cur]!), 'utf8');
-						last = getTimestamp(data);
+						last = getDate(data);
 					}
 				}
 				lint($text, ns, title, new Date(timestamp));

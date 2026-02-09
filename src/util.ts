@@ -49,7 +49,7 @@ export const getXmlStream = (file: string): XmlStream => {
 	return stream;
 };
 
-export const getTimestamp = (data: string | false): Date | undefined => {
+export const getDate = (data: string | false): Date | undefined => {
 	if (!data) {
 		return undefined;
 	}
