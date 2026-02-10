@@ -10,7 +10,7 @@
 	"bugs": {
 		"url": "https://github.com/bhsd-harry/lint-wiki-dumps/issues"
 	},
-	"license": "GPL-3.0",
+	"license": "GPL-3.0-or-later",
 	"author": "Bhsd",
 	"files": [
 		"*.sh",
@@ -43,37 +43,37 @@
 		"toolforge": "bash scan-toolforge.sh"
 	},
 	"dependencies": {
-		"@bhsd/nodejs": "^0.1.0",
+		"@bhsd/nodejs": "^0.1.1",
 		"unbzip2-stream": "^1.4.3",
-		"wikilint": "^2.35.1",
+		"wikilint": "^2.36.0",
 		"xml-stream": "^0.4.5"
 	},
 	"optionalDependencies": {
-		"vscode-css-languageservice": "^6.3.9"
+		"vscode-css-languageservice": "^6.3.10"
 	},
 	"devDependencies": {
-		"@bhsd/code-standard": "^2.0.0",
-		"@stylistic/eslint-plugin": "^5.7.1",
+		"@bhsd/code-standard": "^2.1.1",
+		"@stylistic/eslint-plugin": "^5.10.0",
 		"@stylistic/stylelint-plugin": "^5.0.1",
-		"@types/node": "^24.10.11",
+		"@types/node": "^24.11.0",
 		"@types/unbzip2-stream": "^1.4.3",
-		"@typescript-eslint/eslint-plugin": "^8.54.0",
-		"@typescript-eslint/parser": "^8.54.0",
-		"esbuild": "^0.27.3",
-		"eslint": "^9.39.2",
-		"eslint-plugin-es-x": "^9.4.0",
+		"@typescript-eslint/eslint-plugin": "^8.57.0",
+		"@typescript-eslint/parser": "^8.57.0",
+		"esbuild": "^0.27.4",
+		"eslint": "^9.39.4",
+		"eslint-plugin-es-x": "^9.5.0",
 		"eslint-plugin-eslint-comments": "^3.2.0",
-		"eslint-plugin-jsdoc": "^62.5.3",
-		"eslint-plugin-jsonc": "^2.21.0",
-		"eslint-plugin-n": "^17.23.2",
+		"eslint-plugin-jsdoc": "^62.7.1",
+		"eslint-plugin-jsonc": "^3.1.1",
+		"eslint-plugin-n": "^17.24.0",
 		"eslint-plugin-promise": "^7.2.1",
-		"eslint-plugin-regexp": "^3.0.0",
-		"eslint-plugin-unicorn": "^62.0.0",
-		"mariadb": "^3.4.5",
-		"markdownlint-cli2": "^0.20.0",
-		"stylelint": "^17.1.1",
+		"eslint-plugin-regexp": "^3.1.0",
+		"eslint-plugin-unicorn": "^63.0.0",
+		"mariadb": "^3.5.2",
+		"markdownlint-cli2": "^0.21.0",
+		"stylelint": "^17.5.0",
 		"stylelint-config-recommended": "^18.0.0",
-		"stylelint-plugin-use-baseline": "^1.2.2",
+		"stylelint-plugin-use-baseline": "^1.2.7",
 		"typescript": "^5.9.3"
 	},
 	"engines": {

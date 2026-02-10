@@ -3,6 +3,8 @@ if (( $# < 2 ))
 then
 	echo 'Usage: npx lint-wiki-dumps <language> <path to download> [path to HTML output]'
 	echo 'Example: npx lint-wiki-dumps zh-yue ~/Downloads/dumps'
+	echo 'Usage: npx lint-wiki-dumps --db <language> <path to download> [path to HTML output]'
+	echo 'Example: npx lint-wiki-dumps --db zh-yue ~/Downloads/dumps'
 	echo 'Usage: npx lint-wiki-dumps --migrate <language>'
 	echo 'Example: npx lint-wiki-dumps --migrate zh-yue'
 	exit 1
@@ -11,8 +13,33 @@ if [[ "$1" == '--migrate' ]]
 then
 	node migrate.js "${@:2}"
 	exit $?
-fi
-if ! [ -f "config/${1}wiki.json" ]
+elif [[ "$1" == '--db' ]]
+then
+	if ! [ -f "config/${2}wiki.json" ]
+	then
+		echo "Fetching parser configuration for ${2}wiki"
+		npx getParserConfig "${2}wiki" "https://$2.wikipedia.org/w/"
+	fi
+	bash download.sh "$2" "$3"
+	res="$?"
+	if (( res == 20 ))
+	then
+		echo 'Switching to single-threaded mode'
+		node parser-db.js "$2" "$3/${2//-/_}wiki-latest-pages-articles.xml.bz2" "$5"
+	elif (( res == 0 ))
+	then
+		node parallel-db.js "$2" "$3" "$5"
+	else
+		echo "Exit $res: Failed to download the file(s)"
+		exit 1
+	fi
+	if (( $? == 0))
+	then
+		echo 'Starting report generation'
+		node report-db.js "$2" "$4"
+	fi
+	exit 0
+elif ! [ -f "config/${1}wiki.json" ]
 then
 	echo "Fetching parser configuration for ${1}wiki"
 	npx getParserConfig "${1}wiki" "https://$1.wikipedia.org/w/"
@@ -25,7 +52,7 @@ then
 	node parser.js "$1" "$2/${1//-/_}wiki-latest-pages-articles.xml.bz2" "$4" "$5"
 elif (( res == 0 ))
 then
-	node parser-parallel.js "$1" "$2" "$4" "$5"
+	node parallel.js "$1" "$2" "$4" "$5"
 else
 	echo "Exit $res: Failed to download the file(s)"
 	exit 1
