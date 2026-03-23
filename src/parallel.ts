@@ -2,7 +2,7 @@ import cluster from 'cluster';
 import fs from 'fs';
 import path from 'path';
 import os from 'os';
-import {styleText} from 'util';
+import {green, red} from '@bhsd/nodejs';
 import {
 	init,
 	getResultDir,
@@ -67,9 +67,9 @@ if (cluster.isPrimary) {
 	}
 	process.on('exit', () => {
 		console.timeEnd('parse');
-		console.log(styleText('green', `Parsed ${n} / ${m} pages in total`));
+		console.log(green(`Parsed ${n} / ${m} pages in total`));
 		if (f) {
-			console.error(styleText('red', `${f} pages in total failed to parse`));
+			console.error(red(`${f} pages in total failed to parse`));
 		}
 		for (const file of tempFiles) {
 			fs.unlinkSync(file);

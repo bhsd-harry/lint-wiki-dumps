@@ -1,7 +1,6 @@
-import {styleText} from 'util';
 import cluster from 'cluster';
 import Parser from 'wikilint';
-import {refreshStdout} from '@bhsd/nodejs';
+import {refreshStdout, green, red} from '@bhsd/nodejs';
 import {lint} from './common';
 import type {LintError, LintErrorDB} from './common';
 
@@ -26,9 +25,9 @@ export abstract class ProcessorBase {
 	stop(timer: string, msg = ''): void {
 		console.log();
 		console.timeEnd(timer);
-		console.log(styleText('green', `Parsed ${this.parsed} / ${this.total} pages${msg}`));
+		console.log(green(`Parsed ${this.parsed} / ${this.total} pages${msg}`));
 		if (this.failed) {
-			console.error(styleText('red', `${this.failed} pages failed to parse`));
+			console.error(red(`${this.failed} pages failed to parse`));
 		}
 	}
 
@@ -38,7 +37,7 @@ export abstract class ProcessorBase {
 	 * @param title page title
 	 */
 	error(e: unknown, title: string): void {
-		console.error(styleText('red', `Error parsing ${title}`), e);
+		console.error(red(`Error parsing ${title}`), e);
 		this.failed++;
 	}
 

@@ -4,8 +4,13 @@
 		"src/*.ts"
 	],
 	"compilerOptions": {
+		"lib": [
+			"ES2025",
+			"DOM"
+		],
 		"target": "ES2019",
 		"module": "CommonJS",
+		"rootDir": "src",
 		"outDir": "dist"
 	}
 }

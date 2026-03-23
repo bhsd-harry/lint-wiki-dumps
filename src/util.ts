@@ -1,9 +1,9 @@
 import fs from 'fs';
 import path from 'path';
 import os from 'os';
-import {styleText} from 'util';
 import bz2 from 'unbzip2-stream';
 import XmlStream from 'xml-stream';
+import {green, red} from '@bhsd/nodejs';
 import type {LintError} from './common';
 
 const defaultResultDir = path.join(__dirname, 'results'),
@@ -38,11 +38,11 @@ export const getWriteStream = (file: string, callback: () => void): fs.WriteStre
 };
 
 export const getXmlStream = (file: string): XmlStream => {
-	console.log(styleText('green', `Unzipping and reading ${file}`));
+	console.log(green(`Unzipping and reading ${file}`));
 	const readable = fs.createReadStream(file).pipe(bz2()),
 		stream = new XmlStream(readable);
 	readable.on('error', e => {
-		console.error(styleText('red', `Error unzipping ${file}`));
+		console.error(red(`Error unzipping ${file}`));
 		throw e;
 	});
 	stream._preserveAll = true;
@@ -73,7 +73,7 @@ export const isArticle = ($text: string, ns: string, model: string): boolean =>
 export const replaceTilde = (str: string): string => str.replace(/^~/u, os.homedir());
 
 export const reading = (file: string): void => {
-	console.log(styleText('green', `Reading ${file}`));
+	console.log(green(`Reading ${file}`));
 };
 
 export const normalize = (str: string): string => str.replaceAll('-', '_');

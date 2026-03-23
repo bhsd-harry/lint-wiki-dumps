@@ -5,6 +5,7 @@ export default {
 	computeEditInfo: false,
 	rules: {
 		'arg-in-ext': 2,
+		'blank-alt': 2,
 		'bold-header': 0,
 		'format-leakage': 0,
 		'fostered-content': 0,

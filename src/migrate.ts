@@ -1,7 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import {styleText} from 'util';
-import {refreshStdout} from '@bhsd/nodejs';
+import {refreshStdout, yellow, green} from '@bhsd/nodejs';
 import {getResultDir, handleResults, normalize} from './util';
 import {
 	createConnection,
@@ -25,7 +24,7 @@ const [,, site, temp, check] = process.argv,
 (async () => {
 	const connection = await createConnection();
 	if (await existTable(connection, lang)) {
-		console.warn(styleText('yellow', `Table ${lang} already exists!`));
+		console.warn(yellow(`Table ${lang} already exists!`));
 		void connection.end();
 		return;
 	}
@@ -67,5 +66,5 @@ const [,, site, temp, check] = process.argv,
 	);
 	await updateMetadata(connection, lang, latest);
 	void connection.end();
-	console.log(styleText('green', `Converted ${i} error records for ${lang} to MariaDB.`));
+	console.log(green(`Converted ${i} error records for ${lang} to MariaDB.`));
 })();

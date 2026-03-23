@@ -24,7 +24,7 @@ declare const data: [string, number, number, string, string][] & {timestamp?: st
 		(async () => {
 			const response = await fetch(
 				`./purge/${lang}/${
-					encodeURIComponent(page.replace(/ /gu, '_'))
+					encodeURIComponent(page.replaceAll(' ', '_'))
 				}`,
 				{method: 'POST'},
 			);

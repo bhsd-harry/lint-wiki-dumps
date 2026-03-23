@@ -6,6 +6,7 @@
 		"target": "ES2024",
 		"module": "NodeNext",
 		"allowSyntheticDefaultImports": true,
+		"rootDir": "src",
 		"outDir": "dist",
 		"alwaysStrict": true,
 		"exactOptionalPropertyTypes": true,
