@@ -61,9 +61,9 @@ const [,, site, dir, refresh] = process.argv,
 		}
 		process.on('exit', () => {
 			console.timeEnd('parse');
-			console.log(green(`Parsed ${n} / ${m} pages in total`));
+			console.log(green(`Parsed ${n.toLocaleString()} / ${m.toLocaleString()} pages in total`));
 			if (f) {
-				console.error(red(`${f} pages in total failed to parse`));
+				console.error(red(`${f.toLocaleString()} pages in total failed to parse`));
 			}
 			(async () => {
 				await updateMetadata(connection, target, date!);

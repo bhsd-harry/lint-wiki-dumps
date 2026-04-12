@@ -25,9 +25,9 @@ export abstract class ProcessorBase {
 	stop(timer: string, msg = ''): void {
 		console.log();
 		console.timeEnd(timer);
-		console.log(green(`Parsed ${this.parsed} / ${this.total} pages${msg}`));
+		console.log(green(`Parsed ${this.parsed.toLocaleString()} / ${this.total.toLocaleString()} pages${msg}`));
 		if (this.failed) {
-			console.error(red(`${this.failed} pages failed to parse`));
+			console.error(red(`${this.failed.toLocaleString()} pages failed to parse`));
 		}
 	}
 
@@ -37,7 +37,8 @@ export abstract class ProcessorBase {
 	 * @param title page title
 	 */
 	error(e: unknown, title: string): void {
-		console.error(red(`Error parsing ${title}`), e);
+		console.error(red(`Error parsing ${title}`));
+		console.error(e);
 		this.failed++;
 	}
 

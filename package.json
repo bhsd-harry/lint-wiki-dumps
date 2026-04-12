@@ -32,6 +32,7 @@
 		"url": "git+https://github.com/bhsd-harry/lint-wiki-dumps.git"
 	},
 	"scripts": {
+		"ls": "npm i --package-lock-only && npm ls --package-lock-only --all --omit=dev",
 		"start": "node server.js",
 		"prepublishOnly": "npm run build",
 		"bundle": "esbuild reports/src/*.ts --charset=utf8 --bundle --format=esm --outdir=build && rm build/common.js",
@@ -45,39 +46,37 @@
 	"dependencies": {
 		"@bhsd/nodejs": "^1.0.0",
 		"unbzip2-stream": "^1.4.3",
-		"wikilint": "^2.38.1",
+		"wikilint": "^2.39.1",
 		"xml-stream": "^0.4.5"
 	},
 	"optionalDependencies": {
 		"vscode-css-languageservice": "^6.3.10"
 	},
 	"devDependencies": {
-		"@bhsd/code-standard": "^2.2.0",
+		"@bhsd/code-standard": "^2.3.0",
 		"@eslint-community/eslint-plugin-eslint-comments": "^4.7.1",
 		"@stylistic/eslint-plugin": "^5.10.0",
 		"@stylistic/stylelint-plugin": "^5.1.0",
 		"@types/node": "^24.11.0",
 		"@types/unbzip2-stream": "^1.4.3",
-		"@typescript-eslint/eslint-plugin": "^8.58.0",
-		"@typescript-eslint/parser": "^8.58.0",
-		"esbuild": "^0.27.7",
-		"eslint": "^10.2.0",
+		"@typescript-eslint/eslint-plugin": "^8.59.1",
+		"@typescript-eslint/parser": "^8.59.1",
+		"esbuild": "^0.28.0",
+		"eslint": "^10.2.1",
 		"eslint-plugin-es-x": "^9.6.0",
-		"eslint-plugin-jsdoc": "^62.7.1",
+		"eslint-plugin-jsdoc": "^62.9.0",
 		"eslint-plugin-jsonc": "^3.1.2",
 		"eslint-plugin-n": "^17.24.0",
-		"eslint-plugin-promise": "^7.2.1",
+		"eslint-plugin-promise": "^7.3.0",
 		"eslint-plugin-regexp": "^3.1.0",
 		"eslint-plugin-unicorn": "^64.0.0",
+		"eslint-plugin-yml": "^3.3.2",
 		"mariadb": "^3.5.2",
-		"markdownlint-cli2": "^0.21.0",
-		"stylelint": "^17.6.0",
+		"markdownlint-cli2": "^0.22.1",
+		"stylelint": "^17.9.1",
 		"stylelint-config-recommended": "^18.0.0",
 		"stylelint-plugin-use-baseline": "^1.4.1",
-		"typescript": "^6.0.2"
-	},
-	"overrides": {
-		"eslint": "^10.2.0"
+		"typescript": "^6.0.3"
 	},
 	"engines": {
 		"node": "^20.19.0 || ^22.13.0"
