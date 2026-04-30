@@ -5,8 +5,7 @@ import {wiki, writeSummary, writeArticle, updateRuleRecords, writeWiki} from './
 import type {LintError as LintErrorBase} from 'wikilint';
 import type {LintError} from './common';
 
-const {argv} = process,
-	[,, lang,, temp] = argv,
+const [,, lang,, temp] = process.argv,
 	resultDir = getResultDir(temp);
 
 const dir = fs.readdirSync(resultDir),

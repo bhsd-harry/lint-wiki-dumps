@@ -2,7 +2,7 @@ import cluster from 'cluster';
 import Parser from 'wikilint';
 import {refreshStdout, green, red} from '@bhsd/nodejs';
 import {lint} from './common';
-import type {LintError, LintErrorDB} from './common';
+import type {LintError} from './common';
 
 export abstract class ProcessorBase {
 	total = 0;
@@ -15,7 +15,7 @@ export abstract class ProcessorBase {
 		Parser.config = `${site}wiki`;
 	}
 
-	abstract newEntry(title: string, errors: LintError[] | LintErrorDB[] | string, date?: Date): void | Promise<void>;
+	abstract newEntry(title: string, errors: LintError[] | string): void;
 
 	/**
 	 * Stop the processing and log the results.
@@ -61,12 +61,12 @@ export abstract class ProcessorBase {
 	 * @param title page title
 	 * @throws `RangeError` maximum heap size exceeded
 	 */
-	async doLint($text: string, ns: string, title: string): Promise<void> {
+	doLint($text: string, ns: string, title: string): void {
 		try {
 			const errors = lint($text, title, ns);
 			this.parsed++;
 			if (errors.length > 0) {
-				await this.newEntry(title, errors);
+				this.newEntry(title, errors);
 			}
 		} catch (e) {
 			if (cluster.isWorker && e instanceof RangeError && e.message === 'Maximum heap size exceeded') {

@@ -30,4 +30,4 @@ const last = getDate(data),
 	}),
 	processor = new Processor(site!, results, refresh, last);
 
-parse(processor, undefined, last, data as string);
+parse(processor, data as string, last);

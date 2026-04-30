@@ -15,7 +15,7 @@ import type {LintError} from './common';
 
 declare type Count = [{count: bigint}];
 
-const [,, site, temp, check] = process.argv,
+const [,, site, temp, check, update] = process.argv,
 	lang = normalize(site!),
 	re = new RegExp(String.raw`^${lang}(?:-(?:p\d+){2})?\.json$`, 'u'),
 	resultDir = getResultDir(temp),
@@ -25,8 +25,12 @@ const [,, site, temp, check] = process.argv,
 	const connection = await createConnection();
 	if (await existTable(connection, lang)) {
 		console.warn(yellow(`Table ${lang} already exists!`));
-		void connection.end();
-		return;
+		if (update) {
+			await dropTable(connection, lang);
+		} else {
+			void connection.end();
+			return;
+		}
 	}
 	await createTable(connection, lang);
 	let i = 0;

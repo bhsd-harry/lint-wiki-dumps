@@ -3,9 +3,7 @@ import {createConnection, select, getTimestampDB} from './util-db';
 import {wiki, writeSummary, writeArticle, updateRuleRecords, writeWiki} from './report-common';
 import type {LintErrorDB} from './common';
 
-const {argv} = process,
-	site = argv[2]!,
-	lang = normalize(site);
+const lang = normalize(process.argv[2]!);
 
 (async () => {
 	const connection = await createConnection(),

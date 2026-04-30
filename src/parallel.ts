@@ -42,9 +42,8 @@ if (cluster.isPrimary) {
 				const filePath = path.join(dumpDir, file);
 				return [filePath, fs.statSync(filePath).size] as const;
 			})
-			.sort(([, a], [, b]) => b - a),
-		workers = new Array(Math.min(os.availableParallelism(), files.length)).fill(undefined)
-			.map(() => cluster.fork());
+			.toSorted(([, a], [, b]) => b - a),
+		workers = Array.from({length: Math.min(os.availableParallelism(), files.length)}, () => cluster.fork());
 	let i = 0,
 		n = 0,
 		f = 0,

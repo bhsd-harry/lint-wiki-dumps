@@ -6,12 +6,4 @@ export default [
 	},
 	...config,
 	browser,
-	{
-		files: ['**/*.ts'],
-		languageOptions: {
-			parserOptions: {
-				project: './reports/tsconfig.json',
-			},
-		},
-	},
 ];

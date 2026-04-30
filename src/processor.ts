@@ -21,7 +21,7 @@ export class Processor extends ProcessorBase {
 	 * @param timer timer name
 	 * @param msg additional message to log
 	 */
-	override stop(timer: string, msg = ''): void {
+	override stop(timer: string, msg?: string): void {
 		super.stop(timer, msg);
 		this.#results.write(`${this.#comma}\n"#timestamp": ${JSON.stringify(this.latest)}\n}`);
 		this.#results.end();
@@ -61,6 +61,6 @@ export class Processor extends ProcessorBase {
 				return;
 			}
 		}
-		void this.doLint($text, ns, title);
+		this.doLint($text, ns, title);
 	}
 }

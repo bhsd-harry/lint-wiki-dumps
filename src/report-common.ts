@@ -41,7 +41,7 @@ const initJS = (file: string): fs.WriteStream => {
 const compare = (a: string, b: string): number => a.localeCompare(b);
 
 export const writeSummary = (summary: Iterable<string>): void => {
-	writeJS([...summary].sort(compare), 'index');
+	writeJS([...summary].toSorted(compare), 'index');
 };
 
 export const writeArticle = (
@@ -94,5 +94,5 @@ export const writeWiki = (date: Date): void => {
 			stream.end();
 		}
 	}
-	writeJS(Object.entries(wiki).sort(([a], [b]) => a.localeCompare(b)), path.join(lang, 'index'), timestamp);
+	writeJS(Object.entries(wiki).toSorted(([a], [b]) => a.localeCompare(b)), path.join(lang, 'index'), timestamp);
 };
