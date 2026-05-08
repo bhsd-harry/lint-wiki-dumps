@@ -4,7 +4,7 @@ import type {Connection} from 'mariadb';
 import type {LintErrorDB} from './common';
 
 export const createConnection = async (): Promise<Connection> => {
-	const {dbname, ...other} = config,
+	const {dbname, ...other} = config as {dbname: string},
 		connection = await mariadb.createConnection(other);
 	await connection.query(`CREATE DATABASE IF NOT EXISTS \`${dbname}\``);
 	await connection.query(`USE \`${dbname}\``);

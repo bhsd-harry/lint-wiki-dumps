@@ -17,4 +17,5 @@ if (( $? == 0))
 then
 	echo 'Starting report generation'
 	node report.js "$1"
+	node migrate.js "$1" update
 fi

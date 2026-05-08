@@ -15,7 +15,7 @@ import type {LintError} from './common';
 
 declare type Count = [{count: bigint}];
 
-const [,, site, temp, check, update] = process.argv,
+const [,, site, update, temp, check] = process.argv,
 	lang = normalize(site!),
 	re = new RegExp(String.raw`^${lang}(?:-(?:p\d+){2})?\.json$`, 'u'),
 	resultDir = getResultDir(temp),
