@@ -4,9 +4,10 @@ import type {Connection} from 'mariadb';
 import type {LintErrorDB} from './common';
 
 export const createConnection = async (): Promise<Connection> => {
-	const connection = await mariadb.createConnection(config);
-	await connection.query('CREATE DATABASE IF NOT EXISTS `lint-wiki-dumps`');
-	await connection.query('USE `lint-wiki-dumps`');
+	const {dbname, ...other} = config,
+		connection = await mariadb.createConnection(other);
+	await connection.query(`CREATE DATABASE IF NOT EXISTS \`${dbname}\``);
+	await connection.query(`USE \`${dbname}\``);
 	return connection;
 };
 
