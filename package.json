@@ -1,6 +1,6 @@
 {
 	"name": "lint-wiki-dumps",
-	"version": "0.9.1",
+	"version": "0.10.0",
 	"description": "Lint Wikipedia dumps",
 	"keywords": [
 		"lint",
@@ -46,7 +46,7 @@
 	"dependencies": {
 		"@bhsd/nodejs": "^1.0.0",
 		"unbzip2-stream": "^1.4.3",
-		"wikilint": "^2.39.1",
+		"wikilint": "^2.40.0",
 		"xml-stream": "^0.4.5"
 	},
 	"optionalDependencies": {
@@ -55,7 +55,7 @@
 	"devDependencies": {
 		"@bhsd/code-standard": "^2.4.2",
 		"@stylistic/stylelint-plugin": "^5.1.0",
-		"@types/node": "^24.11.0",
+		"@types/node": "^25.6.2",
 		"@types/unbzip2-stream": "^1.4.3",
 		"@typescript-eslint/parser": "^8.59.2",
 		"esbuild": "^0.28.0",

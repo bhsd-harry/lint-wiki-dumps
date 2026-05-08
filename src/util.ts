@@ -1,9 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import os from 'os';
-import bz2 from 'unbzip2-stream';
-import XmlStream from 'xml-stream';
-import {green, red} from '@bhsd/nodejs';
+import {green} from '@bhsd/nodejs';
 import type {LintError} from './common';
 
 const defaultResultDir = path.join(__dirname, 'results'),
@@ -34,18 +32,6 @@ export const getWriteStream = (file: string, callback: () => void): fs.WriteStre
 	const stream = fs.createWriteStream(file);
 	stream.write('{');
 	stream.on('close', callback);
-	return stream;
-};
-
-export const getXmlStream = (file: string): XmlStream => {
-	console.log(green(`Unzipping and reading ${file}`));
-	const readable = fs.createReadStream(file).pipe(bz2()),
-		stream = new XmlStream(readable);
-	readable.on('error', e => {
-		console.error(red(`Error unzipping ${file}`));
-		throw e;
-	});
-	stream._preserveAll = true;
 	return stream;
 };
 

@@ -8,7 +8,6 @@ import {
 	getResultDir,
 	getTempPath,
 	getWriteStream,
-	getXmlStream,
 	getDate,
 	isArticle,
 	replaceTilde,
@@ -16,6 +15,7 @@ import {
 	normalize,
 	filter,
 } from './util';
+import {getXmlStream} from './xml';
 import {Processor} from './processor';
 import type {Worker as NodeWorker} from 'cluster';
 

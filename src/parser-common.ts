@@ -1,4 +1,5 @@
-import {getXmlStream, replaceTilde, isArticle} from './util';
+import {getXmlStream} from './xml';
+import {replaceTilde, isArticle} from './util';
 import type {Processor} from './processor';
 
 const file = process.argv[3]!;
