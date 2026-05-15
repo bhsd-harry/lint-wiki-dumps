@@ -38,34 +38,39 @@
 		"bundle": "esbuild reports/src/*.ts --charset=utf8 --bundle --format=esm --outdir=build && rm build/common.js",
 		"build": "tsc && mv dist/* . && npm run bundle && esbuild reports/src/*.ts --charset=utf8 --bundle --minify --target=es2019 --format=iife --sourcemap --outdir=reports/dist && rm reports/dist/common.js*",
 		"lint:ts": "tsc --noEmit && tsc --project reports/tsconfig.json --noEmit && eslint --cache .",
-		"lint:css": "stylelint reports/*.css",
+		"lint:css": "stylelint --cache reports/*.css",
 		"lint:md": "markdownlint-cli2 '**/*.md'",
 		"lint": "npm run lint:ts && npm run lint:css && npm run lint:md",
 		"toolforge": "bash scan-toolforge.sh"
 	},
+	"peerDependencies": {
+		"mariadb": "^3.0.0",
+		"vscode-css-languageservice": ">=3.0.0"
+	},
+	"peerDependenciesMeta": {
+		"mariadb": {
+			"optional": true
+		},
+		"vscode-css-languageservice": {
+			"optional": true
+		}
+	},
 	"dependencies": {
-		"@bhsd/nodejs": "^1.0.0",
+		"@bhsd/nodejs": "^1.0.1",
 		"unbzip2-stream": "^1.4.3",
-		"wikilint": "^2.40.0",
+		"wikilint": "^2.43.0",
 		"xml-stream": "^0.4.5"
 	},
-	"optionalDependencies": {
-		"vscode-css-languageservice": "^6.3.10"
-	},
 	"devDependencies": {
-		"@bhsd/code-standard": "^2.4.2",
-		"@stylistic/stylelint-plugin": "^5.1.0",
-		"@types/node": "^25.6.2",
+		"@bhsd/code-standard": "^2.6.2",
 		"@types/unbzip2-stream": "^1.4.3",
-		"@typescript-eslint/parser": "^8.59.2",
 		"esbuild": "^0.28.0",
-		"eslint": "^10.3.0",
+		"eslint": "^10.4.1",
 		"mariadb": "^3.5.2",
 		"markdownlint-cli2": "^0.22.1",
-		"stylelint": "^17.11.0",
-		"stylelint-config-recommended": "^18.0.0",
-		"stylelint-plugin-use-baseline": "^1.4.1",
-		"typescript": "^6.0.3"
+		"stylelint": "^17.13.0",
+		"typescript": "^6.0.3",
+		"vscode-css-languageservice": "^6.3.10"
 	},
 	"engines": {
 		"node": "^20.19.0 || ^22.13.0"

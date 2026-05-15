@@ -17,14 +17,6 @@ export interface LintError extends Omit<
 	sugggestions?: Fix[];
 }
 
-export interface LintErrorDB extends Omit<LintError, 'startLine' | 'startCol'> {
-	id: number;
-	title: string;
-	timestamp: Date;
-	startline: number;
-	startcol: number;
-}
-
 Parser.lintConfig = lintConfig;
 Parser.configPaths.push(path.join(__dirname, 'config'));
 

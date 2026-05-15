@@ -1,7 +1,6 @@
 import * as mariadb from 'mariadb';
 import config from './config';
 import type {Connection} from 'mariadb';
-import type {LintErrorDB} from './common';
 
 export const createConnection = async (): Promise<Connection> => {
 	const {dbname, ...other} = config as {dbname: string},
@@ -69,12 +68,3 @@ export const updateMetadata = async (connection: Connection, lang: string, times
 export const dropTable = async (connection: Connection, lang: string): Promise<void> => {
 	await connection.query(`DROP TABLE IF EXISTS ${lang}`);
 };
-
-export const select = (connection: Connection, lang: string, title: string): Promise<LintErrorDB[]> =>
-	connection.query<LintErrorDB[]>(`SELECT * FROM ${lang} WHERE title COLLATE utf8mb4_bin = ?`, [title]);
-
-export const getTimestampDB = async (connection: Connection, lang: string): Promise<Date | undefined> =>
-	(await connection.query<{timestamp: Date}[]>(
-		'SELECT timestamp FROM metadata WHERE table_name = ?',
-		[lang],
-	))[0]?.timestamp;

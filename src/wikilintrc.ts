@@ -16,6 +16,15 @@ export default {
 				parameter: 0,
 			},
 		],
+		'invalid-imagemap': 0,
+		'invalid-invoke': 0,
+		'invalid-json': [
+			0,
+			{
+				duplicate: 2,
+			},
+		],
+		'invalid-ref': 0,
 		'invalid-url': 2,
 		'lonely-apos': 0,
 		'lonely-bracket': [
@@ -59,6 +68,7 @@ export default {
 				double: 2,
 			},
 		],
+		'required-attr': 0,
 		'table-layout': 0,
 		'tag-like': [
 			2,
@@ -82,5 +92,6 @@ export default {
 				warn: 0,
 			},
 		],
+		'invalid-math': 0,
 	},
 } as LintConfig;

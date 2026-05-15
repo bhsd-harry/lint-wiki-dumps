@@ -14,7 +14,9 @@ To run this tool, you need to have [curl](https://curl.se/) installed on your sy
 npm i lint-wiki-dumps
 ```
 
-You can also install its optional dependency [vscode-css-languageservice](https://www.npmjs.com/package/vscode-css-languageservice) to lint inline CSS in Wikitext:
+### Optional Dependencies
+
+You can also install [vscode-css-languageservice](https://www.npmjs.com/package/vscode-css-languageservice) to lint inline CSS in Wikitext:
 
 ```sh
 npm i vscode-css-languageservice
