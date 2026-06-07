@@ -761,7 +761,7 @@
 			"EXPECTED_UNCONNECTED_PAGE": "EXPECTEDUNCONNECTEDPAGE"
 		}
 	],
-	"protocol": "bitcoin:|ftp://|ftps://|geo:|git://|gopher://|http://|https://|irc://|ircs://|magnet:|mailto:|matrix:|mms://|news:|nntp://|redis://|sftp://|sip:|sips:|sms:|ssh://|svn://|tel:|telnet://|urn:|wikipedia://|worldwind://|xmpp:",
+	"protocol": "bitcoin:|ftp://|ftps://|geo:|git://|gopher://|http://|https://|irc://|ircs://|magnet:|mailto:|matrix:|mms://|news:|nntp://|redis://|sftp://|sip:|sips:|sms:|ssh://|svn://|tel:|telnet://|urn:|wikipedia://|worldwind://|xmpp:|commonsfinder://",
 	"interwiki": [],
 	"img": {
 		"альт=$1": "alt",
@@ -775,12 +775,14 @@
 		"центр": "center",
 		"center": "center",
 		"centre": "center",
+		"class=$1": "class",
 		"обрамить": "framed",
 		"frame": "framed",
 		"framed": "framed",
 		"enframed": "framed",
 		"безрамки": "frameless",
 		"frameless": "frameless",
+		"lang=$1": "lang",
 		"слева": "left",
 		"left": "left",
 		"ссылка=$1": "link",
@@ -821,9 +823,7 @@
 		"upright=$1": "upright",
 		"upright $1": "upright",
 		"$1пкс": "width",
-		"$1px": "width",
-		"class=$1": "class",
-		"lang=$1": "lang"
+		"$1px": "width"
 	},
 	"redirection": [
 		"#перенаправление",
@@ -831,5 +831,6 @@
 		"#redirect"
 	],
 	"variants": [],
-	"articlePath": "/wiki/$1"
+	"articlePath": "/wiki/$1",
+	"server": "//ru.wikipedia.org"
 }

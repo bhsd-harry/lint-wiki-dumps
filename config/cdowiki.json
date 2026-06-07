@@ -918,12 +918,14 @@
 			"EXPECTED_UNCONNECTED_PAGE": "EXPECTEDUNCONNECTEDPAGE"
 		}
 	],
-	"protocol": "bitcoin:|ftp://|ftps://|geo:|git://|gopher://|http://|https://|irc://|ircs://|magnet:|mailto:|matrix:|mms://|news:|nntp://|redis://|sftp://|sip:|sips:|sms:|ssh://|svn://|tel:|telnet://|urn:|wikipedia://|worldwind://|xmpp:",
+	"protocol": "bitcoin:|ftp://|ftps://|geo:|git://|gopher://|http://|https://|irc://|ircs://|magnet:|mailto:|matrix:|mms://|news:|nntp://|redis://|sftp://|sip:|sips:|sms:|ssh://|svn://|tel:|telnet://|urn:|wikipedia://|worldwind://|xmpp:|commonsfinder://",
 	"interwiki": [],
 	"img": {
 		"替代=$1": "alt",
 		"替代文本=$1": "alt",
 		"alt=$1": "alt",
+		"baseline": "baseline",
+		"基线": "baseline",
 		"邊框": "border",
 		"边框": "border",
 		"border": "border",
@@ -990,16 +992,14 @@
 		"垂直置頂": "top",
 		"top": "top",
 		"顶部": "top",
-		"$1像素": "width",
-		"$1px": "width",
-		"baseline": "baseline",
-		"基线": "baseline",
 		"upright": "upright",
 		"upright=$1": "upright",
 		"upright $1": "upright",
 		"右上": "upright",
 		"右上=$1": "upright",
-		"右上$1": "upright"
+		"右上$1": "upright",
+		"$1像素": "width",
+		"$1px": "width"
 	},
 	"redirection": [
 		"#重新導向",
@@ -1007,5 +1007,6 @@
 		"#redirect"
 	],
 	"variants": [],
-	"articlePath": "/wiki/$1"
+	"articlePath": "/wiki/$1",
+	"server": "//cdo.wikipedia.org"
 }

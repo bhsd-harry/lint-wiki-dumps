@@ -124,12 +124,10 @@ if (cluster.isPrimary) {
 		};
 
 		console.time(`parse ${file}`);
-		const stream = getXmlStream(file);
-		stream.on('endElement: page', ({title, ns, id, revision: {model, timestamp, text: {$text}}}) => {
-			if (isArticle($text, ns, model)) {
-				const pageid = Number(id);
-				if (start === undefined || end === undefined || pageid < start || pageid > end) {
-					const cur = pageid <= max && ranges.findIndex(([a, b]) => a <= pageid && b >= pageid);
+		const stream = getXmlStream(file, stop, ({title, ns, id, revision: {model, timestamp, text}}) => {
+			if (isArticle(text, ns, model)) {
+				if (start === undefined || end === undefined || id < start || id > end) {
+					const cur = id <= max && ranges.findIndex(([a, b]) => a <= id && b >= id);
 					if (cur === false || cur === -1) {
 						start = undefined;
 						end = undefined;
@@ -140,9 +138,8 @@ if (cluster.isPrimary) {
 						last = getDate(data);
 					}
 				}
-				lint($text, ns, title, new Date(timestamp));
+				lint(text, ns, title, timestamp);
 			}
 		});
-		stream.on('end', stop);
 	});
 }

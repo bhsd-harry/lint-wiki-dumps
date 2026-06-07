@@ -10,15 +10,17 @@ export const parse = (
 	last?: Date,
 ): void => {
 	console.time('parse');
-	const stream = getXmlStream(replaceTilde(file));
-	stream.on('endElement: page', ({title, ns, revision: {model, timestamp, text: {$text}}}) => {
-		if (isArticle($text, ns, model)) {
-			stream.pause();
-			processor.lint($text, ns, title, new Date(timestamp), last, data);
-			stream.resume();
-		}
-	});
-	stream.on('end', () => {
-		processor.stop('parse');
-	});
+	const stream = getXmlStream(
+		replaceTilde(file),
+		() => {
+			processor.stop('parse');
+		},
+		({title, ns, revision: {model, timestamp, text}}) => {
+			if (isArticle(text, ns, model)) {
+				stream.pause();
+				processor.lint(text, ns, title, timestamp, last, data);
+				stream.resume();
+			}
+		},
+	);
 };

@@ -676,9 +676,11 @@
 			"EXPECTED_UNCONNECTED_PAGE": "EXPECTEDUNCONNECTEDPAGE"
 		}
 	],
-	"protocol": "bitcoin:|ftp://|ftps://|geo:|git://|gopher://|http://|https://|irc://|ircs://|magnet:|mailto:|matrix:|mms://|news:|nntp://|redis://|sftp://|sip:|sips:|sms:|ssh://|svn://|tel:|telnet://|urn:|wikipedia://|worldwind://|xmpp:",
+	"protocol": "bitcoin:|ftp://|ftps://|geo:|git://|gopher://|http://|https://|irc://|ircs://|magnet:|mailto:|matrix:|mms://|news:|nntp://|redis://|sftp://|sip:|sips:|sms:|ssh://|svn://|tel:|telnet://|urn:|wikipedia://|worldwind://|xmpp:|commonsfinder://",
 	"interwiki": [],
 	"img": {
+		"alt=$1": "alt",
+		"baseline": "baseline",
 		"bordo": "border",
 		"border": "border",
 		"sotto": "bottom",
@@ -686,6 +688,7 @@
 		"centro": "center",
 		"center": "center",
 		"centre": "center",
+		"class=$1": "class",
 		"riquadrato": "framed",
 		"originale": "framed",
 		"incorniciato": "framed",
@@ -694,8 +697,10 @@
 		"enframed": "framed",
 		"senza_cornice": "frameless",
 		"frameless": "frameless",
+		"lang=$1": "lang",
 		"sinistra": "left",
 		"left": "left",
+		"link=$1": "link",
 		"miniatura=$1": "manualthumb",
 		"min=$1": "manualthumb",
 		"thumbnail=$1": "manualthumb",
@@ -712,6 +717,8 @@
 		"right": "right",
 		"pedice": "sub",
 		"sub": "sub",
+		"super": "super",
+		"sup": "super",
 		"testo-sotto": "text-bottom",
 		"text-bottom": "text-bottom",
 		"testo-sopra": "text-top",
@@ -728,13 +735,6 @@
 		"upright": "upright",
 		"upright=$1": "upright",
 		"upright $1": "upright",
-		"alt=$1": "alt",
-		"baseline": "baseline",
-		"class=$1": "class",
-		"lang=$1": "lang",
-		"link=$1": "link",
-		"super": "super",
-		"sup": "super",
 		"$1px": "width"
 	},
 	"redirection": [
@@ -744,5 +744,6 @@
 		"#redirect"
 	],
 	"variants": [],
-	"articlePath": "/wiki/$1"
+	"articlePath": "/wiki/$1",
+	"server": "//it.wikipedia.org"
 }

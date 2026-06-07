@@ -20,6 +20,7 @@
 		"section",
 		"score",
 		"templatestyles",
+		"article-guidance",
 		"templatedata",
 		"math",
 		"ce",
@@ -765,9 +766,10 @@
 			"EXPECTED_UNCONNECTED_PAGE": "EXPECTEDUNCONNECTEDPAGE"
 		}
 	],
-	"protocol": "bitcoin:|ftp://|ftps://|geo:|git://|gopher://|http://|https://|irc://|ircs://|magnet:|mailto:|matrix:|mms://|news:|nntp://|redis://|sftp://|sip:|sips:|sms:|ssh://|svn://|tel:|telnet://|urn:|wikipedia://|worldwind://|xmpp:",
+	"protocol": "bitcoin:|ftp://|ftps://|geo:|git://|gopher://|http://|https://|irc://|ircs://|magnet:|mailto:|matrix:|mms://|news:|nntp://|redis://|sftp://|sip:|sips:|sms:|ssh://|svn://|tel:|telnet://|urn:|wikipedia://|worldwind://|xmpp:|commonsfinder://",
 	"interwiki": [],
 	"img": {
+		"alt=$1": "alt",
 		"base": "baseline",
 		"ligne-de-base": "baseline",
 		"baseline": "baseline",
@@ -804,6 +806,8 @@
 		"néant": "none",
 		"neant": "none",
 		"none": "none",
+		"page=$1": "page",
+		"page $1": "page",
 		"droite": "right",
 		"right": "right",
 		"indice": "sub",
@@ -830,9 +834,6 @@
 		"upright": "upright",
 		"upright=$1": "upright",
 		"upright $1": "upright",
-		"alt=$1": "alt",
-		"page=$1": "page",
-		"page $1": "page",
 		"$1px": "width"
 	},
 	"redirection": [
@@ -840,5 +841,6 @@
 		"#redirect"
 	],
 	"variants": [],
-	"articlePath": "/wiki/$1"
+	"articlePath": "/wiki/$1",
+	"server": "//fr.wikipedia.org"
 }
