@@ -1,8 +1,7 @@
-import fs from 'fs';
-import bz2 from 'unbzip2-stream';
+import {spawn} from 'child_process';
 import {WritableStream as ParserStream} from 'htmlparser2/WritableStream';
 import {green, red} from '@bhsd/nodejs';
-import type {Transform} from 'stream';
+import type {Readable} from 'stream';
 
 declare interface Page {
 	title: string;
@@ -15,13 +14,15 @@ declare interface Page {
 	};
 }
 
-export const getXmlStream = (file: string, onend: () => void, processPage: (page: Page) => void): Transform => {
+export const getXmlStream = (file: string, onend: () => void, processPage: (page: Page) => void): Readable => {
 	console.log(green(`Unzipping and reading ${file}`));
 	let cur: string,
 		page: Page | undefined;
 	const stack: string[] = [],
-		readable = fs.createReadStream(file),
-		decompressor = bz2(),
+		bz2 = spawn('bzip2', ['-cd', file], {
+			stdio: ['ignore', 'pipe', 'pipe'],
+		}),
+		decompressor = bz2.stdout,
 		stream = new ParserStream({
 			onend,
 			onopentag(name): void {
@@ -65,18 +66,26 @@ export const getXmlStream = (file: string, onend: () => void, processPage: (page
 				}
 			},
 		}, {xmlMode: true});
+	const cleanup = (): void => {
+		try {
+			decompressor.unpipe(stream);
+			bz2.kill();
+		} catch {}
+	};
+	bz2.stderr.on('data', (chunk: Buffer) => {
+		console.warn(red(`Warning unzipping ${file}: ${chunk.toString('utf8').trim()}`));
+	});
 	decompressor.on('error', e => {
 		console.error(red(`Error unzipping ${file}`));
-		readable.destroy();
+		cleanup();
 		stream.destroy();
 		throw e;
 	});
 	stream.on('error', e => {
 		console.error(red(`Error parsing XML from ${file}`));
-		readable.destroy();
-		decompressor.destroy();
+		cleanup();
 		throw e;
 	});
-	readable.pipe(decompressor).pipe(stream);
+	decompressor.pipe(stream);
 	return decompressor;
 };
