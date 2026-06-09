@@ -4,11 +4,7 @@ import type {Processor} from './processor';
 
 const file = process.argv[3]!;
 
-export const parse = (
-	processor: Processor,
-	data: string,
-	last?: Date,
-): void => {
+export const parse = (processor: Processor, data: string, last?: Date): void => {
 	console.time('parse');
 	const stream = getXmlStream(
 		replaceTilde(file),
@@ -18,7 +14,7 @@ export const parse = (
 		({title, ns, revision: {model, timestamp, text}}) => {
 			if (isArticle(text, ns, model)) {
 				stream.pause();
-				processor.lint(text, ns, title, timestamp, last, data);
+				processor.lint(text, title, timestamp, last, data);
 				stream.resume();
 			}
 		},

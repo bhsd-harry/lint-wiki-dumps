@@ -44,13 +44,12 @@ export class Processor extends ProcessorBase {
 	/**
 	 * Parse a page and lint it.
 	 * @param $text page text
-	 * @param ns page namespace
 	 * @param title page title
 	 * @param date page revision date
 	 * @param last last revision date
 	 * @param data previous results
 	 */
-	lint($text: string, ns: string, title: string, date: Date, last: Date | undefined, data: string): void {
+	lint($text: string, title: string, date: Date, last: Date | undefined, data: string): void {
 		this.lintStart(title, date);
 		if (last && date <= last) {
 			const previous = getErrors(data, title);
@@ -61,6 +60,6 @@ export class Processor extends ProcessorBase {
 				return;
 			}
 		}
-		this.doLint($text, ns, title);
+		this.doLint($text, title);
 	}
 }

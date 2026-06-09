@@ -57,13 +57,12 @@ export abstract class ProcessorBase {
 	/**
 	 * Parse a page and lint it.
 	 * @param $text page text
-	 * @param ns page namespace
 	 * @param title page title
 	 * @throws `RangeError` maximum heap size exceeded
 	 */
-	doLint($text: string, ns: string, title: string): void {
+	doLint($text: string, title: string): void {
 		try {
-			const errors = lint($text, title, ns);
+			const errors = lint($text, title);
 			this.parsed++;
 			if (errors.length > 0) {
 				this.newEntry(title, errors);
