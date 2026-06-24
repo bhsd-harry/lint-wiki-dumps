@@ -60,17 +60,16 @@
 		}
 	},
 	"dependencies": {
-		"@bhsd/nodejs": "^1.0.1",
-		"wikilint": "^2.44.0"
+		"@bhsd/nodejs": "^1.2.1",
+		"wikilint": "^2.46.1"
 	},
 	"devDependencies": {
-		"@bhsd/code-standard": "^3.0.0",
+		"@bhsd/code-standard": "^3.1.0",
 		"esbuild": "^0.28.1",
-		"eslint": "^10.5.0",
+		"eslint": "^10.7.0",
 		"htmlparser2": "^12.0.0",
 		"mariadb": "^3.5.3",
-		"markdownlint-cli2": "^0.22.1",
-		"stylelint": "^17.13.0",
+		"stylelint": "^17.14.0",
 		"typescript": "^6.0.3",
 		"vscode-css-languageservice": "^6.3.10"
 	},
