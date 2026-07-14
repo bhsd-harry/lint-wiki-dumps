@@ -27,13 +27,14 @@ if (cluster.isPrimary) {
 	init(resultDir);
 	const tempFiles: string[] = [];
 	for (const file of fs.readdirSync(resultDir)) {
-		if (file.startsWith(`${target}-p`) && file.endsWith('.json')) {
-			const oldName = path.join(resultDir, file),
-				newName = path.join(resultDir, `temp${file.slice(target.length)}`);
-			reading(oldName);
-			tempFiles.push(newName);
-			fs.renameSync(oldName, newName);
+		if (!file.startsWith(`${target}-p`) || !file.endsWith('.json')) {
+			continue;
 		}
+		const oldName = path.join(resultDir, file),
+			newName = path.join(resultDir, `temp${file.slice(target.length)}`);
+		reading(oldName);
+		tempFiles.push(newName);
+		fs.renameSync(oldName, newName);
 	}
 	const dumpDir = replaceTilde(dir!),
 		pattern = new RegExp(String.raw`^${target}wiki-latest-pages-articles\d.+\.bz2$`, 'u'),

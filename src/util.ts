@@ -56,7 +56,7 @@ export const getErrors = (data: string, page: string): string | undefined => {
 export const isArticle = ($text: string, ns: string, model: string): boolean =>
 	ns === '0' && model === 'wikitext' && Boolean($text);
 
-export const replaceTilde = (str: string): string => str.replace(/^~/u, os.homedir());
+export const replaceTilde = (str: string): string => str.replace(/^~/u, () => os.homedir());
 
 export const reading = (file: string): void => {
 	console.log(green(`Reading ${file}`));

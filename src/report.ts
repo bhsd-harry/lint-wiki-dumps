@@ -25,7 +25,7 @@ const each = (page: string, errors: LintError[]): void => {
 		info.push([rule, line, col, message, excerpt]);
 
 		// wiki
-		if (!(rule in wiki)) {
+		if (!Object.hasOwn(wiki, rule)) {
 			wiki[rule] = 0;
 		}
 

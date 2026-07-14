@@ -27,4 +27,10 @@ export default extend(
 			],
 		},
 	},
+	{
+		files: ['src/*.ts'],
+		rules: {
+			'unicorn/no-top-level-side-effects': 0,
+		},
+	},
 );

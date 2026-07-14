@@ -31,7 +31,7 @@ declare const data: [string, number, number, string, string][] & {timestamp?: st
 			if (response.ok) {
 				const {timestamp} = await response.json();
 				search.set('timestamp', timestamp as string);
-				location.href = `./article.html?${search}`;
+				location.assign(`./article.html?${search}`);
 			} else {
 				purge.style.pointerEvents = '';
 			}
