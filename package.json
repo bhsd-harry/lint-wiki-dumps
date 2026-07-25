@@ -61,12 +61,12 @@
 	},
 	"dependencies": {
 		"@bhsd/nodejs": "^1.2.1",
-		"wikilint": "^2.46.1"
+		"wikilint": "^2.46.2"
 	},
 	"devDependencies": {
-		"@bhsd/code-standard": "^3.3.0",
+		"@bhsd/code-standard": "^4.0.0",
 		"esbuild": "^0.28.1",
-		"eslint": "^10.7.0",
+		"eslint": "^10.8.0",
 		"htmlparser2": "^12.0.0",
 		"mariadb": "^3.5.3",
 		"stylelint": "^17.14.1",
