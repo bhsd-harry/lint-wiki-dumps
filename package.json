@@ -64,7 +64,7 @@
 		"wikilint": "^2.46.1"
 	},
 	"devDependencies": {
-		"@bhsd/code-standard": "^3.3.0",
+		"@bhsd/code-standard": "^4.0.0",
 		"esbuild": "^0.28.1",
 		"eslint": "^10.7.0",
 		"htmlparser2": "^12.0.0",
