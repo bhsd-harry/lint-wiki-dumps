@@ -4,11 +4,15 @@
 [![CodeQL](https://github.com/bhsd-harry/lint-wiki-dumps/actions/workflows/codeql.yml/badge.svg)](https://github.com/bhsd-harry/lint-wiki-dumps/actions/workflows/codeql.yml)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/12aacc9d0f3e4629ae96114f7c40cf31)](https://app.codacy.com/gh/bhsd-harry/lint-wiki-dumps/dashboard)
 
-This is a tool for linting Wikitext articles from Wikipedia with the help of [WikiLint](https://www.npmjs.com/package/wikilint). It will download the latest dump of a specified Wikipedia language edition and then lint the articles in the dump.
+This is a tool for linting Wikitext articles from Wikipedia with the help of
+[WikiLint](https://www.npmjs.com/package/wikilint). It will download the latest
+dump of a specified Wikipedia language edition and then lint the articles in the
+dump.
 
 ## Installation
 
-To run this tool, you need to have [curl](https://curl.se/) installed on your system. You can install this tool via npm:
+To run this tool, you need to have [curl](https://curl.se/) installed on your
+system. You can install this tool via npm:
 
 ```sh
 npm i lint-wiki-dumps
@@ -16,7 +20,8 @@ npm i lint-wiki-dumps
 
 ### Optional Dependencies
 
-You can also install [vscode-css-languageservice](https://www.npmjs.com/package/vscode-css-languageservice) to lint inline CSS in Wikitext:
+You can also install [vscode-css-languageservice](https://www.npmjs.com/package/vscode-css-languageservice)
+to lint inline CSS in Wikitext:
 
 ```sh
 npm i vscode-css-languageservice
@@ -40,4 +45,6 @@ bash scan.sh zh-yue ~/Downloads/dumps
 
 ## Report
 
-The tool will generate reports in two formats: JSON and HTML. The JSON report will be saved in the `results` folder or the specified path, while the HTML report will be available at `reports/index.html` or the specified path.
+The tool will generate reports in two formats: JSON and HTML. The JSON report
+will be saved in the `results` folder or the specified path, while the HTML
+report will be available at `reports/index.html` or the specified path.
