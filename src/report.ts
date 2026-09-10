@@ -30,11 +30,12 @@ const each = (page: string, errors: LintError[]): void => {
 		}
 
 		// rule
-		if (!rules.has(rule)) {
-			rules.add(rule);
-			wiki[rule]!++;
-			updateRuleRecords(rule, page, line, col, message, excerpt);
+		if (rules.has(rule)) {
+			continue;
 		}
+		rules.add(rule);
+		wiki[rule]!++;
+		updateRuleRecords(rule, page, line, col, message, excerpt);
 	}
 	writeArticle(info, page, latest!);
 };

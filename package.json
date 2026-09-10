@@ -37,10 +37,11 @@
 		"prepublishOnly": "npm run build",
 		"bundle": "esbuild reports/src/*.ts --charset=utf8 --bundle --format=esm --outdir=build && rm build/common.js",
 		"build": "tsc && mv dist/* . && npm run bundle && esbuild reports/src/*.ts --charset=utf8 --bundle --minify --target=es2019 --format=iife --sourcemap --outdir=reports/dist && rm reports/dist/common.js*",
-		"lint:ts": "tsc --noEmit && tsc --project reports/tsconfig.json --noEmit && eslint --cache .",
+		"lint:ts": "tsc --noEmit && tsc -p reports/tsconfig.json --noEmit && eslint --cache .",
 		"lint:css": "stylelint --cache reports/*.css",
 		"lint:md": "markdownlint-cli2 '**/*.md'",
 		"lint": "npm run lint:ts && npm run lint:css && npm run lint:md",
+		"test": "echo 'This package has no tests.'",
 		"toolforge": "bash scan-toolforge.sh"
 	},
 	"peerDependencies": {
@@ -58,15 +59,15 @@
 	},
 	"dependencies": {
 		"@bhsd/nodejs": "^1.2.1",
-		"wikilint": "^2.46.4"
+		"wikilint": "^2.48.0"
 	},
 	"devDependencies": {
-		"@bhsd/code-standard": "^4.2.0",
+		"@bhsd/code-standard": "^4.3.0",
 		"esbuild": "^0.28.2",
-		"eslint": "^10.10.0",
+		"eslint": "^10.12.0",
 		"htmlparser2": "^12.0.0",
 		"mariadb": "^3.5.4",
-		"stylelint": "^17.15.0",
+		"stylelint": "^17.16.0",
 		"typescript": "^6.0.3",
 		"vscode-css-languageservice": "^6.3.10"
 	},
